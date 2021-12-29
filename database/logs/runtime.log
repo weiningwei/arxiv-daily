@@ -433,3 +433,9 @@ expected <block end>, but found '<block mapping start>'
 2021-12-29 15:04:52.267 | SUCCESS  | __main__:parse:182 - handle [4/6] | topic=`Robotics` subtopic=`SFM`
 2021-12-29 15:04:52.701 | SUCCESS  | __main__:parse:182 - handle [5/6] | topic=`Robotics` subtopic=`SLAM`
 2021-12-29 15:04:52.795 | SUCCESS  | __main__:parse:182 - handle [6/6] | topic=`Robotics` subtopic=`VO`
+2021-12-29 18:57:32.002 | SUCCESS  | __main__:parse:182 - handle [1/6] | topic=`Robotics` subtopic=`SLAM`
+2021-12-29 18:57:32.104 | SUCCESS  | __main__:parse:182 - handle [2/6] | topic=`Robotics` subtopic=`VO`
+2021-12-29 18:57:32.216 | SUCCESS  | __main__:parse:182 - handle [3/6] | topic=`Robotics` subtopic=`SFM`
+2021-12-29 18:57:32.281 | SUCCESS  | __main__:parse:182 - handle [4/6] | topic=`Robotics` subtopic=`Visual Localization`
+2021-12-29 18:57:32.284 | SUCCESS  | __main__:parse:182 - handle [5/6] | topic=`Robotics` subtopic=`Robotics`
+2021-12-29 18:57:32.318 | SUCCESS  | __main__:parse:182 - handle [6/6] | topic=`Robotics` subtopic=`VIO`
