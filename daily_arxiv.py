@@ -274,7 +274,7 @@ if __name__ == "__main__":
             print(subtopic)
             try:
                 data = get_daily_papers(
-                    subtopic, query=keyword, max_results=20)
+                    subtopic, query=keyword, max_results=10)
             except:
                 print(f'CANNOT get {subtopic} data from arxiv')
                 data = None
