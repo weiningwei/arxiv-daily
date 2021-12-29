@@ -14,3 +14,7 @@
 2021-12-29 12:47:29.178 | SUCCESS  | __main__:parse:182 - handle [2/4] | topic=`Robotics` subtopic=`SFM`
 2021-12-29 12:47:29.214 | SUCCESS  | __main__:parse:182 - handle [3/4] | topic=`Robotics` subtopic=`Robotics`
 2021-12-29 12:47:29.266 | SUCCESS  | __main__:parse:182 - handle [4/4] | topic=`Robotics` subtopic=`SLAM`
+2021-12-29 12:50:53.192 | SUCCESS  | __main__:parse:182 - handle [1/4] | topic=`Robotics` subtopic=`SLAM`
+2021-12-29 12:50:53.565 | SUCCESS  | __main__:parse:182 - handle [2/4] | topic=`Robotics` subtopic=`SFM`
+2021-12-29 12:50:53.771 | SUCCESS  | __main__:parse:182 - handle [3/4] | topic=`Robotics` subtopic=`Visual Localization`
+2021-12-29 12:50:54.101 | SUCCESS  | __main__:parse:182 - handle [4/4] | topic=`Robotics` subtopic=`Robotics`
