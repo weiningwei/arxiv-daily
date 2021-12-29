@@ -427,3 +427,9 @@ yaml.parser.ParserError: while parsing a block mapping
   in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 1, column 1
 expected <block end>, but found '<block mapping start>'
   in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 5, column 3
+2021-12-29 15:04:51.936 | SUCCESS  | __main__:parse:182 - handle [1/6] | topic=`Robotics` subtopic=`Visual Localization`
+2021-12-29 15:04:52.220 | SUCCESS  | __main__:parse:182 - handle [2/6] | topic=`Robotics` subtopic=`Robotics`
+2021-12-29 15:04:52.246 | SUCCESS  | __main__:parse:182 - handle [3/6] | topic=`Robotics` subtopic=`VIO`
+2021-12-29 15:04:52.267 | SUCCESS  | __main__:parse:182 - handle [4/6] | topic=`Robotics` subtopic=`SFM`
+2021-12-29 15:04:52.701 | SUCCESS  | __main__:parse:182 - handle [5/6] | topic=`Robotics` subtopic=`SLAM`
+2021-12-29 15:04:52.795 | SUCCESS  | __main__:parse:182 - handle [6/6] | topic=`Robotics` subtopic=`VO`
