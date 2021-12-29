@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2021-12-29 12:50:54 Asia/Shanghai
+ Automated deployment @ 2021-12-29 12:52:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### SLAM
+### Robotics
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-12-27**|**Trajectory Planning for Hybrid Unmanned Aerial Underwater Vehicles with Smooth Media Transition**|Pedro Miranda Pinheiro et.al.|[2112.13819v1](http://arxiv.org/abs/2112.13819v1)|null|
+|**2021-12-27**|**AU Dataset for Visuo-Haptic Object Recognition for Robots**|Lasse Emil R. Bonner et.al.|[2112.13761v1](http://arxiv.org/abs/2112.13761v1)|null|
+|**2021-12-27**|**Bridging the Gap: Using Deep Acoustic Representations to Learn Grounded Language from Percepts and Raw Speech**|Gaoussou Youssouf Kebe et.al.|[2112.13758v1](http://arxiv.org/abs/2112.13758v1)|null|
+|**2021-12-27**|**Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles**|Ricardo Bedin Grando et.al.|[2112.13724v1](http://arxiv.org/abs/2112.13724v1)|null|
+|**2021-12-27**|**Geometric mechanics of random kirigami**|Gaurav Chaudhary et.al.|[2112.13699v1](http://arxiv.org/abs/2112.13699v1)|null|
+|**2021-12-27**|**A Review on Controllability of Multi-Agent Systems using Switched Network**|Javeria Noor et.al.|[2112.13675v1](http://arxiv.org/abs/2112.13675v1)|null|
+|**2021-12-27**|**Survey on Stabilization of Nonlinear Systems via state/output feedback control**|Demelash Abiye Deguale et.al.|[2112.13588v1](http://arxiv.org/abs/2112.13588v1)|null|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|null|
+|**2021-12-27**|**Design, Manufacturing, and Controls of a Prismatic Quadruped Robot: PRISMA**|Team Robocon et.al.|[2112.13511v1](http://arxiv.org/abs/2112.13511v1)|null|
+|**2021-12-26**|**Reinforcement Learning with Dynamic Convex Risk Measures**|Anthony Coache et.al.|[2112.13414v1](http://arxiv.org/abs/2112.13414v1)|null|
+|**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
+|**2021-12-25**|**Learning Linear Complementarity Systems**|Wanxin Jin et.al.|[2112.13284v1](http://arxiv.org/abs/2112.13284v1)|null|
+|**2021-12-25**|**Fitting nonlinear models to continuous oxygen data with oscillatory signal variations via a loss based on DynamicTime Warping**|Judit Aizpuru et.al.|[2112.13283v1](http://arxiv.org/abs/2112.13283v1)|null|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
+|**2021-12-25**|**GPU Accelerated Voxel Grid Generation for Fast MAV Exploration**|Charbel Toumieh et.al.|[2112.13169v1](http://arxiv.org/abs/2112.13169v1)|null|
+|**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles underNon-Parametric Uncertainty: A Hilbert Space Approach**|Anish Gupta et.al.|[2112.13034v1](http://arxiv.org/abs/2112.13034v1)|null|
+|**2021-12-24**|**Grounding Linguistic Commands to Navigable Regions**|Nivedita Rufus et.al.|[2112.13031v1](http://arxiv.org/abs/2112.13031v1)|null|
+|**2021-12-24**|**Total Energy Shaping with Neural Interconnection and Damping Assignment -- Passivity Based Control**|Santiago Sanchez-Escalonilla et.al.|[2112.12999v1](http://arxiv.org/abs/2112.12999v1)|null|
+|**2021-12-24**|**Doppler velocity-based algorithm for Clustering and Velocity Estimation of moving objects**|Mian Guo et.al.|[2112.12984v1](http://arxiv.org/abs/2112.12984v1)|null|
+|**2021-12-24**|**Realtime Global Attention Network for Semantic Segmentation**|Xi Mo et.al.|[2112.12939v1](http://arxiv.org/abs/2112.12939v1)|[link](https://github.com/dunknowcoding/RGANet)|
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
-|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
-|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
-|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
-|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|[link](https://github.com/zhanxinrui/hdn)|
-|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
-|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
-|**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
-|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
-|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
-|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
-|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
-|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
-|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
-|**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann et.al.|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
-|**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro et.al.|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
-|**2021-11-24**|**Autonomous bot with ML-based reactive navigation for indoor environment**|Yash Srivastava et.al.|[2111.12542v1](http://arxiv.org/abs/2111.12542v1)|null|
-|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao et.al.|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|[link](https://github.com/sanduan168/lifelong-slam-dataset)|
-|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
-|**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii et.al.|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
-|**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
-|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
-|**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
-|**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
-|**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin et.al.|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|[link](https://github.com/nyu-wireless/mmwRobotNav)|
+|**2021-12-24**|**Rediscovering Affordance: A Reinforcement Learning Perspective**|Yi-Chi Liao et.al.|[2112.12886v1](http://arxiv.org/abs/2112.12886v1)|null|
+|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
+|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
+|**2021-12-23**|**The Understanding of Intertwined Physics: Discovering Capillary Pressure and Permeability Co-Determination**|Omar Alfarisi et.al.|[2112.12784v1](http://arxiv.org/abs/2112.12784v1)|null|
+|**2021-12-23**|**Learning Cooperative Multi-Agent Policies with Partial Reward Decoupling**|Benjamin Freed et.al.|[2112.12740v1](http://arxiv.org/abs/2112.12740v1)|null|
+|**2021-12-23**|**Bayesian Learning: A Selective Overview**|Yu Lin Hsu et.al.|[2112.12722v1](http://arxiv.org/abs/2112.12722v1)|null|
+|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
+|**2021-12-23**|**Curriculum Learning for Safe Mapless Navigation**|Luca Marzari et.al.|[2112.12490v1](http://arxiv.org/abs/2112.12490v1)|[link](https://github.com/lm095/curriculum-learning-for-safe-mapless-navigation)|
 
 ### SFM
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,36 +107,36 @@
 |**2021-12-20**|**Raw High-Definition Radar for Multi-Task Learning**|Julien Rebut et.al.|[2112.10646v1](http://arxiv.org/abs/2112.10646v1)|[link](https://github.com/valeoai/radial)|
 |**2021-12-20**|**Real-Time Optical Flow for Vehicular Perception with Low- and High-Resolution Event Cameras**|Vincent Brebion et.al.|[2112.10591v1](http://arxiv.org/abs/2112.10591v1)|null|
 
-### Robotics
+### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-12-27**|**Trajectory Planning for Hybrid Unmanned Aerial Underwater Vehicles with Smooth Media Transition**|Pedro Miranda Pinheiro et.al.|[2112.13819v1](http://arxiv.org/abs/2112.13819v1)|null|
-|**2021-12-27**|**AU Dataset for Visuo-Haptic Object Recognition for Robots**|Lasse Emil R. Bonner et.al.|[2112.13761v1](http://arxiv.org/abs/2112.13761v1)|null|
-|**2021-12-27**|**Bridging the Gap: Using Deep Acoustic Representations to Learn Grounded Language from Percepts and Raw Speech**|Gaoussou Youssouf Kebe et.al.|[2112.13758v1](http://arxiv.org/abs/2112.13758v1)|null|
-|**2021-12-27**|**Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles**|Ricardo Bedin Grando et.al.|[2112.13724v1](http://arxiv.org/abs/2112.13724v1)|null|
-|**2021-12-27**|**Geometric mechanics of random kirigami**|Gaurav Chaudhary et.al.|[2112.13699v1](http://arxiv.org/abs/2112.13699v1)|null|
-|**2021-12-27**|**A Review on Controllability of Multi-Agent Systems using Switched Network**|Javeria Noor et.al.|[2112.13675v1](http://arxiv.org/abs/2112.13675v1)|null|
-|**2021-12-27**|**Survey on Stabilization of Nonlinear Systems via state/output feedback control**|Demelash Abiye Deguale et.al.|[2112.13588v1](http://arxiv.org/abs/2112.13588v1)|null|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|null|
-|**2021-12-27**|**Design, Manufacturing, and Controls of a Prismatic Quadruped Robot: PRISMA**|Team Robocon et.al.|[2112.13511v1](http://arxiv.org/abs/2112.13511v1)|null|
-|**2021-12-26**|**Reinforcement Learning with Dynamic Convex Risk Measures**|Anthony Coache et.al.|[2112.13414v1](http://arxiv.org/abs/2112.13414v1)|null|
-|**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
-|**2021-12-25**|**Learning Linear Complementarity Systems**|Wanxin Jin et.al.|[2112.13284v1](http://arxiv.org/abs/2112.13284v1)|null|
-|**2021-12-25**|**Fitting nonlinear models to continuous oxygen data with oscillatory signal variations via a loss based on DynamicTime Warping**|Judit Aizpuru et.al.|[2112.13283v1](http://arxiv.org/abs/2112.13283v1)|null|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
-|**2021-12-25**|**GPU Accelerated Voxel Grid Generation for Fast MAV Exploration**|Charbel Toumieh et.al.|[2112.13169v1](http://arxiv.org/abs/2112.13169v1)|null|
-|**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles underNon-Parametric Uncertainty: A Hilbert Space Approach**|Anish Gupta et.al.|[2112.13034v1](http://arxiv.org/abs/2112.13034v1)|null|
-|**2021-12-24**|**Grounding Linguistic Commands to Navigable Regions**|Nivedita Rufus et.al.|[2112.13031v1](http://arxiv.org/abs/2112.13031v1)|null|
-|**2021-12-24**|**Total Energy Shaping with Neural Interconnection and Damping Assignment -- Passivity Based Control**|Santiago Sanchez-Escalonilla et.al.|[2112.12999v1](http://arxiv.org/abs/2112.12999v1)|null|
-|**2021-12-24**|**Doppler velocity-based algorithm for Clustering and Velocity Estimation of moving objects**|Mian Guo et.al.|[2112.12984v1](http://arxiv.org/abs/2112.12984v1)|null|
-|**2021-12-24**|**Realtime Global Attention Network for Semantic Segmentation**|Xi Mo et.al.|[2112.12939v1](http://arxiv.org/abs/2112.12939v1)|[link](https://github.com/dunknowcoding/RGANet)|
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-24**|**Rediscovering Affordance: A Reinforcement Learning Perspective**|Yi-Chi Liao et.al.|[2112.12886v1](http://arxiv.org/abs/2112.12886v1)|null|
-|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
-|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
-|**2021-12-23**|**The Understanding of Intertwined Physics: Discovering Capillary Pressure and Permeability Co-Determination**|Omar Alfarisi et.al.|[2112.12784v1](http://arxiv.org/abs/2112.12784v1)|null|
-|**2021-12-23**|**Learning Cooperative Multi-Agent Policies with Partial Reward Decoupling**|Benjamin Freed et.al.|[2112.12740v1](http://arxiv.org/abs/2112.12740v1)|null|
-|**2021-12-23**|**Bayesian Learning: A Selective Overview**|Yu Lin Hsu et.al.|[2112.12722v1](http://arxiv.org/abs/2112.12722v1)|null|
-|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
-|**2021-12-23**|**Curriculum Learning for Safe Mapless Navigation**|Luca Marzari et.al.|[2112.12490v1](http://arxiv.org/abs/2112.12490v1)|[link](https://github.com/lm095/curriculum-learning-for-safe-mapless-navigation)|
+|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
+|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
+|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
+|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
+|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|[link](https://github.com/zhanxinrui/hdn)|
+|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
+|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
+|**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
+|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
+|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
+|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
+|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
+|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
+|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
+|**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann et.al.|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
+|**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro et.al.|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
+|**2021-11-24**|**Autonomous bot with ML-based reactive navigation for indoor environment**|Yash Srivastava et.al.|[2111.12542v1](http://arxiv.org/abs/2111.12542v1)|null|
+|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao et.al.|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|[link](https://github.com/sanduan168/lifelong-slam-dataset)|
+|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
+|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
+|**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii et.al.|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
+|**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
+|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
+|**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
+|**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
+|**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin et.al.|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|[link](https://github.com/nyu-wireless/mmwRobotNav)|
