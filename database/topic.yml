@@ -1,5 +1,7 @@
 "Robotics":
-  "Robotics": '"Robotics"'
-  "SLAM": '"SLAM"'
+   "SLAM": '"SLAM"'
+   "VIO": '"VIO"OR"Visual-Inertial Odometry"OR"Visual Inertial Odometry"'
+   "VO": '"VO"OR"Visual Odometry"'
   "SFM": '"SFM"OR"Structure from Motion"'
   "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+  "Robotics": '"Robotics"'
