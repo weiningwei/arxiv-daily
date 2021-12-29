@@ -47,7 +47,7 @@ def sort_papers(papers):
 def get_yaml_data(yaml_file: str):
     fs = open(yaml_file)
     data = yaml.load(fs, Loader=Loader)
-    print(data)
+    # print(data)
     return data
 
 
@@ -259,7 +259,9 @@ if __name__ == "__main__":
     yaml_path = os.path.join(".", "topic.yml")
     yaml_data = get_yaml_data(yaml_path)
     
+    print('yaml_path:')
     print(yaml_path)
+    print('yaml_data:')
     print(yaml_data)
 
     keywords = dict(yaml_data)
@@ -268,10 +270,11 @@ if __name__ == "__main__":
         for subtopic, keyword in dict(keywords[topic]).items():
 
             # topic = keyword.replace("\"","")
-            print("Keyword: " + subtopic)
+            # print("Keyword: " + subtopic)
+            print(subtopic)
             try:
                 data = get_daily_papers(
-                    subtopic, query=keyword, max_results=10)
+                    subtopic, query=keyword, max_results=20)
             except:
                 print(f'CANNOT get {subtopic} data from arxiv')
                 data = None
