@@ -265,3 +265,84 @@ yaml.parser.ParserError: while parsing a block mapping
   in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 1, column 1
 expected <block end>, but found '<block mapping start>'
   in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 5, column 3
+2021-12-29 14:50:13.292 | ERROR    | fire.core:_CallAndUpdateTrace:681 - An error has been caught in function '_CallAndUpdateTrace', process 'MainProcess' (1922), thread 'MainThread' (140662242650416):
+Traceback (most recent call last):
+
+  File "main.py", line 370, in <module>
+    Fire(Scaffold)
+    │    └ <class '__main__.Scaffold'>
+    └ <function Fire at 0x7fee7860fa60>
+
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      │     │          │     │                 │        └ 'main.py'
+                      │     │          │     │                 └ {}
+                      │     │          │     └ Namespace(completion=None, help=False, interactive=False, separator='-', trace=False, verbose=False)
+                      │     │          └ ['run', '--env=production', '--power=16']
+                      │     └ <class '__main__.Scaffold'>
+                      └ <function _Fire at 0x7fee781badc0>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+    │                           └ <function _CallAndUpdateTrace at 0x7fee781baee0>
+    └ <function Scaffold.run at 0x7fee780d1430>
+> File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                │   │          └ {}
+                │   └ ['production', 16]
+                └ <function Scaffold.run at 0x7fee780d1430>
+
+  File "main.py", line 348, in run
+    context = ToolBox.get_yaml_data()
+              │       └ <staticmethod object at 0x7fee79b46a90>
+              └ <class '__main__.ToolBox'>
+
+  File "main.py", line 49, in get_yaml_data
+    data = yaml.load(f, Loader=yaml.SafeLoader)
+           │    │    │         │    └ <class 'yaml.loader.SafeLoader'>
+           │    │    │         └ <module 'yaml' from '/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/__init__.py'>
+           │    │    └ <_io.TextIOWrapper name='/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml' mode='r' encoding='utf8'>
+           │    └ <function load at 0x7fee7860d5e0>
+           └ <module 'yaml' from '/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/__init__.py'>
+
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/__init__.py", line 81, in load
+    return loader.get_single_data()
+           │      └ <function BaseConstructor.get_single_data at 0x7fee78652ee0>
+           └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/constructor.py", line 49, in get_single_data
+    node = self.get_single_node()
+           │    └ <function Composer.get_single_node at 0x7fee786525e0>
+           └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/composer.py", line 36, in get_single_node
+    document = self.compose_document()
+               │    └ <function Composer.compose_document at 0x7fee78652670>
+               └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/composer.py", line 55, in compose_document
+    node = self.compose_node(None, None)
+           │    └ <function Composer.compose_node at 0x7fee78652700>
+           └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+           │    │                    └ None
+           │    └ <function Composer.compose_mapping_node at 0x7fee786528b0>
+           └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/composer.py", line 127, in compose_mapping_node
+    while not self.check_event(MappingEndEvent):
+              │    │           └ <class 'yaml.events.MappingEndEvent'>
+              │    └ <function Parser.check_event at 0x7fee78651160>
+              └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/parser.py", line 98, in check_event
+    self.current_event = self.state()
+    │    │               │    └ None
+    │    │               └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+    │    └ None
+    └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+  File "/opt/hostedtoolcache/Python/3.8.12/x64/lib/python3.8/site-packages/yaml/parser.py", line 438, in parse_block_mapping_key
+    raise ParserError("while parsing a block mapping", self.marks[-1],
+          │                                            │    └ [<yaml.error.Mark object at 0x7fee780cff10>]
+          │                                            └ <yaml.loader.SafeLoader object at 0x7fee780cfa90>
+          └ <class 'yaml.parser.ParserError'>
+
+yaml.parser.ParserError: while parsing a block mapping
+  in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 5, column 3
