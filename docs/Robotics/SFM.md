@@ -19,7 +19,7 @@
 |**2021-12-27**|**Intelligent Traffic Light via Policy-based Deep Reinforcement Learning**|Yue Zhu et.al.|[2112.13817v1](http://arxiv.org/abs/2112.13817v1)|null|
 |**2021-12-27**|**Generating functions for Higgs/Coulomb branch operators from 1d-3d cohomological equivalence**|Luigi Guerrini et.al.|[2112.13816v1](http://arxiv.org/abs/2112.13816v1)|null|
 |**2021-12-27**|**Infant Brain Age Classification: 2D CNN Outperforms 3D CNN in Small Dataset**|Mahdieh Shabanian et.al.|[2112.13811v1](http://arxiv.org/abs/2112.13811v1)|null|
-|**2021-12-27**|**Pedagogical Word Recommendation: A novel task and dataset on personalized vocabulary acquisition for L2 learners**|Jamin Shin et.al.|[2112.13808v1](http://arxiv.org/abs/2112.13808v1)|[link](https://github.com/jshin49/pwr)|
+|**2021-12-27**|**Pedagogical Word Recommendation: A novel task and dataset on personalized vocabulary acquisition for L2 learners**|Jamin Shin et.al.|[2112.13808v2](http://arxiv.org/abs/2112.13808v2)|[link](https://github.com/jshin49/pwr)|
 |**2021-12-27**|**Design, Dynamics, and Dissipation of a Torsional-Magnetic Spring Mechanism**|Ali Kanj et.al.|[2112.13806v1](http://arxiv.org/abs/2112.13806v1)|null|
 |**2021-12-27**|**Beta-Decay Spectrum and Lorentz Violation**|Ralf Lehnert et.al.|[2112.13803v1](http://arxiv.org/abs/2112.13803v1)|null|
 |**2021-12-27**|**Universal Trajectories of Motile Particles Driven by Chemical Activity**|C. Misbah et.al.|[2112.13801v1](http://arxiv.org/abs/2112.13801v1)|null|

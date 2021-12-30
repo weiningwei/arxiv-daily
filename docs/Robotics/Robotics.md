@@ -24,11 +24,11 @@
 |**2021-12-24**|**Doppler velocity-based algorithm for Clustering and Velocity Estimation of moving objects**|Mian Guo et.al.|[2112.12984v1](http://arxiv.org/abs/2112.12984v1)|null|
 |**2021-12-24**|**Realtime Global Attention Network for Semantic Segmentation**|Xi Mo et.al.|[2112.12939v1](http://arxiv.org/abs/2112.12939v1)|[link](https://github.com/dunknowcoding/RGANet)|
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-24**|**Rediscovering Affordance: A Reinforcement Learning Perspective**|Yi-Chi Liao et.al.|[2112.12886v1](http://arxiv.org/abs/2112.12886v1)|null|
+|**2021-12-24**|**Rediscovering Affordance: A Reinforcement Learning Perspective**|Yi-Chi Liao et.al.|[2112.12886v2](http://arxiv.org/abs/2112.12886v2)|null|
 |**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
 |**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
 |**2021-12-23**|**The Understanding of Intertwined Physics: Discovering Capillary Pressure and Permeability Co-Determination**|Omar Alfarisi et.al.|[2112.12784v1](http://arxiv.org/abs/2112.12784v1)|null|
 |**2021-12-23**|**Learning Cooperative Multi-Agent Policies with Partial Reward Decoupling**|Benjamin Freed et.al.|[2112.12740v1](http://arxiv.org/abs/2112.12740v1)|null|
 |**2021-12-23**|**Bayesian Learning: A Selective Overview**|Yu Lin Hsu et.al.|[2112.12722v1](http://arxiv.org/abs/2112.12722v1)|null|
 |**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
-|**2021-12-23**|**Curriculum Learning for Safe Mapless Navigation**|Luca Marzari et.al.|[2112.12490v1](http://arxiv.org/abs/2112.12490v1)|[link](https://github.com/lm095/curriculum-learning-for-safe-mapless-navigation)|
+|**2021-12-23**|**Curriculum Learning for Safe Mapless Navigation**|Luca Marzari et.al.|[2112.12490v2](http://arxiv.org/abs/2112.12490v2)|[link](https://github.com/lm095/curriculum-learning-for-safe-mapless-navigation)|
