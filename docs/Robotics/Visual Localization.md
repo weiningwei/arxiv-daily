@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|null|
+|**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
+|**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
+|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v1](http://arxiv.org/abs/2112.13889v1)|null|
 |**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
 |**2021-12-25**|**Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See'' More, Farther and Faster**|Zhongzheng Yuan et.al.|[2112.13194v1](http://arxiv.org/abs/2112.13194v1)|null|
 |**2021-12-24**|**SOFIA/FORCAST Monitoring of the Dust Emission from R Aqr: Start of the Eclipse**|Ravi Sankrit et.al.|[2112.13118v1](http://arxiv.org/abs/2112.13118v1)|null|
@@ -28,7 +32,3 @@
 |**2021-12-21**|**Online programming system for robotic fillet welding in Industry 4.0**|Ignacio Díaz-Cano et.al.|[2112.11061v1](http://arxiv.org/abs/2112.11061v1)|null|
 |**2021-12-21**|**What are Attackers after on IoT Devices? An approach based on a multi-phased multi-faceted IoT honeypot ecosystem and data clustering**|Armin Ziaie Tabari et.al.|[2112.10974v1](http://arxiv.org/abs/2112.10974v1)|null|
 |**2021-12-20**|**Spatiotemporal Motion Synchronization for Snowboard Big Air**|Seiji Matsumura et.al.|[2112.10909v1](http://arxiv.org/abs/2112.10909v1)|null|
-|**2021-12-20**|**Efficiently Imaging Accreting Protoplanets from Space: Reference Star Differential Imaging of the PDS 70 Planetary System using the HST/WFC3 Archival PSF Library**|Aniket Sanghi et.al.|[2112.10777v1](http://arxiv.org/abs/2112.10777v1)|null|
-|**2021-12-20**|**Design and Characterization of an Optically-Segmented Single Volume Scatter Camera Module**|Kevin Keefe et.al.|[2112.10704v1](http://arxiv.org/abs/2112.10704v1)|null|
-|**2021-12-20**|**Raw High-Definition Radar for Multi-Task Learning**|Julien Rebut et.al.|[2112.10646v1](http://arxiv.org/abs/2112.10646v1)|[link](https://github.com/valeoai/radial)|
-|**2021-12-20**|**Real-Time Optical Flow for Vehicular Perception with Low- and High-Resolution Event Cameras**|Vincent Brebion et.al.|[2112.10591v1](http://arxiv.org/abs/2112.10591v1)|null|

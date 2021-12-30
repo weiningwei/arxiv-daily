@@ -2,33 +2,33 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-12-27**|**Shock trace prediction by reduced models for a viscous stochastic Burgers equation**|Nan Chen et.al.|[2112.13840v1](http://arxiv.org/abs/2112.13840v1)|null|
-|**2021-12-27**|**The Simons Observatory: a new open-source power spectrum pipeline applied to the Planck legacy data**|Zack Li et.al.|[2112.13839v1](http://arxiv.org/abs/2112.13839v1)|null|
-|**2021-12-27**|**One Small Step for an Inflaton, One Giant Leap for Inflation: a novel non-Gaussian tail and primordial black holes**|Yi-Fu Cai et.al.|[2112.13836v1](http://arxiv.org/abs/2112.13836v1)|null|
-|**2021-12-27**|**Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies**|Paul Vicol et.al.|[2112.13835v1](http://arxiv.org/abs/2112.13835v1)|null|
-|**2021-12-27**|**What do Large Language Models Learn about Scripts?**|Abhilasha Sancheti et.al.|[2112.13834v1](http://arxiv.org/abs/2112.13834v1)|null|
-|**2021-12-27**|**HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation**|Serge Gladkoff et.al.|[2112.13833v1](http://arxiv.org/abs/2112.13833v1)|[link](https://github.com/lhan87/hope)|
-|**2021-12-27**|**Faster Algorithms and Constant Lower Bounds for the Worst-Case Expected Error**|Jonah Brown-Cohen et.al.|[2112.13832v1](http://arxiv.org/abs/2112.13832v1)|null|
-|**2021-12-27**|**Quantization of the Willmore Energy in Riemannian Manifolds**|Alexis Michelat et.al.|[2112.13831v1](http://arxiv.org/abs/2112.13831v1)|null|
-|**2021-12-27**|**Influence of device non-uniformities on the accuracy of Coulomb blockade thermometry**|Jukka P. Pekola et.al.|[2112.13830v1](http://arxiv.org/abs/2112.13830v1)|null|
-|**2021-12-27**|**Confinement On the Moose Lattice**|Benjamin Lillard et.al.|[2112.13828v1](http://arxiv.org/abs/2112.13828v1)|null|
-|**2021-12-27**|**Last-Iterate Convergence of Saddle Point Optimizers via High-Resolution Differential Equations**|Tatjana Chavdarova et.al.|[2112.13826v1](http://arxiv.org/abs/2112.13826v1)|null|
-|**2021-12-27**|**Implicit regularity and linear convergence rates for the generalized trust-region subproblem**|Alex L. Wang et.al.|[2112.13821v1](http://arxiv.org/abs/2112.13821v1)|null|
-|**2021-12-27**|**Trajectory Planning for Hybrid Unmanned Aerial Underwater Vehicles with Smooth Media Transition**|Pedro Miranda Pinheiro et.al.|[2112.13819v1](http://arxiv.org/abs/2112.13819v1)|null|
-|**2021-12-27**|**New Velocity Transformation Based onCompressibility-Corrected Total Stress**|Han Lee et.al.|[2112.13818v1](http://arxiv.org/abs/2112.13818v1)|null|
-|**2021-12-27**|**Intelligent Traffic Light via Policy-based Deep Reinforcement Learning**|Yue Zhu et.al.|[2112.13817v1](http://arxiv.org/abs/2112.13817v1)|null|
-|**2021-12-27**|**Generating functions for Higgs/Coulomb branch operators from 1d-3d cohomological equivalence**|Luigi Guerrini et.al.|[2112.13816v1](http://arxiv.org/abs/2112.13816v1)|null|
-|**2021-12-27**|**Infant Brain Age Classification: 2D CNN Outperforms 3D CNN in Small Dataset**|Mahdieh Shabanian et.al.|[2112.13811v1](http://arxiv.org/abs/2112.13811v1)|null|
-|**2021-12-27**|**Pedagogical Word Recommendation: A novel task and dataset on personalized vocabulary acquisition for L2 learners**|Jamin Shin et.al.|[2112.13808v2](http://arxiv.org/abs/2112.13808v2)|[link](https://github.com/jshin49/pwr)|
-|**2021-12-27**|**Design, Dynamics, and Dissipation of a Torsional-Magnetic Spring Mechanism**|Ali Kanj et.al.|[2112.13806v1](http://arxiv.org/abs/2112.13806v1)|null|
-|**2021-12-27**|**Beta-Decay Spectrum and Lorentz Violation**|Ralf Lehnert et.al.|[2112.13803v1](http://arxiv.org/abs/2112.13803v1)|null|
-|**2021-12-27**|**Universal Trajectories of Motile Particles Driven by Chemical Activity**|C. Misbah et.al.|[2112.13801v1](http://arxiv.org/abs/2112.13801v1)|null|
-|**2021-12-27**|**PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection**|Talha Ongun et.al.|[2112.13798v1](http://arxiv.org/abs/2112.13798v1)|null|
-|**2021-12-27**|**Investigating Steady Unconfined Groundwater Flow using Physics Informed Neural Networks**|Mohammad Afzal Shadab et.al.|[2112.13792v1](http://arxiv.org/abs/2112.13792v1)|null|
-|**2021-12-27**|**Amplification of optical Schrödinger cat states with implementation protocol based on frequency comb**|Hongbin Song et.al.|[2112.13791v1](http://arxiv.org/abs/2112.13791v1)|null|
-|**2021-12-27**|**Contextual Sentence Analysis for the Sentiment Prediction on Financial Data**|Elvys Linhares Pontes et.al.|[2112.13790v1](http://arxiv.org/abs/2112.13790v1)|null|
-|**2021-12-27**|**Quantum Speed Limits for Observable**|Brij Mohan et.al.|[2112.13789v1](http://arxiv.org/abs/2112.13789v1)|null|
-|**2021-12-27**|**Degree-of-Freedom of Modulating Information in the Phases of Reconfigurable Intelligent Surface**|Hei Victor Cheng et.al.|[2112.13787v1](http://arxiv.org/abs/2112.13787v1)|null|
-|**2021-12-27**|**Experimental unsupervised learning of non-Hermitian knotted phases with solid-state spins**|Yefei Yu et.al.|[2112.13785v1](http://arxiv.org/abs/2112.13785v1)|null|
-|**2021-12-27**|**Counterparts of Candidate Dusty Starbursts at z>6**|Haojing Yan et.al.|[2112.13779v1](http://arxiv.org/abs/2112.13779v1)|null|
-|**2021-12-27**|**Transformer Uncertainty Estimation with Hierarchical Stochastic Attention**|Jiahuan Pei et.al.|[2112.13776v1](http://arxiv.org/abs/2112.13776v1)|null|
+|**2021-12-29**|**Poisson-Lie T-plurality for dressing cosets**|Yuho Sakatani et.al.|[2112.14766v1](http://arxiv.org/abs/2112.14766v1)|null|
+|**2021-12-29**|**First and second sound in a compressible 3D Bose fluid**|Timon A. Hilker et.al.|[2112.14763v1](http://arxiv.org/abs/2112.14763v1)|null|
+|**2021-12-29**|**Modular flavor symmetry and vector-valued modular forms**|Xiang-Gan Liu et.al.|[2112.14761v1](http://arxiv.org/abs/2112.14761v1)|null|
+|**2021-12-29**|**Sofic boundaries and a-T-menability**|Vadim Alekseev et.al.|[2112.14760v1](http://arxiv.org/abs/2112.14760v1)|null|
+|**2021-12-29**|**Multivariate Trend Filtering for Lattice Data**|Veeranjaneyulu Sadhanala et.al.|[2112.14758v1](http://arxiv.org/abs/2112.14758v1)|null|
+|**2021-12-29**|**Nonreciprocal optics and magnetotransport in Weyl metals as signatures of band topology**|S. Nandy et.al.|[2112.14756v1](http://arxiv.org/abs/2112.14756v1)|null|
+|**2021-12-29**|**Approximately Symmetric Forms Far From Being Exactly Symmetric**|Luka Milićević et.al.|[2112.14755v1](http://arxiv.org/abs/2112.14755v1)|null|
+|**2021-12-29**|**Disentanglement and Generalization Under Correlation Shifts**|Christina M. Funke et.al.|[2112.14754v1](http://arxiv.org/abs/2112.14754v1)|null|
+|**2021-12-29**|**Blowup Equations and Holomorphic Anomaly Equations**|Kaiwen Sun et.al.|[2112.14753v1](http://arxiv.org/abs/2112.14753v1)|null|
+|**2021-12-29**|**Multiorbital spin-triplet pairing and spin resonance in the heavy-fermion superconductor $\mathrm{UTe_2}$**|Lei Chen et.al.|[2112.14750v1](http://arxiv.org/abs/2112.14750v1)|null|
+|**2021-12-29**|**Adaptive Transit Design: Optimizing Fixed and Demand Responsive Multi-Modal Transport via Continuous Approximation**|Giovanni Calabro' et.al.|[2112.14748v1](http://arxiv.org/abs/2112.14748v1)|null|
+|**2021-12-29**|**Wide-range $T^2$ resistivity and umklapp scattering in moiré graphene**|Hiroaki Ishizuka et.al.|[2112.14745v1](http://arxiv.org/abs/2112.14745v1)|null|
+|**2021-12-29**|**Unravelling the role of cosmic velocity field in dark matter halo mass function using deep learning**|Saba Etezad-Razavi et.al.|[2112.14743v1](http://arxiv.org/abs/2112.14743v1)|null|
+|**2021-12-29**|**New Fe I Level Energies and Line Identifications from Stellar Spectra. III. Initial Results from UV, Optical, and Infrared Spectra**|Ruth C. Peterson et.al.|[2112.14742v1](http://arxiv.org/abs/2112.14742v1)|null|
+|**2021-12-29**|**Holographic models of composite Higgs in the Veneziano limit: 2. Fermionic sector**|Daniel Elander et.al.|[2112.14740v1](http://arxiv.org/abs/2112.14740v1)|null|
+|**2021-12-29**|**Extendible Functions and Local Root Numbers Remarks on a paper of R.P. Langlands**|Helmut Koch et.al.|[2112.14739v1](http://arxiv.org/abs/2112.14739v1)|null|
+|**2021-12-29**|**Successes and failures of simplified models for a network of real neurons**|Leenoy Meshulam et.al.|[2112.14735v1](http://arxiv.org/abs/2112.14735v1)|null|
+|**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
+|**2021-12-29**|**LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents**|Shounak Paul et.al.|[2112.14731v1](http://arxiv.org/abs/2112.14731v1)|null|
+|**2021-12-29**|**Quantum Gravity Corrections to the Fall of the Apple**|Samarth Chawla et.al.|[2112.14730v1](http://arxiv.org/abs/2112.14730v1)|null|
+|**2021-12-29**|**First measurement of the positive volume charge in a 1 litre dual-phase argon detector**|Luciano Romero et.al.|[2112.14725v1](http://arxiv.org/abs/2112.14725v1)|null|
+|**2021-12-29**|**What's knot to like? Observation of a linked loop quantum state**|Ilya Belopolski et.al.|[2112.14722v1](http://arxiv.org/abs/2112.14722v1)|null|
+|**2021-12-29**|**Decomposing the local arrow of time in interacting systems**|Christopher W. Lynn et.al.|[2112.14721v1](http://arxiv.org/abs/2112.14721v1)|null|
+|**2021-12-29**|**Sets of Low Correlation Sequences from Cyclotomy**|Jonathan M. Castello et.al.|[2112.14719v1](http://arxiv.org/abs/2112.14719v1)|null|
+|**2021-12-29**|**The hand-made tail: Non-perturbative tails from multifield inflation**|Ana Achucarro et.al.|[2112.14712v1](http://arxiv.org/abs/2112.14712v1)|null|
+|**2021-12-29**|**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**|Ivan Skorokhodov et.al.|[2112.14683v1](http://arxiv.org/abs/2112.14683v1)|null|
+|**2021-12-29**|**Neumann Series in GMRES and Algebraic Multigrid Smoothers**|Stephen Thomas et.al.|[2112.14681v1](http://arxiv.org/abs/2112.14681v1)|null|
+|**2021-12-29**|**Gravity duals for defect quivers in the Veneziano limit**|Niko Jokela et.al.|[2112.14677v1](http://arxiv.org/abs/2112.14677v1)|null|
+|**2021-12-29**|**An additive graphical model for discrete data**|Jun Tao et.al.|[2112.14674v1](http://arxiv.org/abs/2112.14674v1)|null|
+|**2021-12-29**|**A ribbon model for nematic polymer networks**|Harmeet Singh et.al.|[2112.14671v1](http://arxiv.org/abs/2112.14671v1)|null|

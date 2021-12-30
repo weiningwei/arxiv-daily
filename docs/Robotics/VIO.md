@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-12-28**|**Metadamping in inertially amplified metamaterials: Trade-off between spatial attenuation and temporal attenuation**|Mahmoud I. Hussein et.al.|[2112.14322v1](http://arxiv.org/abs/2112.14322v1)|null|
 |**2021-12-27**|**About the incompressible energy cascade rate in anisotropic solar wind turbulence**|N. Andrés et.al.|[2112.13748v1](http://arxiv.org/abs/2112.13748v1)|null|
 |**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
 |**2021-12-26**|**Microscopic collective inertial masses for nuclear reaction in the presence of nucleonic effective mass**|Kai Wen et.al.|[2112.13317v1](http://arxiv.org/abs/2112.13317v1)|null|
@@ -31,4 +32,3 @@
 |**2021-12-13**|**Spreading, pinching, and coalescence: the Ohnesorge units**|Marc-Antoine Fardin et.al.|[2112.06713v1](http://arxiv.org/abs/2112.06713v1)|null|
 |**2021-12-13**|**Firefly: Supporting Drone Localization With Visible Light Communication**|Ricardo Ampudia Hernández et.al.|[2112.06677v1](http://arxiv.org/abs/2112.06677v1)|null|
 |**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
-|**2021-12-12**|**3D LiDAR Aided GNSS NLOS Mitigation in Urban Canyons**|Weisong Wen et.al.|[2112.06108v1](http://arxiv.org/abs/2112.06108v1)|null|
