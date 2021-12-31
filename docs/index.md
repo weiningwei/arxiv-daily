@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2021-12-31 09:38:49 Asia/Shanghai
+ Automated deployment @ 2021-12-31 20:09:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### SFM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-12-29**|**Poisson-Lie T-plurality for dressing cosets**|Yuho Sakatani et.al.|[2112.14766v1](http://arxiv.org/abs/2112.14766v1)|null|
-|**2021-12-29**|**First and second sound in a compressible 3D Bose fluid**|Timon A. Hilker et.al.|[2112.14763v1](http://arxiv.org/abs/2112.14763v1)|null|
-|**2021-12-29**|**Modular flavor symmetry and vector-valued modular forms**|Xiang-Gan Liu et.al.|[2112.14761v1](http://arxiv.org/abs/2112.14761v1)|null|
-|**2021-12-29**|**Sofic boundaries and a-T-menability**|Vadim Alekseev et.al.|[2112.14760v1](http://arxiv.org/abs/2112.14760v1)|null|
-|**2021-12-29**|**Multivariate Trend Filtering for Lattice Data**|Veeranjaneyulu Sadhanala et.al.|[2112.14758v1](http://arxiv.org/abs/2112.14758v1)|null|
-|**2021-12-29**|**Nonreciprocal optics and magnetotransport in Weyl metals as signatures of band topology**|S. Nandy et.al.|[2112.14756v1](http://arxiv.org/abs/2112.14756v1)|null|
-|**2021-12-29**|**Approximately Symmetric Forms Far From Being Exactly Symmetric**|Luka Milićević et.al.|[2112.14755v1](http://arxiv.org/abs/2112.14755v1)|null|
-|**2021-12-29**|**Disentanglement and Generalization Under Correlation Shifts**|Christina M. Funke et.al.|[2112.14754v1](http://arxiv.org/abs/2112.14754v1)|null|
-|**2021-12-29**|**Blowup Equations and Holomorphic Anomaly Equations**|Kaiwen Sun et.al.|[2112.14753v1](http://arxiv.org/abs/2112.14753v1)|null|
-|**2021-12-29**|**Multiorbital spin-triplet pairing and spin resonance in the heavy-fermion superconductor $\mathrm{UTe_2}$**|Lei Chen et.al.|[2112.14750v1](http://arxiv.org/abs/2112.14750v1)|null|
-|**2021-12-29**|**Adaptive Transit Design: Optimizing Fixed and Demand Responsive Multi-Modal Transport via Continuous Approximation**|Giovanni Calabro' et.al.|[2112.14748v1](http://arxiv.org/abs/2112.14748v1)|null|
-|**2021-12-29**|**Wide-range $T^2$ resistivity and umklapp scattering in moiré graphene**|Hiroaki Ishizuka et.al.|[2112.14745v1](http://arxiv.org/abs/2112.14745v1)|null|
-|**2021-12-29**|**Unravelling the role of cosmic velocity field in dark matter halo mass function using deep learning**|Saba Etezad-Razavi et.al.|[2112.14743v1](http://arxiv.org/abs/2112.14743v1)|null|
-|**2021-12-29**|**New Fe I Level Energies and Line Identifications from Stellar Spectra. III. Initial Results from UV, Optical, and Infrared Spectra**|Ruth C. Peterson et.al.|[2112.14742v1](http://arxiv.org/abs/2112.14742v1)|null|
-|**2021-12-29**|**Holographic models of composite Higgs in the Veneziano limit: 2. Fermionic sector**|Daniel Elander et.al.|[2112.14740v1](http://arxiv.org/abs/2112.14740v1)|null|
-|**2021-12-29**|**Extendible Functions and Local Root Numbers Remarks on a paper of R.P. Langlands**|Helmut Koch et.al.|[2112.14739v1](http://arxiv.org/abs/2112.14739v1)|null|
-|**2021-12-29**|**Successes and failures of simplified models for a network of real neurons**|Leenoy Meshulam et.al.|[2112.14735v1](http://arxiv.org/abs/2112.14735v1)|null|
-|**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
-|**2021-12-29**|**LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents**|Shounak Paul et.al.|[2112.14731v1](http://arxiv.org/abs/2112.14731v1)|null|
-|**2021-12-29**|**Quantum Gravity Corrections to the Fall of the Apple**|Samarth Chawla et.al.|[2112.14730v1](http://arxiv.org/abs/2112.14730v1)|null|
-|**2021-12-29**|**First measurement of the positive volume charge in a 1 litre dual-phase argon detector**|Luciano Romero et.al.|[2112.14725v1](http://arxiv.org/abs/2112.14725v1)|null|
-|**2021-12-29**|**What's knot to like? Observation of a linked loop quantum state**|Ilya Belopolski et.al.|[2112.14722v1](http://arxiv.org/abs/2112.14722v1)|null|
-|**2021-12-29**|**Decomposing the local arrow of time in interacting systems**|Christopher W. Lynn et.al.|[2112.14721v1](http://arxiv.org/abs/2112.14721v1)|null|
-|**2021-12-29**|**Sets of Low Correlation Sequences from Cyclotomy**|Jonathan M. Castello et.al.|[2112.14719v1](http://arxiv.org/abs/2112.14719v1)|null|
-|**2021-12-29**|**The hand-made tail: Non-perturbative tails from multifield inflation**|Ana Achucarro et.al.|[2112.14712v1](http://arxiv.org/abs/2112.14712v1)|null|
-|**2021-12-29**|**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**|Ivan Skorokhodov et.al.|[2112.14683v1](http://arxiv.org/abs/2112.14683v1)|null|
-|**2021-12-29**|**Neumann Series in GMRES and Algebraic Multigrid Smoothers**|Stephen Thomas et.al.|[2112.14681v1](http://arxiv.org/abs/2112.14681v1)|null|
-|**2021-12-29**|**Gravity duals for defect quivers in the Veneziano limit**|Niko Jokela et.al.|[2112.14677v1](http://arxiv.org/abs/2112.14677v1)|null|
-|**2021-12-29**|**An additive graphical model for discrete data**|Jun Tao et.al.|[2112.14674v1](http://arxiv.org/abs/2112.14674v1)|null|
-|**2021-12-29**|**A ribbon model for nematic polymer networks**|Harmeet Singh et.al.|[2112.14671v1](http://arxiv.org/abs/2112.14671v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,40 +39,6 @@
 |**2021-11-01**|**MetroLoc: Metro Vehicle Mapping and Localization with LiDAR-Camera-Inertial Integration**|Yusheng Wang et.al.|[2111.00762v1](http://arxiv.org/abs/2111.00762v1)|null|
 |**2021-10-30**|**Multi-User Augmented Reality with Infrastructure-free Collaborative Localization**|John Miller et.al.|[2111.00174v1](http://arxiv.org/abs/2111.00174v1)|null|
 
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
-|**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|null|
-|**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
-|**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
-|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
-|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
-|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
-|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
-|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|[link](https://github.com/zhanxinrui/hdn)|
-|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
-|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
-|**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
-|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
-|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
-|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
-|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
-|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
-|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
-|**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann et.al.|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
-|**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro et.al.|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
-|**2021-11-24**|**Autonomous bot with ML-based reactive navigation for indoor environment**|Yash Srivastava et.al.|[2111.12542v1](http://arxiv.org/abs/2111.12542v1)|null|
-|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao et.al.|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|[link](https://github.com/sanduan168/lifelong-slam-dataset)|
-|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
-|**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii et.al.|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
-|**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
-|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
-|**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
-|**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
-
 ### Robotics
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,6 +72,40 @@
 |**2021-12-27**|**A Review on Controllability of Multi-Agent Systems using Switched Network**|Javeria Noor et.al.|[2112.13675v1](http://arxiv.org/abs/2112.13675v1)|null|
 |**2021-12-27**|**Survey on Stabilization of Nonlinear Systems via state/output feedback control**|Demelash Abiye Deguale et.al.|[2112.13588v1](http://arxiv.org/abs/2112.13588v1)|null|
 |**2021-12-27**|**Algorithm for recognizing the contour of a honeycomb block**|Maksim Viktorovich Kubrikov et.al.|[2112.13846v1](http://arxiv.org/abs/2112.13846v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|null|
+|**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
+|**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
+|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v1](http://arxiv.org/abs/2112.13889v1)|null|
+|**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
+|**2021-12-25**|**Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See'' More, Farther and Faster**|Zhongzheng Yuan et.al.|[2112.13194v1](http://arxiv.org/abs/2112.13194v1)|null|
+|**2021-12-24**|**SOFIA/FORCAST Monitoring of the Dust Emission from R Aqr: Start of the Eclipse**|Ravi Sankrit et.al.|[2112.13118v1](http://arxiv.org/abs/2112.13118v1)|null|
+|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
+|**2021-12-23**|**HSPACE: Synthetic Parametric Humans Animated in Complex Environments**|Eduard Gabriel Bazavan et.al.|[2112.12867v1](http://arxiv.org/abs/2112.12867v1)|null|
+|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
+|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
+|**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
+|**2021-12-23**|**Hidden in Plain Sight: UVIT and MUSE Discovery of a Large, Diffuse Star-Forming Galaxy**|Jyoti Yadav et.al.|[2112.12720v1](http://arxiv.org/abs/2112.12720v1)|null|
+|**2021-12-23**|**Daylight Photometry of Bright Stars -- Observations of Betelgeuse at Solar Conjunction**|Otmar Nickel et.al.|[2112.12673v1](http://arxiv.org/abs/2112.12673v1)|null|
+|**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
+|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
+|**2021-12-23**|**The Making of Catalogues of Very-High-Energy γ-ray Sources**|Mathieu de Naurois et.al.|[2112.12605v1](http://arxiv.org/abs/2112.12605v1)|null|
+|**2021-12-22**|**Quantitative assessment of fitting errors associated with streak camera noise in Thomson scattering data analysis**|G. F. Swadling et.al.|[2112.12260v1](http://arxiv.org/abs/2112.12260v1)|null|
+|**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
+|**2021-12-22**|**A study on UV emission from clouds with Mini-EUSO**|Alessio Golzio et.al.|[2112.11878v1](http://arxiv.org/abs/2112.11878v1)|null|
+|**2021-12-22**|**BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View**|Junjie Huang et.al.|[2112.11790v1](http://arxiv.org/abs/2112.11790v1)|null|
+|**2021-12-22**|**AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation**|Mohsen Gholami et.al.|[2112.11593v1](http://arxiv.org/abs/2112.11593v1)|null|
+|**2021-12-21**|**High-speed imaging of magnetized plasmas: when electron temperature matters**|Simon Vincent et.al.|[2112.11372v1](http://arxiv.org/abs/2112.11372v1)|null|
+|**2021-12-21**|**Review of Face Presentation Attack Detection Competitions**|Zitong Yu et.al.|[2112.11290v1](http://arxiv.org/abs/2112.11290v1)|null|
+|**2021-12-21**|**The Fluorescence Telescope on board EUSO-SPB2 for the detection of Ultra High Energy Cosmic Rays**|G. Osteria et.al.|[2112.11130v1](http://arxiv.org/abs/2112.11130v1)|null|
+|**2021-12-21**|**EPNet++: Cascade Bi-directional Fusion for Multi-Modal 3D Object Detection**|Zhe Liu et.al.|[2112.11088v2](http://arxiv.org/abs/2112.11088v2)|null|
+|**2021-12-21**|**Online programming system for robotic fillet welding in Industry 4.0**|Ignacio Díaz-Cano et.al.|[2112.11061v1](http://arxiv.org/abs/2112.11061v1)|null|
+|**2021-12-21**|**What are Attackers after on IoT Devices? An approach based on a multi-phased multi-faceted IoT honeypot ecosystem and data clustering**|Armin Ziaie Tabari et.al.|[2112.10974v1](http://arxiv.org/abs/2112.10974v1)|null|
+|**2021-12-20**|**Spatiotemporal Motion Synchronization for Snowboard Big Air**|Seiji Matsumura et.al.|[2112.10909v1](http://arxiv.org/abs/2112.10909v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -175,36 +141,70 @@
 |**2021-12-13**|**Firefly: Supporting Drone Localization With Visible Light Communication**|Ricardo Ampudia Hernández et.al.|[2112.06677v1](http://arxiv.org/abs/2112.06677v1)|null|
 |**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
 
-### Visual Localization
+### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|null|
-|**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
-|**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
-|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v1](http://arxiv.org/abs/2112.13889v1)|null|
-|**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
-|**2021-12-25**|**Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See'' More, Farther and Faster**|Zhongzheng Yuan et.al.|[2112.13194v1](http://arxiv.org/abs/2112.13194v1)|null|
-|**2021-12-24**|**SOFIA/FORCAST Monitoring of the Dust Emission from R Aqr: Start of the Eclipse**|Ravi Sankrit et.al.|[2112.13118v1](http://arxiv.org/abs/2112.13118v1)|null|
-|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
-|**2021-12-23**|**HSPACE: Synthetic Parametric Humans Animated in Complex Environments**|Eduard Gabriel Bazavan et.al.|[2112.12867v1](http://arxiv.org/abs/2112.12867v1)|null|
-|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
-|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
-|**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
-|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
-|**2021-12-23**|**Hidden in Plain Sight: UVIT and MUSE Discovery of a Large, Diffuse Star-Forming Galaxy**|Jyoti Yadav et.al.|[2112.12720v1](http://arxiv.org/abs/2112.12720v1)|null|
-|**2021-12-23**|**Daylight Photometry of Bright Stars -- Observations of Betelgeuse at Solar Conjunction**|Otmar Nickel et.al.|[2112.12673v1](http://arxiv.org/abs/2112.12673v1)|null|
-|**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
-|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
-|**2021-12-23**|**The Making of Catalogues of Very-High-Energy γ-ray Sources**|Mathieu de Naurois et.al.|[2112.12605v1](http://arxiv.org/abs/2112.12605v1)|null|
-|**2021-12-22**|**Quantitative assessment of fitting errors associated with streak camera noise in Thomson scattering data analysis**|G. F. Swadling et.al.|[2112.12260v1](http://arxiv.org/abs/2112.12260v1)|null|
-|**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
-|**2021-12-22**|**A study on UV emission from clouds with Mini-EUSO**|Alessio Golzio et.al.|[2112.11878v1](http://arxiv.org/abs/2112.11878v1)|null|
-|**2021-12-22**|**BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View**|Junjie Huang et.al.|[2112.11790v1](http://arxiv.org/abs/2112.11790v1)|null|
-|**2021-12-22**|**AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation**|Mohsen Gholami et.al.|[2112.11593v1](http://arxiv.org/abs/2112.11593v1)|null|
-|**2021-12-21**|**High-speed imaging of magnetized plasmas: when electron temperature matters**|Simon Vincent et.al.|[2112.11372v1](http://arxiv.org/abs/2112.11372v1)|null|
-|**2021-12-21**|**Review of Face Presentation Attack Detection Competitions**|Zitong Yu et.al.|[2112.11290v1](http://arxiv.org/abs/2112.11290v1)|null|
-|**2021-12-21**|**The Fluorescence Telescope on board EUSO-SPB2 for the detection of Ultra High Energy Cosmic Rays**|G. Osteria et.al.|[2112.11130v1](http://arxiv.org/abs/2112.11130v1)|null|
-|**2021-12-21**|**EPNet++: Cascade Bi-directional Fusion for Multi-Modal 3D Object Detection**|Zhe Liu et.al.|[2112.11088v2](http://arxiv.org/abs/2112.11088v2)|null|
-|**2021-12-21**|**Online programming system for robotic fillet welding in Industry 4.0**|Ignacio Díaz-Cano et.al.|[2112.11061v1](http://arxiv.org/abs/2112.11061v1)|null|
-|**2021-12-21**|**What are Attackers after on IoT Devices? An approach based on a multi-phased multi-faceted IoT honeypot ecosystem and data clustering**|Armin Ziaie Tabari et.al.|[2112.10974v1](http://arxiv.org/abs/2112.10974v1)|null|
-|**2021-12-20**|**Spatiotemporal Motion Synchronization for Snowboard Big Air**|Seiji Matsumura et.al.|[2112.10909v1](http://arxiv.org/abs/2112.10909v1)|null|
+|**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
+|**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|null|
+|**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
+|**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
+|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
+|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
+|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
+|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
+|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
+|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|[link](https://github.com/zhanxinrui/hdn)|
+|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
+|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
+|**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
+|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
+|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
+|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
+|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
+|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
+|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
+|**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann et.al.|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
+|**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro et.al.|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
+|**2021-11-24**|**Autonomous bot with ML-based reactive navigation for indoor environment**|Yash Srivastava et.al.|[2111.12542v1](http://arxiv.org/abs/2111.12542v1)|null|
+|**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao et.al.|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|[link](https://github.com/sanduan168/lifelong-slam-dataset)|
+|**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
+|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
+|**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii et.al.|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
+|**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
+|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
+|**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
+|**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
+
+### SFM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-12-29**|**Poisson-Lie T-plurality for dressing cosets**|Yuho Sakatani et.al.|[2112.14766v1](http://arxiv.org/abs/2112.14766v1)|null|
+|**2021-12-29**|**First and second sound in a compressible 3D Bose fluid**|Timon A. Hilker et.al.|[2112.14763v1](http://arxiv.org/abs/2112.14763v1)|null|
+|**2021-12-29**|**Modular flavor symmetry and vector-valued modular forms**|Xiang-Gan Liu et.al.|[2112.14761v1](http://arxiv.org/abs/2112.14761v1)|null|
+|**2021-12-29**|**Sofic boundaries and a-T-menability**|Vadim Alekseev et.al.|[2112.14760v1](http://arxiv.org/abs/2112.14760v1)|null|
+|**2021-12-29**|**Multivariate Trend Filtering for Lattice Data**|Veeranjaneyulu Sadhanala et.al.|[2112.14758v1](http://arxiv.org/abs/2112.14758v1)|null|
+|**2021-12-29**|**Nonreciprocal optics and magnetotransport in Weyl metals as signatures of band topology**|S. Nandy et.al.|[2112.14756v1](http://arxiv.org/abs/2112.14756v1)|null|
+|**2021-12-29**|**Approximately Symmetric Forms Far From Being Exactly Symmetric**|Luka Milićević et.al.|[2112.14755v1](http://arxiv.org/abs/2112.14755v1)|null|
+|**2021-12-29**|**Disentanglement and Generalization Under Correlation Shifts**|Christina M. Funke et.al.|[2112.14754v1](http://arxiv.org/abs/2112.14754v1)|null|
+|**2021-12-29**|**Blowup Equations and Holomorphic Anomaly Equations**|Kaiwen Sun et.al.|[2112.14753v1](http://arxiv.org/abs/2112.14753v1)|null|
+|**2021-12-29**|**Multiorbital spin-triplet pairing and spin resonance in the heavy-fermion superconductor $\mathrm{UTe_2}$**|Lei Chen et.al.|[2112.14750v1](http://arxiv.org/abs/2112.14750v1)|null|
+|**2021-12-29**|**Adaptive Transit Design: Optimizing Fixed and Demand Responsive Multi-Modal Transport via Continuous Approximation**|Giovanni Calabro' et.al.|[2112.14748v1](http://arxiv.org/abs/2112.14748v1)|null|
+|**2021-12-29**|**Wide-range $T^2$ resistivity and umklapp scattering in moiré graphene**|Hiroaki Ishizuka et.al.|[2112.14745v1](http://arxiv.org/abs/2112.14745v1)|null|
+|**2021-12-29**|**Unravelling the role of cosmic velocity field in dark matter halo mass function using deep learning**|Saba Etezad-Razavi et.al.|[2112.14743v1](http://arxiv.org/abs/2112.14743v1)|null|
+|**2021-12-29**|**New Fe I Level Energies and Line Identifications from Stellar Spectra. III. Initial Results from UV, Optical, and Infrared Spectra**|Ruth C. Peterson et.al.|[2112.14742v1](http://arxiv.org/abs/2112.14742v1)|null|
+|**2021-12-29**|**Holographic models of composite Higgs in the Veneziano limit: 2. Fermionic sector**|Daniel Elander et.al.|[2112.14740v1](http://arxiv.org/abs/2112.14740v1)|null|
+|**2021-12-29**|**Extendible Functions and Local Root Numbers Remarks on a paper of R.P. Langlands**|Helmut Koch et.al.|[2112.14739v1](http://arxiv.org/abs/2112.14739v1)|null|
+|**2021-12-29**|**Successes and failures of simplified models for a network of real neurons**|Leenoy Meshulam et.al.|[2112.14735v1](http://arxiv.org/abs/2112.14735v1)|null|
+|**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
+|**2021-12-29**|**LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents**|Shounak Paul et.al.|[2112.14731v1](http://arxiv.org/abs/2112.14731v1)|null|
+|**2021-12-29**|**Quantum Gravity Corrections to the Fall of the Apple**|Samarth Chawla et.al.|[2112.14730v1](http://arxiv.org/abs/2112.14730v1)|null|
+|**2021-12-29**|**First measurement of the positive volume charge in a 1 litre dual-phase argon detector**|Luciano Romero et.al.|[2112.14725v1](http://arxiv.org/abs/2112.14725v1)|null|
+|**2021-12-29**|**What's knot to like? Observation of a linked loop quantum state**|Ilya Belopolski et.al.|[2112.14722v1](http://arxiv.org/abs/2112.14722v1)|null|
+|**2021-12-29**|**Decomposing the local arrow of time in interacting systems**|Christopher W. Lynn et.al.|[2112.14721v1](http://arxiv.org/abs/2112.14721v1)|null|
+|**2021-12-29**|**Sets of Low Correlation Sequences from Cyclotomy**|Jonathan M. Castello et.al.|[2112.14719v1](http://arxiv.org/abs/2112.14719v1)|null|
+|**2021-12-29**|**The hand-made tail: Non-perturbative tails from multifield inflation**|Ana Achucarro et.al.|[2112.14712v1](http://arxiv.org/abs/2112.14712v1)|null|
+|**2021-12-29**|**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**|Ivan Skorokhodov et.al.|[2112.14683v1](http://arxiv.org/abs/2112.14683v1)|null|
+|**2021-12-29**|**Neumann Series in GMRES and Algebraic Multigrid Smoothers**|Stephen Thomas et.al.|[2112.14681v1](http://arxiv.org/abs/2112.14681v1)|null|
+|**2021-12-29**|**Gravity duals for defect quivers in the Veneziano limit**|Niko Jokela et.al.|[2112.14677v1](http://arxiv.org/abs/2112.14677v1)|null|
+|**2021-12-29**|**An additive graphical model for discrete data**|Jun Tao et.al.|[2112.14674v1](http://arxiv.org/abs/2112.14674v1)|null|
+|**2021-12-29**|**A ribbon model for nematic polymer networks**|Harmeet Singh et.al.|[2112.14671v1](http://arxiv.org/abs/2112.14671v1)|null|
