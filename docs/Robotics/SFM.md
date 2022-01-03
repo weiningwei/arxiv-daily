@@ -2,33 +2,33 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-12-29**|**Poisson-Lie T-plurality for dressing cosets**|Yuho Sakatani et.al.|[2112.14766v1](http://arxiv.org/abs/2112.14766v1)|null|
-|**2021-12-29**|**First and second sound in a compressible 3D Bose fluid**|Timon A. Hilker et.al.|[2112.14763v1](http://arxiv.org/abs/2112.14763v1)|null|
-|**2021-12-29**|**Modular flavor symmetry and vector-valued modular forms**|Xiang-Gan Liu et.al.|[2112.14761v1](http://arxiv.org/abs/2112.14761v1)|null|
-|**2021-12-29**|**Sofic boundaries and a-T-menability**|Vadim Alekseev et.al.|[2112.14760v1](http://arxiv.org/abs/2112.14760v1)|null|
-|**2021-12-29**|**Multivariate Trend Filtering for Lattice Data**|Veeranjaneyulu Sadhanala et.al.|[2112.14758v1](http://arxiv.org/abs/2112.14758v1)|null|
-|**2021-12-29**|**Nonreciprocal optics and magnetotransport in Weyl metals as signatures of band topology**|S. Nandy et.al.|[2112.14756v1](http://arxiv.org/abs/2112.14756v1)|null|
-|**2021-12-29**|**Approximately Symmetric Forms Far From Being Exactly Symmetric**|Luka Milićević et.al.|[2112.14755v1](http://arxiv.org/abs/2112.14755v1)|null|
-|**2021-12-29**|**Disentanglement and Generalization Under Correlation Shifts**|Christina M. Funke et.al.|[2112.14754v1](http://arxiv.org/abs/2112.14754v1)|null|
-|**2021-12-29**|**Blowup Equations and Holomorphic Anomaly Equations**|Kaiwen Sun et.al.|[2112.14753v1](http://arxiv.org/abs/2112.14753v1)|null|
-|**2021-12-29**|**Multiorbital spin-triplet pairing and spin resonance in the heavy-fermion superconductor $\mathrm{UTe_2}$**|Lei Chen et.al.|[2112.14750v1](http://arxiv.org/abs/2112.14750v1)|null|
-|**2021-12-29**|**Adaptive Transit Design: Optimizing Fixed and Demand Responsive Multi-Modal Transport via Continuous Approximation**|Giovanni Calabro' et.al.|[2112.14748v1](http://arxiv.org/abs/2112.14748v1)|null|
-|**2021-12-29**|**Wide-range $T^2$ resistivity and umklapp scattering in moiré graphene**|Hiroaki Ishizuka et.al.|[2112.14745v1](http://arxiv.org/abs/2112.14745v1)|null|
-|**2021-12-29**|**Unravelling the role of cosmic velocity field in dark matter halo mass function using deep learning**|Saba Etezad-Razavi et.al.|[2112.14743v1](http://arxiv.org/abs/2112.14743v1)|null|
-|**2021-12-29**|**New Fe I Level Energies and Line Identifications from Stellar Spectra. III. Initial Results from UV, Optical, and Infrared Spectra**|Ruth C. Peterson et.al.|[2112.14742v1](http://arxiv.org/abs/2112.14742v1)|null|
-|**2021-12-29**|**Holographic models of composite Higgs in the Veneziano limit: 2. Fermionic sector**|Daniel Elander et.al.|[2112.14740v1](http://arxiv.org/abs/2112.14740v1)|null|
-|**2021-12-29**|**Extendible Functions and Local Root Numbers Remarks on a paper of R.P. Langlands**|Helmut Koch et.al.|[2112.14739v1](http://arxiv.org/abs/2112.14739v1)|null|
-|**2021-12-29**|**Successes and failures of simplified models for a network of real neurons**|Leenoy Meshulam et.al.|[2112.14735v1](http://arxiv.org/abs/2112.14735v1)|null|
-|**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
-|**2021-12-29**|**LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents**|Shounak Paul et.al.|[2112.14731v1](http://arxiv.org/abs/2112.14731v1)|[link](https://github.com/law-ai/lesicin)|
-|**2021-12-29**|**Quantum Gravity Corrections to the Fall of the Apple**|Samarth Chawla et.al.|[2112.14730v1](http://arxiv.org/abs/2112.14730v1)|null|
-|**2021-12-29**|**First measurement of the positive volume charge in a 1 litre dual-phase argon detector**|Luciano Romero et.al.|[2112.14725v1](http://arxiv.org/abs/2112.14725v1)|null|
-|**2021-12-29**|**What's knot to like? Observation of a linked loop quantum state**|Ilya Belopolski et.al.|[2112.14722v1](http://arxiv.org/abs/2112.14722v1)|null|
-|**2021-12-29**|**Decomposing the local arrow of time in interacting systems**|Christopher W. Lynn et.al.|[2112.14721v1](http://arxiv.org/abs/2112.14721v1)|null|
-|**2021-12-29**|**Sets of Low Correlation Sequences from Cyclotomy**|Jonathan M. Castello et.al.|[2112.14719v1](http://arxiv.org/abs/2112.14719v1)|null|
-|**2021-12-29**|**The hand-made tail: Non-perturbative tails from multifield inflation**|Ana Achucarro et.al.|[2112.14712v1](http://arxiv.org/abs/2112.14712v1)|null|
-|**2021-12-29**|**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**|Ivan Skorokhodov et.al.|[2112.14683v1](http://arxiv.org/abs/2112.14683v1)|null|
-|**2021-12-29**|**Neumann Series in GMRES and Algebraic Multigrid Smoothers**|Stephen Thomas et.al.|[2112.14681v1](http://arxiv.org/abs/2112.14681v1)|null|
-|**2021-12-29**|**Gravity duals for defect quivers in the Veneziano limit**|Niko Jokela et.al.|[2112.14677v1](http://arxiv.org/abs/2112.14677v1)|null|
-|**2021-12-29**|**An additive graphical model for discrete data**|Jun Tao et.al.|[2112.14674v1](http://arxiv.org/abs/2112.14674v1)|null|
-|**2021-12-29**|**A ribbon model for nematic polymer networks**|Harmeet Singh et.al.|[2112.14671v1](http://arxiv.org/abs/2112.14671v1)|null|
+|**2021-12-31**|**Triangular Flows for Generative Modeling: Statistical Consistency, Smoothness Classes, and Fast Rates**|Nicholas J. Irons et.al.|[2112.15595v1](http://arxiv.org/abs/2112.15595v1)|null|
+|**2021-12-31**|**A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More**|Iddo Drori et.al.|[2112.15594v1](http://arxiv.org/abs/2112.15594v1)|null|
+|**2021-12-31**|**Shadow Extra Dimensions & Fuzzy Branes with an Exorcized Spectrum**|Florian Nortier et.al.|[2112.15592v1](http://arxiv.org/abs/2112.15592v1)|null|
+|**2021-12-31**|**High-Order Statistical Functional Expansion and Its Application To Some Nonsmooth Problems**|Fan Zhou et.al.|[2112.15591v1](http://arxiv.org/abs/2112.15591v1)|null|
+|**2021-12-31**|**3-D Material Style Transfer for Reconstructing Unknown Appearance in Complex Natural Materials**|Shashank Ranjan et.al.|[2112.15589v1](http://arxiv.org/abs/2112.15589v1)|null|
+|**2021-12-31**|**Meson structure on the light-front III : The Hamiltonian, heavy quarkonia, spin and orbit mixing**|Edward Shuryak et.al.|[2112.15586v1](http://arxiv.org/abs/2112.15586v1)|null|
+|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v1](http://arxiv.org/abs/2112.15583v1)|null|
+|**2021-12-31**|**Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning**|Samin Yeasar Arnob et.al.|[2112.15578v1](http://arxiv.org/abs/2112.15578v1)|null|
+|**2021-12-31**|**Infinite wide (finite depth) Neural Networks benefit from multi-task learning unlike shallow Gaussian Processes -- an exact quantitative macroscopic characterization**|Jakob Heiss et.al.|[2112.15577v1](http://arxiv.org/abs/2112.15577v1)|null|
+|**2021-12-31**|**Fast Learning of MNL Model from General Partial Rankings with Application to Network Formation Modeling**|Jiaqi Ma et.al.|[2112.15575v1](http://arxiv.org/abs/2112.15575v1)|null|
+|**2021-12-31**|**Enhanced Phonon Peak in Four-point Dynamic Susceptibility in the Supercooled Active Glass-forming Liquids**|Subhodeep Dey et.al.|[2112.15574v1](http://arxiv.org/abs/2112.15574v1)|null|
+|**2021-12-31**|**Higher spin dynamics in gravity and $w_{1 + \infty}$ celestial symmetries**|Laurent Freidel et.al.|[2112.15573v1](http://arxiv.org/abs/2112.15573v1)|null|
+|**2021-12-31**|**Actor Loss of Soft Actor Critic Explained**|Thibault Lahire et.al.|[2112.15568v1](http://arxiv.org/abs/2112.15568v1)|null|
+|**2021-12-31**|**Proxy ensemble geometric phase and proxy index of time-reversal invariant topological insulators at finite temperatures**|Aixin Pi et.al.|[2112.15567v1](http://arxiv.org/abs/2112.15567v1)|null|
+|**2021-12-31**|**SOK: On the Analysis of Web Browser Security**|Jungwon Lim et.al.|[2112.15561v1](http://arxiv.org/abs/2112.15561v1)|null|
+|**2021-12-31**|**A General Statistical Mechanics Framework for the Collective Motion of Animals**|Jiacheng Cai et.al.|[2112.15560v1](http://arxiv.org/abs/2112.15560v1)|null|
+|**2021-12-31**|**Planetesimal rings as the cause of the Solar System's planetary architecture**|Andre Izidoro et.al.|[2112.15558v1](http://arxiv.org/abs/2112.15558v1)|null|
+|**2021-12-31**|**Estimating the spectral density of unstable scars**|Domenico Lippolis et.al.|[2112.15554v1](http://arxiv.org/abs/2112.15554v1)|null|
+|**2021-12-31**|**Magnetoelectric Bio-Implants Powered and Programmed by a Single Transmitter for Coordinated Multisite Stimulation**|Zhanghao Yu et.al.|[2112.15552v1](http://arxiv.org/abs/2112.15552v1)|null|
+|**2021-12-31**|**A Markov Decision Process Framework for Efficient and Implementable Contact Tracing and Isolation**|George Li et.al.|[2112.15547v1](http://arxiv.org/abs/2112.15547v1)|null|
+|**2021-12-31**|**ArH+ and H2O+ absorption towards luminous galaxies**|Arshia M. Jacob et.al.|[2112.15546v1](http://arxiv.org/abs/2112.15546v1)|null|
+|**2021-12-31**|**Spectral functions of the Holstein polaron: exact and approximate solutions**|Petar Mitrić et.al.|[2112.15542v1](http://arxiv.org/abs/2112.15542v1)|null|
+|**2021-12-31**|**Numerical Simulations of Noisy Quantum Circuits for Computational Chemistry**|Jerimiah Wright et.al.|[2112.15540v1](http://arxiv.org/abs/2112.15540v1)|null|
+|**2021-12-31**|**Machine learning based disease diagnosis: A comprehensive review**|Md Manjurul Ahsan et.al.|[2112.15538v1](http://arxiv.org/abs/2112.15538v1)|null|
+|**2021-12-31**|**Collider Signatures of Type-X 2HDM + scalar singlet dark matter at HL-LHC**|Atri Dey et.al.|[2112.15536v1](http://arxiv.org/abs/2112.15536v1)|null|
+|**2021-12-31**|**Machine Learning Trivializing Maps: A First Step Towards Understanding How Flow-Based Samplers Scale Up**|Luigi Del Debbio et.al.|[2112.15532v1](http://arxiv.org/abs/2112.15532v1)|null|
+|**2021-12-31**|**Hydrodynamic helicity polarization in relativistic heavy ion collisions**|Cong Yi et.al.|[2112.15531v1](http://arxiv.org/abs/2112.15531v1)|null|
+|**2021-12-31**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
+|**2021-12-31**|**Fine-grained domain counting and percolation analysis in 2D lattice systems with linked-lists**|Hrushikesh Sable et.al.|[2112.15527v1](http://arxiv.org/abs/2112.15527v1)|null|
+|**2021-12-31**|**Transfer learning for cancer diagnosis in histopathological images**|Sandhya Aneja et.al.|[2112.15523v1](http://arxiv.org/abs/2112.15523v1)|null|
