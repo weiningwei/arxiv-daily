@@ -5,7 +5,7 @@
 |**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|null|
 |**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
 |**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
-|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v1](http://arxiv.org/abs/2112.13889v1)|null|
+|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v2](http://arxiv.org/abs/2112.13889v2)|null|
 |**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
 |**2021-12-25**|**Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See'' More, Farther and Faster**|Zhongzheng Yuan et.al.|[2112.13194v1](http://arxiv.org/abs/2112.13194v1)|null|
 |**2021-12-24**|**SOFIA/FORCAST Monitoring of the Dust Emission from R Aqr: Start of the Eclipse**|Ravi Sankrit et.al.|[2112.13118v1](http://arxiv.org/abs/2112.13118v1)|null|

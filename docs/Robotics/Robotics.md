@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
-|**2021-12-29**|**MetaGraspNet: A Large-Scale Benchmark Dataset forVision-driven Robotic Grasping via Physics-basedMetaverse Synthesis**|Yuhao Chen et.al.|[2112.14663v1](http://arxiv.org/abs/2112.14663v1)|[link](https://github.com/y2863/MetaGraspNet)|
+|**2021-12-29**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Vision-driven Robotic Grasping via Physics-based Metaverse Synthesis**|Yuhao Chen et.al.|[2112.14663v2](http://arxiv.org/abs/2112.14663v2)|[link](https://github.com/y2863/MetaGraspNet)|
 |**2021-12-29**|**DDPG car-following model with real-world human driving experience in CARLA**|Dianzhao Li et.al.|[2112.14602v1](http://arxiv.org/abs/2112.14602v1)|null|
 |**2021-12-29**|**Industry 4.0: Challenges and success factors for adopting digital technologies in airports**|Jia Hao Tan et.al.|[2112.14574v1](http://arxiv.org/abs/2112.14574v1)|null|
 |**2021-12-29**|**Altitude Optimization of UAV Base Stations from Satellite Images Using Deep Neural Network**|Ibrahim Shoer et.al.|[2112.14551v1](http://arxiv.org/abs/2112.14551v1)|null|
