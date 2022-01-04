@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-03**|**Revisiting PGD Attacks for Stability Analysis of Large-Scale Nonlinear Systems and Perception-Based Control**|Aaron Havens et.al.|[2201.00801v1](http://arxiv.org/abs/2201.00801v1)|null|
+|**2022-01-03**|**Development of a cosmic ray oriented trigger for the fluorescence telescope on EUSO-SPB2**|George Filippatos et.al.|[2201.00794v1](http://arxiv.org/abs/2201.00794v1)|null|
+|**2022-01-02**|**VISAS -- Detecting GPS spoofing attacks against drones by analyzing camera's video stream**|Barak Davidovich et.al.|[2201.00419v1](http://arxiv.org/abs/2201.00419v1)|null|
 |**2021-12-31**|**Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints**|Ruijin Liu et.al.|[2112.15351v1](http://arxiv.org/abs/2112.15351v1)|null|
 |**2021-12-30**|**Towards Robustness of Neural Networks**|Steven Basart et.al.|[2112.15188v1](http://arxiv.org/abs/2112.15188v1)|null|
 |**2021-12-30**|**Colour alignment for relative colour constancy via non-standard references**|Yunfeng Zhao et.al.|[2112.15106v1](http://arxiv.org/abs/2112.15106v1)|null|
@@ -29,6 +32,3 @@
 |**2021-12-23**|**The Making of Catalogues of Very-High-Energy γ-ray Sources**|Mathieu de Naurois et.al.|[2112.12605v1](http://arxiv.org/abs/2112.12605v1)|null|
 |**2021-12-22**|**Quantitative assessment of fitting errors associated with streak camera noise in Thomson scattering data analysis**|G. F. Swadling et.al.|[2112.12260v1](http://arxiv.org/abs/2112.12260v1)|null|
 |**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
-|**2021-12-22**|**A study on UV emission from clouds with Mini-EUSO**|Alessio Golzio et.al.|[2112.11878v1](http://arxiv.org/abs/2112.11878v1)|null|
-|**2021-12-22**|**BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View**|Junjie Huang et.al.|[2112.11790v1](http://arxiv.org/abs/2112.11790v1)|null|
-|**2021-12-22**|**AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation**|Mohsen Gholami et.al.|[2112.11593v1](http://arxiv.org/abs/2112.11593v1)|null|

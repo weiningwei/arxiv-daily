@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-01-04 09:38:59 Asia/Shanghai
+ Automated deployment @ 2022-01-04 20:09:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,6 +39,74 @@
 |**2021-11-01**|**MetroLoc: Metro Vehicle Mapping and Localization with LiDAR-Camera-Inertial Integration**|Yusheng Wang et.al.|[2111.00762v1](http://arxiv.org/abs/2111.00762v1)|null|
 |**2021-10-30**|**Multi-User Augmented Reality with Infrastructure-free Collaborative Localization**|John Miller et.al.|[2111.00174v1](http://arxiv.org/abs/2111.00174v1)|null|
 
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-03**|**Revisiting PGD Attacks for Stability Analysis of Large-Scale Nonlinear Systems and Perception-Based Control**|Aaron Havens et.al.|[2201.00801v1](http://arxiv.org/abs/2201.00801v1)|null|
+|**2022-01-03**|**Development of a cosmic ray oriented trigger for the fluorescence telescope on EUSO-SPB2**|George Filippatos et.al.|[2201.00794v1](http://arxiv.org/abs/2201.00794v1)|null|
+|**2022-01-02**|**VISAS -- Detecting GPS spoofing attacks against drones by analyzing camera's video stream**|Barak Davidovich et.al.|[2201.00419v1](http://arxiv.org/abs/2201.00419v1)|null|
+|**2021-12-31**|**Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints**|Ruijin Liu et.al.|[2112.15351v1](http://arxiv.org/abs/2112.15351v1)|null|
+|**2021-12-30**|**Towards Robustness of Neural Networks**|Steven Basart et.al.|[2112.15188v1](http://arxiv.org/abs/2112.15188v1)|null|
+|**2021-12-30**|**Colour alignment for relative colour constancy via non-standard references**|Yunfeng Zhao et.al.|[2112.15106v1](http://arxiv.org/abs/2112.15106v1)|null|
+|**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang et.al.|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
+|**2021-12-30**|**Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation**|Pengen Gao et.al.|[2112.14887v1](http://arxiv.org/abs/2112.14887v1)|null|
+|**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|null|
+|**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
+|**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
+|**2021-12-28**|**Video Reconstruction from a Single Motion Blurred Image using Learned Dynamic Phase Coding**|Erez Yosef et.al.|[2112.14768v1](http://arxiv.org/abs/2112.14768v1)|null|
+|**2021-12-27**|**Development of a Very Faint Meteor Detection System based on an EMCCD Sensor and Matched Filter Processing**|P. Gural et.al.|[2112.15507v1](http://arxiv.org/abs/2112.15507v1)|null|
+|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v2](http://arxiv.org/abs/2112.13889v2)|null|
+|**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
+|**2021-12-25**|**Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See'' More, Farther and Faster**|Zhongzheng Yuan et.al.|[2112.13194v1](http://arxiv.org/abs/2112.13194v1)|null|
+|**2021-12-24**|**SOFIA/FORCAST Monitoring of the Dust Emission from R Aqr: Start of the Eclipse**|Ravi Sankrit et.al.|[2112.13118v1](http://arxiv.org/abs/2112.13118v1)|null|
+|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
+|**2021-12-23**|**HSPACE: Synthetic Parametric Humans Animated in Complex Environments**|Eduard Gabriel Bazavan et.al.|[2112.12867v1](http://arxiv.org/abs/2112.12867v1)|null|
+|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
+|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
+|**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
+|**2021-12-23**|**Hidden in Plain Sight: UVIT and MUSE Discovery of a Large, Diffuse Star-Forming Galaxy**|Jyoti Yadav et.al.|[2112.12720v1](http://arxiv.org/abs/2112.12720v1)|null|
+|**2021-12-23**|**Daylight Photometry of Bright Stars -- Observations of Betelgeuse at Solar Conjunction**|Otmar Nickel et.al.|[2112.12673v1](http://arxiv.org/abs/2112.12673v1)|null|
+|**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
+|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
+|**2021-12-23**|**The Making of Catalogues of Very-High-Energy γ-ray Sources**|Mathieu de Naurois et.al.|[2112.12605v1](http://arxiv.org/abs/2112.12605v1)|null|
+|**2021-12-22**|**Quantitative assessment of fitting errors associated with streak camera noise in Thomson scattering data analysis**|G. F. Swadling et.al.|[2112.12260v1](http://arxiv.org/abs/2112.12260v1)|null|
+|**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
+
+### SFM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-03**|**Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space**|Arnav Chavan et.al.|[2201.00814v1](http://arxiv.org/abs/2201.00814v1)|null|
+|**2022-01-03**|**Wikipedia Reader Navigation: When Synthetic Data Is Enough**|Akhil Arora et.al.|[2201.00812v1](http://arxiv.org/abs/2201.00812v1)|null|
+|**2022-01-03**|**Matrix Product States with Backflow correlations**|Guglielmo Lami et.al.|[2201.00810v1](http://arxiv.org/abs/2201.00810v1)|null|
+|**2022-01-03**|**Einstein and the problem of confirmation by previously known evidence: A comment on Michel Janssen and Jürgen Renn's "Einstein and the Perihelion Motion of Mercury"**|Galina Weinstein et.al.|[2201.00807v1](http://arxiv.org/abs/2201.00807v1)|null|
+|**2022-01-03**|**Tensor-Network Approach to Work Statistics for 1D Quantum Lattice Systems**|Jiayin Gu et.al.|[2201.00806v1](http://arxiv.org/abs/2201.00806v1)|null|
+|**2022-01-03**|**Development of the Quantum Inspired SIBFA Many-Body Polarizable Force Field: I. Enabling Condensed Phase Molecular Dynamics Simulations**|Sehr Naseem-Khan et.al.|[2201.00804v1](http://arxiv.org/abs/2201.00804v1)|null|
+|**2022-01-03**|**The Cassini State of the Moon's inner core**|Christopher Stys et.al.|[2201.00803v1](http://arxiv.org/abs/2201.00803v1)|null|
+|**2022-01-03**|**Correlating research octane numbers of gasoline surrogates with high temperature oxidation characteristics**|Ruijie Zhu et.al.|[2201.00800v1](http://arxiv.org/abs/2201.00800v1)|null|
+|**2022-01-03**|**Expansion, divisibility and parity: an explanation**|Harald Andrés Helfgott et.al.|[2201.00799v1](http://arxiv.org/abs/2201.00799v1)|null|
+|**2022-01-03**|**Descriptors for Machine Learning Model of Generalized Force Field in Condensed Matter Systems**|Puhan Zhang et.al.|[2201.00798v1](http://arxiv.org/abs/2201.00798v1)|null|
+|**2022-01-03**|**A past lunar dynamo thermally driven by the precession of its inner core**|Christopher Stys et.al.|[2201.00795v1](http://arxiv.org/abs/2201.00795v1)|null|
+|**2022-01-03**|**Development of a cosmic ray oriented trigger for the fluorescence telescope on EUSO-SPB2**|George Filippatos et.al.|[2201.00794v1](http://arxiv.org/abs/2201.00794v1)|null|
+|**2022-01-03**|**Coherent dynamics of a single Mn-doped quantum dot revealed by four-wave mixing spectroscopy**|Jacek Kasprzak et.al.|[2201.00792v1](http://arxiv.org/abs/2201.00792v1)|null|
+|**2022-01-03**|**DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering**|Shunyu Yao et.al.|[2201.00791v1](http://arxiv.org/abs/2201.00791v1)|null|
+|**2022-01-03**|**Investigation of anomalous triple gauge couplings in $μγ$ collision at multi-TeV muon colliders**|S. Spor et.al.|[2201.00787v1](http://arxiv.org/abs/2201.00787v1)|null|
+|**2022-01-03**|**Viscoelastic relaxation within the Moon and the phase lead of its Cassini state**|Olivier Organowski et.al.|[2201.00786v1](http://arxiv.org/abs/2201.00786v1)|null|
+|**2022-01-03**|**The accretion process in the DQ Tau binary system**|Eleonora Fiorellino et.al.|[2201.00784v1](http://arxiv.org/abs/2201.00784v1)|null|
+|**2022-01-03**|**Planetary Terrestrial Analogues Library Project: 3. Characterization of Samples with MicrOmega**|Loizeau Damien et.al.|[2201.00778v1](http://arxiv.org/abs/2201.00778v1)|null|
+|**2022-01-03**|**Red Variable Stars in Three M81 Group Dwarf Galaxies**|T. J. Davidge et.al.|[2201.00771v1](http://arxiv.org/abs/2201.00771v1)|null|
+|**2022-01-03**|**FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment**|Javier Hernandez-Ortega et.al.|[2201.00770v1](http://arxiv.org/abs/2201.00770v1)|null|
+|**2022-01-03**|**DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection**|Phillip Rieger et.al.|[2201.00763v1](http://arxiv.org/abs/2201.00763v1)|null|
+|**2022-01-03**|**A Case Study Analysis for Designing a Lunar Navigation Satellite System with Time-Transfer from Earth-GPS**|Sriramya Bhamidipati et.al.|[2201.00761v1](http://arxiv.org/abs/2201.00761v1)|null|
+|**2022-01-03**|**Low-power optical bistability in $\mathcal{PT}$-symmetric chirped Bragg gratings with four-wave mixing**|S. Sudhakar et.al.|[2201.00760v1](http://arxiv.org/abs/2201.00760v1)|null|
+|**2022-01-03**|**A POD-Galerkin reduced order model for the Navier-Stokes equations in stream function-vorticity formulation**|Michele Girfoglio et.al.|[2201.00756v1](http://arxiv.org/abs/2201.00756v1)|null|
+|**2022-01-03**|**Measurement of the hyperfine coupling constants and absolute energies of the $12s \ ^2S_{1/2}$, $13s \ ^2S_{1/2}$, and $11d \ ^2D_{J}$ levels in atomic cesium**|Jonah A. Quirk et.al.|[2201.00755v1](http://arxiv.org/abs/2201.00755v1)|null|
+|**2022-01-03**|**Induced topological gravity and anomaly inflow from Kaehler-Dirac fermions in odd dimensions**|Simon Catterall et.al.|[2201.00750v1](http://arxiv.org/abs/2201.00750v1)|null|
+|**2022-01-03**|**Spectral cocycle for substitution tilings**|Boris Solomyak et.al.|[2201.00749v1](http://arxiv.org/abs/2201.00749v1)|null|
+|**2022-01-03**|**Perfect models for finite Coxeter groups**|Eric Marberg et.al.|[2201.00748v1](http://arxiv.org/abs/2201.00748v1)|null|
+|**2022-01-03**|**Improving the diameters of interferometric calibrators with MATISSE**|S. Robbe-Dubois et.al.|[2201.00747v1](http://arxiv.org/abs/2201.00747v1)|null|
+|**2022-01-03**|**WHOCARES: data-driven WHOle-brain CArdiac signal REgression from highly accelerated simultaneous multi-Slice fMRI acquisitions**|Nigel Colenbier et.al.|[2201.00744v1](http://arxiv.org/abs/2201.00744v1)|null|
+
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -76,6 +144,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
+|**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
+|**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
 |**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v1](http://arxiv.org/abs/2112.15583v1)|null|
 |**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
 |**2021-12-31**|**Kinetic-scale current sheets in the solar wind at 1 AU: Scale-dependent properties and critical current density**|Ivan Y. Vasko et.al.|[2112.15256v1](http://arxiv.org/abs/2112.15256v1)|null|
@@ -103,74 +174,3 @@
 |**2021-12-17**|**Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement**|E. K. J. Kilpua et.al.|[2112.09472v1](http://arxiv.org/abs/2112.09472v1)|null|
 |**2021-12-17**|**Fast inertial dynamic algorithm with smoothing method for nonsmooth convex optimization**|Xin Qu et.al.|[2112.09304v1](http://arxiv.org/abs/2112.09304v1)|null|
 |**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
-|**2021-12-16**|**Rail Vehicle Localization and Mapping with LiDAR-Vision-Inertial-GNSS Fusion**|Yusheng Wang et.al.|[2112.08563v1](http://arxiv.org/abs/2112.08563v1)|null|
-|**2021-12-15**|**A Comparison of Robust Kalman Filters for Improving Wheel-Inertial Odometry in Planetary Rovers**|Shounak Das et.al.|[2112.07872v1](http://arxiv.org/abs/2112.07872v1)|null|
-|**2021-12-14**|**ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots**|Cagri Kilic et.al.|[2112.07176v1](http://arxiv.org/abs/2112.07176v1)|[link](https://github.com/wvu-navlab/gnss-ins-zupt)|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-12-31**|**Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints**|Ruijin Liu et.al.|[2112.15351v1](http://arxiv.org/abs/2112.15351v1)|null|
-|**2021-12-30**|**Towards Robustness of Neural Networks**|Steven Basart et.al.|[2112.15188v1](http://arxiv.org/abs/2112.15188v1)|null|
-|**2021-12-30**|**Colour alignment for relative colour constancy via non-standard references**|Yunfeng Zhao et.al.|[2112.15106v1](http://arxiv.org/abs/2112.15106v1)|null|
-|**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang et.al.|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
-|**2021-12-30**|**Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation**|Pengen Gao et.al.|[2112.14887v1](http://arxiv.org/abs/2112.14887v1)|null|
-|**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|null|
-|**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
-|**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
-|**2021-12-28**|**Video Reconstruction from a Single Motion Blurred Image using Learned Dynamic Phase Coding**|Erez Yosef et.al.|[2112.14768v1](http://arxiv.org/abs/2112.14768v1)|null|
-|**2021-12-27**|**Development of a Very Faint Meteor Detection System based on an EMCCD Sensor and Matched Filter Processing**|P. Gural et.al.|[2112.15507v1](http://arxiv.org/abs/2112.15507v1)|null|
-|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v2](http://arxiv.org/abs/2112.13889v2)|null|
-|**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
-|**2021-12-25**|**Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See'' More, Farther and Faster**|Zhongzheng Yuan et.al.|[2112.13194v1](http://arxiv.org/abs/2112.13194v1)|null|
-|**2021-12-24**|**SOFIA/FORCAST Monitoring of the Dust Emission from R Aqr: Start of the Eclipse**|Ravi Sankrit et.al.|[2112.13118v1](http://arxiv.org/abs/2112.13118v1)|null|
-|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
-|**2021-12-23**|**HSPACE: Synthetic Parametric Humans Animated in Complex Environments**|Eduard Gabriel Bazavan et.al.|[2112.12867v1](http://arxiv.org/abs/2112.12867v1)|null|
-|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
-|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
-|**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
-|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
-|**2021-12-23**|**Hidden in Plain Sight: UVIT and MUSE Discovery of a Large, Diffuse Star-Forming Galaxy**|Jyoti Yadav et.al.|[2112.12720v1](http://arxiv.org/abs/2112.12720v1)|null|
-|**2021-12-23**|**Daylight Photometry of Bright Stars -- Observations of Betelgeuse at Solar Conjunction**|Otmar Nickel et.al.|[2112.12673v1](http://arxiv.org/abs/2112.12673v1)|null|
-|**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
-|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
-|**2021-12-23**|**The Making of Catalogues of Very-High-Energy γ-ray Sources**|Mathieu de Naurois et.al.|[2112.12605v1](http://arxiv.org/abs/2112.12605v1)|null|
-|**2021-12-22**|**Quantitative assessment of fitting errors associated with streak camera noise in Thomson scattering data analysis**|G. F. Swadling et.al.|[2112.12260v1](http://arxiv.org/abs/2112.12260v1)|null|
-|**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
-|**2021-12-22**|**A study on UV emission from clouds with Mini-EUSO**|Alessio Golzio et.al.|[2112.11878v1](http://arxiv.org/abs/2112.11878v1)|null|
-|**2021-12-22**|**BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View**|Junjie Huang et.al.|[2112.11790v1](http://arxiv.org/abs/2112.11790v1)|null|
-|**2021-12-22**|**AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation**|Mohsen Gholami et.al.|[2112.11593v1](http://arxiv.org/abs/2112.11593v1)|null|
-
-### SFM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-12-31**|**Triangular Flows for Generative Modeling: Statistical Consistency, Smoothness Classes, and Fast Rates**|Nicholas J. Irons et.al.|[2112.15595v1](http://arxiv.org/abs/2112.15595v1)|null|
-|**2021-12-31**|**A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More**|Iddo Drori et.al.|[2112.15594v1](http://arxiv.org/abs/2112.15594v1)|null|
-|**2021-12-31**|**Shadow Extra Dimensions & Fuzzy Branes with an Exorcized Spectrum**|Florian Nortier et.al.|[2112.15592v1](http://arxiv.org/abs/2112.15592v1)|null|
-|**2021-12-31**|**High-Order Statistical Functional Expansion and Its Application To Some Nonsmooth Problems**|Fan Zhou et.al.|[2112.15591v1](http://arxiv.org/abs/2112.15591v1)|null|
-|**2021-12-31**|**3-D Material Style Transfer for Reconstructing Unknown Appearance in Complex Natural Materials**|Shashank Ranjan et.al.|[2112.15589v1](http://arxiv.org/abs/2112.15589v1)|null|
-|**2021-12-31**|**Meson structure on the light-front III : The Hamiltonian, heavy quarkonia, spin and orbit mixing**|Edward Shuryak et.al.|[2112.15586v1](http://arxiv.org/abs/2112.15586v1)|null|
-|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v1](http://arxiv.org/abs/2112.15583v1)|null|
-|**2021-12-31**|**Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning**|Samin Yeasar Arnob et.al.|[2112.15578v1](http://arxiv.org/abs/2112.15578v1)|null|
-|**2021-12-31**|**Infinite wide (finite depth) Neural Networks benefit from multi-task learning unlike shallow Gaussian Processes -- an exact quantitative macroscopic characterization**|Jakob Heiss et.al.|[2112.15577v1](http://arxiv.org/abs/2112.15577v1)|null|
-|**2021-12-31**|**Fast Learning of MNL Model from General Partial Rankings with Application to Network Formation Modeling**|Jiaqi Ma et.al.|[2112.15575v1](http://arxiv.org/abs/2112.15575v1)|[link](https://github.com/xingjian-zhang/fast-partial-ranking-mnl)|
-|**2021-12-31**|**Enhanced Phonon Peak in Four-point Dynamic Susceptibility in the Supercooled Active Glass-forming Liquids**|Subhodeep Dey et.al.|[2112.15574v1](http://arxiv.org/abs/2112.15574v1)|null|
-|**2021-12-31**|**Higher spin dynamics in gravity and $w_{1 + \infty}$ celestial symmetries**|Laurent Freidel et.al.|[2112.15573v1](http://arxiv.org/abs/2112.15573v1)|null|
-|**2021-12-31**|**Actor Loss of Soft Actor Critic Explained**|Thibault Lahire et.al.|[2112.15568v1](http://arxiv.org/abs/2112.15568v1)|null|
-|**2021-12-31**|**Proxy ensemble geometric phase and proxy index of time-reversal invariant topological insulators at finite temperatures**|Aixin Pi et.al.|[2112.15567v1](http://arxiv.org/abs/2112.15567v1)|null|
-|**2021-12-31**|**SOK: On the Analysis of Web Browser Security**|Jungwon Lim et.al.|[2112.15561v1](http://arxiv.org/abs/2112.15561v1)|null|
-|**2021-12-31**|**A General Statistical Mechanics Framework for the Collective Motion of Animals**|Jiacheng Cai et.al.|[2112.15560v1](http://arxiv.org/abs/2112.15560v1)|null|
-|**2021-12-31**|**Planetesimal rings as the cause of the Solar System's planetary architecture**|Andre Izidoro et.al.|[2112.15558v1](http://arxiv.org/abs/2112.15558v1)|null|
-|**2021-12-31**|**Estimating the spectral density of unstable scars**|Domenico Lippolis et.al.|[2112.15554v1](http://arxiv.org/abs/2112.15554v1)|null|
-|**2021-12-31**|**Magnetoelectric Bio-Implants Powered and Programmed by a Single Transmitter for Coordinated Multisite Stimulation**|Zhanghao Yu et.al.|[2112.15552v1](http://arxiv.org/abs/2112.15552v1)|null|
-|**2021-12-31**|**A Markov Decision Process Framework for Efficient and Implementable Contact Tracing and Isolation**|George Li et.al.|[2112.15547v1](http://arxiv.org/abs/2112.15547v1)|null|
-|**2021-12-31**|**ArH+ and H2O+ absorption towards luminous galaxies**|Arshia M. Jacob et.al.|[2112.15546v1](http://arxiv.org/abs/2112.15546v1)|null|
-|**2021-12-31**|**Spectral functions of the Holstein polaron: exact and approximate solutions**|Petar Mitrić et.al.|[2112.15542v1](http://arxiv.org/abs/2112.15542v1)|null|
-|**2021-12-31**|**Numerical Simulations of Noisy Quantum Circuits for Computational Chemistry**|Jerimiah Wright et.al.|[2112.15540v1](http://arxiv.org/abs/2112.15540v1)|null|
-|**2021-12-31**|**Machine learning based disease diagnosis: A comprehensive review**|Md Manjurul Ahsan et.al.|[2112.15538v1](http://arxiv.org/abs/2112.15538v1)|null|
-|**2021-12-31**|**Collider Signatures of Type-X 2HDM + scalar singlet dark matter at HL-LHC**|Atri Dey et.al.|[2112.15536v1](http://arxiv.org/abs/2112.15536v1)|null|
-|**2021-12-31**|**Machine Learning Trivializing Maps: A First Step Towards Understanding How Flow-Based Samplers Scale Up**|Luigi Del Debbio et.al.|[2112.15532v1](http://arxiv.org/abs/2112.15532v1)|null|
-|**2021-12-31**|**Hydrodynamic helicity polarization in relativistic heavy ion collisions**|Cong Yi et.al.|[2112.15531v1](http://arxiv.org/abs/2112.15531v1)|null|
-|**2021-12-31**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
-|**2021-12-31**|**Fine-grained domain counting and percolation analysis in 2D lattice systems with linked-lists**|Hrushikesh Sable et.al.|[2112.15527v1](http://arxiv.org/abs/2112.15527v1)|null|
-|**2021-12-31**|**Transfer learning for cancer diagnosis in histopathological images**|Sandhya Aneja et.al.|[2112.15523v1](http://arxiv.org/abs/2112.15523v1)|null|

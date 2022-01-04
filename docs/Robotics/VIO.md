@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
+|**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
+|**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
 |**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v1](http://arxiv.org/abs/2112.15583v1)|null|
 |**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
 |**2021-12-31**|**Kinetic-scale current sheets in the solar wind at 1 AU: Scale-dependent properties and critical current density**|Ivan Y. Vasko et.al.|[2112.15256v1](http://arxiv.org/abs/2112.15256v1)|null|
@@ -29,6 +32,3 @@
 |**2021-12-17**|**Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement**|E. K. J. Kilpua et.al.|[2112.09472v1](http://arxiv.org/abs/2112.09472v1)|null|
 |**2021-12-17**|**Fast inertial dynamic algorithm with smoothing method for nonsmooth convex optimization**|Xin Qu et.al.|[2112.09304v1](http://arxiv.org/abs/2112.09304v1)|null|
 |**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
-|**2021-12-16**|**Rail Vehicle Localization and Mapping with LiDAR-Vision-Inertial-GNSS Fusion**|Yusheng Wang et.al.|[2112.08563v1](http://arxiv.org/abs/2112.08563v1)|null|
-|**2021-12-15**|**A Comparison of Robust Kalman Filters for Improving Wheel-Inertial Odometry in Planetary Rovers**|Shounak Das et.al.|[2112.07872v1](http://arxiv.org/abs/2112.07872v1)|null|
-|**2021-12-14**|**ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots**|Cagri Kilic et.al.|[2112.07176v1](http://arxiv.org/abs/2112.07176v1)|[link](https://github.com/wvu-navlab/gnss-ins-zupt)|
