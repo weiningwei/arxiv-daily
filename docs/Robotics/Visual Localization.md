@@ -2,8 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-04**|**The Mini-EUSO telescope on board the International Space Station: Launch and first results**|M Casolino et.al.|[2201.01213v1](http://arxiv.org/abs/2201.01213v1)|null|
+|**2022-01-04**|**Detailed analysis on the reflection component for the black hole candidate MAXI J1348-630**|Nan Jia et.al.|[2201.01207v1](http://arxiv.org/abs/2201.01207v1)|null|
+|**2022-01-04**|**Learning Quality-aware Representation for Multi-person Pose Regression**|Yabo Xiao et.al.|[2201.01087v1](http://arxiv.org/abs/2201.01087v1)|null|
+|**2022-01-04**|**A Robust Visual Sampling Model Inspired by Receptive Field**|Liwen Hu et.al.|[2201.01030v1](http://arxiv.org/abs/2201.01030v1)|null|
+|**2022-01-04**|**Primitive Shape Recognition for Object Grasping**|Yunzhi Lin et.al.|[2201.00956v1](http://arxiv.org/abs/2201.00956v1)|null|
+|**2022-01-04**|**Learning Safe, Generalizable Perception-based Hybrid Control with Certificates**|Charles Dawson et.al.|[2201.00932v1](http://arxiv.org/abs/2201.00932v1)|null|
+|**2022-01-03**|**Mapping the Surface of Partially Cloudy Exoplanets is Hard**|Lucas Teinturier et.al.|[2201.00825v1](http://arxiv.org/abs/2201.00825v1)|null|
 |**2022-01-03**|**Revisiting PGD Attacks for Stability Analysis of Large-Scale Nonlinear Systems and Perception-Based Control**|Aaron Havens et.al.|[2201.00801v1](http://arxiv.org/abs/2201.00801v1)|null|
 |**2022-01-03**|**Development of a cosmic ray oriented trigger for the fluorescence telescope on EUSO-SPB2**|George Filippatos et.al.|[2201.00794v1](http://arxiv.org/abs/2201.00794v1)|null|
+|**2022-01-03**|**Robust Semi-supervised Federated Learning for Images Automatic Recognition in Internet of Drones**|Zhe Zhang et.al.|[2201.01230v1](http://arxiv.org/abs/2201.01230v1)|null|
 |**2022-01-02**|**VISAS -- Detecting GPS spoofing attacks against drones by analyzing camera's video stream**|Barak Davidovich et.al.|[2201.00419v1](http://arxiv.org/abs/2201.00419v1)|null|
 |**2021-12-31**|**Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints**|Ruijin Liu et.al.|[2112.15351v1](http://arxiv.org/abs/2112.15351v1)|[link](https://github.com/liuruijin17/clgo)|
 |**2021-12-30**|**Towards Robustness of Neural Networks**|Steven Basart et.al.|[2112.15188v1](http://arxiv.org/abs/2112.15188v1)|null|
@@ -24,11 +32,3 @@
 |**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
 |**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
-|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
-|**2021-12-23**|**Hidden in Plain Sight: UVIT and MUSE Discovery of a Large, Diffuse Star-Forming Galaxy**|Jyoti Yadav et.al.|[2112.12720v1](http://arxiv.org/abs/2112.12720v1)|null|
-|**2021-12-23**|**Daylight Photometry of Bright Stars -- Observations of Betelgeuse at Solar Conjunction**|Otmar Nickel et.al.|[2112.12673v1](http://arxiv.org/abs/2112.12673v1)|null|
-|**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
-|**2021-12-23**|**PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving**|Pengchuan Xiao et.al.|[2112.12610v1](http://arxiv.org/abs/2112.12610v1)|null|
-|**2021-12-23**|**The Making of Catalogues of Very-High-Energy γ-ray Sources**|Mathieu de Naurois et.al.|[2112.12605v1](http://arxiv.org/abs/2112.12605v1)|null|
-|**2021-12-22**|**Quantitative assessment of fitting errors associated with streak camera noise in Thomson scattering data analysis**|G. F. Swadling et.al.|[2112.12260v1](http://arxiv.org/abs/2112.12260v1)|null|
-|**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
