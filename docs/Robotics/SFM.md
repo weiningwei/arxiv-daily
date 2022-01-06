@@ -21,7 +21,7 @@
 |**2022-01-04**|**Enhanced coupling of electron and nuclear spins by quantum tunneling resonances**|Anatoli Tsinovoy et.al.|[2201.01255v1](http://arxiv.org/abs/2201.01255v1)|null|
 |**2022-01-04**|**Trade-offs in the design and communication of flood-risk information**|Courtney M. Cooper et.al.|[2201.01254v1](http://arxiv.org/abs/2201.01254v1)|null|
 |**2022-01-04**|**Relaxation to steady states of a binary liquid mixture around an optically heated colloid**|Takeaki Araki et.al.|[2201.01253v1](http://arxiv.org/abs/2201.01253v1)|null|
-|**2022-01-04**|**Multi-Stage Episodic Control for Strategic Exploration in Text Games**|Jens Tuyls et.al.|[2201.01251v1](http://arxiv.org/abs/2201.01251v1)|null|
+|**2022-01-04**|**Multi-Stage Episodic Control for Strategic Exploration in Text Games**|Jens Tuyls et.al.|[2201.01251v1](http://arxiv.org/abs/2201.01251v1)|[link](https://github.com/princeton-nlp/xtx)|
 |**2022-01-04**|**ExAID: A Multimodal Explanation Framework for Computer-Aided Diagnosis of Skin Lesions**|Adriano Lucieri et.al.|[2201.01249v1](http://arxiv.org/abs/2201.01249v1)|null|
 |**2022-01-04**|**On the primality and elasticity of algebraic valuations of cyclic free semirings**|Nancy Jiang et.al.|[2201.01245v1](http://arxiv.org/abs/2201.01245v1)|null|
 |**2022-01-04**|**The Parental Active Model: a unifying stochastic description of self-propulsion**|Lorenzo Caprini et.al.|[2201.01244v1](http://arxiv.org/abs/2201.01244v1)|null|
