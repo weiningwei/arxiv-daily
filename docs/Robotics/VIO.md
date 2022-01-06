@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
 |**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
 |**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
@@ -31,4 +32,3 @@
 |**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
 |**2021-12-17**|**A continuous, sub-Doppler-cooled atomic beam interferometer for inertial sensing**|J. M. Kwolek et.al.|[2112.09666v1](http://arxiv.org/abs/2112.09666v1)|null|
 |**2021-12-17**|**Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement**|E. K. J. Kilpua et.al.|[2112.09472v1](http://arxiv.org/abs/2112.09472v1)|null|
-|**2021-12-17**|**Fast inertial dynamic algorithm with smoothing method for nonsmooth convex optimization**|Xin Qu et.al.|[2112.09304v1](http://arxiv.org/abs/2112.09304v1)|null|
