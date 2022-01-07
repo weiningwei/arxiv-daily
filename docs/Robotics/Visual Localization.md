@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v1](http://arxiv.org/abs/2201.02017v1)|null|
+|**2022-01-06**|**Multi-Domain Joint Training for Person Re-Identification**|Lu Yang et.al.|[2201.01983v1](http://arxiv.org/abs/2201.01983v1)|null|
+|**2022-01-06**|**Multi-Label Classification on Remote-Sensing Images**|Aditya Kumar Singh et.al.|[2201.01971v1](http://arxiv.org/abs/2201.01971v1)|null|
+|**2022-01-06**|**Egocentric Deep Multi-Channel Audio-Visual Active Speaker Localization**|Hao Jiang et.al.|[2201.01928v1](http://arxiv.org/abs/2201.01928v1)|null|
+|**2022-01-05**|**AlphaCAMM, a Micromegas-based camera for high-sensitivity screening of alpha surface contamination**|Konrad Altenmüller et.al.|[2201.01859v1](http://arxiv.org/abs/2201.01859v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
 |**2022-01-05**|**Evaluation of Thermal Imaging on Embedded GPU Platforms for Application in Vehicular Assistance Systems**|Muhammad Ali Farooq et.al.|[2201.01661v1](http://arxiv.org/abs/2201.01661v1)|null|
 |**2022-01-05**|**Neuromorphic Vision Based Control for the Precise Positioning of Robotic Drilling Systems**|Abdulla Ayyad et.al.|[2201.01626v1](http://arxiv.org/abs/2201.01626v1)|null|
@@ -27,8 +32,3 @@
 |**2021-12-30**|**Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation**|Pengen Gao et.al.|[2112.14887v1](http://arxiv.org/abs/2112.14887v1)|null|
 |**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|[link](https://github.com/farjadmalik/aigoeswild)|
 |**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|
-|**2021-12-28**|**Robotic Perception of Object Properties using Tactile Sensing**|Jiaqi Jiang et.al.|[2112.14119v1](http://arxiv.org/abs/2112.14119v1)|null|
-|**2021-12-28**|**Video Reconstruction from a Single Motion Blurred Image using Learned Dynamic Phase Coding**|Erez Yosef et.al.|[2112.14768v1](http://arxiv.org/abs/2112.14768v1)|null|
-|**2021-12-27**|**Development of a Very Faint Meteor Detection System based on an EMCCD Sensor and Matched Filter Processing**|P. Gural et.al.|[2112.15507v1](http://arxiv.org/abs/2112.15507v1)|null|
-|**2021-12-27**|**Human View Synthesis using a Single Sparse RGB-D Input**|Phong Nguyen et.al.|[2112.13889v2](http://arxiv.org/abs/2112.13889v2)|null|
-|**2021-12-26**|**Imaging through scattering media via spatial-temporal encoded pattern illumination**|Xingchen Zhao et.al.|[2112.13303v1](http://arxiv.org/abs/2112.13303v1)|null|
