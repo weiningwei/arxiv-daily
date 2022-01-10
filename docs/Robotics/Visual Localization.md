@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-07**|**Integration and qualification of the Mini-EUSO telescope on board the ISS**|G. Cambié et.al.|[2201.02597v1](http://arxiv.org/abs/2201.02597v1)|null|
+|**2022-01-07**|**NeROIC: Neural Rendering of Objects from Online Image Collections**|Zhengfei Kuang et.al.|[2201.02533v1](http://arxiv.org/abs/2201.02533v1)|null|
+|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
+|**2022-01-07**|**Unwinding Rotations Improves User Comfort with Immersive Telepresence Robots**|Markku Suomalainen et.al.|[2201.02392v1](http://arxiv.org/abs/2201.02392v1)|null|
 |**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
 |**2022-01-06**|**Multi-Domain Joint Training for Person Re-Identification**|Lu Yang et.al.|[2201.01983v1](http://arxiv.org/abs/2201.01983v1)|null|
 |**2022-01-06**|**Multi-Label Classification on Remote-Sensing Images**|Aditya Kumar Singh et.al.|[2201.01971v1](http://arxiv.org/abs/2201.01971v1)|null|
@@ -28,7 +32,3 @@
 |**2021-12-31**|**Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints**|Ruijin Liu et.al.|[2112.15351v1](http://arxiv.org/abs/2112.15351v1)|[link](https://github.com/liuruijin17/clgo)|
 |**2021-12-30**|**Towards Robustness of Neural Networks**|Steven Basart et.al.|[2112.15188v1](http://arxiv.org/abs/2112.15188v1)|null|
 |**2021-12-30**|**Colour alignment for relative colour constancy via non-standard references**|Yunfeng Zhao et.al.|[2112.15106v1](http://arxiv.org/abs/2112.15106v1)|null|
-|**2021-12-30**|**Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth**|Seongyeop Yang et.al.|[2112.14931v1](http://arxiv.org/abs/2112.14931v1)|null|
-|**2021-12-30**|**Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation**|Pengen Gao et.al.|[2112.14887v1](http://arxiv.org/abs/2112.14887v1)|null|
-|**2021-12-29**|**Two-phase training mitigates class imbalance for camera trap image classification with CNNs**|Farjad Malik et.al.|[2112.14491v1](http://arxiv.org/abs/2112.14491v1)|[link](https://github.com/farjadmalik/aigoeswild)|
-|**2021-12-28**|**Mitigating Satellite Trails: a Study of Residual Light after Masking**|Imran Hasan et.al.|[2112.14292v1](http://arxiv.org/abs/2112.14292v1)|null|

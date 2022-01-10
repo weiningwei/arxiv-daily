@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
+|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
+|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v1](http://arxiv.org/abs/2201.02407v1)|null|
+|**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
 |**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
@@ -28,7 +32,3 @@
 |**2021-12-20**|**The effect of acceleration parameter on thermal entanglement and teleportation of a two-qubit Heisenberg XXX model with Dzyaloshinski-Moriya interaction in non-inertial frames**|Chuan Mo et.al.|[2112.10344v1](http://arxiv.org/abs/2112.10344v1)|null|
 |**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
 |**2021-12-19**|**Enhancing fiber atom interferometer by in-fiber laser cooling**|Yu Wang et.al.|[2112.10088v1](http://arxiv.org/abs/2112.10088v1)|null|
-|**2021-12-19**|**Role of entropic-instabilities in laminar-turbulent transition on a blunted flat plate**|Hemanth Goparaju et.al.|[2112.10049v1](http://arxiv.org/abs/2112.10049v1)|null|
-|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
-|**2021-12-17**|**A continuous, sub-Doppler-cooled atomic beam interferometer for inertial sensing**|J. M. Kwolek et.al.|[2112.09666v1](http://arxiv.org/abs/2112.09666v1)|null|
-|**2021-12-17**|**Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement**|E. K. J. Kilpua et.al.|[2112.09472v1](http://arxiv.org/abs/2112.09472v1)|null|
