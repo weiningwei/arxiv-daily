@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
+|**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
 |**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
 |**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
 |**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v1](http://arxiv.org/abs/2201.02407v1)|null|
@@ -30,5 +32,3 @@
 |**2021-12-22**|**The bifurcation lemma for strong properties in the inverse eigenvalue problem of a graph**|Shaun M. Fallat et.al.|[2112.11712v1](http://arxiv.org/abs/2112.11712v1)|null|
 |**2021-12-20**|**Attention-Based Sensor Fusion for Human Activity Recognition Using IMU Signals**|Wenjin Tao et.al.|[2112.11224v1](http://arxiv.org/abs/2112.11224v1)|null|
 |**2021-12-20**|**The effect of acceleration parameter on thermal entanglement and teleportation of a two-qubit Heisenberg XXX model with Dzyaloshinski-Moriya interaction in non-inertial frames**|Chuan Mo et.al.|[2112.10344v1](http://arxiv.org/abs/2112.10344v1)|null|
-|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
-|**2021-12-19**|**Enhancing fiber atom interferometer by in-fiber laser cooling**|Yu Wang et.al.|[2112.10088v1](http://arxiv.org/abs/2112.10088v1)|null|
