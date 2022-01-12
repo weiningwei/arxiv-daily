@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
+|**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
+|**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v1](http://arxiv.org/abs/2201.03817v1)|null|
+|**2022-01-10**|**Fluctuations and power-law scaling of dry, frictionless granular rheology near the hard-particle limit**|A. P. Santos et.al.|[2201.03680v1](http://arxiv.org/abs/2201.03680v1)|null|
+|**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
 |**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
 |**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
 |**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
@@ -27,8 +32,3 @@
 |**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
 |**2021-12-23**|**Nutation spin waves in ferromagnets**|Sergei V. Titov et.al.|[2112.12503v1](http://arxiv.org/abs/2112.12503v1)|null|
 |**2021-12-23**|**Effect of Positive Polarity in an Inertial Electrostatic Confinement Fusion Device: Electron Confinement, X-ray Production, and Radiography**|D. Bhattacharjee et.al.|[2112.12440v1](http://arxiv.org/abs/2112.12440v1)|null|
-|**2021-12-23**|**Globally convergent visual-feature range estimation with biased inertial measurements**|Bowen Yi et.al.|[2112.12325v1](http://arxiv.org/abs/2112.12325v1)|null|
-|**2021-12-22**|**Hybrid Paricle-in-Cell Simulations of Electromagnetic Coupling and Waves From Streaming Burst Debris**|Brett D. Keenan et.al.|[2112.12114v1](http://arxiv.org/abs/2112.12114v1)|null|
-|**2021-12-22**|**The bifurcation lemma for strong properties in the inverse eigenvalue problem of a graph**|Shaun M. Fallat et.al.|[2112.11712v1](http://arxiv.org/abs/2112.11712v1)|null|
-|**2021-12-20**|**Attention-Based Sensor Fusion for Human Activity Recognition Using IMU Signals**|Wenjin Tao et.al.|[2112.11224v1](http://arxiv.org/abs/2112.11224v1)|null|
-|**2021-12-20**|**The effect of acceleration parameter on thermal entanglement and teleportation of a two-qubit Heisenberg XXX model with Dzyaloshinski-Moriya interaction in non-inertial frames**|Chuan Mo et.al.|[2112.10344v1](http://arxiv.org/abs/2112.10344v1)|null|
