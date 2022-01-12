@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|null|
+|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|[link](https://github.com/bmhopkinson/hyslam)|
 |**2022-01-10**|**PlomBOX -- development of a low-cost CMOS device for environmental monitoring**|A. Aguilar-Arevalo et.al.|[2201.03348v1](http://arxiv.org/abs/2201.03348v1)|null|
 |**2022-01-10**|**Model-Based Image Signal Processors via Learnable Dictionaries**|Marcos V. Conde et.al.|[2201.03210v1](http://arxiv.org/abs/2201.03210v1)|null|
 |**2022-01-09**|**Camera Model Identification Using Container and Encoding Characteristics of Video Files**|Enes Altinisik et.al.|[2201.02949v1](http://arxiv.org/abs/2201.02949v1)|null|
