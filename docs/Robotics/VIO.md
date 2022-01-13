@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
-|**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v1](http://arxiv.org/abs/2201.03817v1)|null|
+|**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v2](http://arxiv.org/abs/2201.03817v2)|null|
 |**2022-01-10**|**Fluctuations and power-law scaling of dry, frictionless granular rheology near the hard-particle limit**|A. P. Santos et.al.|[2201.03680v1](http://arxiv.org/abs/2201.03680v1)|null|
 |**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
 |**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
