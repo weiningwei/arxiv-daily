@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-12**|**An XMM-Newton catalogue of BL Lacs**|I. de la Calle Pérez et.al.|[2201.04468v1](http://arxiv.org/abs/2201.04468v1)|null|
+|**2022-01-12**|**Obstacle avoidance for blind people using a 3D camera and a haptic feedback sleeve**|Manuel Zahn et.al.|[2201.04453v1](http://arxiv.org/abs/2201.04453v1)|null|
+|**2022-01-12**|**Video Intelligence as a component of a Global Security system**|Dominique Verdejo et.al.|[2201.04349v1](http://arxiv.org/abs/2201.04349v1)|null|
+|**2022-01-11**|**A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b**|Jonathan Brande et.al.|[2201.04197v1](http://arxiv.org/abs/2201.04197v1)|null|
 |**2022-01-11**|**Orbital elements and individual component masses from joint spectroscopic and astrometric data of double-line spectroscopic binaries**|Jennifer Anguita-Aguero et.al.|[2201.04134v1](http://arxiv.org/abs/2201.04134v1)|null|
 |**2022-01-11**|**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video**|Chung-Yi Weng et.al.|[2201.04127v1](http://arxiv.org/abs/2201.04127v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
@@ -28,7 +32,3 @@
 |**2022-01-07**|**Unwinding Rotations Improves User Comfort with Immersive Telepresence Robots**|Markku Suomalainen et.al.|[2201.02392v1](http://arxiv.org/abs/2201.02392v1)|null|
 |**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
 |**2022-01-06**|**Multi-Domain Joint Training for Person Re-Identification**|Lu Yang et.al.|[2201.01983v1](http://arxiv.org/abs/2201.01983v1)|null|
-|**2022-01-06**|**Multi-Label Classification on Remote-Sensing Images**|Aditya Kumar Singh et.al.|[2201.01971v1](http://arxiv.org/abs/2201.01971v1)|null|
-|**2022-01-06**|**HuSpaCy: an industrial-strength Hungarian natural language processing toolkit**|György Orosz et.al.|[2201.01956v2](http://arxiv.org/abs/2201.01956v2)|[link](https://github.com/oroszgy/spacy-hungarian-models)|
-|**2022-01-06**|**Egocentric Deep Multi-Channel Audio-Visual Active Speaker Localization**|Hao Jiang et.al.|[2201.01928v1](http://arxiv.org/abs/2201.01928v1)|null|
-|**2022-01-05**|**AlphaCAMM, a Micromegas-based camera for high-sensitivity screening of alpha surface contamination**|Konrad Altenmüller et.al.|[2201.01859v1](http://arxiv.org/abs/2201.01859v1)|null|

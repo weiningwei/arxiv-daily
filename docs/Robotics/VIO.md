@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-12**|**Ability-based Methods for Personalized Keyboard Generation**|Claire L. Mitchell et.al.|[2201.04593v1](http://arxiv.org/abs/2201.04593v1)|null|
+|**2022-01-12**|**Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance**|Alexander Herbst et.al.|[2201.04544v1](http://arxiv.org/abs/2201.04544v1)|null|
+|**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
+|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v1](http://arxiv.org/abs/2201.04426v1)|null|
+|**2022-01-12**|**Bundle Theoretic Descriptions of Massive Single-Particle State Spaces; With a view toward Relativistic Quantum Information Theory**|Heon Lee et.al.|[2201.04324v1](http://arxiv.org/abs/2201.04324v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
 |**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v2](http://arxiv.org/abs/2201.03817v2)|null|
@@ -27,8 +32,3 @@
 |**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
 |**2021-12-26**|**Microscopic collective inertial masses for nuclear reaction in the presence of nucleonic effective mass**|Kai Wen et.al.|[2112.13317v1](http://arxiv.org/abs/2112.13317v1)|null|
 |**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
-|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
-|**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
-|**2021-12-23**|**Nutation spin waves in ferromagnets**|Sergei V. Titov et.al.|[2112.12503v1](http://arxiv.org/abs/2112.12503v1)|null|
-|**2021-12-23**|**Effect of Positive Polarity in an Inertial Electrostatic Confinement Fusion Device: Electron Confinement, X-ray Production, and Radiography**|D. Bhattacharjee et.al.|[2112.12440v1](http://arxiv.org/abs/2112.12440v1)|null|
