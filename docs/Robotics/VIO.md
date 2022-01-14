@@ -5,7 +5,7 @@
 |**2022-01-12**|**Ability-based Methods for Personalized Keyboard Generation**|Claire L. Mitchell et.al.|[2201.04593v1](http://arxiv.org/abs/2201.04593v1)|null|
 |**2022-01-12**|**Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance**|Alexander Herbst et.al.|[2201.04544v1](http://arxiv.org/abs/2201.04544v1)|null|
 |**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
-|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v1](http://arxiv.org/abs/2201.04426v1)|null|
+|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v2](http://arxiv.org/abs/2201.04426v2)|null|
 |**2022-01-12**|**Bundle Theoretic Descriptions of Massive Single-Particle State Spaces; With a view toward Relativistic Quantum Information Theory**|Heon Lee et.al.|[2201.04324v1](http://arxiv.org/abs/2201.04324v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|

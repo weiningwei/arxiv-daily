@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2022-01-14 08:23:18 Asia/Shanghai
+ Automated deployment @ 2022-01-14 09:41:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-12**|**Ability-based Methods for Personalized Keyboard Generation**|Claire L. Mitchell et.al.|[2201.04593v1](http://arxiv.org/abs/2201.04593v1)|null|
-|**2022-01-12**|**Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance**|Alexander Herbst et.al.|[2201.04544v1](http://arxiv.org/abs/2201.04544v1)|null|
-|**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
-|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v1](http://arxiv.org/abs/2201.04426v1)|null|
-|**2022-01-12**|**Bundle Theoretic Descriptions of Massive Single-Particle State Spaces; With a view toward Relativistic Quantum Information Theory**|Heon Lee et.al.|[2201.04324v1](http://arxiv.org/abs/2201.04324v1)|null|
-|**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
-|**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
-|**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v2](http://arxiv.org/abs/2201.03817v2)|null|
-|**2022-01-10**|**Fluctuations and power-law scaling of dry, frictionless granular rheology near the hard-particle limit**|A. P. Santos et.al.|[2201.03680v1](http://arxiv.org/abs/2201.03680v1)|null|
-|**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
-|**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
-|**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
-|**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
-|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
-|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v1](http://arxiv.org/abs/2201.02407v1)|null|
-|**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
-|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
-|**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
-|**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
-|**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
-|**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
-|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v3](http://arxiv.org/abs/2112.15583v3)|null|
-|**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
-|**2021-12-31**|**Kinetic-scale current sheets in the solar wind at 1 AU: Scale-dependent properties and critical current density**|Ivan Y. Vasko et.al.|[2112.15256v1](http://arxiv.org/abs/2112.15256v1)|null|
-|**2021-12-30**|**Two Approaches for the Passive Charge Management of Contactless Test Masses**|S. Wang et.al.|[2112.15234v1](http://arxiv.org/abs/2112.15234v1)|null|
-|**2021-12-28**|**Metadamping in inertially amplified metamaterials: Trade-off between spatial attenuation and temporal attenuation**|Mahmoud I. Hussein et.al.|[2112.14322v1](http://arxiv.org/abs/2112.14322v1)|null|
-|**2021-12-27**|**About the incompressible energy cascade rate in anisotropic solar wind turbulence**|N. Andrés et.al.|[2112.13748v1](http://arxiv.org/abs/2112.13748v1)|null|
-|**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
-|**2021-12-26**|**Microscopic collective inertial masses for nuclear reaction in the presence of nucleonic effective mass**|Kai Wen et.al.|[2112.13317v1](http://arxiv.org/abs/2112.13317v1)|null|
-|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-12**|**An XMM-Newton catalogue of BL Lacs**|I. de la Calle Pérez et.al.|[2201.04468v1](http://arxiv.org/abs/2201.04468v1)|null|
-|**2022-01-12**|**Obstacle avoidance for blind people using a 3D camera and a haptic feedback sleeve**|Manuel Zahn et.al.|[2201.04453v1](http://arxiv.org/abs/2201.04453v1)|null|
-|**2022-01-12**|**Video Intelligence as a component of a Global Security system**|Dominique Verdejo et.al.|[2201.04349v1](http://arxiv.org/abs/2201.04349v1)|null|
-|**2022-01-11**|**A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b**|Jonathan Brande et.al.|[2201.04197v1](http://arxiv.org/abs/2201.04197v1)|null|
-|**2022-01-11**|**Orbital elements and individual component masses from joint spectroscopic and astrometric data of double-line spectroscopic binaries**|Jennifer Anguita-Aguero et.al.|[2201.04134v1](http://arxiv.org/abs/2201.04134v1)|null|
-|**2022-01-11**|**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video**|Chung-Yi Weng et.al.|[2201.04127v1](http://arxiv.org/abs/2201.04127v1)|null|
-|**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
-|**2022-01-11**|**MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing**|Xin Liu et.al.|[2201.04039v1](http://arxiv.org/abs/2201.04039v1)|null|
-|**2022-01-11**|**Smart Director: An Event-Driven Directing System for Live Broadcasting**|Yingwei Pan et.al.|[2201.04024v1](http://arxiv.org/abs/2201.04024v1)|null|
-|**2022-01-11**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
-|**2022-01-11**|**Target Chase, Wall Building, and Fire Fighting: Autonomous UAVs of Team NimbRo at MBZIRC 2020**|Marius Beul et.al.|[2201.03844v1](http://arxiv.org/abs/2201.03844v1)|null|
-|**2022-01-11**|**Drone Object Detection Using RGB/IR Fusion**|Lizhi Yang et.al.|[2201.03786v1](http://arxiv.org/abs/2201.03786v1)|null|
-|**2022-01-10**|**Estimate of the Mass and Radial Profile of the Orphan-Chenab Stream's Dwarf Galaxy Progenitor Using MilkyWay@home**|Eric J. Mendelsohn et.al.|[2201.03637v1](http://arxiv.org/abs/2201.03637v1)|null|
-|**2022-01-10**|**Studying the Potential of Automatic Optimizations in the Intel FPGA SDK for OpenCL**|Adel Ejjeh et.al.|[2201.03558v1](http://arxiv.org/abs/2201.03558v1)|null|
-|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|[link](https://github.com/bmhopkinson/hyslam)|
-|**2022-01-10**|**PlomBOX -- development of a low-cost CMOS device for environmental monitoring**|A. Aguilar-Arevalo et.al.|[2201.03348v1](http://arxiv.org/abs/2201.03348v1)|null|
-|**2022-01-10**|**Model-Based Image Signal Processors via Learnable Dictionaries**|Marcos V. Conde et.al.|[2201.03210v1](http://arxiv.org/abs/2201.03210v1)|null|
-|**2022-01-09**|**Camera Model Identification Using Container and Encoding Characteristics of Video Files**|Enes Altinisik et.al.|[2201.02949v1](http://arxiv.org/abs/2201.02949v1)|null|
-|**2022-01-09**|**Resolving Camera Position for a Practical Application of Gaze Estimation on Edge Devices**|Linh Van Ma et.al.|[2201.02946v1](http://arxiv.org/abs/2201.02946v1)|[link](https://github.com/linh-gist/gazeestimationtx2)|
-|**2022-01-08**|**Decoupling Makes Weakly Supervised Local Feature Better**|Kunhong Li et.al.|[2201.02861v1](http://arxiv.org/abs/2201.02861v1)|null|
-|**2022-01-08**|**Self-aligned Spatial Feature Extraction Network for UAV Vehicle Re-identification**|Aihuan Yao et.al.|[2201.02836v1](http://arxiv.org/abs/2201.02836v1)|null|
-|**2022-01-08**|**RARA: Zero-shot Sim2Real Visual Navigation with Following Foreground Cues**|Klaas Kelchtermans et.al.|[2201.02798v1](http://arxiv.org/abs/2201.02798v1)|[link](https://github.com/kkelchte/fgbg)|
-|**2022-01-08**|**Controlling camera movement in VR colonography**|Soraia F Paulo et.al.|[2201.02795v1](http://arxiv.org/abs/2201.02795v1)|null|
-|**2022-01-07**|**The First Near-Infrared Transmission Spectrum of HIP 41378 f, a Low-Mass Temperate Jovian World in a Multi-Planet System**|Munazza K. Alam et.al.|[2201.02686v1](http://arxiv.org/abs/2201.02686v1)|null|
-|**2022-01-07**|**Integration and qualification of the Mini-EUSO telescope on board the ISS**|G. Cambié et.al.|[2201.02597v1](http://arxiv.org/abs/2201.02597v1)|null|
-|**2022-01-07**|**NeROIC: Neural Rendering of Objects from Online Image Collections**|Zhengfei Kuang et.al.|[2201.02533v1](http://arxiv.org/abs/2201.02533v1)|null|
-|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
-|**2022-01-07**|**Unwinding Rotations Improves User Comfort with Immersive Telepresence Robots**|Markku Suomalainen et.al.|[2201.02392v1](http://arxiv.org/abs/2201.02392v1)|null|
-|**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
-|**2022-01-06**|**Multi-Domain Joint Training for Person Re-Identification**|Lu Yang et.al.|[2201.01983v1](http://arxiv.org/abs/2201.01983v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
 |**2021-11-05**|**LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry**|Emilio Garcia-Fidalgo et.al.|[2111.03393v1](http://arxiv.org/abs/2111.03393v1)|[link](https://github.com/emiliofidalgo/liodom)|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-12**|**Ability-based Methods for Personalized Keyboard Generation**|Claire L. Mitchell et.al.|[2201.04593v1](http://arxiv.org/abs/2201.04593v1)|null|
+|**2022-01-12**|**Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance**|Alexander Herbst et.al.|[2201.04544v1](http://arxiv.org/abs/2201.04544v1)|null|
+|**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
+|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v2](http://arxiv.org/abs/2201.04426v2)|null|
+|**2022-01-12**|**Bundle Theoretic Descriptions of Massive Single-Particle State Spaces; With a view toward Relativistic Quantum Information Theory**|Heon Lee et.al.|[2201.04324v1](http://arxiv.org/abs/2201.04324v1)|null|
+|**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
+|**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
+|**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v2](http://arxiv.org/abs/2201.03817v2)|null|
+|**2022-01-10**|**Fluctuations and power-law scaling of dry, frictionless granular rheology near the hard-particle limit**|A. P. Santos et.al.|[2201.03680v1](http://arxiv.org/abs/2201.03680v1)|null|
+|**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
+|**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
+|**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
+|**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
+|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
+|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v1](http://arxiv.org/abs/2201.02407v1)|null|
+|**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
+|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
+|**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
+|**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
+|**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
+|**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
+|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v3](http://arxiv.org/abs/2112.15583v3)|null|
+|**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
+|**2021-12-31**|**Kinetic-scale current sheets in the solar wind at 1 AU: Scale-dependent properties and critical current density**|Ivan Y. Vasko et.al.|[2112.15256v1](http://arxiv.org/abs/2112.15256v1)|null|
+|**2021-12-30**|**Two Approaches for the Passive Charge Management of Contactless Test Masses**|S. Wang et.al.|[2112.15234v1](http://arxiv.org/abs/2112.15234v1)|null|
+|**2021-12-28**|**Metadamping in inertially amplified metamaterials: Trade-off between spatial attenuation and temporal attenuation**|Mahmoud I. Hussein et.al.|[2112.14322v1](http://arxiv.org/abs/2112.14322v1)|null|
+|**2021-12-27**|**About the incompressible energy cascade rate in anisotropic solar wind turbulence**|N. Andrés et.al.|[2112.13748v1](http://arxiv.org/abs/2112.13748v1)|null|
+|**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
+|**2021-12-26**|**Microscopic collective inertial masses for nuclear reaction in the presence of nucleonic effective mass**|Kai Wen et.al.|[2112.13317v1](http://arxiv.org/abs/2112.13317v1)|null|
+|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
+
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2021-11-22**|**A General Framework for Lifelong Localization and Mapping in Changing Environment**|Min Zhao et.al.|[2111.10946v1](http://arxiv.org/abs/2111.10946v1)|[link](https://github.com/sanduan168/lifelong-slam-dataset)|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-12**|**An XMM-Newton catalogue of BL Lacs**|I. de la Calle Pérez et.al.|[2201.04468v1](http://arxiv.org/abs/2201.04468v1)|null|
+|**2022-01-12**|**Obstacle avoidance for blind people using a 3D camera and a haptic feedback sleeve**|Manuel Zahn et.al.|[2201.04453v1](http://arxiv.org/abs/2201.04453v1)|null|
+|**2022-01-12**|**Video Intelligence as a component of a Global Security system**|Dominique Verdejo et.al.|[2201.04349v1](http://arxiv.org/abs/2201.04349v1)|null|
+|**2022-01-11**|**A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b**|Jonathan Brande et.al.|[2201.04197v1](http://arxiv.org/abs/2201.04197v1)|null|
+|**2022-01-11**|**Orbital elements and individual component masses from joint spectroscopic and astrometric data of double-line spectroscopic binaries**|Jennifer Anguita-Aguero et.al.|[2201.04134v1](http://arxiv.org/abs/2201.04134v1)|null|
+|**2022-01-11**|**HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video**|Chung-Yi Weng et.al.|[2201.04127v1](http://arxiv.org/abs/2201.04127v1)|null|
+|**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
+|**2022-01-11**|**MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing**|Xin Liu et.al.|[2201.04039v1](http://arxiv.org/abs/2201.04039v1)|null|
+|**2022-01-11**|**Smart Director: An Event-Driven Directing System for Live Broadcasting**|Yingwei Pan et.al.|[2201.04024v1](http://arxiv.org/abs/2201.04024v1)|null|
+|**2022-01-11**|**Rubin-Euclid Derived Data Products: Initial Recommendations**|Leanne P. Guy et.al.|[2201.03862v1](http://arxiv.org/abs/2201.03862v1)|null|
+|**2022-01-11**|**Target Chase, Wall Building, and Fire Fighting: Autonomous UAVs of Team NimbRo at MBZIRC 2020**|Marius Beul et.al.|[2201.03844v1](http://arxiv.org/abs/2201.03844v1)|null|
+|**2022-01-11**|**Drone Object Detection Using RGB/IR Fusion**|Lizhi Yang et.al.|[2201.03786v1](http://arxiv.org/abs/2201.03786v1)|null|
+|**2022-01-10**|**Estimate of the Mass and Radial Profile of the Orphan-Chenab Stream's Dwarf Galaxy Progenitor Using MilkyWay@home**|Eric J. Mendelsohn et.al.|[2201.03637v1](http://arxiv.org/abs/2201.03637v1)|null|
+|**2022-01-10**|**Studying the Potential of Automatic Optimizations in the Intel FPGA SDK for OpenCL**|Adel Ejjeh et.al.|[2201.03558v1](http://arxiv.org/abs/2201.03558v1)|null|
+|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|[link](https://github.com/bmhopkinson/hyslam)|
+|**2022-01-10**|**PlomBOX -- development of a low-cost CMOS device for environmental monitoring**|A. Aguilar-Arevalo et.al.|[2201.03348v1](http://arxiv.org/abs/2201.03348v1)|null|
+|**2022-01-10**|**Model-Based Image Signal Processors via Learnable Dictionaries**|Marcos V. Conde et.al.|[2201.03210v1](http://arxiv.org/abs/2201.03210v1)|null|
+|**2022-01-09**|**Camera Model Identification Using Container and Encoding Characteristics of Video Files**|Enes Altinisik et.al.|[2201.02949v1](http://arxiv.org/abs/2201.02949v1)|null|
+|**2022-01-09**|**Resolving Camera Position for a Practical Application of Gaze Estimation on Edge Devices**|Linh Van Ma et.al.|[2201.02946v1](http://arxiv.org/abs/2201.02946v1)|[link](https://github.com/linh-gist/gazeestimationtx2)|
+|**2022-01-08**|**Decoupling Makes Weakly Supervised Local Feature Better**|Kunhong Li et.al.|[2201.02861v1](http://arxiv.org/abs/2201.02861v1)|null|
+|**2022-01-08**|**Self-aligned Spatial Feature Extraction Network for UAV Vehicle Re-identification**|Aihuan Yao et.al.|[2201.02836v1](http://arxiv.org/abs/2201.02836v1)|null|
+|**2022-01-08**|**RARA: Zero-shot Sim2Real Visual Navigation with Following Foreground Cues**|Klaas Kelchtermans et.al.|[2201.02798v1](http://arxiv.org/abs/2201.02798v1)|[link](https://github.com/kkelchte/fgbg)|
+|**2022-01-08**|**Controlling camera movement in VR colonography**|Soraia F Paulo et.al.|[2201.02795v1](http://arxiv.org/abs/2201.02795v1)|null|
+|**2022-01-07**|**The First Near-Infrared Transmission Spectrum of HIP 41378 f, a Low-Mass Temperate Jovian World in a Multi-Planet System**|Munazza K. Alam et.al.|[2201.02686v1](http://arxiv.org/abs/2201.02686v1)|null|
+|**2022-01-07**|**Integration and qualification of the Mini-EUSO telescope on board the ISS**|G. Cambié et.al.|[2201.02597v1](http://arxiv.org/abs/2201.02597v1)|null|
+|**2022-01-07**|**NeROIC: Neural Rendering of Objects from Online Image Collections**|Zhengfei Kuang et.al.|[2201.02533v1](http://arxiv.org/abs/2201.02533v1)|null|
+|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
+|**2022-01-07**|**Unwinding Rotations Improves User Comfort with Immersive Telepresence Robots**|Markku Suomalainen et.al.|[2201.02392v1](http://arxiv.org/abs/2201.02392v1)|null|
+|**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
+|**2022-01-06**|**Multi-Domain Joint Training for Person Re-Identification**|Lu Yang et.al.|[2201.01983v1](http://arxiv.org/abs/2201.01983v1)|null|
