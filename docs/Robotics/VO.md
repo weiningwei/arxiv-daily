@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
 |**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
@@ -31,4 +32,3 @@
 |**2021-11-13**|**MC-CIM: Compute-in-Memory with Monte-Carlo Dropouts for Bayesian Edge Intelligence**|Priyesh Shukla et.al.|[2111.07125v1](http://arxiv.org/abs/2111.07125v1)|null|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
-|**2021-11-05**|**LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry**|Emilio Garcia-Fidalgo et.al.|[2111.03393v1](http://arxiv.org/abs/2111.03393v1)|[link](https://github.com/emiliofidalgo/liodom)|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
+|**2022-01-13**|**A Minimax Framework for Two-Agent Scheduling with Inertial Constraints**|Feihong Yang et.al.|[2201.04874v1](http://arxiv.org/abs/2201.04874v1)|null|
+|**2022-01-13**|**Markovian Features of the Solar Wind at Sub-Proton Scales**|Simone Benella et.al.|[2201.04864v1](http://arxiv.org/abs/2201.04864v1)|null|
 |**2022-01-12**|**Ability-based Methods for Personalized Keyboard Generation**|Claire L. Mitchell et.al.|[2201.04593v1](http://arxiv.org/abs/2201.04593v1)|null|
 |**2022-01-12**|**Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance**|Alexander Herbst et.al.|[2201.04544v1](http://arxiv.org/abs/2201.04544v1)|null|
 |**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
@@ -29,6 +32,3 @@
 |**2021-12-30**|**Two Approaches for the Passive Charge Management of Contactless Test Masses**|S. Wang et.al.|[2112.15234v1](http://arxiv.org/abs/2112.15234v1)|null|
 |**2021-12-28**|**Metadamping in inertially amplified metamaterials: Trade-off between spatial attenuation and temporal attenuation**|Mahmoud I. Hussein et.al.|[2112.14322v1](http://arxiv.org/abs/2112.14322v1)|null|
 |**2021-12-27**|**About the incompressible energy cascade rate in anisotropic solar wind turbulence**|N. Andrés et.al.|[2112.13748v1](http://arxiv.org/abs/2112.13748v1)|null|
-|**2021-12-26**|**Stop Line Aided Cooperative Positioning of Connected Vehicles**|Xingqi Wang et.al.|[2112.13369v1](http://arxiv.org/abs/2112.13369v1)|null|
-|**2021-12-26**|**Microscopic collective inertial masses for nuclear reaction in the presence of nucleonic effective mass**|Kai Wen et.al.|[2112.13317v1](http://arxiv.org/abs/2112.13317v1)|null|
-|**2021-12-24**|**Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**|David Charatan et.al.|[2112.13018v1](http://arxiv.org/abs/2112.13018v1)|null|
