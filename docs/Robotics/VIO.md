@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-14**|**Spirographic motion in a vortex**|Sumithra Reddy Yerasi et.al.|[2201.05448v1](http://arxiv.org/abs/2201.05448v1)|null|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
+|**2022-01-14**|**Multi-time structure functions and the Lagrangian scaling of turbulence**|Sofía Angriman et.al.|[2201.05251v1](http://arxiv.org/abs/2201.05251v1)|null|
+|**2022-01-13**|**Evolution Inclusions of Second Order: Nonlinearly Damped Inertial Systems**|Aras Bacho et.al.|[2201.05196v1](http://arxiv.org/abs/2201.05196v1)|null|
 |**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
 |**2022-01-13**|**A Minimax Framework for Two-Agent Scheduling with Inertial Constraints**|Feihong Yang et.al.|[2201.04874v1](http://arxiv.org/abs/2201.04874v1)|null|
 |**2022-01-13**|**Markovian Features of the Solar Wind at Sub-Proton Scales**|Simone Benella et.al.|[2201.04864v1](http://arxiv.org/abs/2201.04864v1)|null|
@@ -28,7 +32,3 @@
 |**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
 |**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v3](http://arxiv.org/abs/2112.15583v3)|null|
 |**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
-|**2021-12-31**|**Kinetic-scale current sheets in the solar wind at 1 AU: Scale-dependent properties and critical current density**|Ivan Y. Vasko et.al.|[2112.15256v1](http://arxiv.org/abs/2112.15256v1)|null|
-|**2021-12-30**|**Two Approaches for the Passive Charge Management of Contactless Test Masses**|S. Wang et.al.|[2112.15234v1](http://arxiv.org/abs/2112.15234v1)|null|
-|**2021-12-28**|**Metadamping in inertially amplified metamaterials: Trade-off between spatial attenuation and temporal attenuation**|Mahmoud I. Hussein et.al.|[2112.14322v1](http://arxiv.org/abs/2112.14322v1)|null|
-|**2021-12-27**|**About the incompressible energy cascade rate in anisotropic solar wind turbulence**|N. Andrés et.al.|[2112.13748v1](http://arxiv.org/abs/2112.13748v1)|null|
