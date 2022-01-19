@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-01-19 08:21:22 Asia/Shanghai
+ Automated deployment @ 2022-01-19 09:30:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -71,7 +71,7 @@
 |**2022-01-10**|**PlomBOX -- development of a low-cost CMOS device for environmental monitoring**|A. Aguilar-Arevalo et.al.|[2201.03348v1](http://arxiv.org/abs/2201.03348v1)|null|
 |**2022-01-10**|**Model-Based Image Signal Processors via Learnable Dictionaries**|Marcos V. Conde et.al.|[2201.03210v1](http://arxiv.org/abs/2201.03210v1)|null|
 |**2022-01-09**|**Camera Model Identification Using Container and Encoding Characteristics of Video Files**|Enes Altinisik et.al.|[2201.02949v1](http://arxiv.org/abs/2201.02949v1)|null|
-|**2022-01-09**|**Resolving Camera Position for a Practical Application of Gaze Estimation on Edge Devices**|Linh Van Ma et.al.|[2201.02946v1](http://arxiv.org/abs/2201.02946v1)|[link](https://github.com/linh-gist/gazeestimationtx2)|
+|**2022-01-09**|**Resolving Camera Position for a Practical Application of Gaze Estimation on Edge Devices**|Linh Van Ma et.al.|[2201.02946v2](http://arxiv.org/abs/2201.02946v2)|[link](https://github.com/linh-gist/gazeestimationtx2)|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -97,14 +97,14 @@
 |**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
 |**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
 |**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
-|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v1](http://arxiv.org/abs/2201.02407v1)|null|
+|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v2](http://arxiv.org/abs/2201.02407v2)|null|
 |**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
 |**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
 |**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
 |**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
-|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v3](http://arxiv.org/abs/2112.15583v3)|null|
+|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v4](http://arxiv.org/abs/2112.15583v4)|null|
 |**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
 
 ### SLAM
@@ -133,7 +133,7 @@
 |**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
 |**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
 |**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
-|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v1](http://arxiv.org/abs/2112.00427v1)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
+|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v2](http://arxiv.org/abs/2112.00427v2)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
 |**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
 |**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann et.al.|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
 |**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro et.al.|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|

@@ -23,12 +23,12 @@
 |**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
 |**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
 |**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
-|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v1](http://arxiv.org/abs/2201.02407v1)|null|
+|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v2](http://arxiv.org/abs/2201.02407v2)|null|
 |**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
 |**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
 |**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
 |**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
-|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v3](http://arxiv.org/abs/2112.15583v3)|null|
+|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v4](http://arxiv.org/abs/2112.15583v4)|null|
 |**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
