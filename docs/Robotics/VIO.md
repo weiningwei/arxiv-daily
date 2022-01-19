@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-18**|**Creation of turbulence in polyatomic gas flow via an intermolecular potential**|Rafail V. Abramov et.al.|[2201.07175v1](http://arxiv.org/abs/2201.07175v1)|null|
+|**2022-01-18**|**CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge**|Marco Tranzatto et.al.|[2201.07067v1](http://arxiv.org/abs/2201.07067v1)|null|
+|**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
+|**2022-01-14**|**Dynamics of small particle inertial migration in curved square ducts**|Kyung Ha et.al.|[2201.05645v1](http://arxiv.org/abs/2201.05645v1)|null|
 |**2022-01-14**|**Spirographic motion in a vortex**|Sumithra Reddy Yerasi et.al.|[2201.05448v1](http://arxiv.org/abs/2201.05448v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
 |**2022-01-14**|**Multi-time structure functions and the Lagrangian scaling of turbulence**|Sofía Angriman et.al.|[2201.05251v1](http://arxiv.org/abs/2201.05251v1)|null|
@@ -12,7 +16,7 @@
 |**2022-01-12**|**Ability-based Methods for Personalized Keyboard Generation**|Claire L. Mitchell et.al.|[2201.04593v1](http://arxiv.org/abs/2201.04593v1)|null|
 |**2022-01-12**|**Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance**|Alexander Herbst et.al.|[2201.04544v1](http://arxiv.org/abs/2201.04544v1)|null|
 |**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
-|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v2](http://arxiv.org/abs/2201.04426v2)|null|
+|**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v3](http://arxiv.org/abs/2201.04426v3)|null|
 |**2022-01-12**|**Bundle Theoretic Descriptions of Massive Single-Particle State Spaces; With a view toward Relativistic Quantum Information Theory**|Heon Lee et.al.|[2201.04324v1](http://arxiv.org/abs/2201.04324v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
 |**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
@@ -28,7 +32,3 @@
 |**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
 |**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
 |**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
-|**2022-01-02**|**Energy exchanges between a two-dimensional front and internal wave modes**|Subhajit Kar et.al.|[2201.00325v1](http://arxiv.org/abs/2201.00325v1)|null|
-|**2021-12-31**|**The influence of a fluid core and a solid inner core on the Cassini sate of Mercury**|Mathieu Dumberry et.al.|[2201.00037v1](http://arxiv.org/abs/2201.00037v1)|null|
-|**2021-12-31**|**Nonlinear adiabatic electron plasma waves. I. General theory and nonlinear frequency shift**|M. Tacu et.al.|[2112.15583v4](http://arxiv.org/abs/2112.15583v4)|null|
-|**2021-12-31**|**Spatiotemporal linear instability of viscoelastic slender jets**|T. Chauhan et.al.|[2112.15456v1](http://arxiv.org/abs/2112.15456v1)|null|
