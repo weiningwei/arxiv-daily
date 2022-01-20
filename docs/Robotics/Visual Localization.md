@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v1](http://arxiv.org/abs/2201.07779v1)|null|
+|**2022-01-19**|**A pipeline for automated processing of Corona KH-4 (1962-1972) stereo imagery**|Sajid Ghuffar et.al.|[2201.07756v1](http://arxiv.org/abs/2201.07756v1)|null|
+|**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist et.al.|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|[link](https://github.com/ethz-asl/object_keypoints)|
+|**2022-01-19**|**Robotic Irrigation Water Management: Estimating Soil Moisture Content by Feel and Appearance**|Marsela Polic et.al.|[2201.07653v1](http://arxiv.org/abs/2201.07653v1)|null|
+|**2022-01-19**|**Internal dark matter structure of the most massive galaxy clusters since redshift 1**|Amandine M. C. Le Brun et.al.|[2201.07482v1](http://arxiv.org/abs/2201.07482v1)|null|
+|**2022-01-19**|**Accurate smartphone camera simulation using 3D scenes**|Zheng Lyu et.al.|[2201.07411v1](http://arxiv.org/abs/2201.07411v1)|null|
+|**2022-01-19**|**Real-Time Gaze Tracking with Event-Driven Eye Segmentation**|Yu Feng et.al.|[2201.07367v1](http://arxiv.org/abs/2201.07367v1)|null|
+|**2022-01-18**|**A Chandra Virgo cluster survey of spiral galaxies. I. Introduction to the survey and a new ULX sample**|Roberto Soria et.al.|[2201.07242v1](http://arxiv.org/abs/2201.07242v1)|null|
+|**2022-01-18**|**Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression**|Andrew K. Saydjari et.al.|[2201.07246v1](http://arxiv.org/abs/2201.07246v1)|null|
 |**2022-01-18**|**CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge**|Marco Tranzatto et.al.|[2201.07067v1](http://arxiv.org/abs/2201.07067v1)|null|
 |**2022-01-18**|**Sampling color and geometry point clouds from ShapeNet dataset**|Davi Lazzarotto et.al.|[2201.06935v1](http://arxiv.org/abs/2201.06935v1)|[link](https://github.com/mmspg/mesh-sampling)|
 |**2022-01-18**|**Visual Sensor Network Stimulation Model Identification via Gaussian Mixture Model and Deep Embedded Features**|Luca Varotto et.al.|[2201.06804v1](http://arxiv.org/abs/2201.06804v1)|null|
@@ -23,12 +32,3 @@
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
 |**2022-01-15**|**Efficient demodulation scheme for multilevel modulation based optical camera communication**|Zihao Zhou et.al.|[2201.05784v1](http://arxiv.org/abs/2201.05784v1)|null|
 |**2022-01-14**|**Adaptive Deep PnP Algorithm for Video Snapshot Compressive Imaging**|Zongliang Wu et.al.|[2201.05483v1](http://arxiv.org/abs/2201.05483v1)|null|
-|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
-|**2022-01-14**|**Impact of the SpaceX Starlink Satellites on the Zwicky Transient Facility Survey Observations**|Przemek Mroz et.al.|[2201.05343v1](http://arxiv.org/abs/2201.05343v1)|null|
-|**2022-01-14**|**Argus++: Robust Real-time Activity Detection for Unconstrained Video Streams with Overlapping Cube Proposals**|Lijun Yu et.al.|[2201.05290v1](http://arxiv.org/abs/2201.05290v1)|null|
-|**2022-01-14**|**Toward Fully Automated Robotic Platform for Remote Auscultation**|Ryosuke Tsumura et.al.|[2201.05272v1](http://arxiv.org/abs/2201.05272v1)|null|
-|**2022-01-13**|**Assemble Foundation Models for Automatic Code Summarization**|Jian Gu et.al.|[2201.05222v1](http://arxiv.org/abs/2201.05222v1)|[link](https://github.com/jianguda/afm4acs)|
-|**2022-01-13**|**Online Indoor Localization Using DOA of Wireless Signals**|Ehsan Latif et.al.|[2201.05105v1](http://arxiv.org/abs/2201.05105v1)|[link](https://github.com/herolab-uga/pf-doa-localization)|
-|**2022-01-13**|**Motion Planning in Dynamic Environments Using Context-Aware Human Trajectory Prediction**|Mark Nicholas Finean et.al.|[2201.05058v1](http://arxiv.org/abs/2201.05058v1)|null|
-|**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
-|**2022-01-13**|**Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Networks**|Tianya T. Zhang et.al.|[2201.04755v1](http://arxiv.org/abs/2201.04755v1)|null|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-19**|**Investigation of Langdon effect on the nonlinear evolution of SRS from the early-stage inflation to the late-stage development of secondary instabilities**|Jie Qiu et.al.|[2201.07722v1](http://arxiv.org/abs/2201.07722v1)|null|
+|**2022-01-19**|**Effect of interparticle interaction on motility induced phase separation of self-propelled inertial disks**|Soumen De Karmakar et.al.|[2201.07623v1](http://arxiv.org/abs/2201.07623v1)|null|
+|**2022-01-19**|**Nonlinear Unknown Input Observability and Unknown Input Reconstruction: The General Analytical Solution**|Agostino Martinelli et.al.|[2201.07610v1](http://arxiv.org/abs/2201.07610v1)|null|
 |**2022-01-18**|**Creation of turbulence in polyatomic gas flow via an intermolecular potential**|Rafail V. Abramov et.al.|[2201.07175v1](http://arxiv.org/abs/2201.07175v1)|null|
 |**2022-01-18**|**CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge**|Marco Tranzatto et.al.|[2201.07067v1](http://arxiv.org/abs/2201.07067v1)|null|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
@@ -29,6 +32,3 @@
 |**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
 |**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v2](http://arxiv.org/abs/2201.02407v2)|null|
 |**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
-|**2022-01-05**|**Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**|Bing Han et.al.|[2201.01561v1](http://arxiv.org/abs/2201.01561v1)|null|
-|**2022-01-03**|**Anisotropic $Zitterbewegung$ Dynamics in Synthetic Non-Abelian Gauge Fields**|Mehedi Hasan et.al.|[2201.00885v1](http://arxiv.org/abs/2201.00885v1)|null|
-|**2022-01-03**|**LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks**|Aurélien Brun et.al.|[2201.00596v1](http://arxiv.org/abs/2201.00596v1)|null|
