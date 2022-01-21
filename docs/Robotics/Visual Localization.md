@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v1](http://arxiv.org/abs/2201.07779v1)|null|
+|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|
 |**2022-01-19**|**A pipeline for automated processing of Corona KH-4 (1962-1972) stereo imagery**|Sajid Ghuffar et.al.|[2201.07756v1](http://arxiv.org/abs/2201.07756v1)|null|
 |**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist et.al.|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|[link](https://github.com/ethz-asl/object_keypoints)|
 |**2022-01-19**|**Robotic Irrigation Water Management: Estimating Soil Moisture Content by Feel and Appearance**|Marsela Polic et.al.|[2201.07653v1](http://arxiv.org/abs/2201.07653v1)|null|
