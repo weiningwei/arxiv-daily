@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-20**|**HumanIBR: High Quality Image-based Rendering of Challenging Human Performers using Sparse Views**|Tiansong Zhou et.al.|[2201.08158v1](http://arxiv.org/abs/2201.08158v1)|null|
+|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
+|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|null|
+|**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
+|**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
+|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v1](http://arxiv.org/abs/2201.07927v1)|null|
+|**2022-01-19**|**Imaging Dynamic Microtubules and Associated Proteins by Simultaneous Interference-Reflection and Total-Internal-Reflection-Fluorescence Microscopy**|Yazgan Tuna et.al.|[2201.07911v1](http://arxiv.org/abs/2201.07911v1)|null|
+|**2022-01-19**|**CRC-Aided List Decoding of Convolutional and Polar Codes for Short Messages in 5G**|Jacob King et.al.|[2201.07843v1](http://arxiv.org/abs/2201.07843v1)|null|
 |**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|
 |**2022-01-19**|**A pipeline for automated processing of Corona KH-4 (1962-1972) stereo imagery**|Sajid Ghuffar et.al.|[2201.07756v1](http://arxiv.org/abs/2201.07756v1)|null|
 |**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist et.al.|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|[link](https://github.com/ethz-asl/object_keypoints)|
@@ -24,11 +32,3 @@
 |**2022-01-17**|**Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems**|Wei Jia et.al.|[2201.06192v1](http://arxiv.org/abs/2201.06192v1)|null|
 |**2022-01-16**|**Reconstruction-based spectroscopy using CMOS image sensors with random photon-trapping nanostructure per sensor**|Ahasan Ahamed et.al.|[2201.06149v1](http://arxiv.org/abs/2201.06149v1)|null|
 |**2022-01-16**|**Pursuing 3D Scene Structures with Optical Satellite Images from Affine Reconstruction to Euclidean Reconstruction**|Pinhe Wang et.al.|[2201.06037v1](http://arxiv.org/abs/2201.06037v1)|null|
-|**2022-01-16**|**First comparison of composite 0.52-55 keV ENA spectra observed by IBEX and Cassini/INCA with simulated ENAs inferred by proton hybrid simulations downstream of the termination shock**|Matina Gkioulidou et.al.|[2201.05942v1](http://arxiv.org/abs/2201.05942v1)|null|
-|**2022-01-16**|**High Resolution Search for KBO Binaries from New Horizons**|H. A. Weaver et.al.|[2201.05940v1](http://arxiv.org/abs/2201.05940v1)|null|
-|**2022-01-15**|**Smart Parking Space Detection under Hazy conditions using Convolutional Neural Networks: A Novel Approach**|Gaurav Satyanath et.al.|[2201.05858v1](http://arxiv.org/abs/2201.05858v1)|null|
-|**2022-01-15**|**Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control**|Won Joon Yun et.al.|[2201.05843v1](http://arxiv.org/abs/2201.05843v1)|null|
-|**2022-01-15**|**Offline-Online Associated Camera-Aware Proxies for Unsupervised Person Re-identification**|Menglin Wang et.al.|[2201.05820v1](http://arxiv.org/abs/2201.05820v1)|null|
-|**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
-|**2022-01-15**|**Efficient demodulation scheme for multilevel modulation based optical camera communication**|Zihao Zhou et.al.|[2201.05784v1](http://arxiv.org/abs/2201.05784v1)|null|
-|**2022-01-14**|**Adaptive Deep PnP Algorithm for Video Snapshot Compressive Imaging**|Zongliang Wu et.al.|[2201.05483v1](http://arxiv.org/abs/2201.05483v1)|null|

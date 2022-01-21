@@ -2,11 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-20**|**Ultrafast loss of lattice coherence in the light-induced structural phase transition of the Mott-Insulator V$_2$O$_3$**|A. S. Johnson et.al.|[2201.08374v1](http://arxiv.org/abs/2201.08374v1)|null|
+|**2022-01-20**|**Uniformly accelerated Brownian oscillator in (2+1)D: temperature-dependent dissipation and frequency shift**|Dimitris Moustos et.al.|[2201.08287v1](http://arxiv.org/abs/2201.08287v1)|null|
+|**2022-01-20**|**An Automatic Control System with Human-in-the-Loop for Training Skydiving Maneuvers: Proof-of-Concept Experiment**|Anna Clarke et.al.|[2201.08162v1](http://arxiv.org/abs/2201.08162v1)|null|
 |**2022-01-19**|**Investigation of Langdon effect on the nonlinear evolution of SRS from the early-stage inflation to the late-stage development of secondary instabilities**|Jie Qiu et.al.|[2201.07722v1](http://arxiv.org/abs/2201.07722v1)|null|
 |**2022-01-19**|**Effect of interparticle interaction on motility induced phase separation of self-propelled inertial disks**|Soumen De Karmakar et.al.|[2201.07623v1](http://arxiv.org/abs/2201.07623v1)|null|
 |**2022-01-19**|**Nonlinear Unknown Input Observability and Unknown Input Reconstruction: The General Analytical Solution**|Agostino Martinelli et.al.|[2201.07610v1](http://arxiv.org/abs/2201.07610v1)|null|
 |**2022-01-18**|**Creation of turbulence in polyatomic gas flow via an intermolecular potential**|Rafail V. Abramov et.al.|[2201.07175v1](http://arxiv.org/abs/2201.07175v1)|null|
 |**2022-01-18**|**CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge**|Marco Tranzatto et.al.|[2201.07067v1](http://arxiv.org/abs/2201.07067v1)|null|
+|**2022-01-17**|**Homogenization of Existing Inertial-Based Datasets to Support Human Activity Recognition**|Hamza Amrani et.al.|[2201.07891v1](http://arxiv.org/abs/2201.07891v1)|null|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**Dynamics of small particle inertial migration in curved square ducts**|Kyung Ha et.al.|[2201.05645v1](http://arxiv.org/abs/2201.05645v1)|null|
 |**2022-01-14**|**Spirographic motion in a vortex**|Sumithra Reddy Yerasi et.al.|[2201.05448v1](http://arxiv.org/abs/2201.05448v1)|null|
@@ -28,7 +32,3 @@
 |**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
 |**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
 |**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
-|**2022-01-07**|**Automated Dissipation Control for Turbulence Simulation with Shell Models**|Ann-Kathrin Dombrowski et.al.|[2201.02485v1](http://arxiv.org/abs/2201.02485v1)|null|
-|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|
-|**2022-01-07**|**More on Topological Hydrodynamic Modes**|Wen-Bin Pan et.al.|[2201.02407v2](http://arxiv.org/abs/2201.02407v2)|null|
-|**2022-01-07**|**Energy transfer, discontinuities and heating in the inner solar wind measured with a weak and local formulation of the Politano-Pouquet law**|Vincent David et.al.|[2201.02377v1](http://arxiv.org/abs/2201.02377v1)|null|
