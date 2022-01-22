@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-01-20**|**HumanIBR: High Quality Image-based Rendering of Challenging Human Performers using Sparse Views**|Tiansong Zhou et.al.|[2201.08158v1](http://arxiv.org/abs/2201.08158v1)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
-|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|null|
+|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|[link](https://github.com/robot-perception-group/airpose)|
 |**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
 |**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v1](http://arxiv.org/abs/2201.07927v1)|null|
