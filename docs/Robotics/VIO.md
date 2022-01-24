@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|
 |**2022-01-20**|**Ultrafast loss of lattice coherence in the light-induced structural phase transition of the Mott-Insulator V$_2$O$_3$**|A. S. Johnson et.al.|[2201.08374v1](http://arxiv.org/abs/2201.08374v1)|null|
 |**2022-01-20**|**Uniformly accelerated Brownian oscillator in (2+1)D: temperature-dependent dissipation and frequency shift**|Dimitris Moustos et.al.|[2201.08287v1](http://arxiv.org/abs/2201.08287v1)|null|
 |**2022-01-20**|**An Automatic Control System with Human-in-the-Loop for Training Skydiving Maneuvers: Proof-of-Concept Experiment**|Anna Clarke et.al.|[2201.08162v1](http://arxiv.org/abs/2201.08162v1)|null|
@@ -31,4 +32,3 @@
 |**2022-01-10**|**Fluctuations and power-law scaling of dry, frictionless granular rheology near the hard-particle limit**|A. P. Santos et.al.|[2201.03680v1](http://arxiv.org/abs/2201.03680v1)|null|
 |**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
 |**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
-|**2022-01-09**|**A reduced variational approach for searching cycles in high-dimensional systems**|Ding Wang et.al.|[2201.03001v1](http://arxiv.org/abs/2201.03001v1)|null|
