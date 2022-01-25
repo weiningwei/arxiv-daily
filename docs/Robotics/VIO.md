@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-24**|**Pedestrian Dead Reckoning System using Quasi-static Magnetic Field Detection**|Liqiang Zhang et.al.|[2201.09716v1](http://arxiv.org/abs/2201.09716v1)|null|
+|**2022-01-23**|**Three-dimensional dynamics of a pair of deformable bubbles rising initially in line. Part 2: Highly inertial regimes**|Jie Zhang et.al.|[2201.09336v1](http://arxiv.org/abs/2201.09336v1)|null|
+|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v1](http://arxiv.org/abs/2201.09170v1)|null|
+|**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
+|**2022-01-22**|**The saturation of the VSI in protoplanetary disks via parametric instability**|Can Cui et.al.|[2201.09038v1](http://arxiv.org/abs/2201.09038v1)|null|
 |**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|
 |**2022-01-20**|**Ultrafast loss of lattice coherence in the light-induced structural phase transition of the Mott-Insulator V$_2$O$_3$**|A. S. Johnson et.al.|[2201.08374v1](http://arxiv.org/abs/2201.08374v1)|null|
 |**2022-01-20**|**Uniformly accelerated Brownian oscillator in (2+1)D: temperature-dependent dissipation and frequency shift**|Dimitris Moustos et.al.|[2201.08287v1](http://arxiv.org/abs/2201.08287v1)|null|
@@ -27,8 +32,3 @@
 |**2022-01-12**|**The Geometry of Navigation Problems**|Axel Barrau et.al.|[2201.04426v3](http://arxiv.org/abs/2201.04426v3)|null|
 |**2022-01-12**|**Bundle Theoretic Descriptions of Massive Single-Particle State Spaces; With a view toward Relativistic Quantum Information Theory**|Heon Lee et.al.|[2201.04324v1](http://arxiv.org/abs/2201.04324v1)|null|
 |**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
-|**2022-01-11**|**Shell model intermittency is the hidden self-similarity**|Alexei A. Mailybaev et.al.|[2201.04005v1](http://arxiv.org/abs/2201.04005v1)|null|
-|**2022-01-11**|**Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection**|Tianlang He et.al.|[2201.03817v2](http://arxiv.org/abs/2201.03817v2)|null|
-|**2022-01-10**|**Fluctuations and power-law scaling of dry, frictionless granular rheology near the hard-particle limit**|A. P. Santos et.al.|[2201.03680v1](http://arxiv.org/abs/2201.03680v1)|null|
-|**2022-01-10**|**Tidal erasure of stellar obliquities constrains the timing of hot Jupiter formation**|Christopher Spalding et.al.|[2201.03653v1](http://arxiv.org/abs/2201.03653v1)|null|
-|**2022-01-10**|**A compact differential gravimeter at the quantum projection noise limit**|Camille Janvier et.al.|[2201.03345v1](http://arxiv.org/abs/2201.03345v1)|null|
