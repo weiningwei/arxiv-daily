@@ -2,13 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v1](http://arxiv.org/abs/2201.08572v1)|null|
-|**2022-01-20**|**HumanIBR: High Quality Image-based Rendering of Challenging Human Performers using Sparse Views**|Tiansong Zhou et.al.|[2201.08158v1](http://arxiv.org/abs/2201.08158v1)|null|
+|**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v2](http://arxiv.org/abs/2201.08572v2)|null|
+|**2022-01-20**|**HDhuman: High-quality Human Performance Capture with Sparse Views**|Tiansong Zhou et.al.|[2201.08158v2](http://arxiv.org/abs/2201.08158v2)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
 |**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|[link](https://github.com/robot-perception-group/airpose)|
 |**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
-|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v1](http://arxiv.org/abs/2201.07927v1)|null|
+|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v2](http://arxiv.org/abs/2201.07927v2)|null|
 |**2022-01-19**|**Imaging Dynamic Microtubules and Associated Proteins by Simultaneous Interference-Reflection and Total-Internal-Reflection-Fluorescence Microscopy**|Yazgan Tuna et.al.|[2201.07911v1](http://arxiv.org/abs/2201.07911v1)|null|
 |**2022-01-19**|**CRC-Aided List Decoding of Convolutional and Polar Codes for Short Messages in 5G**|Jacob King et.al.|[2201.07843v1](http://arxiv.org/abs/2201.07843v1)|null|
 |**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|
