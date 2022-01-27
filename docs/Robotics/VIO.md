@@ -7,12 +7,12 @@
 |**2022-01-25**|**Cohomology of the basic unramified PEL unitary Rapoport-Zink space of signature $(1,n-1)$**|Joseph Muller et.al.|[2201.10229v1](http://arxiv.org/abs/2201.10229v1)|null|
 |**2022-01-25**|**Self-Alignment of a Large-Area Dual-Atom-Interferometer Gyroscope Using Parameter Decoupled Phase Seeking Calibrations**|Zhan-Wei Yao et.al.|[2201.10203v1](http://arxiv.org/abs/2201.10203v1)|null|
 |**2022-01-25**|**Two-fluid kinetic theory for dilute polymer solutions**|Shiwani Singh et.al.|[2201.10132v1](http://arxiv.org/abs/2201.10132v1)|null|
-|**2022-01-25**|**Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately**|Sam Greydanus et.al.|[2201.10085v1](http://arxiv.org/abs/2201.10085v1)|null|
+|**2022-01-25**|**Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately**|Andrew Sosanya et.al.|[2201.10085v2](http://arxiv.org/abs/2201.10085v2)|null|
 |**2022-01-25**|**Inertial and hydrodynamic effects on the liquid-hexatic transition of active colloids**|Giuseppe Negro et.al.|[2201.10019v1](http://arxiv.org/abs/2201.10019v1)|null|
 |**2022-01-24**|**An Experiment to Test the Mechanical Losses of Different Bonding Techniques in Fused Silica**|Jonathan J. Carter et.al.|[2201.09909v1](http://arxiv.org/abs/2201.09909v1)|null|
 |**2022-01-24**|**Pedestrian Dead Reckoning System using Quasi-static Magnetic Field Detection**|Liqiang Zhang et.al.|[2201.09716v2](http://arxiv.org/abs/2201.09716v2)|null|
 |**2022-01-23**|**Three-dimensional dynamics of a pair of deformable bubbles rising initially in line. Part 2: Highly inertial regimes**|Jie Zhang et.al.|[2201.09336v1](http://arxiv.org/abs/2201.09336v1)|null|
-|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v1](http://arxiv.org/abs/2201.09170v1)|null|
+|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v2](http://arxiv.org/abs/2201.09170v2)|null|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
 |**2022-01-22**|**The saturation of the VSI in protoplanetary disks via parametric instability**|Can Cui et.al.|[2201.09038v1](http://arxiv.org/abs/2201.09038v1)|null|
 |**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|

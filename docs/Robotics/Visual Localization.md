@@ -19,7 +19,7 @@
 |**2022-01-23**|**FN-Net:Remove the Outliers by Filtering the Noise**|Kai Lv et.al.|[2201.09213v1](http://arxiv.org/abs/2201.09213v1)|null|
 |**2022-01-23**|**Design of Sensor Fusion Driver Assistance System for Active Pedestrian Safety**|I-Hsi Kao et.al.|[2201.09208v1](http://arxiv.org/abs/2201.09208v1)|null|
 |**2022-01-23**|**Vision-Based UAV Localization System in Denial Environments**|Ming Dai et.al.|[2201.09201v1](http://arxiv.org/abs/2201.09201v1)|null|
-|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v1](http://arxiv.org/abs/2201.09170v1)|null|
+|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v2](http://arxiv.org/abs/2201.09170v2)|null|
 |**2022-01-22**|**SL Sensor: An Open-Source, ROS-Based, Real-Time Structured Light Sensor for High Accuracy Construction Robotic Applications**|Teng Foong Lam et.al.|[2201.09025v1](http://arxiv.org/abs/2201.09025v1)|null|
 |**2022-01-22**|**Enhancing and Dissecting Crowd Counting By Synthetic Data**|Yi Hou et.al.|[2201.08992v1](http://arxiv.org/abs/2201.08992v1)|null|
 |**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v2](http://arxiv.org/abs/2201.08572v2)|null|
