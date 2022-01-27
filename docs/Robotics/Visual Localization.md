@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-26**|**Mixed reality hologram slicer (mxdR-HS): a marker-less tangible user interface for interactive holographic volume visualization**|Hoijoon Jung et.al.|[2201.10704v1](http://arxiv.org/abs/2201.10704v1)|null|
+|**2022-01-25**|**Characterizing crosstalk within the Pan-STARRS GPC1 camera**|T. J. L. de Boer et.al.|[2201.10680v1](http://arxiv.org/abs/2201.10680v1)|null|
+|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
 |**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
 |**2022-01-25**|**Distributed Image Transmission using Deep Joint Source-Channel Coding**|Sixian Wang et.al.|[2201.10340v1](http://arxiv.org/abs/2201.10340v1)|null|
 |**2022-01-25**|**RFMask: A Simple Baseline for Human Silhouette Segmentation with Radio Signals**|Zhi Wu et.al.|[2201.10175v1](http://arxiv.org/abs/2201.10175v1)|null|
@@ -20,7 +23,7 @@
 |**2022-01-23**|**Design of Sensor Fusion Driver Assistance System for Active Pedestrian Safety**|I-Hsi Kao et.al.|[2201.09208v1](http://arxiv.org/abs/2201.09208v1)|null|
 |**2022-01-23**|**Vision-Based UAV Localization System in Denial Environments**|Ming Dai et.al.|[2201.09201v1](http://arxiv.org/abs/2201.09201v1)|null|
 |**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v2](http://arxiv.org/abs/2201.09170v2)|null|
-|**2022-01-22**|**SL Sensor: An Open-Source, ROS-Based, Real-Time Structured Light Sensor for High Accuracy Construction Robotic Applications**|Teng Foong Lam et.al.|[2201.09025v1](http://arxiv.org/abs/2201.09025v1)|null|
+|**2022-01-22**|**SL Sensor: An Open-Source, ROS-Based, Real-Time Structured Light Sensor for High Accuracy Construction Robotic Applications**|Teng Foong Lam et.al.|[2201.09025v1](http://arxiv.org/abs/2201.09025v1)|[link](https://github.com/ethz-asl/sl_sensor)|
 |**2022-01-22**|**Enhancing and Dissecting Crowd Counting By Synthetic Data**|Yi Hou et.al.|[2201.08992v1](http://arxiv.org/abs/2201.08992v1)|null|
 |**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v2](http://arxiv.org/abs/2201.08572v2)|null|
 |**2022-01-20**|**HDhuman: High-quality Human Performance Capture with Sparse Views**|Tiansong Zhou et.al.|[2201.08158v2](http://arxiv.org/abs/2201.08158v2)|null|
@@ -29,6 +32,3 @@
 |**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
 |**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v2](http://arxiv.org/abs/2201.07927v2)|null|
-|**2022-01-19**|**Imaging Dynamic Microtubules and Associated Proteins by Simultaneous Interference-Reflection and Total-Internal-Reflection-Fluorescence Microscopy**|Yazgan Tuna et.al.|[2201.07911v1](http://arxiv.org/abs/2201.07911v1)|null|
-|**2022-01-19**|**CRC-Aided List Decoding of Convolutional and Polar Codes for Short Messages in 5G**|Jacob King et.al.|[2201.07843v1](http://arxiv.org/abs/2201.07843v1)|null|
-|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|

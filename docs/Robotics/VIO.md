@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-26**|**Viscoelastodynamics of swelling porous solids at large strains by an Eulerian approach**|Tomas Roubicek et.al.|[2201.10959v1](http://arxiv.org/abs/2201.10959v1)|null|
+|**2022-01-26**|**Quantum optical gyroscope**|Lin Jiao et.al.|[2201.10934v1](http://arxiv.org/abs/2201.10934v1)|null|
+|**2022-01-26**|**An in-depth numerical study of exact laws for compressible Hall magnetohydrodynamic turbulence**|R. Ferrand et.al.|[2201.10819v1](http://arxiv.org/abs/2201.10819v1)|null|
+|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
+|**2022-01-25**|**ULF wave transmission across collisionless shocks: 2.5D local hybrid simulations**|Primoz Kajdic et.al.|[2201.10558v1](http://arxiv.org/abs/2201.10558v1)|null|
 |**2022-01-25**|**PILOT: High-Precision Indoor Localization for Autonomous Drones**|Alireza Famili et.al.|[2201.10488v1](http://arxiv.org/abs/2201.10488v1)|null|
 |**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
 |**2022-01-25**|**Cohomology of the basic unramified PEL unitary Rapoport-Zink space of signature $(1,n-1)$**|Joseph Muller et.al.|[2201.10229v1](http://arxiv.org/abs/2201.10229v1)|null|
@@ -27,8 +32,3 @@
 |**2022-01-17**|**Homogenization of Existing Inertial-Based Datasets to Support Human Activity Recognition**|Hamza Amrani et.al.|[2201.07891v1](http://arxiv.org/abs/2201.07891v1)|null|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**Dynamics of small particle inertial migration in curved square ducts**|Kyung Ha et.al.|[2201.05645v1](http://arxiv.org/abs/2201.05645v1)|null|
-|**2022-01-14**|**Spirographic motion in a vortex**|Sumithra Reddy Yerasi et.al.|[2201.05448v1](http://arxiv.org/abs/2201.05448v1)|null|
-|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
-|**2022-01-14**|**Multi-time structure functions and the Lagrangian scaling of turbulence**|Sofía Angriman et.al.|[2201.05251v1](http://arxiv.org/abs/2201.05251v1)|null|
-|**2022-01-13**|**Evolution Inclusions of Second Order: Nonlinearly Damped Inertial Systems**|Aras Bacho et.al.|[2201.05196v1](http://arxiv.org/abs/2201.05196v1)|null|
-|**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
