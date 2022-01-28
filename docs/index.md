@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-01-28 08:21:59 Asia/Shanghai
+ Automated deployment @ 2022-01-28 09:33:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2021-11-29**|**Deployment of Aerial Robots after a major fire of an industrial hall with hazardous substances, a report**|Hartmut Surmann et.al.|[2111.14542v1](http://arxiv.org/abs/2111.14542v1)|null|
 |**2021-11-24**|**Automatic Mapping with Obstacle Identification for Indoor Human Mobility Assessment**|V. Ayala-Alfaro et.al.|[2111.12690v1](http://arxiv.org/abs/2111.12690v1)|null|
 
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-26**|**Mixed reality hologram slicer (mxdR-HS): a marker-less tangible user interface for interactive holographic volume visualization**|Hoijoon Jung et.al.|[2201.10704v1](http://arxiv.org/abs/2201.10704v1)|null|
-|**2022-01-25**|**Characterizing crosstalk within the Pan-STARRS GPC1 camera**|T. J. L. de Boer et.al.|[2201.10680v1](http://arxiv.org/abs/2201.10680v1)|null|
-|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
-|**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
-|**2022-01-25**|**Distributed Image Transmission using Deep Joint Source-Channel Coding**|Sixian Wang et.al.|[2201.10340v1](http://arxiv.org/abs/2201.10340v1)|null|
-|**2022-01-25**|**RFMask: A Simple Baseline for Human Silhouette Segmentation with Radio Signals**|Zhi Wu et.al.|[2201.10175v1](http://arxiv.org/abs/2201.10175v1)|null|
-|**2022-01-25**|**ARPD: Anchor-free Rotation-aware People Detection using Topview Fisheye Camera**|Quan Nguyen Minh et.al.|[2201.10107v1](http://arxiv.org/abs/2201.10107v1)|null|
-|**2022-01-24**|**Deep modelling of plasma and neutral fluctuations from gas puff turbulence imaging**|A. Mathews et.al.|[2201.09988v1](http://arxiv.org/abs/2201.09988v1)|null|
-|**2022-01-24**|**What is the cost of adding a constraint in linear least squares?**|Ramakrishna Kakarala et.al.|[2201.09935v1](http://arxiv.org/abs/2201.09935v1)|null|
-|**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
-|**2022-01-24**|**What You See is Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction**|Yijun Yang et.al.|[2201.09650v1](http://arxiv.org/abs/2201.09650v1)|null|
-|**2022-01-24**|**Consistent 3D Hand Reconstruction in Video via self-supervised Learning**|Zhigang Tu et.al.|[2201.09548v1](http://arxiv.org/abs/2201.09548v1)|null|
-|**2022-01-24**|**Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information**|Yong Huang et.al.|[2201.09487v1](http://arxiv.org/abs/2201.09487v1)|null|
-|**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai et.al.|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
-|**2022-01-23**|**Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models**|Shagufta Mehnaz et.al.|[2201.09370v1](http://arxiv.org/abs/2201.09370v1)|null|
-|**2022-01-23**|**Building a Privacy-Preserving Smart Camera System**|Yohan Beugin et.al.|[2201.09338v1](http://arxiv.org/abs/2201.09338v1)|[link](https://github.com/siis/cactus)|
-|**2022-01-23**|**1000x Faster Camera and Machine Vision with Ordinary Devices**|Tiejun Huang et.al.|[2201.09302v1](http://arxiv.org/abs/2201.09302v1)|null|
-|**2022-01-23**|**FN-Net:Remove the Outliers by Filtering the Noise**|Kai Lv et.al.|[2201.09213v1](http://arxiv.org/abs/2201.09213v1)|null|
-|**2022-01-23**|**Design of Sensor Fusion Driver Assistance System for Active Pedestrian Safety**|I-Hsi Kao et.al.|[2201.09208v1](http://arxiv.org/abs/2201.09208v1)|null|
-|**2022-01-23**|**Vision-Based UAV Localization System in Denial Environments**|Ming Dai et.al.|[2201.09201v1](http://arxiv.org/abs/2201.09201v1)|null|
-|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v2](http://arxiv.org/abs/2201.09170v2)|null|
-|**2022-01-22**|**SL Sensor: An Open-Source, ROS-Based, Real-Time Structured Light Sensor for High Accuracy Construction Robotic Applications**|Teng Foong Lam et.al.|[2201.09025v1](http://arxiv.org/abs/2201.09025v1)|[link](https://github.com/ethz-asl/sl_sensor)|
-|**2022-01-22**|**Enhancing and Dissecting Crowd Counting By Synthetic Data**|Yi Hou et.al.|[2201.08992v1](http://arxiv.org/abs/2201.08992v1)|null|
-|**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v2](http://arxiv.org/abs/2201.08572v2)|null|
-|**2022-01-20**|**HDhuman: High-quality Human Performance Capture with Sparse Views**|Tiansong Zhou et.al.|[2201.08158v2](http://arxiv.org/abs/2201.08158v2)|null|
-|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
-|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|[link](https://github.com/robot-perception-group/airpose)|
-|**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
-|**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
-|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v2](http://arxiv.org/abs/2201.07927v2)|null|
-
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,6 +72,40 @@
 |**2022-01-17**|**Homogenization of Existing Inertial-Based Datasets to Support Human Activity Recognition**|Hamza Amrani et.al.|[2201.07891v1](http://arxiv.org/abs/2201.07891v1)|null|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**Dynamics of small particle inertial migration in curved square ducts**|Kyung Ha et.al.|[2201.05645v1](http://arxiv.org/abs/2201.05645v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-26**|**Mixed reality hologram slicer (mxdR-HS): a marker-less tangible user interface for interactive holographic volume visualization**|Hoijoon Jung et.al.|[2201.10704v1](http://arxiv.org/abs/2201.10704v1)|null|
+|**2022-01-25**|**Characterizing crosstalk within the Pan-STARRS GPC1 camera**|T. J. L. de Boer et.al.|[2201.10680v1](http://arxiv.org/abs/2201.10680v1)|null|
+|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
+|**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
+|**2022-01-25**|**Distributed Image Transmission using Deep Joint Source-Channel Coding**|Sixian Wang et.al.|[2201.10340v1](http://arxiv.org/abs/2201.10340v1)|null|
+|**2022-01-25**|**RFMask: A Simple Baseline for Human Silhouette Segmentation with Radio Signals**|Zhi Wu et.al.|[2201.10175v1](http://arxiv.org/abs/2201.10175v1)|null|
+|**2022-01-25**|**ARPD: Anchor-free Rotation-aware People Detection using Topview Fisheye Camera**|Quan Nguyen Minh et.al.|[2201.10107v1](http://arxiv.org/abs/2201.10107v1)|null|
+|**2022-01-24**|**Deep modelling of plasma and neutral fluctuations from gas puff turbulence imaging**|A. Mathews et.al.|[2201.09988v1](http://arxiv.org/abs/2201.09988v1)|null|
+|**2022-01-24**|**What is the cost of adding a constraint in linear least squares?**|Ramakrishna Kakarala et.al.|[2201.09935v1](http://arxiv.org/abs/2201.09935v1)|null|
+|**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
+|**2022-01-24**|**What You See is Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction**|Yijun Yang et.al.|[2201.09650v1](http://arxiv.org/abs/2201.09650v1)|null|
+|**2022-01-24**|**Consistent 3D Hand Reconstruction in Video via self-supervised Learning**|Zhigang Tu et.al.|[2201.09548v1](http://arxiv.org/abs/2201.09548v1)|null|
+|**2022-01-24**|**Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information**|Yong Huang et.al.|[2201.09487v1](http://arxiv.org/abs/2201.09487v1)|null|
+|**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai et.al.|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
+|**2022-01-23**|**Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models**|Shagufta Mehnaz et.al.|[2201.09370v1](http://arxiv.org/abs/2201.09370v1)|null|
+|**2022-01-23**|**Building a Privacy-Preserving Smart Camera System**|Yohan Beugin et.al.|[2201.09338v1](http://arxiv.org/abs/2201.09338v1)|[link](https://github.com/siis/cactus)|
+|**2022-01-23**|**1000x Faster Camera and Machine Vision with Ordinary Devices**|Tiejun Huang et.al.|[2201.09302v1](http://arxiv.org/abs/2201.09302v1)|null|
+|**2022-01-23**|**FN-Net:Remove the Outliers by Filtering the Noise**|Kai Lv et.al.|[2201.09213v1](http://arxiv.org/abs/2201.09213v1)|null|
+|**2022-01-23**|**Design of Sensor Fusion Driver Assistance System for Active Pedestrian Safety**|I-Hsi Kao et.al.|[2201.09208v1](http://arxiv.org/abs/2201.09208v1)|null|
+|**2022-01-23**|**Vision-Based UAV Localization System in Denial Environments**|Ming Dai et.al.|[2201.09201v1](http://arxiv.org/abs/2201.09201v1)|null|
+|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v2](http://arxiv.org/abs/2201.09170v2)|null|
+|**2022-01-22**|**SL Sensor: An Open-Source, ROS-Based, Real-Time Structured Light Sensor for High Accuracy Construction Robotic Applications**|Teng Foong Lam et.al.|[2201.09025v1](http://arxiv.org/abs/2201.09025v1)|[link](https://github.com/ethz-asl/sl_sensor)|
+|**2022-01-22**|**Enhancing and Dissecting Crowd Counting By Synthetic Data**|Yi Hou et.al.|[2201.08992v1](http://arxiv.org/abs/2201.08992v1)|null|
+|**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v2](http://arxiv.org/abs/2201.08572v2)|null|
+|**2022-01-20**|**HDhuman: High-quality Human Performance Capture with Sparse Views**|Tiansong Zhou et.al.|[2201.08158v2](http://arxiv.org/abs/2201.08158v2)|null|
+|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
+|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|[link](https://github.com/robot-perception-group/airpose)|
+|**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
+|**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
+|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v2](http://arxiv.org/abs/2201.07927v2)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
