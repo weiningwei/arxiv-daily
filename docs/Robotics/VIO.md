@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-27**|**Structure of blocks with normal defect and abelian $p'$ inertial quotient**|David Benson et.al.|[2201.11715v1](http://arxiv.org/abs/2201.11715v1)|null|
+|**2022-01-27**|**Multi-photon Atom Interferometry via cavity-enhanced Bragg Diffraction**|D. O. Sabulsky et.al.|[2201.11693v1](http://arxiv.org/abs/2201.11693v1)|null|
+|**2022-01-27**|**Comments on the expanded Maxwell's equations for moving charged media system**|Chuang Li et.al.|[2201.11520v1](http://arxiv.org/abs/2201.11520v1)|null|
+|**2022-01-27**|**An experimental data-driven mass-spring model of flexible Calliphora wings**|Hung Truong et.al.|[2201.11509v1](http://arxiv.org/abs/2201.11509v1)|null|
+|**2022-01-27**|**Theory of Electron Injection at Oblique Shock of Finite Thickness**|Takanobu Amano et.al.|[2201.11416v1](http://arxiv.org/abs/2201.11416v1)|null|
+|**2022-01-27**|**Bundle Theoretic Descriptions of Massless Single-Particle State Spaces; Gauge Freedom**|Heon Lee et.al.|[2201.11372v1](http://arxiv.org/abs/2201.11372v1)|null|
 |**2022-01-26**|**Viscoelastodynamics of swelling porous solids at large strains by an Eulerian approach**|Tomas Roubicek et.al.|[2201.10959v1](http://arxiv.org/abs/2201.10959v1)|null|
 |**2022-01-26**|**Quantum optical gyroscope**|Lin Jiao et.al.|[2201.10934v1](http://arxiv.org/abs/2201.10934v1)|null|
 |**2022-01-26**|**An in-depth numerical study of exact laws for compressible Hall magnetohydrodynamic turbulence**|R. Ferrand et.al.|[2201.10819v1](http://arxiv.org/abs/2201.10819v1)|null|
@@ -26,9 +32,3 @@
 |**2022-01-20**|**An Automatic Control System with Human-in-the-Loop for Training Skydiving Maneuvers: Proof-of-Concept Experiment**|Anna Clarke et.al.|[2201.08162v1](http://arxiv.org/abs/2201.08162v1)|null|
 |**2022-01-19**|**Investigation of Langdon effect on the nonlinear evolution of SRS from the early-stage inflation to the late-stage development of secondary instabilities**|Jie Qiu et.al.|[2201.07722v1](http://arxiv.org/abs/2201.07722v1)|null|
 |**2022-01-19**|**Effect of interparticle interaction on motility induced phase separation of self-propelled inertial disks**|Soumen De Karmakar et.al.|[2201.07623v1](http://arxiv.org/abs/2201.07623v1)|null|
-|**2022-01-19**|**Nonlinear Unknown Input Observability and Unknown Input Reconstruction: The General Analytical Solution**|Agostino Martinelli et.al.|[2201.07610v1](http://arxiv.org/abs/2201.07610v1)|null|
-|**2022-01-18**|**Creation of turbulence in polyatomic gas flow via an intermolecular potential**|Rafail V. Abramov et.al.|[2201.07175v1](http://arxiv.org/abs/2201.07175v1)|null|
-|**2022-01-18**|**CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge**|Marco Tranzatto et.al.|[2201.07067v1](http://arxiv.org/abs/2201.07067v1)|null|
-|**2022-01-17**|**Homogenization of Existing Inertial-Based Datasets to Support Human Activity Recognition**|Hamza Amrani et.al.|[2201.07891v1](http://arxiv.org/abs/2201.07891v1)|null|
-|**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
-|**2022-01-14**|**Dynamics of small particle inertial migration in curved square ducts**|Kyung Ha et.al.|[2201.05645v1](http://arxiv.org/abs/2201.05645v1)|null|

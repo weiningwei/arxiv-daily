@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-27**|**PRNU Based Source Camera Identification for Webcam and Smartphone Videos**|Fernando Martín-Rodríguez et.al.|[2201.11737v1](http://arxiv.org/abs/2201.11737v1)|null|
+|**2022-01-27**|**Matched Illumination**|Yuteng Zhu et.al.|[2201.11700v1](http://arxiv.org/abs/2201.11700v1)|null|
+|**2022-01-27**|**Head and eye egocentric gesture recognition for human-robot interaction using eyewear cameras**|Javier Marina-Miranda et.al.|[2201.11500v1](http://arxiv.org/abs/2201.11500v1)|null|
+|**2022-01-26**|**DIREG3D: DIrectly REGress 3D Hands from Multiple Cameras**|Ashar Ali et.al.|[2201.11187v1](http://arxiv.org/abs/2201.11187v1)|null|
 |**2022-01-26**|**Mixed reality hologram slicer (mxdR-HS): a marker-less tangible user interface for interactive holographic volume visualization**|Hoijoon Jung et.al.|[2201.10704v1](http://arxiv.org/abs/2201.10704v1)|null|
 |**2022-01-25**|**Characterizing crosstalk within the Pan-STARRS GPC1 camera**|T. J. L. de Boer et.al.|[2201.10680v1](http://arxiv.org/abs/2201.10680v1)|null|
 |**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
@@ -28,7 +32,3 @@
 |**2022-01-21**|**Research and experimental design of Astrojax double balls trajectory based on double pendulum system**|Bin Duan et.al.|[2201.08572v2](http://arxiv.org/abs/2201.08572v2)|null|
 |**2022-01-20**|**HDhuman: High-quality Human Performance Capture with Sparse Views**|Tiansong Zhou et.al.|[2201.08158v2](http://arxiv.org/abs/2201.08158v2)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
-|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|[link](https://github.com/robot-perception-group/airpose)|
-|**2022-01-20**|**DFBVS: Deep Feature-Based Visual Servo**|Nicholas Adrian et.al.|[2201.08046v1](http://arxiv.org/abs/2201.08046v1)|null|
-|**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
-|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v2](http://arxiv.org/abs/2201.07927v2)|null|
