@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-28**|**Inertial Navigation Using an Inertial Sensor Array**|Håkan Carlsson et.al.|[2201.11983v1](http://arxiv.org/abs/2201.11983v1)|null|
+|**2022-01-27**|**Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure**|Luca Dal Zilio et.al.|[2201.11786v1](http://arxiv.org/abs/2201.11786v1)|null|
+|**2022-01-27**|**Low-Cost Inertial Aiding for Deep-Urban Tightly-Coupled Multi-Antenna Precise GNSS**|James E. Yoder et.al.|[2201.11776v1](http://arxiv.org/abs/2201.11776v1)|null|
 |**2022-01-27**|**Structure of blocks with normal defect and abelian $p'$ inertial quotient**|David Benson et.al.|[2201.11715v1](http://arxiv.org/abs/2201.11715v1)|null|
 |**2022-01-27**|**Multi-photon Atom Interferometry via cavity-enhanced Bragg Diffraction**|D. O. Sabulsky et.al.|[2201.11693v1](http://arxiv.org/abs/2201.11693v1)|null|
 |**2022-01-27**|**Comments on the expanded Maxwell's equations for moving charged media system**|Chuang Li et.al.|[2201.11520v1](http://arxiv.org/abs/2201.11520v1)|null|
@@ -29,6 +32,3 @@
 |**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|
 |**2022-01-20**|**Ultrafast loss of lattice coherence in the light-induced structural phase transition of the Mott-Insulator V$_2$O$_3$**|A. S. Johnson et.al.|[2201.08374v1](http://arxiv.org/abs/2201.08374v1)|null|
 |**2022-01-20**|**Uniformly accelerated Brownian oscillator in (2+1)D: temperature-dependent dissipation and frequency shift**|Dimitris Moustos et.al.|[2201.08287v1](http://arxiv.org/abs/2201.08287v1)|null|
-|**2022-01-20**|**An Automatic Control System with Human-in-the-Loop for Training Skydiving Maneuvers: Proof-of-Concept Experiment**|Anna Clarke et.al.|[2201.08162v1](http://arxiv.org/abs/2201.08162v1)|null|
-|**2022-01-19**|**Investigation of Langdon effect on the nonlinear evolution of SRS from the early-stage inflation to the late-stage development of secondary instabilities**|Jie Qiu et.al.|[2201.07722v1](http://arxiv.org/abs/2201.07722v1)|null|
-|**2022-01-19**|**Effect of interparticle interaction on motility induced phase separation of self-propelled inertial disks**|Soumen De Karmakar et.al.|[2201.07623v1](http://arxiv.org/abs/2201.07623v1)|null|
