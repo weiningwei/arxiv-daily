@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-31**|**Collective Effects and Intense Beam-Plasma Interactions in Ion-Beam-Driven High Energy Density Matter and Inertial Fusion Energy**|Igor D. Kaganovich et.al.|[2201.13183v1](http://arxiv.org/abs/2201.13183v1)|null|
+|**2022-01-29**|**The mean flow, velocity dispersion, and evolution of rotating and growing dark matter halos and their effects on the energy transfer in self-gravitating collisionless flow**|Zhijie Xu et.al.|[2201.12665v1](http://arxiv.org/abs/2201.12665v1)|null|
 |**2022-01-28**|**Inertial Navigation Using an Inertial Sensor Array**|Håkan Carlsson et.al.|[2201.11983v1](http://arxiv.org/abs/2201.11983v1)|[link](https://github.com/hcarlsso/array-in)|
 |**2022-01-27**|**Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure**|Luca Dal Zilio et.al.|[2201.11786v1](http://arxiv.org/abs/2201.11786v1)|null|
 |**2022-01-27**|**Low-Cost Inertial Aiding for Deep-Urban Tightly-Coupled Multi-Antenna Precise GNSS**|James E. Yoder et.al.|[2201.11776v1](http://arxiv.org/abs/2201.11776v1)|null|
@@ -30,5 +32,3 @@
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
 |**2022-01-22**|**The saturation of the VSI in protoplanetary disks via parametric instability**|Can Cui et.al.|[2201.09038v1](http://arxiv.org/abs/2201.09038v1)|null|
 |**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|
-|**2022-01-20**|**Ultrafast loss of lattice coherence in the light-induced structural phase transition of the Mott-Insulator V$_2$O$_3$**|A. S. Johnson et.al.|[2201.08374v1](http://arxiv.org/abs/2201.08374v1)|null|
-|**2022-01-20**|**Uniformly accelerated Brownian oscillator in (2+1)D: temperature-dependent dissipation and frequency shift**|Dimitris Moustos et.al.|[2201.08287v1](http://arxiv.org/abs/2201.08287v1)|null|

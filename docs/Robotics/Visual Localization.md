@@ -2,11 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-01-31**|**Signing the Supermask: Keep, Hide, Invert**|Nils Koster et.al.|[2201.13361v1](http://arxiv.org/abs/2201.13361v1)|null|
+|**2022-01-31**|**Towards machine learning aided real-time range imaging in proton therapy**|Jorge Lerendegui-Marco et.al.|[2201.13269v1](http://arxiv.org/abs/2201.13269v1)|null|
+|**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
+|**2022-01-30**|**Practical Noise Simulation for RGB Images**|Saeed Ranjbar Alvar et.al.|[2201.12773v1](http://arxiv.org/abs/2201.12773v1)|null|
+|**2022-01-29**|**Design of Outdoor Autonomous Moble Robot**|I-Hsi Kao et.al.|[2201.12605v1](http://arxiv.org/abs/2201.12605v1)|null|
+|**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-28**|**Benchmarking Conventional Vision Models on Neuromorphic Fall Detection and Action Recognition Dataset**|Karthik Sivarama Krishnan et.al.|[2201.12285v1](http://arxiv.org/abs/2201.12285v1)|null|
 |**2022-01-28**|**3D-FlowNet: Event-based optical flow estimation with 3D representation**|Haixin Sun et.al.|[2201.12265v1](http://arxiv.org/abs/2201.12265v1)|null|
 |**2022-01-28**|**Detecting Owner-member Relationship with Graph Convolution Network in Fisheye Camera System**|Zizhang Wu et.al.|[2201.12099v1](http://arxiv.org/abs/2201.12099v1)|null|
 |**2022-01-28**|**Multiplexed plasmonic nanoantennas for high throughput single molecule nanoscale dynamics in living cells**|Pamina M. Winkler et.al.|[2201.12068v1](http://arxiv.org/abs/2201.12068v1)|null|
 |**2022-01-28**|**Unfolding a blurred image**|Kuldeep Purohit et.al.|[2201.12010v1](http://arxiv.org/abs/2201.12010v1)|null|
+|**2022-01-27**|**Network-level Safety Metrics for Overall Traffic Safety Assessment: A Case Study**|Xiwen Chen et.al.|[2201.13229v1](http://arxiv.org/abs/2201.13229v1)|null|
 |**2022-01-27**|**PRNU Based Source Camera Identification for Webcam and Smartphone Videos**|Fernando Martín-Rodríguez et.al.|[2201.11737v1](http://arxiv.org/abs/2201.11737v1)|null|
 |**2022-01-27**|**Matched Illumination**|Yuteng Zhu et.al.|[2201.11700v1](http://arxiv.org/abs/2201.11700v1)|null|
 |**2022-01-27**|**Head and eye egocentric gesture recognition for human-robot interaction using eyewear cameras**|Javier Marina-Miranda et.al.|[2201.11500v1](http://arxiv.org/abs/2201.11500v1)|null|
@@ -25,10 +32,3 @@
 |**2022-01-24**|**Consistent 3D Hand Reconstruction in Video via self-supervised Learning**|Zhigang Tu et.al.|[2201.09548v1](http://arxiv.org/abs/2201.09548v1)|null|
 |**2022-01-24**|**Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information**|Yong Huang et.al.|[2201.09487v1](http://arxiv.org/abs/2201.09487v1)|null|
 |**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai et.al.|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
-|**2022-01-23**|**Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models**|Shagufta Mehnaz et.al.|[2201.09370v1](http://arxiv.org/abs/2201.09370v1)|null|
-|**2022-01-23**|**Building a Privacy-Preserving Smart Camera System**|Yohan Beugin et.al.|[2201.09338v1](http://arxiv.org/abs/2201.09338v1)|[link](https://github.com/siis/cactus)|
-|**2022-01-23**|**1000x Faster Camera and Machine Vision with Ordinary Devices**|Tiejun Huang et.al.|[2201.09302v1](http://arxiv.org/abs/2201.09302v1)|null|
-|**2022-01-23**|**FN-Net:Remove the Outliers by Filtering the Noise**|Kai Lv et.al.|[2201.09213v1](http://arxiv.org/abs/2201.09213v1)|null|
-|**2022-01-23**|**Design of Sensor Fusion Driver Assistance System for Active Pedestrian Safety**|I-Hsi Kao et.al.|[2201.09208v1](http://arxiv.org/abs/2201.09208v1)|null|
-|**2022-01-23**|**Vision-Based UAV Localization System in Denial Environments**|Ming Dai et.al.|[2201.09201v1](http://arxiv.org/abs/2201.09201v1)|null|
-|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v3](http://arxiv.org/abs/2201.09170v3)|null|
