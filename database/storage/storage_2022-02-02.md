@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2022-02-02 08:24:02 Asia/Shanghai
+ Automated deployment @ 2022-02-02 09:35:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
-|**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
-|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|[link](https://github.com/amazon-research/multimodal-neuralslam)|
-|**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
-|**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
-|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
-|**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli et.al.|[2201.03814v2](http://arxiv.org/abs/2201.03814v2)|null|
-|**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
-|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|[link](https://github.com/bmhopkinson/hyslam)|
-|**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta et.al.|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
-|**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen et.al.|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
-|**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
-|**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|[link](https://github.com/url-kaist/uv-slam)|
-|**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
-|**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v2](http://arxiv.org/abs/2112.13222v2)|null|
-|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
-|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
-|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
-|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
-|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
-|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|[link](https://github.com/zhanxinrui/hdn)|
-|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
-|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
-|**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
-|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
-|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
-|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
-|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
-|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v3](http://arxiv.org/abs/2112.00427v3)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
-|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,6 +39,40 @@
 |**2021-11-15**|**DFC: Deep Feature Consistency for Robust Point Cloud Registration**|Zhu Xu et.al.|[2111.07597v3](http://arxiv.org/abs/2111.07597v3)|null|
 |**2021-11-14**|**TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo**|Lukas Koestler et.al.|[2111.07418v1](http://arxiv.org/abs/2111.07418v1)|[link](https://github.com/tum-vision/tandem)|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-01-31**|**Collective Effects and Intense Beam-Plasma Interactions in Ion-Beam-Driven High Energy Density Matter and Inertial Fusion Energy**|Igor D. Kaganovich et.al.|[2201.13183v1](http://arxiv.org/abs/2201.13183v1)|null|
+|**2022-01-29**|**The mean flow, velocity dispersion, and evolution of rotating and growing dark matter halos and their effects on the energy transfer in self-gravitating collisionless flow**|Zhijie Xu et.al.|[2201.12665v1](http://arxiv.org/abs/2201.12665v1)|null|
+|**2022-01-28**|**Inertial Navigation Using an Inertial Sensor Array**|Håkan Carlsson et.al.|[2201.11983v1](http://arxiv.org/abs/2201.11983v1)|[link](https://github.com/hcarlsso/array-in)|
+|**2022-01-27**|**Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure**|Luca Dal Zilio et.al.|[2201.11786v1](http://arxiv.org/abs/2201.11786v1)|null|
+|**2022-01-27**|**Low-Cost Inertial Aiding for Deep-Urban Tightly-Coupled Multi-Antenna Precise GNSS**|James E. Yoder et.al.|[2201.11776v1](http://arxiv.org/abs/2201.11776v1)|null|
+|**2022-01-27**|**Structure of blocks with normal defect and abelian $p'$ inertial quotient**|David Benson et.al.|[2201.11715v1](http://arxiv.org/abs/2201.11715v1)|null|
+|**2022-01-27**|**Multi-photon Atom Interferometry via cavity-enhanced Bragg Diffraction**|D. O. Sabulsky et.al.|[2201.11693v1](http://arxiv.org/abs/2201.11693v1)|null|
+|**2022-01-27**|**Comments on the expanded Maxwell's equations for moving charged media system**|Chuang Li et.al.|[2201.11520v1](http://arxiv.org/abs/2201.11520v1)|null|
+|**2022-01-27**|**An experimental data-driven mass-spring model of flexible Calliphora wings**|Hung Truong et.al.|[2201.11509v1](http://arxiv.org/abs/2201.11509v1)|null|
+|**2022-01-27**|**Theory of Electron Injection at Oblique Shock of Finite Thickness**|Takanobu Amano et.al.|[2201.11416v1](http://arxiv.org/abs/2201.11416v1)|null|
+|**2022-01-27**|**Bundle Theoretic Descriptions of Massless Single-Particle State Spaces; Gauge Freedom**|Heon Lee et.al.|[2201.11372v1](http://arxiv.org/abs/2201.11372v1)|null|
+|**2022-01-26**|**Viscoelastodynamics of swelling porous solids at large strains by an Eulerian approach**|Tomas Roubicek et.al.|[2201.10959v1](http://arxiv.org/abs/2201.10959v1)|null|
+|**2022-01-26**|**Quantum optical gyroscope**|Lin Jiao et.al.|[2201.10934v1](http://arxiv.org/abs/2201.10934v1)|null|
+|**2022-01-26**|**An in-depth numerical study of exact laws for compressible Hall magnetohydrodynamic turbulence**|R. Ferrand et.al.|[2201.10819v1](http://arxiv.org/abs/2201.10819v1)|null|
+|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
+|**2022-01-25**|**ULF wave transmission across collisionless shocks: 2.5D local hybrid simulations**|Primoz Kajdic et.al.|[2201.10558v1](http://arxiv.org/abs/2201.10558v1)|null|
+|**2022-01-25**|**PILOT: High-Precision Indoor Localization for Autonomous Drones**|Alireza Famili et.al.|[2201.10488v1](http://arxiv.org/abs/2201.10488v1)|null|
+|**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
+|**2022-01-25**|**Cohomology of the basic unramified PEL unitary Rapoport-Zink space of signature $(1,n-1)$**|Joseph Muller et.al.|[2201.10229v1](http://arxiv.org/abs/2201.10229v1)|null|
+|**2022-01-25**|**Self-Alignment of a Large-Area Dual-Atom-Interferometer Gyroscope Using Parameter Decoupled Phase Seeking Calibrations**|Zhan-Wei Yao et.al.|[2201.10203v1](http://arxiv.org/abs/2201.10203v1)|null|
+|**2022-01-25**|**Two-fluid kinetic theory for dilute polymer solutions**|Shiwani Singh et.al.|[2201.10132v1](http://arxiv.org/abs/2201.10132v1)|null|
+|**2022-01-25**|**Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately**|Andrew Sosanya et.al.|[2201.10085v2](http://arxiv.org/abs/2201.10085v2)|null|
+|**2022-01-25**|**Inertial and hydrodynamic effects on the liquid-hexatic transition of active colloids**|Giuseppe Negro et.al.|[2201.10019v1](http://arxiv.org/abs/2201.10019v1)|null|
+|**2022-01-24**|**An Experiment to Test the Mechanical Losses of Different Bonding Techniques in Fused Silica**|Jonathan J. Carter et.al.|[2201.09909v1](http://arxiv.org/abs/2201.09909v1)|null|
+|**2022-01-24**|**Pedestrian Dead Reckoning System using Quasi-static Magnetic Field Detection**|Liqiang Zhang et.al.|[2201.09716v2](http://arxiv.org/abs/2201.09716v2)|null|
+|**2022-01-23**|**Three-dimensional dynamics of a pair of deformable bubbles rising initially in line. Part 2: Highly inertial regimes**|Jie Zhang et.al.|[2201.09336v1](http://arxiv.org/abs/2201.09336v1)|null|
+|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v3](http://arxiv.org/abs/2201.09170v3)|null|
+|**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
+|**2022-01-22**|**The saturation of the VSI in protoplanetary disks via parametric instability**|Can Cui et.al.|[2201.09038v1](http://arxiv.org/abs/2201.09038v1)|null|
+|**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|
+
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -107,36 +107,36 @@
 |**2022-01-24**|**Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information**|Yong Huang et.al.|[2201.09487v1](http://arxiv.org/abs/2201.09487v1)|null|
 |**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai et.al.|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
 
-### VIO
+### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-31**|**Collective Effects and Intense Beam-Plasma Interactions in Ion-Beam-Driven High Energy Density Matter and Inertial Fusion Energy**|Igor D. Kaganovich et.al.|[2201.13183v1](http://arxiv.org/abs/2201.13183v1)|null|
-|**2022-01-29**|**The mean flow, velocity dispersion, and evolution of rotating and growing dark matter halos and their effects on the energy transfer in self-gravitating collisionless flow**|Zhijie Xu et.al.|[2201.12665v1](http://arxiv.org/abs/2201.12665v1)|null|
-|**2022-01-28**|**Inertial Navigation Using an Inertial Sensor Array**|Håkan Carlsson et.al.|[2201.11983v1](http://arxiv.org/abs/2201.11983v1)|[link](https://github.com/hcarlsso/array-in)|
-|**2022-01-27**|**Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure**|Luca Dal Zilio et.al.|[2201.11786v1](http://arxiv.org/abs/2201.11786v1)|null|
-|**2022-01-27**|**Low-Cost Inertial Aiding for Deep-Urban Tightly-Coupled Multi-Antenna Precise GNSS**|James E. Yoder et.al.|[2201.11776v1](http://arxiv.org/abs/2201.11776v1)|null|
-|**2022-01-27**|**Structure of blocks with normal defect and abelian $p'$ inertial quotient**|David Benson et.al.|[2201.11715v1](http://arxiv.org/abs/2201.11715v1)|null|
-|**2022-01-27**|**Multi-photon Atom Interferometry via cavity-enhanced Bragg Diffraction**|D. O. Sabulsky et.al.|[2201.11693v1](http://arxiv.org/abs/2201.11693v1)|null|
-|**2022-01-27**|**Comments on the expanded Maxwell's equations for moving charged media system**|Chuang Li et.al.|[2201.11520v1](http://arxiv.org/abs/2201.11520v1)|null|
-|**2022-01-27**|**An experimental data-driven mass-spring model of flexible Calliphora wings**|Hung Truong et.al.|[2201.11509v1](http://arxiv.org/abs/2201.11509v1)|null|
-|**2022-01-27**|**Theory of Electron Injection at Oblique Shock of Finite Thickness**|Takanobu Amano et.al.|[2201.11416v1](http://arxiv.org/abs/2201.11416v1)|null|
-|**2022-01-27**|**Bundle Theoretic Descriptions of Massless Single-Particle State Spaces; Gauge Freedom**|Heon Lee et.al.|[2201.11372v1](http://arxiv.org/abs/2201.11372v1)|null|
-|**2022-01-26**|**Viscoelastodynamics of swelling porous solids at large strains by an Eulerian approach**|Tomas Roubicek et.al.|[2201.10959v1](http://arxiv.org/abs/2201.10959v1)|null|
-|**2022-01-26**|**Quantum optical gyroscope**|Lin Jiao et.al.|[2201.10934v1](http://arxiv.org/abs/2201.10934v1)|null|
-|**2022-01-26**|**An in-depth numerical study of exact laws for compressible Hall magnetohydrodynamic turbulence**|R. Ferrand et.al.|[2201.10819v1](http://arxiv.org/abs/2201.10819v1)|null|
-|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
-|**2022-01-25**|**ULF wave transmission across collisionless shocks: 2.5D local hybrid simulations**|Primoz Kajdic et.al.|[2201.10558v1](http://arxiv.org/abs/2201.10558v1)|null|
-|**2022-01-25**|**PILOT: High-Precision Indoor Localization for Autonomous Drones**|Alireza Famili et.al.|[2201.10488v1](http://arxiv.org/abs/2201.10488v1)|null|
-|**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
-|**2022-01-25**|**Cohomology of the basic unramified PEL unitary Rapoport-Zink space of signature $(1,n-1)$**|Joseph Muller et.al.|[2201.10229v1](http://arxiv.org/abs/2201.10229v1)|null|
-|**2022-01-25**|**Self-Alignment of a Large-Area Dual-Atom-Interferometer Gyroscope Using Parameter Decoupled Phase Seeking Calibrations**|Zhan-Wei Yao et.al.|[2201.10203v1](http://arxiv.org/abs/2201.10203v1)|null|
-|**2022-01-25**|**Two-fluid kinetic theory for dilute polymer solutions**|Shiwani Singh et.al.|[2201.10132v1](http://arxiv.org/abs/2201.10132v1)|null|
-|**2022-01-25**|**Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately**|Andrew Sosanya et.al.|[2201.10085v2](http://arxiv.org/abs/2201.10085v2)|null|
-|**2022-01-25**|**Inertial and hydrodynamic effects on the liquid-hexatic transition of active colloids**|Giuseppe Negro et.al.|[2201.10019v1](http://arxiv.org/abs/2201.10019v1)|null|
-|**2022-01-24**|**An Experiment to Test the Mechanical Losses of Different Bonding Techniques in Fused Silica**|Jonathan J. Carter et.al.|[2201.09909v1](http://arxiv.org/abs/2201.09909v1)|null|
-|**2022-01-24**|**Pedestrian Dead Reckoning System using Quasi-static Magnetic Field Detection**|Liqiang Zhang et.al.|[2201.09716v2](http://arxiv.org/abs/2201.09716v2)|null|
-|**2022-01-23**|**Three-dimensional dynamics of a pair of deformable bubbles rising initially in line. Part 2: Highly inertial regimes**|Jie Zhang et.al.|[2201.09336v1](http://arxiv.org/abs/2201.09336v1)|null|
-|**2022-01-23**|**Online Self-Calibration for Visual-Inertial Navigation Systems: Models, Analysis and Degeneracy**|Yulin Yang et.al.|[2201.09170v3](http://arxiv.org/abs/2201.09170v3)|null|
+|**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
+|**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
+|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|[link](https://github.com/amazon-research/multimodal-neuralslam)|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
-|**2022-01-22**|**The saturation of the VSI in protoplanetary disks via parametric instability**|Can Cui et.al.|[2201.09038v1](http://arxiv.org/abs/2201.09038v1)|null|
-|**2022-01-21**|**Dynamic Cooperative Vehicle Platoon Control Considering Longitudinal and Lane-changing Dynamics**|Kangning Hou et.al.|[2201.08553v1](http://arxiv.org/abs/2201.08553v1)|null|
+|**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
+|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
+|**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli et.al.|[2201.03814v2](http://arxiv.org/abs/2201.03814v2)|null|
+|**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
+|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|[link](https://github.com/bmhopkinson/hyslam)|
+|**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta et.al.|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
+|**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen et.al.|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
+|**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
+|**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|[link](https://github.com/url-kaist/uv-slam)|
+|**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
+|**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v2](http://arxiv.org/abs/2112.13222v2)|null|
+|**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
+|**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu et.al.|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
+|**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|[link](https://github.com/SJTU-ViSYS/M2DGR)|
+|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
+|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
+|**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v3](http://arxiv.org/abs/2112.07909v3)|[link](https://github.com/zhanxinrui/hdn)|
+|**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
+|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
+|**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
+|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|
+|**2021-12-05**|**Iterated Posterior Linearization PMB Filter for 5G SLAM**|Yu Ge et.al.|[2112.02575v1](http://arxiv.org/abs/2112.02575v1)|null|
+|**2021-12-03**|**Fast Direct Stereo Visual SLAM**|Jiawei Mo et.al.|[2112.01890v1](http://arxiv.org/abs/2112.01890v1)|[link](https://github.com/irvlab/direct_stereo_slam)|
+|**2021-12-02**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|[link](https://github.com/megviirobot/megba)|
+|**2021-12-01**|**Research on Event Accumulator Settings for Event-Based SLAM**|Kun Xiao et.al.|[2112.00427v3](http://arxiv.org/abs/2112.00427v3)|[link](https://github.com/robin-shaun/event-slam-accumulator-settings)|
+|**2021-11-29**|**An in-depth experimental study of sensor usage and visual reasoning of robots navigating in real environments**|Assem Sadek et.al.|[2111.14666v1](http://arxiv.org/abs/2111.14666v1)|null|
