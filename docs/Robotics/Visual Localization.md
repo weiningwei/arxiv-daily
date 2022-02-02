@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-01**|**MoCap-less Quantitative Evaluation of Ego-Pose Estimation Without Ground Truth Measurements**|Quentin Possamaï et.al.|[2202.00403v1](http://arxiv.org/abs/2202.00403v1)|null|
+|**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|null|
+|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
+|**2022-02-01**|**Learning-Based Framework for Camera Calibration with Distortion Correction and High Precision Feature Detection**|Yesheng Zhang et.al.|[2202.00158v1](http://arxiv.org/abs/2202.00158v1)|[link](https://github.com/easonyesheng/ccs)|
+|**2022-02-01**|**Fortuitous Forgetting in Connectionist Networks**|Hattie Zhou et.al.|[2202.00155v1](http://arxiv.org/abs/2202.00155v1)|[link](https://github.com/hlml/fortuitous_forgetting)|
+|**2022-01-31**|**Semi-supervised Identification and Mapping of Surface Water Extent using Street-level Monitoring Videos**|Ruo-Qian Wang et.al.|[2202.00096v1](http://arxiv.org/abs/2202.00096v1)|null|
 |**2022-01-31**|**Signing the Supermask: Keep, Hide, Invert**|Nils Koster et.al.|[2201.13361v1](http://arxiv.org/abs/2201.13361v1)|null|
 |**2022-01-31**|**Towards machine learning aided real-time range imaging in proton therapy**|Jorge Lerendegui-Marco et.al.|[2201.13269v1](http://arxiv.org/abs/2201.13269v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
@@ -26,9 +32,3 @@
 |**2022-01-25**|**RFMask: A Simple Baseline for Human Silhouette Segmentation with Radio Signals**|Zhi Wu et.al.|[2201.10175v1](http://arxiv.org/abs/2201.10175v1)|null|
 |**2022-01-25**|**ARPD: Anchor-free Rotation-aware People Detection using Topview Fisheye Camera**|Quan Nguyen Minh et.al.|[2201.10107v1](http://arxiv.org/abs/2201.10107v1)|null|
 |**2022-01-24**|**Deep modelling of plasma and neutral fluctuations from gas puff turbulence imaging**|A. Mathews et.al.|[2201.09988v1](http://arxiv.org/abs/2201.09988v1)|null|
-|**2022-01-24**|**What is the cost of adding a constraint in linear least squares?**|Ramakrishna Kakarala et.al.|[2201.09935v1](http://arxiv.org/abs/2201.09935v1)|null|
-|**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
-|**2022-01-24**|**What You See is Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction**|Yijun Yang et.al.|[2201.09650v1](http://arxiv.org/abs/2201.09650v1)|null|
-|**2022-01-24**|**Consistent 3D Hand Reconstruction in Video via self-supervised Learning**|Zhigang Tu et.al.|[2201.09548v1](http://arxiv.org/abs/2201.09548v1)|null|
-|**2022-01-24**|**Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information**|Yong Huang et.al.|[2201.09487v1](http://arxiv.org/abs/2201.09487v1)|null|
-|**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai et.al.|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
