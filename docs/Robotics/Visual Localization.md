@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-02**|**Gems of the Galaxy Zoos -- a Wide-Ranging Hubble Space Telescope Gap-Filler Program**|William C. Keel et.al.|[2202.01098v1](http://arxiv.org/abs/2202.01098v1)|null|
+|**2022-02-02**|**Thermal and Visual Tracking of Photovoltaic Plants for Autonomous UAV inspection**|Luca Morando et.al.|[2202.01003v1](http://arxiv.org/abs/2202.01003v1)|null|
+|**2022-02-02**|**Augmenting Immersive Telepresence Experience with a Virtual Body**|Nikunj Arora et.al.|[2202.00900v1](http://arxiv.org/abs/2202.00900v1)|null|
+|**2022-02-02**|**Accurate calibration of surround view camera systems from a generalization of the hand eye constraint**|Yifu Wang et.al.|[2202.00886v1](http://arxiv.org/abs/2202.00886v1)|null|
+|**2022-02-02**|**Active Audio-Visual Separation of Dynamic Sound Sources**|Sagnik Majumder et.al.|[2202.00850v1](http://arxiv.org/abs/2202.00850v1)|null|
+|**2022-02-02**|**Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction**|Jiawei Lu et.al.|[2202.00843v1](http://arxiv.org/abs/2202.00843v1)|null|
+|**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
 |**2022-02-01**|**MoCap-less Quantitative Evaluation of Ego-Pose Estimation Without Ground Truth Measurements**|Quentin Possamaï et.al.|[2202.00403v1](http://arxiv.org/abs/2202.00403v1)|null|
 |**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|[link](https://github.com/ntu-aris/ntu_viral_dataset)|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
@@ -25,10 +32,3 @@
 |**2022-01-27**|**Head and eye egocentric gesture recognition for human-robot interaction using eyewear cameras**|Javier Marina-Miranda et.al.|[2201.11500v1](http://arxiv.org/abs/2201.11500v1)|null|
 |**2022-01-26**|**DIREG3D: DIrectly REGress 3D Hands from Multiple Cameras**|Ashar Ali et.al.|[2201.11187v1](http://arxiv.org/abs/2201.11187v1)|null|
 |**2022-01-26**|**Mixed reality hologram slicer (mxdR-HS): a marker-less tangible user interface for interactive holographic volume visualization**|Hoijoon Jung et.al.|[2201.10704v1](http://arxiv.org/abs/2201.10704v1)|null|
-|**2022-01-25**|**Characterizing crosstalk within the Pan-STARRS GPC1 camera**|T. J. L. de Boer et.al.|[2201.10680v1](http://arxiv.org/abs/2201.10680v1)|null|
-|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
-|**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
-|**2022-01-25**|**Distributed Image Transmission using Deep Joint Source-Channel Coding**|Sixian Wang et.al.|[2201.10340v1](http://arxiv.org/abs/2201.10340v1)|null|
-|**2022-01-25**|**RFMask: A Simple Baseline for Human Silhouette Segmentation with Radio Signals**|Zhi Wu et.al.|[2201.10175v1](http://arxiv.org/abs/2201.10175v1)|null|
-|**2022-01-25**|**ARPD: Anchor-free Rotation-aware People Detection using Topview Fisheye Camera**|Quan Nguyen Minh et.al.|[2201.10107v1](http://arxiv.org/abs/2201.10107v1)|null|
-|**2022-01-24**|**Deep modelling of plasma and neutral fluctuations from gas puff turbulence imaging**|A. Mathews et.al.|[2201.09988v1](http://arxiv.org/abs/2201.09988v1)|null|

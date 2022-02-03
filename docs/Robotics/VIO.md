@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-02**|**Importance of accurate consideration of the electron inertia in hybrid-kinetic simulations of collisionless plasma turbulence: 1. The 2D limit**|Neeraj Jain et.al.|[2202.01075v1](http://arxiv.org/abs/2202.01075v1)|null|
+|**2022-02-02**|**How two-way coupling modifies the multiscale preferential sweeping mechanism**|Josin Tom et.al.|[2202.01049v1](http://arxiv.org/abs/2202.01049v1)|null|
+|**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-02-01**|**A Novel Method to Estimate Tilt Angle of a Body using a Pendulum**|Anandhu Suresh et.al.|[2202.00388v1](http://arxiv.org/abs/2202.00388v1)|null|
 |**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|[link](https://github.com/ntu-aris/ntu_viral_dataset)|
 |**2022-02-01**|**Relative Transformation Estimation Based on Fusion of Odometry and UWB Ranging Data**|Thien Hoang Nguyen et.al.|[2202.00279v1](http://arxiv.org/abs/2202.00279v1)|null|
@@ -29,6 +32,3 @@
 |**2022-01-25**|**Self-Alignment of a Large-Area Dual-Atom-Interferometer Gyroscope Using Parameter Decoupled Phase Seeking Calibrations**|Zhan-Wei Yao et.al.|[2201.10203v1](http://arxiv.org/abs/2201.10203v1)|null|
 |**2022-01-25**|**Two-fluid kinetic theory for dilute polymer solutions**|Shiwani Singh et.al.|[2201.10132v1](http://arxiv.org/abs/2201.10132v1)|null|
 |**2022-01-25**|**Dissipative Hamiltonian Neural Networks: Learning Dissipative and Conservative Dynamics Separately**|Andrew Sosanya et.al.|[2201.10085v2](http://arxiv.org/abs/2201.10085v2)|null|
-|**2022-01-25**|**Inertial and hydrodynamic effects on the liquid-hexatic transition of active colloids**|Giuseppe Negro et.al.|[2201.10019v1](http://arxiv.org/abs/2201.10019v1)|null|
-|**2022-01-24**|**An Experiment to Test the Mechanical Losses of Different Bonding Techniques in Fused Silica**|Jonathan J. Carter et.al.|[2201.09909v1](http://arxiv.org/abs/2201.09909v1)|null|
-|**2022-01-24**|**Pedestrian Dead Reckoning System using Quasi-static Magnetic Field Detection**|Liqiang Zhang et.al.|[2201.09716v2](http://arxiv.org/abs/2201.09716v2)|null|
