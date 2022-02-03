@@ -5,7 +5,7 @@
 |**2022-02-01**|**A Novel Method to Estimate Tilt Angle of a Body using a Pendulum**|Anandhu Suresh et.al.|[2202.00388v1](http://arxiv.org/abs/2202.00388v1)|null|
 |**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|[link](https://github.com/ntu-aris/ntu_viral_dataset)|
 |**2022-02-01**|**Relative Transformation Estimation Based on Fusion of Odometry and UWB Ranging Data**|Thien Hoang Nguyen et.al.|[2202.00279v1](http://arxiv.org/abs/2202.00279v1)|null|
-|**2022-02-01**|**Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping**|Kenji Koide et.al.|[2202.00242v1](http://arxiv.org/abs/2202.00242v1)|null|
+|**2022-02-01**|**Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping**|Kenji Koide et.al.|[2202.00242v2](http://arxiv.org/abs/2202.00242v2)|null|
 |**2022-01-31**|**DRS-LIP: Linear Inverted Pendulum Model for Legged Locomotion on Dynamic Rigid Surfaces**|Amir Iqbal et.al.|[2202.00151v1](http://arxiv.org/abs/2202.00151v1)|null|
 |**2022-01-31**|**Collective Effects and Intense Beam-Plasma Interactions in Ion-Beam-Driven High Energy Density Matter and Inertial Fusion Energy**|Igor D. Kaganovich et.al.|[2201.13183v1](http://arxiv.org/abs/2201.13183v1)|null|
 |**2022-01-29**|**The mean flow, velocity dispersion, and evolution of rotating and growing dark matter halos and their effects on the energy transfer in self-gravitating collisionless flow**|Zhijie Xu et.al.|[2201.12665v1](http://arxiv.org/abs/2201.12665v1)|null|
