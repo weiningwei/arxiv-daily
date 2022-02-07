@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-04**|**Choosing an Appropriate Platform and Workflow for Processing Camera Trap Data using Artificial Intelligence**|Juliana Vélez et.al.|[2202.02283v1](http://arxiv.org/abs/2202.02283v1)|null|
+|**2022-02-04**|**Bootstrapped Representation Learning for Skeleton-Based Action Recognition**|Olivier Moliner et.al.|[2202.02232v1](http://arxiv.org/abs/2202.02232v1)|null|
+|**2022-02-04**|**Weak Thermal State Quadrature-Noise Shadow Imaging**|Pratik J. Barge et.al.|[2202.02231v1](http://arxiv.org/abs/2202.02231v1)|null|
+|**2022-02-04**|**Video Violence Recognition and Localization using a Semi-Supervised Hard-Attention Model**|Hamid Mohammadi et.al.|[2202.02212v1](http://arxiv.org/abs/2202.02212v1)|null|
+|**2022-02-04**|**Post-AO high-resolution imaging using the Kraken multi-frame blind deconvolution algorithm**|Douglas A. Hope et.al.|[2202.02178v1](http://arxiv.org/abs/2202.02178v1)|null|
+|**2022-02-04**|**Computational analysis of interface evolution and droplet pinch-off mechanism in two-phase liquid flow through T-junction microfluidic system**|Akepogu Venkateshwarlu et.al.|[2202.02130v1](http://arxiv.org/abs/2202.02130v1)|null|
+|**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
+|**2022-02-03**|**HRBF-Fusion: Accurate 3D reconstruction from RGB-D data using on-the-fly implicits**|Yabin Xu et.al.|[2202.01829v1](http://arxiv.org/abs/2202.01829v1)|null|
 |**2022-02-03**|**AI-as-a-Service Toolkit for Human-Centered Intelligence in Autonomous Driving**|Valerio De Caro et.al.|[2202.01645v1](http://arxiv.org/abs/2202.01645v1)|null|
 |**2022-02-03**|**Asteroid Measurements at Millimeter Wavelengths with the South Pole Telescope**|P. M. Chichura et.al.|[2202.01406v1](http://arxiv.org/abs/2202.01406v1)|null|
 |**2022-02-03**|**Feasibility of Interactive 3D Map for Remote Sighted Assistance**|Jingyi Xie et.al.|[2202.01365v1](http://arxiv.org/abs/2202.01365v1)|null|
@@ -24,11 +32,3 @@
 |**2022-01-30**|**Practical Noise Simulation for RGB Images**|Saeed Ranjbar Alvar et.al.|[2201.12773v1](http://arxiv.org/abs/2201.12773v1)|null|
 |**2022-01-29**|**Design of Outdoor Autonomous Moble Robot**|I-Hsi Kao et.al.|[2201.12605v1](http://arxiv.org/abs/2201.12605v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
-|**2022-01-28**|**Benchmarking Conventional Vision Models on Neuromorphic Fall Detection and Action Recognition Dataset**|Karthik Sivarama Krishnan et.al.|[2201.12285v1](http://arxiv.org/abs/2201.12285v1)|null|
-|**2022-01-28**|**3D-FlowNet: Event-based optical flow estimation with 3D representation**|Haixin Sun et.al.|[2201.12265v1](http://arxiv.org/abs/2201.12265v1)|null|
-|**2022-01-28**|**Detecting Owner-member Relationship with Graph Convolution Network in Fisheye Camera System**|Zizhang Wu et.al.|[2201.12099v1](http://arxiv.org/abs/2201.12099v1)|null|
-|**2022-01-28**|**Multiplexed plasmonic nanoantennas for high throughput single molecule nanoscale dynamics in living cells**|Pamina M. Winkler et.al.|[2201.12068v1](http://arxiv.org/abs/2201.12068v1)|null|
-|**2022-01-28**|**Unfolding a blurred image**|Kuldeep Purohit et.al.|[2201.12010v1](http://arxiv.org/abs/2201.12010v1)|null|
-|**2022-01-27**|**Network-level Safety Metrics for Overall Traffic Safety Assessment: A Case Study**|Xiwen Chen et.al.|[2201.13229v1](http://arxiv.org/abs/2201.13229v1)|null|
-|**2022-01-27**|**PRNU Based Source Camera Identification for Webcam and Smartphone Videos**|Fernando Martín-Rodríguez et.al.|[2201.11737v1](http://arxiv.org/abs/2201.11737v1)|null|
-|**2022-01-27**|**Matched Illumination**|Yuteng Zhu et.al.|[2201.11700v1](http://arxiv.org/abs/2201.11700v1)|null|
