@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|null|
+|**2022-02-07**|**A revisit of generalized scaling of forced turbulence through flux analysis**|Wei Zhao et.al.|[2202.03094v1](http://arxiv.org/abs/2202.03094v1)|null|
+|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
+|**2022-02-04**|**Pressure-Strain Interaction as the Energy Dissipation Estimate in Collisionless Plasma**|Yan Yang et.al.|[2202.02409v1](http://arxiv.org/abs/2202.02409v1)|null|
+|**2022-02-04**|**Differentiable Simulation of Inertial Musculotendons**|Ying Wang et.al.|[2202.02344v1](http://arxiv.org/abs/2202.02344v1)|null|
 |**2022-02-04**|**Beam Management with Orientation and RSRP using Deep Learning for Beyond 5G Systems**|Khuong N. Nguyen et.al.|[2202.02247v1](http://arxiv.org/abs/2202.02247v1)|null|
 |**2022-02-04**|**Equivariant Filter Design for Inertial Navigation Systems with Input Measurement Biases**|Alessandro Fornasier et.al.|[2202.02058v1](http://arxiv.org/abs/2202.02058v1)|null|
 |**2022-02-03**|**Intermittency in the Expanding Solar Wind: Observations from Parker Solar Probe (0.16au), Helios 1 (0.3-1au), and Voyager 1 (1-10au)**|Manuel Enrique Cuesta et.al.|[2202.01874v1](http://arxiv.org/abs/2202.01874v1)|null|
@@ -27,8 +32,3 @@
 |**2022-01-27**|**Bundle Theoretic Descriptions of Massless Single-Particle State Spaces; Gauge Freedom**|Heon Lee et.al.|[2201.11372v1](http://arxiv.org/abs/2201.11372v1)|null|
 |**2022-01-26**|**Viscoelastodynamics of swelling porous solids at large strains by an Eulerian approach**|Tomas Roubicek et.al.|[2201.10959v1](http://arxiv.org/abs/2201.10959v1)|null|
 |**2022-01-26**|**Quantum optical gyroscope**|Lin Jiao et.al.|[2201.10934v1](http://arxiv.org/abs/2201.10934v1)|null|
-|**2022-01-26**|**An in-depth numerical study of exact laws for compressible Hall magnetohydrodynamic turbulence**|R. Ferrand et.al.|[2201.10819v1](http://arxiv.org/abs/2201.10819v1)|null|
-|**2022-01-25**|**Invariant Filtering for Legged Humanoid Locomotion on Dynamic Rigid Surfaces**|Yuan Gao et.al.|[2201.10636v1](http://arxiv.org/abs/2201.10636v1)|null|
-|**2022-01-25**|**ULF wave transmission across collisionless shocks: 2.5D local hybrid simulations**|Primoz Kajdic et.al.|[2201.10558v1](http://arxiv.org/abs/2201.10558v1)|null|
-|**2022-01-25**|**PILOT: High-Precision Indoor Localization for Autonomous Drones**|Alireza Famili et.al.|[2201.10488v1](http://arxiv.org/abs/2201.10488v1)|null|
-|**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|

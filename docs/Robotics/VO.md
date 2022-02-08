@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-02-01**|**Relative Transformation Estimation Based on Fusion of Odometry and UWB Ranging Data**|Thien Hoang Nguyen et.al.|[2202.00279v1](http://arxiv.org/abs/2202.00279v1)|null|
 |**2022-02-01**|**Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping**|Kenji Koide et.al.|[2202.00242v2](http://arxiv.org/abs/2202.00242v2)|null|
@@ -31,4 +32,3 @@
 |**2021-11-30**|**RailLoMer: Rail Vehicle Localization and Mapping with LiDAR-IMU-Odometer-GNSS Data Fusion**|Yusheng Wang et.al.|[2111.15043v1](http://arxiv.org/abs/2111.15043v1)|null|
 |**2021-11-23**|**RIO: Rotation-equivariance supervised learning of robust inertial odometry**|Caifa Zhou et.al.|[2111.11676v1](http://arxiv.org/abs/2111.11676v1)|null|
 |**2021-11-22**|**Robust Visual Odometry Using Position-Aware Flow and Geometric Bundle Adjustment**|Yijun Cao et.al.|[2111.11141v1](http://arxiv.org/abs/2111.11141v1)|null|
-|**2021-11-16**|**2.5D Vehicle Odometry Estimation**|Ciaran Eising et.al.|[2111.08398v1](http://arxiv.org/abs/2111.08398v1)|null|

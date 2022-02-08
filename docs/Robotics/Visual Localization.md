@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|null|
+|**2022-02-07**|**Field-of-View IoU for Object Detection in 360° Images**|Miao Cao et.al.|[2202.03176v1](http://arxiv.org/abs/2202.03176v1)|null|
+|**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
+|**2022-02-07**|**A novel wide-angle Compton Scanner setup to study bulk events in germanium detectors**|I. Abt et.al.|[2202.03116v1](http://arxiv.org/abs/2202.03116v1)|null|
+|**2022-02-07**|**Reinforcement Learning for Shared Autonomy Drone Landings**|Kal Backman et.al.|[2202.02927v1](http://arxiv.org/abs/2202.02927v1)|null|
+|**2022-02-06**|**Multi-modal Sensor Fusion for Auto Driving Perception: A Survey**|Keli Huang et.al.|[2202.02703v1](http://arxiv.org/abs/2202.02703v1)|null|
+|**2022-02-05**|**Catch Me if You Can: A Novel Task for Detection of Covert Geo-Locations (CGL)**|Binoy Saha et.al.|[2202.02567v1](http://arxiv.org/abs/2202.02567v1)|null|
+|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
+|**2022-02-05**|**PrivPAS: A real time Privacy-Preserving AI System and applied ethics**|Harichandana B S S et.al.|[2202.02524v1](http://arxiv.org/abs/2202.02524v1)|null|
+|**2022-02-05**|**Comparative study of 3D object detection frameworks based on LiDAR data and sensor fusion techniques**|Sreenivasa Hikkal Venugopala et.al.|[2202.02521v1](http://arxiv.org/abs/2202.02521v1)|null|
+|**2022-02-04**|**Malleable Agents for Re-Configurable Robotic Manipulators**|Athindran Ramesh Kumar et.al.|[2202.02395v1](http://arxiv.org/abs/2202.02395v1)|null|
 |**2022-02-04**|**Choosing an Appropriate Platform and Workflow for Processing Camera Trap Data using Artificial Intelligence**|Juliana Vélez et.al.|[2202.02283v1](http://arxiv.org/abs/2202.02283v1)|null|
 |**2022-02-04**|**Bootstrapped Representation Learning for Skeleton-Based Action Recognition**|Olivier Moliner et.al.|[2202.02232v1](http://arxiv.org/abs/2202.02232v1)|null|
 |**2022-02-04**|**Weak Thermal State Quadrature-Noise Shadow Imaging**|Pratik J. Barge et.al.|[2202.02231v1](http://arxiv.org/abs/2202.02231v1)|null|
@@ -21,14 +32,3 @@
 |**2022-02-02**|**Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction**|Jiawei Lu et.al.|[2202.00843v1](http://arxiv.org/abs/2202.00843v1)|null|
 |**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
 |**2022-02-01**|**MoCap-less Quantitative Evaluation of Ego-Pose Estimation Without Ground Truth Measurements**|Quentin Possamaï et.al.|[2202.00403v1](http://arxiv.org/abs/2202.00403v1)|null|
-|**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|[link](https://github.com/ntu-aris/ntu_viral_dataset)|
-|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
-|**2022-02-01**|**Learning-Based Framework for Camera Calibration with Distortion Correction and High Precision Feature Detection**|Yesheng Zhang et.al.|[2202.00158v1](http://arxiv.org/abs/2202.00158v1)|[link](https://github.com/easonyesheng/ccs)|
-|**2022-02-01**|**Fortuitous Forgetting in Connectionist Networks**|Hattie Zhou et.al.|[2202.00155v1](http://arxiv.org/abs/2202.00155v1)|[link](https://github.com/hlml/fortuitous_forgetting)|
-|**2022-01-31**|**Semi-supervised Identification and Mapping of Surface Water Extent using Street-level Monitoring Videos**|Ruo-Qian Wang et.al.|[2202.00096v1](http://arxiv.org/abs/2202.00096v1)|null|
-|**2022-01-31**|**Signing the Supermask: Keep, Hide, Invert**|Nils Koster et.al.|[2201.13361v1](http://arxiv.org/abs/2201.13361v1)|null|
-|**2022-01-31**|**Towards machine learning aided real-time range imaging in proton therapy**|Jorge Lerendegui-Marco et.al.|[2201.13269v1](http://arxiv.org/abs/2201.13269v1)|null|
-|**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
-|**2022-01-30**|**Practical Noise Simulation for RGB Images**|Saeed Ranjbar Alvar et.al.|[2201.12773v1](http://arxiv.org/abs/2201.12773v1)|null|
-|**2022-01-29**|**Design of Outdoor Autonomous Moble Robot**|I-Hsi Kao et.al.|[2201.12605v1](http://arxiv.org/abs/2201.12605v1)|null|
-|**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
