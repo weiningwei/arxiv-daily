@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-08**|**A Survey of Breast Cancer Screening Techniques: Thermography and Electrical Impedance Tomography**|Juan Zuluaga-Gomez et.al.|[2202.03737v1](http://arxiv.org/abs/2202.03737v1)|null|
+|**2022-02-08**|**DURableVS: Data-efficient Unsupervised Recalibrating Visual Servoing via online learning in a structured generative model**|Nishad Gothoskar et.al.|[2202.03697v1](http://arxiv.org/abs/2202.03697v1)|null|
+|**2022-02-08**|**Single-frame label-free cell tomography at speed of more than 10,000 volumes per second**|Baoliang Ge et.al.|[2202.03627v1](http://arxiv.org/abs/2202.03627v1)|null|
 |**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|[link](https://github.com/yujmo/czu_mhad)|
 |**2022-02-07**|**Field-of-View IoU for Object Detection in 360° Images**|Miao Cao et.al.|[2202.03176v1](http://arxiv.org/abs/2202.03176v1)|null|
 |**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
@@ -29,6 +32,3 @@
 |**2022-02-02**|**Augmenting Immersive Telepresence Experience with a Virtual Body**|Nikunj Arora et.al.|[2202.00900v1](http://arxiv.org/abs/2202.00900v1)|null|
 |**2022-02-02**|**Accurate calibration of multi-perspective cameras from a generalization of the hand-eye constraint**|Yifu Wang et.al.|[2202.00886v2](http://arxiv.org/abs/2202.00886v2)|[link](https://github.com/mobileperceptionlab/multicamcalib)|
 |**2022-02-02**|**Active Audio-Visual Separation of Dynamic Sound Sources**|Sagnik Majumder et.al.|[2202.00850v1](http://arxiv.org/abs/2202.00850v1)|null|
-|**2022-02-02**|**Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction**|Jiawei Lu et.al.|[2202.00843v1](http://arxiv.org/abs/2202.00843v1)|null|
-|**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
-|**2022-02-01**|**MoCap-less Quantitative Evaluation of Ego-Pose Estimation Without Ground Truth Measurements**|Quentin Possamaï et.al.|[2202.00403v1](http://arxiv.org/abs/2202.00403v1)|null|

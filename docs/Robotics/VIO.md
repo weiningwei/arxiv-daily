@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-08**|**Dynamics of finite-size spheroids in turbulent flow: the roles of flow structures and particle boundary layers**|Linfeng Jiang et.al.|[2202.03937v1](http://arxiv.org/abs/2202.03937v1)|null|
+|**2022-02-08**|**Fluid inertia and the scallop theorem**|Nicholas J. Derr et.al.|[2202.03669v1](http://arxiv.org/abs/2202.03669v1)|null|
 |**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|[link](https://github.com/yujmo/czu_mhad)|
 |**2022-02-07**|**A revisit of generalized scaling of forced turbulence through flux analysis**|Wei Zhao et.al.|[2202.03094v1](http://arxiv.org/abs/2202.03094v1)|null|
 |**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
@@ -30,5 +32,3 @@
 |**2022-01-27**|**An experimental data-driven mass-spring model of flexible Calliphora wings**|Hung Truong et.al.|[2201.11509v1](http://arxiv.org/abs/2201.11509v1)|null|
 |**2022-01-27**|**Theory of Electron Injection at Oblique Shock of Finite Thickness**|Takanobu Amano et.al.|[2201.11416v1](http://arxiv.org/abs/2201.11416v1)|null|
 |**2022-01-27**|**Bundle Theoretic Descriptions of Massless Single-Particle State Spaces; Gauge Freedom**|Heon Lee et.al.|[2201.11372v1](http://arxiv.org/abs/2201.11372v1)|null|
-|**2022-01-26**|**Viscoelastodynamics of swelling porous solids at large strains by an Eulerian approach**|Tomas Roubicek et.al.|[2201.10959v1](http://arxiv.org/abs/2201.10959v1)|null|
-|**2022-01-26**|**Quantum optical gyroscope**|Lin Jiao et.al.|[2201.10934v1](http://arxiv.org/abs/2201.10934v1)|null|
