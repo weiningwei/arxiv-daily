@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|null|
+|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|[link](https://github.com/yujmo/czu_mhad)|
 |**2022-02-07**|**A revisit of generalized scaling of forced turbulence through flux analysis**|Wei Zhao et.al.|[2202.03094v1](http://arxiv.org/abs/2202.03094v1)|null|
 |**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
 |**2022-02-04**|**Pressure-Strain Interaction as the Energy Dissipation Estimate in Collisionless Plasma**|Yan Yang et.al.|[2202.02409v1](http://arxiv.org/abs/2202.02409v1)|null|
