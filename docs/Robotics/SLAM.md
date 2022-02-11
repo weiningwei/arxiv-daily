@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song et.al.|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi et.al.|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
@@ -31,4 +32,3 @@
 |**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|[link](https://github.com/michealcarac/VSLAM-Mapping)|
 |**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
 |**2021-12-11**|**Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization**|Amay Saxena et.al.|[2112.05921v1](http://arxiv.org/abs/2112.05921v1)|null|
-|**2021-12-07**|**Hybrid Visual SLAM for Underwater Vehicle Manipulator Systems**|Gideon Billings et.al.|[2112.03826v1](http://arxiv.org/abs/2112.03826v1)|null|

@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-10**|**A Novel Four-DOF Lagrangian Approach to Attitude Tracking for Rigid Spacecraft**|Eduardo Espíndola et.al.|[2202.05227v1](http://arxiv.org/abs/2202.05227v1)|null|
+|**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|[link](https://github.com/bzho3923/magnet)|
 |**2022-02-09**|**A closer look at predicting turbulence statistics of arbitrary moments when based on a non-modelled symmetry approach**|Michael Frewer et.al.|[2202.04635v1](http://arxiv.org/abs/2202.04635v1)|null|
 |**2022-02-09**|**Turbulence via an intermolecular potential: The effect of viscosity and the transition range of the Reynolds number**|Rafail V. Abramov et.al.|[2202.04624v1](http://arxiv.org/abs/2202.04624v1)|null|
 |**2022-02-08**|**Dynamics of finite-size spheroids in turbulent flow: the roles of flow structures and particle boundary layers**|Linfeng Jiang et.al.|[2202.03937v1](http://arxiv.org/abs/2202.03937v1)|null|
@@ -30,5 +32,3 @@
 |**2022-01-27**|**Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure**|Luca Dal Zilio et.al.|[2201.11786v1](http://arxiv.org/abs/2201.11786v1)|null|
 |**2022-01-27**|**Low-Cost Inertial Aiding for Deep-Urban Tightly-Coupled Multi-Antenna Precise GNSS**|James E. Yoder et.al.|[2201.11776v1](http://arxiv.org/abs/2201.11776v1)|null|
 |**2022-01-27**|**Structure of blocks with normal defect and abelian $p'$ inertial quotient**|David Benson et.al.|[2201.11715v1](http://arxiv.org/abs/2201.11715v1)|null|
-|**2022-01-27**|**Multi-photon Atom Interferometry via cavity-enhanced Bragg Diffraction**|D. O. Sabulsky et.al.|[2201.11693v1](http://arxiv.org/abs/2201.11693v1)|null|
-|**2022-01-27**|**Comments on the expanded Maxwell's equations for moving charged media system**|Chuang Li et.al.|[2201.11520v1](http://arxiv.org/abs/2201.11520v1)|null|

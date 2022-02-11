@@ -2,12 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v1](http://arxiv.org/abs/2202.05200v1)|null|
+|**2022-02-10**|**Long-term optical photometry of the PMS stars V2764 Ori and LkH$α$ 301 in the field of the McNeil's Nebula**|G. Zidarova et.al.|[2202.05095v1](http://arxiv.org/abs/2202.05095v1)|null|
+|**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
+|**2022-02-10**|**Far-ultraviolet investigation into the galactic globular cluster M30 (NGC 7099): I. Photometry and radial distributions**|Santana Mansfield et.al.|[2202.04913v1](http://arxiv.org/abs/2202.04913v1)|null|
+|**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song et.al.|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
+|**2022-02-10**|**Flatfield Calibrations with Astrophysical Sources for the Nancy Grace Roman Space Telescope's Coronagraph Instrument**|Erin R. Maier et.al.|[2202.04815v1](http://arxiv.org/abs/2202.04815v1)|null|
+|**2022-02-09**|**The Solar Neighborhood XLIX: New Discoveries and Orbits of M Dwarf Multiples with Speckle Interferometry at SOAR**|Eliot Halley Vrijmoet et.al.|[2202.04688v1](http://arxiv.org/abs/2202.04688v1)|null|
+|**2022-02-09**|**The Thresher: Lucky Imaging without the Waste**|James A. Hitchcock et.al.|[2202.04686v1](http://arxiv.org/abs/2202.04686v1)|null|
 |**2022-02-09**|**Distance Estimation and Animal Tracking for Wildlife Camera Trapping**|Peter Johanns et.al.|[2202.04613v1](http://arxiv.org/abs/2202.04613v1)|null|
 |**2022-02-09**|**MapiFi: Using Wi-Fi Signals to Map Home Devices**|Yonatan Vaizman et.al.|[2202.04473v1](http://arxiv.org/abs/2202.04473v1)|null|
 |**2022-02-09**|**Real-Time Event-Based Tracking and Detection for Maritime Environments**|Stephanie Aelmore et.al.|[2202.04231v1](http://arxiv.org/abs/2202.04231v1)|[link](https://github.com/believeinlain/asynch-cv)|
 |**2022-02-08**|**Untrimmed Action Anticipation**|Ivan Rodin et.al.|[2202.04132v1](http://arxiv.org/abs/2202.04132v1)|null|
 |**2022-02-08**|**A Survey of Breast Cancer Screening Techniques: Thermography and Electrical Impedance Tomography**|Juan Zuluaga-Gomez et.al.|[2202.03737v1](http://arxiv.org/abs/2202.03737v1)|null|
 |**2022-02-08**|**DURableVS: Data-efficient Unsupervised Recalibrating Visual Servoing via online learning in a structured generative model**|Nishad Gothoskar et.al.|[2202.03697v1](http://arxiv.org/abs/2202.03697v1)|null|
+|**2022-02-08**|**Multi-Agent Path Finding with Prioritized Communication Learning**|Wenhao Li et.al.|[2202.03634v2](http://arxiv.org/abs/2202.03634v2)|[link](https://github.com/mail-ecnu/PICO)|
 |**2022-02-08**|**Single-frame label-free cell tomography at speed of more than 10,000 volumes per second**|Baoliang Ge et.al.|[2202.03627v1](http://arxiv.org/abs/2202.03627v1)|null|
 |**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|[link](https://github.com/yujmo/czu_mhad)|
 |**2022-02-07**|**Field-of-View IoU for Object Detection in 360° Images**|Miao Cao et.al.|[2202.03176v1](http://arxiv.org/abs/2202.03176v1)|null|
@@ -23,12 +32,3 @@
 |**2022-02-04**|**Choosing an Appropriate Platform and Workflow for Processing Camera Trap Data using Artificial Intelligence**|Juliana Vélez et.al.|[2202.02283v1](http://arxiv.org/abs/2202.02283v1)|null|
 |**2022-02-04**|**Bootstrapped Representation Learning for Skeleton-Based Action Recognition**|Olivier Moliner et.al.|[2202.02232v1](http://arxiv.org/abs/2202.02232v1)|null|
 |**2022-02-04**|**Weak Thermal State Quadrature-Noise Shadow Imaging**|Pratik J. Barge et.al.|[2202.02231v1](http://arxiv.org/abs/2202.02231v1)|null|
-|**2022-02-04**|**Video Violence Recognition and Localization using a Semi-Supervised Hard-Attention Model**|Hamid Mohammadi et.al.|[2202.02212v1](http://arxiv.org/abs/2202.02212v1)|null|
-|**2022-02-04**|**Post-AO high-resolution imaging using the Kraken multi-frame blind deconvolution algorithm**|Douglas A. Hope et.al.|[2202.02178v1](http://arxiv.org/abs/2202.02178v1)|null|
-|**2022-02-04**|**Computational analysis of interface evolution and droplet pinch-off mechanism in two-phase liquid flow through T-junction microfluidic system**|Akepogu Venkateshwarlu et.al.|[2202.02130v1](http://arxiv.org/abs/2202.02130v1)|null|
-|**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
-|**2022-02-03**|**HRBF-Fusion: Accurate 3D reconstruction from RGB-D data using on-the-fly implicits**|Yabin Xu et.al.|[2202.01829v1](http://arxiv.org/abs/2202.01829v1)|null|
-|**2022-02-03**|**AI-as-a-Service Toolkit for Human-Centered Intelligence in Autonomous Driving**|Valerio De Caro et.al.|[2202.01645v2](http://arxiv.org/abs/2202.01645v2)|null|
-|**2022-02-03**|**Asteroid Measurements at Millimeter Wavelengths with the South Pole Telescope**|P. M. Chichura et.al.|[2202.01406v1](http://arxiv.org/abs/2202.01406v1)|null|
-|**2022-02-03**|**Feasibility of Interactive 3D Map for Remote Sighted Assistance**|Jingyi Xie et.al.|[2202.01365v1](http://arxiv.org/abs/2202.01365v1)|null|
-|**2022-02-02**|**Gems of the Galaxy Zoos -- a Wide-Ranging Hubble Space Telescope Gap-Filler Program**|William C. Keel et.al.|[2202.01098v1](http://arxiv.org/abs/2202.01098v1)|null|
