@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-11**|**Artemis: Articulated Neural Pets with Appearance and Motion synthesis**|Haimin Luo et.al.|[2202.05628v1](http://arxiv.org/abs/2202.05628v1)|null|
+|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v1](http://arxiv.org/abs/2202.05592v1)|null|
+|**2022-02-11**|**STEP: State Estimator for Legged Robots Using a Preintegrated foot Velocity Factor**|Yeeun Kim et.al.|[2202.05572v1](http://arxiv.org/abs/2202.05572v1)|null|
+|**2022-02-11**|**Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**|Farzeen Munir et.al.|[2202.05500v1](http://arxiv.org/abs/2202.05500v1)|[link](https://github.com/azamshoaib/drfuser)|
+|**2022-02-11**|**The CYGNO Experiment**|Fernando Domingues Amaro et.al.|[2202.05480v1](http://arxiv.org/abs/2202.05480v1)|null|
+|**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee et.al.|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|null|
 |**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v2](http://arxiv.org/abs/2202.05200v2)|null|
 |**2022-02-10**|**Long-term optical photometry of the PMS stars V2764 Ori and LkH$α$ 301 in the field of the McNeil's Nebula**|G. Zidarova et.al.|[2202.05095v1](http://arxiv.org/abs/2202.05095v1)|null|
 |**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
@@ -26,9 +32,3 @@
 |**2022-02-06**|**Multi-modal Sensor Fusion for Auto Driving Perception: A Survey**|Keli Huang et.al.|[2202.02703v1](http://arxiv.org/abs/2202.02703v1)|null|
 |**2022-02-05**|**Catch Me if You Can: A Novel Task for Detection of Covert Geo-Locations (CGL)**|Binoy Saha et.al.|[2202.02567v1](http://arxiv.org/abs/2202.02567v1)|null|
 |**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
-|**2022-02-05**|**PrivPAS: A real time Privacy-Preserving AI System and applied ethics**|Harichandana B S S et.al.|[2202.02524v2](http://arxiv.org/abs/2202.02524v2)|null|
-|**2022-02-05**|**Comparative study of 3D object detection frameworks based on LiDAR data and sensor fusion techniques**|Sreenivasa Hikkal Venugopala et.al.|[2202.02521v2](http://arxiv.org/abs/2202.02521v2)|null|
-|**2022-02-04**|**Malleable Agents for Re-Configurable Robotic Manipulators**|Athindran Ramesh Kumar et.al.|[2202.02395v1](http://arxiv.org/abs/2202.02395v1)|null|
-|**2022-02-04**|**Choosing an Appropriate Platform and Workflow for Processing Camera Trap Data using Artificial Intelligence**|Juliana Vélez et.al.|[2202.02283v1](http://arxiv.org/abs/2202.02283v1)|null|
-|**2022-02-04**|**Bootstrapped Representation Learning for Skeleton-Based Action Recognition**|Olivier Moliner et.al.|[2202.02232v1](http://arxiv.org/abs/2202.02232v1)|null|
-|**2022-02-04**|**Weak Thermal State Quadrature-Noise Shadow Imaging**|Pratik J. Barge et.al.|[2202.02231v1](http://arxiv.org/abs/2202.02231v1)|null|
