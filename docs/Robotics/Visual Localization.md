@@ -2,12 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-14**|**Delaunay Component Analysis for Evaluation of Data Representations**|Petra Poklukar et.al.|[2202.06866v1](http://arxiv.org/abs/2202.06866v1)|[link](https://github.com/petrapoklukar/dca)|
+|**2022-02-14**|**On the Complexity of Object Detection on Real-world Public Transportation Images for Social Distancing Measurement**|Nik Khadijah Nik Aznan et.al.|[2202.06639v1](http://arxiv.org/abs/2202.06639v1)|null|
+|**2022-02-14**|**Vulnerability Assessment and Penetration Testing on IP cameras**|Pietro Biondi et.al.|[2202.06597v1](http://arxiv.org/abs/2202.06597v1)|null|
+|**2022-02-13**|**Gravity Estimation at Small Bodies via Optical Tracking of Hopping Artificial Probes**|Jacopo Villa et.al.|[2202.06412v1](http://arxiv.org/abs/2202.06412v1)|null|
+|**2022-02-13**|**Zero-Reference Image Restoration for Under-Display Camera of UAV**|Zhuoran Zheng et.al.|[2202.06283v1](http://arxiv.org/abs/2202.06283v1)|null|
+|**2022-02-13**|**Natural Image Stitching Using Depth Maps**|Tianli Liao et.al.|[2202.06276v1](http://arxiv.org/abs/2202.06276v1)|null|
+|**2022-02-12**|**InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools**|Mustafa Doga Dogan et.al.|[2202.06165v1](http://arxiv.org/abs/2202.06165v1)|null|
+|**2022-02-12**|**End-to-end Reinforcement Learning of Robotic Manipulation with Robust Keypoints Representation**|Tianying Wang et.al.|[2202.06027v1](http://arxiv.org/abs/2202.06027v1)|null|
+|**2022-02-12**|**Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval**|Xianghao Zang et.al.|[2202.06014v1](http://arxiv.org/abs/2202.06014v1)|null|
+|**2022-02-11**|**Failure Prediction with Statistical Guarantees for Vision-Based Robot Control**|Alec Farid et.al.|[2202.05894v1](http://arxiv.org/abs/2202.05894v1)|null|
 |**2022-02-11**|**Artemis: Articulated Neural Pets with Appearance and Motion synthesis**|Haimin Luo et.al.|[2202.05628v1](http://arxiv.org/abs/2202.05628v1)|null|
-|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v1](http://arxiv.org/abs/2202.05592v1)|null|
+|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v2](http://arxiv.org/abs/2202.05592v2)|null|
 |**2022-02-11**|**STEP: State Estimator for Legged Robots Using a Preintegrated foot Velocity Factor**|Yeeun Kim et.al.|[2202.05572v1](http://arxiv.org/abs/2202.05572v1)|null|
 |**2022-02-11**|**Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**|Farzeen Munir et.al.|[2202.05500v1](http://arxiv.org/abs/2202.05500v1)|[link](https://github.com/azamshoaib/drfuser)|
 |**2022-02-11**|**The CYGNO Experiment**|Fernando Domingues Amaro et.al.|[2202.05480v1](http://arxiv.org/abs/2202.05480v1)|null|
-|**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee et.al.|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|null|
+|**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee et.al.|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|[link](https://github.com/hyeongyu-lee/scale_truck_control)|
 |**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v2](http://arxiv.org/abs/2202.05200v2)|null|
 |**2022-02-10**|**Long-term optical photometry of the PMS stars V2764 Ori and LkH$α$ 301 in the field of the McNeil's Nebula**|G. Zidarova et.al.|[2202.05095v1](http://arxiv.org/abs/2202.05095v1)|null|
 |**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
@@ -22,13 +32,3 @@
 |**2022-02-08**|**Untrimmed Action Anticipation**|Ivan Rodin et.al.|[2202.04132v1](http://arxiv.org/abs/2202.04132v1)|null|
 |**2022-02-08**|**A Survey of Breast Cancer Screening Techniques: Thermography and Electrical Impedance Tomography**|Juan Zuluaga-Gomez et.al.|[2202.03737v1](http://arxiv.org/abs/2202.03737v1)|null|
 |**2022-02-08**|**DURableVS: Data-efficient Unsupervised Recalibrating Visual Servoing via online learning in a structured generative model**|Nishad Gothoskar et.al.|[2202.03697v1](http://arxiv.org/abs/2202.03697v1)|null|
-|**2022-02-08**|**Multi-Agent Path Finding with Prioritized Communication Learning**|Wenhao Li et.al.|[2202.03634v2](http://arxiv.org/abs/2202.03634v2)|[link](https://github.com/mail-ecnu/PICO)|
-|**2022-02-08**|**Single-frame label-free cell tomography at speed of more than 10,000 volumes per second**|Baoliang Ge et.al.|[2202.03627v1](http://arxiv.org/abs/2202.03627v1)|[link](https://github.com/mitgbl/SILACT)|
-|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|[link](https://github.com/yujmo/czu_mhad)|
-|**2022-02-07**|**Field-of-View IoU for Object Detection in 360° Images**|Miao Cao et.al.|[2202.03176v1](http://arxiv.org/abs/2202.03176v1)|null|
-|**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
-|**2022-02-07**|**A novel wide-angle Compton Scanner setup to study bulk events in germanium detectors**|I. Abt et.al.|[2202.03116v1](http://arxiv.org/abs/2202.03116v1)|null|
-|**2022-02-07**|**Reinforcement Learning for Shared Autonomy Drone Landings**|Kal Backman et.al.|[2202.02927v1](http://arxiv.org/abs/2202.02927v1)|null|
-|**2022-02-06**|**Multi-modal Sensor Fusion for Auto Driving Perception: A Survey**|Keli Huang et.al.|[2202.02703v1](http://arxiv.org/abs/2202.02703v1)|null|
-|**2022-02-05**|**Catch Me if You Can: A Novel Task for Detection of Covert Geo-Locations (CGL)**|Binoy Saha et.al.|[2202.02567v1](http://arxiv.org/abs/2202.02567v1)|null|
-|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|

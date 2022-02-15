@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-14**|**A classical analog of the quantum Zeeman effect**|Pierre Jamet et.al.|[2202.06715v1](http://arxiv.org/abs/2202.06715v1)|null|
+|**2022-02-14**|**Shear-induced mixing of granular materials featuring broad granule size distributions**|Joyjit Chattoraj et.al.|[2202.06463v1](http://arxiv.org/abs/2202.06463v1)|null|
+|**2022-02-13**|**Generalized hyper-Ramsey-Bordé matter-wave interferometry: quantum engineering of robust atomic sensors with composite pulses**|T. Zanon-Willette et.al.|[2202.06296v1](http://arxiv.org/abs/2202.06296v1)|null|
+|**2022-02-12**|**Complete Inertial Pose Dataset: from raw measurements to pose with low-cost and high-end MARG sensors**|Manuel Palermo et.al.|[2202.06164v1](http://arxiv.org/abs/2202.06164v1)|null|
+|**2022-02-12**|**Artificial Dynamical Effects in Quantum Field Theory**|S. J. Brodsky et.al.|[2202.06051v1](http://arxiv.org/abs/2202.06051v1)|null|
+|**2022-02-11**|**Chapman-Enskog derivation of multicomponent Navier-Stokes equations**|Philippe Arnault et.al.|[2202.05871v1](http://arxiv.org/abs/2202.05871v1)|null|
 |**2022-02-10**|**A Novel Four-DOF Lagrangian Approach to Attitude Tracking for Rigid Spacecraft**|Eduardo Espíndola et.al.|[2202.05227v1](http://arxiv.org/abs/2202.05227v1)|null|
 |**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|[link](https://github.com/bzho3923/magnet)|
 |**2022-02-09**|**A closer look at predicting turbulence statistics of arbitrary moments when based on a non-modelled symmetry approach**|Michael Frewer et.al.|[2202.04635v1](http://arxiv.org/abs/2202.04635v1)|null|
@@ -26,9 +32,3 @@
 |**2022-02-01**|**Relative Transformation Estimation Based on Fusion of Odometry and UWB Ranging Data**|Thien Hoang Nguyen et.al.|[2202.00279v1](http://arxiv.org/abs/2202.00279v1)|null|
 |**2022-02-01**|**Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping**|Kenji Koide et.al.|[2202.00242v2](http://arxiv.org/abs/2202.00242v2)|null|
 |**2022-01-31**|**DRS-LIP: Linear Inverted Pendulum Model for Legged Locomotion on Dynamic Rigid Surfaces**|Amir Iqbal et.al.|[2202.00151v1](http://arxiv.org/abs/2202.00151v1)|null|
-|**2022-01-31**|**Collective Effects and Intense Beam-Plasma Interactions in Ion-Beam-Driven High Energy Density Matter and Inertial Fusion Energy**|Igor D. Kaganovich et.al.|[2201.13183v1](http://arxiv.org/abs/2201.13183v1)|null|
-|**2022-01-29**|**The mean flow, velocity dispersion, and evolution of rotating and growing dark matter halos and their effects on the energy transfer in self-gravitating collisionless flow**|Zhijie Xu et.al.|[2201.12665v1](http://arxiv.org/abs/2201.12665v1)|null|
-|**2022-01-28**|**Inertial Navigation Using an Inertial Sensor Array**|Håkan Carlsson et.al.|[2201.11983v1](http://arxiv.org/abs/2201.11983v1)|[link](https://github.com/hcarlsso/array-in)|
-|**2022-01-27**|**Hydro-mechanical earthquake cycles in a poro-visco-elasto-plastic fluid-bearing fault structure**|Luca Dal Zilio et.al.|[2201.11786v1](http://arxiv.org/abs/2201.11786v1)|null|
-|**2022-01-27**|**Low-Cost Inertial Aiding for Deep-Urban Tightly-Coupled Multi-Antenna Precise GNSS**|James E. Yoder et.al.|[2201.11776v1](http://arxiv.org/abs/2201.11776v1)|null|
-|**2022-01-27**|**Structure of blocks with normal defect and abelian $p'$ inertial quotient**|David Benson et.al.|[2201.11715v1](http://arxiv.org/abs/2201.11715v1)|null|
