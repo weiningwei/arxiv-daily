@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-15**|**Numerical simulation of the coalescence-induced polymeric droplet jumping on superhydrophobic surfaces**|Kazem Bazesefidpar et.al.|[2202.07579v1](http://arxiv.org/abs/2202.07579v1)|null|
+|**2022-02-15**|**Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up**|Daniel J. Ruth et.al.|[2202.07528v1](http://arxiv.org/abs/2202.07528v1)|null|
+|**2022-02-14**|**Benchmarking Online Sequence-to-Sequence and Character-based Handwriting Recognition from IMU-Enhanced Pens**|Felix Ott et.al.|[2202.07036v1](http://arxiv.org/abs/2202.07036v1)|null|
 |**2022-02-14**|**A classical analog of the quantum Zeeman effect**|Pierre Jamet et.al.|[2202.06715v1](http://arxiv.org/abs/2202.06715v1)|null|
 |**2022-02-14**|**Shear-induced mixing of granular materials featuring broad granule size distributions**|Joyjit Chattoraj et.al.|[2202.06463v1](http://arxiv.org/abs/2202.06463v1)|null|
 |**2022-02-13**|**Generalized hyper-Ramsey-Bordé matter-wave interferometry: quantum engineering of robust atomic sensors with composite pulses**|T. Zanon-Willette et.al.|[2202.06296v1](http://arxiv.org/abs/2202.06296v1)|null|
@@ -29,6 +32,3 @@
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-02-01**|**A Novel Method to Estimate Tilt Angle of a Body using a Pendulum**|Anandhu Suresh et.al.|[2202.00388v1](http://arxiv.org/abs/2202.00388v1)|null|
 |**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|[link](https://github.com/ntu-aris/ntu_viral_dataset)|
-|**2022-02-01**|**Relative Transformation Estimation Based on Fusion of Odometry and UWB Ranging Data**|Thien Hoang Nguyen et.al.|[2202.00279v1](http://arxiv.org/abs/2202.00279v1)|null|
-|**2022-02-01**|**Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping**|Kenji Koide et.al.|[2202.00242v2](http://arxiv.org/abs/2202.00242v2)|null|
-|**2022-01-31**|**DRS-LIP: Linear Inverted Pendulum Model for Legged Locomotion on Dynamic Rigid Surfaces**|Amir Iqbal et.al.|[2202.00151v1](http://arxiv.org/abs/2202.00151v1)|null|
