@@ -5,7 +5,7 @@
 |**2022-02-14**|**A classical analog of the quantum Zeeman effect**|Pierre Jamet et.al.|[2202.06715v1](http://arxiv.org/abs/2202.06715v1)|null|
 |**2022-02-14**|**Shear-induced mixing of granular materials featuring broad granule size distributions**|Joyjit Chattoraj et.al.|[2202.06463v1](http://arxiv.org/abs/2202.06463v1)|null|
 |**2022-02-13**|**Generalized hyper-Ramsey-Bordé matter-wave interferometry: quantum engineering of robust atomic sensors with composite pulses**|T. Zanon-Willette et.al.|[2202.06296v1](http://arxiv.org/abs/2202.06296v1)|null|
-|**2022-02-12**|**Complete Inertial Pose Dataset: from raw measurements to pose with low-cost and high-end MARG sensors**|Manuel Palermo et.al.|[2202.06164v1](http://arxiv.org/abs/2202.06164v1)|[link](https://github.com/ManuelPalermo/HumanInertialPose)|
+|**2022-02-12**|**Complete Inertial Pose Dataset: from raw measurements to pose with low-cost and high-end MARG sensors**|Manuel Palermo et.al.|[2202.06164v2](http://arxiv.org/abs/2202.06164v2)|[link](https://github.com/ManuelPalermo/HumanInertialPose)|
 |**2022-02-12**|**Artificial Dynamical Effects in Quantum Field Theory**|S. J. Brodsky et.al.|[2202.06051v1](http://arxiv.org/abs/2202.06051v1)|null|
 |**2022-02-11**|**Chapman-Enskog derivation of multicomponent Navier-Stokes equations**|Philippe Arnault et.al.|[2202.05871v1](http://arxiv.org/abs/2202.05871v1)|null|
 |**2022-02-10**|**A Novel Four-DOF Lagrangian Approach to Attitude Tracking for Rigid Spacecraft**|Eduardo Espíndola et.al.|[2202.05227v1](http://arxiv.org/abs/2202.05227v1)|null|
