@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-02-17 09:29:29 Asia/Shanghai
+ Automated deployment @ 2022-02-17 20:09:23 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -42,6 +42,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-16**|**Finite-amplitude elastic waves in viscoelastic channel flow from large to zero Reynolds number**|Gergely Buza et.al.|[2202.08047v1](http://arxiv.org/abs/2202.08047v1)|null|
+|**2022-02-16**|**Observer dependence of photon bunching: The influence of the relativistic redshift on Hong-Ou-Mandel interference**|Roy Barzel et.al.|[2202.07950v1](http://arxiv.org/abs/2202.07950v1)|null|
+|**2022-02-16**|**A novel general modeling of the viscoelastic properties of fluids: application to mechanical relaxation and low frequency oscillation measurements of liquid water**|Frederic Aitken et.al.|[2202.07928v1](http://arxiv.org/abs/2202.07928v1)|null|
+|**2022-02-16**|**Exact solutions for charged spheres and their stability. I. Perfect Fluids**|Krsna Dev et.al.|[2202.07819v1](http://arxiv.org/abs/2202.07819v1)|null|
 |**2022-02-15**|**Numerical simulation of the coalescence-induced polymeric droplet jumping on superhydrophobic surfaces**|Kazem Bazesefidpar et.al.|[2202.07579v1](http://arxiv.org/abs/2202.07579v1)|null|
 |**2022-02-15**|**Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up**|Daniel J. Ruth et.al.|[2202.07528v1](http://arxiv.org/abs/2202.07528v1)|null|
 |**2022-02-14**|**Benchmarking Online Sequence-to-Sequence and Character-based Handwriting Recognition from IMU-Enhanced Pens**|Felix Ott et.al.|[2202.07036v1](http://arxiv.org/abs/2202.07036v1)|null|
@@ -53,8 +57,8 @@
 |**2022-02-11**|**Chapman-Enskog derivation of multicomponent Navier-Stokes equations**|Philippe Arnault et.al.|[2202.05871v1](http://arxiv.org/abs/2202.05871v1)|null|
 |**2022-02-10**|**A Novel Four-DOF Lagrangian Approach to Attitude Tracking for Rigid Spacecraft**|Eduardo Espíndola et.al.|[2202.05227v1](http://arxiv.org/abs/2202.05227v1)|null|
 |**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v2](http://arxiv.org/abs/2202.04936v2)|[link](https://github.com/bzho3923/magnet)|
-|**2022-02-09**|**A closer look at predicting turbulence statistics of arbitrary moments when based on a non-modelled symmetry approach**|Michael Frewer et.al.|[2202.04635v1](http://arxiv.org/abs/2202.04635v1)|null|
-|**2022-02-09**|**Turbulence via an intermolecular potential: The effect of viscosity and the transition range of the Reynolds number**|Rafail V. Abramov et.al.|[2202.04624v1](http://arxiv.org/abs/2202.04624v1)|null|
+|**2022-02-09**|**A closer look at predicting turbulence statistics of arbitrary moments when based on a non-modelled symmetry approach**|Michael Frewer et.al.|[2202.04635v2](http://arxiv.org/abs/2202.04635v2)|null|
+|**2022-02-09**|**Turbulence via an intermolecular potential: The effect of viscosity and the transition range of the Reynolds number**|Rafail V. Abramov et.al.|[2202.04624v2](http://arxiv.org/abs/2202.04624v2)|null|
 |**2022-02-08**|**Dynamics of finite-size spheroids in turbulent flow: the roles of flow structures and particle boundary layers**|Linfeng Jiang et.al.|[2202.03937v1](http://arxiv.org/abs/2202.03937v1)|null|
 |**2022-02-08**|**Fluid inertia and the scallop theorem**|Nicholas J. Derr et.al.|[2202.03669v1](http://arxiv.org/abs/2202.03669v1)|null|
 |**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|[link](https://github.com/yujmo/czu_mhad)|
@@ -68,10 +72,6 @@
 |**2022-02-03**|**Intermittency in the Expanding Solar Wind: Observations from Parker Solar Probe (0.16au), Helios 1 (0.3-1au), and Voyager 1 (1-10au)**|Manuel Enrique Cuesta et.al.|[2202.01874v1](http://arxiv.org/abs/2202.01874v1)|null|
 |**2022-02-03**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|[link](https://github.com/benjaminfiltjens/ms-gcn)|
 |**2022-02-02**|**Importance of accurate consideration of the electron inertia in hybrid-kinetic simulations of collisionless plasma turbulence: 1. The 2D limit**|Neeraj Jain et.al.|[2202.01075v1](http://arxiv.org/abs/2202.01075v1)|null|
-|**2022-02-02**|**How two-way coupling modifies the multiscale preferential sweeping mechanism**|Josin Tom et.al.|[2202.01049v1](http://arxiv.org/abs/2202.01049v1)|null|
-|**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
-|**2022-02-01**|**A Novel Method to Estimate Tilt Angle of a Body using a Pendulum**|Anandhu Suresh et.al.|[2202.00388v1](http://arxiv.org/abs/2202.00388v1)|null|
-|**2022-02-01**|**NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint**|Thien-Minh Nguyen et.al.|[2202.00379v1](http://arxiv.org/abs/2202.00379v1)|[link](https://github.com/ntu-aris/ntu_viral_dataset)|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +110,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-16**|**Mapping the brightness and color of urban to rural skyglow with all-sky photometry**|Andreas Jechow et.al.|[2202.08258v1](http://arxiv.org/abs/2202.08258v1)|null|
+|**2022-02-16**|**Flexible-Modal Face Anti-Spoofing: A Benchmark**|Zitong Yu et.al.|[2202.08192v1](http://arxiv.org/abs/2202.08192v1)|[link](https://github.com/zitongyu/flex-modal-fas)|
+|**2022-02-16**|**Learning to Detect People on the Fly: A Bio-inspired Event-based Visual System for Drones**|Ali Safa et.al.|[2202.08023v1](http://arxiv.org/abs/2202.08023v1)|null|
+|**2022-02-16**|**Policy Learning and Evaluation with Randomized Quasi-Monte Carlo**|Sebastien M. R. Arnold et.al.|[2202.07808v1](http://arxiv.org/abs/2202.07808v1)|null|
 |**2022-02-15**|**Bayesian Imitation Learning for End-to-End Mobile Manipulation**|Yuqing Du et.al.|[2202.07600v1](http://arxiv.org/abs/2202.07600v1)|null|
 |**2022-02-15**|**Balancing Domain Experts for Long-Tailed Camera-Trap Recognition**|Byeongjun Park et.al.|[2202.07215v2](http://arxiv.org/abs/2202.07215v2)|null|
 |**2022-02-14**|**Late-Time X-ray Observations of the Transient Source Cygnus A-2**|Bradford Snios et.al.|[2202.07007v1](http://arxiv.org/abs/2202.07007v1)|null|
@@ -136,7 +140,3 @@
 |**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
 |**2022-02-10**|**Far-ultraviolet investigation into the galactic globular cluster M30 (NGC 7099): I. Photometry and radial distributions**|Santana Mansfield et.al.|[2202.04913v1](http://arxiv.org/abs/2202.04913v1)|null|
 |**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song et.al.|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
-|**2022-02-10**|**Flatfield Calibrations with Astrophysical Sources for the Nancy Grace Roman Space Telescope's Coronagraph Instrument**|Erin R. Maier et.al.|[2202.04815v1](http://arxiv.org/abs/2202.04815v1)|null|
-|**2022-02-09**|**The Solar Neighborhood XLIX: New Discoveries and Orbits of M Dwarf Multiples with Speckle Interferometry at SOAR**|Eliot Halley Vrijmoet et.al.|[2202.04688v1](http://arxiv.org/abs/2202.04688v1)|null|
-|**2022-02-09**|**The Thresher: Lucky Imaging without the Waste**|James A. Hitchcock et.al.|[2202.04686v1](http://arxiv.org/abs/2202.04686v1)|[link](https://github.com/jah1994/thethresher)|
-|**2022-02-09**|**Distance Estimation and Animal Tracking for Wildlife Camera Trapping**|Peter Johanns et.al.|[2202.04613v1](http://arxiv.org/abs/2202.04613v1)|null|
