@@ -12,7 +12,7 @@
 |**2022-02-12**|**Artificial Dynamical Effects in Quantum Field Theory**|S. J. Brodsky et.al.|[2202.06051v1](http://arxiv.org/abs/2202.06051v1)|null|
 |**2022-02-11**|**Chapman-Enskog derivation of multicomponent Navier-Stokes equations**|Philippe Arnault et.al.|[2202.05871v1](http://arxiv.org/abs/2202.05871v1)|null|
 |**2022-02-10**|**A Novel Four-DOF Lagrangian Approach to Attitude Tracking for Rigid Spacecraft**|Eduardo Espíndola et.al.|[2202.05227v1](http://arxiv.org/abs/2202.05227v1)|null|
-|**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|[link](https://github.com/bzho3923/magnet)|
+|**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v2](http://arxiv.org/abs/2202.04936v2)|[link](https://github.com/bzho3923/magnet)|
 |**2022-02-09**|**A closer look at predicting turbulence statistics of arbitrary moments when based on a non-modelled symmetry approach**|Michael Frewer et.al.|[2202.04635v1](http://arxiv.org/abs/2202.04635v1)|null|
 |**2022-02-09**|**Turbulence via an intermolecular potential: The effect of viscosity and the transition range of the Reynolds number**|Rafail V. Abramov et.al.|[2202.04624v1](http://arxiv.org/abs/2202.04624v1)|null|
 |**2022-02-08**|**Dynamics of finite-size spheroids in turbulent flow: the roles of flow structures and particle boundary layers**|Linfeng Jiang et.al.|[2202.03937v1](http://arxiv.org/abs/2202.03937v1)|null|
