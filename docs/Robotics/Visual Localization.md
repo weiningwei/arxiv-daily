@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-17**|**Experimental observations on interaction between a root and droplets in relation to aeroponic agriculture**|Tejas Narasegowda et.al.|[2202.08773v1](http://arxiv.org/abs/2202.08773v1)|null|
+|**2022-02-17**|**Realistic Blur Synthesis for Learning Image Deblurring**|Jaesung Rim et.al.|[2202.08771v1](http://arxiv.org/abs/2202.08771v1)|null|
+|**2022-02-17**|**FPIC: A Novel Semantic Dataset for Optical PCB Assurance**|Nathan Jessurun et.al.|[2202.08414v1](http://arxiv.org/abs/2202.08414v1)|null|
 |**2022-02-16**|**Mapping the brightness and color of urban to rural skyglow with all-sky photometry**|Andreas Jechow et.al.|[2202.08258v1](http://arxiv.org/abs/2202.08258v1)|null|
 |**2022-02-16**|**Flexible-Modal Face Anti-Spoofing: A Benchmark**|Zitong Yu et.al.|[2202.08192v1](http://arxiv.org/abs/2202.08192v1)|[link](https://github.com/zitongyu/flex-modal-fas)|
 |**2022-02-16**|**Learning to Detect People on the Fly: A Bio-inspired Event-based Visual System for Drones**|Ali Safa et.al.|[2202.08023v1](http://arxiv.org/abs/2202.08023v1)|null|
@@ -29,6 +32,3 @@
 |**2022-02-11**|**Cyclops: Open Platform for Scale Truck Platooning**|Hyeongyu Lee et.al.|[2202.05385v1](http://arxiv.org/abs/2202.05385v1)|[link](https://github.com/hyeongyu-lee/scale_truck_control)|
 |**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v2](http://arxiv.org/abs/2202.05200v2)|null|
 |**2022-02-10**|**Long-term optical photometry of the PMS stars V2764 Ori and LkH$α$ 301 in the field of the McNeil's Nebula**|G. Zidarova et.al.|[2202.05095v1](http://arxiv.org/abs/2202.05095v1)|null|
-|**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
-|**2022-02-10**|**Far-ultraviolet investigation into the galactic globular cluster M30 (NGC 7099): I. Photometry and radial distributions**|Santana Mansfield et.al.|[2202.04913v1](http://arxiv.org/abs/2202.04913v1)|null|
-|**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song et.al.|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|

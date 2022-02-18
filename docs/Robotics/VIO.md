@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-17**|**The role of slow magnetostrophic waves in the formation of the axial dipole in planetary dynamos**|Aditya Varma et.al.|[2202.08784v1](http://arxiv.org/abs/2202.08784v1)|null|
+|**2022-02-17**|**Analysis of a kinetic model for electron heat transport in inertial confinement fusion plasmas**|A. Chrisment et.al.|[2202.08605v1](http://arxiv.org/abs/2202.08605v1)|null|
+|**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang et.al.|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|
+|**2022-02-16**|**Instability of a dusty vortex**|Shuai Shuai et.al.|[2202.08322v1](http://arxiv.org/abs/2202.08322v1)|null|
 |**2022-02-16**|**Finite-amplitude elastic waves in viscoelastic channel flow from large to zero Reynolds number**|Gergely Buza et.al.|[2202.08047v1](http://arxiv.org/abs/2202.08047v1)|null|
 |**2022-02-16**|**Observer dependence of photon bunching: The influence of the relativistic redshift on Hong-Ou-Mandel interference**|Roy Barzel et.al.|[2202.07950v1](http://arxiv.org/abs/2202.07950v1)|null|
 |**2022-02-16**|**A novel general modeling of the viscoelastic properties of fluids: application to mechanical relaxation and low frequency oscillation measurements of liquid water**|Frederic Aitken et.al.|[2202.07928v1](http://arxiv.org/abs/2202.07928v1)|null|
@@ -28,7 +32,3 @@
 |**2022-02-04**|**Pressure-Strain Interaction as the Energy Dissipation Estimate in Collisionless Plasma**|Yan Yang et.al.|[2202.02409v1](http://arxiv.org/abs/2202.02409v1)|null|
 |**2022-02-04**|**Differentiable Simulation of Inertial Musculotendons**|Ying Wang et.al.|[2202.02344v1](http://arxiv.org/abs/2202.02344v1)|null|
 |**2022-02-04**|**Beam Management with Orientation and RSRP using Deep Learning for Beyond 5G Systems**|Khuong N. Nguyen et.al.|[2202.02247v1](http://arxiv.org/abs/2202.02247v1)|null|
-|**2022-02-04**|**Equivariant Filter Design for Inertial Navigation Systems with Input Measurement Biases**|Alessandro Fornasier et.al.|[2202.02058v1](http://arxiv.org/abs/2202.02058v1)|null|
-|**2022-02-03**|**Intermittency in the Expanding Solar Wind: Observations from Parker Solar Probe (0.16au), Helios 1 (0.3-1au), and Voyager 1 (1-10au)**|Manuel Enrique Cuesta et.al.|[2202.01874v1](http://arxiv.org/abs/2202.01874v1)|null|
-|**2022-02-03**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|[link](https://github.com/benjaminfiltjens/ms-gcn)|
-|**2022-02-02**|**Importance of accurate consideration of the electron inertia in hybrid-kinetic simulations of collisionless plasma turbulence: 1. The 2D limit**|Neeraj Jain et.al.|[2202.01075v1](http://arxiv.org/abs/2202.01075v1)|null|
