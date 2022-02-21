@@ -25,7 +25,7 @@
 |**2022-02-12**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003v2](http://arxiv.org/abs/2202.06003v2)|[link](https://github.com/lviano/robust_gaifo)|
 |**2022-02-11**|**Failure Prediction with Statistical Guarantees for Vision-Based Robot Control**|Alec Farid et.al.|[2202.05894v1](http://arxiv.org/abs/2202.05894v1)|null|
 |**2022-02-11**|**Artemis: Articulated Neural Pets with Appearance and Motion synthesis**|Haimin Luo et.al.|[2202.05628v1](http://arxiv.org/abs/2202.05628v1)|null|
-|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v2](http://arxiv.org/abs/2202.05592v2)|null|
+|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v3](http://arxiv.org/abs/2202.05592v3)|null|
 |**2022-02-11**|**STEP: State Estimator for Legged Robots Using a Preintegrated foot Velocity Factor**|Yeeun Kim et.al.|[2202.05572v1](http://arxiv.org/abs/2202.05572v1)|null|
 |**2022-02-11**|**Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**|Farzeen Munir et.al.|[2202.05500v1](http://arxiv.org/abs/2202.05500v1)|[link](https://github.com/azamshoaib/drfuser)|
 |**2022-02-11**|**The CYGNO Experiment**|Fernando Domingues Amaro et.al.|[2202.05480v1](http://arxiv.org/abs/2202.05480v1)|null|
