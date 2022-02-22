@@ -12,7 +12,7 @@
 |**2022-02-17**|**FPIC: A Novel Semantic Dataset for Optical PCB Assurance**|Nathan Jessurun et.al.|[2202.08414v1](http://arxiv.org/abs/2202.08414v1)|null|
 |**2022-02-16**|**Mapping the brightness and color of urban to rural skyglow with all-sky photometry**|Andreas Jechow et.al.|[2202.08258v1](http://arxiv.org/abs/2202.08258v1)|null|
 |**2022-02-16**|**Flexible-Modal Face Anti-Spoofing: A Benchmark**|Zitong Yu et.al.|[2202.08192v1](http://arxiv.org/abs/2202.08192v1)|[link](https://github.com/zitongyu/flex-modal-fas)|
-|**2022-02-16**|**Learning to Detect People on the Fly: A Bio-inspired Event-based Visual System for Drones**|Ali Safa et.al.|[2202.08023v1](http://arxiv.org/abs/2202.08023v1)|null|
+|**2022-02-16**|**Continuously Learning to Detect People on the Fly: A Bio-inspired Visual System for Drones**|Ali Safa et.al.|[2202.08023v2](http://arxiv.org/abs/2202.08023v2)|null|
 |**2022-02-16**|**Policy Learning and Evaluation with Randomized Quasi-Monte Carlo**|Sebastien M. R. Arnold et.al.|[2202.07808v1](http://arxiv.org/abs/2202.07808v1)|null|
 |**2022-02-15**|**Energy-Efficient Parking Analytics System using Deep Reinforcement Learning**|Yoones Rezaei et.al.|[2202.08973v1](http://arxiv.org/abs/2202.08973v1)|null|
 |**2022-02-15**|**Bayesian Imitation Learning for End-to-End Mobile Manipulation**|Yuqing Du et.al.|[2202.07600v1](http://arxiv.org/abs/2202.07600v1)|null|
