@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-22**|**ReorientBot: Learning Object Reorientation for Specific-Posed Placement**|Kentaro Wada et.al.|[2202.11092v1](http://arxiv.org/abs/2202.11092v1)|[link](https://github.com/wkentaro/reorientbot)|
+|**2022-02-22**|**Constrained Visual-Inertial Localization With Application And Benchmark in Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11075v1](http://arxiv.org/abs/2202.11075v1)|null|
+|**2022-02-22**|**Coordinate-Aligned Multi-Camera Collaboration for Active Multi-Object Tracking**|Zeyu Fang et.al.|[2202.10881v1](http://arxiv.org/abs/2202.10881v1)|null|
+|**2022-02-22**|**A Novel Soft Shape-shifting Robot with Track-based Locomotion for In-pipe Inspection**|Vanni Consumi et.al.|[2202.10840v1](http://arxiv.org/abs/2202.10840v1)|null|
+|**2022-02-22**|**EIGNN: Efficient Infinite-Depth Graph Neural Networks**|Juncheng Liu et.al.|[2202.10720v1](http://arxiv.org/abs/2202.10720v1)|[link](https://github.com/liu-jc/eignn)|
+|**2022-02-22**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603v1](http://arxiv.org/abs/2202.10603v1)|null|
+|**2022-02-21**|**CROMOSim: A Deep Learning-based Cross-modality Inertial Measurement Simulator**|Yujiao Hao et.al.|[2202.10562v1](http://arxiv.org/abs/2202.10562v1)|null|
+|**2022-02-21**|**Moment Matching Deep Contrastive Latent Variable Models**|Ethan Weinberger et.al.|[2202.10560v1](http://arxiv.org/abs/2202.10560v1)|null|
+|**2022-02-21**|**Geometry-Aware Planar Embedding of Treelike Structures**|Ping Hu et.al.|[2202.10551v1](http://arxiv.org/abs/2202.10551v1)|null|
+|**2022-02-21**|**Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube**|Aravind Sivakumar et.al.|[2202.10448v1](http://arxiv.org/abs/2202.10448v1)|null|
+|**2022-02-21**|**Learning Multiple Explainable and Generalizable Cues for Face Anti-spoofing**|Ying Bian et.al.|[2202.10187v1](http://arxiv.org/abs/2202.10187v1)|null|
+|**2022-02-21**|**Demonstration of latency-aware 5G network slicing on optical metro networks**|B. Shariati et.al.|[2202.10118v1](http://arxiv.org/abs/2202.10118v1)|null|
+|**2022-02-21**|**Contactless pressure measurement of an underwater shock wave in a microtube using a high-resolution background-oriented schlieren technique**|Shota Yamamoto et.al.|[2202.10082v1](http://arxiv.org/abs/2202.10082v1)|null|
+|**2022-02-21**|**Determining star formation rates of active galactic nuclei host galaxies based on SED fitting with sub-mm data**|Changseok Kim et.al.|[2202.10044v1](http://arxiv.org/abs/2202.10044v1)|null|
+|**2022-02-21**|**Guided Visual Attention Model Based on Interactions Between Top-down and Bottom-up Information for Robot Pose Prediction**|Hyogo Hiruma et.al.|[2202.10036v1](http://arxiv.org/abs/2202.10036v1)|null|
 |**2022-02-18**|**Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks**|Haebom Lee et.al.|[2202.09206v1](http://arxiv.org/abs/2202.09206v1)|null|
 |**2022-02-18**|**Multi-view and Multi-modal Event Detection Utilizing Transformer-based Multi-sensor fusion**|Masahiro Yasuda et.al.|[2202.09124v1](http://arxiv.org/abs/2202.09124v1)|[link](https://github.com/nttrd-mdlab/mm-office)|
 |**2022-02-18**|**Generally applicable holographic torque measurement for optically trapped particles**|Franziska Strasser et.al.|[2202.09051v2](http://arxiv.org/abs/2202.09051v2)|null|
@@ -17,18 +32,3 @@
 |**2022-02-15**|**Energy-Efficient Parking Analytics System using Deep Reinforcement Learning**|Yoones Rezaei et.al.|[2202.08973v1](http://arxiv.org/abs/2202.08973v1)|null|
 |**2022-02-15**|**Bayesian Imitation Learning for End-to-End Mobile Manipulation**|Yuqing Du et.al.|[2202.07600v1](http://arxiv.org/abs/2202.07600v1)|null|
 |**2022-02-15**|**Balancing Domain Experts for Long-Tailed Camera-Trap Recognition**|Byeongjun Park et.al.|[2202.07215v2](http://arxiv.org/abs/2202.07215v2)|null|
-|**2022-02-14**|**Late-Time X-ray Observations of the Transient Source Cygnus A-2**|Bradford Snios et.al.|[2202.07007v1](http://arxiv.org/abs/2202.07007v1)|null|
-|**2022-02-14**|**BED: A Real-Time Object Detection System for Edge Devices**|Guanchu Wang et.al.|[2202.07503v1](http://arxiv.org/abs/2202.07503v1)|[link](https://github.com/datamllab/bed_main)|
-|**2022-02-14**|**Delaunay Component Analysis for Evaluation of Data Representations**|Petra Poklukar et.al.|[2202.06866v1](http://arxiv.org/abs/2202.06866v1)|[link](https://github.com/petrapoklukar/dca)|
-|**2022-02-14**|**On the Complexity of Object Detection on Real-world Public Transportation Images for Social Distancing Measurement**|Nik Khadijah Nik Aznan et.al.|[2202.06639v1](http://arxiv.org/abs/2202.06639v1)|null|
-|**2022-02-14**|**Vulnerability Assessment and Penetration Testing on IP cameras**|Pietro Biondi et.al.|[2202.06597v1](http://arxiv.org/abs/2202.06597v1)|null|
-|**2022-02-13**|**Gravity Estimation at Small Bodies via Optical Tracking of Hopping Artificial Probes**|Jacopo Villa et.al.|[2202.06412v1](http://arxiv.org/abs/2202.06412v1)|null|
-|**2022-02-13**|**Zero-Reference Image Restoration for Under-Display Camera of UAV**|Zhuoran Zheng et.al.|[2202.06283v1](http://arxiv.org/abs/2202.06283v1)|[link](https://github.com/zzr-idam/Under-Display-Camera-UAV)|
-|**2022-02-13**|**Natural Image Stitching Using Depth Maps**|Tianli Liao et.al.|[2202.06276v1](http://arxiv.org/abs/2202.06276v1)|null|
-|**2022-02-12**|**InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools**|Mustafa Doga Dogan et.al.|[2202.06165v1](http://arxiv.org/abs/2202.06165v1)|null|
-|**2022-02-12**|**End-to-end Reinforcement Learning of Robotic Manipulation with Robust Keypoints Representation**|Tianying Wang et.al.|[2202.06027v1](http://arxiv.org/abs/2202.06027v1)|null|
-|**2022-02-12**|**Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval**|Xianghao Zang et.al.|[2202.06014v1](http://arxiv.org/abs/2202.06014v1)|null|
-|**2022-02-12**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003v2](http://arxiv.org/abs/2202.06003v2)|[link](https://github.com/lviano/robust_gaifo)|
-|**2022-02-11**|**Failure Prediction with Statistical Guarantees for Vision-Based Robot Control**|Alec Farid et.al.|[2202.05894v1](http://arxiv.org/abs/2202.05894v1)|null|
-|**2022-02-11**|**Artemis: Articulated Neural Pets with Appearance and Motion synthesis**|Haimin Luo et.al.|[2202.05628v1](http://arxiv.org/abs/2202.05628v1)|null|
-|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v3](http://arxiv.org/abs/2202.05592v3)|null|
