@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
+|**2022-02-24**|**DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association**|Xiyang Wang et.al.|[2202.12100v1](http://arxiv.org/abs/2202.12100v1)|[link](https://github.com/wangxiyang2022/DeepFusionMOT)|
+|**2022-02-24**|**GIAOTracker: A comprehensive framework for MCMOT with global information and optimizing strategies in VisDrone 2021**|Yunhao Du et.al.|[2202.11983v1](http://arxiv.org/abs/2202.11983v1)|null|
+|**2022-02-24**|**N-QGN: Navigation Map from a Monocular Camera using Quadtree Generating Networks**|Daniel Braun et.al.|[2202.11982v1](http://arxiv.org/abs/2202.11982v1)|null|
+|**2022-02-24**|**"Is not the truth the truth?": Analyzing the Impact of User Validations for Bus In/Out Detection in Smartphone-based Surveys**|Valentino Servizi. et.al.|[2202.11961v1](http://arxiv.org/abs/2202.11961v1)|null|
+|**2022-02-24**|**Robust Probabilistic Time Series Forecasting**|TaeHo Yoon et.al.|[2202.11910v1](http://arxiv.org/abs/2202.11910v1)|[link](https://github.com/tetrzim/robust-probabilistic-forecasting)|
 |**2022-02-23**|**Time-modulated excitation for enhanced single molecule localization microscopy**|Pierre Jouchet et.al.|[2202.11553v1](http://arxiv.org/abs/2202.11553v1)|null|
 |**2022-02-23**|**Observation of the Solar F-corona from Space**|Philippe Lamy et.al.|[2202.11533v1](http://arxiv.org/abs/2202.11533v1)|null|
 |**2022-02-23**|**Visual-tactile sensing for Real-time liquid Volume Estimation in Grasping**|Fan Zhu et.al.|[2202.11503v1](http://arxiv.org/abs/2202.11503v1)|null|
@@ -26,9 +32,3 @@
 |**2022-02-21**|**Determining star formation rates of active galactic nuclei host galaxies based on SED fitting with sub-mm data**|Changseok Kim et.al.|[2202.10044v1](http://arxiv.org/abs/2202.10044v1)|null|
 |**2022-02-21**|**Guided Visual Attention Model Based on Interactions Between Top-down and Bottom-up Information for Robot Pose Prediction**|Hyogo Hiruma et.al.|[2202.10036v1](http://arxiv.org/abs/2202.10036v1)|null|
 |**2022-02-18**|**Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks**|Haebom Lee et.al.|[2202.09206v1](http://arxiv.org/abs/2202.09206v1)|null|
-|**2022-02-18**|**Multi-view and Multi-modal Event Detection Utilizing Transformer-based Multi-sensor fusion**|Masahiro Yasuda et.al.|[2202.09124v1](http://arxiv.org/abs/2202.09124v1)|[link](https://github.com/nttrd-mdlab/mm-office)|
-|**2022-02-18**|**Generally applicable holographic torque measurement for optically trapped particles**|Franziska Strasser et.al.|[2202.09051v2](http://arxiv.org/abs/2202.09051v2)|null|
-|**2022-02-17**|**Machine learning models and facial regions videos for estimating heart rate: a review on Patents, Datasets and Literature**|Tiago Palma Pagano et.al.|[2202.08913v1](http://arxiv.org/abs/2202.08913v1)|null|
-|**2022-02-17**|**Ray-transfer functions for camera simulation of 3D scenes with hidden lens design**|Thomas Goossens et.al.|[2202.08880v2](http://arxiv.org/abs/2202.08880v2)|null|
-|**2022-02-17**|**Experimental observations on interaction between a root and droplets in relation to aeroponic agriculture**|Tejas Narasegowda et.al.|[2202.08773v1](http://arxiv.org/abs/2202.08773v1)|null|
-|**2022-02-17**|**Realistic Blur Synthesis for Learning Image Deblurring**|Jaesung Rim et.al.|[2202.08771v1](http://arxiv.org/abs/2202.08771v1)|null|
