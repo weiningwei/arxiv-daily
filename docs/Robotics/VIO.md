@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-25**|**TerraPN: Unstructured terrain navigation through Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v1](http://arxiv.org/abs/2202.12873v1)|null|
+|**2022-02-25**|**Dynamics of reconfigurable straw-like elements**|Dotan Ilssar et.al.|[2202.12657v1](http://arxiv.org/abs/2202.12657v1)|null|
+|**2022-02-25**|**Predicting Impact-Induced Joint Velocity Jumps on Kinematic-Controlled Manipulator**|Yuquan Wang et.al.|[2202.12646v1](http://arxiv.org/abs/2202.12646v1)|null|
+|**2022-02-25**|**Residence time of inertial particles in 3D thermal convection: implications for magma reservoirs**|Vojtěch Patočka et.al.|[2202.12633v1](http://arxiv.org/abs/2202.12633v1)|null|
+|**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|null|
+|**2022-02-24**|**Kinetic-scale current sheets in near-Sun solar wind: properties, scale-dependent features and reconnection onset**|A. Lotekar et.al.|[2202.12341v1](http://arxiv.org/abs/2202.12341v1)|null|
 |**2022-02-24**|**Situational Graphs for Robot Navigation in Structured Indoor Environments**|Hriday Bavle et.al.|[2202.12197v1](http://arxiv.org/abs/2202.12197v1)|null|
 |**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
 |**2022-02-23**|**Deep Bayesian ICP Covariance Estimation**|Andrea De Maio et.al.|[2202.11607v1](http://arxiv.org/abs/2202.11607v1)|null|
@@ -26,9 +32,3 @@
 |**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang et.al.|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|
 |**2022-02-16**|**Instability of a dusty vortex**|Shuai Shuai et.al.|[2202.08322v1](http://arxiv.org/abs/2202.08322v1)|null|
 |**2022-02-16**|**A Dynamic Model of a Skydiver With Validation in Wind Tunnel and Free Fall**|Anna Clarke et.al.|[2202.10233v1](http://arxiv.org/abs/2202.10233v1)|null|
-|**2022-02-16**|**Finite-amplitude elastic waves in viscoelastic channel flow from large to zero Reynolds number**|Gergely Buza et.al.|[2202.08047v1](http://arxiv.org/abs/2202.08047v1)|null|
-|**2022-02-16**|**Observer dependence of photon bunching: The influence of the relativistic redshift on Hong-Ou-Mandel interference**|Roy Barzel et.al.|[2202.07950v1](http://arxiv.org/abs/2202.07950v1)|null|
-|**2022-02-16**|**A novel general modeling of the viscoelastic properties of fluids: application to mechanical relaxation and low frequency oscillation measurements of liquid water**|Frederic Aitken et.al.|[2202.07928v1](http://arxiv.org/abs/2202.07928v1)|null|
-|**2022-02-16**|**Exact solutions for charged spheres and their stability. I. Perfect Fluids**|Krsna Dev et.al.|[2202.07819v1](http://arxiv.org/abs/2202.07819v1)|null|
-|**2022-02-15**|**Numerical simulation of the coalescence-induced polymeric droplet jumping on superhydrophobic surfaces**|Kazem Bazesefidpar et.al.|[2202.07579v1](http://arxiv.org/abs/2202.07579v1)|null|
-|**2022-02-15**|**Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up**|Daniel J. Ruth et.al.|[2202.07528v1](http://arxiv.org/abs/2202.07528v1)|null|
