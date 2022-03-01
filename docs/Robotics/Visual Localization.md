@@ -2,8 +2,26 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-28**|**Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond**|Yue Yao et.al.|[2202.14034v1](http://arxiv.org/abs/2202.14034v1)|null|
+|**2022-02-28**|**Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment**|Paritosh Parmar et.al.|[2202.14019v1](http://arxiv.org/abs/2202.14019v1)|null|
+|**2022-02-28**|**A Novel Viewport-Adaptive Motion Compensation Technique for Fisheye Video**|Andy Regensky et.al.|[2202.13892v1](http://arxiv.org/abs/2202.13892v1)|null|
+|**2022-02-28**|**Large-Scale 3D Semantic Reconstruction for Automated Driving Vehicles with Adaptive Truncated Signed Distance Function**|Haohao Hu et.al.|[2202.13855v1](http://arxiv.org/abs/2202.13855v1)|null|
+|**2022-02-28**|**TEScalib: Targetless Extrinsic Self-Calibration of LiDAR and Stereo Camera for Automated Driving Vehicles with Uncertainty Analysis**|Haohao Hu et.al.|[2202.13847v1](http://arxiv.org/abs/2202.13847v1)|null|
+|**2022-02-28**|**Joint Camera Intrinsic and LiDAR-Camera Extrinsic Calibration**|Guohang Yan et.al.|[2202.13708v1](http://arxiv.org/abs/2202.13708v1)|null|
+|**2022-02-28**|**Collective photon emission patterns from two atoms in free space**|Stefan Richter et.al.|[2202.13678v1](http://arxiv.org/abs/2202.13678v1)|null|
+|**2022-02-28**|**Bina-Rep Event Frames: a Simple and Effective Representation for Event-based cameras**|Sami Barchid et.al.|[2202.13662v1](http://arxiv.org/abs/2202.13662v1)|null|
+|**2022-02-28**|**Aggressive Racecar Drifting Control Using Onboard Cameras and Inertial Measurement Unit**|Shuaibing Lin et.al.|[2202.13513v1](http://arxiv.org/abs/2202.13513v1)|null|
+|**2022-02-27**|**A Computer Vision-assisted Approach to Automated Real-Time Road Infrastructure Management**|Philippe Heitzmann et.al.|[2202.13285v1](http://arxiv.org/abs/2202.13285v1)|null|
+|**2022-02-27**|**Next-Best-View Prediction for Active Stereo Cameras and Highly Reflective Objects**|Jun Yang et.al.|[2202.13263v1](http://arxiv.org/abs/2202.13263v1)|null|
+|**2022-02-26**|**Person Re-identification: A Retrospective on Domain Specific Open Challenges and Future Trends**|Asmat Zahra et.al.|[2202.13121v1](http://arxiv.org/abs/2202.13121v1)|null|
+|**2022-02-26**|**Accurate Human Body Reconstruction for Volumetric Video**|Decai Chen et.al.|[2202.13118v1](http://arxiv.org/abs/2202.13118v1)|null|
+|**2022-02-26**|**Utility and Feasibility of a Center Surround Event Camera**|Tobi Delbruck et.al.|[2202.13076v1](http://arxiv.org/abs/2202.13076v1)|null|
+|**2022-02-26**|**Global Instance Tracking: Locating Target More Like Humans**|Shiyu Hu et.al.|[2202.13073v1](http://arxiv.org/abs/2202.13073v1)|null|
+|**2022-02-26**|**Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance**|Yuki Fujimura et.al.|[2202.13055v1](http://arxiv.org/abs/2202.13055v1)|null|
+|**2022-02-26**|**Optical flow-based branch segmentation for complex orchard environments**|Alexander You et.al.|[2202.13050v1](http://arxiv.org/abs/2202.13050v1)|null|
+|**2022-02-25**|**HCIL: Hierarchical Class Incremental Learning for Longline Fishing Visual Monitoring**|Jie Mei et.al.|[2202.13018v1](http://arxiv.org/abs/2202.13018v1)|null|
+|**2022-02-25**|**Intelligent Vision-based Autonomous Ship Landing of VTOL UAVs**|Bochan Lee et.al.|[2202.13005v1](http://arxiv.org/abs/2202.13005v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran et.al.|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
-|**2022-02-25**|**NeuralFusion: Neural Volumetric Rendering under Human-object Interactions**|Yuheng Jiang et.al.|[2202.12825v2](http://arxiv.org/abs/2202.12825v2)|null|
 |**2022-02-25**|**Improving generalization with synthetic training data for deep learning based quality inspection**|Antoine Cordier et.al.|[2202.12818v1](http://arxiv.org/abs/2202.12818v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|[link](https://github.com/flysoaryun/lf-vio)|
 |**2022-02-25**|**Visibility Maximization Controller for Robotic Manipulation**|Kerry He et.al.|[2202.12557v1](http://arxiv.org/abs/2202.12557v1)|null|
@@ -14,21 +32,3 @@
 |**2022-02-24**|**DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association**|Xiyang Wang et.al.|[2202.12100v1](http://arxiv.org/abs/2202.12100v1)|[link](https://github.com/wangxiyang2022/DeepFusionMOT)|
 |**2022-02-24**|**GIAOTracker: A comprehensive framework for MCMOT with global information and optimizing strategies in VisDrone 2021**|Yunhao Du et.al.|[2202.11983v1](http://arxiv.org/abs/2202.11983v1)|null|
 |**2022-02-24**|**N-QGN: Navigation Map from a Monocular Camera using Quadtree Generating Networks**|Daniel Braun et.al.|[2202.11982v1](http://arxiv.org/abs/2202.11982v1)|null|
-|**2022-02-24**|**"Is not the truth the truth?": Analyzing the Impact of User Validations for Bus In/Out Detection in Smartphone-based Surveys**|Valentino Servizi. et.al.|[2202.11961v1](http://arxiv.org/abs/2202.11961v1)|null|
-|**2022-02-24**|**Robust Probabilistic Time Series Forecasting**|TaeHo Yoon et.al.|[2202.11910v1](http://arxiv.org/abs/2202.11910v1)|[link](https://github.com/tetrzim/robust-probabilistic-forecasting)|
-|**2022-02-23**|**Time-modulated excitation for enhanced single molecule localization microscopy**|Pierre Jouchet et.al.|[2202.11553v1](http://arxiv.org/abs/2202.11553v1)|null|
-|**2022-02-23**|**Observation of the Solar F-corona from Space**|Philippe Lamy et.al.|[2202.11533v1](http://arxiv.org/abs/2202.11533v1)|null|
-|**2022-02-23**|**Visual-tactile sensing for Real-time liquid Volume Estimation in Grasping**|Fan Zhu et.al.|[2202.11503v1](http://arxiv.org/abs/2202.11503v1)|null|
-|**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
-|**2022-02-23**|**Thermal hand image segmentation for biometric recognition**|Xavier Font-Aragones et.al.|[2202.11462v1](http://arxiv.org/abs/2202.11462v1)|null|
-|**2022-02-23**|**ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints**|Dhruv Shah et.al.|[2202.11271v1](http://arxiv.org/abs/2202.11271v1)|null|
-|**2022-02-22**|**Enabling Efficient Deep Convolutional Neural Network-based Sensor Fusion for Autonomous Driving**|Xiaoming Zeng et.al.|[2202.11231v1](http://arxiv.org/abs/2202.11231v1)|null|
-|**2022-02-22**|**Event-based Imaging Velocimetry -- An Assessment of Event-based Cameras for the Measurement of Fluid Flows**|Christian Willert et.al.|[2202.11178v1](http://arxiv.org/abs/2202.11178v1)|null|
-|**2022-02-22**|**ReorientBot: Learning Object Reorientation for Specific-Posed Placement**|Kentaro Wada et.al.|[2202.11092v1](http://arxiv.org/abs/2202.11092v1)|[link](https://github.com/wkentaro/reorientbot)|
-|**2022-02-22**|**Constrained Visual-Inertial Localization With Application And Benchmark in Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11075v1](http://arxiv.org/abs/2202.11075v1)|null|
-|**2022-02-22**|**Coordinate-Aligned Multi-Camera Collaboration for Active Multi-Object Tracking**|Zeyu Fang et.al.|[2202.10881v1](http://arxiv.org/abs/2202.10881v1)|null|
-|**2022-02-22**|**A Novel Soft Shape-shifting Robot with Track-based Locomotion for In-pipe Inspection**|Vanni Consumi et.al.|[2202.10840v1](http://arxiv.org/abs/2202.10840v1)|null|
-|**2022-02-22**|**EIGNN: Efficient Infinite-Depth Graph Neural Networks**|Juncheng Liu et.al.|[2202.10720v1](http://arxiv.org/abs/2202.10720v1)|[link](https://github.com/liu-jc/eignn)|
-|**2022-02-22**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603v1](http://arxiv.org/abs/2202.10603v1)|null|
-|**2022-02-21**|**CROMOSim: A Deep Learning-based Cross-modality Inertial Measurement Simulator**|Yujiao Hao et.al.|[2202.10562v1](http://arxiv.org/abs/2202.10562v1)|null|
-|**2022-02-21**|**Moment Matching Deep Contrastive Latent Variable Models**|Ethan Weinberger et.al.|[2202.10560v1](http://arxiv.org/abs/2202.10560v1)|[link](https://github.com/suinleelab/mm-cvae)|

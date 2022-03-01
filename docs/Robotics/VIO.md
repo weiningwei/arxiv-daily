@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-28**|**Motion dynamics of inertial pair coupled via frictional interface**|Michael Ruderman et.al.|[2202.13913v1](http://arxiv.org/abs/2202.13913v1)|null|
+|**2022-02-28**|**A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering**|Xiaokang Yang et.al.|[2202.13700v1](http://arxiv.org/abs/2202.13700v1)|[link](https://github.com/georgenwpu/code_data_of_papers/tree/master/A%20GNSS%20Aided%20Initial%20Alignment%20Method%20for%20MEMS-IMU%20Based%20on%20Backtracking%20Algorithm%20and%20Backward%20Filtering)|
+|**2022-02-28**|**Aggressive Racecar Drifting Control Using Onboard Cameras and Inertial Measurement Unit**|Shuaibing Lin et.al.|[2202.13513v1](http://arxiv.org/abs/2202.13513v1)|null|
+|**2022-02-28**|**Globally Optimal Boresight Alignment of UAV-LiDAR Systems**|Smitha Gopinath et.al.|[2202.13501v1](http://arxiv.org/abs/2202.13501v1)|null|
+|**2022-02-27**|**Robust Self-Supervised LiDAR Odometry via Representative Structure Discovery and 3D Inherent Error Modeling**|Yan Xu et.al.|[2202.13353v1](http://arxiv.org/abs/2202.13353v1)|[link](https://github.com/samuelyale/rslo)|
 |**2022-02-25**|**TerraPN: Unstructured terrain navigation through Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v1](http://arxiv.org/abs/2202.12873v1)|null|
 |**2022-02-25**|**Dynamics of reconfigurable straw-like elements**|Dotan Ilssar et.al.|[2202.12657v1](http://arxiv.org/abs/2202.12657v1)|null|
 |**2022-02-25**|**Predicting Impact-Induced Joint Velocity Jumps on Kinematic-Controlled Manipulator**|Yuquan Wang et.al.|[2202.12646v1](http://arxiv.org/abs/2202.12646v1)|null|
@@ -27,8 +32,3 @@
 |**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger et.al.|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
 |**2022-02-18**|**On The Low Speed Limits of Lorentz's Transformation**|Hao Chen et.al.|[2202.10242v1](http://arxiv.org/abs/2202.10242v1)|null|
 |**2022-02-17**|**Frequency dependence and vertical structure of ocean surface kinetic energy from global high-resolution models and surface drifter observations**|Brian K. Arbic et.al.|[2202.08877v1](http://arxiv.org/abs/2202.08877v1)|null|
-|**2022-02-17**|**The role of slow magnetostrophic waves in the formation of the axial dipole in planetary dynamos**|Aditya Varma et.al.|[2202.08784v1](http://arxiv.org/abs/2202.08784v1)|null|
-|**2022-02-17**|**Analysis of a kinetic model for electron heat transport in inertial confinement fusion plasmas**|A. Chrisment et.al.|[2202.08605v1](http://arxiv.org/abs/2202.08605v1)|null|
-|**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang et.al.|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|
-|**2022-02-16**|**Instability of a dusty vortex**|Shuai Shuai et.al.|[2202.08322v1](http://arxiv.org/abs/2202.08322v1)|null|
-|**2022-02-16**|**A Dynamic Model of a Skydiver With Validation in Wind Tunnel and Free Fall**|Anna Clarke et.al.|[2202.10233v1](http://arxiv.org/abs/2202.10233v1)|null|
