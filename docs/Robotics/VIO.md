@@ -2,7 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-01**|**Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry**|Robert Weston et.al.|[2203.00459v1](http://arxiv.org/abs/2203.00459v1)|null|
+|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
+|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
+|**2022-02-28**|**Carrier-phase and IMU based GNSS Spoofing Detection for Ground Vehicles**|Zachary Clements et.al.|[2203.00140v1](http://arxiv.org/abs/2203.00140v1)|null|
+|**2022-02-28**|**Thermal transport in d = 1,2,3 -- a conspiracy enthroning Fourier law**|Constantino Tsallis et.al.|[2203.00102v1](http://arxiv.org/abs/2203.00102v1)|null|
+|**2022-02-28**|**DWIFOB: A Dynamically Weighted Inertial Forward-Backward Algorithm for Monotone Inclusions**|Hamed Sadeghi et.al.|[2203.00028v1](http://arxiv.org/abs/2203.00028v1)|null|
 |**2022-02-28**|**Motion dynamics of inertial pair coupled via frictional interface**|Michael Ruderman et.al.|[2202.13913v1](http://arxiv.org/abs/2202.13913v1)|null|
+|**2022-02-28**|**A simple model for an internal wave spectrum dominated by non-linear interactions**|Hans van Haren et.al.|[2203.00475v1](http://arxiv.org/abs/2203.00475v1)|null|
 |**2022-02-28**|**A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering**|Xiaokang Yang et.al.|[2202.13700v1](http://arxiv.org/abs/2202.13700v1)|[link](https://github.com/georgenwpu/code_data_of_papers/tree/master/A%20GNSS%20Aided%20Initial%20Alignment%20Method%20for%20MEMS-IMU%20Based%20on%20Backtracking%20Algorithm%20and%20Backward%20Filtering)|
 |**2022-02-28**|**Aggressive Racecar Drifting Control Using Onboard Cameras and Inertial Measurement Unit**|Shuaibing Lin et.al.|[2202.13513v1](http://arxiv.org/abs/2202.13513v1)|null|
 |**2022-02-28**|**Globally Optimal Boresight Alignment of UAV-LiDAR Systems**|Smitha Gopinath et.al.|[2202.13501v1](http://arxiv.org/abs/2202.13501v1)|null|
@@ -25,10 +32,3 @@
 |**2022-02-22**|**Robust and Online LiDAR-inertial Initialization**|Fangcheng Zhu et.al.|[2202.11006v3](http://arxiv.org/abs/2202.11006v3)|[link](https://github.com/hku-mars/LiDAR_IMU_Init)|
 |**2022-02-22**|**Viscous-inertial transition in dense granular suspension**|Franco Tapia et.al.|[2202.10641v1](http://arxiv.org/abs/2202.10641v1)|null|
 |**2022-02-21**|**CROMOSim: A Deep Learning-based Cross-modality Inertial Measurement Simulator**|Yujiao Hao et.al.|[2202.10562v1](http://arxiv.org/abs/2202.10562v1)|null|
-|**2022-02-21**|**Detecting deep axisymmetric toroidal magnetic fields in stars. The traditional approximation of rotation for differentially rotating deep spherical shells with a general azimutal magnetic field**|Hachem Dhouib et.al.|[2202.10026v1](http://arxiv.org/abs/2202.10026v1)|null|
-|**2022-02-20**|**A Tseng type stochastic forward-backward algorithm for monotone inclusions**|Van Dung Nguyen et.al.|[2202.09759v1](http://arxiv.org/abs/2202.09759v1)|null|
-|**2022-02-19**|**Eötvös balance and earthquake detection**|L. Völgyesi et.al.|[2202.09607v1](http://arxiv.org/abs/2202.09607v1)|null|
-|**2022-02-19**|**Optimal Regularity and Uhlenbeck Compactness for General Relativity and Yang-Mills Theory**|Moritz Reintjes et.al.|[2202.09535v1](http://arxiv.org/abs/2202.09535v1)|null|
-|**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger et.al.|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
-|**2022-02-18**|**On The Low Speed Limits of Lorentz's Transformation**|Hao Chen et.al.|[2202.10242v1](http://arxiv.org/abs/2202.10242v1)|null|
-|**2022-02-17**|**Frequency dependence and vertical structure of ocean surface kinetic energy from global high-resolution models and surface drifter observations**|Brian K. Arbic et.al.|[2202.08877v1](http://arxiv.org/abs/2202.08877v1)|null|

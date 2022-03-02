@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-01**|**Indoor Localization for Quadrotors using Invisible Projected Tags**|Jinjie Li et.al.|[2203.00356v1](http://arxiv.org/abs/2203.00356v1)|null|
+|**2022-03-01**|**Comprehensive Analysis of the Object Detection Pipeline on UAVs**|Leon Amadeus Varga et.al.|[2203.00306v1](http://arxiv.org/abs/2203.00306v1)|null|
+|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
+|**2022-03-01**|**Evaluation of Controllers and Development of a new in-house Controller for the Teledyne HxRG Focal Plane Array for the IRSIS satellite payload**|M. B. Naik et.al.|[2203.00202v1](http://arxiv.org/abs/2203.00202v1)|null|
+|**2022-02-28**|**The Right Spin: Learning Object Motion from Rotation-Compensated Flow Fields**|Pia Bideau et.al.|[2203.00115v1](http://arxiv.org/abs/2203.00115v1)|null|
+|**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza et.al.|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
+|**2022-02-28**|**Elliptical Slice Sampling for Probabilistic Verification of Stochastic Systems with Signal Temporal Logic Specifications**|Guy Scher et.al.|[2203.00078v1](http://arxiv.org/abs/2203.00078v1)|null|
 |**2022-02-28**|**Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond**|Yue Yao et.al.|[2202.14034v1](http://arxiv.org/abs/2202.14034v1)|null|
 |**2022-02-28**|**Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment**|Paritosh Parmar et.al.|[2202.14019v1](http://arxiv.org/abs/2202.14019v1)|null|
 |**2022-02-28**|**A Novel Viewport-Adaptive Motion Compensation Technique for Fisheye Video**|Andy Regensky et.al.|[2202.13892v1](http://arxiv.org/abs/2202.13892v1)|null|
@@ -25,10 +32,3 @@
 |**2022-02-25**|**Improving generalization with synthetic training data for deep learning based quality inspection**|Antoine Cordier et.al.|[2202.12818v1](http://arxiv.org/abs/2202.12818v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|[link](https://github.com/flysoaryun/lf-vio)|
 |**2022-02-25**|**Visibility Maximization Controller for Robotic Manipulation**|Kerry He et.al.|[2202.12557v1](http://arxiv.org/abs/2202.12557v1)|null|
-|**2022-02-25**|**Oscillatory Neural Network as Hetero-Associative Memory for Image Edge Detection**|Madeleine Abernot et.al.|[2202.12541v1](http://arxiv.org/abs/2202.12541v1)|null|
-|**2022-02-24**|**TwistSLAM: Constrained SLAM in Dynamic Environment**|Mathieu Gonzalez et.al.|[2202.12384v1](http://arxiv.org/abs/2202.12384v1)|null|
-|**2022-02-24**|**PRNU Emphasis: a Generalization of the Multiplicative Model**|Samuel Fernández-Menduiña et.al.|[2202.12357v1](http://arxiv.org/abs/2202.12357v1)|null|
-|**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
-|**2022-02-24**|**DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association**|Xiyang Wang et.al.|[2202.12100v1](http://arxiv.org/abs/2202.12100v1)|[link](https://github.com/wangxiyang2022/DeepFusionMOT)|
-|**2022-02-24**|**GIAOTracker: A comprehensive framework for MCMOT with global information and optimizing strategies in VisDrone 2021**|Yunhao Du et.al.|[2202.11983v1](http://arxiv.org/abs/2202.11983v1)|null|
-|**2022-02-24**|**N-QGN: Navigation Map from a Monocular Camera using Quadtree Generating Networks**|Daniel Braun et.al.|[2202.11982v1](http://arxiv.org/abs/2202.11982v1)|null|

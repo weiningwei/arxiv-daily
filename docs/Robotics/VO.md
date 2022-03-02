@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-01**|**Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry**|Robert Weston et.al.|[2203.00459v1](http://arxiv.org/abs/2203.00459v1)|null|
+|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
+|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 |**2022-02-27**|**Robust Self-Supervised LiDAR Odometry via Representative Structure Discovery and 3D Inherent Error Modeling**|Yan Xu et.al.|[2202.13353v1](http://arxiv.org/abs/2202.13353v1)|[link](https://github.com/samuelyale/rslo)|
 |**2022-02-25**|**TerraPN: Unstructured terrain navigation through Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v1](http://arxiv.org/abs/2202.12873v1)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|[link](https://github.com/flysoaryun/lf-vio)|
@@ -29,6 +32,3 @@
 |**2021-12-23**|**Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**|Nimet Kaygusuz et.al.|[2112.12818v1](http://arxiv.org/abs/2112.12818v1)|null|
 |**2021-12-23**|**MDN-VO: Estimating Visual Odometry with Confidence**|Nimet Kaygusuz et.al.|[2112.12812v1](http://arxiv.org/abs/2112.12812v1)|null|
 |**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold et.al.|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|[link](https://github.com/eduardohenriquearnold/fastreg)|
-|**2021-12-16**|**Multi-Camera LiDAR Inertial Extension to the Newer College Dataset**|Lintong Zhang et.al.|[2112.08854v1](http://arxiv.org/abs/2112.08854v1)|null|
-|**2021-12-15**|**A Comparison of Robust Kalman Filters for Improving Wheel-Inertial Odometry in Planetary Rovers**|Shounak Das et.al.|[2112.07872v1](http://arxiv.org/abs/2112.07872v1)|null|
-|**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v2](http://arxiv.org/abs/2112.06180v2)|null|
