@@ -22,7 +22,7 @@
 |**2022-02-22**|**Inertial focusing of spherical particles in curved microfluidic ducts at moderate Dean numbers**|Brendan Harding et.al.|[2202.11209v1](http://arxiv.org/abs/2202.11209v1)|null|
 |**2022-02-22**|**How viscous bubbles collapse: topological and symmetry-breaking instabilities in curvature-driven hydrodynamics**|Benny Davidovitch et.al.|[2202.11125v1](http://arxiv.org/abs/2202.11125v1)|null|
 |**2022-02-22**|**Constrained Visual-Inertial Localization With Application And Benchmark in Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11075v1](http://arxiv.org/abs/2202.11075v1)|null|
-|**2022-02-22**|**Robust and Online LiDAR-inertial Initialization**|Fangcheng Zhu et.al.|[2202.11006v2](http://arxiv.org/abs/2202.11006v2)|[link](https://github.com/hku-mars/LiDAR_IMU_Init)|
+|**2022-02-22**|**Robust and Online LiDAR-inertial Initialization**|Fangcheng Zhu et.al.|[2202.11006v3](http://arxiv.org/abs/2202.11006v3)|[link](https://github.com/hku-mars/LiDAR_IMU_Init)|
 |**2022-02-22**|**Viscous-inertial transition in dense granular suspension**|Franco Tapia et.al.|[2202.10641v1](http://arxiv.org/abs/2202.10641v1)|null|
 |**2022-02-21**|**CROMOSim: A Deep Learning-based Cross-modality Inertial Measurement Simulator**|Yujiao Hao et.al.|[2202.10562v1](http://arxiv.org/abs/2202.10562v1)|null|
 |**2022-02-21**|**Detecting deep axisymmetric toroidal magnetic fields in stars. The traditional approximation of rotation for differentially rotating deep spherical shells with a general azimutal magnetic field**|Hachem Dhouib et.al.|[2202.10026v1](http://arxiv.org/abs/2202.10026v1)|null|
