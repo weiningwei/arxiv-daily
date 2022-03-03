@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-02**|**Dynamical analysis of logarithmic energy-momentum squared gravity**|Giovanni Acquaviva et.al.|[2203.01234v1](http://arxiv.org/abs/2203.01234v1)|null|
+|**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
+|**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
+|**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|null|
+|**2022-03-02**|**Fast Object Inertial Parameter Identification for Collaborative Robots**|Philippe Nadeau et.al.|[2203.00830v1](http://arxiv.org/abs/2203.00830v1)|null|
 |**2022-03-01**|**Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry**|Robert Weston et.al.|[2203.00459v1](http://arxiv.org/abs/2203.00459v1)|null|
 |**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
 |**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
@@ -27,8 +32,3 @@
 |**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
 |**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
 |**2022-02-22**|**Inertial focusing of spherical particles in curved microfluidic ducts at moderate Dean numbers**|Brendan Harding et.al.|[2202.11209v1](http://arxiv.org/abs/2202.11209v1)|null|
-|**2022-02-22**|**How viscous bubbles collapse: topological and symmetry-breaking instabilities in curvature-driven hydrodynamics**|Benny Davidovitch et.al.|[2202.11125v1](http://arxiv.org/abs/2202.11125v1)|null|
-|**2022-02-22**|**Constrained Visual-Inertial Localization With Application And Benchmark in Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11075v1](http://arxiv.org/abs/2202.11075v1)|null|
-|**2022-02-22**|**Robust and Online LiDAR-inertial Initialization**|Fangcheng Zhu et.al.|[2202.11006v3](http://arxiv.org/abs/2202.11006v3)|[link](https://github.com/hku-mars/LiDAR_IMU_Init)|
-|**2022-02-22**|**Viscous-inertial transition in dense granular suspension**|Franco Tapia et.al.|[2202.10641v1](http://arxiv.org/abs/2202.10641v1)|null|
-|**2022-02-21**|**CROMOSim: A Deep Learning-based Cross-modality Inertial Measurement Simulator**|Yujiao Hao et.al.|[2202.10562v1](http://arxiv.org/abs/2202.10562v1)|null|
