@@ -2,8 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-03**|**Playable Environments: Video Manipulation in Space and Time**|Willi Menapace et.al.|[2203.01914v1](http://arxiv.org/abs/2203.01914v1)|null|
+|**2022-03-03**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913v1](http://arxiv.org/abs/2203.01913v1)|null|
+|**2022-03-03**|**Computer Vision Aided Blockage Prediction in Real-World Millimeter Wave Deployments**|Gouranga Charan et.al.|[2203.01907v1](http://arxiv.org/abs/2203.01907v1)|null|
+|**2022-03-03**|**An observer cascade for velocity and multiple line estimation**|André Mateus et.al.|[2203.01879v1](http://arxiv.org/abs/2203.01879v1)|null|
+|**2022-03-03**|**Around the Spindle galaxy: the dark halo mass of NGC3115**|I. D. Karachentsev et.al.|[2203.01700v1](http://arxiv.org/abs/2203.01700v1)|null|
+|**2022-03-03**|**Line Multiview Varieties**|Paul Breiding et.al.|[2203.01694v1](http://arxiv.org/abs/2203.01694v1)|null|
+|**2022-03-03**|**Quantity over Quality: Training an AV Motion Planner with Large Scale Commodity Vision Data**|Lukas Platinsky et.al.|[2203.01681v1](http://arxiv.org/abs/2203.01681v1)|null|
+|**2022-03-03**|**Euclid preparation. XVIII. The NISP photometric system**|Euclid Collaboration et.al.|[2203.01650v1](http://arxiv.org/abs/2203.01650v1)|null|
+|**2022-03-03**|**Addressing the Shape-Radiance Ambiguity in View-Dependent Radiance Fields**|Sverker Rasmuson et.al.|[2203.01553v1](http://arxiv.org/abs/2203.01553v1)|null|
+|**2022-03-02**|**Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation**|Jiaming Zhang et.al.|[2203.01452v1](http://arxiv.org/abs/2203.01452v1)|[link](https://github.com/jamycheung/trans4pass)|
+|**2022-03-02**|**CAMERA: A Method for Cost-aware, Adaptive, Multifidelity, Efficient Reliability Analysis**|S. Ashwin Renganathan et.al.|[2203.01436v1](http://arxiv.org/abs/2203.01436v1)|null|
+|**2022-03-02**|**HST WFC3/Grism Observations of the Candidate Ultra-High-Redshift Radio Galaxy GLEAM J0917-0012**|N. Seymour et.al.|[2203.01349v1](http://arxiv.org/abs/2203.01349v1)|null|
 |**2022-03-02**|**Container Localisation and Mass Estimation with an RGB-D Camera**|Tommaso Apicella et.al.|[2203.01207v1](http://arxiv.org/abs/2203.01207v1)|[link](https://github.com/corsmal/visual)|
 |**2022-03-02**|**Omnidirectional MediA Format (OMAF): Toolbox for Virtual Reality Services**|Sachin Deshpande et.al.|[2203.01183v1](http://arxiv.org/abs/2203.01183v1)|null|
+|**2022-03-02**|**Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations**|Zhilu Zhang et.al.|[2203.01325v1](http://arxiv.org/abs/2203.01325v1)|null|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation**|Marvin Klingner et.al.|[2203.01074v1](http://arxiv.org/abs/2203.01074v1)|null|
 |**2022-03-02**|**OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2203.01072v1](http://arxiv.org/abs/2203.01072v1)|null|
@@ -16,19 +29,6 @@
 |**2022-03-01**|**Unified Physical Threat Monitoring System Aided by Virtual Building Simulation**|Zenjie Li et.al.|[2203.00789v1](http://arxiv.org/abs/2203.00789v1)|null|
 |**2022-03-01**|**Image analysis for automatic measurement of crustose lichens**|Pedro Guedes et.al.|[2203.00787v1](http://arxiv.org/abs/2203.00787v1)|null|
 |**2022-03-01**|**Knock, knock. Who's there? -- Identifying football player jersey numbers with synthetic data**|Divya Bhargavi et.al.|[2203.00734v1](http://arxiv.org/abs/2203.00734v1)|null|
+|**2022-03-01**|**Effect of Timing Error: A Case Study of Navigation Camera**|Sandeep S. Kulkarni et.al.|[2203.01412v1](http://arxiv.org/abs/2203.01412v1)|null|
 |**2022-03-01**|**Indoor Localization for Quadrotors using Invisible Projected Tags**|Jinjie Li et.al.|[2203.00356v1](http://arxiv.org/abs/2203.00356v1)|null|
 |**2022-03-01**|**Comprehensive Analysis of the Object Detection Pipeline on UAVs**|Leon Amadeus Varga et.al.|[2203.00306v1](http://arxiv.org/abs/2203.00306v1)|null|
-|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
-|**2022-03-01**|**Evaluation of Controllers and Development of a new in-house Controller for the Teledyne HxRG Focal Plane Array for the IRSIS satellite payload**|M. B. Naik et.al.|[2203.00202v1](http://arxiv.org/abs/2203.00202v1)|null|
-|**2022-02-28**|**The Right Spin: Learning Object Motion from Rotation-Compensated Flow Fields**|Pia Bideau et.al.|[2203.00115v1](http://arxiv.org/abs/2203.00115v1)|null|
-|**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza et.al.|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
-|**2022-02-28**|**Elliptical Slice Sampling for Probabilistic Verification of Stochastic Systems with Signal Temporal Logic Specifications**|Guy Scher et.al.|[2203.00078v1](http://arxiv.org/abs/2203.00078v1)|null|
-|**2022-02-28**|**Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond**|Yue Yao et.al.|[2202.14034v1](http://arxiv.org/abs/2202.14034v1)|null|
-|**2022-02-28**|**Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment**|Paritosh Parmar et.al.|[2202.14019v1](http://arxiv.org/abs/2202.14019v1)|null|
-|**2022-02-28**|**A Novel Viewport-Adaptive Motion Compensation Technique for Fisheye Video**|Andy Regensky et.al.|[2202.13892v1](http://arxiv.org/abs/2202.13892v1)|null|
-|**2022-02-28**|**Large-Scale 3D Semantic Reconstruction for Automated Driving Vehicles with Adaptive Truncated Signed Distance Function**|Haohao Hu et.al.|[2202.13855v1](http://arxiv.org/abs/2202.13855v1)|null|
-|**2022-02-28**|**TEScalib: Targetless Extrinsic Self-Calibration of LiDAR and Stereo Camera for Automated Driving Vehicles with Uncertainty Analysis**|Haohao Hu et.al.|[2202.13847v1](http://arxiv.org/abs/2202.13847v1)|null|
-|**2022-02-28**|**Joint Camera Intrinsic and LiDAR-Camera Extrinsic Calibration**|Guohang Yan et.al.|[2202.13708v1](http://arxiv.org/abs/2202.13708v1)|[link](https://github.com/opencalib/jointcalib)|
-|**2022-02-28**|**Collective photon emission patterns from two atoms in free space**|Stefan Richter et.al.|[2202.13678v1](http://arxiv.org/abs/2202.13678v1)|null|
-|**2022-02-28**|**Bina-Rep Event Frames: a Simple and Effective Representation for Event-based cameras**|Sami Barchid et.al.|[2202.13662v1](http://arxiv.org/abs/2202.13662v1)|null|
-|**2022-02-28**|**Aggressive Racecar Drifting Control Using Onboard Cameras and Inertial Measurement Unit**|Shuaibing Lin et.al.|[2202.13513v1](http://arxiv.org/abs/2202.13513v1)|null|

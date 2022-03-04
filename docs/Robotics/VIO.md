@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-03**|**An observer cascade for velocity and multiple line estimation**|André Mateus et.al.|[2203.01879v1](http://arxiv.org/abs/2203.01879v1)|null|
+|**2022-03-03**|**Electronic Density Response of Warm Dense Hydrogen: Ab initio Path Integral Monte Carlo Simulations**|Maximilian Böhme et.al.|[2203.01797v1](http://arxiv.org/abs/2203.01797v1)|null|
+|**2022-03-03**|**Symmetric mixed discontinuous Galerkin methods for linear viscoelasticity**|Salim Meddahi et.al.|[2203.01662v1](http://arxiv.org/abs/2203.01662v1)|null|
+|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|null|
+|**2022-03-03**|**Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth**|Zijie Jiang et.al.|[2203.01557v1](http://arxiv.org/abs/2203.01557v1)|null|
 |**2022-03-02**|**Dynamical analysis of logarithmic energy-momentum squared gravity**|Giovanni Acquaviva et.al.|[2203.01234v1](http://arxiv.org/abs/2203.01234v1)|null|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
@@ -27,8 +32,3 @@
 |**2022-02-24**|**Kinetic-scale current sheets in near-Sun solar wind: properties, scale-dependent features and reconnection onset**|A. Lotekar et.al.|[2202.12341v1](http://arxiv.org/abs/2202.12341v1)|null|
 |**2022-02-24**|**Situational Graphs for Robot Navigation in Structured Indoor Environments**|Hriday Bavle et.al.|[2202.12197v1](http://arxiv.org/abs/2202.12197v1)|null|
 |**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
-|**2022-02-23**|**Deep Bayesian ICP Covariance Estimation**|Andrea De Maio et.al.|[2202.11607v1](http://arxiv.org/abs/2202.11607v1)|null|
-|**2022-02-23**|**A Machian reformulation of Quantum Mechanics**|Kostas Glampedakis et.al.|[2202.11561v1](http://arxiv.org/abs/2202.11561v1)|null|
-|**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
-|**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
-|**2022-02-22**|**Inertial focusing of spherical particles in curved microfluidic ducts at moderate Dean numbers**|Brendan Harding et.al.|[2202.11209v1](http://arxiv.org/abs/2202.11209v1)|null|
