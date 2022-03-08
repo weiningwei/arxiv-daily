@@ -26,7 +26,7 @@
 |**2022-02-28**|**Aggressive Racecar Drifting Control Using Onboard Cameras and Inertial Measurement Unit**|Shuaibing Lin et.al.|[2202.13513v1](http://arxiv.org/abs/2202.13513v1)|null|
 |**2022-02-28**|**Globally Optimal Boresight Alignment of UAV-LiDAR Systems**|Smitha Gopinath et.al.|[2202.13501v1](http://arxiv.org/abs/2202.13501v1)|null|
 |**2022-02-27**|**Robust Self-Supervised LiDAR Odometry via Representative Structure Discovery and 3D Inherent Error Modeling**|Yan Xu et.al.|[2202.13353v1](http://arxiv.org/abs/2202.13353v1)|[link](https://github.com/samuelyale/rslo)|
-|**2022-02-25**|**TerraPN: Unstructured terrain navigation through Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v1](http://arxiv.org/abs/2202.12873v1)|null|
+|**2022-02-25**|**TerraPN: Unstructured terrain navigation using Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v2](http://arxiv.org/abs/2202.12873v2)|null|
 |**2022-02-25**|**Dynamics of reconfigurable straw-like elements**|Dotan Ilssar et.al.|[2202.12657v1](http://arxiv.org/abs/2202.12657v1)|null|
 |**2022-02-25**|**Predicting Impact-Induced Joint Velocity Jumps on Kinematic-Controlled Manipulator**|Yuquan Wang et.al.|[2202.12646v1](http://arxiv.org/abs/2202.12646v1)|null|
 |**2022-02-25**|**Residence time of inertial particles in 3D thermal convection: implications for magma reservoirs**|Vojtěch Patočka et.al.|[2202.12633v1](http://arxiv.org/abs/2202.12633v1)|null|

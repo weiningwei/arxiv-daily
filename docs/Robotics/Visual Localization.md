@@ -28,7 +28,7 @@
 |**2022-03-02**|**Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations**|Zhilu Zhang et.al.|[2203.01325v1](http://arxiv.org/abs/2203.01325v1)|null|
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation**|Marvin Klingner et.al.|[2203.01074v1](http://arxiv.org/abs/2203.01074v1)|null|
-|**2022-03-02**|**OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2203.01072v1](http://arxiv.org/abs/2203.01072v1)|null|
+|**2022-03-02**|**OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2203.01072v2](http://arxiv.org/abs/2203.01072v2)|null|
 |**2022-03-02**|**Unsupervised Anomaly Detection from Time-of-Flight Depth Images**|Pascal Schneider et.al.|[2203.01052v1](http://arxiv.org/abs/2203.01052v1)|null|
 |**2022-03-02**|**3D object reconstruction and 6D-pose estimation from 2D shape for robotic grasping of objects**|Marcell Wolnitza et.al.|[2203.01051v1](http://arxiv.org/abs/2203.01051v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
