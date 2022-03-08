@@ -2,6 +2,10 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
+|**2022-03-07**|**Continuous Self-Localization on Aerial Images Using Visual and Lidar Sensors**|Florian Fervers et.al.|[2203.03334v1](http://arxiv.org/abs/2203.03334v1)|null|
+|**2022-03-07**|**DIDO: Deep Inertial Quadrotor Dynamical Odometry**|Kunyi Zhang et.al.|[2203.03149v1](http://arxiv.org/abs/2203.03149v1)|null|
+|**2022-03-05**|**Tightly Coupled Optimization-based GPS-Visual-Inertial Odometry with Online Calibration and Initialization**|Shihao Han et.al.|[2203.02677v1](http://arxiv.org/abs/2203.02677v1)|null|
 |**2022-03-03**|**An observer cascade for velocity and multiple line estimation**|André Mateus et.al.|[2203.01879v1](http://arxiv.org/abs/2203.01879v1)|null|
 |**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|[link](https://github.com/robot-learning-freiburg/CL-SLAM)|
 |**2022-03-03**|**Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth**|Zijie Jiang et.al.|[2203.01557v1](http://arxiv.org/abs/2203.01557v1)|null|
@@ -28,7 +32,3 @@
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|[link](https://github.com/zhengxi-git/phase-slam)|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim et.al.|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|[link](https://github.com/aa-samad/srvio)|
-|**2022-01-13**|**Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration**|Jianzhu Huai et.al.|[2201.04989v1](http://arxiv.org/abs/2201.04989v1)|null|
-|**2022-01-12**|**Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions**|Thomas Wodtko et.al.|[2201.04473v1](http://arxiv.org/abs/2201.04473v1)|null|
-|**2022-01-11**|**DM-VIO: Delayed Marginalization Visual-Inertial Odometry**|Lukas von Stumberg et.al.|[2201.04114v1](http://arxiv.org/abs/2201.04114v1)|null|
-|**2022-01-07**|**Continuous-time Radar-inertial Odometry for Automotive Radars**|Yin Zhi Ng et.al.|[2201.02437v1](http://arxiv.org/abs/2201.02437v1)|null|

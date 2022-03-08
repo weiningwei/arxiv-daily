@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
+|**2022-03-07**|**Continuous Self-Localization on Aerial Images Using Visual and Lidar Sensors**|Florian Fervers et.al.|[2203.03334v1](http://arxiv.org/abs/2203.03334v1)|null|
+|**2022-03-07**|**DIDO: Deep Inertial Quadrotor Dynamical Odometry**|Kunyi Zhang et.al.|[2203.03149v1](http://arxiv.org/abs/2203.03149v1)|null|
+|**2022-03-06**|**Toward inertial sensing with a monochromatic $ 2^3 S $ positronium beam**|Sebastiano Mariazzi et.al.|[2203.02920v1](http://arxiv.org/abs/2203.02920v1)|null|
+|**2022-03-05**|**Tightly Coupled Optimization-based GPS-Visual-Inertial Odometry with Online Calibration and Initialization**|Shihao Han et.al.|[2203.02677v1](http://arxiv.org/abs/2203.02677v1)|null|
+|**2022-03-05**|**Vision-based Distributed Multi-UAV Collision Avoidance via Deep Reinforcement Learning for Navigation**|Huaxing Huang et.al.|[2203.02650v1](http://arxiv.org/abs/2203.02650v1)|null|
+|**2022-03-04**|**Electron acceleration from the interaction of three crossed parallel Alfvén waves**|Khalil Daiffallah et.al.|[2203.02575v1](http://arxiv.org/abs/2203.02575v1)|null|
+|**2022-03-04**|**Physics and data informed neural networks for two-dimensional turbulence**|Vijay Kag et.al.|[2203.02555v1](http://arxiv.org/abs/2203.02555v1)|null|
 |**2022-03-04**|**Accelerated Inertial Regime in the Spinodal Decomposition of Magnetic Fluids**|Anuj Kumar Singh et.al.|[2203.02329v1](http://arxiv.org/abs/2203.02329v1)|null|
 |**2022-03-04**|**Analysis of closed-loop inertial gradient dynamics**|Subhransu S. Bhattacharjee et.al.|[2203.02140v1](http://arxiv.org/abs/2203.02140v1)|null|
 |**2022-03-03**|**An observer cascade for velocity and multiple line estimation**|André Mateus et.al.|[2203.01879v1](http://arxiv.org/abs/2203.01879v1)|null|
@@ -24,11 +32,3 @@
 |**2022-02-28**|**A simple model for an internal wave spectrum dominated by non-linear interactions**|Hans van Haren et.al.|[2203.00475v1](http://arxiv.org/abs/2203.00475v1)|null|
 |**2022-02-28**|**A GNSS Aided Initial Alignment Method for MEMS-IMU Based on Backtracking Algorithm and Backward Filtering**|Xiaokang Yang et.al.|[2202.13700v1](http://arxiv.org/abs/2202.13700v1)|[link](https://github.com/georgenwpu/code_data_of_papers/tree/master/A%20GNSS%20Aided%20Initial%20Alignment%20Method%20for%20MEMS-IMU%20Based%20on%20Backtracking%20Algorithm%20and%20Backward%20Filtering)|
 |**2022-02-28**|**Aggressive Racecar Drifting Control Using Onboard Cameras and Inertial Measurement Unit**|Shuaibing Lin et.al.|[2202.13513v1](http://arxiv.org/abs/2202.13513v1)|null|
-|**2022-02-28**|**Globally Optimal Boresight Alignment of UAV-LiDAR Systems**|Smitha Gopinath et.al.|[2202.13501v1](http://arxiv.org/abs/2202.13501v1)|null|
-|**2022-02-27**|**Robust Self-Supervised LiDAR Odometry via Representative Structure Discovery and 3D Inherent Error Modeling**|Yan Xu et.al.|[2202.13353v1](http://arxiv.org/abs/2202.13353v1)|[link](https://github.com/samuelyale/rslo)|
-|**2022-02-25**|**TerraPN: Unstructured terrain navigation using Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v2](http://arxiv.org/abs/2202.12873v2)|null|
-|**2022-02-25**|**Dynamics of reconfigurable straw-like elements**|Dotan Ilssar et.al.|[2202.12657v1](http://arxiv.org/abs/2202.12657v1)|null|
-|**2022-02-25**|**Predicting Impact-Induced Joint Velocity Jumps on Kinematic-Controlled Manipulator**|Yuquan Wang et.al.|[2202.12646v1](http://arxiv.org/abs/2202.12646v1)|null|
-|**2022-02-25**|**Residence time of inertial particles in 3D thermal convection: implications for magma reservoirs**|Vojtěch Patočka et.al.|[2202.12633v1](http://arxiv.org/abs/2202.12633v1)|null|
-|**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|[link](https://github.com/flysoaryun/lf-vio)|
-|**2022-02-24**|**Kinetic-scale current sheets in near-Sun solar wind: properties, scale-dependent features and reconnection onset**|A. Lotekar et.al.|[2202.12341v1](http://arxiv.org/abs/2202.12341v1)|null|

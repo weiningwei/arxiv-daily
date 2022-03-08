@@ -2,6 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
+|**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|[link](https://github.com/haomo-ai/OverlapTransformer)|
+|**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba et.al.|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
+|**2022-03-06**|**RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects**|Ran Long et.al.|[2203.02882v1](http://arxiv.org/abs/2203.02882v1)|null|
 |**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|[link](https://github.com/ramdrop/stun)|
 |**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|[link](https://github.com/robot-learning-freiburg/CL-SLAM)|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|[link](https://github.com/hku-mars/fast-livo)|
@@ -15,6 +19,7 @@
 |**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
 |**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
 |**2022-02-23**|**Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**|Islam Ali et.al.|[2202.11312v1](http://arxiv.org/abs/2202.11312v1)|null|
+|**2022-02-19**|**Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**|Yang Xu et.al.|[2202.09631v2](http://arxiv.org/abs/2202.09631v2)|null|
 |**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu et.al.|[2202.09487v2](http://arxiv.org/abs/2202.09487v2)|[link](https://github.com/lppllppl920/sage-slam)|
 |**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger et.al.|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|[link](https://github.com/ahmedest61/multires-netvlad)|
@@ -27,8 +32,3 @@
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi et.al.|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**|Xinggang Hu et.al.|[2202.01938v2](http://arxiv.org/abs/2202.01938v2)|null|
-|**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
-|**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu et.al.|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
-|**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
-|**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi et.al.|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
-|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|[link](https://github.com/amazon-research/multimodal-neuralslam)|
