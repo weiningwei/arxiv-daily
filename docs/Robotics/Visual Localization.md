@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-03-07**|**Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**|Meng Tian et.al.|[2203.03498v1](http://arxiv.org/abs/2203.03498v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
-|**2022-03-07**|**Adversarial Texture for Fooling Person Detectors in the Physical World**|Zhanhao Hu et.al.|[2203.03373v1](http://arxiv.org/abs/2203.03373v1)|null|
+|**2022-03-07**|**Adversarial Texture for Fooling Person Detectors in the Physical World**|Zhanhao Hu et.al.|[2203.03373v2](http://arxiv.org/abs/2203.03373v2)|null|
 |**2022-03-07**|**Continuous Self-Localization on Aerial Images Using Visual and Lidar Sensors**|Florian Fervers et.al.|[2203.03334v1](http://arxiv.org/abs/2203.03334v1)|null|
 |**2022-03-07**|**Least Square Estimation Network for Depth Completion**|Xianze Fang et.al.|[2203.03317v1](http://arxiv.org/abs/2203.03317v1)|null|
 |**2022-03-07**|**Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer**|Shengshan Hu et.al.|[2203.03121v1](http://arxiv.org/abs/2203.03121v1)|null|
