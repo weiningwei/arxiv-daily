@@ -5,7 +5,7 @@
 |**2022-03-08**|**Tidal dissipation due to inertial waves can explain the circularization periods of solar-type binaries**|Adrian J. Barker et.al.|[2203.03950v1](http://arxiv.org/abs/2203.03950v1)|null|
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-08**|**ROLL: Long-Term Robust LiDAR-based Localization With Temporary Mapping in Changing Environments**|Bin Peng et.al.|[2203.03923v1](http://arxiv.org/abs/2203.03923v1)|null|
-|**2022-03-08**|**Multi-axis Accelerometry and Rotation Sensing using a Point Source Atom Interferometer**|Jinyang Li et.al.|[2203.03896v1](http://arxiv.org/abs/2203.03896v1)|null|
+|**2022-03-08**|**Multi-axis Accelerometry and Rotation Sensing using a Point Source Atom Interferometer**|Jinyang Li et.al.|[2203.03896v2](http://arxiv.org/abs/2203.03896v2)|null|
 |**2022-03-08**|**Scale Separated Approaches to the Interaction of Oceanic Internal Waves, part I: Theory**|Yuri V Lvov et.al.|[2203.03784v1](http://arxiv.org/abs/2203.03784v1)|null|
 |**2022-03-07**|**Direct LiDAR-Inertial Odometry**|Kenny Chen et.al.|[2203.03749v1](http://arxiv.org/abs/2203.03749v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
