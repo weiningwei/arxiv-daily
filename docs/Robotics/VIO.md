@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
+|**2022-03-09**|**Explosive instability of dust settling in a protoplanetary disc**|V. V. Zhuravlev et.al.|[2203.04792v1](http://arxiv.org/abs/2203.04792v1)|null|
+|**2022-03-09**|**Permeability and turbulence over perforated plates**|Haris Shahzad et.al.|[2203.04753v1](http://arxiv.org/abs/2203.04753v1)|null|
+|**2022-03-08**|**Theory of solar oscillations in the inertial frequency range: Linear modes of the convection zone**|Yuto Bekki et.al.|[2203.04442v1](http://arxiv.org/abs/2203.04442v1)|null|
+|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|null|
 |**2022-03-08**|**Tidal dissipation due to inertial waves can explain the circularization periods of solar-type binaries**|Adrian J. Barker et.al.|[2203.03950v1](http://arxiv.org/abs/2203.03950v1)|null|
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-08**|**ROLL: Long-Term Robust LiDAR-based Localization With Temporary Mapping in Changing Environments**|Bin Peng et.al.|[2203.03923v1](http://arxiv.org/abs/2203.03923v1)|null|
@@ -27,8 +32,3 @@
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|[link](https://github.com/hku-mars/fast-livo)|
-|**2022-03-02**|**Fast Object Inertial Parameter Identification for Collaborative Robots**|Philippe Nadeau et.al.|[2203.00830v1](http://arxiv.org/abs/2203.00830v1)|[link](https://github.com/utiasSTARS/pyb-sim-models/tree/main/pbsm/models/CompositeTestObject)|
-|**2022-03-01**|**Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry**|Robert Weston et.al.|[2203.00459v1](http://arxiv.org/abs/2203.00459v1)|null|
-|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
-|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
-|**2022-02-28**|**Carrier-phase and IMU based GNSS Spoofing Detection for Ground Vehicles**|Zachary Clements et.al.|[2203.00140v1](http://arxiv.org/abs/2203.00140v1)|null|
