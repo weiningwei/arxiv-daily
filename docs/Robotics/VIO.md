@@ -22,7 +22,7 @@
 |**2022-03-04**|**Electron acceleration from the interaction of three crossed parallel Alfvén waves**|Khalil Daiffallah et.al.|[2203.02575v1](http://arxiv.org/abs/2203.02575v1)|null|
 |**2022-03-04**|**Physics and data informed neural networks for two-dimensional turbulence**|Vijay Kag et.al.|[2203.02555v1](http://arxiv.org/abs/2203.02555v1)|null|
 |**2022-03-04**|**Accelerated Inertial Regime in the Spinodal Decomposition of Magnetic Fluids**|Anuj Kumar Singh et.al.|[2203.02329v1](http://arxiv.org/abs/2203.02329v1)|null|
-|**2022-03-04**|**Analysis of closed-loop inertial gradient dynamics**|Subhransu S. Bhattacharjee et.al.|[2203.02140v1](http://arxiv.org/abs/2203.02140v1)|null|
+|**2022-03-04**|**Analysis of closed-loop inertial gradient dynamics**|Subhransu S. Bhattacharjee et.al.|[2203.02140v2](http://arxiv.org/abs/2203.02140v2)|null|
 |**2022-03-03**|**An observer cascade for velocity and multiple line estimation**|André Mateus et.al.|[2203.01879v1](http://arxiv.org/abs/2203.01879v1)|null|
 |**2022-03-03**|**Electronic Density Response of Warm Dense Hydrogen: Ab initio Path Integral Monte Carlo Simulations**|Maximilian Böhme et.al.|[2203.01797v1](http://arxiv.org/abs/2203.01797v1)|null|
 |**2022-03-03**|**Symmetric mixed discontinuous Galerkin methods for linear viscoelasticity**|Salim Meddahi et.al.|[2203.01662v1](http://arxiv.org/abs/2203.01662v1)|null|
