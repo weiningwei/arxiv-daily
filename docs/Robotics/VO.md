@@ -2,6 +2,10 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
+|**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
+|**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
+|**2022-03-11**|**Learning-based Localizability Estimation for Robust LiDAR Localization**|Julian Nubert et.al.|[2203.05698v1](http://arxiv.org/abs/2203.05698v1)|[link](https://github.com/leggedrobotics/lidar_loc)|
 |**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
 |**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|[link](https://github.com/520xyxyzq/slam-super-6d)|
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
@@ -28,7 +32,3 @@
 |**2022-02-23**|**Deep Bayesian ICP Covariance Estimation**|Andrea De Maio et.al.|[2202.11607v1](http://arxiv.org/abs/2202.11607v1)|null|
 |**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
 |**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
-|**2022-02-22**|**Robust and Online LiDAR-inertial Initialization**|Fangcheng Zhu et.al.|[2202.11006v3](http://arxiv.org/abs/2202.11006v3)|[link](https://github.com/hku-mars/LiDAR_IMU_Init)|
-|**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang et.al.|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|
-|**2022-02-05**|**DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**|Yi-Fan Zuo et.al.|[2202.02556v1](http://arxiv.org/abs/2202.02556v1)|null|
-|**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|

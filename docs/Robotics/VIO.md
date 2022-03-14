@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
+|**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
+|**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
+|**2022-03-11**|**Learning-based Localizability Estimation for Robust LiDAR Localization**|Julian Nubert et.al.|[2203.05698v1](http://arxiv.org/abs/2203.05698v1)|[link](https://github.com/leggedrobotics/lidar_loc)|
+|**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
 |**2022-03-10**|**Accelerated gradient methods combining Tikhonov regularization with geometric damping driven by the Hessian**|Hedy Attouch et.al.|[2203.05457v1](http://arxiv.org/abs/2203.05457v1)|null|
 |**2022-03-10**|**The Forces outside the static limit in the rotating frame**|Andrei Grib et.al.|[2203.05263v1](http://arxiv.org/abs/2203.05263v1)|null|
 |**2022-03-10**|**Non-inertial torques and the Euler equation**|Amir H. Fariborz et.al.|[2203.05150v1](http://arxiv.org/abs/2203.05150v1)|null|
@@ -27,8 +32,3 @@
 |**2022-03-04**|**Physics and data informed neural networks for two-dimensional turbulence**|Vijay Kag et.al.|[2203.02555v1](http://arxiv.org/abs/2203.02555v1)|null|
 |**2022-03-04**|**Accelerated Inertial Regime in the Spinodal Decomposition of Magnetic Fluids**|Anuj Kumar Singh et.al.|[2203.02329v1](http://arxiv.org/abs/2203.02329v1)|null|
 |**2022-03-04**|**Analysis of closed-loop inertial gradient dynamics**|Subhransu S. Bhattacharjee et.al.|[2203.02140v2](http://arxiv.org/abs/2203.02140v2)|null|
-|**2022-03-03**|**An observer cascade for velocity and multiple line estimation**|André Mateus et.al.|[2203.01879v1](http://arxiv.org/abs/2203.01879v1)|null|
-|**2022-03-03**|**Electronic Density Response of Warm Dense Hydrogen: Ab initio Path Integral Monte Carlo Simulations**|Maximilian Böhme et.al.|[2203.01797v1](http://arxiv.org/abs/2203.01797v1)|null|
-|**2022-03-03**|**Symmetric mixed discontinuous Galerkin methods for linear viscoelasticity**|Salim Meddahi et.al.|[2203.01662v1](http://arxiv.org/abs/2203.01662v1)|null|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|[link](https://github.com/robot-learning-freiburg/CL-SLAM)|
-|**2022-03-03**|**Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth**|Zijie Jiang et.al.|[2203.01557v1](http://arxiv.org/abs/2203.01557v1)|null|
