@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama et.al.|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
 |**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
 |**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi et.al.|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
@@ -31,4 +32,3 @@
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|[link](https://github.com/ahmedest61/multires-netvlad)|
 |**2022-02-18**|**An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems**|Qiang Liu et.al.|[2202.08952v1](http://arxiv.org/abs/2202.08952v1)|null|
 |**2022-02-17**|**Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study**|Giovanni Cioffi et.al.|[2202.08894v1](http://arxiv.org/abs/2202.08894v1)|[link](https://github.com/uzh-rpg/rpg_vision-based_slam)|
-|**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang et.al.|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|

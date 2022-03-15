@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-14**|**Estimation of the trajectory and attitude of railway vehicles using inertial sensors with application to track geometry measurement**|J. González-Carbajal et.al.|[2203.07278v1](http://arxiv.org/abs/2203.07278v1)|null|
+|**2022-03-14**|**Refined Astrometry on Board a CubeSat**|Boris Segret et.al.|[2203.07254v1](http://arxiv.org/abs/2203.07254v1)|null|
+|**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
+|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
+|**2022-03-14**|**Active control of particle position by boundary slip in inertial microfluidics**|Chengliang Xuan et.al.|[2203.07008v1](http://arxiv.org/abs/2203.07008v1)|null|
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
 |**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
 |**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
@@ -27,8 +32,3 @@
 |**2022-03-07**|**DIDO: Deep Inertial Quadrotor Dynamical Odometry**|Kunyi Zhang et.al.|[2203.03149v1](http://arxiv.org/abs/2203.03149v1)|null|
 |**2022-03-06**|**Toward inertial sensing with a monochromatic $ 2^3 S $ positronium beam**|Sebastiano Mariazzi et.al.|[2203.02920v1](http://arxiv.org/abs/2203.02920v1)|null|
 |**2022-03-05**|**Tightly Coupled Optimization-based GPS-Visual-Inertial Odometry with Online Calibration and Initialization**|Shihao Han et.al.|[2203.02677v1](http://arxiv.org/abs/2203.02677v1)|null|
-|**2022-03-05**|**Vision-based Distributed Multi-UAV Collision Avoidance via Deep Reinforcement Learning for Navigation**|Huaxing Huang et.al.|[2203.02650v1](http://arxiv.org/abs/2203.02650v1)|null|
-|**2022-03-04**|**Electron acceleration from the interaction of three crossed parallel Alfvén waves**|Khalil Daiffallah et.al.|[2203.02575v1](http://arxiv.org/abs/2203.02575v1)|null|
-|**2022-03-04**|**Physics and data informed neural networks for two-dimensional turbulence**|Vijay Kag et.al.|[2203.02555v1](http://arxiv.org/abs/2203.02555v1)|null|
-|**2022-03-04**|**Accelerated Inertial Regime in the Spinodal Decomposition of Magnetic Fluids**|Anuj Kumar Singh et.al.|[2203.02329v1](http://arxiv.org/abs/2203.02329v1)|null|
-|**2022-03-04**|**Analysis of closed-loop inertial gradient dynamics**|Subhransu S. Bhattacharjee et.al.|[2203.02140v2](http://arxiv.org/abs/2203.02140v2)|null|
