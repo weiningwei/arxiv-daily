@@ -8,12 +8,12 @@
 |**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
 |**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
 |**2022-03-14**|**TSR-DSAW: Table Structure Recognition via Deep Spatial Association of Words**|Arushi Jain et.al.|[2203.06873v1](http://arxiv.org/abs/2203.06873v1)|null|
-|**2022-03-13**|**Cross-grating phase microscopy (CGM): In-silico experiments, noise and accuracy**|Baptiste Marthy et.al.|[2203.06719v1](http://arxiv.org/abs/2203.06719v1)|null|
+|**2022-03-13**|**Cross-grating phase microscopy (CGM): In-silico experiments, noise and accuracy**|Baptiste Marthy et.al.|[2203.06719v2](http://arxiv.org/abs/2203.06719v2)|null|
 |**2022-03-13**|**Continual Prompt Tuning for Dialog State Tracking**|Qi Zhu et.al.|[2203.06654v1](http://arxiv.org/abs/2203.06654v1)|[link](https://github.com/thu-coai/cpt4dst)|
 |**2022-03-13**|**Multi-Bracket High Dynamic Range Imaging with Event Cameras**|Nico Messikommer et.al.|[2203.06622v1](http://arxiv.org/abs/2203.06622v1)|null|
 |**2022-03-13**|**Calibration and performance of the readout system based on switched capacitor arrays for the Large-Sized Telescope of the Cherenkov Telescope Array**|Seiya Nozaki et.al.|[2203.06582v1](http://arxiv.org/abs/2203.06582v1)|null|
 |**2022-03-12**|**GATSBI: Generative Adversarial Training for Simulation-Based Inference**|Poornima Ramesh et.al.|[2203.06481v1](http://arxiv.org/abs/2203.06481v1)|[link](https://github.com/mackelab/gatsbi)|
-|**2022-03-12**|**Bringing Rolling Shutter Images Alive with Dual Reversed Distortion**|Zhihang Zhong et.al.|[2203.06451v1](http://arxiv.org/abs/2203.06451v1)|null|
+|**2022-03-12**|**Bringing Rolling Shutter Images Alive with Dual Reversed Distortion**|Zhihang Zhong et.al.|[2203.06451v2](http://arxiv.org/abs/2203.06451v2)|null|
 |**2022-03-11**|**Multi-sensor large-scale dataset for multi-view 3D reconstruction**|Oleg Voynov et.al.|[2203.06111v1](http://arxiv.org/abs/2203.06111v1)|null|
 |**2022-03-11**|**Inter-Calibration of Atmospheric Cherenkov Telescopes with UAV-based Airborne Calibration System**|A. M. Brown et.al.|[2203.05839v1](http://arxiv.org/abs/2203.05839v1)|null|
 |**2022-03-11**|**Long Time No See! Open-Domain Conversation with Long-Term Persona Memory**|Xinchao Xu et.al.|[2203.05797v2](http://arxiv.org/abs/2203.05797v2)|[link](https://github.com/PaddlePaddle/Research)|
