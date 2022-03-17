@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|null|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
 |**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
 |**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
@@ -31,4 +32,3 @@
 |**2022-02-25**|**TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v3](http://arxiv.org/abs/2202.12873v3)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|[link](https://github.com/flysoaryun/lf-vio)|
 |**2022-02-24**|**Situational Graphs for Robot Navigation in Structured Indoor Environments**|Hriday Bavle et.al.|[2202.12197v1](http://arxiv.org/abs/2202.12197v1)|null|
-|**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|

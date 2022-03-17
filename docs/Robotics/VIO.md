@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v1](http://arxiv.org/abs/2203.08528v1)|null|
+|**2022-03-16**|**GOMP-ST: Grasp Optimized Motion Planning for Suction Transport**|Yahav Avigal et.al.|[2203.08359v1](http://arxiv.org/abs/2203.08359v1)|null|
+|**2022-03-15**|**Role of self-generated magnetic fields in the inertial fusion ignition threshold**|James D. Sadler et.al.|[2203.08258v1](http://arxiv.org/abs/2203.08258v1)|null|
+|**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|null|
 |**2022-03-15**|**On Galois inertial types of elliptic curves over $\mathbb{Q}_\ell$**|Lassina Dembélé et.al.|[2203.07787v1](http://arxiv.org/abs/2203.07787v1)|null|
 |**2022-03-15**|**Thermodynamic engine powered by anisotropic fluctuations**|Olga Movilla Miangolarra et.al.|[2203.07573v1](http://arxiv.org/abs/2203.07573v1)|null|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
@@ -28,7 +32,3 @@
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-08**|**ROLL: Long-Term Robust LiDAR-based Localization With Temporary Mapping in Changing Environments**|Bin Peng et.al.|[2203.03923v1](http://arxiv.org/abs/2203.03923v1)|null|
 |**2022-03-08**|**Multi-axis Accelerometry and Rotation Sensing using a Point Source Atom Interferometer**|Jinyang Li et.al.|[2203.03896v2](http://arxiv.org/abs/2203.03896v2)|null|
-|**2022-03-08**|**Scale Separated Approaches to the Interaction of Oceanic Internal Waves, part I: Theory**|Yuri V Lvov et.al.|[2203.03784v1](http://arxiv.org/abs/2203.03784v1)|null|
-|**2022-03-07**|**Direct LiDAR-Inertial Odometry**|Kenny Chen et.al.|[2203.03749v1](http://arxiv.org/abs/2203.03749v1)|null|
-|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|[link](https://github.com/tiers/tiers-lidars-dataset)|
-|**2022-03-07**|**Continuous Self-Localization on Aerial Images Using Visual and Lidar Sensors**|Florian Fervers et.al.|[2203.03334v1](http://arxiv.org/abs/2203.03334v1)|null|

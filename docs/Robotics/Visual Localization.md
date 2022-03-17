@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-16**|**CLUE-AI: A Convolutional Three-stream Anomaly Identification Framework for Robot Manipulation**|Dogan Altan et.al.|[2203.08746v1](http://arxiv.org/abs/2203.08746v1)|null|
+|**2022-03-16**|**Know your sensORs $\unicode{x2013}$ A Modality Study For Surgical Action Classification**|Lennart Bastian et.al.|[2203.08674v1](http://arxiv.org/abs/2203.08674v1)|null|
+|**2022-03-16**|**Coverage Optimization of Camera Network for Continuous Deformable Object**|Chang Li et.al.|[2203.08632v1](http://arxiv.org/abs/2203.08632v1)|null|
+|**2022-03-16**|**Biomimetic Evaluation of an Underwater Soft Hand Through Deep Learning-based 3D Pose Reconstruction**|Haihang Wang et.al.|[2203.08550v1](http://arxiv.org/abs/2203.08550v1)|null|
+|**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v1](http://arxiv.org/abs/2203.08528v1)|null|
+|**2022-03-16**|**ConTinTin: Continual Learning from Task Instructions**|Wenpeng Yin et.al.|[2203.08512v1](http://arxiv.org/abs/2203.08512v1)|null|
+|**2022-03-16**|**Domain Adaptive Hand Keypoint and Pixel Localization in the Wild**|Takehiko Ohkawa et.al.|[2203.08344v1](http://arxiv.org/abs/2203.08344v1)|null|
+|**2022-03-16**|**Motif Mining: Finding and Summarizing Remixed Image Content**|William Theisen et.al.|[2203.08327v1](http://arxiv.org/abs/2203.08327v1)|null|
+|**2022-03-15**|**DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection**|Yingwei Li et.al.|[2203.08195v1](http://arxiv.org/abs/2203.08195v1)|null|
+|**2022-03-15**|**Design and Performance of the Prototype Schwarzschild-Couder Telescope Camera**|Colin B. Adams et.al.|[2203.08169v1](http://arxiv.org/abs/2203.08169v1)|null|
 |**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
 |**2022-03-15**|**Deep learning for radar data exploitation of autonomous vehicle**|Arthur Ouaknine et.al.|[2203.08038v1](http://arxiv.org/abs/2203.08038v1)|[link](https://github.com/valeoai/MVRSS)|
 |**2022-03-15**|**MOBDrone: a Drone Video Dataset for Man OverBoard Rescue**|Donato Cafarelli et.al.|[2203.07973v1](http://arxiv.org/abs/2203.07973v1)|null|
@@ -22,13 +32,3 @@
 |**2022-03-14**|**Unsupervised Learning Based Focal Stack Camera Depth Estimation**|Zhengyu Huang et.al.|[2203.07904v1](http://arxiv.org/abs/2203.07904v1)|null|
 |**2022-03-13**|**Cross-grating phase microscopy (CGM): In-silico experiments, noise and accuracy**|Baptiste Marthy et.al.|[2203.06719v2](http://arxiv.org/abs/2203.06719v2)|null|
 |**2022-03-13**|**Continual Prompt Tuning for Dialog State Tracking**|Qi Zhu et.al.|[2203.06654v1](http://arxiv.org/abs/2203.06654v1)|[link](https://github.com/thu-coai/cpt4dst)|
-|**2022-03-13**|**Multi-Bracket High Dynamic Range Imaging with Event Cameras**|Nico Messikommer et.al.|[2203.06622v1](http://arxiv.org/abs/2203.06622v1)|null|
-|**2022-03-13**|**Calibration and performance of the readout system based on switched capacitor arrays for the Large-Sized Telescope of the Cherenkov Telescope Array**|Seiya Nozaki et.al.|[2203.06582v1](http://arxiv.org/abs/2203.06582v1)|null|
-|**2022-03-12**|**GATSBI: Generative Adversarial Training for Simulation-Based Inference**|Poornima Ramesh et.al.|[2203.06481v1](http://arxiv.org/abs/2203.06481v1)|[link](https://github.com/mackelab/gatsbi)|
-|**2022-03-12**|**Bringing Rolling Shutter Images Alive with Dual Reversed Distortion**|Zhihang Zhong et.al.|[2203.06451v2](http://arxiv.org/abs/2203.06451v2)|null|
-|**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v2](http://arxiv.org/abs/2203.06172v2)|[link](https://github.com/msu-mlsys-lab/deepaa)|
-|**2022-03-11**|**Multi-sensor large-scale dataset for multi-view 3D reconstruction**|Oleg Voynov et.al.|[2203.06111v1](http://arxiv.org/abs/2203.06111v1)|null|
-|**2022-03-11**|**Inter-Calibration of Atmospheric Cherenkov Telescopes with UAV-based Airborne Calibration System**|A. M. Brown et.al.|[2203.05839v1](http://arxiv.org/abs/2203.05839v1)|null|
-|**2022-03-11**|**Long Time No See! Open-Domain Conversation with Long-Term Persona Memory**|Xinchao Xu et.al.|[2203.05797v2](http://arxiv.org/abs/2203.05797v2)|[link](https://github.com/PaddlePaddle/Research)|
-|**2022-03-11**|**Physics-informed Reinforcement Learning for Perception and Reasoning about Fluids**|Beatriz Moya et.al.|[2203.05775v1](http://arxiv.org/abs/2203.05775v1)|[link](https://github.com/beatrizmoya/rlfluidperception)|
-|**2022-03-11**|**Federated Remote Physiological Measurement with Imperfect Data**|Xin Liu et.al.|[2203.05759v1](http://arxiv.org/abs/2203.05759v1)|null|
