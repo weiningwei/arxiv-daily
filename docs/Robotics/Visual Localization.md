@@ -9,7 +9,7 @@
 |**2022-03-15**|**LiP-Flow: Learning Inference-time Priors for Codec Avatars via Normalizing Flows in Latent Space**|Emre Aksan et.al.|[2203.07881v1](http://arxiv.org/abs/2203.07881v1)|null|
 |**2022-03-15**|**SISL:Self-Supervised Image Signature Learning for Splicing Detection and Localization**|Susmit Agrawal et.al.|[2203.07824v1](http://arxiv.org/abs/2203.07824v1)|null|
 |**2022-03-15**|**Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization**|Yabin Zhang et.al.|[2203.07740v1](http://arxiv.org/abs/2203.07740v1)|[link](https://github.com/ybzh/efdm)|
-|**2022-03-15**|**Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation**|Zitian Wang et.al.|[2203.07697v1](http://arxiv.org/abs/2203.07697v1)|null|
+|**2022-03-15**|**Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation**|Zitian Wang et.al.|[2203.07697v2](http://arxiv.org/abs/2203.07697v2)|null|
 |**2022-03-15**|**Testing a Drop of Liquid Using Smartphone LiDAR**|Justin Chan et.al.|[2203.07567v1](http://arxiv.org/abs/2203.07567v1)|null|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
 |**2022-03-14**|**Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information**|Fanchao Qi et.al.|[2203.07426v1](http://arxiv.org/abs/2203.07426v1)|[link](https://github.com/thunlp/msgi)|
