@@ -9,7 +9,7 @@
 |**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
 |**2022-03-16**|**ConTinTin: Continual Learning from Task Instructions**|Wenpeng Yin et.al.|[2203.08512v1](http://arxiv.org/abs/2203.08512v1)|null|
 |**2022-03-16**|**Domain Adaptive Hand Keypoint and Pixel Localization in the Wild**|Takehiko Ohkawa et.al.|[2203.08344v1](http://arxiv.org/abs/2203.08344v1)|null|
-|**2022-03-16**|**Motif Mining: Finding and Summarizing Remixed Image Content**|William Theisen et.al.|[2203.08327v1](http://arxiv.org/abs/2203.08327v1)|null|
+|**2022-03-16**|**Motif Mining: Finding and Summarizing Remixed Image Content**|William Theisen et.al.|[2203.08327v2](http://arxiv.org/abs/2203.08327v2)|null|
 |**2022-03-15**|**DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection**|Yingwei Li et.al.|[2203.08195v1](http://arxiv.org/abs/2203.08195v1)|[link](https://github.com/tensorflow/lingvo)|
 |**2022-03-15**|**Design and Performance of the Prototype Schwarzschild-Couder Telescope Camera**|Colin B. Adams et.al.|[2203.08169v1](http://arxiv.org/abs/2203.08169v1)|null|
 |**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
@@ -23,7 +23,7 @@
 |**2022-03-15**|**Testing a Drop of Liquid Using Smartphone LiDAR**|Justin Chan et.al.|[2203.07567v1](http://arxiv.org/abs/2203.07567v1)|null|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
 |**2022-03-14**|**Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information**|Fanchao Qi et.al.|[2203.07426v1](http://arxiv.org/abs/2203.07426v1)|[link](https://github.com/thunlp/msgi)|
-|**2022-03-14**|**Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data**|Shuyan Zhou et.al.|[2203.07264v1](http://arxiv.org/abs/2203.07264v1)|[link](https://github.com/shuyanzhou/wikihow_hierarchy)|
+|**2022-03-14**|**Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data**|Shuyan Zhou et.al.|[2203.07264v2](http://arxiv.org/abs/2203.07264v2)|[link](https://github.com/shuyanzhou/wikihow_hierarchy)|
 |**2022-03-14**|**FisheyeHDK: Hyperbolic Deformable Kernel Learning for Ultra-Wide Field-of-View Image Recognition**|Ola Ahmad et.al.|[2203.07255v1](http://arxiv.org/abs/2203.07255v1)|null|
 |**2022-03-14**|**Analytical Approach to Intensity Calculation in Scintillation Detectors**|Vovchenko Ivan et.al.|[2203.07247v1](http://arxiv.org/abs/2203.07247v1)|null|
 |**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
