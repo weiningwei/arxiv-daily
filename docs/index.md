@@ -1,51 +1,17 @@
 # arxiv-daily
- Automated deployment @ 2022-03-18 21:04:52 Asia/Shanghai
+ Automated deployment @ 2022-03-19 08:28:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|
-|**2022-03-17**|**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**|Han Liang et.al.|[2203.09287v1](http://arxiv.org/abs/2203.09287v1)|null|
-|**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
-|**2022-03-16**|**GOMP-ST: Grasp Optimized Motion Planning for Suction Transport**|Yahav Avigal et.al.|[2203.08359v1](http://arxiv.org/abs/2203.08359v1)|null|
-|**2022-03-15**|**Role of self-generated magnetic fields in the inertial fusion ignition threshold**|James D. Sadler et.al.|[2203.08258v1](http://arxiv.org/abs/2203.08258v1)|null|
-|**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
-|**2022-03-15**|**On Galois inertial types of elliptic curves over $\mathbb{Q}_\ell$**|Lassina Dembélé et.al.|[2203.07787v1](http://arxiv.org/abs/2203.07787v1)|null|
-|**2022-03-15**|**Thermodynamic engine powered by anisotropic fluctuations**|Olga Movilla Miangolarra et.al.|[2203.07573v1](http://arxiv.org/abs/2203.07573v1)|null|
-|**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
-|**2022-03-14**|**Estimation of the trajectory and attitude of railway vehicles using inertial sensors with application to track geometry measurement**|J. González-Carbajal et.al.|[2203.07278v1](http://arxiv.org/abs/2203.07278v1)|null|
-|**2022-03-14**|**Refined Astrometry on Board a CubeSat**|Boris Segret et.al.|[2203.07254v1](http://arxiv.org/abs/2203.07254v1)|null|
-|**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
-|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
-|**2022-03-14**|**Active control of particle position by boundary slip in inertial microfluidics**|Chengliang Xuan et.al.|[2203.07008v1](http://arxiv.org/abs/2203.07008v1)|null|
-|**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
-|**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
-|**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
-|**2022-03-11**|**Learning-based Localizability Estimation for Robust LiDAR Localization**|Julian Nubert et.al.|[2203.05698v1](http://arxiv.org/abs/2203.05698v1)|[link](https://github.com/leggedrobotics/lidar_loc)|
-|**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
-|**2022-03-10**|**Accelerated gradient methods combining Tikhonov regularization with geometric damping driven by the Hessian**|Hedy Attouch et.al.|[2203.05457v1](http://arxiv.org/abs/2203.05457v1)|null|
-|**2022-03-10**|**The Forces outside the static limit in the rotating frame**|Andrei Grib et.al.|[2203.05263v1](http://arxiv.org/abs/2203.05263v1)|null|
-|**2022-03-10**|**Non-inertial torques and the Euler equation**|Amir H. Fariborz et.al.|[2203.05150v1](http://arxiv.org/abs/2203.05150v1)|null|
-|**2022-03-10**|**Mathematical modelling of transport phenomena in compressible multicomponent flows**|Chao Zhang et.al.|[2203.05094v1](http://arxiv.org/abs/2203.05094v1)|null|
-|**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
-|**2022-03-09**|**Explosive instability of dust settling in a protoplanetary disc**|V. V. Zhuravlev et.al.|[2203.04792v1](http://arxiv.org/abs/2203.04792v1)|null|
-|**2022-03-09**|**Permeability and turbulence over perforated plates**|Haris Shahzad et.al.|[2203.04753v1](http://arxiv.org/abs/2203.04753v1)|null|
-|**2022-03-08**|**Theory of solar oscillations in the inertial frequency range: Linear modes of the convection zone**|Yuto Bekki et.al.|[2203.04442v1](http://arxiv.org/abs/2203.04442v1)|null|
-|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|[link](https://github.com/520xyxyzq/slam-super-6d)|
-|**2022-03-08**|**Tidal dissipation due to inertial waves can explain the circularization periods of solar-type binaries**|Adrian J. Barker et.al.|[2203.03950v1](http://arxiv.org/abs/2203.03950v1)|null|
-|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-03-17**|**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**|Xuanchi Ren et.al.|[2203.09457v1](http://arxiv.org/abs/2203.09457v1)|null|
 |**2022-03-17**|**DXQ-Net: Differentiable LiDAR-Camera Extrinsic Calibration Using Quality-aware Flow**|Xin Jing et.al.|[2203.09385v1](http://arxiv.org/abs/2203.09385v1)|null|
-|**2022-03-17**|**Video Prediction at Multiple Scales with Hierarchical Recurrent Networks**|Ani Karapetyan et.al.|[2203.09303v1](http://arxiv.org/abs/2203.09303v1)|null|
-|**2022-03-17**|**A Differentiable Two-stage Alignment Scheme for Burst Image Reconstruction with Large Shift**|Shi Guo et.al.|[2203.09294v1](http://arxiv.org/abs/2203.09294v1)|null|
+|**2022-03-17**|**Video Prediction at Multiple Scales with Hierarchical Recurrent Networks**|Ani Karapetyan et.al.|[2203.09303v1](http://arxiv.org/abs/2203.09303v1)|[link](https://github.com/ais-bonn/vp-suite)|
+|**2022-03-17**|**A Differentiable Two-stage Alignment Scheme for Burst Image Reconstruction with Large Shift**|Shi Guo et.al.|[2203.09294v1](http://arxiv.org/abs/2203.09294v1)|[link](https://github.com/guoshi28/2stagealign)|
 |**2022-03-17**|**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**|Han Liang et.al.|[2203.09287v1](http://arxiv.org/abs/2203.09287v1)|null|
 |**2022-03-17**|**An RF Timer of Electrons and Photons with the Potential to reach Picosecond Precision**|Amur Margaryan et.al.|[2203.09194v1](http://arxiv.org/abs/2203.09194v1)|null|
 |**2022-03-17**|**On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks**|Maximilian Seitzer et.al.|[2203.09168v1](http://arxiv.org/abs/2203.09168v1)|null|
@@ -106,6 +72,40 @@
 |**2022-02-27**|**Robust Self-Supervised LiDAR Odometry via Representative Structure Discovery and 3D Inherent Error Modeling**|Yan Xu et.al.|[2202.13353v1](http://arxiv.org/abs/2202.13353v1)|[link](https://github.com/samuelyale/rslo)|
 |**2022-02-25**|**TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning**|Adarsh Jagan Sathyamoorthy et.al.|[2202.12873v3](http://arxiv.org/abs/2202.12873v3)|null|
 |**2022-02-25**|**LF-VIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras with Negative Plane**|Ze Wang et.al.|[2202.12613v1](http://arxiv.org/abs/2202.12613v1)|[link](https://github.com/flysoaryun/lf-vio)|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|
+|**2022-03-17**|**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**|Han Liang et.al.|[2203.09287v1](http://arxiv.org/abs/2203.09287v1)|null|
+|**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
+|**2022-03-16**|**GOMP-ST: Grasp Optimized Motion Planning for Suction Transport**|Yahav Avigal et.al.|[2203.08359v1](http://arxiv.org/abs/2203.08359v1)|null|
+|**2022-03-15**|**Role of self-generated magnetic fields in the inertial fusion ignition threshold**|James D. Sadler et.al.|[2203.08258v1](http://arxiv.org/abs/2203.08258v1)|null|
+|**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
+|**2022-03-15**|**On Galois inertial types of elliptic curves over $\mathbb{Q}_\ell$**|Lassina Dembélé et.al.|[2203.07787v1](http://arxiv.org/abs/2203.07787v1)|null|
+|**2022-03-15**|**Thermodynamic engine powered by anisotropic fluctuations**|Olga Movilla Miangolarra et.al.|[2203.07573v1](http://arxiv.org/abs/2203.07573v1)|null|
+|**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
+|**2022-03-14**|**Estimation of the trajectory and attitude of railway vehicles using inertial sensors with application to track geometry measurement**|J. González-Carbajal et.al.|[2203.07278v1](http://arxiv.org/abs/2203.07278v1)|null|
+|**2022-03-14**|**Refined Astrometry on Board a CubeSat**|Boris Segret et.al.|[2203.07254v1](http://arxiv.org/abs/2203.07254v1)|null|
+|**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
+|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
+|**2022-03-14**|**Active control of particle position by boundary slip in inertial microfluidics**|Chengliang Xuan et.al.|[2203.07008v1](http://arxiv.org/abs/2203.07008v1)|null|
+|**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
+|**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
+|**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
+|**2022-03-11**|**Learning-based Localizability Estimation for Robust LiDAR Localization**|Julian Nubert et.al.|[2203.05698v1](http://arxiv.org/abs/2203.05698v1)|[link](https://github.com/leggedrobotics/lidar_loc)|
+|**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
+|**2022-03-10**|**Accelerated gradient methods combining Tikhonov regularization with geometric damping driven by the Hessian**|Hedy Attouch et.al.|[2203.05457v1](http://arxiv.org/abs/2203.05457v1)|null|
+|**2022-03-10**|**The Forces outside the static limit in the rotating frame**|Andrei Grib et.al.|[2203.05263v1](http://arxiv.org/abs/2203.05263v1)|null|
+|**2022-03-10**|**Non-inertial torques and the Euler equation**|Amir H. Fariborz et.al.|[2203.05150v1](http://arxiv.org/abs/2203.05150v1)|null|
+|**2022-03-10**|**Mathematical modelling of transport phenomena in compressible multicomponent flows**|Chao Zhang et.al.|[2203.05094v1](http://arxiv.org/abs/2203.05094v1)|null|
+|**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
+|**2022-03-09**|**Explosive instability of dust settling in a protoplanetary disc**|V. V. Zhuravlev et.al.|[2203.04792v1](http://arxiv.org/abs/2203.04792v1)|null|
+|**2022-03-09**|**Permeability and turbulence over perforated plates**|Haris Shahzad et.al.|[2203.04753v1](http://arxiv.org/abs/2203.04753v1)|null|
+|**2022-03-08**|**Theory of solar oscillations in the inertial frequency range: Linear modes of the convection zone**|Yuto Bekki et.al.|[2203.04442v1](http://arxiv.org/abs/2203.04442v1)|null|
+|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|[link](https://github.com/520xyxyzq/slam-super-6d)|
+|**2022-03-08**|**Tidal dissipation due to inertial waves can explain the circularization periods of solar-type binaries**|Adrian J. Barker et.al.|[2203.03950v1](http://arxiv.org/abs/2203.03950v1)|null|
+|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
