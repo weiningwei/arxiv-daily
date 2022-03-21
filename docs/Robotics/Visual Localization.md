@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
+|**2022-03-18**|**RELIC: Retrieving Evidence for Literary Claims**|Katherine Thai et.al.|[2203.10053v1](http://arxiv.org/abs/2203.10053v1)|null|
+|**2022-03-18**|**ESS: Learning Event-based Semantic Segmentation from Still Images**|Zhaoning Sun et.al.|[2203.10016v1](http://arxiv.org/abs/2203.10016v1)|null|
+|**2022-03-18**|**Picosecond Hyperspectral Fringe Pattern Projection for 3D Surface Measurement**|Sebastian Ritter et.al.|[2203.10008v1](http://arxiv.org/abs/2203.10008v1)|null|
+|**2022-03-18**|**Enhancement of Novel View Synthesis Using Omnidirectional Image Completion**|Takayuki Hara et.al.|[2203.09957v1](http://arxiv.org/abs/2203.09957v1)|null|
+|**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
+|**2022-03-18**|**Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion**|Zhiqiang Yan et.al.|[2203.09855v1](http://arxiv.org/abs/2203.09855v1)|null|
+|**2022-03-18**|**Grasp Pre-shape Selection by Synthetic Training: Eye-in-hand Shared Control on the Hannes Prosthesis**|Federico Vasile et.al.|[2203.09812v1](http://arxiv.org/abs/2203.09812v1)|null|
+|**2022-03-18**|**Surface temperature and emissivity measurement for materials exposed to a flame through two-color IR-thermography**|Tanja Pelzmann et.al.|[2203.09689v1](http://arxiv.org/abs/2203.09689v1)|null|
+|**2022-03-18**|**Solid immersion microlens arrays-based light-field camera for 3D in vivo imaging**|Jae-Myeong Kwon et.al.|[2203.09684v1](http://arxiv.org/abs/2203.09684v1)|null|
+|**2022-03-17**|**Constraining ultra-high-energy cosmic ray composition through cross-correlations**|Konstantinos Tanidis et.al.|[2203.09538v1](http://arxiv.org/abs/2203.09538v1)|null|
 |**2022-03-17**|**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**|Xuanchi Ren et.al.|[2203.09457v1](http://arxiv.org/abs/2203.09457v1)|null|
 |**2022-03-17**|**DXQ-Net: Differentiable LiDAR-Camera Extrinsic Calibration Using Quality-aware Flow**|Xin Jing et.al.|[2203.09385v1](http://arxiv.org/abs/2203.09385v1)|null|
 |**2022-03-17**|**Video Prediction at Multiple Scales with Hierarchical Recurrent Networks**|Ani Karapetyan et.al.|[2203.09303v1](http://arxiv.org/abs/2203.09303v1)|[link](https://github.com/ais-bonn/vp-suite)|
@@ -21,14 +32,3 @@
 |**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
 |**2022-03-16**|**ConTinTin: Continual Learning from Task Instructions**|Wenpeng Yin et.al.|[2203.08512v1](http://arxiv.org/abs/2203.08512v1)|null|
 |**2022-03-16**|**Domain Adaptive Hand Keypoint and Pixel Localization in the Wild**|Takehiko Ohkawa et.al.|[2203.08344v2](http://arxiv.org/abs/2203.08344v2)|null|
-|**2022-03-16**|**Motif Mining: Finding and Summarizing Remixed Image Content**|William Theisen et.al.|[2203.08327v2](http://arxiv.org/abs/2203.08327v2)|null|
-|**2022-03-15**|**DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection**|Yingwei Li et.al.|[2203.08195v1](http://arxiv.org/abs/2203.08195v1)|[link](https://github.com/tensorflow/lingvo)|
-|**2022-03-15**|**Design and Performance of the Prototype Schwarzschild-Couder Telescope Camera**|Colin B. Adams et.al.|[2203.08169v1](http://arxiv.org/abs/2203.08169v1)|null|
-|**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
-|**2022-03-15**|**Deep learning for radar data exploitation of autonomous vehicle**|Arthur Ouaknine et.al.|[2203.08038v1](http://arxiv.org/abs/2203.08038v1)|[link](https://github.com/valeoai/MVRSS)|
-|**2022-03-15**|**MOBDrone: a Drone Video Dataset for Man OverBoard Rescue**|Donato Cafarelli et.al.|[2203.07973v1](http://arxiv.org/abs/2203.07973v1)|null|
-|**2022-03-15**|**Cost-effective BlackWater Raft on Highly Unreliable Nodes at Scale Out**|Zichen Xu et.al.|[2203.07920v1](http://arxiv.org/abs/2203.07920v1)|null|
-|**2022-03-15**|**LiP-Flow: Learning Inference-time Priors for Codec Avatars via Normalizing Flows in Latent Space**|Emre Aksan et.al.|[2203.07881v1](http://arxiv.org/abs/2203.07881v1)|null|
-|**2022-03-15**|**SISL:Self-Supervised Image Signature Learning for Splicing Detection and Localization**|Susmit Agrawal et.al.|[2203.07824v1](http://arxiv.org/abs/2203.07824v1)|null|
-|**2022-03-15**|**Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization**|Yabin Zhang et.al.|[2203.07740v1](http://arxiv.org/abs/2203.07740v1)|[link](https://github.com/ybzh/efdm)|
-|**2022-03-15**|**Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation**|Zitian Wang et.al.|[2203.07697v3](http://arxiv.org/abs/2203.07697v3)|null|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
+|**2022-03-18**|**Existence for a nonlocal Penrose--Fife type phase field system with inertial term**|Shunsuke Kurima et.al.|[2203.09874v1](http://arxiv.org/abs/2203.09874v1)|null|
+|**2022-03-17**|**Modeling of a Quadruped Robot with Spine Joints and Full-Dynamics Simulation Environment Construction**|Omer Kemal Adak et.al.|[2203.09622v1](http://arxiv.org/abs/2203.09622v1)|null|
 |**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|
 |**2022-03-17**|**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**|Han Liang et.al.|[2203.09287v1](http://arxiv.org/abs/2203.09287v1)|null|
 |**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
@@ -29,6 +32,3 @@
 |**2022-03-09**|**Explosive instability of dust settling in a protoplanetary disc**|V. V. Zhuravlev et.al.|[2203.04792v1](http://arxiv.org/abs/2203.04792v1)|null|
 |**2022-03-09**|**Permeability and turbulence over perforated plates**|Haris Shahzad et.al.|[2203.04753v1](http://arxiv.org/abs/2203.04753v1)|null|
 |**2022-03-08**|**Theory of solar oscillations in the inertial frequency range: Linear modes of the convection zone**|Yuto Bekki et.al.|[2203.04442v1](http://arxiv.org/abs/2203.04442v1)|null|
-|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|[link](https://github.com/520xyxyzq/slam-super-6d)|
-|**2022-03-08**|**Tidal dissipation due to inertial waves can explain the circularization periods of solar-type binaries**|Adrian J. Barker et.al.|[2203.03950v1](http://arxiv.org/abs/2203.03950v1)|null|
-|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
