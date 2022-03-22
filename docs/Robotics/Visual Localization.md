@@ -30,5 +30,5 @@
 |**2022-03-16**|**Coverage Optimization of Camera Network for Continuous Deformable Object**|Chang Li et.al.|[2203.08632v1](http://arxiv.org/abs/2203.08632v1)|null|
 |**2022-03-16**|**Biomimetic Evaluation of an Underwater Soft Hand Through Deep Learning-based 3D Pose Reconstruction**|Haihang Wang et.al.|[2203.08550v1](http://arxiv.org/abs/2203.08550v1)|null|
 |**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
-|**2022-03-16**|**ConTinTin: Continual Learning from Task Instructions**|Wenpeng Yin et.al.|[2203.08512v1](http://arxiv.org/abs/2203.08512v1)|null|
+|**2022-03-16**|**ConTinTin: Continual Learning from Task Instructions**|Wenpeng Yin et.al.|[2203.08512v2](http://arxiv.org/abs/2203.08512v2)|null|
 |**2022-03-16**|**Domain Adaptive Hand Keypoint and Pixel Localization in the Wild**|Takehiko Ohkawa et.al.|[2203.08344v2](http://arxiv.org/abs/2203.08344v2)|null|
