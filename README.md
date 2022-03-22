@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2022-03-22 20:48:23 Asia/Shanghai
+ Automated deployment @ 2022-03-22 21:16:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
-|**2022-03-21**|**Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation**|Antonin Vobecky et.al.|[2203.11160v1](http://arxiv.org/abs/2203.11160v1)|[link](https://github.com/vobecant/DriveAndSegment)|
-|**2022-03-21**|**PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**|Li Chen et.al.|[2203.11089v1](http://arxiv.org/abs/2203.11089v1)|[link](https://github.com/OpenPerceptionX/OpenLane)|
-|**2022-03-21**|**Learning Enriched Illuminants for Cross and Single Sensor Color Constancy**|Xiaodong Cun et.al.|[2203.11068v1](http://arxiv.org/abs/2203.11068v1)|null|
-|**2022-03-21**|**Underwater Light Field Retention : Neural Rendering for Underwater Imaging**|Tian Ye et.al.|[2203.11006v1](http://arxiv.org/abs/2203.11006v1)|null|
-|**2022-03-21**|**The SVOM Mission**|J-L. Atteia et.al.|[2203.10962v1](http://arxiv.org/abs/2203.10962v1)|null|
-|**2022-03-21**|**3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge Modality Attention**|Martin Buchner et.al.|[2203.10926v1](http://arxiv.org/abs/2203.10926v1)|null|
-|**2022-03-21**|**Match the Script, Adapt if Multilingual: Analyzing the Effect of Multilingual Pretraining on Cross-lingual Transferability**|Yoshinari Fujinuma et.al.|[2203.10753v1](http://arxiv.org/abs/2203.10753v1)|null|
-|**2022-03-21**|**Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks**|Yagiz Nalcakan et.al.|[2203.10707v1](http://arxiv.org/abs/2203.10707v1)|null|
-|**2022-03-20**|**FUTR3D: A Unified Sensor Fusion Framework for 3D Detection**|Xuanyao Chen et.al.|[2203.10642v1](http://arxiv.org/abs/2203.10642v1)|null|
-|**2022-03-20**|**Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild**|Ardhendu Shekhar Tripathi et.al.|[2203.10636v1](http://arxiv.org/abs/2203.10636v1)|null|
-|**2022-03-20**|**Parallel Instance Query Network for Named Entity Recognition**|Yongliang Shen et.al.|[2203.10545v1](http://arxiv.org/abs/2203.10545v1)|[link](https://github.com/tricktreat/piqn)|
-|**2022-03-20**|**Document Dewarping with Control Points**|Guo-Wang Xie et.al.|[2203.10543v1](http://arxiv.org/abs/2203.10543v1)|[link](https://github.com/gwxie/document-dewarping-with-control-points)|
-|**2022-03-20**|**Stochastic Video Prediction with Structure and Motion**|Adil Kaan Akan et.al.|[2203.10528v1](http://arxiv.org/abs/2203.10528v1)|null|
-|**2022-03-20**|**Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light**|Yuhua Xu et.al.|[2203.10493v1](http://arxiv.org/abs/2203.10493v1)|null|
-|**2022-03-20**|**Optimizing Camera Placements for Overlapped Coverage with 3D Camera Projections**|Akshay Malhotra et.al.|[2203.10479v1](http://arxiv.org/abs/2203.10479v1)|null|
-|**2022-03-19**|**PressureVision: Estimating Hand Pressure from a Single RGB Image**|Patrick Grady et.al.|[2203.10385v1](http://arxiv.org/abs/2203.10385v1)|null|
-|**2022-03-19**|**Design and Development of a Research Oriented Low Cost Robotics Platform with a Novel Dynamic Global Path Planning Approach**|Shalutha Rajapakshe et.al.|[2203.10375v1](http://arxiv.org/abs/2203.10375v1)|null|
-|**2022-03-19**|**Automatic Detection of Entity-Manipulated Text using Factual Knowledge**|Ganesh Jawahar et.al.|[2203.10343v1](http://arxiv.org/abs/2203.10343v1)|null|
-|**2022-03-18**|**Evaluation of April Tag and WhyCode Fiducial Systems for Autonomous Precision Drone Landing with a Gimbal-Mounted Camera**|Joshua Springer et.al.|[2203.10180v1](http://arxiv.org/abs/2203.10180v1)|null|
-|**2022-03-18**|**Boreas: A Multi-Season Autonomous Driving Dataset**|Keenan Burnett et.al.|[2203.10168v1](http://arxiv.org/abs/2203.10168v1)|null|
-|**2022-03-18**|**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**|Jonáš Kulhánek et.al.|[2203.10157v1](http://arxiv.org/abs/2203.10157v1)|[link](https://github.com/jkulhanek/viewformer)|
-|**2022-03-18**|**Online Next-Best-View Planner for 3D-Exploration and Inspection With a Mobile Manipulator Robot**|Menaka Naazare et.al.|[2203.10113v1](http://arxiv.org/abs/2203.10113v1)|null|
-|**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
-|**2022-03-18**|**RELIC: Retrieving Evidence for Literary Claims**|Katherine Thai et.al.|[2203.10053v1](http://arxiv.org/abs/2203.10053v1)|null|
-|**2022-03-18**|**ESS: Learning Event-based Semantic Segmentation from Still Images**|Zhaoning Sun et.al.|[2203.10016v1](http://arxiv.org/abs/2203.10016v1)|null|
-|**2022-03-18**|**Picosecond Hyperspectral Fringe Pattern Projection for 3D Surface Measurement**|Sebastian Ritter et.al.|[2203.10008v1](http://arxiv.org/abs/2203.10008v1)|null|
-|**2022-03-18**|**Enhancement of Novel View Synthesis Using Omnidirectional Image Completion**|Takayuki Hara et.al.|[2203.09957v1](http://arxiv.org/abs/2203.09957v1)|null|
-|**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
-|**2022-03-18**|**Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion**|Zhiqiang Yan et.al.|[2203.09855v1](http://arxiv.org/abs/2203.09855v1)|null|
-
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-19**|**Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**|Jie Yang et.al.|[2203.10267v1](http://arxiv.org/abs/2203.10267v1)|null|
-|**2022-03-16**|**Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**|Ian D. Miller et.al.|[2203.08925v1](http://arxiv.org/abs/2203.08925v1)|[link](https://github.com/iandouglas96/cross_view_slam)|
-|**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi et.al.|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
-|**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
-|**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama et.al.|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
-|**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
-|**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
-|**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi et.al.|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
-|**2022-03-08**|**Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**|Pierre-Yves Lajoie et.al.|[2203.04446v1](http://arxiv.org/abs/2203.04446v1)|null|
-|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|[link](https://github.com/520xyxyzq/slam-super-6d)|
-|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
-|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|[link](https://github.com/tiers/tiers-lidars-dataset)|
-|**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|[link](https://github.com/haomo-ai/OverlapTransformer)|
-|**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba et.al.|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
-|**2022-03-06**|**RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects**|Ran Long et.al.|[2203.02882v1](http://arxiv.org/abs/2203.02882v1)|null|
-|**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|[link](https://github.com/ramdrop/stun)|
-|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|[link](https://github.com/robot-learning-freiburg/CL-SLAM)|
-|**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|[link](https://github.com/hku-mars/fast-livo)|
-|**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
-|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
-|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
-|**2022-02-26**|**RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization**|Nikolaos Kourtzanidis et.al.|[2202.13221v1](http://arxiv.org/abs/2202.13221v1)|null|
-|**2022-02-25**|**Probabilistic Data Association for Semantic SLAM at Scale**|Elad Michael et.al.|[2202.12802v1](http://arxiv.org/abs/2202.12802v1)|null|
-|**2022-02-24**|**TwistSLAM: Constrained SLAM in Dynamic Environment**|Mathieu Gonzalez et.al.|[2202.12384v1](http://arxiv.org/abs/2202.12384v1)|null|
-|**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
-|**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
-|**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
-|**2022-02-23**|**Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**|Islam Ali et.al.|[2202.11312v1](http://arxiv.org/abs/2202.11312v1)|null|
-|**2022-02-19**|**Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**|Yang Xu et.al.|[2202.09631v2](http://arxiv.org/abs/2202.09631v2)|null|
-|**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu et.al.|[2202.09487v2](http://arxiv.org/abs/2202.09487v2)|[link](https://github.com/lppllppl920/sage-slam)|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -140,3 +72,71 @@
 |**2022-03-10**|**The Forces outside the static limit in the rotating frame**|Andrei Grib et.al.|[2203.05263v1](http://arxiv.org/abs/2203.05263v1)|null|
 |**2022-03-10**|**Non-inertial torques and the Euler equation**|Amir H. Fariborz et.al.|[2203.05150v1](http://arxiv.org/abs/2203.05150v1)|null|
 |**2022-03-10**|**Mathematical modelling of transport phenomena in compressible multicomponent flows**|Chao Zhang et.al.|[2203.05094v1](http://arxiv.org/abs/2203.05094v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
+|**2022-03-21**|**Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation**|Antonin Vobecky et.al.|[2203.11160v1](http://arxiv.org/abs/2203.11160v1)|[link](https://github.com/vobecant/DriveAndSegment)|
+|**2022-03-21**|**PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**|Li Chen et.al.|[2203.11089v1](http://arxiv.org/abs/2203.11089v1)|[link](https://github.com/OpenPerceptionX/OpenLane)|
+|**2022-03-21**|**Learning Enriched Illuminants for Cross and Single Sensor Color Constancy**|Xiaodong Cun et.al.|[2203.11068v1](http://arxiv.org/abs/2203.11068v1)|null|
+|**2022-03-21**|**Underwater Light Field Retention : Neural Rendering for Underwater Imaging**|Tian Ye et.al.|[2203.11006v1](http://arxiv.org/abs/2203.11006v1)|null|
+|**2022-03-21**|**The SVOM Mission**|J-L. Atteia et.al.|[2203.10962v1](http://arxiv.org/abs/2203.10962v1)|null|
+|**2022-03-21**|**3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge Modality Attention**|Martin Buchner et.al.|[2203.10926v1](http://arxiv.org/abs/2203.10926v1)|null|
+|**2022-03-21**|**Match the Script, Adapt if Multilingual: Analyzing the Effect of Multilingual Pretraining on Cross-lingual Transferability**|Yoshinari Fujinuma et.al.|[2203.10753v1](http://arxiv.org/abs/2203.10753v1)|null|
+|**2022-03-21**|**Monocular Vision-based Prediction of Cut-in Maneuvers with LSTM Networks**|Yagiz Nalcakan et.al.|[2203.10707v1](http://arxiv.org/abs/2203.10707v1)|null|
+|**2022-03-20**|**FUTR3D: A Unified Sensor Fusion Framework for 3D Detection**|Xuanyao Chen et.al.|[2203.10642v1](http://arxiv.org/abs/2203.10642v1)|null|
+|**2022-03-20**|**Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild**|Ardhendu Shekhar Tripathi et.al.|[2203.10636v1](http://arxiv.org/abs/2203.10636v1)|null|
+|**2022-03-20**|**Parallel Instance Query Network for Named Entity Recognition**|Yongliang Shen et.al.|[2203.10545v1](http://arxiv.org/abs/2203.10545v1)|[link](https://github.com/tricktreat/piqn)|
+|**2022-03-20**|**Document Dewarping with Control Points**|Guo-Wang Xie et.al.|[2203.10543v1](http://arxiv.org/abs/2203.10543v1)|[link](https://github.com/gwxie/document-dewarping-with-control-points)|
+|**2022-03-20**|**Stochastic Video Prediction with Structure and Motion**|Adil Kaan Akan et.al.|[2203.10528v1](http://arxiv.org/abs/2203.10528v1)|null|
+|**2022-03-20**|**Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light**|Yuhua Xu et.al.|[2203.10493v1](http://arxiv.org/abs/2203.10493v1)|null|
+|**2022-03-20**|**Optimizing Camera Placements for Overlapped Coverage with 3D Camera Projections**|Akshay Malhotra et.al.|[2203.10479v1](http://arxiv.org/abs/2203.10479v1)|null|
+|**2022-03-19**|**PressureVision: Estimating Hand Pressure from a Single RGB Image**|Patrick Grady et.al.|[2203.10385v1](http://arxiv.org/abs/2203.10385v1)|null|
+|**2022-03-19**|**Design and Development of a Research Oriented Low Cost Robotics Platform with a Novel Dynamic Global Path Planning Approach**|Shalutha Rajapakshe et.al.|[2203.10375v1](http://arxiv.org/abs/2203.10375v1)|null|
+|**2022-03-19**|**Automatic Detection of Entity-Manipulated Text using Factual Knowledge**|Ganesh Jawahar et.al.|[2203.10343v1](http://arxiv.org/abs/2203.10343v1)|null|
+|**2022-03-18**|**Evaluation of April Tag and WhyCode Fiducial Systems for Autonomous Precision Drone Landing with a Gimbal-Mounted Camera**|Joshua Springer et.al.|[2203.10180v1](http://arxiv.org/abs/2203.10180v1)|null|
+|**2022-03-18**|**Boreas: A Multi-Season Autonomous Driving Dataset**|Keenan Burnett et.al.|[2203.10168v1](http://arxiv.org/abs/2203.10168v1)|null|
+|**2022-03-18**|**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**|Jonáš Kulhánek et.al.|[2203.10157v1](http://arxiv.org/abs/2203.10157v1)|[link](https://github.com/jkulhanek/viewformer)|
+|**2022-03-18**|**Online Next-Best-View Planner for 3D-Exploration and Inspection With a Mobile Manipulator Robot**|Menaka Naazare et.al.|[2203.10113v1](http://arxiv.org/abs/2203.10113v1)|null|
+|**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
+|**2022-03-18**|**RELIC: Retrieving Evidence for Literary Claims**|Katherine Thai et.al.|[2203.10053v1](http://arxiv.org/abs/2203.10053v1)|null|
+|**2022-03-18**|**ESS: Learning Event-based Semantic Segmentation from Still Images**|Zhaoning Sun et.al.|[2203.10016v1](http://arxiv.org/abs/2203.10016v1)|null|
+|**2022-03-18**|**Picosecond Hyperspectral Fringe Pattern Projection for 3D Surface Measurement**|Sebastian Ritter et.al.|[2203.10008v1](http://arxiv.org/abs/2203.10008v1)|null|
+|**2022-03-18**|**Enhancement of Novel View Synthesis Using Omnidirectional Image Completion**|Takayuki Hara et.al.|[2203.09957v1](http://arxiv.org/abs/2203.09957v1)|null|
+|**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
+|**2022-03-18**|**Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion**|Zhiqiang Yan et.al.|[2203.09855v1](http://arxiv.org/abs/2203.09855v1)|null|
+
+### SLAM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-03-19**|**Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**|Jie Yang et.al.|[2203.10267v1](http://arxiv.org/abs/2203.10267v1)|null|
+|**2022-03-16**|**Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**|Ian D. Miller et.al.|[2203.08925v1](http://arxiv.org/abs/2203.08925v1)|[link](https://github.com/iandouglas96/cross_view_slam)|
+|**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi et.al.|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
+|**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
+|**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama et.al.|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
+|**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
+|**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
+|**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi et.al.|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
+|**2022-03-08**|**Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**|Pierre-Yves Lajoie et.al.|[2203.04446v1](http://arxiv.org/abs/2203.04446v1)|null|
+|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu et.al.|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|[link](https://github.com/520xyxyzq/slam-super-6d)|
+|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
+|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|[link](https://github.com/tiers/tiers-lidars-dataset)|
+|**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma et.al.|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|[link](https://github.com/haomo-ai/OverlapTransformer)|
+|**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba et.al.|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
+|**2022-03-06**|**RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects**|Ran Long et.al.|[2203.02882v1](http://arxiv.org/abs/2203.02882v1)|null|
+|**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|[link](https://github.com/ramdrop/stun)|
+|**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch et.al.|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|[link](https://github.com/robot-learning-freiburg/CL-SLAM)|
+|**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|[link](https://github.com/hku-mars/fast-livo)|
+|**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
+|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
+|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter et.al.|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
+|**2022-02-26**|**RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization**|Nikolaos Kourtzanidis et.al.|[2202.13221v1](http://arxiv.org/abs/2202.13221v1)|null|
+|**2022-02-25**|**Probabilistic Data Association for Semantic SLAM at Scale**|Elad Michael et.al.|[2202.12802v1](http://arxiv.org/abs/2202.12802v1)|null|
+|**2022-02-24**|**TwistSLAM: Constrained SLAM in Dynamic Environment**|Mathieu Gonzalez et.al.|[2202.12384v1](http://arxiv.org/abs/2202.12384v1)|null|
+|**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
+|**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
+|**2022-02-23**|**DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**|Xuebo Tian et.al.|[2202.11431v1](http://arxiv.org/abs/2202.11431v1)|null|
+|**2022-02-23**|**Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**|Islam Ali et.al.|[2202.11312v1](http://arxiv.org/abs/2202.11312v1)|null|
+|**2022-02-19**|**Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**|Yang Xu et.al.|[2202.09631v2](http://arxiv.org/abs/2202.09631v2)|null|
+|**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu et.al.|[2202.09487v2](http://arxiv.org/abs/2202.09487v2)|[link](https://github.com/lppllppl920/sage-slam)|
