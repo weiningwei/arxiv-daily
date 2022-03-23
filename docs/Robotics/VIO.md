@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-22**|**Analysis Method of Strapdown Inertial Navigation Error Distribution Based on Covariance Matrix Decomposition**|Xiaokang Yang et.al.|[2203.11810v1](http://arxiv.org/abs/2203.11810v1)|null|
+|**2022-03-22**|**Entanglement Witness for the Weak Equivalence Principle**|Sougato Bose et.al.|[2203.11628v1](http://arxiv.org/abs/2203.11628v1)|null|
+|**2022-03-22**|**Port-Hamiltonian inspired gradient diffusion model for magnetohydrodynamic turbulence**|Benjamin Beck et.al.|[2203.11536v1](http://arxiv.org/abs/2203.11536v1)|null|
+|**2022-03-22**|**Rotating quantum wave turbulence**|J. T. Mäkinen et.al.|[2203.11527v1](http://arxiv.org/abs/2203.11527v1)|null|
 |**2022-03-21**|**Multi-Agent Relative Pose Estimation with UWB and Constrained Communications**|Andrew Fishberg et.al.|[2203.11004v1](http://arxiv.org/abs/2203.11004v1)|null|
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 |**2022-03-19**|**Clustering in laboratory and numerical turbulent swirling flows**|Sofía Angriman et.al.|[2203.10195v1](http://arxiv.org/abs/2203.10195v1)|null|
@@ -28,7 +32,3 @@
 |**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
 |**2022-03-11**|**Learning-based Localizability Estimation for Robust LiDAR Localization**|Julian Nubert et.al.|[2203.05698v1](http://arxiv.org/abs/2203.05698v1)|[link](https://github.com/leggedrobotics/lidar_loc)|
 |**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
-|**2022-03-10**|**Accelerated gradient methods combining Tikhonov regularization with geometric damping driven by the Hessian**|Hedy Attouch et.al.|[2203.05457v1](http://arxiv.org/abs/2203.05457v1)|null|
-|**2022-03-10**|**The Forces outside the static limit in the rotating frame**|Andrei Grib et.al.|[2203.05263v1](http://arxiv.org/abs/2203.05263v1)|null|
-|**2022-03-10**|**Non-inertial torques and the Euler equation**|Amir H. Fariborz et.al.|[2203.05150v1](http://arxiv.org/abs/2203.05150v1)|null|
-|**2022-03-10**|**Mathematical modelling of transport phenomena in compressible multicomponent flows**|Chao Zhang et.al.|[2203.05094v1](http://arxiv.org/abs/2203.05094v1)|null|

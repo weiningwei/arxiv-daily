@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-22**|**φ-SfT: Shape-from-Template with a Physics-Based Deformation Model**|Navami Kairanda et.al.|[2203.11938v1](http://arxiv.org/abs/2203.11938v1)|null|
+|**2022-03-22**|**Pegasus IV: Discovery and Spectroscopic Confirmation of an Ultra-Faint Dwarf Galaxy in the Constellation Pegasus**|W. Cerny et.al.|[2203.11788v1](http://arxiv.org/abs/2203.11788v1)|null|
+|**2022-03-22**|**In search of short gamma-ray burst optical counterpart with the Zwicky Transient Facility**|Tomás Ahumada et.al.|[2203.11787v1](http://arxiv.org/abs/2203.11787v1)|null|
+|**2022-03-22**|**Exploring and Evaluating Image Restoration Potential in Dynamic Scenes**|Cheng Zhang et.al.|[2203.11754v1](http://arxiv.org/abs/2203.11754v1)|null|
+|**2022-03-22**|**TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers**|Xuyang Bai et.al.|[2203.11496v1](http://arxiv.org/abs/2203.11496v1)|[link](https://github.com/xuyangbai/transfusion)|
+|**2022-03-22**|**FrameHopper: Selective Processing of Video Frames in Detection-driven Real-Time Video Analytics**|Md Adnan Arefeen et.al.|[2203.11493v1](http://arxiv.org/abs/2203.11493v1)|null|
+|**2022-03-22**|**A Virtual Point Light Generation Method in Close-Range Area**|Shihao Jin et.al.|[2203.11484v1](http://arxiv.org/abs/2203.11484v1)|null|
+|**2022-03-22**|**Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation**|Jiankun Li et.al.|[2203.11483v1](http://arxiv.org/abs/2203.11483v1)|[link](https://github.com/megvii-research/crestereo)|
+|**2022-03-22**|**Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization**|Yu Zhan et.al.|[2203.11471v1](http://arxiv.org/abs/2203.11471v1)|[link](https://github.com/YxZhxn/Ray3D)|
+|**2022-03-22**|**A Real World Dataset for Multi-view 3D Reconstruction**|Rakesh Shrestha et.al.|[2203.11397v1](http://arxiv.org/abs/2203.11397v1)|null|
+|**2022-03-21**|**Generative Adversarial Network for Future Hand Segmentation from Egocentric Video**|Wenqi Jia et.al.|[2203.11305v1](http://arxiv.org/abs/2203.11305v1)|null|
 |**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
 |**2022-03-21**|**Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation**|Antonin Vobecky et.al.|[2203.11160v1](http://arxiv.org/abs/2203.11160v1)|[link](https://github.com/vobecant/DriveAndSegment)|
 |**2022-03-21**|**PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**|Li Chen et.al.|[2203.11089v1](http://arxiv.org/abs/2203.11089v1)|[link](https://github.com/OpenPerceptionX/OpenLane)|
@@ -21,14 +32,3 @@
 |**2022-03-19**|**PressureVision: Estimating Hand Pressure from a Single RGB Image**|Patrick Grady et.al.|[2203.10385v1](http://arxiv.org/abs/2203.10385v1)|null|
 |**2022-03-19**|**Design and Development of a Research Oriented Low Cost Robotics Platform with a Novel Dynamic Global Path Planning Approach**|Shalutha Rajapakshe et.al.|[2203.10375v1](http://arxiv.org/abs/2203.10375v1)|null|
 |**2022-03-19**|**Automatic Detection of Entity-Manipulated Text using Factual Knowledge**|Ganesh Jawahar et.al.|[2203.10343v1](http://arxiv.org/abs/2203.10343v1)|null|
-|**2022-03-18**|**Evaluation of April Tag and WhyCode Fiducial Systems for Autonomous Precision Drone Landing with a Gimbal-Mounted Camera**|Joshua Springer et.al.|[2203.10180v1](http://arxiv.org/abs/2203.10180v1)|null|
-|**2022-03-18**|**Boreas: A Multi-Season Autonomous Driving Dataset**|Keenan Burnett et.al.|[2203.10168v1](http://arxiv.org/abs/2203.10168v1)|null|
-|**2022-03-18**|**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**|Jonáš Kulhánek et.al.|[2203.10157v1](http://arxiv.org/abs/2203.10157v1)|[link](https://github.com/jkulhanek/viewformer)|
-|**2022-03-18**|**Online Next-Best-View Planner for 3D-Exploration and Inspection With a Mobile Manipulator Robot**|Menaka Naazare et.al.|[2203.10113v1](http://arxiv.org/abs/2203.10113v1)|null|
-|**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
-|**2022-03-18**|**RELIC: Retrieving Evidence for Literary Claims**|Katherine Thai et.al.|[2203.10053v1](http://arxiv.org/abs/2203.10053v1)|null|
-|**2022-03-18**|**ESS: Learning Event-based Semantic Segmentation from Still Images**|Zhaoning Sun et.al.|[2203.10016v1](http://arxiv.org/abs/2203.10016v1)|null|
-|**2022-03-18**|**Picosecond Hyperspectral Fringe Pattern Projection for 3D Surface Measurement**|Sebastian Ritter et.al.|[2203.10008v1](http://arxiv.org/abs/2203.10008v1)|null|
-|**2022-03-18**|**Enhancement of Novel View Synthesis Using Omnidirectional Image Completion**|Takayuki Hara et.al.|[2203.09957v1](http://arxiv.org/abs/2203.09957v1)|null|
-|**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
-|**2022-03-18**|**Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion**|Zhiqiang Yan et.al.|[2203.09855v1](http://arxiv.org/abs/2203.09855v1)|null|
