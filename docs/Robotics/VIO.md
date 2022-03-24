@@ -20,7 +20,7 @@
 |**2022-03-15**|**Role of self-generated magnetic fields in the inertial fusion ignition threshold**|James D. Sadler et.al.|[2203.08258v1](http://arxiv.org/abs/2203.08258v1)|null|
 |**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
 |**2022-03-15**|**On Galois inertial types of elliptic curves over $\mathbb{Q}_\ell$**|Lassina Dembélé et.al.|[2203.07787v1](http://arxiv.org/abs/2203.07787v1)|null|
-|**2022-03-15**|**Thermodynamic engine powered by anisotropic fluctuations**|Olga Movilla Miangolarra et.al.|[2203.07573v1](http://arxiv.org/abs/2203.07573v1)|null|
+|**2022-03-15**|**Thermodynamic engine powered by anisotropic fluctuations**|Olga Movilla Miangolarra et.al.|[2203.07573v2](http://arxiv.org/abs/2203.07573v2)|null|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
 |**2022-03-14**|**Estimation of the trajectory and attitude of railway vehicles using inertial sensors with application to track geometry measurement**|J. González-Carbajal et.al.|[2203.07278v1](http://arxiv.org/abs/2203.07278v1)|null|
 |**2022-03-14**|**Refined Astrometry on Board a CubeSat**|Boris Segret et.al.|[2203.07254v1](http://arxiv.org/abs/2203.07254v1)|null|
