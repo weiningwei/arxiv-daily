@@ -6,7 +6,7 @@
 |**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
 |**2022-03-24**|**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation**|Xian Liu et.al.|[2203.13161v1](http://arxiv.org/abs/2203.13161v1)|[link](https://github.com/alvinliu0/HA2G)|
 |**2022-03-24**|**Physics-based Learning of Parameterized Thermodynamics from Real-time Thermography**|Hamza El-Kebir et.al.|[2203.13148v1](http://arxiv.org/abs/2203.13148v1)|null|
-|**2022-03-24**|**A Preliminary Research on Space Situational Awareness Based on Event Cameras**|Kun Xiao et.al.|[2203.13093v1](http://arxiv.org/abs/2203.13093v1)|null|
+|**2022-03-24**|**A Preliminary Research on Space Situational Awareness Based on Event Cameras**|Kun Xiao et.al.|[2203.13093v2](http://arxiv.org/abs/2203.13093v2)|null|
 |**2022-03-24**|**Learning Dense Correspondence from Synthetic Environments**|Mithun Lal et.al.|[2203.12919v1](http://arxiv.org/abs/2203.12919v1)|null|
 |**2022-03-24**|**TIGRIS: An Informed Sampling-based Algorithm for Informative Path Planning**|Brady Moon et.al.|[2203.12830v1](http://arxiv.org/abs/2203.12830v1)|null|
 |**2022-03-24**|**Possible Ongoing Merger Discovered by Photometry and Spectroscopy in the Field of the Galaxy Cluster PLCK G165.7+67.0**|Massimo Pascale et.al.|[2203.12825v1](http://arxiv.org/abs/2203.12825v1)|null|
@@ -25,7 +25,7 @@
 |**2022-03-23**|**Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition**|Junho Kim et.al.|[2203.12247v1](http://arxiv.org/abs/2203.12247v1)|null|
 |**2022-03-23**|**Unifying Motion Deblurring and Frame Interpolation with Events**|Xiang Zhang et.al.|[2203.12178v1](http://arxiv.org/abs/2203.12178v1)|null|
 |**2022-03-22**|**PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo**|Jiachen Liu et.al.|[2203.12082v1](http://arxiv.org/abs/2203.12082v1)|null|
-|**2022-03-22**|**Modelling and Analysis of Car Following Algorithms for Fuel Economy Improvement in Connected and Autonomous Vehicles (CAVs)**|Ozgenur Kavas-Torris et.al.|[2203.12078v1](http://arxiv.org/abs/2203.12078v1)|null|
+|**2022-03-22**|**Modelling and Analysis of Car Following Algorithms for Fuel Economy Improvement in Connected and Autonomous Vehicles (CAVs)**|Ozgenur Kavas-Torris et.al.|[2203.12078v2](http://arxiv.org/abs/2203.12078v2)|null|
 |**2022-03-22**|**Mouse Sensitivity Effects in First-Person Targeting Tasks**|Ben Boudaoud et.al.|[2203.12050v1](http://arxiv.org/abs/2203.12050v1)|null|
 |**2022-03-22**|**Modern Physics demonstrations with DIY Smartphone Spectrometers**|Aarushi Khandelwal et.al.|[2203.12015v1](http://arxiv.org/abs/2203.12015v1)|null|
 |**2022-03-22**|**φ-SfT: Shape-from-Template with a Physics-Based Deformation Model**|Navami Kairanda et.al.|[2203.11938v1](http://arxiv.org/abs/2203.11938v1)|null|
