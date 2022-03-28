@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-25**|**DOTS: An Open Testbed for Industrial Swarm Robotic Solutions**|Simon Jones et.al.|[2203.13809v1](http://arxiv.org/abs/2203.13809v1)|null|
+|**2022-03-25**|**HST/WFC3 transmission spectroscopy of the cold rocky planet TRAPPIST-1h**|L. J. Garcia et.al.|[2203.13698v1](http://arxiv.org/abs/2203.13698v1)|null|
+|**2022-03-25**|**Dense Continuous-Time Optical Flow from Events and Frames**|Mathias Gehrig et.al.|[2203.13674v1](http://arxiv.org/abs/2203.13674v1)|null|
+|**2022-03-25**|**StretchBEV: Stretching Future Instance Prediction Spatially and Temporally**|Adil Kaan Akan et.al.|[2203.13641v1](http://arxiv.org/abs/2203.13641v1)|null|
+|**2022-03-25**|**Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**|Xiaoqing Ye et.al.|[2203.13608v1](http://arxiv.org/abs/2203.13608v1)|null|
+|**2022-03-25**|**ILoveEye: Eyeliner Makeup Guidance System with Eye Shape Features**|Hange Wang et.al.|[2203.13592v1](http://arxiv.org/abs/2203.13592v1)|null|
+|**2022-03-25**|**Visible-blind ZnMgO Colloidal Quantum Dot Downconverters expand Silicon CMOS Sensors Spectral Coverage into Ultraviolet and enable UV Band Discrimination**|Avijit Saha et.al.|[2203.13583v1](http://arxiv.org/abs/2203.13583v1)|null|
+|**2022-03-25**|**3D GAN Inversion for Controllable Portrait Image Animation**|Connor Z. Lin et.al.|[2203.13441v1](http://arxiv.org/abs/2203.13441v1)|null|
+|**2022-03-25**|**BCOT: A Markerless High-Precision 3D Object Tracking Benchmark**|Jiachen Li et.al.|[2203.13437v1](http://arxiv.org/abs/2203.13437v1)|null|
+|**2022-03-25**|**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**|Zengjie Song et.al.|[2203.13412v1](http://arxiv.org/abs/2203.13412v1)|null|
+|**2022-03-24**|**Calibration Error for Heterogeneous Treatment Effects**|Yizhe Xu et.al.|[2203.13364v1](http://arxiv.org/abs/2203.13364v1)|null|
+|**2022-03-24**|**Mix and Match: Learning-free Controllable Text Generation using Energy Language Models**|Fatemehsadat Mireshghallah et.al.|[2203.13299v1](http://arxiv.org/abs/2203.13299v1)|null|
+|**2022-03-24**|**Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis**|Kai Zhang et.al.|[2203.13278v1](http://arxiv.org/abs/2203.13278v1)|[link](https://github.com/cszn/scunet)|
 |**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
 |**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
 |**2022-03-24**|**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation**|Xian Liu et.al.|[2203.13161v1](http://arxiv.org/abs/2203.13161v1)|[link](https://github.com/alvinliu0/HA2G)|
@@ -19,16 +32,3 @@
 |**2022-03-23**|**CroMo: Cross-Modal Learning for Monocular Depth Estimation**|Yannick Verdié et.al.|[2203.12485v1](http://arxiv.org/abs/2203.12485v1)|null|
 |**2022-03-23**|**DR.VIC: Decomposition and Reasoning for Video Individual Counting**|Tao Han et.al.|[2203.12335v1](http://arxiv.org/abs/2203.12335v1)|[link](https://github.com/taohan10200/drnet)|
 |**2022-03-23**|**Autofocus for Event Cameras**|Shijie Lin et.al.|[2203.12321v1](http://arxiv.org/abs/2203.12321v1)|null|
-|**2022-03-23**|**Self-supervised HDR Imaging from Motion and Exposure Cues**|Michal Nazarczuk et.al.|[2203.12311v1](http://arxiv.org/abs/2203.12311v1)|null|
-|**2022-03-23**|**NavDreams: Towards Camera-Only RL Navigation Among Humans**|Daniel Dugas et.al.|[2203.12299v1](http://arxiv.org/abs/2203.12299v1)|[link](https://github.com/danieldugas/navdreams)|
-|**2022-03-23**|**Event-Based Dense Reconstruction Pipeline**|Kun Xiao et.al.|[2203.12270v1](http://arxiv.org/abs/2203.12270v1)|null|
-|**2022-03-23**|**Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition**|Junho Kim et.al.|[2203.12247v1](http://arxiv.org/abs/2203.12247v1)|null|
-|**2022-03-23**|**Unifying Motion Deblurring and Frame Interpolation with Events**|Xiang Zhang et.al.|[2203.12178v1](http://arxiv.org/abs/2203.12178v1)|null|
-|**2022-03-22**|**PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo**|Jiachen Liu et.al.|[2203.12082v1](http://arxiv.org/abs/2203.12082v1)|null|
-|**2022-03-22**|**Modelling and Analysis of Car Following Algorithms for Fuel Economy Improvement in Connected and Autonomous Vehicles (CAVs)**|Ozgenur Kavas-Torris et.al.|[2203.12078v2](http://arxiv.org/abs/2203.12078v2)|null|
-|**2022-03-22**|**Mouse Sensitivity Effects in First-Person Targeting Tasks**|Ben Boudaoud et.al.|[2203.12050v1](http://arxiv.org/abs/2203.12050v1)|null|
-|**2022-03-22**|**Modern Physics demonstrations with DIY Smartphone Spectrometers**|Aarushi Khandelwal et.al.|[2203.12015v1](http://arxiv.org/abs/2203.12015v1)|null|
-|**2022-03-22**|**φ-SfT: Shape-from-Template with a Physics-Based Deformation Model**|Navami Kairanda et.al.|[2203.11938v1](http://arxiv.org/abs/2203.11938v1)|null|
-|**2022-03-22**|**Pegasus IV: Discovery and Spectroscopic Confirmation of an Ultra-Faint Dwarf Galaxy in the Constellation Pegasus**|W. Cerny et.al.|[2203.11788v1](http://arxiv.org/abs/2203.11788v1)|null|
-|**2022-03-22**|**In search of short gamma-ray burst optical counterpart with the Zwicky Transient Facility**|Tomás Ahumada et.al.|[2203.11787v1](http://arxiv.org/abs/2203.11787v1)|null|
-|**2022-03-22**|**Exploring and Evaluating Image Restoration Potential in Dynamic Scenes**|Cheng Zhang et.al.|[2203.11754v2](http://arxiv.org/abs/2203.11754v2)|[link](https://github.com/justones/irp)|

@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
 |**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
 |**2022-03-21**|**Multi-Agent Relative Pose Estimation with UWB and Constrained Communications**|Andrew Fishberg et.al.|[2203.11004v1](http://arxiv.org/abs/2203.11004v1)|null|
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|[link](https://github.com/hku-mars/fast-livo)|
-|**2022-03-01**|**Fast-MbyM: Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry**|Robert Weston et.al.|[2203.00459v1](http://arxiv.org/abs/2203.00459v1)|null|

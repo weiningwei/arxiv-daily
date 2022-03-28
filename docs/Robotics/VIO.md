@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
 |**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
 |**2022-03-22**|**A cylindrical implosion platform for the study of highly magnetized plasmas at LMJ**|G. Pérez-Callejo et.al.|[2203.12099v1](http://arxiv.org/abs/2203.12099v1)|null|
 |**2022-03-22**|**Analysis Method of Strapdown Inertial Navigation Error Distribution Based on Covariance Matrix Decomposition**|Xiaokang Yang et.al.|[2203.11810v1](http://arxiv.org/abs/2203.11810v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-14**|**Active control of particle position by boundary slip in inertial microfluidics**|Chengliang Xuan et.al.|[2203.07008v1](http://arxiv.org/abs/2203.07008v1)|null|
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
 |**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
-|**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
