@@ -22,7 +22,7 @@
 |**2022-03-24**|**A Preliminary Research on Space Situational Awareness Based on Event Cameras**|Kun Xiao et.al.|[2203.13093v2](http://arxiv.org/abs/2203.13093v2)|null|
 |**2022-03-24**|**Learning Dense Correspondence from Synthetic Environments**|Mithun Lal et.al.|[2203.12919v1](http://arxiv.org/abs/2203.12919v1)|null|
 |**2022-03-24**|**TIGRIS: An Informed Sampling-based Algorithm for Informative Path Planning**|Brady Moon et.al.|[2203.12830v1](http://arxiv.org/abs/2203.12830v1)|null|
-|**2022-03-24**|**Possible Ongoing Merger Discovered by Photometry and Spectroscopy in the Field of the Galaxy Cluster PLCK G165.7+67.0**|Massimo Pascale et.al.|[2203.12825v1](http://arxiv.org/abs/2203.12825v1)|null|
+|**2022-03-24**|**Possible Ongoing Merger Discovered by Photometry and Spectroscopy in the Field of the Galaxy Cluster PLCK G165.7+67.0**|Massimo Pascale et.al.|[2203.12825v2](http://arxiv.org/abs/2203.12825v2)|null|
 |**2022-03-24**|**Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video**|Shun Taguchi et.al.|[2203.12804v1](http://arxiv.org/abs/2203.12804v1)|null|
 |**2022-03-24**|**Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera**|Jae Shin Yoon et.al.|[2203.12780v1](http://arxiv.org/abs/2203.12780v1)|null|
 |**2022-03-23**|**Possibility Before Utility: Learning And Using Hierarchical Affordances**|Robby Costales et.al.|[2203.12686v1](http://arxiv.org/abs/2203.12686v1)|[link](https://github.com/robbycostales/hal)|
