@@ -2,6 +2,25 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
+|**2022-03-28**|**Pupil-aware Holography**|Praneeth Chakravarthula et.al.|[2203.14939v1](http://arxiv.org/abs/2203.14939v1)|null|
+|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
+|**2022-03-28**|**HDR Reconstruction from Bracketed Exposures and Events**|Richard Shaw et.al.|[2203.14825v1](http://arxiv.org/abs/2203.14825v1)|null|
+|**2022-03-28**|**Open-VICO: An Open-Source Gazebo Toolkit for Multi-Camera-based Skeleton Tracking in Human-Robot Collaboration**|Luca Fortini et.al.|[2203.14733v1](http://arxiv.org/abs/2203.14733v1)|null|
+|**2022-03-28**|**Learning to estimate UAV created turbulence from scene structure observed by onboard cameras**|Quentin Possamaï et.al.|[2203.14726v1](http://arxiv.org/abs/2203.14726v1)|null|
+|**2022-03-28**|**Are High-Resolution Event Cameras Really Needed?**|Daniel Gehrig et.al.|[2203.14672v1](http://arxiv.org/abs/2203.14672v1)|null|
+|**2022-03-28**|**CenterLoc3D: Monocular 3D Vehicle Localization Network for Roadside Surveillance Cameras**|Tang Xinyao et.al.|[2203.14550v1](http://arxiv.org/abs/2203.14550v1)|null|
+|**2022-03-28**|**Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**|Junyong Lee et.al.|[2203.14537v1](http://arxiv.org/abs/2203.14537v1)|[link](https://github.com/codeslake/RefVSR)|
+|**2022-03-28**|**Optimization of Directional Landmark Deployment for Visual Observer on SE(3)**|Zike Lei et.al.|[2203.14485v1](http://arxiv.org/abs/2203.14485v1)|null|
+|**2022-03-28**|**An Interactive Image-based Modeling System**|Zhi He et.al.|[2203.14441v1](http://arxiv.org/abs/2203.14441v1)|null|
+|**2022-03-27**|**bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments**|Vitthal Bhandari et.al.|[2203.14267v1](http://arxiv.org/abs/2203.14267v1)|null|
+|**2022-03-27**|**Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships**|Chao Lou et.al.|[2203.14260v1](http://arxiv.org/abs/2203.14260v1)|null|
+|**2022-03-27**|**Audio-Adaptive Activity Recognition Across Video Domains**|Yunhua Zhang et.al.|[2203.14240v1](http://arxiv.org/abs/2203.14240v1)|[link](https://github.com/xiaobai1217/DomainAdaptation)|
+|**2022-03-27**|**Deep Polarimetric HDR Reconstruction**|Juiwen Ting et.al.|[2203.14190v1](http://arxiv.org/abs/2203.14190v1)|null|
+|**2022-03-26**|**Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**|Yujiao Shi et.al.|[2203.14148v1](http://arxiv.org/abs/2203.14148v1)|null|
+|**2022-03-26**|**Automated Thermal Screening for COVID-19 using Machine Learning**|Pratik Katte et.al.|[2203.14128v1](http://arxiv.org/abs/2203.14128v1)|null|
+|**2022-03-26**|**Medicinal Boxes Recognition on a Deep Transfer Learning Augmented Reality Mobile Application**|Danilo Avola et.al.|[2203.14031v1](http://arxiv.org/abs/2203.14031v1)|null|
+|**2022-03-25**|**TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**|Weihua He et.al.|[2203.13859v1](http://arxiv.org/abs/2203.13859v1)|null|
 |**2022-03-25**|**DOTS: An Open Testbed for Industrial Swarm Robotic Solutions**|Simon Jones et.al.|[2203.13809v1](http://arxiv.org/abs/2203.13809v1)|null|
 |**2022-03-25**|**HST/WFC3 transmission spectroscopy of the cold rocky planet TRAPPIST-1h**|L. J. Garcia et.al.|[2203.13698v1](http://arxiv.org/abs/2203.13698v1)|null|
 |**2022-03-25**|**Dense Continuous-Time Optical Flow from Events and Frames**|Mathias Gehrig et.al.|[2203.13674v1](http://arxiv.org/abs/2203.13674v1)|null|
@@ -11,24 +30,5 @@
 |**2022-03-25**|**Visible-blind ZnMgO Colloidal Quantum Dot Downconverters expand Silicon CMOS Sensors Spectral Coverage into Ultraviolet and enable UV Band Discrimination**|Avijit Saha et.al.|[2203.13583v1](http://arxiv.org/abs/2203.13583v1)|null|
 |**2022-03-25**|**3D GAN Inversion for Controllable Portrait Image Animation**|Connor Z. Lin et.al.|[2203.13441v1](http://arxiv.org/abs/2203.13441v1)|null|
 |**2022-03-25**|**BCOT: A Markerless High-Precision 3D Object Tracking Benchmark**|Jiachen Li et.al.|[2203.13437v1](http://arxiv.org/abs/2203.13437v1)|null|
-|**2022-03-25**|**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**|Zengjie Song et.al.|[2203.13412v1](http://arxiv.org/abs/2203.13412v1)|null|
-|**2022-03-24**|**Calibration Error for Heterogeneous Treatment Effects**|Yizhe Xu et.al.|[2203.13364v1](http://arxiv.org/abs/2203.13364v1)|null|
-|**2022-03-24**|**Mix and Match: Learning-free Controllable Text Generation using Energy Language Models**|Fatemehsadat Mireshghallah et.al.|[2203.13299v1](http://arxiv.org/abs/2203.13299v1)|null|
-|**2022-03-24**|**Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis**|Kai Zhang et.al.|[2203.13278v1](http://arxiv.org/abs/2203.13278v1)|[link](https://github.com/cszn/scunet)|
-|**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
-|**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
-|**2022-03-24**|**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation**|Xian Liu et.al.|[2203.13161v1](http://arxiv.org/abs/2203.13161v1)|[link](https://github.com/alvinliu0/HA2G)|
-|**2022-03-24**|**Physics-based Learning of Parameterized Thermodynamics from Real-time Thermography**|Hamza El-Kebir et.al.|[2203.13148v1](http://arxiv.org/abs/2203.13148v1)|null|
-|**2022-03-24**|**A Preliminary Research on Space Situational Awareness Based on Event Cameras**|Kun Xiao et.al.|[2203.13093v2](http://arxiv.org/abs/2203.13093v2)|null|
-|**2022-03-24**|**Learning Dense Correspondence from Synthetic Environments**|Mithun Lal et.al.|[2203.12919v1](http://arxiv.org/abs/2203.12919v1)|null|
-|**2022-03-24**|**TIGRIS: An Informed Sampling-based Algorithm for Informative Path Planning**|Brady Moon et.al.|[2203.12830v1](http://arxiv.org/abs/2203.12830v1)|null|
-|**2022-03-24**|**Possible Ongoing Merger Discovered by Photometry and Spectroscopy in the Field of the Galaxy Cluster PLCK G165.7+67.0**|Massimo Pascale et.al.|[2203.12825v2](http://arxiv.org/abs/2203.12825v2)|null|
-|**2022-03-24**|**Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video**|Shun Taguchi et.al.|[2203.12804v1](http://arxiv.org/abs/2203.12804v1)|null|
-|**2022-03-24**|**Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera**|Jae Shin Yoon et.al.|[2203.12780v1](http://arxiv.org/abs/2203.12780v1)|null|
-|**2022-03-23**|**Possibility Before Utility: Learning And Using Hierarchical Affordances**|Robby Costales et.al.|[2203.12686v1](http://arxiv.org/abs/2203.12686v1)|[link](https://github.com/robbycostales/hal)|
-|**2022-03-23**|**Robust Onboard Localization in Changing Environments Exploiting Text Spotting**|Nicky Zimmerman et.al.|[2203.12647v1](http://arxiv.org/abs/2203.12647v1)|null|
-|**2022-03-23**|**pyobs -- An observatory control system forrobotic telescopes**|Tim-Oliver Husser et.al.|[2203.12642v1](http://arxiv.org/abs/2203.12642v1)|null|
-|**2022-03-23**|**NeuMan: Neural Human Radiance Field from a Single Video**|Wei Jiang et.al.|[2203.12575v1](http://arxiv.org/abs/2203.12575v1)|null|
-|**2022-03-23**|**CroMo: Cross-Modal Learning for Monocular Depth Estimation**|Yannick Verdié et.al.|[2203.12485v1](http://arxiv.org/abs/2203.12485v1)|null|
-|**2022-03-23**|**DR.VIC: Decomposition and Reasoning for Video Individual Counting**|Tao Han et.al.|[2203.12335v2](http://arxiv.org/abs/2203.12335v2)|[link](https://github.com/taohan10200/drnet)|
-|**2022-03-23**|**Autofocus for Event Cameras**|Shijie Lin et.al.|[2203.12321v1](http://arxiv.org/abs/2203.12321v1)|null|
+|**2022-03-25**|**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**|Zengjie Song et.al.|[2203.13412v1](http://arxiv.org/abs/2203.13412v1)|[link](https://github.com/zjsong/sspl)|
+|**2022-03-24**|**Calibration Error for Heterogeneous Treatment Effects**|Yizhe Xu et.al.|[2203.13364v1](http://arxiv.org/abs/2203.13364v1)|[link](https://github.com/crystalxur/calibration-metric-hte)|
