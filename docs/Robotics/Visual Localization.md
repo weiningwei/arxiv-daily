@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
+|**2022-03-29**|**Fruit Mapping with Shape Completion for Autonomous Crop Monitoring**|Salih Marangoz et.al.|[2203.15489v1](http://arxiv.org/abs/2203.15489v1)|null|
+|**2022-03-29**|**A Naturalistic Database of Thermal Emotional Facial Expressions and Effects of Induced Emotions on Memory**|Anna Esposito et.al.|[2203.15443v1](http://arxiv.org/abs/2203.15443v1)|null|
+|**2022-03-29**|**Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**|Mingjun Li et.al.|[2203.15439v1](http://arxiv.org/abs/2203.15439v1)|null|
+|**2022-03-29**|**AR Point&Click: An Interface for Setting Robot Navigation Goals**|Morris Gu et.al.|[2203.15219v1](http://arxiv.org/abs/2203.15219v1)|null|
+|**2022-03-29**|**Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification**|Chao Wu et.al.|[2203.15210v1](http://arxiv.org/abs/2203.15210v1)|null|
+|**2022-03-29**|**Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints**|Xinghao Zhu et.al.|[2203.15155v1](http://arxiv.org/abs/2203.15155v1)|null|
+|**2022-03-28**|**Text2Pos: Text-to-Point-Cloud Cross-Modal Localization**|Manuel Kolmet et.al.|[2203.15125v1](http://arxiv.org/abs/2203.15125v1)|null|
+|**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
 |**2022-03-28**|**Pupil-aware Holography**|Praneeth Chakravarthula et.al.|[2203.14939v1](http://arxiv.org/abs/2203.14939v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
@@ -21,14 +30,5 @@
 |**2022-03-26**|**Automated Thermal Screening for COVID-19 using Machine Learning**|Pratik Katte et.al.|[2203.14128v1](http://arxiv.org/abs/2203.14128v1)|null|
 |**2022-03-26**|**Medicinal Boxes Recognition on a Deep Transfer Learning Augmented Reality Mobile Application**|Danilo Avola et.al.|[2203.14031v1](http://arxiv.org/abs/2203.14031v1)|null|
 |**2022-03-25**|**TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**|Weihua He et.al.|[2203.13859v1](http://arxiv.org/abs/2203.13859v1)|null|
+|**2022-03-25**|**Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review**|Can Cui et.al.|[2203.15588v1](http://arxiv.org/abs/2203.15588v1)|null|
 |**2022-03-25**|**DOTS: An Open Testbed for Industrial Swarm Robotic Solutions**|Simon Jones et.al.|[2203.13809v1](http://arxiv.org/abs/2203.13809v1)|null|
-|**2022-03-25**|**HST/WFC3 transmission spectroscopy of the cold rocky planet TRAPPIST-1h**|L. J. Garcia et.al.|[2203.13698v1](http://arxiv.org/abs/2203.13698v1)|null|
-|**2022-03-25**|**Dense Continuous-Time Optical Flow from Events and Frames**|Mathias Gehrig et.al.|[2203.13674v1](http://arxiv.org/abs/2203.13674v1)|null|
-|**2022-03-25**|**StretchBEV: Stretching Future Instance Prediction Spatially and Temporally**|Adil Kaan Akan et.al.|[2203.13641v1](http://arxiv.org/abs/2203.13641v1)|null|
-|**2022-03-25**|**Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**|Xiaoqing Ye et.al.|[2203.13608v1](http://arxiv.org/abs/2203.13608v1)|null|
-|**2022-03-25**|**ILoveEye: Eyeliner Makeup Guidance System with Eye Shape Features**|Hange Wang et.al.|[2203.13592v1](http://arxiv.org/abs/2203.13592v1)|null|
-|**2022-03-25**|**Visible-blind ZnMgO Colloidal Quantum Dot Downconverters expand Silicon CMOS Sensors Spectral Coverage into Ultraviolet and enable UV Band Discrimination**|Avijit Saha et.al.|[2203.13583v1](http://arxiv.org/abs/2203.13583v1)|null|
-|**2022-03-25**|**3D GAN Inversion for Controllable Portrait Image Animation**|Connor Z. Lin et.al.|[2203.13441v1](http://arxiv.org/abs/2203.13441v1)|null|
-|**2022-03-25**|**BCOT: A Markerless High-Precision 3D Object Tracking Benchmark**|Jiachen Li et.al.|[2203.13437v1](http://arxiv.org/abs/2203.13437v1)|null|
-|**2022-03-25**|**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**|Zengjie Song et.al.|[2203.13412v1](http://arxiv.org/abs/2203.13412v1)|[link](https://github.com/zjsong/sspl)|
-|**2022-03-24**|**Calibration Error for Heterogeneous Treatment Effects**|Yizhe Xu et.al.|[2203.13364v1](http://arxiv.org/abs/2203.13364v1)|[link](https://github.com/crystalxur/calibration-metric-hte)|
