@@ -2,9 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-30**|**Shock Hugoniot of diamond from 3 to 80 TPa**|Damian C. Swift et.al.|[2203.16065v1](http://arxiv.org/abs/2203.16065v1)|null|
+|**2022-03-30**|**VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics**|Haresh Karnan et.al.|[2203.15983v1](http://arxiv.org/abs/2203.15983v1)|null|
+|**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman et.al.|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
+|**2022-03-29**|**Neural Inertial Localization**|Sachini Herath et.al.|[2203.15851v1](http://arxiv.org/abs/2203.15851v1)|[link](https://github.com/Sachini/niloc)|
 |**2022-03-29**|**Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**|Yifeng Jiang et.al.|[2203.15720v1](http://arxiv.org/abs/2203.15720v1)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**Socially Compliant Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation**|Haresh Karnan et.al.|[2203.15041v1](http://arxiv.org/abs/2203.15041v1)|null|
+|**2022-03-28**|**Robust and Energy-efficient PPG-based Heart-Rate Monitoring**|Matteo Risso et.al.|[2203.16339v1](http://arxiv.org/abs/2203.16339v1)|null|
 |**2022-03-25**|**FD-SLAM: 3-D Reconstruction Using Features and Dense Matching**|Xingrui Yang et.al.|[2203.13861v1](http://arxiv.org/abs/2203.13861v1)|null|
 |**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
 |**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
@@ -27,8 +32,3 @@
 |**2022-03-16**|**GOMP-ST: Grasp Optimized Motion Planning for Suction Transport**|Yahav Avigal et.al.|[2203.08359v1](http://arxiv.org/abs/2203.08359v1)|null|
 |**2022-03-15**|**Role of self-generated magnetic fields in the inertial fusion ignition threshold**|James D. Sadler et.al.|[2203.08258v1](http://arxiv.org/abs/2203.08258v1)|null|
 |**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
-|**2022-03-15**|**On Galois inertial types of elliptic curves over $\mathbb{Q}_\ell$**|Lassina Dembélé et.al.|[2203.07787v1](http://arxiv.org/abs/2203.07787v1)|null|
-|**2022-03-15**|**Thermodynamic engine powered by anisotropic fluctuations**|Olga Movilla Miangolarra et.al.|[2203.07573v2](http://arxiv.org/abs/2203.07573v2)|null|
-|**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
-|**2022-03-14**|**Estimation of the trajectory and attitude of railway vehicles using inertial sensors with application to track geometry measurement**|J. González-Carbajal et.al.|[2203.07278v1](http://arxiv.org/abs/2203.07278v1)|null|
-|**2022-03-14**|**Refined Astrometry on Board a CubeSat**|Boris Segret et.al.|[2203.07254v1](http://arxiv.org/abs/2203.07254v1)|null|

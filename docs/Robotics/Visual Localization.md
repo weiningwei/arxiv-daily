@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-30**|**Hybrid Diffractive Optics Design via Hardware-in-the-Loop Methodology for Achromatic Extended-Depth-of-Field Imaging**|Samuel Pinilla et.al.|[2203.16407v1](http://arxiv.org/abs/2203.16407v1)|null|
+|**2022-03-30**|**PEGG-Net: Background Agnostic Pixel-Wise Efficient Grasp Generation Under Closed-Loop Conditions**|Zhiyang Liu et.al.|[2203.16301v1](http://arxiv.org/abs/2203.16301v1)|null|
+|**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
+|**2022-03-30**|**Interactive Multi-scale Fusion of 2D and 3D Features for Multi-object Tracking**|Guangming Wang et.al.|[2203.16268v1](http://arxiv.org/abs/2203.16268v1)|null|
+|**2022-03-30**|**On the Road to Online Adaptation for Semantic Image Segmentation**|Riccardo Volpi et.al.|[2203.16195v1](http://arxiv.org/abs/2203.16195v1)|[link](https://github.com/naver/oasis)|
+|**2022-03-30**|**Sensor Data Validation and Driving Safety in Autonomous Driving Systems**|Jindi Zhang et.al.|[2203.16130v1](http://arxiv.org/abs/2203.16130v1)|null|
+|**2022-03-30**|**Contribution of the Temperature of the Objects to the Problem of Thermal Imaging Focusing**|Virginia Espinosa-Duró et.al.|[2203.16106v1](http://arxiv.org/abs/2203.16106v1)|null|
+|**2022-03-30**|**Pay Attention to Hidden States for Video Deblurring: Ping-Pong Recurrent Neural Networks and Selective Non-Local Attention**|JoonKyu Park et.al.|[2203.16063v1](http://arxiv.org/abs/2203.16063v1)|null|
+|**2022-03-30**|**Self-supervised 360$^{\circ}$ Room Layout Estimation**|Hao-Wen Ting et.al.|[2203.16057v1](http://arxiv.org/abs/2203.16057v1)|null|
+|**2022-03-30**|**Plasmoids formation during simulations of coaxial helicity injection in the National Spherical Torus Experiment**|F. Ebrahimi et.al.|[2203.16018v1](http://arxiv.org/abs/2203.16018v1)|null|
+|**2022-03-29**|**Graph Neural Networks in IoT: A Survey**|Guimin Dong et.al.|[2203.15935v1](http://arxiv.org/abs/2203.15935v1)|[link](https://github.com/guimindong/gnn4iot)|
+|**2022-03-29**|**Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images**|Ayush Tewari et.al.|[2203.15926v1](http://arxiv.org/abs/2203.15926v1)|null|
+|**2022-03-29**|**On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2203.15865v1](http://arxiv.org/abs/2203.15865v1)|null|
+|**2022-03-29**|**Neural Inertial Localization**|Sachini Herath et.al.|[2203.15851v1](http://arxiv.org/abs/2203.15851v1)|[link](https://github.com/Sachini/niloc)|
+|**2022-03-29**|**NNLander-VeriF: A Neural Network Formal Verification Framework for Vision-Based Autonomous Aircraft Landing**|Ulices Santa Cruz et.al.|[2203.15841v1](http://arxiv.org/abs/2203.15841v1)|null|
 |**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
 |**2022-03-29**|**Fruit Mapping with Shape Completion for Autonomous Crop Monitoring**|Salih Marangoz et.al.|[2203.15489v1](http://arxiv.org/abs/2203.15489v1)|null|
 |**2022-03-29**|**A Naturalistic Database of Thermal Emotional Facial Expressions and Effects of Induced Emotions on Memory**|Anna Esposito et.al.|[2203.15443v1](http://arxiv.org/abs/2203.15443v1)|null|
@@ -15,20 +30,5 @@
 |**2022-03-28**|**Pupil-aware Holography**|Praneeth Chakravarthula et.al.|[2203.14939v1](http://arxiv.org/abs/2203.14939v1)|null|
 |**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
 |**2022-03-28**|**HDR Reconstruction from Bracketed Exposures and Events**|Richard Shaw et.al.|[2203.14825v1](http://arxiv.org/abs/2203.14825v1)|null|
+|**2022-03-28**|**Reliability and Validity of the Polar V800 Sports Watch for Estimating Vertical Jump Height**|Manuel-Vicente Garnacho-Castaño et.al.|[2203.16442v1](http://arxiv.org/abs/2203.16442v1)|null|
 |**2022-03-28**|**Open-VICO: An Open-Source Gazebo Toolkit for Multi-Camera-based Skeleton Tracking in Human-Robot Collaboration**|Luca Fortini et.al.|[2203.14733v1](http://arxiv.org/abs/2203.14733v1)|null|
-|**2022-03-28**|**Learning to estimate UAV created turbulence from scene structure observed by onboard cameras**|Quentin Possamaï et.al.|[2203.14726v1](http://arxiv.org/abs/2203.14726v1)|null|
-|**2022-03-28**|**Are High-Resolution Event Cameras Really Needed?**|Daniel Gehrig et.al.|[2203.14672v1](http://arxiv.org/abs/2203.14672v1)|null|
-|**2022-03-28**|**CenterLoc3D: Monocular 3D Vehicle Localization Network for Roadside Surveillance Cameras**|Tang Xinyao et.al.|[2203.14550v1](http://arxiv.org/abs/2203.14550v1)|null|
-|**2022-03-28**|**Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**|Junyong Lee et.al.|[2203.14537v1](http://arxiv.org/abs/2203.14537v1)|[link](https://github.com/codeslake/RefVSR)|
-|**2022-03-28**|**Optimization of Directional Landmark Deployment for Visual Observer on SE(3)**|Zike Lei et.al.|[2203.14485v1](http://arxiv.org/abs/2203.14485v1)|null|
-|**2022-03-28**|**An Interactive Image-based Modeling System**|Zhi He et.al.|[2203.14441v1](http://arxiv.org/abs/2203.14441v1)|null|
-|**2022-03-27**|**bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments**|Vitthal Bhandari et.al.|[2203.14267v1](http://arxiv.org/abs/2203.14267v1)|[link](https://github.com/vitthal-bhandari/homophobia-transphobia-detection)|
-|**2022-03-27**|**Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships**|Chao Lou et.al.|[2203.14260v1](http://arxiv.org/abs/2203.14260v1)|null|
-|**2022-03-27**|**Audio-Adaptive Activity Recognition Across Video Domains**|Yunhua Zhang et.al.|[2203.14240v2](http://arxiv.org/abs/2203.14240v2)|[link](https://github.com/xiaobai1217/DomainAdaptation)|
-|**2022-03-27**|**Deep Polarimetric HDR Reconstruction**|Juiwen Ting et.al.|[2203.14190v1](http://arxiv.org/abs/2203.14190v1)|null|
-|**2022-03-26**|**Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**|Yujiao Shi et.al.|[2203.14148v1](http://arxiv.org/abs/2203.14148v1)|null|
-|**2022-03-26**|**Automated Thermal Screening for COVID-19 using Machine Learning**|Pratik Katte et.al.|[2203.14128v2](http://arxiv.org/abs/2203.14128v2)|null|
-|**2022-03-26**|**Medicinal Boxes Recognition on a Deep Transfer Learning Augmented Reality Mobile Application**|Danilo Avola et.al.|[2203.14031v1](http://arxiv.org/abs/2203.14031v1)|null|
-|**2022-03-25**|**TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**|Weihua He et.al.|[2203.13859v1](http://arxiv.org/abs/2203.13859v1)|null|
-|**2022-03-25**|**Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review**|Can Cui et.al.|[2203.15588v1](http://arxiv.org/abs/2203.15588v1)|null|
-|**2022-03-25**|**DOTS: An Open Testbed for Industrial Swarm Robotic Solutions**|Simon Jones et.al.|[2203.13809v1](http://arxiv.org/abs/2203.13809v1)|null|
