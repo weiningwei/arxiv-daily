@@ -27,7 +27,7 @@
 |**2022-03-27**|**Audio-Adaptive Activity Recognition Across Video Domains**|Yunhua Zhang et.al.|[2203.14240v2](http://arxiv.org/abs/2203.14240v2)|[link](https://github.com/xiaobai1217/DomainAdaptation)|
 |**2022-03-27**|**Deep Polarimetric HDR Reconstruction**|Juiwen Ting et.al.|[2203.14190v1](http://arxiv.org/abs/2203.14190v1)|null|
 |**2022-03-26**|**Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**|Yujiao Shi et.al.|[2203.14148v1](http://arxiv.org/abs/2203.14148v1)|null|
-|**2022-03-26**|**Automated Thermal Screening for COVID-19 using Machine Learning**|Pratik Katte et.al.|[2203.14128v1](http://arxiv.org/abs/2203.14128v1)|null|
+|**2022-03-26**|**Automated Thermal Screening for COVID-19 using Machine Learning**|Pratik Katte et.al.|[2203.14128v2](http://arxiv.org/abs/2203.14128v2)|null|
 |**2022-03-26**|**Medicinal Boxes Recognition on a Deep Transfer Learning Augmented Reality Mobile Application**|Danilo Avola et.al.|[2203.14031v1](http://arxiv.org/abs/2203.14031v1)|null|
 |**2022-03-25**|**TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**|Weihua He et.al.|[2203.13859v1](http://arxiv.org/abs/2203.13859v1)|null|
 |**2022-03-25**|**Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review**|Can Cui et.al.|[2203.15588v1](http://arxiv.org/abs/2203.15588v1)|null|
