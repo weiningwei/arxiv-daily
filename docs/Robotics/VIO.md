@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-31**|**VQF: Highly Accurate IMU Orientation Estimation with Bias Estimation and Magnetic Disturbance Rejection**|Daniel Laidig et.al.|[2203.17024v1](http://arxiv.org/abs/2203.17024v1)|null|
+|**2022-03-31**|**Probabilistic Map Matching for Robust Inertial Navigation Aiding**|Xuezhi Wang et.al.|[2203.16932v1](http://arxiv.org/abs/2203.16932v1)|null|
+|**2022-03-31**|**Assessment of anisotropy and revisiting Kolmogorov constant in particle-laden turbulent channel flows**|Naveen Rohilla et.al.|[2203.16820v1](http://arxiv.org/abs/2203.16820v1)|null|
 |**2022-03-30**|**Shock Hugoniot of diamond from 3 to 80 TPa**|Damian C. Swift et.al.|[2203.16065v1](http://arxiv.org/abs/2203.16065v1)|null|
 |**2022-03-30**|**VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics**|Haresh Karnan et.al.|[2203.15983v1](http://arxiv.org/abs/2203.15983v1)|null|
 |**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman et.al.|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
@@ -29,6 +32,3 @@
 |**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|
 |**2022-03-17**|**HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions**|Han Liang et.al.|[2203.09287v1](http://arxiv.org/abs/2203.09287v1)|null|
 |**2022-03-16**|**Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors**|Xinyu Yi et.al.|[2203.08528v2](http://arxiv.org/abs/2203.08528v2)|null|
-|**2022-03-16**|**GOMP-ST: Grasp Optimized Motion Planning for Suction Transport**|Yahav Avigal et.al.|[2203.08359v1](http://arxiv.org/abs/2203.08359v1)|null|
-|**2022-03-15**|**Role of self-generated magnetic fields in the inertial fusion ignition threshold**|James D. Sadler et.al.|[2203.08258v1](http://arxiv.org/abs/2203.08258v1)|null|
-|**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
