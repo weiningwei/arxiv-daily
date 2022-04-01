@@ -12,7 +12,7 @@
 |**2022-03-30**|**Pay Attention to Hidden States for Video Deblurring: Ping-Pong Recurrent Neural Networks and Selective Non-Local Attention**|JoonKyu Park et.al.|[2203.16063v1](http://arxiv.org/abs/2203.16063v1)|null|
 |**2022-03-30**|**Self-supervised 360$^{\circ}$ Room Layout Estimation**|Hao-Wen Ting et.al.|[2203.16057v1](http://arxiv.org/abs/2203.16057v1)|null|
 |**2022-03-30**|**Plasmoids formation during simulations of coaxial helicity injection in the National Spherical Torus Experiment**|F. Ebrahimi et.al.|[2203.16018v1](http://arxiv.org/abs/2203.16018v1)|null|
-|**2022-03-29**|**Graph Neural Networks in IoT: A Survey**|Guimin Dong et.al.|[2203.15935v1](http://arxiv.org/abs/2203.15935v1)|[link](https://github.com/guimindong/gnn4iot)|
+|**2022-03-29**|**Graph Neural Networks in IoT: A Survey**|Guimin Dong et.al.|[2203.15935v2](http://arxiv.org/abs/2203.15935v2)|[link](https://github.com/guimindong/gnn4iot)|
 |**2022-03-29**|**Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images**|Ayush Tewari et.al.|[2203.15926v1](http://arxiv.org/abs/2203.15926v1)|null|
 |**2022-03-29**|**On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2203.15865v1](http://arxiv.org/abs/2203.15865v1)|null|
 |**2022-03-29**|**Neural Inertial Localization**|Sachini Herath et.al.|[2203.15851v1](http://arxiv.org/abs/2203.15851v1)|[link](https://github.com/Sachini/niloc)|
