@@ -12,7 +12,7 @@
 |**2022-03-31**|**A Temporal Learning Approach to Inpainting Endoscopic Specularities and Its effect on Image Correspondence**|Rema Daher et.al.|[2203.17013v1](http://arxiv.org/abs/2203.17013v1)|null|
 |**2022-03-31**|**On design of hybrid diffractive optics for achromatic extended depth-of-field (EDoF) RGB imaging**|Seyyed Reza Miri Rostami et.al.|[2203.16985v1](http://arxiv.org/abs/2203.16985v1)|null|
 |**2022-03-31**|**Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**|Semih Orhan et.al.|[2203.16945v1](http://arxiv.org/abs/2203.16945v1)|null|
-|**2022-03-31**|**A Dataset of Images of Public Streetlights with Operational Monitoring using Computer Vision Techniques**|Ioannis Mavromatis et.al.|[2203.16915v1](http://arxiv.org/abs/2203.16915v1)|null|
+|**2022-03-31**|**A Dataset of Images of Public Streetlights with Operational Monitoring using Computer Vision Techniques**|Ioannis Mavromatis et.al.|[2203.16915v2](http://arxiv.org/abs/2203.16915v2)|null|
 |**2022-03-31**|**CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow**|Xiuchao Sui et.al.|[2203.16896v1](http://arxiv.org/abs/2203.16896v1)|[link](https://github.com/askerlee/craft)|
 |**2022-03-31**|**Casual 6-DoF: free-viewpoint panorama using a handheld 360 camera**|Rongsen Chen et.al.|[2203.16756v1](http://arxiv.org/abs/2203.16756v1)|null|
 |**2022-03-30**|**Task Adaptive Parameter Sharing for Multi-Task Learning**|Matthew Wallingford et.al.|[2203.16708v1](http://arxiv.org/abs/2203.16708v1)|null|
@@ -23,7 +23,7 @@
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
 |**2022-03-30**|**Interactive Multi-scale Fusion of 2D and 3D Features for Multi-object Tracking**|Guangming Wang et.al.|[2203.16268v1](http://arxiv.org/abs/2203.16268v1)|null|
 |**2022-03-30**|**On the Road to Online Adaptation for Semantic Image Segmentation**|Riccardo Volpi et.al.|[2203.16195v1](http://arxiv.org/abs/2203.16195v1)|[link](https://github.com/naver/oasis)|
-|**2022-03-30**|**Sensor Data Validation and Driving Safety in Autonomous Driving Systems**|Jindi Zhang et.al.|[2203.16130v1](http://arxiv.org/abs/2203.16130v1)|null|
+|**2022-03-30**|**Sensor Data Validation and Driving Safety in Autonomous Driving Systems**|Jindi Zhang et.al.|[2203.16130v2](http://arxiv.org/abs/2203.16130v2)|null|
 |**2022-03-30**|**Contribution of the Temperature of the Objects to the Problem of Thermal Imaging Focusing**|Virginia Espinosa-Duró et.al.|[2203.16106v1](http://arxiv.org/abs/2203.16106v1)|null|
 |**2022-03-30**|**Pay Attention to Hidden States for Video Deblurring: Ping-Pong Recurrent Neural Networks and Selective Non-Local Attention**|JoonKyu Park et.al.|[2203.16063v1](http://arxiv.org/abs/2203.16063v1)|null|
 |**2022-03-30**|**Self-supervised 360$^{\circ}$ Room Layout Estimation**|Hao-Wen Ting et.al.|[2203.16057v1](http://arxiv.org/abs/2203.16057v1)|null|
