@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-04-01**|**DFNet: Enhance Aboslute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v1](http://arxiv.org/abs/2204.00559v1)|null|
+|**2022-04-01**|**DFNet: Enhance Absolute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v2](http://arxiv.org/abs/2204.00559v2)|null|
 |**2022-04-01**|**Wavelength-by-wavelength temperature-independent thermal radiation utilizing an insulator-metal transition**|Jonathan King et.al.|[2204.00494v1](http://arxiv.org/abs/2204.00494v1)|null|
 |**2022-04-01**|**Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection**|Yachun Li et.al.|[2204.00376v1](http://arxiv.org/abs/2204.00376v1)|null|
 |**2022-04-01**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367v1](http://arxiv.org/abs/2204.00367v1)|[link](https://github.com/lingyanruan/DRBNet)|
@@ -22,7 +22,7 @@
 |**2022-03-31**|**CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow**|Xiuchao Sui et.al.|[2203.16896v1](http://arxiv.org/abs/2203.16896v1)|[link](https://github.com/askerlee/craft)|
 |**2022-03-31**|**Casual 6-DoF: free-viewpoint panorama using a handheld 360 camera**|Rongsen Chen et.al.|[2203.16756v1](http://arxiv.org/abs/2203.16756v1)|null|
 |**2022-03-30**|**Task Adaptive Parameter Sharing for Multi-Task Learning**|Matthew Wallingford et.al.|[2203.16708v1](http://arxiv.org/abs/2203.16708v1)|null|
-|**2022-03-30**|**Ball 3D localization from a single calibrated image**|Gabriel Van Zandycke et.al.|[2204.00003v1](http://arxiv.org/abs/2204.00003v1)|[link](https://github.com/gabriel-vanzandycke/deepsport)|
+|**2022-03-30**|**Ball 3D localization from a single calibrated image**|Gabriel Van Zandycke et.al.|[2204.00003v2](http://arxiv.org/abs/2204.00003v2)|[link](https://github.com/gabriel-vanzandycke/deepsport)|
 |**2022-03-30**|**Constrained Few-shot Class-incremental Learning**|Michael Hersche et.al.|[2203.16588v1](http://arxiv.org/abs/2203.16588v1)|[link](https://github.com/ibm/constrained-fscil)|
 |**2022-03-30**|**Hybrid Diffractive Optics Design via Hardware-in-the-Loop Methodology for Achromatic Extended-Depth-of-Field Imaging**|Samuel Pinilla et.al.|[2203.16407v1](http://arxiv.org/abs/2203.16407v1)|null|
 |**2022-03-30**|**Machine Learning Approaches for Non-Intrusive Home Absence Detection Based on Appliance Electrical Use**|Athanasios Lentzas et.al.|[2203.16538v1](http://arxiv.org/abs/2203.16538v1)|null|
