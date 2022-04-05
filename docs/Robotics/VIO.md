@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
+|**2022-04-04**|**Harvesting Entanglement by non-identical detectors with different energy gaps**|Hui Hu et.al.|[2204.01219v1](http://arxiv.org/abs/2204.01219v1)|null|
+|**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy et.al.|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|null|
+|**2022-04-01**|**Design of Low Thrust Controlled Maneuvers to Chase and De-orbit the Space Debris**|Roshan Sah et.al.|[2204.00674v1](http://arxiv.org/abs/2204.00674v1)|null|
+|**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
 |**2022-04-01**|**Comments to "A non-thermal laser-driven mixed fuel nuclear fusion reactor concept" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**|Karl Lackner et.al.|[2204.00269v1](http://arxiv.org/abs/2204.00269v1)|null|
 |**2022-04-01**|**Dynamics of particle-laden turbulent Couette flow. Part2: Modified fluctuating force model (M-FFS)**|Swagnik Ghosh et.al.|[2204.00236v1](http://arxiv.org/abs/2204.00236v1)|null|
 |**2022-04-01**|**Dynamics of particle-laden turbulent Couette flow. Part1: Turbulence modulation by inertial particles**|Swagnik Ghosh et.al.|[2204.00217v1](http://arxiv.org/abs/2204.00217v1)|null|
@@ -27,8 +32,3 @@
 |**2022-03-22**|**Port-Hamiltonian inspired gradient diffusion model for magnetohydrodynamic turbulence**|Benjamin Beck et.al.|[2203.11536v1](http://arxiv.org/abs/2203.11536v1)|null|
 |**2022-03-22**|**Rotating quantum wave turbulence**|J. T. Mäkinen et.al.|[2203.11527v1](http://arxiv.org/abs/2203.11527v1)|null|
 |**2022-03-21**|**Multi-Agent Relative Pose Estimation with UWB and Constrained Communications**|Andrew Fishberg et.al.|[2203.11004v1](http://arxiv.org/abs/2203.11004v1)|null|
-|**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
-|**2022-03-19**|**Clustering in laboratory and numerical turbulent swirling flows**|Sofía Angriman et.al.|[2203.10195v1](http://arxiv.org/abs/2203.10195v1)|null|
-|**2022-03-18**|**Boreas: A Multi-Season Autonomous Driving Dataset**|Keenan Burnett et.al.|[2203.10168v1](http://arxiv.org/abs/2203.10168v1)|null|
-|**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
-|**2022-03-18**|**Existence for a nonlocal Penrose--Fife type phase field system with inertial term**|Shunsuke Kurima et.al.|[2203.09874v1](http://arxiv.org/abs/2203.09874v1)|null|

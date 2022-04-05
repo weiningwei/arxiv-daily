@@ -2,10 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-04**|**The miniJPAS survey: Identification and characterization of the emission line galaxies down to $z < 0.35$ in the AEGIS field**|G. Martínez-Solaeche et.al.|[2204.01698v1](http://arxiv.org/abs/2204.01698v1)|null|
+|**2022-04-04**|**Monitoring social distancing with single image depth estimation**|Alessio Mingozzi et.al.|[2204.01693v1](http://arxiv.org/abs/2204.01693v1)|null|
+|**2022-04-04**|**Degradation-agnostic Correspondence from Resolution-asymmetric Stereo**|Xihao Chen et.al.|[2204.01429v1](http://arxiv.org/abs/2204.01429v1)|null|
+|**2022-04-04**|**RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo**|Junhua Xi et.al.|[2204.01320v1](http://arxiv.org/abs/2204.01320v1)|null|
+|**2022-04-04**|**Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery**|Mugalodi Rakesh et.al.|[2204.01276v1](http://arxiv.org/abs/2204.01276v1)|null|
+|**2022-04-03**|**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**|Peishan Cong et.al.|[2204.01026v1](http://arxiv.org/abs/2204.01026v1)|[link](https://github.com/4dvlab/stcrowd)|
+|**2022-04-03**|**Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature**|Zhixiang Wang et.al.|[2204.00974v1](http://arxiv.org/abs/2204.00974v1)|[link](https://github.com/lightchaserx/neural-global-shutter)|
+|**2022-04-01**|**CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation**|Nishant Kambhatla et.al.|[2204.00665v1](http://arxiv.org/abs/2204.00665v1)|[link](https://github.com/protonish/cipherdaug-nmt)|
 |**2022-04-01**|**DFNet: Enhance Absolute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v2](http://arxiv.org/abs/2204.00559v2)|null|
 |**2022-04-01**|**Wavelength-by-wavelength temperature-independent thermal radiation utilizing an insulator-metal transition**|Jonathan King et.al.|[2204.00494v1](http://arxiv.org/abs/2204.00494v1)|null|
+|**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
 |**2022-04-01**|**Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection**|Yachun Li et.al.|[2204.00376v1](http://arxiv.org/abs/2204.00376v1)|null|
 |**2022-04-01**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367v1](http://arxiv.org/abs/2204.00367v1)|[link](https://github.com/lingyanruan/DRBNet)|
+|**2022-04-01**|**Internet-of-Things Architectures for Secure Cyber-Physical Spaces: the VISOR Experience Report**|Daniel De Pascale et.al.|[2204.01531v1](http://arxiv.org/abs/2204.01531v1)|null|
+|**2022-04-01**|**An ICT based Solution for Virtual Garment Fitting for Online Market Place: A Review of Related Literature**|Hashini Gunatilake et.al.|[2204.00625v1](http://arxiv.org/abs/2204.00625v1)|null|
 |**2022-04-01**|**Pose correction scheme for camera-scanning Fourier ptychography based on camera calibration and homography transform**|Baiqi Cui et.al.|[2204.00173v1](http://arxiv.org/abs/2204.00173v1)|null|
 |**2022-04-01**|**Stereo Unstructured Magnification: Multiple Homography Image for View Synthesis**|Qi Zhang et.al.|[2204.00156v1](http://arxiv.org/abs/2204.00156v1)|null|
 |**2022-03-31**|**BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**|Zhiqi Li et.al.|[2203.17270v1](http://arxiv.org/abs/2203.17270v1)|[link](https://github.com/zhiqi-li/BEVFormer)|
@@ -21,14 +32,3 @@
 |**2022-03-31**|**A Dataset of Images of Public Streetlights with Operational Monitoring using Computer Vision Techniques**|Ioannis Mavromatis et.al.|[2203.16915v2](http://arxiv.org/abs/2203.16915v2)|null|
 |**2022-03-31**|**CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow**|Xiuchao Sui et.al.|[2203.16896v1](http://arxiv.org/abs/2203.16896v1)|[link](https://github.com/askerlee/craft)|
 |**2022-03-31**|**Casual 6-DoF: free-viewpoint panorama using a handheld 360 camera**|Rongsen Chen et.al.|[2203.16756v1](http://arxiv.org/abs/2203.16756v1)|null|
-|**2022-03-30**|**Task Adaptive Parameter Sharing for Multi-Task Learning**|Matthew Wallingford et.al.|[2203.16708v1](http://arxiv.org/abs/2203.16708v1)|null|
-|**2022-03-30**|**Ball 3D localization from a single calibrated image**|Gabriel Van Zandycke et.al.|[2204.00003v2](http://arxiv.org/abs/2204.00003v2)|[link](https://github.com/gabriel-vanzandycke/deepsport)|
-|**2022-03-30**|**Constrained Few-shot Class-incremental Learning**|Michael Hersche et.al.|[2203.16588v1](http://arxiv.org/abs/2203.16588v1)|[link](https://github.com/ibm/constrained-fscil)|
-|**2022-03-30**|**Hybrid Diffractive Optics Design via Hardware-in-the-Loop Methodology for Achromatic Extended-Depth-of-Field Imaging**|Samuel Pinilla et.al.|[2203.16407v1](http://arxiv.org/abs/2203.16407v1)|null|
-|**2022-03-30**|**Machine Learning Approaches for Non-Intrusive Home Absence Detection Based on Appliance Electrical Use**|Athanasios Lentzas et.al.|[2203.16538v1](http://arxiv.org/abs/2203.16538v1)|null|
-|**2022-03-30**|**PEGG-Net: Background Agnostic Pixel-Wise Efficient Grasp Generation Under Closed-Loop Conditions**|Zhiyang Liu et.al.|[2203.16301v1](http://arxiv.org/abs/2203.16301v1)|null|
-|**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
-|**2022-03-30**|**Interactive Multi-scale Fusion of 2D and 3D Features for Multi-object Tracking**|Guangming Wang et.al.|[2203.16268v1](http://arxiv.org/abs/2203.16268v1)|null|
-|**2022-03-30**|**On the Road to Online Adaptation for Semantic Image Segmentation**|Riccardo Volpi et.al.|[2203.16195v1](http://arxiv.org/abs/2203.16195v1)|[link](https://github.com/naver/oasis)|
-|**2022-03-30**|**Sensor Data Validation and Driving Safety in Autonomous Driving Systems**|Jindi Zhang et.al.|[2203.16130v2](http://arxiv.org/abs/2203.16130v2)|null|
-|**2022-03-30**|**Contribution of the Temperature of the Objects to the Problem of Thermal Imaging Focusing**|Virginia Espinosa-Duró et.al.|[2203.16106v1](http://arxiv.org/abs/2203.16106v1)|null|
