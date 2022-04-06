@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
+|**2022-04-04**|**Chaos over Order: Mapping 3D Rotation of Triaxial Asteroids and Minor Planets**|Valeri V. Makarov et.al.|[2204.01854v1](http://arxiv.org/abs/2204.01854v1)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-04-04**|**Harvesting Entanglement by non-identical detectors with different energy gaps**|Hui Hu et.al.|[2204.01219v1](http://arxiv.org/abs/2204.01219v1)|null|
 |**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy et.al.|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|null|
@@ -30,5 +32,3 @@
 |**2022-03-22**|**Analysis Method of Strapdown Inertial Navigation Error Distribution Based on Covariance Matrix Decomposition**|Xiaokang Yang et.al.|[2203.11810v1](http://arxiv.org/abs/2203.11810v1)|null|
 |**2022-03-22**|**Entanglement Witness for the Weak Equivalence Principle**|Sougato Bose et.al.|[2203.11628v1](http://arxiv.org/abs/2203.11628v1)|null|
 |**2022-03-22**|**Port-Hamiltonian inspired gradient diffusion model for magnetohydrodynamic turbulence**|Benjamin Beck et.al.|[2203.11536v1](http://arxiv.org/abs/2203.11536v1)|null|
-|**2022-03-22**|**Rotating quantum wave turbulence**|J. T. Mäkinen et.al.|[2203.11527v1](http://arxiv.org/abs/2203.11527v1)|null|
-|**2022-03-21**|**Multi-Agent Relative Pose Estimation with UWB and Constrained Communications**|Andrew Fishberg et.al.|[2203.11004v1](http://arxiv.org/abs/2203.11004v1)|null|
