@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-06**|**Video Demoireing with Relation-Based Temporal Consistency**|Peng Dai et.al.|[2204.02957v1](http://arxiv.org/abs/2204.02957v1)|null|
+|**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
+|**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes et.al.|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|[link](https://github.com/lukasbommes/pv-hawk)|
+|**2022-04-06**|**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**|Chen Yan et.al.|[2204.02675v1](http://arxiv.org/abs/2204.02675v1)|null|
+|**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
+|**2022-04-06**|**Probing Structured Pruning on Multilingual Pre-trained Models: Settings, Algorithms, and Efficiency**|Yanyang Li et.al.|[2204.02601v1](http://arxiv.org/abs/2204.02601v1)|null|
+|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v1](http://arxiv.org/abs/2204.02585v1)|null|
+|**2022-04-06**|**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**|Jinkai Zheng et.al.|[2204.02569v1](http://arxiv.org/abs/2204.02569v1)|null|
+|**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu et.al.|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|[link](https://github.com/amazon-research/small-baseline-camera-tracking)|
+|**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
 |**2022-04-05**|**iSDF: Real-Time Neural Signed Distance Fields for Robot Perception**|Joseph Ortiz et.al.|[2204.02296v1](http://arxiv.org/abs/2204.02296v1)|null|
 |**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
 |**2022-04-05**|**Distant trans-Neptunian object candidates from NASA's TESS mission scrutinised: fainter than predicted or false positives?**|C. de la Fuente Marcos et.al.|[2204.02230v1](http://arxiv.org/abs/2204.02230v1)|null|
@@ -22,13 +32,3 @@
 |**2022-04-01**|**CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation**|Nishant Kambhatla et.al.|[2204.00665v1](http://arxiv.org/abs/2204.00665v1)|[link](https://github.com/protonish/cipherdaug-nmt)|
 |**2022-04-01**|**DFNet: Enhance Absolute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v2](http://arxiv.org/abs/2204.00559v2)|null|
 |**2022-04-01**|**Wavelength-by-wavelength temperature-independent thermal radiation utilizing an insulator-metal transition**|Jonathan King et.al.|[2204.00494v1](http://arxiv.org/abs/2204.00494v1)|null|
-|**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
-|**2022-04-01**|**Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection**|Yachun Li et.al.|[2204.00376v1](http://arxiv.org/abs/2204.00376v1)|null|
-|**2022-04-01**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367v1](http://arxiv.org/abs/2204.00367v1)|[link](https://github.com/lingyanruan/DRBNet)|
-|**2022-04-01**|**Internet-of-Things Architectures for Secure Cyber-Physical Spaces: the VISOR Experience Report**|Daniel De Pascale et.al.|[2204.01531v1](http://arxiv.org/abs/2204.01531v1)|null|
-|**2022-04-01**|**An ICT based Solution for Virtual Garment Fitting for Online Market Place: A Review of Related Literature**|Hashini Gunatilake et.al.|[2204.00625v1](http://arxiv.org/abs/2204.00625v1)|null|
-|**2022-04-01**|**Pose correction scheme for camera-scanning Fourier ptychography based on camera calibration and homography transform**|Baiqi Cui et.al.|[2204.00173v1](http://arxiv.org/abs/2204.00173v1)|null|
-|**2022-04-01**|**Stereo Unstructured Magnification: Multiple Homography Image for View Synthesis**|Qi Zhang et.al.|[2204.00156v1](http://arxiv.org/abs/2204.00156v1)|null|
-|**2022-03-31**|**BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**|Zhiqi Li et.al.|[2203.17270v1](http://arxiv.org/abs/2203.17270v1)|[link](https://github.com/zhiqi-li/BEVFormer)|
-|**2022-03-31**|**R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis**|Huan Wang et.al.|[2203.17261v1](http://arxiv.org/abs/2203.17261v1)|[link](https://github.com/snap-research/r2l)|
-|**2022-03-31**|**SimVQA: Exploring Simulated Environments for Visual Question Answering**|Paola Cascante-Bonilla et.al.|[2203.17219v1](http://arxiv.org/abs/2203.17219v1)|null|
