@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-04-07 21:20:41 Asia/Shanghai
+ Automated deployment @ 2022-04-08 08:34:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -116,7 +116,7 @@
 |**2022-04-06**|**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**|Chen Yan et.al.|[2204.02675v1](http://arxiv.org/abs/2204.02675v1)|null|
 |**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
 |**2022-04-06**|**Probing Structured Pruning on Multilingual Pre-trained Models: Settings, Algorithms, and Efficiency**|Yanyang Li et.al.|[2204.02601v1](http://arxiv.org/abs/2204.02601v1)|null|
-|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v1](http://arxiv.org/abs/2204.02585v1)|null|
+|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v2](http://arxiv.org/abs/2204.02585v2)|null|
 |**2022-04-06**|**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**|Jinkai Zheng et.al.|[2204.02569v1](http://arxiv.org/abs/2204.02569v1)|null|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu et.al.|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|[link](https://github.com/amazon-research/small-baseline-camera-tracking)|
 |**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
