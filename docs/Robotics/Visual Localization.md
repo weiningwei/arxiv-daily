@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|[link](https://github.com/weiyithu/surrounddepth)|
+|**2022-04-07**|**Controlling Golog Programs against MTL Constraints**|Till Hofmann et.al.|[2204.03596v1](http://arxiv.org/abs/2204.03596v1)|null|
+|**2022-04-07**|**Cloudy and Cloud-free Thermal Phase Curves with PICASO: Applications to WASP-43b**|Nina Robbins-Blanch et.al.|[2204.03545v1](http://arxiv.org/abs/2204.03545v1)|null|
+|**2022-04-07**|**Event Transformer. A sparse-aware solution for efficient event data processing**|Alberto Sabater et.al.|[2204.03355v1](http://arxiv.org/abs/2204.03355v1)|[link](https://github.com/albertosabater/eventtransformer)|
+|**2022-04-07**|**Predicting Performance of Heterogeneous AI Systems with Discrete-Event Simulations**|Vyacheslav Zhdanovskiy et.al.|[2204.03332v1](http://arxiv.org/abs/2204.03332v1)|null|
+|**2022-04-07**|**Sparse Optical Flow-Based Line Feature Tracking**|Qiang Fu et.al.|[2204.03331v1](http://arxiv.org/abs/2204.03331v1)|null|
+|**2022-04-07**|**Federated Learning from Only Unlabeled Data with Class-Conditional-Sharing Clients**|Nan Lu et.al.|[2204.03304v1](http://arxiv.org/abs/2204.03304v1)|[link](https://github.com/lunanbit/fedul)|
+|**2022-04-07**|**Deep Learning for Real Time Satellite Pose Estimation on Low Power Edge TPU**|Alessandro Lotti et.al.|[2204.03296v1](http://arxiv.org/abs/2204.03296v1)|null|
+|**2022-04-07**|**HIT-UAV: A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles**|Jiashun Suo et.al.|[2204.03245v1](http://arxiv.org/abs/2204.03245v1)|null|
+|**2022-04-07**|**Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems**|Furkan Mumcu et.al.|[2204.03141v1](http://arxiv.org/abs/2204.03141v1)|null|
+|**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
+|**2022-04-06**|**DSGN++: Exploiting Visual-Spatial Relation forStereo-based 3D Detectors**|Yilun Chen et.al.|[2204.03039v1](http://arxiv.org/abs/2204.03039v1)|null|
 |**2022-04-06**|**Video Demoireing with Relation-Based Temporal Consistency**|Peng Dai et.al.|[2204.02957v1](http://arxiv.org/abs/2204.02957v1)|null|
 |**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
 |**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes et.al.|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|[link](https://github.com/lukasbommes/pv-hawk)|
@@ -20,15 +32,3 @@
 |**2022-04-05**|**Real-time Hyperspectral Imaging in Hardware via Trained Metasurface Encoders**|Maksim Makarenko et.al.|[2204.02084v1](http://arxiv.org/abs/2204.02084v1)|[link](https://github.com/makamoa/hyplex)|
 |**2022-04-05**|**Spread Spurious Attribute: Improving Worst-group Accuracy with Spurious Attribute Estimation**|Junhyun Nam et.al.|[2204.02070v1](http://arxiv.org/abs/2204.02070v1)|null|
 |**2022-04-05**|**An End-to-End Integrated Computation and Communication Architecture for Goal-oriented Networking: A Perspective on Live Surveillance Video**|Suvadip Batabyal et.al.|[2204.01987v1](http://arxiv.org/abs/2204.01987v1)|null|
-|**2022-04-04**|**Lightweight HDR Camera ISP for Robust Perception in Dynamic Illumination Conditions via Fourier Adversarial Networks**|Pranjay Shyam et.al.|[2204.01795v1](http://arxiv.org/abs/2204.01795v1)|null|
-|**2022-04-04**|**The miniJPAS survey: Identification and characterization of the emission line galaxies down to $z < 0.35$ in the AEGIS field**|G. Martínez-Solaeche et.al.|[2204.01698v1](http://arxiv.org/abs/2204.01698v1)|null|
-|**2022-04-04**|**Monitoring social distancing with single image depth estimation**|Alessio Mingozzi et.al.|[2204.01693v1](http://arxiv.org/abs/2204.01693v1)|null|
-|**2022-04-04**|**Degradation-agnostic Correspondence from Resolution-asymmetric Stereo**|Xihao Chen et.al.|[2204.01429v1](http://arxiv.org/abs/2204.01429v1)|null|
-|**2022-04-04**|**RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo**|Junhua Xi et.al.|[2204.01320v1](http://arxiv.org/abs/2204.01320v1)|null|
-|**2022-04-04**|**Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery**|Mugalodi Rakesh et.al.|[2204.01276v1](http://arxiv.org/abs/2204.01276v1)|null|
-|**2022-04-03**|**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**|Peishan Cong et.al.|[2204.01026v1](http://arxiv.org/abs/2204.01026v1)|[link](https://github.com/4dvlab/stcrowd)|
-|**2022-04-03**|**Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature**|Zhixiang Wang et.al.|[2204.00974v1](http://arxiv.org/abs/2204.00974v1)|[link](https://github.com/lightchaserx/neural-global-shutter)|
-|**2022-04-03**|**Estimating Fine-Grained Noise Model via Contrastive Learning**|Yunhao Zou et.al.|[2204.01716v1](http://arxiv.org/abs/2204.01716v1)|null|
-|**2022-04-01**|**CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation**|Nishant Kambhatla et.al.|[2204.00665v1](http://arxiv.org/abs/2204.00665v1)|[link](https://github.com/protonish/cipherdaug-nmt)|
-|**2022-04-01**|**DFNet: Enhance Absolute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v2](http://arxiv.org/abs/2204.00559v2)|null|
-|**2022-04-01**|**Wavelength-by-wavelength temperature-independent thermal radiation utilizing an insulator-metal transition**|Jonathan King et.al.|[2204.00494v1](http://arxiv.org/abs/2204.00494v1)|null|

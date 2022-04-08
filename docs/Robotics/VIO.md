@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-07**|**Magneto-inertial range dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2204.03524v1](http://arxiv.org/abs/2204.03524v1)|null|
+|**2022-04-07**|**A universal model for drag on a spherical bubble**|Qiang Sun et.al.|[2204.03349v1](http://arxiv.org/abs/2204.03349v1)|null|
+|**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
+|**2022-04-06**|**Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time. Part 2: Spin-zero Duffin-Kemmer-Petiau-like oscillator**|R. R. Cuzinatto et.al.|[2204.03049v1](http://arxiv.org/abs/2204.03049v1)|null|
+|**2022-04-06**|**Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time. Part 1: Klein-Gordon oscillator**|R. R. Cuzinatto et.al.|[2204.03048v1](http://arxiv.org/abs/2204.03048v1)|null|
+|**2022-04-06**|**From a microscopic inertial active matter model to the Schrödinger equation**|Michael te Vrugt et.al.|[2204.03018v1](http://arxiv.org/abs/2204.03018v1)|null|
 |**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
 |**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
 |**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
@@ -26,9 +32,3 @@
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**Socially Compliant Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation**|Haresh Karnan et.al.|[2203.15041v1](http://arxiv.org/abs/2203.15041v1)|null|
 |**2022-03-28**|**Robust and Energy-efficient PPG-based Heart-Rate Monitoring**|Matteo Risso et.al.|[2203.16339v1](http://arxiv.org/abs/2203.16339v1)|null|
-|**2022-03-25**|**FD-SLAM: 3-D Reconstruction Using Features and Dense Matching**|Xingrui Yang et.al.|[2203.13861v1](http://arxiv.org/abs/2203.13861v1)|null|
-|**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
-|**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
-|**2022-03-24**|**Q-PPG: Energy-Efficient PPG-based Heart Rate Monitoring on Wearable Devices**|Alessio Burrello et.al.|[2203.14907v1](http://arxiv.org/abs/2203.14907v1)|[link](https://github.com/embeddedml-edagroup/q-ppg)|
-|**2022-03-22**|**A cylindrical implosion platform for the study of highly magnetized plasmas at LMJ**|G. Pérez-Callejo et.al.|[2203.12099v1](http://arxiv.org/abs/2203.12099v1)|null|
-|**2022-03-22**|**Analysis Method of Strapdown Inertial Navigation Error Distribution Based on Covariance Matrix Decomposition**|Xiaokang Yang et.al.|[2203.11810v1](http://arxiv.org/abs/2203.11810v1)|[link](https://github.com/georgenwpu/code_data_of_papers/tree/master/Error%20budget%20based%20on%20covariance%20matrix)|
