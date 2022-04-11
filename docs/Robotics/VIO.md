@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-08**|**Non-inertial quantum clock frames lead to non-Hermitian dynamics**|Ismael L. Paiva et.al.|[2204.04177v1](http://arxiv.org/abs/2204.04177v1)|null|
+|**2022-04-08**|**A cryogenic and superconducting inertial sensor for the Lunar Gravitational--Wave Antenna, the Einstein Telescope and Selene-physics**|Francesca Badaracco et.al.|[2204.04150v1](http://arxiv.org/abs/2204.04150v1)|null|
+|**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v1](http://arxiv.org/abs/2204.04149v1)|null|
 |**2022-04-07**|**Magneto-inertial range dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2204.03524v1](http://arxiv.org/abs/2204.03524v1)|null|
 |**2022-04-07**|**A universal model for drag on a spherical bubble**|Qiang Sun et.al.|[2204.03349v1](http://arxiv.org/abs/2204.03349v1)|null|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
@@ -29,6 +32,3 @@
 |**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman et.al.|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
 |**2022-03-29**|**Neural Inertial Localization**|Sachini Herath et.al.|[2203.15851v1](http://arxiv.org/abs/2203.15851v1)|[link](https://github.com/Sachini/niloc)|
 |**2022-03-29**|**Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**|Yifeng Jiang et.al.|[2203.15720v1](http://arxiv.org/abs/2203.15720v1)|null|
-|**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
-|**2022-03-28**|**Socially Compliant Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation**|Haresh Karnan et.al.|[2203.15041v1](http://arxiv.org/abs/2203.15041v1)|null|
-|**2022-03-28**|**Robust and Energy-efficient PPG-based Heart-Rate Monitoring**|Matteo Risso et.al.|[2203.16339v1](http://arxiv.org/abs/2203.16339v1)|null|

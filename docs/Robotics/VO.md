@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v1](http://arxiv.org/abs/2204.04149v1)|null|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
 |**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
 |**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-08**|**ROLL: Long-Term Robust LiDAR-based Localization With Temporary Mapping in Changing Environments**|Bin Peng et.al.|[2203.03923v1](http://arxiv.org/abs/2203.03923v1)|null|
 |**2022-03-07**|**Direct LiDAR-Inertial Odometry**|Kenny Chen et.al.|[2203.03749v2](http://arxiv.org/abs/2203.03749v2)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|[link](https://github.com/tiers/tiers-lidars-dataset)|
-|**2022-03-07**|**Continuous Self-Localization on Aerial Images Using Visual and Lidar Sensors**|Florian Fervers et.al.|[2203.03334v1](http://arxiv.org/abs/2203.03334v1)|null|

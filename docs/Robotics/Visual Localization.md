@@ -2,9 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
+|**2022-04-08**|**Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**|Debao Huang et.al.|[2204.04145v1](http://arxiv.org/abs/2204.04145v1)|null|
+|**2022-04-08**|**Investigating Spherical Epipolar Rectification for Multi-View Stereo 3D Reconstruction**|Mostafa Elhashash et.al.|[2204.04141v1](http://arxiv.org/abs/2204.04141v1)|null|
+|**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
+|**2022-04-08**|**PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions**|Jiazhao Li et.al.|[2204.03830v1](http://arxiv.org/abs/2204.03830v1)|null|
+|**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v1](http://arxiv.org/abs/2204.03698v1)|null|
+|**2022-04-07**|**DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image**|Tetiana Martyniuk et.al.|[2204.03688v1](http://arxiv.org/abs/2204.03688v1)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|[link](https://github.com/weiyithu/surrounddepth)|
 |**2022-04-07**|**Controlling Golog Programs against MTL Constraints**|Till Hofmann et.al.|[2204.03596v1](http://arxiv.org/abs/2204.03596v1)|null|
 |**2022-04-07**|**Cloudy and Cloud-free Thermal Phase Curves with PICASO: Applications to WASP-43b**|Nina Robbins-Blanch et.al.|[2204.03545v1](http://arxiv.org/abs/2204.03545v1)|[link](https://github.com/natashabatalha/picaso)|
+|**2022-04-07**|**Reconstruction of images taken by a pair of non-regular sampling sensors using correlation based matching**|Markus Jonscher et.al.|[2204.04067v1](http://arxiv.org/abs/2204.04067v1)|null|
 |**2022-04-07**|**Event Transformer. A sparse-aware solution for efficient event data processing**|Alberto Sabater et.al.|[2204.03355v1](http://arxiv.org/abs/2204.03355v1)|[link](https://github.com/albertosabater/eventtransformer)|
 |**2022-04-07**|**Predicting Performance of Heterogeneous AI Systems with Discrete-Event Simulations**|Vyacheslav Zhdanovskiy et.al.|[2204.03332v1](http://arxiv.org/abs/2204.03332v1)|[link](https://github.com/iitpvisionlab/heterogeneous-ai-system-simulator)|
 |**2022-04-07**|**Sparse Optical Flow-Based Line Feature Tracking**|Qiang Fu et.al.|[2204.03331v1](http://arxiv.org/abs/2204.03331v1)|null|
@@ -24,11 +32,3 @@
 |**2022-04-06**|**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**|Jinkai Zheng et.al.|[2204.02569v1](http://arxiv.org/abs/2204.02569v1)|[link](https://github.com/Gait3D/Gait3D-Benchmark)|
 |**2022-04-05**|**Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**|Sheng Liu et.al.|[2204.02509v1](http://arxiv.org/abs/2204.02509v1)|[link](https://github.com/amazon-research/small-baseline-camera-tracking)|
 |**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
-|**2022-04-05**|**iSDF: Real-Time Neural Signed Distance Fields for Robot Perception**|Joseph Ortiz et.al.|[2204.02296v1](http://arxiv.org/abs/2204.02296v1)|null|
-|**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
-|**2022-04-05**|**Distant trans-Neptunian object candidates from NASA's TESS mission scrutinised: fainter than predicted or false positives?**|C. de la Fuente Marcos et.al.|[2204.02230v1](http://arxiv.org/abs/2204.02230v1)|null|
-|**2022-04-05**|**SNUG: Self-Supervised Neural Dynamic Garments**|Igor Santesteban et.al.|[2204.02219v1](http://arxiv.org/abs/2204.02219v1)|[link](https://github.com/isantesteban/snug)|
-|**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|
-|**2022-04-05**|**Real-time Hyperspectral Imaging in Hardware via Trained Metasurface Encoders**|Maksim Makarenko et.al.|[2204.02084v1](http://arxiv.org/abs/2204.02084v1)|[link](https://github.com/makamoa/hyplex)|
-|**2022-04-05**|**Spread Spurious Attribute: Improving Worst-group Accuracy with Spurious Attribute Estimation**|Junhyun Nam et.al.|[2204.02070v1](http://arxiv.org/abs/2204.02070v1)|null|
-|**2022-04-05**|**An End-to-End Integrated Computation and Communication Architecture for Goal-oriented Networking: A Perspective on Live Surveillance Video**|Suvadip Batabyal et.al.|[2204.01987v1](http://arxiv.org/abs/2204.01987v1)|null|
