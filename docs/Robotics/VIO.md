@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-11**|**Position fixing with cold atom gravity gradiometers**|Alexander M. Phillips et.al.|[2204.05246v1](http://arxiv.org/abs/2204.05246v1)|null|
+|**2022-04-11**|**IC-GVINS: A Robust, Real-time, INS-Centric GNSS-Visual-Inertial Navigation System for Wheeled Robot**|Hailiang Tang et.al.|[2204.04962v1](http://arxiv.org/abs/2204.04962v1)|null|
+|**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)|
+|**2022-04-09**|**Spectra of magnetic turbulence in a relativistic plasma**|Cristian Vega et.al.|[2204.04530v1](http://arxiv.org/abs/2204.04530v1)|null|
 |**2022-04-08**|**Non-inertial quantum clock frames lead to non-Hermitian dynamics**|Ismael L. Paiva et.al.|[2204.04177v1](http://arxiv.org/abs/2204.04177v1)|null|
 |**2022-04-08**|**A cryogenic and superconducting inertial sensor for the Lunar Gravitational--Wave Antenna, the Einstein Telescope and Selene-physics**|Francesca Badaracco et.al.|[2204.04150v1](http://arxiv.org/abs/2204.04150v1)|null|
 |**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v2](http://arxiv.org/abs/2204.04149v2)|[link](https://github.com/TUC-ProAut/creme)|
@@ -14,6 +18,7 @@
 |**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
 |**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
 |**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
+|**2022-04-05**|**Invariant Smoothing with low process noise**|Paul Chauchat et.al.|[2204.05256v1](http://arxiv.org/abs/2204.05256v1)|null|
 |**2022-04-04**|**Chaos over Order: Mapping 3D Rotation of Triaxial Asteroids and Minor Planets**|Valeri V. Makarov et.al.|[2204.01854v1](http://arxiv.org/abs/2204.01854v1)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-04-04**|**Harvesting Entanglement by non-identical detectors with different energy gaps**|Hui Hu et.al.|[2204.01219v1](http://arxiv.org/abs/2204.01219v1)|null|
@@ -27,8 +32,3 @@
 |**2022-03-31**|**VQF: Highly Accurate IMU Orientation Estimation with Bias Estimation and Magnetic Disturbance Rejection**|Daniel Laidig et.al.|[2203.17024v1](http://arxiv.org/abs/2203.17024v1)|[link](https://github.com/dlaidig/vqf)|
 |**2022-03-31**|**Probabilistic Map Matching for Robust Inertial Navigation Aiding**|Xuezhi Wang et.al.|[2203.16932v1](http://arxiv.org/abs/2203.16932v1)|null|
 |**2022-03-31**|**Assessment of anisotropy and revisiting Kolmogorov constant in particle-laden turbulent channel flows**|Naveen Rohilla et.al.|[2203.16820v2](http://arxiv.org/abs/2203.16820v2)|null|
-|**2022-03-30**|**Shock Hugoniot of diamond from 3 to 80 TPa**|Damian C. Swift et.al.|[2203.16065v1](http://arxiv.org/abs/2203.16065v1)|null|
-|**2022-03-30**|**VI-IKD: High-Speed Accurate Off-Road Navigation using Learned Visual-Inertial Inverse Kinodynamics**|Haresh Karnan et.al.|[2203.15983v1](http://arxiv.org/abs/2203.15983v1)|null|
-|**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman et.al.|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
-|**2022-03-29**|**Neural Inertial Localization**|Sachini Herath et.al.|[2203.15851v1](http://arxiv.org/abs/2203.15851v1)|[link](https://github.com/Sachini/niloc)|
-|**2022-03-29**|**Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs**|Yifeng Jiang et.al.|[2203.15720v1](http://arxiv.org/abs/2203.15720v1)|null|

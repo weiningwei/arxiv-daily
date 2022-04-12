@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)|
 |**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v2](http://arxiv.org/abs/2204.04149v2)|[link](https://github.com/TUC-ProAut/creme)|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
 |**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel et.al.|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-08**|**ROLL: Long-Term Robust LiDAR-based Localization With Temporary Mapping in Changing Environments**|Bin Peng et.al.|[2203.03923v1](http://arxiv.org/abs/2203.03923v1)|null|
 |**2022-03-07**|**Direct LiDAR-Inertial Odometry**|Kenny Chen et.al.|[2203.03749v2](http://arxiv.org/abs/2203.03749v2)|null|
-|**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li et.al.|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|[link](https://github.com/tiers/tiers-lidars-dataset)|
