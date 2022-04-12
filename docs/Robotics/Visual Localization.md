@@ -8,7 +8,7 @@
 |**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
 |**2022-04-08**|**PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions**|Jiazhao Li et.al.|[2204.03830v1](http://arxiv.org/abs/2204.03830v1)|null|
 |**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v1](http://arxiv.org/abs/2204.03698v1)|null|
-|**2022-04-07**|**DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image**|Tetiana Martyniuk et.al.|[2204.03688v1](http://arxiv.org/abs/2204.03688v1)|null|
+|**2022-04-07**|**DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image**|Tetiana Martyniuk et.al.|[2204.03688v2](http://arxiv.org/abs/2204.03688v2)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|[link](https://github.com/weiyithu/surrounddepth)|
 |**2022-04-07**|**Controlling Golog Programs against MTL Constraints**|Till Hofmann et.al.|[2204.03596v1](http://arxiv.org/abs/2204.03596v1)|null|
 |**2022-04-07**|**Cloudy and Cloud-free Thermal Phase Curves with PICASO: Applications to WASP-43b**|Nina Robbins-Blanch et.al.|[2204.03545v1](http://arxiv.org/abs/2204.03545v1)|[link](https://github.com/natashabatalha/picaso)|
@@ -21,7 +21,7 @@
 |**2022-04-07**|**HIT-UAV: A High-altitude Infrared Thermal Dataset for Unmanned Aerial Vehicles**|Jiashun Suo et.al.|[2204.03245v1](http://arxiv.org/abs/2204.03245v1)|[link](https://github.com/suojiashun/hit-uav-infrared-thermal-dataset)|
 |**2022-04-07**|**Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems**|Furkan Mumcu et.al.|[2204.03141v1](http://arxiv.org/abs/2204.03141v1)|null|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
-|**2022-04-06**|**DSGN++: Exploiting Visual-Spatial Relation for Stereo-based 3D Detectors**|Yilun Chen et.al.|[2204.03039v2](http://arxiv.org/abs/2204.03039v2)|null|
+|**2022-04-06**|**DSGN++: Exploiting Visual-Spatial Relation for Stereo-based 3D Detectors**|Yilun Chen et.al.|[2204.03039v2](http://arxiv.org/abs/2204.03039v2)|[link](https://github.com/chenyilun95/dsgn2)|
 |**2022-04-06**|**Video Demoireing with Relation-Based Temporal Consistency**|Peng Dai et.al.|[2204.02957v1](http://arxiv.org/abs/2204.02957v1)|null|
 |**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
 |**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes et.al.|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|[link](https://github.com/lukasbommes/pv-hawk)|
