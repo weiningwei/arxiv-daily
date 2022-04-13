@@ -17,7 +17,7 @@
 |**2022-04-10**|**SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems**|Xin Dong et.al.|[2204.04705v1](http://arxiv.org/abs/2204.04705v1)|null|
 |**2022-04-10**|**Scale Invariant Semantic Segmentation with RGB-D Fusion**|Mohammad Dawud Ansari et.al.|[2204.04679v1](http://arxiv.org/abs/2204.04679v1)|null|
 |**2022-04-10**|**Is my Driver Observation Model Overconfident? Input-guided Calibration Networks for Reliable and Interpretable Confidence Estimates**|Alina Roitberg et.al.|[2204.04674v1](http://arxiv.org/abs/2204.04674v1)|null|
-|**2022-04-10**|**NAN: Noise-Aware NeRFs for Burst-Denoising**|Naama Pearl et.al.|[2204.04668v1](http://arxiv.org/abs/2204.04668v1)|null|
+|**2022-04-10**|**NAN: Noise-Aware NeRFs for Burst-Denoising**|Naama Pearl et.al.|[2204.04668v2](http://arxiv.org/abs/2204.04668v2)|null|
 |**2022-04-10**|**Optimization of IoT-Enabled Physical Location Monitoring Using DT and VAR**|Ajitkumar Sureshrao Shitole et.al.|[2204.04664v1](http://arxiv.org/abs/2204.04664v1)|null|
 |**2022-04-09**|**On the Exploitation of Deepfake Model Recognition**|Luca Guarnera et.al.|[2204.04513v1](http://arxiv.org/abs/2204.04513v1)|null|
 |**2022-04-09**|**A Spiking Neural Network Structure Implementing Reinforcement Learning**|Mikhail Kiselev et.al.|[2204.04431v1](http://arxiv.org/abs/2204.04431v1)|null|
@@ -29,6 +29,6 @@
 |**2022-04-08**|**Investigating Spherical Epipolar Rectification for Multi-View Stereo 3D Reconstruction**|Mostafa Elhashash et.al.|[2204.04141v1](http://arxiv.org/abs/2204.04141v1)|null|
 |**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
 |**2022-04-08**|**PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions**|Jiazhao Li et.al.|[2204.03830v1](http://arxiv.org/abs/2204.03830v1)|null|
-|**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v1](http://arxiv.org/abs/2204.03698v1)|null|
+|**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v2](http://arxiv.org/abs/2204.03698v2)|null|
 |**2022-04-07**|**DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image**|Tetiana Martyniuk et.al.|[2204.03688v2](http://arxiv.org/abs/2204.03688v2)|null|
 |**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|[link](https://github.com/weiyithu/surrounddepth)|
