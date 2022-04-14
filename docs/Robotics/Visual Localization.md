@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-13**|**A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research**|Christian Creß et.al.|[2204.06527v1](http://arxiv.org/abs/2204.06527v1)|null|
+|**2022-04-13**|**Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis**|Xuanmeng Zhang et.al.|[2204.06307v1](http://arxiv.org/abs/2204.06307v1)|null|
+|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
+|**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v1](http://arxiv.org/abs/2204.06183v1)|null|
+|**2022-04-13**|**Self-Supervised Traffic Advisors: Distributed, Multi-view Traffic Prediction for Smart Cities**|Jiankai Sun et.al.|[2204.06171v1](http://arxiv.org/abs/2204.06171v1)|null|
+|**2022-04-13**|**Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps**|Yucheng Yang et.al.|[2204.06128v1](http://arxiv.org/abs/2204.06128v1)|null|
+|**2022-04-12**|**Sonified distance in sensory substitution does not always improve localization: comparison with a 2D and 3D handheld device**|Louis Commère et.al.|[2204.06063v1](http://arxiv.org/abs/2204.06063v1)|null|
 |**2022-04-12**|**Snapshot hyperspectral imaging with quantum correlated photons**|Yingwen Zhang et.al.|[2204.05984v1](http://arxiv.org/abs/2204.05984v1)|null|
 |**2022-04-12**|**3D Visual Tracking to Quantify Physical Contact Interactions in Human-to-Human Touch**|Shan Xu et.al.|[2204.05954v1](http://arxiv.org/abs/2204.05954v1)|null|
 |**2022-04-12**|**Exploring Event Camera-based Odometry for Planetary Robots**|Florian Mahlknecht et.al.|[2204.05880v1](http://arxiv.org/abs/2204.05880v1)|null|
@@ -25,10 +32,3 @@
 |**2022-04-11**|**Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**|Haojie Liu et.al.|[2204.04842v1](http://arxiv.org/abs/2204.04842v1)|null|
 |**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|[link](https://github.com/shiyujiao/highlyaccurate)|
 |**2022-04-10**|**Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**|Hui Deng et.al.|[2204.04730v1](http://arxiv.org/abs/2204.04730v1)|null|
-|**2022-04-10**|**SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems**|Xin Dong et.al.|[2204.04705v1](http://arxiv.org/abs/2204.04705v1)|null|
-|**2022-04-10**|**Scale Invariant Semantic Segmentation with RGB-D Fusion**|Mohammad Dawud Ansari et.al.|[2204.04679v1](http://arxiv.org/abs/2204.04679v1)|null|
-|**2022-04-10**|**Is my Driver Observation Model Overconfident? Input-guided Calibration Networks for Reliable and Interpretable Confidence Estimates**|Alina Roitberg et.al.|[2204.04674v1](http://arxiv.org/abs/2204.04674v1)|null|
-|**2022-04-10**|**NAN: Noise-Aware NeRFs for Burst-Denoising**|Naama Pearl et.al.|[2204.04668v2](http://arxiv.org/abs/2204.04668v2)|null|
-|**2022-04-10**|**Optimization of IoT-Enabled Physical Location Monitoring Using DT and VAR**|Ajitkumar Sureshrao Shitole et.al.|[2204.04664v1](http://arxiv.org/abs/2204.04664v1)|null|
-|**2022-04-09**|**On the Exploitation of Deepfake Model Recognition**|Luca Guarnera et.al.|[2204.04513v1](http://arxiv.org/abs/2204.04513v1)|null|
-|**2022-04-09**|**A Spiking Neural Network Structure Implementing Reinforcement Learning**|Mikhail Kiselev et.al.|[2204.04431v1](http://arxiv.org/abs/2204.04431v1)|null|
