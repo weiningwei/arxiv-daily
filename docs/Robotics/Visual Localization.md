@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-14**|**Detection of Degraded Acacia tree species using deep neural networks on uav drone imagery**|Anne Achieng Osio et.al.|[2204.07096v1](http://arxiv.org/abs/2204.07096v1)|null|
+|**2022-04-14**|**End-to-end Learning for Joint Depth and Image Reconstruction from Diffracted Rotation**|Mazen Mel et.al.|[2204.07076v1](http://arxiv.org/abs/2204.07076v1)|null|
+|**2022-04-14**|**NASA/GSFC's Flight Software Core Flight System Implementation For A Lunar Surface Imaging Mission**|Mohammed Eleffendi et.al.|[2204.07015v1](http://arxiv.org/abs/2204.07015v1)|null|
+|**2022-04-14**|**HyDe: The First Open-Source, Python-Based, GPU-Accelerated Hyperspectral Denoising Package**|Daniel Coquelin et.al.|[2204.06979v1](http://arxiv.org/abs/2204.06979v1)|null|
+|**2022-04-14**|**Manually Acquiring Targets from Multiple Viewpoints Using Video Feedback**|Bailey Ramesh et.al.|[2204.06969v1](http://arxiv.org/abs/2204.06969v1)|null|
+|**2022-04-14**|**BEHAVE: Dataset and Method for Tracking Human Object Interactions**|Bharat Lal Bhatnagar et.al.|[2204.06950v1](http://arxiv.org/abs/2204.06950v1)|null|
+|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
+|**2022-04-14**|**Information fusion approach for biomass estimation in a plateau mountainous forest using a synergistic system comprising UAS-based digital camera and LiDAR**|Rong Huang et.al.|[2204.06746v1](http://arxiv.org/abs/2204.06746v1)|null|
+|**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
+|**2022-04-13**|**Towards Metrical Reconstruction of Human Faces**|Wojciech Zielonka et.al.|[2204.06607v1](http://arxiv.org/abs/2204.06607v1)|null|
+|**2022-04-13**|**Illumination-Invariant Active Camera Relocalization for Fine-Grained Change Detection in the Wild**|Nan Li et.al.|[2204.06580v1](http://arxiv.org/abs/2204.06580v1)|null|
 |**2022-04-13**|**A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research**|Christian Creß et.al.|[2204.06527v1](http://arxiv.org/abs/2204.06527v1)|null|
 |**2022-04-13**|**Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis**|Xuanmeng Zhang et.al.|[2204.06307v1](http://arxiv.org/abs/2204.06307v1)|null|
 |**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
@@ -21,14 +32,3 @@
 |**2022-04-12**|**Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification**|Xiaolei Huang et.al.|[2204.05459v1](http://arxiv.org/abs/2204.05459v1)|null|
 |**2022-04-11**|**Single-Photon Structured Light**|Varun Sundar et.al.|[2204.05300v1](http://arxiv.org/abs/2204.05300v1)|null|
 |**2022-04-11**|**Physically Disentangled Representations**|Tzofi Klinghoffer et.al.|[2204.05281v1](http://arxiv.org/abs/2204.05281v1)|null|
-|**2022-04-11**|**Event Transformer**|Zhihao Li et.al.|[2204.05172v1](http://arxiv.org/abs/2204.05172v1)|null|
-|**2022-04-11**|**Focal Length and Object Pose Estimation via Render and Compare**|Georgy Ponimatkin et.al.|[2204.05145v1](http://arxiv.org/abs/2204.05145v1)|[link](https://github.com/ponimatkin/focalpose)|
-|**2022-04-11**|**M^2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088v1](http://arxiv.org/abs/2204.05088v1)|null|
-|**2022-04-11**|**HFT: Lifting Perspective Representations via Hybrid Feature Transformation**|Jiayu Zou et.al.|[2204.05068v1](http://arxiv.org/abs/2204.05068v1)|[link](https://github.com/jiayuzou2020/hft)|
-|**2022-04-11**|**Pyramid Grafting Network for One-Stage High Resolution Saliency Detection**|Chenxi Xie et.al.|[2204.05041v2](http://arxiv.org/abs/2204.05041v2)|[link](https://github.com/icvteam/pgnet)|
-|**2022-04-11**|**A Dual Sensor Computational Camera for High Quality Dark Videography**|Yuxiao Cheng et.al.|[2204.04987v1](http://arxiv.org/abs/2204.04987v1)|null|
-|**2022-04-11**|**Bimodal Camera Pose Prediction for Endoscopy**|Anita Rau et.al.|[2204.04968v1](http://arxiv.org/abs/2204.04968v1)|null|
-|**2022-04-11**|**Semantic Information Market For The Metaverse: An Auction Based Approach**|Lotfi Ismail et.al.|[2204.04878v1](http://arxiv.org/abs/2204.04878v1)|null|
-|**2022-04-11**|**Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**|Haojie Liu et.al.|[2204.04842v1](http://arxiv.org/abs/2204.04842v1)|null|
-|**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|[link](https://github.com/shiyujiao/highlyaccurate)|
-|**2022-04-10**|**Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**|Hui Deng et.al.|[2204.04730v1](http://arxiv.org/abs/2204.04730v1)|null|

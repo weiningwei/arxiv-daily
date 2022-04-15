@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
+|**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
+|**2022-04-13**|**Geometric phase assisted enhancement of non-inertial cavity-QED effects**|Navdeep Arya et.al.|[2204.06595v1](http://arxiv.org/abs/2204.06595v1)|null|
 |**2022-04-13**|**Two particles interacting via a contact interaction on $S^2$**|Dominic Schuh et.al.|[2204.06263v1](http://arxiv.org/abs/2204.06263v1)|null|
 |**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v2](http://arxiv.org/abs/2204.06183v2)|null|
 |**2022-04-13**|**Almost sharp wave kinetic theory of multidimensional KdV type equations with $d\ge 3$**|Xiao Ma et.al.|[2204.06148v1](http://arxiv.org/abs/2204.06148v1)|null|
@@ -29,6 +32,3 @@
 |**2022-04-04**|**Harvesting Entanglement by non-identical detectors with different energy gaps**|Hui Hu et.al.|[2204.01219v1](http://arxiv.org/abs/2204.01219v1)|null|
 |**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy et.al.|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|[link](https://github.com/sudarshan-s-harithas/urbanfly)|
 |**2022-04-01**|**Design of Low Thrust Controlled Maneuvers to Chase and De-orbit the Space Debris**|Roshan Sah et.al.|[2204.00674v1](http://arxiv.org/abs/2204.00674v1)|null|
-|**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
-|**2022-04-01**|**Comments to "A non-thermal laser-driven mixed fuel nuclear fusion reactor concept" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**|Karl Lackner et.al.|[2204.00269v2](http://arxiv.org/abs/2204.00269v2)|null|
-|**2022-04-01**|**Dynamics of particle-laden turbulent Couette flow. Part2: Modified fluctuating force model (M-FFS)**|Swagnik Ghosh et.al.|[2204.00236v1](http://arxiv.org/abs/2204.00236v1)|null|
