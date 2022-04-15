@@ -5,7 +5,7 @@
 |**2022-04-13**|**A9-Dataset: Multi-Sensor Infrastructure-Based Dataset for Mobility Research**|Christian Creß et.al.|[2204.06527v1](http://arxiv.org/abs/2204.06527v1)|null|
 |**2022-04-13**|**Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis**|Xuanmeng Zhang et.al.|[2204.06307v1](http://arxiv.org/abs/2204.06307v1)|null|
 |**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
-|**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v1](http://arxiv.org/abs/2204.06183v1)|null|
+|**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v2](http://arxiv.org/abs/2204.06183v2)|null|
 |**2022-04-13**|**Self-Supervised Traffic Advisors: Distributed, Multi-view Traffic Prediction for Smart Cities**|Jiankai Sun et.al.|[2204.06171v1](http://arxiv.org/abs/2204.06171v1)|null|
 |**2022-04-13**|**Are You Really Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing Apps**|Yucheng Yang et.al.|[2204.06128v1](http://arxiv.org/abs/2204.06128v1)|null|
 |**2022-04-12**|**Sonified distance in sensory substitution does not always improve localization: comparison with a 2D and 3D handheld device**|Louis Commère et.al.|[2204.06063v1](http://arxiv.org/abs/2204.06063v1)|null|
