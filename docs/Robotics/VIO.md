@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
+|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
 |**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
 |**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
 |**2022-04-13**|**Geometric phase assisted enhancement of non-inertial cavity-QED effects**|Navdeep Arya et.al.|[2204.06595v1](http://arxiv.org/abs/2204.06595v1)|null|
@@ -30,5 +32,3 @@
 |**2022-04-04**|**Chaos over Order: Mapping 3D Rotation of Triaxial Asteroids and Minor Planets**|Valeri V. Makarov et.al.|[2204.01854v1](http://arxiv.org/abs/2204.01854v1)|null|
 |**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
 |**2022-04-04**|**Harvesting Entanglement by non-identical detectors with different energy gaps**|Hui Hu et.al.|[2204.01219v1](http://arxiv.org/abs/2204.01219v1)|null|
-|**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy et.al.|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|[link](https://github.com/sudarshan-s-harithas/urbanfly)|
-|**2022-04-01**|**Design of Low Thrust Controlled Maneuvers to Chase and De-orbit the Space Debris**|Roshan Sah et.al.|[2204.00674v1](http://arxiv.org/abs/2204.00674v1)|null|

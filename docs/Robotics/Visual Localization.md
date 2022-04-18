@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-15**|**Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation**|Damien Robert et.al.|[2204.07548v1](http://arxiv.org/abs/2204.07548v1)|null|
+|**2022-04-15**|**Detecting Violence in Video Based on Deep Features Fusion Technique**|Heyam M. Bin Jahlan et.al.|[2204.07443v1](http://arxiv.org/abs/2204.07443v1)|null|
+|**2022-04-15**|**Scalable and Real-time Multi-Camera Vehicle Detection, Re-Identification, and Tracking**|Pirazh Khorramshahi et.al.|[2204.07442v1](http://arxiv.org/abs/2204.07442v1)|null|
+|**2022-04-15**|**SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing**|Jiwei Chen et.al.|[2204.07406v1](http://arxiv.org/abs/2204.07406v1)|null|
+|**2022-04-15**|**MVSTER: Epipolar Transformer for Efficient Multi-View Stereo**|Xiaofeng Wang et.al.|[2204.07346v1](http://arxiv.org/abs/2204.07346v1)|null|
+|**2022-04-15**|**Invisible-to-Visible: Privacy-Aware Human Instance Segmentation using Airborne Ultrasound via Collaborative Learning Variational Autoencoder**|Risako Tanigawa et.al.|[2204.07280v1](http://arxiv.org/abs/2204.07280v1)|null|
+|**2022-04-14**|**Visual Pressure Estimation and Control for Soft Robotic Grippers**|Patrick Grady et.al.|[2204.07268v1](http://arxiv.org/abs/2204.07268v1)|null|
+|**2022-04-14**|**Learning Spatially Varying Pixel Exposures for Motion Deblurring**|Cindy M. Nguyen et.al.|[2204.07267v1](http://arxiv.org/abs/2204.07267v1)|null|
 |**2022-04-14**|**Detection of Degraded Acacia tree species using deep neural networks on uav drone imagery**|Anne Achieng Osio et.al.|[2204.07096v1](http://arxiv.org/abs/2204.07096v1)|null|
 |**2022-04-14**|**End-to-end Learning for Joint Depth and Image Reconstruction from Diffracted Rotation**|Mazen Mel et.al.|[2204.07076v1](http://arxiv.org/abs/2204.07076v1)|null|
 |**2022-04-14**|**NASA/GSFC's Flight Software Core Flight System Implementation For A Lunar Surface Imaging Mission**|Mohammed Eleffendi et.al.|[2204.07015v1](http://arxiv.org/abs/2204.07015v1)|null|
@@ -24,11 +32,3 @@
 |**2022-04-12**|**3D Visual Tracking to Quantify Physical Contact Interactions in Human-to-Human Touch**|Shan Xu et.al.|[2204.05954v1](http://arxiv.org/abs/2204.05954v1)|null|
 |**2022-04-12**|**Exploring Event Camera-based Odometry for Planetary Robots**|Florian Mahlknecht et.al.|[2204.05880v1](http://arxiv.org/abs/2204.05880v1)|null|
 |**2022-04-12**|**Nanomatrix: Scalable Construction of Crowded Biological Environments**|Ruwayda Alharbi et.al.|[2204.05762v1](http://arxiv.org/abs/2204.05762v1)|null|
-|**2022-04-12**|**GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation**|Shin-Fang Chng et.al.|[2204.05735v1](http://arxiv.org/abs/2204.05735v1)|null|
-|**2022-04-12**|**DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection**|Haibao Yu et.al.|[2204.05575v1](http://arxiv.org/abs/2204.05575v1)|[link](https://github.com/air-thu/dair-v2x)|
-|**2022-04-12**|**Fully End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-Agent**|Oskar Natan et.al.|[2204.05513v1](http://arxiv.org/abs/2204.05513v1)|[link](https://github.com/oskarnatan/end-to-end-driving)|
-|**2022-04-12**|**Imaging based feedback cooling of a levitated nanoparticle**|Yosuke Minowa et.al.|[2204.05506v1](http://arxiv.org/abs/2204.05506v1)|null|
-|**2022-04-12**|**RGB-D Semantic SLAM for Surgical Robot Navigation in the Operating Room**|Cong Gao et.al.|[2204.05467v1](http://arxiv.org/abs/2204.05467v1)|null|
-|**2022-04-12**|**Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification**|Xiaolei Huang et.al.|[2204.05459v1](http://arxiv.org/abs/2204.05459v1)|null|
-|**2022-04-11**|**Single-Photon Structured Light**|Varun Sundar et.al.|[2204.05300v1](http://arxiv.org/abs/2204.05300v1)|null|
-|**2022-04-11**|**Physically Disentangled Representations**|Tzofi Klinghoffer et.al.|[2204.05281v1](http://arxiv.org/abs/2204.05281v1)|[link](https://github.com/tzofi/physically-disentangled-representations)|
