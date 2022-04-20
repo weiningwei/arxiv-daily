@@ -2,13 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-19**|**Shallow camera pipeline for night photography rendering**|Simone Zini et.al.|[2204.08972v1](http://arxiv.org/abs/2204.08972v1)|null|
+|**2022-04-19**|**Rendering Nighttime Image Via Cascaded Color and Brightness Compensation**|Zhihao Li et.al.|[2204.08970v1](http://arxiv.org/abs/2204.08970v1)|null|
+|**2022-04-19**|**Exact Diagonalisation of Photon Bose-Einstein Condensates with Thermo-Optic Interaction**|Enrico Stein et.al.|[2204.08818v1](http://arxiv.org/abs/2204.08818v1)|null|
+|**2022-04-19**|**An Efficient Domain-Incremental Learning Approach to Drive in All Weather Conditions**|M. Jehanzeb Mirza et.al.|[2204.08817v1](http://arxiv.org/abs/2204.08817v1)|null|
+|**2022-04-19**|**Sensor Data Fusion in Top-View Grid Maps using Evidential Reasoning with Advanced Conflict Resolution**|Sven Richter et.al.|[2204.08780v1](http://arxiv.org/abs/2204.08780v1)|null|
+|**2022-04-19**|**Euclid: Discovering pair-instability supernovae with the Deep Survey**|T. J. Moriya et.al.|[2204.08727v1](http://arxiv.org/abs/2204.08727v1)|null|
+|**2022-04-19**|**Shape-Aware Monocular 3D Object Detection**|Wei Chen et.al.|[2204.08717v1](http://arxiv.org/abs/2204.08717v1)|null|
+|**2022-04-19**|**Size Distribution of Small Jupiter Trojans in the L5 Swarm**|Kotomi Uehata et.al.|[2204.08617v1](http://arxiv.org/abs/2204.08617v1)|null|
+|**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
+|**2022-04-18**|**Multimodal Proximity and Visuotactile Sensing With a Selectively Transmissive Soft Membrane**|Jessica Yin et.al.|[2204.08586v1](http://arxiv.org/abs/2204.08586v1)|null|
 |**2022-04-18**|**Subspace Nonnegative Matrix Factorization for Feature Representation**|Junhang Li et.al.|[2204.08382v1](http://arxiv.org/abs/2204.08382v1)|[link](https://github.com/wnmf1/fwnmf-erwnmf)|
 |**2022-04-18**|**Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads**|Aman Goyal et.al.|[2204.08364v1](http://arxiv.org/abs/2204.08364v1)|[link](https://github.com/ihubdata-mobility/public-motorcycle-violations)|
 |**2022-04-18**|**Tracking monocular camera pose and deformation for SLAM inside the human body**|Juan J. Gomez Rodriguez et.al.|[2204.08309v1](http://arxiv.org/abs/2204.08309v1)|null|
 |**2022-04-18**|**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**|Zhengxiang Shi et.al.|[2204.08292v1](http://arxiv.org/abs/2204.08292v1)|[link](https://github.com/ZhengxiangShi/StepGame)|
 |**2022-04-18**|**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**|Paul Albert et.al.|[2204.08271v1](http://arxiv.org/abs/2204.08271v1)|[link](https://github.com/paulalbert31/clover_ssl)|
 |**2022-04-18**|**OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**|Yunhao Du et.al.|[2204.08209v1](http://arxiv.org/abs/2204.08209v1)|[link](https://github.com/dyhbupt/omg)|
-|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v2](http://arxiv.org/abs/2204.08192v2)|null|
 |**2022-04-18**|**Real-world Deep Local Motion Deblurring**|Haoying Li et.al.|[2204.08179v1](http://arxiv.org/abs/2204.08179v1)|null|
 |**2022-04-17**|**Dataset for Analyzing Various Gaze Zones and Distracted Behaviors of a Driver**|Mohammed Shaiqur Rahman et.al.|[2204.08096v1](http://arxiv.org/abs/2204.08096v1)|null|
 |**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
@@ -23,12 +32,3 @@
 |**2022-04-15**|**SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing**|Jiwei Chen et.al.|[2204.07406v1](http://arxiv.org/abs/2204.07406v1)|null|
 |**2022-04-15**|**MVSTER: Epipolar Transformer for Efficient Multi-View Stereo**|Xiaofeng Wang et.al.|[2204.07346v1](http://arxiv.org/abs/2204.07346v1)|[link](https://github.com/jeffwang987/mvster)|
 |**2022-04-15**|**Invisible-to-Visible: Privacy-Aware Human Instance Segmentation using Airborne Ultrasound via Collaborative Learning Variational Autoencoder**|Risako Tanigawa et.al.|[2204.07280v1](http://arxiv.org/abs/2204.07280v1)|null|
-|**2022-04-14**|**Visual Pressure Estimation and Control for Soft Robotic Grippers**|Patrick Grady et.al.|[2204.07268v1](http://arxiv.org/abs/2204.07268v1)|null|
-|**2022-04-14**|**Learning Spatially Varying Pixel Exposures for Motion Deblurring**|Cindy M. Nguyen et.al.|[2204.07267v1](http://arxiv.org/abs/2204.07267v1)|null|
-|**2022-04-14**|**Detection of Degraded Acacia tree species using deep neural networks on uav drone imagery**|Anne Achieng Osio et.al.|[2204.07096v1](http://arxiv.org/abs/2204.07096v1)|null|
-|**2022-04-14**|**End-to-end Learning for Joint Depth and Image Reconstruction from Diffracted Rotation**|Mazen Mel et.al.|[2204.07076v1](http://arxiv.org/abs/2204.07076v1)|null|
-|**2022-04-14**|**NASA/GSFC's Flight Software Core Flight System Implementation For A Lunar Surface Imaging Mission**|Mohammed Eleffendi et.al.|[2204.07015v1](http://arxiv.org/abs/2204.07015v1)|null|
-|**2022-04-14**|**HyDe: The First Open-Source, Python-Based, GPU-Accelerated Hyperspectral Denoising Package**|Daniel Coquelin et.al.|[2204.06979v1](http://arxiv.org/abs/2204.06979v1)|[link](https://github.com/helmholtz-ai-energy/hyde)|
-|**2022-04-14**|**Manually Acquiring Targets from Multiple Viewpoints Using Video Feedback**|Bailey Ramesh et.al.|[2204.06969v2](http://arxiv.org/abs/2204.06969v2)|null|
-|**2022-04-14**|**BEHAVE: Dataset and Method for Tracking Human Object Interactions**|Bharat Lal Bhatnagar et.al.|[2204.06950v1](http://arxiv.org/abs/2204.06950v1)|null|
-|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
