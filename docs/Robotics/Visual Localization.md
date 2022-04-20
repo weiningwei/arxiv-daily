@@ -8,7 +8,7 @@
 |**2022-04-18**|**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**|Zhengxiang Shi et.al.|[2204.08292v1](http://arxiv.org/abs/2204.08292v1)|[link](https://github.com/ZhengxiangShi/StepGame)|
 |**2022-04-18**|**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**|Paul Albert et.al.|[2204.08271v1](http://arxiv.org/abs/2204.08271v1)|[link](https://github.com/paulalbert31/clover_ssl)|
 |**2022-04-18**|**OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**|Yunhao Du et.al.|[2204.08209v1](http://arxiv.org/abs/2204.08209v1)|[link](https://github.com/dyhbupt/omg)|
-|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v1](http://arxiv.org/abs/2204.08192v1)|null|
+|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v2](http://arxiv.org/abs/2204.08192v2)|null|
 |**2022-04-18**|**Real-world Deep Local Motion Deblurring**|Haoying Li et.al.|[2204.08179v1](http://arxiv.org/abs/2204.08179v1)|null|
 |**2022-04-17**|**Dataset for Analyzing Various Gaze Zones and Distracted Behaviors of a Driver**|Mohammed Shaiqur Rahman et.al.|[2204.08096v1](http://arxiv.org/abs/2204.08096v1)|null|
 |**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|

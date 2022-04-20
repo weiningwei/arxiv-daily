@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-04-19 21:33:55 Asia/Shanghai
+ Automated deployment @ 2022-04-20 08:34:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2022-04-09**|**Spectra of magnetic turbulence in a relativistic plasma**|Cristian Vega et.al.|[2204.04530v1](http://arxiv.org/abs/2204.04530v1)|null|
 |**2022-04-08**|**Non-inertial quantum clock frames lead to non-Hermitian dynamics**|Ismael L. Paiva et.al.|[2204.04177v1](http://arxiv.org/abs/2204.04177v1)|null|
 |**2022-04-08**|**A cryogenic and superconducting inertial sensor for the Lunar Gravitational--Wave Antenna, the Einstein Telescope and Selene-physics**|Francesca Badaracco et.al.|[2204.04150v1](http://arxiv.org/abs/2204.04150v1)|null|
-|**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v3](http://arxiv.org/abs/2204.04149v3)|[link](https://github.com/TUC-ProAut/creme)|
+|**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v4](http://arxiv.org/abs/2204.04149v4)|[link](https://github.com/TUC-ProAut/creme)|
 |**2022-04-07**|**Magneto-inertial range dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2204.03524v1](http://arxiv.org/abs/2204.03524v1)|null|
 |**2022-04-07**|**A universal model for drag on a spherical bubble**|Qiang Sun et.al.|[2204.03349v1](http://arxiv.org/abs/2204.03349v1)|null|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
@@ -38,40 +38,6 @@
 |**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
 |**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
 |**2022-04-05**|**Invariant Smoothing with low process noise**|Paul Chauchat et.al.|[2204.05256v1](http://arxiv.org/abs/2204.05256v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-18**|**Subspace Nonnegative Matrix Factorization for Feature Representation**|Junhang Li et.al.|[2204.08382v1](http://arxiv.org/abs/2204.08382v1)|[link](https://github.com/wnmf1/fwnmf-erwnmf)|
-|**2022-04-18**|**Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads**|Aman Goyal et.al.|[2204.08364v1](http://arxiv.org/abs/2204.08364v1)|[link](https://github.com/ihubdata-mobility/public-motorcycle-violations)|
-|**2022-04-18**|**Tracking monocular camera pose and deformation for SLAM inside the human body**|Juan J. Gomez Rodriguez et.al.|[2204.08309v1](http://arxiv.org/abs/2204.08309v1)|null|
-|**2022-04-18**|**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**|Zhengxiang Shi et.al.|[2204.08292v1](http://arxiv.org/abs/2204.08292v1)|[link](https://github.com/ZhengxiangShi/StepGame)|
-|**2022-04-18**|**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**|Paul Albert et.al.|[2204.08271v1](http://arxiv.org/abs/2204.08271v1)|[link](https://github.com/paulalbert31/clover_ssl)|
-|**2022-04-18**|**OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**|Yunhao Du et.al.|[2204.08209v1](http://arxiv.org/abs/2204.08209v1)|[link](https://github.com/dyhbupt/omg)|
-|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v1](http://arxiv.org/abs/2204.08192v1)|null|
-|**2022-04-18**|**Real-world Deep Local Motion Deblurring**|Haoying Li et.al.|[2204.08179v1](http://arxiv.org/abs/2204.08179v1)|null|
-|**2022-04-17**|**Dataset for Analyzing Various Gaze Zones and Distracted Behaviors of a Driver**|Mohammed Shaiqur Rahman et.al.|[2204.08096v1](http://arxiv.org/abs/2204.08096v1)|null|
-|**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
-|**2022-04-17**|**SymForce: Symbolic Computation and Code Generation for Robotics**|Hayk Martiros et.al.|[2204.07889v1](http://arxiv.org/abs/2204.07889v1)|[link](https://github.com/symforce-org/symforce)|
-|**2022-04-16**|**Mapping LiDAR and Camera Measurements in a Dual Top-View Grid Representation Tailored for Automated Vehicles**|Sven Richter et.al.|[2204.07887v1](http://arxiv.org/abs/2204.07887v1)|null|
-|**2022-04-16**|**Disturbance-free single-pixel imaging camera based on P=0.5 Bernoulli modulation and complementary detection**|Wenlin Gong et.al.|[2204.07711v1](http://arxiv.org/abs/2204.07711v1)|null|
-|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
-|**2022-04-15**|**Active Mapping via Gradient Ascent Optimization of Shannon Mutual Information over Continuous SE(3) Trajectories**|Arash Asgharivaskasi et.al.|[2204.07623v1](http://arxiv.org/abs/2204.07623v1)|null|
-|**2022-04-15**|**Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation**|Damien Robert et.al.|[2204.07548v1](http://arxiv.org/abs/2204.07548v1)|[link](https://github.com/drprojects/deepviewagg)|
-|**2022-04-15**|**Detecting Violence in Video Based on Deep Features Fusion Technique**|Heyam M. Bin Jahlan et.al.|[2204.07443v1](http://arxiv.org/abs/2204.07443v1)|null|
-|**2022-04-15**|**Scalable and Real-time Multi-Camera Vehicle Detection, Re-Identification, and Tracking**|Pirazh Khorramshahi et.al.|[2204.07442v1](http://arxiv.org/abs/2204.07442v1)|null|
-|**2022-04-15**|**SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing**|Jiwei Chen et.al.|[2204.07406v1](http://arxiv.org/abs/2204.07406v1)|null|
-|**2022-04-15**|**MVSTER: Epipolar Transformer for Efficient Multi-View Stereo**|Xiaofeng Wang et.al.|[2204.07346v1](http://arxiv.org/abs/2204.07346v1)|[link](https://github.com/jeffwang987/mvster)|
-|**2022-04-15**|**Invisible-to-Visible: Privacy-Aware Human Instance Segmentation using Airborne Ultrasound via Collaborative Learning Variational Autoencoder**|Risako Tanigawa et.al.|[2204.07280v1](http://arxiv.org/abs/2204.07280v1)|null|
-|**2022-04-14**|**Visual Pressure Estimation and Control for Soft Robotic Grippers**|Patrick Grady et.al.|[2204.07268v1](http://arxiv.org/abs/2204.07268v1)|null|
-|**2022-04-14**|**Learning Spatially Varying Pixel Exposures for Motion Deblurring**|Cindy M. Nguyen et.al.|[2204.07267v1](http://arxiv.org/abs/2204.07267v1)|null|
-|**2022-04-14**|**Detection of Degraded Acacia tree species using deep neural networks on uav drone imagery**|Anne Achieng Osio et.al.|[2204.07096v1](http://arxiv.org/abs/2204.07096v1)|null|
-|**2022-04-14**|**End-to-end Learning for Joint Depth and Image Reconstruction from Diffracted Rotation**|Mazen Mel et.al.|[2204.07076v1](http://arxiv.org/abs/2204.07076v1)|null|
-|**2022-04-14**|**NASA/GSFC's Flight Software Core Flight System Implementation For A Lunar Surface Imaging Mission**|Mohammed Eleffendi et.al.|[2204.07015v1](http://arxiv.org/abs/2204.07015v1)|null|
-|**2022-04-14**|**HyDe: The First Open-Source, Python-Based, GPU-Accelerated Hyperspectral Denoising Package**|Daniel Coquelin et.al.|[2204.06979v1](http://arxiv.org/abs/2204.06979v1)|[link](https://github.com/helmholtz-ai-energy/hyde)|
-|**2022-04-14**|**Manually Acquiring Targets from Multiple Viewpoints Using Video Feedback**|Bailey Ramesh et.al.|[2204.06969v2](http://arxiv.org/abs/2204.06969v2)|null|
-|**2022-04-14**|**BEHAVE: Dataset and Method for Tracking Human Object Interactions**|Bharat Lal Bhatnagar et.al.|[2204.06950v1](http://arxiv.org/abs/2204.06950v1)|null|
-|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +73,40 @@
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura et.al.|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
 |**2022-03-10**|**High Definition, Inexpensive, Underwater Mapping**|Bharat Joshi et.al.|[2203.05640v1](http://arxiv.org/abs/2203.05640v1)|null|
 
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-18**|**Subspace Nonnegative Matrix Factorization for Feature Representation**|Junhang Li et.al.|[2204.08382v1](http://arxiv.org/abs/2204.08382v1)|[link](https://github.com/wnmf1/fwnmf-erwnmf)|
+|**2022-04-18**|**Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads**|Aman Goyal et.al.|[2204.08364v1](http://arxiv.org/abs/2204.08364v1)|[link](https://github.com/ihubdata-mobility/public-motorcycle-violations)|
+|**2022-04-18**|**Tracking monocular camera pose and deformation for SLAM inside the human body**|Juan J. Gomez Rodriguez et.al.|[2204.08309v1](http://arxiv.org/abs/2204.08309v1)|null|
+|**2022-04-18**|**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**|Zhengxiang Shi et.al.|[2204.08292v1](http://arxiv.org/abs/2204.08292v1)|[link](https://github.com/ZhengxiangShi/StepGame)|
+|**2022-04-18**|**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**|Paul Albert et.al.|[2204.08271v1](http://arxiv.org/abs/2204.08271v1)|[link](https://github.com/paulalbert31/clover_ssl)|
+|**2022-04-18**|**OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**|Yunhao Du et.al.|[2204.08209v1](http://arxiv.org/abs/2204.08209v1)|[link](https://github.com/dyhbupt/omg)|
+|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v2](http://arxiv.org/abs/2204.08192v2)|null|
+|**2022-04-18**|**Real-world Deep Local Motion Deblurring**|Haoying Li et.al.|[2204.08179v1](http://arxiv.org/abs/2204.08179v1)|null|
+|**2022-04-17**|**Dataset for Analyzing Various Gaze Zones and Distracted Behaviors of a Driver**|Mohammed Shaiqur Rahman et.al.|[2204.08096v1](http://arxiv.org/abs/2204.08096v1)|null|
+|**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
+|**2022-04-17**|**SymForce: Symbolic Computation and Code Generation for Robotics**|Hayk Martiros et.al.|[2204.07889v1](http://arxiv.org/abs/2204.07889v1)|[link](https://github.com/symforce-org/symforce)|
+|**2022-04-16**|**Mapping LiDAR and Camera Measurements in a Dual Top-View Grid Representation Tailored for Automated Vehicles**|Sven Richter et.al.|[2204.07887v1](http://arxiv.org/abs/2204.07887v1)|null|
+|**2022-04-16**|**Disturbance-free single-pixel imaging camera based on P=0.5 Bernoulli modulation and complementary detection**|Wenlin Gong et.al.|[2204.07711v1](http://arxiv.org/abs/2204.07711v1)|null|
+|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
+|**2022-04-15**|**Active Mapping via Gradient Ascent Optimization of Shannon Mutual Information over Continuous SE(3) Trajectories**|Arash Asgharivaskasi et.al.|[2204.07623v1](http://arxiv.org/abs/2204.07623v1)|null|
+|**2022-04-15**|**Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation**|Damien Robert et.al.|[2204.07548v1](http://arxiv.org/abs/2204.07548v1)|[link](https://github.com/drprojects/deepviewagg)|
+|**2022-04-15**|**Detecting Violence in Video Based on Deep Features Fusion Technique**|Heyam M. Bin Jahlan et.al.|[2204.07443v1](http://arxiv.org/abs/2204.07443v1)|null|
+|**2022-04-15**|**Scalable and Real-time Multi-Camera Vehicle Detection, Re-Identification, and Tracking**|Pirazh Khorramshahi et.al.|[2204.07442v1](http://arxiv.org/abs/2204.07442v1)|null|
+|**2022-04-15**|**SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing**|Jiwei Chen et.al.|[2204.07406v1](http://arxiv.org/abs/2204.07406v1)|null|
+|**2022-04-15**|**MVSTER: Epipolar Transformer for Efficient Multi-View Stereo**|Xiaofeng Wang et.al.|[2204.07346v1](http://arxiv.org/abs/2204.07346v1)|[link](https://github.com/jeffwang987/mvster)|
+|**2022-04-15**|**Invisible-to-Visible: Privacy-Aware Human Instance Segmentation using Airborne Ultrasound via Collaborative Learning Variational Autoencoder**|Risako Tanigawa et.al.|[2204.07280v1](http://arxiv.org/abs/2204.07280v1)|null|
+|**2022-04-14**|**Visual Pressure Estimation and Control for Soft Robotic Grippers**|Patrick Grady et.al.|[2204.07268v1](http://arxiv.org/abs/2204.07268v1)|null|
+|**2022-04-14**|**Learning Spatially Varying Pixel Exposures for Motion Deblurring**|Cindy M. Nguyen et.al.|[2204.07267v1](http://arxiv.org/abs/2204.07267v1)|null|
+|**2022-04-14**|**Detection of Degraded Acacia tree species using deep neural networks on uav drone imagery**|Anne Achieng Osio et.al.|[2204.07096v1](http://arxiv.org/abs/2204.07096v1)|null|
+|**2022-04-14**|**End-to-end Learning for Joint Depth and Image Reconstruction from Diffracted Rotation**|Mazen Mel et.al.|[2204.07076v1](http://arxiv.org/abs/2204.07076v1)|null|
+|**2022-04-14**|**NASA/GSFC's Flight Software Core Flight System Implementation For A Lunar Surface Imaging Mission**|Mohammed Eleffendi et.al.|[2204.07015v1](http://arxiv.org/abs/2204.07015v1)|null|
+|**2022-04-14**|**HyDe: The First Open-Source, Python-Based, GPU-Accelerated Hyperspectral Denoising Package**|Daniel Coquelin et.al.|[2204.06979v1](http://arxiv.org/abs/2204.06979v1)|[link](https://github.com/helmholtz-ai-energy/hyde)|
+|**2022-04-14**|**Manually Acquiring Targets from Multiple Viewpoints Using Video Feedback**|Bailey Ramesh et.al.|[2204.06969v2](http://arxiv.org/abs/2204.06969v2)|null|
+|**2022-04-14**|**BEHAVE: Dataset and Method for Tracking Human Object Interactions**|Bharat Lal Bhatnagar et.al.|[2204.06950v1](http://arxiv.org/abs/2204.06950v1)|null|
+|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -116,7 +116,7 @@
 |**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
 |**2022-04-12**|**Exploring Event Camera-based Odometry for Planetary Robots**|Florian Mahlknecht et.al.|[2204.05880v1](http://arxiv.org/abs/2204.05880v1)|null|
 |**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)|
-|**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v3](http://arxiv.org/abs/2204.04149v3)|[link](https://github.com/TUC-ProAut/creme)|
+|**2022-04-08**|**A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar**|Karim Haggag et.al.|[2204.04149v4](http://arxiv.org/abs/2204.04149v4)|[link](https://github.com/TUC-ProAut/creme)|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
 |**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
 |**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
