@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
+|**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
+|**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO2**|Liyang Ma et.al.|[2204.09374v1](http://arxiv.org/abs/2204.09374v1)|null|
+|**2022-04-20**|**Optimizing doping parameters of target to enhance direct-drive implosion**|Guannan Zheng et.al.|[2204.09208v1](http://arxiv.org/abs/2204.09208v1)|null|
+|**2022-04-20**|**Laser pulse shape designer for direct-drive inertial confinement fusion**|Tao Tao et.al.|[2204.09203v1](http://arxiv.org/abs/2204.09203v1)|null|
+|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
 |**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
 |**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
 |**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
@@ -26,9 +32,3 @@
 |**2022-04-07**|**A universal model for drag on a spherical bubble**|Qiang Sun et.al.|[2204.03349v1](http://arxiv.org/abs/2204.03349v1)|null|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
 |**2022-04-06**|**Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time. Part 2: Spin-zero Duffin-Kemmer-Petiau-like oscillator**|R. R. Cuzinatto et.al.|[2204.03049v1](http://arxiv.org/abs/2204.03049v1)|null|
-|**2022-04-06**|**Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time. Part 1: Klein-Gordon oscillator**|R. R. Cuzinatto et.al.|[2204.03048v1](http://arxiv.org/abs/2204.03048v1)|null|
-|**2022-04-06**|**From a microscopic inertial active matter model to the Schrödinger equation**|Michael te Vrugt et.al.|[2204.03018v1](http://arxiv.org/abs/2204.03018v1)|null|
-|**2022-04-06**|**PVI-DSO: Leveraging Planar Regularities for Direct Sparse Visual-Inertial Odometry**|Bo Xu et.al.|[2204.02635v1](http://arxiv.org/abs/2204.02635v1)|null|
-|**2022-04-05**|**Robust Active Visual Perching with Quadrotors on Inclined Surfaces**|Jeffrey Mao et.al.|[2204.02458v1](http://arxiv.org/abs/2204.02458v1)|null|
-|**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
-|**2022-04-05**|**Invariant Smoothing with low process noise**|Paul Chauchat et.al.|[2204.05256v1](http://arxiv.org/abs/2204.05256v1)|null|

@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|null|
+|**2022-04-20**|**NFormer: Robust Person Re-identification with Neighbor Transformer**|Haochen Wang et.al.|[2204.09331v1](http://arxiv.org/abs/2204.09331v1)|null|
+|**2022-04-20**|**Self-supervised Learning for Sonar Image Classification**|Alan Preciado-Grijalva et.al.|[2204.09323v1](http://arxiv.org/abs/2204.09323v1)|null|
+|**2022-04-20**|**A Deeper Look into Aleatoric and Epistemic Uncertainty Disentanglement**|Matias Valdenegro-Toro et.al.|[2204.09308v1](http://arxiv.org/abs/2204.09308v1)|null|
+|**2022-04-20**|**Vision System of Curling Robots: Thrower and Skip**|Seongwook Yoon et.al.|[2204.09221v1](http://arxiv.org/abs/2204.09221v1)|null|
+|**2022-04-19**|**Multi-Camera Multiple 3D Object Tracking on the Move for Autonomous Vehicles**|Pha Nguyen et.al.|[2204.09151v1](http://arxiv.org/abs/2204.09151v1)|null|
+|**2022-04-19**|**Real-time capable CCD-based individual trapped-ion qubit measurement**|S. Halama et.al.|[2204.09112v1](http://arxiv.org/abs/2204.09112v1)|null|
+|**2022-04-19**|**4D-MultispectralNet: Multispectral Stereoscopic Disparity Estimation using Human Masks**|Philippe Duplessis-Guindon et.al.|[2204.09089v1](http://arxiv.org/abs/2204.09089v1)|null|
+|**2022-04-19**|**TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with HPF**|Corey Beard et.al.|[2204.09063v1](http://arxiv.org/abs/2204.09063v1)|null|
 |**2022-04-19**|**Shallow camera pipeline for night photography rendering**|Simone Zini et.al.|[2204.08972v1](http://arxiv.org/abs/2204.08972v1)|null|
 |**2022-04-19**|**Rendering Nighttime Image Via Cascaded Color and Brightness Compensation**|Zhihao Li et.al.|[2204.08970v1](http://arxiv.org/abs/2204.08970v1)|null|
 |**2022-04-19**|**Exact Diagonalisation of Photon Bose-Einstein Condensates with Thermo-Optic Interaction**|Enrico Stein et.al.|[2204.08818v1](http://arxiv.org/abs/2204.08818v1)|null|
@@ -23,12 +32,3 @@
 |**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
 |**2022-04-17**|**SymForce: Symbolic Computation and Code Generation for Robotics**|Hayk Martiros et.al.|[2204.07889v1](http://arxiv.org/abs/2204.07889v1)|[link](https://github.com/symforce-org/symforce)|
 |**2022-04-16**|**Mapping LiDAR and Camera Measurements in a Dual Top-View Grid Representation Tailored for Automated Vehicles**|Sven Richter et.al.|[2204.07887v1](http://arxiv.org/abs/2204.07887v1)|null|
-|**2022-04-16**|**Disturbance-free single-pixel imaging camera based on P=0.5 Bernoulli modulation and complementary detection**|Wenlin Gong et.al.|[2204.07711v1](http://arxiv.org/abs/2204.07711v1)|null|
-|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
-|**2022-04-15**|**Active Mapping via Gradient Ascent Optimization of Shannon Mutual Information over Continuous SE(3) Trajectories**|Arash Asgharivaskasi et.al.|[2204.07623v1](http://arxiv.org/abs/2204.07623v1)|null|
-|**2022-04-15**|**Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation**|Damien Robert et.al.|[2204.07548v1](http://arxiv.org/abs/2204.07548v1)|[link](https://github.com/drprojects/deepviewagg)|
-|**2022-04-15**|**Detecting Violence in Video Based on Deep Features Fusion Technique**|Heyam M. Bin Jahlan et.al.|[2204.07443v1](http://arxiv.org/abs/2204.07443v1)|null|
-|**2022-04-15**|**Scalable and Real-time Multi-Camera Vehicle Detection, Re-Identification, and Tracking**|Pirazh Khorramshahi et.al.|[2204.07442v1](http://arxiv.org/abs/2204.07442v1)|null|
-|**2022-04-15**|**SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing**|Jiwei Chen et.al.|[2204.07406v1](http://arxiv.org/abs/2204.07406v1)|null|
-|**2022-04-15**|**MVSTER: Epipolar Transformer for Efficient Multi-View Stereo**|Xiaofeng Wang et.al.|[2204.07346v1](http://arxiv.org/abs/2204.07346v1)|[link](https://github.com/jeffwang987/mvster)|
-|**2022-04-15**|**Invisible-to-Visible: Privacy-Aware Human Instance Segmentation using Airborne Ultrasound via Collaborative Learning Variational Autoencoder**|Risako Tanigawa et.al.|[2204.07280v1](http://arxiv.org/abs/2204.07280v1)|null|
