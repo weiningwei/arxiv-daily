@@ -12,7 +12,7 @@
 |**2022-04-19**|**4D-MultispectralNet: Multispectral Stereoscopic Disparity Estimation using Human Masks**|Philippe Duplessis-Guindon et.al.|[2204.09089v1](http://arxiv.org/abs/2204.09089v1)|null|
 |**2022-04-19**|**TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with HPF**|Corey Beard et.al.|[2204.09063v1](http://arxiv.org/abs/2204.09063v1)|null|
 |**2022-04-19**|**Shallow camera pipeline for night photography rendering**|Simone Zini et.al.|[2204.08972v1](http://arxiv.org/abs/2204.08972v1)|null|
-|**2022-04-19**|**Rendering Nighttime Image Via Cascaded Color and Brightness Compensation**|Zhihao Li et.al.|[2204.08970v1](http://arxiv.org/abs/2204.08970v1)|[link](https://github.com/NJUVISION/CBUnet)|
+|**2022-04-19**|**Rendering Nighttime Image Via Cascaded Color and Brightness Compensation**|Zhihao Li et.al.|[2204.08970v2](http://arxiv.org/abs/2204.08970v2)|[link](https://github.com/NJUVISION/CBUnet)|
 |**2022-04-19**|**Exact Diagonalisation of Photon Bose-Einstein Condensates with Thermo-Optic Interaction**|Enrico Stein et.al.|[2204.08818v1](http://arxiv.org/abs/2204.08818v1)|null|
 |**2022-04-19**|**An Efficient Domain-Incremental Learning Approach to Drive in All Weather Conditions**|M. Jehanzeb Mirza et.al.|[2204.08817v2](http://arxiv.org/abs/2204.08817v2)|null|
 |**2022-04-19**|**Sensor Data Fusion in Top-View Grid Maps using Evidential Reasoning with Advanced Conflict Resolution**|Sven Richter et.al.|[2204.08780v1](http://arxiv.org/abs/2204.08780v1)|null|
