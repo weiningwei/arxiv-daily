@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
 |**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
 |**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
 |**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO$_2$**|Liyang Ma et.al.|[2204.09374v2](http://arxiv.org/abs/2204.09374v2)|null|
@@ -31,4 +32,3 @@
 |**2022-04-07**|**Magneto-inertial range dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2204.03524v1](http://arxiv.org/abs/2204.03524v1)|null|
 |**2022-04-07**|**A universal model for drag on a spherical bubble**|Qiang Sun et.al.|[2204.03349v1](http://arxiv.org/abs/2204.03349v1)|null|
 |**2022-04-07**|**Perception-aware receding horizon trajectory planning for multicopters with visual-inertial odometry**|Xiangyu Wu et.al.|[2204.03134v1](http://arxiv.org/abs/2204.03134v1)|null|
-|**2022-04-06**|**Non-commutativity and non-inertial effects on a scalar field in a cosmic string space-time. Part 2: Spin-zero Duffin-Kemmer-Petiau-like oscillator**|R. R. Cuzinatto et.al.|[2204.03049v1](http://arxiv.org/abs/2204.03049v1)|null|

@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-21**|**SelfD: Self-Learning Large-Scale Driving Policies From the Web**|Jimuyang Zhang et.al.|[2204.10320v1](http://arxiv.org/abs/2204.10320v1)|null|
+|**2022-04-21**|**Learning Future Object Prediction with a Spatiotemporal Detection Transformer**|Adam Tonderski et.al.|[2204.10321v1](http://arxiv.org/abs/2204.10321v1)|null|
+|**2022-04-21**|**Unsupervised Human Action Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance**|Giancarlo Paoletti et.al.|[2204.10312v1](http://arxiv.org/abs/2204.10312v1)|[link](https://github.com/iit-pavis/uhar_skeletal_laplacian)|
+|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
+|**2022-04-21**|**A case for using rotation invariant features in state of the art feature matchers**|Georg Bökman et.al.|[2204.10144v1](http://arxiv.org/abs/2204.10144v1)|[link](https://github.com/georg-bn/se2-loftr)|
+|**2022-04-21**|**Multi-UAV trajectory planning for 3D visual inspection of complex structures**|Stefan Ivić et.al.|[2204.10070v1](http://arxiv.org/abs/2204.10070v1)|null|
+|**2022-04-21**|**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**|Hassan Imani et.al.|[2204.10039v1](http://arxiv.org/abs/2204.10039v1)|[link](https://github.com/h-deep/trans-svsr)|
+|**2022-04-21**|**Physics vs. Learned Priors: Rethinking Camera and Algorithm Design for Task-Specific Imaging**|Tzofi Klinghoffer et.al.|[2204.09871v1](http://arxiv.org/abs/2204.09871v1)|null|
+|**2022-04-21**|**Pixel2Mesh++: 3D Mesh Generation and Refinement from Multi-View Images**|Chao Wen et.al.|[2204.09866v1](http://arxiv.org/abs/2204.09866v1)|null|
+|**2022-04-21**|**Self-Supervised Learning to Guide Scientifically Relevant Categorization of Martian Terrain Images**|Tejas Panambur et.al.|[2204.09854v1](http://arxiv.org/abs/2204.09854v1)|[link](https://github.com/tejaspanambur/mastcam)|
+|**2022-04-21**|**Fast AdvProp**|Jieru Mei et.al.|[2204.09838v1](http://arxiv.org/abs/2204.09838v1)|[link](https://github.com/meijieru/fast_advprop)|
+|**2022-04-20**|**SELMA: SEmantic Large-scale Multimodal Acquisitions in Variable Weather, Daytime and Viewpoints**|Paolo Testolina et.al.|[2204.09788v1](http://arxiv.org/abs/2204.09788v1)|null|
+|**2022-04-20**|**Far-ultraviolet investigation into the galactic globular cluster M30 (NGC 7099): II. Potential X-ray counterparts and variable sources**|Santana Mansfield et.al.|[2204.09681v1](http://arxiv.org/abs/2204.09681v1)|null|
 |**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|[link](https://github.com/IDLabMedia/large-lightfields-dataset)|
 |**2022-04-20**|**NFormer: Robust Person Re-identification with Neighbor Transformer**|Haochen Wang et.al.|[2204.09331v1](http://arxiv.org/abs/2204.09331v1)|null|
 |**2022-04-20**|**Self-supervised Learning for Sonar Image Classification**|Alan Preciado-Grijalva et.al.|[2204.09323v1](http://arxiv.org/abs/2204.09323v1)|[link](https://github.com/agrija9/ssl-sonar-images)|
@@ -19,16 +32,3 @@
 |**2022-04-19**|**Euclid: Discovering pair-instability supernovae with the Deep Survey**|T. J. Moriya et.al.|[2204.08727v1](http://arxiv.org/abs/2204.08727v1)|null|
 |**2022-04-19**|**Shape-Aware Monocular 3D Object Detection**|Wei Chen et.al.|[2204.08717v1](http://arxiv.org/abs/2204.08717v1)|null|
 |**2022-04-19**|**Size Distribution of Small Jupiter Trojans in the L5 Swarm**|Kotomi Uehata et.al.|[2204.08617v1](http://arxiv.org/abs/2204.08617v1)|null|
-|**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
-|**2022-04-18**|**Multimodal Proximity and Visuotactile Sensing With a Selectively Transmissive Soft Membrane**|Jessica Yin et.al.|[2204.08586v1](http://arxiv.org/abs/2204.08586v1)|null|
-|**2022-04-18**|**Subspace Nonnegative Matrix Factorization for Feature Representation**|Junhang Li et.al.|[2204.08382v1](http://arxiv.org/abs/2204.08382v1)|[link](https://github.com/wnmf1/fwnmf-erwnmf)|
-|**2022-04-18**|**Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads**|Aman Goyal et.al.|[2204.08364v1](http://arxiv.org/abs/2204.08364v1)|[link](https://github.com/ihubdata-mobility/public-motorcycle-violations)|
-|**2022-04-18**|**Tracking monocular camera pose and deformation for SLAM inside the human body**|Juan J. Gomez Rodriguez et.al.|[2204.08309v1](http://arxiv.org/abs/2204.08309v1)|null|
-|**2022-04-18**|**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**|Zhengxiang Shi et.al.|[2204.08292v1](http://arxiv.org/abs/2204.08292v1)|[link](https://github.com/ZhengxiangShi/StepGame)|
-|**2022-04-18**|**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**|Paul Albert et.al.|[2204.08271v1](http://arxiv.org/abs/2204.08271v1)|[link](https://github.com/paulalbert31/clover_ssl)|
-|**2022-04-18**|**OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**|Yunhao Du et.al.|[2204.08209v1](http://arxiv.org/abs/2204.08209v1)|[link](https://github.com/dyhbupt/omg)|
-|**2022-04-18**|**Real-world Deep Local Motion Deblurring**|Haoying Li et.al.|[2204.08179v1](http://arxiv.org/abs/2204.08179v1)|null|
-|**2022-04-17**|**Synthetic Distracted Driving (SynDD1) dataset for analyzing distracted behaviors and various gaze zones of a driver**|Mohammed Shaiqur Rahman et.al.|[2204.08096v2](http://arxiv.org/abs/2204.08096v2)|null|
-|**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
-|**2022-04-17**|**SymForce: Symbolic Computation and Code Generation for Robotics**|Hayk Martiros et.al.|[2204.07889v1](http://arxiv.org/abs/2204.07889v1)|[link](https://github.com/symforce-org/symforce)|
-|**2022-04-16**|**Mapping LiDAR and Camera Measurements in a Dual Top-View Grid Representation Tailored for Automated Vehicles**|Sven Richter et.al.|[2204.07887v2](http://arxiv.org/abs/2204.07887v2)|null|
