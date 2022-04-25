@@ -5,7 +5,7 @@
 |**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
 |**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
 |**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
-|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
+|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v2](http://arxiv.org/abs/2204.06776v2)|null|
 |**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
 |**2022-04-12**|**Exploring Event Camera-based Odometry for Planetary Robots**|Florian Mahlknecht et.al.|[2204.05880v1](http://arxiv.org/abs/2204.05880v1)|null|
 |**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)|

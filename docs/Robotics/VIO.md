@@ -14,7 +14,7 @@
 |**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v1](http://arxiv.org/abs/2204.07640v1)|null|
 |**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
 |**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
-|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v1](http://arxiv.org/abs/2204.06776v1)|null|
+|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v2](http://arxiv.org/abs/2204.06776v2)|null|
 |**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
 |**2022-04-13**|**Geometric phase assisted enhancement of non-inertial cavity-QED effects**|Navdeep Arya et.al.|[2204.06595v1](http://arxiv.org/abs/2204.06595v1)|null|
 |**2022-04-13**|**Two particles interacting via a contact interaction on $S^2$**|Dominic Schuh et.al.|[2204.06263v1](http://arxiv.org/abs/2204.06263v1)|null|
