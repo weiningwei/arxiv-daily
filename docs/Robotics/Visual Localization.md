@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-26**|**From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation**|Yuzhe Qin et.al.|[2204.12490v1](http://arxiv.org/abs/2204.12490v1)|null|
+|**2022-04-26**|**Automatic Monitoring of Fruit Ripening Rooms by UHF RFID Sensor Network and Machine Learning**|Cecilia Occhiuzzi et.al.|[2204.12415v1](http://arxiv.org/abs/2204.12415v1)|null|
+|**2022-04-26**|**Understanding the Impact of Edge Cases from Occluded Pedestrians for ML Systems**|Jens Henriksson et.al.|[2204.12402v1](http://arxiv.org/abs/2204.12402v1)|null|
+|**2022-04-26**|**ROMA: Cross-Domain Region Similarity Matching for Unpaired Nighttime Infrared to Daytime Visible Video Translation**|Zhenjie Yu et.al.|[2204.12367v1](http://arxiv.org/abs/2204.12367v1)|null|
+|**2022-04-26**|**Deep simultaneous limits on optical emission from FRB 20190520B by 24.4 fps observations with Tomo-e Gozen**|Yuu Niino et.al.|[2204.12334v1](http://arxiv.org/abs/2204.12334v1)|null|
+|**2022-04-26**|**Learning Dual-Pixel Alignment for Defocus Deblurring**|Yu Li et.al.|[2204.12105v1](http://arxiv.org/abs/2204.12105v1)|[link](https://github.com/liyucs/dpanet)|
+|**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089v1](http://arxiv.org/abs/2204.12089v1)|null|
+|**2022-04-25**|**BronchoPose: an analysis of data and model configuration for vision-based bronchoscopy pose estimation**|Juan Borrego-Carazo et.al.|[2204.11982v1](http://arxiv.org/abs/2204.11982v1)|null|
 |**2022-04-25**|**Real-Time Neural Character Rendering with Pose-Guided Multiplane Images**|Hao Ouyang et.al.|[2204.11820v1](http://arxiv.org/abs/2204.11820v1)|null|
 |**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|[link](https://github.com/generalizable-neural-performer/gnr)|
 |**2022-04-25**|**Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization**|Arkadeep Narayan Chaudhury et.al.|[2204.11686v1](http://arxiv.org/abs/2204.11686v1)|null|
@@ -24,11 +32,3 @@
 |**2022-04-21**|**Learning Future Object Prediction with a Spatiotemporal Detection Transformer**|Adam Tonderski et.al.|[2204.10321v1](http://arxiv.org/abs/2204.10321v1)|null|
 |**2022-04-21**|**Unsupervised Human Action Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance**|Giancarlo Paoletti et.al.|[2204.10312v1](http://arxiv.org/abs/2204.10312v1)|[link](https://github.com/iit-pavis/uhar_skeletal_laplacian)|
 |**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
-|**2022-04-21**|**A case for using rotation invariant features in state of the art feature matchers**|Georg Bökman et.al.|[2204.10144v1](http://arxiv.org/abs/2204.10144v1)|[link](https://github.com/georg-bn/se2-loftr)|
-|**2022-04-21**|**Multi-UAV trajectory planning for 3D visual inspection of complex structures**|Stefan Ivić et.al.|[2204.10070v1](http://arxiv.org/abs/2204.10070v1)|null|
-|**2022-04-21**|**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**|Hassan Imani et.al.|[2204.10039v1](http://arxiv.org/abs/2204.10039v1)|[link](https://github.com/h-deep/trans-svsr)|
-|**2022-04-21**|**Physics vs. Learned Priors: Rethinking Camera and Algorithm Design for Task-Specific Imaging**|Tzofi Klinghoffer et.al.|[2204.09871v1](http://arxiv.org/abs/2204.09871v1)|null|
-|**2022-04-21**|**Pixel2Mesh++: 3D Mesh Generation and Refinement from Multi-View Images**|Chao Wen et.al.|[2204.09866v1](http://arxiv.org/abs/2204.09866v1)|null|
-|**2022-04-21**|**Self-Supervised Learning to Guide Scientifically Relevant Categorization of Martian Terrain Images**|Tejas Panambur et.al.|[2204.09854v1](http://arxiv.org/abs/2204.09854v1)|[link](https://github.com/tejaspanambur/mastcam)|
-|**2022-04-21**|**Fast AdvProp**|Jieru Mei et.al.|[2204.09838v1](http://arxiv.org/abs/2204.09838v1)|[link](https://github.com/meijieru/fast_advprop)|
-|**2022-04-20**|**SELMA: SEmantic Large-scale Multimodal Acquisitions in Variable Weather, Daytime and Viewpoints**|Paolo Testolina et.al.|[2204.09788v1](http://arxiv.org/abs/2204.09788v1)|null|

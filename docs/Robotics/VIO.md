@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
+|**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
+|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
+|**2022-04-26**|**Toward Consistent and Efficient Map-based Visual-inertial Localization: Theory Framework and Filter Design**|Zhuqing Zhang et.al.|[2204.12108v1](http://arxiv.org/abs/2204.12108v1)|null|
 |**2022-04-25**|**Casimir preserving spectrum of two-dimensional turbulence**|Paolo Cifani et.al.|[2204.11794v1](http://arxiv.org/abs/2204.11794v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
 |**2022-04-25**|**Spin Transport Hydrodynamics of Polarized Deuterium-Tritium Fusion Plasma**|Ronghao Hu et.al.|[2204.11523v1](http://arxiv.org/abs/2204.11523v1)|null|
@@ -28,7 +32,3 @@
 |**2022-04-13**|**Two particles interacting via a contact interaction on $S^2$**|Dominic Schuh et.al.|[2204.06263v1](http://arxiv.org/abs/2204.06263v1)|null|
 |**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v2](http://arxiv.org/abs/2204.06183v2)|null|
 |**2022-04-13**|**Almost sharp wave kinetic theory of multidimensional KdV type equations with $d\ge 3$**|Xiao Ma et.al.|[2204.06148v1](http://arxiv.org/abs/2204.06148v1)|null|
-|**2022-04-12**|**The noncommutative quantum Hall effect with anomalous magnetic moment in three different relativistic scenarios**|R. R. S. Oliveira et.al.|[2204.06057v1](http://arxiv.org/abs/2204.06057v1)|null|
-|**2022-04-12**|**Exploring Event Camera-based Odometry for Planetary Robots**|Florian Mahlknecht et.al.|[2204.05880v1](http://arxiv.org/abs/2204.05880v1)|null|
-|**2022-04-12**|**Band-type resonance: non-discrete energetically-optimal resonant states**|Arion Pons et.al.|[2204.10409v1](http://arxiv.org/abs/2204.10409v1)|null|
-|**2022-04-11**|**Position fixing with cold atom gravity gradiometers**|Alexander M. Phillips et.al.|[2204.05246v1](http://arxiv.org/abs/2204.05246v1)|null|
