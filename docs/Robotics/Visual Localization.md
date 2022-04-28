@@ -13,14 +13,14 @@
 |**2022-04-25**|**Real-Time Neural Character Rendering with Pose-Guided Multiplane Images**|Hao Ouyang et.al.|[2204.11820v1](http://arxiv.org/abs/2204.11820v1)|null|
 |**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|[link](https://github.com/generalizable-neural-performer/gnr)|
 |**2022-04-25**|**Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization**|Arkadeep Narayan Chaudhury et.al.|[2204.11686v1](http://arxiv.org/abs/2204.11686v1)|null|
-|**2022-04-25**|**Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training**|Zhenyu Li et.al.|[2204.11590v1](http://arxiv.org/abs/2204.11590v1)|null|
+|**2022-04-25**|**Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training**|Zhenyu Li et.al.|[2204.11590v2](http://arxiv.org/abs/2204.11590v2)|null|
 |**2022-04-25**|**Imitation Learning from Observations under Transition Model Disparity**|Tanmay Gangwani et.al.|[2204.11446v1](http://arxiv.org/abs/2204.11446v1)|[link](https://github.com/tgangwani/ailo)|
 |**2022-04-25**|**Tensorial tomographic differential phase-contrast microscopy**|Shiqi Xu et.al.|[2204.11397v1](http://arxiv.org/abs/2204.11397v1)|null|
 |**2022-04-24**|**2D LiDAR and Camera Fusion Using Motion Cues for Indoor Layout Estimation**|Jieyu Li et.al.|[2204.11202v1](http://arxiv.org/abs/2204.11202v1)|[link](https://github.com/leejieyu13/lidarcameradataset)|
 |**2022-04-24**|**MVP-Human Dataset for 3D Human Avatar Reconstruction from Unconstrained Frames**|Xiangyu Zhu et.al.|[2204.11184v1](http://arxiv.org/abs/2204.11184v1)|null|
 |**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
 |**2022-04-22**|**Pay "Attention" to Adverse Weather: Weather-aware Attention-based Object Detection**|Saket S. Chaturvedi et.al.|[2204.10803v1](http://arxiv.org/abs/2204.10803v1)|null|
-|**2022-04-22**|**Leveraging Deepfakes to Close the Domain Gap between Real and Synthetic Images in Facial Capture Pipelines**|Winnie Lin et.al.|[2204.10746v1](http://arxiv.org/abs/2204.10746v1)|null|
+|**2022-04-22**|**Leveraging Deepfakes to Close the Domain Gap between Real and Synthetic Images in Facial Capture Pipelines**|Winnie Lin et.al.|[2204.10746v2](http://arxiv.org/abs/2204.10746v2)|null|
 |**2022-04-22**|**SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**|Runzhe Zhu et.al.|[2204.10704v1](http://arxiv.org/abs/2204.10704v1)|[link](https://github.com/Reza-Zhu/SUES-200-Benchmark)|
 |**2022-04-22**|**JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction**|Yukang Cao et.al.|[2204.10549v1](http://arxiv.org/abs/2204.10549v1)|null|
 |**2022-04-22**|**Privacy-preserving Social Distance Monitoring on Microcontrollers with Low-Resolution Infrared Sensors and CNNs**|Chen Xie et.al.|[2204.10541v1](http://arxiv.org/abs/2204.10541v1)|null|
