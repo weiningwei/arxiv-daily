@@ -6,7 +6,7 @@
 |**2022-04-27**|**Attention Consistency on Visual Corruptions for Single-Source Domain Generalization**|Ilke Cugu et.al.|[2204.13091v1](http://arxiv.org/abs/2204.13091v1)|[link](https://github.com/explainableml/acvc)|
 |**2022-04-27**|**Improved performances of the NectarCAM, a Medium-Sized Telescope Camera for the Cherenkov Telescope Array**|F. Bradascio et.al.|[2204.12942v1](http://arxiv.org/abs/2204.12942v1)|null|
 |**2022-04-27**|**Global Trajectory Helps Person Retrieval in a Camera Network**|Xin Zhang et.al.|[2204.12900v1](http://arxiv.org/abs/2204.12900v1)|null|
-|**2022-04-27**|**Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition**|Shuhui Wu et.al.|[2204.12732v1](http://arxiv.org/abs/2204.12732v1)|null|
+|**2022-04-27**|**Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition**|Shuhui Wu et.al.|[2204.12732v1](http://arxiv.org/abs/2204.12732v1)|[link](https://github.com/XiPotatonium/pnr)|
 |**2022-04-27**|**Dataset for Robust and Accurate Leading Vehicle Velocity Recognition**|Genya Ogawa et.al.|[2204.12717v1](http://arxiv.org/abs/2204.12717v1)|null|
 |**2022-04-26**|**Novel Applications for VAE-based Anomaly Detection Systems**|Luca Bergamin et.al.|[2204.12577v1](http://arxiv.org/abs/2204.12577v1)|null|
 |**2022-04-26**|**AccMPEG: Optimizing Video Encoding for Video Analytics**|Kuntai Du et.al.|[2204.12534v1](http://arxiv.org/abs/2204.12534v1)|null|
