@@ -1,13 +1,82 @@
 # arxiv-daily
- Automated deployment @ 2022-04-28 08:46:15 Asia/Shanghai
+ Automated deployment @ 2022-04-28 11:26:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-27**|**3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective**|Zhedong Zheng et.al.|[2204.13096v1](http://arxiv.org/abs/2204.13096v1)|null|
+|**2022-04-27**|**Attention Consistency on Visual Corruptions for Single-Source Domain Generalization**|Ilke Cugu et.al.|[2204.13091v1](http://arxiv.org/abs/2204.13091v1)|[link](https://github.com/explainableml/acvc)|
+|**2022-04-27**|**Improved performances of the NectarCAM, a Medium-Sized Telescope Camera for the Cherenkov Telescope Array**|F. Bradascio et.al.|[2204.12942v1](http://arxiv.org/abs/2204.12942v1)|null|
+|**2022-04-27**|**Global Trajectory Helps Person Retrieval in a Camera Network**|Xin Zhang et.al.|[2204.12900v1](http://arxiv.org/abs/2204.12900v1)|null|
+|**2022-04-27**|**Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition**|Shuhui Wu et.al.|[2204.12732v1](http://arxiv.org/abs/2204.12732v1)|null|
+|**2022-04-27**|**Dataset for Robust and Accurate Leading Vehicle Velocity Recognition**|Genya Ogawa et.al.|[2204.12717v1](http://arxiv.org/abs/2204.12717v1)|null|
+|**2022-04-26**|**Novel Applications for VAE-based Anomaly Detection Systems**|Luca Bergamin et.al.|[2204.12577v1](http://arxiv.org/abs/2204.12577v1)|null|
+|**2022-04-26**|**AccMPEG: Optimizing Video Encoding for Video Analytics**|Kuntai Du et.al.|[2204.12534v1](http://arxiv.org/abs/2204.12534v1)|null|
+|**2022-04-26**|**From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation**|Yuzhe Qin et.al.|[2204.12490v1](http://arxiv.org/abs/2204.12490v1)|null|
+|**2022-04-26**|**Automatic Monitoring of Fruit Ripening Rooms by UHF RFID Sensor Network and Machine Learning**|Cecilia Occhiuzzi et.al.|[2204.12415v1](http://arxiv.org/abs/2204.12415v1)|null|
+|**2022-04-26**|**Understanding the Impact of Edge Cases from Occluded Pedestrians for ML Systems**|Jens Henriksson et.al.|[2204.12402v1](http://arxiv.org/abs/2204.12402v1)|null|
+|**2022-04-26**|**ROMA: Cross-Domain Region Similarity Matching for Unpaired Nighttime Infrared to Daytime Visible Video Translation**|Zhenjie Yu et.al.|[2204.12367v1](http://arxiv.org/abs/2204.12367v1)|null|
+|**2022-04-26**|**Deep simultaneous limits on optical emission from FRB 20190520B by 24.4 fps observations with Tomo-e Gozen**|Yuu Niino et.al.|[2204.12334v1](http://arxiv.org/abs/2204.12334v1)|null|
+|**2022-04-26**|**Learning Dual-Pixel Alignment for Defocus Deblurring**|Yu Li et.al.|[2204.12105v1](http://arxiv.org/abs/2204.12105v1)|[link](https://github.com/liyucs/dpanet)|
+|**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089v1](http://arxiv.org/abs/2204.12089v1)|null|
+|**2022-04-25**|**BronchoPose: an analysis of data and model configuration for vision-based bronchoscopy pose estimation**|Juan Borrego-Carazo et.al.|[2204.11982v1](http://arxiv.org/abs/2204.11982v1)|null|
+|**2022-04-25**|**Real-Time Neural Character Rendering with Pose-Guided Multiplane Images**|Hao Ouyang et.al.|[2204.11820v1](http://arxiv.org/abs/2204.11820v1)|null|
+|**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|[link](https://github.com/generalizable-neural-performer/gnr)|
+|**2022-04-25**|**Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization**|Arkadeep Narayan Chaudhury et.al.|[2204.11686v1](http://arxiv.org/abs/2204.11686v1)|null|
+|**2022-04-25**|**Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training**|Zhenyu Li et.al.|[2204.11590v2](http://arxiv.org/abs/2204.11590v2)|null|
+|**2022-04-25**|**Imitation Learning from Observations under Transition Model Disparity**|Tanmay Gangwani et.al.|[2204.11446v1](http://arxiv.org/abs/2204.11446v1)|[link](https://github.com/tgangwani/ailo)|
+|**2022-04-25**|**Tensorial tomographic differential phase-contrast microscopy**|Shiqi Xu et.al.|[2204.11397v1](http://arxiv.org/abs/2204.11397v1)|null|
+|**2022-04-24**|**2D LiDAR and Camera Fusion Using Motion Cues for Indoor Layout Estimation**|Jieyu Li et.al.|[2204.11202v1](http://arxiv.org/abs/2204.11202v1)|[link](https://github.com/leejieyu13/lidarcameradataset)|
+|**2022-04-24**|**MVP-Human Dataset for 3D Human Avatar Reconstruction from Unconstrained Frames**|Xiangyu Zhu et.al.|[2204.11184v1](http://arxiv.org/abs/2204.11184v1)|null|
+|**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
+|**2022-04-22**|**Pay "Attention" to Adverse Weather: Weather-aware Attention-based Object Detection**|Saket S. Chaturvedi et.al.|[2204.10803v1](http://arxiv.org/abs/2204.10803v1)|null|
+|**2022-04-22**|**Leveraging Deepfakes to Close the Domain Gap between Real and Synthetic Images in Facial Capture Pipelines**|Winnie Lin et.al.|[2204.10746v2](http://arxiv.org/abs/2204.10746v2)|null|
+|**2022-04-22**|**SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**|Runzhe Zhu et.al.|[2204.10704v1](http://arxiv.org/abs/2204.10704v1)|[link](https://github.com/Reza-Zhu/SUES-200-Benchmark)|
+|**2022-04-22**|**JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction**|Yukang Cao et.al.|[2204.10549v1](http://arxiv.org/abs/2204.10549v1)|null|
+|**2022-04-22**|**Privacy-preserving Social Distance Monitoring on Microcontrollers with Low-Resolution Infrared Sensors and CNNs**|Chen Xie et.al.|[2204.10541v1](http://arxiv.org/abs/2204.10541v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-27**|**Identification of inertial modes in the solar convection zone**|Santiago Andrés Triana et.al.|[2204.13007v1](http://arxiv.org/abs/2204.13007v1)|null|
+|**2022-04-27**|**Velocity circulation intermittency in finite-temperature turbulent superfluid helium**|Nicolás P. Müller et.al.|[2204.12999v1](http://arxiv.org/abs/2204.12999v1)|null|
+|**2022-04-27**|**Towards A COLREGs Compliant Autonomous Surface Vessel in a Constrained Channel**|James Connor Meyers et.al.|[2204.12906v1](http://arxiv.org/abs/2204.12906v1)|null|
+|**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
+|**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
+|**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
+|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
+|**2022-04-26**|**Toward Consistent and Efficient Map-based Visual-inertial Localization: Theory Framework and Filter Design**|Zhuqing Zhang et.al.|[2204.12108v1](http://arxiv.org/abs/2204.12108v1)|[link](https://github.com/zhuqingzhang/msoc-s-ikf)|
+|**2022-04-25**|**Casimir preserving spectrum of two-dimensional turbulence**|Paolo Cifani et.al.|[2204.11794v1](http://arxiv.org/abs/2204.11794v1)|null|
+|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
+|**2022-04-25**|**Spin Transport Hydrodynamics of Polarized Deuterium-Tritium Fusion Plasma**|Ronghao Hu et.al.|[2204.11523v1](http://arxiv.org/abs/2204.11523v1)|null|
+|**2022-04-23**|**Theory of inertial spin dynamics in anisotropic ferromagnets**|Mikhail Cherkasskii et.al.|[2204.11057v1](http://arxiv.org/abs/2204.11057v1)|null|
+|**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
+|**2022-04-22**|**A consistent co-rotational formulation for aerodynamic nonlinear analysis of flexible frame structures**|Mauricio C. Vanzulli et.al.|[2204.10545v1](http://arxiv.org/abs/2204.10545v1)|null|
+|**2022-04-22**|**Gravity aided navigation using Viterbi map matching algorithm**|Wenchao Li et.al.|[2204.10492v1](http://arxiv.org/abs/2204.10492v1)|null|
+|**2022-04-21**|**Performance Analysis of Automotive SAR With Radar Based Motion Estimation**|Oded Bialer et.al.|[2204.10406v1](http://arxiv.org/abs/2204.10406v1)|null|
+|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
+|**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
+|**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
+|**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO$_2$**|Liyang Ma et.al.|[2204.09374v2](http://arxiv.org/abs/2204.09374v2)|null|
+|**2022-04-20**|**Optimizing doping parameters of target to enhance direct-drive implosion**|Guannan Zheng et.al.|[2204.09208v1](http://arxiv.org/abs/2204.09208v1)|null|
+|**2022-04-20**|**Laser pulse shape designer for direct-drive inertial confinement fusion**|Tao Tao et.al.|[2204.09203v1](http://arxiv.org/abs/2204.09203v1)|null|
+|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
+|**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
+|**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
+|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
+|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
+|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
+|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v2](http://arxiv.org/abs/2204.06776v2)|null|
+|**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
 |**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
 |**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
@@ -37,79 +106,12 @@
 |**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
 |**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
-|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
-|**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
-|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
-|**2022-04-26**|**Toward Consistent and Efficient Map-based Visual-inertial Localization: Theory Framework and Filter Design**|Zhuqing Zhang et.al.|[2204.12108v1](http://arxiv.org/abs/2204.12108v1)|[link](https://github.com/zhuqingzhang/msoc-s-ikf)|
-|**2022-04-25**|**Casimir preserving spectrum of two-dimensional turbulence**|Paolo Cifani et.al.|[2204.11794v1](http://arxiv.org/abs/2204.11794v1)|null|
-|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
-|**2022-04-25**|**Spin Transport Hydrodynamics of Polarized Deuterium-Tritium Fusion Plasma**|Ronghao Hu et.al.|[2204.11523v1](http://arxiv.org/abs/2204.11523v1)|null|
-|**2022-04-23**|**Theory of inertial spin dynamics in anisotropic ferromagnets**|Mikhail Cherkasskii et.al.|[2204.11057v1](http://arxiv.org/abs/2204.11057v1)|null|
-|**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
-|**2022-04-22**|**A consistent co-rotational formulation for aerodynamic nonlinear analysis of flexible frame structures**|Mauricio C. Vanzulli et.al.|[2204.10545v1](http://arxiv.org/abs/2204.10545v1)|null|
-|**2022-04-22**|**Gravity aided navigation using Viterbi map matching algorithm**|Wenchao Li et.al.|[2204.10492v1](http://arxiv.org/abs/2204.10492v1)|null|
-|**2022-04-21**|**Performance Analysis of Automotive SAR With Radar Based Motion Estimation**|Oded Bialer et.al.|[2204.10406v1](http://arxiv.org/abs/2204.10406v1)|null|
-|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
-|**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
-|**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
-|**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO$_2$**|Liyang Ma et.al.|[2204.09374v2](http://arxiv.org/abs/2204.09374v2)|null|
-|**2022-04-20**|**Optimizing doping parameters of target to enhance direct-drive implosion**|Guannan Zheng et.al.|[2204.09208v1](http://arxiv.org/abs/2204.09208v1)|null|
-|**2022-04-20**|**Laser pulse shape designer for direct-drive inertial confinement fusion**|Tao Tao et.al.|[2204.09203v1](http://arxiv.org/abs/2204.09203v1)|null|
-|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
-|**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
-|**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
-|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
-|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
-|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
-|**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v2](http://arxiv.org/abs/2204.06776v2)|null|
-|**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
-|**2022-04-13**|**Geometric phase assisted enhancement of non-inertial cavity-QED effects**|Navdeep Arya et.al.|[2204.06595v1](http://arxiv.org/abs/2204.06595v1)|null|
-|**2022-04-13**|**Two particles interacting via a contact interaction on $S^2$**|Dominic Schuh et.al.|[2204.06263v1](http://arxiv.org/abs/2204.06263v1)|null|
-|**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v2](http://arxiv.org/abs/2204.06183v2)|null|
-|**2022-04-13**|**Almost sharp wave kinetic theory of multidimensional KdV type equations with $d\ge 3$**|Xiao Ma et.al.|[2204.06148v1](http://arxiv.org/abs/2204.06148v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-26**|**From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation**|Yuzhe Qin et.al.|[2204.12490v1](http://arxiv.org/abs/2204.12490v1)|null|
-|**2022-04-26**|**Automatic Monitoring of Fruit Ripening Rooms by UHF RFID Sensor Network and Machine Learning**|Cecilia Occhiuzzi et.al.|[2204.12415v1](http://arxiv.org/abs/2204.12415v1)|null|
-|**2022-04-26**|**Understanding the Impact of Edge Cases from Occluded Pedestrians for ML Systems**|Jens Henriksson et.al.|[2204.12402v1](http://arxiv.org/abs/2204.12402v1)|null|
-|**2022-04-26**|**ROMA: Cross-Domain Region Similarity Matching for Unpaired Nighttime Infrared to Daytime Visible Video Translation**|Zhenjie Yu et.al.|[2204.12367v1](http://arxiv.org/abs/2204.12367v1)|null|
-|**2022-04-26**|**Deep simultaneous limits on optical emission from FRB 20190520B by 24.4 fps observations with Tomo-e Gozen**|Yuu Niino et.al.|[2204.12334v1](http://arxiv.org/abs/2204.12334v1)|null|
-|**2022-04-26**|**Learning Dual-Pixel Alignment for Defocus Deblurring**|Yu Li et.al.|[2204.12105v1](http://arxiv.org/abs/2204.12105v1)|[link](https://github.com/liyucs/dpanet)|
-|**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089v1](http://arxiv.org/abs/2204.12089v1)|null|
-|**2022-04-25**|**BronchoPose: an analysis of data and model configuration for vision-based bronchoscopy pose estimation**|Juan Borrego-Carazo et.al.|[2204.11982v1](http://arxiv.org/abs/2204.11982v1)|null|
-|**2022-04-25**|**Real-Time Neural Character Rendering with Pose-Guided Multiplane Images**|Hao Ouyang et.al.|[2204.11820v1](http://arxiv.org/abs/2204.11820v1)|null|
-|**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|[link](https://github.com/generalizable-neural-performer/gnr)|
-|**2022-04-25**|**Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization**|Arkadeep Narayan Chaudhury et.al.|[2204.11686v1](http://arxiv.org/abs/2204.11686v1)|null|
-|**2022-04-25**|**Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training**|Zhenyu Li et.al.|[2204.11590v2](http://arxiv.org/abs/2204.11590v2)|null|
-|**2022-04-25**|**Imitation Learning from Observations under Transition Model Disparity**|Tanmay Gangwani et.al.|[2204.11446v1](http://arxiv.org/abs/2204.11446v1)|[link](https://github.com/tgangwani/ailo)|
-|**2022-04-25**|**Tensorial tomographic differential phase-contrast microscopy**|Shiqi Xu et.al.|[2204.11397v1](http://arxiv.org/abs/2204.11397v1)|null|
-|**2022-04-24**|**2D LiDAR and Camera Fusion Using Motion Cues for Indoor Layout Estimation**|Jieyu Li et.al.|[2204.11202v1](http://arxiv.org/abs/2204.11202v1)|[link](https://github.com/leejieyu13/lidarcameradataset)|
-|**2022-04-24**|**MVP-Human Dataset for 3D Human Avatar Reconstruction from Unconstrained Frames**|Xiangyu Zhu et.al.|[2204.11184v1](http://arxiv.org/abs/2204.11184v1)|null|
-|**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
-|**2022-04-22**|**Pay "Attention" to Adverse Weather: Weather-aware Attention-based Object Detection**|Saket S. Chaturvedi et.al.|[2204.10803v1](http://arxiv.org/abs/2204.10803v1)|null|
-|**2022-04-22**|**Leveraging Deepfakes to Close the Domain Gap between Real and Synthetic Images in Facial Capture Pipelines**|Winnie Lin et.al.|[2204.10746v2](http://arxiv.org/abs/2204.10746v2)|null|
-|**2022-04-22**|**SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**|Runzhe Zhu et.al.|[2204.10704v1](http://arxiv.org/abs/2204.10704v1)|[link](https://github.com/Reza-Zhu/SUES-200-Benchmark)|
-|**2022-04-22**|**JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction**|Yukang Cao et.al.|[2204.10549v1](http://arxiv.org/abs/2204.10549v1)|null|
-|**2022-04-22**|**Privacy-preserving Social Distance Monitoring on Microcontrollers with Low-Resolution Infrared Sensors and CNNs**|Chen Xie et.al.|[2204.10541v1](http://arxiv.org/abs/2204.10541v1)|null|
-|**2022-04-22**|**Learning Dynamic View Synthesis With Few RGBD Cameras**|Shengze Wang et.al.|[2204.10477v1](http://arxiv.org/abs/2204.10477v1)|null|
-|**2022-04-21**|**Monocular Depth Estimation Using Cues Inspired by Biological Vision Systems**|Dylan Auty et.al.|[2204.10384v1](http://arxiv.org/abs/2204.10384v1)|[link](https://github.com/dylanauty/mde-biological-vision-systems)|
-|**2022-04-21**|**The 6th AI City Challenge**|Milind Naphade et.al.|[2204.10380v1](http://arxiv.org/abs/2204.10380v1)|null|
-|**2022-04-21**|**Contrastive Test-Time Adaptation**|Dian Chen et.al.|[2204.10377v1](http://arxiv.org/abs/2204.10377v1)|null|
-|**2022-04-21**|**SelfD: Self-Learning Large-Scale Driving Policies From the Web**|Jimuyang Zhang et.al.|[2204.10320v1](http://arxiv.org/abs/2204.10320v1)|null|
-|**2022-04-21**|**Learning Future Object Prediction with a Spatiotemporal Detection Transformer**|Adam Tonderski et.al.|[2204.10321v1](http://arxiv.org/abs/2204.10321v1)|null|
-|**2022-04-21**|**Unsupervised Human Action Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance**|Giancarlo Paoletti et.al.|[2204.10312v1](http://arxiv.org/abs/2204.10312v1)|[link](https://github.com/iit-pavis/uhar_skeletal_laplacian)|
-|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
+|**2022-04-27**|**Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**|Wenyu Li et.al.|[2204.12769v1](http://arxiv.org/abs/2204.12769v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
 |**2022-04-23**|**Indoor simultaneous localization and mapping based on fringe projection profilometry**|Yang Zhao et.al.|[2204.11020v1](http://arxiv.org/abs/2204.11020v1)|null|
 |**2022-04-22**|**Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**|Julio A. Placed et.al.|[2204.10631v1](http://arxiv.org/abs/2204.10631v1)|null|
@@ -138,5 +140,3 @@
 |**2022-03-25**|**Spectral Measurement Sparsification for Pose-Graph SLAM**|Kevin J. Doherty et.al.|[2203.13897v1](http://arxiv.org/abs/2203.13897v1)|null|
 |**2022-03-25**|**FD-SLAM: 3-D Reconstruction Using Features and Dense Matching**|Xingrui Yang et.al.|[2203.13861v1](http://arxiv.org/abs/2203.13861v1)|null|
 |**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
-|**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|
-|**2022-03-24**|**Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video**|Shun Taguchi et.al.|[2203.12804v1](http://arxiv.org/abs/2203.12804v1)|null|

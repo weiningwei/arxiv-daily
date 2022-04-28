@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-27**|**Identification of inertial modes in the solar convection zone**|Santiago Andrés Triana et.al.|[2204.13007v1](http://arxiv.org/abs/2204.13007v1)|null|
+|**2022-04-27**|**Velocity circulation intermittency in finite-temperature turbulent superfluid helium**|Nicolás P. Müller et.al.|[2204.12999v1](http://arxiv.org/abs/2204.12999v1)|null|
+|**2022-04-27**|**Towards A COLREGs Compliant Autonomous Surface Vessel in a Constrained Channel**|James Connor Meyers et.al.|[2204.12906v1](http://arxiv.org/abs/2204.12906v1)|null|
+|**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
 |**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
 |**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
 |**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
@@ -28,7 +32,3 @@
 |**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
 |**2022-04-14**|**Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06776v2](http://arxiv.org/abs/2204.06776v2)|null|
 |**2022-04-13**|**Observability Analysis of Visual-Inertial Odometry with Online Calibration of Velocity-Control Based Kinematic Motion Models**|Haolong Li et.al.|[2204.06651v1](http://arxiv.org/abs/2204.06651v1)|null|
-|**2022-04-13**|**Geometric phase assisted enhancement of non-inertial cavity-QED effects**|Navdeep Arya et.al.|[2204.06595v1](http://arxiv.org/abs/2204.06595v1)|null|
-|**2022-04-13**|**Two particles interacting via a contact interaction on $S^2$**|Dominic Schuh et.al.|[2204.06263v1](http://arxiv.org/abs/2204.06263v1)|null|
-|**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee et.al.|[2204.06183v2](http://arxiv.org/abs/2204.06183v2)|null|
-|**2022-04-13**|**Almost sharp wave kinetic theory of multidimensional KdV type equations with $d\ge 3$**|Xiao Ma et.al.|[2204.06148v1](http://arxiv.org/abs/2204.06148v1)|null|
