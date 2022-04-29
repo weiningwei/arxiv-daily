@@ -20,7 +20,7 @@
 |**2022-04-25**|**BronchoPose: an analysis of data and model configuration for vision-based bronchoscopy pose estimation**|Juan Borrego-Carazo et.al.|[2204.11982v1](http://arxiv.org/abs/2204.11982v1)|null|
 |**2022-04-25**|**Real-Time Neural Character Rendering with Pose-Guided Multiplane Images**|Hao Ouyang et.al.|[2204.11820v1](http://arxiv.org/abs/2204.11820v1)|null|
 |**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|[link](https://github.com/generalizable-neural-performer/gnr)|
-|**2022-04-25**|**Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization**|Arkadeep Narayan Chaudhury et.al.|[2204.11686v1](http://arxiv.org/abs/2204.11686v1)|null|
+|**2022-04-25**|**Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization**|Arkadeep Narayan Chaudhury et.al.|[2204.11686v2](http://arxiv.org/abs/2204.11686v2)|null|
 |**2022-04-25**|**Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training**|Zhenyu Li et.al.|[2204.11590v2](http://arxiv.org/abs/2204.11590v2)|null|
 |**2022-04-25**|**Imitation Learning from Observations under Transition Model Disparity**|Tanmay Gangwani et.al.|[2204.11446v1](http://arxiv.org/abs/2204.11446v1)|[link](https://github.com/tgangwani/ailo)|
 |**2022-04-25**|**Tensorial tomographic differential phase-contrast microscopy**|Shiqi Xu et.al.|[2204.11397v1](http://arxiv.org/abs/2204.11397v1)|null|
