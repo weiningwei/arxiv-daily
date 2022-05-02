@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2022-05-02 21:02:54 Asia/Shanghai
+ Automated deployment @ 2022-05-02 21:38:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-28**|**Correlation function and linear response function of homogeneous isotropic turbulence in the Eulerian and Lagrangian coordinates**|Takeshi Matsumoto et.al.|[2204.13435v1](http://arxiv.org/abs/2204.13435v1)|null|
+|**2022-04-28**|**Viscous inertial modes on a differentially rotating sphere: Comparison with solar observations**|Damien Fournier et.al.|[2204.13412v1](http://arxiv.org/abs/2204.13412v1)|null|
+|**2022-04-27**|**Identification of inertial modes in the solar convection zone**|Santiago Andrés Triana et.al.|[2204.13007v1](http://arxiv.org/abs/2204.13007v1)|[link](https://bitbucket.org/repepo/kore)|
+|**2022-04-27**|**Velocity circulation intermittency in finite-temperature turbulent superfluid helium**|Nicolás P. Müller et.al.|[2204.12999v1](http://arxiv.org/abs/2204.12999v1)|null|
+|**2022-04-27**|**Towards A COLREGs Compliant Autonomous Surface Vessel in a Constrained Channel**|James Connor Meyers et.al.|[2204.12906v1](http://arxiv.org/abs/2204.12906v1)|null|
+|**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
+|**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
+|**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
+|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
+|**2022-04-26**|**Toward Consistent and Efficient Map-based Visual-inertial Localization: Theory Framework and Filter Design**|Zhuqing Zhang et.al.|[2204.12108v1](http://arxiv.org/abs/2204.12108v1)|[link](https://github.com/zhuqingzhang/msoc-s-ikf)|
+|**2022-04-25**|**Casimir preserving spectrum of two-dimensional turbulence**|Paolo Cifani et.al.|[2204.11794v1](http://arxiv.org/abs/2204.11794v1)|null|
+|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma et.al.|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
+|**2022-04-25**|**Spin Transport Hydrodynamics of Polarized Deuterium-Tritium Fusion Plasma**|Ronghao Hu et.al.|[2204.11523v1](http://arxiv.org/abs/2204.11523v1)|null|
+|**2022-04-23**|**Theory of inertial spin dynamics in anisotropic ferromagnets**|Mikhail Cherkasskii et.al.|[2204.11057v1](http://arxiv.org/abs/2204.11057v1)|null|
+|**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
+|**2022-04-22**|**A consistent co-rotational formulation for aerodynamic nonlinear analysis of flexible frame structures**|Mauricio C. Vanzulli et.al.|[2204.10545v1](http://arxiv.org/abs/2204.10545v1)|null|
+|**2022-04-22**|**Gravity aided navigation using Viterbi map matching algorithm**|Wenchao Li et.al.|[2204.10492v1](http://arxiv.org/abs/2204.10492v1)|null|
+|**2022-04-21**|**Performance Analysis of Automotive SAR With Radar Based Motion Estimation**|Oded Bialer et.al.|[2204.10406v1](http://arxiv.org/abs/2204.10406v1)|null|
+|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
+|**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
+|**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
+|**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO$_2$**|Liyang Ma et.al.|[2204.09374v2](http://arxiv.org/abs/2204.09374v2)|null|
+|**2022-04-20**|**Optimizing doping parameters of target to enhance direct-drive implosion**|Guannan Zheng et.al.|[2204.09208v1](http://arxiv.org/abs/2204.09208v1)|null|
+|**2022-04-20**|**Laser pulse shape designer for direct-drive inertial confinement fusion**|Tao Tao et.al.|[2204.09203v1](http://arxiv.org/abs/2204.09203v1)|null|
+|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
+|**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
+|**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
+|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
+|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
+|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,37 +140,3 @@
 |**2022-04-26**|**Automatic Monitoring of Fruit Ripening Rooms by UHF RFID Sensor Network and Machine Learning**|Cecilia Occhiuzzi et.al.|[2204.12415v1](http://arxiv.org/abs/2204.12415v1)|null|
 |**2022-04-26**|**Understanding the Impact of Edge Cases from Occluded Pedestrians for ML Systems**|Jens Henriksson et.al.|[2204.12402v1](http://arxiv.org/abs/2204.12402v1)|null|
 |**2022-04-26**|**ROMA: Cross-Domain Region Similarity Matching for Unpaired Nighttime Infrared to Daytime Visible Video Translation**|Zhenjie Yu et.al.|[2204.12367v1](http://arxiv.org/abs/2204.12367v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-28**|**Correlation function and linear response function of homogeneous isotropic turbulence in the Eulerian and Lagrangian coordinates**|Takeshi Matsumoto et.al.|[2204.13435v1](http://arxiv.org/abs/2204.13435v1)|null|
-|**2022-04-28**|**Viscous inertial modes on a differentially rotating sphere: Comparison with solar observations**|Damien Fournier et.al.|[2204.13412v1](http://arxiv.org/abs/2204.13412v1)|null|
-|**2022-04-27**|**Identification of inertial modes in the solar convection zone**|Santiago Andrés Triana et.al.|[2204.13007v1](http://arxiv.org/abs/2204.13007v1)|[link](https://bitbucket.org/repepo/kore)|
-|**2022-04-27**|**Velocity circulation intermittency in finite-temperature turbulent superfluid helium**|Nicolás P. Müller et.al.|[2204.12999v1](http://arxiv.org/abs/2204.12999v1)|null|
-|**2022-04-27**|**Towards A COLREGs Compliant Autonomous Surface Vessel in a Constrained Channel**|James Connor Meyers et.al.|[2204.12906v1](http://arxiv.org/abs/2204.12906v1)|null|
-|**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
-|**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
-|**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
-|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
-|**2022-04-26**|**Toward Consistent and Efficient Map-based Visual-inertial Localization: Theory Framework and Filter Design**|Zhuqing Zhang et.al.|[2204.12108v1](http://arxiv.org/abs/2204.12108v1)|[link](https://github.com/zhuqingzhang/msoc-s-ikf)|
-|**2022-04-25**|**Casimir preserving spectrum of two-dimensional turbulence**|Paolo Cifani et.al.|[2204.11794v1](http://arxiv.org/abs/2204.11794v1)|null|
-|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma et.al.|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
-|**2022-04-25**|**Spin Transport Hydrodynamics of Polarized Deuterium-Tritium Fusion Plasma**|Ronghao Hu et.al.|[2204.11523v1](http://arxiv.org/abs/2204.11523v1)|null|
-|**2022-04-23**|**Theory of inertial spin dynamics in anisotropic ferromagnets**|Mikhail Cherkasskii et.al.|[2204.11057v1](http://arxiv.org/abs/2204.11057v1)|null|
-|**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
-|**2022-04-22**|**A consistent co-rotational formulation for aerodynamic nonlinear analysis of flexible frame structures**|Mauricio C. Vanzulli et.al.|[2204.10545v1](http://arxiv.org/abs/2204.10545v1)|null|
-|**2022-04-22**|**Gravity aided navigation using Viterbi map matching algorithm**|Wenchao Li et.al.|[2204.10492v1](http://arxiv.org/abs/2204.10492v1)|null|
-|**2022-04-21**|**Performance Analysis of Automotive SAR With Radar Based Motion Estimation**|Oded Bialer et.al.|[2204.10406v1](http://arxiv.org/abs/2204.10406v1)|null|
-|**2022-04-21**|**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**|Anastasiia Kornilova et.al.|[2204.10211v1](http://arxiv.org/abs/2204.10211v1)|null|
-|**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
-|**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
-|**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO$_2$**|Liyang Ma et.al.|[2204.09374v2](http://arxiv.org/abs/2204.09374v2)|null|
-|**2022-04-20**|**Optimizing doping parameters of target to enhance direct-drive implosion**|Guannan Zheng et.al.|[2204.09208v1](http://arxiv.org/abs/2204.09208v1)|null|
-|**2022-04-20**|**Laser pulse shape designer for direct-drive inertial confinement fusion**|Tao Tao et.al.|[2204.09203v1](http://arxiv.org/abs/2204.09203v1)|null|
-|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
-|**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
-|**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
-|**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
-|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
-|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
