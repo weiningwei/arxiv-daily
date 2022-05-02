@@ -13,7 +13,7 @@
 |**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
 |**2022-04-26**|**Toward Consistent and Efficient Map-based Visual-inertial Localization: Theory Framework and Filter Design**|Zhuqing Zhang et.al.|[2204.12108v1](http://arxiv.org/abs/2204.12108v1)|[link](https://github.com/zhuqingzhang/msoc-s-ikf)|
 |**2022-04-25**|**Casimir preserving spectrum of two-dimensional turbulence**|Paolo Cifani et.al.|[2204.11794v1](http://arxiv.org/abs/2204.11794v1)|null|
-|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**|Tingchen Ma et.al.|[2204.11621v1](http://arxiv.org/abs/2204.11621v1)|null|
+|**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma et.al.|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
 |**2022-04-25**|**Spin Transport Hydrodynamics of Polarized Deuterium-Tritium Fusion Plasma**|Ronghao Hu et.al.|[2204.11523v1](http://arxiv.org/abs/2204.11523v1)|null|
 |**2022-04-23**|**Theory of inertial spin dynamics in anisotropic ferromagnets**|Mikhail Cherkasskii et.al.|[2204.11057v1](http://arxiv.org/abs/2204.11057v1)|null|
 |**2022-04-23**|**TerrainMesh: Metric-Semantic Terrain Reconstruction from Aerial Images Using Joint 2D-3D Learning**|Qiaojun Feng et.al.|[2204.10993v1](http://arxiv.org/abs/2204.10993v1)|null|
