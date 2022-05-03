@@ -11,7 +11,7 @@
 |**2022-04-29**|**Eyes on the Prize: Improved Perception for Robust Dynamic Grasping**|Ben Burgess-Limerick et.al.|[2204.13879v1](http://arxiv.org/abs/2204.13879v1)|null|
 |**2022-04-29**|**Indoor 3-Dimensional Visible Light Positioning: Error Metric and LED Layout Optimization**|Jiaojiao Xu et.al.|[2204.13863v1](http://arxiv.org/abs/2204.13863v1)|null|
 |**2022-04-28**|**Computer Vision for Road Imaging and Pothole Detection: A State-of-the-Art Review of Systems and Algorithms**|Nachuan Ma et.al.|[2204.13590v1](http://arxiv.org/abs/2204.13590v1)|[link](https://github.com/sekilab/RoadDamageDetector)|
-|**2022-04-28**|**TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving**|Lianqing Zheng et.al.|[2204.13483v1](http://arxiv.org/abs/2204.13483v1)|null|
+|**2022-04-28**|**TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving**|Lianqing Zheng et.al.|[2204.13483v2](http://arxiv.org/abs/2204.13483v2)|null|
 |**2022-04-28**|**Unsteady rheo-optical measurements of uniaxially extending liquid polymers**|M. Muto et.al.|[2204.13450v1](http://arxiv.org/abs/2204.13450v1)|null|
 |**2022-04-28**|**A measurement of the Integrated Sachs-Wolfe Effect with the Rapid ASKAP Continuum Survey**|Benedict Bahr-Kalus et.al.|[2204.13436v1](http://arxiv.org/abs/2204.13436v1)|null|
 |**2022-04-28**|**AE-NeRF: Auto-Encoding Neural Radiance Fields for 3D-Aware Object Manipulation**|Mira Kim et.al.|[2204.13426v1](http://arxiv.org/abs/2204.13426v1)|null|
