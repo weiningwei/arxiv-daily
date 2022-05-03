@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-03 08:35:56 Asia/Shanghai
+ Automated deployment @ 2022-05-03 10:47:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Center-of-Mass-based Robust Grasp Pose Adaptation Using RGBD Camera and Force/Torque Sensing**|Shang Liu et.al.|[2205.01048v1](http://arxiv.org/abs/2205.01048v1)|null|
+|**2022-05-02**|**What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review**|Terne Sasha Thorn Jakobsen et.al.|[2205.01005v1](http://arxiv.org/abs/2205.01005v1)|null|
+|**2022-05-02**|**Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation**|Huan Gao et.al.|[2205.00858v1](http://arxiv.org/abs/2205.00858v1)|null|
+|**2022-05-02**|**MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries**|Tianyuan Zhang et.al.|[2205.00613v1](http://arxiv.org/abs/2205.00613v1)|null|
+|**2022-05-01**|**Accurate Fruit Localisation for Robotic Harvesting using High Resolution LiDAR-Camera Fusion**|Hanwen Kang et.al.|[2205.00404v1](http://arxiv.org/abs/2205.00404v1)|null|
+|**2022-04-30**|**RADNet: A Deep Neural Network Model for Robust Perception in Moving Autonomous Systems**|Burhan A. Mudassar et.al.|[2205.00364v1](http://arxiv.org/abs/2205.00364v1)|null|
+|**2022-04-30**|**Dynamic Curriculum Learning for Great Ape Detection in the Wild**|Xinyu Yang et.al.|[2205.00275v1](http://arxiv.org/abs/2205.00275v1)|null|
+|**2022-04-30**|**Unsupervised Visible-light Images Guided Cross-Spectrum Depth Estimation from Dual-Modality Cameras**|Yubin Guo et.al.|[2205.00257v1](http://arxiv.org/abs/2205.00257v1)|null|
+|**2022-04-30**|**Auroral Morphological Changes to the Formation of Auroral Spiral during the Late Substorm Recovery Phase: Polar UVI and Ground All-Sky Camera Observations**|Motoharu Nowada et.al.|[2205.00244v1](http://arxiv.org/abs/2205.00244v1)|null|
+|**2022-04-30**|**FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation**|Xinyi Shang et.al.|[2205.00172v1](http://arxiv.org/abs/2205.00172v1)|null|
 |**2022-04-29**|**Reconstruction of the collapse of the 'Azure Window' natural arch via photogrammetry**|Joseph Caruana et.al.|[2204.14253v1](http://arxiv.org/abs/2204.14253v1)|null|
 |**2022-04-29**|**Evolutionary Approach to Security Games with Signaling**|Adam Żychowski et.al.|[2204.14173v1](http://arxiv.org/abs/2204.14173v1)|null|
 |**2022-04-29**|**Quantitative Comparison of Planar Coded Aperture Imaging Reconstruction Methods**|T. Meißner et.al.|[2204.14113v1](http://arxiv.org/abs/2204.14113v1)|null|
@@ -28,20 +38,11 @@
 |**2022-04-27**|**Person Re-Identification**|Mustafa Ebrahim Chasmai et.al.|[2204.13158v1](http://arxiv.org/abs/2204.13158v1)|[link](https://github.com/nwojke/cosine_metric_learning)|
 |**2022-04-27**|**3D Magic Mirror: Clothing Reconstruction from a Single Image via a Causal Perspective**|Zhedong Zheng et.al.|[2204.13096v1](http://arxiv.org/abs/2204.13096v1)|null|
 |**2022-04-27**|**Attention Consistency on Visual Corruptions for Single-Source Domain Generalization**|Ilke Cugu et.al.|[2204.13091v1](http://arxiv.org/abs/2204.13091v1)|[link](https://github.com/explainableml/acvc)|
-|**2022-04-27**|**Improved performances of the NectarCAM, a Medium-Sized Telescope Camera for the Cherenkov Telescope Array**|F. Bradascio et.al.|[2204.12942v1](http://arxiv.org/abs/2204.12942v1)|null|
-|**2022-04-27**|**Global Trajectory Helps Person Retrieval in a Camera Network**|Xin Zhang et.al.|[2204.12900v1](http://arxiv.org/abs/2204.12900v1)|null|
-|**2022-04-27**|**Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition**|Shuhui Wu et.al.|[2204.12732v1](http://arxiv.org/abs/2204.12732v1)|[link](https://github.com/XiPotatonium/pnr)|
-|**2022-04-27**|**Dataset for Robust and Accurate Leading Vehicle Velocity Recognition**|Genya Ogawa et.al.|[2204.12717v1](http://arxiv.org/abs/2204.12717v1)|null|
-|**2022-04-26**|**Novel Applications for VAE-based Anomaly Detection Systems**|Luca Bergamin et.al.|[2204.12577v1](http://arxiv.org/abs/2204.12577v1)|null|
-|**2022-04-26**|**AccMPEG: Optimizing Video Encoding for Video Analytics**|Kuntai Du et.al.|[2204.12534v1](http://arxiv.org/abs/2204.12534v1)|null|
-|**2022-04-26**|**From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation**|Yuzhe Qin et.al.|[2204.12490v1](http://arxiv.org/abs/2204.12490v1)|null|
-|**2022-04-26**|**Automatic Monitoring of Fruit Ripening Rooms by UHF RFID Sensor Network and Machine Learning**|Cecilia Occhiuzzi et.al.|[2204.12415v1](http://arxiv.org/abs/2204.12415v1)|null|
-|**2022-04-26**|**Understanding the Impact of Edge Cases from Occluded Pedestrians for ML Systems**|Jens Henriksson et.al.|[2204.12402v1](http://arxiv.org/abs/2204.12402v1)|null|
-|**2022-04-26**|**ROMA: Cross-Domain Region Similarity Matching for Unpaired Nighttime Infrared to Daytime Visible Video Translation**|Zhenjie Yu et.al.|[2204.12367v1](http://arxiv.org/abs/2204.12367v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
 |**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
 |**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma et.al.|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
@@ -71,7 +72,6 @@
 |**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|
 |**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
-|**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +110,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Second-order flows for computing the ground states of rotating Bose-Einstein condensates**|Haifan Chen et.al.|[2205.00805v1](http://arxiv.org/abs/2205.00805v1)|null|
+|**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
 |**2022-04-28**|**Correlation function and linear response function of homogeneous isotropic turbulence in the Eulerian and Lagrangian coordinates**|Takeshi Matsumoto et.al.|[2204.13435v1](http://arxiv.org/abs/2204.13435v1)|null|
 |**2022-04-28**|**Viscous inertial modes on a differentially rotating sphere: Comparison with solar observations**|Damien Fournier et.al.|[2204.13412v1](http://arxiv.org/abs/2204.13412v1)|null|
 |**2022-04-27**|**Identification of inertial modes in the solar convection zone**|Santiago Andrés Triana et.al.|[2204.13007v1](http://arxiv.org/abs/2204.13007v1)|[link](https://bitbucket.org/repepo/kore)|
@@ -138,5 +140,3 @@
 |**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
 |**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
 |**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
-|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
-|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|

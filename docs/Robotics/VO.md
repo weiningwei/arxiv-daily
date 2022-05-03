@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
 |**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
 |**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma et.al.|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
@@ -31,4 +32,3 @@
 |**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|
 |**2022-03-15**|**DSOL: A Fast Direct Sparse Odometry Scheme**|Chao Qu et.al.|[2203.08182v1](http://arxiv.org/abs/2203.08182v1)|[link](https://github.com/versatran01/dsol)|
 |**2022-03-14**|**Fast Active Monocular Distance Estimation from Time-to-Contact**|Levi Burner et.al.|[2203.07530v1](http://arxiv.org/abs/2203.07530v1)|null|
-|**2022-03-14**|**A Self-Supervised, Differentiable Kalman Filter for Uncertainty-Aware Visual-Inertial Odometry**|Brandon Wagstaff et.al.|[2203.07207v1](http://arxiv.org/abs/2203.07207v1)|null|

@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Second-order flows for computing the ground states of rotating Bose-Einstein condensates**|Haifan Chen et.al.|[2205.00805v1](http://arxiv.org/abs/2205.00805v1)|null|
+|**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
 |**2022-04-28**|**Correlation function and linear response function of homogeneous isotropic turbulence in the Eulerian and Lagrangian coordinates**|Takeshi Matsumoto et.al.|[2204.13435v1](http://arxiv.org/abs/2204.13435v1)|null|
 |**2022-04-28**|**Viscous inertial modes on a differentially rotating sphere: Comparison with solar observations**|Damien Fournier et.al.|[2204.13412v1](http://arxiv.org/abs/2204.13412v1)|null|
 |**2022-04-27**|**Identification of inertial modes in the solar convection zone**|Santiago Andrés Triana et.al.|[2204.13007v1](http://arxiv.org/abs/2204.13007v1)|[link](https://bitbucket.org/repepo/kore)|
@@ -30,5 +32,3 @@
 |**2022-04-18**|**Intermittency of turbulent velocity and scalar fields using 3D local averaging**|Dhawal Buaria et.al.|[2204.08132v1](http://arxiv.org/abs/2204.08132v1)|null|
 |**2022-04-18**|**Positioning Using Visible Light Communications: A Perspective Arcs Approach**|Zhiyu Zhu et.al.|[2204.08131v1](http://arxiv.org/abs/2204.08131v1)|null|
 |**2022-04-15**|**Event-aided Direct Sparse Odometry**|Javier Hidalgo-Carrió et.al.|[2204.07640v2](http://arxiv.org/abs/2204.07640v2)|null|
-|**2022-04-15**|**General inertial smoothing proximal gradient algorithm for the relaxation of matrix rank minimization problem**|Jie Zhang et.al.|[2204.07303v1](http://arxiv.org/abs/2204.07303v1)|null|
-|**2022-04-14**|**Hierarchical Control of Smart Particle Swarms**|Vivek Shankar Varadharajan et.al.|[2204.07195v1](http://arxiv.org/abs/2204.07195v1)|null|
