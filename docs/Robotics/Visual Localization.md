@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-02**|**Center-of-Mass-based Robust Grasp Pose Adaptation Using RGBD Camera and Force/Torque Sensing**|Shang Liu et.al.|[2205.01048v1](http://arxiv.org/abs/2205.01048v1)|null|
-|**2022-05-02**|**What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review**|Terne Sasha Thorn Jakobsen et.al.|[2205.01005v1](http://arxiv.org/abs/2205.01005v1)|null|
+|**2022-05-02**|**What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review**|Terne Sasha Thorn Jakobsen et.al.|[2205.01005v2](http://arxiv.org/abs/2205.01005v2)|null|
 |**2022-05-02**|**Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation**|Huan Gao et.al.|[2205.00858v1](http://arxiv.org/abs/2205.00858v1)|null|
 |**2022-05-02**|**MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries**|Tianyuan Zhang et.al.|[2205.00613v1](http://arxiv.org/abs/2205.00613v1)|null|
 |**2022-05-01**|**Accurate Fruit Localisation for Robotic Harvesting using High Resolution LiDAR-Camera Fusion**|Hanwen Kang et.al.|[2205.00404v1](http://arxiv.org/abs/2205.00404v1)|null|
