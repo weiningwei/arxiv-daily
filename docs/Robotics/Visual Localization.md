@@ -7,7 +7,7 @@
 |**2022-05-04**|**SDF-based RGB-D Camera Tracking in Neural Scene Representations**|Leonard Bruns et.al.|[2205.02079v1](http://arxiv.org/abs/2205.02079v1)|null|
 |**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|null|
 |**2022-05-04**|**Non-Autoregressive Machine Translation: It's Not as Fast as it Seems**|Jindřich Helcl et.al.|[2205.01966v1](http://arxiv.org/abs/2205.01966v1)|null|
-|**2022-05-04**|**Homography-Based Loss Function for Camera Pose Regression**|Clémentin Boittiaux et.al.|[2205.01937v1](http://arxiv.org/abs/2205.01937v1)|null|
+|**2022-05-04**|**Homography-Based Loss Function for Camera Pose Regression**|Clémentin Boittiaux et.al.|[2205.01937v1](http://arxiv.org/abs/2205.01937v1)|[link](https://github.com/clementinboittiaux/homography-loss-function)|
 |**2022-05-04**|**Joint Image Compression and Denoising via Latent-Space Scalability**|Saeed Ranjbar Alvar et.al.|[2205.01874v1](http://arxiv.org/abs/2205.01874v1)|null|
 |**2022-05-04**|**Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**|Nathaniel Merrill et.al.|[2205.01823v1](http://arxiv.org/abs/2205.01823v1)|null|
 |**2022-05-03**|**Learning Dynamic Bipedal Walking Across Stepping Stones**|Helei Duan et.al.|[2205.01807v1](http://arxiv.org/abs/2205.01807v1)|null|
@@ -17,7 +17,7 @@
 |**2022-05-03**|**RAFT-MSF: Self-Supervised Monocular Scene Flow using Recurrent Optimizer**|Bayram Bayramli et.al.|[2205.01568v1](http://arxiv.org/abs/2205.01568v1)|null|
 |**2022-05-03**|**Cross-View Cross-Scene Multi-View Crowd Counting**|Qi Zhang et.al.|[2205.01551v1](http://arxiv.org/abs/2205.01551v1)|null|
 |**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann et.al.|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|[link](https://github.com/ais-bonn/jetsontrtperception)|
-|**2022-05-03**|**Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**|Daniel Bogdoll et.al.|[2205.01414v1](http://arxiv.org/abs/2205.01414v1)|null|
+|**2022-05-03**|**Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**|Daniel Bogdoll et.al.|[2205.01414v1](http://arxiv.org/abs/2205.01414v1)|[link](https://github.com/daniel-bogdoll/unknown_objects_roads)|
 |**2022-05-03**|**Outdoor Monocular Depth Estimation: A Research Review**|Pulkit Vyas et.al.|[2205.01399v1](http://arxiv.org/abs/2205.01399v1)|null|
 |**2022-05-03**|**Quantum-Optical Coherence Microscopy for Bio-imaging Applications**|Pablo Yepiz-Graciano et.al.|[2205.01292v1](http://arxiv.org/abs/2205.01292v1)|null|
 |**2022-05-02**|**Deep Learning-Based Super-Resolution and De-Noising for XMM-Newton Images**|Sam F. Sweere et.al.|[2205.01152v1](http://arxiv.org/abs/2205.01152v1)|null|
