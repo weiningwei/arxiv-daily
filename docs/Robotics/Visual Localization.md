@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-04**|**On the physical size of the Milky Way globular cluster NGC 7089 (M 2)**|Andrés E. Piatti et.al.|[2205.02165v1](http://arxiv.org/abs/2205.02165v1)|null|
-|**2022-05-04**|**Video Extrapolationin Space and Time**|Yunzhi Zhang et.al.|[2205.02084v1](http://arxiv.org/abs/2205.02084v1)|null|
+|**2022-05-04**|**Video Extrapolation in Space and Time**|Yunzhi Zhang et.al.|[2205.02084v2](http://arxiv.org/abs/2205.02084v2)|null|
 |**2022-05-04**|**SDF-based RGB-D Camera Tracking in Neural Scene Representations**|Leonard Bruns et.al.|[2205.02079v1](http://arxiv.org/abs/2205.02079v1)|null|
 |**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|null|
 |**2022-05-04**|**Non-Autoregressive Machine Translation: It's Not as Fast as it Seems**|Jindřich Helcl et.al.|[2205.01966v1](http://arxiv.org/abs/2205.01966v1)|null|
