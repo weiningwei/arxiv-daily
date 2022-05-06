@@ -2,8 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|null|
-|**2022-05-04**|**ImAiR : Airwriting Recognition framework using Image Representation of IMU Signals**|Ayush Tripathi et.al.|[2205.01904v1](http://arxiv.org/abs/2205.01904v1)|null|
+|**2022-05-05**|**Visually plausible human-object interaction capture from wearable sensors**|Vladimir Guzov et.al.|[2205.02830v1](http://arxiv.org/abs/2205.02830v1)|null|
+|**2022-05-05**|**Koopman pose predictions for temporally consistent human walking estimations**|Marc Mitjans et.al.|[2205.02737v1](http://arxiv.org/abs/2205.02737v1)|null|
+|**2022-05-04**|**Radial Trapping of Thermal Rossby Waves within the Convection Zones of Low-Mass Stars**|Bradley W. Hindman et.al.|[2205.02346v1](http://arxiv.org/abs/2205.02346v1)|null|
+|**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|[link](https://github.com/pvangoor/eqvio)|
+|**2022-05-04**|**ImAiR : Airwriting Recognition framework using Image Representation of IMU Signals**|Ayush Tripathi et.al.|[2205.01904v1](http://arxiv.org/abs/2205.01904v1)|[link](https://github.com/ayushayt/imair)|
 |**2022-05-03**|**A kinetic interpretation of the classical Rayleigh-Taylor instability**|John Rodman et.al.|[2205.01815v1](http://arxiv.org/abs/2205.01815v1)|null|
 |**2022-05-02**|**Second-order flows for computing the ground states of rotating Bose-Einstein condensates**|Haifan Chen et.al.|[2205.00805v1](http://arxiv.org/abs/2205.00805v1)|null|
 |**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
@@ -29,6 +32,3 @@
 |**2022-04-20**|**GIMO: Gaze-Informed Human Motion Prediction in Context**|Yang Zheng et.al.|[2204.09443v1](http://arxiv.org/abs/2204.09443v1)|null|
 |**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
 |**2022-04-20**|**Structural Polymorphism Kinetics Promoted by Charged Oxygen Vacancy in HfO$_2$**|Liyang Ma et.al.|[2204.09374v2](http://arxiv.org/abs/2204.09374v2)|null|
-|**2022-04-20**|**Optimizing doping parameters of target to enhance direct-drive implosion**|Guannan Zheng et.al.|[2204.09208v1](http://arxiv.org/abs/2204.09208v1)|null|
-|**2022-04-20**|**Laser pulse shape designer for direct-drive inertial confinement fusion**|Tao Tao et.al.|[2204.09203v1](http://arxiv.org/abs/2204.09203v1)|null|
-|**2022-04-20**|**Learned Monocular Depth Priors in Visual-Inertial Initialization**|Yunwen Zhou et.al.|[2204.09171v1](http://arxiv.org/abs/2204.09171v1)|null|
