@@ -5,7 +5,7 @@
 |**2022-05-06**|**Zhuyi: Perception Processing Rate Estimation for Safety in Autonomous Vehicles**|Yu-Shun Hsiao et.al.|[2205.03347v1](http://arxiv.org/abs/2205.03347v1)|null|
 |**2022-05-06**|**Safeguarding National Security Interests Utilizing Location-Aware Camera Devices**|Sreejith Gopinath et.al.|[2205.03330v1](http://arxiv.org/abs/2205.03330v1)|null|
 |**2022-05-06**|**Private delegated computations using strong isolation**|Mathias Brossard et.al.|[2205.03322v1](http://arxiv.org/abs/2205.03322v1)|null|
-|**2022-05-06**|**A High-Accuracy Unsupervised Person Re-identification Method Using Auxiliary Information Mined from Datasets**|Hehan Teng et.al.|[2205.03124v1](http://arxiv.org/abs/2205.03124v1)|null|
+|**2022-05-06**|**A High-Accuracy Unsupervised Person Re-identification Method Using Auxiliary Information Mined from Datasets**|Hehan Teng et.al.|[2205.03124v1](http://arxiv.org/abs/2205.03124v1)|[link](https://github.com/tenghehan/AuxUSLReID)|
 |**2022-05-06**|**Fiber spectrum analyzer based on planar waveguide array aligned to a camera without lens**|Xinhong Jiang et.al.|[2205.03054v1](http://arxiv.org/abs/2205.03054v1)|null|
 |**2022-05-06**|**XMM-Newton and Swift observations of supergiant high mass X-ray binaries**|Carlo Ferrigno et.al.|[2205.03023v1](http://arxiv.org/abs/2205.03023v1)|null|
 |**2022-05-05**|**FisheyeDistill: Self-Supervised Monocular Depth Estimation with Ordinal Distillation for Fisheye Cameras**|Qingan Yan et.al.|[2205.02930v1](http://arxiv.org/abs/2205.02930v1)|null|
