@@ -9,7 +9,7 @@
 |**2022-05-06**|**Fiber spectrum analyzer based on planar waveguide array aligned to a camera without lens**|Xinhong Jiang et.al.|[2205.03054v1](http://arxiv.org/abs/2205.03054v1)|null|
 |**2022-05-06**|**XMM-Newton and Swift observations of supergiant high mass X-ray binaries**|Carlo Ferrigno et.al.|[2205.03023v1](http://arxiv.org/abs/2205.03023v1)|null|
 |**2022-05-05**|**FisheyeDistill: Self-Supervised Monocular Depth Estimation with Ordinal Distillation for Fisheye Cameras**|Qingan Yan et.al.|[2205.02930v1](http://arxiv.org/abs/2205.02930v1)|null|
-|**2022-05-05**|**Euclid preparation: XXI. Intermediate-redshift contaminants in the search for $z>6$ galaxies within the Euclid Deep Survey**|Euclid Collaboration et.al.|[2205.02871v1](http://arxiv.org/abs/2205.02871v1)|null|
+|**2022-05-05**|**Euclid preparation: XXI. Intermediate-redshift contaminants in the search for $z>6$ galaxies within the Euclid Deep Survey**|Euclid Collaboration et.al.|[2205.02871v2](http://arxiv.org/abs/2205.02871v2)|null|
 |**2022-05-05**|**Cross-view Transformers for real-time Map-view Semantic Segmentation**|Brady Zhou et.al.|[2205.02833v1](http://arxiv.org/abs/2205.02833v1)|[link](https://github.com/bradyz/cross_view_transformers)|
 |**2022-05-05**|**Visually plausible human-object interaction capture from wearable sensors**|Vladimir Guzov et.al.|[2205.02830v1](http://arxiv.org/abs/2205.02830v1)|null|
 |**2022-05-05**|**Gait Recognition in the Wild: A Benchmark**|Zheng Zhu et.al.|[2205.02692v1](http://arxiv.org/abs/2205.02692v1)|null|
