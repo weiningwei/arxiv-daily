@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-05-06**|**Semantics-Guided Moving Object Segmentation with 3D LiDAR**|Shuo Gu et.al.|[2205.03186v1](http://arxiv.org/abs/2205.03186v1)|null|
 |**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|[link](https://github.com/pvangoor/eqvio)|
 |**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
@@ -31,4 +32,3 @@
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 |**2022-03-18**|**Boreas: A Multi-Season Autonomous Driving Dataset**|Keenan Burnett et.al.|[2203.10168v1](http://arxiv.org/abs/2203.10168v1)|null|
 |**2022-03-18**|**Lunar Rover Localization Using Craters as Landmarks**|Larry Matthies et.al.|[2203.10073v1](http://arxiv.org/abs/2203.10073v1)|null|
-|**2022-03-17**|**Certifiably Optimal Mutual Localization with Anonymous Bearing Measurements**|Yingjian Wang et.al.|[2203.09312v1](http://arxiv.org/abs/2203.09312v1)|null|

@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko et.al.|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|null|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado et.al.|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim et.al.|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
@@ -31,4 +32,3 @@
 |**2022-04-03**|**Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**|Wenyan Ou et.al.|[2204.01154v1](http://arxiv.org/abs/2204.01154v1)|null|
 |**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy et.al.|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|[link](https://github.com/sudarshan-s-harithas/urbanfly)|
 |**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
-|**2022-03-31**|**Curiosity Driven Self-supervised Tactile Exploration of Unknown Objects**|Yujie Lu et.al.|[2204.00035v1](http://arxiv.org/abs/2204.00035v1)|null|

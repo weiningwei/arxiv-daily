@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
+|**2022-05-09**|**A Novel Augmented Reality Ultrasound Framework Using an RGB-D Camera and a 3D-printed Marker**|Yitian Zhou et.al.|[2205.04350v1](http://arxiv.org/abs/2205.04350v1)|null|
+|**2022-05-09**|**Object Detection with Spiking Neural Networks on Automotive Event Data**|Loïc Cordone et.al.|[2205.04339v1](http://arxiv.org/abs/2205.04339v1)|null|
+|**2022-05-09**|**Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation**|Abhijit Kundu et.al.|[2205.04334v1](http://arxiv.org/abs/2205.04334v1)|null|
+|**2022-05-09**|**Single-Image 3D Face Reconstruction under Perspective Projection**|Yueying Kao et.al.|[2205.04126v1](http://arxiv.org/abs/2205.04126v1)|null|
+|**2022-05-09**|**Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech**|Yang Li et.al.|[2205.04120v1](http://arxiv.org/abs/2205.04120v1)|[link](https://github.com/neurowave-ai/cucvae-tts)|
+|**2022-05-09**|**Single-view 3D Body and Cloth Reconstruction under Complex Poses**|Nicolas Ugrinovic et.al.|[2205.04087v1](http://arxiv.org/abs/2205.04087v1)|null|
+|**2022-05-09**|**What Do You Get from Turning on Your Video? Effects of Videoconferencing Affordances on Remote Class Experience During COVID-19**|Yanting Wu et.al.|[2205.04017v1](http://arxiv.org/abs/2205.04017v1)|null|
+|**2022-05-08**|**A Structured Span Selector**|Tianyu Liu et.al.|[2205.03977v1](http://arxiv.org/abs/2205.03977v1)|[link](https://github.com/lyutyuh/structured-span-selector)|
+|**2022-05-08**|**Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**|Yan Long et.al.|[2205.03971v1](http://arxiv.org/abs/2205.03971v1)|null|
+|**2022-05-07**|**GenISP: Neural ISP for Low-Light Machine Cognition**|Igor Morawski et.al.|[2205.03688v1](http://arxiv.org/abs/2205.03688v1)|[link](https://github.com/igor-morawski/raw-nod)|
+|**2022-05-07**|**Multi-Target Active Object Tracking with Monte Carlo Tree Search and Target Motion Modeling**|Zheng Chen et.al.|[2205.03555v1](http://arxiv.org/abs/2205.03555v1)|null|
+|**2022-05-07**|**BiCo-Net: Regress Globally, Match Locally for Robust 6D Pose Estimation**|Zelin Xu et.al.|[2205.03536v1](http://arxiv.org/abs/2205.03536v1)|[link](https://github.com/gorilla-lab-scut/bico-net)|
+|**2022-05-07**|**Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution**|Xiaoqian Xu et.al.|[2205.03524v1](http://arxiv.org/abs/2205.03524v1)|[link](https://github.com/lonelyhope/dada)|
+|**2022-05-06**|**Detection of 125.5-day Optical Periodic Modulation of the Neutron Star M51 ULX-8**|S. Allak et.al.|[2205.03502v1](http://arxiv.org/abs/2205.03502v1)|null|
+|**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-05-06**|**Zhuyi: Perception Processing Rate Estimation for Safety in Autonomous Vehicles**|Yu-Shun Hsiao et.al.|[2205.03347v1](http://arxiv.org/abs/2205.03347v1)|null|
 |**2022-05-06**|**Safeguarding National Security Interests Utilizing Location-Aware Camera Devices**|Sreejith Gopinath et.al.|[2205.03330v1](http://arxiv.org/abs/2205.03330v1)|null|
 |**2022-05-06**|**Private delegated computations using strong isolation**|Mathias Brossard et.al.|[2205.03322v1](http://arxiv.org/abs/2205.03322v1)|null|
@@ -16,19 +32,3 @@
 |**2022-05-05**|**Multi-Agent Deep Reinforcement Learning in Vehicular OCC**|Amirul Islam et.al.|[2205.02672v1](http://arxiv.org/abs/2205.02672v1)|null|
 |**2022-05-05**|**ImPosIng: Implicit Pose Encoding for Efficient Camera Pose Estimation**|Arthur Moreau et.al.|[2205.02638v1](http://arxiv.org/abs/2205.02638v1)|null|
 |**2022-05-05**|**Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators**|Suyeon Choi et.al.|[2205.02367v1](http://arxiv.org/abs/2205.02367v1)|null|
-|**2022-05-04**|**BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking**|Dorian Henning et.al.|[2205.02301v1](http://arxiv.org/abs/2205.02301v1)|null|
-|**2022-05-04**|**On the physical size of the Milky Way globular cluster NGC 7089 (M 2)**|Andrés E. Piatti et.al.|[2205.02165v1](http://arxiv.org/abs/2205.02165v1)|null|
-|**2022-05-04**|**Video Extrapolation in Space and Time**|Yunzhi Zhang et.al.|[2205.02084v2](http://arxiv.org/abs/2205.02084v2)|null|
-|**2022-05-04**|**SDF-based RGB-D Camera Tracking in Neural Scene Representations**|Leonard Bruns et.al.|[2205.02079v1](http://arxiv.org/abs/2205.02079v1)|null|
-|**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|[link](https://github.com/pvangoor/eqvio)|
-|**2022-05-04**|**Non-Autoregressive Machine Translation: It's Not as Fast as it Seems**|Jindřich Helcl et.al.|[2205.01966v1](http://arxiv.org/abs/2205.01966v1)|null|
-|**2022-05-04**|**Homography-Based Loss Function for Camera Pose Regression**|Clémentin Boittiaux et.al.|[2205.01937v1](http://arxiv.org/abs/2205.01937v1)|[link](https://github.com/clementinboittiaux/homography-loss-function)|
-|**2022-05-04**|**Joint Image Compression and Denoising via Latent-Space Scalability**|Saeed Ranjbar Alvar et.al.|[2205.01874v1](http://arxiv.org/abs/2205.01874v1)|null|
-|**2022-05-04**|**Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**|Nathaniel Merrill et.al.|[2205.01823v1](http://arxiv.org/abs/2205.01823v1)|[link](https://github.com/rpng/suo_slam)|
-|**2022-05-03**|**Learning Dynamic Bipedal Walking Across Stepping Stones**|Helei Duan et.al.|[2205.01807v1](http://arxiv.org/abs/2205.01807v1)|null|
-|**2022-05-03**|**Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance**|Tianchen Ji et.al.|[2205.01768v1](http://arxiv.org/abs/2205.01768v1)|null|
-|**2022-05-03**|**End2End Multi-View Feature Matching using Differentiable Pose Optimization**|Barbara Roessle et.al.|[2205.01694v1](http://arxiv.org/abs/2205.01694v1)|null|
-|**2022-05-03**|**Episodic Memory Question Answering**|Samyak Datta et.al.|[2205.01652v1](http://arxiv.org/abs/2205.01652v1)|null|
-|**2022-05-03**|**RAFT-MSF: Self-Supervised Monocular Scene Flow using Recurrent Optimizer**|Bayram Bayramli et.al.|[2205.01568v1](http://arxiv.org/abs/2205.01568v1)|null|
-|**2022-05-03**|**Cross-View Cross-Scene Multi-View Crowd Counting**|Qi Zhang et.al.|[2205.01551v1](http://arxiv.org/abs/2205.01551v1)|null|
-|**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann et.al.|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|[link](https://github.com/ais-bonn/jetsontrtperception)|
