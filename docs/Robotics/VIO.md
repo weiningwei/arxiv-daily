@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-11**|**Foucault-Wheatstone device in the deep-sea**|Hans van Haren et.al.|[2205.05355v1](http://arxiv.org/abs/2205.05355v1)|null|
+|**2022-05-11**|**Rotational effect as the possible cause of the east-west asymmetric crater rims on Ryugu observed by LIDAR data**|Naoyuki Hirata et.al.|[2205.05223v1](http://arxiv.org/abs/2205.05223v1)|null|
 |**2022-05-10**|**Constraints on Ion Velocity Distributions from Fusion Product Spectroscopy**|Aidan Crilly et.al.|[2205.04763v1](http://arxiv.org/abs/2205.04763v1)|null|
 |**2022-05-10**|**Real-Time Wearable Gait Phase Segmentation For Running And Walking**|Jien-De Sui et.al.|[2205.04668v1](http://arxiv.org/abs/2205.04668v1)|null|
 |**2022-05-10**|**Deep Gait Tracking With Inertial Measurement Unit**|Jien De Sui et.al.|[2205.04666v1](http://arxiv.org/abs/2205.04666v1)|null|
@@ -30,5 +32,3 @@
 |**2022-04-27**|**Towards A COLREGs Compliant Autonomous Surface Vessel in a Constrained Channel**|James Connor Meyers et.al.|[2204.12906v1](http://arxiv.org/abs/2204.12906v1)|null|
 |**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
 |**2022-04-26**|**Origin of primeval seed magnetism in spinning astrophysical bodies**|Golam Mortuza Hossain et.al.|[2204.12369v1](http://arxiv.org/abs/2204.12369v1)|null|
-|**2022-04-26**|**Equation of states in the curved spacetime of slowly rotating degenerate stars**|Golam Mortuza Hossain et.al.|[2204.12352v1](http://arxiv.org/abs/2204.12352v1)|null|
-|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
