@@ -17,7 +17,7 @@
 |**2022-05-09**|**Single-Image 3D Face Reconstruction under Perspective Projection**|Yueying Kao et.al.|[2205.04126v1](http://arxiv.org/abs/2205.04126v1)|null|
 |**2022-05-09**|**Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech**|Yang Li et.al.|[2205.04120v1](http://arxiv.org/abs/2205.04120v1)|[link](https://github.com/neurowave-ai/cucvae-tts)|
 |**2022-05-09**|**Single-view 3D Body and Cloth Reconstruction under Complex Poses**|Nicolas Ugrinovic et.al.|[2205.04087v1](http://arxiv.org/abs/2205.04087v1)|null|
-|**2022-05-09**|**What Do You Get from Turning on Your Video? Effects of Videoconferencing Affordances on Remote Class Experience During COVID-19**|Yanting Wu et.al.|[2205.04017v1](http://arxiv.org/abs/2205.04017v1)|null|
+|**2022-05-09**|**What Do You Get from Turning on Your Video? Effects of Videoconferencing Affordances on Remote Class Experience During COVID-19**|Yanting Wu et.al.|[2205.04017v2](http://arxiv.org/abs/2205.04017v2)|null|
 |**2022-05-08**|**A Structured Span Selector**|Tianyu Liu et.al.|[2205.03977v1](http://arxiv.org/abs/2205.03977v1)|[link](https://github.com/lyutyuh/structured-span-selector)|
 |**2022-05-08**|**Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing**|Yan Long et.al.|[2205.03971v1](http://arxiv.org/abs/2205.03971v1)|null|
 |**2022-05-07**|**GenISP: Neural ISP for Low-Light Machine Cognition**|Igor Morawski et.al.|[2205.03688v1](http://arxiv.org/abs/2205.03688v1)|[link](https://github.com/igor-morawski/raw-nod)|
