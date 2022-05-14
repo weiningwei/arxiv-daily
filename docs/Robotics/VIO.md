@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-12**|**Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection**|Mingyu Yang et.al.|[2205.06187v1](http://arxiv.org/abs/2205.06187v1)|[link](https://github.com/mingyuyng/visual-selective-vio)|
-|**2022-05-12**|**Mask Wearing Status Estimation with Smartwatches**|Huina Meng et.al.|[2205.06113v1](http://arxiv.org/abs/2205.06113v1)|null|
+|**2022-05-12**|**Mask Wearing Status Estimation with Smartwatches**|Huina Meng et.al.|[2205.06113v1](http://arxiv.org/abs/2205.06113v1)|[link](https://github.com/aiotgroup/maskreminder)|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)|
 |**2022-05-12**|**Efficient Recovery of Low Rank Tensor via Triple Nonconvex Nonsmooth Rank Minimization**|Quan Yu et.al.|[2205.05811v1](http://arxiv.org/abs/2205.05811v1)|null|
 |**2022-05-11**|**CSI-based Indoor Localization via Attention-Augmented Residual Convolutional Neural Network**|Bowen Zhang et.al.|[2205.05775v1](http://arxiv.org/abs/2205.05775v1)|null|
