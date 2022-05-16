@@ -2,6 +2,8 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-13**|**Controlling Translation Formality Using Pre-trained Multilingual Language Models**|Elijah Rippeth et.al.|[2205.06644v1](http://arxiv.org/abs/2205.06644v1)|null|
+|**2022-05-13**|**WoLF: the Whole-body Locomotion Framework for Quadruped Robots**|Gennaro Raiola et.al.|[2205.06526v1](http://arxiv.org/abs/2205.06526v1)|null|
 |**2022-05-12**|**3D Moments from Near-Duplicate Photos**|Qianqian Wang et.al.|[2205.06255v1](http://arxiv.org/abs/2205.06255v1)|null|
 |**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
 |**2022-05-12**|**Controlling Formality in Low-Resource NMT with Domain Adaptation and Re-Ranking: SLT-CDT-UoS at IWSLT2022**|Sebastian T. Vincent et.al.|[2205.05990v1](http://arxiv.org/abs/2205.05990v1)|null|
@@ -30,5 +32,3 @@
 |**2022-05-09**|**Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation**|Abhijit Kundu et.al.|[2205.04334v1](http://arxiv.org/abs/2205.04334v1)|null|
 |**2022-05-09**|**Single-Image 3D Face Reconstruction under Perspective Projection**|Yueying Kao et.al.|[2205.04126v1](http://arxiv.org/abs/2205.04126v1)|null|
 |**2022-05-09**|**Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech**|Yang Li et.al.|[2205.04120v1](http://arxiv.org/abs/2205.04120v1)|[link](https://github.com/neurowave-ai/cucvae-tts)|
-|**2022-05-09**|**Single-view 3D Body and Cloth Reconstruction under Complex Poses**|Nicolas Ugrinovic et.al.|[2205.04087v1](http://arxiv.org/abs/2205.04087v1)|null|
-|**2022-05-09**|**What Do You Get from Turning on Your Video? Effects of Videoconferencing Affordances on Remote Class Experience During COVID-19**|Yanting Wu et.al.|[2205.04017v2](http://arxiv.org/abs/2205.04017v2)|null|
