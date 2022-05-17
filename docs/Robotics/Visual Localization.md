@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-16**|**Physics-informed machine learning techniques for edge plasma turbulence modelling in computational theory and experiment**|Abhilash Mathews et.al.|[2205.07838v1](http://arxiv.org/abs/2205.07838v1)|null|
+|**2022-05-16**|**FvOR: Robust Joint Shape and Pose Optimization for Few-view Object Reconstruction**|Zhenpei Yang et.al.|[2205.07763v1](http://arxiv.org/abs/2205.07763v1)|null|
+|**2022-05-16**|**Real-time semantic segmentation on FPGAs for autonomous vehicles with hls4ml**|Nicolò Ghielmetti et.al.|[2205.07690v1](http://arxiv.org/abs/2205.07690v1)|null|
+|**2022-05-16**|**PUCK: Parallel Surface and Convolution-kernel Tracking for Event-Based Cameras**|Luna Gava et.al.|[2205.07657v1](http://arxiv.org/abs/2205.07657v1)|null|
+|**2022-05-15**|**Novel Multicolumn Kernel Extreme Learning Machine for Food Detection via Optimal Features from CNN**|Ghalib Ahmed et.al.|[2205.07348v1](http://arxiv.org/abs/2205.07348v1)|null|
+|**2022-05-15**|**Exponentially Stable Observer-based Controller for VTOL-UAV without Velocity Measurements**|Hashim A. Hashim et.al.|[2205.07159v1](http://arxiv.org/abs/2205.07159v1)|null|
+|**2022-05-14**|**Extrinsic Calibration and Verification of Multiple Non-overlapping Field of View Lidar Sensors**|Sandipan Das et.al.|[2205.07098v1](http://arxiv.org/abs/2205.07098v1)|null|
+|**2022-05-14**|**Multi-modal curb detection and filtering**|Sandipan Das et.al.|[2205.07096v1](http://arxiv.org/abs/2205.07096v1)|null|
+|**2022-05-14**|**Monitoring of Pigmented Skin Lesions Using 3D Whole Body Imaging**|David Ahmedt-Aristizabal et.al.|[2205.07085v1](http://arxiv.org/abs/2205.07085v1)|null|
+|**2022-05-14**|**Corrosion Detection for Industrial Objects: From Multi-Sensor System to 5D Feature Space**|Dennis Haitz et.al.|[2205.07075v1](http://arxiv.org/abs/2205.07075v1)|null|
+|**2022-05-14**|**RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis**|Jonathan Tremblay et.al.|[2205.07058v1](http://arxiv.org/abs/2205.07058v1)|null|
+|**2022-05-14**|**Timing of the faulting on the Wispy Terrain of Dione based on stratigraphic relationships with impact craters**|Naoyuki Hirata et.al.|[2205.07040v1](http://arxiv.org/abs/2205.07040v1)|null|
+|**2022-05-14**|**PAS: A Position-Aware Similarity Measurement for Sequential Recommendation**|Zijie Zeng et.al.|[2205.06997v1](http://arxiv.org/abs/2205.06997v1)|null|
+|**2022-05-14**|**RiCS: A 2D Self-Occlusion Map for Harmonizing Volumetric Objects**|Yunseok Jang et.al.|[2205.06975v1](http://arxiv.org/abs/2205.06975v1)|null|
+|**2022-05-14**|**Learning to Reorient Objects with Stable Placements Afforded by Extrinsic Supports**|Peng Xu et.al.|[2205.06970v1](http://arxiv.org/abs/2205.06970v1)|null|
+|**2022-05-13**|**A Property Induction Framework for Neural Language Models**|Kanishka Misra et.al.|[2205.06910v1](http://arxiv.org/abs/2205.06910v1)|null|
+|**2022-05-13**|**A Framework for Event-based Computer Vision on a Mobile Device**|Gregor Lenz et.al.|[2205.06836v1](http://arxiv.org/abs/2205.06836v1)|null|
+|**2022-05-13**|**Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications**|Kaitlyn Zhou et.al.|[2205.06828v1](http://arxiv.org/abs/2205.06828v1)|null|
 |**2022-05-13**|**Controlling Translation Formality Using Pre-trained Multilingual Language Models**|Elijah Rippeth et.al.|[2205.06644v1](http://arxiv.org/abs/2205.06644v1)|null|
 |**2022-05-13**|**WoLF: the Whole-body Locomotion Framework for Quadruped Robots**|Gennaro Raiola et.al.|[2205.06526v1](http://arxiv.org/abs/2205.06526v1)|null|
 |**2022-05-12**|**3D Moments from Near-Duplicate Photos**|Qianqian Wang et.al.|[2205.06255v1](http://arxiv.org/abs/2205.06255v1)|null|
@@ -14,21 +32,3 @@
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-11**|**Human-Robot Interface to Operate Robotic Systems via Muscle Synergy-Based Kinodynamic Information Transfer**|Janghyeon Kim et.al.|[2205.05351v1](http://arxiv.org/abs/2205.05351v1)|null|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
-|**2022-05-10**|**First High-speed Camera Observations of the Optical Counterpart of a Terrestrial Gamma-ray Flash**|R. U. Abbasi et.al.|[2205.05115v1](http://arxiv.org/abs/2205.05115v1)|null|
-|**2022-05-10**|**Richer Countries and Richer Representations**|Kaitlyn Zhou et.al.|[2205.05093v1](http://arxiv.org/abs/2205.05093v1)|[link](https://github.com/katezhou/country_distortions)|
-|**2022-05-10**|**Problems with Cosine as a Measure of Embedding Similarity for High Frequency Words**|Kaitlyn Zhou et.al.|[2205.05092v1](http://arxiv.org/abs/2205.05092v1)|[link](https://github.com/katezhou/cosine_and_frequency)|
-|**2022-05-10**|**CLEAR: The Ionization and Chemical-Enrichment Properties of Galaxies at 1.1 < z < 2.3**|Casey Papovich et.al.|[2205.05090v1](http://arxiv.org/abs/2205.05090v1)|null|
-|**2022-05-10**|**Seeing Around Obstacles with Terahertz Waves**|Yiran Cui et.al.|[2205.05066v1](http://arxiv.org/abs/2205.05066v1)|null|
-|**2022-05-10**|**NeRF-Editing: Geometry Editing of Neural Radiance Fields**|Yu-Jie Yuan et.al.|[2205.04978v1](http://arxiv.org/abs/2205.04978v1)|null|
-|**2022-05-10**|**Privadome: Protecting Citizen Privacy from Delivery Drones**|Gokulnath Pillai et.al.|[2205.04961v1](http://arxiv.org/abs/2205.04961v1)|null|
-|**2022-05-10**|**Self-supervised regression learning using domain knowledge: Applications to improving self-supervised denoising in imaging**|Il Yong Chun et.al.|[2205.04821v1](http://arxiv.org/abs/2205.04821v1)|null|
-|**2022-05-10**|**Controlling Extra-Textual Attributes about Dialogue Participants: A Case Study of English-to-Polish Neural Machine Translation**|Sebastian T. Vincent et.al.|[2205.04747v1](http://arxiv.org/abs/2205.04747v1)|null|
-|**2022-05-10**|**Efficient Burst Raw Denoising with Variance Stabilization and Multi-frequency Denoising Network**|Dasong Li et.al.|[2205.04721v1](http://arxiv.org/abs/2205.04721v1)|null|
-|**2022-05-10**|**An asynchronous event-based algorithm for periodic signals**|David El-Chai Ben-Ezra et.al.|[2205.04691v1](http://arxiv.org/abs/2205.04691v1)|null|
-|**2022-05-09**|**How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?**|Alvin Chan et.al.|[2205.04533v1](http://arxiv.org/abs/2205.04533v1)|null|
-|**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
-|**2022-05-09**|**A Novel Augmented Reality Ultrasound Framework Using an RGB-D Camera and a 3D-printed Marker**|Yitian Zhou et.al.|[2205.04350v1](http://arxiv.org/abs/2205.04350v1)|null|
-|**2022-05-09**|**Object Detection with Spiking Neural Networks on Automotive Event Data**|Loïc Cordone et.al.|[2205.04339v1](http://arxiv.org/abs/2205.04339v1)|null|
-|**2022-05-09**|**Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation**|Abhijit Kundu et.al.|[2205.04334v1](http://arxiv.org/abs/2205.04334v1)|null|
-|**2022-05-09**|**Single-Image 3D Face Reconstruction under Perspective Projection**|Yueying Kao et.al.|[2205.04126v1](http://arxiv.org/abs/2205.04126v1)|null|
-|**2022-05-09**|**Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech**|Yang Li et.al.|[2205.04120v1](http://arxiv.org/abs/2205.04120v1)|[link](https://github.com/neurowave-ai/cucvae-tts)|

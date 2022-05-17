@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-16**|**Whole-Body Human Kinematics Estimation using Dynamical Inverse Kinematics and Contact-Aided Lie Group Kalman Filter**|Prashanth Ramadoss et.al.|[2205.07835v1](http://arxiv.org/abs/2205.07835v1)|null|
+|**2022-05-16**|**Design and Evaluation of an Invariant Extended Kalman Filter for Trunk Motion Estimation with Sensor Misalignment**|Zenan Zhu et.al.|[2205.07800v1](http://arxiv.org/abs/2205.07800v1)|null|
+|**2022-05-16**|**An Experimental Comparison of Floating Base Estimators for Humanoid Robots with Flat Feet**|Prashanth Ramadoss et.al.|[2205.07765v1](http://arxiv.org/abs/2205.07765v1)|null|
+|**2022-05-16**|**Cross helicity of interplanetary coronal mass ejections at 1 au**|S. W. Good et.al.|[2205.07751v1](http://arxiv.org/abs/2205.07751v1)|null|
+|**2022-05-15**|**Seismic Background Limitation of Lunar Gravitational-wave Detectors**|Jan Harms et.al.|[2205.07255v1](http://arxiv.org/abs/2205.07255v1)|null|
+|**2022-05-15**|**Exponentially Stable Observer-based Controller for VTOL-UAV without Velocity Measurements**|Hashim A. Hashim et.al.|[2205.07159v1](http://arxiv.org/abs/2205.07159v1)|null|
+|**2022-05-14**|**Transport, flow topology and Lagrangian conditional statistics in edge plasma turbulence**|Benjamin Kadoch et.al.|[2205.07135v1](http://arxiv.org/abs/2205.07135v1)|null|
+|**2022-05-13**|**Reynolds number dependence of Lagrangian dispersion in direct numerical simulations of anisotropic magnetohydrodynamic turbulence**|J. Pratt et.al.|[2205.06879v1](http://arxiv.org/abs/2205.06879v1)|null|
 |**2022-05-13**|**Experimental demonstration of phase-matching and Sagnac effect in a millimeter-scale wedged resonator gyroscope**|Xuan Mao et.al.|[2205.06463v1](http://arxiv.org/abs/2205.06463v1)|null|
 |**2022-05-12**|**Bang-Bang Control Of A Tail-less Morphing Wing Flight**|Eric Sihite et.al.|[2205.06395v1](http://arxiv.org/abs/2205.06395v1)|null|
 |**2022-05-12**|**Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection**|Mingyu Yang et.al.|[2205.06187v1](http://arxiv.org/abs/2205.06187v1)|[link](https://github.com/mingyuyng/visual-selective-vio)|
@@ -24,11 +32,3 @@
 |**2022-05-06**|**IMU Based Deep Stride Length Estimation With Self-Supervised Learning**|Jien-De Sui et.al.|[2205.02977v1](http://arxiv.org/abs/2205.02977v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**Visually plausible human-object interaction capture from wearable sensors**|Vladimir Guzov et.al.|[2205.02830v1](http://arxiv.org/abs/2205.02830v1)|null|
-|**2022-05-05**|**Koopman pose predictions for temporally consistent human walking estimations**|Marc Mitjans et.al.|[2205.02737v1](http://arxiv.org/abs/2205.02737v1)|null|
-|**2022-05-04**|**Radial Trapping of Thermal Rossby Waves within the Convection Zones of Low-Mass Stars**|Bradley W. Hindman et.al.|[2205.02346v1](http://arxiv.org/abs/2205.02346v1)|null|
-|**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|[link](https://github.com/pvangoor/eqvio)|
-|**2022-05-04**|**ImAiR : Airwriting Recognition framework using Image Representation of IMU Signals**|Ayush Tripathi et.al.|[2205.01904v1](http://arxiv.org/abs/2205.01904v1)|[link](https://github.com/ayushayt/imair)|
-|**2022-05-03**|**A kinetic interpretation of the classical Rayleigh-Taylor instability**|John Rodman et.al.|[2205.01815v1](http://arxiv.org/abs/2205.01815v1)|null|
-|**2022-05-02**|**Second-order flows for computing the ground states of rotating Bose-Einstein condensates**|Haifan Chen et.al.|[2205.00805v1](http://arxiv.org/abs/2205.00805v1)|null|
-|**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
-|**2022-04-30**|**Ultra-sensitive Flexible Sponge-Sensor Array for Muscle Activities Detection and Human Limb Motion Recognition**|Jiao Suo et.al.|[2205.03238v1](http://arxiv.org/abs/2205.03238v1)|null|
