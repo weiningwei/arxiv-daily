@@ -21,7 +21,7 @@
 |**2022-05-13**|**A Framework for Event-based Computer Vision on a Mobile Device**|Gregor Lenz et.al.|[2205.06836v1](http://arxiv.org/abs/2205.06836v1)|null|
 |**2022-05-13**|**Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications**|Kaitlyn Zhou et.al.|[2205.06828v1](http://arxiv.org/abs/2205.06828v1)|null|
 |**2022-05-13**|**Controlling Translation Formality Using Pre-trained Multilingual Language Models**|Elijah Rippeth et.al.|[2205.06644v1](http://arxiv.org/abs/2205.06644v1)|null|
-|**2022-05-13**|**WoLF: the Whole-body Locomotion Framework for Quadruped Robots**|Gennaro Raiola et.al.|[2205.06526v1](http://arxiv.org/abs/2205.06526v1)|null|
+|**2022-05-13**|**WoLF: the Whole-body Locomotion Framework for Quadruped Robots**|Gennaro Raiola et.al.|[2205.06526v1](http://arxiv.org/abs/2205.06526v1)|[link](https://github.com/graiola/wolf-setup)|
 |**2022-05-12**|**3D Moments from Near-Duplicate Photos**|Qianqian Wang et.al.|[2205.06255v1](http://arxiv.org/abs/2205.06255v1)|null|
 |**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
 |**2022-05-12**|**Controlling Formality in Low-Resource NMT with Domain Adaptation and Re-Ranking: SLT-CDT-UoS at IWSLT2022**|Sebastian T. Vincent et.al.|[2205.05990v1](http://arxiv.org/abs/2205.05990v1)|null|
