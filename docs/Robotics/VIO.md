@@ -2,10 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-17**|**Entanglement harvesting between two inertial Unruh-DeWitt detectors from non-vacuum quantum fluctuations**|Dipankar Barman et.al.|[2205.08505v1](http://arxiv.org/abs/2205.08505v1)|null|
+|**2022-05-17**|**DynPL-SVO: A New Method Using Point and Line Features for Stereo Visual Odometry in Dynamic Scenes**|Xiaoguang Ma et.al.|[2205.08207v1](http://arxiv.org/abs/2205.08207v1)|null|
+|**2022-05-17**|**UnPWC-SVDLO: Multi-SVD on PointPWC for Unsupervised Lidar Odometry**|Yiming Tu et.al.|[2205.08150v1](http://arxiv.org/abs/2205.08150v1)|null|
 |**2022-05-16**|**Whole-Body Human Kinematics Estimation using Dynamical Inverse Kinematics and Contact-Aided Lie Group Kalman Filter**|Prashanth Ramadoss et.al.|[2205.07835v1](http://arxiv.org/abs/2205.07835v1)|null|
 |**2022-05-16**|**Design and Evaluation of an Invariant Extended Kalman Filter for Trunk Motion Estimation with Sensor Misalignment**|Zenan Zhu et.al.|[2205.07800v1](http://arxiv.org/abs/2205.07800v1)|null|
-|**2022-05-16**|**An Experimental Comparison of Floating Base Estimators for Humanoid Robots with Flat Feet**|Prashanth Ramadoss et.al.|[2205.07765v1](http://arxiv.org/abs/2205.07765v1)|null|
+|**2022-05-16**|**An Experimental Comparison of Floating Base Estimators for Humanoid Robots with Flat Feet**|Prashanth Ramadoss et.al.|[2205.07765v1](http://arxiv.org/abs/2205.07765v1)|[link](https://github.com/ami-iit/paper_ramadoss-2022-ral-humanoid-base-estimation)|
 |**2022-05-16**|**Cross helicity of interplanetary coronal mass ejections at 1 au**|S. W. Good et.al.|[2205.07751v1](http://arxiv.org/abs/2205.07751v1)|null|
+|**2022-05-16**|**Automated Mobility Context Detection with Inertial Signals**|Antonio Bevilacqua et.al.|[2205.08409v1](http://arxiv.org/abs/2205.08409v1)|null|
+|**2022-05-15**|**Learning Car Speed Using Inertial Sensors**|Maxim Freydin et.al.|[2205.07883v1](http://arxiv.org/abs/2205.07883v1)|null|
 |**2022-05-15**|**Seismic Background Limitation of Lunar Gravitational-wave Detectors**|Jan Harms et.al.|[2205.07255v1](http://arxiv.org/abs/2205.07255v1)|null|
 |**2022-05-15**|**Exponentially Stable Observer-based Controller for VTOL-UAV without Velocity Measurements**|Hashim A. Hashim et.al.|[2205.07159v1](http://arxiv.org/abs/2205.07159v1)|null|
 |**2022-05-14**|**Transport, flow topology and Lagrangian conditional statistics in edge plasma turbulence**|Benjamin Kadoch et.al.|[2205.07135v1](http://arxiv.org/abs/2205.07135v1)|null|
@@ -27,8 +32,3 @@
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-05-06**|**Observing single-particles beyond the Rindler horizon**|Riccardo Falcone et.al.|[2205.03312v1](http://arxiv.org/abs/2205.03312v1)|null|
 |**2022-05-06**|**Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems**|Jiajun Lv et.al.|[2205.03276v1](http://arxiv.org/abs/2205.03276v1)|[link](https://github.com/april-zju/oa-licalib)|
-|**2022-05-06**|**Semantics-Guided Moving Object Segmentation with 3D LiDAR**|Shuo Gu et.al.|[2205.03186v1](http://arxiv.org/abs/2205.03186v1)|null|
-|**2022-05-06**|**Yet Another Modification of Relativistic Magnetohydrodynamic Waves: Electron Thermal Inertia**|Y. Kawazura et.al.|[2205.03041v2](http://arxiv.org/abs/2205.03041v2)|null|
-|**2022-05-06**|**IMU Based Deep Stride Length Estimation With Self-Supervised Learning**|Jien-De Sui et.al.|[2205.02977v1](http://arxiv.org/abs/2205.02977v1)|null|
-|**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
-|**2022-05-05**|**Visually plausible human-object interaction capture from wearable sensors**|Vladimir Guzov et.al.|[2205.02830v1](http://arxiv.org/abs/2205.02830v1)|null|
