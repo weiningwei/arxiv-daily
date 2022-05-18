@@ -28,7 +28,7 @@
 |**2022-05-06**|**Observing single-particles beyond the Rindler horizon**|Riccardo Falcone et.al.|[2205.03312v1](http://arxiv.org/abs/2205.03312v1)|null|
 |**2022-05-06**|**Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems**|Jiajun Lv et.al.|[2205.03276v1](http://arxiv.org/abs/2205.03276v1)|[link](https://github.com/april-zju/oa-licalib)|
 |**2022-05-06**|**Semantics-Guided Moving Object Segmentation with 3D LiDAR**|Shuo Gu et.al.|[2205.03186v1](http://arxiv.org/abs/2205.03186v1)|null|
-|**2022-05-06**|**Yet Another Modification of Relativistic Magnetohydrodynamic Waves: Electron Thermal Inertia**|Y. Kawazura et.al.|[2205.03041v1](http://arxiv.org/abs/2205.03041v1)|null|
+|**2022-05-06**|**Yet Another Modification of Relativistic Magnetohydrodynamic Waves: Electron Thermal Inertia**|Y. Kawazura et.al.|[2205.03041v2](http://arxiv.org/abs/2205.03041v2)|null|
 |**2022-05-06**|**IMU Based Deep Stride Length Estimation With Self-Supervised Learning**|Jien-De Sui et.al.|[2205.02977v1](http://arxiv.org/abs/2205.02977v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**Visually plausible human-object interaction capture from wearable sensors**|Vladimir Guzov et.al.|[2205.02830v1](http://arxiv.org/abs/2205.02830v1)|null|
