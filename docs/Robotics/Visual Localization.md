@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-19**|**BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving**|Yunpeng Zhang et.al.|[2205.09743v1](http://arxiv.org/abs/2205.09743v1)|null|
+|**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|null|
+|**2022-05-19**|**Unconventional Visual Sensors for Autonomous Vehicles**|You Li et.al.|[2205.09383v1](http://arxiv.org/abs/2205.09383v1)|null|
+|**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v1](http://arxiv.org/abs/2205.09351v1)|null|
 |**2022-05-18**|**The Robotic Multi-Object Focal Plane System of the Dark Energy Spectroscopic Instrument (DESI)**|Joseph Harry Silber et.al.|[2205.09014v1](http://arxiv.org/abs/2205.09014v1)|null|
 |**2022-05-18**|**Property Unlearning: A Defense Strategy Against Property Inference Attacks**|Joshua Stock et.al.|[2205.08821v1](http://arxiv.org/abs/2205.08821v1)|null|
 |**2022-05-18**|**PhoCaL: A Multi-Modal Dataset for Category-Level Object Pose Estimation with Photometrically Challenging Objects**|Pengyuan Wang et.al.|[2205.08811v1](http://arxiv.org/abs/2205.08811v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-14**|**Corrosion Detection for Industrial Objects: From Multi-Sensor System to 5D Feature Space**|Dennis Haitz et.al.|[2205.07075v1](http://arxiv.org/abs/2205.07075v1)|null|
 |**2022-05-14**|**RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis**|Jonathan Tremblay et.al.|[2205.07058v1](http://arxiv.org/abs/2205.07058v1)|null|
 |**2022-05-14**|**Timing of the faulting on the Wispy Terrain of Dione based on stratigraphic relationships with impact craters**|Naoyuki Hirata et.al.|[2205.07040v1](http://arxiv.org/abs/2205.07040v1)|null|
-|**2022-05-14**|**PAS: A Position-Aware Similarity Measurement for Sequential Recommendation**|Zijie Zeng et.al.|[2205.06997v2](http://arxiv.org/abs/2205.06997v2)|null|
-|**2022-05-14**|**RiCS: A 2D Self-Occlusion Map for Harmonizing Volumetric Objects**|Yunseok Jang et.al.|[2205.06975v1](http://arxiv.org/abs/2205.06975v1)|null|
-|**2022-05-14**|**Learning to Reorient Objects with Stable Placements Afforded by Extrinsic Supports**|Peng Xu et.al.|[2205.06970v1](http://arxiv.org/abs/2205.06970v1)|null|
-|**2022-05-13**|**A Property Induction Framework for Neural Language Models**|Kanishka Misra et.al.|[2205.06910v1](http://arxiv.org/abs/2205.06910v1)|null|
