@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-20**|**Invariant Extended Kalman Filtering for Human Motion Estimation with Imperfect Sensor Placement**|Zenan Zhu et.al.|[2205.10236v1](http://arxiv.org/abs/2205.10236v1)|null|
+|**2022-05-20**|**Deep Learning-based Inertial Odometry for Pedestrian Tracking using Attention Mechanism and Res2Net Module**|Boxuan Chen et.al.|[2205.10031v1](http://arxiv.org/abs/2205.10031v1)|null|
 |**2022-05-17**|**DynPL-SVO: A New Method Using Point and Line Features for Stereo Visual Odometry in Dynamic Scenes**|Xiaoguang Ma et.al.|[2205.08207v1](http://arxiv.org/abs/2205.08207v1)|null|
 |**2022-05-17**|**UnPWC-SVDLO: Multi-SVD on PointPWC for Unsupervised Lidar Odometry**|Yiming Tu et.al.|[2205.08150v1](http://arxiv.org/abs/2205.08150v1)|null|
 |**2022-05-12**|**Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection**|Mingyu Yang et.al.|[2205.06187v1](http://arxiv.org/abs/2205.06187v1)|[link](https://github.com/mingyuyng/visual-selective-vio)|
@@ -30,5 +32,3 @@
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-28**|**Socially Compliant Navigation Dataset (SCAND): A Large-Scale Dataset of Demonstrations for Social Navigation**|Haresh Karnan et.al.|[2203.15041v1](http://arxiv.org/abs/2203.15041v1)|null|
 |**2022-03-25**|**FD-SLAM: 3-D Reconstruction Using Features and Dense Matching**|Xingrui Yang et.al.|[2203.13861v1](http://arxiv.org/abs/2203.13861v1)|null|
-|**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
-|**2022-03-24**|**MD-SLAM: Multi-cue Direct SLAM**|Luca Di Giammarino et.al.|[2203.13237v1](http://arxiv.org/abs/2203.13237v1)|[link](https://github.com/digiamm/md_slam)|

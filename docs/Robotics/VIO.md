@@ -2,7 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-20**|**Invariant Extended Kalman Filtering for Human Motion Estimation with Imperfect Sensor Placement**|Zenan Zhu et.al.|[2205.10236v1](http://arxiv.org/abs/2205.10236v1)|null|
+|**2022-05-20**|**Contrastive Learning with Cross-Modal Knowledge Mining for Multimodal Human Activity Recognition**|Razvan Brinzea et.al.|[2205.10071v1](http://arxiv.org/abs/2205.10071v1)|null|
+|**2022-05-20**|**Deep Learning-based Inertial Odometry for Pedestrian Tracking using Attention Mechanism and Res2Net Module**|Boxuan Chen et.al.|[2205.10031v1](http://arxiv.org/abs/2205.10031v1)|null|
 |**2022-05-19**|**Tunneling Gravimetry**|Patrik Schach et.al.|[2205.09413v1](http://arxiv.org/abs/2205.09413v1)|null|
+|**2022-05-19**|**Classifying Human Activities using Machine Learning and Deep Learning Techniques**|Sanku Satya Uday et.al.|[2205.10325v1](http://arxiv.org/abs/2205.10325v1)|null|
 |**2022-05-18**|**Does relativistic motion always degrade quantum Fisher information?**|Xiaobao Liu et.al.|[2205.08725v1](http://arxiv.org/abs/2205.08725v1)|null|
 |**2022-05-18**|**Extrinsic Calibration of LiDAR, IMU and Camera**|Subodh Mishra et.al.|[2205.08701v1](http://arxiv.org/abs/2205.08701v1)|null|
 |**2022-05-18**|**Anisotropic electron heating in turbulence-driven magnetic reconnection in the near-Sun solar wind**|Luca Franci et.al.|[2205.08670v1](http://arxiv.org/abs/2205.08670v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-12**|**Efficient Recovery of Low Rank Tensor via Triple Nonconvex Nonsmooth Rank Minimization**|Quan Yu et.al.|[2205.05811v1](http://arxiv.org/abs/2205.05811v1)|null|
 |**2022-05-11**|**CSI-based Indoor Localization via Attention-Augmented Residual Convolutional Neural Network**|Bowen Zhang et.al.|[2205.05775v1](http://arxiv.org/abs/2205.05775v1)|null|
 |**2022-05-11**|**Foucault-Wheatstone device in the deep-sea**|Hans van Haren et.al.|[2205.05355v1](http://arxiv.org/abs/2205.05355v1)|null|
-|**2022-05-11**|**Rotational effect as the possible cause of the east-west asymmetric crater rims on Ryugu observed by LIDAR data**|Naoyuki Hirata et.al.|[2205.05223v1](http://arxiv.org/abs/2205.05223v1)|null|
-|**2022-05-10**|**Constraints on Ion Velocity Distributions from Fusion Product Spectroscopy**|Aidan Crilly et.al.|[2205.04763v1](http://arxiv.org/abs/2205.04763v1)|null|
-|**2022-05-10**|**Real-Time Wearable Gait Phase Segmentation For Running And Walking**|Jien-De Sui et.al.|[2205.04668v1](http://arxiv.org/abs/2205.04668v1)|null|
-|**2022-05-10**|**Deep Gait Tracking With Inertial Measurement Unit**|Jien De Sui et.al.|[2205.04666v1](http://arxiv.org/abs/2205.04666v1)|null|

@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-20**|**Reliability-based Mesh-to-Grid Image Reconstruction**|Ján Koloda et.al.|[2205.10138v1](http://arxiv.org/abs/2205.10138v1)|null|
+|**2022-05-20**|**People Tracking and Re-Identifying in Distributed Contexts: Extension of PoseTReID**|Ratha Siv et.al.|[2205.10086v1](http://arxiv.org/abs/2205.10086v1)|null|
+|**2022-05-20**|**Model Predictive Manipulation of Compliant Objects with Multi-Objective Optimizer and Adversarial Network for Occlusion Compensation**|Jiaming Qi et.al.|[2205.09987v1](http://arxiv.org/abs/2205.09987v1)|null|
+|**2022-05-19**|**Unsupervised Learning of Depth, Camera Pose and Optical Flow from Monocular Video**|Dipan Mandal et.al.|[2205.09821v1](http://arxiv.org/abs/2205.09821v1)|null|
 |**2022-05-19**|**BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving**|Yunpeng Zhang et.al.|[2205.09743v1](http://arxiv.org/abs/2205.09743v1)|[link](https://github.com/zhangyp15/beverse)|
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|[link](https://github.com/runwayml/guided-inpainting)|
 |**2022-05-19**|**Unconventional Visual Sensors for Autonomous Vehicles**|You Li et.al.|[2205.09383v1](http://arxiv.org/abs/2205.09383v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-15**|**Exponentially Stable Observer-based Controller for VTOL-UAV without Velocity Measurements**|Hashim A. Hashim et.al.|[2205.07159v1](http://arxiv.org/abs/2205.07159v1)|null|
 |**2022-05-14**|**Extrinsic Calibration and Verification of Multiple Non-overlapping Field of View Lidar Sensors**|Sandipan Das et.al.|[2205.07098v1](http://arxiv.org/abs/2205.07098v1)|null|
 |**2022-05-14**|**Multi-modal curb detection and filtering**|Sandipan Das et.al.|[2205.07096v1](http://arxiv.org/abs/2205.07096v1)|null|
-|**2022-05-14**|**Monitoring of Pigmented Skin Lesions Using 3D Whole Body Imaging**|David Ahmedt-Aristizabal et.al.|[2205.07085v1](http://arxiv.org/abs/2205.07085v1)|null|
-|**2022-05-14**|**Corrosion Detection for Industrial Objects: From Multi-Sensor System to 5D Feature Space**|Dennis Haitz et.al.|[2205.07075v1](http://arxiv.org/abs/2205.07075v1)|null|
-|**2022-05-14**|**RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis**|Jonathan Tremblay et.al.|[2205.07058v1](http://arxiv.org/abs/2205.07058v1)|null|
-|**2022-05-14**|**Timing of the faulting on the Wispy Terrain of Dione based on stratigraphic relationships with impact craters**|Naoyuki Hirata et.al.|[2205.07040v1](http://arxiv.org/abs/2205.07040v1)|null|
