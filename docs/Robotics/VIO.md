@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-23**|**An analogical model for the stationary black holes by the flow field of space-time fluid around a 3-dimensional point sink**|Behzad Ataei et.al.|[2205.11476v1](http://arxiv.org/abs/2205.11476v1)|null|
+|**2022-05-23**|**Probing long-range properties of vacuum altered by uniformly accelerating two spatially separated Unruh-DeWitt detectors**|Shijing Cheng et.al.|[2205.11086v1](http://arxiv.org/abs/2205.11086v1)|null|
+|**2022-05-22**|**Sleep Posture One-Shot Learning Framework Using Kinematic Data Augmentation: In-Silico and In-Vivo Case Studies**|Omar Elnaggar et.al.|[2205.10778v1](http://arxiv.org/abs/2205.10778v1)|null|
+|**2022-05-22**|**Symmetric Teleparallel Geometries**|A. A. Coley et.al.|[2205.10719v1](http://arxiv.org/abs/2205.10719v1)|null|
+|**2022-05-21**|**Equivalence principle violation from large scale structure**|Luciano Petruzziello et.al.|[2205.10566v1](http://arxiv.org/abs/2205.10566v1)|null|
 |**2022-05-20**|**Invariant Extended Kalman Filtering for Human Motion Estimation with Imperfect Sensor Placement**|Zenan Zhu et.al.|[2205.10236v1](http://arxiv.org/abs/2205.10236v1)|null|
 |**2022-05-20**|**Contrastive Learning with Cross-Modal Knowledge Mining for Multimodal Human Activity Recognition**|Razvan Brinzea et.al.|[2205.10071v1](http://arxiv.org/abs/2205.10071v1)|null|
 |**2022-05-20**|**Deep Learning-based Inertial Odometry for Pedestrian Tracking using Attention Mechanism and Res2Net Module**|Boxuan Chen et.al.|[2205.10031v1](http://arxiv.org/abs/2205.10031v1)|null|
@@ -27,8 +32,3 @@
 |**2022-05-13**|**Experimental demonstration of phase-matching and Sagnac effect in a millimeter-scale wedged resonator gyroscope**|Xuan Mao et.al.|[2205.06463v1](http://arxiv.org/abs/2205.06463v1)|null|
 |**2022-05-12**|**Bang-Bang Control Of A Tail-less Morphing Wing Flight**|Eric Sihite et.al.|[2205.06395v1](http://arxiv.org/abs/2205.06395v1)|null|
 |**2022-05-12**|**Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection**|Mingyu Yang et.al.|[2205.06187v1](http://arxiv.org/abs/2205.06187v1)|[link](https://github.com/mingyuyng/visual-selective-vio)|
-|**2022-05-12**|**Mask Wearing Status Estimation with Smartwatches**|Huina Meng et.al.|[2205.06113v1](http://arxiv.org/abs/2205.06113v1)|[link](https://github.com/aiotgroup/maskreminder)|
-|**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)|
-|**2022-05-12**|**Efficient Recovery of Low Rank Tensor via Triple Nonconvex Nonsmooth Rank Minimization**|Quan Yu et.al.|[2205.05811v1](http://arxiv.org/abs/2205.05811v1)|null|
-|**2022-05-11**|**CSI-based Indoor Localization via Attention-Augmented Residual Convolutional Neural Network**|Bowen Zhang et.al.|[2205.05775v1](http://arxiv.org/abs/2205.05775v1)|null|
-|**2022-05-11**|**Foucault-Wheatstone device in the deep-sea**|Hans van Haren et.al.|[2205.05355v1](http://arxiv.org/abs/2205.05355v1)|null|

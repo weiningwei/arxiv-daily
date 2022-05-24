@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-23**|**Initial performance of the GlueX DIRC detector**|A. Ali et.al.|[2205.11382v1](http://arxiv.org/abs/2205.11382v1)|null|
+|**2022-05-23**|**Cooperative Reinforcement Learning on Traffic Signal Control**|Chi-Chun Chao et.al.|[2205.11291v1](http://arxiv.org/abs/2205.11291v1)|null|
+|**2022-05-23**|**Feature-Distribution Perturbation and Calibration for Generalized Person ReID**|Qilei Li et.al.|[2205.11197v1](http://arxiv.org/abs/2205.11197v1)|null|
+|**2022-05-22**|**Evaluating deep tracking models for player tracking in broadcast ice hockey video**|Kanav Vats et.al.|[2205.10949v1](http://arxiv.org/abs/2205.10949v1)|null|
+|**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin et.al.|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|null|
+|**2022-05-21**|**Pre-training Data Quality and Quantity for a Low-Resource Language: New Corpus and BERT Models for Maltese**|Kurt Micallef et.al.|[2205.10517v1](http://arxiv.org/abs/2205.10517v1)|null|
+|**2022-05-21**|**Deep Learning for Omnidirectional Vision: A Survey and New Perspectives**|Hao Ai et.al.|[2205.10468v1](http://arxiv.org/abs/2205.10468v1)|null|
 |**2022-05-20**|**Reliability-based Mesh-to-Grid Image Reconstruction**|Ján Koloda et.al.|[2205.10138v1](http://arxiv.org/abs/2205.10138v1)|null|
 |**2022-05-20**|**People Tracking and Re-Identifying in Distributed Contexts: Extension of PoseTReID**|Ratha Siv et.al.|[2205.10086v1](http://arxiv.org/abs/2205.10086v1)|[link](https://github.com/rathaumons/pyppbox)|
 |**2022-05-20**|**Model Predictive Manipulation of Compliant Objects with Multi-Objective Optimizer and Adversarial Network for Occlusion Compensation**|Jiaming Qi et.al.|[2205.09987v1](http://arxiv.org/abs/2205.09987v1)|null|
@@ -25,10 +32,3 @@
 |**2022-05-17**|**A Linear Comb Filter for Event Flicker Removal**|Ziwei Wang et.al.|[2205.08090v1](http://arxiv.org/abs/2205.08090v1)|[link](https://github.com/ziweiwwang/efr)|
 |**2022-05-16**|**TOCH: Spatio-Temporal Object Correspondence to Hand for Motion Refinement**|Keyang Zhou et.al.|[2205.07982v1](http://arxiv.org/abs/2205.07982v1)|null|
 |**2022-05-16**|**Physics-informed machine learning techniques for edge plasma turbulence modelling in computational theory and experiment**|Abhilash Mathews et.al.|[2205.07838v1](http://arxiv.org/abs/2205.07838v1)|[link](https://github.com/AbhilashMathews/PlasmaPINNtheory)|
-|**2022-05-16**|**FvOR: Robust Joint Shape and Pose Optimization for Few-view Object Reconstruction**|Zhenpei Yang et.al.|[2205.07763v1](http://arxiv.org/abs/2205.07763v1)|[link](https://github.com/zhenpeiyang/fvor)|
-|**2022-05-16**|**Real-time semantic segmentation on FPGAs for autonomous vehicles with hls4ml**|Nicolò Ghielmetti et.al.|[2205.07690v1](http://arxiv.org/abs/2205.07690v1)|null|
-|**2022-05-16**|**PUCK: Parallel Surface and Convolution-kernel Tracking for Event-Based Cameras**|Luna Gava et.al.|[2205.07657v1](http://arxiv.org/abs/2205.07657v1)|null|
-|**2022-05-15**|**Novel Multicolumn Kernel Extreme Learning Machine for Food Detection via Optimal Features from CNN**|Ghalib Ahmed et.al.|[2205.07348v1](http://arxiv.org/abs/2205.07348v1)|null|
-|**2022-05-15**|**Exponentially Stable Observer-based Controller for VTOL-UAV without Velocity Measurements**|Hashim A. Hashim et.al.|[2205.07159v1](http://arxiv.org/abs/2205.07159v1)|null|
-|**2022-05-14**|**Extrinsic Calibration and Verification of Multiple Non-overlapping Field of View Lidar Sensors**|Sandipan Das et.al.|[2205.07098v1](http://arxiv.org/abs/2205.07098v1)|null|
-|**2022-05-14**|**Multi-modal curb detection and filtering**|Sandipan Das et.al.|[2205.07096v1](http://arxiv.org/abs/2205.07096v1)|null|
