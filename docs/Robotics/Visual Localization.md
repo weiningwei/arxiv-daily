@@ -8,7 +8,7 @@
 |**2022-05-22**|**Evaluating deep tracking models for player tracking in broadcast ice hockey video**|Kanav Vats et.al.|[2205.10949v1](http://arxiv.org/abs/2205.10949v1)|null|
 |**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin et.al.|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|null|
 |**2022-05-21**|**Pre-training Data Quality and Quantity for a Low-Resource Language: New Corpus and BERT Models for Maltese**|Kurt Micallef et.al.|[2205.10517v1](http://arxiv.org/abs/2205.10517v1)|null|
-|**2022-05-21**|**Deep Learning for Omnidirectional Vision: A Survey and New Perspectives**|Hao Ai et.al.|[2205.10468v1](http://arxiv.org/abs/2205.10468v1)|null|
+|**2022-05-21**|**Deep Learning for Omnidirectional Vision: A Survey and New Perspectives**|Hao Ai et.al.|[2205.10468v2](http://arxiv.org/abs/2205.10468v2)|null|
 |**2022-05-20**|**Reliability-based Mesh-to-Grid Image Reconstruction**|Ján Koloda et.al.|[2205.10138v1](http://arxiv.org/abs/2205.10138v1)|null|
 |**2022-05-20**|**People Tracking and Re-Identifying in Distributed Contexts: Extension of PoseTReID**|Ratha Siv et.al.|[2205.10086v1](http://arxiv.org/abs/2205.10086v1)|[link](https://github.com/rathaumons/pyppbox)|
 |**2022-05-20**|**Model Predictive Manipulation of Compliant Objects with Multi-Objective Optimizer and Adversarial Network for Occlusion Compensation**|Jiaming Qi et.al.|[2205.09987v1](http://arxiv.org/abs/2205.09987v1)|null|
