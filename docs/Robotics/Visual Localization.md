@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-25**|**Neural 3D Reconstruction in the Wild**|Jiaming Sun et.al.|[2205.12955v1](http://arxiv.org/abs/2205.12955v1)|null|
+|**2022-05-25**|**These Maps Are Made For Walking: Real-Time Terrain Property Estimation for Mobile Robots**|Parker Ewen et.al.|[2205.12925v1](http://arxiv.org/abs/2205.12925v1)|null|
+|**2022-05-25**|**Context-Aware Video Reconstruction for Rolling Shutter Cameras**|Bin Fan et.al.|[2205.12912v1](http://arxiv.org/abs/2205.12912v1)|[link](https://github.com/gitcvfb/cvr)|
+|**2022-05-25**|**VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation**|Yuxing Chen et.al.|[2205.12602v1](http://arxiv.org/abs/2205.12602v1)|null|
+|**2022-05-25**|**From Pedestrian Detection to Crosswalk Estimation: An EM Algorithm and Analysis on Diverse Datasets**|Ross Greer et.al.|[2205.12579v1](http://arxiv.org/abs/2205.12579v1)|null|
+|**2022-05-25**|**Spotlights: Probing Shapes from Spherical Viewpoints**|Jiaxin Wei et.al.|[2205.12564v1](http://arxiv.org/abs/2205.12564v1)|null|
+|**2022-05-25**|**Skin Cancer Diagnostics with an All-Inclusive Smartphone Application**|Upender Kalwa et.al.|[2205.12438v1](http://arxiv.org/abs/2205.12438v1)|null|
+|**2022-05-24**|**Jointly Optimizing Color Rendition and In-Camera Backgrounds in an RGB Virtual Production Stage**|Chloe LeGendre et.al.|[2205.12403v1](http://arxiv.org/abs/2205.12403v1)|null|
 |**2022-05-24**|**Absolute Triangulation Algorithms for Space Exploration**|Sebastien Henry et.al.|[2205.12197v1](http://arxiv.org/abs/2205.12197v1)|null|
 |**2022-05-24**|**Towards Real-World 6G Drone Communication: Position and Camera Aided Beam Prediction**|Gouranga Charan et.al.|[2205.12187v1](http://arxiv.org/abs/2205.12187v1)|null|
 |**2022-05-24**|**Partial-input baselines show that NLI models can ignore context, but they don't**|Neha Srikanth et.al.|[2205.12181v1](http://arxiv.org/abs/2205.12181v1)|[link](https://github.com/nehasrikn/context-editing)|
@@ -24,11 +32,3 @@
 |**2022-05-21**|**Deep Learning for Omnidirectional Vision: A Survey and New Perspectives**|Hao Ai et.al.|[2205.10468v2](http://arxiv.org/abs/2205.10468v2)|null|
 |**2022-05-20**|**Reliability-based Mesh-to-Grid Image Reconstruction**|Ján Koloda et.al.|[2205.10138v1](http://arxiv.org/abs/2205.10138v1)|null|
 |**2022-05-20**|**People Tracking and Re-Identifying in Distributed Contexts: Extension Study of PoseTReID**|Ratha Siv et.al.|[2205.10086v2](http://arxiv.org/abs/2205.10086v2)|[link](https://github.com/rathaumons/pyppbox)|
-|**2022-05-20**|**Model Predictive Manipulation of Compliant Objects with Multi-Objective Optimizer and Adversarial Network for Occlusion Compensation**|Jiaming Qi et.al.|[2205.09987v1](http://arxiv.org/abs/2205.09987v1)|null|
-|**2022-05-19**|**Unsupervised Learning of Depth, Camera Pose and Optical Flow from Monocular Video**|Dipan Mandal et.al.|[2205.09821v1](http://arxiv.org/abs/2205.09821v1)|null|
-|**2022-05-19**|**BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving**|Yunpeng Zhang et.al.|[2205.09743v1](http://arxiv.org/abs/2205.09743v1)|[link](https://github.com/zhangyp15/beverse)|
-|**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|[link](https://github.com/runwayml/guided-inpainting)|
-|**2022-05-19**|**Unconventional Visual Sensors for Autonomous Vehicles**|You Li et.al.|[2205.09383v1](http://arxiv.org/abs/2205.09383v1)|null|
-|**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v1](http://arxiv.org/abs/2205.09351v1)|null|
-|**2022-05-18**|**The Robotic Multi-Object Focal Plane System of the Dark Energy Spectroscopic Instrument (DESI)**|Joseph Harry Silber et.al.|[2205.09014v1](http://arxiv.org/abs/2205.09014v1)|null|
-|**2022-05-18**|**Property Unlearning: A Defense Strategy Against Property Inference Attacks**|Joshua Stock et.al.|[2205.08821v1](http://arxiv.org/abs/2205.08821v1)|null|
