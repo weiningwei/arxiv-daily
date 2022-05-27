@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-26**|**Transfer learning driven design optimization for inertial confinement fusion**|K. D. Humbird et.al.|[2205.13519v1](http://arxiv.org/abs/2205.13519v1)|null|
+|**2022-05-26**|**Enhanced collisionless laser absorption in strongly magnetized plasmas**|Lili Manzo et.al.|[2205.13478v1](http://arxiv.org/abs/2205.13478v1)|null|
+|**2022-05-26**|**Inertially Assisted Semi-Direct Visual Odometry for Fixed Wing Autonomous Unmanned Air Vehicles**|Eduardo Gallo et.al.|[2205.13242v1](http://arxiv.org/abs/2205.13242v1)|null|
+|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|null|
 |**2022-05-25**|**Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**|Milad Ramezani et.al.|[2205.12595v1](http://arxiv.org/abs/2205.12595v1)|null|
 |**2022-05-24**|**LOCUS 2.0: Robust and Computationally Efficient Lidar Odometry for Real-Time Underground 3D Mapping**|Andrzej Reinke et.al.|[2205.11784v1](http://arxiv.org/abs/2205.11784v1)|[link](https://github.com/nebula-autonomy/nebula-odometry-dataset)|
 |**2022-05-23**|**An analogical model for the stationary black holes by the flow field of space-time fluid around a 3-dimensional point sink**|Behzad Ataei et.al.|[2205.11476v1](http://arxiv.org/abs/2205.11476v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-16**|**Automated Mobility Context Detection with Inertial Signals**|Antonio Bevilacqua et.al.|[2205.08409v1](http://arxiv.org/abs/2205.08409v1)|null|
 |**2022-05-15**|**Learning Car Speed Using Inertial Sensors**|Maxim Freydin et.al.|[2205.07883v1](http://arxiv.org/abs/2205.07883v1)|null|
 |**2022-05-15**|**Seismic Background Limitation of Lunar Gravitational-wave Detectors**|Jan Harms et.al.|[2205.07255v1](http://arxiv.org/abs/2205.07255v1)|null|
-|**2022-05-15**|**Exponentially Stable Observer-based Controller for VTOL-UAVs without Velocity Measurements**|Hashim A. Hashim et.al.|[2205.07159v2](http://arxiv.org/abs/2205.07159v2)|null|
-|**2022-05-14**|**Transport, flow topology and Lagrangian conditional statistics in edge plasma turbulence**|Benjamin Kadoch et.al.|[2205.07135v1](http://arxiv.org/abs/2205.07135v1)|null|
-|**2022-05-13**|**Reynolds number dependence of Lagrangian dispersion in direct numerical simulations of anisotropic magnetohydrodynamic turbulence**|J. Pratt et.al.|[2205.06879v1](http://arxiv.org/abs/2205.06879v1)|null|
-|**2022-05-13**|**Experimental demonstration of phase-matching and Sagnac effect in a millimeter-scale wedged resonator gyroscope**|Xuan Mao et.al.|[2205.06463v1](http://arxiv.org/abs/2205.06463v1)|null|

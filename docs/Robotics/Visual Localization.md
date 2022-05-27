@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-26**|**BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation**|Zhijian Liu et.al.|[2205.13542v1](http://arxiv.org/abs/2205.13542v1)|null|
+|**2022-05-26**|**SHREC 2022: pothole and crack detection in the road pavement using images and RGB-D data**|Elia Moscoso Thompson et.al.|[2205.13326v1](http://arxiv.org/abs/2205.13326v1)|null|
+|**2022-05-26**|**Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey and Challenges**|Varun Ravi Kumar et.al.|[2205.13281v1](http://arxiv.org/abs/2205.13281v1)|null|
+|**2022-05-26**|**Objects Matter: Learning Object Relation Graph for Robust Camera Relocalization**|Chengyu Qiao et.al.|[2205.13280v1](http://arxiv.org/abs/2205.13280v1)|null|
+|**2022-05-26**|**Semantic Segmentation for Thermal Images: A Comparative Survey**|Zülfiye Kütük et.al.|[2205.13278v1](http://arxiv.org/abs/2205.13278v1)|null|
+|**2022-05-26**|**To image, or not to image: Class-specific diffractive cameras with all-optical erasure of undesired objects**|Bijie Bai et.al.|[2205.13122v1](http://arxiv.org/abs/2205.13122v1)|null|
+|**2022-05-25**|**New Photometric Calibration of the Wide Field Camera 3 Detectors**|A. Calamida et.al.|[2205.13014v1](http://arxiv.org/abs/2205.13014v1)|null|
 |**2022-05-25**|**Neural 3D Reconstruction in the Wild**|Jiaming Sun et.al.|[2205.12955v1](http://arxiv.org/abs/2205.12955v1)|null|
 |**2022-05-25**|**These Maps Are Made For Walking: Real-Time Terrain Property Estimation for Mobile Robots**|Parker Ewen et.al.|[2205.12925v1](http://arxiv.org/abs/2205.12925v1)|[link](https://github.com/roahmlab/terrain_friction_dataset)|
 |**2022-05-25**|**Context-Aware Video Reconstruction for Rolling Shutter Cameras**|Bin Fan et.al.|[2205.12912v1](http://arxiv.org/abs/2205.12912v1)|[link](https://github.com/gitcvfb/cvr)|
@@ -25,10 +32,3 @@
 |**2022-05-23**|**Initial performance of the GlueX DIRC detector**|A. Ali et.al.|[2205.11382v1](http://arxiv.org/abs/2205.11382v1)|null|
 |**2022-05-23**|**Cooperative Reinforcement Learning on Traffic Signal Control**|Chi-Chun Chao et.al.|[2205.11291v1](http://arxiv.org/abs/2205.11291v1)|null|
 |**2022-05-23**|**Feature-Distribution Perturbation and Calibration for Generalized Person ReID**|Qilei Li et.al.|[2205.11197v1](http://arxiv.org/abs/2205.11197v1)|null|
-|**2022-05-23**|**Coaxial tungsten hot plate-based cathode source for Cesium plasma production confined in MPD device**|A. D. Patel et.al.|[2205.11983v1](http://arxiv.org/abs/2205.11983v1)|null|
-|**2022-05-22**|**Evaluating deep tracking models for player tracking in broadcast ice hockey video**|Kanav Vats et.al.|[2205.10949v1](http://arxiv.org/abs/2205.10949v1)|null|
-|**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin et.al.|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|[link](https://github.com/metaslam/alita)|
-|**2022-05-21**|**Pre-training Data Quality and Quantity for a Low-Resource Language: New Corpus and BERT Models for Maltese**|Kurt Micallef et.al.|[2205.10517v2](http://arxiv.org/abs/2205.10517v2)|[link](https://github.com/mlrs/bertu)|
-|**2022-05-21**|**Deep Learning for Omnidirectional Vision: A Survey and New Perspectives**|Hao Ai et.al.|[2205.10468v2](http://arxiv.org/abs/2205.10468v2)|null|
-|**2022-05-20**|**Reliability-based Mesh-to-Grid Image Reconstruction**|Ján Koloda et.al.|[2205.10138v1](http://arxiv.org/abs/2205.10138v1)|null|
-|**2022-05-20**|**People Tracking and Re-Identifying in Distributed Contexts: Extension Study of PoseTReID**|Ratha Siv et.al.|[2205.10086v2](http://arxiv.org/abs/2205.10086v2)|[link](https://github.com/rathaumons/pyppbox)|
