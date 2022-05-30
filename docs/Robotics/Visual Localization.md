@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-26**|**BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation**|Zhijian Liu et.al.|[2205.13542v1](http://arxiv.org/abs/2205.13542v1)|null|
-|**2022-05-26**|**SHREC 2022: pothole and crack detection in the road pavement using images and RGB-D data**|Elia Moscoso Thompson et.al.|[2205.13326v1](http://arxiv.org/abs/2205.13326v1)|null|
+|**2022-05-26**|**SHREC 2022: pothole and crack detection in the road pavement using images and RGB-D data**|Elia Moscoso Thompson et.al.|[2205.13326v2](http://arxiv.org/abs/2205.13326v2)|null|
 |**2022-05-26**|**Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey and Challenges**|Varun Ravi Kumar et.al.|[2205.13281v1](http://arxiv.org/abs/2205.13281v1)|null|
 |**2022-05-26**|**Objects Matter: Learning Object Relation Graph for Robust Camera Relocalization**|Chengyu Qiao et.al.|[2205.13280v1](http://arxiv.org/abs/2205.13280v1)|null|
 |**2022-05-26**|**Semantic Segmentation for Thermal Images: A Comparative Survey**|Zülfiye Kütük et.al.|[2205.13278v1](http://arxiv.org/abs/2205.13278v1)|null|
