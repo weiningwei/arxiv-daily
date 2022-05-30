@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-27**|**TrackNet: A Triplet metric-based method for Multi-Target Multi-Camera Vehicle Tracking**|David Serrano et.al.|[2205.13857v1](http://arxiv.org/abs/2205.13857v1)|[link](https://github.com/davidserra9/tracknet)|
+|**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
+|**2022-05-27**|**fakeWeather: Adversarial Attacks for Deep Neural Networks Emulating Weather Conditions on the Camera Lens of Autonomous Systems**|Alberto Marchisio et.al.|[2205.13807v1](http://arxiv.org/abs/2205.13807v1)|null|
+|**2022-05-27**|**BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework**|Tingting Liang et.al.|[2205.13790v1](http://arxiv.org/abs/2205.13790v1)|[link](https://github.com/adlab-autodrive/bevfusion)|
+|**2022-05-27**|**LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality**|Haoxin Wang et.al.|[2205.13770v1](http://arxiv.org/abs/2205.13770v1)|null|
+|**2022-05-27**|**Distributed Gaussian Process Based Cooperative Visual Pursuit Control for Drone Networks**|Makoto Saito et.al.|[2205.13714v1](http://arxiv.org/abs/2205.13714v1)|null|
+|**2022-05-26**|**Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation**|Hannah Schieber et.al.|[2205.13629v1](http://arxiv.org/abs/2205.13629v1)|null|
+|**2022-05-26**|**Optical Continuum Reverberation in the Dwarf Seyfert Nucleus of NGC 4395**|John W. Montano et.al.|[2205.13620v1](http://arxiv.org/abs/2205.13620v1)|null|
 |**2022-05-26**|**BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation**|Zhijian Liu et.al.|[2205.13542v1](http://arxiv.org/abs/2205.13542v1)|null|
 |**2022-05-26**|**SHREC 2022: pothole and crack detection in the road pavement using images and RGB-D data**|Elia Moscoso Thompson et.al.|[2205.13326v2](http://arxiv.org/abs/2205.13326v2)|null|
 |**2022-05-26**|**Surround-view Fisheye Camera Perception for Automated Driving: Overview, Survey and Challenges**|Varun Ravi Kumar et.al.|[2205.13281v1](http://arxiv.org/abs/2205.13281v1)|null|
@@ -24,11 +32,3 @@
 |**2022-05-24**|**Effect of Gender, Pose and Camera Distance on Human Body Dimensions Estimation**|Yansel Gónzalez Tejeda et.al.|[2205.12028v1](http://arxiv.org/abs/2205.12028v1)|null|
 |**2022-05-24**|**Naive Few-Shot Learning: Sequence Consistency Evaluation**|Tomer Barak et.al.|[2205.12013v1](http://arxiv.org/abs/2205.12013v1)|[link](https://github.com/tomer-barak/naive-few-shot-learning)|
 |**2022-05-24**|**Euclid: Fast two-point correlation function covariance through linear construction**|E. Keihanen et.al.|[2205.11852v1](http://arxiv.org/abs/2205.11852v1)|null|
-|**2022-05-24**|**Package Theft Detection from Smart Home Security Cameras**|Hung-Min Hsu et.al.|[2205.11804v1](http://arxiv.org/abs/2205.11804v1)|null|
-|**2022-05-23**|**Algorithm Development for Controlling Movement of a Robotic Platform by Digital Image Processing**|Benjamin Andres Huerfano Zapata et.al.|[2205.11666v1](http://arxiv.org/abs/2205.11666v1)|null|
-|**2022-05-23**|**Towards Model Generalization for Monocular 3D Object Detection**|Zhenyu Li et.al.|[2205.11664v1](http://arxiv.org/abs/2205.11664v1)|null|
-|**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|null|
-|**2022-05-23**|**Euclid: Cosmological forecasts from the void size function**|S. Contarini et.al.|[2205.11525v2](http://arxiv.org/abs/2205.11525v2)|null|
-|**2022-05-23**|**Initial performance of the GlueX DIRC detector**|A. Ali et.al.|[2205.11382v1](http://arxiv.org/abs/2205.11382v1)|null|
-|**2022-05-23**|**Cooperative Reinforcement Learning on Traffic Signal Control**|Chi-Chun Chao et.al.|[2205.11291v1](http://arxiv.org/abs/2205.11291v1)|null|
-|**2022-05-23**|**Feature-Distribution Perturbation and Calibration for Generalized Person ReID**|Qilei Li et.al.|[2205.11197v1](http://arxiv.org/abs/2205.11197v1)|null|

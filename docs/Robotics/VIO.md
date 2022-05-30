@@ -2,10 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
+|**2022-05-27**|**End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control**|Moritz Reuss et.al.|[2205.13804v1](http://arxiv.org/abs/2205.13804v1)|null|
 |**2022-05-26**|**Transfer learning driven design optimization for inertial confinement fusion**|K. D. Humbird et.al.|[2205.13519v1](http://arxiv.org/abs/2205.13519v1)|null|
 |**2022-05-26**|**Enhanced collisionless laser absorption in strongly magnetized plasmas**|Lili Manzo et.al.|[2205.13478v1](http://arxiv.org/abs/2205.13478v1)|null|
 |**2022-05-26**|**Inertially Assisted Semi-Direct Visual Odometry for Fixed Wing Autonomous Unmanned Air Vehicles**|Eduardo Gallo et.al.|[2205.13242v1](http://arxiv.org/abs/2205.13242v1)|null|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|null|
+|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)|
 |**2022-05-25**|**Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**|Milad Ramezani et.al.|[2205.12595v1](http://arxiv.org/abs/2205.12595v1)|null|
 |**2022-05-24**|**LOCUS 2.0: Robust and Computationally Efficient Lidar Odometry for Real-Time Underground 3D Mapping**|Andrzej Reinke et.al.|[2205.11784v1](http://arxiv.org/abs/2205.11784v1)|[link](https://github.com/nebula-autonomy/nebula-odometry-dataset)|
 |**2022-05-23**|**An analogical model for the stationary black holes by the flow field of space-time fluid around a 3-dimensional point sink**|Behzad Ataei et.al.|[2205.11476v1](http://arxiv.org/abs/2205.11476v1)|null|
@@ -30,5 +32,3 @@
 |**2022-05-16**|**An Experimental Comparison of Floating Base Estimators for Humanoid Robots with Flat Feet**|Prashanth Ramadoss et.al.|[2205.07765v1](http://arxiv.org/abs/2205.07765v1)|[link](https://github.com/ami-iit/paper_ramadoss-2022-ral-humanoid-base-estimation)|
 |**2022-05-16**|**Cross helicity of interplanetary coronal mass ejections at 1 au**|S. W. Good et.al.|[2205.07751v1](http://arxiv.org/abs/2205.07751v1)|null|
 |**2022-05-16**|**Automated Mobility Context Detection with Inertial Signals**|Antonio Bevilacqua et.al.|[2205.08409v1](http://arxiv.org/abs/2205.08409v1)|null|
-|**2022-05-15**|**Learning Car Speed Using Inertial Sensors**|Maxim Freydin et.al.|[2205.07883v1](http://arxiv.org/abs/2205.07883v1)|null|
-|**2022-05-15**|**Seismic Background Limitation of Lunar Gravitational-wave Detectors**|Jan Harms et.al.|[2205.07255v1](http://arxiv.org/abs/2205.07255v1)|null|
