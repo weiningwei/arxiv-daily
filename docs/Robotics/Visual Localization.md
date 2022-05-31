@@ -7,7 +7,7 @@
 |**2022-05-30**|**Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection**|Kaicheng Yu et.al.|[2205.14951v1](http://arxiv.org/abs/2205.14951v1)|[link](https://github.com/kcyu2014/lidar-camera-robust-benchmark)|
 |**2022-05-30**|**Neural Volumetric Object Selection**|Zhongzheng Ren et.al.|[2205.14929v1](http://arxiv.org/abs/2205.14929v1)|null|
 |**2022-05-30**|**Illumination Adaptive Transformer**|Ziteng Cui et.al.|[2205.14871v1](http://arxiv.org/abs/2205.14871v1)|[link](https://github.com/cuiziteng/illumination-adaptive-transformer)|
-|**2022-05-29**|**Extrinsic Calibration of Multiple Inertial Sensors from Arbitrary Trajectories**|Jongwon Lee et.al.|[2205.14724v1](http://arxiv.org/abs/2205.14724v1)|null|
+|**2022-05-29**|**Extrinsic Calibration of Multiple Inertial Sensors from Arbitrary Trajectories**|Jongwon Lee et.al.|[2205.14724v1](http://arxiv.org/abs/2205.14724v1)|[link](https://github.com/jongwonjlee/mix-cal)|
 |**2022-05-29**|**Vision-Assisted User Clustering for Robust mmWave-NOMA Systems**|Aditya S. Rajasekaran et.al.|[2205.14716v1](http://arxiv.org/abs/2205.14716v1)|null|
 |**2022-05-29**|**Evaluating Automated Driving Planner Robustness against Adversarial Influence**|Andres Molina-Markham et.al.|[2205.14697v1](http://arxiv.org/abs/2205.14697v1)|null|
 |**2022-05-28**|**Estimation of 3D Body Shape and Clothing Measurements from Frontal- and Side-view Images**|Kundan Sai Prabhu Thota et.al.|[2205.14347v1](http://arxiv.org/abs/2205.14347v1)|null|
