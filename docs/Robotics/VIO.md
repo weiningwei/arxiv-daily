@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-30**|**Development of a hybrid model-based data-driven collision avoidance algorithm for vehicles in low adhesion conditions**|Olivier Lecompte et.al.|[2205.15178v1](http://arxiv.org/abs/2205.15178v1)|null|
+|**2022-05-30**|**Self-healing (solitonic) slip pulses in frictional systems**|Anna Pomyalov et.al.|[2205.15166v1](http://arxiv.org/abs/2205.15166v1)|null|
+|**2022-05-30**|**Transient Rheology of Immersed Granular Materials**|Zhuan Ge et.al.|[2205.15067v1](http://arxiv.org/abs/2205.15067v1)|null|
+|**2022-05-30**|**Friction-dependent rheology of dry granular systems**|Teng Man et.al.|[2205.14898v1](http://arxiv.org/abs/2205.14898v1)|null|
+|**2022-05-29**|**Entanglement Harvesting of Inertially Moving Unruh-DeWitt Detectors in Minkowski Spacetime**|Cendikiawan Suryaatmadja et.al.|[2205.14739v1](http://arxiv.org/abs/2205.14739v1)|null|
+|**2022-05-29**|**Extrinsic Calibration of Multiple Inertial Sensors from Arbitrary Trajectories**|Jongwon Lee et.al.|[2205.14724v1](http://arxiv.org/abs/2205.14724v1)|null|
+|**2022-05-29**|**Leg Shaping and Event-Driven Control of a Small-Scale, Low-DoF, Two-Mode Robot**|Dingkun Guo et.al.|[2205.14579v1](http://arxiv.org/abs/2205.14579v1)|null|
 |**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
 |**2022-05-27**|**End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control**|Moritz Reuss et.al.|[2205.13804v1](http://arxiv.org/abs/2205.13804v1)|null|
 |**2022-05-26**|**Transfer learning driven design optimization for inertial confinement fusion**|K. D. Humbird et.al.|[2205.13519v1](http://arxiv.org/abs/2205.13519v1)|null|
@@ -25,10 +32,3 @@
 |**2022-05-18**|**Anisotropic electron heating in turbulence-driven magnetic reconnection in the near-Sun solar wind**|Luca Franci et.al.|[2205.08670v1](http://arxiv.org/abs/2205.08670v1)|null|
 |**2022-05-17**|**A General Measure of Collision Hazard in Traffic**|Erik K. Antonsson et.al.|[2205.08640v1](http://arxiv.org/abs/2205.08640v1)|null|
 |**2022-05-17**|**Entanglement harvesting between two inertial Unruh-DeWitt detectors from non-vacuum quantum fluctuations**|Dipankar Barman et.al.|[2205.08505v1](http://arxiv.org/abs/2205.08505v1)|null|
-|**2022-05-17**|**DynPL-SVO: A New Method Using Point and Line Features for Stereo Visual Odometry in Dynamic Scenes**|Xiaoguang Ma et.al.|[2205.08207v1](http://arxiv.org/abs/2205.08207v1)|null|
-|**2022-05-17**|**UnPWC-SVDLO: Multi-SVD on PointPWC for Unsupervised Lidar Odometry**|Yiming Tu et.al.|[2205.08150v1](http://arxiv.org/abs/2205.08150v1)|null|
-|**2022-05-16**|**Whole-Body Human Kinematics Estimation using Dynamical Inverse Kinematics and Contact-Aided Lie Group Kalman Filter**|Prashanth Ramadoss et.al.|[2205.07835v1](http://arxiv.org/abs/2205.07835v1)|null|
-|**2022-05-16**|**Design and Evaluation of an Invariant Extended Kalman Filter for Trunk Motion Estimation with Sensor Misalignment**|Zenan Zhu et.al.|[2205.07800v1](http://arxiv.org/abs/2205.07800v1)|null|
-|**2022-05-16**|**An Experimental Comparison of Floating Base Estimators for Humanoid Robots with Flat Feet**|Prashanth Ramadoss et.al.|[2205.07765v1](http://arxiv.org/abs/2205.07765v1)|[link](https://github.com/ami-iit/paper_ramadoss-2022-ral-humanoid-base-estimation)|
-|**2022-05-16**|**Cross helicity of interplanetary coronal mass ejections at 1 au**|S. W. Good et.al.|[2205.07751v1](http://arxiv.org/abs/2205.07751v1)|null|
-|**2022-05-16**|**Automated Mobility Context Detection with Inertial Signals**|Antonio Bevilacqua et.al.|[2205.08409v1](http://arxiv.org/abs/2205.08409v1)|null|
