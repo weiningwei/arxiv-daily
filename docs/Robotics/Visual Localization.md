@@ -2,9 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-01**|**Unifying Voxel-based Representation with Transformer for 3D Object Detection**|Yanwei Li et.al.|[2206.00630v1](http://arxiv.org/abs/2206.00630v1)|null|
+|**2022-06-01**|**Zeptosecond Angular Streak Camera**|Hongcheng Ni et.al.|[2206.00581v1](http://arxiv.org/abs/2206.00581v1)|null|
+|**2022-06-01**|**Physics-based neural network for non-invasive control of coherent light in scattering media**|Alexandra d'Arco et.al.|[2206.00487v1](http://arxiv.org/abs/2206.00487v1)|null|
+|**2022-06-01**|**Towards view-invariant vehicle speed detection from driving simulator images**|Antonio Hernández Martínez et.al.|[2206.00343v1](http://arxiv.org/abs/2206.00343v1)|null|
+|**2022-06-01**|**Multi-Object Grasping in the Plane**|Wisdom C. Agboh et.al.|[2206.00229v1](http://arxiv.org/abs/2206.00229v1)|null|
 |**2022-05-31**|**Towards a data-driven model of the sky from low Earth orbit as observed by the Hubble Space Telescope**|Sarah E. Caddy et.al.|[2205.16002v1](http://arxiv.org/abs/2205.16002v1)|null|
 |**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
-|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|[link](https://github.com/vastlik/symformer)|
 |**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|[link](https://github.com/naver/kapture-localization)|
 |**2022-05-31**|**Mask2Hand: Learning to Predict the 3D Hand Pose and Shape from Shadow**|Li-Jen Chang et.al.|[2205.15553v1](http://arxiv.org/abs/2205.15553v1)|null|
 |**2022-05-31**|**Introduction of a tree-based technique for efficient and real-time label retrieval in the object tracking system**|Ala-Eddine Benrazek et.al.|[2205.15477v1](http://arxiv.org/abs/2205.15477v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
 |**2022-05-27**|**fakeWeather: Adversarial Attacks for Deep Neural Networks Emulating Weather Conditions on the Camera Lens of Autonomous Systems**|Alberto Marchisio et.al.|[2205.13807v1](http://arxiv.org/abs/2205.13807v1)|null|
 |**2022-05-27**|**BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework**|Tingting Liang et.al.|[2205.13790v1](http://arxiv.org/abs/2205.13790v1)|[link](https://github.com/adlab-autodrive/bevfusion)|
-|**2022-05-27**|**LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality**|Haoxin Wang et.al.|[2205.13770v1](http://arxiv.org/abs/2205.13770v1)|null|
-|**2022-05-27**|**Distributed Gaussian Process Based Cooperative Visual Pursuit Control for Drone Networks**|Makoto Saito et.al.|[2205.13714v1](http://arxiv.org/abs/2205.13714v1)|null|
-|**2022-05-26**|**Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation**|Hannah Schieber et.al.|[2205.13629v1](http://arxiv.org/abs/2205.13629v1)|null|
-|**2022-05-26**|**Optical Continuum Reverberation in the Dwarf Seyfert Nucleus of NGC 4395**|John W. Montano et.al.|[2205.13620v1](http://arxiv.org/abs/2205.13620v1)|null|

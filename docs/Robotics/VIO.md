@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-01**|**Essential Fierz identities for a fermionic field**|Roberto Dale et.al.|[2206.00639v1](http://arxiv.org/abs/2206.00639v1)|null|
+|**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|null|
 |**2022-05-30**|**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**|Chengfeng Zhao et.al.|[2205.15410v1](http://arxiv.org/abs/2205.15410v1)|null|
 |**2022-05-30**|**Development of a hybrid model-based data-driven collision avoidance algorithm for vehicles in low adhesion conditions**|Olivier Lecompte et.al.|[2205.15178v1](http://arxiv.org/abs/2205.15178v1)|null|
 |**2022-05-30**|**Self-healing (solitonic) slip pulses in frictional systems**|Anna Pomyalov et.al.|[2205.15166v1](http://arxiv.org/abs/2205.15166v1)|null|
@@ -30,5 +32,3 @@
 |**2022-05-19**|**Tunneling Gravimetry**|Patrik Schach et.al.|[2205.09413v1](http://arxiv.org/abs/2205.09413v1)|null|
 |**2022-05-19**|**Classifying Human Activities using Machine Learning and Deep Learning Techniques**|Sanku Satya Uday et.al.|[2205.10325v1](http://arxiv.org/abs/2205.10325v1)|null|
 |**2022-05-18**|**Does relativistic motion always degrade quantum Fisher information?**|Xiaobao Liu et.al.|[2205.08725v1](http://arxiv.org/abs/2205.08725v1)|null|
-|**2022-05-18**|**Extrinsic Calibration of LiDAR, IMU and Camera**|Subodh Mishra et.al.|[2205.08701v1](http://arxiv.org/abs/2205.08701v1)|null|
-|**2022-05-18**|**Anisotropic electron heating in turbulence-driven magnetic reconnection in the near-Sun solar wind**|Luca Franci et.al.|[2205.08670v1](http://arxiv.org/abs/2205.08670v1)|null|
