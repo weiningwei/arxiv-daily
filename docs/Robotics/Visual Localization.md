@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-05-31**|**Towards a data-driven model of the sky from low Earth orbit as observed by the Hubble Space Telescope**|Sarah E. Caddy et.al.|[2205.16002v1](http://arxiv.org/abs/2205.16002v1)|null|
 |**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
-|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Vastl et.al.|[2205.15764v1](http://arxiv.org/abs/2205.15764v1)|[link](https://github.com/vastlik/symformer)|
+|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|[link](https://github.com/vastlik/symformer)|
 |**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|[link](https://github.com/naver/kapture-localization)|
 |**2022-05-31**|**Mask2Hand: Learning to Predict the 3D Hand Pose and Shape from Shadow**|Li-Jen Chang et.al.|[2205.15553v1](http://arxiv.org/abs/2205.15553v1)|null|
 |**2022-05-31**|**Introduction of a tree-based technique for efficient and real-time label retrieval in the object tracking system**|Ala-Eddine Benrazek et.al.|[2205.15477v1](http://arxiv.org/abs/2205.15477v1)|null|
