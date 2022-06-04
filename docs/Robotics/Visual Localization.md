@@ -6,7 +6,7 @@
 |**2022-06-02**|**Detection of an extremely large impact flash on Jupiter by high-cadence multiwavelength observations**|Ko Arimatsu et.al.|[2206.01050v1](http://arxiv.org/abs/2206.01050v1)|null|
 |**2022-06-02**|**Impact drag force exerting on a projectile penetrating into a hierarchical granular bed**|F. Okubo et.al.|[2206.01037v1](http://arxiv.org/abs/2206.01037v1)|null|
 |**2022-06-02**|**On the properties of 0.11 keV to 344 MeV ion spectra in the inner heliosheath using regularized $κ$-distributions**|Klaus Scherer et.al.|[2206.01021v1](http://arxiv.org/abs/2206.01021v1)|null|
-|**2022-06-02**|**EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design**|Haoran You et.al.|[2206.00877v1](http://arxiv.org/abs/2206.00877v1)|null|
+|**2022-06-02**|**EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design**|Haoran You et.al.|[2206.00877v1](http://arxiv.org/abs/2206.00877v1)|[link](https://github.com/rice-eic/eyecod)|
 |**2022-06-02**|**Imaging of CsI(Tl) crystal event and double-slit Young's interference by a single photon sensitive camera**|Zhimin Wang et.al.|[2206.00876v1](http://arxiv.org/abs/2206.00876v1)|null|
 |**2022-06-02**|**Modeling sRGB Camera Noise with Normalizing Flows**|Shayan Kousha et.al.|[2206.00812v1](http://arxiv.org/abs/2206.00812v1)|null|
 |**2022-06-01**|**Context-Driven Detection of Invertebrate Species in Deep-Sea Video**|R. Austin McEver et.al.|[2206.00718v1](http://arxiv.org/abs/2206.00718v1)|null|
