@@ -4,12 +4,12 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-06-03**|**Euclid preparation: XX. The Complete Calibration of the Color-Redshift Relation survey: LBT observations and data release**|R. Saglia et.al.|[2206.01620v1](http://arxiv.org/abs/2206.01620v1)|null|
 |**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|null|
-|**2022-06-03**|**LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi**|Eric Bezzam et.al.|[2206.01430v1](http://arxiv.org/abs/2206.01430v1)|null|
+|**2022-06-03**|**LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi**|Eric Bezzam et.al.|[2206.01430v1](http://arxiv.org/abs/2206.01430v1)|[link](https://github.com/lcav/lenslesspicam)|
 |**2022-06-03**|**Learning rich optical embeddings for privacy-preserving lensless image classification**|Eric Bezzam et.al.|[2206.01429v1](http://arxiv.org/abs/2206.01429v1)|null|
 |**2022-06-03**|**Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**|Hiroki Shimomura et.al.|[2206.01414v1](http://arxiv.org/abs/2206.01414v1)|null|
 |**2022-06-03**|**End-to-End 3D Hand Pose Estimation from Stereo Cameras**|Yuncheng Li et.al.|[2206.01384v1](http://arxiv.org/abs/2206.01384v1)|null|
 |**2022-06-02**|**Long Scale Error Control in Low Light Image and Video Enhancement Using Equivariance**|Sara Aghajanzadeh et.al.|[2206.01334v1](http://arxiv.org/abs/2206.01334v1)|null|
-|**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|null|
+|**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|[link](https://github.com/gmum/points2nerf)|
 |**2022-06-02**|**Multifocus microscopy with optically sectioned axial superresolution**|Florian Ströhl et.al.|[2206.01257v1](http://arxiv.org/abs/2206.01257v1)|null|
 |**2022-06-02**|**PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images**|Yingfei Liu et.al.|[2206.01256v1](http://arxiv.org/abs/2206.01256v1)|null|
 |**2022-06-02**|**Noise2NoiseFlow: Realistic Camera Noise Modeling without Clean Images**|Ali Maleky et.al.|[2206.01103v1](http://arxiv.org/abs/2206.01103v1)|null|
