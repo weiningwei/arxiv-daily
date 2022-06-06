@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-03**|**Euclid preparation: XX. The Complete Calibration of the Color-Redshift Relation survey: LBT observations and data release**|R. Saglia et.al.|[2206.01620v1](http://arxiv.org/abs/2206.01620v1)|null|
+|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|null|
+|**2022-06-03**|**LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi**|Eric Bezzam et.al.|[2206.01430v1](http://arxiv.org/abs/2206.01430v1)|null|
+|**2022-06-03**|**Learning rich optical embeddings for privacy-preserving lensless image classification**|Eric Bezzam et.al.|[2206.01429v1](http://arxiv.org/abs/2206.01429v1)|null|
+|**2022-06-03**|**Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**|Hiroki Shimomura et.al.|[2206.01414v1](http://arxiv.org/abs/2206.01414v1)|null|
+|**2022-06-03**|**End-to-End 3D Hand Pose Estimation from Stereo Cameras**|Yuncheng Li et.al.|[2206.01384v1](http://arxiv.org/abs/2206.01384v1)|null|
+|**2022-06-02**|**Long Scale Error Control in Low Light Image and Video Enhancement Using Equivariance**|Sara Aghajanzadeh et.al.|[2206.01334v1](http://arxiv.org/abs/2206.01334v1)|null|
+|**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|null|
+|**2022-06-02**|**Multifocus microscopy with optically sectioned axial superresolution**|Florian Ströhl et.al.|[2206.01257v1](http://arxiv.org/abs/2206.01257v1)|null|
+|**2022-06-02**|**PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images**|Yingfei Liu et.al.|[2206.01256v1](http://arxiv.org/abs/2206.01256v1)|null|
 |**2022-06-02**|**Noise2NoiseFlow: Realistic Camera Noise Modeling without Clean Images**|Ali Maleky et.al.|[2206.01103v1](http://arxiv.org/abs/2206.01103v1)|null|
 |**2022-06-02**|**Detection of an extremely large impact flash on Jupiter by high-cadence multiwavelength observations**|Ko Arimatsu et.al.|[2206.01050v1](http://arxiv.org/abs/2206.01050v1)|null|
 |**2022-06-02**|**Impact drag force exerting on a projectile penetrating into a hierarchical granular bed**|F. Okubo et.al.|[2206.01037v1](http://arxiv.org/abs/2206.01037v1)|null|
@@ -22,13 +32,3 @@
 |**2022-05-31**|**Mask2Hand: Learning to Predict the 3D Hand Pose and Shape from Shadow**|Li-Jen Chang et.al.|[2205.15553v1](http://arxiv.org/abs/2205.15553v1)|null|
 |**2022-05-31**|**Introduction of a tree-based technique for efficient and real-time label retrieval in the object tracking system**|Ala-Eddine Benrazek et.al.|[2205.15477v1](http://arxiv.org/abs/2205.15477v1)|null|
 |**2022-05-30**|**MVMO: A Multi-Object Dataset for Wide Baseline Multi-View Semantic Segmentation**|Aitor Alvarez-Gila et.al.|[2205.15452v1](http://arxiv.org/abs/2205.15452v1)|null|
-|**2022-05-30**|**Dictionary Learning with Accumulator Neurons**|Gavin Parpart et.al.|[2205.15386v1](http://arxiv.org/abs/2205.15386v1)|null|
-|**2022-05-30**|**Few-shot Class-incremental Learning for 3D Point Cloud Objects**|Townim Chowdhury et.al.|[2205.15225v1](http://arxiv.org/abs/2205.15225v1)|[link](https://github.com/townim-faisal/fscil-3d)|
-|**2022-05-30**|**On the dwarf irregular galaxy NGC 6822. I. Young, intermediate and old stellar populations**|Maria Tantalo et.al.|[2205.15143v1](http://arxiv.org/abs/2205.15143v1)|null|
-|**2022-05-30**|**Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection**|Kaicheng Yu et.al.|[2205.14951v1](http://arxiv.org/abs/2205.14951v1)|[link](https://github.com/kcyu2014/lidar-camera-robust-benchmark)|
-|**2022-05-30**|**Neural Volumetric Object Selection**|Zhongzheng Ren et.al.|[2205.14929v1](http://arxiv.org/abs/2205.14929v1)|null|
-|**2022-05-30**|**Illumination Adaptive Transformer**|Ziteng Cui et.al.|[2205.14871v1](http://arxiv.org/abs/2205.14871v1)|[link](https://github.com/cuiziteng/illumination-adaptive-transformer)|
-|**2022-05-29**|**Extrinsic Calibration of Multiple Inertial Sensors from Arbitrary Trajectories**|Jongwon Lee et.al.|[2205.14724v1](http://arxiv.org/abs/2205.14724v1)|[link](https://github.com/jongwonjlee/mix-cal)|
-|**2022-05-29**|**Vision-Assisted User Clustering for Robust mmWave-NOMA Systems**|Aditya S. Rajasekaran et.al.|[2205.14716v1](http://arxiv.org/abs/2205.14716v1)|null|
-|**2022-05-29**|**Evaluating Automated Driving Planner Robustness against Adversarial Influence**|Andres Molina-Markham et.al.|[2205.14697v1](http://arxiv.org/abs/2205.14697v1)|null|
-|**2022-05-28**|**Estimation of 3D Body Shape and Clothing Measurements from Frontal- and Side-view Images**|Kundan Sai Prabhu Thota et.al.|[2205.14347v1](http://arxiv.org/abs/2205.14347v1)|null|

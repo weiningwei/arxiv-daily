@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-03**|**Wake and aeroelasticity of a flexible pitching foil**|Juan D'Adamo et.al.|[2206.01647v1](http://arxiv.org/abs/2206.01647v1)|null|
+|**2022-06-03**|**Unsupervised Discovery of Non-Linear Plasma Physics using Differentiable Kinetic Simulations**|Archis S. Joglekar et.al.|[2206.01637v1](http://arxiv.org/abs/2206.01637v1)|null|
+|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|null|
+|**2022-06-02**|**Impact of Frequency Support by Wind Turbines on Small-Signal Stability of Power Systems**|Antonio Pepiciello et.al.|[2206.01237v1](http://arxiv.org/abs/2206.01237v1)|null|
 |**2022-06-02**|**AtoMEC: an open-source average-atom Python code**|Timothy J. Callow et.al.|[2206.01074v1](http://arxiv.org/abs/2206.01074v1)|[link](https://github.com/atomec-project/atoMEC)|
 |**2022-06-02**|**Impact drag force exerting on a projectile penetrating into a hierarchical granular bed**|F. Okubo et.al.|[2206.01037v1](http://arxiv.org/abs/2206.01037v1)|null|
 |**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v1](http://arxiv.org/abs/2206.00997v1)|null|
@@ -28,7 +32,3 @@
 |**2022-05-23**|**An analogical model for the stationary black holes by the flow field of space-time fluid around a 3-dimensional point sink**|Behzad Ataei et.al.|[2205.11476v1](http://arxiv.org/abs/2205.11476v1)|null|
 |**2022-05-23**|**Probing long-range properties of vacuum altered by uniformly accelerating two spatially separated Unruh-DeWitt detectors**|Shijing Cheng et.al.|[2205.11086v1](http://arxiv.org/abs/2205.11086v1)|null|
 |**2022-05-22**|**Sleep Posture One-Shot Learning Framework Using Kinematic Data Augmentation: In-Silico and In-Vivo Case Studies**|Omar Elnaggar et.al.|[2205.10778v1](http://arxiv.org/abs/2205.10778v1)|null|
-|**2022-05-22**|**Symmetric Teleparallel Geometries**|A. A. Coley et.al.|[2205.10719v1](http://arxiv.org/abs/2205.10719v1)|null|
-|**2022-05-21**|**Equivalence principle violation from large scale structure**|Luciano Petruzziello et.al.|[2205.10566v1](http://arxiv.org/abs/2205.10566v1)|null|
-|**2022-05-20**|**Invariant Extended Kalman Filtering for Human Motion Estimation with Imperfect Sensor Placement**|Zenan Zhu et.al.|[2205.10236v1](http://arxiv.org/abs/2205.10236v1)|null|
-|**2022-05-20**|**Contrastive Learning with Cross-Modal Knowledge Mining for Multimodal Human Activity Recognition**|Razvan Brinzea et.al.|[2205.10071v1](http://arxiv.org/abs/2205.10071v1)|[link](https://github.com/razzu/cmc-cmkm)|
