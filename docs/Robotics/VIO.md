@@ -15,7 +15,7 @@
 |**2022-05-30**|**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**|Chengfeng Zhao et.al.|[2205.15410v1](http://arxiv.org/abs/2205.15410v1)|null|
 |**2022-05-30**|**Development of a hybrid model-based data-driven collision avoidance algorithm for vehicles in low adhesion conditions**|Olivier Lecompte et.al.|[2205.15178v1](http://arxiv.org/abs/2205.15178v1)|null|
 |**2022-05-30**|**Self-healing (solitonic) slip pulses in frictional systems**|Anna Pomyalov et.al.|[2205.15166v1](http://arxiv.org/abs/2205.15166v1)|null|
-|**2022-05-30**|**Transient Rheology of Immersed Granular Materials**|Zhuan Ge et.al.|[2205.15067v1](http://arxiv.org/abs/2205.15067v1)|null|
+|**2022-05-30**|**Transient Rheology of Immersed Granular Materials**|Zhuan Ge et.al.|[2205.15067v2](http://arxiv.org/abs/2205.15067v2)|null|
 |**2022-05-30**|**Friction-dependent rheology of dry granular systems**|Teng Man et.al.|[2205.14898v1](http://arxiv.org/abs/2205.14898v1)|null|
 |**2022-05-29**|**Entanglement Harvesting of Inertially Moving Unruh-DeWitt Detectors in Minkowski Spacetime**|Cendikiawan Suryaatmadja et.al.|[2205.14739v1](http://arxiv.org/abs/2205.14739v1)|null|
 |**2022-05-29**|**Extrinsic Calibration of Multiple Inertial Sensors from Arbitrary Trajectories**|Jongwon Lee et.al.|[2205.14724v1](http://arxiv.org/abs/2205.14724v1)|[link](https://github.com/jongwonjlee/mix-cal)|
