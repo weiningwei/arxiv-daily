@@ -24,7 +24,7 @@
 |**2022-06-04**|**Nerfels: Renderable Neural Codes for Improved Camera Pose Estimation**|Gil Avraham et.al.|[2206.01916v1](http://arxiv.org/abs/2206.01916v1)|null|
 |**2022-06-04**|**Auroral imaging with combined Suomi 100 nanosatellite and ground-based observations: A case study**|Esa Kallio et.al.|[2206.01915v1](http://arxiv.org/abs/2206.01915v1)|null|
 |**2022-06-03**|**Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata**|Seonghyeon Nam et.al.|[2206.01813v1](http://arxiv.org/abs/2206.01813v1)|null|
-|**2022-06-03**|**An asynchronous object-oriented approach to the automation of the 0.8-meter George Mason University campus telescope in Python**|Michael Reefe et.al.|[2206.01780v1](http://arxiv.org/abs/2206.01780v1)|null|
+|**2022-06-03**|**An asynchronous object-oriented approach to the automation of the 0.8-meter George Mason University campus telescope in Python**|Michael Reefe et.al.|[2206.01780v1](http://arxiv.org/abs/2206.01780v1)|[link](https://github.com/kakon24/omegalambda)|
 |**2022-06-03**|**Euclid preparation: XX. The Complete Calibration of the Color-Redshift Relation survey: LBT observations and data release**|R. Saglia et.al.|[2206.01620v1](http://arxiv.org/abs/2206.01620v1)|null|
 |**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|[link](https://github.com/maps-lab/odombeyondvision)|
 |**2022-06-03**|**LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi**|Eric Bezzam et.al.|[2206.01430v1](http://arxiv.org/abs/2206.01430v1)|[link](https://github.com/lcav/lenslesspicam)|
