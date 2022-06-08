@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-07**|**Robot Self-Calibration Using Actuated 3D Sensors**|Arne Peters et.al.|[2206.03430v1](http://arxiv.org/abs/2206.03430v1)|null|
+|**2022-06-07**|**Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**|Haodong Yuan et.al.|[2206.03062v1](http://arxiv.org/abs/2206.03062v1)|null|
 |**2022-06-05**|**DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**|Alena Savinykh et.al.|[2206.02199v1](http://arxiv.org/abs/2206.02199v1)|null|
 |**2022-06-04**|**C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**|Erez Posner et.al.|[2206.01961v1](http://arxiv.org/abs/2206.01961v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|[link](https://github.com/url-kaist/alterground-lego-loam)|
@@ -30,5 +32,3 @@
 |**2022-04-23**|**Indoor simultaneous localization and mapping based on fringe projection profilometry**|Yang Zhao et.al.|[2204.11020v1](http://arxiv.org/abs/2204.11020v1)|null|
 |**2022-04-22**|**Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**|Julio A. Placed et.al.|[2204.10631v1](http://arxiv.org/abs/2204.10631v1)|null|
 |**2022-04-22**|**Fast Autonomous Robotic Exploration Using the Underlying Graph Structure**|Julio A. Placed et.al.|[2204.10610v1](http://arxiv.org/abs/2204.10610v1)|null|
-|**2022-04-22**|**Making Parameterization and Constrains of Object Landmark Globally Consistent via SPD(3) Manifold and Improved Cost Functions**|Yutong Hu et.al.|[2204.10552v1](http://arxiv.org/abs/2204.10552v1)|null|
-|**2022-04-22**|**Implicit Object Mapping With Noisy Data**|Jad Abou-Chakra et.al.|[2204.10516v1](http://arxiv.org/abs/2204.10516v1)|null|

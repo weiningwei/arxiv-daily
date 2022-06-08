@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-07**|**Learning Mobile Manipulation**|David Watkins et.al.|[2206.03448v1](http://arxiv.org/abs/2206.03448v1)|null|
+|**2022-06-07**|**Generating Long Videos of Dynamic Scenes**|Tim Brooks et.al.|[2206.03429v1](http://arxiv.org/abs/2206.03429v1)|null|
+|**2022-06-07**|**Sensors for Mobile Robots**|Henrik Andreasson et.al.|[2206.03223v1](http://arxiv.org/abs/2206.03223v1)|null|
+|**2022-06-07**|**Omnivision forecasting: combining satellite observations with sky images for improved intra-hour solar energy predictions**|Quentin Paletta et.al.|[2206.03207v1](http://arxiv.org/abs/2206.03207v1)|null|
+|**2022-06-07**|**Antarctic Survey Telescope 3-3: Overview, System Performance and Preliminary Observations at Yaoan, Yunnan**|Tianrui Sun et.al.|[2206.03170v1](http://arxiv.org/abs/2206.03170v1)|null|
+|**2022-06-07**|**Miniaturizing Color-Sensitive Photodetectors via Hybrid Nanoantennas towards Sub-micron Dimensions**|Jinfa Ho et.al.|[2206.03167v1](http://arxiv.org/abs/2206.03167v1)|null|
+|**2022-06-07**|**Critical Regularizations for Neural Surface Reconstruction in the Wild**|Jingyang Zhang et.al.|[2206.03087v1](http://arxiv.org/abs/2206.03087v1)|null|
+|**2022-06-07**|**Online Deep Clustering with Video Track Consistency**|Alessandra Alfani et.al.|[2206.03086v1](http://arxiv.org/abs/2206.03086v1)|null|
+|**2022-06-07**|**Layered Depth Refinement with Mask Guidance**|Soo Ye Kim et.al.|[2206.03048v1](http://arxiv.org/abs/2206.03048v1)|null|
+|**2022-06-06**|**A non-convex variational model for joint polyenergetic CT reconstruction, sensor denoising and material decomposition**|Georgios Papanikos et.al.|[2206.02908v1](http://arxiv.org/abs/2206.02908v1)|null|
+|**2022-06-06**|**Physics and semantic informed multi-sensor calibration via optimization theory and self-supervised learning**|Shmuel Y. Hayoun et.al.|[2206.02856v1](http://arxiv.org/abs/2206.02856v1)|null|
 |**2022-06-06**|**People Tracking in Panoramic Video for Guiding Robots**|Alberto Bacchin et.al.|[2206.02735v1](http://arxiv.org/abs/2206.02735v1)|null|
 |**2022-06-06**|**Day-to-Night Image Synthesis for Training Nighttime Neural ISPs**|Abhijith Punnappurath et.al.|[2206.02715v1](http://arxiv.org/abs/2206.02715v1)|[link](https://github.com/samsunglabs/day-to-night)|
 |**2022-06-06**|**NORPPA: NOvel Ringed seal re-identification by Pelage Pattern Aggregation**|Ekaterina Nepovinnykh et.al.|[2206.02498v2](http://arxiv.org/abs/2206.02498v2)|[link](https://github.com/kwadraterry/norppa)|
@@ -21,14 +32,3 @@
 |**2022-06-03**|**Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**|Hiroki Shimomura et.al.|[2206.01414v1](http://arxiv.org/abs/2206.01414v1)|null|
 |**2022-06-03**|**End-to-End 3D Hand Pose Estimation from Stereo Cameras**|Yuncheng Li et.al.|[2206.01384v1](http://arxiv.org/abs/2206.01384v1)|null|
 |**2022-06-02**|**Long Scale Error Control in Low Light Image and Video Enhancement Using Equivariance**|Sara Aghajanzadeh et.al.|[2206.01334v1](http://arxiv.org/abs/2206.01334v1)|null|
-|**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|[link](https://github.com/gmum/points2nerf)|
-|**2022-06-02**|**Multifocus microscopy with optically sectioned axial superresolution**|Florian Ströhl et.al.|[2206.01257v1](http://arxiv.org/abs/2206.01257v1)|null|
-|**2022-06-02**|**PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images**|Yingfei Liu et.al.|[2206.01256v1](http://arxiv.org/abs/2206.01256v1)|null|
-|**2022-06-02**|**Noise2NoiseFlow: Realistic Camera Noise Modeling without Clean Images**|Ali Maleky et.al.|[2206.01103v1](http://arxiv.org/abs/2206.01103v1)|null|
-|**2022-06-02**|**Detection of an extremely large impact flash on Jupiter by high-cadence multiwavelength observations**|Ko Arimatsu et.al.|[2206.01050v1](http://arxiv.org/abs/2206.01050v1)|null|
-|**2022-06-02**|**Impact drag force exerting on a projectile penetrating into a hierarchical granular bed**|F. Okubo et.al.|[2206.01037v1](http://arxiv.org/abs/2206.01037v1)|null|
-|**2022-06-02**|**On the properties of 0.11 keV to 344 MeV ion spectra in the inner heliosheath using regularized $κ$-distributions**|Klaus Scherer et.al.|[2206.01021v1](http://arxiv.org/abs/2206.01021v1)|null|
-|**2022-06-02**|**Conversation Group Detection With Spatio-Temporal Context**|Stephanie Tan et.al.|[2206.02559v1](http://arxiv.org/abs/2206.02559v1)|null|
-|**2022-06-02**|**EyeCoD: Eye Tracking System Acceleration via FlatCam-based Algorithm & Accelerator Co-Design**|Haoran You et.al.|[2206.00877v1](http://arxiv.org/abs/2206.00877v1)|[link](https://github.com/rice-eic/eyecod)|
-|**2022-06-02**|**Imaging of CsI(Tl) crystal event and double-slit Young's interference by a single photon sensitive camera**|Zhimin Wang et.al.|[2206.00876v1](http://arxiv.org/abs/2206.00876v1)|null|
-|**2022-06-02**|**Modeling sRGB Camera Noise with Normalizing Flows**|Shayan Kousha et.al.|[2206.00812v1](http://arxiv.org/abs/2206.00812v1)|null|
