@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-09 08:40:23 Asia/Shanghai
+ Automated deployment @ 2022-06-09 10:46:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-08**|**Learning Ego 3D Representation as Ray Tracing**|Jiachen Lu et.al.|[2206.04042v1](http://arxiv.org/abs/2206.04042v1)|null|
+|**2022-06-08**|**Direct Triangulation with Spherical Projection for Omnidirectional Cameras**|Ciarán Eising et.al.|[2206.03928v1](http://arxiv.org/abs/2206.03928v1)|null|
+|**2022-06-08**|**PrivHAR: Recognizing Human Actions From Privacy-preserving Lens**|Carlos Hinojosa et.al.|[2206.03891v1](http://arxiv.org/abs/2206.03891v1)|null|
+|**2022-06-08**|**PixSelect: Less but Reliable Pixels for Accurate and Efficient Localization**|Mohammad Altillawi et.al.|[2206.03775v1](http://arxiv.org/abs/2206.03775v1)|null|
+|**2022-06-08**|**Unsupervised Learning of 3D Scene Flow from Monocular Camera**|Guangming Wang et.al.|[2206.03673v1](http://arxiv.org/abs/2206.03673v1)|null|
+|**2022-06-07**|**Atmospheric Characterization of Hot Jupiter CoRoT-1 b Using the Wide Field Camera 3 on the Hubble Space Telescope**|Kayli Glidic et.al.|[2206.03517v1](http://arxiv.org/abs/2206.03517v1)|null|
+|**2022-06-07**|**A novel method for unbiased measurements of growth with cosmic shear**|Stefano Camera et.al.|[2206.03499v1](http://arxiv.org/abs/2206.03499v1)|null|
 |**2022-06-07**|**Learning Mobile Manipulation**|David Watkins et.al.|[2206.03448v1](http://arxiv.org/abs/2206.03448v1)|null|
 |**2022-06-07**|**Generating Long Videos of Dynamic Scenes**|Tim Brooks et.al.|[2206.03429v1](http://arxiv.org/abs/2206.03429v1)|null|
 |**2022-06-07**|**Sensors for Mobile Robots**|Henrik Andreasson et.al.|[2206.03223v1](http://arxiv.org/abs/2206.03223v1)|null|
@@ -31,13 +38,6 @@
 |**2022-06-04**|**Auroral imaging with combined Suomi 100 nanosatellite and ground-based observations: A case study**|Esa Kallio et.al.|[2206.01915v1](http://arxiv.org/abs/2206.01915v1)|null|
 |**2022-06-03**|**Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata**|Seonghyeon Nam et.al.|[2206.01813v1](http://arxiv.org/abs/2206.01813v1)|null|
 |**2022-06-03**|**An asynchronous object-oriented approach to the automation of the 0.8-meter George Mason University campus telescope in Python**|Michael Reefe et.al.|[2206.01780v1](http://arxiv.org/abs/2206.01780v1)|[link](https://github.com/kakon24/omegalambda)|
-|**2022-06-03**|**Euclid preparation: XX. The Complete Calibration of the Color-Redshift Relation survey: LBT observations and data release**|R. Saglia et.al.|[2206.01620v1](http://arxiv.org/abs/2206.01620v1)|null|
-|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|[link](https://github.com/maps-lab/odombeyondvision)|
-|**2022-06-03**|**LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi**|Eric Bezzam et.al.|[2206.01430v1](http://arxiv.org/abs/2206.01430v1)|[link](https://github.com/lcav/lenslesspicam)|
-|**2022-06-03**|**Learning rich optical embeddings for privacy-preserving lensless image classification**|Eric Bezzam et.al.|[2206.01429v1](http://arxiv.org/abs/2206.01429v1)|null|
-|**2022-06-03**|**Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**|Hiroki Shimomura et.al.|[2206.01414v1](http://arxiv.org/abs/2206.01414v1)|null|
-|**2022-06-03**|**End-to-End 3D Hand Pose Estimation from Stereo Cameras**|Yuncheng Li et.al.|[2206.01384v1](http://arxiv.org/abs/2206.01384v1)|null|
-|**2022-06-02**|**Long Scale Error Control in Low Light Image and Video Enhancement Using Equivariance**|Sara Aghajanzadeh et.al.|[2206.01334v1](http://arxiv.org/abs/2206.01334v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +110,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-08**|**Wavelike nature of the vertical shear instability in global protoplanetary disks**|Eleonora Svanberg et.al.|[2206.03840v1](http://arxiv.org/abs/2206.03840v1)|null|
 |**2022-06-06**|**Hamiltonian Formalism for dynamics of particles in MOG**|Sohrab Rahvar et.al.|[2206.02453v1](http://arxiv.org/abs/2206.02453v1)|null|
 |**2022-06-04**|**Inertial dynamics of an active Brownian particle**|Jonas Mayer Martins et.al.|[2206.01960v1](http://arxiv.org/abs/2206.01960v1)|null|
 |**2022-06-04**|**Temperature and Velocity Characteristics of Rotating Turbulent Boundary Layers Under Non-Isothermal Conditions**|Zhi Tao et.al.|[2206.01929v1](http://arxiv.org/abs/2206.01929v1)|null|
@@ -139,4 +140,3 @@
 |**2022-05-26**|**Inertially Assisted Semi-Direct Visual Odometry for Fixed Wing Autonomous Unmanned Air Vehicles**|Eduardo Gallo et.al.|[2205.13242v1](http://arxiv.org/abs/2205.13242v1)|null|
 |**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)|
 |**2022-05-25**|**A Categorical View on the Principle of Relativity**|L. M. Gaio et.al.|[2205.15408v1](http://arxiv.org/abs/2205.15408v1)|null|
-|**2022-05-25**|**Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**|Milad Ramezani et.al.|[2205.12595v1](http://arxiv.org/abs/2205.12595v1)|null|
