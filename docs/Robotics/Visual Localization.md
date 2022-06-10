@@ -10,7 +10,7 @@
 |**2022-06-07**|**Atmospheric Characterization of Hot Jupiter CoRoT-1 b Using the Wide Field Camera 3 on the Hubble Space Telescope**|Kayli Glidic et.al.|[2206.03517v1](http://arxiv.org/abs/2206.03517v1)|null|
 |**2022-06-07**|**A novel method for unbiased measurements of growth with cosmic shear**|Stefano Camera et.al.|[2206.03499v1](http://arxiv.org/abs/2206.03499v1)|null|
 |**2022-06-07**|**Learning Mobile Manipulation**|David Watkins et.al.|[2206.03448v1](http://arxiv.org/abs/2206.03448v1)|null|
-|**2022-06-07**|**Generating Long Videos of Dynamic Scenes**|Tim Brooks et.al.|[2206.03429v1](http://arxiv.org/abs/2206.03429v1)|null|
+|**2022-06-07**|**Generating Long Videos of Dynamic Scenes**|Tim Brooks et.al.|[2206.03429v2](http://arxiv.org/abs/2206.03429v2)|null|
 |**2022-06-07**|**Sensors for Mobile Robots**|Henrik Andreasson et.al.|[2206.03223v1](http://arxiv.org/abs/2206.03223v1)|null|
 |**2022-06-07**|**Omnivision forecasting: combining satellite observations with sky images for improved intra-hour solar energy predictions**|Quentin Paletta et.al.|[2206.03207v1](http://arxiv.org/abs/2206.03207v1)|null|
 |**2022-06-07**|**Antarctic Survey Telescope 3-3: Overview, System Performance and Preliminary Observations at Yaoan, Yunnan**|Tianrui Sun et.al.|[2206.03170v1](http://arxiv.org/abs/2206.03170v1)|null|
@@ -26,7 +26,7 @@
 |**2022-06-06**|**Sports Re-ID: Improving Re-Identification Of Players In Broadcast Videos Of Team Sports**|Bharath Comandur et.al.|[2206.02373v1](http://arxiv.org/abs/2206.02373v1)|null|
 |**2022-06-05**|**SealID: Saimaa ringed seal re-identification dataset**|Ekaterina Nepovinnykh et.al.|[2206.02260v2](http://arxiv.org/abs/2206.02260v2)|null|
 |**2022-06-05**|**Computer Vision-based Characterization of Large-scale Jet Flames using a Synthetic Infrared Image Generation Approach**|Carmina Pérez-Guerrero et.al.|[2206.02110v1](http://arxiv.org/abs/2206.02110v1)|null|
-|**2022-06-04**|**Transit least-squares survey IV. Earth-like transiting planets expected from the PLATO mission**|René Heller et.al.|[2206.02071v1](http://arxiv.org/abs/2206.02071v1)|null|
+|**2022-06-04**|**Transit least-squares survey IV. Earth-like transiting planets expected from the PLATO mission**|René Heller et.al.|[2206.02071v2](http://arxiv.org/abs/2206.02071v2)|null|
 |**2022-06-04**|**Symmetry as a Representation of Intuitive Geometry?**|Wangcheng Xu et.al.|[2206.02019v1](http://arxiv.org/abs/2206.02019v1)|null|
 |**2022-06-04**|**Nerfels: Renderable Neural Codes for Improved Camera Pose Estimation**|Gil Avraham et.al.|[2206.01916v1](http://arxiv.org/abs/2206.01916v1)|null|
 |**2022-06-04**|**Auroral imaging with combined Suomi 100 nanosatellite and ground-based observations: A case study**|Esa Kallio et.al.|[2206.01915v1](http://arxiv.org/abs/2206.01915v1)|null|
