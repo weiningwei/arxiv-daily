@@ -2,12 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-10**|**An Image Processing Pipeline for Camera Trap Time-Lapse Recordings**|Michael L. Hilton et.al.|[2206.05159v1](http://arxiv.org/abs/2206.05159v1)|null|
+|**2022-06-10**|**Globally-Optimal Contrast Maximisation for Event Cameras**|Xin Peng et.al.|[2206.05127v1](http://arxiv.org/abs/2206.05127v1)|null|
+|**2022-06-10**|**Tailored frequency conversion makes infrared light visible for streak cameras**|Carolin Lüders et.al.|[2206.05074v1](http://arxiv.org/abs/2206.05074v1)|null|
+|**2022-06-09**|**Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation**|Jinman Park et.al.|[2206.04785v1](http://arxiv.org/abs/2206.04785v1)|null|
 |**2022-06-09**|**Autonomous Precision Drone Landing with Fiducial Markers and a Gimbal-Mounted Camera for Active Tracking**|Joshua Springer et.al.|[2206.04617v1](http://arxiv.org/abs/2206.04617v1)|null|
 |**2022-06-09**|**Representing Lanes as Arc-length-based Parametric Curves to Facilitate Estimation in Vehicle Control**|Wubing B. Qin et.al.|[2206.04592v1](http://arxiv.org/abs/2206.04592v1)|null|
 |**2022-06-09**|**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**|Shaoyu Chen et.al.|[2206.04584v1](http://arxiv.org/abs/2206.04584v1)|[link](https://github.com/hustvl/gkt)|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 |**2022-06-09**|**Efficient Human Pose Estimation via 3D Event Point Cloud**|Jiaan Chen et.al.|[2206.04511v1](http://arxiv.org/abs/2206.04511v1)|null|
 |**2022-06-09**|**How Asynchronous Events Encode Video**|Karen Adam et.al.|[2206.04341v1](http://arxiv.org/abs/2206.04341v1)|null|
+|**2022-06-09**|**A No-reference Quality Assessment Metric for Point Cloud Based on Captured Video Sequences**|Yu Fan et.al.|[2206.05054v1](http://arxiv.org/abs/2206.05054v1)|null|
 |**2022-06-08**|**SCAMPS: Synthetics for Camera Measurement of Physiological Signals**|Daniel McDuff et.al.|[2206.04197v1](http://arxiv.org/abs/2206.04197v1)|[link](https://github.com/danmcduff/scampsdataset)|
 |**2022-06-08**|**Deep Hierarchical Planning from Pixels**|Danijar Hafner et.al.|[2206.04114v1](http://arxiv.org/abs/2206.04114v1)|null|
 |**2022-06-08**|**Searching for a Hypervelocity White Dwarf Companion: A Proper Motion Survey of SN 1006**|Joshua V. Shields et.al.|[2206.04095v1](http://arxiv.org/abs/2206.04095v1)|null|
@@ -27,8 +32,3 @@
 |**2022-06-07**|**Critical Regularizations for Neural Surface Reconstruction in the Wild**|Jingyang Zhang et.al.|[2206.03087v1](http://arxiv.org/abs/2206.03087v1)|null|
 |**2022-06-07**|**Online Deep Clustering with Video Track Consistency**|Alessandra Alfani et.al.|[2206.03086v1](http://arxiv.org/abs/2206.03086v1)|null|
 |**2022-06-07**|**Layered Depth Refinement with Mask Guidance**|Soo Ye Kim et.al.|[2206.03048v1](http://arxiv.org/abs/2206.03048v1)|null|
-|**2022-06-06**|**A non-convex variational model for joint polyenergetic CT reconstruction, sensor denoising and material decomposition**|Georgios Papanikos et.al.|[2206.02908v1](http://arxiv.org/abs/2206.02908v1)|null|
-|**2022-06-06**|**Physics and semantic informed multi-sensor calibration via optimization theory and self-supervised learning**|Shmuel Y. Hayoun et.al.|[2206.02856v1](http://arxiv.org/abs/2206.02856v1)|null|
-|**2022-06-06**|**People Tracking in Panoramic Video for Guiding Robots**|Alberto Bacchin et.al.|[2206.02735v1](http://arxiv.org/abs/2206.02735v1)|null|
-|**2022-06-06**|**Day-to-Night Image Synthesis for Training Nighttime Neural ISPs**|Abhijith Punnappurath et.al.|[2206.02715v1](http://arxiv.org/abs/2206.02715v1)|[link](https://github.com/samsunglabs/day-to-night)|
-|**2022-06-06**|**NORPPA: NOvel Ringed seal re-identification by Pelage Pattern Aggregation**|Ekaterina Nepovinnykh et.al.|[2206.02498v2](http://arxiv.org/abs/2206.02498v2)|[link](https://github.com/kwadraterry/norppa)|
