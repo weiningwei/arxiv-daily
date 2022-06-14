@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-10**|**An Image Processing Pipeline for Camera Trap Time-Lapse Recordings**|Michael L. Hilton et.al.|[2206.05159v1](http://arxiv.org/abs/2206.05159v1)|null|
+|**2022-06-10**|**An Image Processing Pipeline for Camera Trap Time-Lapse Recordings**|Michael L. Hilton et.al.|[2206.05159v1](http://arxiv.org/abs/2206.05159v1)|[link](https://github.com/hiltonml/camera_trap_tools)|
 |**2022-06-10**|**Globally-Optimal Contrast Maximisation for Event Cameras**|Xin Peng et.al.|[2206.05127v1](http://arxiv.org/abs/2206.05127v1)|null|
 |**2022-06-10**|**Tailored frequency conversion makes infrared light visible for streak cameras**|Carolin Lüders et.al.|[2206.05074v1](http://arxiv.org/abs/2206.05074v1)|null|
 |**2022-06-09**|**Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation**|Jinman Park et.al.|[2206.04785v1](http://arxiv.org/abs/2206.04785v1)|null|
