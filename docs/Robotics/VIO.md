@@ -6,7 +6,7 @@
 |**2022-06-09**|**Comparison Study of Inertial Sensor Signal Combination for Human Activity Recognition based on Convolutional Neural Networks**|Farhad Nazari et.al.|[2206.04480v1](http://arxiv.org/abs/2206.04480v1)|null|
 |**2022-06-09**|**Nematic order condensation and topological defects in inertial active nematics**|Roozbeh Saghatchi et.al.|[2206.04299v1](http://arxiv.org/abs/2206.04299v1)|null|
 |**2022-06-08**|**Quasars with Proper Motions and the Link to Double and Multiple AGNs**|Valeri V. Makarov et.al.|[2206.04148v1](http://arxiv.org/abs/2206.04148v1)|null|
-|**2022-06-08**|**Wavelike nature of the vertical shear instability in global protoplanetary disks**|Eleonora Svanberg et.al.|[2206.03840v1](http://arxiv.org/abs/2206.03840v1)|null|
+|**2022-06-08**|**Wavelike nature of the vertical shear instability in global protoplanetary disks**|Eleonora Svanberg et.al.|[2206.03840v2](http://arxiv.org/abs/2206.03840v2)|null|
 |**2022-06-06**|**Hamiltonian Formalism for dynamics of particles in MOG**|Sohrab Rahvar et.al.|[2206.02453v1](http://arxiv.org/abs/2206.02453v1)|null|
 |**2022-06-04**|**Inertial dynamics of an active Brownian particle**|Jonas Mayer Martins et.al.|[2206.01960v1](http://arxiv.org/abs/2206.01960v1)|null|
 |**2022-06-04**|**Temperature and Velocity Characteristics of Rotating Turbulent Boundary Layers Under Non-Isothermal Conditions**|Zhi Tao et.al.|[2206.01929v1](http://arxiv.org/abs/2206.01929v1)|null|
