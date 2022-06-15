@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation**|Fabio Tosi et.al.|[2206.07047v1](http://arxiv.org/abs/2206.07047v1)|null|
+|**2022-06-14**|**Single-frame characterization of ultrafast pulses with spatiotemporal orbital angular momentum**|Guan Gui et.al.|[2206.06961v1](http://arxiv.org/abs/2206.06961v1)|null|
+|**2022-06-14**|**Confidence Score for Source-Free Unsupervised Domain Adaptation**|Jonghyun Lee et.al.|[2206.06640v1](http://arxiv.org/abs/2206.06640v1)|null|
+|**2022-06-14**|**3D scene reconstruction from monocular spherical video with motion parallax**|Kenji Tanaka et.al.|[2206.06533v1](http://arxiv.org/abs/2206.06533v1)|null|
+|**2022-06-13**|**Skylight: a new code for general-relativistic ray-tracing and radiative transfer in arbitrary spacetimes**|Joaquín Pelle et.al.|[2206.06429v1](http://arxiv.org/abs/2206.06429v1)|null|
 |**2022-06-13**|**Towards Understanding Sharpness-Aware Minimization**|Maksym Andriushchenko et.al.|[2206.06232v1](http://arxiv.org/abs/2206.06232v1)|[link](https://github.com/tml-epfl/understanding-sam)|
 |**2022-06-13**|**A facile approach for phase change material encapsulation into polymeric flexible fibers using microfluidic principles**|Mikel Duran et.al.|[2206.06055v1](http://arxiv.org/abs/2206.06055v1)|null|
 |**2022-06-13**|**GoToNet: Fast Monocular Scene Exposure and Exploration**|Tom Avrech et.al.|[2206.05967v1](http://arxiv.org/abs/2206.05967v1)|null|
@@ -27,8 +32,3 @@
 |**2022-06-08**|**Deep Hierarchical Planning from Pixels**|Danijar Hafner et.al.|[2206.04114v1](http://arxiv.org/abs/2206.04114v1)|null|
 |**2022-06-08**|**Searching for a Hypervelocity White Dwarf Companion: A Proper Motion Survey of SN 1006**|Joshua V. Shields et.al.|[2206.04095v1](http://arxiv.org/abs/2206.04095v1)|null|
 |**2022-06-08**|**Learning Ego 3D Representation as Ray Tracing**|Jiachen Lu et.al.|[2206.04042v1](http://arxiv.org/abs/2206.04042v1)|null|
-|**2022-06-08**|**Direct Triangulation with Spherical Projection for Omnidirectional Cameras**|Ciarán Eising et.al.|[2206.03928v1](http://arxiv.org/abs/2206.03928v1)|null|
-|**2022-06-08**|**PrivHAR: Recognizing Human Actions From Privacy-preserving Lens**|Carlos Hinojosa et.al.|[2206.03891v1](http://arxiv.org/abs/2206.03891v1)|null|
-|**2022-06-08**|**PixSelect: Less but Reliable Pixels for Accurate and Efficient Localization**|Mohammad Altillawi et.al.|[2206.03775v1](http://arxiv.org/abs/2206.03775v1)|null|
-|**2022-06-08**|**Unsupervised Learning of 3D Scene Flow from Monocular Camera**|Guangming Wang et.al.|[2206.03673v1](http://arxiv.org/abs/2206.03673v1)|[link](https://github.com/irmvlab/3dunmonoflow)|
-|**2022-06-07**|**Atmospheric Characterization of Hot Jupiter CoRoT-1 b Using the Wide Field Camera 3 on the Hubble Space Telescope**|Kayli Glidic et.al.|[2206.03517v1](http://arxiv.org/abs/2206.03517v1)|null|

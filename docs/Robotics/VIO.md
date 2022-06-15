@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Fast convergence of inertial dynamics with Hessian-driven damping under geometry assumptions**|J. -F Aujol et.al.|[2206.06853v1](http://arxiv.org/abs/2206.06853v1)|null|
 |**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|[link](https://github.com/ansfl/MEMS-IMU-Denoising)|
 |**2022-06-13**|**LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud**|Yunge Cui et.al.|[2206.05927v1](http://arxiv.org/abs/2206.05927v1)|null|
 |**2022-06-11**|**Non-Newtonian turbulent jets at low-Reynolds number**|Giovanni Soligo et.al.|[2206.05450v1](http://arxiv.org/abs/2206.05450v1)|null|
@@ -31,4 +32,3 @@
 |**2022-05-30**|**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**|Chengfeng Zhao et.al.|[2205.15410v1](http://arxiv.org/abs/2205.15410v1)|null|
 |**2022-05-30**|**Development of a hybrid model-based data-driven collision avoidance algorithm for vehicles in low adhesion conditions**|Olivier Lecompte et.al.|[2205.15178v1](http://arxiv.org/abs/2205.15178v1)|null|
 |**2022-05-30**|**Self-healing (solitonic) slip pulses in frictional systems**|Anna Pomyalov et.al.|[2205.15166v1](http://arxiv.org/abs/2205.15166v1)|null|
-|**2022-05-30**|**Transient Rheology of Immersed Granular Materials**|Zhuan Ge et.al.|[2205.15067v2](http://arxiv.org/abs/2205.15067v2)|null|
