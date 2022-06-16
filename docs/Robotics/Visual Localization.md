@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung et.al.|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|null|
+|**2022-06-15**|**Waymo Open Dataset: Panoramic Video Panoptic Segmentation**|Jieru Mei et.al.|[2206.07704v1](http://arxiv.org/abs/2206.07704v1)|null|
+|**2022-06-15**|**VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids**|Katja Schwarz et.al.|[2206.07695v1](http://arxiv.org/abs/2206.07695v1)|null|
+|**2022-06-15**|**E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations**|Jongwan Kim et.al.|[2206.07578v1](http://arxiv.org/abs/2206.07578v1)|null|
+|**2022-06-15**|**Mutual Visibility by Fat Robots with Slim Omnidirectional Camera**|Kaustav Bose et.al.|[2206.07416v1](http://arxiv.org/abs/2206.07416v1)|null|
+|**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee et.al.|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|null|
+|**2022-06-14**|**Attacks on Perception-Based Control Systems: Modeling and Fundamental Limits**|Amir Khazraei et.al.|[2206.07150v1](http://arxiv.org/abs/2206.07150v1)|null|
 |**2022-06-14**|**RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation**|Fabio Tosi et.al.|[2206.07047v1](http://arxiv.org/abs/2206.07047v1)|null|
 |**2022-06-14**|**Single-frame characterization of ultrafast pulses with spatiotemporal orbital angular momentum**|Guan Gui et.al.|[2206.06961v1](http://arxiv.org/abs/2206.06961v1)|null|
 |**2022-06-14**|**Confidence Score for Source-Free Unsupervised Domain Adaptation**|Jonghyun Lee et.al.|[2206.06640v1](http://arxiv.org/abs/2206.06640v1)|[link](https://github.com/jhyun17/cowa-jmds)|
@@ -25,10 +32,3 @@
 |**2022-06-09**|**Representing Lanes as Arc-length-based Parametric Curves to Facilitate Estimation in Vehicle Control**|Wubing B. Qin et.al.|[2206.04592v1](http://arxiv.org/abs/2206.04592v1)|null|
 |**2022-06-09**|**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**|Shaoyu Chen et.al.|[2206.04584v1](http://arxiv.org/abs/2206.04584v1)|[link](https://github.com/hustvl/gkt)|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
-|**2022-06-09**|**Efficient Human Pose Estimation via 3D Event Point Cloud**|Jiaan Chen et.al.|[2206.04511v1](http://arxiv.org/abs/2206.04511v1)|null|
-|**2022-06-09**|**How Asynchronous Events Encode Video**|Karen Adam et.al.|[2206.04341v1](http://arxiv.org/abs/2206.04341v1)|null|
-|**2022-06-09**|**A No-reference Quality Assessment Metric for Point Cloud Based on Captured Video Sequences**|Yu Fan et.al.|[2206.05054v1](http://arxiv.org/abs/2206.05054v1)|null|
-|**2022-06-08**|**SCAMPS: Synthetics for Camera Measurement of Physiological Signals**|Daniel McDuff et.al.|[2206.04197v1](http://arxiv.org/abs/2206.04197v1)|[link](https://github.com/danmcduff/scampsdataset)|
-|**2022-06-08**|**Deep Hierarchical Planning from Pixels**|Danijar Hafner et.al.|[2206.04114v1](http://arxiv.org/abs/2206.04114v1)|null|
-|**2022-06-08**|**Searching for a Hypervelocity White Dwarf Companion: A Proper Motion Survey of SN 1006**|Joshua V. Shields et.al.|[2206.04095v1](http://arxiv.org/abs/2206.04095v1)|null|
-|**2022-06-08**|**Learning Ego 3D Representation as Ray Tracing**|Jiachen Lu et.al.|[2206.04042v1](http://arxiv.org/abs/2206.04042v1)|null|
