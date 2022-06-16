@@ -2,12 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung et.al.|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|null|
+|**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung et.al.|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|[link](https://github.com/waymo-research/waymo-open-dataset)|
 |**2022-06-15**|**Waymo Open Dataset: Panoramic Video Panoptic Segmentation**|Jieru Mei et.al.|[2206.07704v1](http://arxiv.org/abs/2206.07704v1)|null|
 |**2022-06-15**|**VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids**|Katja Schwarz et.al.|[2206.07695v1](http://arxiv.org/abs/2206.07695v1)|null|
 |**2022-06-15**|**E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations**|Jongwan Kim et.al.|[2206.07578v1](http://arxiv.org/abs/2206.07578v1)|null|
 |**2022-06-15**|**Mutual Visibility by Fat Robots with Slim Omnidirectional Camera**|Kaustav Bose et.al.|[2206.07416v1](http://arxiv.org/abs/2206.07416v1)|null|
-|**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee et.al.|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|null|
+|**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee et.al.|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|[link](https://github.com/bluedream1121/self-sca-ori)|
 |**2022-06-14**|**Attacks on Perception-Based Control Systems: Modeling and Fundamental Limits**|Amir Khazraei et.al.|[2206.07150v1](http://arxiv.org/abs/2206.07150v1)|null|
 |**2022-06-14**|**RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation**|Fabio Tosi et.al.|[2206.07047v1](http://arxiv.org/abs/2206.07047v1)|null|
 |**2022-06-14**|**Single-frame characterization of ultrafast pulses with spatiotemporal orbital angular momentum**|Guan Gui et.al.|[2206.06961v1](http://arxiv.org/abs/2206.06961v1)|null|
