@@ -28,7 +28,7 @@
 |**2022-06-10**|**Globally-Optimal Contrast Maximisation for Event Cameras**|Xin Peng et.al.|[2206.05127v1](http://arxiv.org/abs/2206.05127v1)|null|
 |**2022-06-10**|**Tailored frequency conversion makes infrared light visible for streak cameras**|Carolin Lüders et.al.|[2206.05074v1](http://arxiv.org/abs/2206.05074v1)|null|
 |**2022-06-09**|**Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation**|Jinman Park et.al.|[2206.04785v1](http://arxiv.org/abs/2206.04785v1)|null|
-|**2022-06-09**|**Autonomous Precision Drone Landing with Fiducial Markers and a Gimbal-Mounted Camera for Active Tracking**|Joshua Springer et.al.|[2206.04617v1](http://arxiv.org/abs/2206.04617v1)|null|
+|**2022-06-09**|**Autonomous Precision Drone Landing with Fiducial Markers and a Gimbal-Mounted Camera for Active Tracking**|Joshua Springer et.al.|[2206.04617v2](http://arxiv.org/abs/2206.04617v2)|null|
 |**2022-06-09**|**Representing Lanes as Arc-length-based Parametric Curves to Facilitate Estimation in Vehicle Control**|Wubing B. Qin et.al.|[2206.04592v1](http://arxiv.org/abs/2206.04592v1)|null|
 |**2022-06-09**|**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**|Shaoyu Chen et.al.|[2206.04584v1](http://arxiv.org/abs/2206.04584v1)|[link](https://github.com/hustvl/gkt)|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-16 21:33:13 Asia/Shanghai
+ Automated deployment @ 2022-06-17 08:32:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-14**|**Fast convergence of inertial dynamics with Hessian-driven damping under geometry assumptions**|J. -F Aujol et.al.|[2206.06853v1](http://arxiv.org/abs/2206.06853v1)|null|
+|**2022-06-14**|**Fast convergence of inertial dynamics with Hessian-driven damping under geometry assumptions**|Jean-François Aujol et.al.|[2206.06853v2](http://arxiv.org/abs/2206.06853v2)|null|
 |**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|[link](https://github.com/ansfl/MEMS-IMU-Denoising)|
 |**2022-06-13**|**LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud**|Yunge Cui et.al.|[2206.05927v1](http://arxiv.org/abs/2206.05927v1)|null|
 |**2022-06-11**|**Non-Newtonian turbulent jets at low-Reynolds number**|Giovanni Soligo et.al.|[2206.05450v1](http://arxiv.org/abs/2206.05450v1)|null|
@@ -136,7 +136,7 @@
 |**2022-06-10**|**Globally-Optimal Contrast Maximisation for Event Cameras**|Xin Peng et.al.|[2206.05127v1](http://arxiv.org/abs/2206.05127v1)|null|
 |**2022-06-10**|**Tailored frequency conversion makes infrared light visible for streak cameras**|Carolin Lüders et.al.|[2206.05074v1](http://arxiv.org/abs/2206.05074v1)|null|
 |**2022-06-09**|**Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation**|Jinman Park et.al.|[2206.04785v1](http://arxiv.org/abs/2206.04785v1)|null|
-|**2022-06-09**|**Autonomous Precision Drone Landing with Fiducial Markers and a Gimbal-Mounted Camera for Active Tracking**|Joshua Springer et.al.|[2206.04617v1](http://arxiv.org/abs/2206.04617v1)|null|
+|**2022-06-09**|**Autonomous Precision Drone Landing with Fiducial Markers and a Gimbal-Mounted Camera for Active Tracking**|Joshua Springer et.al.|[2206.04617v2](http://arxiv.org/abs/2206.04617v2)|null|
 |**2022-06-09**|**Representing Lanes as Arc-length-based Parametric Curves to Facilitate Estimation in Vehicle Control**|Wubing B. Qin et.al.|[2206.04592v1](http://arxiv.org/abs/2206.04592v1)|null|
 |**2022-06-09**|**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**|Shaoyu Chen et.al.|[2206.04584v1](http://arxiv.org/abs/2206.04584v1)|[link](https://github.com/hustvl/gkt)|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg et.al.|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
