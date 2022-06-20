@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**SwarmHawk: Self-Sustaining Multi-Agent System for Landing on a Moving Platform through an Agent Supervision**|Ayush Gupta et.al.|[2206.08874v1](http://arxiv.org/abs/2206.08874v1)|null|
+|**2022-06-17**|**SwarmHive: Heterogeneous Swarm of Drones for Robust Autonomous Landing on Moving Robot**|Ayush Gupta et.al.|[2206.08856v1](http://arxiv.org/abs/2206.08856v1)|null|
+|**2022-06-17**|**Texture Generation Using Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v1](http://arxiv.org/abs/2206.08547v1)|null|
+|**2022-06-16**|**EyeNeRF: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes**|Gengyan Li et.al.|[2206.08428v1](http://arxiv.org/abs/2206.08428v1)|null|
+|**2022-06-16**|**IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes**|Rui Zhu et.al.|[2206.08423v1](http://arxiv.org/abs/2206.08423v1)|null|
+|**2022-06-16**|**Tri-Functional Metasurface for Phase, Amplitude, and Luminescence Control**|Soroosh Daqiqeh Rezaei et.al.|[2206.08393v1](http://arxiv.org/abs/2206.08393v1)|null|
 |**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma et.al.|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
 |**2022-06-16**|**On the Surprising Behaviour of node2vec**|Celia Hacker et.al.|[2206.08252v1](http://arxiv.org/abs/2206.08252v1)|[link](https://github.com/aidos-lab/node2vec-surprises)|
 |**2022-06-16**|**Level 2 Autonomous Driving on a Single Device: Diving into the Devils of Openpilot**|Li Chen et.al.|[2206.08176v1](http://arxiv.org/abs/2206.08176v1)|[link](https://github.com/openperceptionx/openpilot-deepdive)|
@@ -26,9 +32,3 @@
 |**2022-06-14**|**Single-frame characterization of ultrafast pulses with spatiotemporal orbital angular momentum**|Guan Gui et.al.|[2206.06961v1](http://arxiv.org/abs/2206.06961v1)|null|
 |**2022-06-14**|**Confidence Score for Source-Free Unsupervised Domain Adaptation**|Jonghyun Lee et.al.|[2206.06640v1](http://arxiv.org/abs/2206.06640v1)|[link](https://github.com/jhyun17/cowa-jmds)|
 |**2022-06-14**|**3D scene reconstruction from monocular spherical video with motion parallax**|Kenji Tanaka et.al.|[2206.06533v1](http://arxiv.org/abs/2206.06533v1)|null|
-|**2022-06-13**|**Skylight: a new code for general-relativistic ray-tracing and radiative transfer in arbitrary spacetimes**|Joaquín Pelle et.al.|[2206.06429v1](http://arxiv.org/abs/2206.06429v1)|null|
-|**2022-06-13**|**Towards Understanding Sharpness-Aware Minimization**|Maksym Andriushchenko et.al.|[2206.06232v1](http://arxiv.org/abs/2206.06232v1)|[link](https://github.com/tml-epfl/understanding-sam)|
-|**2022-06-13**|**A facile approach for phase change material encapsulation into polymeric flexible fibers using microfluidic principles**|Mikel Duran et.al.|[2206.06055v1](http://arxiv.org/abs/2206.06055v1)|null|
-|**2022-06-13**|**GoToNet: Fast Monocular Scene Exposure and Exploration**|Tom Avrech et.al.|[2206.05967v1](http://arxiv.org/abs/2206.05967v1)|null|
-|**2022-06-13**|**Fluorescence angiography classification in colorectal surgery -- A preliminary report**|Antonio S Soares et.al.|[2206.05935v1](http://arxiv.org/abs/2206.05935v1)|null|
-|**2022-06-13**|**TC-SfM: Robust Track-Community-Based Structure-from-Motion**|Lei Wang et.al.|[2206.05866v1](http://arxiv.org/abs/2206.05866v1)|null|

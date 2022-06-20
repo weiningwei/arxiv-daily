@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
+|**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|
+|**2022-06-17**|**ATOMS: ALMA Three-millimeter Observations of Massive Star-forming regions -- XI. From inflow to infall in hub-filament systems**|Jian-Wen Zhou et.al.|[2206.08505v1](http://arxiv.org/abs/2206.08505v1)|null|
 |**2022-06-16**|**Closed-loop Position Control of a Pediatric Soft Robotic Wearable Device for Upper Extremity Assistance**|Caio Mucchiani et.al.|[2206.08292v1](http://arxiv.org/abs/2206.08292v1)|null|
 |**2022-06-14**|**Fast convergence of inertial dynamics with Hessian-driven damping under geometry assumptions**|Jean-François Aujol et.al.|[2206.06853v2](http://arxiv.org/abs/2206.06853v2)|null|
 |**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|[link](https://github.com/ansfl/MEMS-IMU-Denoising)|
@@ -29,6 +32,3 @@
 |**2022-06-01**|**Visual Navigation for Autonomous Vehicles: An Open-source Hands-on Robotics Course at MIT**|Luca Carlone et.al.|[2206.00777v1](http://arxiv.org/abs/2206.00777v1)|null|
 |**2022-06-01**|**Essential Fierz identities for a fermionic field**|Roberto Dale et.al.|[2206.00639v1](http://arxiv.org/abs/2206.00639v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|[link](https://github.com/url-kaist/alterground-lego-loam)|
-|**2022-06-01**|**Optimizing the Mean Swimming Velocity of a Model Two-sphere Swimmer**|B. U. Felderhof et.al.|[2206.05272v1](http://arxiv.org/abs/2206.05272v1)|null|
-|**2022-05-30**|**LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors**|Chengfeng Zhao et.al.|[2205.15410v1](http://arxiv.org/abs/2205.15410v1)|null|
-|**2022-05-30**|**Development of a hybrid model-based data-driven collision avoidance algorithm for vehicles in low adhesion conditions**|Olivier Lecompte et.al.|[2205.15178v1](http://arxiv.org/abs/2205.15178v1)|null|
