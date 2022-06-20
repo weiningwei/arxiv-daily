@@ -16,7 +16,7 @@
 |**2022-06-15**|**Hybrid full-field thermal characterization of additive manufacturing processes using physics-informed neural networks with data**|Shuheng Liao et.al.|[2206.07756v1](http://arxiv.org/abs/2206.07756v1)|[link](https://github.com/shuhengliao/physics_informed_am)|
 |**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung et.al.|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|[link](https://github.com/waymo-research/waymo-open-dataset)|
 |**2022-06-15**|**Waymo Open Dataset: Panoramic Video Panoptic Segmentation**|Jieru Mei et.al.|[2206.07704v1](http://arxiv.org/abs/2206.07704v1)|null|
-|**2022-06-15**|**VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids**|Katja Schwarz et.al.|[2206.07695v1](http://arxiv.org/abs/2206.07695v1)|null|
+|**2022-06-15**|**VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids**|Katja Schwarz et.al.|[2206.07695v2](http://arxiv.org/abs/2206.07695v2)|null|
 |**2022-06-15**|**E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations**|Jongwan Kim et.al.|[2206.07578v1](http://arxiv.org/abs/2206.07578v1)|null|
 |**2022-06-15**|**Mutual Visibility by Fat Robots with Slim Omnidirectional Camera**|Kaustav Bose et.al.|[2206.07416v1](http://arxiv.org/abs/2206.07416v1)|null|
 |**2022-06-15**|**i-FlatCam: A 253 FPS, 91.49 $μ$J/Frame Ultra-Compact Intelligent Lensless Camera for Real-Time and Efficient Eye Tracking in VR/AR**|Yang Zhao et.al.|[2206.08141v1](http://arxiv.org/abs/2206.08141v1)|null|
