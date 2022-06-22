@@ -6,7 +6,7 @@
 |**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|
 |**2022-06-17**|**ATOMS: ALMA Three-millimeter Observations of Massive Star-forming regions -- XI. From inflow to infall in hub-filament systems**|Jian-Wen Zhou et.al.|[2206.08505v1](http://arxiv.org/abs/2206.08505v1)|null|
 |**2022-06-16**|**Closed-loop Position Control of a Pediatric Soft Robotic Wearable Device for Upper Extremity Assistance**|Caio Mucchiani et.al.|[2206.08292v1](http://arxiv.org/abs/2206.08292v1)|null|
-|**2022-06-14**|**Fast convergence of inertial dynamics with Hessian-driven damping under geometry assumptions**|Jean-François Aujol et.al.|[2206.06853v2](http://arxiv.org/abs/2206.06853v2)|null|
+|**2022-06-14**|**Fast convergence of inertial dynamics with Hessian-driven damping under geometry assumptions**|Jean-François Aujol et.al.|[2206.06853v3](http://arxiv.org/abs/2206.06853v3)|null|
 |**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|[link](https://github.com/ansfl/MEMS-IMU-Denoising)|
 |**2022-06-13**|**LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud**|Yunge Cui et.al.|[2206.05927v1](http://arxiv.org/abs/2206.05927v1)|null|
 |**2022-06-11**|**Non-Newtonian turbulent jets at low-Reynolds number**|Giovanni Soligo et.al.|[2206.05450v1](http://arxiv.org/abs/2206.05450v1)|null|
