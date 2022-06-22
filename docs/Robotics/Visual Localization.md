@@ -2,6 +2,28 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-21**|**EpiGRAF: Rethinking training of 3D GANs**|Ivan Skorokhodov et.al.|[2206.10535v1](http://arxiv.org/abs/2206.10535v1)|null|
+|**2022-06-21**|**Flaring-associated Complex Dynamics in Two M-dwarfs Revealed by Fast, Time-resolved Spectroscopy**|J. Wang et.al.|[2206.10412v1](http://arxiv.org/abs/2206.10412v1)|null|
+|**2022-06-21**|**Attention-driven Active Vision for Efficient Reconstruction of Plants and Targeted Plant Parts**|Akshay K. Burusa et.al.|[2206.10274v1](http://arxiv.org/abs/2206.10274v1)|null|
+|**2022-06-21**|**GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles**|Jianan Liu et.al.|[2206.10255v1](http://arxiv.org/abs/2206.10255v1)|null|
+|**2022-06-21**|**Experimental Evaluation of Pose Initialization Methods for Relative Navigation Between Non-Cooperative Satellites**|Sebastiano Chiodini et.al.|[2206.10244v1](http://arxiv.org/abs/2206.10244v1)|null|
+|**2022-06-21**|**Reconstruct from Top View: A 3D Lane Detection Approach based on Geometry Structure Prior**|Chenguang Li et.al.|[2206.10098v1](http://arxiv.org/abs/2206.10098v1)|null|
+|**2022-06-21**|**BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection**|Yinhao Li et.al.|[2206.10092v1](http://arxiv.org/abs/2206.10092v1)|null|
+|**2022-06-20**|**Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world**|Eugene Vinitsky et.al.|[2206.09889v1](http://arxiv.org/abs/2206.09889v1)|[link](https://github.com/facebookresearch/nocturne)|
+|**2022-06-20**|**Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras**|Zhengxia Zou et.al.|[2206.09770v1](http://arxiv.org/abs/2206.09770v1)|null|
+|**2022-06-20**|**Developing a Free and Open-source Automated Building Exterior Crack Inspection Software for Construction and Facility Managers**|Pi Ko et.al.|[2206.09742v1](http://arxiv.org/abs/2206.09742v1)|null|
+|**2022-06-20**|**Perihelion Activity of (3200) Phaethon Is Not Dusty**|Man-To Hui et.al.|[2206.09704v1](http://arxiv.org/abs/2206.09704v1)|null|
+|**2022-06-20**|**SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles**|Chejian Xu et.al.|[2206.09682v1](http://arxiv.org/abs/2206.09682v1)|null|
+|**2022-06-19**|**Video frame interpolation for high dynamic range sequences captured with dual-exposure sensors**|Ugur Cogalan et.al.|[2206.09485v1](http://arxiv.org/abs/2206.09485v1)|null|
+|**2022-06-19**|**3D Object Detection for Autonomous Driving: A Review and New Outlooks**|Jiageng Mao et.al.|[2206.09474v1](http://arxiv.org/abs/2206.09474v1)|null|
+|**2022-06-19**|**Object Localization Assistive System Based on CV and Vibrotactile Encoding**|Zhikai Wei et.al.|[2206.09432v1](http://arxiv.org/abs/2206.09432v1)|null|
+|**2022-06-19**|**Towards Generalizable Person Re-identification with a Bi-stream Generative Model**|Xin Xu et.al.|[2206.09362v1](http://arxiv.org/abs/2206.09362v1)|null|
+|**2022-06-18**|**Structured Light with Redundancy Codes**|Zhanghao Sun et.al.|[2206.09243v1](http://arxiv.org/abs/2206.09243v1)|null|
+|**2022-06-18**|**Camera Adaptation for Fundus-Image-Based CVD Risk Estimation**|Zhihong Lin et.al.|[2206.09202v1](http://arxiv.org/abs/2206.09202v1)|null|
+|**2022-06-18**|**Embodied Scene-aware Human Pose Estimation**|Zhengyi Luo et.al.|[2206.09106v1](http://arxiv.org/abs/2206.09106v1)|null|
+|**2022-06-18**|**A Dynamic Data Driven Approach for Explainable Scene Understanding**|Zachary A Daniels et.al.|[2206.09089v1](http://arxiv.org/abs/2206.09089v1)|null|
+|**2022-06-17**|**Validation of Vector Data using Oblique Images**|Pragyana Mishra et.al.|[2206.09038v1](http://arxiv.org/abs/2206.09038v1)|null|
+|**2022-06-17**|**Laboratory Demonstration of Real-Time Focal Plane Wavefront Control of Residual Atmospheric Speckles**|Benjamin L. Gerard et.al.|[2206.08986v1](http://arxiv.org/abs/2206.08986v1)|null|
 |**2022-06-17**|**SwarmHawk: Self-Sustaining Multi-Agent System for Landing on a Moving Platform through an Agent Supervision**|Ayush Gupta et.al.|[2206.08874v1](http://arxiv.org/abs/2206.08874v1)|null|
 |**2022-06-17**|**SwarmHive: Heterogeneous Swarm of Drones for Robust Autonomous Landing on Moving Robot**|Ayush Gupta et.al.|[2206.08856v1](http://arxiv.org/abs/2206.08856v1)|null|
 |**2022-06-17**|**Texture Generation Using Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v1](http://arxiv.org/abs/2206.08547v1)|null|
@@ -10,25 +32,3 @@
 |**2022-06-16**|**Tri-Functional Metasurface for Phase, Amplitude, and Luminescence Control**|Soroosh Daqiqeh Rezaei et.al.|[2206.08393v1](http://arxiv.org/abs/2206.08393v1)|null|
 |**2022-06-16**|**Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**|Wei-Chiu Ma et.al.|[2206.08365v1](http://arxiv.org/abs/2206.08365v1)|null|
 |**2022-06-16**|**On the Surprising Behaviour of node2vec**|Celia Hacker et.al.|[2206.08252v1](http://arxiv.org/abs/2206.08252v1)|[link](https://github.com/aidos-lab/node2vec-surprises)|
-|**2022-06-16**|**Level 2 Autonomous Driving on a Single Device: Diving into the Devils of Openpilot**|Li Chen et.al.|[2206.08176v1](http://arxiv.org/abs/2206.08176v1)|[link](https://github.com/openperceptionx/openpilot-deepdive)|
-|**2022-06-16**|**K-Radar: 4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions**|Dong-Hee Paek et.al.|[2206.08171v1](http://arxiv.org/abs/2206.08171v1)|null|
-|**2022-06-16**|**Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline**|Penghao Wu et.al.|[2206.08129v1](http://arxiv.org/abs/2206.08129v1)|[link](https://github.com/OpenPerceptionX/TCP)|
-|**2022-06-16**|**Neural Scene Representation for Locomotion on Structured Terrain**|David Hoeller et.al.|[2206.08077v1](http://arxiv.org/abs/2206.08077v1)|null|
-|**2022-06-16**|**DeepFormableTag: End-to-end Generation and Recognition of Deformable Fiducial Markers**|Mustafa B. Yaldiz et.al.|[2206.08026v1](http://arxiv.org/abs/2206.08026v1)|[link](https://github.com/KAIST-VCLAB/DeepFormableTag)|
-|**2022-06-16**|**A Simple Baseline for BEV Perception Without LiDAR**|Adam W. Harley et.al.|[2206.07959v1](http://arxiv.org/abs/2206.07959v1)|null|
-|**2022-06-16**|**Observation of activity prior to dielectric breakdown in liquid xenon with the XeBrA experiment**|J. Watson et.al.|[2206.07854v1](http://arxiv.org/abs/2206.07854v1)|null|
-|**2022-06-15**|**What makes domain generalization hard?**|Spandan Madan et.al.|[2206.07802v1](http://arxiv.org/abs/2206.07802v1)|null|
-|**2022-06-15**|**SAVi++: Towards End-to-End Object-Centric Learning from Real-World Videos**|Gamaleldin F. Elsayed et.al.|[2206.07764v1](http://arxiv.org/abs/2206.07764v1)|null|
-|**2022-06-15**|**Hybrid full-field thermal characterization of additive manufacturing processes using physics-informed neural networks with data**|Shuheng Liao et.al.|[2206.07756v1](http://arxiv.org/abs/2206.07756v1)|[link](https://github.com/shuhengliao/physics_informed_am)|
-|**2022-06-15**|**LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**|Wei-Chih Hung et.al.|[2206.07705v1](http://arxiv.org/abs/2206.07705v1)|[link](https://github.com/waymo-research/waymo-open-dataset)|
-|**2022-06-15**|**Waymo Open Dataset: Panoramic Video Panoptic Segmentation**|Jieru Mei et.al.|[2206.07704v1](http://arxiv.org/abs/2206.07704v1)|null|
-|**2022-06-15**|**VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids**|Katja Schwarz et.al.|[2206.07695v2](http://arxiv.org/abs/2206.07695v2)|null|
-|**2022-06-15**|**E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations**|Jongwan Kim et.al.|[2206.07578v1](http://arxiv.org/abs/2206.07578v1)|null|
-|**2022-06-15**|**Mutual Visibility by Fat Robots with Slim Omnidirectional Camera**|Kaustav Bose et.al.|[2206.07416v1](http://arxiv.org/abs/2206.07416v1)|null|
-|**2022-06-15**|**i-FlatCam: A 253 FPS, 91.49 $μ$J/Frame Ultra-Compact Intelligent Lensless Camera for Real-Time and Efficient Eye Tracking in VR/AR**|Yang Zhao et.al.|[2206.08141v1](http://arxiv.org/abs/2206.08141v1)|null|
-|**2022-06-15**|**Self-Supervised Learning of Image Scale and Orientation**|Jongmin Lee et.al.|[2206.07259v1](http://arxiv.org/abs/2206.07259v1)|[link](https://github.com/bluedream1121/self-sca-ori)|
-|**2022-06-14**|**Attacks on Perception-Based Control Systems: Modeling and Fundamental Limits**|Amir Khazraei et.al.|[2206.07150v1](http://arxiv.org/abs/2206.07150v1)|null|
-|**2022-06-14**|**RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation**|Fabio Tosi et.al.|[2206.07047v1](http://arxiv.org/abs/2206.07047v1)|null|
-|**2022-06-14**|**Single-frame characterization of ultrafast pulses with spatiotemporal orbital angular momentum**|Guan Gui et.al.|[2206.06961v1](http://arxiv.org/abs/2206.06961v1)|null|
-|**2022-06-14**|**Confidence Score for Source-Free Unsupervised Domain Adaptation**|Jonghyun Lee et.al.|[2206.06640v1](http://arxiv.org/abs/2206.06640v1)|[link](https://github.com/jhyun17/cowa-jmds)|
-|**2022-06-14**|**3D scene reconstruction from monocular spherical video with motion parallax**|Kenji Tanaka et.al.|[2206.06533v1](http://arxiv.org/abs/2206.06533v1)|null|

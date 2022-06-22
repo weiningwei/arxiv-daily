@@ -2,6 +2,17 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-21**|**On the emergent origin of the inertial mass**|Ricardo Gallego Torromé et.al.|[2206.10582v1](http://arxiv.org/abs/2206.10582v1)|null|
+|**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
+|**2022-06-20**|**Assessment of the Center of Inertia and Regional Inertia with Load Contribution via a Fully Data-Driven Method**|Lucas Lugnani et.al.|[2206.10036v1](http://arxiv.org/abs/2206.10036v1)|null|
+|**2022-06-20**|**Quaternion variational integration for inertial manoeuvring in a biomimetic UAV**|Arion Pons et.al.|[2206.09847v1](http://arxiv.org/abs/2206.09847v1)|null|
+|**2022-06-19**|**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**|Lan Wu et.al.|[2206.09506v1](http://arxiv.org/abs/2206.09506v1)|null|
+|**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
+|**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
+|**2022-06-18**|**High Resolution Point Clouds from mmWave Radar**|Akarsh Prabhakara et.al.|[2206.09273v1](http://arxiv.org/abs/2206.09273v1)|null|
+|**2022-06-18**|**Closed-form Error Propagation on the SE_n(3) Group for Invariant Extended Kalman Filtering with Applications to VINS**|Xinghan Li et.al.|[2206.09100v1](http://arxiv.org/abs/2206.09100v1)|null|
+|**2022-06-18**|**Augmented Imagefication: A Data-driven Fault Detection Method for Aircraft Air Data Sensors**|Hang Zhao et.al.|[2206.09055v1](http://arxiv.org/abs/2206.09055v1)|null|
+|**2022-06-17**|**Discrete-time Rigid Body Pose Estimation based on Lagrange-d'Alembert principle**|Maulik Bhatt et.al.|[2206.08960v1](http://arxiv.org/abs/2206.08960v1)|null|
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
 |**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|
 |**2022-06-17**|**ATOMS: ALMA Three-millimeter Observations of Massive Star-forming regions -- XI. From inflow to infall in hub-filament systems**|Jian-Wen Zhou et.al.|[2206.08505v1](http://arxiv.org/abs/2206.08505v1)|null|
@@ -21,14 +32,3 @@
 |**2022-06-06**|**Hamiltonian Formalism for dynamics of particles in MOG**|Sohrab Rahvar et.al.|[2206.02453v1](http://arxiv.org/abs/2206.02453v1)|null|
 |**2022-06-04**|**Inertial dynamics of an active Brownian particle**|Jonas Mayer Martins et.al.|[2206.01960v1](http://arxiv.org/abs/2206.01960v1)|null|
 |**2022-06-04**|**Temperature and Velocity Characteristics of Rotating Turbulent Boundary Layers Under Non-Isothermal Conditions**|Zhi Tao et.al.|[2206.01929v1](http://arxiv.org/abs/2206.01929v1)|null|
-|**2022-06-03**|**Wake and aeroelasticity of a flexible pitching foil**|Juan D'Adamo et.al.|[2206.01647v1](http://arxiv.org/abs/2206.01647v1)|null|
-|**2022-06-03**|**Unsupervised Discovery of Non-Linear Plasma Physics using Differentiable Kinetic Simulations**|Archis S. Joglekar et.al.|[2206.01637v1](http://arxiv.org/abs/2206.01637v1)|null|
-|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|[link](https://github.com/maps-lab/odombeyondvision)|
-|**2022-06-02**|**Machine Learning for Detection of 3D Features using sparse X-ray data**|Bradley T. Wolfe et.al.|[2206.02564v1](http://arxiv.org/abs/2206.02564v1)|null|
-|**2022-06-02**|**Impact of Frequency Support by Wind Turbines on Small-Signal Stability of Power Systems**|Antonio Pepiciello et.al.|[2206.01237v1](http://arxiv.org/abs/2206.01237v1)|null|
-|**2022-06-02**|**AtoMEC: an open-source average-atom Python code**|Timothy J. Callow et.al.|[2206.01074v1](http://arxiv.org/abs/2206.01074v1)|[link](https://github.com/atomec-project/atoMEC)|
-|**2022-06-02**|**Impact drag force exerting on a projectile penetrating into a hierarchical granular bed**|F. Okubo et.al.|[2206.01037v1](http://arxiv.org/abs/2206.01037v1)|null|
-|**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v2](http://arxiv.org/abs/2206.00997v2)|[link](https://github.com/rpartsey/pointgoal-navigation)|
-|**2022-06-01**|**Visual Navigation for Autonomous Vehicles: An Open-source Hands-on Robotics Course at MIT**|Luca Carlone et.al.|[2206.00777v1](http://arxiv.org/abs/2206.00777v1)|null|
-|**2022-06-01**|**Essential Fierz identities for a fermionic field**|Roberto Dale et.al.|[2206.00639v1](http://arxiv.org/abs/2206.00639v1)|null|
-|**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|[link](https://github.com/url-kaist/alterground-lego-loam)|
