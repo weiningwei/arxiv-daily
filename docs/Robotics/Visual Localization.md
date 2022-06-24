@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
+|**2022-06-23**|**Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space**|Jinghuan Shang et.al.|[2206.11895v1](http://arxiv.org/abs/2206.11895v1)|null|
+|**2022-06-23**|**Quality Control of Image Sensors using Gaseous Tritium Light Sources**|David McFadden et.al.|[2206.11838v1](http://arxiv.org/abs/2206.11838v1)|null|
+|**2022-06-23**|**Corrosion Monitoring On Zinc Electroplated Steel Using Shortwave Infrared Hyperspectral Imaging**|Thomas De Kerf et.al.|[2206.11592v1](http://arxiv.org/abs/2206.11592v1)|null|
+|**2022-06-22**|**Real-Time Online Skeleton Extraction and Gesture Recognition on Pepper**|Axel Lefrant et.al.|[2206.11376v1](http://arxiv.org/abs/2206.11376v1)|null|
+|**2022-06-22**|**Monocular Spherical Depth Estimation with Explicitly Connected Weak Layout Cues**|Nikolaos Zioulis et.al.|[2206.11358v1](http://arxiv.org/abs/2206.11358v1)|null|
+|**2022-06-22**|**Vision- and tactile-based continuous multimodal intention and attention recognition for safer physical human-robot interaction**|Christopher Yee Wong et.al.|[2206.11350v1](http://arxiv.org/abs/2206.11350v1)|null|
 |**2022-06-22**|**Event-Based Imaging of Levitated Microparticles**|Yugang Ren et.al.|[2206.11220v1](http://arxiv.org/abs/2206.11220v1)|null|
 |**2022-06-22**|**A High Resolution Multi-exposure Stereoscopic Image & Video Database of Natural Scenes**|Rohit Choudhary et.al.|[2206.11095v1](http://arxiv.org/abs/2206.11095v1)|null|
 |**2022-06-22**|**Hierarchical Sampling based Particle Filter for Visual-inertial Gimbal in the Wild**|Xueyang Kang et.al.|[2206.10981v1](http://arxiv.org/abs/2206.10981v1)|null|
@@ -25,10 +32,3 @@
 |**2022-06-20**|**SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles**|Chejian Xu et.al.|[2206.09682v1](http://arxiv.org/abs/2206.09682v1)|null|
 |**2022-06-19**|**Video frame interpolation for high dynamic range sequences captured with dual-exposure sensors**|Ugur Cogalan et.al.|[2206.09485v1](http://arxiv.org/abs/2206.09485v1)|null|
 |**2022-06-19**|**3D Object Detection for Autonomous Driving: A Review and New Outlooks**|Jiageng Mao et.al.|[2206.09474v1](http://arxiv.org/abs/2206.09474v1)|[link](https://github.com/pointscoder/awesome-3d-object-detection-for-autonomous-driving)|
-|**2022-06-19**|**Object Localization Assistive System Based on CV and Vibrotactile Encoding**|Zhikai Wei et.al.|[2206.09432v1](http://arxiv.org/abs/2206.09432v1)|null|
-|**2022-06-19**|**Towards Generalizable Person Re-identification with a Bi-stream Generative Model**|Xin Xu et.al.|[2206.09362v1](http://arxiv.org/abs/2206.09362v1)|null|
-|**2022-06-18**|**Structured Light with Redundancy Codes**|Zhanghao Sun et.al.|[2206.09243v1](http://arxiv.org/abs/2206.09243v1)|null|
-|**2022-06-18**|**Camera Adaptation for Fundus-Image-Based CVD Risk Estimation**|Zhihong Lin et.al.|[2206.09202v1](http://arxiv.org/abs/2206.09202v1)|null|
-|**2022-06-18**|**Embodied Scene-aware Human Pose Estimation**|Zhengyi Luo et.al.|[2206.09106v1](http://arxiv.org/abs/2206.09106v1)|null|
-|**2022-06-18**|**A Dynamic Data Driven Approach for Explainable Scene Understanding**|Zachary A Daniels et.al.|[2206.09089v1](http://arxiv.org/abs/2206.09089v1)|null|
-|**2022-06-17**|**Validation of Vector Data using Oblique Images**|Pragyana Mishra et.al.|[2206.09038v1](http://arxiv.org/abs/2206.09038v1)|null|

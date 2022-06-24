@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-23**|**A possible fluid interpretation and tidal force equation on a generic null hypersurface in Einstein-Cartan theory**|Sumit Dey et.al.|[2206.11875v1](http://arxiv.org/abs/2206.11875v1)|null|
+|**2022-06-23**|**Dynamics of Topological Defects in the noisy Kuramoto Model in two dimensions**|Ylann Rouzaire et.al.|[2206.11730v1](http://arxiv.org/abs/2206.11730v1)|null|
+|**2022-06-23**|**Microscopic foundation of the $μ$(I) rheology for dense granular flows on inclined planes**|Denis Dumont et.al.|[2206.11633v1](http://arxiv.org/abs/2206.11633v1)|null|
+|**2022-06-23**|**A Neuromorphic Vision-Based Measurement for Robust Relative Localization in Future Space Exploration Missions**|Mohammed Salah et.al.|[2206.11541v1](http://arxiv.org/abs/2206.11541v1)|null|
+|**2022-06-23**|**Reconciling Parker Solar Probe observations and magnetohydrodynamic theory: à la Kolmogorov vs. à la Kraichnan scale-invariance**|Tommaso Alberti et.al.|[2206.11514v1](http://arxiv.org/abs/2206.11514v1)|null|
+|**2022-06-23**|**Image-based Stability Quantification**|Jesse Scott et.al.|[2206.11443v1](http://arxiv.org/abs/2206.11443v1)|null|
 |**2022-06-22**|**Hierarchical Sampling based Particle Filter for Visual-inertial Gimbal in the Wild**|Xueyang Kang et.al.|[2206.10981v1](http://arxiv.org/abs/2206.10981v1)|null|
 |**2022-06-21**|**On the emergent origin of the inertial mass**|Ricardo Gallego Torromé et.al.|[2206.10582v1](http://arxiv.org/abs/2206.10582v1)|null|
 |**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
@@ -26,9 +32,3 @@
 |**2022-06-10**|**Onsager Theory of Turbulence, the Josephson-Anderson Relation, and the D'Alembert Paradox**|Hao Quan et.al.|[2206.05326v1](http://arxiv.org/abs/2206.05326v1)|null|
 |**2022-06-10**|**Inertial Momentum Dissipation for Viscosity Solutions of Euler Equations. I. Flow Around a Smooth Body**|Hao Quan et.al.|[2206.05325v1](http://arxiv.org/abs/2206.05325v1)|null|
 |**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona et.al.|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|[link](https://github.com/cifasis/slam_agricultural_evaluation)|
-|**2022-06-09**|**Comparison Study of Inertial Sensor Signal Combination for Human Activity Recognition based on Convolutional Neural Networks**|Farhad Nazari et.al.|[2206.04480v1](http://arxiv.org/abs/2206.04480v1)|null|
-|**2022-06-09**|**Nematic order condensation and topological defects in inertial active nematics**|Roozbeh Saghatchi et.al.|[2206.04299v1](http://arxiv.org/abs/2206.04299v1)|null|
-|**2022-06-08**|**Quasars with Proper Motions and the Link to Double and Multiple AGNs**|Valeri V. Makarov et.al.|[2206.04148v1](http://arxiv.org/abs/2206.04148v1)|null|
-|**2022-06-08**|**Wavelike nature of the vertical shear instability in global protoplanetary disks**|Eleonora Svanberg et.al.|[2206.03840v2](http://arxiv.org/abs/2206.03840v2)|null|
-|**2022-06-06**|**Hamiltonian Formalism for dynamics of particles in MOG**|Sohrab Rahvar et.al.|[2206.02453v1](http://arxiv.org/abs/2206.02453v1)|null|
-|**2022-06-04**|**Inertial dynamics of an active Brownian particle**|Jonas Mayer Martins et.al.|[2206.01960v1](http://arxiv.org/abs/2206.01960v1)|null|
