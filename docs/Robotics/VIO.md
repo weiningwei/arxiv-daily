@@ -28,7 +28,7 @@
 |**2022-06-13**|**Data-Driven Denoising of Accelerometer Signals**|Daniel Engelsman et.al.|[2206.05937v1](http://arxiv.org/abs/2206.05937v1)|[link](https://github.com/ansfl/MEMS-IMU-Denoising)|
 |**2022-06-13**|**LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud**|Yunge Cui et.al.|[2206.05927v1](http://arxiv.org/abs/2206.05927v1)|null|
 |**2022-06-11**|**Non-Newtonian turbulent jets at low-Reynolds number**|Giovanni Soligo et.al.|[2206.05450v1](http://arxiv.org/abs/2206.05450v1)|null|
-|**2022-06-11**|**High-Definition Map Generation Technologies For Autonomous Driving: A Review**|Zhibin Bao et.al.|[2206.05400v1](http://arxiv.org/abs/2206.05400v1)|null|
+|**2022-06-11**|**High-Definition Map Generation Technologies For Autonomous Driving**|Zhibin Bao et.al.|[2206.05400v2](http://arxiv.org/abs/2206.05400v2)|null|
 |**2022-06-10**|**Onsager Theory of Turbulence, the Josephson-Anderson Relation, and the D'Alembert Paradox**|Hao Quan et.al.|[2206.05326v1](http://arxiv.org/abs/2206.05326v1)|null|
 |**2022-06-10**|**Inertial Momentum Dissipation for Viscosity Solutions of Euler Equations. I. Flow Around a Smooth Body**|Hao Quan et.al.|[2206.05325v1](http://arxiv.org/abs/2206.05325v1)|null|
 |**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona et.al.|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|[link](https://github.com/cifasis/slam_agricultural_evaluation)|
