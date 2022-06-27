@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24**|**Measuring dark energy with expansion and growth**|Louis Perenon et.al.|[2206.12375v1](http://arxiv.org/abs/2206.12375v1)|null|
+|**2022-06-24**|**HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction**|Zhenpei Yang et.al.|[2206.12356v1](http://arxiv.org/abs/2206.12356v1)|[link](https://github.com/zhenpeiyang/hm3d-abo)|
+|**2022-06-24**|**Optimized Views Photogrammetry: Precision Analysis and A Large-scale Case Study in Qingdao**|Qingquan Li et.al.|[2206.12216v1](http://arxiv.org/abs/2206.12216v1)|null|
+|**2022-06-24**|**Augmented Reality-Empowered Network Planning Services for Private Networks**|Qi Liao et.al.|[2206.12139v1](http://arxiv.org/abs/2206.12139v1)|null|
+|**2022-06-24**|**Signal Knowledge Graph**|Anj Simmons et.al.|[2206.12111v1](http://arxiv.org/abs/2206.12111v1)|[link](https://github.com/anjsimmo/signal-knowledge-graph)|
+|**2022-06-23**|**The Dark Energy Camera Plane Survey 2 (DECaPS2): More Sky, Less Bias, and Better Uncertainties**|A. K. Saydjari et.al.|[2206.11909v1](http://arxiv.org/abs/2206.11909v1)|null|
 |**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
 |**2022-06-23**|**Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space**|Jinghuan Shang et.al.|[2206.11895v1](http://arxiv.org/abs/2206.11895v1)|null|
 |**2022-06-23**|**Quality Control of Image Sensors using Gaseous Tritium Light Sources**|David McFadden et.al.|[2206.11838v1](http://arxiv.org/abs/2206.11838v1)|null|
@@ -26,9 +32,3 @@
 |**2022-06-21**|**Reconstruct from Top View: A 3D Lane Detection Approach based on Geometry Structure Prior**|Chenguang Li et.al.|[2206.10098v1](http://arxiv.org/abs/2206.10098v1)|null|
 |**2022-06-21**|**BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection**|Yinhao Li et.al.|[2206.10092v1](http://arxiv.org/abs/2206.10092v1)|null|
 |**2022-06-20**|**Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world**|Eugene Vinitsky et.al.|[2206.09889v1](http://arxiv.org/abs/2206.09889v1)|[link](https://github.com/facebookresearch/nocturne)|
-|**2022-06-20**|**Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras**|Zhengxia Zou et.al.|[2206.09770v1](http://arxiv.org/abs/2206.09770v1)|null|
-|**2022-06-20**|**Developing a Free and Open-source Automated Building Exterior Crack Inspection Software for Construction and Facility Managers**|Pi Ko et.al.|[2206.09742v1](http://arxiv.org/abs/2206.09742v1)|[link](https://github.com/smart-nyuad/abecis)|
-|**2022-06-20**|**Perihelion Activity of (3200) Phaethon Is Not Dusty**|Man-To Hui et.al.|[2206.09704v1](http://arxiv.org/abs/2206.09704v1)|null|
-|**2022-06-20**|**SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles**|Chejian Xu et.al.|[2206.09682v1](http://arxiv.org/abs/2206.09682v1)|null|
-|**2022-06-19**|**Video frame interpolation for high dynamic range sequences captured with dual-exposure sensors**|Ugur Cogalan et.al.|[2206.09485v1](http://arxiv.org/abs/2206.09485v1)|null|
-|**2022-06-19**|**3D Object Detection for Autonomous Driving: A Review and New Outlooks**|Jiageng Mao et.al.|[2206.09474v1](http://arxiv.org/abs/2206.09474v1)|[link](https://github.com/pointscoder/awesome-3d-object-detection-for-autonomous-driving)|

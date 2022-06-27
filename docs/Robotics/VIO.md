@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
+|**2022-06-24**|**Computer based activity to understand proper acceleration using the Rindler observer**|Sushil Kumar Singh et.al.|[2206.12130v1](http://arxiv.org/abs/2206.12130v1)|null|
 |**2022-06-23**|**A possible fluid interpretation and tidal force equation on a generic null hypersurface in Einstein-Cartan theory**|Sumit Dey et.al.|[2206.11875v1](http://arxiv.org/abs/2206.11875v1)|null|
 |**2022-06-23**|**Dynamics of Topological Defects in the noisy Kuramoto Model in two dimensions**|Ylann Rouzaire et.al.|[2206.11730v1](http://arxiv.org/abs/2206.11730v1)|null|
 |**2022-06-23**|**Microscopic foundation of the $μ$(I) rheology for dense granular flows on inclined planes**|Denis Dumont et.al.|[2206.11633v1](http://arxiv.org/abs/2206.11633v1)|null|
@@ -30,5 +32,3 @@
 |**2022-06-11**|**Non-Newtonian turbulent jets at low-Reynolds number**|Giovanni Soligo et.al.|[2206.05450v1](http://arxiv.org/abs/2206.05450v1)|null|
 |**2022-06-11**|**High-Definition Map Generation Technologies For Autonomous Driving**|Zhibin Bao et.al.|[2206.05400v2](http://arxiv.org/abs/2206.05400v2)|null|
 |**2022-06-10**|**Onsager Theory of Turbulence, the Josephson-Anderson Relation, and the D'Alembert Paradox**|Hao Quan et.al.|[2206.05326v1](http://arxiv.org/abs/2206.05326v1)|null|
-|**2022-06-10**|**Inertial Momentum Dissipation for Viscosity Solutions of Euler Equations. I. Flow Around a Smooth Body**|Hao Quan et.al.|[2206.05325v1](http://arxiv.org/abs/2206.05325v1)|null|
-|**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona et.al.|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|[link](https://github.com/cifasis/slam_agricultural_evaluation)|
