@@ -14,7 +14,7 @@
 |**2022-06-21**|**On the emergent origin of the inertial mass**|Ricardo Gallego Torromé et.al.|[2206.10582v1](http://arxiv.org/abs/2206.10582v1)|null|
 |**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
 |**2022-06-20**|**Assessment of the Center of Inertia and Regional Inertia with Load Contribution via a Fully Data-Driven Method**|Lucas Lugnani et.al.|[2206.10036v1](http://arxiv.org/abs/2206.10036v1)|null|
-|**2022-06-20**|**Quaternion variational integration for inertial manoeuvring in a biomimetic UAV**|Arion Pons et.al.|[2206.09847v1](http://arxiv.org/abs/2206.09847v1)|null|
+|**2022-06-20**|**Quaternion variational integration for inertial maneuvering in a biomimetic UAV**|Arion Pons et.al.|[2206.09847v2](http://arxiv.org/abs/2206.09847v2)|null|
 |**2022-06-19**|**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**|Lan Wu et.al.|[2206.09506v1](http://arxiv.org/abs/2206.09506v1)|null|
 |**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
 |**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
