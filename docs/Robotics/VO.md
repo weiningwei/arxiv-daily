@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|null|
+|**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
+|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
 |**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
 |**2022-06-19**|**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**|Lan Wu et.al.|[2206.09506v1](http://arxiv.org/abs/2206.09506v1)|null|
 |**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
@@ -29,6 +32,3 @@
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-05-06**|**Semantics-Guided Moving Object Segmentation with 3D LiDAR**|Shuo Gu et.al.|[2205.03186v1](http://arxiv.org/abs/2205.03186v1)|null|
 |**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|[link](https://github.com/pvangoor/eqvio)|
-|**2022-05-02**|**Point Cloud Compression with Sibling Context and Surface Priors**|Zhili Chen et.al.|[2205.00760v1](http://arxiv.org/abs/2205.00760v1)|null|
-|**2022-04-27**|**Autonomous Vehicle Calibration via Linear Optimization**|Georg Novotny et.al.|[2204.12818v1](http://arxiv.org/abs/2204.12818v1)|null|
-|**2022-04-26**|**Map-based Visual-Inertial Localization: Consistency and Complexity**|Zhuqing Zhang et.al.|[2204.12173v1](http://arxiv.org/abs/2204.12173v1)|null|
