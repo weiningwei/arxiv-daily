@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
+|**2022-06-27**|**BeamsNet: A data-driven Approach Enhancing Doppler Velocity Log Measurements for Autonomous Underwater Vehicle Navigation**|Nadav Cohen et.al.|[2206.13603v1](http://arxiv.org/abs/2206.13603v1)|null|
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
 |**2022-06-27**|**Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**|Barak Or et.al.|[2206.13428v1](http://arxiv.org/abs/2206.13428v1)|null|
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
@@ -30,5 +32,3 @@
 |**2022-06-18**|**Closed-form Error Propagation on the SE_n(3) Group for Invariant Extended Kalman Filtering with Applications to VINS**|Xinghan Li et.al.|[2206.09100v1](http://arxiv.org/abs/2206.09100v1)|null|
 |**2022-06-18**|**Augmented Imagefication: A Data-driven Fault Detection Method for Aircraft Air Data Sensors**|Hang Zhao et.al.|[2206.09055v2](http://arxiv.org/abs/2206.09055v2)|null|
 |**2022-06-17**|**Discrete-time Rigid Body Pose Estimation based on Lagrange-d'Alembert principle**|Maulik Bhatt et.al.|[2206.08960v1](http://arxiv.org/abs/2206.08960v1)|null|
-|**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
-|**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|

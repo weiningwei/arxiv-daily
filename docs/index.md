@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-29 08:36:35 Asia/Shanghai
+ Automated deployment @ 2022-06-29 10:57:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,43 +39,10 @@
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim et.al.|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
 
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-27**|**Neural Neural Textures Make Sim2Real Consistent**|Ryan Burgert et.al.|[2206.13500v1](http://arxiv.org/abs/2206.13500v1)|null|
-|**2022-06-27**|**An Atlas for the Pinhole Camera**|Sameer Agarwal et.al.|[2206.13468v1](http://arxiv.org/abs/2206.13468v1)|null|
-|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
-|**2022-06-27**|**Adjusting the bow-tie: A morpho-kinematic study of NGC40**|J. B. Rodríguez-González et.al.|[2206.13368v1](http://arxiv.org/abs/2206.13368v1)|null|
-|**2022-06-27**|**LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**|Florent Bartoccioni et.al.|[2206.13294v1](http://arxiv.org/abs/2206.13294v1)|null|
-|**2022-06-27**|**Differential invariants for SE(2)-equivariant networks**|Mateus Sangalli et.al.|[2206.13279v1](http://arxiv.org/abs/2206.13279v1)|null|
-|**2022-06-27**|**MGNet: Monocular Geometric Scene Understanding for Autonomous Driving**|Markus Schön et.al.|[2206.13199v1](http://arxiv.org/abs/2206.13199v1)|[link](https://github.com/markusschoen/mgnet)|
-|**2022-06-26**|**Szloca: towards a framework for full 3D tracking through a single camera in context of interactive arts**|Sahaj Garg et.al.|[2206.12958v1](http://arxiv.org/abs/2206.12958v1)|null|
-|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
-|**2022-06-26**|**SVBR-NET: A Non-Blind Spatially Varying Defocus Blur Removal Network**|Ali Karaali et.al.|[2206.12930v1](http://arxiv.org/abs/2206.12930v1)|null|
-|**2022-06-26**|**Woodscape Fisheye Object Detection for Autonomous Driving -- CVPR 2022 OmniCV Workshop Challenge**|Saravanabalagi Ramachandran et.al.|[2206.12912v1](http://arxiv.org/abs/2206.12912v1)|null|
-|**2022-06-26**|**Semantic Role Aware Correlation Transformer for Text to Video Retrieval**|Burak Satar et.al.|[2206.12849v1](http://arxiv.org/abs/2206.12849v1)|null|
-|**2022-06-26**|**Fast optical flares from M dwarfs detected by a one-second-cadence survey with Tomo-e Gozen**|Masataka Aizawa et.al.|[2206.12847v1](http://arxiv.org/abs/2206.12847v1)|null|
-|**2022-06-26**|**A Comparison of AIS, X-Band Marine Radar Systems and Camera Surveillance Systems in the Collection of Tracking Data**|Yassir Zardoua et.al.|[2206.12809v1](http://arxiv.org/abs/2206.12809v1)|null|
-|**2022-06-25**|**Multi Visual Modality Fall Detection Dataset**|Stefan Denkovski et.al.|[2206.12740v1](http://arxiv.org/abs/2206.12740v1)|null|
-|**2022-06-25**|**Empirical Evaluation of Physical Adversarial Patch Attacks Against Overhead Object Detection Models**|Gavin S. Hartnett et.al.|[2206.12725v1](http://arxiv.org/abs/2206.12725v1)|null|
-|**2022-06-25**|**MIRAC-5: A ground-based mid-IR instrumentwith the potential to detect ammonia in gas giants**|R. Bowens et.al.|[2206.12682v1](http://arxiv.org/abs/2206.12682v1)|null|
-|**2022-06-25**|**CV 3315 Is All You Need : Semantic Segmentation Competition**|Akide Liu et.al.|[2206.12571v1](http://arxiv.org/abs/2206.12571v1)|null|
-|**2022-06-24**|**Bag of Tricks for Long-Tail Visual Recognition of Animal Species in Camera Trap Images**|Fagner Cunha et.al.|[2206.12458v1](http://arxiv.org/abs/2206.12458v1)|null|
-|**2022-06-24**|**Ev-NeRF: Event Based Neural Radiance Field**|Inwoo Hwang et.al.|[2206.12455v1](http://arxiv.org/abs/2206.12455v1)|null|
-|**2022-06-24**|**Measuring dark energy with expansion and growth**|Louis Perenon et.al.|[2206.12375v1](http://arxiv.org/abs/2206.12375v1)|null|
-|**2022-06-24**|**HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction**|Zhenpei Yang et.al.|[2206.12356v1](http://arxiv.org/abs/2206.12356v1)|[link](https://github.com/zhenpeiyang/hm3d-abo)|
-|**2022-06-24**|**Optimized Views Photogrammetry: Precision Analysis and A Large-scale Case Study in Qingdao**|Qingquan Li et.al.|[2206.12216v1](http://arxiv.org/abs/2206.12216v1)|null|
-|**2022-06-24**|**Augmented Reality-Empowered Network Planning Services for Private Networks**|Qi Liao et.al.|[2206.12139v1](http://arxiv.org/abs/2206.12139v1)|null|
-|**2022-06-24**|**Signal Knowledge Graph**|Anj Simmons et.al.|[2206.12111v1](http://arxiv.org/abs/2206.12111v1)|[link](https://github.com/anjsimmo/signal-knowledge-graph)|
-|**2022-06-23**|**The Dark Energy Camera Plane Survey 2 (DECaPS2): More Sky, Less Bias, and Better Uncertainties**|A. K. Saydjari et.al.|[2206.11909v1](http://arxiv.org/abs/2206.11909v1)|null|
-|**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
-|**2022-06-23**|**Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space**|Jinghuan Shang et.al.|[2206.11895v1](http://arxiv.org/abs/2206.11895v1)|null|
-|**2022-06-23**|**Quality Control of Image Sensors using Gaseous Tritium Light Sources**|David McFadden et.al.|[2206.11838v1](http://arxiv.org/abs/2206.11838v1)|null|
-|**2022-06-23**|**Corrosion Monitoring On Zinc Electroplated Steel Using Shortwave Infrared Hyperspectral Imaging**|Thomas De Kerf et.al.|[2206.11592v1](http://arxiv.org/abs/2206.11592v1)|null|
-
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
 |**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
@@ -105,11 +72,46 @@
 |**2022-05-07**|**Scale-Variant Robust Kernel Optimization for Non-linear Least Squares Problems**|Shounak Das et.al.|[2206.10305v1](http://arxiv.org/abs/2206.10305v1)|null|
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-05-06**|**Semantics-Guided Moving Object Segmentation with 3D LiDAR**|Shuo Gu et.al.|[2205.03186v1](http://arxiv.org/abs/2205.03186v1)|null|
-|**2022-05-04**|**EqVIO: An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2205.01980v1](http://arxiv.org/abs/2205.01980v1)|[link](https://github.com/pvangoor/eqvio)|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**DayDreamer: World Models for Physical Robot Learning**|Philipp Wu et.al.|[2206.14176v1](http://arxiv.org/abs/2206.14176v1)|null|
+|**2022-06-28**|**Visualizing and Alleviating the Effect of Radial Distortion on Camera Calibration Using Principal Lines**|Jen-Hui Chuang et.al.|[2206.14164v1](http://arxiv.org/abs/2206.14164v1)|null|
+|**2022-06-28**|**Placing (Historical) Facts on a Timeline: A Classification cum Coref Resolution Approach**|Sayantan Adak et.al.|[2206.14089v1](http://arxiv.org/abs/2206.14089v1)|null|
+|**2022-06-28**|**Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**|Stephen Hausler et.al.|[2206.13883v1](http://arxiv.org/abs/2206.13883v1)|null|
+|**2022-06-28**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser et.al.|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
+|**2022-06-28**|**A Comprehensive Survey on Deep Gait Recognition: Algorithms, Datasets and Challenges**|Chuanfu Shen et.al.|[2206.13732v1](http://arxiv.org/abs/2206.13732v1)|null|
+|**2022-06-28**|**Boosting R-CNN: Reweighting R-CNN Samples by RPN's Error for Underwater Object Detection**|Pinhao Song et.al.|[2206.13728v1](http://arxiv.org/abs/2206.13728v1)|null|
+|**2022-06-28**|**Photometric redshift estimates using Bayesian neural networks in the CSST survey**|Xingchen Zhou et.al.|[2206.13696v1](http://arxiv.org/abs/2206.13696v1)|null|
+|**2022-06-28**|**How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**|Tobias Fischer et.al.|[2206.13673v1](http://arxiv.org/abs/2206.13673v1)|null|
+|**2022-06-27**|**Learning Semantics-Aware Locomotion Skills from Human Demonstration**|Yuxiang Yang et.al.|[2206.13631v1](http://arxiv.org/abs/2206.13631v1)|null|
+|**2022-06-27**|**A View Independent Classification Framework for Yoga Postures**|Mustafa Chasmai et.al.|[2206.13577v1](http://arxiv.org/abs/2206.13577v1)|null|
+|**2022-06-27**|**India's first robotic eye for time domain astrophysics: the GROWTH-India telescope**|Harsh Kumar et.al.|[2206.13535v1](http://arxiv.org/abs/2206.13535v1)|null|
+|**2022-06-27**|**Jansky Very Large Array detections of CO(1-0) emission in HI-absorption-selected galaxies at $z \gtrsim 2$**|Balpreet Kaur et.al.|[2206.13518v1](http://arxiv.org/abs/2206.13518v1)|null|
+|**2022-06-27**|**Neural Neural Textures Make Sim2Real Consistent**|Ryan Burgert et.al.|[2206.13500v1](http://arxiv.org/abs/2206.13500v1)|null|
+|**2022-06-27**|**An Atlas for the Pinhole Camera**|Sameer Agarwal et.al.|[2206.13468v1](http://arxiv.org/abs/2206.13468v1)|null|
+|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
+|**2022-06-27**|**Adjusting the bow-tie: A morpho-kinematic study of NGC40**|J. B. Rodríguez-González et.al.|[2206.13368v1](http://arxiv.org/abs/2206.13368v1)|null|
+|**2022-06-27**|**LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**|Florent Bartoccioni et.al.|[2206.13294v1](http://arxiv.org/abs/2206.13294v1)|null|
+|**2022-06-27**|**Differential invariants for SE(2)-equivariant networks**|Mateus Sangalli et.al.|[2206.13279v1](http://arxiv.org/abs/2206.13279v1)|null|
+|**2022-06-27**|**MGNet: Monocular Geometric Scene Understanding for Autonomous Driving**|Markus Schön et.al.|[2206.13199v1](http://arxiv.org/abs/2206.13199v1)|[link](https://github.com/markusschoen/mgnet)|
+|**2022-06-26**|**Szloca: towards a framework for full 3D tracking through a single camera in context of interactive arts**|Sahaj Garg et.al.|[2206.12958v1](http://arxiv.org/abs/2206.12958v1)|null|
+|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
+|**2022-06-26**|**SVBR-NET: A Non-Blind Spatially Varying Defocus Blur Removal Network**|Ali Karaali et.al.|[2206.12930v1](http://arxiv.org/abs/2206.12930v1)|null|
+|**2022-06-26**|**Woodscape Fisheye Object Detection for Autonomous Driving -- CVPR 2022 OmniCV Workshop Challenge**|Saravanabalagi Ramachandran et.al.|[2206.12912v1](http://arxiv.org/abs/2206.12912v1)|null|
+|**2022-06-26**|**Semantic Role Aware Correlation Transformer for Text to Video Retrieval**|Burak Satar et.al.|[2206.12849v1](http://arxiv.org/abs/2206.12849v1)|null|
+|**2022-06-26**|**Fast optical flares from M dwarfs detected by a one-second-cadence survey with Tomo-e Gozen**|Masataka Aizawa et.al.|[2206.12847v1](http://arxiv.org/abs/2206.12847v1)|null|
+|**2022-06-26**|**A Comparison of AIS, X-Band Marine Radar Systems and Camera Surveillance Systems in the Collection of Tracking Data**|Yassir Zardoua et.al.|[2206.12809v1](http://arxiv.org/abs/2206.12809v1)|null|
+|**2022-06-25**|**Multi Visual Modality Fall Detection Dataset**|Stefan Denkovski et.al.|[2206.12740v1](http://arxiv.org/abs/2206.12740v1)|null|
+|**2022-06-25**|**Empirical Evaluation of Physical Adversarial Patch Attacks Against Overhead Object Detection Models**|Gavin S. Hartnett et.al.|[2206.12725v1](http://arxiv.org/abs/2206.12725v1)|null|
+|**2022-06-25**|**MIRAC-5: A ground-based mid-IR instrumentwith the potential to detect ammonia in gas giants**|R. Bowens et.al.|[2206.12682v1](http://arxiv.org/abs/2206.12682v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
+|**2022-06-27**|**BeamsNet: A data-driven Approach Enhancing Doppler Velocity Log Measurements for Autonomous Underwater Vehicle Navigation**|Nadav Cohen et.al.|[2206.13603v1](http://arxiv.org/abs/2206.13603v1)|null|
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
 |**2022-06-27**|**Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**|Barak Or et.al.|[2206.13428v1](http://arxiv.org/abs/2206.13428v1)|null|
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
@@ -138,5 +140,3 @@
 |**2022-06-18**|**Closed-form Error Propagation on the SE_n(3) Group for Invariant Extended Kalman Filtering with Applications to VINS**|Xinghan Li et.al.|[2206.09100v1](http://arxiv.org/abs/2206.09100v1)|null|
 |**2022-06-18**|**Augmented Imagefication: A Data-driven Fault Detection Method for Aircraft Air Data Sensors**|Hang Zhao et.al.|[2206.09055v2](http://arxiv.org/abs/2206.09055v2)|null|
 |**2022-06-17**|**Discrete-time Rigid Body Pose Estimation based on Lagrange-d'Alembert principle**|Maulik Bhatt et.al.|[2206.08960v1](http://arxiv.org/abs/2206.08960v1)|null|
-|**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
-|**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|
