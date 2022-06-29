@@ -28,7 +28,7 @@
 |**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
 |**2022-06-18**|**High Resolution Point Clouds from mmWave Radar**|Akarsh Prabhakara et.al.|[2206.09273v1](http://arxiv.org/abs/2206.09273v1)|null|
 |**2022-06-18**|**Closed-form Error Propagation on the SE_n(3) Group for Invariant Extended Kalman Filtering with Applications to VINS**|Xinghan Li et.al.|[2206.09100v1](http://arxiv.org/abs/2206.09100v1)|null|
-|**2022-06-18**|**Augmented Imagefication: A Data-driven Fault Detection Method for Aircraft Air Data Sensors**|Hang Zhao et.al.|[2206.09055v1](http://arxiv.org/abs/2206.09055v1)|null|
+|**2022-06-18**|**Augmented Imagefication: A Data-driven Fault Detection Method for Aircraft Air Data Sensors**|Hang Zhao et.al.|[2206.09055v2](http://arxiv.org/abs/2206.09055v2)|null|
 |**2022-06-17**|**Discrete-time Rigid Body Pose Estimation based on Lagrange-d'Alembert principle**|Maulik Bhatt et.al.|[2206.08960v1](http://arxiv.org/abs/2206.08960v1)|null|
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
 |**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|
