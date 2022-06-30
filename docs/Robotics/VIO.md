@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-29**|**Inertial active Ornstein-Uhlenbeck particle in the presence of magnetic field**|M Muhsin et.al.|[2206.14715v1](http://arxiv.org/abs/2206.14715v1)|null|
+|**2022-06-28**|**Role of rotational inertia for collective phenomena in active matter**|Lorenzo Caprini et.al.|[2206.14324v1](http://arxiv.org/abs/2206.14324v1)|null|
 |**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
 |**2022-06-27**|**BeamsNet: A data-driven Approach Enhancing Doppler Velocity Log Measurements for Autonomous Underwater Vehicle Navigation**|Nadav Cohen et.al.|[2206.13603v1](http://arxiv.org/abs/2206.13603v1)|null|
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
@@ -30,5 +32,3 @@
 |**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
 |**2022-06-18**|**High Resolution Point Clouds from mmWave Radar**|Akarsh Prabhakara et.al.|[2206.09273v1](http://arxiv.org/abs/2206.09273v1)|null|
 |**2022-06-18**|**Closed-form Error Propagation on the SE_n(3) Group for Invariant Extended Kalman Filtering with Applications to VINS**|Xinghan Li et.al.|[2206.09100v1](http://arxiv.org/abs/2206.09100v1)|null|
-|**2022-06-18**|**Augmented Imagefication: A Data-driven Fault Detection Method for Aircraft Air Data Sensors**|Hang Zhao et.al.|[2206.09055v2](http://arxiv.org/abs/2206.09055v2)|null|
-|**2022-06-17**|**Discrete-time Rigid Body Pose Estimation based on Lagrange-d'Alembert principle**|Maulik Bhatt et.al.|[2206.08960v1](http://arxiv.org/abs/2206.08960v1)|null|
