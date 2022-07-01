@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Anti-inertia and antigravity in quantum systems**|Lijia Jiang et.al.|[2206.15456v1](http://arxiv.org/abs/2206.15456v1)|null|
+|**2022-06-30**|**Model-based vs Data-driven Estimation of Vehicle Sideslip Angle and Benefits of Tyre Force Measurements**|A. Bertipaglia et.al.|[2206.15119v1](http://arxiv.org/abs/2206.15119v1)|null|
 |**2022-06-29**|**Inertial active Ornstein-Uhlenbeck particle in the presence of magnetic field**|M Muhsin et.al.|[2206.14715v1](http://arxiv.org/abs/2206.14715v1)|null|
 |**2022-06-28**|**Role of rotational inertia for collective phenomena in active matter**|Lorenzo Caprini et.al.|[2206.14324v1](http://arxiv.org/abs/2206.14324v1)|null|
 |**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
@@ -30,5 +32,3 @@
 |**2022-06-19**|**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**|Lan Wu et.al.|[2206.09506v1](http://arxiv.org/abs/2206.09506v1)|null|
 |**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
 |**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
-|**2022-06-18**|**High Resolution Point Clouds from mmWave Radar**|Akarsh Prabhakara et.al.|[2206.09273v1](http://arxiv.org/abs/2206.09273v1)|null|
-|**2022-06-18**|**Closed-form Error Propagation on the SE_n(3) Group for Invariant Extended Kalman Filtering with Applications to VINS**|Xinghan Li et.al.|[2206.09100v1](http://arxiv.org/abs/2206.09100v1)|null|
