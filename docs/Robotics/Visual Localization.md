@@ -6,7 +6,7 @@
 |**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**|Yanqin Jiang et.al.|[2206.15398v1](http://arxiv.org/abs/2206.15398v1)|null|
 |**2022-06-30**|**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**|Hongrui Cai et.al.|[2206.15258v1](http://arxiv.org/abs/2206.15258v1)|null|
 |**2022-06-30**|**LiDAR-as-Camera for End-to-End Driving**|Ardi Tampuu et.al.|[2206.15170v1](http://arxiv.org/abs/2206.15170v1)|null|
-|**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|null|
+|**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|[link](https://github.com/timbroed/hrfuser)|
 |**2022-06-29**|**Euclid preparation: XXIII. Derivation of galaxy physical properties with deep machine learning using mock fluxes and H-band images**|Euclid Collaboration et.al.|[2206.14944v1](http://arxiv.org/abs/2206.14944v1)|null|
 |**2022-06-29**|**Are the host galaxies of Long Gamma-Ray Bursts more compact than star-forming galaxies of the field?**|B. Schneider et.al.|[2206.14873v1](http://arxiv.org/abs/2206.14873v1)|null|
 |**2022-06-29**|**The 511-CAM Mission: A Pointed 511 keV Gamma-Ray Telescope with a Focal Plane Detector Made of Stacked Transition Edge Sensor Microcalorimeter Arrays**|Farzane Shirazi et.al.|[2206.14652v1](http://arxiv.org/abs/2206.14652v1)|null|
