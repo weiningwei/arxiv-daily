@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2022-07-02 21:10:07 Asia/Shanghai
+ Automated deployment @ 2022-07-03 08:39:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-30**|**Anti-inertia and antigravity in quantum systems**|Lijia Jiang et.al.|[2206.15456v1](http://arxiv.org/abs/2206.15456v1)|null|
+|**2022-06-30**|**Model-based vs Data-driven Estimation of Vehicle Sideslip Angle and Benefits of Tyre Force Measurements**|A. Bertipaglia et.al.|[2206.15119v1](http://arxiv.org/abs/2206.15119v1)|null|
+|**2022-06-29**|**Inertial active Ornstein-Uhlenbeck particle in the presence of magnetic field**|M Muhsin et.al.|[2206.14715v1](http://arxiv.org/abs/2206.14715v1)|null|
+|**2022-06-28**|**Role of rotational inertia for collective phenomena in active matter**|Lorenzo Caprini et.al.|[2206.14324v1](http://arxiv.org/abs/2206.14324v1)|null|
+|**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
+|**2022-06-27**|**BeamsNet: A data-driven Approach Enhancing Doppler Velocity Log Measurements for Autonomous Underwater Vehicle Navigation**|Nadav Cohen et.al.|[2206.13603v1](http://arxiv.org/abs/2206.13603v1)|null|
+|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
+|**2022-06-27**|**Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**|Barak Or et.al.|[2206.13428v1](http://arxiv.org/abs/2206.13428v1)|null|
+|**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
+|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
+|**2022-06-26**|**Asteroseismology of the dip structure in period-spacings of rapidly rotating gamma Doradus stars caused by the coupling between core and envelope oscillations**|Takato Tokuno et.al.|[2206.12818v1](http://arxiv.org/abs/2206.12818v1)|null|
+|**2022-06-26**|**Energy transfer in simple and active binary fluid turbulence {\bf {-}} a false friend of incompressible MHD turbulence**|Nandita Pan et.al.|[2206.12782v1](http://arxiv.org/abs/2206.12782v1)|null|
+|**2022-06-25**|**An objective vortex identification method**|Yifei Yu et.al.|[2206.12521v1](http://arxiv.org/abs/2206.12521v1)|null|
+|**2022-06-24**|**Adaptive Neural Network Stochastic-Filter-based Controller for Attitude Tracking with Disturbance Rejection**|Hashim A. Hashim et.al.|[2206.12476v1](http://arxiv.org/abs/2206.12476v1)|null|
+|**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
+|**2022-06-24**|**Computer based activity to understand proper acceleration using the Rindler observer**|Sushil Kumar Singh et.al.|[2206.12130v1](http://arxiv.org/abs/2206.12130v1)|null|
+|**2022-06-23**|**A possible fluid interpretation and tidal force equation on a generic null hypersurface in Einstein-Cartan theory**|Sumit Dey et.al.|[2206.11875v1](http://arxiv.org/abs/2206.11875v1)|null|
+|**2022-06-23**|**Dynamics of Topological Defects in the noisy Kuramoto Model in two dimensions**|Ylann Rouzaire et.al.|[2206.11730v1](http://arxiv.org/abs/2206.11730v1)|null|
+|**2022-06-23**|**Microscopic foundation of the $μ$(I) rheology for dense granular flows on inclined planes**|Denis Dumont et.al.|[2206.11633v1](http://arxiv.org/abs/2206.11633v1)|null|
+|**2022-06-23**|**A Neuromorphic Vision-Based Measurement for Robust Relative Localization in Future Space Exploration Missions**|Mohammed Salah et.al.|[2206.11541v1](http://arxiv.org/abs/2206.11541v1)|null|
+|**2022-06-23**|**Reconciling Parker Solar Probe observations and magnetohydrodynamic theory: à la Kolmogorov vs. à la Kraichnan scale-invariance**|Tommaso Alberti et.al.|[2206.11514v1](http://arxiv.org/abs/2206.11514v1)|null|
+|**2022-06-23**|**Image-based Stability Quantification**|Jesse Scott et.al.|[2206.11443v1](http://arxiv.org/abs/2206.11443v1)|null|
+|**2022-06-22**|**Hierarchical Sampling based Particle Filter for Visual-inertial Gimbal in the Wild**|Xueyang Kang et.al.|[2206.10981v1](http://arxiv.org/abs/2206.10981v1)|null|
+|**2022-06-21**|**On the emergent origin of the inertial mass**|Ricardo Gallego Torromé et.al.|[2206.10582v1](http://arxiv.org/abs/2206.10582v1)|null|
+|**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
+|**2022-06-20**|**Assessment of the Center of Inertia and Regional Inertia with Load Contribution via a Fully Data-Driven Method**|Lucas Lugnani et.al.|[2206.10036v1](http://arxiv.org/abs/2206.10036v1)|null|
+|**2022-06-20**|**Quaternion variational integration for inertial maneuvering in a biomimetic UAV**|Arion Pons et.al.|[2206.09847v2](http://arxiv.org/abs/2206.09847v2)|null|
+|**2022-06-19**|**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**|Lan Wu et.al.|[2206.09506v1](http://arxiv.org/abs/2206.09506v1)|null|
+|**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
+|**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -39,40 +73,6 @@
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
 |**2022-05-06**|**Semantics-Guided Moving Object Segmentation with 3D LiDAR**|Shuo Gu et.al.|[2205.03186v1](http://arxiv.org/abs/2205.03186v1)|null|
 
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-30**|**First light of BEaTriX, the new testing facility for the modular X-ray optics of the ATHENA mission**|S. Basso et.al.|[2206.15468v1](http://arxiv.org/abs/2206.15468v1)|null|
-|**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**|Yanqin Jiang et.al.|[2206.15398v1](http://arxiv.org/abs/2206.15398v1)|[link](https://github.com/fudan-zvg/polarformer)|
-|**2022-06-30**|**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**|Hongrui Cai et.al.|[2206.15258v1](http://arxiv.org/abs/2206.15258v1)|null|
-|**2022-06-30**|**LiDAR-as-Camera for End-to-End Driving**|Ardi Tampuu et.al.|[2206.15170v1](http://arxiv.org/abs/2206.15170v1)|null|
-|**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|[link](https://github.com/timbroed/hrfuser)|
-|**2022-06-29**|**Euclid preparation: XXIII. Derivation of galaxy physical properties with deep machine learning using mock fluxes and H-band images**|Euclid Collaboration et.al.|[2206.14944v1](http://arxiv.org/abs/2206.14944v1)|null|
-|**2022-06-29**|**Are the host galaxies of Long Gamma-Ray Bursts more compact than star-forming galaxies of the field?**|B. Schneider et.al.|[2206.14873v1](http://arxiv.org/abs/2206.14873v1)|null|
-|**2022-06-29**|**The 511-CAM Mission: A Pointed 511 keV Gamma-Ray Telescope with a Focal Plane Detector Made of Stacked Transition Edge Sensor Microcalorimeter Arrays**|Farzane Shirazi et.al.|[2206.14652v1](http://arxiv.org/abs/2206.14652v1)|null|
-|**2022-06-29**|**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**|Nir Aharon et.al.|[2206.14651v1](http://arxiv.org/abs/2206.14651v1)|null|
-|**2022-06-29**|**SRCN3D: Sparse R-CNN 3D Surround-View Camera Object Detection and Tracking for Autonomous Driving**|Yining Shi et.al.|[2206.14451v1](http://arxiv.org/abs/2206.14451v1)|[link](https://github.com/synsin0/srcn3d)|
-|**2022-06-29**|**Distributed Edge-based Video Analytics on the Move**|Jayden King et.al.|[2206.14414v1](http://arxiv.org/abs/2206.14414v1)|null|
-|**2022-06-29**|**Convolutional Neural Network Based Partial Face Detection**|Md. Towfiqul Islam et.al.|[2206.14350v1](http://arxiv.org/abs/2206.14350v1)|null|
-|**2022-06-28**|**Euclid: Forecasts from the void-lensing cross-correlation**|M. Bonici et.al.|[2206.14211v1](http://arxiv.org/abs/2206.14211v1)|null|
-|**2022-06-28**|**DayDreamer: World Models for Physical Robot Learning**|Philipp Wu et.al.|[2206.14176v1](http://arxiv.org/abs/2206.14176v1)|null|
-|**2022-06-28**|**Visualizing and Alleviating the Effect of Radial Distortion on Camera Calibration Using Principal Lines**|Jen-Hui Chuang et.al.|[2206.14164v1](http://arxiv.org/abs/2206.14164v1)|null|
-|**2022-06-28**|**Placing (Historical) Facts on a Timeline: A Classification cum Coref Resolution Approach**|Sayantan Adak et.al.|[2206.14089v1](http://arxiv.org/abs/2206.14089v1)|[link](https://github.com/sayantan11995/event-timeline-generation-from-documents)|
-|**2022-06-28**|**Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**|Stephen Hausler et.al.|[2206.13883v1](http://arxiv.org/abs/2206.13883v1)|null|
-|**2022-06-28**|**3D Multi-Object Tracking with Differentiable Pose Estimation**|Dominik Schmauser et.al.|[2206.13785v1](http://arxiv.org/abs/2206.13785v1)|null|
-|**2022-06-28**|**Hyperspectral image reconstruction for spectral camera based on ghost imaging via sparsity constraints using V-DUnet**|Ziyan Chen et.al.|[2206.14199v1](http://arxiv.org/abs/2206.14199v1)|null|
-|**2022-06-28**|**A Comprehensive Survey on Deep Gait Recognition: Algorithms, Datasets and Challenges**|Chuanfu Shen et.al.|[2206.13732v1](http://arxiv.org/abs/2206.13732v1)|null|
-|**2022-06-28**|**Boosting R-CNN: Reweighting R-CNN Samples by RPN's Error for Underwater Object Detection**|Pinhao Song et.al.|[2206.13728v1](http://arxiv.org/abs/2206.13728v1)|[link](https://github.com/mousecpn/Boosting-R-CNN-Reweighting-R-CNN-Samples-by-RPN-s-Error-for-Underwater-Object-Detection)|
-|**2022-06-28**|**Photometric redshift estimates using Bayesian neural networks in the CSST survey**|Xingchen Zhou et.al.|[2206.13696v1](http://arxiv.org/abs/2206.13696v1)|null|
-|**2022-06-28**|**How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**|Tobias Fischer et.al.|[2206.13673v1](http://arxiv.org/abs/2206.13673v1)|null|
-|**2022-06-27**|**Learning Semantics-Aware Locomotion Skills from Human Demonstration**|Yuxiang Yang et.al.|[2206.13631v1](http://arxiv.org/abs/2206.13631v1)|null|
-|**2022-06-27**|**A View Independent Classification Framework for Yoga Postures**|Mustafa Chasmai et.al.|[2206.13577v1](http://arxiv.org/abs/2206.13577v1)|null|
-|**2022-06-27**|**India's first robotic eye for time domain astrophysics: the GROWTH-India telescope**|Harsh Kumar et.al.|[2206.13535v1](http://arxiv.org/abs/2206.13535v1)|null|
-|**2022-06-27**|**Jansky Very Large Array detections of CO(1-0) emission in HI-absorption-selected galaxies at $z \gtrsim 2$**|Balpreet Kaur et.al.|[2206.13518v1](http://arxiv.org/abs/2206.13518v1)|null|
-|**2022-06-27**|**Neural Neural Textures Make Sim2Real Consistent**|Ryan Burgert et.al.|[2206.13500v1](http://arxiv.org/abs/2206.13500v1)|null|
-|**2022-06-27**|**An Atlas for the Pinhole Camera**|Sameer Agarwal et.al.|[2206.13468v1](http://arxiv.org/abs/2206.13468v1)|null|
-|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
-
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,37 +106,3 @@
 |**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang et.al.|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|[link](https://github.com/wh200720041/mms_slam)|
 |**2022-05-07**|**Scale-Variant Robust Kernel Optimization for Non-linear Least Squares Problems**|Shounak Das et.al.|[2206.10305v1](http://arxiv.org/abs/2206.10305v1)|null|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado et.al.|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-30**|**Anti-inertia and antigravity in quantum systems**|Lijia Jiang et.al.|[2206.15456v1](http://arxiv.org/abs/2206.15456v1)|null|
-|**2022-06-30**|**Model-based vs Data-driven Estimation of Vehicle Sideslip Angle and Benefits of Tyre Force Measurements**|A. Bertipaglia et.al.|[2206.15119v1](http://arxiv.org/abs/2206.15119v1)|null|
-|**2022-06-29**|**Inertial active Ornstein-Uhlenbeck particle in the presence of magnetic field**|M Muhsin et.al.|[2206.14715v1](http://arxiv.org/abs/2206.14715v1)|null|
-|**2022-06-28**|**Role of rotational inertia for collective phenomena in active matter**|Lorenzo Caprini et.al.|[2206.14324v1](http://arxiv.org/abs/2206.14324v1)|null|
-|**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
-|**2022-06-27**|**BeamsNet: A data-driven Approach Enhancing Doppler Velocity Log Measurements for Autonomous Underwater Vehicle Navigation**|Nadav Cohen et.al.|[2206.13603v1](http://arxiv.org/abs/2206.13603v1)|null|
-|**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
-|**2022-06-27**|**Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**|Barak Or et.al.|[2206.13428v1](http://arxiv.org/abs/2206.13428v1)|null|
-|**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
-|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
-|**2022-06-26**|**Asteroseismology of the dip structure in period-spacings of rapidly rotating gamma Doradus stars caused by the coupling between core and envelope oscillations**|Takato Tokuno et.al.|[2206.12818v1](http://arxiv.org/abs/2206.12818v1)|null|
-|**2022-06-26**|**Energy transfer in simple and active binary fluid turbulence {\bf {-}} a false friend of incompressible MHD turbulence**|Nandita Pan et.al.|[2206.12782v1](http://arxiv.org/abs/2206.12782v1)|null|
-|**2022-06-25**|**An objective vortex identification method**|Yifei Yu et.al.|[2206.12521v1](http://arxiv.org/abs/2206.12521v1)|null|
-|**2022-06-24**|**Adaptive Neural Network Stochastic-Filter-based Controller for Attitude Tracking with Disturbance Rejection**|Hashim A. Hashim et.al.|[2206.12476v1](http://arxiv.org/abs/2206.12476v1)|null|
-|**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
-|**2022-06-24**|**Computer based activity to understand proper acceleration using the Rindler observer**|Sushil Kumar Singh et.al.|[2206.12130v1](http://arxiv.org/abs/2206.12130v1)|null|
-|**2022-06-23**|**A possible fluid interpretation and tidal force equation on a generic null hypersurface in Einstein-Cartan theory**|Sumit Dey et.al.|[2206.11875v1](http://arxiv.org/abs/2206.11875v1)|null|
-|**2022-06-23**|**Dynamics of Topological Defects in the noisy Kuramoto Model in two dimensions**|Ylann Rouzaire et.al.|[2206.11730v1](http://arxiv.org/abs/2206.11730v1)|null|
-|**2022-06-23**|**Microscopic foundation of the $μ$(I) rheology for dense granular flows on inclined planes**|Denis Dumont et.al.|[2206.11633v1](http://arxiv.org/abs/2206.11633v1)|null|
-|**2022-06-23**|**A Neuromorphic Vision-Based Measurement for Robust Relative Localization in Future Space Exploration Missions**|Mohammed Salah et.al.|[2206.11541v1](http://arxiv.org/abs/2206.11541v1)|null|
-|**2022-06-23**|**Reconciling Parker Solar Probe observations and magnetohydrodynamic theory: à la Kolmogorov vs. à la Kraichnan scale-invariance**|Tommaso Alberti et.al.|[2206.11514v1](http://arxiv.org/abs/2206.11514v1)|null|
-|**2022-06-23**|**Image-based Stability Quantification**|Jesse Scott et.al.|[2206.11443v1](http://arxiv.org/abs/2206.11443v1)|null|
-|**2022-06-22**|**Hierarchical Sampling based Particle Filter for Visual-inertial Gimbal in the Wild**|Xueyang Kang et.al.|[2206.10981v1](http://arxiv.org/abs/2206.10981v1)|null|
-|**2022-06-21**|**On the emergent origin of the inertial mass**|Ricardo Gallego Torromé et.al.|[2206.10582v1](http://arxiv.org/abs/2206.10582v1)|null|
-|**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
-|**2022-06-20**|**Assessment of the Center of Inertia and Regional Inertia with Load Contribution via a Fully Data-Driven Method**|Lucas Lugnani et.al.|[2206.10036v1](http://arxiv.org/abs/2206.10036v1)|null|
-|**2022-06-20**|**Quaternion variational integration for inertial maneuvering in a biomimetic UAV**|Arion Pons et.al.|[2206.09847v2](http://arxiv.org/abs/2206.09847v2)|null|
-|**2022-06-19**|**Log-GPIS-MOP: A Unified Representation for Mapping, Odometry and Planning**|Lan Wu et.al.|[2206.09506v1](http://arxiv.org/abs/2206.09506v1)|null|
-|**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
-|**2022-06-19**|**Entangled vacuum state for accelerated observers**|Leyli Esmaelifar et.al.|[2206.09327v1](http://arxiv.org/abs/2206.09327v1)|null|
