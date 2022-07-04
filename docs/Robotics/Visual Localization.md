@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-06-30**|**First light of BEaTriX, the new testing facility for the modular X-ray optics of the ATHENA mission**|S. Basso et.al.|[2206.15468v1](http://arxiv.org/abs/2206.15468v1)|null|
-|**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**|Yanqin Jiang et.al.|[2206.15398v1](http://arxiv.org/abs/2206.15398v1)|[link](https://github.com/fudan-zvg/polarformer)|
+|**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformers**|Yanqin Jiang et.al.|[2206.15398v2](http://arxiv.org/abs/2206.15398v2)|[link](https://github.com/fudan-zvg/polarformer)|
 |**2022-06-30**|**Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera**|Hongrui Cai et.al.|[2206.15258v1](http://arxiv.org/abs/2206.15258v1)|null|
 |**2022-06-30**|**LiDAR-as-Camera for End-to-End Driving**|Ardi Tampuu et.al.|[2206.15170v1](http://arxiv.org/abs/2206.15170v1)|null|
 |**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|[link](https://github.com/timbroed/hrfuser)|
