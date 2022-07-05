@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
+|**2022-07-04**|**VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**|Ling Gao et.al.|[2207.01404v1](http://arxiv.org/abs/2207.01404v1)|null|
+|**2022-07-04**|**A Bregman inertial forward-reflected-backward method for nonconvex minimization**|Xianfu Wang et.al.|[2207.01170v1](http://arxiv.org/abs/2207.01170v1)|null|
+|**2022-07-04**|**VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM**|Danpeng Chen et.al.|[2207.01158v1](http://arxiv.org/abs/2207.01158v1)|null|
+|**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
+|**2022-07-01**|**Constraining Model Uncertainty in Plasma Equation-of-State Models with a Physics-Constrained Gaussian Process**|Jim A Gaffney et.al.|[2207.00668v1](http://arxiv.org/abs/2207.00668v1)|null|
 |**2022-07-01**|**The waltz of tiny droplets and the flow they live in**|S. Ravichandran et.al.|[2207.00540v1](http://arxiv.org/abs/2207.00540v1)|null|
 |**2022-07-01**|**Hybrid-Kinetic Approach: Inertial Electrons**|Neeraj Jain et.al.|[2207.00462v1](http://arxiv.org/abs/2207.00462v1)|null|
 |**2022-07-01**|**Implosion dynamics of magnetized cylindrical targets at OMEGA**|G. Pérez-Callejo et.al.|[2207.00387v1](http://arxiv.org/abs/2207.00387v1)|null|
@@ -26,9 +32,3 @@
 |**2022-06-23**|**A possible fluid interpretation and tidal force equation on a generic null hypersurface in Einstein-Cartan theory**|Sumit Dey et.al.|[2206.11875v1](http://arxiv.org/abs/2206.11875v1)|null|
 |**2022-06-23**|**Dynamics of Topological Defects in the noisy Kuramoto Model in two dimensions**|Ylann Rouzaire et.al.|[2206.11730v1](http://arxiv.org/abs/2206.11730v1)|null|
 |**2022-06-23**|**Microscopic foundation of the $μ$(I) rheology for dense granular flows on inclined planes**|Denis Dumont et.al.|[2206.11633v1](http://arxiv.org/abs/2206.11633v1)|null|
-|**2022-06-23**|**A Neuromorphic Vision-Based Measurement for Robust Relative Localization in Future Space Exploration Missions**|Mohammed Salah et.al.|[2206.11541v1](http://arxiv.org/abs/2206.11541v1)|null|
-|**2022-06-23**|**Reconciling Parker Solar Probe observations and magnetohydrodynamic theory: à la Kolmogorov vs. à la Kraichnan scale-invariance**|Tommaso Alberti et.al.|[2206.11514v1](http://arxiv.org/abs/2206.11514v1)|null|
-|**2022-06-23**|**Image-based Stability Quantification**|Jesse Scott et.al.|[2206.11443v1](http://arxiv.org/abs/2206.11443v1)|null|
-|**2022-06-22**|**Hierarchical Sampling based Particle Filter for Visual-inertial Gimbal in the Wild**|Xueyang Kang et.al.|[2206.10981v1](http://arxiv.org/abs/2206.10981v1)|null|
-|**2022-06-21**|**On the emergent origin of the inertial mass**|Ricardo Gallego Torromé et.al.|[2206.10582v1](http://arxiv.org/abs/2206.10582v1)|null|
-|**2022-06-21**|**What Goes Around: Leveraging a Constant-curvature Motion Constraint in Radar Odometry**|Roberto Aldera et.al.|[2206.10517v1](http://arxiv.org/abs/2206.10517v1)|null|
