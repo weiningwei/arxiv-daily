@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
+|**2022-07-06**|**VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**|Marius Laska et.al.|[2207.02668v1](http://arxiv.org/abs/2207.02668v1)|null|
+|**2022-07-06**|**Vortex merging and splitting events in viscoelastic Taylor Couette flow**|Jose M. Lopez et.al.|[2207.02453v1](http://arxiv.org/abs/2207.02453v1)|null|
 |**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
 |**2022-07-04**|**VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**|Ling Gao et.al.|[2207.01404v1](http://arxiv.org/abs/2207.01404v1)|null|
 |**2022-07-04**|**A Bregman inertial forward-reflected-backward method for nonconvex minimization**|Xianfu Wang et.al.|[2207.01170v1](http://arxiv.org/abs/2207.01170v1)|null|
@@ -22,13 +25,10 @@
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
 |**2022-06-27**|**Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**|Barak Or et.al.|[2206.13428v1](http://arxiv.org/abs/2206.13428v1)|null|
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
+|**2022-06-26**|**Measuring inertial mass with Kibble balance**|Rajendra P. Gupta et.al.|[2207.02680v1](http://arxiv.org/abs/2207.02680v1)|null|
 |**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
 |**2022-06-26**|**Asteroseismology of the dip structure in period-spacings of rapidly rotating gamma Doradus stars caused by the coupling between core and envelope oscillations**|Takato Tokuno et.al.|[2206.12818v1](http://arxiv.org/abs/2206.12818v1)|null|
 |**2022-06-26**|**Energy transfer in simple and active binary fluid turbulence {\bf {-}} a false friend of incompressible MHD turbulence**|Nandita Pan et.al.|[2206.12782v1](http://arxiv.org/abs/2206.12782v1)|null|
 |**2022-06-25**|**An objective vortex identification method**|Yifei Yu et.al.|[2206.12521v1](http://arxiv.org/abs/2206.12521v1)|null|
 |**2022-06-24**|**Adaptive Neural Network Stochastic-Filter-based Controller for Attitude Tracking with Disturbance Rejection**|Hashim A. Hashim et.al.|[2206.12476v1](http://arxiv.org/abs/2206.12476v1)|null|
 |**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
-|**2022-06-24**|**Computer based activity to understand proper acceleration using the Rindler observer**|Sushil Kumar Singh et.al.|[2206.12130v1](http://arxiv.org/abs/2206.12130v1)|null|
-|**2022-06-23**|**A possible fluid interpretation and tidal force equation on a generic null hypersurface in Einstein-Cartan theory**|Sumit Dey et.al.|[2206.11875v1](http://arxiv.org/abs/2206.11875v1)|null|
-|**2022-06-23**|**Dynamics of Topological Defects in the noisy Kuramoto Model in two dimensions**|Ylann Rouzaire et.al.|[2206.11730v1](http://arxiv.org/abs/2206.11730v1)|null|
-|**2022-06-23**|**Microscopic foundation of the $μ$(I) rheology for dense granular flows on inclined planes**|Denis Dumont et.al.|[2206.11633v1](http://arxiv.org/abs/2206.11633v1)|null|

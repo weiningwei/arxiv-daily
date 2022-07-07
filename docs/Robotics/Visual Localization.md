@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-06**|**Multi-View Object Pose Refinement With Differentiable Renderer**|Ivan Shugurov et.al.|[2207.02811v1](http://arxiv.org/abs/2207.02811v1)|null|
+|**2022-07-06**|**Gaze-Vergence-Controlled See-Through Vision in Augmented Reality**|Zhimin Wang et.al.|[2207.02645v1](http://arxiv.org/abs/2207.02645v1)|null|
+|**2022-07-06**|**VMRF: View Matching Neural Radiance Fields**|Jiahui Zhang et.al.|[2207.02621v1](http://arxiv.org/abs/2207.02621v1)|null|
+|**2022-07-06**|**The MICADO Atmospheric Dispersion Corrector: Optomechanical design, expected performance and calibration techniques**|J. A. van den Born et.al.|[2207.02572v1](http://arxiv.org/abs/2207.02572v1)|null|
+|**2022-07-06**|**Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps**|Alessandro Simoni et.al.|[2207.02519v1](http://arxiv.org/abs/2207.02519v1)|null|
+|**2022-07-06**|**3DG-STFM: 3D Geometric Guided Student-Teacher Feature Matching**|Runyu Mao et.al.|[2207.02375v1](http://arxiv.org/abs/2207.02375v1)|[link](https://github.com/ryan-prime/3dg-stfm)|
+|**2022-07-05**|**Hollow-core photonic crystal fibers for Power-over-Fiber systems**|Jonas H. Osório et.al.|[2207.02324v1](http://arxiv.org/abs/2207.02324v1)|null|
+|**2022-07-05**|**Array Camera Image Fusion using Physics-Aware Transformers**|Qian Huang et.al.|[2207.02250v1](http://arxiv.org/abs/2207.02250v1)|[link](https://github.com/djbradyatopticalsciencesarizona/physicsawaretransformer)|
 |**2022-07-05**|**CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers**|Runsheng Xu et.al.|[2207.02202v1](http://arxiv.org/abs/2207.02202v1)|null|
 |**2022-07-05**|**NeuralPassthrough: Learned Real-Time View Synthesis for VR**|Lei Xiao et.al.|[2207.02186v1](http://arxiv.org/abs/2207.02186v1)|[link](https://github.com/facebookresearch/NeuralPassthrough)|
 |**2022-07-05**|**Multiview Detection with Cardboard Human Modeling**|Jiahao Ma et.al.|[2207.02013v1](http://arxiv.org/abs/2207.02013v1)|null|
@@ -24,11 +32,3 @@
 |**2022-07-03**|**Wireless Channel Prediction in Partially Observed Environments**|Mingsheng Yin et.al.|[2207.00934v1](http://arxiv.org/abs/2207.00934v1)|null|
 |**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
 |**2022-07-02**|**ORA3D: Overlap Region Aware Multi-view 3D Object Detection**|Wonseok Roh et.al.|[2207.00865v1](http://arxiv.org/abs/2207.00865v1)|null|
-|**2022-07-02**|**Domain-Adaptive 3D Medical Image Synthesis: An Efficient Unsupervised Approach**|Qingqiao Hu et.al.|[2207.00844v1](http://arxiv.org/abs/2207.00844v1)|[link](https://github.com/winstonhutiger/2d_vae_uda_for_3d_sythesis)|
-|**2022-07-01**|**Human-Assisted Robotic Detection of Foreign Object Debris Inside Confined Spaces of Marine Vessels Using Probabilistic Mapping**|Benjamin Wong et.al.|[2207.00681v1](http://arxiv.org/abs/2207.00681v1)|null|
-|**2022-07-01**|**Point Cloud Change Detection With Stereo V-SLAM:Dataset, Metrics and Baseline**|Zihan Lin et.al.|[2207.00246v1](http://arxiv.org/abs/2207.00246v1)|[link](https://github.com/lnexenl/ppca-vins)|
-|**2022-07-01**|**Keeping Less is More: Point Sparsification for Visual SLAM**|Yeonsoo Park et.al.|[2207.00225v1](http://arxiv.org/abs/2207.00225v1)|null|
-|**2022-07-01**|**MMFN: Multi-Modal-Fusion-Net for End-to-End Driving**|Qingwen Zhang et.al.|[2207.00186v1](http://arxiv.org/abs/2207.00186v1)|[link](https://github.com/Kin-Zhang/mmfn)|
-|**2022-07-01**|**Leveraging Monocular Disparity Estimation for Single-View Reconstruction**|Marissa Ramirez de Chanlatte et.al.|[2207.00182v1](http://arxiv.org/abs/2207.00182v1)|null|
-|**2022-06-30**|**First light of BEaTriX, the new testing facility for the modular X-ray optics of the ATHENA mission**|S. Basso et.al.|[2206.15468v1](http://arxiv.org/abs/2206.15468v1)|null|
-|**2022-06-30**|**PolarFormer: Multi-camera 3D Object Detection with Polar Transformers**|Yanqin Jiang et.al.|[2206.15398v2](http://arxiv.org/abs/2206.15398v2)|[link](https://github.com/fudan-zvg/polarformer)|
