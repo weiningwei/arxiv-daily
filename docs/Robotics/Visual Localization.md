@@ -16,7 +16,7 @@
 |**2022-07-04**|**Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space**|Shivansh Beohar et.al.|[2207.01275v2](http://arxiv.org/abs/2207.01275v2)|null|
 |**2022-07-04**|**Adversarial Pairwise Reverse Attention for Camera Performance Imbalance in Person Re-identification: New Dataset and Metrics**|Eugene P. W. Ang et.al.|[2207.01204v1](http://arxiv.org/abs/2207.01204v1)|null|
 |**2022-07-04**|**Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**|Tianlong Chen et.al.|[2207.01164v1](http://arxiv.org/abs/2207.01164v1)|[link](https://github.com/vita-group/aug-nerf)|
-|**2022-07-03**|**You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers**|Xiaoke Shen et.al.|[2207.01071v1](http://arxiv.org/abs/2207.01071v1)|[link](https://github.com/liketheflower/yonod)|
+|**2022-07-03**|**You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers**|Xiaoke Shen et.al.|[2207.01071v1](http://arxiv.org/abs/2207.01071v1)|null|
 |**2022-07-03**|**Lasers to Events: Automatic Extrinsic Calibration of Lidars and Event Cameras**|Kevin Ta et.al.|[2207.01009v1](http://arxiv.org/abs/2207.01009v1)|null|
 |**2022-07-03**|**Supervised learning for improving the accuracy of robot-mounted 3D camera applied to human gait analysis**|Diego Guffanti et.al.|[2207.01002v1](http://arxiv.org/abs/2207.01002v1)|null|
 |**2022-07-03**|**Dynamic boxes fusion strategy in object detection**|Zhijiang Wan et.al.|[2207.00997v1](http://arxiv.org/abs/2207.00997v1)|null|
