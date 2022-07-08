@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-07**|**Inertia Adequacy in Transient Stability Models for Synthetic Electric Grids**|Adam B. Birchfield et.al.|[2207.03396v1](http://arxiv.org/abs/2207.03396v1)|null|
+|**2022-07-07**|**Egocentric Visual Self-Modeling for Legged Robot Locomotion**|Yuhang Hu et.al.|[2207.03386v1](http://arxiv.org/abs/2207.03386v1)|null|
+|**2022-07-07**|**Energy-based Legged Robots Terrain Traversability Modeling via Deep Inverse Reinforcement Learning**|Lu Gan et.al.|[2207.03034v1](http://arxiv.org/abs/2207.03034v1)|null|
+|**2022-07-06**|**MoRPI: Mobile Robot Pure Inertial Navigation**|Aviad Etzion et.al.|[2207.02982v1](http://arxiv.org/abs/2207.02982v1)|null|
+|**2022-07-06**|**Statistics for an object actively driven by spontaneous symmetry breaking into reversible directions**|Andreas M. Menzel et.al.|[2207.02889v1](http://arxiv.org/abs/2207.02889v1)|null|
 |**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
 |**2022-07-06**|**VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**|Marius Laska et.al.|[2207.02668v1](http://arxiv.org/abs/2207.02668v1)|null|
 |**2022-07-06**|**Vortex merging and splitting events in viscoelastic Taylor Couette flow**|Jose M. Lopez et.al.|[2207.02453v1](http://arxiv.org/abs/2207.02453v1)|null|
@@ -27,8 +32,3 @@
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
 |**2022-06-26**|**Measuring inertial mass with Kibble balance**|Rajendra P. Gupta et.al.|[2207.02680v1](http://arxiv.org/abs/2207.02680v1)|null|
 |**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
-|**2022-06-26**|**Asteroseismology of the dip structure in period-spacings of rapidly rotating gamma Doradus stars caused by the coupling between core and envelope oscillations**|Takato Tokuno et.al.|[2206.12818v1](http://arxiv.org/abs/2206.12818v1)|null|
-|**2022-06-26**|**Energy transfer in simple and active binary fluid turbulence {\bf {-}} a false friend of incompressible MHD turbulence**|Nandita Pan et.al.|[2206.12782v1](http://arxiv.org/abs/2206.12782v1)|null|
-|**2022-06-25**|**An objective vortex identification method**|Yifei Yu et.al.|[2206.12521v1](http://arxiv.org/abs/2206.12521v1)|null|
-|**2022-06-24**|**Adaptive Neural Network Stochastic-Filter-based Controller for Attitude Tracking with Disturbance Rejection**|Hashim A. Hashim et.al.|[2206.12476v1](http://arxiv.org/abs/2206.12476v1)|null|
-|**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
