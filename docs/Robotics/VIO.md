@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**Cascade of circulicity in compressible turbulence**|Olivier Soulard et.al.|[2207.03761v1](http://arxiv.org/abs/2207.03761v1)|null|
+|**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu et.al.|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
 |**2022-07-07**|**Inertia Adequacy in Transient Stability Models for Synthetic Electric Grids**|Adam B. Birchfield et.al.|[2207.03396v1](http://arxiv.org/abs/2207.03396v1)|null|
 |**2022-07-07**|**Egocentric Visual Self-Modeling for Legged Robot Locomotion**|Yuhang Hu et.al.|[2207.03386v1](http://arxiv.org/abs/2207.03386v1)|null|
 |**2022-07-07**|**Energy-based Legged Robots Terrain Traversability Modeling via Deep Inverse Reinforcement Learning**|Lu Gan et.al.|[2207.03034v1](http://arxiv.org/abs/2207.03034v1)|[link](https://github.com/ganlumomo/minicheetah-traversability-irl)|
@@ -30,5 +32,3 @@
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|[link](https://github.com/AbanobSoliman/IBISCape)|
 |**2022-06-27**|**Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**|Barak Or et.al.|[2206.13428v1](http://arxiv.org/abs/2206.13428v1)|null|
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
-|**2022-06-26**|**Measuring inertial mass with Kibble balance**|Rajendra P. Gupta et.al.|[2207.02680v1](http://arxiv.org/abs/2207.02680v1)|null|
-|**2022-06-26**|**AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**|Nimet Kaygusuz et.al.|[2206.12946v1](http://arxiv.org/abs/2206.12946v1)|null|
