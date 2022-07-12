@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-11**|**Computer Vision-Aided Reconfigurable Intelligent Surface-Based Beam Tracking: Prototyping and Experimental Results**|Ming Ouyang et.al.|[2207.05032v1](http://arxiv.org/abs/2207.05032v1)|null|
+|**2022-07-11**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680v1](http://arxiv.org/abs/2207.04680v1)|null|
+|**2022-07-10**|**2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds**|Xu Yan et.al.|[2207.04397v1](http://arxiv.org/abs/2207.04397v1)|null|
+|**2022-07-10**|**Realization of strong coupling between deterministic atom arrays and a high finesse miniature optical cavity**|Yanxin Liu et.al.|[2207.04371v1](http://arxiv.org/abs/2207.04371v1)|null|
+|**2022-07-09**|**Variational Approach for Intensity Domain Multi-exposure Image Fusion**|Harbinder Singh et.al.|[2207.04204v1](http://arxiv.org/abs/2207.04204v1)|null|
+|**2022-07-09**|**Direct Handheld Burst Imaging to Simulated Defocus**|Meng-Lin Wu et.al.|[2207.04175v1](http://arxiv.org/abs/2207.04175v1)|null|
+|**2022-07-08**|**A Study on the Effectiveness of Using Telepresence and Multiple Cameras in Remote Physical Therapy**|Hanseul Jun et.al.|[2207.04095v1](http://arxiv.org/abs/2207.04095v1)|null|
 |**2022-07-08**|**BlindSpotNet: Seeing Where We Cannot See**|Taichi Fukuda et.al.|[2207.03870v1](http://arxiv.org/abs/2207.03870v1)|null|
 |**2022-07-08**|**Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints**|Philipp Glira et.al.|[2207.03785v1](http://arxiv.org/abs/2207.03785v1)|null|
 |**2022-07-08**|**Pick the Right Co-Worker: Online Assessment of Cognitive Ergonomics in Human-Robot Collaborative Assembly**|Marta Lagomarsino et.al.|[2207.03779v1](http://arxiv.org/abs/2207.03779v1)|null|
@@ -25,10 +32,3 @@
 |**2022-07-05**|**CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers**|Runsheng Xu et.al.|[2207.02202v1](http://arxiv.org/abs/2207.02202v1)|null|
 |**2022-07-05**|**NeuralPassthrough: Learned Real-Time View Synthesis for VR**|Lei Xiao et.al.|[2207.02186v1](http://arxiv.org/abs/2207.02186v1)|[link](https://github.com/facebookresearch/NeuralPassthrough)|
 |**2022-07-05**|**Multiview Detection with Cardboard Human Modeling**|Jiahao Ma et.al.|[2207.02013v2](http://arxiv.org/abs/2207.02013v2)|null|
-|**2022-07-05**|**Federated Self-supervised Learning for Video Understanding**|Yasar Abbas Ur Rehman et.al.|[2207.01975v1](http://arxiv.org/abs/2207.01975v1)|null|
-|**2022-07-05**|**Drone Detection and Tracking in Real-Time by Fusion of Different Sensing Modalities**|Fredrik Svanström et.al.|[2207.01927v1](http://arxiv.org/abs/2207.01927v1)|null|
-|**2022-07-05**|**ASR-Generated Text for Language Model Pre-training Applied to Speech Tasks**|Valentin Pelloin et.al.|[2207.01893v1](http://arxiv.org/abs/2207.01893v1)|null|
-|**2022-07-05**|**Vision-based Uneven BEV Representation Learning with Polar Rasterization and Surface Estimation**|Zhi Liu et.al.|[2207.01878v1](http://arxiv.org/abs/2207.01878v1)|null|
-|**2022-07-05**|**Learning Local Implicit Fourier Representation for Image Warping**|Jaewon Lee et.al.|[2207.01831v1](http://arxiv.org/abs/2207.01831v1)|[link](https://github.com/jaewon-lee-b/ltew)|
-|**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
-|**2022-07-04**|**LaTeRF: Label and Text Driven Object Radiance Fields**|Ashkan Mirzaei et.al.|[2207.01583v2](http://arxiv.org/abs/2207.01583v2)|null|
