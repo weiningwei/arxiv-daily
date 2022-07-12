@@ -24,7 +24,7 @@
 |**2022-07-05**|**Array Camera Image Fusion using Physics-Aware Transformers**|Qian Huang et.al.|[2207.02250v1](http://arxiv.org/abs/2207.02250v1)|[link](https://github.com/djbradyatopticalsciencesarizona/physicsawaretransformer)|
 |**2022-07-05**|**CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers**|Runsheng Xu et.al.|[2207.02202v1](http://arxiv.org/abs/2207.02202v1)|null|
 |**2022-07-05**|**NeuralPassthrough: Learned Real-Time View Synthesis for VR**|Lei Xiao et.al.|[2207.02186v1](http://arxiv.org/abs/2207.02186v1)|[link](https://github.com/facebookresearch/NeuralPassthrough)|
-|**2022-07-05**|**Multiview Detection with Cardboard Human Modeling**|Jiahao Ma et.al.|[2207.02013v1](http://arxiv.org/abs/2207.02013v1)|null|
+|**2022-07-05**|**Multiview Detection with Cardboard Human Modeling**|Jiahao Ma et.al.|[2207.02013v2](http://arxiv.org/abs/2207.02013v2)|null|
 |**2022-07-05**|**Federated Self-supervised Learning for Video Understanding**|Yasar Abbas Ur Rehman et.al.|[2207.01975v1](http://arxiv.org/abs/2207.01975v1)|null|
 |**2022-07-05**|**Drone Detection and Tracking in Real-Time by Fusion of Different Sensing Modalities**|Fredrik Svanström et.al.|[2207.01927v1](http://arxiv.org/abs/2207.01927v1)|null|
 |**2022-07-05**|**ASR-Generated Text for Language Model Pre-training Applied to Speech Tasks**|Valentin Pelloin et.al.|[2207.01893v1](http://arxiv.org/abs/2207.01893v1)|null|
