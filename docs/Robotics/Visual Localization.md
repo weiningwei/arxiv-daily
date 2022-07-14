@@ -31,4 +31,4 @@
 |**2022-07-07**|**Finding Fallen Objects Via Asynchronous Audio-Visual Integration**|Chuang Gan et.al.|[2207.03483v1](http://arxiv.org/abs/2207.03483v1)|null|
 |**2022-07-07**|**D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration**|Yuzhi Zhao et.al.|[2207.03294v1](http://arxiv.org/abs/2207.03294v1)|[link](https://github.com/zhaoyuzhi/d2hnet)|
 |**2022-07-07**|**Polytopic Planar Region Characterization of Rough Terrains for Legged Locomotion**|Zhi Xu et.al.|[2207.03098v1](http://arxiv.org/abs/2207.03098v1)|null|
-|**2022-07-07**|**Low-Cost Raspberry Pi Star Sensor for Small Satellites**|Bharat Chandra P et.al.|[2207.03087v1](http://arxiv.org/abs/2207.03087v1)|null|
+|**2022-07-07**|**Low-Cost Raspberry Pi Star Sensor for Small Satellites**|Bharat Chandra P et.al.|[2207.03087v2](http://arxiv.org/abs/2207.03087v2)|null|

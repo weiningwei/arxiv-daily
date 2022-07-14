@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-07-12**|**Design of Dynamics Invariant LSTM for Touch Based Human-UAV Interaction Detection**|Anees Peringal et.al.|[2207.05403v1](http://arxiv.org/abs/2207.05403v1)|null|
-|**2022-07-12**|**Discontinuous Shear Thickening of a Moderately Dense Inertial Suspension of Hydrodynamically Interacting Frictionless Soft Particles**|Satoshi Takada et.al.|[2207.05348v1](http://arxiv.org/abs/2207.05348v1)|null|
+|**2022-07-12**|**Discontinuous Shear Thickening of a Moderately Dense Inertial Suspension of Hydrodynamically Interacting Frictionless Soft Particles**|Satoshi Takada et.al.|[2207.05348v2](http://arxiv.org/abs/2207.05348v2)|null|
 |**2022-07-11**|**Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**|Yaniv Nemcovsky et.al.|[2207.05729v1](http://arxiv.org/abs/2207.05729v1)|null|
 |**2022-07-11**|**Improved Calibration Procedure for Wireless Inertial Measurement Units without Precision Equipment**|Fritz Webering et.al.|[2207.04801v1](http://arxiv.org/abs/2207.04801v1)|null|
 |**2022-07-09**|**Experimental Observation and Description of Bandgaps Opening in Chiral Phononic Crystals by Analogy with Thomson scattering**|Wei Ding et.al.|[2207.04282v1](http://arxiv.org/abs/2207.04282v1)|null|
