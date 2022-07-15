@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-14**|**Accurate Ground-Truth Depth Image Generation via Overfit Training of Point Cloud Registration using Local Frame Sets**|Jiwan Kim et.al.|[2207.07016v1](http://arxiv.org/abs/2207.07016v1)|null|
+|**2022-07-14**|**Pose-based Tremor Classification for Parkinson's Disease Diagnosis from Video**|Haozheng Zhang et.al.|[2207.06828v1](http://arxiv.org/abs/2207.06828v1)|null|
+|**2022-07-14**|**An Empirical Evaluation of Four Off-the-Shelf Proprietary Visual-Inertial Odometry Systems**|Jungha Kim et.al.|[2207.06780v1](http://arxiv.org/abs/2207.06780v1)|null|
+|**2022-07-13**|**HST/WFC3 H$α$ Direct-Imaging Detection of a Point-like Source in the Disk Cavity of AB Aur**|Yifan Zhou et.al.|[2207.06525v1](http://arxiv.org/abs/2207.06525v1)|null|
+|**2022-07-13**|**Graph CNN for Moving Object Detection in Complex Environments from Unseen Videos**|Jhony H. Giraldo et.al.|[2207.06440v1](http://arxiv.org/abs/2207.06440v1)|null|
 |**2022-07-13**|**A General Framework for Partial to Full Image Registration**|Carlos Francisco Moreno-Garcia et.al.|[2207.06387v1](http://arxiv.org/abs/2207.06387v1)|null|
 |**2022-07-13**|**A guideline proposal for minimizing cybersickness in VR-based serious games and applications**|Thiago Porcino et.al.|[2207.06346v1](http://arxiv.org/abs/2207.06346v1)|null|
 |**2022-07-13**|**6D Camera Relocalization in Visually Ambiguous Extreme Environments**|Yang Zheng et.al.|[2207.06333v1](http://arxiv.org/abs/2207.06333v1)|null|
@@ -27,8 +32,3 @@
 |**2022-07-11**|**Ice features of low-luminosity protostars in near-infrared spectra of AKARI/IRC**|Jaeyeong Kim et.al.|[2207.05178v1](http://arxiv.org/abs/2207.05178v1)|null|
 |**2022-07-11**|**Validating the Local Volume Mapper acquisition and guiding hardware**|Maximilian Häberle et.al.|[2207.05090v1](http://arxiv.org/abs/2207.05090v1)|null|
 |**2022-07-11**|**Computer Vision-Aided Reconfigurable Intelligent Surface-Based Beam Tracking: Prototyping and Experimental Results**|Ming Ouyang et.al.|[2207.05032v1](http://arxiv.org/abs/2207.05032v1)|null|
-|**2022-07-11**|**Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**|Yaniv Nemcovsky et.al.|[2207.05729v1](http://arxiv.org/abs/2207.05729v1)|[link](https://github.com/patchadversarialattacks/patchadversarialattacks)|
-|**2022-07-11**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680v1](http://arxiv.org/abs/2207.04680v1)|[link](https://github.com/senzhang-github/ekf-imu-depth)|
-|**2022-07-10**|**2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds**|Xu Yan et.al.|[2207.04397v1](http://arxiv.org/abs/2207.04397v1)|[link](https://github.com/yanx27/2dpass)|
-|**2022-07-10**|**Realization of strong coupling between deterministic atom arrays and a high finesse miniature optical cavity**|Yanxin Liu et.al.|[2207.04371v1](http://arxiv.org/abs/2207.04371v1)|null|
-|**2022-07-09**|**Variational Approach for Intensity Domain Multi-exposure Image Fusion**|Harbinder Singh et.al.|[2207.04204v1](http://arxiv.org/abs/2207.04204v1)|null|
