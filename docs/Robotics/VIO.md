@@ -6,7 +6,7 @@
 |**2022-07-13**|**Characterization of micro-Capsules Deformation in Branching Channels**|Alessandro Coclite et.al.|[2207.06043v1](http://arxiv.org/abs/2207.06043v1)|null|
 |**2022-07-13**|**A Lattice Boltzmann dynamic-Immersed Boundary scheme for the transport of deformable inertial capsules in low-Re flows**|Alessandro Coclite et.al.|[2207.06029v1](http://arxiv.org/abs/2207.06029v1)|null|
 |**2022-07-12**|**Design of Dynamics Invariant LSTM for Touch Based Human-UAV Interaction Detection**|Anees Peringal et.al.|[2207.05403v1](http://arxiv.org/abs/2207.05403v1)|null|
-|**2022-07-12**|**Kinetic theory of discontinuous shear thickening of a moderately dense inertial suspension of frictionless soft particles**|Satoshi Takada et.al.|[2207.05752v1](http://arxiv.org/abs/2207.05752v1)|null|
+|**2022-07-12**|**Kinetic theory of discontinuous shear thickening of a moderately dense inertial suspension of frictionless soft particles**|Satoshi Takada et.al.|[2207.05752v2](http://arxiv.org/abs/2207.05752v2)|null|
 |**2022-07-12**|**Discontinuous Shear Thickening of a Moderately Dense Inertial Suspension of Hydrodynamically Interacting Frictionless Soft Particles**|Satoshi Takada et.al.|[2207.05348v2](http://arxiv.org/abs/2207.05348v2)|null|
 |**2022-07-11**|**Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**|Yaniv Nemcovsky et.al.|[2207.05729v1](http://arxiv.org/abs/2207.05729v1)|[link](https://github.com/patchadversarialattacks/patchadversarialattacks)|
 |**2022-07-11**|**Improved Calibration Procedure for Wireless Inertial Measurement Units without Precision Equipment**|Fritz Webering et.al.|[2207.04801v1](http://arxiv.org/abs/2207.04801v1)|null|
