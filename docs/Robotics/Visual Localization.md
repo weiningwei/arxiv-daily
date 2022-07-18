@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-15**|**This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis**|Trent Weiss et.al.|[2207.07587v1](http://arxiv.org/abs/2207.07587v1)|null|
+|**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
+|**2022-07-15**|**LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes**|Benjamin Alt et.al.|[2207.07418v1](http://arxiv.org/abs/2207.07418v1)|null|
+|**2022-07-15**|**A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion**|Junkun Jiang et.al.|[2207.07381v1](http://arxiv.org/abs/2207.07381v1)|null|
+|**2022-07-15**|**Glucose Control, Sleep, Obesity, and Real-World Driver Safety at Stop Intersections in Type 1 Diabetes**|Ashirwad Barnwal et.al.|[2207.07341v1](http://arxiv.org/abs/2207.07341v1)|null|
+|**2022-07-15**|**Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras**|Friedhelm Hamann et.al.|[2207.07332v1](http://arxiv.org/abs/2207.07332v1)|null|
+|**2022-07-14**|**Multi-FEAT: Multi-Feature Edge AlignmenT for Targetless Camera-LiDAR Calibration**|Bichi Zhang et.al.|[2207.07228v1](http://arxiv.org/abs/2207.07228v1)|null|
 |**2022-07-14**|**Accurate Ground-Truth Depth Image Generation via Overfit Training of Point Cloud Registration using Local Frame Sets**|Jiwan Kim et.al.|[2207.07016v1](http://arxiv.org/abs/2207.07016v1)|null|
 |**2022-07-14**|**Pose-based Tremor Classification for Parkinson's Disease Diagnosis from Video**|Haozheng Zhang et.al.|[2207.06828v1](http://arxiv.org/abs/2207.06828v1)|[link](https://github.com/mattz10966/spapnet)|
 |**2022-07-14**|**An Empirical Evaluation of Four Off-the-Shelf Proprietary Visual-Inertial Odometry Systems**|Jungha Kim et.al.|[2207.06780v1](http://arxiv.org/abs/2207.06780v1)|null|
@@ -25,10 +32,3 @@
 |**2022-07-12**|**Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**|Bo Ju et.al.|[2207.05497v1](http://arxiv.org/abs/2207.05497v1)|null|
 |**2022-07-12**|**CorrI2P: Deep Image-to-Point Cloud Registration via Dense Correspondence**|Siyu Ren et.al.|[2207.05483v1](http://arxiv.org/abs/2207.05483v1)|null|
 |**2022-07-12**|**On the limits of perceptual quality measures for enhanced underwater images**|Chau Yi Li et.al.|[2207.05470v1](http://arxiv.org/abs/2207.05470v1)|null|
-|**2022-07-12**|**Controllable Shadow Generation Using Pixel Height Maps**|Yichen Sheng et.al.|[2207.05385v2](http://arxiv.org/abs/2207.05385v2)|null|
-|**2022-07-12**|**Dual Contrastive Learning for Spatio-temporal Representation**|Shuangrui Ding et.al.|[2207.05340v1](http://arxiv.org/abs/2207.05340v1)|null|
-|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
-|**2022-07-12**|**Multi-Camera View Based Proactive BS Selection and Beam Switching for V2X**|Bo Lin et.al.|[2207.05299v1](http://arxiv.org/abs/2207.05299v1)|null|
-|**2022-07-11**|**Ice features of low-luminosity protostars in near-infrared spectra of AKARI/IRC**|Jaeyeong Kim et.al.|[2207.05178v1](http://arxiv.org/abs/2207.05178v1)|null|
-|**2022-07-11**|**Validating the Local Volume Mapper acquisition and guiding hardware**|Maximilian Häberle et.al.|[2207.05090v1](http://arxiv.org/abs/2207.05090v1)|null|
-|**2022-07-11**|**Computer Vision-Aided Reconfigurable Intelligent Surface-Based Beam Tracking: Prototyping and Experimental Results**|Ming Ouyang et.al.|[2207.05032v1](http://arxiv.org/abs/2207.05032v1)|null|
