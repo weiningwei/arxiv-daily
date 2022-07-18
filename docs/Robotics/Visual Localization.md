@@ -25,7 +25,7 @@
 |**2022-07-12**|**Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**|Bo Ju et.al.|[2207.05497v1](http://arxiv.org/abs/2207.05497v1)|null|
 |**2022-07-12**|**CorrI2P: Deep Image-to-Point Cloud Registration via Dense Correspondence**|Siyu Ren et.al.|[2207.05483v1](http://arxiv.org/abs/2207.05483v1)|null|
 |**2022-07-12**|**On the limits of perceptual quality measures for enhanced underwater images**|Chau Yi Li et.al.|[2207.05470v1](http://arxiv.org/abs/2207.05470v1)|null|
-|**2022-07-12**|**Controllable Shadow Generation Using Pixel Height Maps**|Yichen Sheng et.al.|[2207.05385v1](http://arxiv.org/abs/2207.05385v1)|null|
+|**2022-07-12**|**Controllable Shadow Generation Using Pixel Height Maps**|Yichen Sheng et.al.|[2207.05385v2](http://arxiv.org/abs/2207.05385v2)|null|
 |**2022-07-12**|**Dual Contrastive Learning for Spatio-temporal Representation**|Shuangrui Ding et.al.|[2207.05340v1](http://arxiv.org/abs/2207.05340v1)|null|
 |**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
 |**2022-07-12**|**Multi-Camera View Based Proactive BS Selection and Beam Switching for V2X**|Bo Lin et.al.|[2207.05299v1](http://arxiv.org/abs/2207.05299v1)|null|
