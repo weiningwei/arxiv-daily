@@ -2,6 +2,25 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye et.al.|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
+|**2022-07-18**|**Action-based Contrastive Learning for Trajectory Prediction**|Marah Halawa et.al.|[2207.08664v1](http://arxiv.org/abs/2207.08664v1)|null|
+|**2022-07-18**|**Neural Distributed Image Compression with Cross-Attention Feature Alignment**|Nitish Mital et.al.|[2207.08489v1](http://arxiv.org/abs/2207.08489v1)|[link](https://github.com/ipc-lab/ndic-cam)|
+|**2022-07-18**|**Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**|Marco Orsingher et.al.|[2207.08439v1](http://arxiv.org/abs/2207.08439v1)|null|
+|**2022-07-18**|**Efficient View Clustering and Selection for City-Scale 3D Reconstruction**|Marco Orsingher et.al.|[2207.08434v1](http://arxiv.org/abs/2207.08434v1)|null|
+|**2022-07-18**|**MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects**|Juewen Peng et.al.|[2207.08403v1](http://arxiv.org/abs/2207.08403v1)|[link](https://github.com/juewenpeng/mpib)|
+|**2022-07-17**|**A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions**|Duncan Calvert et.al.|[2207.08312v1](http://arxiv.org/abs/2207.08312v1)|null|
+|**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
+|**2022-07-17**|**INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions**|Zhihong Zhang et.al.|[2207.08201v1](http://arxiv.org/abs/2207.08201v1)|null|
+|**2022-07-16**|**DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras**|Ruizhi Shao et.al.|[2207.08000v1](http://arxiv.org/abs/2207.08000v1)|null|
+|**2022-07-16**|**Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences**|Matthieu Zins et.al.|[2207.07953v1](http://arxiv.org/abs/2207.07953v1)|null|
+|**2022-07-16**|**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**|Juze Zhang et.al.|[2207.07900v1](http://arxiv.org/abs/2207.07900v1)|null|
+|**2022-07-16**|**Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars**|Dongjiang Cao et.al.|[2207.07896v1](http://arxiv.org/abs/2207.07896v1)|null|
+|**2022-07-16**|**NOCT: Nonlinear Observability with Constraints and Time Offset**|Jianzhu Huai et.al.|[2207.07881v1](http://arxiv.org/abs/2207.07881v1)|null|
+|**2022-07-16**|**Scene Graph for Embodied Exploration in Cluttered Scenario**|Yuhong Deng et.al.|[2207.07870v1](http://arxiv.org/abs/2207.07870v1)|null|
+|**2022-07-15**|**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**|Kyle Min et.al.|[2207.07783v1](http://arxiv.org/abs/2207.07783v1)|[link](https://github.com/sra2/spell)|
+|**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
+|**2022-07-15**|**Optimizing Data Collection in Deep Reinforcement Learning**|James Gleeson et.al.|[2207.07736v1](http://arxiv.org/abs/2207.07736v1)|null|
+|**2022-07-15**|**Printable Flexible Robots for Remote Learning**|Savita V. Kendre et.al.|[2207.07729v1](http://arxiv.org/abs/2207.07729v1)|null|
 |**2022-07-15**|**This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis**|Trent Weiss et.al.|[2207.07587v1](http://arxiv.org/abs/2207.07587v1)|null|
 |**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
 |**2022-07-15**|**LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes**|Benjamin Alt et.al.|[2207.07418v1](http://arxiv.org/abs/2207.07418v1)|null|
@@ -13,22 +32,3 @@
 |**2022-07-14**|**Pose-based Tremor Classification for Parkinson's Disease Diagnosis from Video**|Haozheng Zhang et.al.|[2207.06828v1](http://arxiv.org/abs/2207.06828v1)|[link](https://github.com/mattz10966/spapnet)|
 |**2022-07-14**|**An Empirical Evaluation of Four Off-the-Shelf Proprietary Visual-Inertial Odometry Systems**|Jungha Kim et.al.|[2207.06780v1](http://arxiv.org/abs/2207.06780v1)|null|
 |**2022-07-13**|**HST/WFC3 H$α$ Direct-Imaging Detection of a Point-like Source in the Disk Cavity of AB Aur**|Yifan Zhou et.al.|[2207.06525v1](http://arxiv.org/abs/2207.06525v1)|null|
-|**2022-07-13**|**Graph CNN for Moving Object Detection in Complex Environments from Unseen Videos**|Jhony H. Giraldo et.al.|[2207.06440v1](http://arxiv.org/abs/2207.06440v1)|null|
-|**2022-07-13**|**A General Framework for Partial to Full Image Registration**|Carlos Francisco Moreno-Garcia et.al.|[2207.06387v1](http://arxiv.org/abs/2207.06387v1)|null|
-|**2022-07-13**|**A guideline proposal for minimizing cybersickness in VR-based serious games and applications**|Thiago Porcino et.al.|[2207.06346v1](http://arxiv.org/abs/2207.06346v1)|null|
-|**2022-07-13**|**6D Camera Relocalization in Visually Ambiguous Extreme Environments**|Yang Zheng et.al.|[2207.06333v1](http://arxiv.org/abs/2207.06333v1)|null|
-|**2022-07-13**|**Organic Priors in Non-Rigid Structure from Motion**|Suryansh Kumar et.al.|[2207.06262v3](http://arxiv.org/abs/2207.06262v3)|null|
-|**2022-07-13**|**Multiview Contrastive Learning for Completely Blind Video Quality Assessment of User Generated Content**|Shankhanil Mitra et.al.|[2207.06148v1](http://arxiv.org/abs/2207.06148v1)|[link](https://github.com/shankhanil006/vision)|
-|**2022-07-13**|**Robust and accurate depth estimation by fusing LiDAR and Stereo**|Guangyao Xu et.al.|[2207.06139v1](http://arxiv.org/abs/2207.06139v1)|null|
-|**2022-07-13**|**Probing the Robustness of Independent Mechanism Analysis for Representation Learning**|Joanna Sliwa et.al.|[2207.06137v1](http://arxiv.org/abs/2207.06137v1)|null|
-|**2022-07-13**|**MM-ALT: A Multimodal Automatic Lyric Transcription System**|Xiangming Gu et.al.|[2207.06127v1](http://arxiv.org/abs/2207.06127v1)|null|
-|**2022-07-13**|**MultiStream: A Simple and Fast Multiple Cameras Visual Monitor and Directly Streaming**|Jinwei Lin et.al.|[2207.06078v1](http://arxiv.org/abs/2207.06078v1)|[link](https://github.com/jylinok/freedrawingdetecting)|
-|**2022-07-13**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058v1](http://arxiv.org/abs/2207.06058v1)|[link](https://github.com/peterfws/structure-plp-slam)|
-|**2022-07-13**|**Rapid Person Re-Identification via Sub-space Consistency Regularization**|Qingze Yin et.al.|[2207.05933v1](http://arxiv.org/abs/2207.05933v1)|null|
-|**2022-07-12**|**Comparing fast imaging techniques for individual pulse imaging by Cherenkov in vivo from electron FLASH irradiation**|Mahbubur Rahman et.al.|[2207.05847v1](http://arxiv.org/abs/2207.05847v1)|null|
-|**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
-|**2022-07-12**|**Ego-motion Estimation Based on Fusion of Images and Events**|Liren Yang et.al.|[2207.05588v1](http://arxiv.org/abs/2207.05588v1)|[link](https://github.com/yanglier/ego-motion-estimation)|
-|**2022-07-12**|**Camera Pose Auto-Encoders for Improving Pose Regression**|Yoli Shavit et.al.|[2207.05530v1](http://arxiv.org/abs/2207.05530v1)|[link](https://github.com/yolish/camera-pose-auto-encoders)|
-|**2022-07-12**|**Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**|Bo Ju et.al.|[2207.05497v1](http://arxiv.org/abs/2207.05497v1)|null|
-|**2022-07-12**|**CorrI2P: Deep Image-to-Point Cloud Registration via Dense Correspondence**|Siyu Ren et.al.|[2207.05483v1](http://arxiv.org/abs/2207.05483v1)|null|
-|**2022-07-12**|**On the limits of perceptual quality measures for enhanced underwater images**|Chau Yi Li et.al.|[2207.05470v1](http://arxiv.org/abs/2207.05470v1)|null|

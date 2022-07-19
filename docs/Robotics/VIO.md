@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
+|**2022-07-17**|**FEJ-VIRO: A Consistent First-Estimate Jacobian Visual-Inertial-Ranging Odometry**|Shenhan Jia et.al.|[2207.08214v1](http://arxiv.org/abs/2207.08214v1)|null|
+|**2022-07-16**|**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**|Haimei Zhao et.al.|[2207.07895v1](http://arxiv.org/abs/2207.07895v1)|[link](https://github.com/sunnyhelen/jperceiver)|
+|**2022-07-16**|**NOCT: Nonlinear Observability with Constraints and Time Offset**|Jianzhu Huai et.al.|[2207.07881v1](http://arxiv.org/abs/2207.07881v1)|null|
+|**2022-07-15**|**The bouncing dynamics of inertial self-propelled particles reveals directional asymmetry**|Denis Horvath et.al.|[2207.07699v1](http://arxiv.org/abs/2207.07699v1)|null|
 |**2022-07-14**|**An experimental study on the settling velocity of inertial particles in different homogeneous isotropic turbulent flows**|Amélie Ferran et.al.|[2207.07199v1](http://arxiv.org/abs/2207.07199v1)|null|
 |**2022-07-14**|**Kinetic Field Theory: Perturbation theory beyond first order**|Christophe Pixius et.al.|[2207.06852v1](http://arxiv.org/abs/2207.06852v1)|null|
 |**2022-07-14**|**Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset**|Riccardo Giubilato et.al.|[2207.06815v1](http://arxiv.org/abs/2207.06815v1)|null|
@@ -27,8 +32,3 @@
 |**2022-07-06**|**VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**|Marius Laska et.al.|[2207.02668v1](http://arxiv.org/abs/2207.02668v1)|null|
 |**2022-07-06**|**Vortex merging and splitting events in viscoelastic Taylor Couette flow**|Jose M. Lopez et.al.|[2207.02453v1](http://arxiv.org/abs/2207.02453v1)|null|
 |**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
-|**2022-07-04**|**VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**|Ling Gao et.al.|[2207.01404v1](http://arxiv.org/abs/2207.01404v1)|null|
-|**2022-07-04**|**A Bregman inertial forward-reflected-backward method for nonconvex minimization**|Xianfu Wang et.al.|[2207.01170v1](http://arxiv.org/abs/2207.01170v1)|null|
-|**2022-07-04**|**VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM**|Danpeng Chen et.al.|[2207.01158v1](http://arxiv.org/abs/2207.01158v1)|null|
-|**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
-|**2022-07-01**|**Constraining Model Uncertainty in Plasma Equation-of-State Models with a Physics-Constrained Gaussian Process**|Jim A Gaffney et.al.|[2207.00668v1](http://arxiv.org/abs/2207.00668v1)|null|
