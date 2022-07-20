@@ -17,7 +17,7 @@
 |**2022-07-16**|**Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars**|Dongjiang Cao et.al.|[2207.07896v1](http://arxiv.org/abs/2207.07896v1)|null|
 |**2022-07-16**|**NOCT: Nonlinear Observability with Constraints and Time Offset**|Jianzhu Huai et.al.|[2207.07881v1](http://arxiv.org/abs/2207.07881v1)|null|
 |**2022-07-16**|**Scene Graph for Embodied Exploration in Cluttered Scenario**|Yuhong Deng et.al.|[2207.07870v1](http://arxiv.org/abs/2207.07870v1)|null|
-|**2022-07-15**|**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**|Kyle Min et.al.|[2207.07783v1](http://arxiv.org/abs/2207.07783v1)|[link](https://github.com/sra2/spell)|
+|**2022-07-15**|**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**|Kyle Min et.al.|[2207.07783v2](http://arxiv.org/abs/2207.07783v2)|[link](https://github.com/sra2/spell)|
 |**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
 |**2022-07-15**|**Optimizing Data Collection in Deep Reinforcement Learning**|James Gleeson et.al.|[2207.07736v1](http://arxiv.org/abs/2207.07736v1)|null|
 |**2022-07-15**|**Printable Flexible Robots for Remote Learning**|Savita V. Kendre et.al.|[2207.07729v1](http://arxiv.org/abs/2207.07729v1)|null|
