@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-19**|**Momentum Injection via Dielectric Barrier Discharge Actuators in Low-Speed External Flow**|Anthony Tang et.al.|[2207.09424v1](http://arxiv.org/abs/2207.09424v1)|null|
+|**2022-07-19**|**Batchelor, Saffman, and Kazantsev spectra in galactic small-scale dynamos**|Axel Brandenburg et.al.|[2207.09414v1](http://arxiv.org/abs/2207.09414v1)|null|
+|**2022-07-19**|**Submarine Navigation using Neutrinos**|Javier Fidalgo Prieto et.al.|[2207.09231v1](http://arxiv.org/abs/2207.09231v1)|null|
 |**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
 |**2022-07-17**|**FEJ-VIRO: A Consistent First-Estimate Jacobian Visual-Inertial-Ranging Odometry**|Shenhan Jia et.al.|[2207.08214v1](http://arxiv.org/abs/2207.08214v1)|null|
 |**2022-07-16**|**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**|Haimei Zhao et.al.|[2207.07895v1](http://arxiv.org/abs/2207.07895v1)|[link](https://github.com/sunnyhelen/jperceiver)|
@@ -29,6 +32,3 @@
 |**2022-07-06**|**MoRPI: Mobile Robot Pure Inertial Navigation**|Aviad Etzion et.al.|[2207.02982v1](http://arxiv.org/abs/2207.02982v1)|[link](https://github.com/ansfl/morpi)|
 |**2022-07-06**|**Statistics for an object actively driven by spontaneous symmetry breaking into reversible directions**|Andreas M. Menzel et.al.|[2207.02889v1](http://arxiv.org/abs/2207.02889v1)|null|
 |**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
-|**2022-07-06**|**VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**|Marius Laska et.al.|[2207.02668v1](http://arxiv.org/abs/2207.02668v1)|null|
-|**2022-07-06**|**Vortex merging and splitting events in viscoelastic Taylor Couette flow**|Jose M. Lopez et.al.|[2207.02453v1](http://arxiv.org/abs/2207.02453v1)|null|
-|**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|

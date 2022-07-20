@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-19**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v1](http://arxiv.org/abs/2207.09445v1)|null|
+|**2022-07-19**|**The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting**|Justin Kay et.al.|[2207.09295v1](http://arxiv.org/abs/2207.09295v1)|null|
+|**2022-07-19**|**ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**|Wang Zhao et.al.|[2207.09137v1](http://arxiv.org/abs/2207.09137v1)|null|
+|**2022-07-19**|**eCDT: Event Clustering for Simultaneous Feature Detection and Tracking-**|Sumin Hu et.al.|[2207.09108v1](http://arxiv.org/abs/2207.09108v1)|null|
+|**2022-07-18**|**Capabilities, Limitations and Challenges of Style Transfer with CycleGANs: A Study on Automatic Ring Design Generation**|Tomas Cabezon Pedroso et.al.|[2207.08989v1](http://arxiv.org/abs/2207.08989v1)|null|
+|**2022-07-18**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951v1](http://arxiv.org/abs/2207.08951v1)|null|
+|**2022-07-18**|**A hierarchical semantic segmentation framework for computer vision-based bridge damage detection**|Jingxiao Liu et.al.|[2207.08878v1](http://arxiv.org/abs/2207.08878v1)|null|
 |**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye et.al.|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
 |**2022-07-18**|**Action-based Contrastive Learning for Trajectory Prediction**|Marah Halawa et.al.|[2207.08664v1](http://arxiv.org/abs/2207.08664v1)|null|
 |**2022-07-18**|**Neural Distributed Image Compression with Cross-Attention Feature Alignment**|Nitish Mital et.al.|[2207.08489v1](http://arxiv.org/abs/2207.08489v1)|[link](https://github.com/ipc-lab/ndic-cam)|
@@ -25,10 +32,3 @@
 |**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
 |**2022-07-15**|**LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes**|Benjamin Alt et.al.|[2207.07418v1](http://arxiv.org/abs/2207.07418v1)|null|
 |**2022-07-15**|**A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion**|Junkun Jiang et.al.|[2207.07381v1](http://arxiv.org/abs/2207.07381v1)|null|
-|**2022-07-15**|**Glucose Control, Sleep, Obesity, and Real-World Driver Safety at Stop Intersections in Type 1 Diabetes**|Ashirwad Barnwal et.al.|[2207.07341v1](http://arxiv.org/abs/2207.07341v1)|null|
-|**2022-07-15**|**Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras**|Friedhelm Hamann et.al.|[2207.07332v1](http://arxiv.org/abs/2207.07332v1)|null|
-|**2022-07-14**|**Multi-FEAT: Multi-Feature Edge AlignmenT for Targetless Camera-LiDAR Calibration**|Bichi Zhang et.al.|[2207.07228v1](http://arxiv.org/abs/2207.07228v1)|null|
-|**2022-07-14**|**Accurate Ground-Truth Depth Image Generation via Overfit Training of Point Cloud Registration using Local Frame Sets**|Jiwan Kim et.al.|[2207.07016v1](http://arxiv.org/abs/2207.07016v1)|null|
-|**2022-07-14**|**Pose-based Tremor Classification for Parkinson's Disease Diagnosis from Video**|Haozheng Zhang et.al.|[2207.06828v1](http://arxiv.org/abs/2207.06828v1)|[link](https://github.com/mattz10966/spapnet)|
-|**2022-07-14**|**An Empirical Evaluation of Four Off-the-Shelf Proprietary Visual-Inertial Odometry Systems**|Jungha Kim et.al.|[2207.06780v1](http://arxiv.org/abs/2207.06780v1)|null|
-|**2022-07-13**|**HST/WFC3 H$α$ Direct-Imaging Detection of a Point-like Source in the Disk Cavity of AB Aur**|Yifan Zhou et.al.|[2207.06525v1](http://arxiv.org/abs/2207.06525v1)|null|
