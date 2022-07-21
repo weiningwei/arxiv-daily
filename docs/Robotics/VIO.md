@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
+|**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|null|
+|**2022-07-20**|**Unsupervised energy disaggregation via convolutional sparse coding**|Christian Aarset et.al.|[2207.09785v1](http://arxiv.org/abs/2207.09785v1)|null|
+|**2022-07-20**|**Convergence Results of Two-Step Inertial Proximal Point Algorithm**|Olaniyi S. Iyiola et.al.|[2207.09668v1](http://arxiv.org/abs/2207.09668v1)|null|
+|**2022-07-19**|**Inertial focusing of a dilute suspension in pipe flow**|Othmane Aouane et.al.|[2207.09586v1](http://arxiv.org/abs/2207.09586v1)|null|
+|**2022-07-19**|**Turbulent disruption of density staircases in stratified shear flows**|Nicolaos Petropoulos et.al.|[2207.09570v1](http://arxiv.org/abs/2207.09570v1)|null|
+|**2022-07-19**|**Evidence of oblique electron acoustic solitary waves triggered by magnetic reconnection in Earth's magnetosphere**|A. Atteya et.al.|[2207.09553v1](http://arxiv.org/abs/2207.09553v1)|null|
 |**2022-07-19**|**Momentum Injection via Dielectric Barrier Discharge Actuators in Low-Speed External Flow**|Anthony Tang et.al.|[2207.09424v1](http://arxiv.org/abs/2207.09424v1)|null|
 |**2022-07-19**|**Batchelor, Saffman, and Kazantsev spectra in galactic small-scale dynamos**|Axel Brandenburg et.al.|[2207.09414v1](http://arxiv.org/abs/2207.09414v1)|null|
 |**2022-07-19**|**Submarine Navigation using Neutrinos**|Javier Fidalgo Prieto et.al.|[2207.09231v1](http://arxiv.org/abs/2207.09231v1)|null|
@@ -25,10 +32,3 @@
 |**2022-07-11**|**Improved Calibration Procedure for Wireless Inertial Measurement Units without Precision Equipment**|Fritz Webering et.al.|[2207.04801v1](http://arxiv.org/abs/2207.04801v1)|null|
 |**2022-07-09**|**Experimental Observation and Description of Bandgaps Opening in Chiral Phononic Crystals by Analogy with Thomson scattering**|Wei Ding et.al.|[2207.04282v1](http://arxiv.org/abs/2207.04282v1)|null|
 |**2022-07-08**|**Cascade of circulicity in compressible turbulence**|Olivier Soulard et.al.|[2207.03761v1](http://arxiv.org/abs/2207.03761v1)|null|
-|**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu et.al.|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
-|**2022-07-07**|**Inertia Adequacy in Transient Stability Models for Synthetic Electric Grids**|Adam B. Birchfield et.al.|[2207.03396v1](http://arxiv.org/abs/2207.03396v1)|null|
-|**2022-07-07**|**Egocentric Visual Self-Modeling for Legged Robot Locomotion**|Yuhang Hu et.al.|[2207.03386v1](http://arxiv.org/abs/2207.03386v1)|null|
-|**2022-07-07**|**Energy-based Legged Robots Terrain Traversability Modeling via Deep Inverse Reinforcement Learning**|Lu Gan et.al.|[2207.03034v1](http://arxiv.org/abs/2207.03034v1)|[link](https://github.com/ganlumomo/minicheetah-traversability-irl)|
-|**2022-07-06**|**MoRPI: Mobile Robot Pure Inertial Navigation**|Aviad Etzion et.al.|[2207.02982v1](http://arxiv.org/abs/2207.02982v1)|[link](https://github.com/ansfl/morpi)|
-|**2022-07-06**|**Statistics for an object actively driven by spontaneous symmetry breaking into reversible directions**|Andreas M. Menzel et.al.|[2207.02889v1](http://arxiv.org/abs/2207.02889v1)|null|
-|**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
