@@ -6,7 +6,7 @@
 |**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v1](http://arxiv.org/abs/2207.10475v1)|null|
 |**2022-07-21**|**Active platform stabilisation with a 6D seismometer**|Amit Singh Ubhi et.al.|[2207.10417v1](http://arxiv.org/abs/2207.10417v1)|null|
 |**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
-|**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|null|
+|**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|[link](https://github.com/tonyshardlow/ridk-fd)|
 |**2022-07-20**|**Unsupervised energy disaggregation via convolutional sparse coding**|Christian Aarset et.al.|[2207.09785v1](http://arxiv.org/abs/2207.09785v1)|null|
 |**2022-07-20**|**Convergence Results of Two-Step Inertial Proximal Point Algorithm**|Olaniyi S. Iyiola et.al.|[2207.09668v1](http://arxiv.org/abs/2207.09668v1)|null|
 |**2022-07-19**|**Inertial focusing of a dilute suspension in pipe flow**|Othmane Aouane et.al.|[2207.09586v1](http://arxiv.org/abs/2207.09586v1)|null|
