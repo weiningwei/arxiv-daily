@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|null|
+|**2022-07-21**|**Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**|Garrick Brazil et.al.|[2207.10660v1](http://arxiv.org/abs/2207.10660v1)|null|
+|**2022-07-21**|**Closed-Loop Next-Best-View Planning for Target-Driven Grasping**|Michel Breyer et.al.|[2207.10543v1](http://arxiv.org/abs/2207.10543v1)|null|
+|**2022-07-21**|**Real-Time Elderly Monitoring for Senior Safety by Lightweight Human Action Recognition**|Han Sun et.al.|[2207.10519v1](http://arxiv.org/abs/2207.10519v1)|null|
+|**2022-07-21**|**Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**|Suman Ghosh et.al.|[2207.10494v1](http://arxiv.org/abs/2207.10494v1)|null|
+|**2022-07-21**|**Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**|Quentin Serdel et.al.|[2207.10489v1](http://arxiv.org/abs/2207.10489v1)|null|
+|**2022-07-21**|**Temporal and Spatial Online Integrated Calibration for Camera and LiDAR**|Shouan Wang et.al.|[2207.10454v1](http://arxiv.org/abs/2207.10454v1)|null|
+|**2022-07-21**|**Cosmic Ray Rejection with Attention Augmented Deep Learning**|S. R. Bhavanam et.al.|[2207.10411v1](http://arxiv.org/abs/2207.10411v1)|null|
+|**2022-07-21**|**Synthesizing Light Field Video from Monocular Video**|Shrisudhan Govindarajan et.al.|[2207.10357v1](http://arxiv.org/abs/2207.10357v1)|null|
+|**2022-07-21**|**SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer**|Haoran Zhou et.al.|[2207.10315v1](http://arxiv.org/abs/2207.10315v1)|null|
+|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|null|
+|**2022-07-20**|**Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications**|Arian Bakhtiarnia et.al.|[2207.10155v1](http://arxiv.org/abs/2207.10155v1)|null|
+|**2022-07-20**|**BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis**|Davide Moltisanti et.al.|[2207.10120v1](http://arxiv.org/abs/2207.10120v1)|null|
+|**2022-07-20**|**The miniJPAS survey: The galaxy populations in the most massive cluster in miniJPAS, mJPC2470-1771**|J. E. Rodríguez Martín et.al.|[2207.10101v1](http://arxiv.org/abs/2207.10101v1)|null|
 |**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v2](http://arxiv.org/abs/2207.10022v2)|[link](https://github.com/tub-rip/event_based_optical_flow)|
 |**2022-07-20**|**Optical design concept of the CMB-S4 large-aperture telescopes and cameras**|Patricio A. Gallardo et.al.|[2207.10012v1](http://arxiv.org/abs/2207.10012v1)|null|
 |**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
@@ -18,17 +32,3 @@
 |**2022-07-19**|**ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**|Wang Zhao et.al.|[2207.09137v1](http://arxiv.org/abs/2207.09137v1)|[link](https://github.com/bytedance/particle-sfm)|
 |**2022-07-19**|**eCDT: Event Clustering for Simultaneous Feature Detection and Tracking-**|Sumin Hu et.al.|[2207.09108v2](http://arxiv.org/abs/2207.09108v2)|null|
 |**2022-07-18**|**Capabilities, Limitations and Challenges of Style Transfer with CycleGANs: A Study on Automatic Ring Design Generation**|Tomas Cabezon Pedroso et.al.|[2207.08989v1](http://arxiv.org/abs/2207.08989v1)|null|
-|**2022-07-18**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951v1](http://arxiv.org/abs/2207.08951v1)|null|
-|**2022-07-18**|**A hierarchical semantic segmentation framework for computer vision-based bridge damage detection**|Jingxiao Liu et.al.|[2207.08878v1](http://arxiv.org/abs/2207.08878v1)|[link](https://github.com/jingxiaoliu/bridge-damage-segmentation)|
-|**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye et.al.|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
-|**2022-07-18**|**Action-based Contrastive Learning for Trajectory Prediction**|Marah Halawa et.al.|[2207.08664v1](http://arxiv.org/abs/2207.08664v1)|null|
-|**2022-07-18**|**Neural Distributed Image Compression with Cross-Attention Feature Alignment**|Nitish Mital et.al.|[2207.08489v1](http://arxiv.org/abs/2207.08489v1)|[link](https://github.com/ipc-lab/ndic-cam)|
-|**2022-07-18**|**Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**|Marco Orsingher et.al.|[2207.08439v1](http://arxiv.org/abs/2207.08439v1)|null|
-|**2022-07-18**|**Efficient View Clustering and Selection for City-Scale 3D Reconstruction**|Marco Orsingher et.al.|[2207.08434v1](http://arxiv.org/abs/2207.08434v1)|null|
-|**2022-07-18**|**MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects**|Juewen Peng et.al.|[2207.08403v1](http://arxiv.org/abs/2207.08403v1)|[link](https://github.com/juewenpeng/mpib)|
-|**2022-07-17**|**A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions**|Duncan Calvert et.al.|[2207.08312v1](http://arxiv.org/abs/2207.08312v1)|null|
-|**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
-|**2022-07-17**|**INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions**|Zhihong Zhang et.al.|[2207.08201v1](http://arxiv.org/abs/2207.08201v1)|null|
-|**2022-07-16**|**DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras**|Ruizhi Shao et.al.|[2207.08000v2](http://arxiv.org/abs/2207.08000v2)|null|
-|**2022-07-16**|**Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences**|Matthieu Zins et.al.|[2207.07953v1](http://arxiv.org/abs/2207.07953v1)|null|
-|**2022-07-16**|**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**|Juze Zhang et.al.|[2207.07900v1](http://arxiv.org/abs/2207.07900v1)|null|

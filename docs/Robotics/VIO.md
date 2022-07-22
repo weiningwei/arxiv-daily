@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-21**|**Self propulsion via slipping: frictional resistive force theory for multi-legged locomotors**|Baxi Chong et.al.|[2207.10604v1](http://arxiv.org/abs/2207.10604v1)|null|
+|**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v1](http://arxiv.org/abs/2207.10475v1)|null|
+|**2022-07-21**|**Active platform stabilisation with a 6D seismometer**|Amit Singh Ubhi et.al.|[2207.10417v1](http://arxiv.org/abs/2207.10417v1)|null|
 |**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
 |**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|null|
 |**2022-07-20**|**Unsupervised energy disaggregation via convolutional sparse coding**|Christian Aarset et.al.|[2207.09785v1](http://arxiv.org/abs/2207.09785v1)|null|
@@ -29,6 +32,3 @@
 |**2022-07-12**|**Kinetic theory of discontinuous shear thickening of a moderately dense inertial suspension of frictionless soft particles**|Satoshi Takada et.al.|[2207.05752v2](http://arxiv.org/abs/2207.05752v2)|null|
 |**2022-07-12**|**Discontinuous Shear Thickening of a Moderately Dense Inertial Suspension of Hydrodynamically Interacting Frictionless Soft Particles**|Satoshi Takada et.al.|[2207.05348v2](http://arxiv.org/abs/2207.05348v2)|null|
 |**2022-07-11**|**Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**|Yaniv Nemcovsky et.al.|[2207.05729v1](http://arxiv.org/abs/2207.05729v1)|[link](https://github.com/patchadversarialattacks/patchadversarialattacks)|
-|**2022-07-11**|**Improved Calibration Procedure for Wireless Inertial Measurement Units without Precision Equipment**|Fritz Webering et.al.|[2207.04801v1](http://arxiv.org/abs/2207.04801v1)|null|
-|**2022-07-09**|**Experimental Observation and Description of Bandgaps Opening in Chiral Phononic Crystals by Analogy with Thomson scattering**|Wei Ding et.al.|[2207.04282v1](http://arxiv.org/abs/2207.04282v1)|null|
-|**2022-07-08**|**Cascade of circulicity in compressible turbulence**|Olivier Soulard et.al.|[2207.03761v1](http://arxiv.org/abs/2207.03761v1)|null|
