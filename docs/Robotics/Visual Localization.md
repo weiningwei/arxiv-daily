@@ -4,12 +4,12 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|[link](https://github.com/visipedia/ssw60)|
 |**2022-07-21**|**Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**|Garrick Brazil et.al.|[2207.10660v1](http://arxiv.org/abs/2207.10660v1)|[link](https://github.com/facebookresearch/omni3d)|
-|**2022-07-21**|**Closed-Loop Next-Best-View Planning for Target-Driven Grasping**|Michel Breyer et.al.|[2207.10543v1](http://arxiv.org/abs/2207.10543v1)|null|
+|**2022-07-21**|**Closed-Loop Next-Best-View Planning for Target-Driven Grasping**|Michel Breyer et.al.|[2207.10543v1](http://arxiv.org/abs/2207.10543v1)|[link](https://github.com/ethz-asl/active_grasp)|
 |**2022-07-21**|**Real-Time Elderly Monitoring for Senior Safety by Lightweight Human Action Recognition**|Han Sun et.al.|[2207.10519v1](http://arxiv.org/abs/2207.10519v1)|null|
 |**2022-07-21**|**Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**|Suman Ghosh et.al.|[2207.10494v1](http://arxiv.org/abs/2207.10494v1)|null|
 |**2022-07-21**|**Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**|Quentin Serdel et.al.|[2207.10489v1](http://arxiv.org/abs/2207.10489v1)|null|
 |**2022-07-21**|**Temporal and Spatial Online Integrated Calibration for Camera and LiDAR**|Shouan Wang et.al.|[2207.10454v1](http://arxiv.org/abs/2207.10454v1)|null|
-|**2022-07-21**|**Cosmic Ray Rejection with Attention Augmented Deep Learning**|S. R. Bhavanam et.al.|[2207.10411v1](http://arxiv.org/abs/2207.10411v1)|null|
+|**2022-07-21**|**Cosmic Ray Rejection with Attention Augmented Deep Learning**|S. R. Bhavanam et.al.|[2207.10411v1](http://arxiv.org/abs/2207.10411v1)|[link](https://github.com/lfovia/cosmic-ray-detection-in-astronomical-images)|
 |**2022-07-21**|**Synthesizing Light Field Video from Monocular Video**|Shrisudhan Govindarajan et.al.|[2207.10357v1](http://arxiv.org/abs/2207.10357v1)|[link](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)|
 |**2022-07-21**|**SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer**|Haoran Zhou et.al.|[2207.10315v1](http://arxiv.org/abs/2207.10315v1)|[link](https://github.com/hrzhou2/seedformer)|
 |**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
