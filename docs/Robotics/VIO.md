@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
+|**2022-07-21**|**Spatio-temporal Signatures of Elasto-inertial Turbulence in Viscoelastic Planar Jets**|Sami Yamani et.al.|[2207.10736v1](http://arxiv.org/abs/2207.10736v1)|null|
 |**2022-07-21**|**Self propulsion via slipping: frictional resistive force theory for multi-legged locomotors**|Baxi Chong et.al.|[2207.10604v1](http://arxiv.org/abs/2207.10604v1)|null|
 |**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v1](http://arxiv.org/abs/2207.10475v1)|null|
 |**2022-07-21**|**Active platform stabilisation with a 6D seismometer**|Amit Singh Ubhi et.al.|[2207.10417v1](http://arxiv.org/abs/2207.10417v1)|null|
@@ -30,5 +32,3 @@
 |**2022-07-13**|**A Lattice Boltzmann dynamic-Immersed Boundary scheme for the transport of deformable inertial capsules in low-Re flows**|Alessandro Coclite et.al.|[2207.06029v1](http://arxiv.org/abs/2207.06029v1)|null|
 |**2022-07-12**|**Design of Dynamics Invariant LSTM for Touch Based Human-UAV Interaction Detection**|Anees Peringal et.al.|[2207.05403v1](http://arxiv.org/abs/2207.05403v1)|null|
 |**2022-07-12**|**Kinetic theory of discontinuous shear thickening of a moderately dense inertial suspension of frictionless soft particles**|Satoshi Takada et.al.|[2207.05752v2](http://arxiv.org/abs/2207.05752v2)|null|
-|**2022-07-12**|**Discontinuous Shear Thickening of a Moderately Dense Inertial Suspension of Hydrodynamically Interacting Frictionless Soft Particles**|Satoshi Takada et.al.|[2207.05348v2](http://arxiv.org/abs/2207.05348v2)|null|
-|**2022-07-11**|**Physical Passive Patch Adversarial Attacks on Visual Odometry Systems**|Yaniv Nemcovsky et.al.|[2207.05729v1](http://arxiv.org/abs/2207.05729v1)|[link](https://github.com/patchadversarialattacks/patchadversarialattacks)|
