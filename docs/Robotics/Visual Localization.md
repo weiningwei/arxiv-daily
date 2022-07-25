@@ -14,7 +14,7 @@
 |**2022-07-21**|**SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer**|Haoran Zhou et.al.|[2207.10315v1](http://arxiv.org/abs/2207.10315v1)|[link](https://github.com/hrzhou2/seedformer)|
 |**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
 |**2022-07-20**|**Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications**|Arian Bakhtiarnia et.al.|[2207.10155v1](http://arxiv.org/abs/2207.10155v1)|null|
-|**2022-07-20**|**BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis**|Davide Moltisanti et.al.|[2207.10120v1](http://arxiv.org/abs/2207.10120v1)|[link](https://github.com/dmoltisanti/brace)|
+|**2022-07-20**|**BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis**|Davide Moltisanti et.al.|[2207.10120v2](http://arxiv.org/abs/2207.10120v2)|[link](https://github.com/dmoltisanti/brace)|
 |**2022-07-20**|**The miniJPAS survey: The galaxy populations in the most massive cluster in miniJPAS, mJPC2470-1771**|J. E. Rodríguez Martín et.al.|[2207.10101v1](http://arxiv.org/abs/2207.10101v1)|null|
 |**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v2](http://arxiv.org/abs/2207.10022v2)|[link](https://github.com/tub-rip/event_based_optical_flow)|
 |**2022-07-20**|**Optical design concept of the CMB-S4 large-aperture telescopes and cameras**|Patricio A. Gallardo et.al.|[2207.10012v1](http://arxiv.org/abs/2207.10012v1)|null|
