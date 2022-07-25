@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-07-22**|**Multiface: A Dataset for Neural Face Rendering**|Cheng-hsin Wuu et.al.|[2207.11243v1](http://arxiv.org/abs/2207.11243v1)|[link](https://github.com/facebookresearch/multiface)|
 |**2022-07-22**|**InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images**|Zhengqi Li et.al.|[2207.11148v1](http://arxiv.org/abs/2207.11148v1)|null|
-|**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|null|
+|**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|[link](https://github.com/AlvinYH/Faster-VoxelPose)|
 |**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
 |**2022-07-22**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v1](http://arxiv.org/abs/2207.10895v1)|null|
 |**2022-07-22**|**My View is the Best View: Procedure Learning from Egocentric Videos**|Siddhant Bansal et.al.|[2207.10883v1](http://arxiv.org/abs/2207.10883v1)|[link](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning)|
