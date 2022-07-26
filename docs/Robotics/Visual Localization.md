@@ -6,13 +6,13 @@
 |**2022-07-22**|**InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images**|Zhengqi Li et.al.|[2207.11148v1](http://arxiv.org/abs/2207.11148v1)|null|
 |**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|[link](https://github.com/AlvinYH/Faster-VoxelPose)|
 |**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
-|**2022-07-22**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v1](http://arxiv.org/abs/2207.10895v1)|null|
+|**2022-07-22**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v2](http://arxiv.org/abs/2207.10895v2)|null|
 |**2022-07-22**|**My View is the Best View: Procedure Learning from Egocentric Videos**|Siddhant Bansal et.al.|[2207.10883v1](http://arxiv.org/abs/2207.10883v1)|[link](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning)|
 |**2022-07-22**|**Optimizing Image Compression via Joint Learning with Denoising**|Ka Leong Cheng et.al.|[2207.10869v1](http://arxiv.org/abs/2207.10869v1)|[link](https://github.com/felixcheng97/denoisecompression)|
 |**2022-07-22**|**Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**|Sunghwan Hong et.al.|[2207.10866v1](http://arxiv.org/abs/2207.10866v1)|null|
 |**2022-07-22**|**Planar Laser Induced Fluorescence Mapping of a Carbon Laser Produced Plasma**|R. S. Dorst et.al.|[2207.10843v1](http://arxiv.org/abs/2207.10843v1)|null|
 |**2022-07-21**|**Towards Interpretable Video Super-Resolution via Alternating Optimization**|Jiezhang Cao et.al.|[2207.10765v1](http://arxiv.org/abs/2207.10765v1)|[link](https://github.com/caojiezhang/davsr)|
-|**2022-07-21**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v1](http://arxiv.org/abs/2207.10762v1)|[link](https://github.com/tsattler/meshloc_release)|
+|**2022-07-21**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|[link](https://github.com/tsattler/meshloc_release)|
 |**2022-07-21**|**Fusing Frame and Event Vision for High-speed Optical Flow for Edge Application**|Ashwin Sanjay Lele et.al.|[2207.10720v1](http://arxiv.org/abs/2207.10720v1)|null|
 |**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|[link](https://github.com/visipedia/ssw60)|
 |**2022-07-21**|**Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**|Garrick Brazil et.al.|[2207.10660v1](http://arxiv.org/abs/2207.10660v1)|[link](https://github.com/facebookresearch/omni3d)|
