@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-25**|**Dynamic 3D Scene Analysis by Point Cloud Accumulation**|Shengyu Huang et.al.|[2207.12394v1](http://arxiv.org/abs/2207.12394v1)|null|
+|**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
+|**2022-07-25**|**Learning Human Body Motions from Skeleton-Based Observations for Robot-Assisted Therapy**|Natalia Quiroga et.al.|[2207.12224v1](http://arxiv.org/abs/2207.12224v1)|null|
+|**2022-07-25**|**Aveiro Tech City Living Lab: A Communication, Sensing and Computing Platform for City Environments**|Pedro Rito et.al.|[2207.12200v1](http://arxiv.org/abs/2207.12200v1)|null|
+|**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
+|**2022-07-25**|**A measurement of the mean central optical depth of galaxy clusters via the pairwise kinematic Sunyaev-Zel'dovich effect with SPT-3G and DES**|E. Schiappucci et.al.|[2207.11937v1](http://arxiv.org/abs/2207.11937v1)|null|
+|**2022-07-25**|**Hybrid Classifiers for Spatio-temporal Real-time Abnormal Behaviors Detection, Tracking, and Recognition in Massive Hajj Crowds**|Tarik Alafif et.al.|[2207.11931v1](http://arxiv.org/abs/2207.11931v1)|null|
+|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v1](http://arxiv.org/abs/2207.11894v1)|null|
+|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v1](http://arxiv.org/abs/2207.11881v1)|null|
+|**2022-07-24**|**Learning Generalizable Light Field Networks from Few Images**|Qian Li et.al.|[2207.11757v1](http://arxiv.org/abs/2207.11757v1)|null|
+|**2022-07-24**|**Combining Internal and External Constraints for Unrolling Shutter in Videos**|Eyal Naor et.al.|[2207.11725v1](http://arxiv.org/abs/2207.11725v1)|null|
+|**2022-07-24**|**Keypoint-less Camera Calibration for Sports Field Registration in Soccer**|Jonas Theiner et.al.|[2207.11709v1](http://arxiv.org/abs/2207.11709v1)|null|
+|**2022-07-24**|**Science Cases for the Keck Wide-Field Imager**|J. Cooke et.al.|[2207.11698v1](http://arxiv.org/abs/2207.11698v1)|null|
+|**2022-07-24**|**Improved Regularization of Event-based Learning by Reversing and Drifting**|Haibo Shen et.al.|[2207.11659v1](http://arxiv.org/abs/2207.11659v1)|null|
+|**2022-07-24**|**Robust Scene Inference under Noise-Blur Dual Corruptions**|Bhavya Goyal et.al.|[2207.11643v1](http://arxiv.org/abs/2207.11643v1)|null|
+|**2022-07-23**|**Face Deblurring using Dual Camera Fusion on Mobile Phones**|Wei-Sheng Lai et.al.|[2207.11617v1](http://arxiv.org/abs/2207.11617v1)|null|
+|**2022-07-23**|**Event-based RGB-D sensing with structured light**|Seyed Ehsan Marjani Bajestani et.al.|[2207.11605v1](http://arxiv.org/abs/2207.11605v1)|null|
+|**2022-07-23**|**First Batch of Candidate Galaxies at Redshifts 11 to 20 Revealed by the James Webb Space Telescope Early Release Observations**|Haojing Yan et.al.|[2207.11558v1](http://arxiv.org/abs/2207.11558v1)|null|
+|**2022-07-23**|**Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild**|Jiaxin Zhang et.al.|[2207.11515v1](http://arxiv.org/abs/2207.11515v1)|null|
+|**2022-07-23**|**Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**|Daniel Posada et.al.|[2207.11413v1](http://arxiv.org/abs/2207.11413v1)|null|
+|**2022-07-23**|**Computer Vision Aided mmWave Beam Alignment in V2X Communications**|Weihua Xu et.al.|[2207.11409v1](http://arxiv.org/abs/2207.11409v1)|null|
+|**2022-07-23**|**Ultraviolet Spectroscopy of Lucy Mission Targets with the Hubble Space Telescope**|Oriel A. Humes et.al.|[2207.11390v1](http://arxiv.org/abs/2207.11390v1)|null|
+|**2022-07-22**|**Egocentric scene context for human-centric environment understanding from video**|Tushar Nagarajan et.al.|[2207.11365v1](http://arxiv.org/abs/2207.11365v1)|null|
+|**2022-07-22**|**Optimal sensing of urban road networks with large-scale ridesourcing vehicles**|Shuocheng Guo et.al.|[2207.11285v1](http://arxiv.org/abs/2207.11285v1)|null|
+|**2022-07-22**|**CLEAR: Spatially Resolved Emission Lines and Active Galactic Nuclei at $0.6<z<1.3$**|Bren E. Backhaus et.al.|[2207.11265v1](http://arxiv.org/abs/2207.11265v1)|null|
 |**2022-07-22**|**Multiface: A Dataset for Neural Face Rendering**|Cheng-hsin Wuu et.al.|[2207.11243v1](http://arxiv.org/abs/2207.11243v1)|[link](https://github.com/facebookresearch/multiface)|
 |**2022-07-22**|**InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images**|Zhengqi Li et.al.|[2207.11148v1](http://arxiv.org/abs/2207.11148v1)|null|
 |**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|[link](https://github.com/AlvinYH/Faster-VoxelPose)|
 |**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
 |**2022-07-22**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v2](http://arxiv.org/abs/2207.10895v2)|null|
-|**2022-07-22**|**My View is the Best View: Procedure Learning from Egocentric Videos**|Siddhant Bansal et.al.|[2207.10883v1](http://arxiv.org/abs/2207.10883v1)|[link](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning)|
-|**2022-07-22**|**Optimizing Image Compression via Joint Learning with Denoising**|Ka Leong Cheng et.al.|[2207.10869v1](http://arxiv.org/abs/2207.10869v1)|[link](https://github.com/felixcheng97/denoisecompression)|
-|**2022-07-22**|**Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**|Sunghwan Hong et.al.|[2207.10866v1](http://arxiv.org/abs/2207.10866v1)|null|
-|**2022-07-22**|**Planar Laser Induced Fluorescence Mapping of a Carbon Laser Produced Plasma**|R. S. Dorst et.al.|[2207.10843v1](http://arxiv.org/abs/2207.10843v1)|null|
-|**2022-07-21**|**Towards Interpretable Video Super-Resolution via Alternating Optimization**|Jiezhang Cao et.al.|[2207.10765v1](http://arxiv.org/abs/2207.10765v1)|[link](https://github.com/caojiezhang/davsr)|
-|**2022-07-21**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|[link](https://github.com/tsattler/meshloc_release)|
-|**2022-07-21**|**Fusing Frame and Event Vision for High-speed Optical Flow for Edge Application**|Ashwin Sanjay Lele et.al.|[2207.10720v1](http://arxiv.org/abs/2207.10720v1)|null|
-|**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|[link](https://github.com/visipedia/ssw60)|
-|**2022-07-21**|**Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**|Garrick Brazil et.al.|[2207.10660v1](http://arxiv.org/abs/2207.10660v1)|[link](https://github.com/facebookresearch/omni3d)|
-|**2022-07-21**|**Closed-Loop Next-Best-View Planning for Target-Driven Grasping**|Michel Breyer et.al.|[2207.10543v1](http://arxiv.org/abs/2207.10543v1)|[link](https://github.com/ethz-asl/active_grasp)|
-|**2022-07-21**|**Real-Time Elderly Monitoring for Senior Safety by Lightweight Human Action Recognition**|Han Sun et.al.|[2207.10519v1](http://arxiv.org/abs/2207.10519v1)|null|
-|**2022-07-21**|**Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**|Suman Ghosh et.al.|[2207.10494v1](http://arxiv.org/abs/2207.10494v1)|null|
-|**2022-07-21**|**Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**|Quentin Serdel et.al.|[2207.10489v1](http://arxiv.org/abs/2207.10489v1)|null|
-|**2022-07-21**|**Temporal and Spatial Online Integrated Calibration for Camera and LiDAR**|Shouan Wang et.al.|[2207.10454v1](http://arxiv.org/abs/2207.10454v1)|null|
-|**2022-07-21**|**Cosmic Ray Rejection with Attention Augmented Deep Learning**|S. R. Bhavanam et.al.|[2207.10411v1](http://arxiv.org/abs/2207.10411v1)|[link](https://github.com/lfovia/cosmic-ray-detection-in-astronomical-images)|
-|**2022-07-21**|**Synthesizing Light Field Video from Monocular Video**|Shrisudhan Govindarajan et.al.|[2207.10357v1](http://arxiv.org/abs/2207.10357v1)|[link](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)|
-|**2022-07-21**|**SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer**|Haoran Zhou et.al.|[2207.10315v1](http://arxiv.org/abs/2207.10315v1)|[link](https://github.com/hrzhou2/seedformer)|
-|**2022-07-21**|**Grounding Visual Representations with Texts for Domain Generalization**|Seonwoo Min et.al.|[2207.10285v1](http://arxiv.org/abs/2207.10285v1)|[link](https://github.com/mswzeus/gvrt)|
-|**2022-07-20**|**Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications**|Arian Bakhtiarnia et.al.|[2207.10155v1](http://arxiv.org/abs/2207.10155v1)|null|
-|**2022-07-20**|**BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis**|Davide Moltisanti et.al.|[2207.10120v2](http://arxiv.org/abs/2207.10120v2)|[link](https://github.com/dmoltisanti/brace)|
-|**2022-07-20**|**The miniJPAS survey: The galaxy populations in the most massive cluster in miniJPAS, mJPC2470-1771**|J. E. Rodríguez Martín et.al.|[2207.10101v1](http://arxiv.org/abs/2207.10101v1)|null|
-|**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v2](http://arxiv.org/abs/2207.10022v2)|[link](https://github.com/tub-rip/event_based_optical_flow)|
-|**2022-07-20**|**Optical design concept of the CMB-S4 large-aperture telescopes and cameras**|Patricio A. Gallardo et.al.|[2207.10012v1](http://arxiv.org/abs/2207.10012v1)|null|
-|**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
-|**2022-07-20**|**Euclid: Testing the Copernican principle with next-generation surveys**|D. Camarena et.al.|[2207.09995v1](http://arxiv.org/abs/2207.09995v1)|null|
