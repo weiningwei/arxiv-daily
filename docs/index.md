@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2022-07-26 21:01:19 Asia/Shanghai
+ Automated deployment @ 2022-07-27 08:42:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-25**|**A Letter on Progress Made on Husky Carbon: A Legged-Aerial, Multi-modal Platform**|Adarsh Salagame et.al.|[2207.12254v1](http://arxiv.org/abs/2207.12254v1)|null|
+|**2022-07-25**|**Intermittency, fluctuations and maximal chaos in an emergent universal state of active turbulence**|Siddhartha Mukherjee et.al.|[2207.12227v1](http://arxiv.org/abs/2207.12227v1)|null|
+|**2022-07-25**|**Meta Neural Ordinary Differential Equations For Adaptive Asynchronous Control**|Achkan Salehi et.al.|[2207.12062v1](http://arxiv.org/abs/2207.12062v1)|null|
+|**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
+|**2022-07-23**|**Epersist: A Self Balancing Robot Using PID Controller And Deep Reinforcement Learning**|Ghanta Sai Krishna et.al.|[2207.11431v1](http://arxiv.org/abs/2207.11431v1)|null|
+|**2022-07-23**|**Validation and Verification of Turbulence Mixing due to Richtmyer-Meshkov Instability of an air/SF$_6$ interface**|Tulin Kaman et.al.|[2207.11404v1](http://arxiv.org/abs/2207.11404v1)|null|
+|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
+|**2022-07-21**|**Spatio-temporal Signatures of Elasto-inertial Turbulence in Viscoelastic Planar Jets**|Sami Yamani et.al.|[2207.10736v1](http://arxiv.org/abs/2207.10736v1)|null|
+|**2022-07-21**|**Self propulsion via slipping: frictional resistive force theory for multi-legged locomotors**|Baxi Chong et.al.|[2207.10604v1](http://arxiv.org/abs/2207.10604v1)|null|
+|**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v2](http://arxiv.org/abs/2207.10475v2)|null|
+|**2022-07-21**|**Active platform stabilisation with a 6D seismometer**|Amit Singh Ubhi et.al.|[2207.10417v1](http://arxiv.org/abs/2207.10417v1)|null|
+|**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
+|**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|[link](https://github.com/tonyshardlow/ridk-fd)|
+|**2022-07-20**|**Unsupervised energy disaggregation via convolutional sparse coding**|Christian Aarset et.al.|[2207.09785v1](http://arxiv.org/abs/2207.09785v1)|null|
+|**2022-07-20**|**Convergence Results of Two-Step Inertial Proximal Point Algorithm**|Olaniyi S. Iyiola et.al.|[2207.09668v1](http://arxiv.org/abs/2207.09668v1)|null|
+|**2022-07-19**|**Inertial focusing of a dilute suspension in pipe flow**|Othmane Aouane et.al.|[2207.09586v1](http://arxiv.org/abs/2207.09586v1)|null|
+|**2022-07-19**|**Turbulent disruption of density staircases in stratified shear flows**|Nicolaos Petropoulos et.al.|[2207.09570v1](http://arxiv.org/abs/2207.09570v1)|null|
+|**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|[link](https://github.com/metaslam/alto)|
+|**2022-07-19**|**Evidence of oblique electron acoustic solitary waves triggered by magnetic reconnection in Earth's magnetosphere**|A. Atteya et.al.|[2207.09553v1](http://arxiv.org/abs/2207.09553v1)|null|
+|**2022-07-19**|**Momentum Injection via Dielectric Barrier Discharge Actuators in Low-Speed External Flow**|Anthony Tang et.al.|[2207.09424v1](http://arxiv.org/abs/2207.09424v1)|null|
+|**2022-07-19**|**Batchelor, Saffman, and Kazantsev spectra in galactic small-scale dynamos**|Axel Brandenburg et.al.|[2207.09414v1](http://arxiv.org/abs/2207.09414v1)|null|
+|**2022-07-19**|**Submarine Navigation using Neutrinos**|Javier Fidalgo Prieto et.al.|[2207.09231v1](http://arxiv.org/abs/2207.09231v1)|null|
+|**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
+|**2022-07-17**|**FEJ-VIRO: A Consistent First-Estimate Jacobian Visual-Inertial-Ranging Odometry**|Shenhan Jia et.al.|[2207.08214v1](http://arxiv.org/abs/2207.08214v1)|null|
+|**2022-07-16**|**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**|Haimei Zhao et.al.|[2207.07895v1](http://arxiv.org/abs/2207.07895v1)|[link](https://github.com/sunnyhelen/jperceiver)|
+|**2022-07-16**|**NOCT: Nonlinear Observability with Constraints and Time Offset**|Jianzhu Huai et.al.|[2207.07881v1](http://arxiv.org/abs/2207.07881v1)|null|
+|**2022-07-15**|**The bouncing dynamics of inertial self-propelled particles reveals directional asymmetry**|Denis Horvath et.al.|[2207.07699v1](http://arxiv.org/abs/2207.07699v1)|null|
+|**2022-07-14**|**An experimental study on the settling velocity of inertial particles in different homogeneous isotropic turbulent flows**|Amélie Ferran et.al.|[2207.07199v1](http://arxiv.org/abs/2207.07199v1)|null|
+|**2022-07-14**|**Kinetic Field Theory: Perturbation theory beyond first order**|Christophe Pixius et.al.|[2207.06852v1](http://arxiv.org/abs/2207.06852v1)|null|
+|**2022-07-14**|**Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset**|Riccardo Giubilato et.al.|[2207.06815v1](http://arxiv.org/abs/2207.06815v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
@@ -13,10 +47,10 @@
 |**2022-07-25**|**Learning Human Body Motions from Skeleton-Based Observations for Robot-Assisted Therapy**|Natalia Quiroga et.al.|[2207.12224v1](http://arxiv.org/abs/2207.12224v1)|null|
 |**2022-07-25**|**Aveiro Tech City Living Lab: A Communication, Sensing and Computing Platform for City Environments**|Pedro Rito et.al.|[2207.12200v1](http://arxiv.org/abs/2207.12200v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
-|**2022-07-25**|**A measurement of the mean central optical depth of galaxy clusters via the pairwise kinematic Sunyaev-Zel'dovich effect with SPT-3G and DES**|E. Schiappucci et.al.|[2207.11937v1](http://arxiv.org/abs/2207.11937v1)|null|
+|**2022-07-25**|**A measurement of the mean central optical depth of galaxy clusters via the pairwise kinematic Sunyaev-Zel'dovich effect with SPT-3G and DES**|E. Schiappucci et.al.|[2207.11937v2](http://arxiv.org/abs/2207.11937v2)|null|
 |**2022-07-25**|**Hybrid Classifiers for Spatio-temporal Real-time Abnormal Behaviors Detection, Tracking, and Recognition in Massive Hajj Crowds**|Tarik Alafif et.al.|[2207.11931v1](http://arxiv.org/abs/2207.11931v1)|null|
-|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v1](http://arxiv.org/abs/2207.11894v1)|null|
-|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v1](http://arxiv.org/abs/2207.11881v1)|null|
+|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
+|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v2](http://arxiv.org/abs/2207.11881v2)|null|
 |**2022-07-24**|**Learning Generalizable Light Field Networks from Few Images**|Qian Li et.al.|[2207.11757v1](http://arxiv.org/abs/2207.11757v1)|null|
 |**2022-07-24**|**Combining Internal and External Constraints for Unrolling Shutter in Videos**|Eyal Naor et.al.|[2207.11725v1](http://arxiv.org/abs/2207.11725v1)|null|
 |**2022-07-24**|**Keypoint-less Camera Calibration for Sports Field Registration in Soccer**|Jonas Theiner et.al.|[2207.11709v1](http://arxiv.org/abs/2207.11709v1)|null|
@@ -73,46 +107,12 @@
 |**2022-07-03**|**Wireless Channel Prediction in Partially Observed Environments**|Mingsheng Yin et.al.|[2207.00934v1](http://arxiv.org/abs/2207.00934v1)|null|
 |**2022-07-01**|**A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers**|Julio A. Placed et.al.|[2207.00254v1](http://arxiv.org/abs/2207.00254v1)|null|
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-25**|**A Letter on Progress Made on Husky Carbon: A Legged-Aerial, Multi-modal Platform**|Adarsh Salagame et.al.|[2207.12254v1](http://arxiv.org/abs/2207.12254v1)|null|
-|**2022-07-25**|**Intermittency, fluctuations and maximal chaos in an emergent universal state of active turbulence**|Siddhartha Mukherjee et.al.|[2207.12227v1](http://arxiv.org/abs/2207.12227v1)|null|
-|**2022-07-25**|**Meta Neural Ordinary Differential Equations For Adaptive Asynchronous Control**|Achkan Salehi et.al.|[2207.12062v1](http://arxiv.org/abs/2207.12062v1)|null|
-|**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
-|**2022-07-23**|**Epersist: A Self Balancing Robot Using PID Controller And Deep Reinforcement Learning**|Ghanta Sai Krishna et.al.|[2207.11431v1](http://arxiv.org/abs/2207.11431v1)|null|
-|**2022-07-23**|**Validation and Verification of Turbulence Mixing due to Richtmyer-Meshkov Instability of an air/SF$_6$ interface**|Tulin Kaman et.al.|[2207.11404v1](http://arxiv.org/abs/2207.11404v1)|null|
-|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
-|**2022-07-21**|**Spatio-temporal Signatures of Elasto-inertial Turbulence in Viscoelastic Planar Jets**|Sami Yamani et.al.|[2207.10736v1](http://arxiv.org/abs/2207.10736v1)|null|
-|**2022-07-21**|**Self propulsion via slipping: frictional resistive force theory for multi-legged locomotors**|Baxi Chong et.al.|[2207.10604v1](http://arxiv.org/abs/2207.10604v1)|null|
-|**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v2](http://arxiv.org/abs/2207.10475v2)|null|
-|**2022-07-21**|**Active platform stabilisation with a 6D seismometer**|Amit Singh Ubhi et.al.|[2207.10417v1](http://arxiv.org/abs/2207.10417v1)|null|
-|**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
-|**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|[link](https://github.com/tonyshardlow/ridk-fd)|
-|**2022-07-20**|**Unsupervised energy disaggregation via convolutional sparse coding**|Christian Aarset et.al.|[2207.09785v1](http://arxiv.org/abs/2207.09785v1)|null|
-|**2022-07-20**|**Convergence Results of Two-Step Inertial Proximal Point Algorithm**|Olaniyi S. Iyiola et.al.|[2207.09668v1](http://arxiv.org/abs/2207.09668v1)|null|
-|**2022-07-19**|**Inertial focusing of a dilute suspension in pipe flow**|Othmane Aouane et.al.|[2207.09586v1](http://arxiv.org/abs/2207.09586v1)|null|
-|**2022-07-19**|**Turbulent disruption of density staircases in stratified shear flows**|Nicolaos Petropoulos et.al.|[2207.09570v1](http://arxiv.org/abs/2207.09570v1)|null|
-|**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|null|
-|**2022-07-19**|**Evidence of oblique electron acoustic solitary waves triggered by magnetic reconnection in Earth's magnetosphere**|A. Atteya et.al.|[2207.09553v1](http://arxiv.org/abs/2207.09553v1)|null|
-|**2022-07-19**|**Momentum Injection via Dielectric Barrier Discharge Actuators in Low-Speed External Flow**|Anthony Tang et.al.|[2207.09424v1](http://arxiv.org/abs/2207.09424v1)|null|
-|**2022-07-19**|**Batchelor, Saffman, and Kazantsev spectra in galactic small-scale dynamos**|Axel Brandenburg et.al.|[2207.09414v1](http://arxiv.org/abs/2207.09414v1)|null|
-|**2022-07-19**|**Submarine Navigation using Neutrinos**|Javier Fidalgo Prieto et.al.|[2207.09231v1](http://arxiv.org/abs/2207.09231v1)|null|
-|**2022-07-17**|**Vision-based Relative Detection and Tracking for Teams of Micro Aerial Vehicles**|Rundong Ge et.al.|[2207.08301v1](http://arxiv.org/abs/2207.08301v1)|null|
-|**2022-07-17**|**FEJ-VIRO: A Consistent First-Estimate Jacobian Visual-Inertial-Ranging Odometry**|Shenhan Jia et.al.|[2207.08214v1](http://arxiv.org/abs/2207.08214v1)|null|
-|**2022-07-16**|**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**|Haimei Zhao et.al.|[2207.07895v1](http://arxiv.org/abs/2207.07895v1)|[link](https://github.com/sunnyhelen/jperceiver)|
-|**2022-07-16**|**NOCT: Nonlinear Observability with Constraints and Time Offset**|Jianzhu Huai et.al.|[2207.07881v1](http://arxiv.org/abs/2207.07881v1)|null|
-|**2022-07-15**|**The bouncing dynamics of inertial self-propelled particles reveals directional asymmetry**|Denis Horvath et.al.|[2207.07699v1](http://arxiv.org/abs/2207.07699v1)|null|
-|**2022-07-14**|**An experimental study on the settling velocity of inertial particles in different homogeneous isotropic turbulent flows**|Amélie Ferran et.al.|[2207.07199v1](http://arxiv.org/abs/2207.07199v1)|null|
-|**2022-07-14**|**Kinetic Field Theory: Perturbation theory beyond first order**|Christophe Pixius et.al.|[2207.06852v1](http://arxiv.org/abs/2207.06852v1)|null|
-|**2022-07-14**|**Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset**|Riccardo Giubilato et.al.|[2207.06815v1](http://arxiv.org/abs/2207.06815v1)|null|
-
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
-|**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|null|
+|**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|[link](https://github.com/metaslam/alto)|
 |**2022-07-17**|**FEJ-VIRO: A Consistent First-Estimate Jacobian Visual-Inertial-Ranging Odometry**|Shenhan Jia et.al.|[2207.08214v1](http://arxiv.org/abs/2207.08214v1)|null|
 |**2022-07-16**|**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**|Haimei Zhao et.al.|[2207.07895v1](http://arxiv.org/abs/2207.07895v1)|[link](https://github.com/sunnyhelen/jperceiver)|
 |**2022-07-16**|**NOCT: Nonlinear Observability with Constraints and Time Offset**|Jianzhu Huai et.al.|[2207.07881v1](http://arxiv.org/abs/2207.07881v1)|null|

@@ -7,10 +7,10 @@
 |**2022-07-25**|**Learning Human Body Motions from Skeleton-Based Observations for Robot-Assisted Therapy**|Natalia Quiroga et.al.|[2207.12224v1](http://arxiv.org/abs/2207.12224v1)|null|
 |**2022-07-25**|**Aveiro Tech City Living Lab: A Communication, Sensing and Computing Platform for City Environments**|Pedro Rito et.al.|[2207.12200v1](http://arxiv.org/abs/2207.12200v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
-|**2022-07-25**|**A measurement of the mean central optical depth of galaxy clusters via the pairwise kinematic Sunyaev-Zel'dovich effect with SPT-3G and DES**|E. Schiappucci et.al.|[2207.11937v1](http://arxiv.org/abs/2207.11937v1)|null|
+|**2022-07-25**|**A measurement of the mean central optical depth of galaxy clusters via the pairwise kinematic Sunyaev-Zel'dovich effect with SPT-3G and DES**|E. Schiappucci et.al.|[2207.11937v2](http://arxiv.org/abs/2207.11937v2)|null|
 |**2022-07-25**|**Hybrid Classifiers for Spatio-temporal Real-time Abnormal Behaviors Detection, Tracking, and Recognition in Massive Hajj Crowds**|Tarik Alafif et.al.|[2207.11931v1](http://arxiv.org/abs/2207.11931v1)|null|
-|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v1](http://arxiv.org/abs/2207.11894v1)|null|
-|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v1](http://arxiv.org/abs/2207.11881v1)|null|
+|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
+|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v2](http://arxiv.org/abs/2207.11881v2)|null|
 |**2022-07-24**|**Learning Generalizable Light Field Networks from Few Images**|Qian Li et.al.|[2207.11757v1](http://arxiv.org/abs/2207.11757v1)|null|
 |**2022-07-24**|**Combining Internal and External Constraints for Unrolling Shutter in Videos**|Eyal Naor et.al.|[2207.11725v1](http://arxiv.org/abs/2207.11725v1)|null|
 |**2022-07-24**|**Keypoint-less Camera Calibration for Sports Field Registration in Soccer**|Jonas Theiner et.al.|[2207.11709v1](http://arxiv.org/abs/2207.11709v1)|null|
