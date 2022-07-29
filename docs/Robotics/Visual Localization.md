@@ -6,7 +6,7 @@
 |**2022-07-27**|**Adaptive sampling for scanning pixel cameras**|Yusuf Duman et.al.|[2207.13460v1](http://arxiv.org/abs/2207.13460v1)|null|
 |**2022-07-27**|**Traffic Sign Detection With Event Cameras and DCNN**|Piotr Wzorek et.al.|[2207.13345v1](http://arxiv.org/abs/2207.13345v1)|null|
 |**2022-07-27**|**Inverse Airborne Optical Sectioning**|Rakesh John Amala Arokia Nathan et.al.|[2207.13344v1](http://arxiv.org/abs/2207.13344v1)|null|
-|**2022-07-27**|**Instance-specific 6-DoF Object Pose Estimation from Minimal Annotations**|Rohan Pratap Singh et.al.|[2207.13264v1](http://arxiv.org/abs/2207.13264v1)|null|
+|**2022-07-27**|**Instance-specific 6-DoF Object Pose Estimation from Minimal Annotations**|Rohan Pratap Singh et.al.|[2207.13264v1](http://arxiv.org/abs/2207.13264v1)|[link](https://github.com/rohanpsingh/objectkeypointtrainer)|
 |**2022-07-26**|**Metallicities and ages for star clusters and their surrounding fields in the Large Magellanic Cloud**|W. Narloch et.al.|[2207.13153v1](http://arxiv.org/abs/2207.13153v1)|null|
 |**2022-07-26**|**C-BLUE 3 PC : a photon counting multimegapixel visible CMOS camera**|Jean-Luc Gach et.al.|[2207.13127v1](http://arxiv.org/abs/2207.13127v1)|null|
 |**2022-07-26**|**Efficient High-Resolution Deep Learning: A Survey**|Arian Bakhtiarnia et.al.|[2207.13050v1](http://arxiv.org/abs/2207.13050v1)|null|
