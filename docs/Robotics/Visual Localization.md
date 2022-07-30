@@ -5,7 +5,7 @@
 |**2022-07-28**|**The One Where They Reconstructed 3D Humans and Environments in TV Shows**|Georgios Pavlakos et.al.|[2207.14279v1](http://arxiv.org/abs/2207.14279v1)|null|
 |**2022-07-28**|**Why Accuracy Is Not Enough: The Need for Consistency in Object Detection**|Caleb Tung et.al.|[2207.13890v1](http://arxiv.org/abs/2207.13890v1)|null|
 |**2022-07-27**|**Learning to Assess Danger from Movies for Cooperative Escape Planning in Hazardous Environments**|Vikram Shree et.al.|[2207.13791v1](http://arxiv.org/abs/2207.13791v1)|null|
-|**2022-07-27**|**GAUDI: A Neural Architect for Immersive 3D Scene Generation**|Miguel Angel Bautista et.al.|[2207.13751v1](http://arxiv.org/abs/2207.13751v1)|null|
+|**2022-07-27**|**GAUDI: A Neural Architect for Immersive 3D Scene Generation**|Miguel Angel Bautista et.al.|[2207.13751v1](http://arxiv.org/abs/2207.13751v1)|[link](https://github.com/apple/ml-gaudi)|
 |**2022-07-27**|**RobotIO: A Python Library for Robot Manipulation Experiments**|Lukas Hermann et.al.|[2207.13591v1](http://arxiv.org/abs/2207.13591v1)|null|
 |**2022-07-27**|**Adaptive sampling for scanning pixel cameras**|Yusuf Duman et.al.|[2207.13460v1](http://arxiv.org/abs/2207.13460v1)|null|
 |**2022-07-27**|**Traffic Sign Detection With Event Cameras and DCNN**|Piotr Wzorek et.al.|[2207.13345v1](http://arxiv.org/abs/2207.13345v1)|null|
