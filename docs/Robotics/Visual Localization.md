@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-29**|**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**|Guangcong Wang et.al.|[2207.14811v1](http://arxiv.org/abs/2207.14811v1)|[link](https://github.com/wanggcong/stylelight)|
+|**2022-07-29**|**Forensic License Plate Recognition with Compression-Informed Transformers**|Denise Moussa et.al.|[2207.14686v1](http://arxiv.org/abs/2207.14686v1)|null|
+|**2022-07-29**|**High Dynamic Range and Super-Resolution from Raw Image Bursts**|Bruno Lecouat et.al.|[2207.14671v1](http://arxiv.org/abs/2207.14671v1)|null|
+|**2022-07-29**|**GPU-accelerated SIFT-aided source identification of stabilized videos**|Andrea Montibeller et.al.|[2207.14507v1](http://arxiv.org/abs/2207.14507v1)|[link](https://github.com/amontib/gpu-prnu-sift)|
+|**2022-07-29**|**Deep Learning-based Occluded Person Re-identification: A Survey**|Yunjie Peng et.al.|[2207.14452v1](http://arxiv.org/abs/2207.14452v1)|null|
+|**2022-07-29**|**Daytime calibration and testing of the Keck All sky Precision Adaptive Optics Tomography System**|Avinash Surendran et.al.|[2207.14433v1](http://arxiv.org/abs/2207.14433v1)|null|
+|**2022-07-28**|**An overdensity of red galaxies around the hyperluminous dust-obscured quasar W1835$+$4355 at $z=2.3$**|Yibin Luo et.al.|[2207.14312v1](http://arxiv.org/abs/2207.14312v1)|null|
+|**2022-07-28**|**The sky at one terabit per second: Architecture and implementation of the Argus Array Hierarchical Data Processing System**|Hank Corbett et.al.|[2207.14304v1](http://arxiv.org/abs/2207.14304v1)|null|
 |**2022-07-28**|**The One Where They Reconstructed 3D Humans and Environments in TV Shows**|Georgios Pavlakos et.al.|[2207.14279v1](http://arxiv.org/abs/2207.14279v1)|null|
 |**2022-07-28**|**Why Accuracy Is Not Enough: The Need for Consistency in Object Detection**|Caleb Tung et.al.|[2207.13890v1](http://arxiv.org/abs/2207.13890v1)|null|
 |**2022-07-27**|**Learning to Assess Danger from Movies for Cooperative Escape Planning in Hazardous Environments**|Vikram Shree et.al.|[2207.13791v1](http://arxiv.org/abs/2207.13791v1)|null|
@@ -24,11 +32,3 @@
 |**2022-07-26**|**MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones**|Tai Wang et.al.|[2207.12716v1](http://arxiv.org/abs/2207.12716v1)|[link](https://github.com/tai-wang/depth-from-motion)|
 |**2022-07-26**|**RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments**|Jiahui Zhang et.al.|[2207.12579v1](http://arxiv.org/abs/2207.12579v1)|null|
 |**2022-07-25**|**Enabling a Cooperative Driver Messenger System for Lane Change Assistance Application**|Ghayoor Shah et.al.|[2207.12574v1](http://arxiv.org/abs/2207.12574v1)|null|
-|**2022-07-25**|**3D Lidar Reconstruction with Probabilistic Depth Completion for Robotic Navigation**|Yifu Tao et.al.|[2207.12520v1](http://arxiv.org/abs/2207.12520v1)|null|
-|**2022-07-25**|**NeuriCam: Video Super-Resolution and Colorization Using Key Frames**|Bandhav Veluri et.al.|[2207.12496v1](http://arxiv.org/abs/2207.12496v1)|[link](https://github.com/vb000/neuricam)|
-|**2022-07-25**|**Dynamic 3D Scene Analysis by Point Cloud Accumulation**|Shengyu Huang et.al.|[2207.12394v1](http://arxiv.org/abs/2207.12394v1)|null|
-|**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
-|**2022-07-25**|**Learning Human Body Motions from Skeleton-Based Observations for Robot-Assisted Therapy**|Natalia Quiroga et.al.|[2207.12224v1](http://arxiv.org/abs/2207.12224v1)|null|
-|**2022-07-25**|**Aveiro Tech City Living Lab: A Communication, Sensing and Computing Platform for City Environments**|Pedro Rito et.al.|[2207.12200v1](http://arxiv.org/abs/2207.12200v1)|null|
-|**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
-|**2022-07-25**|**A measurement of the mean central optical depth of galaxy clusters via the pairwise kinematic Sunyaev-Zel'dovich effect with SPT-3G and DES**|E. Schiappucci et.al.|[2207.11937v3](http://arxiv.org/abs/2207.11937v3)|null|
