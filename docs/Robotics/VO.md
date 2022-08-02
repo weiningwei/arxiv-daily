@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
 |**2022-07-29**|**Enhanced Laser-Scan Matching with Online Error Estimation for Highway and Tunnel Driving**|Matthew McDermott et.al.|[2207.14674v1](http://arxiv.org/abs/2207.14674v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
@@ -31,4 +32,3 @@
 |**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v2](http://arxiv.org/abs/2206.00997v2)|[link](https://github.com/rpartsey/pointgoal-navigation)|
 |**2022-06-01**|**Visual Navigation for Autonomous Vehicles: An Open-source Hands-on Robotics Course at MIT**|Luca Carlone et.al.|[2206.00777v1](http://arxiv.org/abs/2206.00777v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo et.al.|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|[link](https://github.com/url-kaist/alterground-lego-loam)|
-|**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
