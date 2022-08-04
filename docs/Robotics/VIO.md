@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-02**|**Spinning up the Surface: Evidence for Planetary Engulfment or Unexpected Angular Momentum Transport?**|Jamie Tayar et.al.|[2208.01678v1](http://arxiv.org/abs/2208.01678v1)|null|
 |**2022-08-02**|**A Note on the Regularity of Thermoelastic Plates with Fractional Rotational Inertial Force**|Fredy Maglorio Sobrado Suárez et.al.|[2208.01481v1](http://arxiv.org/abs/2208.01481v1)|null|
 |**2022-08-02**|**A Riemannian Take on Human Motion Analysis and Retargeting**|Holger Klein et.al.|[2208.01372v1](http://arxiv.org/abs/2208.01372v1)|null|
 |**2022-08-02**|**Inertialess Gyrating Engines**|Jordi Ventura Siches et.al.|[2208.01292v1](http://arxiv.org/abs/2208.01292v1)|null|
@@ -31,4 +32,3 @@
 |**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v2](http://arxiv.org/abs/2207.10475v2)|null|
 |**2022-07-21**|**Active platform stabilisation with a 6D seismometer**|Amit Singh Ubhi et.al.|[2207.10417v1](http://arxiv.org/abs/2207.10417v1)|null|
 |**2022-07-20**|**E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs**|Yanyan Li et.al.|[2207.10008v1](http://arxiv.org/abs/2207.10008v1)|null|
-|**2022-07-20**|**The Regularised Inertial Dean-Kawasaki equation: discontinuous Galerkin approximation and modelling for low-density regime**|Federico Cornalba et.al.|[2207.09989v1](http://arxiv.org/abs/2207.09989v1)|[link](https://github.com/tonyshardlow/ridk-fd)|

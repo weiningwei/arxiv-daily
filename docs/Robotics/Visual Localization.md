@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-03**|**Euclid preparation. XXIV. Calibration of the halo mass function in $Λ(ν)$CDM cosmologies**|Euclid Collaboration et.al.|[2208.02174v1](http://arxiv.org/abs/2208.02174v1)|null|
+|**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
+|**2022-08-03**|**Leveraging Smartphone Sensors for Detecting Abnormal Gait for Smart Wearable Mobile Technologies**|Md Shahriar Tasjid et.al.|[2208.01876v1](http://arxiv.org/abs/2208.01876v1)|null|
+|**2022-08-02**|**Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras**|Ziwei Wang et.al.|[2208.01710v1](http://arxiv.org/abs/2208.01710v1)|null|
+|**2022-08-02**|**Non-Line-of-Sight Tracking and Mapping with an Active Corner Camera**|Sheila Seidel et.al.|[2208.01702v1](http://arxiv.org/abs/2208.01702v1)|null|
 |**2022-08-02**|**UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture**|Hiroyasu Akada et.al.|[2208.01633v1](http://arxiv.org/abs/2208.01633v1)|null|
 |**2022-08-02**|**The Face of Affective Disorders**|Christian S. Pilz et.al.|[2208.01369v1](http://arxiv.org/abs/2208.01369v1)|null|
 |**2022-08-02**|**Self-Supervised Traversability Prediction by Learning to Reconstruct Safe Terrain**|Robin Schmid et.al.|[2208.01329v1](http://arxiv.org/abs/2208.01329v1)|null|
@@ -27,8 +32,3 @@
 |**2022-07-31**|**Last performances improvement of the C-RED One camera using the 320x256 e-APD infrared Saphira detector**|Philippe Feautrier et.al.|[2208.00377v1](http://arxiv.org/abs/2208.00377v1)|null|
 |**2022-07-30**|**Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding**|Hao Wen et.al.|[2208.00281v1](http://arxiv.org/abs/2208.00281v1)|null|
 |**2022-07-30**|**Neural Correspondence Field for Object Pose Estimation**|Lin Huang et.al.|[2208.00113v1](http://arxiv.org/abs/2208.00113v1)|null|
-|**2022-07-29**|**Constraining the Densities of the Three Kepler-289 Planets with Transit Timing Variations**|Michael Greklek-McKeon et.al.|[2208.00022v1](http://arxiv.org/abs/2208.00022v1)|null|
-|**2022-07-29**|**Expectations of the size evolution of massive galaxies at $3 \leq z \leq 6$ from the TNG50 simulation: the CEERS/JWST view**|Luca Costantin et.al.|[2208.00007v1](http://arxiv.org/abs/2208.00007v1)|null|
-|**2022-07-29**|**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**|Guangcong Wang et.al.|[2207.14811v1](http://arxiv.org/abs/2207.14811v1)|[link](https://github.com/wanggcong/stylelight)|
-|**2022-07-29**|**Forensic License Plate Recognition with Compression-Informed Transformers**|Denise Moussa et.al.|[2207.14686v1](http://arxiv.org/abs/2207.14686v1)|null|
-|**2022-07-29**|**High Dynamic Range and Super-Resolution from Raw Image Bursts**|Bruno Lecouat et.al.|[2207.14671v1](http://arxiv.org/abs/2207.14671v1)|null|
