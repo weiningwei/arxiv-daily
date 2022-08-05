@@ -8,7 +8,7 @@
 |**2022-08-02**|**Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras**|Ziwei Wang et.al.|[2208.01710v1](http://arxiv.org/abs/2208.01710v1)|null|
 |**2022-08-02**|**Non-Line-of-Sight Tracking and Mapping with an Active Corner Camera**|Sheila Seidel et.al.|[2208.01702v1](http://arxiv.org/abs/2208.01702v1)|null|
 |**2022-08-02**|**UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture**|Hiroyasu Akada et.al.|[2208.01633v1](http://arxiv.org/abs/2208.01633v1)|null|
-|**2022-08-02**|**The Face of Affective Disorders**|Christian S. Pilz et.al.|[2208.01369v1](http://arxiv.org/abs/2208.01369v1)|null|
+|**2022-08-02**|**The Face of Affective Disorders**|Christian S. Pilz et.al.|[2208.01369v2](http://arxiv.org/abs/2208.01369v2)|null|
 |**2022-08-02**|**Self-Supervised Traversability Prediction by Learning to Reconstruct Safe Terrain**|Robin Schmid et.al.|[2208.01329v1](http://arxiv.org/abs/2208.01329v1)|null|
 |**2022-08-02**|**Differential Coded Aperture Single-Snapshot Spectral Imaging**|Jiri Hlubucek et.al.|[2208.01309v1](http://arxiv.org/abs/2208.01309v1)|null|
 |**2022-08-02**|**Enhancement of CASSI by a zero-order image employing a single detector**|Jiri Hlubucek et.al.|[2208.01308v1](http://arxiv.org/abs/2208.01308v1)|null|
