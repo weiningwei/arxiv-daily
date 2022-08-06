@@ -7,9 +7,9 @@
 |**2022-08-04**|**Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**|Yao-Chih Lee et.al.|[2208.02709v1](http://arxiv.org/abs/2208.02709v1)|null|
 |**2022-08-04**|**MAORY/MORFEO and LIFT: can the low order wavefront sensors become phasing sensors?**|Guido Agapito et.al.|[2208.02662v1](http://arxiv.org/abs/2208.02662v1)|null|
 |**2022-08-04**|**SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset**|Fatih Emre Simsek et.al.|[2208.02580v1](http://arxiv.org/abs/2208.02580v1)|null|
-|**2022-08-04**|**Heart rate estimation in intense exercise videos**|Yeshwanth Napolean et.al.|[2208.02509v1](http://arxiv.org/abs/2208.02509v1)|null|
+|**2022-08-04**|**Heart rate estimation in intense exercise videos**|Yeshwanth Napolean et.al.|[2208.02509v1](http://arxiv.org/abs/2208.02509v1)|[link](https://github.com/ynapolean/ibis-cnn)|
 |**2022-08-04**|**Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**|Hanwen Kang et.al.|[2208.02483v1](http://arxiv.org/abs/2208.02483v1)|null|
-|**2022-08-04**|**Privacy-Preserving Action Recognition via Motion Difference Quantization**|Sudhakar Kumawat et.al.|[2208.02459v1](http://arxiv.org/abs/2208.02459v1)|null|
+|**2022-08-04**|**Privacy-Preserving Action Recognition via Motion Difference Quantization**|Sudhakar Kumawat et.al.|[2208.02459v1](http://arxiv.org/abs/2208.02459v1)|[link](https://github.com/suakaw/bdq_privacyar)|
 |**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin et.al.|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|[link](https://github.com/vcm-project233/mitml)|
 |**2022-08-04**|**H2-Stereo: High-Speed, High-Resolution Stereoscopic Video System**|Ming Cheng et.al.|[2208.02436v1](http://arxiv.org/abs/2208.02436v1)|null|
 |**2022-08-03**|**Learning Fast and Precise Pixel-to-Torque Control**|Steffen Bleher et.al.|[2208.02315v1](http://arxiv.org/abs/2208.02315v1)|null|
