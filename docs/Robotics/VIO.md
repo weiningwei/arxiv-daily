@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-07**|**Transition state theory characterizes thin film macrospin dynamics driven by an oscillatory magnetic field: Inertial effects**|Michael Maihöfer et.al.|[2208.03613v1](http://arxiv.org/abs/2208.03613v1)|null|
+|**2022-08-06**|**Minkowski-Fock states in accelerated frames**|Riccardo Falcone et.al.|[2208.03481v1](http://arxiv.org/abs/2208.03481v1)|null|
+|**2022-08-06**|**Damage threshold in pre-heated materials exposed to intense X-rays**|Nikita Medvedev et.al.|[2208.03465v1](http://arxiv.org/abs/2208.03465v1)|null|
+|**2022-08-06**|**Log-linear Error State Model Derivation without Approximation for INS**|Lubin Chang et.al.|[2208.03427v1](http://arxiv.org/abs/2208.03427v1)|null|
 |**2022-08-05**|**Oscillations of diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2208.03223v1](http://arxiv.org/abs/2208.03223v1)|null|
 |**2022-08-04**|**Attitude Tracking for Rigid Bodies Using Vector and Biased Gyro Measurements**|Eduardo Espíndola et.al.|[2208.02437v1](http://arxiv.org/abs/2208.02437v1)|null|
 |**2022-08-02**|**Spinning up the Surface: Evidence for Planetary Engulfment or Unexpected Angular Momentum Transport?**|Jamie Tayar et.al.|[2208.01678v1](http://arxiv.org/abs/2208.01678v1)|null|
@@ -27,8 +32,3 @@
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-24**|**Electrodynamics of a mechano-driven media system moving with acceleration**|Zhong Lin Wang et.al.|[2207.13119v1](http://arxiv.org/abs/2207.13119v1)|null|
 |**2022-07-23**|**Epersist: A Self Balancing Robot Using PID Controller And Deep Reinforcement Learning**|Ghanta Sai Krishna et.al.|[2207.11431v1](http://arxiv.org/abs/2207.11431v1)|null|
-|**2022-07-23**|**Validation and Verification of Turbulence Mixing due to Richtmyer-Meshkov Instability of an air/SF$_6$ interface**|Tulin Kaman et.al.|[2207.11404v1](http://arxiv.org/abs/2207.11404v1)|null|
-|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
-|**2022-07-21**|**Spatio-temporal Signatures of Elasto-inertial Turbulence in Viscoelastic Planar Jets**|Sami Yamani et.al.|[2207.10736v1](http://arxiv.org/abs/2207.10736v1)|null|
-|**2022-07-21**|**Self propulsion via slipping: frictional resistive force theory for multi-legged locomotors**|Baxi Chong et.al.|[2207.10604v1](http://arxiv.org/abs/2207.10604v1)|null|
-|**2022-07-21**|**Quantum Phase transitions observed in a moving frame and emergent space-time near Quantum Phase transitions**|Fad Sun et.al.|[2207.10475v2](http://arxiv.org/abs/2207.10475v2)|null|

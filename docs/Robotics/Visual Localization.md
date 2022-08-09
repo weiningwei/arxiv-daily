@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-08**|**PlaneFormers: From Sparse View Planes to 3D Reconstruction**|Samir Agarwala et.al.|[2208.04307v1](http://arxiv.org/abs/2208.04307v1)|null|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**Vision-Based Activity Recognition in Children with Autism-Related Behaviors**|Pengbo Wei et.al.|[2208.04206v1](http://arxiv.org/abs/2208.04206v1)|null|
+|**2022-08-08**|**Spectroscopic performance of flight-like DEPFET sensors for Athena's WFI**|Johannes Müller-Seidlitz et.al.|[2208.04178v1](http://arxiv.org/abs/2208.04178v1)|null|
+|**2022-08-08**|**Development of the photo-diode subsystem for the HERD calorimeter double-readout**|O. Adriani et.al.|[2208.04133v1](http://arxiv.org/abs/2208.04133v1)|null|
+|**2022-08-08**|**Multi-Frames Temporal Abnormal Clues Learning Method for Face Anti-Spoofing**|Heng Cong et.al.|[2208.04076v1](http://arxiv.org/abs/2208.04076v1)|null|
+|**2022-08-08**|**Aerial Monocular 3D Object Detection**|Yue Hu et.al.|[2208.03974v1](http://arxiv.org/abs/2208.03974v1)|null|
+|**2022-08-08**|**Extrinsic Camera Calibration with Semantic Segmentation**|Alexander Tsaregorodtsev et.al.|[2208.03949v1](http://arxiv.org/abs/2208.03949v1)|null|
+|**2022-08-08**|**RadSegNet: A Reliable Approach to Radar Camera Fusion**|Kshitiz Bansal et.al.|[2208.03849v1](http://arxiv.org/abs/2208.03849v1)|null|
+|**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
+|**2022-08-07**|**Fast Online and Relational Tracking**|Mohammad Hossein Nasseri et.al.|[2208.03659v1](http://arxiv.org/abs/2208.03659v1)|null|
+|**2022-08-06**|**Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation**|Lingzhi Zhang et.al.|[2208.03552v1](http://arxiv.org/abs/2208.03552v1)|null|
+|**2022-08-06**|**Deep Learning-enabled Spatial Phase Unwrapping for 3D Measurement**|Xiaolong Luo et.al.|[2208.03524v1](http://arxiv.org/abs/2208.03524v1)|null|
+|**2022-08-06**|**AFE-CNN: 3D Skeleton-based Action Recognition with Action Feature Enhancement**|Shannan Guan et.al.|[2208.03444v1](http://arxiv.org/abs/2208.03444v1)|null|
+|**2022-08-05**|**Various Wavefront Sensing and Control Developments on the Santa Cruz Extreme AO Laboratory (SEAL) Testbed**|Benjamin L. Gerard et.al.|[2208.03402v1](http://arxiv.org/abs/2208.03402v1)|null|
+|**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-05**|**Low-Light Hyperspectral Image Enhancement**|Xuelong Li et.al.|[2208.03042v1](http://arxiv.org/abs/2208.03042v1)|null|
 |**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
 |**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
@@ -16,19 +32,3 @@
 |**2022-08-04**|**H2-Stereo: High-Speed, High-Resolution Stereoscopic Video System**|Ming Cheng et.al.|[2208.02436v1](http://arxiv.org/abs/2208.02436v1)|null|
 |**2022-08-03**|**Learning Fast and Precise Pixel-to-Torque Control**|Steffen Bleher et.al.|[2208.02315v1](http://arxiv.org/abs/2208.02315v1)|null|
 |**2022-08-03**|**Euclid preparation. XXIV. Calibration of the halo mass function in $Λ(ν)$CDM cosmologies**|Euclid Collaboration et.al.|[2208.02174v1](http://arxiv.org/abs/2208.02174v1)|null|
-|**2022-08-03**|**LaneSNNs: Spiking Neural Networks for Lane Detection on the Loihi Neuromorphic Processor**|Alberto Viale et.al.|[2208.02253v1](http://arxiv.org/abs/2208.02253v1)|null|
-|**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
-|**2022-08-03**|**Leveraging Smartphone Sensors for Detecting Abnormal Gait for Smart Wearable Mobile Technologies**|Md Shahriar Tasjid et.al.|[2208.01876v1](http://arxiv.org/abs/2208.01876v1)|null|
-|**2022-08-02**|**Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras**|Ziwei Wang et.al.|[2208.01710v1](http://arxiv.org/abs/2208.01710v1)|null|
-|**2022-08-02**|**Non-Line-of-Sight Tracking and Mapping with an Active Corner Camera**|Sheila Seidel et.al.|[2208.01702v1](http://arxiv.org/abs/2208.01702v1)|null|
-|**2022-08-02**|**UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture**|Hiroyasu Akada et.al.|[2208.01633v1](http://arxiv.org/abs/2208.01633v1)|null|
-|**2022-08-02**|**The Face of Affective Disorders**|Christian S. Pilz et.al.|[2208.01369v2](http://arxiv.org/abs/2208.01369v2)|null|
-|**2022-08-02**|**Self-Supervised Traversability Prediction by Learning to Reconstruct Safe Terrain**|Robin Schmid et.al.|[2208.01329v1](http://arxiv.org/abs/2208.01329v1)|null|
-|**2022-08-02**|**Differential Coded Aperture Single-Snapshot Spectral Imaging**|Jiri Hlubucek et.al.|[2208.01309v1](http://arxiv.org/abs/2208.01309v1)|null|
-|**2022-08-02**|**Enhancement of CASSI by a zero-order image employing a single detector**|Jiri Hlubucek et.al.|[2208.01308v1](http://arxiv.org/abs/2208.01308v1)|null|
-|**2022-08-01**|**MV6D: Multi-View 6D Pose Estimation on RGB-D Frames Using a Deep Point-wise Voting Network**|Fabian Duffhauss et.al.|[2208.01172v1](http://arxiv.org/abs/2208.01172v1)|null|
-|**2022-08-01**|**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**|Carlos A. Diaz-Ruiz et.al.|[2208.01166v1](http://arxiv.org/abs/2208.01166v1)|null|
-|**2022-08-01**|**The space coronagraph optical bench (SCoOB): 2. wavefront sensing and control in a vacuum-compatible coronagraph testbed for spaceborne high-contrast imaging technology**|Kyle Van Gorkom et.al.|[2208.01155v2](http://arxiv.org/abs/2208.01155v2)|null|
-|**2022-08-01**|**2022 Upgrade and Improved Low Frequency Camera Sensitivity for CMB Observation at the South Pole**|A. Soliman et.al.|[2208.01080v1](http://arxiv.org/abs/2208.01080v1)|null|
-|**2022-08-01**|**A performance contextualization approach to validating camera models for robot simulation**|Asher Elmquist et.al.|[2208.01022v1](http://arxiv.org/abs/2208.01022v1)|null|
-|**2022-08-01**|**Fast Two-step Blind Optical Aberration Correction**|Thomas Eboli et.al.|[2208.00950v1](http://arxiv.org/abs/2208.00950v1)|null|
