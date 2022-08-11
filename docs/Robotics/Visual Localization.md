@@ -2,9 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-10**|**Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**|Bram Vanherle et.al.|[2208.05213v1](http://arxiv.org/abs/2208.05213v1)|null|
+|**2022-08-10**|**Using Algebraic Geometry to Reconstruct a Darboux Cyclide from a Calibrated Camera Picture**|Eriola Hoxhaj et.al.|[2208.05209v1](http://arxiv.org/abs/2208.05209v1)|null|
+|**2022-08-10**|**Real-Time Oil Leakage Detection on Aftermarket Motorcycle Damping System with Convolutional Neural Networks**|Federico Bianchi et.al.|[2208.05192v1](http://arxiv.org/abs/2208.05192v1)|null|
+|**2022-08-09**|**The Relative Importance of Depth Cues and Semantic Edges for Indoor Mobility Using Simulated Prosthetic Vision in Immersive Virtual Reality**|Alex Rasla et.al.|[2208.05066v1](http://arxiv.org/abs/2208.05066v1)|null|
+|**2022-08-09**|**An Integrated Actuation-Perception Framework for Robotic Leaf Retrieval: Detection, Localization, and Cutting**|Merrick Campbell et.al.|[2208.05032v1](http://arxiv.org/abs/2208.05032v1)|null|
 |**2022-08-09**|**Imaging below the camera noise floor with a homodyne microscope**|Osian Wolley et.al.|[2208.04898v1](http://arxiv.org/abs/2208.04898v1)|null|
 |**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v2](http://arxiv.org/abs/2208.04679v2)|null|
 |**2022-08-09**|**Classification of electromagnetic interference induced image noise in an analog video link**|Anthony Purcell et.al.|[2208.04614v1](http://arxiv.org/abs/2208.04614v1)|null|
+|**2022-08-09**|**BabyNet: A Lightweight Network for Infant Reaching Action Recognition in Unconstrained Environments to Support Future Pediatric Rehabilitation Applications**|Amel Dechemi et.al.|[2208.04950v1](http://arxiv.org/abs/2208.04950v1)|null|
+|**2022-08-09**|**Determination of the transverse width and distance of an object with a smartphone camera**|Soumen Sarkar et.al.|[2208.05319v1](http://arxiv.org/abs/2208.05319v1)|null|
 |**2022-08-08**|**A Method For Automated Drone Viewpoints to Support Remote Robot Manipulation**|Emmanuel Senft et.al.|[2208.04391v1](http://arxiv.org/abs/2208.04391v1)|null|
 |**2022-08-08**|**PlaneFormers: From Sparse View Planes to 3D Reconstruction**|Samir Agarwala et.al.|[2208.04307v1](http://arxiv.org/abs/2208.04307v1)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
@@ -25,10 +32,3 @@
 |**2022-08-05**|**Low-Light Hyperspectral Image Enhancement**|Xuelong Li et.al.|[2208.03042v1](http://arxiv.org/abs/2208.03042v1)|null|
 |**2022-08-05**|**ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**|Bingning Wang et.al.|[2208.03030v1](http://arxiv.org/abs/2208.03030v1)|[link](https://github.com/benywon/ChiQA)|
 |**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
-|**2022-08-04**|**Automatic dense annotation of large-vocabulary sign language videos**|Liliane Momeni et.al.|[2208.02802v1](http://arxiv.org/abs/2208.02802v1)|null|
-|**2022-08-04**|**Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**|Yao-Chih Lee et.al.|[2208.02709v1](http://arxiv.org/abs/2208.02709v1)|[link](https://github.com/yaochih/gcvd-release)|
-|**2022-08-04**|**MAORY/MORFEO and LIFT: can the low order wavefront sensors become phasing sensors?**|Guido Agapito et.al.|[2208.02662v1](http://arxiv.org/abs/2208.02662v1)|null|
-|**2022-08-04**|**SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset**|Fatih Emre Simsek et.al.|[2208.02580v1](http://arxiv.org/abs/2208.02580v1)|null|
-|**2022-08-04**|**Heart rate estimation in intense exercise videos**|Yeshwanth Napolean et.al.|[2208.02509v1](http://arxiv.org/abs/2208.02509v1)|[link](https://github.com/ynapolean/ibis-cnn)|
-|**2022-08-04**|**Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**|Hanwen Kang et.al.|[2208.02483v1](http://arxiv.org/abs/2208.02483v1)|null|
-|**2022-08-04**|**Privacy-Preserving Action Recognition via Motion Difference Quantization**|Sudhakar Kumawat et.al.|[2208.02459v1](http://arxiv.org/abs/2208.02459v1)|[link](https://github.com/suakaw/bdq_privacyar)|
