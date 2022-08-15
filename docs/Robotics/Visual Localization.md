@@ -2,9 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-12**|**OmniVoxel: A Fast and Precise Reconstruction Method of Omnidirectional Neural Radiance Field**|Qiaoge Li et.al.|[2208.06335v1](http://arxiv.org/abs/2208.06335v1)|null|
+|**2022-08-12**|**Robotic Inspection and Characterization of Subsurface Defects on Concrete Structures Using Impact Sounding**|Ejup Hoxha et.al.|[2208.06305v1](http://arxiv.org/abs/2208.06305v1)|null|
+|**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
+|**2022-08-12**|**What Features Influence Impact Feel? A Study of Impact Feedback in Action Games**|Zhonghao Lin et.al.|[2208.06155v1](http://arxiv.org/abs/2208.06155v1)|null|
+|**2022-08-12**|**PRIF: Primary Ray-based Implicit Function**|Brandon Yushan Feng et.al.|[2208.06143v1](http://arxiv.org/abs/2208.06143v1)|null|
+|**2022-08-12**|**MAIScope: A low-cost portable microscope with built-in vision AI to automate microscopic diagnosis of diseases in remote rural settings**|Rohan Sangameswaran et.al.|[2208.06114v1](http://arxiv.org/abs/2208.06114v1)|null|
+|**2022-08-11**|**Indirect Detection of eV Dark Matter via Infrared Spectroscopy**|Taiki Bessho et.al.|[2208.05975v1](http://arxiv.org/abs/2208.05975v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-11**|**Barrier Certificate based Safe Control for LiDAR-based Systems under Sensor Faults and Attacks**|Hongchao Zhang et.al.|[2208.05944v1](http://arxiv.org/abs/2208.05944v1)|null|
 |**2022-08-11**|**Differencing based Self-supervised pretraining for Scene Change Detection**|Vijaya Raghavan T. Ramkumar et.al.|[2208.05838v1](http://arxiv.org/abs/2208.05838v1)|[link](https://github.com/neurai-lab/dsp)|
+|**2022-08-11**|**Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment**|Jie Zhu et.al.|[2208.05969v1](http://arxiv.org/abs/2208.05969v1)|[link](https://github.com/jiepku/mia-safecompress)|
 |**2022-08-11**|**Symbolic Music Loop Generation with Neural Discrete Representations**|Sangjun Han et.al.|[2208.05605v1](http://arxiv.org/abs/2208.05605v1)|[link](https://github.com/sjhan91/loop_vqvae_official)|
 |**2022-08-10**|**Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**|Bram Vanherle et.al.|[2208.05213v1](http://arxiv.org/abs/2208.05213v1)|null|
 |**2022-08-10**|**Using Algebraic Geometry to Reconstruct a Darboux Cyclide from a Calibrated Camera Picture**|Eriola Hoxhaj et.al.|[2208.05209v1](http://arxiv.org/abs/2208.05209v1)|null|
@@ -24,11 +32,3 @@
 |**2022-08-08**|**Development of the photo-diode subsystem for the HERD calorimeter double-readout**|O. Adriani et.al.|[2208.04133v1](http://arxiv.org/abs/2208.04133v1)|null|
 |**2022-08-08**|**Multi-Frames Temporal Abnormal Clues Learning Method for Face Anti-Spoofing**|Heng Cong et.al.|[2208.04076v1](http://arxiv.org/abs/2208.04076v1)|null|
 |**2022-08-08**|**Aerial Monocular 3D Object Detection**|Yue Hu et.al.|[2208.03974v1](http://arxiv.org/abs/2208.03974v1)|null|
-|**2022-08-08**|**Extrinsic Camera Calibration with Semantic Segmentation**|Alexander Tsaregorodtsev et.al.|[2208.03949v1](http://arxiv.org/abs/2208.03949v1)|null|
-|**2022-08-08**|**RadSegNet: A Reliable Approach to Radar Camera Fusion**|Kshitiz Bansal et.al.|[2208.03849v1](http://arxiv.org/abs/2208.03849v1)|null|
-|**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
-|**2022-08-07**|**Fast Online and Relational Tracking**|Mohammad Hossein Nasseri et.al.|[2208.03659v1](http://arxiv.org/abs/2208.03659v1)|null|
-|**2022-08-06**|**Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation**|Lingzhi Zhang et.al.|[2208.03552v1](http://arxiv.org/abs/2208.03552v1)|null|
-|**2022-08-06**|**Deep Learning-enabled Spatial Phase Unwrapping for 3D Measurement**|Xiaolong Luo et.al.|[2208.03524v1](http://arxiv.org/abs/2208.03524v1)|[link](https://github.com/wanzhongsong/dl-spu)|
-|**2022-08-06**|**AFE-CNN: 3D Skeleton-based Action Recognition with Action Feature Enhancement**|Shannan Guan et.al.|[2208.03444v1](http://arxiv.org/abs/2208.03444v1)|null|
-|**2022-08-05**|**Various Wavefront Sensing and Control Developments on the Santa Cruz Extreme AO Laboratory (SEAL) Testbed**|Benjamin L. Gerard et.al.|[2208.03402v1](http://arxiv.org/abs/2208.03402v1)|null|
