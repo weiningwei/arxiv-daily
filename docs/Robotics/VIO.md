@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
+|**2022-08-15**|**Noether Charge, Thermodynamics and Phase Transition of the Schwarzschild Black Hole in Anti-de Sitter-Beltrami spacetime**|T. Angsachon et.al.|[2208.07209v1](http://arxiv.org/abs/2208.07209v1)|null|
+|**2022-08-14**|**Strong Convergence of Forward-Reflected-Backward Splitting Methods for Solving Monotone Inclusions with Applications to Image Restoration and Optimal Control**|Chinedu Izuchukwu et.al.|[2208.06871v1](http://arxiv.org/abs/2208.06871v1)|null|
 |**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
 |**2022-08-11**|**Dynamics of active liquid interfaces**|Raymond Adkins et.al.|[2208.06044v1](http://arxiv.org/abs/2208.06044v1)|null|
 |**2022-08-10**|**Quantitative prediction of sling events in turbulence at high Reynolds numbers**|Tobias Bätge et.al.|[2208.05384v1](http://arxiv.org/abs/2208.05384v1)|null|
@@ -29,6 +32,3 @@
 |**2022-07-26**|**Infant movement classification through pressure distribution analysis -- added value for research and clinical implementation**|Tomas Kulvicius et.al.|[2208.00884v1](http://arxiv.org/abs/2208.00884v1)|null|
 |**2022-07-26**|**The effects of nonlinearities on tidal flows in the convective envelopes of rotating stars and planets in exoplanetary systems**|A. Astoul et.al.|[2207.12780v1](http://arxiv.org/abs/2207.12780v1)|null|
 |**2022-07-26**|**An atom interferometer driven by a picosecond frequency comb**|Cyrille Solaro et.al.|[2207.12723v1](http://arxiv.org/abs/2207.12723v1)|null|
-|**2022-07-26**|**Fast Multiobjective Gradient Methods with Nesterov Acceleration via Inertial Gradient-like Systems**|Konstantin Sonntag et.al.|[2207.12707v1](http://arxiv.org/abs/2207.12707v1)|null|
-|**2022-07-25**|**Modification of Landau levels in a two-dimensional ring due to rotation effects and edge states**|Luís Fernando C. Pereira et.al.|[2207.12556v1](http://arxiv.org/abs/2207.12556v1)|null|
-|**2022-07-25**|**A Letter on Progress Made on Husky Carbon: A Legged-Aerial, Multi-modal Platform**|Adarsh Salagame et.al.|[2207.12254v1](http://arxiv.org/abs/2207.12254v1)|null|
