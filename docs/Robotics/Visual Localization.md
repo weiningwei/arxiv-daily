@@ -10,7 +10,7 @@
 |**2022-08-15**|**Adaptive Joint Optimization for 3D Reconstruction with Differentiable Rendering**|Jingbo Zhang et.al.|[2208.07003v1](http://arxiv.org/abs/2208.07003v1)|null|
 |**2022-08-15**|**InvisibiliTee: Angle-agnostic Cloaking from Person-Tracking Systems with a Tee**|Yaxian Li et.al.|[2208.06962v1](http://arxiv.org/abs/2208.06962v1)|[link](https://github.com/invisibilitee/invisibilitee)|
 |**2022-08-15**|**How Does Data Freshness Affect Real-time Supervised Learning?**|Md Kamran Chowdhury Shisher et.al.|[2208.06948v1](http://arxiv.org/abs/2208.06948v1)|[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
-|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|null|
+|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|[link](https://github.com/siyandong/src)|
 |**2022-08-14**|**HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields**|Kim Jun-Seong et.al.|[2208.06787v1](http://arxiv.org/abs/2208.06787v1)|null|
 |**2022-08-13**|**Enhanced Vehicle Re-identification for ITS: A Feature Fusion approach using Deep Learning**|Ashutosh Holla B et.al.|[2208.06579v1](http://arxiv.org/abs/2208.06579v1)|null|
 |**2022-08-13**|**Demo: RhythmEdge: Enabling Contactless Heart Rate Estimation on the Edge**|Zahid Hasan et.al.|[2208.06572v1](http://arxiv.org/abs/2208.06572v1)|null|
@@ -20,7 +20,7 @@
 |**2022-08-12**|**OmniVoxel: A Fast and Precise Reconstruction Method of Omnidirectional Neural Radiance Field**|Qiaoge Li et.al.|[2208.06335v1](http://arxiv.org/abs/2208.06335v1)|null|
 |**2022-08-12**|**Robotic Inspection and Characterization of Subsurface Defects on Concrete Structures Using Impact Sounding**|Ejup Hoxha et.al.|[2208.06305v1](http://arxiv.org/abs/2208.06305v1)|null|
 |**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
-|**2022-08-12**|**What Features Influence Impact Feel? A Study of Impact Feedback in Action Games**|Zhonghao Lin et.al.|[2208.06155v1](http://arxiv.org/abs/2208.06155v1)|null|
+|**2022-08-12**|**What Features Influence Impact Feel? A Study of Impact Feedback in Action Games**|Zhonghao Lin et.al.|[2208.06155v2](http://arxiv.org/abs/2208.06155v2)|null|
 |**2022-08-12**|**PRIF: Primary Ray-based Implicit Function**|Brandon Yushan Feng et.al.|[2208.06143v1](http://arxiv.org/abs/2208.06143v1)|null|
 |**2022-08-12**|**MAIScope: A low-cost portable microscope with built-in vision AI to automate microscopic diagnosis of diseases in remote rural settings**|Rohan Sangameswaran et.al.|[2208.06114v1](http://arxiv.org/abs/2208.06114v1)|null|
 |**2022-08-12**|**Using Artificial Intelligence and IoT for Constructing a Smart Trash Bin**|Khang Nhut Lam et.al.|[2208.07247v1](http://arxiv.org/abs/2208.07247v1)|null|
