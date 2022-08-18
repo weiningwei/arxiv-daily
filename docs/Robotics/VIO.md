@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-17**|**Fast convex optimization via time scale and averaging of the steepest descent**|Hedy Attouch et.al.|[2208.08260v1](http://arxiv.org/abs/2208.08260v1)|null|
+|**2022-08-17**|**Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence**|Josh Williams et.al.|[2208.08156v1](http://arxiv.org/abs/2208.08156v1)|null|
+|**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
 |**2022-08-16**|**Canopy elastic turbulence: spontaneous formation of waves in beds of slender microposts**|Charlotte de Blois et.al.|[2208.07651v1](http://arxiv.org/abs/2208.07651v1)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-15**|**Non-Linear Ablative Rayleigh-Taylor Instability: Increased Growth due to Self-Generated Magnetic Fields**|C. A. Walsh et.al.|[2208.07470v1](http://arxiv.org/abs/2208.07470v1)|null|
@@ -29,6 +32,3 @@
 |**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
 |**2022-07-30**|**Inertial spin waves in ferromagnets and antiferromagnets**|Ritwik Mondal et.al.|[2208.00131v1](http://arxiv.org/abs/2208.00131v1)|null|
 |**2022-07-29**|**Enhanced Laser-Scan Matching with Online Error Estimation for Highway and Tunnel Driving**|Matthew McDermott et.al.|[2207.14674v1](http://arxiv.org/abs/2207.14674v1)|null|
-|**2022-07-29**|**PSM: A Predictive Safety Model for Body Motion Based On the Spring-Damper Pendulum**|Seyed Amir Tafrishi et.al.|[2207.14556v1](http://arxiv.org/abs/2207.14556v1)|null|
-|**2022-07-28**|**Caustics in turbulent aerosols form along Vieillefosse line at weak particle inertia**|Jan Meibohm et.al.|[2207.14190v2](http://arxiv.org/abs/2207.14190v2)|null|
-|**2022-07-27**|**Proprioceptive Slip Detection for Planetary Rovers in Perceptually Degraded Extraterrestrial Environments**|Cagri Kilic et.al.|[2207.13629v2](http://arxiv.org/abs/2207.13629v2)|null|
