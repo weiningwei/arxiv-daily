@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2022-08-18 21:04:47 Asia/Shanghai
+ Automated deployment @ 2022-08-19 08:42:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VIO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-17**|**Fast convex optimization via time scale and averaging of the steepest descent**|Hedy Attouch et.al.|[2208.08260v1](http://arxiv.org/abs/2208.08260v1)|null|
-|**2022-08-17**|**Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence**|Josh Williams et.al.|[2208.08156v1](http://arxiv.org/abs/2208.08156v1)|null|
-|**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
-|**2022-08-16**|**Canopy elastic turbulence: spontaneous formation of waves in beds of slender microposts**|Charlotte de Blois et.al.|[2208.07651v1](http://arxiv.org/abs/2208.07651v1)|null|
-|**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
-|**2022-08-15**|**Non-Linear Ablative Rayleigh-Taylor Instability: Increased Growth due to Self-Generated Magnetic Fields**|C. A. Walsh et.al.|[2208.07470v1](http://arxiv.org/abs/2208.07470v1)|null|
+|**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|[link](https://github.com/malefikus/mocapdeform)|
+|**2022-08-17**|**Towards an Error-free Deep Occupancy Detector for Smart Camera Parking System**|Tung-Lam Duong et.al.|[2208.08220v1](http://arxiv.org/abs/2208.08220v1)|null|
+|**2022-08-17**|**DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations**|Gabriel Van Zandycke et.al.|[2208.08190v1](http://arxiv.org/abs/2208.08190v1)|null|
+|**2022-08-16**|**Liger at Keck Observatory: Design of Imager Optical Assembly and Spectrograph Re-Imaging Optics**|James Wiley et.al.|[2208.07936v1](http://arxiv.org/abs/2208.07936v1)|null|
+|**2022-08-16**|**Casual Indoor HDR Radiance Capture from Omnidirectional Images**|Pulkit Gera et.al.|[2208.07903v1](http://arxiv.org/abs/2208.07903v1)|null|
+|**2022-08-16**|**Rain Removal from Light Field Images with 4D Convolution and Multi-scale Gaussian Process**|Tao Yan et.al.|[2208.07735v1](http://arxiv.org/abs/2208.07735v1)|null|
+|**2022-08-16**|**Matching Multiple Perspectives for Efficient Representation Learning**|Omiros Pantazis et.al.|[2208.07654v1](http://arxiv.org/abs/2208.07654v1)|null|
+|**2022-08-16**|**RAWtoBit: A Fully End-to-end Camera ISP Network**|Wooseok Jeong et.al.|[2208.07639v1](http://arxiv.org/abs/2208.07639v1)|null|
+|**2022-08-16**|**Design of an IR Imaging Channel for the Keck Observatory SCALES Instrument**|Ravinder K. Banyal et.al.|[2208.07523v1](http://arxiv.org/abs/2208.07523v1)|null|
+|**2022-08-15**|**WatchPed: Pedestrian Crossing Intention Prediction Using Embedded Sensors of Smartwatch**|Jibran Ali Abbasi et.al.|[2208.07441v1](http://arxiv.org/abs/2208.07441v1)|null|
 |**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
-|**2022-08-15**|**Noether Charge, Thermodynamics and Phase Transition of the Schwarzschild Black Hole in Anti-de Sitter-Beltrami spacetime**|T. Angsachon et.al.|[2208.07209v1](http://arxiv.org/abs/2208.07209v1)|null|
-|**2022-08-14**|**Strong Convergence of Forward-Reflected-Backward Splitting Methods for Solving Monotone Inclusions with Applications to Image Restoration and Optimal Control**|Chinedu Izuchukwu et.al.|[2208.06871v1](http://arxiv.org/abs/2208.06871v1)|null|
+|**2022-08-15**|**InfraRed On-Detector Guide-Windows in the era of Extremely Large Telescopes**|Edward L. Chapin et.al.|[2208.07332v1](http://arxiv.org/abs/2208.07332v1)|null|
+|**2022-08-15**|**Elderly Fall Detection Using CCTV Cameras under Partial Occlusion of the Subjects Body**|Sara Khalili et.al.|[2208.07291v1](http://arxiv.org/abs/2208.07291v1)|null|
+|**2022-08-15**|**Rapid readout of terahertz orbital angular momentum beams using atom-based imaging**|Lucy A. Downes et.al.|[2208.07273v1](http://arxiv.org/abs/2208.07273v1)|null|
+|**2022-08-15**|**Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression**|Jia Guo et.al.|[2208.07142v1](http://arxiv.org/abs/2208.07142v1)|null|
+|**2022-08-15**|**Adaptive Joint Optimization for 3D Reconstruction with Differentiable Rendering**|Jingbo Zhang et.al.|[2208.07003v1](http://arxiv.org/abs/2208.07003v1)|null|
+|**2022-08-15**|**InvisibiliTee: Angle-agnostic Cloaking from Person-Tracking Systems with a Tee**|Yaxian Li et.al.|[2208.06962v1](http://arxiv.org/abs/2208.06962v1)|[link](https://github.com/invisibilitee/invisibilitee)|
+|**2022-08-15**|**How Does Data Freshness Affect Real-time Supervised Learning?**|Md Kamran Chowdhury Shisher et.al.|[2208.06948v1](http://arxiv.org/abs/2208.06948v1)|[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
+|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|[link](https://github.com/siyandong/src)|
+|**2022-08-14**|**Priority and collision avoidance system for traffic lights**|Iván Santos-González et.al.|[2208.07702v1](http://arxiv.org/abs/2208.07702v1)|null|
+|**2022-08-14**|**HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields**|Kim Jun-Seong et.al.|[2208.06787v1](http://arxiv.org/abs/2208.06787v1)|null|
+|**2022-08-13**|**Enhanced Vehicle Re-identification for ITS: A Feature Fusion approach using Deep Learning**|Ashutosh Holla B et.al.|[2208.06579v1](http://arxiv.org/abs/2208.06579v1)|null|
+|**2022-08-13**|**Demo: RhythmEdge: Enabling Contactless Heart Rate Estimation on the Edge**|Zahid Hasan et.al.|[2208.06572v1](http://arxiv.org/abs/2208.06572v1)|null|
+|**2022-08-12**|**Automated Utterance Labeling of Conversations Using Natural Language Processing**|Maria Laricheva et.al.|[2208.06525v1](http://arxiv.org/abs/2208.06525v1)|null|
+|**2022-08-12**|**Occlusion-Robust Multi-Sensory Posture Estimation in Physical Human-Robot Interaction**|Amir Yazdani et.al.|[2208.06494v1](http://arxiv.org/abs/2208.06494v1)|null|
+|**2022-08-12**|**Real-Time Accident Detection in Traffic Surveillance Using Deep Learning**|Hadi Ghahremannezhad et.al.|[2208.06461v1](http://arxiv.org/abs/2208.06461v1)|[link](https://github.com/hadi-ghnd/accidentdetection)|
+|**2022-08-12**|**OmniVoxel: A Fast and Precise Reconstruction Method of Omnidirectional Neural Radiance Field**|Qiaoge Li et.al.|[2208.06335v1](http://arxiv.org/abs/2208.06335v1)|null|
+|**2022-08-12**|**Robotic Inspection and Characterization of Subsurface Defects on Concrete Structures Using Impact Sounding**|Ejup Hoxha et.al.|[2208.06305v1](http://arxiv.org/abs/2208.06305v1)|null|
 |**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
-|**2022-08-11**|**Dynamics of active liquid interfaces**|Raymond Adkins et.al.|[2208.06044v1](http://arxiv.org/abs/2208.06044v1)|null|
-|**2022-08-10**|**Quantitative prediction of sling events in turbulence at high Reynolds numbers**|Tobias Bätge et.al.|[2208.05384v1](http://arxiv.org/abs/2208.05384v1)|null|
-|**2022-08-09**|**Machine Learning for LiDAR-Based Navigation System**|Farhad Aghili et.al.|[2208.04531v1](http://arxiv.org/abs/2208.04531v1)|null|
-|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
-|**2022-08-08**|**Deep Patch Visual Odometry**|Zachary Teed et.al.|[2208.04726v1](http://arxiv.org/abs/2208.04726v1)|[link](https://github.com/princeton-vl/dpvo)|
-|**2022-08-07**|**Transition state theory characterizes thin film macrospin dynamics driven by an oscillatory magnetic field: Inertial effects**|Michael Maihöfer et.al.|[2208.03613v1](http://arxiv.org/abs/2208.03613v1)|null|
-|**2022-08-06**|**Minkowski-Fock states in accelerated frames**|Riccardo Falcone et.al.|[2208.03481v1](http://arxiv.org/abs/2208.03481v1)|null|
-|**2022-08-06**|**Damage threshold in pre-heated materials exposed to intense X-rays**|Nikita Medvedev et.al.|[2208.03465v1](http://arxiv.org/abs/2208.03465v1)|null|
-|**2022-08-06**|**Log-linear Error State Model Derivation without Approximation for INS**|Lubin Chang et.al.|[2208.03427v1](http://arxiv.org/abs/2208.03427v1)|null|
-|**2022-08-05**|**Oscillations of diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2208.03223v1](http://arxiv.org/abs/2208.03223v1)|null|
-|**2022-08-04**|**Attitude Tracking for Rigid Bodies Using Vector and Biased Gyro Measurements**|Eduardo Espíndola et.al.|[2208.02437v1](http://arxiv.org/abs/2208.02437v1)|null|
-|**2022-08-02**|**Spinning up the Surface: Evidence for Planetary Engulfment or Unexpected Angular Momentum Transport?**|Jamie Tayar et.al.|[2208.01678v1](http://arxiv.org/abs/2208.01678v1)|null|
-|**2022-08-02**|**A Note on the Regularity of Thermoelastic Plates with Fractional Rotational Inertial Force**|Fredy Maglorio Sobrado Suárez et.al.|[2208.01481v1](http://arxiv.org/abs/2208.01481v1)|null|
-|**2022-08-02**|**A Riemannian Take on Human Motion Analysis and Retargeting**|Holger Klein et.al.|[2208.01372v1](http://arxiv.org/abs/2208.01372v1)|null|
-|**2022-08-02**|**Inertialess Gyrating Engines**|Jordi Ventura Siches et.al.|[2208.01292v1](http://arxiv.org/abs/2208.01292v1)|null|
-|**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
-|**2022-08-01**|**Continuous locomotion mode recognition and gait phase estimation based on a shank-mounted IMU with artificial neural networks**|Florian Weigand et.al.|[2208.00861v1](http://arxiv.org/abs/2208.00861v1)|null|
-|**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
-|**2022-07-30**|**Inertial spin waves in ferromagnets and antiferromagnets**|Ritwik Mondal et.al.|[2208.00131v1](http://arxiv.org/abs/2208.00131v1)|null|
-|**2022-07-29**|**Enhanced Laser-Scan Matching with Online Error Estimation for Highway and Tunnel Driving**|Matthew McDermott et.al.|[2207.14674v1](http://arxiv.org/abs/2207.14674v1)|null|
+|**2022-08-12**|**What Features Influence Impact Feel? A Study of Impact Feedback in Action Games**|Zhonghao Lin et.al.|[2208.06155v2](http://arxiv.org/abs/2208.06155v2)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,6 +73,40 @@
 |**2022-07-12**|**Accelerating Certifiable Estimation with Preconditioned Eigensolvers**|David M. Rosen et.al.|[2207.05257v1](http://arxiv.org/abs/2207.05257v1)|null|
 |**2022-07-12**|**Robust Key-Frame Stereo Visual SLAM with low-threshold Point and Line Features**|Meiyu Zhi et.al.|[2207.05244v1](http://arxiv.org/abs/2207.05244v1)|null|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-17**|**Fast convex optimization via time scale and averaging of the steepest descent**|Hedy Attouch et.al.|[2208.08260v1](http://arxiv.org/abs/2208.08260v1)|null|
+|**2022-08-17**|**Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence**|Josh Williams et.al.|[2208.08156v1](http://arxiv.org/abs/2208.08156v1)|null|
+|**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
+|**2022-08-16**|**Canopy elastic turbulence: spontaneous formation of waves in beds of slender microposts**|Charlotte de Blois et.al.|[2208.07651v1](http://arxiv.org/abs/2208.07651v1)|null|
+|**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
+|**2022-08-15**|**Non-Linear Ablative Rayleigh-Taylor Instability: Increased Growth due to Self-Generated Magnetic Fields**|C. A. Walsh et.al.|[2208.07470v1](http://arxiv.org/abs/2208.07470v1)|null|
+|**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
+|**2022-08-15**|**Noether Charge, Thermodynamics and Phase Transition of the Schwarzschild Black Hole in Anti-de Sitter-Beltrami spacetime**|T. Angsachon et.al.|[2208.07209v1](http://arxiv.org/abs/2208.07209v1)|null|
+|**2022-08-14**|**Strong Convergence of Forward-Reflected-Backward Splitting Methods for Solving Monotone Inclusions with Applications to Image Restoration and Optimal Control**|Chinedu Izuchukwu et.al.|[2208.06871v1](http://arxiv.org/abs/2208.06871v1)|null|
+|**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
+|**2022-08-11**|**Dynamics of active liquid interfaces**|Raymond Adkins et.al.|[2208.06044v1](http://arxiv.org/abs/2208.06044v1)|null|
+|**2022-08-10**|**Quantitative prediction of sling events in turbulence at high Reynolds numbers**|Tobias Bätge et.al.|[2208.05384v1](http://arxiv.org/abs/2208.05384v1)|null|
+|**2022-08-09**|**Machine Learning for LiDAR-Based Navigation System**|Farhad Aghili et.al.|[2208.04531v1](http://arxiv.org/abs/2208.04531v1)|null|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**Deep Patch Visual Odometry**|Zachary Teed et.al.|[2208.04726v1](http://arxiv.org/abs/2208.04726v1)|[link](https://github.com/princeton-vl/dpvo)|
+|**2022-08-07**|**Transition state theory characterizes thin film macrospin dynamics driven by an oscillatory magnetic field: Inertial effects**|Michael Maihöfer et.al.|[2208.03613v1](http://arxiv.org/abs/2208.03613v1)|null|
+|**2022-08-06**|**Minkowski-Fock states in accelerated frames**|Riccardo Falcone et.al.|[2208.03481v1](http://arxiv.org/abs/2208.03481v1)|null|
+|**2022-08-06**|**Damage threshold in pre-heated materials exposed to intense X-rays**|Nikita Medvedev et.al.|[2208.03465v1](http://arxiv.org/abs/2208.03465v1)|null|
+|**2022-08-06**|**Log-linear Error State Model Derivation without Approximation for INS**|Lubin Chang et.al.|[2208.03427v1](http://arxiv.org/abs/2208.03427v1)|null|
+|**2022-08-05**|**Oscillations of diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2208.03223v1](http://arxiv.org/abs/2208.03223v1)|null|
+|**2022-08-04**|**Attitude Tracking for Rigid Bodies Using Vector and Biased Gyro Measurements**|Eduardo Espíndola et.al.|[2208.02437v1](http://arxiv.org/abs/2208.02437v1)|null|
+|**2022-08-02**|**Spinning up the Surface: Evidence for Planetary Engulfment or Unexpected Angular Momentum Transport?**|Jamie Tayar et.al.|[2208.01678v1](http://arxiv.org/abs/2208.01678v1)|null|
+|**2022-08-02**|**A Note on the Regularity of Thermoelastic Plates with Fractional Rotational Inertial Force**|Fredy Maglorio Sobrado Suárez et.al.|[2208.01481v1](http://arxiv.org/abs/2208.01481v1)|null|
+|**2022-08-02**|**A Riemannian Take on Human Motion Analysis and Retargeting**|Holger Klein et.al.|[2208.01372v1](http://arxiv.org/abs/2208.01372v1)|null|
+|**2022-08-02**|**Inertialess Gyrating Engines**|Jordi Ventura Siches et.al.|[2208.01292v1](http://arxiv.org/abs/2208.01292v1)|null|
+|**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
+|**2022-08-01**|**Continuous locomotion mode recognition and gait phase estimation based on a shank-mounted IMU with artificial neural networks**|Florian Weigand et.al.|[2208.00861v1](http://arxiv.org/abs/2208.00861v1)|null|
+|**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
+|**2022-07-30**|**Inertial spin waves in ferromagnets and antiferromagnets**|Ritwik Mondal et.al.|[2208.00131v1](http://arxiv.org/abs/2208.00131v1)|null|
+|**2022-07-29**|**Enhanced Laser-Scan Matching with Online Error Estimation for Highway and Tunnel Driving**|Matthew McDermott et.al.|[2207.14674v1](http://arxiv.org/abs/2207.14674v1)|null|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,37 +140,3 @@
 |**2022-06-17**|**Effective Solid State LiDAR Odometry Using Continuous-time Filter Registration**|Xin Zheng et.al.|[2206.08517v1](http://arxiv.org/abs/2206.08517v1)|null|
 |**2022-06-13**|**LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud**|Yunge Cui et.al.|[2206.05927v1](http://arxiv.org/abs/2206.05927v1)|null|
 |**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona et.al.|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|[link](https://github.com/cifasis/slam_agricultural_evaluation)|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|[link](https://github.com/malefikus/mocapdeform)|
-|**2022-08-17**|**Towards an Error-free Deep Occupancy Detector for Smart Camera Parking System**|Tung-Lam Duong et.al.|[2208.08220v1](http://arxiv.org/abs/2208.08220v1)|null|
-|**2022-08-17**|**DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations**|Gabriel Van Zandycke et.al.|[2208.08190v1](http://arxiv.org/abs/2208.08190v1)|null|
-|**2022-08-16**|**Liger at Keck Observatory: Design of Imager Optical Assembly and Spectrograph Re-Imaging Optics**|James Wiley et.al.|[2208.07936v1](http://arxiv.org/abs/2208.07936v1)|null|
-|**2022-08-16**|**Casual Indoor HDR Radiance Capture from Omnidirectional Images**|Pulkit Gera et.al.|[2208.07903v1](http://arxiv.org/abs/2208.07903v1)|null|
-|**2022-08-16**|**Rain Removal from Light Field Images with 4D Convolution and Multi-scale Gaussian Process**|Tao Yan et.al.|[2208.07735v1](http://arxiv.org/abs/2208.07735v1)|null|
-|**2022-08-16**|**Matching Multiple Perspectives for Efficient Representation Learning**|Omiros Pantazis et.al.|[2208.07654v1](http://arxiv.org/abs/2208.07654v1)|null|
-|**2022-08-16**|**RAWtoBit: A Fully End-to-end Camera ISP Network**|Wooseok Jeong et.al.|[2208.07639v1](http://arxiv.org/abs/2208.07639v1)|null|
-|**2022-08-16**|**Design of an IR Imaging Channel for the Keck Observatory SCALES Instrument**|Ravinder K. Banyal et.al.|[2208.07523v1](http://arxiv.org/abs/2208.07523v1)|null|
-|**2022-08-15**|**WatchPed: Pedestrian Crossing Intention Prediction Using Embedded Sensors of Smartwatch**|Jibran Ali Abbasi et.al.|[2208.07441v1](http://arxiv.org/abs/2208.07441v1)|null|
-|**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
-|**2022-08-15**|**InfraRed On-Detector Guide-Windows in the era of Extremely Large Telescopes**|Edward L. Chapin et.al.|[2208.07332v1](http://arxiv.org/abs/2208.07332v1)|null|
-|**2022-08-15**|**Elderly Fall Detection Using CCTV Cameras under Partial Occlusion of the Subjects Body**|Sara Khalili et.al.|[2208.07291v1](http://arxiv.org/abs/2208.07291v1)|null|
-|**2022-08-15**|**Rapid readout of terahertz orbital angular momentum beams using atom-based imaging**|Lucy A. Downes et.al.|[2208.07273v1](http://arxiv.org/abs/2208.07273v1)|null|
-|**2022-08-15**|**Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression**|Jia Guo et.al.|[2208.07142v1](http://arxiv.org/abs/2208.07142v1)|null|
-|**2022-08-15**|**Adaptive Joint Optimization for 3D Reconstruction with Differentiable Rendering**|Jingbo Zhang et.al.|[2208.07003v1](http://arxiv.org/abs/2208.07003v1)|null|
-|**2022-08-15**|**InvisibiliTee: Angle-agnostic Cloaking from Person-Tracking Systems with a Tee**|Yaxian Li et.al.|[2208.06962v1](http://arxiv.org/abs/2208.06962v1)|[link](https://github.com/invisibilitee/invisibilitee)|
-|**2022-08-15**|**How Does Data Freshness Affect Real-time Supervised Learning?**|Md Kamran Chowdhury Shisher et.al.|[2208.06948v1](http://arxiv.org/abs/2208.06948v1)|[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
-|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|[link](https://github.com/siyandong/src)|
-|**2022-08-14**|**Priority and collision avoidance system for traffic lights**|Iván Santos-González et.al.|[2208.07702v1](http://arxiv.org/abs/2208.07702v1)|null|
-|**2022-08-14**|**HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields**|Kim Jun-Seong et.al.|[2208.06787v1](http://arxiv.org/abs/2208.06787v1)|null|
-|**2022-08-13**|**Enhanced Vehicle Re-identification for ITS: A Feature Fusion approach using Deep Learning**|Ashutosh Holla B et.al.|[2208.06579v1](http://arxiv.org/abs/2208.06579v1)|null|
-|**2022-08-13**|**Demo: RhythmEdge: Enabling Contactless Heart Rate Estimation on the Edge**|Zahid Hasan et.al.|[2208.06572v1](http://arxiv.org/abs/2208.06572v1)|null|
-|**2022-08-12**|**Automated Utterance Labeling of Conversations Using Natural Language Processing**|Maria Laricheva et.al.|[2208.06525v1](http://arxiv.org/abs/2208.06525v1)|null|
-|**2022-08-12**|**Occlusion-Robust Multi-Sensory Posture Estimation in Physical Human-Robot Interaction**|Amir Yazdani et.al.|[2208.06494v1](http://arxiv.org/abs/2208.06494v1)|null|
-|**2022-08-12**|**Real-Time Accident Detection in Traffic Surveillance Using Deep Learning**|Hadi Ghahremannezhad et.al.|[2208.06461v1](http://arxiv.org/abs/2208.06461v1)|[link](https://github.com/hadi-ghnd/accidentdetection)|
-|**2022-08-12**|**OmniVoxel: A Fast and Precise Reconstruction Method of Omnidirectional Neural Radiance Field**|Qiaoge Li et.al.|[2208.06335v1](http://arxiv.org/abs/2208.06335v1)|null|
-|**2022-08-12**|**Robotic Inspection and Characterization of Subsurface Defects on Concrete Structures Using Impact Sounding**|Ejup Hoxha et.al.|[2208.06305v1](http://arxiv.org/abs/2208.06305v1)|null|
-|**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
-|**2022-08-12**|**What Features Influence Impact Feel? A Study of Impact Feedback in Action Games**|Zhonghao Lin et.al.|[2208.06155v2](http://arxiv.org/abs/2208.06155v2)|null|
