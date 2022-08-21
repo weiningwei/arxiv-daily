@@ -12,7 +12,7 @@
 |**2022-08-17**|**Detect and Approach: Close-Range Navigation Support for People with Blindness and Low Vision**|Yu Hao et.al.|[2208.08477v1](http://arxiv.org/abs/2208.08477v1)|null|
 |**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|[link](https://github.com/malefikus/mocapdeform)|
 |**2022-08-17**|**Towards an Error-free Deep Occupancy Detector for Smart Camera Parking System**|Tung-Lam Duong et.al.|[2208.08220v1](http://arxiv.org/abs/2208.08220v1)|null|
-|**2022-08-17**|**DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations**|Gabriel Van Zandycke et.al.|[2208.08190v1](http://arxiv.org/abs/2208.08190v1)|null|
+|**2022-08-17**|**DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations**|Gabriel Van Zandycke et.al.|[2208.08190v1](http://arxiv.org/abs/2208.08190v1)|[link](https://github.com/deepsportradar/instance-segmentation-challenge)|
 |**2022-08-17**|**STTAR: Surgical Tool Tracking using off-the-shelf Augmented Reality Head-Mounted Displays**|Alejandro Martin-Gomez et.al.|[2208.08880v1](http://arxiv.org/abs/2208.08880v1)|null|
 |**2022-08-16**|**Liger at Keck Observatory: Design of Imager Optical Assembly and Spectrograph Re-Imaging Optics**|James Wiley et.al.|[2208.07936v1](http://arxiv.org/abs/2208.07936v1)|null|
 |**2022-08-16**|**Casual Indoor HDR Radiance Capture from Omnidirectional Images**|Pulkit Gera et.al.|[2208.07903v1](http://arxiv.org/abs/2208.07903v1)|null|
