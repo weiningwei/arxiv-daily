@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-19**|**Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images**|Nagabhushan Somraj et.al.|[2208.09463v1](http://arxiv.org/abs/2208.09463v1)|null|
+|**2022-08-19**|**ArUco Maker based localization and Node graph approach to mapping**|Abhijith Sampathkrishna et.al.|[2208.09355v1](http://arxiv.org/abs/2208.09355v1)|null|
+|**2022-08-19**|**An empirical model of the Gaia DR3 selection function**|Tristan Cantat-Gaudin et.al.|[2208.09335v1](http://arxiv.org/abs/2208.09335v1)|null|
+|**2022-08-19**|**Booster-SHOT: Boosting Stacked Homography Transformations for Multiview Pedestrian Detection with Attention**|Jinwoo Hwang et.al.|[2208.09211v1](http://arxiv.org/abs/2208.09211v1)|null|
+|**2022-08-19**|**Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning**|Xiaofeng Wang et.al.|[2208.09170v1](http://arxiv.org/abs/2208.09170v1)|[link](https://github.com/jeffwang987/movedepth)|
+|**2022-08-18**|**JWST Imaging of Earendel, the Extremely Magnified Star at Redshift $z=6.2$**|Brian Welch et.al.|[2208.09007v1](http://arxiv.org/abs/2208.09007v1)|null|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-18**|**Multi-modal imaging using a cascaded microscope design**|Xi Yang et.al.|[2208.08875v1](http://arxiv.org/abs/2208.08875v1)|null|
 |**2022-08-18**|**Lessons from a Space Lab -- An Image Acquisition Perspective**|Leo Pauly et.al.|[2208.08865v1](http://arxiv.org/abs/2208.08865v1)|null|
@@ -26,9 +32,3 @@
 |**2022-08-15**|**InfraRed On-Detector Guide-Windows in the era of Extremely Large Telescopes**|Edward L. Chapin et.al.|[2208.07332v1](http://arxiv.org/abs/2208.07332v1)|null|
 |**2022-08-15**|**Elderly Fall Detection Using CCTV Cameras under Partial Occlusion of the Subjects Body**|Sara Khalili et.al.|[2208.07291v1](http://arxiv.org/abs/2208.07291v1)|null|
 |**2022-08-15**|**Rapid readout of terahertz orbital angular momentum beams using atom-based imaging**|Lucy A. Downes et.al.|[2208.07273v1](http://arxiv.org/abs/2208.07273v1)|null|
-|**2022-08-15**|**Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression**|Jia Guo et.al.|[2208.07142v1](http://arxiv.org/abs/2208.07142v1)|[link](https://github.com/deepinsight/insightface)|
-|**2022-08-15**|**Adaptive Joint Optimization for 3D Reconstruction with Differentiable Rendering**|Jingbo Zhang et.al.|[2208.07003v1](http://arxiv.org/abs/2208.07003v1)|null|
-|**2022-08-15**|**InvisibiliTee: Angle-agnostic Cloaking from Person-Tracking Systems with a Tee**|Yaxian Li et.al.|[2208.06962v1](http://arxiv.org/abs/2208.06962v1)|[link](https://github.com/invisibilitee/invisibilitee)|
-|**2022-08-15**|**How Does Data Freshness Affect Real-time Supervised Learning?**|Md Kamran Chowdhury Shisher et.al.|[2208.06948v1](http://arxiv.org/abs/2208.06948v1)|[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
-|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|[link](https://github.com/siyandong/src)|
-|**2022-08-14**|**Priority and collision avoidance system for traffic lights**|Iván Santos-González et.al.|[2208.07702v1](http://arxiv.org/abs/2208.07702v1)|null|

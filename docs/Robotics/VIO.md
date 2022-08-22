@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-19**|**ArUco Maker based localization and Node graph approach to mapping**|Abhijith Sampathkrishna et.al.|[2208.09355v1](http://arxiv.org/abs/2208.09355v1)|null|
+|**2022-08-19**|**A vertical inertial sensor with interferometric readout**|S. L. Kranzhoff et.al.|[2208.09320v1](http://arxiv.org/abs/2208.09320v1)|null|
+|**2022-08-18**|**Hohenberg-Mermin-Wagner-type theorems and dipole symmetry**|Anton Kapustin et.al.|[2208.09056v1](http://arxiv.org/abs/2208.09056v1)|null|
 |**2022-08-18**|**Pixel-Wise Prediction based Visual Odometry via Uncertainty Estimation**|Hao-Wei Chen et.al.|[2208.08892v1](http://arxiv.org/abs/2208.08892v1)|null|
 |**2022-08-17**|**Fast convex optimization via time scale and averaging of the steepest descent**|Hedy Attouch et.al.|[2208.08260v1](http://arxiv.org/abs/2208.08260v1)|null|
 |**2022-08-17**|**Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence**|Josh Williams et.al.|[2208.08156v1](http://arxiv.org/abs/2208.08156v1)|[link](https://github.com/jvwilliams23/turbulent-dispersion-neuralsde)|
@@ -29,6 +32,3 @@
 |**2022-08-02**|**A Riemannian Take on Human Motion Analysis and Retargeting**|Holger Klein et.al.|[2208.01372v1](http://arxiv.org/abs/2208.01372v1)|null|
 |**2022-08-02**|**Inertialess Gyrating Engines**|Jordi Ventura Siches et.al.|[2208.01292v1](http://arxiv.org/abs/2208.01292v1)|null|
 |**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
-|**2022-08-01**|**Continuous locomotion mode recognition and gait phase estimation based on a shank-mounted IMU with artificial neural networks**|Florian Weigand et.al.|[2208.00861v1](http://arxiv.org/abs/2208.00861v1)|null|
-|**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
-|**2022-07-30**|**Inertial spin waves in ferromagnets and antiferromagnets**|Ritwik Mondal et.al.|[2208.00131v1](http://arxiv.org/abs/2208.00131v1)|null|
