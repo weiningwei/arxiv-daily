@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-23**|**Theory of solar oscillations in the inertial frequency range: Amplitudes of equatorial modes from a nonlinear rotating convection simulation**|Yuto Bekki et.al.|[2208.11081v1](http://arxiv.org/abs/2208.11081v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
 |**2022-08-19**|**The saturation of exponents and the asymptotic fourth state of turbulence**|Katepalli R. Sreenivasan et.al.|[2208.09561v1](http://arxiv.org/abs/2208.09561v1)|null|
 |**2022-08-19**|**ArUco Maker based localization and Node graph approach to mapping**|Abhijith Sampathkrishna et.al.|[2208.09355v1](http://arxiv.org/abs/2208.09355v1)|null|
@@ -31,4 +32,3 @@
 |**2022-08-04**|**Attitude Tracking for Rigid Bodies Using Vector and Biased Gyro Measurements**|Eduardo Espíndola et.al.|[2208.02437v1](http://arxiv.org/abs/2208.02437v1)|null|
 |**2022-08-02**|**Spinning up the Surface: Evidence for Planetary Engulfment or Unexpected Angular Momentum Transport?**|Jamie Tayar et.al.|[2208.01678v1](http://arxiv.org/abs/2208.01678v1)|null|
 |**2022-08-02**|**A Note on the Regularity of Thermoelastic Plates with Fractional Rotational Inertial Force**|Fredy Maglorio Sobrado Suárez et.al.|[2208.01481v1](http://arxiv.org/abs/2208.01481v1)|null|
-|**2022-08-02**|**A Riemannian Take on Human Motion Analysis and Retargeting**|Holger Klein et.al.|[2208.01372v1](http://arxiv.org/abs/2208.01372v1)|null|
