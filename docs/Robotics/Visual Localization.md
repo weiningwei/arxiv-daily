@@ -12,7 +12,7 @@
 |**2022-08-22**|**EBSnoR: Event-Based Snow Removal by Optimal Dwell Time Thresholding**|Abigail Wolf et.al.|[2208.10581v1](http://arxiv.org/abs/2208.10581v1)|null|
 |**2022-08-22**|**Euclid: Calibrating photometric redshifts with spectroscopic cross-correlations**|K. Naidoo et.al.|[2208.10503v1](http://arxiv.org/abs/2208.10503v1)|null|
 |**2022-08-22**|**Automated Pruning of Polyculture Plants**|Mark Presten et.al.|[2208.10472v1](http://arxiv.org/abs/2208.10472v1)|null|
-|**2022-08-22**|**Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots**|Abhi Kamboj et.al.|[2208.10455v1](http://arxiv.org/abs/2208.10455v1)|null|
+|**2022-08-22**|**Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots**|Abhi Kamboj et.al.|[2208.10455v1](http://arxiv.org/abs/2208.10455v1)|[link](https://github.com/akamboj2/agbot-sim)|
 |**2022-08-22**|**SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration**|Antoine Guédon et.al.|[2208.10449v1](http://arxiv.org/abs/2208.10449v1)|null|
 |**2022-08-22**|**Experimental And Numerical Studies Of Interaction Between Liquid Droplets And Hot Surfaces Under Different Conditions**|Subhasish Guchhait et.al.|[2208.10430v1](http://arxiv.org/abs/2208.10430v1)|null|
 |**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|null|
@@ -23,7 +23,7 @@
 |**2022-08-21**|**CycleTrans: Learning Neutral yet Discriminative Features for Visible-Infrared Person Re-Identification**|Qiong Wu et.al.|[2208.09844v1](http://arxiv.org/abs/2208.09844v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
 |**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v1](http://arxiv.org/abs/2208.09777v1)|null|
-|**2022-08-21**|**Privacy-Preserving Protocols for Smart Cameras and Other IoT Devices**|Yohan Beugin et.al.|[2208.09776v1](http://arxiv.org/abs/2208.09776v1)|null|
+|**2022-08-21**|**Privacy-Preserving Protocols for Smart Cameras and Other IoT Devices**|Yohan Beugin et.al.|[2208.09776v1](http://arxiv.org/abs/2208.09776v1)|[link](https://github.com/siis/cactus)|
 |**2022-08-20**|**Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping**|Jiaqi Jiang et.al.|[2208.09743v1](http://arxiv.org/abs/2208.09743v1)|null|
 |**2022-08-20**|**Review on Action Recognition for Accident Detection in Smart City Transportation Systems**|Victor Adewopo et.al.|[2208.09588v1](http://arxiv.org/abs/2208.09588v1)|null|
 |**2022-08-19**|**Updated orbital monitoring and dynamical masses for nearby M-dwarf binaries**|Per Calissendorff et.al.|[2208.09503v1](http://arxiv.org/abs/2208.09503v1)|null|
