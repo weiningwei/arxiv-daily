@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-24**|**Model-based spectral coherence analysis**|Seyedalireza Abootorabi et.al.|[2208.11632v1](http://arxiv.org/abs/2208.11632v1)|null|
+|**2022-08-24**|**Second-order inertial forces and torques on a sphere in a viscous steady linear flow**|Fabien Candelier et.al.|[2208.11565v1](http://arxiv.org/abs/2208.11565v1)|null|
+|**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|null|
+|**2022-08-24**|**Rapid wetting of shear-thinning fluids**|Susumu Yada et.al.|[2208.11410v1](http://arxiv.org/abs/2208.11410v1)|null|
+|**2022-08-23**|**Autonomous Driving Vehicles Using Adaptive Learning Method for Data Fusion**|Farhad Aghili et.al.|[2208.11229v1](http://arxiv.org/abs/2208.11229v1)|null|
 |**2022-08-23**|**Theory of solar oscillations in the inertial frequency range: Amplitudes of equatorial modes from a nonlinear rotating convection simulation**|Yuto Bekki et.al.|[2208.11081v1](http://arxiv.org/abs/2208.11081v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
 |**2022-08-19**|**The saturation of exponents and the asymptotic fourth state of turbulence**|Katepalli R. Sreenivasan et.al.|[2208.09561v1](http://arxiv.org/abs/2208.09561v1)|null|
@@ -27,8 +32,3 @@
 |**2022-08-07**|**Transition state theory characterizes thin film macrospin dynamics driven by an oscillatory magnetic field: Inertial effects**|Michael Maihöfer et.al.|[2208.03613v1](http://arxiv.org/abs/2208.03613v1)|null|
 |**2022-08-06**|**Minkowski-Fock states in accelerated frames**|Riccardo Falcone et.al.|[2208.03481v1](http://arxiv.org/abs/2208.03481v1)|null|
 |**2022-08-06**|**Damage threshold in pre-heated materials exposed to intense X-rays**|Nikita Medvedev et.al.|[2208.03465v1](http://arxiv.org/abs/2208.03465v1)|null|
-|**2022-08-06**|**Log-linear Error State Model Derivation without Approximation for INS**|Lubin Chang et.al.|[2208.03427v1](http://arxiv.org/abs/2208.03427v1)|null|
-|**2022-08-05**|**Oscillations of diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2208.03223v1](http://arxiv.org/abs/2208.03223v1)|null|
-|**2022-08-04**|**Attitude Tracking for Rigid Bodies Using Vector and Biased Gyro Measurements**|Eduardo Espíndola et.al.|[2208.02437v1](http://arxiv.org/abs/2208.02437v1)|null|
-|**2022-08-02**|**Spinning up the Surface: Evidence for Planetary Engulfment or Unexpected Angular Momentum Transport?**|Jamie Tayar et.al.|[2208.01678v1](http://arxiv.org/abs/2208.01678v1)|null|
-|**2022-08-02**|**A Note on the Regularity of Thermoelastic Plates with Fractional Rotational Inertial Force**|Fredy Maglorio Sobrado Suárez et.al.|[2208.01481v1](http://arxiv.org/abs/2208.01481v1)|null|

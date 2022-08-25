@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-24**|**Cross-Camera View-Overlap Recognition**|Alessio Xompero et.al.|[2208.11661v1](http://arxiv.org/abs/2208.11661v1)|null|
+|**2022-08-24**|**Lane Change Classification and Prediction with Action Recognition Networks**|Kai Liang et.al.|[2208.11650v1](http://arxiv.org/abs/2208.11650v1)|null|
+|**2022-08-24**|**Motion Robust High-Speed Light-weighted Object Detection with Event Camera**|Bingde Liu et.al.|[2208.11602v1](http://arxiv.org/abs/2208.11602v1)|null|
+|**2022-08-24**|**Active Gaze Control for Foveal Scene Exploration**|Alexandre M. F. Dias et.al.|[2208.11594v1](http://arxiv.org/abs/2208.11594v1)|null|
+|**2022-08-24**|**Hashing for Secure Optical Information Compression in a Heterogeneous Convolutional Neural Network**|Maria Solyanik-Gorgone et.al.|[2208.11557v1](http://arxiv.org/abs/2208.11557v1)|null|
+|**2022-08-24**|**Visual Servoing in Orchard Settings**|Nicolai Häni et.al.|[2208.11538v1](http://arxiv.org/abs/2208.11538v1)|null|
+|**2022-08-24**|**On the Design of Privacy-Aware Cameras: a Study on Deep Neural Networks**|Marcela Carvalho et.al.|[2208.11372v1](http://arxiv.org/abs/2208.11372v1)|[link](https://github.com/upciti/privacy-by-design-semseg)|
+|**2022-08-24**|**A Spatio-Temporal Attentive Network for Video-Based Crowd Counting**|Marco Avvenuti et.al.|[2208.11339v1](http://arxiv.org/abs/2208.11339v1)|null|
+|**2022-08-24**|**E-NeRF: Neural Radiance Fields from a Moving Event Camera**|Simon Klenk et.al.|[2208.11300v1](http://arxiv.org/abs/2208.11300v1)|null|
+|**2022-08-24**|**Molecular Substructure-Aware Network for Drug-Drug Interaction Prediction**|Xinyu Zhu et.al.|[2208.11267v1](http://arxiv.org/abs/2208.11267v1)|[link](https://github.com/Hienyriux/MSAN)|
+|**2022-08-23**|**Unidentified aerial phenomena I. Observations of events**|B. E. Zhilyaev et.al.|[2208.11215v1](http://arxiv.org/abs/2208.11215v1)|null|
 |**2022-08-23**|**Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**|Hanwen Ren et.al.|[2208.11079v2](http://arxiv.org/abs/2208.11079v2)|null|
 |**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang et.al.|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|
 |**2022-08-23**|**Automatic Calibration of a Six-Degrees-of-Freedom Pose Estimation System**|Wouter Jansen et.al.|[2208.10837v1](http://arxiv.org/abs/2208.10837v1)|null|
@@ -21,14 +32,3 @@
 |**2022-08-22**|**A Simple Baseline for Multi-Camera 3D Object Detection**|Yunpeng Zhang et.al.|[2208.10035v1](http://arxiv.org/abs/2208.10035v1)|[link](https://github.com/zhangyp15/simmod)|
 |**2022-08-21**|**ETHERLED: Sending Covert Morse Signals from Air-Gapped Devices via Network Card (NIC) LEDs**|Mordechai Guri et.al.|[2208.09975v1](http://arxiv.org/abs/2208.09975v1)|null|
 |**2022-08-21**|**CycleTrans: Learning Neutral yet Discriminative Features for Visible-Infrared Person Re-Identification**|Qiong Wu et.al.|[2208.09844v1](http://arxiv.org/abs/2208.09844v1)|null|
-|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
-|**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v1](http://arxiv.org/abs/2208.09777v1)|null|
-|**2022-08-21**|**Privacy-Preserving Protocols for Smart Cameras and Other IoT Devices**|Yohan Beugin et.al.|[2208.09776v1](http://arxiv.org/abs/2208.09776v1)|[link](https://github.com/siis/cactus)|
-|**2022-08-20**|**Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping**|Jiaqi Jiang et.al.|[2208.09743v1](http://arxiv.org/abs/2208.09743v1)|null|
-|**2022-08-20**|**Review on Action Recognition for Accident Detection in Smart City Transportation Systems**|Victor Adewopo et.al.|[2208.09588v1](http://arxiv.org/abs/2208.09588v1)|null|
-|**2022-08-19**|**Updated orbital monitoring and dynamical masses for nearby M-dwarf binaries**|Per Calissendorff et.al.|[2208.09503v1](http://arxiv.org/abs/2208.09503v1)|null|
-|**2022-08-19**|**Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images**|Nagabhushan Somraj et.al.|[2208.09463v1](http://arxiv.org/abs/2208.09463v1)|null|
-|**2022-08-19**|**ArUco Maker based localization and Node graph approach to mapping**|Abhijith Sampathkrishna et.al.|[2208.09355v1](http://arxiv.org/abs/2208.09355v1)|null|
-|**2022-08-19**|**An empirical model of the Gaia DR3 selection function**|Tristan Cantat-Gaudin et.al.|[2208.09335v1](http://arxiv.org/abs/2208.09335v1)|null|
-|**2022-08-19**|**Booster-SHOT: Boosting Stacked Homography Transformations for Multiview Pedestrian Detection with Attention**|Jinwoo Hwang et.al.|[2208.09211v1](http://arxiv.org/abs/2208.09211v1)|null|
-|**2022-08-19**|**Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning**|Xiaofeng Wang et.al.|[2208.09170v1](http://arxiv.org/abs/2208.09170v1)|[link](https://github.com/jeffwang987/movedepth)|
