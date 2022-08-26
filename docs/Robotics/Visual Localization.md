@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
+|**2022-08-25**|**Clustering Egocentric Images in Passive Dietary Monitoring with Self-Supervised Learning**|Jiachuan Peng et.al.|[2208.12160v1](http://arxiv.org/abs/2208.12160v1)|null|
+|**2022-08-25**|**UAS Navigation in the Real World Using Visual Observation**|Yuci Han et.al.|[2208.12125v1](http://arxiv.org/abs/2208.12125v1)|null|
+|**2022-08-25**|**Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**|Taohua Zhou et.al.|[2208.12079v1](http://arxiv.org/abs/2208.12079v1)|null|
+|**2022-08-25**|**Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras**|Xiaolei Lang et.al.|[2208.12008v1](http://arxiv.org/abs/2208.12008v1)|null|
+|**2022-08-25**|**A rapid nanometre-precision autocorrelator**|Imogen Morland et.al.|[2208.11997v1](http://arxiv.org/abs/2208.11997v1)|null|
+|**2022-08-25**|**Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors**|Yiming Wang et.al.|[2208.11905v1](http://arxiv.org/abs/2208.11905v1)|null|
+|**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
+|**2022-08-25**|**Practical Real Video Denoising with Realistic Degradation Model**|Jiezhang Cao et.al.|[2208.11803v1](http://arxiv.org/abs/2208.11803v1)|null|
+|**2022-08-24**|**Mastering Autonomous Assembly in Fusion Application with Learning-by-doing: a Peg-in-hole Study**|Ruochen Yin et.al.|[2208.11737v1](http://arxiv.org/abs/2208.11737v1)|null|
 |**2022-08-24**|**Cross-Camera View-Overlap Recognition**|Alessio Xompero et.al.|[2208.11661v1](http://arxiv.org/abs/2208.11661v1)|null|
 |**2022-08-24**|**Lane Change Classification and Prediction with Action Recognition Networks**|Kai Liang et.al.|[2208.11650v1](http://arxiv.org/abs/2208.11650v1)|null|
 |**2022-08-24**|**Motion Robust High-Speed Light-weighted Object Detection with Event Camera**|Bingde Liu et.al.|[2208.11602v1](http://arxiv.org/abs/2208.11602v1)|null|
@@ -13,6 +23,7 @@
 |**2022-08-24**|**E-NeRF: Neural Radiance Fields from a Moving Event Camera**|Simon Klenk et.al.|[2208.11300v1](http://arxiv.org/abs/2208.11300v1)|null|
 |**2022-08-24**|**Molecular Substructure-Aware Network for Drug-Drug Interaction Prediction**|Xinyu Zhu et.al.|[2208.11267v2](http://arxiv.org/abs/2208.11267v2)|[link](https://github.com/Hienyriux/MSAN)|
 |**2022-08-23**|**Unidentified aerial phenomena I. Observations of events**|B. E. Zhilyaev et.al.|[2208.11215v1](http://arxiv.org/abs/2208.11215v1)|null|
+|**2022-08-23**|**AIM 2022 Challenge on Super-Resolution of Compressed Image and Video: Dataset, Methods and Results**|Ren Yang et.al.|[2208.11184v2](http://arxiv.org/abs/2208.11184v2)|[link](https://github.com/renyang-home/aim22_compresssr)|
 |**2022-08-23**|**Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**|Hanwen Ren et.al.|[2208.11079v2](http://arxiv.org/abs/2208.11079v2)|null|
 |**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang et.al.|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|
 |**2022-08-23**|**Automatic Calibration of a Six-Degrees-of-Freedom Pose Estimation System**|Wouter Jansen et.al.|[2208.10837v1](http://arxiv.org/abs/2208.10837v1)|null|
@@ -21,14 +32,3 @@
 |**2022-08-22**|**CCAT-prime: The 850 GHz camera for Prime-Cam on FYST**|Scott C. Chapman et.al.|[2208.10634v1](http://arxiv.org/abs/2208.10634v1)|null|
 |**2022-08-22**|**Deriving time-averaged active inference from control principles**|Eli Sennesh et.al.|[2208.10601v1](http://arxiv.org/abs/2208.10601v1)|null|
 |**2022-08-22**|**EBSnoR: Event-Based Snow Removal by Optimal Dwell Time Thresholding**|Abigail Wolf et.al.|[2208.10581v1](http://arxiv.org/abs/2208.10581v1)|null|
-|**2022-08-22**|**Euclid: Calibrating photometric redshifts with spectroscopic cross-correlations**|K. Naidoo et.al.|[2208.10503v1](http://arxiv.org/abs/2208.10503v1)|null|
-|**2022-08-22**|**Automated Pruning of Polyculture Plants**|Mark Presten et.al.|[2208.10472v1](http://arxiv.org/abs/2208.10472v1)|null|
-|**2022-08-22**|**Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots**|Abhi Kamboj et.al.|[2208.10455v1](http://arxiv.org/abs/2208.10455v1)|[link](https://github.com/akamboj2/agbot-sim)|
-|**2022-08-22**|**SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration**|Antoine Guédon et.al.|[2208.10449v1](http://arxiv.org/abs/2208.10449v1)|null|
-|**2022-08-22**|**Experimental And Numerical Studies Of Interaction Between Liquid Droplets And Hot Surfaces Under Different Conditions**|Subhasish Guchhait et.al.|[2208.10430v1](http://arxiv.org/abs/2208.10430v1)|null|
-|**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|null|
-|**2022-08-22**|**From Easy to Hard: A Dual Curriculum Learning Framework for Context-Aware Document Ranking**|Yutao Zhu et.al.|[2208.10226v1](http://arxiv.org/abs/2208.10226v1)|[link](https://github.com/daod/dcl)|
-|**2022-08-22**|**STS: Surround-view Temporal Stereo for Multi-view 3D Detection**|Zengran Wang et.al.|[2208.10145v1](http://arxiv.org/abs/2208.10145v1)|null|
-|**2022-08-22**|**A Simple Baseline for Multi-Camera 3D Object Detection**|Yunpeng Zhang et.al.|[2208.10035v1](http://arxiv.org/abs/2208.10035v1)|[link](https://github.com/zhangyp15/simmod)|
-|**2022-08-21**|**ETHERLED: Sending Covert Morse Signals from Air-Gapped Devices via Network Card (NIC) LEDs**|Mordechai Guri et.al.|[2208.09975v1](http://arxiv.org/abs/2208.09975v1)|null|
-|**2022-08-21**|**CycleTrans: Learning Neutral yet Discriminative Features for Visible-Infrared Person Re-Identification**|Qiong Wu et.al.|[2208.09844v1](http://arxiv.org/abs/2208.09844v1)|null|

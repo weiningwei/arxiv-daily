@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
+|**2022-08-25**|**Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**|Mahdi Hejrati et.al.|[2208.12184v1](http://arxiv.org/abs/2208.12184v1)|null|
+|**2022-08-25**|**Attractors. Then and now**|Sergey Zelik et.al.|[2208.12101v1](http://arxiv.org/abs/2208.12101v1)|null|
+|**2022-08-25**|**Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras**|Xiaolei Lang et.al.|[2208.12008v1](http://arxiv.org/abs/2208.12008v1)|null|
+|**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
+|**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
 |**2022-08-24**|**Model-based spectral coherence analysis**|Seyedalireza Abootorabi et.al.|[2208.11632v1](http://arxiv.org/abs/2208.11632v1)|null|
 |**2022-08-24**|**Second-order inertial forces and torques on a sphere in a viscous steady linear flow**|Fabien Candelier et.al.|[2208.11565v1](http://arxiv.org/abs/2208.11565v1)|null|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|null|
@@ -26,9 +32,3 @@
 |**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
 |**2022-08-11**|**Dynamics of active liquid interfaces**|Raymond Adkins et.al.|[2208.06044v1](http://arxiv.org/abs/2208.06044v1)|null|
 |**2022-08-10**|**Quantitative prediction of sling events in turbulence at high Reynolds numbers**|Tobias Bätge et.al.|[2208.05384v1](http://arxiv.org/abs/2208.05384v1)|null|
-|**2022-08-09**|**Machine Learning for LiDAR-Based Navigation System**|Farhad Aghili et.al.|[2208.04531v1](http://arxiv.org/abs/2208.04531v1)|null|
-|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
-|**2022-08-08**|**Deep Patch Visual Odometry**|Zachary Teed et.al.|[2208.04726v1](http://arxiv.org/abs/2208.04726v1)|[link](https://github.com/princeton-vl/dpvo)|
-|**2022-08-07**|**Transition state theory characterizes thin film macrospin dynamics driven by an oscillatory magnetic field: Inertial effects**|Michael Maihöfer et.al.|[2208.03613v1](http://arxiv.org/abs/2208.03613v1)|null|
-|**2022-08-06**|**Minkowski-Fock states in accelerated frames**|Riccardo Falcone et.al.|[2208.03481v1](http://arxiv.org/abs/2208.03481v1)|null|
-|**2022-08-06**|**Damage threshold in pre-heated materials exposed to intense X-rays**|Nikita Medvedev et.al.|[2208.03465v1](http://arxiv.org/abs/2208.03465v1)|null|
