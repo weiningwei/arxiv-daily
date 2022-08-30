@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v1](http://arxiv.org/abs/2208.12653v1)|null|
+|**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
 |**2022-08-26**|**Selective manipulation of disentangled representations for privacy-aware facial image processing**|Sander De Coninck et.al.|[2208.12632v1](http://arxiv.org/abs/2208.12632v1)|null|
 |**2022-08-26**|**Robust and Efficient Depth-based Obstacle Avoidance for Autonomous Miniaturized UAVs**|Hanna Müller et.al.|[2208.12624v1](http://arxiv.org/abs/2208.12624v1)|null|
 |**2022-08-26**|**Implied Open-circuit Voltage Imaging via a Single Bandpass Filter Method: Its First Application in Perovskite Solar Cells**|Arman Mahboubi Soufiani et.al.|[2208.12571v1](http://arxiv.org/abs/2208.12571v1)|null|
@@ -10,7 +10,7 @@
 |**2022-08-26**|**Perspective-1-Ellipsoid: Formulation, Analysis and Solutions of the Ellipsoid Pose Estimation Problem in Euclidean Space**|Vincent Gaudillière et.al.|[2208.12513v1](http://arxiv.org/abs/2208.12513v1)|null|
 |**2022-08-26**|**WALOP-South: A Four-Camera One-Shot Imaging Polarimeter for PASIPHAE Survey. Paper II -- Polarimetric Modelling and Calibration**|Siddharth Maharana et.al.|[2208.12441v1](http://arxiv.org/abs/2208.12441v1)|null|
 |**2022-08-25**|**Chasing Tails: Active Asteroid, Centaur, and Quasi-Hilda Discovery with Astroinformatics and Citizen Science**|Colin Orion Chandler et.al.|[2208.12364v1](http://arxiv.org/abs/2208.12364v1)|null|
-|**2022-08-25**|**Snooping on Snoopers: Logging as a Security Response to Physical Attacks on Mobile Devices**|Tiago Guerreiro et.al.|[2208.12349v1](http://arxiv.org/abs/2208.12349v1)|null|
+|**2022-08-25**|**Snooping on Snoopers: Logging as a Security Response to Physical Attacks on Mobile Devices**|Tiago Guerreiro et.al.|[2208.12349v2](http://arxiv.org/abs/2208.12349v2)|null|
 |**2022-08-25**|**Bokeh-Loss GAN: Multi-Stage Adversarial Training for Realistic Edge-Aware Bokeh**|Brian Lee et.al.|[2208.12343v1](http://arxiv.org/abs/2208.12343v1)|null|
 |**2022-08-25**|**Image Reconstruction by Splitting Expectation Propagation Techniques from Iterative Inversion**|Robert G. Aykroyd et.al.|[2208.12340v1](http://arxiv.org/abs/2208.12340v1)|null|
 |**2022-08-25**|**A Deep Perceptual Measure for Lens and Camera Calibration**|Yannick Hold-Geoffroy et.al.|[2208.12300v1](http://arxiv.org/abs/2208.12300v1)|null|
