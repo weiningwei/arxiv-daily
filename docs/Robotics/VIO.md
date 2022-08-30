@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29**|**Engulfment of a drop on solids coated by thin and thick fluid films**|Chunheng Zhao et.al.|[2208.13676v1](http://arxiv.org/abs/2208.13676v1)|null|
+|**2022-08-28**|**Cloud and Microjet Mix: A Possible Source of Yield limitation of the National Ignition Facility Targets**|Gene H. MCall et.al.|[2208.13131v1](http://arxiv.org/abs/2208.13131v1)|null|
+|**2022-08-28**|**Explicit high-order symplectic integrators of coupled Schrodinger equations for pump-probe systems**|Xiaobao Jia et.al.|[2208.13120v1](http://arxiv.org/abs/2208.13120v1)|null|
+|**2022-08-27**|**Flight and ground demonstration of reproducibility and stability of photoelectric properties for passive charge management using LEDs**|S. Buchman et.al.|[2208.13090v1](http://arxiv.org/abs/2208.13090v1)|null|
+|**2022-08-27**|**Robust 3D Vision for Autonomous Robots**|Farhad Aghili et.al.|[2208.12925v1](http://arxiv.org/abs/2208.12925v1)|null|
+|**2022-08-26**|**Spatial Antiferromagnetic Spin Texture as a Nano-Oscillator**|Victor S. Gerasimchuk et.al.|[2208.12860v1](http://arxiv.org/abs/2208.12860v1)|null|
 |**2022-08-26**|**Dimple, jets and self-similarity in nonlinear capillary waves**|Lohit Kayal et.al.|[2208.12663v1](http://arxiv.org/abs/2208.12663v1)|null|
 |**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
 |**2022-08-25**|**Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**|Mahdi Hejrati et.al.|[2208.12184v1](http://arxiv.org/abs/2208.12184v1)|null|
@@ -26,9 +32,3 @@
 |**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
 |**2022-08-16**|**Canopy elastic turbulence: spontaneous formation of waves in beds of slender microposts**|Charlotte de Blois et.al.|[2208.07651v1](http://arxiv.org/abs/2208.07651v1)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
-|**2022-08-15**|**Non-Linear Ablative Rayleigh-Taylor Instability: Increased Growth due to Self-Generated Magnetic Fields**|C. A. Walsh et.al.|[2208.07470v1](http://arxiv.org/abs/2208.07470v1)|null|
-|**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
-|**2022-08-15**|**Noether Charge, Thermodynamics and Phase Transition of the Schwarzschild Black Hole in Anti-de Sitter-Beltrami spacetime**|T. Angsachon et.al.|[2208.07209v1](http://arxiv.org/abs/2208.07209v1)|null|
-|**2022-08-14**|**Strong Convergence of Forward-Reflected-Backward Splitting Methods for Solving Monotone Inclusions with Applications to Image Restoration and Optimal Control**|Chinedu Izuchukwu et.al.|[2208.06871v1](http://arxiv.org/abs/2208.06871v1)|null|
-|**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
-|**2022-08-11**|**Dynamics of active liquid interfaces**|Raymond Adkins et.al.|[2208.06044v1](http://arxiv.org/abs/2208.06044v1)|null|

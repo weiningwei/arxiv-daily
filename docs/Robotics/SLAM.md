@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|[link](https://github.com/url-kaist/dynavins)|
@@ -31,4 +32,3 @@
 |**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye et.al.|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
 |**2022-07-18**|**Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**|Marco Orsingher et.al.|[2207.08439v1](http://arxiv.org/abs/2207.08439v1)|null|
 |**2022-07-18**|**ORB-based SLAM accelerator on SoC FPGA**|Vibhakar Vemulapati et.al.|[2207.08405v1](http://arxiv.org/abs/2207.08405v1)|null|
-|**2022-07-14**|**Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset**|Riccardo Giubilato et.al.|[2207.06815v1](http://arxiv.org/abs/2207.06815v1)|null|
