@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-30**|**Steady state correlations and induced trapping of an inertial AOUP particle**|N Arsha et.al.|[2208.14443v1](http://arxiv.org/abs/2208.14443v1)|null|
+|**2022-08-30**|**CUAHN-VIO: Content-and-Uncertainty-Aware Homography Network for Visual-Inertial Odometry**|Yingfu Xu et.al.|[2208.13935v1](http://arxiv.org/abs/2208.13935v1)|[link](https://github.com/tudelft/cuahn-vio)|
+|**2022-08-29**|**Benchmarking magnetized three-wave coupling for laser backscattering: Analytic solutions and kinetic simulations**|Yuan Shi et.al.|[2208.13832v1](http://arxiv.org/abs/2208.13832v1)|null|
 |**2022-08-29**|**Engulfment of a drop on solids coated by thin and thick fluid films**|Chunheng Zhao et.al.|[2208.13676v1](http://arxiv.org/abs/2208.13676v1)|null|
 |**2022-08-28**|**Cloud and Microjet Mix: A Possible Source of Yield limitation of the National Ignition Facility Targets**|Gene H. MCall et.al.|[2208.13131v1](http://arxiv.org/abs/2208.13131v1)|null|
 |**2022-08-28**|**Explicit high-order symplectic integrators of coupled Schrodinger equations for pump-probe systems**|Xiaobao Jia et.al.|[2208.13120v1](http://arxiv.org/abs/2208.13120v1)|null|
@@ -29,6 +32,3 @@
 |**2022-08-18**|**Pixel-Wise Prediction based Visual Odometry via Uncertainty Estimation**|Hao-Wei Chen et.al.|[2208.08892v1](http://arxiv.org/abs/2208.08892v1)|null|
 |**2022-08-17**|**Fast convex optimization via time scale and averaging of the steepest descent**|Hedy Attouch et.al.|[2208.08260v2](http://arxiv.org/abs/2208.08260v2)|null|
 |**2022-08-17**|**Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence**|Josh Williams et.al.|[2208.08156v1](http://arxiv.org/abs/2208.08156v1)|[link](https://github.com/jvwilliams23/turbulent-dispersion-neuralsde)|
-|**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
-|**2022-08-16**|**Canopy elastic turbulence: spontaneous formation of waves in beds of slender microposts**|Charlotte de Blois et.al.|[2208.07651v1](http://arxiv.org/abs/2208.07651v1)|null|
-|**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
