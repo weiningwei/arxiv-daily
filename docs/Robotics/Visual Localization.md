@@ -8,7 +8,7 @@
 |**2022-08-28**|**Incremental Semantic Localization using Hierarchical Clustering of Object Association Sets**|Lan Hu et.al.|[2208.13210v1](http://arxiv.org/abs/2208.13210v1)|null|
 |**2022-08-28**|**Giant superlinear power dependence of photocurrent based on layered Ta$_2$NiS$_5$ photodetector**|Xianghao Meng et.al.|[2208.13134v1](http://arxiv.org/abs/2208.13134v1)|null|
 |**2022-08-27**|**Design of the new CHARA instrument SILMARIL: pushing the sensitivity of a 3-beam combiner in the H- and K-bands**|Cyprien Lanthermann et.al.|[2208.12963v1](http://arxiv.org/abs/2208.12963v1)|null|
-|**2022-08-27**|**Robust 3D Vision for Autonomous Robots**|Farhad Aghili et.al.|[2208.12925v1](http://arxiv.org/abs/2208.12925v1)|null|
+|**2022-08-27**|**Robust 3D Vision for Autonomous Robots**|Farhad Aghili et.al.|[2208.12925v2](http://arxiv.org/abs/2208.12925v2)|null|
 |**2022-08-27**|**Neural Camera Models**|Igor Vasiljevic et.al.|[2208.12903v1](http://arxiv.org/abs/2208.12903v1)|null|
 |**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
 |**2022-08-26**|**Selective manipulation of disentangled representations for privacy-aware facial image processing**|Sander De Coninck et.al.|[2208.12632v1](http://arxiv.org/abs/2208.12632v1)|null|
