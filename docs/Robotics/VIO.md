@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
+|**2022-08-31**|**Entanglement harvesting of accelerated detectors versus static ones in a thermal bath**|Zhihong Liu et.al.|[2208.14825v1](http://arxiv.org/abs/2208.14825v1)|null|
+|**2022-08-31**|**On induced modules of inertial invariant support $τ$-tilting modules over blocks of finite groups**|Ryotaro Koshio et.al.|[2208.14680v1](http://arxiv.org/abs/2208.14680v1)|null|
+|**2022-08-30**|**A Unified Filter for Fusion of Multiple Inertial Measurement Units**|Yaakov Libero et.al.|[2208.14524v1](http://arxiv.org/abs/2208.14524v1)|null|
+|**2022-08-30**|**Internal rotation and inclinations of slowly pulsating B stars: Evidence of interior angular momentum transport**|May G. Pedersen et.al.|[2208.14497v1](http://arxiv.org/abs/2208.14497v1)|null|
 |**2022-08-30**|**Steady state correlations and induced trapping of an inertial AOUP particle**|N Arsha et.al.|[2208.14443v1](http://arxiv.org/abs/2208.14443v1)|null|
 |**2022-08-30**|**CUAHN-VIO: Content-and-Uncertainty-Aware Homography Network for Visual-Inertial Odometry**|Yingfu Xu et.al.|[2208.13935v1](http://arxiv.org/abs/2208.13935v1)|[link](https://github.com/tudelft/cuahn-vio)|
 |**2022-08-29**|**Benchmarking magnetized three-wave coupling for laser backscattering: Analytic solutions and kinetic simulations**|Yuan Shi et.al.|[2208.13832v1](http://arxiv.org/abs/2208.13832v1)|null|
@@ -27,8 +32,3 @@
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
 |**2022-08-19**|**The saturation of exponents and the asymptotic fourth state of turbulence**|Katepalli R. Sreenivasan et.al.|[2208.09561v1](http://arxiv.org/abs/2208.09561v1)|null|
 |**2022-08-19**|**ArUco Maker based localization and Node graph approach to mapping**|Abhijith Sampathkrishna et.al.|[2208.09355v1](http://arxiv.org/abs/2208.09355v1)|null|
-|**2022-08-19**|**A vertical inertial sensor with interferometric readout**|S. L. Kranzhoff et.al.|[2208.09320v1](http://arxiv.org/abs/2208.09320v1)|null|
-|**2022-08-18**|**Hohenberg-Mermin-Wagner-type theorems and dipole symmetry**|Anton Kapustin et.al.|[2208.09056v1](http://arxiv.org/abs/2208.09056v1)|null|
-|**2022-08-18**|**Pixel-Wise Prediction based Visual Odometry via Uncertainty Estimation**|Hao-Wei Chen et.al.|[2208.08892v1](http://arxiv.org/abs/2208.08892v1)|null|
-|**2022-08-17**|**Fast convex optimization via time scale and averaging of the steepest descent**|Hedy Attouch et.al.|[2208.08260v2](http://arxiv.org/abs/2208.08260v2)|null|
-|**2022-08-17**|**Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence**|Josh Williams et.al.|[2208.08156v1](http://arxiv.org/abs/2208.08156v1)|[link](https://github.com/jvwilliams23/turbulent-dispersion-neuralsde)|

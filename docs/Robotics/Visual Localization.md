@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v1](http://arxiv.org/abs/2208.14990v1)|null|
+|**2022-08-31**|**A High Performance Scintillator Ion Beam Monitor**|Daniel S Levin et.al.|[2208.14853v1](http://arxiv.org/abs/2208.14853v1)|null|
+|**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
+|**2022-08-31**|**Temporal Flow Mask Attention for Open-Set Long-Tailed Recognition of Wild Animals in Camera-Trap Images**|Jeongsoo Kim et.al.|[2208.14625v1](http://arxiv.org/abs/2208.14625v1)|null|
+|**2022-08-31**|**Light curve completion and forecasting using fast and scalable Gaussian processes (MuyGPs)**|Imène R. Goumiri et.al.|[2208.14592v1](http://arxiv.org/abs/2208.14592v1)|null|
+|**2022-08-30**|**Deep Large Binocular Camera r-band Observations of the GOODS-N Field**|Teresa A. Ashcraft et.al.|[2208.14572v1](http://arxiv.org/abs/2208.14572v1)|null|
+|**2022-08-30**|**CEERS Key Paper III: The Resolved Host Properties of AGN at 3 < z < 5 with JWST**|Dale D. Kocevski et.al.|[2208.14480v1](http://arxiv.org/abs/2208.14480v1)|null|
 |**2022-08-30**|**MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2208.14437v1](http://arxiv.org/abs/2208.14437v1)|[link](https://github.com/hustvl/maptr)|
 |**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|
 |**2022-08-30**|**GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning**|Lang Deng et.al.|[2208.14326v1](http://arxiv.org/abs/2208.14326v1)|null|
@@ -25,10 +32,3 @@
 |**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
 |**2022-08-26**|**Selective manipulation of disentangled representations for privacy-aware facial image processing**|Sander De Coninck et.al.|[2208.12632v1](http://arxiv.org/abs/2208.12632v1)|null|
 |**2022-08-26**|**Robust and Efficient Depth-based Obstacle Avoidance for Autonomous Miniaturized UAVs**|Hanna Müller et.al.|[2208.12624v1](http://arxiv.org/abs/2208.12624v1)|null|
-|**2022-08-26**|**Implied Open-circuit Voltage Imaging via a Single Bandpass Filter Method: Its First Application in Perovskite Solar Cells**|Arman Mahboubi Soufiani et.al.|[2208.12571v1](http://arxiv.org/abs/2208.12571v1)|null|
-|**2022-08-26**|**Unsupervised Spike Depth Estimation via Cross-modality Cross-domain Knowledge Transfer**|Jiaming Liu et.al.|[2208.12527v1](http://arxiv.org/abs/2208.12527v1)|[link](https://github.com/theia-4869/bicross)|
-|**2022-08-26**|**Perspective-1-Ellipsoid: Formulation, Analysis and Solutions of the Ellipsoid Pose Estimation Problem in Euclidean Space**|Vincent Gaudillière et.al.|[2208.12513v1](http://arxiv.org/abs/2208.12513v1)|null|
-|**2022-08-26**|**WALOP-South: A Four-Camera One-Shot Imaging Polarimeter for PASIPHAE Survey. Paper II -- Polarimetric Modelling and Calibration**|Siddharth Maharana et.al.|[2208.12441v1](http://arxiv.org/abs/2208.12441v1)|null|
-|**2022-08-26**|**A Search for Monochromatic Light Toward the Galactic Centre**|Geoffrey W. Marcy et.al.|[2208.13561v1](http://arxiv.org/abs/2208.13561v1)|null|
-|**2022-08-25**|**Chasing Tails: Active Asteroid, Centaur, and Quasi-Hilda Discovery with Astroinformatics and Citizen Science**|Colin Orion Chandler et.al.|[2208.12364v1](http://arxiv.org/abs/2208.12364v1)|null|
-|**2022-08-25**|**Snooping on Snoopers: Logging as a Security Response to Physical Attacks on Mobile Devices**|Tiago Guerreiro et.al.|[2208.12349v2](http://arxiv.org/abs/2208.12349v2)|null|
