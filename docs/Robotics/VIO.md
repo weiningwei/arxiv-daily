@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-01**|**Mass-driven vortex collisions in flat superfluids**|Andrea Richaud et.al.|[2209.00493v1](http://arxiv.org/abs/2209.00493v1)|null|
+|**2022-09-01**|**Strategies for determining the cascade rate in MHD turbulence: isotropy, anisotropy, and spacecraft sampling**|Yanwen Wang et.al.|[2209.00208v1](http://arxiv.org/abs/2209.00208v1)|null|
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
 |**2022-08-31**|**Entanglement harvesting of accelerated detectors versus static ones in a thermal bath**|Zhihong Liu et.al.|[2208.14825v1](http://arxiv.org/abs/2208.14825v1)|null|
 |**2022-08-31**|**On induced modules of inertial invariant support $τ$-tilting modules over blocks of finite groups**|Ryotaro Koshio et.al.|[2208.14680v1](http://arxiv.org/abs/2208.14680v1)|null|
@@ -30,5 +32,3 @@
 |**2022-08-23**|**Autonomous Driving Vehicles Using Adaptive Learning Method for Data Fusion**|Farhad Aghili et.al.|[2208.11229v1](http://arxiv.org/abs/2208.11229v1)|null|
 |**2022-08-23**|**Theory of solar oscillations in the inertial frequency range: Amplitudes of equatorial modes from a nonlinear rotating convection simulation**|Yuto Bekki et.al.|[2208.11081v1](http://arxiv.org/abs/2208.11081v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
-|**2022-08-19**|**The saturation of exponents and the asymptotic fourth state of turbulence**|Katepalli R. Sreenivasan et.al.|[2208.09561v1](http://arxiv.org/abs/2208.09561v1)|null|
-|**2022-08-19**|**ArUco Maker based localization and Node graph approach to mapping**|Abhijith Sampathkrishna et.al.|[2208.09355v1](http://arxiv.org/abs/2208.09355v1)|null|

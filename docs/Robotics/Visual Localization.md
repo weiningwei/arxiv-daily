@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-01**|**Cross-Spectral Neural Radiance Fields**|Matteo Poggi et.al.|[2209.00648v1](http://arxiv.org/abs/2209.00648v1)|null|
+|**2022-09-01**|**Flux reconstruction for the NIR camera CAGIRE at the focus of the Colibrí telescope**|Alix Nouvel de la Flèche et.al.|[2209.00386v1](http://arxiv.org/abs/2209.00386v1)|null|
+|**2022-09-01**|**Traversability analysis with vision and terrain probing for safe legged robot navigation**|Garen Haddeler et.al.|[2209.00334v1](http://arxiv.org/abs/2209.00334v1)|null|
+|**2022-09-01**|**Monocular Camera-based Complex Obstacle Avoidance via Efficient Deep Reinforcement Learning**|Jianchuan Ding et.al.|[2209.00296v1](http://arxiv.org/abs/2209.00296v1)|null|
+|**2022-09-01**|**Public Parking Spot Detection And Geo-localization Using Transfer Learning**|Moseli Mots'oehli et.al.|[2209.00213v1](http://arxiv.org/abs/2209.00213v1)|null|
+|**2022-08-31**|**Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)**|Pierre Zins et.al.|[2209.00082v1](http://arxiv.org/abs/2209.00082v1)|null|
+|**2022-08-31**|**ViA: View-invariant Skeleton Action Representation Learning via Motion Retargeting**|Di Yang et.al.|[2209.00065v1](http://arxiv.org/abs/2209.00065v1)|null|
+|**2022-08-31**|**Spatial and spectral characterization of photon pairs at telecommunication-wavelength from type-0 spontaneous parametric down-conversion**|Evelyn A. Ortega et.al.|[2209.00061v1](http://arxiv.org/abs/2209.00061v1)|null|
 |**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|null|
 |**2022-08-31**|**A High Performance Scintillator Ion Beam Monitor**|Daniel S Levin et.al.|[2208.14853v1](http://arxiv.org/abs/2208.14853v1)|null|
 |**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
@@ -24,11 +32,3 @@
 |**2022-08-29**|**Nanosecond compressive fluorescence lifetime microscopy imaging via the RATS method with a direct reconstruction of lifetime maps**|Jiri Junek et.al.|[2208.13640v1](http://arxiv.org/abs/2208.13640v1)|null|
 |**2022-08-29**|**A Practical Calibration Method for RGB Micro-Grid Polarimetric Cameras**|Joaquin Rodriguez et.al.|[2208.13485v1](http://arxiv.org/abs/2208.13485v1)|[link](https://github.com/vibot-lab/policalibration)|
 |**2022-08-28**|**Towards Accurate Reconstruction of 3D Scene Shape from A Single Monocular Image**|Wei Yin et.al.|[2208.13241v1](http://arxiv.org/abs/2208.13241v1)|null|
-|**2022-08-28**|**Incremental Semantic Localization using Hierarchical Clustering of Object Association Sets**|Lan Hu et.al.|[2208.13210v1](http://arxiv.org/abs/2208.13210v1)|null|
-|**2022-08-28**|**Giant superlinear power dependence of photocurrent based on layered Ta$_2$NiS$_5$ photodetector**|Xianghao Meng et.al.|[2208.13134v1](http://arxiv.org/abs/2208.13134v1)|null|
-|**2022-08-27**|**Design of the new CHARA instrument SILMARIL: pushing the sensitivity of a 3-beam combiner in the H- and K-bands**|Cyprien Lanthermann et.al.|[2208.12963v1](http://arxiv.org/abs/2208.12963v1)|null|
-|**2022-08-27**|**Robust 3D Vision for Autonomous Robots**|Farhad Aghili et.al.|[2208.12925v2](http://arxiv.org/abs/2208.12925v2)|null|
-|**2022-08-27**|**Neural Camera Models**|Igor Vasiljevic et.al.|[2208.12903v1](http://arxiv.org/abs/2208.12903v1)|null|
-|**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
-|**2022-08-26**|**Selective manipulation of disentangled representations for privacy-aware facial image processing**|Sander De Coninck et.al.|[2208.12632v1](http://arxiv.org/abs/2208.12632v1)|null|
-|**2022-08-26**|**Robust and Efficient Depth-based Obstacle Avoidance for Autonomous Miniaturized UAVs**|Hanna Müller et.al.|[2208.12624v1](http://arxiv.org/abs/2208.12624v1)|null|
