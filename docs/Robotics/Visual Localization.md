@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v1](http://arxiv.org/abs/2209.01194v1)|null|
-|**2022-09-02**|**Edge-Aware Extended Star-Tetrix Transforms for CFA-Sampled Raw Camera Image Compression**|Taizo Suzuki et.al.|[2209.00932v1](http://arxiv.org/abs/2209.00932v1)|null|
-|**2022-09-02**|**Characterization of the MASCOT landing area by Hayabusa2**|Stefan Schröder et.al.|[2209.00856v1](http://arxiv.org/abs/2209.00856v1)|null|
-|**2022-09-02**|**WOC: A Handy Webcam-based 3D Online Chatroom**|Chuanhang Yan et.al.|[2209.00776v1](http://arxiv.org/abs/2209.00776v1)|null|
-|**2022-09-01**|**A Low-Cost Multi-Agent System for Physical Security in Smart Buildings**|Tiago Fonseca et.al.|[2209.00741v1](http://arxiv.org/abs/2209.00741v1)|null|
-|**2022-09-01**|**Cross-Spectral Neural Radiance Fields**|Matteo Poggi et.al.|[2209.00648v1](http://arxiv.org/abs/2209.00648v1)|null|
-|**2022-09-01**|**Flux reconstruction for the NIR camera CAGIRE at the focus of the Colibrí telescope**|Alix Nouvel de la Flèche et.al.|[2209.00386v1](http://arxiv.org/abs/2209.00386v1)|null|
-|**2022-09-01**|**Traversability analysis with vision and terrain probing for safe legged robot navigation**|Garen Haddeler et.al.|[2209.00334v1](http://arxiv.org/abs/2209.00334v1)|null|
-|**2022-09-01**|**Monocular Camera-based Complex Obstacle Avoidance via Efficient Deep Reinforcement Learning**|Jianchuan Ding et.al.|[2209.00296v1](http://arxiv.org/abs/2209.00296v1)|null|
-|**2022-09-01**|**Public Parking Spot Detection And Geo-localization Using Transfer Learning**|Moseli Mots'oehli et.al.|[2209.00213v2](http://arxiv.org/abs/2209.00213v2)|null|
-|**2022-08-31**|**Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)**|Pierre Zins et.al.|[2209.00082v1](http://arxiv.org/abs/2209.00082v1)|null|
-|**2022-08-31**|**ViA: View-invariant Skeleton Action Representation Learning via Motion Retargeting**|Di Yang et.al.|[2209.00065v1](http://arxiv.org/abs/2209.00065v1)|null|
-|**2022-08-31**|**Spatial and spectral characterization of photon pairs at telecommunication-wavelength from type-0 spontaneous parametric down-conversion**|Evelyn A. Ortega et.al.|[2209.00061v1](http://arxiv.org/abs/2209.00061v1)|null|
-|**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|null|
-|**2022-08-31**|**A High Performance Scintillator Ion Beam Monitor**|Daniel S Levin et.al.|[2208.14853v1](http://arxiv.org/abs/2208.14853v1)|null|
-|**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
-|**2022-08-31**|**Temporal Flow Mask Attention for Open-Set Long-Tailed Recognition of Wild Animals in Camera-Trap Images**|Jeongsoo Kim et.al.|[2208.14625v1](http://arxiv.org/abs/2208.14625v1)|null|
-|**2022-08-31**|**Light curve completion and forecasting using fast and scalable Gaussian processes (MuyGPs)**|Imène R. Goumiri et.al.|[2208.14592v1](http://arxiv.org/abs/2208.14592v1)|null|
-|**2022-08-30**|**Deep Large Binocular Camera r-band Observations of the GOODS-N Field**|Teresa A. Ashcraft et.al.|[2208.14572v1](http://arxiv.org/abs/2208.14572v1)|null|
-|**2022-08-30**|**CEERS Key Paper III: The Resolved Host Properties of AGN at 3 < z < 5 with JWST**|Dale D. Kocevski et.al.|[2208.14480v1](http://arxiv.org/abs/2208.14480v1)|null|
-|**2022-08-30**|**MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2208.14437v1](http://arxiv.org/abs/2208.14437v1)|[link](https://github.com/hustvl/maptr)|
-|**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|
-|**2022-08-30**|**GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning**|Lang Deng et.al.|[2208.14326v1](http://arxiv.org/abs/2208.14326v1)|null|
-|**2022-08-30**|**ORACLE: Occlusion-Resilient And self-Calibrating mmWave Radar Network for People Tracking**|Jacopo Pegoraro et.al.|[2208.14199v1](http://arxiv.org/abs/2208.14199v1)|null|
-|**2022-08-30**|**Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**|Fabian Herzog et.al.|[2208.14167v1](http://arxiv.org/abs/2208.14167v1)|[link](https://github.com/fubel/synthehicle)|
-|**2022-08-30**|**Sim-to-Real Transfer of Robotic Assembly with Visual Inputs Using CycleGAN and Force Control**|Chengjie Yuan et.al.|[2208.14104v1](http://arxiv.org/abs/2208.14104v1)|null|
-|**2022-08-30**|**Breaking correlation in the inflow parameters of interstellar neutral gas in direct-sampling observations**|M. Bzowski et.al.|[2208.14101v1](http://arxiv.org/abs/2208.14101v1)|null|
-|**2022-08-30**|**Treating Point Cloud as Moving Camera Videos: A No-Reference Quality Assessment Metric**|Zicheng Zhang et.al.|[2208.14085v1](http://arxiv.org/abs/2208.14085v1)|null|
-|**2022-08-30**|**Weakly Supervised Faster-RCNN+FPN to classify animals in camera trap images**|Pierrick Pochelu et.al.|[2208.14060v1](http://arxiv.org/abs/2208.14060v1)|null|
-|**2022-08-30**|**Spacecraft depth completion based on the gray image and the sparse depth map**|Xiang Liu et.al.|[2208.14030v1](http://arxiv.org/abs/2208.14030v1)|null|
+|**2022-09-06**|**Design and upgrade of the prototype Schwarzschild-Couder Telescope**|Leslie Taylor et.al.|[2209.02680v1](http://arxiv.org/abs/2209.02680v1)|null|
+|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v1](http://arxiv.org/abs/2209.02540v1)|null|
+|**2022-09-06**|**Surya Namaskar: real-time advanced yoga pose recognition and correction for smart healthcare**|Abhishek Sharma et.al.|[2209.02492v1](http://arxiv.org/abs/2209.02492v1)|null|
+|**2022-09-06**|**Threat Detection In Self-Driving Vehicles Using Computer Vision**|Umang Goenka et.al.|[2209.02438v1](http://arxiv.org/abs/2209.02438v1)|null|
+|**2022-09-06**|**Layer or Representation Space:What makes BERT-based Evaluation Metrics Robust?**|Doan Nam Long Vu et.al.|[2209.02317v1](http://arxiv.org/abs/2209.02317v1)|null|
+|**2022-09-06**|**An Indoor Localization Dataset and Data Collection Framework with High Precision Position Annotation**|F. Serhan Daniş et.al.|[2209.02270v1](http://arxiv.org/abs/2209.02270v1)|null|
+|**2022-09-06**|**Towards Intelligent Millimeter and Terahertz Communication for 6G: Computer Vision-aided Beamforming**|Yongjun Ahn et.al.|[2209.02258v1](http://arxiv.org/abs/2209.02258v1)|null|
+|**2022-09-06**|**Spatio-Temporal Action Detection Under Large Motion**|Gurkirt Singh et.al.|[2209.02250v1](http://arxiv.org/abs/2209.02250v1)|null|
+|**2022-09-06**|**High Speed Rotation Estimation with Dynamic Vision Sensors**|Guangrong Zhao et.al.|[2209.02205v1](http://arxiv.org/abs/2209.02205v1)|null|
+|**2022-09-06**|**LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images**|Shansi Zhang et.al.|[2209.02197v1](http://arxiv.org/abs/2209.02197v1)|null|
+|**2022-09-05**|**A Deep Neural Network for Multiclass Bridge Element Parsing in Inspection Image Analysis**|Chenyu Zhang et.al.|[2209.02141v1](http://arxiv.org/abs/2209.02141v1)|null|
+|**2022-09-05**|**Pros and cons of gaussian filters versus step filters for light pollution monitoring**|Alejandro Sánchez de Miguel et.al.|[2209.02100v1](http://arxiv.org/abs/2209.02100v1)|null|
+|**2022-09-05**|**Fast geometric trim fitting using partial incremental sorting and accumulation**|Min Li et.al.|[2209.02034v1](http://arxiv.org/abs/2209.02034v1)|null|
+|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
+|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
+|**2022-09-05**|**Lattice-based shape tracking and servoing of elastic objects**|Mohammadreza Shetab-Bushehri et.al.|[2209.01832v1](http://arxiv.org/abs/2209.01832v1)|null|
+|**2022-09-05**|**UDC-UNet: Under-Display Camera Image Restoration via U-Shape Dynamic Network**|Xina Liu et.al.|[2209.01809v1](http://arxiv.org/abs/2209.01809v1)|null|
+|**2022-09-05**|**4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**|Chengxu Liu et.al.|[2209.01749v1](http://arxiv.org/abs/2209.01749v1)|null|
+|**2022-09-05**|**A Multi-scale Video Denoising Algorithm for Raw Image**|Bin Ma et.al.|[2209.01740v1](http://arxiv.org/abs/2209.01740v1)|null|
+|**2022-09-04**|**Model Predictive Control Design of a 3-DOF Robot Arm Based on Recognition of Spatial Coordinates**|Zhangxi Zhou et.al.|[2209.01706v1](http://arxiv.org/abs/2209.01706v1)|null|
+|**2022-09-04**|**Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network**|Juan Tapia et.al.|[2209.01657v1](http://arxiv.org/abs/2209.01657v1)|null|
+|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|null|
+|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
+|**2022-09-04**|**Data-Assisted Vision-Based Hybrid Control for Robust Stabilization with Obstacle Avoidance via Learning of Perception Maps**|Alejandro Murillo-Gonzalez et.al.|[2209.01597v1](http://arxiv.org/abs/2209.01597v1)|null|
+|**2022-09-03**|**Spatially multiplexed dielectric tensor tomography**|Juheon Lee et.al.|[2209.01483v1](http://arxiv.org/abs/2209.01483v1)|null|
+|**2022-09-03**|**Rupture dynamics of flat colloidal films**|Phalguni Shah et.al.|[2209.01448v1](http://arxiv.org/abs/2209.01448v1)|null|
+|**2022-09-03**|**DualCam: A Novel Benchmark Dataset for Fine-grained Real-time Traffic Light Detection**|Harindu Jayarathne et.al.|[2209.01357v1](http://arxiv.org/abs/2209.01357v1)|null|
+|**2022-09-02**|**Person Monitoring by Full Body Tracking in Uniform Crowd Environment**|Zhibo Zhang et.al.|[2209.01274v1](http://arxiv.org/abs/2209.01274v1)|null|
+|**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas et.al.|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
+|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|
