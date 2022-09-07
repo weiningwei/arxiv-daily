@@ -11,7 +11,7 @@
 |**2022-09-01**|**Flux reconstruction for the NIR camera CAGIRE at the focus of the Colibrí telescope**|Alix Nouvel de la Flèche et.al.|[2209.00386v1](http://arxiv.org/abs/2209.00386v1)|null|
 |**2022-09-01**|**Traversability analysis with vision and terrain probing for safe legged robot navigation**|Garen Haddeler et.al.|[2209.00334v1](http://arxiv.org/abs/2209.00334v1)|null|
 |**2022-09-01**|**Monocular Camera-based Complex Obstacle Avoidance via Efficient Deep Reinforcement Learning**|Jianchuan Ding et.al.|[2209.00296v1](http://arxiv.org/abs/2209.00296v1)|null|
-|**2022-09-01**|**Public Parking Spot Detection And Geo-localization Using Transfer Learning**|Moseli Mots'oehli et.al.|[2209.00213v1](http://arxiv.org/abs/2209.00213v1)|null|
+|**2022-09-01**|**Public Parking Spot Detection And Geo-localization Using Transfer Learning**|Moseli Mots'oehli et.al.|[2209.00213v2](http://arxiv.org/abs/2209.00213v2)|null|
 |**2022-08-31**|**Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)**|Pierre Zins et.al.|[2209.00082v1](http://arxiv.org/abs/2209.00082v1)|null|
 |**2022-08-31**|**ViA: View-invariant Skeleton Action Representation Learning via Motion Retargeting**|Di Yang et.al.|[2209.00065v1](http://arxiv.org/abs/2209.00065v1)|null|
 |**2022-08-31**|**Spatial and spectral characterization of photon pairs at telecommunication-wavelength from type-0 spontaneous parametric down-conversion**|Evelyn A. Ortega et.al.|[2209.00061v1](http://arxiv.org/abs/2209.00061v1)|null|
