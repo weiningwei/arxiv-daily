@@ -5,7 +5,7 @@
 |**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
-|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|null|
+|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|[link](https://github.com/souvik0306/Book-Bot)|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
 |**2022-08-30**|**CUAHN-VIO: Content-and-Uncertainty-Aware Homography Network for Visual-Inertial Odometry**|Yingfu Xu et.al.|[2208.13935v1](http://arxiv.org/abs/2208.13935v1)|[link](https://github.com/tudelft/cuahn-vio)|

@@ -7,7 +7,7 @@
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-05**|**Relativity of superluminal observers in $1+3$ spacetime**|Andrzej Dragan et.al.|[2209.01836v1](http://arxiv.org/abs/2209.01836v1)|null|
-|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|null|
+|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|[link](https://github.com/souvik0306/Book-Bot)|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 |**2022-09-03**|**Cosmic-ray Convection-diffusion Anisotropy**|Yiran Zhang et.al.|[2209.01412v1](http://arxiv.org/abs/2209.01412v1)|null|
 |**2022-09-02**|**Human Activity Recognition on Microcontrollers with Quantized and Adaptive Deep Neural Networks**|Francesco Daghero et.al.|[2209.00839v1](http://arxiv.org/abs/2209.00839v1)|null|

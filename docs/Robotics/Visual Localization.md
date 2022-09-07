@@ -23,12 +23,12 @@
 |**2022-09-05**|**A Multi-scale Video Denoising Algorithm for Raw Image**|Bin Ma et.al.|[2209.01740v1](http://arxiv.org/abs/2209.01740v1)|null|
 |**2022-09-04**|**Model Predictive Control Design of a 3-DOF Robot Arm Based on Recognition of Spatial Coordinates**|Zhangxi Zhou et.al.|[2209.01706v1](http://arxiv.org/abs/2209.01706v1)|null|
 |**2022-09-04**|**Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network**|Juan Tapia et.al.|[2209.01657v1](http://arxiv.org/abs/2209.01657v1)|null|
-|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|null|
+|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|[link](https://github.com/souvik0306/Book-Bot)|
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-09-04**|**Data-Assisted Vision-Based Hybrid Control for Robust Stabilization with Obstacle Avoidance via Learning of Perception Maps**|Alejandro Murillo-Gonzalez et.al.|[2209.01597v1](http://arxiv.org/abs/2209.01597v1)|null|
 |**2022-09-03**|**Spatially multiplexed dielectric tensor tomography**|Juheon Lee et.al.|[2209.01483v1](http://arxiv.org/abs/2209.01483v1)|null|
 |**2022-09-03**|**Rupture dynamics of flat colloidal films**|Phalguni Shah et.al.|[2209.01448v1](http://arxiv.org/abs/2209.01448v1)|null|
-|**2022-09-03**|**DualCam: A Novel Benchmark Dataset for Fine-grained Real-time Traffic Light Detection**|Harindu Jayarathne et.al.|[2209.01357v1](http://arxiv.org/abs/2209.01357v1)|null|
-|**2022-09-02**|**Person Monitoring by Full Body Tracking in Uniform Crowd Environment**|Zhibo Zhang et.al.|[2209.01274v1](http://arxiv.org/abs/2209.01274v1)|null|
+|**2022-09-03**|**DualCam: A Novel Benchmark Dataset for Fine-grained Real-time Traffic Light Detection**|Harindu Jayarathne et.al.|[2209.01357v1](http://arxiv.org/abs/2209.01357v1)|[link](https://github.com/harinduravin/dualcam)|
+|**2022-09-02**|**Person Monitoring by Full Body Tracking in Uniform Crowd Environment**|Zhibo Zhang et.al.|[2209.01274v1](http://arxiv.org/abs/2209.01274v1)|[link](https://github.com/qiuyuezhibo/kandora-and-abaya-uniform-tracking-dataset)|
 |**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas et.al.|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
 |**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|
