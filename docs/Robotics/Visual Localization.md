@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-07**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiao et.al.|[2209.03102v1](http://arxiv.org/abs/2209.03102v1)|[link](https://github.com/sxjyjay/msmdfusion)|
+|**2022-09-07**|**Zoom Text Detector**|Chuang. Yang et.al.|[2209.03014v1](http://arxiv.org/abs/2209.03014v1)|null|
+|**2022-09-07**|**BiFuse++: Self-supervised and Efficient Bi-projection Fusion for 360 Depth Estimation**|Fu-En Wang et.al.|[2209.02952v1](http://arxiv.org/abs/2209.02952v1)|[link](https://github.com/fuenwang/bifusev2)|
+|**2022-09-07**|**Improving Choral Music Separation through Expressive Synthesized Data from Sampled Instruments**|Ke Chen et.al.|[2209.02871v1](http://arxiv.org/abs/2209.02871v1)|null|
 |**2022-09-06**|**Design and upgrade of the prototype Schwarzschild-Couder Telescope**|Leslie Taylor et.al.|[2209.02680v1](http://arxiv.org/abs/2209.02680v1)|null|
 |**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v2](http://arxiv.org/abs/2209.02540v2)|null|
 |**2022-09-06**|**Surya Namaskar: real-time advanced yoga pose recognition and correction for smart healthcare**|Abhishek Sharma et.al.|[2209.02492v1](http://arxiv.org/abs/2209.02492v1)|null|
@@ -17,6 +21,7 @@
 |**2022-09-05**|**Fast geometric trim fitting using partial incremental sorting and accumulation**|Min Li et.al.|[2209.02034v1](http://arxiv.org/abs/2209.02034v1)|null|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
+|**2022-09-05**|**Wavelength-aware 2D Convolutions for Hyperspectral Imaging**|Leon Amadeus Varga et.al.|[2209.03136v1](http://arxiv.org/abs/2209.03136v1)|null|
 |**2022-09-05**|**Lattice-based shape tracking and servoing of elastic objects**|Mohammadreza Shetab-Bushehri et.al.|[2209.01832v2](http://arxiv.org/abs/2209.01832v2)|null|
 |**2022-09-05**|**UDC-UNet: Under-Display Camera Image Restoration via U-Shape Dynamic Network**|Xina Liu et.al.|[2209.01809v1](http://arxiv.org/abs/2209.01809v1)|[link](https://github.com/j-fhu/udcunet)|
 |**2022-09-05**|**4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**|Chengxu Liu et.al.|[2209.01749v1](http://arxiv.org/abs/2209.01749v1)|null|
@@ -27,8 +32,3 @@
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-09-04**|**Data-Assisted Vision-Based Hybrid Control for Robust Stabilization with Obstacle Avoidance via Learning of Perception Maps**|Alejandro Murillo-Gonzalez et.al.|[2209.01597v1](http://arxiv.org/abs/2209.01597v1)|null|
 |**2022-09-03**|**Spatially multiplexed dielectric tensor tomography**|Juheon Lee et.al.|[2209.01483v1](http://arxiv.org/abs/2209.01483v1)|null|
-|**2022-09-03**|**Rupture dynamics of flat colloidal films**|Phalguni Shah et.al.|[2209.01448v1](http://arxiv.org/abs/2209.01448v1)|null|
-|**2022-09-03**|**DualCam: A Novel Benchmark Dataset for Fine-grained Real-time Traffic Light Detection**|Harindu Jayarathne et.al.|[2209.01357v1](http://arxiv.org/abs/2209.01357v1)|[link](https://github.com/harinduravin/dualcam)|
-|**2022-09-02**|**Person Monitoring by Full Body Tracking in Uniform Crowd Environment**|Zhibo Zhang et.al.|[2209.01274v1](http://arxiv.org/abs/2209.01274v1)|[link](https://github.com/qiuyuezhibo/kandora-and-abaya-uniform-tracking-dataset)|
-|**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas et.al.|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
-|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|

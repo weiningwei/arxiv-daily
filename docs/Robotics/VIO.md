@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
+|**2022-09-07**|**Optomechanical accelerometers for geodesy**|Adam Hines et.al.|[2209.03273v1](http://arxiv.org/abs/2209.03273v1)|null|
+|**2022-09-07**|**Inertial torque on a squirmer**|F. Candelier et.al.|[2209.03129v1](http://arxiv.org/abs/2209.03129v1)|null|
+|**2022-09-07**|**Convergence analysis of an implicit finite difference method for the inertial Landau-Lifshitz-Gilbert equation**|Jingrun Chen et.al.|[2209.02914v1](http://arxiv.org/abs/2209.02914v1)|null|
 |**2022-09-06**|**Magnetic field spectral evolution in the inner heliosphere**|Nikos Sioulas et.al.|[2209.02451v1](http://arxiv.org/abs/2209.02451v1)|null|
 |**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
@@ -28,7 +32,3 @@
 |**2022-08-27**|**Robust 3D Vision for Autonomous Robots**|Farhad Aghili et.al.|[2208.12925v2](http://arxiv.org/abs/2208.12925v2)|null|
 |**2022-08-26**|**Spatial Antiferromagnetic Spin Texture as a Nano-Oscillator**|Victor S. Gerasimchuk et.al.|[2208.12860v1](http://arxiv.org/abs/2208.12860v1)|null|
 |**2022-08-26**|**Dimple, jets and self-similarity in nonlinear capillary waves**|Lohit Kayal et.al.|[2208.12663v1](http://arxiv.org/abs/2208.12663v1)|null|
-|**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
-|**2022-08-25**|**Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**|Mahdi Hejrati et.al.|[2208.12184v1](http://arxiv.org/abs/2208.12184v1)|null|
-|**2022-08-25**|**Attractors. Then and now**|Sergey Zelik et.al.|[2208.12101v1](http://arxiv.org/abs/2208.12101v1)|null|
-|**2022-08-25**|**Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras**|Xiaolei Lang et.al.|[2208.12008v1](http://arxiv.org/abs/2208.12008v1)|[link](https://github.com/april-zju/ctrl-vio)|

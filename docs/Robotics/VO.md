@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
 |**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
@@ -31,4 +32,3 @@
 |**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
 |**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
 |**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
-|**2022-06-28**|**Position-Agnostic Autonomous Navigation in Vineyards with Deep Reinforcement Learning**|Mauro Martini et.al.|[2206.14155v1](http://arxiv.org/abs/2206.14155v1)|null|
