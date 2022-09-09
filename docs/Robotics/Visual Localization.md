@@ -2,10 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
+|**2022-09-08**|**Saliency-based Multiple Region of Interest Detection from a Single 360° image**|Yuuki Sawabe et.al.|[2209.03656v1](http://arxiv.org/abs/2209.03656v1)|null|
+|**2022-09-08**|**Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network**|Yunfeng Zhao et.al.|[2209.03624v1](http://arxiv.org/abs/2209.03624v1)|null|
+|**2022-09-08**|**Video Vision Transformers for Violence Detection**|Sanskar Singh et.al.|[2209.03561v1](http://arxiv.org/abs/2209.03561v1)|null|
+|**2022-09-08**|**Why optics needs thickness**|David. A. B. Miller et.al.|[2209.03552v1](http://arxiv.org/abs/2209.03552v1)|null|
 |**2022-09-07**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiao et.al.|[2209.03102v1](http://arxiv.org/abs/2209.03102v1)|[link](https://github.com/sxjyjay/msmdfusion)|
 |**2022-09-07**|**Zoom Text Detector**|Chuang. Yang et.al.|[2209.03014v1](http://arxiv.org/abs/2209.03014v1)|null|
 |**2022-09-07**|**BiFuse++: Self-supervised and Efficient Bi-projection Fusion for 360 Depth Estimation**|Fu-En Wang et.al.|[2209.02952v1](http://arxiv.org/abs/2209.02952v1)|[link](https://github.com/fuenwang/bifusev2)|
 |**2022-09-07**|**Improving Choral Music Separation through Expressive Synthesized Data from Sampled Instruments**|Ke Chen et.al.|[2209.02871v1](http://arxiv.org/abs/2209.02871v1)|null|
+|**2022-09-06**|**The JWST Resolved Stellar Populations Early Release Science Program I.: NIRCam Flux Calibration**|Martha L. Boyer et.al.|[2209.03348v1](http://arxiv.org/abs/2209.03348v1)|null|
 |**2022-09-06**|**Design and upgrade of the prototype Schwarzschild-Couder Telescope**|Leslie Taylor et.al.|[2209.02680v1](http://arxiv.org/abs/2209.02680v1)|null|
 |**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v2](http://arxiv.org/abs/2209.02540v2)|null|
 |**2022-09-06**|**Surya Namaskar: real-time advanced yoga pose recognition and correction for smart healthcare**|Abhishek Sharma et.al.|[2209.02492v1](http://arxiv.org/abs/2209.02492v1)|null|
@@ -26,9 +32,3 @@
 |**2022-09-05**|**UDC-UNet: Under-Display Camera Image Restoration via U-Shape Dynamic Network**|Xina Liu et.al.|[2209.01809v1](http://arxiv.org/abs/2209.01809v1)|[link](https://github.com/j-fhu/udcunet)|
 |**2022-09-05**|**4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**|Chengxu Liu et.al.|[2209.01749v1](http://arxiv.org/abs/2209.01749v1)|null|
 |**2022-09-05**|**A Multi-scale Video Denoising Algorithm for Raw Image**|Bin Ma et.al.|[2209.01740v1](http://arxiv.org/abs/2209.01740v1)|null|
-|**2022-09-04**|**Model Predictive Control Design of a 3-DOF Robot Arm Based on Recognition of Spatial Coordinates**|Zhangxi Zhou et.al.|[2209.01706v1](http://arxiv.org/abs/2209.01706v1)|null|
-|**2022-09-04**|**Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network**|Juan Tapia et.al.|[2209.01657v1](http://arxiv.org/abs/2209.01657v1)|null|
-|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|[link](https://github.com/souvik0306/Book-Bot)|
-|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
-|**2022-09-04**|**Data-Assisted Vision-Based Hybrid Control for Robust Stabilization with Obstacle Avoidance via Learning of Perception Maps**|Alejandro Murillo-Gonzalez et.al.|[2209.01597v1](http://arxiv.org/abs/2209.01597v1)|null|
-|**2022-09-03**|**Spatially multiplexed dielectric tensor tomography**|Juheon Lee et.al.|[2209.01483v1](http://arxiv.org/abs/2209.01483v1)|null|

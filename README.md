@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-09 08:44:31 Asia/Shanghai
+ Automated deployment @ 2022-09-09 11:20:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**A no-go theorem for absolute observed events without inequalities or modal logic**|Nick Ormrod et.al.|[2209.03940v1](http://arxiv.org/abs/2209.03940v1)|null|
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
+|**2022-09-08**|**Conical-focusing: Mechanism for singular jetting from collapsing drop-impact craters**|Yuan Si Tian et.al.|[2209.03659v1](http://arxiv.org/abs/2209.03659v1)|null|
+|**2022-09-08**|**Constructive Equivariant Observer Design for Inertial Velocity-Aided Attitude**|Pieter van Goor et.al.|[2209.03564v1](http://arxiv.org/abs/2209.03564v1)|null|
+|**2022-09-07**|**Fiber-based two-wavelength heterodyne laser interferometer**|Yanqi Zhang et.al.|[2209.03449v1](http://arxiv.org/abs/2209.03449v1)|null|
 |**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
 |**2022-09-07**|**Optomechanical accelerometers for geodesy**|Adam Hines et.al.|[2209.03273v1](http://arxiv.org/abs/2209.03273v1)|null|
 |**2022-09-07**|**Inertial torque on a squirmer**|F. Candelier et.al.|[2209.03129v1](http://arxiv.org/abs/2209.03129v1)|null|
@@ -33,15 +38,12 @@
 |**2022-08-29**|**Benchmarking magnetized three-wave coupling for laser backscattering: Analytic solutions and kinetic simulations**|Yuan Shi et.al.|[2208.13832v1](http://arxiv.org/abs/2208.13832v1)|null|
 |**2022-08-29**|**Engulfment of a drop on solids coated by thin and thick fluid films**|Chunheng Zhao et.al.|[2208.13676v1](http://arxiv.org/abs/2208.13676v1)|null|
 |**2022-08-28**|**Cloud and Microjet Mix: A Possible Source of Yield limitation of the National Ignition Facility Targets**|Gene H. MCall et.al.|[2208.13131v1](http://arxiv.org/abs/2208.13131v1)|null|
-|**2022-08-28**|**Explicit high-order symplectic integrators of coupled Schrodinger equations for pump-probe systems**|Xiaobao Jia et.al.|[2208.13120v1](http://arxiv.org/abs/2208.13120v1)|null|
-|**2022-08-27**|**Flight and ground demonstration of reproducibility and stability of photoelectric properties for passive charge management using LEDs**|S. Buchman et.al.|[2208.13090v1](http://arxiv.org/abs/2208.13090v1)|null|
-|**2022-08-27**|**Robust 3D Vision for Autonomous Robots**|Farhad Aghili et.al.|[2208.12925v2](http://arxiv.org/abs/2208.12925v2)|null|
-|**2022-08-26**|**Spatial Antiferromagnetic Spin Texture as a Nano-Oscillator**|Victor S. Gerasimchuk et.al.|[2208.12860v1](http://arxiv.org/abs/2208.12860v1)|null|
-|**2022-08-26**|**Dimple, jets and self-similarity in nonlinear capillary waves**|Lohit Kayal et.al.|[2208.12663v1](http://arxiv.org/abs/2208.12663v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|null|
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
 |**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|[link](https://bitbucket.org/jmangelson/gkcm)|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
@@ -70,16 +72,20 @@
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-22**|**NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction**|Yunlong Ran et.al.|[2207.10985v1](http://arxiv.org/abs/2207.10985v1)|null|
-|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
-|**2022-07-22**|**PLD-SLAM: A Real-Time Visual SLAM Using Points and Line Segments in Dynamic Scenes**|BaoSheng Zhang et.al.|[2207.10916v1](http://arxiv.org/abs/2207.10916v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
+|**2022-09-08**|**Saliency-based Multiple Region of Interest Detection from a Single 360° image**|Yuuki Sawabe et.al.|[2209.03656v1](http://arxiv.org/abs/2209.03656v1)|null|
+|**2022-09-08**|**Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network**|Yunfeng Zhao et.al.|[2209.03624v1](http://arxiv.org/abs/2209.03624v1)|null|
+|**2022-09-08**|**Video Vision Transformers for Violence Detection**|Sanskar Singh et.al.|[2209.03561v1](http://arxiv.org/abs/2209.03561v1)|null|
+|**2022-09-08**|**Why optics needs thickness**|David. A. B. Miller et.al.|[2209.03552v1](http://arxiv.org/abs/2209.03552v1)|null|
 |**2022-09-07**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiao et.al.|[2209.03102v1](http://arxiv.org/abs/2209.03102v1)|[link](https://github.com/sxjyjay/msmdfusion)|
 |**2022-09-07**|**Zoom Text Detector**|Chuang. Yang et.al.|[2209.03014v1](http://arxiv.org/abs/2209.03014v1)|null|
 |**2022-09-07**|**BiFuse++: Self-supervised and Efficient Bi-projection Fusion for 360 Depth Estimation**|Fu-En Wang et.al.|[2209.02952v1](http://arxiv.org/abs/2209.02952v1)|[link](https://github.com/fuenwang/bifusev2)|
 |**2022-09-07**|**Improving Choral Music Separation through Expressive Synthesized Data from Sampled Instruments**|Ke Chen et.al.|[2209.02871v1](http://arxiv.org/abs/2209.02871v1)|null|
+|**2022-09-06**|**The JWST Resolved Stellar Populations Early Release Science Program I.: NIRCam Flux Calibration**|Martha L. Boyer et.al.|[2209.03348v1](http://arxiv.org/abs/2209.03348v1)|null|
 |**2022-09-06**|**Design and upgrade of the prototype Schwarzschild-Couder Telescope**|Leslie Taylor et.al.|[2209.02680v1](http://arxiv.org/abs/2209.02680v1)|null|
 |**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v2](http://arxiv.org/abs/2209.02540v2)|null|
 |**2022-09-06**|**Surya Namaskar: real-time advanced yoga pose recognition and correction for smart healthcare**|Abhishek Sharma et.al.|[2209.02492v1](http://arxiv.org/abs/2209.02492v1)|null|
@@ -100,16 +106,11 @@
 |**2022-09-05**|**UDC-UNet: Under-Display Camera Image Restoration via U-Shape Dynamic Network**|Xina Liu et.al.|[2209.01809v1](http://arxiv.org/abs/2209.01809v1)|[link](https://github.com/j-fhu/udcunet)|
 |**2022-09-05**|**4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**|Chengxu Liu et.al.|[2209.01749v1](http://arxiv.org/abs/2209.01749v1)|null|
 |**2022-09-05**|**A Multi-scale Video Denoising Algorithm for Raw Image**|Bin Ma et.al.|[2209.01740v1](http://arxiv.org/abs/2209.01740v1)|null|
-|**2022-09-04**|**Model Predictive Control Design of a 3-DOF Robot Arm Based on Recognition of Spatial Coordinates**|Zhangxi Zhou et.al.|[2209.01706v1](http://arxiv.org/abs/2209.01706v1)|null|
-|**2022-09-04**|**Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network**|Juan Tapia et.al.|[2209.01657v1](http://arxiv.org/abs/2209.01657v1)|null|
-|**2022-09-04**|**IoT Book Bot**|Souvik Datta et.al.|[2209.01641v1](http://arxiv.org/abs/2209.01641v1)|[link](https://github.com/souvik0306/Book-Bot)|
-|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
-|**2022-09-04**|**Data-Assisted Vision-Based Hybrid Control for Robust Stabilization with Obstacle Avoidance via Learning of Perception Maps**|Alejandro Murillo-Gonzalez et.al.|[2209.01597v1](http://arxiv.org/abs/2209.01597v1)|null|
-|**2022-09-03**|**Spatially multiplexed dielectric tensor tomography**|Juheon Lee et.al.|[2209.01483v1](http://arxiv.org/abs/2209.01483v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
 |**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
 |**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
@@ -139,4 +140,3 @@
 |**2022-07-08**|**Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**|Ran Liu et.al.|[2207.03700v1](http://arxiv.org/abs/2207.03700v1)|null|
 |**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
 |**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
-|**2022-07-02**|**Drift Reduction for Monocular Visual Odometry of Intelligent Vehicles using Feedforward Neural Networks**|Hassan Wagih et.al.|[2207.00909v1](http://arxiv.org/abs/2207.00909v1)|null|
