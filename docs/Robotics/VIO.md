@@ -7,7 +7,7 @@
 |**2022-09-08**|**Conical-focusing: Mechanism for singular jetting from collapsing drop-impact craters**|Yuan Si Tian et.al.|[2209.03659v1](http://arxiv.org/abs/2209.03659v1)|null|
 |**2022-09-08**|**Constructive Equivariant Observer Design for Inertial Velocity-Aided Attitude**|Pieter van Goor et.al.|[2209.03564v1](http://arxiv.org/abs/2209.03564v1)|null|
 |**2022-09-07**|**Fiber-based two-wavelength heterodyne laser interferometer**|Yanqi Zhang et.al.|[2209.03449v1](http://arxiv.org/abs/2209.03449v1)|null|
-|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
+|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|[link](https://github.com/utiasasrl/steam_icp)|
 |**2022-09-07**|**Optomechanical accelerometers for geodesy**|Adam Hines et.al.|[2209.03273v1](http://arxiv.org/abs/2209.03273v1)|null|
 |**2022-09-07**|**Inertial torque on a squirmer**|F. Candelier et.al.|[2209.03129v1](http://arxiv.org/abs/2209.03129v1)|null|
 |**2022-09-07**|**Convergence analysis of an implicit finite difference method for the inertial Landau-Lifshitz-Gilbert equation**|Jingrun Chen et.al.|[2209.02914v1](http://arxiv.org/abs/2209.02914v1)|null|
