@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-09**|**Directed energy deposition powder stream modeling using a Gaussian beam ray representation**|Alexander Martinez-Marchese et.al.|[2209.04398v1](http://arxiv.org/abs/2209.04398v1)|null|
+|**2022-09-09**|**EDeNN: Event Decay Neural Networks for low latency vision**|Celyn Walters et.al.|[2209.04362v1](http://arxiv.org/abs/2209.04362v1)|null|
+|**2022-09-09**|**An Indian Roads Dataset for Supported and Suspended Traffic Lights Detection**|Sarita Gautam et.al.|[2209.04203v1](http://arxiv.org/abs/2209.04203v1)|null|
+|**2022-09-09**|**ArTéMiS imaging of the filamentary infrared dark clouds G1.75-0.08 and G11.36+0.80: Dust-based physical properties of the clouds and their clumps**|Oskari Miettinen et.al.|[2209.04146v1](http://arxiv.org/abs/2209.04146v1)|null|
+|**2022-09-09**|**Improving the Environmental Perception of Autonomous Vehicles using Deep Learning-based Audio Classification**|Finley Walden et.al.|[2209.04075v1](http://arxiv.org/abs/2209.04075v1)|null|
+|**2022-09-09**|**TEACH: Temporal Action Composition for 3D Humans**|Nikos Athanasiou et.al.|[2209.04066v1](http://arxiv.org/abs/2209.04066v1)|null|
+|**2022-09-08**|**im2nerf: Image to Neural Radiance Field in the Wild**|Lu Mi et.al.|[2209.04061v1](http://arxiv.org/abs/2209.04061v1)|null|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
 |**2022-09-08**|**Saliency-based Multiple Region of Interest Detection from a Single 360° image**|Yuuki Sawabe et.al.|[2209.03656v1](http://arxiv.org/abs/2209.03656v1)|null|
 |**2022-09-08**|**Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network**|Yunfeng Zhao et.al.|[2209.03624v1](http://arxiv.org/abs/2209.03624v1)|[link](https://github.com/zyfccc/Representing-camera-response-function)|
@@ -25,10 +32,3 @@
 |**2022-09-05**|**A Deep Neural Network for Multiclass Bridge Element Parsing in Inspection Image Analysis**|Chenyu Zhang et.al.|[2209.02141v1](http://arxiv.org/abs/2209.02141v1)|null|
 |**2022-09-05**|**Pros and cons of gaussian filters versus step filters for light pollution monitoring**|Alejandro Sánchez de Miguel et.al.|[2209.02100v1](http://arxiv.org/abs/2209.02100v1)|null|
 |**2022-09-05**|**Fast geometric trim fitting using partial incremental sorting and accumulation**|Min Li et.al.|[2209.02034v1](http://arxiv.org/abs/2209.02034v1)|null|
-|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
-|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
-|**2022-09-05**|**Wavelength-aware 2D Convolutions for Hyperspectral Imaging**|Leon Amadeus Varga et.al.|[2209.03136v1](http://arxiv.org/abs/2209.03136v1)|null|
-|**2022-09-05**|**Lattice-based shape tracking and servoing of elastic objects**|Mohammadreza Shetab-Bushehri et.al.|[2209.01832v2](http://arxiv.org/abs/2209.01832v2)|null|
-|**2022-09-05**|**UDC-UNet: Under-Display Camera Image Restoration via U-Shape Dynamic Network**|Xina Liu et.al.|[2209.01809v1](http://arxiv.org/abs/2209.01809v1)|[link](https://github.com/j-fhu/udcunet)|
-|**2022-09-05**|**4D LUT: Learnable Context-Aware 4D Lookup Table for Image Enhancement**|Chengxu Liu et.al.|[2209.01749v1](http://arxiv.org/abs/2209.01749v1)|null|
-|**2022-09-05**|**A Multi-scale Video Denoising Algorithm for Raw Image**|Bin Ma et.al.|[2209.01740v1](http://arxiv.org/abs/2209.01740v1)|null|
