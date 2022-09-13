@@ -7,7 +7,7 @@
 |**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
 |**2022-09-12**|**TrackletMapper: Ground Surface Segmentation and Mapping from Traffic Participant Trajectories**|Jannik Zürn et.al.|[2209.05247v1](http://arxiv.org/abs/2209.05247v1)|null|
 |**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
-|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|null|
+|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
 |**2022-09-12**|**BON: An extended public domain dataset for human activity recognition**|Girmaw Abebe Tadesse et.al.|[2209.05077v1](http://arxiv.org/abs/2209.05077v1)|null|
 |**2022-09-12**|**mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar**|Anjun Chen et.al.|[2209.05070v1](http://arxiv.org/abs/2209.05070v1)|null|
 |**2022-09-12**|**MAPD type avalanche photodetectors**|K. Isayev et.al.|[2209.05057v1](http://arxiv.org/abs/2209.05057v1)|null|

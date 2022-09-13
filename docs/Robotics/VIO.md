@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-09-12**|**Observation of Turbulent Magnetohydrodynamic Cascade in the Jovian Magnetosheath**|N. Andrés et.al.|[2209.05386v1](http://arxiv.org/abs/2209.05386v1)|null|
 |**2022-09-12**|**Continuous Planning for Inertial-Aided Systems**|Mitchell Usayiwevu et.al.|[2209.05285v1](http://arxiv.org/abs/2209.05285v1)|null|
-|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|null|
+|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
 |**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
 |**2022-09-11**|**Geometric phase and its applications: topological phases, quantum walks and non-inertial quantum systems**|Vikash Mittal et.al.|[2209.04810v1](http://arxiv.org/abs/2209.04810v1)|null|
 |**2022-09-09**|**Investigation and mitigation of noise contributions in a compact heterodyne interferometer**|Yanqi Zhang et.al.|[2209.04451v1](http://arxiv.org/abs/2209.04451v1)|null|
