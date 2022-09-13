@@ -2,8 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-12**|**Observation of Turbulent Magnetohydrodynamic Cascade in the Jovian Magnetosheath**|N. Andrés et.al.|[2209.05386v1](http://arxiv.org/abs/2209.05386v1)|null|
+|**2022-09-12**|**Continuous Planning for Inertial-Aided Systems**|Mitchell Usayiwevu et.al.|[2209.05285v1](http://arxiv.org/abs/2209.05285v1)|null|
+|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|null|
+|**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
+|**2022-09-11**|**Geometric phase and its applications: topological phases, quantum walks and non-inertial quantum systems**|Vikash Mittal et.al.|[2209.04810v1](http://arxiv.org/abs/2209.04810v1)|null|
+|**2022-09-09**|**Investigation and mitigation of noise contributions in a compact heterodyne interferometer**|Yanqi Zhang et.al.|[2209.04451v1](http://arxiv.org/abs/2209.04451v1)|null|
 |**2022-09-09**|**Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Blade-based spreading approaches**|Ryan W. Penny et.al.|[2209.04320v1](http://arxiv.org/abs/2209.04320v1)|null|
 |**2022-09-09**|**Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Roller-based spreading approaches**|Ryan W. Penny et.al.|[2209.04303v1](http://arxiv.org/abs/2209.04303v1)|null|
+|**2022-09-08**|**Quasi-monolithic heterodyne laser interferometer for inertial sensing**|Yanqi Zhang et.al.|[2209.04446v1](http://arxiv.org/abs/2209.04446v1)|null|
 |**2022-09-08**|**A no-go theorem for absolute observed events without inequalities or modal logic**|Nick Ormrod et.al.|[2209.03940v1](http://arxiv.org/abs/2209.03940v1)|null|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
 |**2022-09-08**|**Conical-focusing: Mechanism for singular jetting from collapsing drop-impact craters**|Yuan Si Tian et.al.|[2209.03659v1](http://arxiv.org/abs/2209.03659v1)|null|
@@ -25,10 +32,3 @@
 |**2022-09-01**|**Mass-driven vortex collisions in flat superfluids**|Andrea Richaud et.al.|[2209.00493v1](http://arxiv.org/abs/2209.00493v1)|null|
 |**2022-09-01**|**Strategies for determining the cascade rate in MHD turbulence: isotropy, anisotropy, and spacecraft sampling**|Yanwen Wang et.al.|[2209.00208v2](http://arxiv.org/abs/2209.00208v2)|null|
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
-|**2022-08-31**|**Entanglement harvesting of accelerated detectors versus static ones in a thermal bath**|Zhihong Liu et.al.|[2208.14825v1](http://arxiv.org/abs/2208.14825v1)|null|
-|**2022-08-31**|**On induced modules of inertial-invariant support $τ$-tilting modules over blocks of finite groups**|Ryotaro Koshio et.al.|[2208.14680v2](http://arxiv.org/abs/2208.14680v2)|null|
-|**2022-08-30**|**A Unified Filter for Fusion of Multiple Inertial Measurement Units**|Yaakov Libero et.al.|[2208.14524v1](http://arxiv.org/abs/2208.14524v1)|null|
-|**2022-08-30**|**Internal rotation and inclinations of slowly pulsating B stars: Evidence of interior angular momentum transport**|May G. Pedersen et.al.|[2208.14497v1](http://arxiv.org/abs/2208.14497v1)|null|
-|**2022-08-30**|**Steady state correlations and induced trapping of an inertial AOUP particle**|N Arsha et.al.|[2208.14443v1](http://arxiv.org/abs/2208.14443v1)|null|
-|**2022-08-30**|**CUAHN-VIO: Content-and-Uncertainty-Aware Homography Network for Visual-Inertial Odometry**|Yingfu Xu et.al.|[2208.13935v1](http://arxiv.org/abs/2208.13935v1)|[link](https://github.com/tudelft/cuahn-vio)|
-|**2022-08-29**|**Benchmarking magnetized three-wave coupling for laser backscattering: Analytic solutions and kinetic simulations**|Yuan Shi et.al.|[2208.13832v1](http://arxiv.org/abs/2208.13832v1)|null|

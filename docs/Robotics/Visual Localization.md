@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-12**|**Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**|Jinwook Huh et.al.|[2209.05432v1](http://arxiv.org/abs/2209.05432v1)|null|
+|**2022-09-12**|**Self-organization phenomena in cold atmospheric pressure plasma slit jet**|Kateřina Polášková et.al.|[2209.05326v1](http://arxiv.org/abs/2209.05326v1)|null|
+|**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
+|**2022-09-12**|**TrackletMapper: Ground Surface Segmentation and Mapping from Traffic Participant Trajectories**|Jannik Zürn et.al.|[2209.05247v1](http://arxiv.org/abs/2209.05247v1)|null|
+|**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
+|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|null|
+|**2022-09-12**|**BON: An extended public domain dataset for human activity recognition**|Girmaw Abebe Tadesse et.al.|[2209.05077v1](http://arxiv.org/abs/2209.05077v1)|null|
+|**2022-09-12**|**mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar**|Anjun Chen et.al.|[2209.05070v1](http://arxiv.org/abs/2209.05070v1)|null|
+|**2022-09-12**|**MAPD type avalanche photodetectors**|K. Isayev et.al.|[2209.05057v1](http://arxiv.org/abs/2209.05057v1)|null|
+|**2022-09-12**|**Multi-modal Streaming 3D Object Detection**|Mazen Abdelfattah et.al.|[2209.04966v1](http://arxiv.org/abs/2209.04966v1)|null|
+|**2022-09-10**|**People detection and social distancing classification in smart cities for COVID-19 by using thermal images and deep learning algorithms**|Abdussalam Elhanashi et.al.|[2209.04704v1](http://arxiv.org/abs/2209.04704v1)|null|
+|**2022-09-10**|**Real-time event simulation with frame-based cameras**|Andreas Ziegler et.al.|[2209.04634v1](http://arxiv.org/abs/2209.04634v1)|null|
+|**2022-09-09**|**GOALS-JWST: NIRCam and MIRI Imaging of the Circumnuclear Starburst Ring in NGC 7469**|Thomas Bohn et.al.|[2209.04466v1](http://arxiv.org/abs/2209.04466v1)|null|
 |**2022-09-09**|**Directed energy deposition powder stream modeling using a Gaussian beam ray representation**|Alexander Martinez-Marchese et.al.|[2209.04398v1](http://arxiv.org/abs/2209.04398v1)|null|
 |**2022-09-09**|**EDeNN: Event Decay Neural Networks for low latency vision**|Celyn Walters et.al.|[2209.04362v1](http://arxiv.org/abs/2209.04362v1)|null|
 |**2022-09-09**|**An Indian Roads Dataset for Supported and Suspended Traffic Lights Detection**|Sarita Gautam et.al.|[2209.04203v1](http://arxiv.org/abs/2209.04203v1)|null|
@@ -19,16 +32,3 @@
 |**2022-09-07**|**BiFuse++: Self-supervised and Efficient Bi-projection Fusion for 360 Depth Estimation**|Fu-En Wang et.al.|[2209.02952v1](http://arxiv.org/abs/2209.02952v1)|[link](https://github.com/fuenwang/bifusev2)|
 |**2022-09-07**|**Improving Choral Music Separation through Expressive Synthesized Data from Sampled Instruments**|Ke Chen et.al.|[2209.02871v1](http://arxiv.org/abs/2209.02871v1)|[link](https://github.com/retrocirce/choral_music_separation)|
 |**2022-09-06**|**The JWST Resolved Stellar Populations Early Release Science Program I.: NIRCam Flux Calibration**|Martha L. Boyer et.al.|[2209.03348v1](http://arxiv.org/abs/2209.03348v1)|null|
-|**2022-09-06**|**Design and upgrade of the prototype Schwarzschild-Couder Telescope**|Leslie Taylor et.al.|[2209.02680v1](http://arxiv.org/abs/2209.02680v1)|null|
-|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v3](http://arxiv.org/abs/2209.02540v3)|null|
-|**2022-09-06**|**Surya Namaskar: real-time advanced yoga pose recognition and correction for smart healthcare**|Abhishek Sharma et.al.|[2209.02492v1](http://arxiv.org/abs/2209.02492v1)|null|
-|**2022-09-06**|**Threat Detection In Self-Driving Vehicles Using Computer Vision**|Umang Goenka et.al.|[2209.02438v1](http://arxiv.org/abs/2209.02438v1)|null|
-|**2022-09-06**|**Layer or Representation Space: What makes BERT-based Evaluation Metrics Robust?**|Doan Nam Long Vu et.al.|[2209.02317v2](http://arxiv.org/abs/2209.02317v2)|[link](https://github.com/long21wt/robust-bert-based-metrics)|
-|**2022-09-06**|**An Indoor Localization Dataset and Data Collection Framework with High Precision Position Annotation**|F. Serhan Daniş et.al.|[2209.02270v1](http://arxiv.org/abs/2209.02270v1)|null|
-|**2022-09-06**|**Towards Intelligent Millimeter and Terahertz Communication for 6G: Computer Vision-aided Beamforming**|Yongjun Ahn et.al.|[2209.02258v1](http://arxiv.org/abs/2209.02258v1)|null|
-|**2022-09-06**|**Spatio-Temporal Action Detection Under Large Motion**|Gurkirt Singh et.al.|[2209.02250v1](http://arxiv.org/abs/2209.02250v1)|null|
-|**2022-09-06**|**High Speed Rotation Estimation with Dynamic Vision Sensors**|Guangrong Zhao et.al.|[2209.02205v1](http://arxiv.org/abs/2209.02205v1)|null|
-|**2022-09-06**|**LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images**|Shansi Zhang et.al.|[2209.02197v1](http://arxiv.org/abs/2209.02197v1)|null|
-|**2022-09-05**|**A Deep Neural Network for Multiclass Bridge Element Parsing in Inspection Image Analysis**|Chenyu Zhang et.al.|[2209.02141v1](http://arxiv.org/abs/2209.02141v1)|null|
-|**2022-09-05**|**Pros and cons of gaussian filters versus step filters for light pollution monitoring**|Alejandro Sánchez de Miguel et.al.|[2209.02100v1](http://arxiv.org/abs/2209.02100v1)|null|
-|**2022-09-05**|**Fast geometric trim fitting using partial incremental sorting and accumulation**|Min Li et.al.|[2209.02034v1](http://arxiv.org/abs/2209.02034v1)|null|
