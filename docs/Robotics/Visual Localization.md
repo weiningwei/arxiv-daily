@@ -8,7 +8,7 @@
 |**2022-09-14**|**CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer**|Youngseok Kim et.al.|[2209.06535v1](http://arxiv.org/abs/2209.06535v1)|null|
 |**2022-09-14**|**TrADe Re-ID -- Live Person Re-Identification using Tracking and Anomaly Detection**|Luigy Machaca et.al.|[2209.06452v1](http://arxiv.org/abs/2209.06452v1)|null|
 |**2022-09-14**|**iSimLoc: Visual Global Localization for Previously Unseen Environments with Simulated Images**|Peng Yin et.al.|[2209.06376v1](http://arxiv.org/abs/2209.06376v1)|null|
-|**2022-09-14**|**DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction**|Kaichen Zhou et.al.|[2209.06351v1](http://arxiv.org/abs/2209.06351v1)|[link](https://github.com/gitkaichenzhou/devnet)|
+|**2022-09-14**|**DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction**|Kaichen Zhou et.al.|[2209.06351v2](http://arxiv.org/abs/2209.06351v2)|[link](https://github.com/gitkaichenzhou/devnet)|
 |**2022-09-13**|**Probing Photon Statistics in Adaptive Optics Images with SCExAO/MEC**|Sarah Steiger et.al.|[2209.06312v1](http://arxiv.org/abs/2209.06312v1)|null|
 |**2022-09-13**|**Ptychographic lens-less polarization microscopy**|Jeongsoo Kim et.al.|[2209.06305v1](http://arxiv.org/abs/2209.06305v1)|null|
 |**2022-09-13**|**Towards Efficient Architecture and Algorithms for Sensor Fusion**|Zhendong Wang et.al.|[2209.06272v1](http://arxiv.org/abs/2209.06272v1)|null|
