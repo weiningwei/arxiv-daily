@@ -2,9 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-15**|**Active Refrigerators Powered by Inertia**|Lukas Hecht et.al.|[2209.07227v1](http://arxiv.org/abs/2209.07227v1)|null|
 |**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
 |**2022-09-14**|**Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**|Vincenzo Polizzi et.al.|[2209.06588v1](http://arxiv.org/abs/2209.06588v1)|null|
 |**2022-09-14**|**INV-Flow2PoseNet: Light-Resistant Rigid Object Pose from Optical Flow of RGB-D Images using Images, Normals and Vertices**|Torben Fetzer et.al.|[2209.06562v1](http://arxiv.org/abs/2209.06562v1)|null|
+|**2022-09-13**|**An electromagnetic way to derive basic relativistic transformations**|Congjun Wu et.al.|[2209.07466v1](http://arxiv.org/abs/2209.07466v1)|null|
 |**2022-09-13**|**Stochastic Modeling of Tag Installation Error for Robust On-Manifold Tag-Based Visual-Inertial Localization**|Navid Kayhani et.al.|[2209.06050v1](http://arxiv.org/abs/2209.06050v1)|null|
 |**2022-09-13**|**R-WhONet: Recalibrated Wheel Odometry Neural Network for Vehicular Positioning using Transfer Learning**|Uche Onyekpe et.al.|[2209.05877v1](http://arxiv.org/abs/2209.05877v1)|null|
 |**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
@@ -30,5 +32,3 @@
 |**2022-09-07**|**Optomechanical accelerometers for geodesy**|Adam Hines et.al.|[2209.03273v1](http://arxiv.org/abs/2209.03273v1)|null|
 |**2022-09-07**|**Inertial torque on a squirmer**|F. Candelier et.al.|[2209.03129v1](http://arxiv.org/abs/2209.03129v1)|null|
 |**2022-09-07**|**Convergence analysis of an implicit finite difference method for the inertial Landau-Lifshitz-Gilbert equation**|Jingrun Chen et.al.|[2209.02914v2](http://arxiv.org/abs/2209.02914v2)|null|
-|**2022-09-06**|**Magnetic field spectral evolution in the inner heliosphere**|Nikos Sioulas et.al.|[2209.02451v1](http://arxiv.org/abs/2209.02451v1)|null|
-|**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|

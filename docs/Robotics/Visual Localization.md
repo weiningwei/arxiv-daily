@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-15**|**A Robotic Visual Grasping Design: Rethinking Convolution Neural Network with High-Resolutions**|Zhangli Zhou et.al.|[2209.07459v1](http://arxiv.org/abs/2209.07459v1)|null|
+|**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|[link](https://github.com/ais-bonn/extrcamcalib_personkeypoints)|
+|**2022-09-15**|**SOXS AIT: a paradigm for system engineering of a medium class telescope instrument**|Riccardo Claudi et.al.|[2209.07209v1](http://arxiv.org/abs/2209.07209v1)|null|
+|**2022-09-15**|**From Assembly to the Complete Integration and Verification of the SOXS Common Path**|Kalyan Kumar Radhakrishnan Santhakumari et.al.|[2209.07198v1](http://arxiv.org/abs/2209.07198v1)|null|
+|**2022-09-15**|**The Son-Of-X-shooter (SOXS) Data-Reduction Pipeline**|David R. Young et.al.|[2209.07194v1](http://arxiv.org/abs/2209.07194v1)|null|
+|**2022-09-15**|**SOXS mechanical integration and verification in Italy**|M. Aliverti et.al.|[2209.07182v1](http://arxiv.org/abs/2209.07182v1)|null|
+|**2022-09-15**|**Laboratory test of the VIS detector system of SOXS for the ESO-NTT telescope**|Rosario Cosentino et.al.|[2209.07155v1](http://arxiv.org/abs/2209.07155v1)|null|
+|**2022-09-15**|**LAVOLUTION: Measurement of Non-target Structural Displacement Calibrated by Structured Light**|Jongbin Won et.al.|[2209.07115v1](http://arxiv.org/abs/2209.07115v1)|null|
+|**2022-09-15**|**MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report**|Qingyu Yang et.al.|[2209.07060v1](http://arxiv.org/abs/2209.07060v1)|null|
+|**2022-09-15**|**MIPI 2022 Challenge on RGB+ToF Depth Completion: Dataset and Report**|Wenxiu Sun et.al.|[2209.07057v1](http://arxiv.org/abs/2209.07057v1)|null|
+|**2022-09-15**|**MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results**|Ruicheng Feng et.al.|[2209.07052v1](http://arxiv.org/abs/2209.07052v1)|null|
+|**2022-09-15**|**Efficient Perception, Planning, and Control Algorithms for Vision-Based Automated Vehicles**|Der-Hau Lee et.al.|[2209.07042v1](http://arxiv.org/abs/2209.07042v1)|null|
+|**2022-09-15**|**A Temporal Densely Connected Recurrent Network for Event-based Human Pose Estimation**|Zhanpeng Shao et.al.|[2209.07034v1](http://arxiv.org/abs/2209.07034v1)|null|
+|**2022-09-14**|**A novel illumination condition varied image dataset-Food Vision Dataset (FVD) for fair and reliable consumer acceptability predictions from food**|Swarna Sethu et.al.|[2209.06967v1](http://arxiv.org/abs/2209.06967v1)|null|
 |**2022-09-14**|**Segment-level thermal sensitivity analysis for exo-Earth imaging**|Ananya Sahoo et.al.|[2209.06762v1](http://arxiv.org/abs/2209.06762v1)|null|
 |**2022-09-14**|**Evaluating a GAN for enhancing camera simulation for robotics**|Asher Elmquist et.al.|[2209.06710v1](http://arxiv.org/abs/2209.06710v1)|null|
 |**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
@@ -18,17 +32,3 @@
 |**2022-09-13**|**Acoustic-Linguistic Features for Modeling Neurological Task Score in Alzheimer's**|Saurav K. Aryal et.al.|[2209.06085v1](http://arxiv.org/abs/2209.06085v1)|null|
 |**2022-09-13**|**Bimanual crop manipulation for human-inspired robotic harvesting**|Sotiris Stavridis et.al.|[2209.06074v1](http://arxiv.org/abs/2209.06074v1)|null|
 |**2022-09-13**|**LAMSkyCam: A Low-cost and Miniature Ground-based Sky Camera**|Mayank Jain et.al.|[2209.06051v1](http://arxiv.org/abs/2209.06051v1)|[link](https://github.com/jain15mayank/lamskycam)|
-|**2022-09-13**|**M^2-3DLaneNet: Multi-Modal 3D Lane Detection**|Yueru Luo et.al.|[2209.05996v1](http://arxiv.org/abs/2209.05996v1)|null|
-|**2022-09-13**|**A Distributed Acoustic Sensor System for Intelligent Transportation using Deep Learning**|Chia-Yen Chiang et.al.|[2209.05978v1](http://arxiv.org/abs/2209.05978v1)|null|
-|**2022-09-13**|**Coronagraphy for DiRect Imaging of Exoplanets (CIDRE) testbed 1: concept, optical set up, and experimental results of adaptive amplitude apodization**|Lucie Leboulleux et.al.|[2209.05862v1](http://arxiv.org/abs/2209.05862v1)|null|
-|**2022-09-13**|**Computer vision system to count crustacean larvae**|Chen Rothschild et.al.|[2209.05834v1](http://arxiv.org/abs/2209.05834v1)|null|
-|**2022-09-13**|**CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with Bias Elimination**|Guangyang Zeng et.al.|[2209.05824v1](http://arxiv.org/abs/2209.05824v1)|null|
-|**2022-09-13**|**A Many-ported and Shared Memory Architecture for High-Performance ADAS SoCs**|Hao Luan et.al.|[2209.05731v1](http://arxiv.org/abs/2209.05731v1)|null|
-|**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
-|**2022-09-12**|**BFS 10: A nascent bipolar H II region in a filamentary molecular cloud**|Nicholas Larose et.al.|[2209.05628v1](http://arxiv.org/abs/2209.05628v1)|null|
-|**2022-09-12**|**Signal readout for Transition-Edge Sensor X-ray imaging spectrometers**|H. Akamatsu et.al.|[2209.05621v1](http://arxiv.org/abs/2209.05621v1)|null|
-|**2022-09-12**|**Driving Safety Prediction and Safe Route Mapping Using In-vehicle and Roadside Data**|Yufei Huang et.al.|[2209.05604v1](http://arxiv.org/abs/2209.05604v1)|null|
-|**2022-09-12**|**Spin coherence mapping of NV centers in diamond**|Lucas Nunes Sales de Andrade et.al.|[2209.05577v1](http://arxiv.org/abs/2209.05577v1)|null|
-|**2022-09-12**|**Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**|Jinwook Huh et.al.|[2209.05432v1](http://arxiv.org/abs/2209.05432v1)|null|
-|**2022-09-12**|**Self-organization phenomena in cold atmospheric pressure plasma slit jet**|Kateřina Polášková et.al.|[2209.05326v1](http://arxiv.org/abs/2209.05326v1)|null|
-|**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
