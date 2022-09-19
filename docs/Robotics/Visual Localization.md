@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-15**|**A Robotic Visual Grasping Design: Rethinking Convolution Neural Network with High-Resolutions**|Zhangli Zhou et.al.|[2209.07459v1](http://arxiv.org/abs/2209.07459v1)|null|
+|**2022-09-15**|**A Robotic Visual Grasping Design: Rethinking Convolution Neural Network with High-Resolutions**|Zhangli Zhou et.al.|[2209.07459v2](http://arxiv.org/abs/2209.07459v2)|null|
 |**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|[link](https://github.com/ais-bonn/extrcamcalib_personkeypoints)|
 |**2022-09-15**|**SOXS AIT: a paradigm for system engineering of a medium class telescope instrument**|Riccardo Claudi et.al.|[2209.07209v1](http://arxiv.org/abs/2209.07209v1)|null|
 |**2022-09-15**|**From Assembly to the Complete Integration and Verification of the SOXS Common Path**|Kalyan Kumar Radhakrishnan Santhakumari et.al.|[2209.07198v1](http://arxiv.org/abs/2209.07198v1)|null|
