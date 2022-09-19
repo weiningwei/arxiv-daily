@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
+|**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
+|**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
+|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
+|**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|null|
+|**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|null|
 |**2022-09-15**|**Active Refrigerators Powered by Inertia**|Lukas Hecht et.al.|[2209.07227v1](http://arxiv.org/abs/2209.07227v1)|null|
 |**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
 |**2022-09-14**|**Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**|Vincenzo Polizzi et.al.|[2209.06588v1](http://arxiv.org/abs/2209.06588v1)|null|
@@ -26,9 +32,3 @@
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
 |**2022-09-08**|**Conical-focusing: Mechanism for singular jetting from collapsing drop-impact craters**|Yuan Si Tian et.al.|[2209.03659v1](http://arxiv.org/abs/2209.03659v1)|null|
 |**2022-09-08**|**Non-cosmological, Non-Doppler Relativistic Frequency Shift over Astronomical Distances**|Germano D'Abramo et.al.|[2209.06127v1](http://arxiv.org/abs/2209.06127v1)|null|
-|**2022-09-08**|**Constructive Equivariant Observer Design for Inertial Velocity-Aided Attitude**|Pieter van Goor et.al.|[2209.03564v1](http://arxiv.org/abs/2209.03564v1)|null|
-|**2022-09-07**|**Fiber-based two-wavelength heterodyne laser interferometer**|Yanqi Zhang et.al.|[2209.03449v1](http://arxiv.org/abs/2209.03449v1)|null|
-|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|[link](https://github.com/utiasasrl/steam_icp)|
-|**2022-09-07**|**Optomechanical accelerometers for geodesy**|Adam Hines et.al.|[2209.03273v1](http://arxiv.org/abs/2209.03273v1)|null|
-|**2022-09-07**|**Inertial torque on a squirmer**|F. Candelier et.al.|[2209.03129v1](http://arxiv.org/abs/2209.03129v1)|null|
-|**2022-09-07**|**Convergence analysis of an implicit finite difference method for the inertial Landau-Lifshitz-Gilbert equation**|Jingrun Chen et.al.|[2209.02914v2](http://arxiv.org/abs/2209.02914v2)|null|
