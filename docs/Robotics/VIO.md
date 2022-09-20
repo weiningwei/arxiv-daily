@@ -2,6 +2,18 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
+|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
+|**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|null|
+|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
+|**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|null|
+|**2022-09-18**|**Wave Turbulence in Inertial Electron Magnetohydrodynamics**|Vincent David et.al.|[2209.08577v1](http://arxiv.org/abs/2209.08577v1)|null|
+|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
+|**2022-09-18**|**EMA-VIO: Deep Visual-Inertial Odometry with External Memory Attention**|Zheming Tu et.al.|[2209.08490v1](http://arxiv.org/abs/2209.08490v1)|null|
+|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|null|
+|**2022-09-17**|**Six-DOF Spacecraft Dynamics Simulator For Testing Translation and Attitude Control**|Farhad Aghili et.al.|[2209.08375v1](http://arxiv.org/abs/2209.08375v1)|null|
+|**2022-09-17**|**Measurement of Stimulated Raman Side-Scattering Predominance and Energetic Importance in the Compression Stage of the Double-Cone Ignition Approach to Inertial Confinement Fusion**|Kevin Glize et.al.|[2209.08251v1](http://arxiv.org/abs/2209.08251v1)|null|
+|**2022-09-16**|**Three-dimensional non-kinematic simulation of post-emergence evolution of bipolar magnetic regions and Babcock-Leighton dynamo of the Sun**|Yuto Bekki et.al.|[2209.08178v1](http://arxiv.org/abs/2209.08178v1)|null|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 |**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
 |**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
@@ -20,15 +32,3 @@
 |**2022-09-12**|**Proprioceptive State Estimation of Legged Robots with Kinematic Chain Modeling**|Varun Agrawal et.al.|[2209.05644v1](http://arxiv.org/abs/2209.05644v1)|null|
 |**2022-09-12**|**Observation of Turbulent Magnetohydrodynamic Cascade in the Jovian Magnetosheath**|N. Andrés et.al.|[2209.05386v1](http://arxiv.org/abs/2209.05386v1)|null|
 |**2022-09-12**|**Continuous Planning for Inertial-Aided Systems**|Mitchell Usayiwevu et.al.|[2209.05285v1](http://arxiv.org/abs/2209.05285v1)|null|
-|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
-|**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
-|**2022-09-11**|**Geometric phase and its applications: topological phases, quantum walks and non-inertial quantum systems**|Vikash Mittal et.al.|[2209.04810v1](http://arxiv.org/abs/2209.04810v1)|null|
-|**2022-09-11**|**Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model**|Kyle Retan et.al.|[2209.05956v1](http://arxiv.org/abs/2209.05956v1)|null|
-|**2022-09-09**|**Investigation and mitigation of noise contributions in a compact heterodyne interferometer**|Yanqi Zhang et.al.|[2209.04451v1](http://arxiv.org/abs/2209.04451v1)|null|
-|**2022-09-09**|**Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Blade-based spreading approaches**|Ryan W. Penny et.al.|[2209.04320v1](http://arxiv.org/abs/2209.04320v1)|null|
-|**2022-09-09**|**Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Roller-based spreading approaches**|Ryan W. Penny et.al.|[2209.04303v1](http://arxiv.org/abs/2209.04303v1)|null|
-|**2022-09-08**|**Quasi-monolithic heterodyne laser interferometer for inertial sensing**|Yanqi Zhang et.al.|[2209.04446v1](http://arxiv.org/abs/2209.04446v1)|null|
-|**2022-09-08**|**A no-go theorem for absolute observed events without inequalities or modal logic**|Nick Ormrod et.al.|[2209.03940v1](http://arxiv.org/abs/2209.03940v1)|null|
-|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
-|**2022-09-08**|**Conical-focusing: Mechanism for singular jetting from collapsing drop-impact craters**|Yuan Si Tian et.al.|[2209.03659v1](http://arxiv.org/abs/2209.03659v1)|null|
-|**2022-09-08**|**Non-cosmological, Non-Doppler Relativistic Frequency Shift over Astronomical Distances**|Germano D'Abramo et.al.|[2209.06127v1](http://arxiv.org/abs/2209.06127v1)|null|
