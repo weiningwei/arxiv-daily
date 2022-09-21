@@ -8,9 +8,9 @@
 |**2022-09-20**|**Self-supervised 3D Object Detection from Monocular Pseudo-LiDAR**|Curie Kim et.al.|[2209.09486v1](http://arxiv.org/abs/2209.09486v1)|null|
 |**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran et.al.|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 |**2022-09-19**|**E-VFIA : Event-Based Video Frame Interpolation with Attention**|Onur Selim Kılıç et.al.|[2209.09359v1](http://arxiv.org/abs/2209.09359v1)|null|
-|**2022-09-19**|**Visible-Infrared Person Re-Identification Using Privileged Intermediate Information**|Mahdi Alehdaghi et.al.|[2209.09348v1](http://arxiv.org/abs/2209.09348v1)|null|
+|**2022-09-19**|**Visible-Infrared Person Re-Identification Using Privileged Intermediate Information**|Mahdi Alehdaghi et.al.|[2209.09348v1](http://arxiv.org/abs/2209.09348v1)|[link](https://github.com/alehdaghi/cross-modal-re-id-via-lupi)|
 |**2022-09-19**|**Collaborative Human-Robot Exploration via Implicit Coordination**|Yves Georgy Daoud et.al.|[2209.09294v1](http://arxiv.org/abs/2209.09294v1)|null|
-|**2022-09-19**|**SOCRATES: A Stereo Camera Trap for Monitoring of Biodiversity**|Timm Haucke et.al.|[2209.09070v1](http://arxiv.org/abs/2209.09070v1)|null|
+|**2022-09-19**|**SOCRATES: A Stereo Camera Trap for Monitoring of Biodiversity**|Timm Haucke et.al.|[2209.09070v1](http://arxiv.org/abs/2209.09070v1)|[link](https://github.com/timmh/socrates)|
 |**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|null|
 |**2022-09-19**|**Latent Plans for Task-Agnostic Offline Reinforcement Learning**|Erick Rosete-Beas et.al.|[2209.08959v1](http://arxiv.org/abs/2209.08959v1)|null|
 |**2022-09-19**|**HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking**|Haoxian Zhang et.al.|[2209.08924v1](http://arxiv.org/abs/2209.08924v1)|null|
