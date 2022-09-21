@@ -6,7 +6,7 @@
 |**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|null|
 |**2022-09-19**|**Latent Plans for Task-Agnostic Offline Reinforcement Learning**|Erick Rosete-Beas et.al.|[2209.08959v1](http://arxiv.org/abs/2209.08959v1)|null|
 |**2022-09-19**|**HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking**|Haoxian Zhang et.al.|[2209.08924v1](http://arxiv.org/abs/2209.08924v1)|null|
-|**2022-09-19**|**Zero-shot Active Visual Search (ZAVIS): Intelligent Object Search for Robotic Assistants**|Jeongeun Park et.al.|[2209.08803v1](http://arxiv.org/abs/2209.08803v1)|null|
+|**2022-09-19**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
 |**2022-09-19**|**MECCANO: A Multimodal Egocentric Dataset for Humans Behavior Understanding in the Industrial-like Domain**|Francesco Ragusa et.al.|[2209.08691v1](http://arxiv.org/abs/2209.08691v1)|null|
 |**2022-09-19**|**A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**|Gerry Chen et.al.|[2209.08690v1](http://arxiv.org/abs/2209.08690v1)|null|
