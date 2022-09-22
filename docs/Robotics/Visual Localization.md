@@ -30,5 +30,5 @@
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|[link](https://github.com/geniussh/dytanvo)|
 |**2022-09-17**|**Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields**|Soomin Lee et.al.|[2209.08409v1](http://arxiv.org/abs/2209.08409v1)|null|
 |**2022-09-17**|**Robust Reinforcement Learning Algorithm for Vision-based Ship Landing of UAVs**|Vishnu Saj et.al.|[2209.08381v1](http://arxiv.org/abs/2209.08381v1)|null|
-|**2022-09-17**|**Shape Completion with Points in the Shadow**|Bowen Zhang et.al.|[2209.08345v1](http://arxiv.org/abs/2209.08345v1)|null|
+|**2022-09-17**|**Shape Completion with Points in the Shadow**|Bowen Zhang et.al.|[2209.08345v2](http://arxiv.org/abs/2209.08345v2)|null|
 |**2022-09-17**|**Data Efficient Visual Place Recognition Using Extremely JPEG-Compressed Images**|Mihnea-Alexandru Tomita et.al.|[2209.08343v1](http://arxiv.org/abs/2209.08343v1)|null|
