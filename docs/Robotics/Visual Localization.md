@@ -2,14 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|null|
+|**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|[link](https://github.com/smplbody/hmr-benchmarks)|
 |**2022-09-21**|**Recurrent Super-Resolution Method for Enhancing Low Quality Thermal Facial Data**|David O'Callaghan et.al.|[2209.10489v1](http://arxiv.org/abs/2209.10489v1)|null|
 |**2022-09-21**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v1](http://arxiv.org/abs/2209.10385v1)|null|
-|**2022-09-21**|**BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo**|Yinhao Li et.al.|[2209.10248v1](http://arxiv.org/abs/2209.10248v1)|null|
+|**2022-09-21**|**BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo**|Yinhao Li et.al.|[2209.10248v1](http://arxiv.org/abs/2209.10248v1)|[link](https://github.com/megvii-basedetection/bevstereo)|
 |**2022-09-21**|**Intelligent wayfinding vehicle design based on visual recognition**|Zhanyu Guo et.al.|[2209.10229v1](http://arxiv.org/abs/2209.10229v1)|null|
 |**2022-09-21**|**D-InLoc++: Indoor Localization in Dynamic Environments**|Martina Dubenova et.al.|[2209.10185v1](http://arxiv.org/abs/2209.10185v1)|null|
 |**2022-09-21**|**The PAU Survey & Euclid: Improving broad-band photometric redshifts with multi-task learning**|L. Cabayol et.al.|[2209.10161v1](http://arxiv.org/abs/2209.10161v1)|null|
-|**2022-09-20**|**MARIO: Modular and Extensible Architecture for Computing Visual Statistics in RoboCup SPL**|Domenico D. Bloisi et.al.|[2209.09987v1](http://arxiv.org/abs/2209.09987v1)|null|
+|**2022-09-20**|**MARIO: Modular and Extensible Architecture for Computing Visual Statistics in RoboCup SPL**|Domenico D. Bloisi et.al.|[2209.09987v1](http://arxiv.org/abs/2209.09987v1)|[link](https://github.com/unibas-wolves/mario)|
 |**2022-09-20**|**The globular clusters and star formation history of the isolated, quiescent ultra-diffuse galaxy DGSAT I**|Steven R. Janssens et.al.|[2209.09910v1](http://arxiv.org/abs/2209.09910v1)|null|
 |**2022-09-20**|**Low latency communication over commercially available LTE and remote driving**|Andrey Belogolovy et.al.|[2209.09794v1](http://arxiv.org/abs/2209.09794v1)|null|
 |**2022-09-20**|**Semi-automatic Data Annotation System for Multi-Target Multi-Camera Vehicle Tracking**|Haohong Liao et.al.|[2209.09606v1](http://arxiv.org/abs/2209.09606v1)|null|
