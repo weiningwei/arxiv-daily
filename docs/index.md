@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-22 21:06:41 Asia/Shanghai
+ Automated deployment @ 2022-09-23 08:52:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -38,40 +38,6 @@
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**ASAP: Adaptive Scheme for Asynchronous Processing of Event-based Vision Algorithms**|Raul Tapia et.al.|[2209.08597v1](http://arxiv.org/abs/2209.08597v1)|null|
 |**2022-09-18**|**Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution**|Bangyan Liao et.al.|[2209.08503v1](http://arxiv.org/abs/2209.08503v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
-|**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
-|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
-|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
-|**2022-09-20**|**Spectroscopic detection of Altair's non-radial pulsations**|M. Rieutord et.al.|[2209.09559v1](http://arxiv.org/abs/2209.09559v1)|null|
-|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
-|**2022-09-19**|**Guarding a Non-Maneuverable Translating Line with an Attached Defender**|Goutam Das et.al.|[2209.09318v1](http://arxiv.org/abs/2209.09318v1)|null|
-|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
-|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
-|**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|[link](https://github.com/huazai665/lgc-net)|
-|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
-|**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
-|**2022-09-18**|**Wave Turbulence in Inertial Electron Magnetohydrodynamics**|Vincent David et.al.|[2209.08577v1](http://arxiv.org/abs/2209.08577v1)|null|
-|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
-|**2022-09-18**|**EMA-VIO: Deep Visual-Inertial Odometry with External Memory Attention**|Zheming Tu et.al.|[2209.08490v1](http://arxiv.org/abs/2209.08490v1)|null|
-|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|[link](https://github.com/geniussh/dytanvo)|
-|**2022-09-17**|**Six-DOF Spacecraft Dynamics Simulator For Testing Translation and Attitude Control**|Farhad Aghili et.al.|[2209.08375v1](http://arxiv.org/abs/2209.08375v1)|null|
-|**2022-09-17**|**Measurement of Stimulated Raman Side-Scattering Predominance and Energetic Importance in the Compression Stage of the Double-Cone Ignition Approach to Inertial Confinement Fusion**|Kevin Glize et.al.|[2209.08251v1](http://arxiv.org/abs/2209.08251v1)|null|
-|**2022-09-16**|**Three-dimensional non-kinematic simulation of post-emergence evolution of bipolar magnetic regions and Babcock-Leighton dynamo of the Sun**|Yuto Bekki et.al.|[2209.08178v1](http://arxiv.org/abs/2209.08178v1)|null|
-|**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
-|**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
-|**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
-|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
-|**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|[link](https://github.com/opencalib/lidar2ins)|
-|**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|[link](https://github.com/shuoyangrobotics/cerberus)|
-|**2022-09-15**|**Active Refrigerators Powered by Inertia**|Lukas Hecht et.al.|[2209.07227v1](http://arxiv.org/abs/2209.07227v1)|null|
-|**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
-|**2022-09-14**|**Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**|Vincenzo Polizzi et.al.|[2209.06588v1](http://arxiv.org/abs/2209.06588v1)|null|
-|**2022-09-14**|**INV-Flow2PoseNet: Light-Resistant Rigid Object Pose from Optical Flow of RGB-D Images using Images, Normals and Vertices**|Torben Fetzer et.al.|[2209.06562v1](http://arxiv.org/abs/2209.06562v1)|null|
-|**2022-09-13**|**An electromagnetic way to derive basic relativistic transformations**|Congjun Wu et.al.|[2209.07466v1](http://arxiv.org/abs/2209.07466v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -140,3 +106,37 @@
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
 |**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin et.al.|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
+|**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-20**|**Spectroscopic detection of Altair's non-radial pulsations**|M. Rieutord et.al.|[2209.09559v1](http://arxiv.org/abs/2209.09559v1)|null|
+|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
+|**2022-09-19**|**Guarding a Non-Maneuverable Translating Line with an Attached Defender**|Goutam Das et.al.|[2209.09318v1](http://arxiv.org/abs/2209.09318v1)|null|
+|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
+|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
+|**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|[link](https://github.com/huazai665/lgc-net)|
+|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
+|**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
+|**2022-09-18**|**Wave Turbulence in Inertial Electron Magnetohydrodynamics**|Vincent David et.al.|[2209.08577v1](http://arxiv.org/abs/2209.08577v1)|null|
+|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
+|**2022-09-18**|**EMA-VIO: Deep Visual-Inertial Odometry with External Memory Attention**|Zheming Tu et.al.|[2209.08490v1](http://arxiv.org/abs/2209.08490v1)|null|
+|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|[link](https://github.com/geniussh/dytanvo)|
+|**2022-09-17**|**Six-DOF Spacecraft Dynamics Simulator For Testing Translation and Attitude Control**|Farhad Aghili et.al.|[2209.08375v1](http://arxiv.org/abs/2209.08375v1)|null|
+|**2022-09-17**|**Measurement of Stimulated Raman Side-Scattering Predominance and Energetic Importance in the Compression Stage of the Double-Cone Ignition Approach to Inertial Confinement Fusion**|Kevin Glize et.al.|[2209.08251v1](http://arxiv.org/abs/2209.08251v1)|null|
+|**2022-09-16**|**Three-dimensional non-kinematic simulation of post-emergence evolution of bipolar magnetic regions and Babcock-Leighton dynamo of the Sun**|Yuto Bekki et.al.|[2209.08178v1](http://arxiv.org/abs/2209.08178v1)|null|
+|**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
+|**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
+|**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
+|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
+|**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|[link](https://github.com/opencalib/lidar2ins)|
+|**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|[link](https://github.com/shuoyangrobotics/cerberus)|
+|**2022-09-15**|**Active Refrigerators Powered by Inertia**|Lukas Hecht et.al.|[2209.07227v1](http://arxiv.org/abs/2209.07227v1)|null|
+|**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
+|**2022-09-14**|**Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**|Vincenzo Polizzi et.al.|[2209.06588v1](http://arxiv.org/abs/2209.06588v1)|null|
+|**2022-09-14**|**INV-Flow2PoseNet: Light-Resistant Rigid Object Pose from Optical Flow of RGB-D Images using Images, Normals and Vertices**|Torben Fetzer et.al.|[2209.06562v1](http://arxiv.org/abs/2209.06562v1)|null|
+|**2022-09-13**|**An electromagnetic way to derive basic relativistic transformations**|Congjun Wu et.al.|[2209.07466v1](http://arxiv.org/abs/2209.07466v1)|null|
