@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**|Bryan Habas et.al.|[2209.11043v1](http://arxiv.org/abs/2209.11043v1)|null|
+|**2022-09-22**|**Turbulence observations using moored temperature sensors in weakly stratified deep West-Mediterranean waters**|Hans van Haren et.al.|[2209.10949v1](http://arxiv.org/abs/2209.10949v1)|null|
+|**2022-09-22**|**Optomechanical cooling and inertial sensing at low frequencies**|Yanqi Zhang et.al.|[2209.10746v1](http://arxiv.org/abs/2209.10746v1)|null|
+|**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
+|**2022-09-21**|**Planet-star interactions with precise transit timing. III. Entering the regime of dynamical tides**|G. Maciejewski et.al.|[2209.10597v1](http://arxiv.org/abs/2209.10597v1)|null|
 |**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
 |**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
@@ -27,8 +32,3 @@
 |**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
 |**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|[link](https://github.com/opencalib/lidar2ins)|
 |**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|[link](https://github.com/shuoyangrobotics/cerberus)|
-|**2022-09-15**|**Active Refrigerators Powered by Inertia**|Lukas Hecht et.al.|[2209.07227v1](http://arxiv.org/abs/2209.07227v1)|null|
-|**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
-|**2022-09-14**|**Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**|Vincenzo Polizzi et.al.|[2209.06588v1](http://arxiv.org/abs/2209.06588v1)|null|
-|**2022-09-14**|**INV-Flow2PoseNet: Light-Resistant Rigid Object Pose from Optical Flow of RGB-D Images using Images, Normals and Vertices**|Torben Fetzer et.al.|[2209.06562v1](http://arxiv.org/abs/2209.06562v1)|null|
-|**2022-09-13**|**An electromagnetic way to derive basic relativistic transformations**|Congjun Wu et.al.|[2209.07466v1](http://arxiv.org/abs/2209.07466v1)|null|

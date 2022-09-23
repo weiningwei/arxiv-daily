@@ -2,9 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**|J. Borovicka et.al.|[2209.11186v1](http://arxiv.org/abs/2209.11186v1)|null|
+|**2022-09-22**|**Blockage Prediction for Mobile UE in RIS-assisted Wireless Networks: A Deep Learning Approach**|Shakil Ahmed et.al.|[2209.11088v1](http://arxiv.org/abs/2209.11088v1)|null|
+|**2022-09-22**|**Google Coral-based edge computing person reidentification using human parsing combined with analytical method**|Nikita Gabdullin et.al.|[2209.11024v1](http://arxiv.org/abs/2209.11024v1)|null|
+|**2022-09-22**|**HyperGal: hyperspectral scene modeling for supernova typing with the Integral Field Spectrograph SEDmachine**|J. Lezmy et.al.|[2209.10882v1](http://arxiv.org/abs/2209.10882v1)|null|
+|**2022-09-22**|**FusionRCNN: LiDAR-Camera Fusion for Two-stage 3D Object Detection**|Xinli Xu et.al.|[2209.10733v1](http://arxiv.org/abs/2209.10733v1)|null|
+|**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
 |**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|[link](https://github.com/smplbody/hmr-benchmarks)|
 |**2022-09-21**|**Recurrent Super-Resolution Method for Enhancing Low Quality Thermal Facial Data**|David O'Callaghan et.al.|[2209.10489v1](http://arxiv.org/abs/2209.10489v1)|null|
 |**2022-09-21**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v1](http://arxiv.org/abs/2209.10385v1)|null|
+|**2022-09-21**|**Deep Learning on Home Drone: Searching for the Optimal Architecture**|Alaa Maalouf et.al.|[2209.11064v1](http://arxiv.org/abs/2209.11064v1)|null|
 |**2022-09-21**|**BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo**|Yinhao Li et.al.|[2209.10248v1](http://arxiv.org/abs/2209.10248v1)|[link](https://github.com/megvii-basedetection/bevstereo)|
 |**2022-09-21**|**Intelligent wayfinding vehicle design based on visual recognition**|Zhanyu Guo et.al.|[2209.10229v1](http://arxiv.org/abs/2209.10229v1)|null|
 |**2022-09-21**|**D-InLoc++: Indoor Localization in Dynamic Environments**|Martina Dubenova et.al.|[2209.10185v1](http://arxiv.org/abs/2209.10185v1)|null|
@@ -25,10 +32,3 @@
 |**2022-09-19**|**HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking**|Haoxian Zhang et.al.|[2209.08924v1](http://arxiv.org/abs/2209.08924v1)|null|
 |**2022-09-19**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
-|**2022-09-19**|**MECCANO: A Multimodal Egocentric Dataset for Humans Behavior Understanding in the Industrial-like Domain**|Francesco Ragusa et.al.|[2209.08691v1](http://arxiv.org/abs/2209.08691v1)|null|
-|**2022-09-19**|**A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**|Gerry Chen et.al.|[2209.08690v1](http://arxiv.org/abs/2209.08690v1)|null|
-|**2022-09-19**|**Uncertainty Aware Multitask Pyramid Vision Transformer For UAV-Based Object Re-Identification**|Syeda Nyma Ferdous et.al.|[2209.08686v1](http://arxiv.org/abs/2209.08686v1)|null|
-|**2022-09-18**|**Energy Efficient Automatic Streetlight Controlling System using Semantic Segmentation**|Md Sakib Ullah Sourav et.al.|[2209.08633v1](http://arxiv.org/abs/2209.08633v1)|null|
-|**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
-|**2022-09-18**|**ASAP: Adaptive Scheme for Asynchronous Processing of Event-based Vision Algorithms**|Raul Tapia et.al.|[2209.08597v1](http://arxiv.org/abs/2209.08597v1)|null|
-|**2022-09-18**|**Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution**|Bangyan Liao et.al.|[2209.08503v1](http://arxiv.org/abs/2209.08503v1)|null|
