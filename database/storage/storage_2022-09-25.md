@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-25 08:43:18 Asia/Shanghai
+ Automated deployment @ 2022-09-25 11:24:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,39 +39,39 @@
 |**2022-09-19**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
 
-### SLAM
+### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
+|**2022-09-22**|**Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**|Bryan Habas et.al.|[2209.11043v1](http://arxiv.org/abs/2209.11043v1)|null|
+|**2022-09-22**|**Turbulence observations using moored temperature sensors in weakly stratified deep West-Mediterranean waters**|Hans van Haren et.al.|[2209.10949v1](http://arxiv.org/abs/2209.10949v1)|null|
+|**2022-09-22**|**Optomechanical cooling and inertial sensing at low frequencies**|Yanqi Zhang et.al.|[2209.10746v1](http://arxiv.org/abs/2209.10746v1)|null|
 |**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
-|**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
-|**2022-09-20**|**Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**|Sabir Hossain et.al.|[2209.10047v1](http://arxiv.org/abs/2209.10047v1)|null|
+|**2022-09-21**|**Planet-star interactions with precise transit timing. III. Entering the regime of dynamical tides**|G. Maciejewski et.al.|[2209.10597v1](http://arxiv.org/abs/2209.10597v1)|null|
+|**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
+|**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-20**|**Spectroscopic detection of Altair's non-radial pulsations**|M. Rieutord et.al.|[2209.09559v1](http://arxiv.org/abs/2209.09559v1)|null|
 |**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
+|**2022-09-19**|**Guarding a Non-Maneuverable Translating Line with an Attached Defender**|Goutam Das et.al.|[2209.09318v1](http://arxiv.org/abs/2209.09318v1)|null|
+|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
+|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
+|**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|[link](https://github.com/huazai665/lgc-net)|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
-|**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
-|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|[link](https://github.com/tjr16/bathy_nn_learning)|
+|**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
+|**2022-09-18**|**Wave Turbulence in Inertial Electron Magnetohydrodynamics**|Vincent David et.al.|[2209.08577v1](http://arxiv.org/abs/2209.08577v1)|null|
+|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
+|**2022-09-18**|**EMA-VIO: Deep Visual-Inertial Odometry with External Memory Attention**|Zheming Tu et.al.|[2209.08490v1](http://arxiv.org/abs/2209.08490v1)|null|
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|[link](https://github.com/geniussh/dytanvo)|
-|**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins et.al.|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
-|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|[link](https://github.com/stanford-navlab/planeslam)|
+|**2022-09-17**|**Six-DOF Spacecraft Dynamics Simulator For Testing Translation and Attitude Control**|Farhad Aghili et.al.|[2209.08375v1](http://arxiv.org/abs/2209.08375v1)|null|
+|**2022-09-17**|**Measurement of Stimulated Raman Side-Scattering Predominance and Energetic Importance in the Compression Stage of the Double-Cone Ignition Approach to Inertial Confinement Fusion**|Kevin Glize et.al.|[2209.08251v1](http://arxiv.org/abs/2209.08251v1)|null|
+|**2022-09-16**|**Three-dimensional non-kinematic simulation of post-emergence evolution of bipolar magnetic regions and Babcock-Leighton dynamo of the Sun**|Yuto Bekki et.al.|[2209.08178v1](http://arxiv.org/abs/2209.08178v1)|null|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
-|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
-|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
-|**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun et.al.|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
-|**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
-|**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
-|**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
-|**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
-|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
-|**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|[link](https://github.com/MetaSLAM/GPRS)|
-|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|[link](https://github.com/julioplaced/explorb-slam)|
-|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
-|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|[link](https://bitbucket.org/jmangelson/gkcm)|
-|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
-|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
-|**2022-09-05**|**ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**|Boyi Liu et.al.|[2209.01774v1](http://arxiv.org/abs/2209.01774v1)|null|
-|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
+|**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
+|**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
+|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
+|**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|[link](https://github.com/opencalib/lidar2ins)|
+|**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|[link](https://github.com/shuoyangrobotics/cerberus)|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,36 +107,36 @@
 |**2022-08-25**|**Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras**|Xiaolei Lang et.al.|[2208.12008v1](http://arxiv.org/abs/2208.12008v1)|[link](https://github.com/april-zju/ctrl-vio)|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|[link](https://github.com/url-kaist/dynavins)|
 
-### VIO
+### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-22**|**Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**|Bryan Habas et.al.|[2209.11043v1](http://arxiv.org/abs/2209.11043v1)|null|
-|**2022-09-22**|**Turbulence observations using moored temperature sensors in weakly stratified deep West-Mediterranean waters**|Hans van Haren et.al.|[2209.10949v1](http://arxiv.org/abs/2209.10949v1)|null|
-|**2022-09-22**|**Optomechanical cooling and inertial sensing at low frequencies**|Yanqi Zhang et.al.|[2209.10746v1](http://arxiv.org/abs/2209.10746v1)|null|
+|**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
 |**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
-|**2022-09-21**|**Planet-star interactions with precise transit timing. III. Entering the regime of dynamical tides**|G. Maciejewski et.al.|[2209.10597v1](http://arxiv.org/abs/2209.10597v1)|null|
-|**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
-|**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
+|**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
+|**2022-09-20**|**Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**|Sabir Hossain et.al.|[2209.10047v1](http://arxiv.org/abs/2209.10047v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
-|**2022-09-20**|**Spectroscopic detection of Altair's non-radial pulsations**|M. Rieutord et.al.|[2209.09559v1](http://arxiv.org/abs/2209.09559v1)|null|
 |**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
-|**2022-09-19**|**Guarding a Non-Maneuverable Translating Line with an Attached Defender**|Goutam Das et.al.|[2209.09318v1](http://arxiv.org/abs/2209.09318v1)|null|
-|**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
-|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
-|**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|[link](https://github.com/huazai665/lgc-net)|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
-|**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
-|**2022-09-18**|**Wave Turbulence in Inertial Electron Magnetohydrodynamics**|Vincent David et.al.|[2209.08577v1](http://arxiv.org/abs/2209.08577v1)|null|
-|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v1](http://arxiv.org/abs/2209.08532v1)|null|
-|**2022-09-18**|**EMA-VIO: Deep Visual-Inertial Odometry with External Memory Attention**|Zheming Tu et.al.|[2209.08490v1](http://arxiv.org/abs/2209.08490v1)|null|
+|**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
+|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|[link](https://github.com/tjr16/bathy_nn_learning)|
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|[link](https://github.com/geniussh/dytanvo)|
-|**2022-09-17**|**Six-DOF Spacecraft Dynamics Simulator For Testing Translation and Attitude Control**|Farhad Aghili et.al.|[2209.08375v1](http://arxiv.org/abs/2209.08375v1)|null|
-|**2022-09-17**|**Measurement of Stimulated Raman Side-Scattering Predominance and Energetic Importance in the Compression Stage of the Double-Cone Ignition Approach to Inertial Confinement Fusion**|Kevin Glize et.al.|[2209.08251v1](http://arxiv.org/abs/2209.08251v1)|null|
-|**2022-09-16**|**Three-dimensional non-kinematic simulation of post-emergence evolution of bipolar magnetic regions and Babcock-Leighton dynamo of the Sun**|Yuto Bekki et.al.|[2209.08178v1](http://arxiv.org/abs/2209.08178v1)|null|
+|**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins et.al.|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
+|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|[link](https://github.com/stanford-navlab/planeslam)|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
-|**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
-|**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
-|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
-|**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|[link](https://github.com/opencalib/lidar2ins)|
-|**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|[link](https://github.com/shuoyangrobotics/cerberus)|
+|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
+|**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun et.al.|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
+|**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
+|**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
+|**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
+|**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
+|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
+|**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|[link](https://github.com/MetaSLAM/GPRS)|
+|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|[link](https://github.com/julioplaced/explorb-slam)|
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
+|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|[link](https://bitbucket.org/jmangelson/gkcm)|
+|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
+|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
+|**2022-09-05**|**ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**|Boyi Liu et.al.|[2209.01774v1](http://arxiv.org/abs/2209.01774v1)|null|
+|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
