@@ -2,8 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-23**|**Transition from multipolar to dipolar dynamos in stratified systems**|B. Zaire et.al.|[2209.11652v1](http://arxiv.org/abs/2209.11652v1)|null|
+|**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
 |**2022-09-22**|**Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**|Bryan Habas et.al.|[2209.11043v1](http://arxiv.org/abs/2209.11043v1)|null|
 |**2022-09-22**|**Turbulence observations using moored temperature sensors in weakly stratified deep West-Mediterranean waters**|Hans van Haren et.al.|[2209.10949v1](http://arxiv.org/abs/2209.10949v1)|null|
+|**2022-09-22**|**Lightweight Transformers for Human Activity Recognition on Mobile Devices**|Sannara EK et.al.|[2209.11750v1](http://arxiv.org/abs/2209.11750v1)|null|
 |**2022-09-22**|**Optomechanical cooling and inertial sensing at low frequencies**|Yanqi Zhang et.al.|[2209.10746v1](http://arxiv.org/abs/2209.10746v1)|null|
 |**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
 |**2022-09-21**|**Planet-star interactions with precise transit timing. III. Entering the regime of dynamical tides**|G. Maciejewski et.al.|[2209.10597v1](http://arxiv.org/abs/2209.10597v1)|null|
@@ -29,6 +32,3 @@
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 |**2022-09-16**|**Effects of inertia on conformation and dynamics of active filaments**|Mohammad Fazelzadeh et.al.|[2209.07880v1](http://arxiv.org/abs/2209.07880v1)|null|
 |**2022-09-16**|**Droplet impact and Leidenfrost dynamics on a heated post**|Junhui Li et.al.|[2209.07784v1](http://arxiv.org/abs/2209.07784v1)|null|
-|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
-|**2022-09-16**|**An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**|Guohang Yan et.al.|[2209.07694v1](http://arxiv.org/abs/2209.07694v1)|[link](https://github.com/opencalib/lidar2ins)|
-|**2022-09-16**|**Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion**|Shuo Yang et.al.|[2209.07654v1](http://arxiv.org/abs/2209.07654v1)|[link](https://github.com/shuoyangrobotics/cerberus)|
