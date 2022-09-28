@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-27**|**Radiation-free and non-Hermitian topology inertial defect states of on-chip magnons**|Bowen Zeng et.al.|[2209.13386v1](http://arxiv.org/abs/2209.13386v1)|null|
+|**2022-09-27**|**Autonomous and non-autonomous unbounded attractors in evolutionary problems**|Jakub Banaśkiewicz et.al.|[2209.13286v1](http://arxiv.org/abs/2209.13286v1)|null|
+|**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
+|**2022-09-27**|**SmartFPS: Neural Network based Wireless-inertial fusion positioning system**|Luchi Hua et.al.|[2209.13261v1](http://arxiv.org/abs/2209.13261v1)|null|
+|**2022-09-27**|**Tracking the Vector Acceleration with a Hybrid Quantum Accelerometer Triad**|Simon Templier et.al.|[2209.13209v1](http://arxiv.org/abs/2209.13209v1)|null|
+|**2022-09-27**|**HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators**|Akhil Padmanabha et.al.|[2209.13097v1](http://arxiv.org/abs/2209.13097v1)|null|
 |**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|[link](https://github.com/zhouruihao1001/ndd)|
 |**2022-09-26**|**On the scaling and anisotropy of two subranges in the inertial range of solar wind turbulence**|Honghong Wu et.al.|[2209.12409v1](http://arxiv.org/abs/2209.12409v1)|null|
@@ -26,9 +32,3 @@
 |**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
 |**2022-09-19**|**Guarding a Non-Maneuverable Translating Line with an Attached Defender**|Goutam Das et.al.|[2209.09318v1](http://arxiv.org/abs/2209.09318v1)|null|
 |**2022-09-19**|**On the Statistics of Elsasser Increments in Solar Wind and Magnetohydrodynamic Turbulence**|Juan C. Palacios et.al.|[2209.09152v1](http://arxiv.org/abs/2209.09152v1)|null|
-|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
-|**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|[link](https://github.com/huazai665/lgc-net)|
-|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
-|**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|[link](https://github.com/jeff-sjtu/dnd)|
-|**2022-09-18**|**Wave Turbulence in Inertial Electron Magnetohydrodynamics**|Vincent David et.al.|[2209.08577v1](http://arxiv.org/abs/2209.08577v1)|null|
-|**2022-09-18**|**SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection**|Leonhard Sommer et.al.|[2209.08532v2](http://arxiv.org/abs/2209.08532v2)|null|
