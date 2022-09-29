@@ -5,13 +5,13 @@
 |**2022-09-27**|**Radiation-free and non-Hermitian topology inertial defect states of on-chip magnons**|Bowen Zeng et.al.|[2209.13386v1](http://arxiv.org/abs/2209.13386v1)|null|
 |**2022-09-27**|**Autonomous and non-autonomous unbounded attractors in evolutionary problems**|Jakub Banaśkiewicz et.al.|[2209.13286v1](http://arxiv.org/abs/2209.13286v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
-|**2022-09-27**|**SmartFPS: Neural Network based Wireless-inertial fusion positioning system**|Luchi Hua et.al.|[2209.13261v1](http://arxiv.org/abs/2209.13261v1)|null|
+|**2022-09-27**|**SmartFPS: Neural Network based Wireless-inertial fusion positioning system**|Luchi Hua et.al.|[2209.13261v2](http://arxiv.org/abs/2209.13261v2)|null|
 |**2022-09-27**|**Tracking the Vector Acceleration with a Hybrid Quantum Accelerometer Triad**|Simon Templier et.al.|[2209.13209v1](http://arxiv.org/abs/2209.13209v1)|null|
 |**2022-09-27**|**HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators**|Akhil Padmanabha et.al.|[2209.13097v1](http://arxiv.org/abs/2209.13097v1)|null|
 |**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|[link](https://github.com/zhouruihao1001/ndd)|
 |**2022-09-26**|**On the scaling and anisotropy of two subranges in the inertial range of solar wind turbulence**|Honghong Wu et.al.|[2209.12409v1](http://arxiv.org/abs/2209.12409v1)|null|
-|**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v1](http://arxiv.org/abs/2209.12249v1)|null|
+|**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v2](http://arxiv.org/abs/2209.12249v2)|null|
 |**2022-09-25**|**PL-EVIO: Robust Monocular Event-based Visual Inertial Odometry with Point and Line Features**|Weipeng Guan et.al.|[2209.12160v1](http://arxiv.org/abs/2209.12160v1)|null|
 |**2022-09-24**|**Tseng Splitting Method with Double Inertial Steps for Solving Monotone Inclusion Problems**|Zhong-bao Wang et.al.|[2209.11989v1](http://arxiv.org/abs/2209.11989v1)|null|
 |**2022-09-24**|**Inertial migration of red blood cells under a Newtonian fluid in a circular channel**|Naoki Takeishi et.al.|[2209.11933v1](http://arxiv.org/abs/2209.11933v1)|null|
