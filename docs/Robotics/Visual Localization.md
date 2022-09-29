@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v1](http://arxiv.org/abs/2209.14265v1)|null|
+|**2022-09-28**|**Vision based Crop Row Navigation under Varying Field Conditions in Arable Fields**|Rajitha de Silva et.al.|[2209.14003v1](http://arxiv.org/abs/2209.14003v1)|null|
+|**2022-09-28**|**SmartMocap: Joint Estimation of Human and Camera Motion using Uncalibrated RGB Cameras**|Nitin Saini et.al.|[2209.13906v1](http://arxiv.org/abs/2209.13906v1)|[link](https://github.com/robot-perception-group/smartmocap)|
+|**2022-09-28**|**Rethinking Blur Synthesis for Deep Real-World Image Deblurring**|Hao Wei et.al.|[2209.13866v1](http://arxiv.org/abs/2209.13866v1)|null|
+|**2022-09-28**|**Zero-Shot 3D Drug Design by Sketching and Generating**|Siyu Long et.al.|[2209.13865v1](http://arxiv.org/abs/2209.13865v1)|null|
+|**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|null|
+|**2022-09-27**|**Albedo variegation on Comet 67P/Churyumov-Gerasimenko**|Björn J. R. Davidsson et.al.|[2209.13730v1](http://arxiv.org/abs/2209.13730v1)|null|
+|**2022-09-27**|**Tying Spitzer's IRS Calibration to IRAC: Observations of IRS Standard Stars**|Kathleen E. Kraemer et.al.|[2209.13681v1](http://arxiv.org/abs/2209.13681v1)|null|
+|**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|null|
 |**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|null|
 |**2022-09-27**|**Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**|Shobha Sundar Ram et.al.|[2209.13512v1](http://arxiv.org/abs/2209.13512v1)|null|
 |**2022-09-27**|**CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection**|Ching-Yu Tseng et.al.|[2209.13507v1](http://arxiv.org/abs/2209.13507v1)|[link](https://github.com/sty61010/crossdtr)|
@@ -23,12 +32,3 @@
 |**2022-09-26**|**A detailed star formation history for the extremely diffuse Andromeda XIX dwarf galaxy**|Michelle L. M. Collins et.al.|[2209.12912v1](http://arxiv.org/abs/2209.12912v1)|null|
 |**2022-09-26**|**Candidate cosmic filament in the GJ526 field, mapped with the NIKA2 camera**|J. -F. Lestrade et.al.|[2209.12904v1](http://arxiv.org/abs/2209.12904v1)|null|
 |**2022-09-26**|**Euclid preparation. XXV. The Euclid Morphology Challenge -- Towards model-fitting photometry for billions of galaxies**|Euclid Collaboration et.al.|[2209.12906v1](http://arxiv.org/abs/2209.12906v1)|null|
-|**2022-09-26**|**Euclid preparation XXVI: The Euclid Morphology Challenge. Towards structural parameters for billions of galaxies**|Euclid Collaboration et.al.|[2209.12907v1](http://arxiv.org/abs/2209.12907v1)|null|
-|**2022-09-26**|**Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**|Philip Jacobson et.al.|[2209.12880v1](http://arxiv.org/abs/2209.12880v1)|null|
-|**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|[link](https://github.com/mediabrain-sjtu/where2comm)|
-|**2022-09-26**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v2](http://arxiv.org/abs/2209.12729v2)|null|
-|**2022-09-26**|**Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset**|Huanjing Yue et.al.|[2209.12475v1](http://arxiv.org/abs/2209.12475v1)|[link](https://github.com/zmzhang1998/Real-RawVSR)|
-|**2022-09-26**|**Six More Ultra-Faint Milky Way Companions Discovered in the DECam Local Volume Exploration Survey**|W. Cerny et.al.|[2209.12422v1](http://arxiv.org/abs/2209.12422v1)|null|
-|**2022-09-26**|**TAD: A Large-Scale Benchmark for Traffic Accidents Detection from Video Surveillance**|Yajun Xu et.al.|[2209.12386v1](http://arxiv.org/abs/2209.12386v1)|[link](https://github.com/yajunbaby/tad-benchmark)|
-|**2022-09-26**|**An optimization-based IMU/Lidar/Camera Co-calibration method**|Hou lanhua et.al.|[2209.12355v1](http://arxiv.org/abs/2209.12355v1)|null|
-|**2022-09-26**|**InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction**|Yinghao Huang et.al.|[2209.12354v1](http://arxiv.org/abs/2209.12354v1)|null|
