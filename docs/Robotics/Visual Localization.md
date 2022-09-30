@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-29**|**Evolution of positive streamers in air over non-planar dielectrics: Experiments and simulations**|Hans Kristian Meyer et.al.|[2209.14763v1](http://arxiv.org/abs/2209.14763v1)|null|
+|**2022-09-29**|**Speeding Up Action Recognition Using Dynamic Accumulation of Residuals in Compressed Domain**|Ali Abdari et.al.|[2209.14757v1](http://arxiv.org/abs/2209.14757v1)|null|
+|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|null|
+|**2022-09-29**|**The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument**|J. Guy et.al.|[2209.14482v1](http://arxiv.org/abs/2209.14482v1)|null|
+|**2022-09-28**|**Synthesizing Annotated Image and Video Data Using a Rendering-Based Pipeline for Improved License Plate Recognition**|Andreas Spruck et.al.|[2209.14448v1](http://arxiv.org/abs/2209.14448v1)|null|
+|**2022-09-28**|**Precision Landing of a UAV on a Moving Platform for Outdoor Applications**|Adarsh Salagame et.al.|[2209.14436v1](http://arxiv.org/abs/2209.14436v1)|null|
+|**2022-09-28**|**View-Invariant Localization using Semantic Objects in Changing Environments**|Jacqueline Ankenbauer et.al.|[2209.14426v1](http://arxiv.org/abs/2209.14426v1)|null|
+|**2022-09-28**|**Laboratory Demonstration of Optimal Identification and Control of Tip-Tilt Systems**|Aditya R. Sengupta et.al.|[2209.14424v1](http://arxiv.org/abs/2209.14424v1)|null|
+|**2022-09-28**|**Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**|Jun-Jee Chao et.al.|[2209.14419v1](http://arxiv.org/abs/2209.14419v1)|null|
+|**2022-09-28**|**The Change You Want to See**|Ragav Sachdeva et.al.|[2209.14341v1](http://arxiv.org/abs/2209.14341v1)|null|
 |**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v1](http://arxiv.org/abs/2209.14265v1)|null|
 |**2022-09-28**|**Vision based Crop Row Navigation under Varying Field Conditions in Arable Fields**|Rajitha de Silva et.al.|[2209.14003v1](http://arxiv.org/abs/2209.14003v1)|null|
 |**2022-09-28**|**SmartMocap: Joint Estimation of Human and Camera Motion using Uncalibrated RGB Cameras**|Nitin Saini et.al.|[2209.13906v1](http://arxiv.org/abs/2209.13906v1)|[link](https://github.com/robot-perception-group/smartmocap)|
@@ -22,13 +32,3 @@
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-27**|**Identifying and Extracting Football Features from Real-World Media Sources using Only Synthetic Training Data**|Jose Cerqueira Fernandes et.al.|[2209.13254v1](http://arxiv.org/abs/2209.13254v1)|null|
 |**2022-09-27**|**Globally Optimal Event-Based Divergence Estimation for Ventral Landing**|Sofia McLeod et.al.|[2209.13168v1](http://arxiv.org/abs/2209.13168v1)|[link](https://github.com/s-mcleod/ventral-landing-event-dataset)|
-|**2022-09-27**|**Design and test results of scientific X-ray CMOS cameras**|Wenxin Wang et.al.|[2209.13163v1](http://arxiv.org/abs/2209.13163v1)|null|
-|**2022-09-27**|**R-fiducial: Reliable and Scalable Radar Fiducials for Smart mmwave Sensing**|Kshitiz Bansal et.al.|[2209.13109v1](http://arxiv.org/abs/2209.13109v1)|null|
-|**2022-09-27**|**Efficient Noise Filtration of Images by Low-Rank Singular Vector Approximations of Geodesics' Gramian Matrix**|Kelum Gajamannage et.al.|[2209.13094v1](http://arxiv.org/abs/2209.13094v1)|null|
-|**2022-09-26**|**Euclid preparation: XXII. Selection of Quiescent Galaxies from Mock Photometry using Machine Learning**|A. Humphrey et.al.|[2209.13074v1](http://arxiv.org/abs/2209.13074v1)|null|
-|**2022-09-26**|**Perception-driven Formation Control of Airships**|Eric Price et.al.|[2209.13040v1](http://arxiv.org/abs/2209.13040v1)|[link](https://github.com/robot-perception-group/airship-mpc)|
-|**2022-09-26**|**Totems: Physical Objects for Verifying Visual Integrity**|Jingwei Ma et.al.|[2209.13032v1](http://arxiv.org/abs/2209.13032v1)|null|
-|**2022-09-26**|**AO3000 at Subaru: Combining for the first time a NIR WFS using First Light's C-RED ONE and ALPAO's 64x64 DM**|Julien Lozi et.al.|[2209.12981v1](http://arxiv.org/abs/2209.12981v1)|null|
-|**2022-09-26**|**A detailed star formation history for the extremely diffuse Andromeda XIX dwarf galaxy**|Michelle L. M. Collins et.al.|[2209.12912v1](http://arxiv.org/abs/2209.12912v1)|null|
-|**2022-09-26**|**Candidate cosmic filament in the GJ526 field, mapped with the NIKA2 camera**|J. -F. Lestrade et.al.|[2209.12904v1](http://arxiv.org/abs/2209.12904v1)|null|
-|**2022-09-26**|**Euclid preparation. XXV. The Euclid Morphology Challenge -- Towards model-fitting photometry for billions of galaxies**|Euclid Collaboration et.al.|[2209.12906v1](http://arxiv.org/abs/2209.12906v1)|null|

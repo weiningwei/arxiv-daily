@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
+|**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. III. Rise-time scaling**|D. E. Ruiz et.al.|[2209.14912v1](http://arxiv.org/abs/2209.14912v1)|null|
+|**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. II. Current scaling**|D. E. Ruiz et.al.|[2209.14911v1](http://arxiv.org/abs/2209.14911v1)|null|
+|**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. I. Theoretical framework**|D. E. Ruiz et.al.|[2209.14909v1](http://arxiv.org/abs/2209.14909v1)|null|
+|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|null|
+|**2022-09-28**|**Machine Learning for Optical Motion Capture-driven Musculoskeletal Modeling from Inertial Motion Capture Data**|Abhishek Dasgupta et.al.|[2209.14456v1](http://arxiv.org/abs/2209.14456v1)|null|
+|**2022-09-28**|**Precision Landing of a UAV on a Moving Platform for Outdoor Applications**|Adarsh Salagame et.al.|[2209.14436v1](http://arxiv.org/abs/2209.14436v1)|null|
 |**2022-09-28**|**Secure Indoor Location for Airport Environments**|I Santos-González et.al.|[2209.14195v1](http://arxiv.org/abs/2209.14195v1)|null|
 |**2022-09-28**|**Inertial Quasi-Newton Methods for Monotone Inclusion: Efficient Resolvent Calculus and Primal-Dual Methods**|Shida Wang et.al.|[2209.14019v1](http://arxiv.org/abs/2209.14019v1)|null|
 |**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|null|
@@ -25,10 +32,3 @@
 |**2022-09-22**|**Turbulence observations using moored temperature sensors in weakly stratified deep West-Mediterranean waters**|Hans van Haren et.al.|[2209.10949v1](http://arxiv.org/abs/2209.10949v1)|null|
 |**2022-09-22**|**Lightweight Transformers for Human Activity Recognition on Mobile Devices**|Sannara EK et.al.|[2209.11750v1](http://arxiv.org/abs/2209.11750v1)|null|
 |**2022-09-22**|**Optomechanical cooling and inertial sensing at low frequencies**|Yanqi Zhang et.al.|[2209.10746v1](http://arxiv.org/abs/2209.10746v1)|null|
-|**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
-|**2022-09-21**|**Planet-star interactions with precise transit timing. III. Entering the regime of dynamical tides**|G. Maciejewski et.al.|[2209.10597v1](http://arxiv.org/abs/2209.10597v1)|null|
-|**2022-09-20**|**Can we detect deep axisymmetric toroidal magnetic fields in stars?**|Hachem Dhouib et.al.|[2209.09823v1](http://arxiv.org/abs/2209.09823v1)|null|
-|**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
-|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
-|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
-|**2022-09-20**|**Spectroscopic detection of Altair's non-radial pulsations**|M. Rieutord et.al.|[2209.09559v1](http://arxiv.org/abs/2209.09559v1)|null|
