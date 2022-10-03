@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30**|**Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**|Karina Ruzaeva et.al.|[2209.15584v1](http://arxiv.org/abs/2209.15584v1)|null|
+|**2022-09-30**|**Reliable Face Morphing Attack Detection in On-The-Fly Border Control Scenario with Variation in Image Resolution and Capture Distance**|Jag Mohan Singh et.al.|[2209.15474v1](http://arxiv.org/abs/2209.15474v1)|null|
+|**2022-09-30**|**EMIR, the near-infrared camera and multi-object spectrograph for the GTC**|F. Garzón et.al.|[2209.15395v1](http://arxiv.org/abs/2209.15395v1)|null|
+|**2022-09-29**|**Learning an Efficient Terrain Representation for Haptic Localization of a Legged Robot**|Damian Sójka et.al.|[2209.15135v1](http://arxiv.org/abs/2209.15135v1)|null|
+|**2022-09-29**|**Partially calibrated semi-generalized pose from hybrid point correspondences**|Snehal Bhayani et.al.|[2209.15072v1](http://arxiv.org/abs/2209.15072v1)|null|
+|**2022-09-29**|**Graph Attention Network for Camera Relocalization on Dynamic Scenes**|Mohamed Amine Ouali et.al.|[2209.15056v1](http://arxiv.org/abs/2209.15056v1)|null|
 |**2022-09-29**|**Evolution of positive streamers in air over non-planar dielectrics: Experiments and simulations**|Hans Kristian Meyer et.al.|[2209.14763v1](http://arxiv.org/abs/2209.14763v1)|null|
 |**2022-09-29**|**Speeding Up Action Recognition Using Dynamic Accumulation of Residuals in Compressed Domain**|Ali Abdari et.al.|[2209.14757v1](http://arxiv.org/abs/2209.14757v1)|null|
 |**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
@@ -26,9 +32,3 @@
 |**2022-09-27**|**CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection**|Ching-Yu Tseng et.al.|[2209.13507v1](http://arxiv.org/abs/2209.13507v1)|[link](https://github.com/sty61010/crossdtr)|
 |**2022-09-27**|**Visual Object Tracking in First Person Vision**|Matteo Dunnhofer et.al.|[2209.13502v1](http://arxiv.org/abs/2209.13502v1)|null|
 |**2022-09-27**|**InSight Pressure Data Recalibration, and Its Application to the Study of Long-Term Pressure Changes on Mars**|L. Lange et.al.|[2209.13412v1](http://arxiv.org/abs/2209.13412v1)|null|
-|**2022-09-27**|**Advances in Fine Line-Of-Sight Control for Large Space Flexible Structures**|Francesco Sanfedino et.al.|[2209.13374v1](http://arxiv.org/abs/2209.13374v1)|null|
-|**2022-09-27**|**DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image**|Yijin Li et.al.|[2209.13362v1](http://arxiv.org/abs/2209.13362v1)|null|
-|**2022-09-27**|**Passive Non-line-of-sight Imaging for Moving Targets with an Event Camera**|Conghe Wang et.al.|[2209.13300v1](http://arxiv.org/abs/2209.13300v1)|null|
-|**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
-|**2022-09-27**|**Identifying and Extracting Football Features from Real-World Media Sources using Only Synthetic Training Data**|Jose Cerqueira Fernandes et.al.|[2209.13254v1](http://arxiv.org/abs/2209.13254v1)|null|
-|**2022-09-27**|**Globally Optimal Event-Based Divergence Estimation for Ventral Landing**|Sofia McLeod et.al.|[2209.13168v1](http://arxiv.org/abs/2209.13168v1)|[link](https://github.com/s-mcleod/ventral-landing-event-dataset)|

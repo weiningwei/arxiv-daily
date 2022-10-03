@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-30**|**MICROSCOPE mission: final results of the test of the Equivalence Principle**|Pierre Touboul et.al.|[2209.15487v1](http://arxiv.org/abs/2209.15487v1)|null|
+|**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|[link](https://github.com/pypose/pypose)|
+|**2022-09-30**|**Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion**|Mohatashem Reyaz Makhdoomi et.al.|[2209.15406v1](http://arxiv.org/abs/2209.15406v1)|null|
+|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|null|
+|**2022-09-30**|**Towards Safe Landing of Falling Quadruped Robots Using a 3-DoF Morphable Inertial Tail**|Yunxi Tang et.al.|[2209.15337v1](http://arxiv.org/abs/2209.15337v1)|null|
+|**2022-09-29**|**Fully Proprioceptive Slip-Velocity-Aware State Estimation for Mobile Robots via Invariant Kalman Filtering and Disturbance Observer**|Xihang Yu et.al.|[2209.15140v1](http://arxiv.org/abs/2209.15140v1)|null|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. III. Rise-time scaling**|D. E. Ruiz et.al.|[2209.14912v1](http://arxiv.org/abs/2209.14912v1)|null|
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. II. Current scaling**|D. E. Ruiz et.al.|[2209.14911v1](http://arxiv.org/abs/2209.14911v1)|null|
@@ -26,9 +32,3 @@
 |**2022-09-24**|**Tseng Splitting Method with Double Inertial Steps for Solving Monotone Inclusion Problems**|Zhong-bao Wang et.al.|[2209.11989v1](http://arxiv.org/abs/2209.11989v1)|null|
 |**2022-09-24**|**Inertial migration of red blood cells under a Newtonian fluid in a circular channel**|Naoki Takeishi et.al.|[2209.11933v1](http://arxiv.org/abs/2209.11933v1)|null|
 |**2022-09-23**|**Wide-Area Geolocalization with a Limited Field of View Camera**|Lena M. Downes et.al.|[2209.11854v1](http://arxiv.org/abs/2209.11854v1)|null|
-|**2022-09-23**|**Transition from multipolar to dipolar dynamos in stratified systems**|B. Zaire et.al.|[2209.11652v1](http://arxiv.org/abs/2209.11652v1)|null|
-|**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
-|**2022-09-22**|**Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**|Bryan Habas et.al.|[2209.11043v1](http://arxiv.org/abs/2209.11043v1)|null|
-|**2022-09-22**|**Turbulence observations using moored temperature sensors in weakly stratified deep West-Mediterranean waters**|Hans van Haren et.al.|[2209.10949v1](http://arxiv.org/abs/2209.10949v1)|null|
-|**2022-09-22**|**Lightweight Transformers for Human Activity Recognition on Mobile Devices**|Sannara EK et.al.|[2209.11750v1](http://arxiv.org/abs/2209.11750v1)|null|
-|**2022-09-22**|**Optomechanical cooling and inertial sensing at low frequencies**|Yanqi Zhang et.al.|[2209.10746v1](http://arxiv.org/abs/2209.10746v1)|null|
