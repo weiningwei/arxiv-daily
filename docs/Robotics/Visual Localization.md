@@ -18,7 +18,7 @@
 |**2022-09-28**|**Laboratory Demonstration of Optimal Identification and Control of Tip-Tilt Systems**|Aditya R. Sengupta et.al.|[2209.14424v1](http://arxiv.org/abs/2209.14424v1)|null|
 |**2022-09-28**|**Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**|Jun-Jee Chao et.al.|[2209.14419v1](http://arxiv.org/abs/2209.14419v1)|null|
 |**2022-09-28**|**The Change You Want to See**|Ragav Sachdeva et.al.|[2209.14341v1](http://arxiv.org/abs/2209.14341v1)|null|
-|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v1](http://arxiv.org/abs/2209.14265v1)|null|
+|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|null|
 |**2022-09-28**|**Vision based Crop Row Navigation under Varying Field Conditions in Arable Fields**|Rajitha de Silva et.al.|[2209.14003v1](http://arxiv.org/abs/2209.14003v1)|null|
 |**2022-09-28**|**SmartMocap: Joint Estimation of Human and Camera Motion using Uncalibrated RGB Cameras**|Nitin Saini et.al.|[2209.13906v1](http://arxiv.org/abs/2209.13906v1)|[link](https://github.com/robot-perception-group/smartmocap)|
 |**2022-09-28**|**Rethinking Blur Synthesis for Deep Real-World Image Deblurring**|Hao Wei et.al.|[2209.13866v1](http://arxiv.org/abs/2209.13866v1)|null|
