@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
+|**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
+|**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
+|**2022-10-03**|**The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection**|Sondre Wold et.al.|[2210.00907v1](http://arxiv.org/abs/2210.00907v1)|null|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-03**|**A Multi Camera Unsupervised Domain Adaptation Pipeline for Object Detection in Cultural Sites through Adversarial Learning and Self-Training**|Giovanni Pasqualino et.al.|[2210.00808v1](http://arxiv.org/abs/2210.00808v1)|null|
+|**2022-10-03**|**CERBERUS: Simple and Effective All-In-One Automotive Perception Model with Multi Task Learning**|Carmelo Scribano et.al.|[2210.00756v1](http://arxiv.org/abs/2210.00756v1)|null|
+|**2022-10-03**|**Deep Physiological Sensing Toolbox**|Xin Liu et.al.|[2210.00716v1](http://arxiv.org/abs/2210.00716v1)|null|
+|**2022-10-03**|**WorldGen: A Large Scale Generative Simulator**|Chahat Deep Singh et.al.|[2210.00715v1](http://arxiv.org/abs/2210.00715v1)|null|
+|**2022-10-02**|**Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers**|Ashish Singh et.al.|[2210.00507v1](http://arxiv.org/abs/2210.00507v1)|null|
+|**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
+|**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|null|
+|**2022-09-30**|**Robust Person Identification: A WiFi Vision-based Approach**|Yili Ren et.al.|[2210.00127v1](http://arxiv.org/abs/2210.00127v1)|null|
+|**2022-09-30**|**Force/Torque Sensing for Soft Grippers using an External Camera**|Jeremy A. Collins et.al.|[2210.00051v1](http://arxiv.org/abs/2210.00051v1)|null|
+|**2022-09-30**|**CRC-Aided Short Convolutional Codes and RCU Bounds for Orthogonal Signaling**|Jacob King et.al.|[2210.00026v1](http://arxiv.org/abs/2210.00026v1)|null|
 |**2022-09-30**|**Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**|Karina Ruzaeva et.al.|[2209.15584v1](http://arxiv.org/abs/2209.15584v1)|null|
 |**2022-09-30**|**Reliable Face Morphing Attack Detection in On-The-Fly Border Control Scenario with Variation in Image Resolution and Capture Distance**|Jag Mohan Singh et.al.|[2209.15474v1](http://arxiv.org/abs/2209.15474v1)|null|
 |**2022-09-30**|**EMIR, the near-infrared camera and multi-object spectrograph for the GTC**|F. Garzón et.al.|[2209.15395v1](http://arxiv.org/abs/2209.15395v1)|null|
@@ -17,18 +32,3 @@
 |**2022-09-28**|**View-Invariant Localization using Semantic Objects in Changing Environments**|Jacqueline Ankenbauer et.al.|[2209.14426v1](http://arxiv.org/abs/2209.14426v1)|null|
 |**2022-09-28**|**Laboratory Demonstration of Optimal Identification and Control of Tip-Tilt Systems**|Aditya R. Sengupta et.al.|[2209.14424v1](http://arxiv.org/abs/2209.14424v1)|null|
 |**2022-09-28**|**Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**|Jun-Jee Chao et.al.|[2209.14419v1](http://arxiv.org/abs/2209.14419v1)|null|
-|**2022-09-28**|**The Change You Want to See**|Ragav Sachdeva et.al.|[2209.14341v1](http://arxiv.org/abs/2209.14341v1)|null|
-|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|null|
-|**2022-09-28**|**Vision based Crop Row Navigation under Varying Field Conditions in Arable Fields**|Rajitha de Silva et.al.|[2209.14003v1](http://arxiv.org/abs/2209.14003v1)|null|
-|**2022-09-28**|**SmartMocap: Joint Estimation of Human and Camera Motion using Uncalibrated RGB Cameras**|Nitin Saini et.al.|[2209.13906v1](http://arxiv.org/abs/2209.13906v1)|[link](https://github.com/robot-perception-group/smartmocap)|
-|**2022-09-28**|**Rethinking Blur Synthesis for Deep Real-World Image Deblurring**|Hao Wei et.al.|[2209.13866v1](http://arxiv.org/abs/2209.13866v1)|null|
-|**2022-09-28**|**Zero-Shot 3D Drug Design by Sketching and Generating**|Siyu Long et.al.|[2209.13865v1](http://arxiv.org/abs/2209.13865v1)|[link](https://github.com/longlongman/DESERT)|
-|**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|null|
-|**2022-09-27**|**Albedo variegation on Comet 67P/Churyumov-Gerasimenko**|Björn J. R. Davidsson et.al.|[2209.13730v1](http://arxiv.org/abs/2209.13730v1)|null|
-|**2022-09-27**|**Tying Spitzer's IRS Calibration to IRAC: Observations of IRS Standard Stars**|Kathleen E. Kraemer et.al.|[2209.13681v1](http://arxiv.org/abs/2209.13681v1)|null|
-|**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|[link](https://github.com/ucsdarclab/thread-reconstruction)|
-|**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|null|
-|**2022-09-27**|**Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**|Shobha Sundar Ram et.al.|[2209.13512v1](http://arxiv.org/abs/2209.13512v1)|null|
-|**2022-09-27**|**CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection**|Ching-Yu Tseng et.al.|[2209.13507v1](http://arxiv.org/abs/2209.13507v1)|[link](https://github.com/sty61010/crossdtr)|
-|**2022-09-27**|**Visual Object Tracking in First Person Vision**|Matteo Dunnhofer et.al.|[2209.13502v1](http://arxiv.org/abs/2209.13502v1)|null|
-|**2022-09-27**|**InSight Pressure Data Recalibration, and Its Application to the Study of Long-Term Pressure Changes on Mars**|L. Lange et.al.|[2209.13412v1](http://arxiv.org/abs/2209.13412v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-04 08:56:56 Asia/Shanghai
+ Automated deployment @ 2022-10-04 11:07:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|null|
+|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|[link](https://github.com/prbonn/kissicp)|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
@@ -42,6 +42,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell et.al.|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|null|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
 |**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|[link](https://github.com/pypose/pypose)|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann et.al.|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
@@ -69,13 +72,25 @@
 |**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun et.al.|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
-|**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
-|**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
-|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
+|**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
+|**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
+|**2022-10-03**|**The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection**|Sondre Wold et.al.|[2210.00907v1](http://arxiv.org/abs/2210.00907v1)|null|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-03**|**A Multi Camera Unsupervised Domain Adaptation Pipeline for Object Detection in Cultural Sites through Adversarial Learning and Self-Training**|Giovanni Pasqualino et.al.|[2210.00808v1](http://arxiv.org/abs/2210.00808v1)|null|
+|**2022-10-03**|**CERBERUS: Simple and Effective All-In-One Automotive Perception Model with Multi Task Learning**|Carmelo Scribano et.al.|[2210.00756v1](http://arxiv.org/abs/2210.00756v1)|null|
+|**2022-10-03**|**Deep Physiological Sensing Toolbox**|Xin Liu et.al.|[2210.00716v1](http://arxiv.org/abs/2210.00716v1)|null|
+|**2022-10-03**|**WorldGen: A Large Scale Generative Simulator**|Chahat Deep Singh et.al.|[2210.00715v1](http://arxiv.org/abs/2210.00715v1)|null|
+|**2022-10-02**|**Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers**|Ashish Singh et.al.|[2210.00507v1](http://arxiv.org/abs/2210.00507v1)|null|
+|**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
+|**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|null|
+|**2022-09-30**|**Robust Person Identification: A WiFi Vision-based Approach**|Yili Ren et.al.|[2210.00127v1](http://arxiv.org/abs/2210.00127v1)|null|
+|**2022-09-30**|**Force/Torque Sensing for Soft Grippers using an External Camera**|Jeremy A. Collins et.al.|[2210.00051v1](http://arxiv.org/abs/2210.00051v1)|null|
+|**2022-09-30**|**CRC-Aided Short Convolutional Codes and RCU Bounds for Orthogonal Signaling**|Jacob King et.al.|[2210.00026v1](http://arxiv.org/abs/2210.00026v1)|null|
 |**2022-09-30**|**Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**|Karina Ruzaeva et.al.|[2209.15584v1](http://arxiv.org/abs/2209.15584v1)|null|
 |**2022-09-30**|**Reliable Face Morphing Attack Detection in On-The-Fly Border Control Scenario with Variation in Image Resolution and Capture Distance**|Jag Mohan Singh et.al.|[2209.15474v1](http://arxiv.org/abs/2209.15474v1)|null|
 |**2022-09-30**|**EMIR, the near-infrared camera and multi-object spectrograph for the GTC**|F. Garzón et.al.|[2209.15395v1](http://arxiv.org/abs/2209.15395v1)|null|
@@ -91,31 +106,18 @@
 |**2022-09-28**|**View-Invariant Localization using Semantic Objects in Changing Environments**|Jacqueline Ankenbauer et.al.|[2209.14426v1](http://arxiv.org/abs/2209.14426v1)|null|
 |**2022-09-28**|**Laboratory Demonstration of Optimal Identification and Control of Tip-Tilt Systems**|Aditya R. Sengupta et.al.|[2209.14424v1](http://arxiv.org/abs/2209.14424v1)|null|
 |**2022-09-28**|**Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**|Jun-Jee Chao et.al.|[2209.14419v1](http://arxiv.org/abs/2209.14419v1)|null|
-|**2022-09-28**|**The Change You Want to See**|Ragav Sachdeva et.al.|[2209.14341v1](http://arxiv.org/abs/2209.14341v1)|null|
-|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|null|
-|**2022-09-28**|**Vision based Crop Row Navigation under Varying Field Conditions in Arable Fields**|Rajitha de Silva et.al.|[2209.14003v1](http://arxiv.org/abs/2209.14003v1)|null|
-|**2022-09-28**|**SmartMocap: Joint Estimation of Human and Camera Motion using Uncalibrated RGB Cameras**|Nitin Saini et.al.|[2209.13906v1](http://arxiv.org/abs/2209.13906v1)|[link](https://github.com/robot-perception-group/smartmocap)|
-|**2022-09-28**|**Rethinking Blur Synthesis for Deep Real-World Image Deblurring**|Hao Wei et.al.|[2209.13866v1](http://arxiv.org/abs/2209.13866v1)|null|
-|**2022-09-28**|**Zero-Shot 3D Drug Design by Sketching and Generating**|Siyu Long et.al.|[2209.13865v1](http://arxiv.org/abs/2209.13865v1)|[link](https://github.com/longlongman/DESERT)|
-|**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|null|
-|**2022-09-27**|**Albedo variegation on Comet 67P/Churyumov-Gerasimenko**|Björn J. R. Davidsson et.al.|[2209.13730v1](http://arxiv.org/abs/2209.13730v1)|null|
-|**2022-09-27**|**Tying Spitzer's IRS Calibration to IRAC: Observations of IRS Standard Stars**|Kathleen E. Kraemer et.al.|[2209.13681v1](http://arxiv.org/abs/2209.13681v1)|null|
-|**2022-09-27**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v1](http://arxiv.org/abs/2209.13657v1)|[link](https://github.com/ucsdarclab/thread-reconstruction)|
-|**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|null|
-|**2022-09-27**|**Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**|Shobha Sundar Ram et.al.|[2209.13512v1](http://arxiv.org/abs/2209.13512v1)|null|
-|**2022-09-27**|**CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection**|Ching-Yu Tseng et.al.|[2209.13507v1](http://arxiv.org/abs/2209.13507v1)|[link](https://github.com/sty61010/crossdtr)|
-|**2022-09-27**|**Visual Object Tracking in First Person Vision**|Matteo Dunnhofer et.al.|[2209.13502v1](http://arxiv.org/abs/2209.13502v1)|null|
-|**2022-09-27**|**InSight Pressure Data Recalibration, and Its Application to the Study of Long-Term Pressure Changes on Mars**|L. Lange et.al.|[2209.13412v1](http://arxiv.org/abs/2209.13412v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
+|**2022-10-03**|**Squeezed-Light-Enhanced Dispersive Gyroscope based Optical Microcavities**|Xiaoyang Chang et.al.|[2210.00741v1](http://arxiv.org/abs/2210.00741v1)|null|
 |**2022-09-30**|**MICROSCOPE mission: final results of the test of the Equivalence Principle**|Pierre Touboul et.al.|[2209.15487v1](http://arxiv.org/abs/2209.15487v1)|null|
 |**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|[link](https://github.com/pypose/pypose)|
 |**2022-09-30**|**Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion**|Mohatashem Reyaz Makhdoomi et.al.|[2209.15406v1](http://arxiv.org/abs/2209.15406v1)|null|
-|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|null|
+|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|[link](https://github.com/prbonn/kissicp)|
 |**2022-09-30**|**Towards Safe Landing of Falling Quadruped Robots Using a 3-DoF Morphable Inertial Tail**|Yunxi Tang et.al.|[2209.15337v1](http://arxiv.org/abs/2209.15337v1)|null|
-|**2022-09-29**|**Fully Proprioceptive Slip-Velocity-Aware State Estimation for Mobile Robots via Invariant Kalman Filtering and Disturbance Observer**|Xihang Yu et.al.|[2209.15140v1](http://arxiv.org/abs/2209.15140v1)|null|
+|**2022-09-29**|**Fully Proprioceptive Slip-Velocity-Aware State Estimation for Mobile Robots via Invariant Kalman Filtering and Disturbance Observer**|Xihang Yu et.al.|[2209.15140v1](http://arxiv.org/abs/2209.15140v1)|[link](https://github.com/umich-curly/slip_detection_dob)|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. III. Rise-time scaling**|D. E. Ruiz et.al.|[2209.14912v1](http://arxiv.org/abs/2209.14912v1)|null|
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. II. Current scaling**|D. E. Ruiz et.al.|[2209.14911v1](http://arxiv.org/abs/2209.14911v1)|null|
@@ -138,5 +140,3 @@
 |**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v2](http://arxiv.org/abs/2209.12249v2)|null|
 |**2022-09-25**|**PL-EVIO: Robust Monocular Event-based Visual Inertial Odometry with Point and Line Features**|Weipeng Guan et.al.|[2209.12160v1](http://arxiv.org/abs/2209.12160v1)|null|
 |**2022-09-24**|**Tseng Splitting Method with Double Inertial Steps for Solving Monotone Inclusion Problems**|Zhong-bao Wang et.al.|[2209.11989v1](http://arxiv.org/abs/2209.11989v1)|null|
-|**2022-09-24**|**Inertial migration of red blood cells under a Newtonian fluid in a circular channel**|Naoki Takeishi et.al.|[2209.11933v1](http://arxiv.org/abs/2209.11933v1)|null|
-|**2022-09-23**|**Wide-Area Geolocalization with a Limited Field of View Camera**|Lena M. Downes et.al.|[2209.11854v1](http://arxiv.org/abs/2209.11854v1)|null|
