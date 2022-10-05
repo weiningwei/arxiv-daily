@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|null|
+|**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v1](http://arxiv.org/abs/2210.01154v1)|null|
 |**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|[link](https://github.com/prbonn/kissicp)|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v2](http://arxiv.org/abs/2209.14649v2)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
@@ -30,5 +32,3 @@
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|[link](https://github.com/flysoaryun/lf-vio-loop)|
 |**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
 |**2022-09-11**|**Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model**|Kyle Retan et.al.|[2209.05956v1](http://arxiv.org/abs/2209.05956v1)|null|
-|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|[link](https://github.com/hku-mars/r3live)|
-|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|[link](https://github.com/utiasasrl/steam_icp)|

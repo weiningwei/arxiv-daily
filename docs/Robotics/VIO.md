@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|null|
+|**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v1](http://arxiv.org/abs/2210.01154v1)|null|
 |**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
 |**2022-10-03**|**Squeezed-Light-Enhanced Dispersive Gyroscope based Optical Microcavities**|Xiaoyang Chang et.al.|[2210.00741v1](http://arxiv.org/abs/2210.00741v1)|null|
 |**2022-09-30**|**MICROSCOPE mission: final results of the test of the Equivalence Principle**|Pierre Touboul et.al.|[2209.15487v1](http://arxiv.org/abs/2209.15487v1)|null|
@@ -30,5 +32,3 @@
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|[link](https://github.com/zhouruihao1001/ndd)|
 |**2022-09-26**|**On the scaling and anisotropy of two subranges in the inertial range of solar wind turbulence**|Honghong Wu et.al.|[2209.12409v1](http://arxiv.org/abs/2209.12409v1)|null|
 |**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v2](http://arxiv.org/abs/2209.12249v2)|null|
-|**2022-09-25**|**PL-EVIO: Robust Monocular Event-based Visual Inertial Odometry with Point and Line Features**|Weipeng Guan et.al.|[2209.12160v1](http://arxiv.org/abs/2209.12160v1)|null|
-|**2022-09-24**|**Tseng Splitting Method with Double Inertial Steps for Solving Monotone Inclusion Problems**|Zhong-bao Wang et.al.|[2209.11989v1](http://arxiv.org/abs/2209.11989v1)|null|
