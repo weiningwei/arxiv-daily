@@ -25,7 +25,7 @@
 |**2022-09-29**|**Graph Attention Network for Camera Relocalization on Dynamic Scenes**|Mohamed Amine Ouali et.al.|[2209.15056v1](http://arxiv.org/abs/2209.15056v1)|null|
 |**2022-09-29**|**Evolution of positive streamers in air over non-planar dielectrics: Experiments and simulations**|Hans Kristian Meyer et.al.|[2209.14763v1](http://arxiv.org/abs/2209.14763v1)|null|
 |**2022-09-29**|**Speeding Up Action Recognition Using Dynamic Accumulation of Residuals in Compressed Domain**|Ali Abdari et.al.|[2209.14757v1](http://arxiv.org/abs/2209.14757v1)|null|
-|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
+|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v2](http://arxiv.org/abs/2209.14649v2)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
 |**2022-09-29**|**The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument**|J. Guy et.al.|[2209.14482v1](http://arxiv.org/abs/2209.14482v1)|null|
 |**2022-09-28**|**Synthesizing Annotated Image and Video Data Using a Rendering-Based Pipeline for Improved License Plate Recognition**|Andreas Spruck et.al.|[2209.14448v1](http://arxiv.org/abs/2209.14448v1)|null|
 |**2022-09-28**|**Precision Landing of a UAV on a Moving Platform for Outdoor Applications**|Adarsh Salagame et.al.|[2209.14436v1](http://arxiv.org/abs/2209.14436v1)|null|

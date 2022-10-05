@@ -4,14 +4,14 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|[link](https://github.com/prbonn/kissicp)|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
-|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
+|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v2](http://arxiv.org/abs/2209.14649v2)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|[link](https://github.com/zhouruihao1001/ndd)|
 |**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v2](http://arxiv.org/abs/2209.12249v2)|null|
 |**2022-09-25**|**PL-EVIO: Robust Monocular Event-based Visual Inertial Odometry with Point and Line Features**|Weipeng Guan et.al.|[2209.12160v1](http://arxiv.org/abs/2209.12160v1)|null|
 |**2022-09-23**|**Wide-Area Geolocalization with a Limited Field of View Camera**|Lena M. Downes et.al.|[2209.11854v1](http://arxiv.org/abs/2209.11854v1)|null|
 |**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
-|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v2](http://arxiv.org/abs/2209.09777v2)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
 |**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
 |**2022-09-19**|**LGC-Net: A Lightweight Gyroscope Calibration Network for Efficient Attitude Estimation**|Yaohua Liu et.al.|[2209.08816v1](http://arxiv.org/abs/2209.08816v1)|[link](https://github.com/huazai665/lgc-net)|
