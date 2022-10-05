@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-04**|**Real-Time Monitoring of User Stress, Heart Rate and Heart Rate Variability on Mobile Devices**|Peyman Bateni et.al.|[2210.01791v1](http://arxiv.org/abs/2210.01791v1)|[link](https://github.com/beamai/beamaisdk-ios)|
 |**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|null|
-|**2022-10-04**|**HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**|Siqiao Xue et.al.|[2210.01753v1](http://arxiv.org/abs/2210.01753v1)|null|
-|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|null|
+|**2022-10-04**|**HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**|Siqiao Xue et.al.|[2210.01753v1](http://arxiv.org/abs/2210.01753v1)|[link](https://github.com/ilampard/hypro_tpp)|
+|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[link](https://github.com/aofrancani/dpt-vo)|
 |**2022-10-04**|**MBW: Multi-view Bootstrapping in the Wild**|Mosam Dabhi et.al.|[2210.01721v1](http://arxiv.org/abs/2210.01721v1)|[link](https://github.com/mosamdabhi/mbw)|
 |**2022-10-04**|**FRIDA: Fisheye Re-Identification Dataset with Annotations**|Mertcan Cokbas et.al.|[2210.01582v1](http://arxiv.org/abs/2210.01582v1)|null|
 |**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
@@ -19,7 +19,7 @@
 |**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
 |**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
 |**2022-10-03**|**The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection**|Sondre Wold et.al.|[2210.00907v1](http://arxiv.org/abs/2210.00907v1)|[link](https://github.com/sondrewold/adapters-mlm-injection)|
-|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)|
 |**2022-10-03**|**A Multi Camera Unsupervised Domain Adaptation Pipeline for Object Detection in Cultural Sites through Adversarial Learning and Self-Training**|Giovanni Pasqualino et.al.|[2210.00808v1](http://arxiv.org/abs/2210.00808v1)|[link](https://github.com/fpv-iplab/STMDA-RetinaNet)|
 |**2022-10-03**|**CERBERUS: Simple and Effective All-In-One Automotive Perception Model with Multi Task Learning**|Carmelo Scribano et.al.|[2210.00756v1](http://arxiv.org/abs/2210.00756v1)|[link](https://github.com/cscribano/cerberus)|
 |**2022-10-03**|**Deep Physiological Sensing Toolbox**|Xin Liu et.al.|[2210.00716v1](http://arxiv.org/abs/2210.00716v1)|[link](https://github.com/ubicomplab/rppg-toolbox)|
