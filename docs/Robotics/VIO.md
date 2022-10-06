@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-05**|**Non-relativistic limit of scalar and Dirac fields in curved spacetime**|Riccardo Falcone et.al.|[2210.02405v1](http://arxiv.org/abs/2210.02405v1)|null|
+|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v1](http://arxiv.org/abs/2210.02127v1)|null|
+|**2022-10-04**|**Bidirectional flow of two-dimensional dusty plasma under asymmetric periodic substrates driven by unbiased external excitations**|Wei Li et.al.|[2210.01895v1](http://arxiv.org/abs/2210.01895v1)|null|
 |**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[link](https://github.com/aofrancani/dpt-vo)|
 |**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v1](http://arxiv.org/abs/2210.01154v1)|null|
 |**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
@@ -29,6 +32,3 @@
 |**2022-09-27**|**Tracking the Vector Acceleration with a Hybrid Quantum Accelerometer Triad**|Simon Templier et.al.|[2209.13209v1](http://arxiv.org/abs/2209.13209v1)|null|
 |**2022-09-27**|**HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators**|Akhil Padmanabha et.al.|[2209.13097v1](http://arxiv.org/abs/2209.13097v1)|null|
 |**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|
-|**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|[link](https://github.com/zhouruihao1001/ndd)|
-|**2022-09-26**|**On the scaling and anisotropy of two subranges in the inertial range of solar wind turbulence**|Honghong Wu et.al.|[2209.12409v1](http://arxiv.org/abs/2209.12409v1)|null|
-|**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v2](http://arxiv.org/abs/2209.12249v2)|null|

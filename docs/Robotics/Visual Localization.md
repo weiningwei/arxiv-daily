@@ -2,11 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
+|**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
+|**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
+|**2022-10-05**|**Comprint: Image Forgery Detection and Localization using Compression Fingerprints**|Hannes Mareen et.al.|[2210.02227v1](http://arxiv.org/abs/2210.02227v1)|null|
+|**2022-10-05**|**On the interaction between the island divertor heat fluxes, the scrape-off layer radial electric field and the edge turbulence in Wendelstein 7-X plasmas**|E. Maragkoudakis et.al.|[2210.02134v1](http://arxiv.org/abs/2210.02134v1)|null|
+|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v1](http://arxiv.org/abs/2210.02127v1)|null|
+|**2022-10-05**|**Placing by Touching: An empirical study on the importance of tactile sensing for precise object placing**|Luca Lach et.al.|[2210.02054v1](http://arxiv.org/abs/2210.02054v1)|null|
+|**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
+|**2022-10-05**|**Multi-Camera Collaborative Depth Prediction via Consistent Structure Estimation**|Jialei Xu et.al.|[2210.02009v1](http://arxiv.org/abs/2210.02009v1)|null|
+|**2022-10-04**|**Photon-noise: Is a single-pixel camera better than point scanning? A signal-to-noise ratio analysis for Hadamard and Cosine positive modulation**|Camille Scotté et.al.|[2210.01915v1](http://arxiv.org/abs/2210.01915v1)|null|
+|**2022-10-04**|**Panchromatic HST/WFC3 Imaging Studies of Young, Rapidly Evolving Planetary Nebulae. II. NGC 7027**|Paula Moraga Baez et.al.|[2210.01859v1](http://arxiv.org/abs/2210.01859v1)|null|
+|**2022-10-04**|**Learning Perception-Aware Agile Flight in Cluttered Environments**|Yunlong Song et.al.|[2210.01841v1](http://arxiv.org/abs/2210.01841v1)|null|
 |**2022-10-04**|**Real-Time Monitoring of User Stress, Heart Rate and Heart Rate Variability on Mobile Devices**|Peyman Bateni et.al.|[2210.01791v1](http://arxiv.org/abs/2210.01791v1)|[link](https://github.com/beamai/beamaisdk-ios)|
 |**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|null|
 |**2022-10-04**|**HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**|Siqiao Xue et.al.|[2210.01753v1](http://arxiv.org/abs/2210.01753v1)|[link](https://github.com/ilampard/hypro_tpp)|
 |**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[link](https://github.com/aofrancani/dpt-vo)|
 |**2022-10-04**|**MBW: Multi-view Bootstrapping in the Wild**|Mosam Dabhi et.al.|[2210.01721v1](http://arxiv.org/abs/2210.01721v1)|[link](https://github.com/mosamdabhi/mbw)|
+|**2022-10-04**|**CFL-Net: Image Forgery Localization Using Contrastive Learning**|Fahim Faisal Niloy et.al.|[2210.02182v1](http://arxiv.org/abs/2210.02182v1)|null|
 |**2022-10-04**|**FRIDA: Fisheye Re-Identification Dataset with Annotations**|Mertcan Cokbas et.al.|[2210.01582v1](http://arxiv.org/abs/2210.01582v1)|null|
 |**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
 |**2022-10-04**|**Non-learning Stereo-aided Depth Completion under Mis-projection via Selective Stereo Matching**|Yasuhiro Yao et.al.|[2210.01436v1](http://arxiv.org/abs/2210.01436v1)|null|
@@ -19,16 +32,3 @@
 |**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
 |**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
 |**2022-10-03**|**The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection**|Sondre Wold et.al.|[2210.00907v1](http://arxiv.org/abs/2210.00907v1)|[link](https://github.com/sondrewold/adapters-mlm-injection)|
-|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)|
-|**2022-10-03**|**A Multi Camera Unsupervised Domain Adaptation Pipeline for Object Detection in Cultural Sites through Adversarial Learning and Self-Training**|Giovanni Pasqualino et.al.|[2210.00808v1](http://arxiv.org/abs/2210.00808v1)|[link](https://github.com/fpv-iplab/STMDA-RetinaNet)|
-|**2022-10-03**|**CERBERUS: Simple and Effective All-In-One Automotive Perception Model with Multi Task Learning**|Carmelo Scribano et.al.|[2210.00756v1](http://arxiv.org/abs/2210.00756v1)|[link](https://github.com/cscribano/cerberus)|
-|**2022-10-03**|**Deep Physiological Sensing Toolbox**|Xin Liu et.al.|[2210.00716v1](http://arxiv.org/abs/2210.00716v1)|[link](https://github.com/ubicomplab/rppg-toolbox)|
-|**2022-10-03**|**WorldGen: A Large Scale Generative Simulator**|Chahat Deep Singh et.al.|[2210.00715v1](http://arxiv.org/abs/2210.00715v1)|null|
-|**2022-10-02**|**Neural Implicit Surface Reconstruction from Noisy Camera Observations**|Sarthak Gupta et.al.|[2210.01548v1](http://arxiv.org/abs/2210.01548v1)|null|
-|**2022-10-02**|**Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers**|Ashish Singh et.al.|[2210.00507v1](http://arxiv.org/abs/2210.00507v1)|[link](https://github.com/mlgig/bodymts_2021)|
-|**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
-|**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|[link](https://github.com/xtu-pr-lab/sanerf)|
-|**2022-09-30**|**Robust Person Identification: A WiFi Vision-based Approach**|Yili Ren et.al.|[2210.00127v1](http://arxiv.org/abs/2210.00127v1)|null|
-|**2022-09-30**|**Force/Torque Sensing for Soft Grippers using an External Camera**|Jeremy A. Collins et.al.|[2210.00051v1](http://arxiv.org/abs/2210.00051v1)|null|
-|**2022-09-30**|**CRC-Aided Short Convolutional Codes and RCU Bounds for Orthogonal Signaling**|Jacob King et.al.|[2210.00026v1](http://arxiv.org/abs/2210.00026v1)|null|
-|**2022-09-30**|**Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**|Karina Ruzaeva et.al.|[2209.15584v1](http://arxiv.org/abs/2209.15584v1)|null|
