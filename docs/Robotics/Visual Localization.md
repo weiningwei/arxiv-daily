@@ -2,7 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
+|**2022-10-06**|**Unsupervised confidence for LiDAR depth maps and applications**|Andrea Conti et.al.|[2210.03118v1](http://arxiv.org/abs/2210.03118v1)|[link](https://github.com/andreaconti/lidar-confidence)|
+|**2022-10-06**|**Perception of Personality Traits in Crowds of Virtual Humans**|Lucas Nardino et.al.|[2210.03042v1](http://arxiv.org/abs/2210.03042v1)|null|
+|**2022-10-06**|**Rolling Shutter Inversion: Bring Rolling Shutter Images to High Framerate Global Shutter Video**|Bin Fan et.al.|[2210.03040v1](http://arxiv.org/abs/2210.03040v1)|[link](https://github.com/gitcvfb/rssr)|
+|**2022-10-06**|**Cross-Modality Domain Adaptation for Freespace Detection: A Simple yet Effective Baseline**|Yuanbin Wang et.al.|[2210.02991v1](http://arxiv.org/abs/2210.02991v1)|null|
+|**2022-10-06**|**FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras**|Andreas Meuleman et.al.|[2210.02785v1](http://arxiv.org/abs/2210.02785v1)|null|
+|**2022-10-06**|**Teaching Neural Module Networks to Do Arithmetic**|Jiayi Chen et.al.|[2210.02703v1](http://arxiv.org/abs/2210.02703v1)|null|
+|**2022-10-06**|**Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**|Sunghwan Hong et.al.|[2210.02689v1](http://arxiv.org/abs/2210.02689v1)|[link](https://github.com/KU-CVLAB/NeMF)|
+|**2022-10-05**|**Towards Semi-automatic Detection and Localization of Indoor Accessibility Issues using Mobile Depth Scanning and Computer Vision**|Xia Su et.al.|[2210.02533v1](http://arxiv.org/abs/2210.02533v1)|null|
+|**2022-10-05**|**TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags**|Bardienus P Duisterhof et.al.|[2210.02511v1](http://arxiv.org/abs/2210.02511v1)|null|
+|**2022-10-05**|**Roaring Storms in the Planetary-Mass Companion VHS 1256-1257 b: Hubble Space Telescope Multi-epoch Monitoring Reveals Vigorous Evolution in an Ultra-cool Atmosphere**|Yifan Zhou et.al.|[2210.02464v1](http://arxiv.org/abs/2210.02464v1)|null|
+|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|[link](https://github.com/divadi/solofusion)|
 |**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
 |**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
 |**2022-10-05**|**Comprint: Image Forgery Detection and Localization using Compression Fingerprints**|Hannes Mareen et.al.|[2210.02227v1](http://arxiv.org/abs/2210.02227v1)|[link](https://github.com/idlabmedia/comprint)|
@@ -21,14 +31,4 @@
 |**2022-10-04**|**MBW: Multi-view Bootstrapping in the Wild**|Mosam Dabhi et.al.|[2210.01721v1](http://arxiv.org/abs/2210.01721v1)|[link](https://github.com/mosamdabhi/mbw)|
 |**2022-10-04**|**CFL-Net: Image Forgery Localization Using Contrastive Learning**|Fahim Faisal Niloy et.al.|[2210.02182v1](http://arxiv.org/abs/2210.02182v1)|[link](https://github.com/niloy193/cflnet)|
 |**2022-10-04**|**FRIDA: Fisheye Re-Identification Dataset with Annotations**|Mertcan Cokbas et.al.|[2210.01582v1](http://arxiv.org/abs/2210.01582v1)|null|
-|**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
-|**2022-10-04**|**Non-learning Stereo-aided Depth Completion under Mis-projection via Selective Stereo Matching**|Yasuhiro Yao et.al.|[2210.01436v1](http://arxiv.org/abs/2210.01436v1)|null|
-|**2022-10-04**|**Towards Flexible Inductive Bias via Progressive Reparameterization Scheduling**|Yunsung Lee et.al.|[2210.01370v1](http://arxiv.org/abs/2210.01370v1)|null|
-|**2022-10-04**|**ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions**|Anjun Chen et.al.|[2210.01346v1](http://arxiv.org/abs/2210.01346v1)|null|
-|**2022-10-04**|**Automated Medical Device Display Reading Using Deep Learning Object Detection**|Lucas P. Moreira et.al.|[2210.01325v1](http://arxiv.org/abs/2210.01325v1)|null|
-|**2022-10-03**|**Probabilistic Volumetric Fusion for Dense Monocular SLAM**|Antoni Rosinol et.al.|[2210.01276v1](http://arxiv.org/abs/2210.01276v1)|null|
-|**2022-10-03**|**Event-based Temporally Dense Optical Flow Estimation with Sequential Neural Networks**|Wachirawit Ponghiran et.al.|[2210.01244v1](http://arxiv.org/abs/2210.01244v1)|null|
-|**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
-|**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
-|**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
-|**2022-10-03**|**The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection**|Sondre Wold et.al.|[2210.00907v1](http://arxiv.org/abs/2210.00907v1)|[link](https://github.com/sondrewold/adapters-mlm-injection)|
+|**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|[link](https://github.com/prbonn/hsmcl)|
