@@ -7,7 +7,7 @@
 |**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
 |**2022-10-05**|**Comprint: Image Forgery Detection and Localization using Compression Fingerprints**|Hannes Mareen et.al.|[2210.02227v1](http://arxiv.org/abs/2210.02227v1)|[link](https://github.com/idlabmedia/comprint)|
 |**2022-10-05**|**On the interaction between the island divertor heat fluxes, the scrape-off layer radial electric field and the edge turbulence in Wendelstein 7-X plasmas**|E. Maragkoudakis et.al.|[2210.02134v1](http://arxiv.org/abs/2210.02134v1)|null|
-|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v1](http://arxiv.org/abs/2210.02127v1)|null|
+|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v2](http://arxiv.org/abs/2210.02127v2)|null|
 |**2022-10-05**|**Placing by Touching: An empirical study on the importance of tactile sensing for precise object placing**|Luca Lach et.al.|[2210.02054v1](http://arxiv.org/abs/2210.02054v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-05**|**Multi-Camera Collaborative Depth Prediction via Consistent Structure Estimation**|Jialei Xu et.al.|[2210.02009v1](http://arxiv.org/abs/2210.02009v1)|null|
