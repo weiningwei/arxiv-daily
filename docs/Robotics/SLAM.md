@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-10**|**Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**|Xingyu Chen et.al.|[2210.04562v1](http://arxiv.org/abs/2210.04562v1)|null|
+|**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
@@ -30,5 +32,3 @@
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|[link](https://github.com/tjr16/bathy_nn_learning)|
-|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v2](http://arxiv.org/abs/2209.08430v2)|[link](https://github.com/geniussh/dytanvo)|
-|**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins et.al.|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
