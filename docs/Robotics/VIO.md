@@ -6,11 +6,11 @@
 |**2022-10-06**|**Data-Driven Meets Navigation: Concepts, Models, and Experimental Validation**|Itzik Klein et.al.|[2210.02930v1](http://arxiv.org/abs/2210.02930v1)|null|
 |**2022-10-05**|**TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags**|Bardienus P Duisterhof et.al.|[2210.02511v1](http://arxiv.org/abs/2210.02511v1)|null|
 |**2022-10-05**|**Non-relativistic limit of scalar and Dirac fields in curved spacetime**|Riccardo Falcone et.al.|[2210.02405v1](http://arxiv.org/abs/2210.02405v1)|null|
-|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v2](http://arxiv.org/abs/2210.02127v2)|null|
+|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v3](http://arxiv.org/abs/2210.02127v3)|null|
 |**2022-10-04**|**Bidirectional flow of two-dimensional dusty plasma under asymmetric periodic substrates driven by unbiased external excitations**|Wei Li et.al.|[2210.01895v1](http://arxiv.org/abs/2210.01895v1)|null|
 |**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[link](https://github.com/aofrancani/dpt-vo)|
 |**2022-10-04**|**Non-inertial effects on a non-relativistic quantum harmonic oscillator in the presence of a screw dislocation**|L. C. N. Santos et.al.|[2210.02559v1](http://arxiv.org/abs/2210.02559v1)|null|
-|**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v1](http://arxiv.org/abs/2210.01154v1)|null|
+|**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v2](http://arxiv.org/abs/2210.01154v2)|null|
 |**2022-10-03**|**Acoustic Localization and Communication Using a MEMS Microphone for Low-cost and Low-power Bio-inspired Underwater Robots**|Akshay Hinduja et.al.|[2210.01089v1](http://arxiv.org/abs/2210.01089v1)|null|
 |**2022-10-03**|**Squeezed-Light-Enhanced Dispersive Gyroscope based Optical Microcavities**|Xiaoyang Chang et.al.|[2210.00741v1](http://arxiv.org/abs/2210.00741v1)|null|
 |**2022-09-30**|**MICROSCOPE mission: final results of the test of the Equivalence Principle**|Pierre Touboul et.al.|[2209.15487v1](http://arxiv.org/abs/2209.15487v1)|null|
