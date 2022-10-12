@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
+|**2022-10-11**|**ViFiCon: Vision and Wireless Association Via Self-Supervised Contrastive Learning**|Nicholas Meegan et.al.|[2210.05513v1](http://arxiv.org/abs/2210.05513v1)|null|
+|**2022-10-11**|**Map-free Visual Relocalization: Metric Pose Relative to a Single Image**|Eduardo Arnold et.al.|[2210.05494v1](http://arxiv.org/abs/2210.05494v1)|[link](https://github.com/nianticlabs/map-free-reloc)|
+|**2022-10-11**|**A Perception-Driven Approach To Immersive Remote Telerobotics**|Y. T. Tefera et.al.|[2210.05417v1](http://arxiv.org/abs/2210.05417v1)|null|
+|**2022-10-11**|**Weakly-Supervised Optical Flow Estimation for Time-of-Flight**|Michael Schelling et.al.|[2210.05298v1](http://arxiv.org/abs/2210.05298v1)|null|
+|**2022-10-11**|**DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation**|Hongyang Li et.al.|[2210.05232v1](http://arxiv.org/abs/2210.05232v1)|[link](https://github.com/gorilla-lab-scut/dcl-net)|
+|**2022-10-11**|**The Type II-P Supernova 2019mhm and Constraints on Its Progenitor System**|J. Vazquez et.al.|[2210.05131v1](http://arxiv.org/abs/2210.05131v1)|null|
+|**2022-10-11**|**BanglaParaphrase: A High-Quality Bangla Paraphrase Dataset**|Ajwad Akil et.al.|[2210.05109v1](http://arxiv.org/abs/2210.05109v1)|null|
+|**2022-10-11**|**IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces**|Kelly Marchisio et.al.|[2210.05098v1](http://arxiv.org/abs/2210.05098v1)|[link](https://github.com/kellymarchisio/isovec)|
+|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v1](http://arxiv.org/abs/2210.05020v1)|null|
+|**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932v1](http://arxiv.org/abs/2210.04932v1)|null|
 |**2022-10-10**|**GTAV-NightRain: Photometric Realistic Large-scale Dataset for Night-time Rain Streak Removal**|Fan Zhang et.al.|[2210.04708v1](http://arxiv.org/abs/2210.04708v1)|null|
 |**2022-10-10**|**Experimental study of integrable turbulence in shallow water**|Ivan Redor et.al.|[2210.04638v1](http://arxiv.org/abs/2210.04638v1)|null|
 |**2022-10-10**|**Floorplan-Aware Camera Poses Refinement**|Anna Sokolova et.al.|[2210.04572v1](http://arxiv.org/abs/2210.04572v1)|null|
@@ -21,14 +32,3 @@
 |**2022-10-08**|**Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation**|Peizhe Jiang et.al.|[2210.03952v1](http://arxiv.org/abs/2210.03952v1)|null|
 |**2022-10-08**|**ArabSign: A Multi-modality Dataset and Benchmark for Continuous Arabic Sign Language Recognition**|Hamzah Luqman et.al.|[2210.03951v1](http://arxiv.org/abs/2210.03951v1)|null|
 |**2022-10-08**|**LW-ISP: A Lightweight Model with ISP and Deep Learning**|Hongyang Chen et.al.|[2210.03904v1](http://arxiv.org/abs/2210.03904v1)|null|
-|**2022-10-08**|**ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints**|Yinpeng Dong et.al.|[2210.03895v1](http://arxiv.org/abs/2210.03895v1)|[link](https://github.com/heathcliff-saku/viewfool_)|
-|**2022-10-07**|**Retrieval Augmented Visual Question Answering with Outside Knowledge**|Weizhe Lin et.al.|[2210.03809v1](http://arxiv.org/abs/2210.03809v1)|null|
-|**2022-10-07**|**Self-Aligned Concave Curve: Illumination Enhancement for Unsupervised Adaptation**|Wenjing Wang et.al.|[2210.03792v1](http://arxiv.org/abs/2210.03792v1)|null|
-|**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|[link](https://github.com/ind1010/SfM_for_BusEdge)|
-|**2022-10-07**|**Dual Clustering Co-teaching with Consistent Sample Mining for Unsupervised Person Re-Identification**|Zeqi Chen et.al.|[2210.03339v1](http://arxiv.org/abs/2210.03339v1)|null|
-|**2022-10-07**|**TRADE: Object Tracking with 3D Trajectory and Ground Depth Estimates for UAVs**|Pedro F. Proença et.al.|[2210.03270v1](http://arxiv.org/abs/2210.03270v1)|null|
-|**2022-10-06**|**Unsupervised confidence for LiDAR depth maps and applications**|Andrea Conti et.al.|[2210.03118v1](http://arxiv.org/abs/2210.03118v1)|[link](https://github.com/andreaconti/lidar-confidence)|
-|**2022-10-06**|**Perception of Personality Traits in Crowds of Virtual Humans**|Lucas Nardino et.al.|[2210.03042v1](http://arxiv.org/abs/2210.03042v1)|null|
-|**2022-10-06**|**Rolling Shutter Inversion: Bring Rolling Shutter Images to High Framerate Global Shutter Video**|Bin Fan et.al.|[2210.03040v1](http://arxiv.org/abs/2210.03040v1)|[link](https://github.com/gitcvfb/rssr)|
-|**2022-10-06**|**Cross-Modality Domain Adaptation for Freespace Detection: A Simple yet Effective Baseline**|Yuanbin Wang et.al.|[2210.02991v1](http://arxiv.org/abs/2210.02991v1)|null|
-|**2022-10-06**|**FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras**|Andreas Meuleman et.al.|[2210.02785v1](http://arxiv.org/abs/2210.02785v1)|null|

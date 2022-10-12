@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11**|**Controlling Photon Entanglement with Mechanical Rotation**|Marion Cromb et.al.|[2210.05628v1](http://arxiv.org/abs/2210.05628v1)|null|
+|**2022-10-11**|**Dynamical fluctuations of a tracer coupled to active and passive particles**|Ion Santra et.al.|[2210.05139v1](http://arxiv.org/abs/2210.05139v1)|null|
+|**2022-10-10**|**Dynamic Gap: Formal Guarantees for Safe Gap-based Navigation in Dynamic Environments**|Max Asselmeier et.al.|[2210.05022v1](http://arxiv.org/abs/2210.05022v1)|null|
 |**2022-10-10**|**Influence of liquid miscibility and wettability on the structures produced by drop-jet collisions**|David Baumgartner et.al.|[2210.04529v1](http://arxiv.org/abs/2210.04529v1)|null|
 |**2022-10-10**|**Turbulence drag modulation by dispersed droplets in Taylor-Couette flow: the effects of the dispersed phase viscosity**|Cheng Wang et.al.|[2210.04500v1](http://arxiv.org/abs/2210.04500v1)|null|
 |**2022-10-07**|**Inertial Krasnoselskii-Mann Iterations**|Ignacio Fierro et.al.|[2210.03791v1](http://arxiv.org/abs/2210.03791v1)|null|
@@ -29,6 +32,3 @@
 |**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v3](http://arxiv.org/abs/2209.14649v3)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
 |**2022-09-28**|**Machine Learning for Optical Motion Capture-driven Musculoskeletal Modeling from Inertial Motion Capture Data**|Abhishek Dasgupta et.al.|[2209.14456v1](http://arxiv.org/abs/2209.14456v1)|null|
 |**2022-09-28**|**Precision Landing of a UAV on a Moving Platform for Outdoor Applications**|Adarsh Salagame et.al.|[2209.14436v1](http://arxiv.org/abs/2209.14436v1)|null|
-|**2022-09-28**|**Secure Indoor Location for Airport Environments**|I Santos-González et.al.|[2209.14195v1](http://arxiv.org/abs/2209.14195v1)|null|
-|**2022-09-28**|**Inertial Quasi-Newton Methods for Monotone Inclusion: Efficient Resolvent Calculus and Primal-Dual Methods**|Shida Wang et.al.|[2209.14019v1](http://arxiv.org/abs/2209.14019v1)|null|
-|**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|null|
