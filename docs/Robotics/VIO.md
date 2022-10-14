@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-13**|**Imaging-based 3D Particle Tracking System for Field Characterization of Particle Dynamics in Atmospheric Flows**|Nathaniel Bristow et.al.|[2210.07106v1](http://arxiv.org/abs/2210.07106v1)|null|
+|**2022-10-12**|**Unscented Kalman Filtering on Manifolds for AUV Navigation -- Experimental Results**|Stephen T. Krauss et.al.|[2210.06510v1](http://arxiv.org/abs/2210.06510v1)|null|
 |**2022-10-12**|**Nonlinear multi-frequency phonon lasers with active levitated optomechanics**|Tengfang Kuang et.al.|[2210.06137v1](http://arxiv.org/abs/2210.06137v1)|null|
 |**2022-10-11**|**Controlling Photon Entanglement with Mechanical Rotation**|Marion Cromb et.al.|[2210.05628v1](http://arxiv.org/abs/2210.05628v1)|null|
 |**2022-10-11**|**Dynamical fluctuations of a tracer coupled to active and passive particles**|Ion Santra et.al.|[2210.05139v1](http://arxiv.org/abs/2210.05139v1)|null|
@@ -30,5 +32,3 @@
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. III. Rise-time scaling**|D. E. Ruiz et.al.|[2209.14912v1](http://arxiv.org/abs/2209.14912v1)|null|
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. II. Current scaling**|D. E. Ruiz et.al.|[2209.14911v1](http://arxiv.org/abs/2209.14911v1)|null|
 |**2022-09-29**|**Exploring the parameter space of MagLIF implosions using similarity scaling. I. Theoretical framework**|D. E. Ruiz et.al.|[2209.14909v1](http://arxiv.org/abs/2209.14909v1)|null|
-|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v3](http://arxiv.org/abs/2209.14649v3)|[link](https://github.com/jonasbchrt/raw-gnss-fusion)|
-|**2022-09-28**|**Machine Learning for Optical Motion Capture-driven Musculoskeletal Modeling from Inertial Motion Capture Data**|Abhishek Dasgupta et.al.|[2209.14456v1](http://arxiv.org/abs/2209.14456v1)|null|

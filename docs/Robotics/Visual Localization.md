@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
+|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|null|
+|**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181v1](http://arxiv.org/abs/2210.07181v1)|null|
+|**2022-10-13**|**Imaging-based 3D Particle Tracking System for Field Characterization of Particle Dynamics in Atmospheric Flows**|Nathaniel Bristow et.al.|[2210.07106v1](http://arxiv.org/abs/2210.07106v1)|null|
+|**2022-10-13**|**X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation**|Shubhankar Borse et.al.|[2210.06778v1](http://arxiv.org/abs/2210.06778v1)|null|
+|**2022-10-13**|**Learning Driving Policies for End-to-End Autonomous Driving**|Shoaib Azam et.al.|[2210.06758v1](http://arxiv.org/abs/2210.06758v1)|null|
+|**2022-10-13**|**A Tagging Solution to Discover IoT Devices in Apartments**|Berkay Kaplan et.al.|[2210.06676v1](http://arxiv.org/abs/2210.06676v1)|null|
+|**2022-10-13**|**Understanding the Effect of Smartphone Cameras on Estimating Munsell Soil Colors from Imagery**|Ricky Sinclair et.al.|[2210.06667v1](http://arxiv.org/abs/2210.06667v1)|null|
+|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575v1](http://arxiv.org/abs/2210.06575v1)|null|
+|**2022-10-12**|**Flare7K: A Phenomenological Nighttime Flare Removal Dataset**|Yuekun Dai et.al.|[2210.06570v1](http://arxiv.org/abs/2210.06570v1)|null|
 |**2022-10-12**|**AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars**|Yue Wu et.al.|[2210.06465v1](http://arxiv.org/abs/2210.06465v1)|null|
 |**2022-10-12**|**On Synchronized Globular Cluster Formation over Supra-galactic Scales: A Virgo-Centaurus Group Connection**|Juan Carlos Forte et.al.|[2210.06426v1](http://arxiv.org/abs/2210.06426v1)|null|
 |**2022-10-12**|**ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view**|Mai Nishimura et.al.|[2210.06332v1](http://arxiv.org/abs/2210.06332v1)|null|
@@ -22,13 +32,3 @@
 |**2022-10-11**|**The Type II-P Supernova 2019mhm and Constraints on Its Progenitor System**|J. Vazquez et.al.|[2210.05131v1](http://arxiv.org/abs/2210.05131v1)|null|
 |**2022-10-11**|**BanglaParaphrase: A High-Quality Bangla Paraphrase Dataset**|Ajwad Akil et.al.|[2210.05109v1](http://arxiv.org/abs/2210.05109v1)|null|
 |**2022-10-11**|**IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces**|Kelly Marchisio et.al.|[2210.05098v1](http://arxiv.org/abs/2210.05098v1)|[link](https://github.com/kellymarchisio/isovec)|
-|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
-|**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932v1](http://arxiv.org/abs/2210.04932v1)|null|
-|**2022-10-10**|**GTAV-NightRain: Photometric Realistic Large-scale Dataset for Night-time Rain Streak Removal**|Fan Zhang et.al.|[2210.04708v1](http://arxiv.org/abs/2210.04708v1)|null|
-|**2022-10-10**|**Experimental study of integrable turbulence in shallow water**|Ivan Redor et.al.|[2210.04638v1](http://arxiv.org/abs/2210.04638v1)|null|
-|**2022-10-10**|**Floorplan-Aware Camera Poses Refinement**|Anna Sokolova et.al.|[2210.04572v1](http://arxiv.org/abs/2210.04572v1)|null|
-|**2022-10-10**|**SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**|Yitong Xia et.al.|[2210.04553v1](http://arxiv.org/abs/2210.04553v1)|null|
-|**2022-10-10**|**Optimizing recording speed and interrogation window for rotating flow recorded in the ambient light: PIV analysis**|Shailee P Shah et.al.|[2210.04547v1](http://arxiv.org/abs/2210.04547v1)|null|
-|**2022-10-10**|**Sparse Semantic Map-Based Monocular Localization in Traffic Scenes Using Learned 2D-3D Point-Line Correspondences**|Xingyu Chen et.al.|[2210.04543v1](http://arxiv.org/abs/2210.04543v1)|null|
-|**2022-10-10**|**DeepHS-HDRVideo: Deep High Speed High Dynamic Range Video Reconstruction**|Zeeshan Khan et.al.|[2210.04429v1](http://arxiv.org/abs/2210.04429v1)|null|
-|**2022-10-10**|**Focus Plus: Detect Learner's Distraction by Web Camera in Distance Teaching**|Eason Chen et.al.|[2210.04400v1](http://arxiv.org/abs/2210.04400v1)|null|
