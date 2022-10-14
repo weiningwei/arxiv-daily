@@ -22,7 +22,7 @@
 |**2022-10-11**|**The Type II-P Supernova 2019mhm and Constraints on Its Progenitor System**|J. Vazquez et.al.|[2210.05131v1](http://arxiv.org/abs/2210.05131v1)|null|
 |**2022-10-11**|**BanglaParaphrase: A High-Quality Bangla Paraphrase Dataset**|Ajwad Akil et.al.|[2210.05109v1](http://arxiv.org/abs/2210.05109v1)|null|
 |**2022-10-11**|**IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces**|Kelly Marchisio et.al.|[2210.05098v1](http://arxiv.org/abs/2210.05098v1)|[link](https://github.com/kellymarchisio/isovec)|
-|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v1](http://arxiv.org/abs/2210.05020v1)|null|
+|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
 |**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932v1](http://arxiv.org/abs/2210.04932v1)|null|
 |**2022-10-10**|**GTAV-NightRain: Photometric Realistic Large-scale Dataset for Night-time Rain Streak Removal**|Fan Zhang et.al.|[2210.04708v1](http://arxiv.org/abs/2210.04708v1)|null|
 |**2022-10-10**|**Experimental study of integrable turbulence in shallow water**|Ivan Redor et.al.|[2210.04638v1](http://arxiv.org/abs/2210.04638v1)|null|
