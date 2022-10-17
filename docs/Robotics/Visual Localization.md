@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-14**|**Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain**|Gianmarco Roggiolani et.al.|[2210.07879v1](http://arxiv.org/abs/2210.07879v1)|[link](https://github.com/prbonn/hapt)|
+|**2022-10-14**|**Convolutional Neural Networks: Basic Concepts and Applications in Manufacturing**|Shengli Jiang et.al.|[2210.07848v1](http://arxiv.org/abs/2210.07848v1)|null|
+|**2022-10-14**|**Intel Labs at Ego4D Challenge 2022: A Better Baseline for Audio-Visual Diarization**|Kyle Min et.al.|[2210.07764v1](http://arxiv.org/abs/2210.07764v1)|null|
+|**2022-10-14**|**Model-Based Imitation Learning for Urban Driving**|Anthony Hu et.al.|[2210.07729v1](http://arxiv.org/abs/2210.07729v1)|null|
+|**2022-10-14**|**Multi-Task Learning based Video Anomaly Detection with Attention**|Mohammad Baradaran et.al.|[2210.07697v1](http://arxiv.org/abs/2210.07697v1)|null|
+|**2022-10-14**|**DART: Articulated Hand Model with Diverse Accessories and Rich Textures**|Daiheng Gao et.al.|[2210.07650v1](http://arxiv.org/abs/2210.07650v1)|null|
+|**2022-10-14**|**Learning Active Camera for Multi-Object Navigation**|Peihao Chen et.al.|[2210.07505v1](http://arxiv.org/abs/2210.07505v1)|null|
+|**2022-10-14**|**ExAug: Robot-Conditioned Navigation Policies via Geometric Experience Augmentation**|Noriaki Hirose et.al.|[2210.07450v1](http://arxiv.org/abs/2210.07450v1)|null|
+|**2022-10-14**|**Frame Mining: a Free Lunch for Learning Robotic Manipulation from 3D Point Clouds**|Minghua Liu et.al.|[2210.07442v1](http://arxiv.org/abs/2210.07442v1)|null|
+|**2022-10-14**|**Smart Headset, Computer Vision and Machine Learning for Efficient Prawn Farm Management**|Mingze Xi et.al.|[2210.07436v1](http://arxiv.org/abs/2210.07436v1)|null|
+|**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v1](http://arxiv.org/abs/2210.07435v1)|null|
+|**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti et.al.|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
+|**2022-10-13**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301v1](http://arxiv.org/abs/2210.07301v1)|null|
 |**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
 |**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[link](https://github.com/mila-iqia/casande-rl)|
 |**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181v1](http://arxiv.org/abs/2210.07181v1)|null|
@@ -19,16 +32,3 @@
 |**2022-10-12**|**BEV Lane Det: Fast Lane Detection on BEV Ground**|Ruihao Wang et.al.|[2210.06006v1](http://arxiv.org/abs/2210.06006v1)|null|
 |**2022-10-12**|**A Complementary Framework for Human-Robot Collaboration with a Mixed AR-Haptic Interface**|Xiangjie Yan et.al.|[2210.06003v1](http://arxiv.org/abs/2210.06003v1)|null|
 |**2022-10-12**|**Estimating the Pose of a Euro Pallet with an RGB Camera based on Synthetic Training Data**|Markus Knitt et.al.|[2210.06001v1](http://arxiv.org/abs/2210.06001v1)|null|
-|**2022-10-12**|**Projective Transformation Rectification for Camera-captured Chest X-ray Photograph Interpretation with Synthetic Data**|Chak Fong Chong et.al.|[2210.05954v1](http://arxiv.org/abs/2210.05954v1)|null|
-|**2022-10-12**|**Solving combinational optimization problems with evolutionary single-pixel imaging**|Wei Huang et.al.|[2210.05923v1](http://arxiv.org/abs/2210.05923v1)|null|
-|**2022-10-11**|**Constraining gravity with synergies between radio and optical cosmological surveys**|Santiago Casas et.al.|[2210.05705v1](http://arxiv.org/abs/2210.05705v1)|null|
-|**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
-|**2022-10-11**|**ViFiCon: Vision and Wireless Association Via Self-Supervised Contrastive Learning**|Nicholas Meegan et.al.|[2210.05513v1](http://arxiv.org/abs/2210.05513v1)|null|
-|**2022-10-11**|**Map-free Visual Relocalization: Metric Pose Relative to a Single Image**|Eduardo Arnold et.al.|[2210.05494v1](http://arxiv.org/abs/2210.05494v1)|[link](https://github.com/nianticlabs/map-free-reloc)|
-|**2022-10-11**|**A Perception-Driven Approach To Immersive Remote Telerobotics**|Y. T. Tefera et.al.|[2210.05417v1](http://arxiv.org/abs/2210.05417v1)|null|
-|**2022-10-11**|**Hybrid MBlur: A Systematic Approach to Augment Rasterization with Ray Tracing for Rendering Motion Blur in Games**|Yu Wei Tan et.al.|[2210.06159v1](http://arxiv.org/abs/2210.06159v1)|null|
-|**2022-10-11**|**Weakly-Supervised Optical Flow Estimation for Time-of-Flight**|Michael Schelling et.al.|[2210.05298v1](http://arxiv.org/abs/2210.05298v1)|null|
-|**2022-10-11**|**DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation**|Hongyang Li et.al.|[2210.05232v1](http://arxiv.org/abs/2210.05232v1)|[link](https://github.com/gorilla-lab-scut/dcl-net)|
-|**2022-10-11**|**The Type II-P Supernova 2019mhm and Constraints on Its Progenitor System**|J. Vazquez et.al.|[2210.05131v1](http://arxiv.org/abs/2210.05131v1)|null|
-|**2022-10-11**|**BanglaParaphrase: A High-Quality Bangla Paraphrase Dataset**|Ajwad Akil et.al.|[2210.05109v1](http://arxiv.org/abs/2210.05109v1)|null|
-|**2022-10-11**|**IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces**|Kelly Marchisio et.al.|[2210.05098v1](http://arxiv.org/abs/2210.05098v1)|[link](https://github.com/kellymarchisio/isovec)|
