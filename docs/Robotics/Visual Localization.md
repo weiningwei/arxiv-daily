@@ -14,7 +14,7 @@
 |**2022-10-14**|**Smart Headset, Computer Vision and Machine Learning for Efficient Prawn Farm Management**|Mingze Xi et.al.|[2210.07436v1](http://arxiv.org/abs/2210.07436v1)|null|
 |**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v1](http://arxiv.org/abs/2210.07435v1)|null|
 |**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti et.al.|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
-|**2022-10-13**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301v1](http://arxiv.org/abs/2210.07301v1)|null|
+|**2022-10-13**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301v2](http://arxiv.org/abs/2210.07301v2)|null|
 |**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
 |**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|[link](https://github.com/mila-iqia/casande-rl)|
 |**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181v1](http://arxiv.org/abs/2210.07181v1)|null|
