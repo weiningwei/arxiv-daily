@@ -13,7 +13,7 @@
 |**2022-10-15**|**Bearing-based Relative Localization for Robotic Swarm with Partially Mutual Observations**|Yingjian Wang et.al.|[2210.08265v1](http://arxiv.org/abs/2210.08265v1)|null|
 |**2022-10-14**|**The unsteady overtopping of barriers by gravity currents and dam-break flows**|Edward W. G. Skevington et.al.|[2210.07981v1](http://arxiv.org/abs/2210.07981v1)|null|
 |**2022-10-14**|**Airborne absolute gravimetry with a quantum sensor, comparison with classical technologies**|Yannick Bidel et.al.|[2210.07865v1](http://arxiv.org/abs/2210.07865v1)|null|
-|**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v1](http://arxiv.org/abs/2210.07435v1)|null|
+|**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v2](http://arxiv.org/abs/2210.07435v2)|null|
 |**2022-10-13**|**Quantum metrology by one-minute interrogation of a coherent atomic spatial superposition**|Cristian D. Panda et.al.|[2210.07289v1](http://arxiv.org/abs/2210.07289v1)|null|
 |**2022-10-13**|**Imaging-based 3D Particle Tracking System for Field Characterization of Particle Dynamics in Atmospheric Flows**|Nathaniel Bristow et.al.|[2210.07106v1](http://arxiv.org/abs/2210.07106v1)|null|
 |**2022-10-12**|**Unscented Kalman Filtering on Manifolds for AUV Navigation -- Experimental Results**|Stephen T. Krauss et.al.|[2210.06510v1](http://arxiv.org/abs/2210.06510v1)|null|
