@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
+|**2022-10-18**|**BIOWISH: Biometric Recognition using Wearable Inertial Sensors detecting Heart Activity**|Emanuele Maiorana et.al.|[2210.09843v1](http://arxiv.org/abs/2210.09843v1)|null|
+|**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
+|**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|null|
+|**2022-10-17**|**Asteroids for ultralight dark-photon dark-matter detection**|Michael A. Fedderke et.al.|[2210.09324v1](http://arxiv.org/abs/2210.09324v1)|null|
 |**2022-10-17**|**Amplitudes of Solar Gravity Modes: A Review**|Kévin Belkacem et.al.|[2210.09229v1](http://arxiv.org/abs/2210.09229v1)|null|
 |**2022-10-17**|**INSANE: Cross-Domain UAV Data Sets with Increased Number of Sensors for developing Advanced and Novel Estimators**|Christian Brommer et.al.|[2210.09114v1](http://arxiv.org/abs/2210.09114v1)|null|
 |**2022-10-17**|**Ultrasensitive atomic comagnetometer with enhanced nuclear spin coherence**|Kai Wei et.al.|[2210.09027v1](http://arxiv.org/abs/2210.09027v1)|null|
@@ -27,8 +32,3 @@
 |**2022-10-07**|**Temporal Feature Alignment in Contrastive Self-Supervised Learning for Human Activity Recognition**|Bulat Khaertdinov et.al.|[2210.03382v1](http://arxiv.org/abs/2210.03382v1)|[link](https://github.com/bulatkh/csshar_tfa)|
 |**2022-10-06**|**Data-Driven Meets Navigation: Concepts, Models, and Experimental Validation**|Itzik Klein et.al.|[2210.02930v1](http://arxiv.org/abs/2210.02930v1)|null|
 |**2022-10-05**|**TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags**|Bardienus P Duisterhof et.al.|[2210.02511v1](http://arxiv.org/abs/2210.02511v1)|null|
-|**2022-10-05**|**Non-relativistic limit of scalar and Dirac fields in curved spacetime**|Riccardo Falcone et.al.|[2210.02405v1](http://arxiv.org/abs/2210.02405v1)|null|
-|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v3](http://arxiv.org/abs/2210.02127v3)|null|
-|**2022-10-04**|**Bidirectional flow of two-dimensional dusty plasma under asymmetric periodic substrates driven by unbiased external excitations**|Wei Li et.al.|[2210.01895v1](http://arxiv.org/abs/2210.01895v1)|null|
-|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[link](https://github.com/aofrancani/dpt-vo)|
-|**2022-10-04**|**An Improved Multi-State Constraint Kalman Filter for Visual-Inertial Odometry**|M. R. Abdollahi et.al.|[2210.08117v1](http://arxiv.org/abs/2210.08117v1)|null|

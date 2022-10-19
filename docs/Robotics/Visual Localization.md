@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
+|**2022-10-18**|**MotionDeltaCNN: Sparse CNN Inference of Frame Differences in Moving Camera Videos**|Mathias Parger et.al.|[2210.09887v1](http://arxiv.org/abs/2210.09887v1)|null|
+|**2022-10-18**|**On-the-go Reflectance Transformation Imaging with Ordinary Smartphones**|Mara Pistellato et.al.|[2210.09821v1](http://arxiv.org/abs/2210.09821v1)|null|
+|**2022-10-18**|**Compact multi-scale periocular recognition using SAFE features**|Fernando Alonso-Fernandez et.al.|[2210.09778v1](http://arxiv.org/abs/2210.09778v1)|null|
+|**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|null|
+|**2022-10-18**|**Virtual Reality via Object Poses and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**|Jongseok Lee et.al.|[2210.09678v1](http://arxiv.org/abs/2210.09678v1)|null|
+|**2022-10-18**|**Object Recognition in Different Lighting Conditions at Various Angles by Deep Learning Method**|Imran Khan Mirani et.al.|[2210.09618v1](http://arxiv.org/abs/2210.09618v1)|null|
+|**2022-10-18**|**Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection**|Xin Li et.al.|[2210.09615v1](http://arxiv.org/abs/2210.09615v1)|null|
 |**2022-10-17**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v2](http://arxiv.org/abs/2210.09267v2)|null|
 |**2022-10-17**|**Characterization of Population III Stars with Stellar Atmosphere and Evolutionary Modeling and Predictions of their Observability with the James Webb Space Telescope**|Mikaela M. Larkin et.al.|[2210.09185v1](http://arxiv.org/abs/2210.09185v1)|null|
 |**2022-10-17**|**How do we get there? Evaluating transformer neural networks as cognitive models for English past tense inflection**|Xiaomeng Ma et.al.|[2210.09167v1](http://arxiv.org/abs/2210.09167v1)|[link](https://github.com/xiaomeng-ma/english-past-tense)|
@@ -24,11 +32,3 @@
 |**2022-10-14**|**CO2-driven surface changes in the Hapi region on Comet 67P/Churyumov-Gerasimenko**|Björn J. R. Davidsson et.al.|[2210.08134v1](http://arxiv.org/abs/2210.08134v1)|null|
 |**2022-10-14**|**Instance Segmentation with Cross-Modal Consistency**|Alex Zihao Zhu et.al.|[2210.08113v1](http://arxiv.org/abs/2210.08113v1)|null|
 |**2022-10-14**|**Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain**|Gianmarco Roggiolani et.al.|[2210.07879v1](http://arxiv.org/abs/2210.07879v1)|[link](https://github.com/prbonn/hapt)|
-|**2022-10-14**|**Convolutional Neural Networks: Basic Concepts and Applications in Manufacturing**|Shengli Jiang et.al.|[2210.07848v1](http://arxiv.org/abs/2210.07848v1)|null|
-|**2022-10-14**|**Intel Labs at Ego4D Challenge 2022: A Better Baseline for Audio-Visual Diarization**|Kyle Min et.al.|[2210.07764v1](http://arxiv.org/abs/2210.07764v1)|null|
-|**2022-10-14**|**Model-Based Imitation Learning for Urban Driving**|Anthony Hu et.al.|[2210.07729v1](http://arxiv.org/abs/2210.07729v1)|null|
-|**2022-10-14**|**Multi-Task Learning based Video Anomaly Detection with Attention**|Mohammad Baradaran et.al.|[2210.07697v1](http://arxiv.org/abs/2210.07697v1)|null|
-|**2022-10-14**|**DART: Articulated Hand Model with Diverse Accessories and Rich Textures**|Daiheng Gao et.al.|[2210.07650v1](http://arxiv.org/abs/2210.07650v1)|null|
-|**2022-10-14**|**Learning Active Camera for Multi-Object Navigation**|Peihao Chen et.al.|[2210.07505v1](http://arxiv.org/abs/2210.07505v1)|null|
-|**2022-10-14**|**Digital Image Forensics using Deep Learning**|Akash Nagaraj et.al.|[2210.09052v1](http://arxiv.org/abs/2210.09052v1)|[link](https://github.com/grassknoted/Digital-Image-Forensics)|
-|**2022-10-14**|**ExAug: Robot-Conditioned Navigation Policies via Geometric Experience Augmentation**|Noriaki Hirose et.al.|[2210.07450v1](http://arxiv.org/abs/2210.07450v1)|null|
