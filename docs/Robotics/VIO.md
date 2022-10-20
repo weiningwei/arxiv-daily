@@ -2,10 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-19**|**LaMAR: Benchmarking Localization and Mapping for Augmented Reality**|Paul-Edouard Sarlin et.al.|[2210.10770v1](http://arxiv.org/abs/2210.10770v1)|null|
+|**2022-10-19**|**Weak and strong convergence of an inertial proximal method for solving bilevel monotone equilibrium problems**|AÏcha Balhag et.al.|[2210.10714v1](http://arxiv.org/abs/2210.10714v1)|null|
+|**2022-10-19**|**SR-LIO: LiDAR-Inertial Odometry with Sweep Reconstruction**|Zikang Yuan et.al.|[2210.10424v1](http://arxiv.org/abs/2210.10424v1)|[link](https://github.com/ZikangYuan/sr_lio)|
+|**2022-10-19**|**Statistics and spectral analysis of turbulent duct flows with flexible and rigid polymer solutions**|Rodrigo S. Mitishita et.al.|[2210.10319v1](http://arxiv.org/abs/2210.10319v1)|null|
+|**2022-10-18**|**Initial Orbit Determination from Only Heading Measurements**|John A. Christian et.al.|[2210.10120v1](http://arxiv.org/abs/2210.10120v1)|null|
 |**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
 |**2022-10-18**|**BIOWISH: Biometric Recognition using Wearable Inertial Sensors detecting Heart Activity**|Emanuele Maiorana et.al.|[2210.09843v1](http://arxiv.org/abs/2210.09843v1)|null|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
-|**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|null|
+|**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|[link](https://github.com/tiers/wildnav)|
 |**2022-10-17**|**Asteroids for ultralight dark-photon dark-matter detection**|Michael A. Fedderke et.al.|[2210.09324v1](http://arxiv.org/abs/2210.09324v1)|null|
 |**2022-10-17**|**Amplitudes of Solar Gravity Modes: A Review**|Kévin Belkacem et.al.|[2210.09229v1](http://arxiv.org/abs/2210.09229v1)|null|
 |**2022-10-17**|**INSANE: Cross-Domain UAV Data Sets with Increased Number of Sensors for developing Advanced and Novel Estimators**|Christian Brommer et.al.|[2210.09114v1](http://arxiv.org/abs/2210.09114v1)|null|
@@ -27,8 +32,3 @@
 |**2022-10-11**|**Dynamical fluctuations of a tracer coupled to active and passive particles**|Ion Santra et.al.|[2210.05139v1](http://arxiv.org/abs/2210.05139v1)|null|
 |**2022-10-10**|**Dynamic Gap: Formal Guarantees for Safe Gap-based Navigation in Dynamic Environments**|Max Asselmeier et.al.|[2210.05022v1](http://arxiv.org/abs/2210.05022v1)|null|
 |**2022-10-10**|**Influence of liquid miscibility and wettability on the structures produced by drop-jet collisions**|David Baumgartner et.al.|[2210.04529v1](http://arxiv.org/abs/2210.04529v1)|null|
-|**2022-10-10**|**Turbulence drag modulation by dispersed droplets in Taylor-Couette flow: the effects of the dispersed phase viscosity**|Cheng Wang et.al.|[2210.04500v1](http://arxiv.org/abs/2210.04500v1)|null|
-|**2022-10-07**|**Inertial Krasnoselskii-Mann Iterations**|Ignacio Fierro et.al.|[2210.03791v1](http://arxiv.org/abs/2210.03791v1)|null|
-|**2022-10-07**|**Temporal Feature Alignment in Contrastive Self-Supervised Learning for Human Activity Recognition**|Bulat Khaertdinov et.al.|[2210.03382v1](http://arxiv.org/abs/2210.03382v1)|[link](https://github.com/bulatkh/csshar_tfa)|
-|**2022-10-06**|**Data-Driven Meets Navigation: Concepts, Models, and Experimental Validation**|Itzik Klein et.al.|[2210.02930v1](http://arxiv.org/abs/2210.02930v1)|null|
-|**2022-10-05**|**TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags**|Bardienus P Duisterhof et.al.|[2210.02511v1](http://arxiv.org/abs/2210.02511v1)|null|
