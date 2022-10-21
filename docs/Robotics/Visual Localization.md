@@ -7,13 +7,13 @@
 |**2022-10-20**|**Transformer-based Action recognition in hand-object interacting scenarios**|Hoseong Cho et.al.|[2210.11387v1](http://arxiv.org/abs/2210.11387v1)|null|
 |**2022-10-20**|**Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios**|Hoseong Cho et.al.|[2210.11384v1](http://arxiv.org/abs/2210.11384v1)|null|
 |**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v1](http://arxiv.org/abs/2210.11292v1)|null|
-|**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|null|
-|**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v1](http://arxiv.org/abs/2210.11035v1)|null|
+|**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|[link](https://github.com/mv-lab/AISP)|
+|**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v1](http://arxiv.org/abs/2210.11035v1)|[link](https://github.com/mcg-nju/pointtad)|
 |**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
 |**2022-10-20**|**3D Human Mesh Construction Leveraging Wi-Fi**|Yichao Wang et.al.|[2210.10957v1](http://arxiv.org/abs/2210.10957v1)|null|
 |**2022-10-20**|**The Software Stack That Won the Formula Student Driverless Competition**|Andres Alvarez et.al.|[2210.10933v1](http://arxiv.org/abs/2210.10933v1)|null|
-|**2022-10-19**|**How Hate Speech Varies by Target Identity: A Computational Analysis**|Michael Miller Yoder et.al.|[2210.10839v1](http://arxiv.org/abs/2210.10839v1)|null|
-|**2022-10-19**|**On Learning Fairness and Accuracy on Multiple Subgroups**|Changjian Shui et.al.|[2210.10837v1](http://arxiv.org/abs/2210.10837v1)|null|
+|**2022-10-19**|**How Hate Speech Varies by Target Identity: A Computational Analysis**|Michael Miller Yoder et.al.|[2210.10839v1](http://arxiv.org/abs/2210.10839v1)|[link](https://github.com/michaelmilleryoder/hate_speech_identities)|
+|**2022-10-19**|**On Learning Fairness and Accuracy on Multiple Subgroups**|Changjian Shui et.al.|[2210.10837v1](http://arxiv.org/abs/2210.10837v1)|[link](https://github.com/xugezheng/fams)|
 |**2022-10-19**|**LaMAR: Benchmarking Localization and Mapping for Augmented Reality**|Paul-Edouard Sarlin et.al.|[2210.10770v1](http://arxiv.org/abs/2210.10770v1)|null|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|[link](https://github.com/opencalib/lidar2camera_self-check)|
