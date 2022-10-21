@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
+|**2022-10-20**|**GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network**|Jheng-Wei Su et.al.|[2210.11419v1](http://arxiv.org/abs/2210.11419v1)|null|
+|**2022-10-20**|**Transformer-based Action recognition in hand-object interacting scenarios**|Hoseong Cho et.al.|[2210.11387v1](http://arxiv.org/abs/2210.11387v1)|null|
+|**2022-10-20**|**Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios**|Hoseong Cho et.al.|[2210.11384v1](http://arxiv.org/abs/2210.11384v1)|null|
+|**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v1](http://arxiv.org/abs/2210.11292v1)|null|
+|**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|null|
+|**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v1](http://arxiv.org/abs/2210.11035v1)|null|
+|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
+|**2022-10-20**|**3D Human Mesh Construction Leveraging Wi-Fi**|Yichao Wang et.al.|[2210.10957v1](http://arxiv.org/abs/2210.10957v1)|null|
+|**2022-10-20**|**The Software Stack That Won the Formula Student Driverless Competition**|Andres Alvarez et.al.|[2210.10933v1](http://arxiv.org/abs/2210.10933v1)|null|
+|**2022-10-19**|**How Hate Speech Varies by Target Identity: A Computational Analysis**|Michael Miller Yoder et.al.|[2210.10839v1](http://arxiv.org/abs/2210.10839v1)|null|
+|**2022-10-19**|**On Learning Fairness and Accuracy on Multiple Subgroups**|Changjian Shui et.al.|[2210.10837v1](http://arxiv.org/abs/2210.10837v1)|null|
 |**2022-10-19**|**LaMAR: Benchmarking Localization and Mapping for Augmented Reality**|Paul-Edouard Sarlin et.al.|[2210.10770v1](http://arxiv.org/abs/2210.10770v1)|null|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|[link](https://github.com/opencalib/lidar2camera_self-check)|
@@ -20,15 +32,3 @@
 |**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|[link](https://github.com/tiers/wildnav)|
 |**2022-10-18**|**Virtual Reality via Object Poses and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**|Jongseok Lee et.al.|[2210.09678v1](http://arxiv.org/abs/2210.09678v1)|null|
 |**2022-10-18**|**Object Recognition in Different Lighting Conditions at Various Angles by Deep Learning Method**|Imran Khan Mirani et.al.|[2210.09618v1](http://arxiv.org/abs/2210.09618v1)|null|
-|**2022-10-18**|**Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection**|Xin Li et.al.|[2210.09615v1](http://arxiv.org/abs/2210.09615v1)|null|
-|**2022-10-17**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v2](http://arxiv.org/abs/2210.09267v2)|null|
-|**2022-10-17**|**Characterization of Population III Stars with Stellar Atmosphere and Evolutionary Modeling and Predictions of their Observability with the James Webb Space Telescope**|Mikaela M. Larkin et.al.|[2210.09185v1](http://arxiv.org/abs/2210.09185v1)|[link](https://github.com/roman-ucsd/basicatlas)|
-|**2022-10-17**|**How do we get there? Evaluating transformer neural networks as cognitive models for English past tense inflection**|Xiaomeng Ma et.al.|[2210.09167v1](http://arxiv.org/abs/2210.09167v1)|[link](https://github.com/xiaomeng-ma/english-past-tense)|
-|**2022-10-17**|**Pruning-based Topology Refinement of 3D Mesh using a 2D Alpha Mask**|Gaëtan Landreau et.al.|[2210.09148v1](http://arxiv.org/abs/2210.09148v1)|null|
-|**2022-10-17**|**INSANE: Cross-Domain UAV Data Sets with Increased Number of Sensors for developing Advanced and Novel Estimators**|Christian Brommer et.al.|[2210.09114v1](http://arxiv.org/abs/2210.09114v1)|null|
-|**2022-10-17**|**Surface Acoustic Waves Equip Materials with Active Deicing Functionality: Unraveled Deicing Mechanisms and Application to Centimeter Scale Transparent Surfaces**|Stefan Jacob et.al.|[2210.09113v1](http://arxiv.org/abs/2210.09113v1)|null|
-|**2022-10-17**|**Detect and Classify IoT Camera Traffic**|Priyanka Rushikesh Chaudhary et.al.|[2210.09108v1](http://arxiv.org/abs/2210.09108v1)|null|
-|**2022-10-17**|**A Symbolic Representation of Human Posture for Interpretable Learning and Reasoning**|Richard G. Freedman et.al.|[2210.08998v1](http://arxiv.org/abs/2210.08998v1)|null|
-|**2022-10-17**|**Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion**|Suman Ghosh et.al.|[2210.08927v1](http://arxiv.org/abs/2210.08927v1)|null|
-|**2022-10-17**|**Breathing Pattern Monitoring using Remote Sensors**|Janosch Kunczik et.al.|[2210.08799v1](http://arxiv.org/abs/2210.08799v1)|null|
-|**2022-10-17**|**Use of a smartphone camera to determine the focal length of a thin lens by finding the transverse magnification of the virtual image of an object**|Sanjoy Kumar Pal et.al.|[2210.08751v1](http://arxiv.org/abs/2210.08751v1)|null|

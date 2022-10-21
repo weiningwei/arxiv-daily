@@ -23,6 +23,7 @@
 |**2022-10-15**|**Bearing-based Relative Localization for Robotic Swarm with Partially Mutual Observations**|Yingjian Wang et.al.|[2210.08265v1](http://arxiv.org/abs/2210.08265v1)|null|
 |**2022-10-14**|**The unsteady overtopping of barriers by gravity currents and dam-break flows**|Edward W. G. Skevington et.al.|[2210.07981v1](http://arxiv.org/abs/2210.07981v1)|null|
 |**2022-10-14**|**Airborne absolute gravimetry with a quantum sensor, comparison with classical technologies**|Yannick Bidel et.al.|[2210.07865v1](http://arxiv.org/abs/2210.07865v1)|null|
+|**2022-10-14**|**Multi-Head Cross-Attentional PPG and Motion Signal Fusion for Heart Rate Estimation**|Panagiotis Kasnesis et.al.|[2210.11415v1](http://arxiv.org/abs/2210.11415v1)|null|
 |**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v2](http://arxiv.org/abs/2210.07435v2)|null|
 |**2022-10-13**|**Quantum metrology by one-minute interrogation of a coherent atomic spatial superposition**|Cristian D. Panda et.al.|[2210.07289v1](http://arxiv.org/abs/2210.07289v1)|null|
 |**2022-10-13**|**Imaging-based 3D Particle Tracking System for Field Characterization of Particle Dynamics in Atmospheric Flows**|Nathaniel Bristow et.al.|[2210.07106v1](http://arxiv.org/abs/2210.07106v1)|null|
@@ -31,4 +32,3 @@
 |**2022-10-11**|**Controlling Photon Entanglement with Mechanical Rotation**|Marion Cromb et.al.|[2210.05628v1](http://arxiv.org/abs/2210.05628v1)|null|
 |**2022-10-11**|**Dynamical fluctuations of a tracer coupled to active and passive particles**|Ion Santra et.al.|[2210.05139v1](http://arxiv.org/abs/2210.05139v1)|null|
 |**2022-10-10**|**Dynamic Gap: Formal Guarantees for Safe Gap-based Navigation in Dynamic Environments**|Max Asselmeier et.al.|[2210.05022v1](http://arxiv.org/abs/2210.05022v1)|null|
-|**2022-10-10**|**Influence of liquid miscibility and wettability on the structures produced by drop-jet collisions**|David Baumgartner et.al.|[2210.04529v1](http://arxiv.org/abs/2210.04529v1)|null|
