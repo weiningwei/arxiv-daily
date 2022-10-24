@@ -2,12 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-21**|**On-Board Pedestrian Trajectory Prediction Using Behavioral Features**|Phillip Czech et.al.|[2210.11999v1](http://arxiv.org/abs/2210.11999v1)|null|
+|**2022-10-21**|**GesPlayer: Using Augmented Gestures to Empower Video Players**|Xiang Li et.al.|[2210.11994v1](http://arxiv.org/abs/2210.11994v1)|null|
+|**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
+|**2022-10-21**|**SLING: Sino Linguistic Evaluation of Large Language Models**|Yixiao Song et.al.|[2210.11689v1](http://arxiv.org/abs/2210.11689v1)|[link](https://github.com/yixiao-song/sling_data_code)|
+|**2022-10-21**|**RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**|Zhenggang Tang et.al.|[2210.11668v1](http://arxiv.org/abs/2210.11668v1)|null|
+|**2022-10-20**|**Photo-realistic 360 Head Avatars in the Wild**|Stanislaw Szymanowicz et.al.|[2210.11594v1](http://arxiv.org/abs/2210.11594v1)|null|
+|**2022-10-20**|**H4VDM: H.264 Video Device Matching**|Ziyue Xiang et.al.|[2210.11549v1](http://arxiv.org/abs/2210.11549v1)|null|
+|**2022-10-20**|**Transferring learned patterns from ground-based field imagery to predict UAV-based imagery for crop and weed semantic segmentation in precision crop farming**|Junfeng Gao et.al.|[2210.11545v1](http://arxiv.org/abs/2210.11545v1)|null|
+|**2022-10-20**|**Object Goal Navigation Based on Semantics and RGB Ego View**|Snehasis Banerjee et.al.|[2210.11543v1](http://arxiv.org/abs/2210.11543v1)|null|
 |**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
 |**2022-10-20**|**GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network**|Jheng-Wei Su et.al.|[2210.11419v2](http://arxiv.org/abs/2210.11419v2)|null|
 |**2022-10-20**|**Transformer-based Action recognition in hand-object interacting scenarios**|Hoseong Cho et.al.|[2210.11387v1](http://arxiv.org/abs/2210.11387v1)|null|
 |**2022-10-20**|**Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios**|Hoseong Cho et.al.|[2210.11384v1](http://arxiv.org/abs/2210.11384v1)|null|
-|**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v2](http://arxiv.org/abs/2210.11292v2)|null|
 |**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|[link](https://github.com/mv-lab/AISP)|
+|**2022-10-20**|**End-to-End Context-Aided Unicity Matching for Person Re-identification**|Min Cao et.al.|[2210.12008v1](http://arxiv.org/abs/2210.12008v1)|null|
 |**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v1](http://arxiv.org/abs/2210.11035v1)|null|
 |**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
 |**2022-10-20**|**3D Human Mesh Construction Leveraging Wi-Fi**|Yichao Wang et.al.|[2210.10957v1](http://arxiv.org/abs/2210.10957v1)|null|
@@ -23,12 +32,3 @@
 |**2022-10-19**|**Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping**|Chenghao Yang et.al.|[2210.10325v1](http://arxiv.org/abs/2210.10325v1)|[link](https://github.com/yangalan123/finetuningstability)|
 |**2022-10-19**|**A Real-Time Wrong-Way Vehicle Detection Based on YOLO and Centroid Tracking**|Zillur Rahman et.al.|[2210.10226v1](http://arxiv.org/abs/2210.10226v1)|null|
 |**2022-10-18**|**Initial Orbit Determination from Only Heading Measurements**|John A. Christian et.al.|[2210.10120v1](http://arxiv.org/abs/2210.10120v1)|null|
-|**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|null|
-|**2022-10-18**|**Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning**|Shuo Xie et.al.|[2210.10041v2](http://arxiv.org/abs/2210.10041v2)|null|
-|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
-|**2022-10-18**|**MotionDeltaCNN: Sparse CNN Inference of Frame Differences in Moving Camera Videos**|Mathias Parger et.al.|[2210.09887v1](http://arxiv.org/abs/2210.09887v1)|null|
-|**2022-10-18**|**On-the-go Reflectance Transformation Imaging with Ordinary Smartphones**|Mara Pistellato et.al.|[2210.09821v1](http://arxiv.org/abs/2210.09821v1)|null|
-|**2022-10-18**|**Compact multi-scale periocular recognition using SAFE features**|Fernando Alonso-Fernandez et.al.|[2210.09778v1](http://arxiv.org/abs/2210.09778v1)|null|
-|**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|[link](https://github.com/tiers/wildnav)|
-|**2022-10-18**|**Virtual Reality via Object Poses and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**|Jongseok Lee et.al.|[2210.09678v1](http://arxiv.org/abs/2210.09678v1)|null|
-|**2022-10-18**|**Object Recognition in Different Lighting Conditions at Various Angles by Deep Learning Method**|Imran Khan Mirani et.al.|[2210.09618v1](http://arxiv.org/abs/2210.09618v1)|null|
