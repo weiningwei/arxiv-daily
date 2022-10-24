@@ -3,10 +3,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
-|**2022-10-20**|**GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network**|Jheng-Wei Su et.al.|[2210.11419v1](http://arxiv.org/abs/2210.11419v1)|null|
+|**2022-10-20**|**GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network**|Jheng-Wei Su et.al.|[2210.11419v2](http://arxiv.org/abs/2210.11419v2)|null|
 |**2022-10-20**|**Transformer-based Action recognition in hand-object interacting scenarios**|Hoseong Cho et.al.|[2210.11387v1](http://arxiv.org/abs/2210.11387v1)|null|
 |**2022-10-20**|**Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios**|Hoseong Cho et.al.|[2210.11384v1](http://arxiv.org/abs/2210.11384v1)|null|
-|**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v1](http://arxiv.org/abs/2210.11292v1)|null|
+|**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v2](http://arxiv.org/abs/2210.11292v2)|null|
 |**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|[link](https://github.com/mv-lab/AISP)|
 |**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v1](http://arxiv.org/abs/2210.11035v1)|null|
 |**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
