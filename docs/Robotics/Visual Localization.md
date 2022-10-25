@@ -17,8 +17,8 @@
 |**2022-10-20**|**Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios**|Hoseong Cho et.al.|[2210.11384v1](http://arxiv.org/abs/2210.11384v1)|null|
 |**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|[link](https://github.com/mv-lab/AISP)|
 |**2022-10-20**|**End-to-End Context-Aided Unicity Matching for Person Re-identification**|Min Cao et.al.|[2210.12008v1](http://arxiv.org/abs/2210.12008v1)|null|
-|**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v1](http://arxiv.org/abs/2210.11035v1)|null|
-|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
+|**2022-10-20**|**PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points**|Jing Tan et.al.|[2210.11035v2](http://arxiv.org/abs/2210.11035v2)|null|
+|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v2](http://arxiv.org/abs/2210.10972v2)|null|
 |**2022-10-20**|**3D Human Mesh Construction Leveraging Wi-Fi**|Yichao Wang et.al.|[2210.10957v1](http://arxiv.org/abs/2210.10957v1)|null|
 |**2022-10-20**|**The Software Stack That Won the Formula Student Driverless Competition**|Andres Alvarez et.al.|[2210.10933v1](http://arxiv.org/abs/2210.10933v1)|null|
 |**2022-10-19**|**How Hate Speech Varies by Target Identity: A Computational Analysis**|Michael Miller Yoder et.al.|[2210.10839v1](http://arxiv.org/abs/2210.10839v1)|[link](https://github.com/michaelmilleryoder/hate_speech_identities)|
@@ -26,7 +26,7 @@
 |**2022-10-19**|**LaMAR: Benchmarking Localization and Mapping for Augmented Reality**|Paul-Edouard Sarlin et.al.|[2210.10770v1](http://arxiv.org/abs/2210.10770v1)|null|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|[link](https://github.com/opencalib/lidar2camera_self-check)|
-|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
+|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
 |**2022-10-19**|**Real Image Super-Resolution using GAN through modeling of LR and HR process**|Rao Muhammad Umer et.al.|[2210.10413v1](http://arxiv.org/abs/2210.10413v1)|null|
 |**2022-10-19**|**A sensor-to-pattern calibration framework for multi-modal industrial collaborative cells**|Daniela Rato et.al.|[2210.10365v1](http://arxiv.org/abs/2210.10365v1)|[link](https://github.com/lardemua/atom)|
 |**2022-10-19**|**Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping**|Chenghao Yang et.al.|[2210.10325v1](http://arxiv.org/abs/2210.10325v1)|[link](https://github.com/yangalan123/finetuningstability)|
