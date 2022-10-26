@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-25**|**Unsupervised domain-adaptive person re-identification with multi-camera constraints**|S. Takeuchi et.al.|[2210.13999v1](http://arxiv.org/abs/2210.13999v1)|null|
+|**2022-10-25**|**Control and Evaluation of Event Cameras Output Sharpness via Bias**|Mehdi Sefidgar Dilmaghani et.al.|[2210.13929v1](http://arxiv.org/abs/2210.13929v1)|null|
+|**2022-10-25**|**GlobalFlowNet: Video Stabilization using Deep Distilled Global Motion Estimates**|Jerin Geo James et.al.|[2210.13769v1](http://arxiv.org/abs/2210.13769v1)|null|
+|**2022-10-25**|**DEMETR: Diagnosing Evaluation Metrics for Translation**|Marzena Karpinska et.al.|[2210.13746v1](http://arxiv.org/abs/2210.13746v1)|null|
+|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|null|
+|**2022-10-25**|**Intensified Tpx3Cam, a fast data-driven optical camera with nanosecond timing resolution for single photon detection in quantum applications**|Andrei Nomerotski et.al.|[2210.13713v1](http://arxiv.org/abs/2210.13713v1)|null|
+|**2022-10-25**|**An Effective Deep Network for Head Pose Estimation without Keypoints**|Chien Thai et.al.|[2210.13705v1](http://arxiv.org/abs/2210.13705v1)|null|
+|**2022-10-25**|**DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality**|Ankur Handa et.al.|[2210.13702v1](http://arxiv.org/abs/2210.13702v1)|null|
+|**2022-10-24**|**Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning**|Francisco Lopez-Tiro et.al.|[2210.13654v1](http://arxiv.org/abs/2210.13654v1)|null|
+|**2022-10-24**|**Understanding the Evolution of Linear Regions in Deep Reinforcement Learning**|Setareh Cohen et.al.|[2210.13611v1](http://arxiv.org/abs/2210.13611v1)|null|
+|**2022-10-24**|**Perceptual Image Enhancement for Smartphone Real-Time Applications**|Marcos V. Conde et.al.|[2210.13552v1](http://arxiv.org/abs/2210.13552v1)|null|
 |**2022-10-24**|**Monocular Dynamic View Synthesis: A Reality Check**|Hang Gao et.al.|[2210.13445v1](http://arxiv.org/abs/2210.13445v1)|[link](https://github.com/kair-bair/dycheck)|
 |**2022-10-24**|**Focused Concatenation for Context-Aware Neural Machine Translation**|Lorenzo Lupo et.al.|[2210.13388v1](http://arxiv.org/abs/2210.13388v1)|[link](https://github.com/lorelupo/focused-concat)|
 |**2022-10-24**|**Single-Pixel Multimode Fiber Spectrometer via Wavefront Shaping**|Şahin Kürekci et.al.|[2210.13292v1](http://arxiv.org/abs/2210.13292v1)|null|
@@ -21,14 +32,3 @@
 |**2022-10-22**|**NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos**|Yi-Ling Qiao et.al.|[2210.12352v1](http://arxiv.org/abs/2210.12352v1)|null|
 |**2022-10-22**|**Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets**|Xiangyu Chen et.al.|[2210.12333v1](http://arxiv.org/abs/2210.12333v1)|[link](https://github.com/xiangyu8/sata)|
 |**2022-10-21**|**"If sighted people know, I should be able to know:" Privacy Perceptions of Bystanders with Visual Impairments around Camera-based Technology**|Yuhang Zhao et.al.|[2210.12232v1](http://arxiv.org/abs/2210.12232v1)|null|
-|**2022-10-21**|**Motion Policy Networks**|Adam Fishman et.al.|[2210.12209v1](http://arxiv.org/abs/2210.12209v1)|[link](https://github.com/nvlabs/motion-policy-networks)|
-|**2022-10-21**|**High-Quality RGB-D Reconstruction via Multi-View Uncalibrated Photometric Stereo and Gradient-SDF**|Lu Sang et.al.|[2210.12202v1](http://arxiv.org/abs/2210.12202v1)|[link](https://github.com/sangluisme/psgradientsdf)|
-|**2022-10-21**|**High-Fidelity Visual Structural Inspections through Transformers and Learnable Resizers**|Kareem Eltouny et.al.|[2210.12175v1](http://arxiv.org/abs/2210.12175v1)|null|
-|**2022-10-21**|**HST and HSC Weak-lensing Study of the Equal-mass Dissociative Merger CIZA J0107.7+5408**|Kyle Finner et.al.|[2210.12165v1](http://arxiv.org/abs/2210.12165v1)|null|
-|**2022-10-21**|**On-Board Pedestrian Trajectory Prediction Using Behavioral Features**|Phillip Czech et.al.|[2210.11999v1](http://arxiv.org/abs/2210.11999v1)|null|
-|**2022-10-21**|**GesPlayer: Using Augmented Gestures to Empower Video Players**|Xiang Li et.al.|[2210.11994v1](http://arxiv.org/abs/2210.11994v1)|null|
-|**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
-|**2022-10-21**|**SLING: Sino Linguistic Evaluation of Large Language Models**|Yixiao Song et.al.|[2210.11689v1](http://arxiv.org/abs/2210.11689v1)|[link](https://github.com/yixiao-song/sling_data_code)|
-|**2022-10-21**|**Error-Covariance Analysis of Monocular Pose Estimation Using Total Least Squares**|Saeed Maleki et.al.|[2210.12157v1](http://arxiv.org/abs/2210.12157v1)|null|
-|**2022-10-21**|**RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**|Zhenggang Tang et.al.|[2210.11668v1](http://arxiv.org/abs/2210.11668v1)|null|
-|**2022-10-20**|**Photo-realistic 360 Head Avatars in the Wild**|Stanislaw Szymanowicz et.al.|[2210.11594v1](http://arxiv.org/abs/2210.11594v1)|null|
