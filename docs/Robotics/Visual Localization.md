@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
+|**2022-10-26**|**DEMIS: A Threat Model for Selectively Encrypted Visual Surveillance Data**|Ifeoluwapo Aribilola et.al.|[2210.14622v1](http://arxiv.org/abs/2210.14622v1)|null|
+|**2022-10-26**|**Deep Learning Based Audio-Visual Multi-Speaker DOA Estimation Using Permutation-Free Loss Function**|Qing Wang et.al.|[2210.14581v1](http://arxiv.org/abs/2210.14581v1)|null|
+|**2022-10-25**|**Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport**|Kelly Marchisio et.al.|[2210.14378v1](http://arxiv.org/abs/2210.14378v1)|null|
+|**2022-10-25**|**OpenStance: Real-world Zero-shot Stance Detection**|Hanzi Xu et.al.|[2210.14299v1](http://arxiv.org/abs/2210.14299v1)|null|
+|**2022-10-25**|**Combined Data and Deep Learning Model Uncertainties: An Application to the Measurement of Solid Fuel Regression Rate**|Georgios Georgalis et.al.|[2210.14287v1](http://arxiv.org/abs/2210.14287v1)|null|
+|**2022-10-25**|**Accelerating Certified Robustness Training via Knowledge Transfer**|Pratik Vaishnavi et.al.|[2210.14283v1](http://arxiv.org/abs/2210.14283v1)|[link](https://github.com/ethos-lab/crt-neurips22)|
 |**2022-10-25**|**Unsupervised domain-adaptive person re-identification with multi-camera constraints**|S. Takeuchi et.al.|[2210.13999v1](http://arxiv.org/abs/2210.13999v1)|null|
 |**2022-10-25**|**Control and Evaluation of Event Cameras Output Sharpness via Bias**|Mehdi Sefidgar Dilmaghani et.al.|[2210.13929v1](http://arxiv.org/abs/2210.13929v1)|null|
 |**2022-10-25**|**GlobalFlowNet: Video Stabilization using Deep Distilled Global Motion Estimates**|Jerin Geo James et.al.|[2210.13769v2](http://arxiv.org/abs/2210.13769v2)|[link](https://github.com/globalflownet/globalflownet)|
@@ -25,10 +32,3 @@
 |**2022-10-23**|**SC-wLS: Towards Interpretable Feed-forward Camera Re-localization**|Xin Wu et.al.|[2210.12748v1](http://arxiv.org/abs/2210.12748v1)|[link](https://github.com/xinwu98/sc-wls)|
 |**2022-10-23**|**Mid-Infrared Polarization of the Diffuse Interstellar Medium toward CygOB2-12**|Charles M. Telesco et.al.|[2210.12708v2](http://arxiv.org/abs/2210.12708v2)|null|
 |**2022-10-23**|**DMODE: Differential Monocular Object Distance Estimation Module without Class Specific Information**|Pedram Agand et.al.|[2210.12596v1](http://arxiv.org/abs/2210.12596v1)|[link](https://github.com/anonym-paper/dmode)|
-|**2022-10-22**|**HuPR: A Benchmark for Human Pose Estimation Using Millimeter Wave Radar**|Shih-Po Lee et.al.|[2210.12564v1](http://arxiv.org/abs/2210.12564v1)|[link](https://github.com/robert80203/HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar)|
-|**2022-10-22**|**Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts**|Hongli Zhan et.al.|[2210.12531v1](http://arxiv.org/abs/2210.12531v1)|[link](https://github.com/honglizhan/CovidET)|
-|**2022-10-22**|**MILD: Multimodal Interactive Latent Dynamics for Learning Human-Robot Interaction**|Vignesh Prasad et.al.|[2210.12418v1](http://arxiv.org/abs/2210.12418v1)|null|
-|**2022-10-22**|**Impact of water vapor seeing on mid-infrared high-contrast imaging at ELT scale**|Olivier Absil et.al.|[2210.12412v1](http://arxiv.org/abs/2210.12412v1)|null|
-|**2022-10-22**|**NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos**|Yi-Ling Qiao et.al.|[2210.12352v1](http://arxiv.org/abs/2210.12352v1)|null|
-|**2022-10-22**|**Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets**|Xiangyu Chen et.al.|[2210.12333v1](http://arxiv.org/abs/2210.12333v1)|[link](https://github.com/xiangyu8/sata)|
-|**2022-10-21**|**"If sighted people know, I should be able to know:" Privacy Perceptions of Bystanders with Visual Impairments around Camera-based Technology**|Yuhang Zhao et.al.|[2210.12232v1](http://arxiv.org/abs/2210.12232v1)|null|
