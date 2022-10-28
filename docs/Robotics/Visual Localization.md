@@ -2,7 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk et.al.|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
+|**2022-10-27**|**User Identification: The Key Enabler for Multi-User Vision-Aided Wireless Communications**|Gouranga Charan et.al.|[2210.15652v1](http://arxiv.org/abs/2210.15652v1)|null|
+|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|null|
+|**2022-10-27**|**A Novel Approach for Neuromorphic Vision Data Compression based on Deep Belief Network**|Sally Khaidem et.al.|[2210.15362v1](http://arxiv.org/abs/2210.15362v1)|null|
+|**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|null|
+|**2022-10-27**|**Robot to Human Object Handover using Vision and Joint Torque Sensor Modalities**|Mohammadhadi Mohandes et.al.|[2210.15085v1](http://arxiv.org/abs/2210.15085v1)|null|
+|**2022-10-26**|**LiDAR-guided object search and detection in Subterranean Environments**|Manthan Patel et.al.|[2210.14997v1](http://arxiv.org/abs/2210.14997v1)|null|
 |**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
+|**2022-10-26**|**The eyes and hearts of UAV pilots: observations of physiological responses in real-life scenarios**|Alexandre Duval et.al.|[2210.14910v1](http://arxiv.org/abs/2210.14910v1)|null|
 |**2022-10-26**|**DEMIS: A Threat Model for Selectively Encrypted Visual Surveillance Data**|Ifeoluwapo Aribilola et.al.|[2210.14622v1](http://arxiv.org/abs/2210.14622v1)|null|
 |**2022-10-26**|**Deep Learning Based Audio-Visual Multi-Speaker DOA Estimation Using Permutation-Free Loss Function**|Qing Wang et.al.|[2210.14581v1](http://arxiv.org/abs/2210.14581v1)|null|
 |**2022-10-25**|**Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport**|Kelly Marchisio et.al.|[2210.14378v1](http://arxiv.org/abs/2210.14378v1)|null|
@@ -24,11 +32,3 @@
 |**2022-10-24**|**Focused Concatenation for Context-Aware Neural Machine Translation**|Lorenzo Lupo et.al.|[2210.13388v1](http://arxiv.org/abs/2210.13388v1)|[link](https://github.com/lorelupo/focused-concat)|
 |**2022-10-24**|**Single-Pixel Multimode Fiber Spectrometer via Wavefront Shaping**|Şahin Kürekci et.al.|[2210.13292v1](http://arxiv.org/abs/2210.13292v1)|null|
 |**2022-10-24**|**Towards an efficient Iris Recognition System on Embedded Devices**|Daniel P. Benalcazar et.al.|[2210.13101v1](http://arxiv.org/abs/2210.13101v1)|null|
-|**2022-10-24**|**EpipolarNVS: leveraging on Epipolar geometry for single-image Novel View Synthesis**|Gaétan Landreau et.al.|[2210.13077v1](http://arxiv.org/abs/2210.13077v1)|null|
-|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v1](http://arxiv.org/abs/2210.13031v1)|null|
-|**2022-10-24**|**360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning**|Bolivar Solarte et.al.|[2210.12935v1](http://arxiv.org/abs/2210.12935v1)|null|
-|**2022-10-24**|**Gallery Filter Network for Person Search**|Lucas Jaffe et.al.|[2210.12903v2](http://arxiv.org/abs/2210.12903v2)|[link](https://github.com/lukejaffe/gfn)|
-|**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
-|**2022-10-23**|**SC-wLS: Towards Interpretable Feed-forward Camera Re-localization**|Xin Wu et.al.|[2210.12748v1](http://arxiv.org/abs/2210.12748v1)|[link](https://github.com/xinwu98/sc-wls)|
-|**2022-10-23**|**Mid-Infrared Polarization of the Diffuse Interstellar Medium toward CygOB2-12**|Charles M. Telesco et.al.|[2210.12708v2](http://arxiv.org/abs/2210.12708v2)|null|
-|**2022-10-23**|**DMODE: Differential Monocular Object Distance Estimation Module without Class Specific Information**|Pedram Agand et.al.|[2210.12596v1](http://arxiv.org/abs/2210.12596v1)|[link](https://github.com/anonym-paper/dmode)|

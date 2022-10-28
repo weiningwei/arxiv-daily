@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-27**|**Perception-aware Tag Placement Planning for Robust Localization of UAVs in Indoor Construction Environments**|Navid Kayhani et.al.|[2210.15504v1](http://arxiv.org/abs/2210.15504v1)|null|
+|**2022-10-27**|**Effect of ambient gas on cavity formation for sphere impacts on liquids**|Hollis Williams et.al.|[2210.15369v1](http://arxiv.org/abs/2210.15369v1)|null|
+|**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|null|
+|**2022-10-27**|**Utilizing bifurcations to separate particles in spiral inertial microfluidics**|Rahil Valani et.al.|[2210.15197v1](http://arxiv.org/abs/2210.15197v1)|null|
+|**2022-10-27**|**InGVIO: A Consistent Invariant Filter for Fast and High-Accuracy GNSS-Visual-Inertial Odometry**|Changwu Liu et.al.|[2210.15145v1](http://arxiv.org/abs/2210.15145v1)|null|
+|**2022-10-27**|**Hybrid Indoor Localization via Reinforcement Learning-based Information Fusion**|Mohammad Salimibeni et.al.|[2210.15132v1](http://arxiv.org/abs/2210.15132v1)|null|
+|**2022-10-26**|**Schrödinger--Newton equation with spontaneous wave function collapse**|Lajos Diósi et.al.|[2210.15057v1](http://arxiv.org/abs/2210.15057v1)|null|
+|**2022-10-26**|**Closed-Loop Dual-Atom-Interferometer Inertial Sensor with Continuous Cold Atomic Beams**|Zhi-Xin Meng et.al.|[2210.15346v1](http://arxiv.org/abs/2210.15346v1)|null|
 |**2022-10-26**|**Inertial range scaling of inhomogeneous turbulence**|Ryo Araki et.al.|[2210.14516v1](http://arxiv.org/abs/2210.14516v1)|null|
 |**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
 |**2022-10-26**|**From Obstacle Avoidance To Motion Learning Using Local Rotation of Dynamical Systems**|Lukas Huber et.al.|[2210.14417v1](http://arxiv.org/abs/2210.14417v1)|null|
@@ -24,11 +32,3 @@
 |**2022-10-19**|**Statistics and spectral analysis of turbulent duct flows with flexible and rigid polymer solutions**|Rodrigo S. Mitishita et.al.|[2210.10319v1](http://arxiv.org/abs/2210.10319v1)|null|
 |**2022-10-18**|**Initial Orbit Determination from Only Heading Measurements**|John A. Christian et.al.|[2210.10120v1](http://arxiv.org/abs/2210.10120v1)|null|
 |**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v2](http://arxiv.org/abs/2210.10033v2)|null|
-|**2022-10-18**|**BIOWISH: Biometric Recognition using Wearable Inertial Sensors detecting Heart Activity**|Emanuele Maiorana et.al.|[2210.09843v1](http://arxiv.org/abs/2210.09843v1)|null|
-|**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
-|**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|[link](https://github.com/tiers/wildnav)|
-|**2022-10-17**|**Asteroids for ultralight dark-photon dark-matter detection**|Michael A. Fedderke et.al.|[2210.09324v1](http://arxiv.org/abs/2210.09324v1)|null|
-|**2022-10-17**|**Amplitudes of Solar Gravity Modes: A Review**|Kévin Belkacem et.al.|[2210.09229v1](http://arxiv.org/abs/2210.09229v1)|null|
-|**2022-10-17**|**INSANE: Cross-Domain UAV Data Sets with Increased Number of Sensors for developing Advanced and Novel Estimators**|Christian Brommer et.al.|[2210.09114v1](http://arxiv.org/abs/2210.09114v1)|null|
-|**2022-10-17**|**Ultrasensitive atomic comagnetometer with enhanced nuclear spin coherence**|Kai Wei et.al.|[2210.09027v1](http://arxiv.org/abs/2210.09027v1)|null|
-|**2022-10-17**|**A General Rheology for Dense Fluid-Particle Mixtures**|Zhuan Ge et.al.|[2210.08746v1](http://arxiv.org/abs/2210.08746v1)|null|
