@@ -4,9 +4,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk et.al.|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
 |**2022-10-27**|**User Identification: The Key Enabler for Multi-User Vision-Aided Wireless Communications**|Gouranga Charan et.al.|[2210.15652v1](http://arxiv.org/abs/2210.15652v1)|null|
-|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|null|
+|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|[link](https://github.com/nedzhaken/human_aware_navigation)|
 |**2022-10-27**|**A Novel Approach for Neuromorphic Vision Data Compression based on Deep Belief Network**|Sally Khaidem et.al.|[2210.15362v1](http://arxiv.org/abs/2210.15362v1)|null|
-|**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|null|
+|**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2022-10-27**|**Robot to Human Object Handover using Vision and Joint Torque Sensor Modalities**|Mohammadhadi Mohandes et.al.|[2210.15085v1](http://arxiv.org/abs/2210.15085v1)|null|
 |**2022-10-26**|**LiDAR-guided object search and detection in Subterranean Environments**|Manthan Patel et.al.|[2210.14997v1](http://arxiv.org/abs/2210.14997v1)|null|
 |**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
