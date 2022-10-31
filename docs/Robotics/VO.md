@@ -6,7 +6,7 @@
 |**2022-10-27**|**InGVIO: A Consistent Invariant Filter for Fast and High-Accuracy GNSS-Visual-Inertial Odometry**|Changwu Liu et.al.|[2210.15145v1](http://arxiv.org/abs/2210.15145v1)|[link](https://github.com/changwuliu/ingvio)|
 |**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v1](http://arxiv.org/abs/2210.13856v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
-|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v1](http://arxiv.org/abs/2210.13031v1)|null|
+|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v2](http://arxiv.org/abs/2210.13031v2)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|[link](https://github.com/pengyu-team/dcl-slam)|
 |**2022-10-19**|**SR-LIO: LiDAR-Inertial Odometry with Sweep Reconstruction**|Zikang Yuan et.al.|[2210.10424v1](http://arxiv.org/abs/2210.10424v1)|[link](https://github.com/ZikangYuan/sr_lio)|
 |**2022-10-18**|**Initial Orbit Determination from Only Heading Measurements**|John A. Christian et.al.|[2210.10120v1](http://arxiv.org/abs/2210.10120v1)|null|

@@ -20,7 +20,7 @@
 |**2022-10-24**|**Time-Varying ALIP Model and Robust Foot-Placement Control for Underactuated Bipedal Robot Walking on a Swaying Rigid Surface**|Yuan Gao et.al.|[2210.13371v1](http://arxiv.org/abs/2210.13371v1)|null|
 |**2022-10-24**|**Born rule extension for non-replicable systems and its consequences for Unruh-DeWitt detectors**|Nicola Pranzini et.al.|[2210.13347v1](http://arxiv.org/abs/2210.13347v1)|null|
 |**2022-10-24**|**Clusters of heavy particles in two-dimensional Keplerian turbulence**|Fabiola Antonietta Gerosa et.al.|[2210.13147v1](http://arxiv.org/abs/2210.13147v1)|null|
-|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v1](http://arxiv.org/abs/2210.13031v1)|null|
+|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v2](http://arxiv.org/abs/2210.13031v2)|null|
 |**2022-10-22**|**Interplay between geostrophic vortices and inertial waves in precession-driven turbulence**|F. Pizzi et.al.|[2210.12536v1](http://arxiv.org/abs/2210.12536v1)|null|
 |**2022-10-22**|**A Flexible-Frame-Rate Vision-Aided Inertial Object Tracking System for Mobile Devices**|Yo-Chung Lau et.al.|[2210.12476v1](http://arxiv.org/abs/2210.12476v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|[link](https://github.com/pengyu-team/dcl-slam)|
