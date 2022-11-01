@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-31**|**Controlling the water nonlinear refractive index in the THz frequency range via temperature variation**|Aleksandra Nabilkova et.al.|[2210.17221v1](http://arxiv.org/abs/2210.17221v1)|null|
+|**2022-10-31**|**Parametrically driven inertial sensing in chip-scale optomechanical cavities at the thermodynamical limits with extended dynamic range**|Jaime Gonzalo Flor Flores et.al.|[2210.17014v1](http://arxiv.org/abs/2210.17014v1)|null|
+|**2022-10-29**|**Coexistence of active and hydrodynamic turbulence in two dimensional active nematics**|C. Rorai et.al.|[2210.16529v1](http://arxiv.org/abs/2210.16529v1)|null|
+|**2022-10-29**|**Generalized LOAM: LiDAR Odometry Estimation with Trainable Local Geometric Features**|Kohei Honda et.al.|[2210.16510v1](http://arxiv.org/abs/2210.16510v1)|null|
 |**2022-10-28**|**Entanglement-Enhanced Optomechanical Sensing**|Yi Xia et.al.|[2210.16180v1](http://arxiv.org/abs/2210.16180v1)|null|
 |**2022-10-27**|**Perception-aware Tag Placement Planning for Robust Localization of UAVs in Indoor Construction Environments**|Navid Kayhani et.al.|[2210.15504v1](http://arxiv.org/abs/2210.15504v1)|null|
 |**2022-10-27**|**Effect of ambient gas on cavity formation for sphere impacts on liquids**|Hollis Williams et.al.|[2210.15369v1](http://arxiv.org/abs/2210.15369v1)|null|
@@ -28,7 +32,3 @@
 |**2022-10-20**|**LiBeamsNet: AUV Velocity Vector Estimation in Situations of Limited DVL Beam Measurements**|Nadav Cohen et.al.|[2210.11572v1](http://arxiv.org/abs/2210.11572v1)|null|
 |**2022-10-20**|**Nonlinear Attitude Estimation Using Intermittent and Multi-Rate Vector Measurements**|Miaomiao Wang et.al.|[2210.11510v1](http://arxiv.org/abs/2210.11510v1)|null|
 |**2022-10-19**|**LaMAR: Benchmarking Localization and Mapping for Augmented Reality**|Paul-Edouard Sarlin et.al.|[2210.10770v1](http://arxiv.org/abs/2210.10770v1)|null|
-|**2022-10-19**|**Weak and strong convergence of an inertial proximal method for solving bilevel monotone equilibrium problems**|AÏcha Balhag et.al.|[2210.10714v1](http://arxiv.org/abs/2210.10714v1)|null|
-|**2022-10-19**|**SR-LIO: LiDAR-Inertial Odometry with Sweep Reconstruction**|Zikang Yuan et.al.|[2210.10424v1](http://arxiv.org/abs/2210.10424v1)|[link](https://github.com/ZikangYuan/sr_lio)|
-|**2022-10-19**|**Statistics and spectral analysis of turbulent duct flows with flexible and rigid polymer solutions**|Rodrigo S. Mitishita et.al.|[2210.10319v1](http://arxiv.org/abs/2210.10319v1)|null|
-|**2022-10-18**|**Initial Orbit Determination from Only Heading Measurements**|John A. Christian et.al.|[2210.10120v1](http://arxiv.org/abs/2210.10120v1)|null|

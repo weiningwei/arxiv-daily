@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-29**|**Generalized LOAM: LiDAR Odometry Estimation with Trainable Local Geometric Features**|Kohei Honda et.al.|[2210.16510v1](http://arxiv.org/abs/2210.16510v1)|null|
 |**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2022-10-27**|**InGVIO: A Consistent Invariant Filter for Fast and High-Accuracy GNSS-Visual-Inertial Odometry**|Changwu Liu et.al.|[2210.15145v1](http://arxiv.org/abs/2210.15145v1)|[link](https://github.com/changwuliu/ingvio)|
 |**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v1](http://arxiv.org/abs/2210.13856v1)|null|
@@ -31,4 +32,3 @@
 |**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v2](http://arxiv.org/abs/2209.09777v2)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
-|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|

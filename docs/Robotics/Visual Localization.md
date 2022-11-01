@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-31**|**A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**|P. Console Camprini et.al.|[2210.17431v1](http://arxiv.org/abs/2210.17431v1)|null|
+|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|[link](https://github.com/norlab-ulaval/perceptreev1)|
+|**2022-10-31**|**A centimeter-scale achromatic hybrid metalens with polarization-insensitivity in the visible**|Tie Hu et.al.|[2210.17362v1](http://arxiv.org/abs/2210.17362v1)|null|
+|**2022-10-31**|**Real-time Mapping of Physical Scene Properties with an Autonomous Robot Experimenter**|Iain Haughton et.al.|[2210.17325v1](http://arxiv.org/abs/2210.17325v1)|null|
+|**2022-10-31**|**Near-Infrared 3D Imaging with Upconversion Detection**|He Zhang et.al.|[2210.17286v1](http://arxiv.org/abs/2210.17286v1)|null|
+|**2022-10-31**|**Multi-Camera Calibration Free BEV Representation for 3D Object Detection**|Hongxiang Jiang et.al.|[2210.17252v1](http://arxiv.org/abs/2210.17252v1)|null|
+|**2022-10-30**|**Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition**|Lei Wang et.al.|[2210.16820v1](http://arxiv.org/abs/2210.16820v1)|null|
+|**2022-10-30**|**Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation**|Seongyeong Lee et.al.|[2210.16788v1](http://arxiv.org/abs/2210.16788v1)|null|
+|**2022-10-29**|**Data-Driven Computational Imaging for Scientific Discovery**|Andrew Olsen et.al.|[2210.16709v1](http://arxiv.org/abs/2210.16709v1)|null|
 |**2022-10-28**|**TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**|Nicola Marinello et.al.|[2210.16204v1](http://arxiv.org/abs/2210.16204v1)|null|
 |**2022-10-28**|**NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields**|Liangchen Song et.al.|[2210.15947v1](http://arxiv.org/abs/2210.15947v1)|null|
 |**2022-10-28**|**Single-Image HDR Reconstruction by Multi-Exposure Generation**|Phuoc-Hieu Le et.al.|[2210.15897v1](http://arxiv.org/abs/2210.15897v1)|null|
@@ -23,12 +32,3 @@
 |**2022-10-25**|**Combined Data and Deep Learning Model Uncertainties: An Application to the Measurement of Solid Fuel Regression Rate**|Georgios Georgalis et.al.|[2210.14287v1](http://arxiv.org/abs/2210.14287v1)|null|
 |**2022-10-25**|**Accelerating Certified Robustness Training via Knowledge Transfer**|Pratik Vaishnavi et.al.|[2210.14283v1](http://arxiv.org/abs/2210.14283v1)|[link](https://github.com/ethos-lab/crt-neurips22)|
 |**2022-10-25**|**Multi-task Video Enhancement for Dental Interventions**|Efklidis Katsaros et.al.|[2210.16236v1](http://arxiv.org/abs/2210.16236v1)|null|
-|**2022-10-25**|**Unsupervised domain-adaptive person re-identification with multi-camera constraints**|S. Takeuchi et.al.|[2210.13999v1](http://arxiv.org/abs/2210.13999v1)|null|
-|**2022-10-25**|**Control and Evaluation of Event Cameras Output Sharpness via Bias**|Mehdi Sefidgar Dilmaghani et.al.|[2210.13929v1](http://arxiv.org/abs/2210.13929v1)|null|
-|**2022-10-25**|**GlobalFlowNet: Video Stabilization using Deep Distilled Global Motion Estimates**|Jerin Geo James et.al.|[2210.13769v2](http://arxiv.org/abs/2210.13769v2)|[link](https://github.com/globalflownet/globalflownet)|
-|**2022-10-25**|**DEMETR: Diagnosing Evaluation Metrics for Translation**|Marzena Karpinska et.al.|[2210.13746v1](http://arxiv.org/abs/2210.13746v1)|[link](https://github.com/marzenakrp/demetr)|
-|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|[link](https://github.com/pengyu-team/s3e)|
-|**2022-10-25**|**Intensified Tpx3Cam, a fast data-driven optical camera with nanosecond timing resolution for single photon detection in quantum applications**|Andrei Nomerotski et.al.|[2210.13713v2](http://arxiv.org/abs/2210.13713v2)|null|
-|**2022-10-25**|**An Effective Deep Network for Head Pose Estimation without Keypoints**|Chien Thai et.al.|[2210.13705v1](http://arxiv.org/abs/2210.13705v1)|null|
-|**2022-10-25**|**DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality**|Ankur Handa et.al.|[2210.13702v1](http://arxiv.org/abs/2210.13702v1)|null|
-|**2022-10-24**|**Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning**|Francisco Lopez-Tiro et.al.|[2210.13654v1](http://arxiv.org/abs/2210.13654v1)|null|
