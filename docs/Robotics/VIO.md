@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-01**|**Expansion of Visual Hints for Improved Generalization in Stereo Matching**|Andrea Pilzer et.al.|[2211.00392v1](http://arxiv.org/abs/2211.00392v1)|null|
 |**2022-10-31**|**Controlling the water nonlinear refractive index in the THz frequency range via temperature variation**|Aleksandra Nabilkova et.al.|[2210.17221v1](http://arxiv.org/abs/2210.17221v1)|null|
 |**2022-10-31**|**Parametrically driven inertial sensing in chip-scale optomechanical cavities at the thermodynamical limits with extended dynamic range**|Jaime Gonzalo Flor Flores et.al.|[2210.17014v1](http://arxiv.org/abs/2210.17014v1)|null|
 |**2022-10-29**|**Coexistence of active and hydrodynamic turbulence in two dimensional active nematics**|C. Rorai et.al.|[2210.16529v1](http://arxiv.org/abs/2210.16529v1)|null|
@@ -31,4 +32,3 @@
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|[link](https://github.com/pengyu-team/dcl-slam)|
 |**2022-10-20**|**LiBeamsNet: AUV Velocity Vector Estimation in Situations of Limited DVL Beam Measurements**|Nadav Cohen et.al.|[2210.11572v1](http://arxiv.org/abs/2210.11572v1)|null|
 |**2022-10-20**|**Nonlinear Attitude Estimation Using Intermittent and Multi-Rate Vector Measurements**|Miaomiao Wang et.al.|[2210.11510v1](http://arxiv.org/abs/2210.11510v1)|null|
-|**2022-10-19**|**LaMAR: Benchmarking Localization and Mapping for Augmented Reality**|Paul-Edouard Sarlin et.al.|[2210.10770v1](http://arxiv.org/abs/2210.10770v1)|null|

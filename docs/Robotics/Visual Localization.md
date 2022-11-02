@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-01**|**Self-Supervised Intensity-Event Stereo Matching**|Jinjin Gu et.al.|[2211.00509v1](http://arxiv.org/abs/2211.00509v1)|null|
+|**2022-11-01**|**combined digital drone camera and optical channel parameters for air surveillance**|Wamidh Jalil Mazher et.al.|[2211.00377v1](http://arxiv.org/abs/2211.00377v1)|null|
+|**2022-11-01**|**HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar**|Yanyan Huang et.al.|[2211.00312v1](http://arxiv.org/abs/2211.00312v1)|null|
+|**2022-11-01**|**The Age and Erosion Rate of Young Sedimentary Rock on Mars**|An Y. Li et.al.|[2211.00236v1](http://arxiv.org/abs/2211.00236v1)|null|
+|**2022-11-01**|**Frequency Cam: Imaging Periodic Signals in Real-Time**|Bernd Pfrommer et.al.|[2211.00198v1](http://arxiv.org/abs/2211.00198v1)|[link](https://github.com/berndpfrommer/frequency_cam)|
+|**2022-10-31**|**UmeTrack: Unified multi-view end-to-end hand tracking for VR**|Shangchen Han et.al.|[2211.00099v1](http://arxiv.org/abs/2211.00099v1)|null|
 |**2022-10-31**|**A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**|P. Console Camprini et.al.|[2210.17431v1](http://arxiv.org/abs/2210.17431v1)|null|
 |**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|[link](https://github.com/norlab-ulaval/perceptreev1)|
 |**2022-10-31**|**A centimeter-scale achromatic hybrid metalens with polarization-insensitivity in the visible**|Tie Hu et.al.|[2210.17362v1](http://arxiv.org/abs/2210.17362v1)|null|
@@ -11,6 +17,7 @@
 |**2022-10-30**|**Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition**|Lei Wang et.al.|[2210.16820v1](http://arxiv.org/abs/2210.16820v1)|null|
 |**2022-10-30**|**Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation**|Seongyeong Lee et.al.|[2210.16788v1](http://arxiv.org/abs/2210.16788v1)|null|
 |**2022-10-29**|**Data-Driven Computational Imaging for Scientific Discovery**|Andrew Olsen et.al.|[2210.16709v1](http://arxiv.org/abs/2210.16709v1)|null|
+|**2022-10-29**|**Mixed Reality Interface for Digital Twin of Plant Factory**|Byunghyun Ban et.al.|[2211.00597v1](http://arxiv.org/abs/2211.00597v1)|null|
 |**2022-10-28**|**TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**|Nicola Marinello et.al.|[2210.16204v1](http://arxiv.org/abs/2210.16204v1)|null|
 |**2022-10-28**|**NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields**|Liangchen Song et.al.|[2210.15947v1](http://arxiv.org/abs/2210.15947v1)|null|
 |**2022-10-28**|**Single-Image HDR Reconstruction by Multi-Exposure Generation**|Phuoc-Hieu Le et.al.|[2210.15897v1](http://arxiv.org/abs/2210.15897v1)|null|
@@ -25,10 +32,3 @@
 |**2022-10-26**|**LiDAR-guided object search and detection in Subterranean Environments**|Manthan Patel et.al.|[2210.14997v1](http://arxiv.org/abs/2210.14997v1)|null|
 |**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
 |**2022-10-26**|**The eyes and hearts of UAV pilots: observations of physiological responses in real-life scenarios**|Alexandre Duval et.al.|[2210.14910v1](http://arxiv.org/abs/2210.14910v1)|null|
-|**2022-10-26**|**DEMIS: A Threat Model for Selectively Encrypted Visual Surveillance Data**|Ifeoluwapo Aribilola et.al.|[2210.14622v1](http://arxiv.org/abs/2210.14622v1)|null|
-|**2022-10-26**|**Deep Learning Based Audio-Visual Multi-Speaker DOA Estimation Using Permutation-Free Loss Function**|Qing Wang et.al.|[2210.14581v1](http://arxiv.org/abs/2210.14581v1)|null|
-|**2022-10-25**|**Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport**|Kelly Marchisio et.al.|[2210.14378v1](http://arxiv.org/abs/2210.14378v1)|null|
-|**2022-10-25**|**OpenStance: Real-world Zero-shot Stance Detection**|Hanzi Xu et.al.|[2210.14299v1](http://arxiv.org/abs/2210.14299v1)|null|
-|**2022-10-25**|**Combined Data and Deep Learning Model Uncertainties: An Application to the Measurement of Solid Fuel Regression Rate**|Georgios Georgalis et.al.|[2210.14287v1](http://arxiv.org/abs/2210.14287v1)|null|
-|**2022-10-25**|**Accelerating Certified Robustness Training via Knowledge Transfer**|Pratik Vaishnavi et.al.|[2210.14283v1](http://arxiv.org/abs/2210.14283v1)|[link](https://github.com/ethos-lab/crt-neurips22)|
-|**2022-10-25**|**Multi-task Video Enhancement for Dental Interventions**|Efklidis Katsaros et.al.|[2210.16236v1](http://arxiv.org/abs/2210.16236v1)|null|
