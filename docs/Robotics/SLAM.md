@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|null|
+|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|null|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|[link](https://github.com/pengyu-team/s3e)|
@@ -30,5 +32,3 @@
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
-|**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
-|**2022-10-03**|**Probabilistic Volumetric Fusion for Dense Monocular SLAM**|Antoni Rosinol et.al.|[2210.01276v2](http://arxiv.org/abs/2210.01276v2)|null|

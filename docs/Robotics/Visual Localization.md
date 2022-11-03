@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi et.al.|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
+|**2022-11-02**|**Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information**|Novel Certad et.al.|[2211.01105v1](http://arxiv.org/abs/2211.01105v1)|null|
+|**2022-11-02**|**Deep Learning Computer Vision Algorithms for Real-time UAVs On-board Camera Image Processing**|Alessandro Palmas et.al.|[2211.01037v1](http://arxiv.org/abs/2211.01037v1)|null|
+|**2022-11-02**|**Performance Evaluation of Three Silicon Photomultiplier Detector Modules within the MAGIC Telescopes PMT-based camera**|A. Hahn et.al.|[2211.01012v1](http://arxiv.org/abs/2211.01012v1)|null|
+|**2022-11-02**|**Chasing extreme planetary architectures: I- HD196885Ab, a super-Jupiter dancing with two stars?**|G. Chauvin et.al.|[2211.00994v1](http://arxiv.org/abs/2211.00994v1)|null|
+|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|null|
+|**2022-11-01**|**VIINTER: View Interpolation with Implicit Neural Representations of Images**|Brandon Yushan Feng et.al.|[2211.00722v1](http://arxiv.org/abs/2211.00722v1)|null|
+|**2022-11-01**|**SleepyWheels: An Ensemble Model for Drowsiness Detection leading to Accident Prevention**|Jomin Jose et.al.|[2211.00718v1](http://arxiv.org/abs/2211.00718v1)|null|
+|**2022-11-01**|**Accelerated Design of Chalcogenide Glasses through Interpretable Machine Learning for Composition Property Relationships**|Sayam Singla et.al.|[2211.00691v1](http://arxiv.org/abs/2211.00691v1)|null|
+|**2022-11-01**|**Exploring the Ability of HST WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres Through a Homogeneous Transmission Survey of 70 Gaseous Planets**|Billy Edwards et.al.|[2211.00649v1](http://arxiv.org/abs/2211.00649v1)|null|
 |**2022-11-01**|**Self-Supervised Intensity-Event Stereo Matching**|Jinjin Gu et.al.|[2211.00509v1](http://arxiv.org/abs/2211.00509v1)|null|
 |**2022-11-01**|**combined digital drone camera and optical channel parameters for air surveillance**|Wamidh Jalil Mazher et.al.|[2211.00377v1](http://arxiv.org/abs/2211.00377v1)|null|
 |**2022-11-01**|**HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar**|Yanyan Huang et.al.|[2211.00312v1](http://arxiv.org/abs/2211.00312v1)|null|
@@ -22,13 +32,3 @@
 |**2022-10-28**|**NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields**|Liangchen Song et.al.|[2210.15947v1](http://arxiv.org/abs/2210.15947v1)|null|
 |**2022-10-28**|**Single-Image HDR Reconstruction by Multi-Exposure Generation**|Phuoc-Hieu Le et.al.|[2210.15897v1](http://arxiv.org/abs/2210.15897v1)|null|
 |**2022-10-28**|**The 100-m X-ray Test Facility at IHEP**|Yusa Wang et.al.|[2210.15840v1](http://arxiv.org/abs/2210.15840v1)|null|
-|**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk et.al.|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
-|**2022-10-27**|**User Identification: The Key Enabler for Multi-User Vision-Aided Wireless Communications**|Gouranga Charan et.al.|[2210.15652v1](http://arxiv.org/abs/2210.15652v1)|null|
-|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|[link](https://github.com/nedzhaken/human_aware_navigation)|
-|**2022-10-27**|**A Novel Approach for Neuromorphic Vision Data Compression based on Deep Belief Network**|Sally Khaidem et.al.|[2210.15362v1](http://arxiv.org/abs/2210.15362v1)|null|
-|**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
-|**2022-10-27**|**Robot to Human Object Handover using Vision and Joint Torque Sensor Modalities**|Mohammadhadi Mohandes et.al.|[2210.15085v1](http://arxiv.org/abs/2210.15085v1)|null|
-|**2022-10-26**|**SeaDroneSim: Simulation of Aerial Images for Detection of Objects Above Water**|Xiaomin Lin et.al.|[2210.16107v2](http://arxiv.org/abs/2210.16107v2)|null|
-|**2022-10-26**|**LiDAR-guided object search and detection in Subterranean Environments**|Manthan Patel et.al.|[2210.14997v1](http://arxiv.org/abs/2210.14997v1)|null|
-|**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
-|**2022-10-26**|**The eyes and hearts of UAV pilots: observations of physiological responses in real-life scenarios**|Alexandre Duval et.al.|[2210.14910v1](http://arxiv.org/abs/2210.14910v1)|null|
