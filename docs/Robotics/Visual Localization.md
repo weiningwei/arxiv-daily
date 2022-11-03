@@ -7,7 +7,7 @@
 |**2022-11-02**|**Deep Learning Computer Vision Algorithms for Real-time UAVs On-board Camera Image Processing**|Alessandro Palmas et.al.|[2211.01037v1](http://arxiv.org/abs/2211.01037v1)|null|
 |**2022-11-02**|**Performance Evaluation of Three Silicon Photomultiplier Detector Modules within the MAGIC Telescopes PMT-based camera**|A. Hahn et.al.|[2211.01012v1](http://arxiv.org/abs/2211.01012v1)|null|
 |**2022-11-02**|**Chasing extreme planetary architectures: I- HD196885Ab, a super-Jupiter dancing with two stars?**|G. Chauvin et.al.|[2211.00994v1](http://arxiv.org/abs/2211.00994v1)|null|
-|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|null|
+|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|[link](https://github.com/rpmsnu/prima6d)|
 |**2022-11-01**|**VIINTER: View Interpolation with Implicit Neural Representations of Images**|Brandon Yushan Feng et.al.|[2211.00722v1](http://arxiv.org/abs/2211.00722v1)|null|
 |**2022-11-01**|**SleepyWheels: An Ensemble Model for Drowsiness Detection leading to Accident Prevention**|Jomin Jose et.al.|[2211.00718v1](http://arxiv.org/abs/2211.00718v1)|null|
 |**2022-11-01**|**Accelerated Design of Chalcogenide Glasses through Interpretable Machine Learning for Composition Property Relationships**|Sayam Singla et.al.|[2211.00691v1](http://arxiv.org/abs/2211.00691v1)|null|
