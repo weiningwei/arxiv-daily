@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
+|**2022-11-03**|**Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset**|David Cornett III et.al.|[2211.01917v1](http://arxiv.org/abs/2211.01917v1)|null|
+|**2022-11-03**|**Demographics of the M-star Multiple Population in the Orion Nebula Cluster**|Matthew De Furio et.al.|[2211.01897v1](http://arxiv.org/abs/2211.01897v1)|null|
+|**2022-11-03**|**Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs**|Emmett Wise et.al.|[2211.01871v1](http://arxiv.org/abs/2211.01871v1)|null|
+|**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
+|**2022-11-03**|**StereoPose: Category-Level 6D Transparent Object Pose Estimation from Stereo Images via Back-View NOCS**|Kai Chen et.al.|[2211.01644v1](http://arxiv.org/abs/2211.01644v1)|null|
+|**2022-11-03**|**Image-based Early Detection System for Wildfires**|Omkar Ranadive et.al.|[2211.01629v1](http://arxiv.org/abs/2211.01629v1)|null|
+|**2022-11-02**|**Optimizing Fiducial Marker Placement for Improved Visual Localization**|Qiangqiang Huang et.al.|[2211.01513v1](http://arxiv.org/abs/2211.01513v1)|null|
+|**2022-11-02**|**Experimental Study of a Low-Voltage Pulsed Plasma Thruster for Nanosatellites**|Patrick Gresham et.al.|[2211.01463v1](http://arxiv.org/abs/2211.01463v1)|null|
 |**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi et.al.|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
 |**2022-11-02**|**Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information**|Novel Certad et.al.|[2211.01105v1](http://arxiv.org/abs/2211.01105v1)|null|
 |**2022-11-02**|**Deep Learning Computer Vision Algorithms for Real-time UAVs On-board Camera Image Processing**|Alessandro Palmas et.al.|[2211.01037v1](http://arxiv.org/abs/2211.01037v1)|null|
@@ -23,12 +32,3 @@
 |**2022-10-31**|**A centimeter-scale achromatic hybrid metalens with polarization-insensitivity in the visible**|Tie Hu et.al.|[2210.17362v1](http://arxiv.org/abs/2210.17362v1)|null|
 |**2022-10-31**|**Real-time Mapping of Physical Scene Properties with an Autonomous Robot Experimenter**|Iain Haughton et.al.|[2210.17325v1](http://arxiv.org/abs/2210.17325v1)|null|
 |**2022-10-31**|**Near-Infrared 3D Imaging with Upconversion Detection**|He Zhang et.al.|[2210.17286v1](http://arxiv.org/abs/2210.17286v1)|null|
-|**2022-10-31**|**Multi-Camera Calibration Free BEV Representation for 3D Object Detection**|Hongxiang Jiang et.al.|[2210.17252v1](http://arxiv.org/abs/2210.17252v1)|null|
-|**2022-10-30**|**Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition**|Lei Wang et.al.|[2210.16820v1](http://arxiv.org/abs/2210.16820v1)|null|
-|**2022-10-30**|**Image-free Domain Generalization via CLIP for 3D Hand Pose Estimation**|Seongyeong Lee et.al.|[2210.16788v1](http://arxiv.org/abs/2210.16788v1)|null|
-|**2022-10-29**|**Data-Driven Computational Imaging for Scientific Discovery**|Andrew Olsen et.al.|[2210.16709v1](http://arxiv.org/abs/2210.16709v1)|[link](https://github.com/vganapati/led_pvae)|
-|**2022-10-29**|**Mixed Reality Interface for Digital Twin of Plant Factory**|Byunghyun Ban et.al.|[2211.00597v1](http://arxiv.org/abs/2211.00597v1)|null|
-|**2022-10-28**|**TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**|Nicola Marinello et.al.|[2210.16204v1](http://arxiv.org/abs/2210.16204v1)|null|
-|**2022-10-28**|**NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields**|Liangchen Song et.al.|[2210.15947v1](http://arxiv.org/abs/2210.15947v1)|null|
-|**2022-10-28**|**Single-Image HDR Reconstruction by Multi-Exposure Generation**|Phuoc-Hieu Le et.al.|[2210.15897v1](http://arxiv.org/abs/2210.15897v1)|null|
-|**2022-10-28**|**The 100-m X-ray Test Facility at IHEP**|Yusa Wang et.al.|[2210.15840v1](http://arxiv.org/abs/2210.15840v1)|null|
