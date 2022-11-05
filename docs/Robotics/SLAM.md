@@ -30,5 +30,5 @@
 |**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
 |**2022-10-10**|**Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**|Xingyu Chen et.al.|[2210.04562v1](http://arxiv.org/abs/2210.04562v1)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
-|**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
+|**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|[link](https://github.com/marineroboticsgroup/score)|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
