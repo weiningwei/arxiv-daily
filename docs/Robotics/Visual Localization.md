@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-04**|**HoloLens 2 Sensor Streaming**|Juan C. Dibene et.al.|[2211.02648v1](http://arxiv.org/abs/2211.02648v1)|null|
+|**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v1](http://arxiv.org/abs/2211.02578v1)|[link](https://github.com/aiaudit-org/raw2logit)|
+|**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo et.al.|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
+|**2022-11-04**|**On the Interplay between TLS Certificates and QUIC Performance**|Marcin Nawrocki et.al.|[2211.02421v1](http://arxiv.org/abs/2211.02421v1)|null|
+|**2022-11-04**|**Low-cost Thermal Mapping for Concrete Heat Monitoring**|Alex Junho Lee et.al.|[2211.02244v1](http://arxiv.org/abs/2211.02244v1)|null|
+|**2022-11-03**|**Sports Camera Pose Refinement Using an Evolution Strategy**|Grzegorz Rypeść et.al.|[2211.02143v1](http://arxiv.org/abs/2211.02143v1)|null|
+|**2022-11-03**|**Graph-Based Multi-Camera Soccer Player Tracker**|Jacek Komorowski et.al.|[2211.02125v1](http://arxiv.org/abs/2211.02125v1)|null|
+|**2022-11-03**|**The Giant Accreting Protoplanet Survey (GAPlanetS) -- Results from a Six Year Campaign to Image Accreting Protoplanets**|Katherine B. Follette et.al.|[2211.02109v1](http://arxiv.org/abs/2211.02109v1)|null|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset**|David Cornett III et.al.|[2211.01917v1](http://arxiv.org/abs/2211.01917v1)|null|
 |**2022-11-03**|**Demographics of the M-star Multiple Population in the Orion Nebula Cluster**|Matthew De Furio et.al.|[2211.01897v1](http://arxiv.org/abs/2211.01897v1)|null|
@@ -24,11 +32,3 @@
 |**2022-11-01**|**Self-Supervised Intensity-Event Stereo Matching**|Jinjin Gu et.al.|[2211.00509v1](http://arxiv.org/abs/2211.00509v1)|null|
 |**2022-11-01**|**combined digital drone camera and optical channel parameters for air surveillance**|Wamidh Jalil Mazher et.al.|[2211.00377v1](http://arxiv.org/abs/2211.00377v1)|null|
 |**2022-11-01**|**HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar**|Yanyan Huang et.al.|[2211.00312v1](http://arxiv.org/abs/2211.00312v1)|null|
-|**2022-11-01**|**The Age and Erosion Rate of Young Sedimentary Rock on Mars**|An Y. Li et.al.|[2211.00236v1](http://arxiv.org/abs/2211.00236v1)|[link](https://github.com/astroanli/young_sedimentary_rock_mars)|
-|**2022-11-01**|**Frequency Cam: Imaging Periodic Signals in Real-Time**|Bernd Pfrommer et.al.|[2211.00198v1](http://arxiv.org/abs/2211.00198v1)|[link](https://github.com/berndpfrommer/frequency_cam)|
-|**2022-10-31**|**UmeTrack: Unified multi-view end-to-end hand tracking for VR**|Shangchen Han et.al.|[2211.00099v1](http://arxiv.org/abs/2211.00099v1)|null|
-|**2022-10-31**|**A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**|P. Console Camprini et.al.|[2210.17431v1](http://arxiv.org/abs/2210.17431v1)|null|
-|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|[link](https://github.com/norlab-ulaval/perceptreev1)|
-|**2022-10-31**|**A centimeter-scale achromatic hybrid metalens with polarization-insensitivity in the visible**|Tie Hu et.al.|[2210.17362v1](http://arxiv.org/abs/2210.17362v1)|null|
-|**2022-10-31**|**Real-time Mapping of Physical Scene Properties with an Autonomous Robot Experimenter**|Iain Haughton et.al.|[2210.17325v1](http://arxiv.org/abs/2210.17325v1)|null|
-|**2022-10-31**|**Near-Infrared 3D Imaging with Upconversion Detection**|He Zhang et.al.|[2210.17286v1](http://arxiv.org/abs/2210.17286v1)|null|
