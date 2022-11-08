@@ -2,8 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-07**|**Heavy and light inertial particle aggregates in homogeneous isotropic turbulence: A study on breakup and stress statistics**|Graziano Frungieri et.al.|[2211.03431v1](http://arxiv.org/abs/2211.03431v1)|null|
+|**2022-11-07**|**A spectral solver for solar inertial waves**|Jishnu Bhattacharya et.al.|[2211.03323v1](http://arxiv.org/abs/2211.03323v1)|null|
+|**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
+|**2022-11-06**|**SRIBO: An Efficient and Resilient Single-Range and Inertia Based Odometry for Flying Robots**|Wei Dong et.al.|[2211.03093v1](http://arxiv.org/abs/2211.03093v1)|null|
+|**2022-11-06**|**HeRoSwarm: Fully-Capable Miniature Swarm Robot Hardware Design With Open-Source ROS Support**|Michael Starks et.al.|[2211.03014v1](http://arxiv.org/abs/2211.03014v1)|null|
 |**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry)|
 |**2022-11-04**|**Low-cost Thermal Mapping for Concrete Heat Monitoring**|Alex Junho Lee et.al.|[2211.02244v1](http://arxiv.org/abs/2211.02244v1)|null|
+|**2022-11-04**|**New Fundamental Equation for Classical Waves and its Physical Applications**|Z. E. Musielak et.al.|[2211.03546v1](http://arxiv.org/abs/2211.03546v1)|null|
 |**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Inertial migration of a sphere in plane Couette flow**|Prateek Anand et.al.|[2211.01414v1](http://arxiv.org/abs/2211.01414v1)|null|
 |**2022-11-02**|**CARIOQA: Definition of a Quantum Pathfinder Mission**|T. Lévèque et.al.|[2211.01215v1](http://arxiv.org/abs/2211.01215v1)|null|
@@ -26,9 +32,3 @@
 |**2022-10-26**|**From Obstacle Avoidance To Motion Learning Using Local Rotation of Dynamical Systems**|Lukas Huber et.al.|[2210.14417v1](http://arxiv.org/abs/2210.14417v1)|null|
 |**2022-10-26**|**IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text**|Seungwhan Moon et.al.|[2210.14395v1](http://arxiv.org/abs/2210.14395v1)|null|
 |**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
-|**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
-|**2022-10-24**|**Superconducting microsphere magnetically levitated in an anharmonic potential**|Martí Gutierrez Latorre et.al.|[2210.13451v1](http://arxiv.org/abs/2210.13451v1)|null|
-|**2022-10-24**|**Time-Varying ALIP Model and Robust Foot-Placement Control for Underactuated Bipedal Robot Walking on a Swaying Rigid Surface**|Yuan Gao et.al.|[2210.13371v1](http://arxiv.org/abs/2210.13371v1)|null|
-|**2022-10-24**|**Born rule extension for non-replicable systems and its consequences for Unruh-DeWitt detectors**|Nicola Pranzini et.al.|[2210.13347v1](http://arxiv.org/abs/2210.13347v1)|null|
-|**2022-10-24**|**Clusters of heavy particles in two-dimensional Keplerian turbulence**|Fabiola Antonietta Gerosa et.al.|[2210.13147v1](http://arxiv.org/abs/2210.13147v1)|null|
-|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v2](http://arxiv.org/abs/2210.13031v2)|null|
