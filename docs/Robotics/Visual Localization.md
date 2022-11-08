@@ -12,7 +12,7 @@
 |**2022-11-03**|**The Giant Accreting Protoplanet Survey (GAPlanetS) -- Results from a Six Year Campaign to Image Accreting Protoplanets**|Katherine B. Follette et.al.|[2211.02109v1](http://arxiv.org/abs/2211.02109v1)|null|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset**|David Cornett III et.al.|[2211.01917v1](http://arxiv.org/abs/2211.01917v1)|null|
-|**2022-11-03**|**Demographics of the M-star Multiple Population in the Orion Nebula Cluster**|Matthew De Furio et.al.|[2211.01897v1](http://arxiv.org/abs/2211.01897v1)|null|
+|**2022-11-03**|**Demographics of the M-star Multiple Population in the Orion Nebula Cluster**|Matthew De Furio et.al.|[2211.01897v2](http://arxiv.org/abs/2211.01897v2)|null|
 |**2022-11-03**|**Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs**|Emmett Wise et.al.|[2211.01871v1](http://arxiv.org/abs/2211.01871v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
 |**2022-11-03**|**StereoPose: Category-Level 6D Transparent Object Pose Estimation from Stereo Images via Back-View NOCS**|Kai Chen et.al.|[2211.01644v1](http://arxiv.org/abs/2211.01644v1)|null|
