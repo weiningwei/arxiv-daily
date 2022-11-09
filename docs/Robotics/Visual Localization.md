@@ -8,7 +8,7 @@
 |**2022-11-07**|**Egocentric Audio-Visual Noise Suppression**|Roshan Sharma et.al.|[2211.03643v1](http://arxiv.org/abs/2211.03643v1)|null|
 |**2022-11-07**|**Contact-Free Simultaneous Sensing of Human Heart Rate and Canine Breathing Rate for Animal Assisted Interactions**|Timothy Holder et.al.|[2211.03636v1](http://arxiv.org/abs/2211.03636v1)|null|
 |**2022-11-07**|**Camera Alignment and Weighted Contrastive Learning for Domain Adaptation in Video Person ReID**|Djebril Mekhazni et.al.|[2211.03626v1](http://arxiv.org/abs/2211.03626v1)|null|
-|**2022-11-07**|**The MeerKAT Galaxy Clusters Legacy Survey: star formation in massive clusters at 0.15 < 𝑧 < 0.35**|Kabelo C. Kesebonye et.al.|[2211.03492v1](http://arxiv.org/abs/2211.03492v1)|null|
+|**2022-11-07**|**The MeerKAT Galaxy Clusters Legacy Survey: star formation in massive clusters at 0.15 < z < 0.35**|Kabelo C. Kesebonye et.al.|[2211.03492v2](http://arxiv.org/abs/2211.03492v2)|null|
 |**2022-11-07**|**Nonlinear polarization holography of nanoscale iridium films**|Mouli Hazra et.al.|[2211.03436v1](http://arxiv.org/abs/2211.03436v1)|null|
 |**2022-11-07**|**Soft Robotic Link with Controllable Transparency for Vision-based Tactile and Proximity Sensing**|Quan Khanh Luu et.al.|[2211.03253v1](http://arxiv.org/abs/2211.03253v1)|null|
 |**2022-11-07**|**Fast Key Points Detection and Matching for Tree-Structured Images**|Hao Wang et.al.|[2211.03242v1](http://arxiv.org/abs/2211.03242v1)|null|
