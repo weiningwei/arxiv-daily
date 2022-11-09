@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-08**|**Two-stream Multi-dimensional Convolutional Network for Real-time Violence Detection**|Dipon Kumar Ghosh et.al.|[2211.04255v1](http://arxiv.org/abs/2211.04255v1)|null|
+|**2022-11-08**|**DepthFormer: Multimodal Positional Encodings and Cross-Input Attention for Transformer-Based Segmentation Networks**|Francesco Barbato et.al.|[2211.04188v1](http://arxiv.org/abs/2211.04188v1)|null|
+|**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta et.al.|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
+|**2022-11-08**|**Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps**|Hiroki Iida et.al.|[2211.03988v1](http://arxiv.org/abs/2211.03988v1)|null|
+|**2022-11-08**|**PANDORA project: photo-nuclear reactions below $A=60$**|A. Tamii et.al.|[2211.03986v1](http://arxiv.org/abs/2211.03986v1)|null|
+|**2022-11-08**|**Enhanced Low-resolution LiDAR-Camera Calibration Via Depth Interpolation and Supervised Contrastive Learning**|Zhikang Zhang et.al.|[2211.03932v1](http://arxiv.org/abs/2211.03932v1)|null|
+|**2022-11-07**|**Learned Smartphone ISP on Mobile GPUs with Deep Learning, Mobile AI & AIM 2022 Challenge: Report**|Andrey Ignatov et.al.|[2211.03885v1](http://arxiv.org/abs/2211.03885v1)|null|
 |**2022-11-07**|**Learning Visual Locomotion with Cross-Modal Supervision**|Antonio Loquercio et.al.|[2211.03785v1](http://arxiv.org/abs/2211.03785v1)|null|
 |**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|[link](https://github.com/deepmind/tapnet)|
 |**2022-11-07**|**Scale Invariant Privacy Preserving Video via Wavelet Decomposition**|Chengkai Yu et.al.|[2211.03690v1](http://arxiv.org/abs/2211.03690v1)|null|
@@ -25,10 +32,3 @@
 |**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo et.al.|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
 |**2022-11-04**|**On the Interplay between TLS Certificates and QUIC Performance**|Marcin Nawrocki et.al.|[2211.02421v1](http://arxiv.org/abs/2211.02421v1)|[link](https://github.com/ilabrg/artifacts-conext22-quic-tls)|
 |**2022-11-04**|**Low-cost Thermal Mapping for Concrete Heat Monitoring**|Alex Junho Lee et.al.|[2211.02244v1](http://arxiv.org/abs/2211.02244v1)|null|
-|**2022-11-03**|**Sports Camera Pose Refinement Using an Evolution Strategy**|Grzegorz Rypeść et.al.|[2211.02143v1](http://arxiv.org/abs/2211.02143v1)|null|
-|**2022-11-03**|**Graph-Based Multi-Camera Soccer Player Tracker**|Jacek Komorowski et.al.|[2211.02125v1](http://arxiv.org/abs/2211.02125v1)|null|
-|**2022-11-03**|**The Giant Accreting Protoplanet Survey (GAPlanetS) -- Results from a Six Year Campaign to Image Accreting Protoplanets**|Katherine B. Follette et.al.|[2211.02109v1](http://arxiv.org/abs/2211.02109v1)|null|
-|**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
-|**2022-11-03**|**Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset**|David Cornett III et.al.|[2211.01917v1](http://arxiv.org/abs/2211.01917v1)|null|
-|**2022-11-03**|**Demographics of the M-star Multiple Population in the Orion Nebula Cluster**|Matthew De Furio et.al.|[2211.01897v2](http://arxiv.org/abs/2211.01897v2)|null|
-|**2022-11-03**|**Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs**|Emmett Wise et.al.|[2211.01871v1](http://arxiv.org/abs/2211.01871v1)|null|

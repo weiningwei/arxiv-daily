@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-08**|**A novel approach for modeling the non-Newtonian behavior of simple liquids: application to liquid water viscosity from low to high shear rates**|Frédéric Aitken et.al.|[2211.04228v1](http://arxiv.org/abs/2211.04228v1)|null|
+|**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v1](http://arxiv.org/abs/2211.03900v1)|null|
 |**2022-11-07**|**Heavy and light inertial particle aggregates in homogeneous isotropic turbulence: A study on breakup and stress statistics**|Graziano Frungieri et.al.|[2211.03431v1](http://arxiv.org/abs/2211.03431v1)|null|
 |**2022-11-07**|**A spectral solver for solar inertial waves**|Jishnu Bhattacharya et.al.|[2211.03323v1](http://arxiv.org/abs/2211.03323v1)|null|
 |**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
@@ -30,5 +32,3 @@
 |**2022-10-26**|**Inertial range scaling of inhomogeneous turbulence**|Ryo Araki et.al.|[2210.14516v1](http://arxiv.org/abs/2210.14516v1)|null|
 |**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
 |**2022-10-26**|**From Obstacle Avoidance To Motion Learning Using Local Rotation of Dynamical Systems**|Lukas Huber et.al.|[2210.14417v1](http://arxiv.org/abs/2210.14417v1)|null|
-|**2022-10-26**|**IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text**|Seungwhan Moon et.al.|[2210.14395v1](http://arxiv.org/abs/2210.14395v1)|null|
-|**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
