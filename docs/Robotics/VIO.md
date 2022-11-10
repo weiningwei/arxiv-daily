@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
+|**2022-11-09**|**Instability in strongly stratified plane Couette flow, with application to supercritical fluids**|B. Bugeat et.al.|[2211.04935v1](http://arxiv.org/abs/2211.04935v1)|null|
+|**2022-11-09**|**Asymptotic closure model for inertial particle transport in turbulent boundary layers**|Yan Zhang et.al.|[2211.04869v1](http://arxiv.org/abs/2211.04869v1)|null|
+|**2022-11-09**|**Penetrating a granular medium by successive impacts**|Seguin Antoine et.al.|[2211.04801v1](http://arxiv.org/abs/2211.04801v1)|null|
+|**2022-11-08**|**Contour Extraction of Inertial Confinement Fusion Images By Data Augmentation**|Michael Falato et.al.|[2211.04597v1](http://arxiv.org/abs/2211.04597v1)|null|
+|**2022-11-08**|**Spin polarization induced by magnetic field and the relativistic Barnett effect**|Matteo Buzzegoli et.al.|[2211.04549v1](http://arxiv.org/abs/2211.04549v1)|null|
+|**2022-11-08**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
 |**2022-11-08**|**A novel approach for modeling the non-Newtonian behavior of simple liquids: application to liquid water viscosity from low to high shear rates**|Frédéric Aitken et.al.|[2211.04228v1](http://arxiv.org/abs/2211.04228v1)|null|
 |**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|null|
 |**2022-11-07**|**Heavy and light inertial particle aggregates in homogeneous isotropic turbulence: A study on breakup and stress statistics**|Graziano Frungieri et.al.|[2211.03431v1](http://arxiv.org/abs/2211.03431v1)|null|
@@ -25,10 +32,3 @@
 |**2022-10-27**|**Effect of ambient gas on cavity formation for sphere impacts on liquids**|Hollis Williams et.al.|[2210.15369v1](http://arxiv.org/abs/2210.15369v1)|null|
 |**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2022-10-27**|**Utilizing bifurcations to separate particles in spiral inertial microfluidics**|Rahil Valani et.al.|[2210.15197v1](http://arxiv.org/abs/2210.15197v1)|null|
-|**2022-10-27**|**InGVIO: A Consistent Invariant Filter for Fast and High-Accuracy GNSS-Visual-Inertial Odometry**|Changwu Liu et.al.|[2210.15145v1](http://arxiv.org/abs/2210.15145v1)|[link](https://github.com/changwuliu/ingvio)|
-|**2022-10-27**|**Hybrid Indoor Localization via Reinforcement Learning-based Information Fusion**|Mohammad Salimibeni et.al.|[2210.15132v1](http://arxiv.org/abs/2210.15132v1)|null|
-|**2022-10-26**|**Schrödinger--Newton equation with spontaneous wave function collapse**|Lajos Diósi et.al.|[2210.15057v1](http://arxiv.org/abs/2210.15057v1)|null|
-|**2022-10-26**|**Closed-Loop Dual-Atom-Interferometer Inertial Sensor with Continuous Cold Atomic Beams**|Zhi-Xin Meng et.al.|[2210.15346v1](http://arxiv.org/abs/2210.15346v1)|null|
-|**2022-10-26**|**Inertial range scaling of inhomogeneous turbulence**|Ryo Araki et.al.|[2210.14516v1](http://arxiv.org/abs/2210.14516v1)|null|
-|**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
-|**2022-10-26**|**From Obstacle Avoidance To Motion Learning Using Local Rotation of Dynamical Systems**|Lukas Huber et.al.|[2210.14417v1](http://arxiv.org/abs/2210.14417v1)|null|
