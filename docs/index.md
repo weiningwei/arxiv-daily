@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-10 20:15:16 Asia/Shanghai
+ Automated deployment @ 2022-11-10 21:08:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|[link](https://github.com/zhouruihao1001/ndd)|
 
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
-|**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch et.al.|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
-|**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
-|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/cfear_evaluation)|
-|**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
-|**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
-|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
-|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|[link](https://github.com/gabriel-sgama/semantic-superpoint)|
-|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|[link](https://github.com/rpmsnu/prima6d)|
-|**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
-|**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
-|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|[link](https://github.com/pengyu-team/s3e)|
-|**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
-|**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang et.al.|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
-|**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v2](http://arxiv.org/abs/2210.12756v2)|null|
-|**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen et.al.|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
-|**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|[link](https://github.com/pengyu-team/dcl-slam)|
-|**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia et.al.|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
-|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
-|**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
-|**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
-|**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
-|**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko et.al.|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
-|**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti et.al.|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
-|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|[link](https://github.com/MaverickPeter/MR_SLAM)|
-|**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
-|**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
-|**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
-|**2022-10-11**|**Multi-Object Navigation with dynamically learned neural implicit representations**|Pierre Marza et.al.|[2210.05129v1](http://arxiv.org/abs/2210.05129v1)|null|
-|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
-
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -83,7 +49,7 @@
 |**2022-11-09**|**ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation**|Daniel Kang et.al.|[2211.04775v1](http://arxiv.org/abs/2211.04775v1)|null|
 |**2022-11-09**|**Efficient Neural Mapping for Localisation of Unmanned Ground Vehicles**|Christopher J. Holder et.al.|[2211.04718v1](http://arxiv.org/abs/2211.04718v1)|null|
 |**2022-11-09**|**Effect of scintillator geometry on the energy resolution and efficiency of MAST neutron camera detectors**|Marco Cecconello et.al.|[2211.04707v1](http://arxiv.org/abs/2211.04707v1)|null|
-|**2022-11-09**|**A Solution for a Fundamental Problem of 3D Inference based on 2D Representations**|Thien An L. Nguyen et.al.|[2211.04691v1](http://arxiv.org/abs/2211.04691v1)|null|
+|**2022-11-09**|**A Solution for a Fundamental Problem of 3D Inference based on 2D Representations**|Thien An L. Nguyen et.al.|[2211.04691v1](http://arxiv.org/abs/2211.04691v1)|[link](https://github.com/thienannguyen-cv/2D-representation-experiments/blob/main/experiment-code.ipynb)|
 |**2022-11-09**|**MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**|Daniel Davila et.al.|[2211.04656v1](http://arxiv.org/abs/2211.04656v1)|null|
 |**2022-11-08**|**Estimation of Appearance and Occupancy Information in Birds Eye View from Surround Monocular Images**|Sarthak Sharma et.al.|[2211.04557v1](http://arxiv.org/abs/2211.04557v1)|null|
 |**2022-11-08**|**Two-stream Multi-dimensional Convolutional Network for Real-time Violence Detection**|Dipon Kumar Ghosh et.al.|[2211.04255v1](http://arxiv.org/abs/2211.04255v1)|null|
@@ -140,3 +106,37 @@
 |**2022-10-27**|**Effect of ambient gas on cavity formation for sphere impacts on liquids**|Hollis Williams et.al.|[2210.15369v1](http://arxiv.org/abs/2210.15369v1)|null|
 |**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2022-10-27**|**Utilizing bifurcations to separate particles in spiral inertial microfluidics**|Rahil Valani et.al.|[2210.15197v1](http://arxiv.org/abs/2210.15197v1)|null|
+
+### SLAM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
+|**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch et.al.|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
+|**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
+|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/cfear_evaluation)|
+|**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
+|**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
+|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
+|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|[link](https://github.com/gabriel-sgama/semantic-superpoint)|
+|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|[link](https://github.com/rpmsnu/prima6d)|
+|**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
+|**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
+|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|[link](https://github.com/pengyu-team/s3e)|
+|**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
+|**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang et.al.|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
+|**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v2](http://arxiv.org/abs/2210.12756v2)|null|
+|**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen et.al.|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
+|**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|[link](https://github.com/pengyu-team/dcl-slam)|
+|**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia et.al.|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
+|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
+|**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
+|**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
+|**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
+|**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko et.al.|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
+|**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti et.al.|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
+|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|[link](https://github.com/MaverickPeter/MR_SLAM)|
+|**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
+|**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
+|**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
+|**2022-10-11**|**Multi-Object Navigation with dynamically learned neural implicit representations**|Pierre Marza et.al.|[2210.05129v1](http://arxiv.org/abs/2210.05129v1)|null|
+|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
