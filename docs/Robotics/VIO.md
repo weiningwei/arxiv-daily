@@ -5,7 +5,7 @@
 |**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
 |**2022-11-09**|**Instability in strongly stratified plane Couette flow, with application to supercritical fluids**|B. Bugeat et.al.|[2211.04935v1](http://arxiv.org/abs/2211.04935v1)|null|
 |**2022-11-09**|**Asymptotic closure model for inertial particle transport in turbulent boundary layers**|Yan Zhang et.al.|[2211.04869v1](http://arxiv.org/abs/2211.04869v1)|null|
-|**2022-11-09**|**Penetrating a granular medium by successive impacts**|Seguin Antoine et.al.|[2211.04801v1](http://arxiv.org/abs/2211.04801v1)|null|
+|**2022-11-09**|**Penetrating a granular medium by successive impacts**|Antoine Seguin et.al.|[2211.04801v2](http://arxiv.org/abs/2211.04801v2)|null|
 |**2022-11-08**|**Contour Extraction of Inertial Confinement Fusion Images By Data Augmentation**|Michael Falato et.al.|[2211.04597v1](http://arxiv.org/abs/2211.04597v1)|null|
 |**2022-11-08**|**Spin polarization induced by magnetic field and the relativistic Barnett effect**|Matteo Buzzegoli et.al.|[2211.04549v1](http://arxiv.org/abs/2211.04549v1)|null|
 |**2022-11-08**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
