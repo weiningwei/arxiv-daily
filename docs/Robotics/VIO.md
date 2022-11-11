@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**Unsupervised Deep Learning-based clustering for Human Activity Recognition**|Hamza Amrani et.al.|[2211.05483v1](http://arxiv.org/abs/2211.05483v1)|null|
+|**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|null|
 |**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
 |**2022-11-09**|**Instability in strongly stratified plane Couette flow, with application to supercritical fluids**|B. Bugeat et.al.|[2211.04935v1](http://arxiv.org/abs/2211.04935v1)|null|
 |**2022-11-09**|**Asymptotic closure model for inertial particle transport in turbulent boundary layers**|Yan Zhang et.al.|[2211.04869v1](http://arxiv.org/abs/2211.04869v1)|null|
@@ -30,5 +32,3 @@
 |**2022-10-28**|**Entanglement-Enhanced Optomechanical Sensing**|Yi Xia et.al.|[2210.16180v1](http://arxiv.org/abs/2210.16180v1)|null|
 |**2022-10-27**|**Perception-aware Tag Placement Planning for Robust Localization of UAVs in Indoor Construction Environments**|Navid Kayhani et.al.|[2210.15504v1](http://arxiv.org/abs/2210.15504v1)|null|
 |**2022-10-27**|**Effect of ambient gas on cavity formation for sphere impacts on liquids**|Hollis Williams et.al.|[2210.15369v1](http://arxiv.org/abs/2210.15369v1)|null|
-|**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
-|**2022-10-27**|**Utilizing bifurcations to separate particles in spiral inertial microfluidics**|Rahil Valani et.al.|[2210.15197v1](http://arxiv.org/abs/2210.15197v1)|null|

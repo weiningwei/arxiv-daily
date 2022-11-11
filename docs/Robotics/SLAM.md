@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch et.al.|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
 |**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
@@ -31,4 +32,3 @@
 |**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-11**|**Multi-Object Navigation with dynamically learned neural implicit representations**|Pierre Marza et.al.|[2210.05129v1](http://arxiv.org/abs/2210.05129v1)|null|
-|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
