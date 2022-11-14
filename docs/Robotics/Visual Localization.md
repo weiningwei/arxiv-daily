@@ -12,7 +12,7 @@
 |**2022-11-09**|**The AEROS ocean observation mission and its CubeSat pathfinder**|Rute Santos et.al.|[2211.05008v1](http://arxiv.org/abs/2211.05008v1)|null|
 |**2022-11-09**|**StarDICE I: sensor calibration bench and absolute photometric calibration of a Sony IMX411 sensor**|Marc Betoule et.al.|[2211.04913v1](http://arxiv.org/abs/2211.04913v1)|null|
 |**2022-11-09**|**3DFill:Reference-guided Image Inpainting by Self-supervised 3D Image Alignment**|Liang Zhao et.al.|[2211.04831v1](http://arxiv.org/abs/2211.04831v1)|null|
-|**2022-11-09**|**ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation**|Daniel Kang et.al.|[2211.04775v1](http://arxiv.org/abs/2211.04775v1)|null|
+|**2022-11-09**|**ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation**|Daniel Kang et.al.|[2211.04775v2](http://arxiv.org/abs/2211.04775v2)|null|
 |**2022-11-09**|**AEROS: Oceanographic Hyperspectral Imaging and Argos-Tracking CubeSat**|Sophie Prendergast et.al.|[2211.05124v1](http://arxiv.org/abs/2211.05124v1)|null|
 |**2022-11-09**|**Efficient Neural Mapping for Localisation of Unmanned Ground Vehicles**|Christopher J. Holder et.al.|[2211.04718v1](http://arxiv.org/abs/2211.04718v1)|null|
 |**2022-11-09**|**Effect of scintillator geometry on the energy resolution and efficiency of MAST neutron camera detectors**|Marco Cecconello et.al.|[2211.04707v1](http://arxiv.org/abs/2211.04707v1)|null|
