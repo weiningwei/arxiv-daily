@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-11**|**Sensor Visibility Estimation: Metrics and Methods for Systematic Performance Evaluation and Improvement**|Joachim Börger et.al.|[2211.06308v1](http://arxiv.org/abs/2211.06308v1)|null|
+|**2022-11-11**|**Disentangled Uncertainty and Out of Distribution Detection in Medical Generative Models**|Kumud Lakara et.al.|[2211.06250v1](http://arxiv.org/abs/2211.06250v1)|null|
+|**2022-11-11**|**Comparison of Uncertainty Quantification with Deep Learning in Time Series Regression**|Levente Foldesi et.al.|[2211.06233v1](http://arxiv.org/abs/2211.06233v1)|null|
+|**2022-11-11**|**Controllable shifting, steering, and expanding of light beam based on multi-layer liquid-crystal cells**|Urban Mur et.al.|[2211.06169v1](http://arxiv.org/abs/2211.06169v1)|null|
+|**2022-11-11**|**RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**|Yanlong Yang et.al.|[2211.06108v1](http://arxiv.org/abs/2211.06108v1)|null|
+|**2022-11-11**|**Multi-modal Fusion Technology based on Vehicle Information: A Survey**|Yan Gong et.al.|[2211.06080v1](http://arxiv.org/abs/2211.06080v1)|null|
+|**2022-11-11**|**An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|[2211.06001v1](http://arxiv.org/abs/2211.06001v1)|null|
 |**2022-11-10**|**Event-based imaging velocimetry using pulsed illumination**|Christian E. Willert et.al.|[2211.05710v1](http://arxiv.org/abs/2211.05710v1)|null|
 |**2022-11-10**|**SWTF: Sparse Weighted Temporal Fusion for Drone-Based Activity Recognition**|Santosh Kumar Yadav et.al.|[2211.05531v1](http://arxiv.org/abs/2211.05531v1)|null|
 |**2022-11-09**|**Sensing and Control of Friction Mode for Contact Area Variable Surfaces (Friction-variable Surface Structure)**|Seita Nojiri et.al.|[2211.05263v1](http://arxiv.org/abs/2211.05263v1)|null|
@@ -20,15 +27,8 @@
 |**2022-11-09**|**Deep Learning based Computer Vision Methods for Complex Traffic Environments Perception: A Review**|Talha Azfar et.al.|[2211.05120v1](http://arxiv.org/abs/2211.05120v1)|null|
 |**2022-11-09**|**MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**|Daniel Davila et.al.|[2211.04656v2](http://arxiv.org/abs/2211.04656v2)|null|
 |**2022-11-08**|**Estimation of Appearance and Occupancy Information in Birds Eye View from Surround Monocular Images**|Sarthak Sharma et.al.|[2211.04557v1](http://arxiv.org/abs/2211.04557v1)|null|
+|**2022-11-08**|**PyNet-V2 Mobile: Efficient On-Device Photo Processing With Neural Networks**|Andrey Ignatov et.al.|[2211.06263v1](http://arxiv.org/abs/2211.06263v1)|null|
 |**2022-11-08**|**Two-stream Multi-dimensional Convolutional Network for Real-time Violence Detection**|Dipon Kumar Ghosh et.al.|[2211.04255v1](http://arxiv.org/abs/2211.04255v1)|null|
 |**2022-11-08**|**DepthFormer: Multimodal Positional Encodings and Cross-Input Attention for Transformer-Based Segmentation Networks**|Francesco Barbato et.al.|[2211.04188v1](http://arxiv.org/abs/2211.04188v1)|null|
 |**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta et.al.|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
 |**2022-11-08**|**Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps**|Hiroki Iida et.al.|[2211.03988v1](http://arxiv.org/abs/2211.03988v1)|null|
-|**2022-11-08**|**PANDORA project: photo-nuclear reactions below $A=60$**|A. Tamii et.al.|[2211.03986v1](http://arxiv.org/abs/2211.03986v1)|null|
-|**2022-11-08**|**Enhanced Low-resolution LiDAR-Camera Calibration Via Depth Interpolation and Supervised Contrastive Learning**|Zhikang Zhang et.al.|[2211.03932v1](http://arxiv.org/abs/2211.03932v1)|null|
-|**2022-11-07**|**Efficient Single-Image Depth Estimation on Mobile Devices, Mobile AI & AIM 2022 Challenge: Report**|Andrey Ignatov et.al.|[2211.04470v1](http://arxiv.org/abs/2211.04470v1)|null|
-|**2022-11-07**|**Learned Smartphone ISP on Mobile GPUs with Deep Learning, Mobile AI & AIM 2022 Challenge: Report**|Andrey Ignatov et.al.|[2211.03885v1](http://arxiv.org/abs/2211.03885v1)|null|
-|**2022-11-07**|**Learning Visual Locomotion with Cross-Modal Supervision**|Antonio Loquercio et.al.|[2211.03785v1](http://arxiv.org/abs/2211.03785v1)|null|
-|**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|[link](https://github.com/deepmind/tapnet)|
-|**2022-11-07**|**Scale Invariant Privacy Preserving Video via Wavelet Decomposition**|Chengkai Yu et.al.|[2211.03690v1](http://arxiv.org/abs/2211.03690v1)|null|
-|**2022-11-07**|**Egocentric Audio-Visual Noise Suppression**|Roshan Sharma et.al.|[2211.03643v1](http://arxiv.org/abs/2211.03643v1)|null|

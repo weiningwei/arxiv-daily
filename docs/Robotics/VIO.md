@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-11**|**Emergence of universal scaling in isotropic turbulence**|Sualeh Khurshid et.al.|[2211.06307v1](http://arxiv.org/abs/2211.06307v1)|null|
+|**2022-11-11**|**Dynamics of nanosecond laser pulse propagation and of associated instabilities in a magnetized underdense plasma**|W. Yao et.al.|[2211.06036v1](http://arxiv.org/abs/2211.06036v1)|null|
+|**2022-11-10**|**How do tidal waves interact with convective vortices in rapidly-rotating planets and stars?**|Virgile Dandoy et.al.|[2211.05900v1](http://arxiv.org/abs/2211.05900v1)|null|
 |**2022-11-10**|**Unsupervised Deep Learning-based clustering for Human Activity Recognition**|Hamza Amrani et.al.|[2211.05483v1](http://arxiv.org/abs/2211.05483v1)|null|
 |**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|null|
 |**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
@@ -29,6 +32,3 @@
 |**2022-10-31**|**Parametrically driven inertial sensing in chip-scale optomechanical cavities at the thermodynamical limits with extended dynamic range**|Jaime Gonzalo Flor Flores et.al.|[2210.17014v1](http://arxiv.org/abs/2210.17014v1)|null|
 |**2022-10-29**|**Coexistence of active and hydrodynamic turbulence in two dimensional active nematics**|C. Rorai et.al.|[2210.16529v1](http://arxiv.org/abs/2210.16529v1)|null|
 |**2022-10-29**|**Generalized LOAM: LiDAR Odometry Estimation with Trainable Local Geometric Features**|Kohei Honda et.al.|[2210.16510v1](http://arxiv.org/abs/2210.16510v1)|null|
-|**2022-10-28**|**Entanglement-Enhanced Optomechanical Sensing**|Yi Xia et.al.|[2210.16180v1](http://arxiv.org/abs/2210.16180v1)|null|
-|**2022-10-27**|**Perception-aware Tag Placement Planning for Robust Localization of UAVs in Indoor Construction Environments**|Navid Kayhani et.al.|[2210.15504v1](http://arxiv.org/abs/2210.15504v1)|null|
-|**2022-10-27**|**Effect of ambient gas on cavity formation for sphere impacts on liquids**|Hollis Williams et.al.|[2210.15369v1](http://arxiv.org/abs/2210.15369v1)|null|
