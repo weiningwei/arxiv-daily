@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-15**|**Monocular BEV Perception of Road Scenes via Front-to-Top View Projection**|Wenxi Liu et.al.|[2211.08144v1](http://arxiv.org/abs/2211.08144v1)|null|
+|**2022-11-15**|**Autonomous Golf Putting with Data-Driven and Physics-Based Methods**|Annika Junker et.al.|[2211.08081v1](http://arxiv.org/abs/2211.08081v1)|null|
+|**2022-11-15**|**PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection**|Hao Liu et.al.|[2211.08055v1](http://arxiv.org/abs/2211.08055v1)|null|
+|**2022-11-15**|**Deep Instance Segmentation and Visual Servoing to Play Jenga with a Cost-Effective Robotic System**|Luca Marchionna et.al.|[2211.07977v1](http://arxiv.org/abs/2211.07977v1)|null|
 |**2022-11-14**|**Legged Locomotion in Challenging Terrains using Egocentric Vision**|Ananye Agarwal et.al.|[2211.07638v1](http://arxiv.org/abs/2211.07638v1)|null|
 |**2022-11-14**|**AttenFace: A Real Time Attendance System using Face Recognition**|Ashwin Rao et.al.|[2211.07582v1](http://arxiv.org/abs/2211.07582v1)|null|
 |**2022-11-14**|**Millimeter Wave Drones with Cameras: Computer Vision Aided Wireless Beam Prediction**|Gouranga Charan et.al.|[2211.07569v1](http://arxiv.org/abs/2211.07569v1)|null|
@@ -28,7 +32,3 @@
 |**2022-11-11**|**Comparison of Uncertainty Quantification with Deep Learning in Time Series Regression**|Levente Foldesi et.al.|[2211.06233v1](http://arxiv.org/abs/2211.06233v1)|null|
 |**2022-11-11**|**Controllable shifting, steering, and expanding of light beam based on multi-layer liquid-crystal cells**|Urban Mur et.al.|[2211.06169v1](http://arxiv.org/abs/2211.06169v1)|null|
 |**2022-11-11**|**RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**|Yanlong Yang et.al.|[2211.06108v1](http://arxiv.org/abs/2211.06108v1)|null|
-|**2022-11-11**|**Multi-modal Fusion Technology based on Vehicle Information: A Survey**|Yan Gong et.al.|[2211.06080v1](http://arxiv.org/abs/2211.06080v1)|null|
-|**2022-11-11**|**An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|[2211.06001v1](http://arxiv.org/abs/2211.06001v1)|null|
-|**2022-11-10**|**Event-based imaging velocimetry using pulsed illumination**|Christian E. Willert et.al.|[2211.05710v1](http://arxiv.org/abs/2211.05710v1)|null|
-|**2022-11-10**|**SWTF: Sparse Weighted Temporal Fusion for Drone-Based Activity Recognition**|Santosh Kumar Yadav et.al.|[2211.05531v1](http://arxiv.org/abs/2211.05531v1)|null|
