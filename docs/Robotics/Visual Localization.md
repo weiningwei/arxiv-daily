@@ -22,7 +22,7 @@
 |**2022-11-12**|**eRASSt J040515.6-745202, an X-ray burster in the Magellanic Bridge**|F. Haberl et.al.|[2211.06698v1](http://arxiv.org/abs/2211.06698v1)|null|
 |**2022-11-12**|**NLPeer: A Unified Resource for the Computational Study of Peer Review**|Nils Dycke et.al.|[2211.06651v1](http://arxiv.org/abs/2211.06651v1)|null|
 |**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
-|**2022-11-11**|**StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**|Ahmad Bin Rabiah et.al.|[2211.07390v1](http://arxiv.org/abs/2211.07390v1)|null|
+|**2022-11-11**|**StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**|Ahmad Bin Rabiah et.al.|[2211.07390v2](http://arxiv.org/abs/2211.07390v2)|null|
 |**2022-11-11**|**Sensor Visibility Estimation: Metrics and Methods for Systematic Performance Evaluation and Improvement**|Joachim Börger et.al.|[2211.06308v1](http://arxiv.org/abs/2211.06308v1)|null|
 |**2022-11-11**|**Disentangled Uncertainty and Out of Distribution Detection in Medical Generative Models**|Kumud Lakara et.al.|[2211.06250v1](http://arxiv.org/abs/2211.06250v1)|null|
 |**2022-11-11**|**Comparison of Uncertainty Quantification with Deep Learning in Time Series Regression**|Levente Foldesi et.al.|[2211.06233v1](http://arxiv.org/abs/2211.06233v1)|null|
