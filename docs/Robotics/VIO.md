@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|
+|**2022-11-15**|**Inverse energy cascade in two-dimensional quantum turbulence in a fluid of light**|Myrann Abobaker et.al.|[2211.08441v1](http://arxiv.org/abs/2211.08441v1)|null|
 |**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
 |**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
 |**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v1](http://arxiv.org/abs/2211.06548v1)|null|
@@ -30,5 +32,3 @@
 |**2022-11-04**|**New Fundamental Equation for Classical Waves and its Physical Applications**|Z. E. Musielak et.al.|[2211.03546v1](http://arxiv.org/abs/2211.03546v1)|null|
 |**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Inertial migration of a sphere in plane Couette flow**|Prateek Anand et.al.|[2211.01414v1](http://arxiv.org/abs/2211.01414v1)|null|
-|**2022-11-02**|**CARIOQA: Definition of a Quantum Pathfinder Mission**|T. Lévèque et.al.|[2211.01215v1](http://arxiv.org/abs/2211.01215v1)|null|
-|**2022-11-01**|**Expansion of Visual Hints for Improved Generalization in Stereo Matching**|Andrea Pilzer et.al.|[2211.00392v1](http://arxiv.org/abs/2211.00392v1)|null|
