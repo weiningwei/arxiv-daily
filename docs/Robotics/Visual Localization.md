@@ -23,7 +23,7 @@
 |**2022-11-14**|**Millimeter Wave Drones with Cameras: Computer Vision Aided Wireless Beam Prediction**|Gouranga Charan et.al.|[2211.07569v1](http://arxiv.org/abs/2211.07569v1)|null|
 |**2022-11-14**|**Camera Aided Reconfigurable Intelligent Surfaces: Computer Vision Based Fast Beam Selection**|Shuaifeng Jiang et.al.|[2211.07563v1](http://arxiv.org/abs/2211.07563v1)|null|
 |**2022-11-14**|**AsyncNeRF: Learning Large-scale Radiance Fields from Asynchronous RGB-D Sequences with Time-Pose Function**|Zirui Wu et.al.|[2211.07459v1](http://arxiv.org/abs/2211.07459v1)|null|
-|**2022-11-14**|**Temporal patterns in insulin needs for Type 1 diabetes**|Isabella Degen et.al.|[2211.07393v1](http://arxiv.org/abs/2211.07393v1)|[link](https://github.com/isabelladegen/insulin-need)|
+|**2022-11-14**|**Temporal patterns in insulin needs for Type 1 diabetes**|Isabella Degen et.al.|[2211.07393v2](http://arxiv.org/abs/2211.07393v2)|[link](https://github.com/isabelladegen/insulin-need)|
 |**2022-11-14**|**Finding Skill Neurons in Pre-trained Transformer-based Language Models**|Xiaozhi Wang et.al.|[2211.07349v1](http://arxiv.org/abs/2211.07349v1)|[link](https://github.com/thu-keg/skill-neuron)|
 |**2022-11-14**|**MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction**|Xiaozhi Wang et.al.|[2211.07342v1](http://arxiv.org/abs/2211.07342v1)|[link](https://github.com/thu-keg/maven-ere)|
 |**2022-11-14**|**Self-Supervised Image Restoration with Blurry and Noisy Pairs**|Zhilu Zhang et.al.|[2211.07317v1](http://arxiv.org/abs/2211.07317v1)|[link](https://github.com/cszhilu1998/selfir)|
