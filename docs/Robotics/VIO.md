@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-17**|**Direct transition to elastoinertial turbulence from a linear instability in channel flow**|Lu Zhu et.al.|[2211.09366v1](http://arxiv.org/abs/2211.09366v1)|null|
+|**2022-11-17**|**iNavFIter-M: Matrix Formulation of Functional Iteration for Inertial Navigation Computation**|Hongyan Jiang et.al.|[2211.09332v1](http://arxiv.org/abs/2211.09332v1)|null|
 |**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|
 |**2022-11-15**|**Inverse energy cascade in two-dimensional quantum turbulence in a fluid of light**|Myrann Abobaker et.al.|[2211.08441v1](http://arxiv.org/abs/2211.08441v1)|null|
 |**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
@@ -30,5 +32,3 @@
 |**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/cfear_evaluation)|
 |**2022-11-04**|**Low-cost Thermal Mapping for Concrete Heat Monitoring**|Alex Junho Lee et.al.|[2211.02244v1](http://arxiv.org/abs/2211.02244v1)|null|
 |**2022-11-04**|**New Fundamental Equation for Classical Waves and its Physical Applications**|Z. E. Musielak et.al.|[2211.03546v1](http://arxiv.org/abs/2211.03546v1)|null|
-|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
-|**2022-11-02**|**Inertial migration of a sphere in plane Couette flow**|Prateek Anand et.al.|[2211.01414v1](http://arxiv.org/abs/2211.01414v1)|null|
