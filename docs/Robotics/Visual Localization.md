@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-18**|**A strong H- opacity signal in the near-infrared emission spectrum of the ultra-hot Jupiter KELT-9b**|Bob Jacobs et.al.|[2211.10297v1](http://arxiv.org/abs/2211.10297v1)|null|
+|**2022-11-18**|**Estimating more camera poses for ego-centric videos is essential for VQ3D**|Jinjie Mai et.al.|[2211.10284v1](http://arxiv.org/abs/2211.10284v1)|null|
+|**2022-11-18**|**Leveraging Multi-stream Information Fusion for Trajectory Prediction in Low-illumination Scenarios: A Multi-channel Graph Convolutional Approach**|Hailong Gong et.al.|[2211.10226v1](http://arxiv.org/abs/2211.10226v1)|[link](https://github.com/tommygong08/msif)|
+|**2022-11-18**|**Beyond ExaBricks: GPU Volume Path Tracing of AMR Data**|Stefan Zellmann et.al.|[2211.09997v1](http://arxiv.org/abs/2211.09997v1)|null|
+|**2022-11-17**|**Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging**|Nicholas Owen Ralph et.al.|[2211.09939v1](http://arxiv.org/abs/2211.09939v1)|null|
+|**2022-11-17**|**Simple Digital Controls from Approximate Plant Models**|Hugh Lachlan Kennedy et.al.|[2211.09932v1](http://arxiv.org/abs/2211.09932v1)|null|
+|**2022-11-17**|**Spectropolarimeter's optical design for the Arago space mission project**|Eduard Muslimov et.al.|[2211.09931v1](http://arxiv.org/abs/2211.09931v1)|null|
+|**2022-11-17**|**Measuring diameters and velocities of artificial raindrops with a neuromorphic dynamic vision sensor disdrometer**|Jan Steiner et.al.|[2211.09893v1](http://arxiv.org/abs/2211.09893v1)|null|
 |**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|null|
 |**2022-11-17**|**AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**|Yifan Jiang et.al.|[2211.09682v1](http://arxiv.org/abs/2211.09682v1)|null|
 |**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[link](https://github.com/gsnyder206/mock-surveys)|
@@ -24,11 +32,3 @@
 |**2022-11-16**|**Twisted magnetic field in star formation processes of L1521 F revealed by submillimeter dual band polarimetry using James Clerk Maxwell Telescope**|Sakiko Fukaya et.al.|[2211.08988v1](http://arxiv.org/abs/2211.08988v1)|null|
 |**2022-11-16**|**Attacking Object Detector Using A Universal Targeted Label-Switch Patch**|Avishag Shapira et.al.|[2211.08859v1](http://arxiv.org/abs/2211.08859v1)|null|
 |**2022-11-16**|**RF-Annotate: Automatic RF-Supervised Image Annotation of Common Objects in Context**|Emerson Sie et.al.|[2211.08837v1](http://arxiv.org/abs/2211.08837v1)|null|
-|**2022-11-16**|**Improving Feature-based Visual Localization by Geometry-Aided Matching**|Hailin Yu et.al.|[2211.08712v1](http://arxiv.org/abs/2211.08712v1)|[link](https://github.com/openxrlab/xrlocalization)|
-|**2022-11-16**|**Mulitphoton Correlations between Quantum Images**|Serge Massar et.al.|[2211.08674v1](http://arxiv.org/abs/2211.08674v1)|null|
-|**2022-11-16**|**Semantic keypoint extraction for scanned animals using multi-depth-camera systems**|Raphael Falque et.al.|[2211.08634v1](http://arxiv.org/abs/2211.08634v1)|null|
-|**2022-11-16**|**Camera simulation for robot simulation: how important are various camera model components?**|Asher Elmquist et.al.|[2211.08599v1](http://arxiv.org/abs/2211.08599v1)|null|
-|**2022-11-15**|**Using Auxiliary Information for Person Re-Identification -- A Tutorial Overview**|Tharindu Fernando et.al.|[2211.08565v1](http://arxiv.org/abs/2211.08565v1)|null|
-|**2022-11-15**|**APT: Adaptive Perceptual quality based camera Tuning using reinforcement learning**|Sibendu Paul et.al.|[2211.08504v1](http://arxiv.org/abs/2211.08504v1)|null|
-|**2022-11-15**|**Monocular BEV Perception of Road Scenes via Front-to-Top View Projection**|Wenxi Liu et.al.|[2211.08144v1](http://arxiv.org/abs/2211.08144v1)|null|
-|**2022-11-15**|**Influencer Detection with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2211.09664v1](http://arxiv.org/abs/2211.09664v1)|[link](https://github.com/banking-analytics-lab/dynamicgraphlearning)|

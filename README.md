@@ -1,13 +1,53 @@
 # arxiv-daily
- Automated deployment @ 2022-11-21 10:33:46 Asia/Shanghai
+ Automated deployment @ 2022-11-21 20:14:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-18**|**A strong H- opacity signal in the near-infrared emission spectrum of the ultra-hot Jupiter KELT-9b**|Bob Jacobs et.al.|[2211.10297v1](http://arxiv.org/abs/2211.10297v1)|null|
+|**2022-11-18**|**Estimating more camera poses for ego-centric videos is essential for VQ3D**|Jinjie Mai et.al.|[2211.10284v1](http://arxiv.org/abs/2211.10284v1)|null|
+|**2022-11-18**|**Leveraging Multi-stream Information Fusion for Trajectory Prediction in Low-illumination Scenarios: A Multi-channel Graph Convolutional Approach**|Hailong Gong et.al.|[2211.10226v1](http://arxiv.org/abs/2211.10226v1)|[link](https://github.com/tommygong08/msif)|
+|**2022-11-18**|**Beyond ExaBricks: GPU Volume Path Tracing of AMR Data**|Stefan Zellmann et.al.|[2211.09997v1](http://arxiv.org/abs/2211.09997v1)|null|
+|**2022-11-17**|**Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging**|Nicholas Owen Ralph et.al.|[2211.09939v1](http://arxiv.org/abs/2211.09939v1)|null|
+|**2022-11-17**|**Simple Digital Controls from Approximate Plant Models**|Hugh Lachlan Kennedy et.al.|[2211.09932v1](http://arxiv.org/abs/2211.09932v1)|null|
+|**2022-11-17**|**Spectropolarimeter's optical design for the Arago space mission project**|Eduard Muslimov et.al.|[2211.09931v1](http://arxiv.org/abs/2211.09931v1)|null|
+|**2022-11-17**|**Measuring diameters and velocities of artificial raindrops with a neuromorphic dynamic vision sensor disdrometer**|Jan Steiner et.al.|[2211.09893v1](http://arxiv.org/abs/2211.09893v1)|null|
+|**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|null|
+|**2022-11-17**|**AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**|Yifan Jiang et.al.|[2211.09682v1](http://arxiv.org/abs/2211.09682v1)|null|
+|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[link](https://github.com/gsnyder206/mock-surveys)|
+|**2022-11-17**|**Multi-Camera Multi-Object Tracking on the Move via Single-Stage Global Association Approach**|Pha Nguyen et.al.|[2211.09663v1](http://arxiv.org/abs/2211.09663v1)|null|
+|**2022-11-17**|**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors**|Xiao Wang et.al.|[2211.09648v1](http://arxiv.org/abs/2211.09648v1)|null|
+|**2022-11-17**|**TrafficCAM: A Versatile Dataset for Traffic Flow Segmentation**|Zhongying Deng et.al.|[2211.09620v1](http://arxiv.org/abs/2211.09620v1)|null|
+|**2022-11-17**|**ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**|Yiyang Shen et.al.|[2211.09518v1](http://arxiv.org/abs/2211.09518v1)|null|
+|**2022-11-17**|**aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**|Tamás Matuszka et.al.|[2211.09445v1](http://arxiv.org/abs/2211.09445v1)|[link](https://github.com/aimotive/aimotive_dataset)|
+|**2022-11-17**|**Multiresolution ORKA: fast and resolution independent object reconstruction using a K-approximation graph**|Florian Bossmann et.al.|[2211.09362v1](http://arxiv.org/abs/2211.09362v1)|null|
+|**2022-11-17**|**Learning Domain and Pose Invariance for Thermal-to-Visible Face Recognition**|Cedric Nimpa Fondje et.al.|[2211.09350v1](http://arxiv.org/abs/2211.09350v1)|null|
+|**2022-11-17**|**I see you: A Vehicle-Pedestrian Interaction Dataset from Traffic Surveillance Cameras**|Hanan Quispe et.al.|[2211.09342v1](http://arxiv.org/abs/2211.09342v1)|[link](https://github.com/hvzzzz/vehicle_trajectory_dataset)|
+|**2022-11-17**|**You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning**|Jieqi Shi et.al.|[2211.09302v1](http://arxiv.org/abs/2211.09302v1)|null|
+|**2022-11-17**|**Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization**|Vasantha Ramani et.al.|[2211.09288v1](http://arxiv.org/abs/2211.09288v1)|null|
+|**2022-11-16**|**Deep Drilling in the Time Domain with DECam: Survey Characterization**|Melissa L. Graham et.al.|[2211.09202v1](http://arxiv.org/abs/2211.09202v1)|null|
+|**2022-11-16**|**Occlusion-Aware MPC for Guaranteed Safe Robot Navigation with Unseen Dynamic Obstacles**|Roya Firoozi et.al.|[2211.09156v1](http://arxiv.org/abs/2211.09156v1)|null|
+|**2022-11-16**|**Fringing Analysis and Simulation for the Vera C. Rubin Observatory's Legacy Survey of Space and Time**|Zhiyuan Guo et.al.|[2211.09149v1](http://arxiv.org/abs/2211.09149v1)|null|
+|**2022-11-16**|**On Measuring the Intrinsic Few-Shot Hardness of Datasets**|Xinran Zhao et.al.|[2211.09113v1](http://arxiv.org/abs/2211.09113v1)|[link](https://github.com/colinzhaoust/intrinsic_fewshot_hardness)|
+|**2022-11-16**|**Learning Dense and Continuous Optical Flow from an Event Camera**|Zhexiong Wan et.al.|[2211.09078v1](http://arxiv.org/abs/2211.09078v1)|[link](https://github.com/danqu130/DCEIFlow)|
+|**2022-11-16**|**UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction**|Wei Tang et.al.|[2211.09039v1](http://arxiv.org/abs/2211.09039v1)|[link](https://github.com/wtangdev/unirel)|
+|**2022-11-16**|**Twisted magnetic field in star formation processes of L1521 F revealed by submillimeter dual band polarimetry using James Clerk Maxwell Telescope**|Sakiko Fukaya et.al.|[2211.08988v1](http://arxiv.org/abs/2211.08988v1)|null|
+|**2022-11-16**|**Attacking Object Detector Using A Universal Targeted Label-Switch Patch**|Avishag Shapira et.al.|[2211.08859v1](http://arxiv.org/abs/2211.08859v1)|null|
+|**2022-11-16**|**RF-Annotate: Automatic RF-Supervised Image Annotation of Common Objects in Context**|Emerson Sie et.al.|[2211.08837v1](http://arxiv.org/abs/2211.08837v1)|null|
+
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-18**|**Convection and intermittency noise in water temperature near a deep Mediterranean seafloor**|Hans van Haren et.al.|[2211.10269v1](http://arxiv.org/abs/2211.10269v1)|null|
+|**2022-11-18**|**GNS: A generalizable Graph Neural Network-based simulator for particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
+|**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
+|**2022-11-18**|**Metastable Carbon at Extreme Conditions**|Ashley S. Williams et.al.|[2211.09974v1](http://arxiv.org/abs/2211.09974v1)|null|
+|**2022-11-17**|**Inertial Force Transmission in Dense Granular Flows**|Matthew Macaulay et.al.|[2211.09946v1](http://arxiv.org/abs/2211.09946v1)|null|
+|**2022-11-17**|**The change in the direction of the electric field using the Lorentz-type transformation**|Anuj Kumar Dubey et.al.|[2211.10417v1](http://arxiv.org/abs/2211.10417v1)|null|
 |**2022-11-17**|**Direct transition to elastoinertial turbulence from a linear instability in channel flow**|Lu Zhu et.al.|[2211.09366v1](http://arxiv.org/abs/2211.09366v1)|null|
 |**2022-11-17**|**iNavFIter-M: Matrix Formulation of Functional Iteration for Inertial Navigation Computation**|Hongyan Jiang et.al.|[2211.09332v1](http://arxiv.org/abs/2211.09332v1)|null|
 |**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|
@@ -32,46 +72,6 @@
 |**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|null|
 |**2022-11-07**|**Heavy and light inertial particle aggregates in homogeneous isotropic turbulence: A study on breakup and stress statistics**|Graziano Frungieri et.al.|[2211.03431v1](http://arxiv.org/abs/2211.03431v1)|null|
 |**2022-11-07**|**A spectral solver for solar inertial waves**|Jishnu Bhattacharya et.al.|[2211.03323v1](http://arxiv.org/abs/2211.03323v1)|null|
-|**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
-|**2022-11-06**|**SRIBO: An Efficient and Resilient Single-Range and Inertia Based Odometry for Flying Robots**|Wei Dong et.al.|[2211.03093v1](http://arxiv.org/abs/2211.03093v1)|null|
-|**2022-11-06**|**HeRoSwarm: Fully-Capable Miniature Swarm Robot Hardware Design With Open-Source ROS Support**|Michael Starks et.al.|[2211.03014v1](http://arxiv.org/abs/2211.03014v1)|[link](https://github.com/herolab-uga/heroswarmv2)|
-|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/cfear_evaluation)|
-|**2022-11-04**|**Low-cost Thermal Mapping for Concrete Heat Monitoring**|Alex Junho Lee et.al.|[2211.02244v1](http://arxiv.org/abs/2211.02244v1)|null|
-|**2022-11-04**|**New Fundamental Equation for Classical Waves and its Physical Applications**|Z. E. Musielak et.al.|[2211.03546v1](http://arxiv.org/abs/2211.03546v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|null|
-|**2022-11-17**|**AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**|Yifan Jiang et.al.|[2211.09682v1](http://arxiv.org/abs/2211.09682v1)|null|
-|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[link](https://github.com/gsnyder206/mock-surveys)|
-|**2022-11-17**|**Multi-Camera Multi-Object Tracking on the Move via Single-Stage Global Association Approach**|Pha Nguyen et.al.|[2211.09663v1](http://arxiv.org/abs/2211.09663v1)|null|
-|**2022-11-17**|**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors**|Xiao Wang et.al.|[2211.09648v1](http://arxiv.org/abs/2211.09648v1)|null|
-|**2022-11-17**|**TrafficCAM: A Versatile Dataset for Traffic Flow Segmentation**|Zhongying Deng et.al.|[2211.09620v1](http://arxiv.org/abs/2211.09620v1)|null|
-|**2022-11-17**|**ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**|Yiyang Shen et.al.|[2211.09518v1](http://arxiv.org/abs/2211.09518v1)|null|
-|**2022-11-17**|**aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**|Tamás Matuszka et.al.|[2211.09445v1](http://arxiv.org/abs/2211.09445v1)|[link](https://github.com/aimotive/aimotive_dataset)|
-|**2022-11-17**|**Multiresolution ORKA: fast and resolution independent object reconstruction using a K-approximation graph**|Florian Bossmann et.al.|[2211.09362v1](http://arxiv.org/abs/2211.09362v1)|null|
-|**2022-11-17**|**Learning Domain and Pose Invariance for Thermal-to-Visible Face Recognition**|Cedric Nimpa Fondje et.al.|[2211.09350v1](http://arxiv.org/abs/2211.09350v1)|null|
-|**2022-11-17**|**I see you: A Vehicle-Pedestrian Interaction Dataset from Traffic Surveillance Cameras**|Hanan Quispe et.al.|[2211.09342v1](http://arxiv.org/abs/2211.09342v1)|[link](https://github.com/hvzzzz/vehicle_trajectory_dataset)|
-|**2022-11-17**|**You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning**|Jieqi Shi et.al.|[2211.09302v1](http://arxiv.org/abs/2211.09302v1)|null|
-|**2022-11-17**|**Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization**|Vasantha Ramani et.al.|[2211.09288v1](http://arxiv.org/abs/2211.09288v1)|null|
-|**2022-11-16**|**Deep Drilling in the Time Domain with DECam: Survey Characterization**|Melissa L. Graham et.al.|[2211.09202v1](http://arxiv.org/abs/2211.09202v1)|null|
-|**2022-11-16**|**Occlusion-Aware MPC for Guaranteed Safe Robot Navigation with Unseen Dynamic Obstacles**|Roya Firoozi et.al.|[2211.09156v1](http://arxiv.org/abs/2211.09156v1)|null|
-|**2022-11-16**|**Fringing Analysis and Simulation for the Vera C. Rubin Observatory's Legacy Survey of Space and Time**|Zhiyuan Guo et.al.|[2211.09149v1](http://arxiv.org/abs/2211.09149v1)|null|
-|**2022-11-16**|**On Measuring the Intrinsic Few-Shot Hardness of Datasets**|Xinran Zhao et.al.|[2211.09113v1](http://arxiv.org/abs/2211.09113v1)|[link](https://github.com/colinzhaoust/intrinsic_fewshot_hardness)|
-|**2022-11-16**|**Learning Dense and Continuous Optical Flow from an Event Camera**|Zhexiong Wan et.al.|[2211.09078v1](http://arxiv.org/abs/2211.09078v1)|[link](https://github.com/danqu130/DCEIFlow)|
-|**2022-11-16**|**UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction**|Wei Tang et.al.|[2211.09039v1](http://arxiv.org/abs/2211.09039v1)|[link](https://github.com/wtangdev/unirel)|
-|**2022-11-16**|**Twisted magnetic field in star formation processes of L1521 F revealed by submillimeter dual band polarimetry using James Clerk Maxwell Telescope**|Sakiko Fukaya et.al.|[2211.08988v1](http://arxiv.org/abs/2211.08988v1)|null|
-|**2022-11-16**|**Attacking Object Detector Using A Universal Targeted Label-Switch Patch**|Avishag Shapira et.al.|[2211.08859v1](http://arxiv.org/abs/2211.08859v1)|null|
-|**2022-11-16**|**RF-Annotate: Automatic RF-Supervised Image Annotation of Common Objects in Context**|Emerson Sie et.al.|[2211.08837v1](http://arxiv.org/abs/2211.08837v1)|null|
-|**2022-11-16**|**Improving Feature-based Visual Localization by Geometry-Aided Matching**|Hailin Yu et.al.|[2211.08712v1](http://arxiv.org/abs/2211.08712v1)|[link](https://github.com/openxrlab/xrlocalization)|
-|**2022-11-16**|**Mulitphoton Correlations between Quantum Images**|Serge Massar et.al.|[2211.08674v1](http://arxiv.org/abs/2211.08674v1)|null|
-|**2022-11-16**|**Semantic keypoint extraction for scanned animals using multi-depth-camera systems**|Raphael Falque et.al.|[2211.08634v1](http://arxiv.org/abs/2211.08634v1)|null|
-|**2022-11-16**|**Camera simulation for robot simulation: how important are various camera model components?**|Asher Elmquist et.al.|[2211.08599v1](http://arxiv.org/abs/2211.08599v1)|null|
-|**2022-11-15**|**Using Auxiliary Information for Person Re-Identification -- A Tutorial Overview**|Tharindu Fernando et.al.|[2211.08565v1](http://arxiv.org/abs/2211.08565v1)|null|
-|**2022-11-15**|**APT: Adaptive Perceptual quality based camera Tuning using reinforcement learning**|Sibendu Paul et.al.|[2211.08504v1](http://arxiv.org/abs/2211.08504v1)|null|
-|**2022-11-15**|**Monocular BEV Perception of Road Scenes via Front-to-Top View Projection**|Wenxi Liu et.al.|[2211.08144v1](http://arxiv.org/abs/2211.08144v1)|null|
-|**2022-11-15**|**Influencer Detection with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2211.09664v1](http://arxiv.org/abs/2211.09664v1)|[link](https://github.com/banking-analytics-lab/dynamicgraphlearning)|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
