@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|null|
 |**2022-11-17**|**AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**|Yifan Jiang et.al.|[2211.09682v1](http://arxiv.org/abs/2211.09682v1)|null|
-|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|null|
+|**2022-11-17**|**Mock Galaxy Surveys for HST and JWST from the IllustrisTNG Simulations**|Gregory F. Snyder et.al.|[2211.09677v1](http://arxiv.org/abs/2211.09677v1)|[link](https://github.com/gsnyder206/mock-surveys)|
 |**2022-11-17**|**Multi-Camera Multi-Object Tracking on the Move via Single-Stage Global Association Approach**|Pha Nguyen et.al.|[2211.09663v1](http://arxiv.org/abs/2211.09663v1)|null|
 |**2022-11-17**|**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors**|Xiao Wang et.al.|[2211.09648v1](http://arxiv.org/abs/2211.09648v1)|null|
 |**2022-11-17**|**TrafficCAM: A Versatile Dataset for Traffic Flow Segmentation**|Zhongying Deng et.al.|[2211.09620v1](http://arxiv.org/abs/2211.09620v1)|null|
