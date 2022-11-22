@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|[link](https://github.com/lh9171338/FE-LSD)|
@@ -31,4 +32,3 @@
 |**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
-|**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko et.al.|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|

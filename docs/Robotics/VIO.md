@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-21**|**Inertial dynamics and equilibrium correlation functions of magnetization at short times**|Sergei V. Titov et.al.|[2211.11515v1](http://arxiv.org/abs/2211.11515v1)|null|
+|**2022-11-18**|**An investigation of shock formation versus shock mitigation of colliding plasma jets**|Petr Cagas et.al.|[2211.10503v1](http://arxiv.org/abs/2211.10503v1)|null|
+|**2022-11-18**|**The legacy of A.H. Wapstra and the future of the Atomic Mass Evaluation**|David Lunney et.al.|[2211.10496v1](http://arxiv.org/abs/2211.10496v1)|null|
 |**2022-11-18**|**Convection and intermittency noise in water temperature near a deep Mediterranean seafloor**|Hans van Haren et.al.|[2211.10269v1](http://arxiv.org/abs/2211.10269v1)|null|
 |**2022-11-18**|**GNS: A generalizable Graph Neural Network-based simulator for particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
 |**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
@@ -29,6 +32,3 @@
 |**2022-11-08**|**Spin polarization induced by magnetic field and the relativistic Barnett effect**|Matteo Buzzegoli et.al.|[2211.04549v1](http://arxiv.org/abs/2211.04549v1)|null|
 |**2022-11-08**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
 |**2022-11-08**|**A novel approach for modeling the non-Newtonian behavior of simple liquids: application to liquid water viscosity from low to high shear rates**|Frédéric Aitken et.al.|[2211.04228v1](http://arxiv.org/abs/2211.04228v1)|null|
-|**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|null|
-|**2022-11-07**|**Heavy and light inertial particle aggregates in homogeneous isotropic turbulence: A study on breakup and stress statistics**|Graziano Frungieri et.al.|[2211.03431v1](http://arxiv.org/abs/2211.03431v1)|null|
-|**2022-11-07**|**A spectral solver for solar inertial waves**|Jishnu Bhattacharya et.al.|[2211.03323v1](http://arxiv.org/abs/2211.03323v1)|null|
