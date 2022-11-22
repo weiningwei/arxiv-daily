@@ -24,7 +24,7 @@
 |**2022-11-20**|**Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**|Chuanming Tang et.al.|[2211.11010v1](http://arxiv.org/abs/2211.11010v1)|null|
 |**2022-11-20**|**A Lightweight Domain Adaptive Absolute Pose Regressor Using Barlow Twins Objective**|Praveen Kumar Rajendran et.al.|[2211.10963v1](http://arxiv.org/abs/2211.10963v1)|null|
 |**2022-11-20**|**Normalizing Flows for Human Pose Anomaly Detection**|Or Hirschorn et.al.|[2211.10946v1](http://arxiv.org/abs/2211.10946v1)|[link](https://github.com/orhir/stg-nf)|
-|**2022-11-19**|**HALSIE -- Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v1](http://arxiv.org/abs/2211.10754v1)|null|
+|**2022-11-19**|**HALSIE - Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v1](http://arxiv.org/abs/2211.10754v1)|null|
 |**2022-11-19**|**Evaluating the Perceived Safety of Urban City via Maximum Entropy Deep Inverse Reinforcement Learning**|Yaxuan Wang et.al.|[2211.10660v1](http://arxiv.org/abs/2211.10660v1)|null|
 |**2022-11-19**|**LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds**|Chuanfu Shen et.al.|[2211.10598v1](http://arxiv.org/abs/2211.10598v1)|null|
 |**2022-11-19**|**MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception**|Hongyu Zhou et.al.|[2211.10593v1](http://arxiv.org/abs/2211.10593v1)|null|
