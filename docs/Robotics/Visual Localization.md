@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|null|
+|**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
+|**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
+|**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
+|**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
+|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v1](http://arxiv.org/abs/2211.12352v1)|null|
+|**2022-11-22**|**Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras**|Daniel Gehrig et.al.|[2211.12324v1](http://arxiv.org/abs/2211.12324v1)|null|
+|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v1](http://arxiv.org/abs/2211.12322v1)|null|
+|**2022-11-22**|**Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification**|Jiachen Li et.al.|[2211.12280v1](http://arxiv.org/abs/2211.12280v1)|null|
+|**2022-11-22**|**VBLC: Visibility Boosting and Logit-Constraint Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Mingjia Li et.al.|[2211.12256v1](http://arxiv.org/abs/2211.12256v1)|[link](https://github.com/bit-da/vblc)|
+|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v1](http://arxiv.org/abs/2211.12244v1)|null|
+|**2022-11-22**|**Event Transformer+. A multi-purpose solution for efficient event data processing**|Alberto Sabater et.al.|[2211.12222v1](http://arxiv.org/abs/2211.12222v1)|null|
+|**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
+|**2022-11-22**|**Uncertainty-aware Vision-based Metric Cross-view Geolocalization**|Florian Fervers et.al.|[2211.12145v1](http://arxiv.org/abs/2211.12145v1)|null|
+|**2022-11-22**|**DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models**|Shengqu Cai et.al.|[2211.12131v1](http://arxiv.org/abs/2211.12131v1)|null|
+|**2022-11-22**|**Deblurred Neural Radiance Field with Physical Scene Priors**|Dogyoon Lee et.al.|[2211.12046v1](http://arxiv.org/abs/2211.12046v1)|null|
+|**2022-11-22**|**ViFi-Loc: Multi-modal Pedestrian Localization using GAN with Camera-Phone Correspondences**|Hansi Liu et.al.|[2211.12021v1](http://arxiv.org/abs/2211.12021v1)|null|
+|**2022-11-22**|**Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao et.al.|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
+|**2022-11-22**|**Weakly-supervised Pre-training for 3D Human Pose Estimation via Perspective Knowledge**|Zhongwei Qiu et.al.|[2211.11983v1](http://arxiv.org/abs/2211.11983v1)|null|
+|**2022-11-22**|**SemanticLoop: loop closure with 3D semantic graph matching**|Junfeng Yu et.al.|[2211.11977v1](http://arxiv.org/abs/2211.11977v1)|null|
+|**2022-11-22**|**Multi-View Neural Surface Reconstruction with Structured Light**|Chunyu Li et.al.|[2211.11971v1](http://arxiv.org/abs/2211.11971v1)|null|
+|**2022-11-22**|**Multimodal Data Augmentation for Visual-Infrared Person ReID with Corrupted Data**|Arthur Josi et.al.|[2211.11925v1](http://arxiv.org/abs/2211.11925v1)|null|
+|**2022-11-22**|**Confidence-guided Centroids for Unsupervised Person Re-Identification**|Yunqi Miao et.al.|[2211.11921v1](http://arxiv.org/abs/2211.11921v1)|null|
+|**2022-11-21**|**Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference**|Eric Mitchell et.al.|[2211.11875v1](http://arxiv.org/abs/2211.11875v1)|null|
+|**2022-11-21**|**Twin-S: A Digital Twin for Skull-base Surgery**|Hongchao Shu et.al.|[2211.11863v1](http://arxiv.org/abs/2211.11863v1)|null|
+|**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
+|**2022-11-21**|**Holographic cameras: an eye for the bulk**|Simon Caron-Huot et.al.|[2211.11791v1](http://arxiv.org/abs/2211.11791v1)|null|
+|**2022-11-21**|**The high-albedo, low polarization disk around HD 114082 harbouring a Jupiter-sized transiting planet**|N. Engler et.al.|[2211.11767v1](http://arxiv.org/abs/2211.11767v1)|null|
 |**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|null|
 |**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
-|**2022-11-21**|**PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation**|Karthik Shetty et.al.|[2211.11734v1](http://arxiv.org/abs/2211.11734v1)|null|
-|**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
-|**2022-11-21**|**Improved Touchless Respiratory Rate Sensing**|Petro Franchuk et.al.|[2211.11630v1](http://arxiv.org/abs/2211.11630v1)|null|
-|**2022-11-21**|**Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering**|Ruizhi Shao et.al.|[2211.11610v1](http://arxiv.org/abs/2211.11610v1)|null|
-|**2022-11-21**|**Efficient Second-Order Plane Adjustment**|Lipu Zhou et.al.|[2211.11542v1](http://arxiv.org/abs/2211.11542v1)|null|
-|**2022-11-21**|**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**|Yue Chen et.al.|[2211.11505v1](http://arxiv.org/abs/2211.11505v1)|null|
-|**2022-11-21**|**Temporal error concealment for fisheye video sequences based on equisolid re-projection**|Andrea Eichenseer et.al.|[2211.11472v1](http://arxiv.org/abs/2211.11472v1)|null|
-|**2022-11-21**|**Blur Interpolation Transformer for Real-World Motion from Blur**|Zhihang Zhong et.al.|[2211.11423v1](http://arxiv.org/abs/2211.11423v1)|null|
-|**2022-11-21**|**FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer**|Hao Shi et.al.|[2211.11293v1](http://arxiv.org/abs/2211.11293v1)|[link](https://github.com/masterhow/flowlens)|
-|**2022-11-21**|**Magnetic activities and parameters of 43 flare stars in the GWAC archive**|Guang-Wei Li et.al.|[2211.11240v1](http://arxiv.org/abs/2211.11240v1)|null|
-|**2022-11-21**|**RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments**|Sijie Wang et.al.|[2211.11238v1](http://arxiv.org/abs/2211.11238v1)|[link](https://github.com/sijieaaa/robustloc)|
-|**2022-11-21**|**Deep Projective Rotation Estimation through Relative Supervision**|Brian Okorn et.al.|[2211.11182v1](http://arxiv.org/abs/2211.11182v1)|null|
-|**2022-11-21**|**Adaptive Finite-Time Model Estimation and Control for Manipulator Visual Servoing using Sliding Mode Control and Neural Networks**|Haibin Zeng et.al.|[2211.11178v1](http://arxiv.org/abs/2211.11178v1)|null|
-|**2022-11-21**|**NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**|Shitao Tang et.al.|[2211.11177v1](http://arxiv.org/abs/2211.11177v1)|null|
-|**2022-11-21**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v2](http://arxiv.org/abs/2211.11175v2)|null|
-|**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li et.al.|[2211.11082v1](http://arxiv.org/abs/2211.11082v1)|null|
-|**2022-11-20**|**Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation**|Snehal Singh Tomar et.al.|[2211.11066v1](http://arxiv.org/abs/2211.11066v1)|null|
-|**2022-11-20**|**Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**|Chuanming Tang et.al.|[2211.11010v1](http://arxiv.org/abs/2211.11010v1)|null|
-|**2022-11-20**|**A Lightweight Domain Adaptive Absolute Pose Regressor Using Barlow Twins Objective**|Praveen Kumar Rajendran et.al.|[2211.10963v1](http://arxiv.org/abs/2211.10963v1)|null|
-|**2022-11-20**|**Normalizing Flows for Human Pose Anomaly Detection**|Or Hirschorn et.al.|[2211.10946v1](http://arxiv.org/abs/2211.10946v1)|[link](https://github.com/orhir/stg-nf)|
-|**2022-11-19**|**HALSIE - Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v1](http://arxiv.org/abs/2211.10754v1)|null|
-|**2022-11-19**|**Evaluating the Perceived Safety of Urban City via Maximum Entropy Deep Inverse Reinforcement Learning**|Yaxuan Wang et.al.|[2211.10660v1](http://arxiv.org/abs/2211.10660v1)|null|
-|**2022-11-19**|**LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds**|Chuanfu Shen et.al.|[2211.10598v1](http://arxiv.org/abs/2211.10598v1)|null|
-|**2022-11-19**|**MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception**|Hongyu Zhou et.al.|[2211.10593v1](http://arxiv.org/abs/2211.10593v1)|null|
-|**2022-11-18**|**Early Release Science of the exoplanet WASP-39b with JWST NIRCam**|Eva-Maria Ahrer et.al.|[2211.10489v1](http://arxiv.org/abs/2211.10489v1)|null|
-|**2022-11-18**|**A mixed-reality dataset for category-level 6D pose and size estimation of hand-occluded containers**|Xavier Weber et.al.|[2211.10470v1](http://arxiv.org/abs/2211.10470v1)|null|
-|**2022-11-18**|**A strong H- opacity signal in the near-infrared emission spectrum of the ultra-hot Jupiter KELT-9b**|Bob Jacobs et.al.|[2211.10297v1](http://arxiv.org/abs/2211.10297v1)|null|
-|**2022-11-18**|**Estimating more camera poses for ego-centric videos is essential for VQ3D**|Jinjie Mai et.al.|[2211.10284v1](http://arxiv.org/abs/2211.10284v1)|null|
