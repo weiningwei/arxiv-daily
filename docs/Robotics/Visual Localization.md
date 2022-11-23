@@ -18,7 +18,7 @@
 |**2022-11-21**|**Deep Projective Rotation Estimation through Relative Supervision**|Brian Okorn et.al.|[2211.11182v1](http://arxiv.org/abs/2211.11182v1)|null|
 |**2022-11-21**|**Adaptive Finite-Time Model Estimation and Control for Manipulator Visual Servoing using Sliding Mode Control and Neural Networks**|Haibin Zeng et.al.|[2211.11178v1](http://arxiv.org/abs/2211.11178v1)|null|
 |**2022-11-21**|**NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**|Shitao Tang et.al.|[2211.11177v1](http://arxiv.org/abs/2211.11177v1)|null|
-|**2022-11-21**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v1](http://arxiv.org/abs/2211.11175v1)|null|
+|**2022-11-21**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v2](http://arxiv.org/abs/2211.11175v2)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li et.al.|[2211.11082v1](http://arxiv.org/abs/2211.11082v1)|null|
 |**2022-11-20**|**Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation**|Snehal Singh Tomar et.al.|[2211.11066v1](http://arxiv.org/abs/2211.11066v1)|null|
 |**2022-11-20**|**Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**|Chuanming Tang et.al.|[2211.11010v1](http://arxiv.org/abs/2211.11010v1)|null|
