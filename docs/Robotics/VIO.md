@@ -2,9 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-23**|**Frequency space derivation of linear and non-linear memory gravitational wave signals from eccentric binary orbits**|Arpan Hait et.al.|[2211.13120v1](http://arxiv.org/abs/2211.13120v1)|null|
+|**2022-11-23**|**Topological interpretation for phase transitions of black holes**|Zhong-Ying Fan et.al.|[2211.12957v1](http://arxiv.org/abs/2211.12957v1)|null|
 |**2022-11-22**|**Size polydisperse model Ionic Liquid in bulk**|Somas Singh Urikhinbam et.al.|[2211.12383v1](http://arxiv.org/abs/2211.12383v1)|null|
 |**2022-11-22**|**Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure**|Jiaming Zha et.al.|[2211.12045v1](http://arxiv.org/abs/2211.12045v1)|null|
 |**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
+|**2022-11-22**|**Suppression of stimulated Raman scattering by angularly incoherent light, towards a laser system of incoherence in all dimensions of time, space, and angle**|Yi Guo et.al.|[2211.12505v1](http://arxiv.org/abs/2211.12505v1)|null|
 |**2022-11-21**|**Inertial dynamics and equilibrium correlation functions of magnetization at short times**|Sergei V. Titov et.al.|[2211.11515v1](http://arxiv.org/abs/2211.11515v1)|null|
 |**2022-11-18**|**An investigation of shock formation versus shock mitigation of colliding plasma jets**|Petr Cagas et.al.|[2211.10503v1](http://arxiv.org/abs/2211.10503v1)|null|
 |**2022-11-18**|**The legacy of A.H. Wapstra and the future of the Atomic Mass Evaluation**|David Lunney et.al.|[2211.10496v1](http://arxiv.org/abs/2211.10496v1)|null|
@@ -29,6 +32,3 @@
 |**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
 |**2022-11-09**|**Instability in strongly stratified plane Couette flow, with application to supercritical fluids**|B. Bugeat et.al.|[2211.04935v1](http://arxiv.org/abs/2211.04935v1)|null|
 |**2022-11-09**|**Tangent space symmetries in general relativity and teleparallelism**|Tom Lawrence et.al.|[2211.07586v1](http://arxiv.org/abs/2211.07586v1)|null|
-|**2022-11-09**|**Asymptotic closure model for inertial particle transport in turbulent boundary layers**|Yan Zhang et.al.|[2211.04869v1](http://arxiv.org/abs/2211.04869v1)|null|
-|**2022-11-09**|**Penetrating a granular medium by successive impacts**|Antoine Seguin et.al.|[2211.04801v2](http://arxiv.org/abs/2211.04801v2)|null|
-|**2022-11-08**|**Contour Extraction of Inertial Confinement Fusion Images By Data Augmentation**|Michael Falato et.al.|[2211.04597v1](http://arxiv.org/abs/2211.04597v1)|null|

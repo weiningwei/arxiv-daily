@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v1](http://arxiv.org/abs/2211.13214v1)|null|
+|**2022-11-23**|**Autonomous Vision-based Rapid Aerial Grasping**|Erik Bauer et.al.|[2211.13093v1](http://arxiv.org/abs/2211.13093v1)|null|
+|**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
+|**2022-11-23**|**A Masked Face Classification Benchmark**|Federico Cunico et.al.|[2211.13061v1](http://arxiv.org/abs/2211.13061v1)|[link](https://github.com/humaticslab/sf-mask)|
+|**2022-11-23**|**Euclid preparation. XXVII. Covariance model validation for the 2-point correlation function of galaxy clusters**|Euclid Collaboration et.al.|[2211.12965v1](http://arxiv.org/abs/2211.12965v1)|null|
+|**2022-11-23**|**Sub-minute Quantum Ghost Imaging in the infrared enabled by a "looking back" SPAD array**|Valerio Flavio Gili et.al.|[2211.12913v1](http://arxiv.org/abs/2211.12913v1)|null|
+|**2022-11-23**|**Privacy-Enhancing Optical Embeddings for Lensless Classification**|Eric Bezzam et.al.|[2211.12864v1](http://arxiv.org/abs/2211.12864v1)|[link](https://github.com/ebezzam/lenslessclassification)|
+|**2022-11-23**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang et.al.|[2211.12853v1](http://arxiv.org/abs/2211.12853v1)|null|
+|**2022-11-23**|**Data-driven Feature Tracking for Event Cameras**|Nico Messikommer et.al.|[2211.12826v1](http://arxiv.org/abs/2211.12826v1)|null|
 |**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|null|
 |**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
@@ -23,12 +32,3 @@
 |**2022-11-22**|**Weakly-supervised Pre-training for 3D Human Pose Estimation via Perspective Knowledge**|Zhongwei Qiu et.al.|[2211.11983v1](http://arxiv.org/abs/2211.11983v1)|null|
 |**2022-11-22**|**SemanticLoop: loop closure with 3D semantic graph matching**|Junfeng Yu et.al.|[2211.11977v1](http://arxiv.org/abs/2211.11977v1)|null|
 |**2022-11-22**|**Multi-View Neural Surface Reconstruction with Structured Light**|Chunyu Li et.al.|[2211.11971v1](http://arxiv.org/abs/2211.11971v1)|null|
-|**2022-11-22**|**Multimodal Data Augmentation for Visual-Infrared Person ReID with Corrupted Data**|Arthur Josi et.al.|[2211.11925v1](http://arxiv.org/abs/2211.11925v1)|null|
-|**2022-11-22**|**Confidence-guided Centroids for Unsupervised Person Re-Identification**|Yunqi Miao et.al.|[2211.11921v1](http://arxiv.org/abs/2211.11921v1)|null|
-|**2022-11-21**|**Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference**|Eric Mitchell et.al.|[2211.11875v1](http://arxiv.org/abs/2211.11875v1)|null|
-|**2022-11-21**|**Twin-S: A Digital Twin for Skull-base Surgery**|Hongchao Shu et.al.|[2211.11863v1](http://arxiv.org/abs/2211.11863v1)|null|
-|**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
-|**2022-11-21**|**Holographic cameras: an eye for the bulk**|Simon Caron-Huot et.al.|[2211.11791v1](http://arxiv.org/abs/2211.11791v1)|null|
-|**2022-11-21**|**The high-albedo, low polarization disk around HD 114082 harbouring a Jupiter-sized transiting planet**|N. Engler et.al.|[2211.11767v1](http://arxiv.org/abs/2211.11767v1)|null|
-|**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|null|
-|**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
