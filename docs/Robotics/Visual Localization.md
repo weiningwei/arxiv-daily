@@ -7,12 +7,12 @@
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
 |**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
 |**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
-|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v1](http://arxiv.org/abs/2211.12352v1)|null|
+|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v2](http://arxiv.org/abs/2211.12352v2)|null|
 |**2022-11-22**|**Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras**|Daniel Gehrig et.al.|[2211.12324v1](http://arxiv.org/abs/2211.12324v1)|null|
 |**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v1](http://arxiv.org/abs/2211.12322v1)|null|
 |**2022-11-22**|**Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification**|Jiachen Li et.al.|[2211.12280v1](http://arxiv.org/abs/2211.12280v1)|null|
 |**2022-11-22**|**VBLC: Visibility Boosting and Logit-Constraint Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Mingjia Li et.al.|[2211.12256v1](http://arxiv.org/abs/2211.12256v1)|[link](https://github.com/bit-da/vblc)|
-|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v1](http://arxiv.org/abs/2211.12244v1)|null|
+|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v2](http://arxiv.org/abs/2211.12244v2)|null|
 |**2022-11-22**|**Event Transformer+. A multi-purpose solution for efficient event data processing**|Alberto Sabater et.al.|[2211.12222v1](http://arxiv.org/abs/2211.12222v1)|null|
 |**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
 |**2022-11-22**|**Uncertainty-aware Vision-based Metric Cross-view Geolocalization**|Florian Fervers et.al.|[2211.12145v1](http://arxiv.org/abs/2211.12145v1)|null|
