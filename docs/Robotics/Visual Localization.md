@@ -11,7 +11,7 @@
 |**2022-11-23**|**Privacy-Enhancing Optical Embeddings for Lensless Classification**|Eric Bezzam et.al.|[2211.12864v1](http://arxiv.org/abs/2211.12864v1)|[link](https://github.com/ebezzam/lenslessclassification)|
 |**2022-11-23**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang et.al.|[2211.12853v1](http://arxiv.org/abs/2211.12853v1)|null|
 |**2022-11-23**|**Data-driven Feature Tracking for Event Cameras**|Nico Messikommer et.al.|[2211.12826v1](http://arxiv.org/abs/2211.12826v1)|null|
-|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|null|
+|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|[link](https://github.com/fcjian/AeDet)|
 |**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
 |**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
