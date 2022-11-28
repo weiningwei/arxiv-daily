@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2022-11-28 10:14:54 Asia/Shanghai
+ Automated deployment @ 2022-11-28 20:13:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|null|
-|**2022-11-23**|**Autonomous Vision-based Rapid Aerial Grasping**|Erik Bauer et.al.|[2211.13093v1](http://arxiv.org/abs/2211.13093v1)|null|
-|**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
-|**2022-11-23**|**A Masked Face Classification Benchmark**|Federico Cunico et.al.|[2211.13061v1](http://arxiv.org/abs/2211.13061v1)|[link](https://github.com/humaticslab/sf-mask)|
-|**2022-11-23**|**Euclid preparation. XXVII. Covariance model validation for the 2-point correlation function of galaxy clusters**|Euclid Collaboration et.al.|[2211.12965v1](http://arxiv.org/abs/2211.12965v1)|null|
-|**2022-11-23**|**Sub-minute Quantum Ghost Imaging in the infrared enabled by a "looking back" SPAD array**|Valerio Flavio Gili et.al.|[2211.12913v1](http://arxiv.org/abs/2211.12913v1)|null|
-|**2022-11-23**|**Privacy-Enhancing Optical Embeddings for Lensless Classification**|Eric Bezzam et.al.|[2211.12864v1](http://arxiv.org/abs/2211.12864v1)|[link](https://github.com/ebezzam/lenslessclassification)|
-|**2022-11-23**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang et.al.|[2211.12853v1](http://arxiv.org/abs/2211.12853v1)|null|
-|**2022-11-23**|**Data-driven Feature Tracking for Event Cameras**|Nico Messikommer et.al.|[2211.12826v1](http://arxiv.org/abs/2211.12826v1)|null|
-|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|[link](https://github.com/fcjian/AeDet)|
-|**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
-|**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
-|**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
-|**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
-|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v2](http://arxiv.org/abs/2211.12352v2)|null|
-|**2022-11-22**|**Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras**|Daniel Gehrig et.al.|[2211.12324v1](http://arxiv.org/abs/2211.12324v1)|null|
-|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v2](http://arxiv.org/abs/2211.12322v2)|null|
-|**2022-11-22**|**Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification**|Jiachen Li et.al.|[2211.12280v1](http://arxiv.org/abs/2211.12280v1)|null|
-|**2022-11-22**|**VBLC: Visibility Boosting and Logit-Constraint Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Mingjia Li et.al.|[2211.12256v1](http://arxiv.org/abs/2211.12256v1)|[link](https://github.com/bit-da/vblc)|
-|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v2](http://arxiv.org/abs/2211.12244v2)|null|
-|**2022-11-22**|**Event Transformer+. A multi-purpose solution for efficient event data processing**|Alberto Sabater et.al.|[2211.12222v1](http://arxiv.org/abs/2211.12222v1)|null|
-|**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
-|**2022-11-22**|**Uncertainty-aware Vision-based Metric Cross-view Geolocalization**|Florian Fervers et.al.|[2211.12145v1](http://arxiv.org/abs/2211.12145v1)|null|
-|**2022-11-22**|**DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models**|Shengqu Cai et.al.|[2211.12131v1](http://arxiv.org/abs/2211.12131v1)|null|
-|**2022-11-22**|**Deblurred Neural Radiance Field with Physical Scene Priors**|Dogyoon Lee et.al.|[2211.12046v1](http://arxiv.org/abs/2211.12046v1)|null|
-|**2022-11-22**|**ViFi-Loc: Multi-modal Pedestrian Localization using GAN with Camera-Phone Correspondences**|Hansi Liu et.al.|[2211.12021v1](http://arxiv.org/abs/2211.12021v1)|null|
-|**2022-11-22**|**Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao et.al.|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
-|**2022-11-22**|**Weakly-supervised Pre-training for 3D Human Pose Estimation via Perspective Knowledge**|Zhongwei Qiu et.al.|[2211.11983v1](http://arxiv.org/abs/2211.11983v1)|null|
-|**2022-11-22**|**SemanticLoop: loop closure with 3D semantic graph matching**|Junfeng Yu et.al.|[2211.11977v1](http://arxiv.org/abs/2211.11977v1)|null|
-|**2022-11-22**|**Multi-View Neural Surface Reconstruction with Structured Light**|Chunyu Li et.al.|[2211.11971v1](http://arxiv.org/abs/2211.11971v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-23**|**Frequency space derivation of linear and non-linear memory gravitational wave signals from eccentric binary orbits**|Arpan Hait et.al.|[2211.13120v1](http://arxiv.org/abs/2211.13120v1)|null|
-|**2022-11-23**|**Topological interpretation for phase transitions of black holes**|Zhong-Ying Fan et.al.|[2211.12957v1](http://arxiv.org/abs/2211.12957v1)|null|
-|**2022-11-22**|**Size polydisperse model Ionic Liquid in bulk**|Somas Singh Urikhinbam et.al.|[2211.12383v1](http://arxiv.org/abs/2211.12383v1)|null|
-|**2022-11-22**|**Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure**|Jiaming Zha et.al.|[2211.12045v1](http://arxiv.org/abs/2211.12045v1)|[link](https://github.com/muellerlab/tensegrityaerialvehiclecollisionsim)|
-|**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
-|**2022-11-22**|**Suppression of stimulated Raman scattering by angularly incoherent light, towards a laser system of incoherence in all dimensions of time, space, and angle**|Yi Guo et.al.|[2211.12505v1](http://arxiv.org/abs/2211.12505v1)|null|
-|**2022-11-21**|**Inertial dynamics and equilibrium correlation functions of magnetization at short times**|Sergei V. Titov et.al.|[2211.11515v1](http://arxiv.org/abs/2211.11515v1)|null|
-|**2022-11-18**|**An investigation of shock formation versus shock mitigation of colliding plasma jets**|Petr Cagas et.al.|[2211.10503v1](http://arxiv.org/abs/2211.10503v1)|null|
-|**2022-11-18**|**The legacy of A.H. Wapstra and the future of the Atomic Mass Evaluation**|David Lunney et.al.|[2211.10496v1](http://arxiv.org/abs/2211.10496v1)|null|
-|**2022-11-18**|**Convection and intermittency noise in water temperature near a deep Mediterranean seafloor**|Hans van Haren et.al.|[2211.10269v1](http://arxiv.org/abs/2211.10269v1)|null|
-|**2022-11-18**|**GNS: A generalizable Graph Neural Network-based simulator for particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
-|**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
-|**2022-11-18**|**Metastable Carbon at Extreme Conditions**|Ashley S. Williams et.al.|[2211.09974v1](http://arxiv.org/abs/2211.09974v1)|null|
-|**2022-11-17**|**Inertial Force Transmission in Dense Granular Flows**|Matthew Macaulay et.al.|[2211.09946v1](http://arxiv.org/abs/2211.09946v1)|null|
-|**2022-11-17**|**The change in the direction of the electric field using the Lorentz-type transformation**|Anuj Kumar Dubey et.al.|[2211.10417v1](http://arxiv.org/abs/2211.10417v1)|null|
-|**2022-11-17**|**Direct transition to elastoinertial turbulence from a linear instability in channel flow**|Lu Zhu et.al.|[2211.09366v1](http://arxiv.org/abs/2211.09366v1)|null|
-|**2022-11-17**|**iNavFIter-M: Matrix Formulation of Functional Iteration for Inertial Navigation Computation**|Hongyan Jiang et.al.|[2211.09332v1](http://arxiv.org/abs/2211.09332v1)|null|
-|**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|
-|**2022-11-15**|**Inverse energy cascade in two-dimensional quantum turbulence in a fluid of light**|Myrann Abobaker et.al.|[2211.08441v1](http://arxiv.org/abs/2211.08441v1)|null|
-|**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
-|**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
-|**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v1](http://arxiv.org/abs/2211.06548v1)|null|
-|**2022-11-11**|**Emergence of universal scaling in isotropic turbulence**|Sualeh Khurshid et.al.|[2211.06307v1](http://arxiv.org/abs/2211.06307v1)|null|
-|**2022-11-11**|**Dynamics of nanosecond laser pulse propagation and of associated instabilities in a magnetized underdense plasma**|W. Yao et.al.|[2211.06036v1](http://arxiv.org/abs/2211.06036v1)|null|
-|**2022-11-10**|**How do tidal waves interact with convective vortices in rapidly-rotating planets and stars?**|Virgile Dandoy et.al.|[2211.05900v1](http://arxiv.org/abs/2211.05900v1)|null|
-|**2022-11-10**|**Unsupervised Deep Learning-based clustering for Human Activity Recognition**|Hamza Amrani et.al.|[2211.05483v1](http://arxiv.org/abs/2211.05483v1)|null|
-|**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|null|
-|**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
-|**2022-11-09**|**Instability in strongly stratified plane Couette flow, with application to supercritical fluids**|B. Bugeat et.al.|[2211.04935v1](http://arxiv.org/abs/2211.04935v1)|null|
-|**2022-11-09**|**Tangent space symmetries in general relativity and teleparallelism**|Tom Lawrence et.al.|[2211.07586v1](http://arxiv.org/abs/2211.07586v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,6 +38,74 @@
 |**2022-10-04**|**An Improved Multi-State Constraint Kalman Filter for Visual-Inertial Odometry**|M. R. Abdollahi et.al.|[2210.08117v1](http://arxiv.org/abs/2210.08117v1)|null|
 |**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v2](http://arxiv.org/abs/2210.01154v2)|null|
 |**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|[link](https://github.com/prbonn/kissicp)|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-25**|**Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**|Leif Van Holland et.al.|[2211.14310v1](http://arxiv.org/abs/2211.14310v1)|null|
+|**2022-11-25**|**RUST: Latent Neural Scene Representations from Unposed Imagery**|Mehdi S. M. Sajjadi et.al.|[2211.14306v1](http://arxiv.org/abs/2211.14306v1)|null|
+|**2022-11-25**|**Temporal Super-Resolution using Multi-Channel Illumination Source**|Khen Cohen et.al.|[2211.14198v1](http://arxiv.org/abs/2211.14198v1)|null|
+|**2022-11-25**|**3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**|Gang Li et.al.|[2211.14108v1](http://arxiv.org/abs/2211.14108v1)|null|
+|**2022-11-25**|**ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision**|Jingwang Ling et.al.|[2211.14086v1](http://arxiv.org/abs/2211.14086v1)|null|
+|**2022-11-25**|**FPGA Implementation of An Event-driven Saliency-based Selective Attention Model**|Hajar Asgari et.al.|[2211.14060v1](http://arxiv.org/abs/2211.14060v1)|null|
+|**2022-11-25**|**Task-Oriented Communication for Edge Video Analytics**|Jiawei Shao et.al.|[2211.14049v1](http://arxiv.org/abs/2211.14049v1)|null|
+|**2022-11-25**|**Real-Time Under-Display Cameras Image Restoration and HDR on Mobile Devices**|Marcos V. Conde et.al.|[2211.14040v1](http://arxiv.org/abs/2211.14040v1)|null|
+|**2022-11-25**|**Strain measurement by contour analysis**|Georg C. Ganzenmüller et.al.|[2211.14030v1](http://arxiv.org/abs/2211.14030v1)|null|
+|**2022-11-25**|**Characterisation of the MUSIC ASIC for large-area silicon photomultipliers for gamma-ray astronomy**|Nicolas De Angelis et.al.|[2211.14022v1](http://arxiv.org/abs/2211.14022v1)|null|
+|**2022-11-25**|**Dynamic Neural Portraits**|Michail Christos Doukas et.al.|[2211.13994v1](http://arxiv.org/abs/2211.13994v1)|null|
+|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v1](http://arxiv.org/abs/2211.13968v1)|null|
+|**2022-11-24**|**Characterisation of a single photon event camera for quantum imaging**|Victor Vidyapin et.al.|[2211.13788v1](http://arxiv.org/abs/2211.13788v1)|null|
+|**2022-11-24**|**TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network**|Youmin Zhang et.al.|[2211.13755v1](http://arxiv.org/abs/2211.13755v1)|[link](https://github.com/youmi-zym/temporalstereo)|
+|**2022-11-24**|**Deep Demosaicing for Polarimetric Filter Array Cameras**|Mara Pistellato et.al.|[2211.13732v1](http://arxiv.org/abs/2211.13732v1)|[link](https://github.com/daiscvprojects/pfadn)|
+|**2022-11-24**|**Real-Time Physics-Based Object Pose Tracking during Non-Prehensile Manipulation**|Zisong Xu et.al.|[2211.13572v1](http://arxiv.org/abs/2211.13572v1)|[link](https://github.com/zisongxu/trackobjectwithpf)|
+|**2022-11-24**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kim et.al.|[2211.13529v1](http://arxiv.org/abs/2211.13529v1)|null|
+|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|null|
+|**2022-11-23**|**Autonomous Vision-based Rapid Aerial Grasping**|Erik Bauer et.al.|[2211.13093v1](http://arxiv.org/abs/2211.13093v1)|null|
+|**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
+|**2022-11-23**|**A Masked Face Classification Benchmark**|Federico Cunico et.al.|[2211.13061v1](http://arxiv.org/abs/2211.13061v1)|[link](https://github.com/humaticslab/sf-mask)|
+|**2022-11-23**|**Euclid preparation. XXVII. Covariance model validation for the 2-point correlation function of galaxy clusters**|Euclid Collaboration et.al.|[2211.12965v1](http://arxiv.org/abs/2211.12965v1)|null|
+|**2022-11-23**|**Sub-minute Quantum Ghost Imaging in the infrared enabled by a "looking back" SPAD array**|Valerio Flavio Gili et.al.|[2211.12913v1](http://arxiv.org/abs/2211.12913v1)|null|
+|**2022-11-23**|**Privacy-Enhancing Optical Embeddings for Lensless Classification**|Eric Bezzam et.al.|[2211.12864v1](http://arxiv.org/abs/2211.12864v1)|[link](https://github.com/ebezzam/lenslessclassification)|
+|**2022-11-23**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang et.al.|[2211.12853v1](http://arxiv.org/abs/2211.12853v1)|null|
+|**2022-11-23**|**Data-driven Feature Tracking for Event Cameras**|Nico Messikommer et.al.|[2211.12826v1](http://arxiv.org/abs/2211.12826v1)|null|
+|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|[link](https://github.com/fcjian/AeDet)|
+|**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
+|**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
+|**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-24**|**Asymptotic Nusselt numbers for internal flow in the Cassie state**|Daniel Kane et.al.|[2211.13751v1](http://arxiv.org/abs/2211.13751v1)|null|
+|**2022-11-24**|**Inverted Sedimentation of Active Particles in Unbiased ac Fields**|José Carlos Ureña Marcos et.al.|[2211.13686v1](http://arxiv.org/abs/2211.13686v1)|null|
+|**2022-11-23**|**Frequency space derivation of linear and non-linear memory gravitational wave signals from eccentric binary orbits**|Arpan Hait et.al.|[2211.13120v1](http://arxiv.org/abs/2211.13120v1)|null|
+|**2022-11-23**|**Topological interpretation for phase transitions of black holes**|Zhong-Ying Fan et.al.|[2211.12957v1](http://arxiv.org/abs/2211.12957v1)|null|
+|**2022-11-22**|**Size polydisperse model Ionic Liquid in bulk**|Somas Singh Urikhinbam et.al.|[2211.12383v1](http://arxiv.org/abs/2211.12383v1)|null|
+|**2022-11-22**|**Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure**|Jiaming Zha et.al.|[2211.12045v1](http://arxiv.org/abs/2211.12045v1)|[link](https://github.com/muellerlab/tensegrityaerialvehiclecollisionsim)|
+|**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
+|**2022-11-22**|**Suppression of stimulated Raman scattering by angularly incoherent light, towards a laser system of incoherence in all dimensions of time, space, and angle**|Yi Guo et.al.|[2211.12505v1](http://arxiv.org/abs/2211.12505v1)|null|
+|**2022-11-21**|**Inertial dynamics and equilibrium correlation functions of magnetization at short times**|Sergei V. Titov et.al.|[2211.11515v1](http://arxiv.org/abs/2211.11515v1)|null|
+|**2022-11-18**|**An investigation of shock formation versus shock mitigation of colliding plasma jets**|Petr Cagas et.al.|[2211.10503v1](http://arxiv.org/abs/2211.10503v1)|null|
+|**2022-11-18**|**The legacy of A.H. Wapstra and the future of the Atomic Mass Evaluation**|David Lunney et.al.|[2211.10496v1](http://arxiv.org/abs/2211.10496v1)|null|
+|**2022-11-18**|**Convection and intermittency noise in water temperature near a deep Mediterranean seafloor**|Hans van Haren et.al.|[2211.10269v1](http://arxiv.org/abs/2211.10269v1)|null|
+|**2022-11-18**|**GNS: A generalizable Graph Neural Network-based simulator for particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
+|**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
+|**2022-11-18**|**Metastable Carbon at Extreme Conditions**|Ashley S. Williams et.al.|[2211.09974v1](http://arxiv.org/abs/2211.09974v1)|null|
+|**2022-11-17**|**Inertial Force Transmission in Dense Granular Flows**|Matthew Macaulay et.al.|[2211.09946v1](http://arxiv.org/abs/2211.09946v1)|null|
+|**2022-11-17**|**The change in the direction of the electric field using the Lorentz-type transformation**|Anuj Kumar Dubey et.al.|[2211.10417v1](http://arxiv.org/abs/2211.10417v1)|null|
+|**2022-11-17**|**Direct transition to elastoinertial turbulence from a linear instability in channel flow**|Lu Zhu et.al.|[2211.09366v1](http://arxiv.org/abs/2211.09366v1)|null|
+|**2022-11-17**|**iNavFIter-M: Matrix Formulation of Functional Iteration for Inertial Navigation Computation**|Hongyan Jiang et.al.|[2211.09332v1](http://arxiv.org/abs/2211.09332v1)|null|
+|**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|
+|**2022-11-15**|**Inverse energy cascade in two-dimensional quantum turbulence in a fluid of light**|Myrann Abobaker et.al.|[2211.08441v1](http://arxiv.org/abs/2211.08441v1)|null|
+|**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
+|**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
+|**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v1](http://arxiv.org/abs/2211.06548v1)|null|
+|**2022-11-11**|**Emergence of universal scaling in isotropic turbulence**|Sualeh Khurshid et.al.|[2211.06307v1](http://arxiv.org/abs/2211.06307v1)|null|
+|**2022-11-11**|**Dynamics of nanosecond laser pulse propagation and of associated instabilities in a magnetized underdense plasma**|W. Yao et.al.|[2211.06036v1](http://arxiv.org/abs/2211.06036v1)|null|
+|**2022-11-10**|**How do tidal waves interact with convective vortices in rapidly-rotating planets and stars?**|Virgile Dandoy et.al.|[2211.05900v1](http://arxiv.org/abs/2211.05900v1)|null|
+|**2022-11-10**|**Unsupervised Deep Learning-based clustering for Human Activity Recognition**|Hamza Amrani et.al.|[2211.05483v1](http://arxiv.org/abs/2211.05483v1)|null|
+|**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|null|
+|**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|

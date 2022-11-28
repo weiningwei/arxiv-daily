@@ -2,6 +2,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-25**|**Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**|Leif Van Holland et.al.|[2211.14310v1](http://arxiv.org/abs/2211.14310v1)|null|
+|**2022-11-25**|**RUST: Latent Neural Scene Representations from Unposed Imagery**|Mehdi S. M. Sajjadi et.al.|[2211.14306v1](http://arxiv.org/abs/2211.14306v1)|null|
+|**2022-11-25**|**Temporal Super-Resolution using Multi-Channel Illumination Source**|Khen Cohen et.al.|[2211.14198v1](http://arxiv.org/abs/2211.14198v1)|null|
+|**2022-11-25**|**3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**|Gang Li et.al.|[2211.14108v1](http://arxiv.org/abs/2211.14108v1)|null|
+|**2022-11-25**|**ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision**|Jingwang Ling et.al.|[2211.14086v1](http://arxiv.org/abs/2211.14086v1)|null|
+|**2022-11-25**|**FPGA Implementation of An Event-driven Saliency-based Selective Attention Model**|Hajar Asgari et.al.|[2211.14060v1](http://arxiv.org/abs/2211.14060v1)|null|
+|**2022-11-25**|**Task-Oriented Communication for Edge Video Analytics**|Jiawei Shao et.al.|[2211.14049v1](http://arxiv.org/abs/2211.14049v1)|null|
+|**2022-11-25**|**Real-Time Under-Display Cameras Image Restoration and HDR on Mobile Devices**|Marcos V. Conde et.al.|[2211.14040v1](http://arxiv.org/abs/2211.14040v1)|null|
+|**2022-11-25**|**Strain measurement by contour analysis**|Georg C. Ganzenmüller et.al.|[2211.14030v1](http://arxiv.org/abs/2211.14030v1)|null|
+|**2022-11-25**|**Characterisation of the MUSIC ASIC for large-area silicon photomultipliers for gamma-ray astronomy**|Nicolas De Angelis et.al.|[2211.14022v1](http://arxiv.org/abs/2211.14022v1)|null|
+|**2022-11-25**|**Dynamic Neural Portraits**|Michail Christos Doukas et.al.|[2211.13994v1](http://arxiv.org/abs/2211.13994v1)|null|
+|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v1](http://arxiv.org/abs/2211.13968v1)|null|
+|**2022-11-24**|**Characterisation of a single photon event camera for quantum imaging**|Victor Vidyapin et.al.|[2211.13788v1](http://arxiv.org/abs/2211.13788v1)|null|
+|**2022-11-24**|**TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network**|Youmin Zhang et.al.|[2211.13755v1](http://arxiv.org/abs/2211.13755v1)|[link](https://github.com/youmi-zym/temporalstereo)|
+|**2022-11-24**|**Deep Demosaicing for Polarimetric Filter Array Cameras**|Mara Pistellato et.al.|[2211.13732v1](http://arxiv.org/abs/2211.13732v1)|[link](https://github.com/daiscvprojects/pfadn)|
+|**2022-11-24**|**Real-Time Physics-Based Object Pose Tracking during Non-Prehensile Manipulation**|Zisong Xu et.al.|[2211.13572v1](http://arxiv.org/abs/2211.13572v1)|[link](https://github.com/zisongxu/trackobjectwithpf)|
+|**2022-11-24**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kim et.al.|[2211.13529v1](http://arxiv.org/abs/2211.13529v1)|null|
 |**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|null|
 |**2022-11-23**|**Autonomous Vision-based Rapid Aerial Grasping**|Erik Bauer et.al.|[2211.13093v1](http://arxiv.org/abs/2211.13093v1)|null|
 |**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
@@ -15,20 +32,3 @@
 |**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
 |**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
-|**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
-|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v2](http://arxiv.org/abs/2211.12352v2)|null|
-|**2022-11-22**|**Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras**|Daniel Gehrig et.al.|[2211.12324v1](http://arxiv.org/abs/2211.12324v1)|null|
-|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v2](http://arxiv.org/abs/2211.12322v2)|null|
-|**2022-11-22**|**Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification**|Jiachen Li et.al.|[2211.12280v1](http://arxiv.org/abs/2211.12280v1)|null|
-|**2022-11-22**|**VBLC: Visibility Boosting and Logit-Constraint Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Mingjia Li et.al.|[2211.12256v1](http://arxiv.org/abs/2211.12256v1)|[link](https://github.com/bit-da/vblc)|
-|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v2](http://arxiv.org/abs/2211.12244v2)|null|
-|**2022-11-22**|**Event Transformer+. A multi-purpose solution for efficient event data processing**|Alberto Sabater et.al.|[2211.12222v1](http://arxiv.org/abs/2211.12222v1)|null|
-|**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
-|**2022-11-22**|**Uncertainty-aware Vision-based Metric Cross-view Geolocalization**|Florian Fervers et.al.|[2211.12145v1](http://arxiv.org/abs/2211.12145v1)|null|
-|**2022-11-22**|**DiffDreamer: Consistent Single-view Perpetual View Generation with Conditional Diffusion Models**|Shengqu Cai et.al.|[2211.12131v1](http://arxiv.org/abs/2211.12131v1)|null|
-|**2022-11-22**|**Deblurred Neural Radiance Field with Physical Scene Priors**|Dogyoon Lee et.al.|[2211.12046v1](http://arxiv.org/abs/2211.12046v1)|null|
-|**2022-11-22**|**ViFi-Loc: Multi-modal Pedestrian Localization using GAN with Camera-Phone Correspondences**|Hansi Liu et.al.|[2211.12021v1](http://arxiv.org/abs/2211.12021v1)|null|
-|**2022-11-22**|**Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao et.al.|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
-|**2022-11-22**|**Weakly-supervised Pre-training for 3D Human Pose Estimation via Perspective Knowledge**|Zhongwei Qiu et.al.|[2211.11983v1](http://arxiv.org/abs/2211.11983v1)|null|
-|**2022-11-22**|**SemanticLoop: loop closure with 3D semantic graph matching**|Junfeng Yu et.al.|[2211.11977v1](http://arxiv.org/abs/2211.11977v1)|null|
-|**2022-11-22**|**Multi-View Neural Surface Reconstruction with Structured Light**|Chunyu Li et.al.|[2211.11971v1](http://arxiv.org/abs/2211.11971v1)|null|
