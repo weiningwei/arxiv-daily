@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v1](http://arxiv.org/abs/2211.13214v1)|null|
+|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|null|
 |**2022-11-23**|**Autonomous Vision-based Rapid Aerial Grasping**|Erik Bauer et.al.|[2211.13093v1](http://arxiv.org/abs/2211.13093v1)|null|
 |**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
 |**2022-11-23**|**A Masked Face Classification Benchmark**|Federico Cunico et.al.|[2211.13061v1](http://arxiv.org/abs/2211.13061v1)|[link](https://github.com/humaticslab/sf-mask)|
@@ -18,7 +18,7 @@
 |**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
 |**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v2](http://arxiv.org/abs/2211.12352v2)|null|
 |**2022-11-22**|**Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras**|Daniel Gehrig et.al.|[2211.12324v1](http://arxiv.org/abs/2211.12324v1)|null|
-|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v1](http://arxiv.org/abs/2211.12322v1)|null|
+|**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v2](http://arxiv.org/abs/2211.12322v2)|null|
 |**2022-11-22**|**Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification**|Jiachen Li et.al.|[2211.12280v1](http://arxiv.org/abs/2211.12280v1)|null|
 |**2022-11-22**|**VBLC: Visibility Boosting and Logit-Constraint Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Mingjia Li et.al.|[2211.12256v1](http://arxiv.org/abs/2211.12256v1)|[link](https://github.com/bit-da/vblc)|
 |**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v2](http://arxiv.org/abs/2211.12244v2)|null|
