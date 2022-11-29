@@ -11,9 +11,9 @@
 |**2022-11-25**|**Task-Oriented Communication for Edge Video Analytics**|Jiawei Shao et.al.|[2211.14049v1](http://arxiv.org/abs/2211.14049v1)|null|
 |**2022-11-25**|**Real-Time Under-Display Cameras Image Restoration and HDR on Mobile Devices**|Marcos V. Conde et.al.|[2211.14040v1](http://arxiv.org/abs/2211.14040v1)|null|
 |**2022-11-25**|**Strain measurement by contour analysis**|Georg C. Ganzenmüller et.al.|[2211.14030v1](http://arxiv.org/abs/2211.14030v1)|null|
-|**2022-11-25**|**Characterisation of the MUSIC ASIC for large-area silicon photomultipliers for gamma-ray astronomy**|Nicolas De Angelis et.al.|[2211.14022v1](http://arxiv.org/abs/2211.14022v1)|null|
+|**2022-11-25**|**Characterisation of the MUSIC ASIC for large-area silicon photomultipliers for gamma-ray astronomy**|Nicolas De Angelis et.al.|[2211.14022v2](http://arxiv.org/abs/2211.14022v2)|null|
 |**2022-11-25**|**Dynamic Neural Portraits**|Michail Christos Doukas et.al.|[2211.13994v1](http://arxiv.org/abs/2211.13994v1)|null|
-|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v1](http://arxiv.org/abs/2211.13968v1)|null|
+|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v2](http://arxiv.org/abs/2211.13968v2)|null|
 |**2022-11-24**|**Characterisation of a single photon event camera for quantum imaging**|Victor Vidyapin et.al.|[2211.13788v1](http://arxiv.org/abs/2211.13788v1)|null|
 |**2022-11-24**|**TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network**|Youmin Zhang et.al.|[2211.13755v1](http://arxiv.org/abs/2211.13755v1)|[link](https://github.com/youmi-zym/temporalstereo)|
 |**2022-11-24**|**Deep Demosaicing for Polarimetric Filter Array Cameras**|Mara Pistellato et.al.|[2211.13732v1](http://arxiv.org/abs/2211.13732v1)|[link](https://github.com/daiscvprojects/pfadn)|
@@ -31,4 +31,4 @@
 |**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|[link](https://github.com/fcjian/AeDet)|
 |**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
-|**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v1](http://arxiv.org/abs/2211.12432v1)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
+|**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v2](http://arxiv.org/abs/2211.12432v2)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
