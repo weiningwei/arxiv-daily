@@ -2,6 +2,11 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
+|**2022-11-27**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v1](http://arxiv.org/abs/2211.14731v1)|null|
+|**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
+|**2022-11-26**|**DynaVIG: Monocular Vision/INS/GNSS Integrated Navigation and Object Tracking for AGV in Dynamic Scenes**|Ronghe Jin et.al.|[2211.14478v1](http://arxiv.org/abs/2211.14478v1)|null|
+|**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|null|
 |**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
 |**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
 |**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v1](http://arxiv.org/abs/2211.06548v1)|null|
@@ -27,8 +32,3 @@
 |**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v2](http://arxiv.org/abs/2210.07435v2)|null|
 |**2022-10-10**|**Dynamic Gap: Formal Guarantees for Safe Gap-based Navigation in Dynamic Environments**|Max Asselmeier et.al.|[2210.05022v1](http://arxiv.org/abs/2210.05022v1)|null|
 |**2022-10-05**|**TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags**|Bardienus P Duisterhof et.al.|[2210.02511v1](http://arxiv.org/abs/2210.02511v1)|null|
-|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v3](http://arxiv.org/abs/2210.02127v3)|null|
-|**2022-10-04**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723v1](http://arxiv.org/abs/2210.01723v1)|[link](https://github.com/aofrancani/dpt-vo)|
-|**2022-10-04**|**An Improved Multi-State Constraint Kalman Filter for Visual-Inertial Odometry**|M. R. Abdollahi et.al.|[2210.08117v1](http://arxiv.org/abs/2210.08117v1)|null|
-|**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v2](http://arxiv.org/abs/2210.01154v2)|null|
-|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|[link](https://github.com/prbonn/kissicp)|

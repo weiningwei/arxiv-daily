@@ -2,6 +2,26 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-28**|**SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**|Hao Dong et.al.|[2211.15656v1](http://arxiv.org/abs/2211.15656v1)|[link](https://github.com/haomo-ai/superfusion)|
+|**2022-11-28**|**Hubble Space Telescope transmission spectroscopy for the temperate sub-Neptune TOI-270d: a possible hydrogen-rich atmosphere containing water vapour**|Thomas Mikal-Evans et.al.|[2211.15576v1](http://arxiv.org/abs/2211.15576v1)|null|
+|**2022-11-28**|**Underdetermined Polarimetric Measurements for Mueller Extrapolations**|Quinn Jarecki et.al.|[2211.15543v1](http://arxiv.org/abs/2211.15543v1)|null|
+|**2022-11-28**|**Graph Convolutional Network for Multi-Target Multi-Camera Vehicle Tracking**|Elena Luna et.al.|[2211.15538v1](http://arxiv.org/abs/2211.15538v1)|null|
+|**2022-11-28**|**Environment-based Assistance Modulation for a Hip Exosuit via Computer Vision**|Enrica Tricomi et.al.|[2211.15346v1](http://arxiv.org/abs/2211.15346v1)|null|
+|**2022-11-28**|**Meet-in-the-middle: Multi-scale upsampling and matching \\ for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v1](http://arxiv.org/abs/2211.15225v1)|null|
+|**2022-11-28**|**Toward Global Sensing Quality Maximization: A Configuration Optimization Scheme for Camera Networks**|Xuechao Zhang et.al.|[2211.15166v1](http://arxiv.org/abs/2211.15166v1)|[link](https://github.com/sszxc/multicam-simulation)|
+|**2022-11-28**|**A Light Touch Approach to Teaching Transformers Multi-view Geometry**|Yash Bhalgat et.al.|[2211.15107v1](http://arxiv.org/abs/2211.15107v1)|null|
+|**2022-11-28**|**Learning Dense Object Descriptors from Multiple Views for Low-shot Category Generalization**|Stefan Stojanov et.al.|[2211.15059v1](http://arxiv.org/abs/2211.15059v1)|[link](https://github.com/rehg-lab/dope_selfsup)|
+|**2022-11-27**|**GRelPose: Generalizable End-to-End Relative Camera Pose Regression**|Fadi Khatib et.al.|[2211.14950v1](http://arxiv.org/abs/2211.14950v1)|null|
+|**2022-11-27**|**BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images**|Zhihuang Zhang et.al.|[2211.14927v1](http://arxiv.org/abs/2211.14927v1)|null|
+|**2022-11-27**|**3inGAN: Learning a 3D Generative Model from Images of a Self-similar Scene**|Animesh Karnewar et.al.|[2211.14902v1](http://arxiv.org/abs/2211.14902v1)|null|
+|**2022-11-27**|**A Faster, Lighter and Stronger Deep Learning-Based Approach for Place Recognition**|Rui Huang et.al.|[2211.14864v1](http://arxiv.org/abs/2211.14864v1)|null|
+|**2022-11-27**|**Searching for Uncollected Litter with Computer Vision**|Julian Hernandez et.al.|[2211.14743v1](http://arxiv.org/abs/2211.14743v1)|null|
+|**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
+|**2022-11-27**|**3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shu et.al.|[2211.14710v1](http://arxiv.org/abs/2211.14710v1)|null|
+|**2022-11-26**|**SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation**|Ted de Vries Lentsch et.al.|[2211.14651v1](http://arxiv.org/abs/2211.14651v1)|null|
+|**2022-11-26**|**CFNet: Conditional Filter Learning with Dynamic Noise Estimation for Real Image Denoising**|Yifan Zuo et.al.|[2211.14576v1](http://arxiv.org/abs/2211.14576v1)|null|
+|**2022-11-26**|**Self-Supervised Surgical Instrument 3D Reconstruction from a Single Camera Image**|Ange Lou et.al.|[2211.14467v1](http://arxiv.org/abs/2211.14467v1)|null|
+|**2022-11-25**|**Chart-RCNN: Efficient Line Chart Data Extraction from Camera Images**|Shufan Li et.al.|[2211.14362v1](http://arxiv.org/abs/2211.14362v1)|null|
 |**2022-11-25**|**Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**|Leif Van Holland et.al.|[2211.14310v1](http://arxiv.org/abs/2211.14310v1)|null|
 |**2022-11-25**|**RUST: Latent Neural Scene Representations from Unposed Imagery**|Mehdi S. M. Sajjadi et.al.|[2211.14306v1](http://arxiv.org/abs/2211.14306v1)|null|
 |**2022-11-25**|**Temporal Super-Resolution using Multi-Channel Illumination Source**|Khen Cohen et.al.|[2211.14198v1](http://arxiv.org/abs/2211.14198v1)|null|
@@ -12,23 +32,3 @@
 |**2022-11-25**|**Real-Time Under-Display Cameras Image Restoration and HDR on Mobile Devices**|Marcos V. Conde et.al.|[2211.14040v1](http://arxiv.org/abs/2211.14040v1)|null|
 |**2022-11-25**|**Strain measurement by contour analysis**|Georg C. Ganzenmüller et.al.|[2211.14030v1](http://arxiv.org/abs/2211.14030v1)|null|
 |**2022-11-25**|**Characterisation of the MUSIC ASIC for large-area silicon photomultipliers for gamma-ray astronomy**|Nicolas De Angelis et.al.|[2211.14022v2](http://arxiv.org/abs/2211.14022v2)|null|
-|**2022-11-25**|**Dynamic Neural Portraits**|Michail Christos Doukas et.al.|[2211.13994v1](http://arxiv.org/abs/2211.13994v1)|null|
-|**2022-11-25**|**MIAD: A Maintenance Inspection Dataset for Unsupervised Anomaly Detection**|Tianpeng Bao et.al.|[2211.13968v2](http://arxiv.org/abs/2211.13968v2)|null|
-|**2022-11-24**|**Characterisation of a single photon event camera for quantum imaging**|Victor Vidyapin et.al.|[2211.13788v1](http://arxiv.org/abs/2211.13788v1)|null|
-|**2022-11-24**|**TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network**|Youmin Zhang et.al.|[2211.13755v1](http://arxiv.org/abs/2211.13755v1)|[link](https://github.com/youmi-zym/temporalstereo)|
-|**2022-11-24**|**Deep Demosaicing for Polarimetric Filter Array Cameras**|Mara Pistellato et.al.|[2211.13732v1](http://arxiv.org/abs/2211.13732v1)|[link](https://github.com/daiscvprojects/pfadn)|
-|**2022-11-24**|**Real-Time Physics-Based Object Pose Tracking during Non-Prehensile Manipulation**|Zisong Xu et.al.|[2211.13572v1](http://arxiv.org/abs/2211.13572v1)|[link](https://github.com/zisongxu/trackobjectwithpf)|
-|**2022-11-24**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kim et.al.|[2211.13529v1](http://arxiv.org/abs/2211.13529v1)|null|
-|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v2](http://arxiv.org/abs/2211.13214v2)|null|
-|**2022-11-23**|**Autonomous Vision-based Rapid Aerial Grasping**|Erik Bauer et.al.|[2211.13093v1](http://arxiv.org/abs/2211.13093v1)|null|
-|**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
-|**2022-11-23**|**A Masked Face Classification Benchmark**|Federico Cunico et.al.|[2211.13061v1](http://arxiv.org/abs/2211.13061v1)|[link](https://github.com/humaticslab/sf-mask)|
-|**2022-11-23**|**Euclid preparation. XXVII. Covariance model validation for the 2-point correlation function of galaxy clusters**|Euclid Collaboration et.al.|[2211.12965v1](http://arxiv.org/abs/2211.12965v1)|null|
-|**2022-11-23**|**Sub-minute Quantum Ghost Imaging in the infrared enabled by a "looking back" SPAD array**|Valerio Flavio Gili et.al.|[2211.12913v1](http://arxiv.org/abs/2211.12913v1)|null|
-|**2022-11-23**|**Privacy-Enhancing Optical Embeddings for Lensless Classification**|Eric Bezzam et.al.|[2211.12864v1](http://arxiv.org/abs/2211.12864v1)|[link](https://github.com/ebezzam/lenslessclassification)|
-|**2022-11-23**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang et.al.|[2211.12853v1](http://arxiv.org/abs/2211.12853v1)|null|
-|**2022-11-23**|**Data-driven Feature Tracking for Event Cameras**|Nico Messikommer et.al.|[2211.12826v1](http://arxiv.org/abs/2211.12826v1)|null|
-|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|[link](https://github.com/fcjian/AeDet)|
-|**2022-11-22**|**Euclid: Modelling massive neutrinos in cosmology -- a code comparison**|J. Adamek et.al.|[2211.12457v1](http://arxiv.org/abs/2211.12457v1)|null|
-|**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
-|**2022-11-22**|**Multi-task Learning for Camera Calibration**|Talha Hanif Butt et.al.|[2211.12432v2](http://arxiv.org/abs/2211.12432v2)|[link](https://github.com/thanif/Camera-Calibration-through-Camera-Projection-Loss)|
