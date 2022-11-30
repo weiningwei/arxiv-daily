@@ -7,7 +7,7 @@
 |**2022-11-28**|**Underdetermined Polarimetric Measurements for Mueller Extrapolations**|Quinn Jarecki et.al.|[2211.15543v1](http://arxiv.org/abs/2211.15543v1)|null|
 |**2022-11-28**|**Graph Convolutional Network for Multi-Target Multi-Camera Vehicle Tracking**|Elena Luna et.al.|[2211.15538v1](http://arxiv.org/abs/2211.15538v1)|null|
 |**2022-11-28**|**Environment-based Assistance Modulation for a Hip Exosuit via Computer Vision**|Enrica Tricomi et.al.|[2211.15346v1](http://arxiv.org/abs/2211.15346v1)|null|
-|**2022-11-28**|**Meet-in-the-middle: Multi-scale upsampling and matching \\ for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v1](http://arxiv.org/abs/2211.15225v1)|null|
+|**2022-11-28**|**Meet-in-the-middle: Multi-scale upsampling and matching for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v2](http://arxiv.org/abs/2211.15225v2)|null|
 |**2022-11-28**|**Toward Global Sensing Quality Maximization: A Configuration Optimization Scheme for Camera Networks**|Xuechao Zhang et.al.|[2211.15166v1](http://arxiv.org/abs/2211.15166v1)|[link](https://github.com/sszxc/multicam-simulation)|
 |**2022-11-28**|**A Light Touch Approach to Teaching Transformers Multi-view Geometry**|Yash Bhalgat et.al.|[2211.15107v1](http://arxiv.org/abs/2211.15107v1)|null|
 |**2022-11-28**|**Learning Dense Object Descriptors from Multiple Views for Low-shot Category Generalization**|Stefan Stojanov et.al.|[2211.15059v1](http://arxiv.org/abs/2211.15059v1)|[link](https://github.com/rehg-lab/dope_selfsup)|
