@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-29**|**Activity induced trapping in a saw-tooth ratchet potential**|M Muhsin et.al.|[2211.15994v1](http://arxiv.org/abs/2211.15994v1)|null|
+|**2022-11-28**|**A Cartesian-octree adaptive front-tracking solver for immersed biological capsules in large complex domains**|Damien P. Huet et.al.|[2211.15814v1](http://arxiv.org/abs/2211.15814v1)|null|
 |**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
 |**2022-11-27**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v2](http://arxiv.org/abs/2211.14731v2)|null|
 |**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
@@ -30,5 +32,3 @@
 |**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|
 |**2022-11-15**|**Inverse energy cascade in two-dimensional quantum turbulence in a fluid of light**|Myrann Abobaker et.al.|[2211.08441v1](http://arxiv.org/abs/2211.08441v1)|null|
 |**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
-|**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
-|**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v1](http://arxiv.org/abs/2211.06548v1)|null|
