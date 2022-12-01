@@ -5,7 +5,7 @@
 |**2022-11-29**|**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**|Gwanghyun Kim et.al.|[2211.16374v1](http://arxiv.org/abs/2211.16374v1)|null|
 |**2022-11-29**|**TF-Net: Deep Learning Empowered Tiny Feature Network for Night-time UAV Detection**|Maham Misbah et.al.|[2211.16317v1](http://arxiv.org/abs/2211.16317v1)|null|
 |**2022-11-29**|**PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**|Hartmut Surmann et.al.|[2211.16266v1](http://arxiv.org/abs/2211.16266v1)|[link](https://github.com/roblabwh/patchmatch)|
-|**2022-11-29**|**AdaEnlight: Energy-aware Low-light Video Stream Enhancement on Mobile Devices**|Sicong Liu et.al.|[2211.16135v1](http://arxiv.org/abs/2211.16135v1)|null|
+|**2022-11-29**|**AdaEnlight: Energy-aware Low-light Video Stream Enhancement on Mobile Devices**|Sicong Liu et.al.|[2211.16135v2](http://arxiv.org/abs/2211.16135v2)|null|
 |**2022-11-29**|**Advanced Radio Frequency Timing AppaRATus (ARARAT) Technique and Applications**|Ani Aprahamian et.al.|[2211.16091v1](http://arxiv.org/abs/2211.16091v1)|null|
 |**2022-11-29**|**Learn to See Faster: Pushing the Limits of High-Speed Camera with Deep Underexposed Image Denoising**|Weihao Zhuang et.al.|[2211.16034v1](http://arxiv.org/abs/2211.16034v1)|null|
 |**2022-11-29**|**The performance of the MAGIC telescopes using deep convolutional neural networks with CTLearn**|T. Miener et.al.|[2211.16009v1](http://arxiv.org/abs/2211.16009v1)|null|
