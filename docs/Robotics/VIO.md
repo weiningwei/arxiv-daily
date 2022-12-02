@@ -2,7 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Inertial evolution of non-linear viscoelastic solids in the face of (self-)collision**|Antonín Češík et.al.|[2212.00705v1](http://arxiv.org/abs/2212.00705v1)|null|
+|**2022-12-01**|**Universal scaling regimes in rotating fluid turbulence**|Abhik Basu et.al.|[2212.00372v1](http://arxiv.org/abs/2212.00372v1)|null|
+|**2022-12-01**|**Taylor-Couette flow of hard-sphere suspensions: Overview of current understanding**|Lina Baroudi et.al.|[2212.00205v1](http://arxiv.org/abs/2212.00205v1)|null|
 |**2022-11-30**|**Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**|Ke Zhou et.al.|[2211.17236v1](http://arxiv.org/abs/2211.17236v1)|null|
+|**2022-11-30**|**Data-driven Science and Machine Learning Methods in Laser-Plasma Physics**|Andreas Döpp et.al.|[2212.00026v1](http://arxiv.org/abs/2212.00026v1)|null|
 |**2022-11-30**|**Double layers in the Earth's bow shock**|Jiepu Sun et.al.|[2211.16672v1](http://arxiv.org/abs/2211.16672v1)|null|
 |**2022-11-29**|**Activity induced trapping in a saw-tooth ratchet potential**|M Muhsin et.al.|[2211.15994v1](http://arxiv.org/abs/2211.15994v1)|null|
 |**2022-11-28**|**A Cartesian-octree adaptive front-tracking solver for immersed biological capsules in large complex domains**|Damien P. Huet et.al.|[2211.15814v1](http://arxiv.org/abs/2211.15814v1)|null|
@@ -28,7 +32,3 @@
 |**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
 |**2022-11-18**|**Metastable Carbon at Extreme Conditions**|Ashley S. Williams et.al.|[2211.09974v1](http://arxiv.org/abs/2211.09974v1)|null|
 |**2022-11-17**|**Inertial Force Transmission in Dense Granular Flows**|Matthew Macaulay et.al.|[2211.09946v1](http://arxiv.org/abs/2211.09946v1)|null|
-|**2022-11-17**|**The change in the direction of the electric field using the Lorentz-type transformation**|Anuj Kumar Dubey et.al.|[2211.10417v1](http://arxiv.org/abs/2211.10417v1)|null|
-|**2022-11-17**|**Direct transition to elastoinertial turbulence from a linear instability in channel flow**|Lu Zhu et.al.|[2211.09366v1](http://arxiv.org/abs/2211.09366v1)|null|
-|**2022-11-17**|**iNavFIter-M: Matrix Formulation of Functional Iteration for Inertial Navigation Computation**|Hongyan Jiang et.al.|[2211.09332v1](http://arxiv.org/abs/2211.09332v1)|null|
-|**2022-11-16**|**Linear stability analysis of purely elastic travelling wave solutions in pressure driven channel flows**|Martin Lellep et.al.|[2211.09063v1](http://arxiv.org/abs/2211.09063v1)|null|

@@ -2,7 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**|Haochen Wang et.al.|[2212.00774v1](http://arxiv.org/abs/2212.00774v1)|[link](https://github.com/pals-ttic/sjc)|
+|**2022-12-01**|**SImMER: A Pipeline for Reducing and Analyzing Images of Stars**|Arjun B. Savel et.al.|[2212.00641v1](http://arxiv.org/abs/2212.00641v1)|null|
+|**2022-12-01**|**BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection**|Jianing Li et.al.|[2212.00623v1](http://arxiv.org/abs/2212.00623v1)|null|
+|**2022-12-01**|**ViewNeRF: Unsupervised Viewpoint Estimation Using Category-Level Neural Radiance Fields**|Octave Mariotti et.al.|[2212.00436v1](http://arxiv.org/abs/2212.00436v1)|null|
+|**2022-12-01**|**ViewNet: Unsupervised Viewpoint Estimation from Conditional Generation**|Octave Mariotti et.al.|[2212.00435v1](http://arxiv.org/abs/2212.00435v1)|null|
+|**2022-12-01**|**Motion Informed Object Detection of Small Insects in Time-lapse Camera Recordings**|Kim Bjerge et.al.|[2212.00423v1](http://arxiv.org/abs/2212.00423v1)|null|
+|**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
+|**2022-11-30**|**The lstMCpipe library**|Enrique Garcia et.al.|[2212.00120v1](http://arxiv.org/abs/2212.00120v1)|null|
 |**2022-11-30**|**Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**|Ke Zhou et.al.|[2211.17236v1](http://arxiv.org/abs/2211.17236v1)|null|
+|**2022-11-30**|**Multi-scale gigapixel microscopy using a multi-camera array microscope**|Mark Harfouche et.al.|[2212.00027v1](http://arxiv.org/abs/2212.00027v1)|null|
 |**2022-11-30**|**Semi-supervised Learning of Perceptual Video Quality by Generating Consistent Pairwise Pseudo-Ranks**|Shankhanil Mitra et.al.|[2211.17075v1](http://arxiv.org/abs/2211.17075v1)|null|
 |**2022-11-30**|**Towards Interpreting Vulnerability of Multi-Instance Learning via Customized and Universal Adversarial Perturbations**|Yu-Xuan Zhang et.al.|[2211.17071v1](http://arxiv.org/abs/2211.17071v1)|[link](https://github.com/inkiinki/mi-uap)|
 |**2022-11-30**|**A data set providing synthetic and real-world fisheye video sequences**|Andrea Eichenseer et.al.|[2211.17030v1](http://arxiv.org/abs/2211.17030v1)|null|
@@ -23,12 +32,3 @@
 |**2022-11-29**|**AdaEnlight: Energy-aware Low-light Video Stream Enhancement on Mobile Devices**|Sicong Liu et.al.|[2211.16135v2](http://arxiv.org/abs/2211.16135v2)|null|
 |**2022-11-29**|**Advanced Radio Frequency Timing AppaRATus (ARARAT) Technique and Applications**|Ani Aprahamian et.al.|[2211.16091v1](http://arxiv.org/abs/2211.16091v1)|null|
 |**2022-11-29**|**Learn to See Faster: Pushing the Limits of High-Speed Camera with Deep Underexposed Image Denoising**|Weihao Zhuang et.al.|[2211.16034v1](http://arxiv.org/abs/2211.16034v1)|null|
-|**2022-11-29**|**The performance of the MAGIC telescopes using deep convolutional neural networks with CTLearn**|T. Miener et.al.|[2211.16009v1](http://arxiv.org/abs/2211.16009v1)|null|
-|**2022-11-29**|**SparsePose: Sparse-View Camera Pose Regression and Refinement**|Samarth Sinha et.al.|[2211.16991v1](http://arxiv.org/abs/2211.16991v1)|null|
-|**2022-11-29**|**Effective Utilisation of Multiple Open-Source Datasets to Improve Generalisation Performance of Point Cloud Segmentation Models**|Matthew Howe et.al.|[2211.15877v1](http://arxiv.org/abs/2211.15877v1)|null|
-|**2022-11-29**|**Instance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances**|Jacob Krantz et.al.|[2211.15876v1](http://arxiv.org/abs/2211.15876v1)|null|
-|**2022-11-28**|**Oxygen line in fireball spectra and its application to satellite observations**|V. Vojáček et.al.|[2211.15793v1](http://arxiv.org/abs/2211.15793v1)|null|
-|**2022-11-28**|**Deep Learning-Driven Edge Video Analytics: A Survey**|Renjie Xu et.al.|[2211.15751v1](http://arxiv.org/abs/2211.15751v1)|null|
-|**2022-11-28**|**SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**|Hao Dong et.al.|[2211.15656v1](http://arxiv.org/abs/2211.15656v1)|[link](https://github.com/haomo-ai/superfusion)|
-|**2022-11-28**|**Hubble Space Telescope transmission spectroscopy for the temperate sub-Neptune TOI-270d: a possible hydrogen-rich atmosphere containing water vapour**|Thomas Mikal-Evans et.al.|[2211.15576v1](http://arxiv.org/abs/2211.15576v1)|null|
-|**2022-11-28**|**Underdetermined Polarimetric Measurements for Mueller Extrapolations**|Quinn Jarecki et.al.|[2211.15543v1](http://arxiv.org/abs/2211.15543v1)|null|
