@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-12-01**|**Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**|Haochen Wang et.al.|[2212.00774v1](http://arxiv.org/abs/2212.00774v1)|[link](https://github.com/pals-ttic/sjc)|
-|**2022-12-01**|**SImMER: A Pipeline for Reducing and Analyzing Images of Stars**|Arjun B. Savel et.al.|[2212.00641v1](http://arxiv.org/abs/2212.00641v1)|null|
+|**2022-12-01**|**SImMER: A Pipeline for Reducing and Analyzing Images of Stars**|Arjun B. Savel et.al.|[2212.00641v1](http://arxiv.org/abs/2212.00641v1)|[link](https://github.com/arjunsavel/SImMER)|
 |**2022-12-01**|**BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection**|Jianing Li et.al.|[2212.00623v1](http://arxiv.org/abs/2212.00623v1)|null|
 |**2022-12-01**|**ViewNeRF: Unsupervised Viewpoint Estimation Using Category-Level Neural Radiance Fields**|Octave Mariotti et.al.|[2212.00436v1](http://arxiv.org/abs/2212.00436v1)|null|
 |**2022-12-01**|**ViewNet: Unsupervised Viewpoint Estimation from Conditional Generation**|Octave Mariotti et.al.|[2212.00435v1](http://arxiv.org/abs/2212.00435v1)|null|
@@ -18,7 +18,7 @@
 |**2022-11-30**|**A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection**|Andrea Eichenseer et.al.|[2211.16995v1](http://arxiv.org/abs/2211.16995v1)|null|
 |**2022-11-30**|**Coding of distortion-corrected fisheye video sequences using H.265/HEVC**|Andrea Eichenseer et.al.|[2211.16967v1](http://arxiv.org/abs/2211.16967v1)|null|
 |**2022-11-30**|**Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR**|Peishan Cong et.al.|[2211.16951v1](http://arxiv.org/abs/2211.16951v1)|null|
-|**2022-11-30**|**VideoDubber: Machine Translation with Speech-Aware Length Control for Video Dubbing**|Yihan Wu et.al.|[2211.16934v1](http://arxiv.org/abs/2211.16934v1)|null|
+|**2022-11-30**|**VideoDubber: Machine Translation with Speech-Aware Length Control for Video Dubbing**|Yihan Wu et.al.|[2211.16934v1](http://arxiv.org/abs/2211.16934v1)|[link](https://github.com/microsoft/NeuralSpeech)|
 |**2022-11-30**|**Learning Motion-Robust Remote Photoplethysmography through Arbitrary Resolution Videos**|Jianwei Li et.al.|[2211.16922v2](http://arxiv.org/abs/2211.16922v2)|[link](https://github.com/ljw-git/arbitrary_resolution_rppg)|
 |**2022-11-30**|**MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**|Pranjali Pathre et.al.|[2211.16882v1](http://arxiv.org/abs/2211.16882v1)|null|
 |**2022-11-30**|**NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction**|Bin Tan et.al.|[2211.16799v1](http://arxiv.org/abs/2211.16799v1)|[link](https://github.com/icetttb/nopesac)|
