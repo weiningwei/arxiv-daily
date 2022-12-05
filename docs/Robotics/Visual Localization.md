@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-02**|**Neural Radiance Fields for Manhattan Scenes with Unknown Manhattan Frame**|Nikola Popovic et.al.|[2212.01331v1](http://arxiv.org/abs/2212.01331v1)|null|
+|**2022-12-02**|**CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion**|Tobias Fischer et.al.|[2212.01247v1](http://arxiv.org/abs/2212.01247v1)|null|
+|**2022-12-02**|**BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks**|Xiaowei Chi et.al.|[2212.01231v1](http://arxiv.org/abs/2212.01231v1)|null|
+|**2022-12-02**|**Diver Interest via Pointing: Human-Directed Object Inspection for AUVs**|Chelsey Edge et.al.|[2212.01205v1](http://arxiv.org/abs/2212.01205v1)|null|
+|**2022-12-02**|**Disparity estimation for fisheye images with an application to intermediate view synthesis**|Andrea Eichenseer et.al.|[2212.01167v1](http://arxiv.org/abs/2212.01167v1)|null|
+|**2022-12-02**|**Motion estimation for fisheye video sequences combining perspective projection with camera calibration information**|Andrea Eichenseer et.al.|[2212.01164v1](http://arxiv.org/abs/2212.01164v1)|null|
+|**2022-12-02**|**High-Res Facial Appearance Capture from Polarized Smartphone Images**|Dejan Azinović et.al.|[2212.01160v1](http://arxiv.org/abs/2212.01160v1)|null|
+|**2022-12-02**|**Single-shot ToF sensing with sub-mm precision using conventional CMOS sensors**|Manuel Ballester et.al.|[2212.00928v1](http://arxiv.org/abs/2212.00928v1)|null|
+|**2022-12-02**|**Private Multiparty Perception for Navigation**|Hui Lu et.al.|[2212.00912v1](http://arxiv.org/abs/2212.00912v1)|null|
 |**2022-12-01**|**Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**|Haochen Wang et.al.|[2212.00774v1](http://arxiv.org/abs/2212.00774v1)|[link](https://github.com/pals-ttic/sjc)|
 |**2022-12-01**|**SImMER: A Pipeline for Reducing and Analyzing Images of Stars**|Arjun B. Savel et.al.|[2212.00641v1](http://arxiv.org/abs/2212.00641v1)|[link](https://github.com/arjunsavel/SImMER)|
 |**2022-12-01**|**BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection**|Jianing Li et.al.|[2212.00623v1](http://arxiv.org/abs/2212.00623v1)|null|
@@ -23,12 +32,3 @@
 |**2022-11-30**|**MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**|Pranjali Pathre et.al.|[2211.16882v1](http://arxiv.org/abs/2211.16882v1)|null|
 |**2022-11-30**|**NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction**|Bin Tan et.al.|[2211.16799v1](http://arxiv.org/abs/2211.16799v1)|[link](https://github.com/icetttb/nopesac)|
 |**2022-11-30**|**Dynamically Finding Optimal Observer States to Minimize Localization Error with Complex State-Dependent Noise**|Troi Williams et.al.|[2211.16721v1](http://arxiv.org/abs/2211.16721v1)|null|
-|**2022-11-29**|**Transcervical Ultrasound Image Guidance System for Transoral Robotic Surgery**|Wanwen Chen et.al.|[2211.16544v1](http://arxiv.org/abs/2211.16544v1)|null|
-|**2022-11-29**|**First release of PLATO consortium stellar limb-darkening coefficients**|Giuseppe Morello et.al.|[2211.16510v1](http://arxiv.org/abs/2211.16510v1)|null|
-|**2022-11-29**|**A Geometric Model for Polarization Imaging on Projective Cameras**|Mara Pistellato et.al.|[2211.16986v1](http://arxiv.org/abs/2211.16986v1)|null|
-|**2022-11-29**|**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**|Gwanghyun Kim et.al.|[2211.16374v1](http://arxiv.org/abs/2211.16374v1)|null|
-|**2022-11-29**|**TF-Net: Deep Learning Empowered Tiny Feature Network for Night-time UAV Detection**|Maham Misbah et.al.|[2211.16317v1](http://arxiv.org/abs/2211.16317v1)|null|
-|**2022-11-29**|**PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**|Hartmut Surmann et.al.|[2211.16266v1](http://arxiv.org/abs/2211.16266v1)|[link](https://github.com/roblabwh/patchmatch)|
-|**2022-11-29**|**AdaEnlight: Energy-aware Low-light Video Stream Enhancement on Mobile Devices**|Sicong Liu et.al.|[2211.16135v2](http://arxiv.org/abs/2211.16135v2)|null|
-|**2022-11-29**|**Advanced Radio Frequency Timing AppaRATus (ARARAT) Technique and Applications**|Ani Aprahamian et.al.|[2211.16091v1](http://arxiv.org/abs/2211.16091v1)|null|
-|**2022-11-29**|**Learn to See Faster: Pushing the Limits of High-Speed Camera with Deep Underexposed Image Denoising**|Weihao Zhuang et.al.|[2211.16034v1](http://arxiv.org/abs/2211.16034v1)|null|

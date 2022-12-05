@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-02**|**Is bound entanglement Lorentz invariant?**|Paweł Caban et.al.|[2212.01286v1](http://arxiv.org/abs/2212.01286v1)|null|
 |**2022-12-01**|**Inertial evolution of non-linear viscoelastic solids in the face of (self-)collision**|Antonín Češík et.al.|[2212.00705v1](http://arxiv.org/abs/2212.00705v1)|null|
 |**2022-12-01**|**Universal scaling regimes in rotating fluid turbulence**|Abhik Basu et.al.|[2212.00372v1](http://arxiv.org/abs/2212.00372v1)|null|
 |**2022-12-01**|**Taylor-Couette flow of hard-sphere suspensions: Overview of current understanding**|Lina Baroudi et.al.|[2212.00205v1](http://arxiv.org/abs/2212.00205v1)|null|
@@ -31,4 +32,3 @@
 |**2022-11-18**|**GNS: A generalizable Graph Neural Network-based simulator for particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
 |**2022-11-18**|**Accelerated gradient methods with strong convergence to the minimum norm minimizer: a dynamic approach combining time scaling, averaging, and Tikhonov regularization**|Hedy Attouch et.al.|[2211.10140v1](http://arxiv.org/abs/2211.10140v1)|null|
 |**2022-11-18**|**Metastable Carbon at Extreme Conditions**|Ashley S. Williams et.al.|[2211.09974v1](http://arxiv.org/abs/2211.09974v1)|null|
-|**2022-11-17**|**Inertial Force Transmission in Dense Granular Flows**|Matthew Macaulay et.al.|[2211.09946v1](http://arxiv.org/abs/2211.09946v1)|null|
