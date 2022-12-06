@@ -28,7 +28,7 @@
 |**2022-11-30**|**Coding of distortion-corrected fisheye video sequences using H.265/HEVC**|Andrea Eichenseer et.al.|[2211.16967v1](http://arxiv.org/abs/2211.16967v1)|null|
 |**2022-11-30**|**Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR**|Peishan Cong et.al.|[2211.16951v1](http://arxiv.org/abs/2211.16951v1)|null|
 |**2022-11-30**|**VideoDubber: Machine Translation with Speech-Aware Length Control for Video Dubbing**|Yihan Wu et.al.|[2211.16934v1](http://arxiv.org/abs/2211.16934v1)|[link](https://github.com/microsoft/NeuralSpeech)|
-|**2022-11-30**|**Learning Motion-Robust Remote Photoplethysmography through Arbitrary Resolution Videos**|Jianwei Li et.al.|[2211.16922v2](http://arxiv.org/abs/2211.16922v2)|[link](https://github.com/ljw-git/arbitrary_resolution_rppg)|
+|**2022-11-30**|**Learning Motion-Robust Remote Photoplethysmography through Arbitrary Resolution Videos**|Jianwei Li et.al.|[2211.16922v3](http://arxiv.org/abs/2211.16922v3)|[link](https://github.com/ljw-git/arbitrary_resolution_rppg)|
 |**2022-11-30**|**MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**|Pranjali Pathre et.al.|[2211.16882v1](http://arxiv.org/abs/2211.16882v1)|null|
 |**2022-11-30**|**NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction**|Bin Tan et.al.|[2211.16799v1](http://arxiv.org/abs/2211.16799v1)|[link](https://github.com/icetttb/nopesac)|
 |**2022-11-30**|**Dynamically Finding Optimal Observer States to Minimize Localization Error with Complex State-Dependent Noise**|Troi Williams et.al.|[2211.16721v1](http://arxiv.org/abs/2211.16721v1)|null|
