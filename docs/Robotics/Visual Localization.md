@@ -2,6 +2,28 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-05**|**Framework for 2D Ad placements in LinearTV**|Divya Bhargavi et.al.|[2212.02450v1](http://arxiv.org/abs/2212.02450v1)|null|
+|**2022-12-05**|**Generalizable Person Re-Identification via Viewpoint Alignment and Fusion**|Bingliang Jiao et.al.|[2212.02398v1](http://arxiv.org/abs/2212.02398v1)|null|
+|**2022-12-05**|**Single image calibration using knowledge distillation approaches**|Khadidja Ould Amer et.al.|[2212.02379v1](http://arxiv.org/abs/2212.02379v1)|null|
+|**2022-12-05**|**Observation of night-time emissions of the Earth in the near UV range from the International Space Station with the Mini-EUSO detector**|M. Casolino et.al.|[2212.02353v1](http://arxiv.org/abs/2212.02353v1)|null|
+|**2022-12-05**|**Audio-Driven Co-Speech Gesture Video Generation**|Xian Liu et.al.|[2212.02350v1](http://arxiv.org/abs/2212.02350v1)|null|
+|**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal et.al.|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
+|**2022-12-05**|**Learning to See Through with Events**|Lei Yu et.al.|[2212.02219v1](http://arxiv.org/abs/2212.02219v1)|null|
+|**2022-12-05**|**Minimum Latency Deep Online Video Stabilization**|Zhuofan Zhang et.al.|[2212.02073v1](http://arxiv.org/abs/2212.02073v1)|null|
+|**2022-12-05**|**Photonic Radar for Contactless Vital Sign Detection**|Ziqian Zhang et.al.|[2212.02067v1](http://arxiv.org/abs/2212.02067v1)|null|
+|**2022-12-05**|**ObjectMatch: Robust Registration using Canonical Object Correspondences**|Can Gümeli et.al.|[2212.01985v1](http://arxiv.org/abs/2212.01985v1)|null|
+|**2022-12-05**|**The JCMT BISTRO-2 Survey: Magnetic Fields of the Massive DR21 Filament**|Tao-Chung Ching et.al.|[2212.01981v1](http://arxiv.org/abs/2212.01981v1)|null|
+|**2022-12-04**|**Grounded Keys-to-Text Generation: Towards Factual Open-Ended Generation**|Faeze Brahman et.al.|[2212.01956v1](http://arxiv.org/abs/2212.01956v1)|null|
+|**2022-12-04**|**Tragic Talkers: A Shakespearean Sound- and Light-Field Dataset for Audio-Visual Machine Learning Research**|Davide Berghi et.al.|[2212.01892v1](http://arxiv.org/abs/2212.01892v1)|null|
+|**2022-12-04**|**Fast and Lightweight Scene Regressor for Camera Relocalization**|Thuan B. Bui et.al.|[2212.01830v1](http://arxiv.org/abs/2212.01830v1)|[link](https://github.com/ais-lab/feat2map)|
+|**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
+|**2022-12-03**|**XTENTH-CAR: A Proportionally Scaled Experimental Vehicle Platform for Connected Autonomy and All-Terrain Research**|Shathushan Sivashangaran et.al.|[2212.01691v1](http://arxiv.org/abs/2212.01691v1)|null|
+|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672v1](http://arxiv.org/abs/2212.01672v1)|null|
+|**2022-12-03**|**A dataset for audio-video based vehicle speed estimation**|Slobodan Djukanović et.al.|[2212.01651v1](http://arxiv.org/abs/2212.01651v1)|null|
+|**2022-12-03**|**Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests**|Christopher Beckham et.al.|[2212.01639v1](http://arxiv.org/abs/2212.01639v1)|[link](https://github.com/christopher-beckham/clevr-mrt)|
+|**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|null|
+|**2022-12-03**|**Average degree of the essential variety**|Paul Breiding et.al.|[2212.01596v1](http://arxiv.org/abs/2212.01596v1)|null|
+|**2022-12-03**|**Autonomous Apple Fruitlet Sizing and Growth Rate Tracking using Computer Vision**|Harry Freeman et.al.|[2212.01506v1](http://arxiv.org/abs/2212.01506v1)|null|
 |**2022-12-02**|**Neural Radiance Fields for Manhattan Scenes with Unknown Manhattan Frame**|Nikola Popovic et.al.|[2212.01331v1](http://arxiv.org/abs/2212.01331v1)|null|
 |**2022-12-02**|**CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion**|Tobias Fischer et.al.|[2212.01247v1](http://arxiv.org/abs/2212.01247v1)|null|
 |**2022-12-02**|**BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks**|Xiaowei Chi et.al.|[2212.01231v1](http://arxiv.org/abs/2212.01231v1)|null|
@@ -10,25 +32,3 @@
 |**2022-12-02**|**Motion estimation for fisheye video sequences combining perspective projection with camera calibration information**|Andrea Eichenseer et.al.|[2212.01164v1](http://arxiv.org/abs/2212.01164v1)|null|
 |**2022-12-02**|**High-Res Facial Appearance Capture from Polarized Smartphone Images**|Dejan Azinović et.al.|[2212.01160v1](http://arxiv.org/abs/2212.01160v1)|null|
 |**2022-12-02**|**Single-shot ToF sensing with sub-mm precision using conventional CMOS sensors**|Manuel Ballester et.al.|[2212.00928v1](http://arxiv.org/abs/2212.00928v1)|null|
-|**2022-12-02**|**Private Multiparty Perception for Navigation**|Hui Lu et.al.|[2212.00912v1](http://arxiv.org/abs/2212.00912v1)|null|
-|**2022-12-01**|**Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**|Haochen Wang et.al.|[2212.00774v1](http://arxiv.org/abs/2212.00774v1)|[link](https://github.com/pals-ttic/sjc)|
-|**2022-12-01**|**SImMER: A Pipeline for Reducing and Analyzing Images of Stars**|Arjun B. Savel et.al.|[2212.00641v1](http://arxiv.org/abs/2212.00641v1)|[link](https://github.com/arjunsavel/SImMER)|
-|**2022-12-01**|**BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection**|Jianing Li et.al.|[2212.00623v1](http://arxiv.org/abs/2212.00623v1)|null|
-|**2022-12-01**|**ViewNeRF: Unsupervised Viewpoint Estimation Using Category-Level Neural Radiance Fields**|Octave Mariotti et.al.|[2212.00436v1](http://arxiv.org/abs/2212.00436v1)|null|
-|**2022-12-01**|**ViewNet: Unsupervised Viewpoint Estimation from Conditional Generation**|Octave Mariotti et.al.|[2212.00435v1](http://arxiv.org/abs/2212.00435v1)|null|
-|**2022-12-01**|**Motion Informed Object Detection of Small Insects in Time-lapse Camera Recordings**|Kim Bjerge et.al.|[2212.00423v1](http://arxiv.org/abs/2212.00423v1)|null|
-|**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
-|**2022-11-30**|**The lstMCpipe library**|Enrique Garcia et.al.|[2212.00120v1](http://arxiv.org/abs/2212.00120v1)|null|
-|**2022-11-30**|**Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**|Ke Zhou et.al.|[2211.17236v1](http://arxiv.org/abs/2211.17236v1)|null|
-|**2022-11-30**|**Multi-scale gigapixel microscopy using a multi-camera array microscope**|Mark Harfouche et.al.|[2212.00027v1](http://arxiv.org/abs/2212.00027v1)|null|
-|**2022-11-30**|**Semi-supervised Learning of Perceptual Video Quality by Generating Consistent Pairwise Pseudo-Ranks**|Shankhanil Mitra et.al.|[2211.17075v1](http://arxiv.org/abs/2211.17075v1)|null|
-|**2022-11-30**|**Towards Interpreting Vulnerability of Multi-Instance Learning via Customized and Universal Adversarial Perturbations**|Yu-Xuan Zhang et.al.|[2211.17071v1](http://arxiv.org/abs/2211.17071v1)|[link](https://github.com/inkiinki/mi-uap)|
-|**2022-11-30**|**A data set providing synthetic and real-world fisheye video sequences**|Andrea Eichenseer et.al.|[2211.17030v1](http://arxiv.org/abs/2211.17030v1)|null|
-|**2022-11-30**|**A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection**|Andrea Eichenseer et.al.|[2211.16995v1](http://arxiv.org/abs/2211.16995v1)|null|
-|**2022-11-30**|**Coding of distortion-corrected fisheye video sequences using H.265/HEVC**|Andrea Eichenseer et.al.|[2211.16967v1](http://arxiv.org/abs/2211.16967v1)|null|
-|**2022-11-30**|**Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR**|Peishan Cong et.al.|[2211.16951v1](http://arxiv.org/abs/2211.16951v1)|null|
-|**2022-11-30**|**VideoDubber: Machine Translation with Speech-Aware Length Control for Video Dubbing**|Yihan Wu et.al.|[2211.16934v1](http://arxiv.org/abs/2211.16934v1)|[link](https://github.com/microsoft/NeuralSpeech)|
-|**2022-11-30**|**Learning Motion-Robust Remote Photoplethysmography through Arbitrary Resolution Videos**|Jianwei Li et.al.|[2211.16922v3](http://arxiv.org/abs/2211.16922v3)|[link](https://github.com/ljw-git/arbitrary_resolution_rppg)|
-|**2022-11-30**|**MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**|Pranjali Pathre et.al.|[2211.16882v1](http://arxiv.org/abs/2211.16882v1)|null|
-|**2022-11-30**|**NOPE-SAC: Neural One-Plane RANSAC for Sparse-View Planar 3D Reconstruction**|Bin Tan et.al.|[2211.16799v1](http://arxiv.org/abs/2211.16799v1)|[link](https://github.com/icetttb/nopesac)|
-|**2022-11-30**|**Dynamically Finding Optimal Observer States to Minimize Localization Error with Complex State-Dependent Noise**|Troi Williams et.al.|[2211.16721v1](http://arxiv.org/abs/2211.16721v1)|null|

@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v1](http://arxiv.org/abs/2212.02085v1)|null|
+|**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
 |**2022-11-27**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v2](http://arxiv.org/abs/2211.14731v2)|null|
 |**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
@@ -30,5 +32,3 @@
 |**2022-10-18**|**Vision-based GNSS-Free Localization for UAVs in the Wild**|Marius-Mihail Gurgu et.al.|[2210.09727v1](http://arxiv.org/abs/2210.09727v1)|[link](https://github.com/tiers/wildnav)|
 |**2022-10-15**|**Bearing-based Relative Localization for Robotic Swarm with Partially Mutual Observations**|Yingjian Wang et.al.|[2210.08265v1](http://arxiv.org/abs/2210.08265v1)|null|
 |**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v2](http://arxiv.org/abs/2210.07435v2)|null|
-|**2022-10-10**|**Dynamic Gap: Formal Guarantees for Safe Gap-based Navigation in Dynamic Environments**|Max Asselmeier et.al.|[2210.05022v1](http://arxiv.org/abs/2210.05022v1)|null|
-|**2022-10-05**|**TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags**|Bardienus P Duisterhof et.al.|[2210.02511v1](http://arxiv.org/abs/2210.02511v1)|null|
