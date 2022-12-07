@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-06**|**Perspective Fields for Single Image Camera Calibration**|Linyi Jin et.al.|[2212.03239v1](http://arxiv.org/abs/2212.03239v1)|null|
+|**2022-12-06**|**Supervised Image Segmentation for High Dynamic Range Imaging**|Ali Reza Omrani et.al.|[2212.03002v1](http://arxiv.org/abs/2212.03002v1)|null|
+|**2022-12-06**|**PRISM: Probabilistic Real-Time Inference in Spatial World Models**|Atanas Mirchev et.al.|[2212.02988v1](http://arxiv.org/abs/2212.02988v1)|null|
+|**2022-12-06**|**Fourier-space generalized magneto-optical ellipsometry**|Miguel A. Cascales Sandoval et.al.|[2212.02975v1](http://arxiv.org/abs/2212.02975v1)|null|
+|**2022-12-06**|**Event-based Monocular Dense Depth Estimation with Recurrent Transformers**|Xu Liu et.al.|[2212.02791v1](http://arxiv.org/abs/2212.02791v1)|null|
+|**2022-12-06**|**Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds**|Zhipeng Zhao et.al.|[2212.02757v1](http://arxiv.org/abs/2212.02757v1)|null|
 |**2022-12-05**|**Framework for 2D Ad placements in LinearTV**|Divya Bhargavi et.al.|[2212.02450v1](http://arxiv.org/abs/2212.02450v1)|null|
 |**2022-12-05**|**Generalizable Person Re-Identification via Viewpoint Alignment and Fusion**|Bingliang Jiao et.al.|[2212.02398v1](http://arxiv.org/abs/2212.02398v1)|null|
 |**2022-12-05**|**Single image calibration using knowledge distillation approaches**|Khadidja Ould Amer et.al.|[2212.02379v1](http://arxiv.org/abs/2212.02379v1)|null|
@@ -17,6 +23,7 @@
 |**2022-12-04**|**Tragic Talkers: A Shakespearean Sound- and Light-Field Dataset for Audio-Visual Machine Learning Research**|Davide Berghi et.al.|[2212.01892v1](http://arxiv.org/abs/2212.01892v1)|null|
 |**2022-12-04**|**Fast and Lightweight Scene Regressor for Camera Relocalization**|Thuan B. Bui et.al.|[2212.01830v1](http://arxiv.org/abs/2212.01830v1)|[link](https://github.com/ais-lab/feat2map)|
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
+|**2022-12-04**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v1](http://arxiv.org/abs/2212.03177v1)|[link](https://github.com/82magnolia/event_localization)|
 |**2022-12-03**|**XTENTH-CAR: A Proportionally Scaled Experimental Vehicle Platform for Connected Autonomy and All-Terrain Research**|Shathushan Sivashangaran et.al.|[2212.01691v1](http://arxiv.org/abs/2212.01691v1)|null|
 |**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672v1](http://arxiv.org/abs/2212.01672v1)|null|
 |**2022-12-03**|**A dataset for audio-video based vehicle speed estimation**|Slobodan Djukanović et.al.|[2212.01651v1](http://arxiv.org/abs/2212.01651v1)|null|
@@ -25,10 +32,3 @@
 |**2022-12-03**|**Average degree of the essential variety**|Paul Breiding et.al.|[2212.01596v1](http://arxiv.org/abs/2212.01596v1)|null|
 |**2022-12-03**|**Autonomous Apple Fruitlet Sizing and Growth Rate Tracking using Computer Vision**|Harry Freeman et.al.|[2212.01506v1](http://arxiv.org/abs/2212.01506v1)|null|
 |**2022-12-02**|**Neural Radiance Fields for Manhattan Scenes with Unknown Manhattan Frame**|Nikola Popovic et.al.|[2212.01331v1](http://arxiv.org/abs/2212.01331v1)|null|
-|**2022-12-02**|**CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion**|Tobias Fischer et.al.|[2212.01247v1](http://arxiv.org/abs/2212.01247v1)|null|
-|**2022-12-02**|**BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks**|Xiaowei Chi et.al.|[2212.01231v1](http://arxiv.org/abs/2212.01231v1)|null|
-|**2022-12-02**|**Diver Interest via Pointing: Human-Directed Object Inspection for AUVs**|Chelsey Edge et.al.|[2212.01205v1](http://arxiv.org/abs/2212.01205v1)|null|
-|**2022-12-02**|**Disparity estimation for fisheye images with an application to intermediate view synthesis**|Andrea Eichenseer et.al.|[2212.01167v1](http://arxiv.org/abs/2212.01167v1)|null|
-|**2022-12-02**|**Motion estimation for fisheye video sequences combining perspective projection with camera calibration information**|Andrea Eichenseer et.al.|[2212.01164v1](http://arxiv.org/abs/2212.01164v1)|null|
-|**2022-12-02**|**High-Res Facial Appearance Capture from Polarized Smartphone Images**|Dejan Azinović et.al.|[2212.01160v1](http://arxiv.org/abs/2212.01160v1)|null|
-|**2022-12-02**|**Single-shot ToF sensing with sub-mm precision using conventional CMOS sensors**|Manuel Ballester et.al.|[2212.00928v1](http://arxiv.org/abs/2212.00928v1)|null|
