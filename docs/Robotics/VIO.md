@@ -5,7 +5,7 @@
 |**2022-12-05**|**Persistent Laminar Flow at Reynolds Numbers Exceeding 100,000**|John O. Dabiri et.al.|[2212.02488v1](http://arxiv.org/abs/2212.02488v1)|null|
 |**2022-12-05**|**The radial variation of the solar wind turbulence spectra near the kinetic break scale from Parker Solar Probe measurements**|S. Lotz et.al.|[2212.02441v1](http://arxiv.org/abs/2212.02441v1)|null|
 |**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal et.al.|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
-|**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v1](http://arxiv.org/abs/2212.02085v1)|null|
+|**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|null|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-12-04**|**Deformability Affects Vesicle Migration and Entrapment in Vortical Flows**|Gökberk Kabacaoğlu et.al.|[2212.01836v1](http://arxiv.org/abs/2212.01836v1)|null|
 |**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|null|
