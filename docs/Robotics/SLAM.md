@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-06**|**Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles**|Sushant Veer et.al.|[2212.03323v1](http://arxiv.org/abs/2212.03323v1)|null|
 |**2022-12-06**|**PRISM: Probabilistic Real-Time Inference in Spatial World Models**|Atanas Mirchev et.al.|[2212.02988v1](http://arxiv.org/abs/2212.02988v1)|null|
 |**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|[link](https://github.com/tumftm/orb_slam3_rgbl)|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
@@ -31,4 +32,3 @@
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
 |**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
-|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|[link](https://github.com/gabriel-sgama/semantic-superpoint)|

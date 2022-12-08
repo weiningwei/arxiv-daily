@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v1](http://arxiv.org/abs/2212.03858v1)|null|
+|**2022-12-07**|**Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data**|Matthias Zeller et.al.|[2212.03690v1](http://arxiv.org/abs/2212.03690v1)|null|
+|**2022-12-07**|**LSVL: Large-scale season-invariant visual localization for UAVs**|Jouko Kinnari et.al.|[2212.03581v1](http://arxiv.org/abs/2212.03581v1)|null|
+|**2022-12-07**|**DroneAttention: Sparse Weighted Temporal Attention for Drone-Camera Based Activity Recognition**|Santosh Kumar Yadav et.al.|[2212.03384v1](http://arxiv.org/abs/2212.03384v1)|null|
+|**2022-12-07**|**PigV$^2$: Monitoring Pig Vital Signs through Ground Vibrations Induced by Heartbeat and Respiration**|Yiwen Dong et.al.|[2212.03378v1](http://arxiv.org/abs/2212.03378v1)|null|
+|**2022-12-07**|**GaitVibe+: Enhancing Structural Vibration-based Footstep Localization Using Temporary Cameras for In-home Gait Analysis**|Yiwen Dong et.al.|[2212.03377v1](http://arxiv.org/abs/2212.03377v1)|null|
 |**2022-12-06**|**Perspective Fields for Single Image Camera Calibration**|Linyi Jin et.al.|[2212.03239v1](http://arxiv.org/abs/2212.03239v1)|null|
 |**2022-12-06**|**Supervised Image Segmentation for High Dynamic Range Imaging**|Ali Reza Omrani et.al.|[2212.03002v1](http://arxiv.org/abs/2212.03002v1)|null|
 |**2022-12-06**|**PRISM: Probabilistic Real-Time Inference in Spatial World Models**|Atanas Mirchev et.al.|[2212.02988v1](http://arxiv.org/abs/2212.02988v1)|null|
@@ -26,9 +32,3 @@
 |**2022-12-04**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v1](http://arxiv.org/abs/2212.03177v1)|[link](https://github.com/82magnolia/event_localization)|
 |**2022-12-03**|**XTENTH-CAR: A Proportionally Scaled Experimental Vehicle Platform for Connected Autonomy and All-Terrain Research**|Shathushan Sivashangaran et.al.|[2212.01691v1](http://arxiv.org/abs/2212.01691v1)|[link](https://github.com/shathushan-sivashangaran/xtenth-car)|
 |**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672v1](http://arxiv.org/abs/2212.01672v1)|null|
-|**2022-12-03**|**A dataset for audio-video based vehicle speed estimation**|Slobodan Djukanović et.al.|[2212.01651v1](http://arxiv.org/abs/2212.01651v1)|null|
-|**2022-12-03**|**Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests**|Christopher Beckham et.al.|[2212.01639v1](http://arxiv.org/abs/2212.01639v1)|[link](https://github.com/christopher-beckham/clevr-mrt)|
-|**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|[link](https://bitbucket.org/loizoshadjiloizou/ortilo)|
-|**2022-12-03**|**Average degree of the essential variety**|Paul Breiding et.al.|[2212.01596v1](http://arxiv.org/abs/2212.01596v1)|null|
-|**2022-12-03**|**Autonomous Apple Fruitlet Sizing and Growth Rate Tracking using Computer Vision**|Harry Freeman et.al.|[2212.01506v1](http://arxiv.org/abs/2212.01506v1)|null|
-|**2022-12-02**|**Neural Radiance Fields for Manhattan Scenes with Unknown Manhattan Frame**|Nikola Popovic et.al.|[2212.01331v1](http://arxiv.org/abs/2212.01331v1)|null|

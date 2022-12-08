@@ -2,10 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**Energy transfer and third-order law in forced anisotropic MHD turbulence with hyperviscosity**|Bin Jiang et.al.|[2212.03617v1](http://arxiv.org/abs/2212.03617v1)|null|
+|**2022-12-07**|**Support Vector Machine for Determining Euler Angles in an Inertial Navigation System**|Aleksandr N. Grekov et.al.|[2212.03550v1](http://arxiv.org/abs/2212.03550v1)|null|
+|**2022-12-07**|**Dynamical regimes and clustering of small neutrally buoyant inertial particles in stably stratified turbulence**|Christian Reartes et.al.|[2212.03393v1](http://arxiv.org/abs/2212.03393v1)|null|
 |**2022-12-06**|**Proximal methods for point source localisation**|Tuomo Valkonen et.al.|[2212.02991v1](http://arxiv.org/abs/2212.02991v1)|[link](https://zenodo.org/record/7402055)|
 |**2022-12-05**|**Persistent Laminar Flow at Reynolds Numbers Exceeding 100,000**|John O. Dabiri et.al.|[2212.02488v1](http://arxiv.org/abs/2212.02488v1)|null|
 |**2022-12-05**|**The radial variation of the solar wind turbulence spectra near the kinetic break scale from Parker Solar Probe measurements**|S. Lotz et.al.|[2212.02441v1](http://arxiv.org/abs/2212.02441v1)|null|
 |**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal et.al.|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
+|**2022-12-05**|**A Revisit to Lorentz Transformation without Light**|Satadal Datta et.al.|[2212.03706v1](http://arxiv.org/abs/2212.03706v1)|null|
 |**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|[link](https://github.com/tumftm/orb_slam3_rgbl)|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-12-04**|**Deformability Affects Vesicle Migration and Entrapment in Vortical Flows**|Gökberk Kabacaoğlu et.al.|[2212.01836v1](http://arxiv.org/abs/2212.01836v1)|null|
@@ -28,7 +32,3 @@
 |**2022-11-26**|**Topological transitions, turbulent-like motion and long-time-tails driven by cell division in biological tissues**|Xin Li et.al.|[2211.14410v1](http://arxiv.org/abs/2211.14410v1)|null|
 |**2022-11-24**|**Asymptotic Nusselt numbers for internal flow in the Cassie state**|Daniel Kane et.al.|[2211.13751v1](http://arxiv.org/abs/2211.13751v1)|null|
 |**2022-11-24**|**Inverted Sedimentation of Active Particles in Unbiased ac Fields**|José Carlos Ureña Marcos et.al.|[2211.13686v2](http://arxiv.org/abs/2211.13686v2)|null|
-|**2022-11-23**|**Frequency space derivation of linear and non-linear memory gravitational wave signals from eccentric binary orbits**|Arpan Hait et.al.|[2211.13120v1](http://arxiv.org/abs/2211.13120v1)|null|
-|**2022-11-23**|**Topological interpretation for phase transitions of black holes**|Zhong-Ying Fan et.al.|[2211.12957v2](http://arxiv.org/abs/2211.12957v2)|null|
-|**2022-11-22**|**Size polydisperse model Ionic Liquid in bulk**|Somas Singh Urikhinbam et.al.|[2211.12383v1](http://arxiv.org/abs/2211.12383v1)|null|
-|**2022-11-22**|**Design and control of a collision-resilient aerial vehicle with an icosahedron tensegrity structure**|Jiaming Zha et.al.|[2211.12045v1](http://arxiv.org/abs/2211.12045v1)|[link](https://github.com/muellerlab/tensegrityaerialvehiclecollisionsim)|
