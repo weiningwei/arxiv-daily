@@ -24,11 +24,11 @@
 |**2022-12-04**|**Fast and Lightweight Scene Regressor for Camera Relocalization**|Thuan B. Bui et.al.|[2212.01830v1](http://arxiv.org/abs/2212.01830v1)|[link](https://github.com/ais-lab/feat2map)|
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
 |**2022-12-04**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v1](http://arxiv.org/abs/2212.03177v1)|[link](https://github.com/82magnolia/event_localization)|
-|**2022-12-03**|**XTENTH-CAR: A Proportionally Scaled Experimental Vehicle Platform for Connected Autonomy and All-Terrain Research**|Shathushan Sivashangaran et.al.|[2212.01691v1](http://arxiv.org/abs/2212.01691v1)|null|
+|**2022-12-03**|**XTENTH-CAR: A Proportionally Scaled Experimental Vehicle Platform for Connected Autonomy and All-Terrain Research**|Shathushan Sivashangaran et.al.|[2212.01691v1](http://arxiv.org/abs/2212.01691v1)|[link](https://github.com/shathushan-sivashangaran/xtenth-car)|
 |**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672v1](http://arxiv.org/abs/2212.01672v1)|null|
 |**2022-12-03**|**A dataset for audio-video based vehicle speed estimation**|Slobodan Djukanović et.al.|[2212.01651v1](http://arxiv.org/abs/2212.01651v1)|null|
 |**2022-12-03**|**Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests**|Christopher Beckham et.al.|[2212.01639v1](http://arxiv.org/abs/2212.01639v1)|[link](https://github.com/christopher-beckham/clevr-mrt)|
-|**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|null|
+|**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|[link](https://bitbucket.org/loizoshadjiloizou/ortilo)|
 |**2022-12-03**|**Average degree of the essential variety**|Paul Breiding et.al.|[2212.01596v1](http://arxiv.org/abs/2212.01596v1)|null|
 |**2022-12-03**|**Autonomous Apple Fruitlet Sizing and Growth Rate Tracking using Computer Vision**|Harry Freeman et.al.|[2212.01506v1](http://arxiv.org/abs/2212.01506v1)|null|
 |**2022-12-02**|**Neural Radiance Fields for Manhattan Scenes with Unknown Manhattan Frame**|Nikola Popovic et.al.|[2212.01331v1](http://arxiv.org/abs/2212.01331v1)|null|
