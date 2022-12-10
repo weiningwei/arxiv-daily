@@ -14,7 +14,7 @@
 |**2022-12-08**|**Elixir: A system to enhance data quality for multiple analytics on a video stream**|Sibendu Paul et.al.|[2212.04061v1](http://arxiv.org/abs/2212.04061v1)|null|
 |**2022-12-07**|**Multimodal Vision Transformers with Forced Attention for Behavior Analysis**|Tanay Agrawal et.al.|[2212.03968v1](http://arxiv.org/abs/2212.03968v1)|null|
 |**2022-12-07**|**GONG third generation camera: Detector selection and feasibility study**|Sanjay Gosain et.al.|[2212.03963v1](http://arxiv.org/abs/2212.03963v1)|null|
-|**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|null|
+|**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|[link](https://github.com/megvii-research/NAFNet)|
 |**2022-12-07**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v2](http://arxiv.org/abs/2212.03858v2)|null|
 |**2022-12-07**|**Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data**|Matthias Zeller et.al.|[2212.03690v1](http://arxiv.org/abs/2212.03690v1)|null|
 |**2022-12-07**|**LSVL: Large-scale season-invariant visual localization for UAVs**|Jouko Kinnari et.al.|[2212.03581v1](http://arxiv.org/abs/2212.03581v1)|null|
