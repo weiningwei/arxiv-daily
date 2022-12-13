@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
+|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v1](http://arxiv.org/abs/2212.05743v1)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
+|**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
+|**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
 |**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
 |**2022-12-09**|**Logarithmic scaling of higher-order temperature moments in the atmospheric surface layer**|Kelly Y. Huang et.al.|[2212.04987v1](http://arxiv.org/abs/2212.04987v1)|null|
 |**2022-12-09**|**Thermal-Inertial Effects on Relativistic Asymmetric Magnetic Reconnection**|Maricarmen A. Winkler et.al.|[2212.04952v1](http://arxiv.org/abs/2212.04952v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-01**|**Universal scaling regimes in rotating fluid turbulence**|Abhik Basu et.al.|[2212.00372v1](http://arxiv.org/abs/2212.00372v1)|null|
 |**2022-12-01**|**Taylor-Couette flow of hard-sphere suspensions: Overview of current understanding**|Lina Baroudi et.al.|[2212.00205v1](http://arxiv.org/abs/2212.00205v1)|null|
 |**2022-11-30**|**Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**|Ke Zhou et.al.|[2211.17236v1](http://arxiv.org/abs/2211.17236v1)|null|
-|**2022-11-30**|**Data-driven Science and Machine Learning Methods in Laser-Plasma Physics**|Andreas Döpp et.al.|[2212.00026v1](http://arxiv.org/abs/2212.00026v1)|null|
-|**2022-11-30**|**Double layers in the Earth's bow shock**|Jiepu Sun et.al.|[2211.16672v1](http://arxiv.org/abs/2211.16672v1)|null|
-|**2022-11-29**|**Activity induced trapping in a saw-tooth ratchet potential**|M Muhsin et.al.|[2211.15994v1](http://arxiv.org/abs/2211.15994v1)|null|
-|**2022-11-28**|**A Cartesian-octree adaptive front-tracking solver for immersed biological capsules in large complex domains**|Damien P. Huet et.al.|[2211.15814v1](http://arxiv.org/abs/2211.15814v1)|null|

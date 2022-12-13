@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
+|**2022-12-12**|**Dense nitrogen-enriched circumnuclear region of the new high-redshift quasar ULAS J0816+2134 at z=7.46**|Ekaterina Koptelova et.al.|[2212.05862v1](http://arxiv.org/abs/2212.05862v1)|null|
+|**2022-12-12**|**CbwLoss: Constrained Bidirectional Weighted Loss for Self-supervised Learning of Depth and Pose**|Fei Wang et.al.|[2212.05845v1](http://arxiv.org/abs/2212.05845v1)|null|
+|**2022-12-12**|**Markerless Body Motion Capturing for 3D Character Animation based on Multi-view Cameras**|Jinbao Wang et.al.|[2212.05788v1](http://arxiv.org/abs/2212.05788v1)|null|
+|**2022-12-12**|**REAP: A Large-Scale Realistic Adversarial Patch Benchmark**|Nabeel Hingun et.al.|[2212.05680v1](http://arxiv.org/abs/2212.05680v1)|[link](https://github.com/wagner-group/reap-benchmark)|
+|**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehrig et.al.|[2212.05598v1](http://arxiv.org/abs/2212.05598v1)|null|
+|**2022-12-11**|**Mutimodal Ranking Optimization for Heterogeneous Face Re-identification**|Hui Hu et.al.|[2212.05510v1](http://arxiv.org/abs/2212.05510v1)|null|
+|**2022-12-11**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wang et.al.|[2212.05505v1](http://arxiv.org/abs/2212.05505v1)|null|
+|**2022-12-11**|**Ego Vehicle Speed Estimation using 3D Convolution with Masked Attention**|Athul M. Mathew et.al.|[2212.05432v1](http://arxiv.org/abs/2212.05432v1)|null|
+|**2022-12-10**|**What's Wrong with the Absolute Trajectory Error?**|Seong Hun Lee et.al.|[2212.05376v1](http://arxiv.org/abs/2212.05376v1)|null|
+|**2022-12-10**|**Progressive Multi-view Human Mesh Recovery with Self-Supervision**|Xuan Gong et.al.|[2212.05223v1](http://arxiv.org/abs/2212.05223v1)|null|
+|**2022-12-10**|**The photometric observation of the quasi-simultaneous mutual eclipse and occultation between Europa and Ganymede on 22 August 2021**|Chu Wing So et.al.|[2212.05215v1](http://arxiv.org/abs/2212.05215v1)|null|
 |**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
 |**2022-12-09**|**Visual Detection of Personal Protective Equipment and Safety Gear on Industry Workers**|Jonathan Karlsson et.al.|[2212.04794v1](http://arxiv.org/abs/2212.04794v1)|null|
 |**2022-12-09**|**Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning**|Minjung Kim et.al.|[2212.04712v1](http://arxiv.org/abs/2212.04712v1)|null|
@@ -20,15 +32,3 @@
 |**2022-12-08**|**A Novel Hierarchical-Classification-Block Based Convolutional Neural Network for Source Camera Model Identification**|Mohammad Zunaed et.al.|[2212.04161v1](http://arxiv.org/abs/2212.04161v1)|null|
 |**2022-12-08**|**Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation**|Yulu Gan et.al.|[2212.04145v1](http://arxiv.org/abs/2212.04145v1)|null|
 |**2022-12-08**|**Complete Solution for Vehicle Re-ID in Surround-view Camera System**|Zizhang Wu et.al.|[2212.04126v1](http://arxiv.org/abs/2212.04126v1)|null|
-|**2022-12-08**|**Elixir: A system to enhance data quality for multiple analytics on a video stream**|Sibendu Paul et.al.|[2212.04061v1](http://arxiv.org/abs/2212.04061v1)|null|
-|**2022-12-07**|**Multimodal Vision Transformers with Forced Attention for Behavior Analysis**|Tanay Agrawal et.al.|[2212.03968v1](http://arxiv.org/abs/2212.03968v1)|null|
-|**2022-12-07**|**GONG third generation camera: Detector selection and feasibility study**|Sanjay Gosain et.al.|[2212.03963v1](http://arxiv.org/abs/2212.03963v1)|null|
-|**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|[link](https://github.com/megvii-research/NAFNet)|
-|**2022-12-07**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v2](http://arxiv.org/abs/2212.03858v2)|null|
-|**2022-12-07**|**Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data**|Matthias Zeller et.al.|[2212.03690v1](http://arxiv.org/abs/2212.03690v1)|null|
-|**2022-12-07**|**LSVL: Large-scale season-invariant visual localization for UAVs**|Jouko Kinnari et.al.|[2212.03581v1](http://arxiv.org/abs/2212.03581v1)|null|
-|**2022-12-07**|**EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points**|Chengwei Zheng et.al.|[2212.04247v1](http://arxiv.org/abs/2212.04247v1)|null|
-|**2022-12-07**|**DroneAttention: Sparse Weighted Temporal Attention for Drone-Camera Based Activity Recognition**|Santosh Kumar Yadav et.al.|[2212.03384v1](http://arxiv.org/abs/2212.03384v1)|null|
-|**2022-12-07**|**PigV$^2$: Monitoring Pig Vital Signs through Ground Vibrations Induced by Heartbeat and Respiration**|Yiwen Dong et.al.|[2212.03378v1](http://arxiv.org/abs/2212.03378v1)|null|
-|**2022-12-07**|**GaitVibe+: Enhancing Structural Vibration-based Footstep Localization Using Temporary Cameras for In-home Gait Analysis**|Yiwen Dong et.al.|[2212.03377v1](http://arxiv.org/abs/2212.03377v1)|null|
-|**2022-12-06**|**Perspective Fields for Single Image Camera Calibration**|Linyi Jin et.al.|[2212.03239v1](http://arxiv.org/abs/2212.03239v1)|null|
