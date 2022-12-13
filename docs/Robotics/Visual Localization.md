@@ -8,7 +8,7 @@
 |**2022-12-09**|**SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection**|Qi Jiang et.al.|[2212.04675v1](http://arxiv.org/abs/2212.04675v1)|null|
 |**2022-12-09**|**Ego-Body Pose Estimation via Ego-Head Pose Estimation**|Jiaman Li et.al.|[2212.04636v1](http://arxiv.org/abs/2212.04636v1)|null|
 |**2022-12-08**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575v1](http://arxiv.org/abs/2212.04575v1)|null|
-|**2022-12-08**|**ORCa: Glossy Objects as Radiance Field Cameras**|Kushagra Tiwary et.al.|[2212.04531v1](http://arxiv.org/abs/2212.04531v1)|null|
+|**2022-12-08**|**ORCa: Glossy Objects as Radiance Field Cameras**|Kushagra Tiwary et.al.|[2212.04531v2](http://arxiv.org/abs/2212.04531v2)|null|
 |**2022-12-08**|**Few-View Object Reconstruction with Unknown Categories and Camera Poses**|Hanwen Jiang et.al.|[2212.04492v1](http://arxiv.org/abs/2212.04492v1)|null|
 |**2022-12-08**|**Discovery and properties of the earliest galaxies with confirmed distances**|B. E. Robertson et.al.|[2212.04480v1](http://arxiv.org/abs/2212.04480v1)|null|
 |**2022-12-08**|**Phone2Proc: Bringing Robust Robots Into Our Chaotic World**|Matt Deitke et.al.|[2212.04819v1](http://arxiv.org/abs/2212.04819v1)|null|
