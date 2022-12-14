@@ -9,7 +9,7 @@
 |**2022-12-12**|**REAP: A Large-Scale Realistic Adversarial Patch Benchmark**|Nabeel Hingun et.al.|[2212.05680v1](http://arxiv.org/abs/2212.05680v1)|[link](https://github.com/wagner-group/reap-benchmark)|
 |**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehrig et.al.|[2212.05598v1](http://arxiv.org/abs/2212.05598v1)|null|
 |**2022-12-11**|**Mutimodal Ranking Optimization for Heterogeneous Face Re-identification**|Hui Hu et.al.|[2212.05510v1](http://arxiv.org/abs/2212.05510v1)|null|
-|**2022-12-11**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wang et.al.|[2212.05505v1](http://arxiv.org/abs/2212.05505v1)|null|
+|**2022-12-11**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wang et.al.|[2212.05505v2](http://arxiv.org/abs/2212.05505v2)|null|
 |**2022-12-11**|**Ego Vehicle Speed Estimation using 3D Convolution with Masked Attention**|Athul M. Mathew et.al.|[2212.05432v1](http://arxiv.org/abs/2212.05432v1)|null|
 |**2022-12-10**|**What's Wrong with the Absolute Trajectory Error?**|Seong Hun Lee et.al.|[2212.05376v1](http://arxiv.org/abs/2212.05376v1)|null|
 |**2022-12-10**|**Progressive Multi-view Human Mesh Recovery with Self-Supervision**|Xuan Gong et.al.|[2212.05223v1](http://arxiv.org/abs/2212.05223v1)|null|
