@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
+|**2022-12-13**|**DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles**|Peter Karkus et.al.|[2212.06437v1](http://arxiv.org/abs/2212.06437v1)|null|
+|**2022-12-13**|**PV3D: A 3D Generative Model for Portrait Video Generation**|Eric Zhongcong Xu et.al.|[2212.06384v1](http://arxiv.org/abs/2212.06384v1)|null|
+|**2022-12-13**|**Egocentric Video Task Translation**|Zihui Xue et.al.|[2212.06301v1](http://arxiv.org/abs/2212.06301v1)|null|
+|**2022-12-12**|**PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion**|Lemeng Wu et.al.|[2212.06244v1](http://arxiv.org/abs/2212.06244v1)|null|
 |**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
 |**2022-12-12**|**Dense nitrogen-enriched circumnuclear region of the new high-redshift quasar ULAS J0816+2134 at z=7.46**|Ekaterina Koptelova et.al.|[2212.05862v1](http://arxiv.org/abs/2212.05862v1)|null|
 |**2022-12-12**|**CbwLoss: Constrained Bidirectional Weighted Loss for Self-supervised Learning of Depth and Pose**|Fei Wang et.al.|[2212.05845v1](http://arxiv.org/abs/2212.05845v1)|null|
@@ -27,8 +32,3 @@
 |**2022-12-08**|**Pose Estimation for Human Wearing Loose-Fitting Clothes: Obtaining Ground Truth Posture Using HFR Camera and Blinking LEDs**|Takayoshi Yamaguchi et.al.|[2212.04820v1](http://arxiv.org/abs/2212.04820v1)|null|
 |**2022-12-08**|**The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection**|Geoffroi Côté et.al.|[2212.04441v1](http://arxiv.org/abs/2212.04441v1)|null|
 |**2022-12-08**|**Monocular Camera and Single-Beam Sonar-Based Underwater Collision-Free Navigation with Domain Randomization**|Pengzhi Yang et.al.|[2212.04373v1](http://arxiv.org/abs/2212.04373v1)|[link](https://github.com/dartmouthrobotics/deeprl-uw-robot-navigation)|
-|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
-|**2022-12-08**|**Scalable, low-cost, and versatile system design for air pollution and traffic density monitoring and analysis**|Thinh Gia Tran et.al.|[2212.04313v1](http://arxiv.org/abs/2212.04313v1)|null|
-|**2022-12-08**|**A Novel Hierarchical-Classification-Block Based Convolutional Neural Network for Source Camera Model Identification**|Mohammad Zunaed et.al.|[2212.04161v1](http://arxiv.org/abs/2212.04161v1)|null|
-|**2022-12-08**|**Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation**|Yulu Gan et.al.|[2212.04145v1](http://arxiv.org/abs/2212.04145v1)|null|
-|**2022-12-08**|**Complete Solution for Vehicle Re-ID in Surround-view Camera System**|Zizhang Wu et.al.|[2212.04126v1](http://arxiv.org/abs/2212.04126v1)|null|

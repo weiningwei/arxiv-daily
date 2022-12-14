@@ -2,9 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13**|**Deep multilevel wet etching of fused silica glass microstructures in BOE solution**|T. G. Konstantinova et.al.|[2212.06699v1](http://arxiv.org/abs/2212.06699v1)|null|
+|**2022-12-13**|**A Comprehensive Dataset of Grains for Granular Jamming in Soft Robotics: Grip Strength and Shock Absorption**|David Howard et.al.|[2212.06511v1](http://arxiv.org/abs/2212.06511v1)|null|
+|**2022-12-13**|**Even Order Explicit Symplectic Geometric Algorithms for Quaternion Kinematical Differential Equation in Guidance Navigation and Control via Diagonal Padè Approximation and Cayley Transform**|Hong-Yan Zhang et.al.|[2212.06414v1](http://arxiv.org/abs/2212.06414v1)|null|
 |**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
 |**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v1](http://arxiv.org/abs/2212.05743v1)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
 |**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
+|**2022-12-10**|**A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries**|Jeremy A. Riousset et.al.|[2212.06147v1](http://arxiv.org/abs/2212.06147v1)|null|
 |**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
 |**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
 |**2022-12-09**|**Logarithmic scaling of higher-order temperature moments in the atmospheric surface layer**|Kelly Y. Huang et.al.|[2212.04987v1](http://arxiv.org/abs/2212.04987v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|[link](https://bitbucket.org/loizoshadjiloizou/ortilo)|
 |**2022-12-03**|**A mirror inertial forward-reflected-backward splitting: Global convergence and linesearch extension beyond convexity and Lipschitz smoothness**|Ziyuan Wang et.al.|[2212.01504v1](http://arxiv.org/abs/2212.01504v1)|null|
 |**2022-12-02**|**Is bound entanglement Lorentz invariant?**|Paweł Caban et.al.|[2212.01286v1](http://arxiv.org/abs/2212.01286v1)|null|
-|**2022-12-01**|**Inertial evolution of non-linear viscoelastic solids in the face of (self-)collision**|Antonín Češík et.al.|[2212.00705v1](http://arxiv.org/abs/2212.00705v1)|null|
-|**2022-12-01**|**Universal scaling regimes in rotating fluid turbulence**|Abhik Basu et.al.|[2212.00372v1](http://arxiv.org/abs/2212.00372v1)|null|
-|**2022-12-01**|**Taylor-Couette flow of hard-sphere suspensions: Overview of current understanding**|Lina Baroudi et.al.|[2212.00205v1](http://arxiv.org/abs/2212.00205v1)|null|
-|**2022-11-30**|**Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**|Ke Zhou et.al.|[2211.17236v1](http://arxiv.org/abs/2211.17236v1)|null|
