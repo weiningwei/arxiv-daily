@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|null|
+|**2022-12-14**|**A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework**|Shintaro Shiba et.al.|[2212.07350v1](http://arxiv.org/abs/2212.07350v1)|null|
+|**2022-12-14**|**RAGO: Recurrent Graph Optimizer For Multiple Rotation Averaging**|Heng Li et.al.|[2212.07211v1](http://arxiv.org/abs/2212.07211v1)|null|
+|**2022-12-14**|**Event-based YOLO Object Detection: Proof of Concept for Forward Perception System**|Waseem Shariff et.al.|[2212.07181v1](http://arxiv.org/abs/2212.07181v1)|null|
+|**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
+|**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|[link](https://github.com/sunjiayuanro/scfeat)|
+|**2022-12-14**|**Localizing Objects in 3D from Egocentric Videos with Visual Queries**|Jinjie Mai et.al.|[2212.06969v1](http://arxiv.org/abs/2212.06969v1)|null|
+|**2022-12-14**|**A Novel Active Solution for Two-Dimensional Face Presentation Attack Detection**|Matineh Pooshideh et.al.|[2212.06958v1](http://arxiv.org/abs/2212.06958v1)|null|
+|**2022-12-13**|**Coupled oscillations of the Wilberforce pendulum unveiled by smartphones**|Thomas Gallot et.al.|[2212.06949v1](http://arxiv.org/abs/2212.06949v1)|null|
+|**2022-12-13**|**A Near-Infrared Pyramid Wavefront Sensor for the MMT**|Jacob Taylor et.al.|[2212.06904v1](http://arxiv.org/abs/2212.06904v1)|null|
+|**2022-12-13**|**Central Concentration of Asymmetric Features in Post-starburst Galaxies at $z \sim 0.8$**|Kazuharu G. Himoto et.al.|[2212.06843v1](http://arxiv.org/abs/2212.06843v1)|null|
 |**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
 |**2022-12-13**|**DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles**|Peter Karkus et.al.|[2212.06437v1](http://arxiv.org/abs/2212.06437v1)|null|
 |**2022-12-13**|**PV3D: A 3D Generative Model for Portrait Video Generation**|Eric Zhongcong Xu et.al.|[2212.06384v1](http://arxiv.org/abs/2212.06384v1)|null|
@@ -21,14 +32,3 @@
 |**2022-12-10**|**The photometric observation of the quasi-simultaneous mutual eclipse and occultation between Europa and Ganymede on 22 August 2021**|Chu Wing So et.al.|[2212.05215v1](http://arxiv.org/abs/2212.05215v1)|null|
 |**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
 |**2022-12-09**|**Visual Detection of Personal Protective Equipment and Safety Gear on Industry Workers**|Jonathan Karlsson et.al.|[2212.04794v1](http://arxiv.org/abs/2212.04794v1)|null|
-|**2022-12-09**|**Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning**|Minjung Kim et.al.|[2212.04712v1](http://arxiv.org/abs/2212.04712v1)|null|
-|**2022-12-09**|**SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection**|Qi Jiang et.al.|[2212.04675v1](http://arxiv.org/abs/2212.04675v1)|null|
-|**2022-12-09**|**Ego-Body Pose Estimation via Ego-Head Pose Estimation**|Jiaman Li et.al.|[2212.04636v1](http://arxiv.org/abs/2212.04636v1)|null|
-|**2022-12-08**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575v1](http://arxiv.org/abs/2212.04575v1)|null|
-|**2022-12-08**|**ORCa: Glossy Objects as Radiance Field Cameras**|Kushagra Tiwary et.al.|[2212.04531v2](http://arxiv.org/abs/2212.04531v2)|null|
-|**2022-12-08**|**Few-View Object Reconstruction with Unknown Categories and Camera Poses**|Hanwen Jiang et.al.|[2212.04492v1](http://arxiv.org/abs/2212.04492v1)|null|
-|**2022-12-08**|**Discovery and properties of the earliest galaxies with confirmed distances**|B. E. Robertson et.al.|[2212.04480v1](http://arxiv.org/abs/2212.04480v1)|null|
-|**2022-12-08**|**Phone2Proc: Bringing Robust Robots Into Our Chaotic World**|Matt Deitke et.al.|[2212.04819v1](http://arxiv.org/abs/2212.04819v1)|null|
-|**2022-12-08**|**Pose Estimation for Human Wearing Loose-Fitting Clothes: Obtaining Ground Truth Posture Using HFR Camera and Blinking LEDs**|Takayoshi Yamaguchi et.al.|[2212.04820v1](http://arxiv.org/abs/2212.04820v1)|null|
-|**2022-12-08**|**The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection**|Geoffroi Côté et.al.|[2212.04441v1](http://arxiv.org/abs/2212.04441v1)|null|
-|**2022-12-08**|**Monocular Camera and Single-Beam Sonar-Based Underwater Collision-Free Navigation with Domain Randomization**|Pengzhi Yang et.al.|[2212.04373v1](http://arxiv.org/abs/2212.04373v1)|[link](https://github.com/dartmouthrobotics/deeprl-uw-robot-navigation)|
