@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-15**|**Stokes drift and impurity transport in a quantum fluid**|Umberto Giuriato et.al.|[2212.07952v1](http://arxiv.org/abs/2212.07952v1)|null|
+|**2022-12-15**|**DOPAMINE: Doppler frequency and Angle of arrival MINimization of tracking Error for extended reality**|Andrea Bedin et.al.|[2212.07764v1](http://arxiv.org/abs/2212.07764v1)|null|
+|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|[link](https://github.com/xukuanHIT/AirVO)|
+|**2022-12-15**|**Scalings and intermittency in turbulent flows of elastoviscoplastic fluids**|Mohamed S. Abdelgawad et.al.|[2212.07581v1](http://arxiv.org/abs/2212.07581v1)|null|
 |**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
 |**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus et.al.|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
 |**2022-12-13**|**Deep multilevel wet etching of fused silica glass microstructures in BOE solution**|T. G. Konstantinova et.al.|[2212.06699v1](http://arxiv.org/abs/2212.06699v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-05**|**The radial variation of the solar wind turbulence spectra near the kinetic break scale from Parker Solar Probe measurements**|S. Lotz et.al.|[2212.02441v1](http://arxiv.org/abs/2212.02441v1)|null|
 |**2022-12-05**|**Real Time Incremental Image Mosaicking Without Use of Any Camera Parameter**|Suleyman Melih Portakal et.al.|[2212.02302v1](http://arxiv.org/abs/2212.02302v1)|null|
 |**2022-12-05**|**A Revisit to Lorentz Transformation without Light**|Satadal Datta et.al.|[2212.03706v1](http://arxiv.org/abs/2212.03706v1)|null|
-|**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|[link](https://github.com/tumftm/orb_slam3_rgbl)|
-|**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
-|**2022-12-04**|**Deformability Affects Vesicle Migration and Entrapment in Vortical Flows**|Gökberk Kabacaoğlu et.al.|[2212.01836v1](http://arxiv.org/abs/2212.01836v1)|null|
-|**2022-12-03**|**Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication**|Loizos Hadjiloizou et.al.|[2212.01599v1](http://arxiv.org/abs/2212.01599v1)|[link](https://bitbucket.org/loizoshadjiloizou/ortilo)|

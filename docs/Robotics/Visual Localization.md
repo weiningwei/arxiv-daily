@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-15**|**Hubble Space Telescope survey of Magellanic Cloud star clusters. Photometry and astrometry of 113 clusters and early results**|A. P. Milone et.al.|[2212.07978v1](http://arxiv.org/abs/2212.07978v1)|null|
+|**2022-12-15**|**Automatic vehicle trajectory data reconstruction at scale**|Yanbing Wang et.al.|[2212.07907v1](http://arxiv.org/abs/2212.07907v1)|null|
+|**2022-12-15**|**Angle-insensitive spectral imaging based on topology-optimized plasmonic metasurfaces**|Jiawei Yang et.al.|[2212.07813v1](http://arxiv.org/abs/2212.07813v1)|null|
+|**2022-12-15**|**Efficient Visual Computing with Camera RAW Snapshots**|Zhihao Li et.al.|[2212.07778v1](http://arxiv.org/abs/2212.07778v1)|[link](https://github.com/NJUVISION/rho-vision)|
+|**2022-12-15**|**Event-based Visual Tracking in Dynamic Environments**|Irene Perez-Salesa et.al.|[2212.07754v1](http://arxiv.org/abs/2212.07754v1)|null|
+|**2022-12-15**|**Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**|Bugra C. Sefercik et.al.|[2212.07567v1](http://arxiv.org/abs/2212.07567v1)|null|
+|**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|null|
 |**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|null|
 |**2022-12-14**|**A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework**|Shintaro Shiba et.al.|[2212.07350v1](http://arxiv.org/abs/2212.07350v1)|null|
 |**2022-12-14**|**RAGO: Recurrent Graph Optimizer For Multiple Rotation Averaging**|Heng Li et.al.|[2212.07211v1](http://arxiv.org/abs/2212.07211v1)|[link](https://github.com/sfu-gruvi-3dv/rago)|
@@ -25,10 +32,3 @@
 |**2022-12-12**|**REAP: A Large-Scale Realistic Adversarial Patch Benchmark**|Nabeel Hingun et.al.|[2212.05680v1](http://arxiv.org/abs/2212.05680v1)|[link](https://github.com/wagner-group/reap-benchmark)|
 |**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehrig et.al.|[2212.05598v1](http://arxiv.org/abs/2212.05598v1)|null|
 |**2022-12-11**|**Mutimodal Ranking Optimization for Heterogeneous Face Re-identification**|Hui Hu et.al.|[2212.05510v1](http://arxiv.org/abs/2212.05510v1)|null|
-|**2022-12-11**|**Focal-PETR: Embracing Foreground for Efficient Multi-Camera 3D Object Detection**|Shihao Wang et.al.|[2212.05505v2](http://arxiv.org/abs/2212.05505v2)|null|
-|**2022-12-11**|**Ego Vehicle Speed Estimation using 3D Convolution with Masked Attention**|Athul M. Mathew et.al.|[2212.05432v1](http://arxiv.org/abs/2212.05432v1)|null|
-|**2022-12-10**|**What's Wrong with the Absolute Trajectory Error?**|Seong Hun Lee et.al.|[2212.05376v1](http://arxiv.org/abs/2212.05376v1)|null|
-|**2022-12-10**|**Progressive Multi-view Human Mesh Recovery with Self-Supervision**|Xuan Gong et.al.|[2212.05223v1](http://arxiv.org/abs/2212.05223v1)|null|
-|**2022-12-10**|**The photometric observation of the quasi-simultaneous mutual eclipse and occultation between Europa and Ganymede on 22 August 2021**|Chu Wing So et.al.|[2212.05215v1](http://arxiv.org/abs/2212.05215v1)|null|
-|**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
-|**2022-12-09**|**Visual Detection of Personal Protective Equipment and Safety Gear on Industry Workers**|Jonathan Karlsson et.al.|[2212.04794v1](http://arxiv.org/abs/2212.04794v1)|null|
