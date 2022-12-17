@@ -6,7 +6,7 @@
 |**2022-12-15**|**Automatic vehicle trajectory data reconstruction at scale**|Yanbing Wang et.al.|[2212.07907v1](http://arxiv.org/abs/2212.07907v1)|null|
 |**2022-12-15**|**Angle-insensitive spectral imaging based on topology-optimized plasmonic metasurfaces**|Jiawei Yang et.al.|[2212.07813v1](http://arxiv.org/abs/2212.07813v1)|null|
 |**2022-12-15**|**Efficient Visual Computing with Camera RAW Snapshots**|Zhihao Li et.al.|[2212.07778v1](http://arxiv.org/abs/2212.07778v1)|[link](https://github.com/NJUVISION/rho-vision)|
-|**2022-12-15**|**Event-based Visual Tracking in Dynamic Environments**|Irene Perez-Salesa et.al.|[2212.07754v1](http://arxiv.org/abs/2212.07754v1)|null|
+|**2022-12-15**|**Event-based Visual Tracking in Dynamic Environments**|Irene Perez-Salesa et.al.|[2212.07754v1](http://arxiv.org/abs/2212.07754v1)|[link](https://github.com/ireneperezsalesa/event_tracking)|
 |**2022-12-15**|**Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**|Bugra C. Sefercik et.al.|[2212.07567v1](http://arxiv.org/abs/2212.07567v1)|null|
 |**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|null|
 |**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|null|
