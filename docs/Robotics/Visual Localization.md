@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-16**|**Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch**|Martin Matak et.al.|[2212.08604v1](http://arxiv.org/abs/2212.08604v1)|null|
+|**2022-12-16**|**Semi-Siamese Network for Robust Change Detection Across Different Domains with Applications to 3D Printing**|Yushuo Niu et.al.|[2212.08583v1](http://arxiv.org/abs/2212.08583v1)|null|
+|**2022-12-16**|**Road Detection in Snowy Forest Environment using RGB Camera**|Sirawich Vachmanus et.al.|[2212.08511v1](http://arxiv.org/abs/2212.08511v1)|null|
+|**2022-12-16**|**Person Detection Using an Ultra Low-resolution Thermal Imager on a Low-cost MCU**|Maarten Vandersteegen et.al.|[2212.08415v1](http://arxiv.org/abs/2212.08415v1)|null|
+|**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
+|**2022-12-16**|**Fast-moving object counting with an event camera**|Kamil Bialik et.al.|[2212.08384v1](http://arxiv.org/abs/2212.08384v1)|null|
+|**2022-12-16**|**Lightweight integration of 3D features to improve 2D image segmentation**|Olivier Pradelle et.al.|[2212.08334v1](http://arxiv.org/abs/2212.08334v1)|null|
+|**2022-12-16**|**Seeing through Things: Exploring the Design Space of Privacy-Aware Data-Enabled Objects**|Yu-Ting Cheng et.al.|[2212.08278v1](http://arxiv.org/abs/2212.08278v1)|null|
+|**2022-12-15**|**An Empirical Study of Deep Learning Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2212.08109v1](http://arxiv.org/abs/2212.08109v1)|null|
 |**2022-12-15**|**Hubble Space Telescope survey of Magellanic Cloud star clusters. Photometry and astrometry of 113 clusters and early results**|A. P. Milone et.al.|[2212.07978v1](http://arxiv.org/abs/2212.07978v1)|null|
 |**2022-12-15**|**Automatic vehicle trajectory data reconstruction at scale**|Yanbing Wang et.al.|[2212.07907v1](http://arxiv.org/abs/2212.07907v1)|null|
 |**2022-12-15**|**Angle-insensitive spectral imaging based on topology-optimized plasmonic metasurfaces**|Jiawei Yang et.al.|[2212.07813v1](http://arxiv.org/abs/2212.07813v1)|null|
@@ -23,12 +32,3 @@
 |**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
 |**2022-12-13**|**DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles**|Peter Karkus et.al.|[2212.06437v1](http://arxiv.org/abs/2212.06437v1)|null|
 |**2022-12-13**|**PV3D: A 3D Generative Model for Portrait Video Generation**|Eric Zhongcong Xu et.al.|[2212.06384v1](http://arxiv.org/abs/2212.06384v1)|null|
-|**2022-12-13**|**Egocentric Video Task Translation**|Zihui Xue et.al.|[2212.06301v1](http://arxiv.org/abs/2212.06301v1)|null|
-|**2022-12-12**|**PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion**|Lemeng Wu et.al.|[2212.06244v1](http://arxiv.org/abs/2212.06244v1)|null|
-|**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
-|**2022-12-12**|**Dense nitrogen-enriched circumnuclear region of the new high-redshift quasar ULAS J0816+2134 at z=7.46**|Ekaterina Koptelova et.al.|[2212.05862v1](http://arxiv.org/abs/2212.05862v1)|null|
-|**2022-12-12**|**CbwLoss: Constrained Bidirectional Weighted Loss for Self-supervised Learning of Depth and Pose**|Fei Wang et.al.|[2212.05845v1](http://arxiv.org/abs/2212.05845v1)|null|
-|**2022-12-12**|**Markerless Body Motion Capturing for 3D Character Animation based on Multi-view Cameras**|Jinbao Wang et.al.|[2212.05788v1](http://arxiv.org/abs/2212.05788v1)|null|
-|**2022-12-12**|**REAP: A Large-Scale Realistic Adversarial Patch Benchmark**|Nabeel Hingun et.al.|[2212.05680v1](http://arxiv.org/abs/2212.05680v1)|[link](https://github.com/wagner-group/reap-benchmark)|
-|**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehrig et.al.|[2212.05598v1](http://arxiv.org/abs/2212.05598v1)|null|
-|**2022-12-11**|**Mutimodal Ranking Optimization for Heterogeneous Face Re-identification**|Hui Hu et.al.|[2212.05510v1](http://arxiv.org/abs/2212.05510v1)|null|
