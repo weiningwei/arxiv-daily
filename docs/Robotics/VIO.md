@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-12-16**|**rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**|Bo Wei et.al.|[2212.08418v1](http://arxiv.org/abs/2212.08418v1)|null|
-|**2022-12-16**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v1](http://arxiv.org/abs/2212.08326v1)|null|
+|**2022-12-16**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v2](http://arxiv.org/abs/2212.08326v2)|null|
 |**2022-12-16**|**Proton Imaging of High-Energy-Density Laboratory Plasmas**|Derek B. Schaeffer et.al.|[2212.08252v1](http://arxiv.org/abs/2212.08252v1)|null|
 |**2022-12-15**|**Stokes drift and impurity transport in a quantum fluid**|Umberto Giuriato et.al.|[2212.07952v1](http://arxiv.org/abs/2212.07952v1)|null|
 |**2022-12-15**|**DOPAMINE: Doppler frequency and Angle of arrival MINimization of tracking Error for extended reality**|Andrea Bedin et.al.|[2212.07764v1](http://arxiv.org/abs/2212.07764v1)|null|
@@ -15,7 +15,7 @@
 |**2022-12-13**|**A Comprehensive Dataset of Grains for Granular Jamming in Soft Robotics: Grip Strength and Shock Absorption**|David Howard et.al.|[2212.06511v1](http://arxiv.org/abs/2212.06511v1)|null|
 |**2022-12-13**|**Even Order Explicit Symplectic Geometric Algorithms for Quaternion Kinematical Differential Equation in Guidance Navigation and Control via Diagonal Padè Approximation and Cayley Transform**|Hong-Yan Zhang et.al.|[2212.06414v1](http://arxiv.org/abs/2212.06414v1)|null|
 |**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
-|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v1](http://arxiv.org/abs/2212.05743v1)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
+|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v2](http://arxiv.org/abs/2212.05743v2)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
 |**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
 |**2022-12-10**|**A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries**|Jeremy A. Riousset et.al.|[2212.06147v1](http://arxiv.org/abs/2212.06147v1)|null|
 |**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
