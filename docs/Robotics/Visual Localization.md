@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
+|**2022-12-20**|**Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**|Simon Klenk et.al.|[2212.10368v1](http://arxiv.org/abs/2212.10368v1)|null|
+|**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
+|**2022-12-20**|**Tracking by Associating Clips**|Sanghyun Woo et.al.|[2212.10149v1](http://arxiv.org/abs/2212.10149v1)|null|
+|**2022-12-20**|**360$^\circ$ Stereo Image Composition with Depth Adaption**|Kun Huang et.al.|[2212.10062v1](http://arxiv.org/abs/2212.10062v1)|null|
+|**2022-12-20**|**Benchmarking person re-identification datasets and approaches for practical real-world implementations**|Jose Huaman et.al.|[2212.09981v1](http://arxiv.org/abs/2212.09981v1)|[link](https://github.com/josemiki/benchmarking_person_re_id)|
+|**2022-12-20**|**Robust and Resource-efficient Machine Learning Aided Viewport Prediction in Virtual Reality**|Yuang Jiang et.al.|[2212.09945v1](http://arxiv.org/abs/2212.09945v1)|null|
 |**2022-12-19**|**A study on Performance Boost of a 17~m class Cherenkov telescope with a SiPM-based camera**|Cornelia Arcaro et.al.|[2212.09456v1](http://arxiv.org/abs/2212.09456v1)|null|
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
 |**2022-12-19**|**Simultaneous Multicolor Photometry of the DESTINY$^{+}$ target asteroid (3200) Phaethon**|Jin Beniyama et.al.|[2212.09323v1](http://arxiv.org/abs/2212.09323v1)|null|
@@ -21,14 +28,7 @@
 |**2022-12-16**|**Person Detection Using an Ultra Low-resolution Thermal Imager on a Low-cost MCU**|Maarten Vandersteegen et.al.|[2212.08415v1](http://arxiv.org/abs/2212.08415v1)|null|
 |**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
 |**2022-12-16**|**Fast-moving object counting with an event camera**|Kamil Bialik et.al.|[2212.08384v1](http://arxiv.org/abs/2212.08384v1)|null|
-|**2022-12-16**|**Lightweight integration of 3D features to improve 2D image segmentation**|Olivier Pradelle et.al.|[2212.08334v1](http://arxiv.org/abs/2212.08334v1)|null|
+|**2022-12-16**|**Lightweight integration of 3D features to improve 2D image segmentation**|Olivier Pradelle et.al.|[2212.08334v1](http://arxiv.org/abs/2212.08334v1)|[link](https://github.com/opradelle/2dguidedlight3d)|
 |**2022-12-16**|**Feature Disentanglement Learning with Switching and Aggregation for Video-based Person Re-Identification**|Minjung Kim et.al.|[2212.09498v1](http://arxiv.org/abs/2212.09498v1)|null|
 |**2022-12-16**|**Seeing through Things: Exploring the Design Space of Privacy-Aware Data-Enabled Objects**|Yu-Ting Cheng et.al.|[2212.08278v1](http://arxiv.org/abs/2212.08278v1)|null|
 |**2022-12-15**|**An Empirical Study of Deep Learning Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2212.08109v2](http://arxiv.org/abs/2212.08109v2)|null|
-|**2022-12-15**|**Hubble Space Telescope survey of Magellanic Cloud star clusters. Photometry and astrometry of 113 clusters and early results**|A. P. Milone et.al.|[2212.07978v1](http://arxiv.org/abs/2212.07978v1)|null|
-|**2022-12-15**|**Automatic vehicle trajectory data reconstruction at scale**|Yanbing Wang et.al.|[2212.07907v1](http://arxiv.org/abs/2212.07907v1)|null|
-|**2022-12-15**|**Angle-insensitive spectral imaging based on topology-optimized plasmonic metasurfaces**|Jiawei Yang et.al.|[2212.07813v1](http://arxiv.org/abs/2212.07813v1)|null|
-|**2022-12-15**|**Efficient Visual Computing with Camera RAW Snapshots**|Zhihao Li et.al.|[2212.07778v1](http://arxiv.org/abs/2212.07778v1)|[link](https://github.com/NJUVISION/rho-vision)|
-|**2022-12-15**|**Event-based Visual Tracking in Dynamic Environments**|Irene Perez-Salesa et.al.|[2212.07754v1](http://arxiv.org/abs/2212.07754v1)|[link](https://github.com/ireneperezsalesa/event_tracking)|
-|**2022-12-15**|**Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**|Bugra C. Sefercik et.al.|[2212.07567v1](http://arxiv.org/abs/2212.07567v1)|null|
-|**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|[2212.07560v2](http://arxiv.org/abs/2212.07560v2)|null|
