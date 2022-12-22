@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
+|**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
+|**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
+|**2022-12-21**|**Shakebot: A Low-cost, Open-source Shake Table for Ground Motion Seismic Studies**|Zhiang Chen et.al.|[2212.10763v1](http://arxiv.org/abs/2212.10763v1)|null|
+|**2022-12-21**|**AEStream: Accelerated event-based processing with coroutines**|Jens Egholm Pedersen et.al.|[2212.10719v1](http://arxiv.org/abs/2212.10719v1)|null|
 |**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
 |**2022-12-20**|**Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**|Simon Klenk et.al.|[2212.10368v1](http://arxiv.org/abs/2212.10368v1)|null|
 |**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
@@ -26,9 +32,3 @@
 |**2022-12-16**|**Semi-Siamese Network for Robust Change Detection Across Different Domains with Applications to 3D Printing**|Yushuo Niu et.al.|[2212.08583v1](http://arxiv.org/abs/2212.08583v1)|null|
 |**2022-12-16**|**Road Detection in Snowy Forest Environment using RGB Camera**|Sirawich Vachmanus et.al.|[2212.08511v1](http://arxiv.org/abs/2212.08511v1)|null|
 |**2022-12-16**|**Person Detection Using an Ultra Low-resolution Thermal Imager on a Low-cost MCU**|Maarten Vandersteegen et.al.|[2212.08415v1](http://arxiv.org/abs/2212.08415v1)|null|
-|**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
-|**2022-12-16**|**Fast-moving object counting with an event camera**|Kamil Bialik et.al.|[2212.08384v1](http://arxiv.org/abs/2212.08384v1)|null|
-|**2022-12-16**|**Lightweight integration of 3D features to improve 2D image segmentation**|Olivier Pradelle et.al.|[2212.08334v1](http://arxiv.org/abs/2212.08334v1)|[link](https://github.com/opradelle/2dguidedlight3d)|
-|**2022-12-16**|**Feature Disentanglement Learning with Switching and Aggregation for Video-based Person Re-Identification**|Minjung Kim et.al.|[2212.09498v1](http://arxiv.org/abs/2212.09498v1)|null|
-|**2022-12-16**|**Seeing through Things: Exploring the Design Space of Privacy-Aware Data-Enabled Objects**|Yu-Ting Cheng et.al.|[2212.08278v1](http://arxiv.org/abs/2212.08278v1)|null|
-|**2022-12-15**|**An Empirical Study of Deep Learning Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2212.08109v2](http://arxiv.org/abs/2212.08109v2)|null|

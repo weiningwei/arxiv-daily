@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**Efficient kinetic Lattice Boltzmann simulation of three-dimensional Hall-MHD Turbulence**|Raffaello Foldes et.al.|[2212.11024v1](http://arxiv.org/abs/2212.11024v1)|null|
+|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
 |**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|
 |**2022-12-19**|**The Possible Tidal Demise of Kepler's First Planetary System**|Shreyas Vissapragada et.al.|[2212.09752v1](http://arxiv.org/abs/2212.09752v1)|null|
 |**2022-12-17**|**ProNet: Adaptive Process Noise Estimation for INS/DVL Fusion**|Barak Or et.al.|[2212.08882v1](http://arxiv.org/abs/2212.08882v1)|null|
@@ -20,6 +22,7 @@
 |**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
 |**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v2](http://arxiv.org/abs/2212.05743v2)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
 |**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
+|**2022-12-10**|**MountNet: Learning an Inertial Sensor Mounting Angle with Deep Neural Networks**|Maxim Freydin et.al.|[2212.11120v1](http://arxiv.org/abs/2212.11120v1)|null|
 |**2022-12-10**|**A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries**|Jeremy A. Riousset et.al.|[2212.06147v1](http://arxiv.org/abs/2212.06147v1)|null|
 |**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
 |**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
@@ -29,6 +32,3 @@
 |**2022-12-09**|**Formulating the r-mode problem for slowly rotating neutron stars**|Nils Andersson et.al.|[2212.04837v1](http://arxiv.org/abs/2212.04837v1)|null|
 |**2022-12-09**|**A Grid-based Sensor Floor Platform for Robot Localization using Machine Learning**|Anas Gouda et.al.|[2212.04721v1](http://arxiv.org/abs/2212.04721v1)|[link](https://github.com/flw-tudo/sensorfloor)|
 |**2022-12-08**|**Paths to gravitation via the gauging of parameterized field theories**|Tomi S Koivisto et.al.|[2212.04562v1](http://arxiv.org/abs/2212.04562v1)|null|
-|**2022-12-08**|**Towards Accurate Ground Plane Normal Estimation from Ego-Motion**|Jiaxin Zhang et.al.|[2212.04224v1](http://arxiv.org/abs/2212.04224v1)|[link](https://github.com/manymuch/ground_normal_filter)|
-|**2022-12-07**|**Energy transfer and third-order law in forced anisotropic MHD turbulence with hyperviscosity**|Bin Jiang et.al.|[2212.03617v1](http://arxiv.org/abs/2212.03617v1)|null|
-|**2022-12-07**|**Support Vector Machine for Determining Euler Angles in an Inertial Navigation System**|Aleksandr N. Grekov et.al.|[2212.03550v1](http://arxiv.org/abs/2212.03550v1)|null|
