@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
+|**2022-12-21**|**An inertial ADMM for a class of nonconvex composite optimization with nonlinear coupling constraints**|Le Thi Khanh Hien et.al.|[2212.11336v1](http://arxiv.org/abs/2212.11336v1)|null|
 |**2022-12-21**|**Efficient kinetic Lattice Boltzmann simulation of three-dimensional Hall-MHD Turbulence**|Raffaello Foldes et.al.|[2212.11024v1](http://arxiv.org/abs/2212.11024v1)|null|
 |**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
 |**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-09**|**Thermal-Inertial Effects on Relativistic Asymmetric Magnetic Reconnection**|Maricarmen A. Winkler et.al.|[2212.04952v1](http://arxiv.org/abs/2212.04952v1)|null|
 |**2022-12-09**|**The r-modes of slowly rotating, stratified neutron stars**|Fabian Gittins et.al.|[2212.04892v1](http://arxiv.org/abs/2212.04892v1)|null|
 |**2022-12-09**|**Formulating the r-mode problem for slowly rotating neutron stars**|Nils Andersson et.al.|[2212.04837v1](http://arxiv.org/abs/2212.04837v1)|null|
-|**2022-12-09**|**A Grid-based Sensor Floor Platform for Robot Localization using Machine Learning**|Anas Gouda et.al.|[2212.04721v1](http://arxiv.org/abs/2212.04721v1)|[link](https://github.com/flw-tudo/sensorfloor)|
-|**2022-12-08**|**Paths to gravitation via the gauging of parameterized field theories**|Tomi S Koivisto et.al.|[2212.04562v1](http://arxiv.org/abs/2212.04562v1)|null|

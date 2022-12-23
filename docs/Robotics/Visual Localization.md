@@ -2,12 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**A Wearable Data Collection System for Studying Micro-Level E-Scooter Behavior in Naturalistic Road Environment**|Avinash Prabu et.al.|[2212.11979v1](http://arxiv.org/abs/2212.11979v1)|null|
+|**2022-12-22**|**Peek into the Future Camera-based Occupant Sensing in Configurable Cabins for Autonomous Vehicles**|Avinash Prabu et.al.|[2212.11950v1](http://arxiv.org/abs/2212.11950v1)|null|
+|**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng et.al.|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
+|**2022-12-22**|**Spatio-Visual Fusion-Based Person Re-Identification for Overhead Fisheye Images**|Mertcan Cokbas et.al.|[2212.11477v1](http://arxiv.org/abs/2212.11477v1)|null|
+|**2022-12-22**|**Vision-Based Environmental Perception for Autonomous Driving**|Fei Liu et.al.|[2212.11453v1](http://arxiv.org/abs/2212.11453v1)|null|
+|**2022-12-22**|**Near-infrared spectroscopy of a massive young stellar object in the direction toward the Galactic Center: XCN and aromatic C-D features**|Takashi Onaka et.al.|[2212.11424v1](http://arxiv.org/abs/2212.11424v1)|null|
+|**2022-12-22**|**PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data**|Sebastian Zieba et.al.|[2212.11421v1](http://arxiv.org/abs/2212.11421v1)|null|
+|**2022-12-21**|**Cattle Detection Occlusion Problem**|Aparna Mendu et.al.|[2212.11418v1](http://arxiv.org/abs/2212.11418v1)|null|
 |**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
 |**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
 |**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
 |**2022-12-21**|**Shakebot: A Low-cost, Open-source Shake Table for Ground Motion Seismic Studies**|Zhiang Chen et.al.|[2212.10763v1](http://arxiv.org/abs/2212.10763v1)|null|
 |**2022-12-21**|**AEStream: Accelerated event-based processing with coroutines**|Jens Egholm Pedersen et.al.|[2212.10719v1](http://arxiv.org/abs/2212.10719v1)|null|
+|**2022-12-20**|**Scene-aware Egocentric 3D Human Pose Estimation**|Jian Wang et.al.|[2212.11684v1](http://arxiv.org/abs/2212.11684v1)|null|
 |**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
 |**2022-12-20**|**Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**|Simon Klenk et.al.|[2212.10368v1](http://arxiv.org/abs/2212.10368v1)|null|
 |**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
@@ -23,12 +32,3 @@
 |**2022-12-18**|**Beyond Digital "Echo Chambers": The Role of Viewpoint Diversity in Political Discussion**|Rishav Hada et.al.|[2212.09056v1](http://arxiv.org/abs/2212.09056v1)|[link](https://github.com/hadarishav/beyond-digital-echo-chambers)|
 |**2022-12-18**|**Smart Face Shield: A Sensor-Based Wearable Face Shield Utilizing Computer Vision Algorithms**|Manuel Luis C. Delos Santos et.al.|[2212.08996v1](http://arxiv.org/abs/2212.08996v1)|null|
 |**2022-12-17**|**A Brief Survey on Person Recognition at a Distance**|Chrisopher B. Nalty et.al.|[2212.08969v1](http://arxiv.org/abs/2212.08969v1)|null|
-|**2022-12-17**|**Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark**|Xiaofeng Wang et.al.|[2212.08914v1](http://arxiv.org/abs/2212.08914v1)|[link](https://github.com/jeffwang987/asap)|
-|**2022-12-17**|**iCub! Do you recognize what I am doing?: multimodal human action recognition on multisensory-enabled iCub robot**|Kas Kniesmeijer et.al.|[2212.08859v1](http://arxiv.org/abs/2212.08859v1)|null|
-|**2022-12-16**|**Multi-person 3D pose estimation from unlabelled data**|Daniel Rodriguez-Criado et.al.|[2212.08731v1](http://arxiv.org/abs/2212.08731v1)|[link](https://github.com/gnns4hri/3d_multi_pose_estimator)|
-|**2022-12-16**|**Imitation Learning based Auto-Correction of Extrinsic Parameters for A Mixed-Reality Setup**|Shubham Sonawani et.al.|[2212.08720v1](http://arxiv.org/abs/2212.08720v1)|null|
-|**2022-12-16**|**Exploring the Universe via the Wide, Deep Near-infrared Imaging ESO Public Survey SHARKS**|Helmut Dannerbauer et.al.|[2212.09471v1](http://arxiv.org/abs/2212.09471v1)|null|
-|**2022-12-16**|**Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch**|Martin Matak et.al.|[2212.08604v1](http://arxiv.org/abs/2212.08604v1)|null|
-|**2022-12-16**|**Semi-Siamese Network for Robust Change Detection Across Different Domains with Applications to 3D Printing**|Yushuo Niu et.al.|[2212.08583v1](http://arxiv.org/abs/2212.08583v1)|null|
-|**2022-12-16**|**Road Detection in Snowy Forest Environment using RGB Camera**|Sirawich Vachmanus et.al.|[2212.08511v1](http://arxiv.org/abs/2212.08511v1)|null|
-|**2022-12-16**|**Person Detection Using an Ultra Low-resolution Thermal Imager on a Low-cost MCU**|Maarten Vandersteegen et.al.|[2212.08415v1](http://arxiv.org/abs/2212.08415v1)|null|
