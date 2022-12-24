@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2022-12-24 20:57:32 Asia/Shanghai
+ Automated deployment @ 2022-12-24 21:13:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-22**|**A Wearable Data Collection System for Studying Micro-Level E-Scooter Behavior in Naturalistic Road Environment**|Avinash Prabu et.al.|[2212.11979v1](http://arxiv.org/abs/2212.11979v1)|null|
-|**2022-12-22**|**Peek into the Future Camera-based Occupant Sensing in Configurable Cabins for Autonomous Vehicles**|Avinash Prabu et.al.|[2212.11950v1](http://arxiv.org/abs/2212.11950v1)|null|
-|**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng et.al.|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
-|**2022-12-22**|**Spatio-Visual Fusion-Based Person Re-Identification for Overhead Fisheye Images**|Mertcan Cokbas et.al.|[2212.11477v1](http://arxiv.org/abs/2212.11477v1)|null|
-|**2022-12-22**|**Vision-Based Environmental Perception for Autonomous Driving**|Fei Liu et.al.|[2212.11453v1](http://arxiv.org/abs/2212.11453v1)|null|
-|**2022-12-22**|**Near-infrared spectroscopy of a massive young stellar object in the direction toward the Galactic Center: XCN and aromatic C-D features**|Takashi Onaka et.al.|[2212.11424v1](http://arxiv.org/abs/2212.11424v1)|null|
-|**2022-12-22**|**PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data**|Sebastian Zieba et.al.|[2212.11421v1](http://arxiv.org/abs/2212.11421v1)|[link](https://github.com/sebastian-zieba/pacman)|
-|**2022-12-21**|**Cattle Detection Occlusion Problem**|Aparna Mendu et.al.|[2212.11418v1](http://arxiv.org/abs/2212.11418v1)|null|
-|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
-|**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
-|**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
-|**2022-12-21**|**Shakebot: A Low-cost, Open-source Shake Table for Ground Motion Seismic Studies**|Zhiang Chen et.al.|[2212.10763v1](http://arxiv.org/abs/2212.10763v1)|null|
-|**2022-12-21**|**AEStream: Accelerated event-based processing with coroutines**|Jens Egholm Pedersen et.al.|[2212.10719v1](http://arxiv.org/abs/2212.10719v1)|null|
-|**2022-12-20**|**Scene-aware Egocentric 3D Human Pose Estimation**|Jian Wang et.al.|[2212.11684v1](http://arxiv.org/abs/2212.11684v1)|null|
-|**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
-|**2022-12-20**|**Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**|Simon Klenk et.al.|[2212.10368v1](http://arxiv.org/abs/2212.10368v1)|null|
-|**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
-|**2022-12-20**|**Tracking by Associating Clips**|Sanghyun Woo et.al.|[2212.10149v1](http://arxiv.org/abs/2212.10149v1)|null|
-|**2022-12-20**|**360$^\circ$ Stereo Image Composition with Depth Adaption**|Kun Huang et.al.|[2212.10062v1](http://arxiv.org/abs/2212.10062v1)|null|
-|**2022-12-20**|**Benchmarking person re-identification datasets and approaches for practical real-world implementations**|Jose Huaman et.al.|[2212.09981v1](http://arxiv.org/abs/2212.09981v1)|[link](https://github.com/josemiki/benchmarking_person_re_id)|
-|**2022-12-20**|**Robust and Resource-efficient Machine Learning Aided Viewport Prediction in Virtual Reality**|Yuang Jiang et.al.|[2212.09945v1](http://arxiv.org/abs/2212.09945v1)|null|
-|**2022-12-19**|**A study on Performance Boost of a 17~m class Cherenkov telescope with a SiPM-based camera**|Cornelia Arcaro et.al.|[2212.09456v1](http://arxiv.org/abs/2212.09456v1)|null|
-|**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
-|**2022-12-19**|**Simultaneous Multicolor Photometry of the DESTINY$^{+}$ target asteroid (3200) Phaethon**|Jin Beniyama et.al.|[2212.09323v1](http://arxiv.org/abs/2212.09323v1)|null|
-|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|null|
-|**2022-12-19**|**CHAD: Charlotte Anomaly Dataset**|Armin Danesh Pazho et.al.|[2212.09258v1](http://arxiv.org/abs/2212.09258v1)|null|
-|**2022-12-18**|**Beyond Digital "Echo Chambers": The Role of Viewpoint Diversity in Political Discussion**|Rishav Hada et.al.|[2212.09056v1](http://arxiv.org/abs/2212.09056v1)|[link](https://github.com/hadarishav/beyond-digital-echo-chambers)|
-|**2022-12-18**|**Smart Face Shield: A Sensor-Based Wearable Face Shield Utilizing Computer Vision Algorithms**|Manuel Luis C. Delos Santos et.al.|[2212.08996v1](http://arxiv.org/abs/2212.08996v1)|null|
-|**2022-12-17**|**A Brief Survey on Person Recognition at a Distance**|Chrisopher B. Nalty et.al.|[2212.08969v1](http://arxiv.org/abs/2212.08969v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
-|**2022-12-21**|**An inertial ADMM for a class of nonconvex composite optimization with nonlinear coupling constraints**|Le Thi Khanh Hien et.al.|[2212.11336v1](http://arxiv.org/abs/2212.11336v1)|null|
-|**2022-12-21**|**Efficient kinetic Lattice Boltzmann simulation of three-dimensional Hall-MHD Turbulence**|Raffaello Foldes et.al.|[2212.11024v1](http://arxiv.org/abs/2212.11024v1)|null|
-|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
-|**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|
-|**2022-12-19**|**The Possible Tidal Demise of Kepler's First Planetary System**|Shreyas Vissapragada et.al.|[2212.09752v1](http://arxiv.org/abs/2212.09752v1)|null|
-|**2022-12-17**|**ProNet: Adaptive Process Noise Estimation for INS/DVL Fusion**|Barak Or et.al.|[2212.08882v1](http://arxiv.org/abs/2212.08882v1)|null|
-|**2022-12-16**|**rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**|Bo Wei et.al.|[2212.08418v1](http://arxiv.org/abs/2212.08418v1)|null|
-|**2022-12-16**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v2](http://arxiv.org/abs/2212.08326v2)|null|
-|**2022-12-16**|**Proton Imaging of High-Energy-Density Laboratory Plasmas**|Derek B. Schaeffer et.al.|[2212.08252v1](http://arxiv.org/abs/2212.08252v1)|null|
-|**2022-12-15**|**Stokes drift and impurity transport in a quantum fluid**|Umberto Giuriato et.al.|[2212.07952v1](http://arxiv.org/abs/2212.07952v1)|null|
-|**2022-12-15**|**DOPAMINE: Doppler frequency and Angle of arrival MINimization of tracking Error for extended reality**|Andrea Bedin et.al.|[2212.07764v1](http://arxiv.org/abs/2212.07764v1)|null|
-|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|[link](https://github.com/xukuanHIT/AirVO)|
-|**2022-12-15**|**Scalings and intermittency in turbulent flows of elastoviscoplastic fluids**|Mohamed S. Abdelgawad et.al.|[2212.07581v1](http://arxiv.org/abs/2212.07581v1)|null|
-|**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
-|**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus et.al.|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
-|**2022-12-13**|**Deep multilevel wet etching of fused silica glass microstructures in BOE solution**|T. G. Konstantinova et.al.|[2212.06699v1](http://arxiv.org/abs/2212.06699v1)|null|
-|**2022-12-13**|**A Comprehensive Dataset of Grains for Granular Jamming in Soft Robotics: Grip Strength and Shock Absorption**|David Howard et.al.|[2212.06511v1](http://arxiv.org/abs/2212.06511v1)|null|
-|**2022-12-13**|**Even Order Explicit Symplectic Geometric Algorithms for Quaternion Kinematical Differential Equation in Guidance Navigation and Control via Diagonal Padè Approximation and Cayley Transform**|Hong-Yan Zhang et.al.|[2212.06414v1](http://arxiv.org/abs/2212.06414v1)|null|
-|**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
-|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v2](http://arxiv.org/abs/2212.05743v2)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
-|**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
-|**2022-12-10**|**MountNet: Learning an Inertial Sensor Mounting Angle with Deep Neural Networks**|Maxim Freydin et.al.|[2212.11120v1](http://arxiv.org/abs/2212.11120v1)|null|
-|**2022-12-10**|**A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries**|Jeremy A. Riousset et.al.|[2212.06147v1](http://arxiv.org/abs/2212.06147v1)|null|
-|**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
-|**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
-|**2022-12-09**|**Logarithmic scaling of higher-order temperature moments in the atmospheric surface layer**|Kelly Y. Huang et.al.|[2212.04987v1](http://arxiv.org/abs/2212.04987v1)|null|
-|**2022-12-09**|**Thermal-Inertial Effects on Relativistic Asymmetric Magnetic Reconnection**|Maricarmen A. Winkler et.al.|[2212.04952v1](http://arxiv.org/abs/2212.04952v1)|null|
-|**2022-12-09**|**The r-modes of slowly rotating, stratified neutron stars**|Fabian Gittins et.al.|[2212.04892v1](http://arxiv.org/abs/2212.04892v1)|null|
-|**2022-12-09**|**Formulating the r-mode problem for slowly rotating neutron stars**|Nils Andersson et.al.|[2212.04837v1](http://arxiv.org/abs/2212.04837v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
 |**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|[link](https://github.com/jerredchen/a1_slam)|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
+|**2022-12-21**|**An inertial ADMM for a class of nonconvex composite optimization with nonlinear coupling constraints**|Le Thi Khanh Hien et.al.|[2212.11336v1](http://arxiv.org/abs/2212.11336v1)|null|
+|**2022-12-21**|**Efficient kinetic Lattice Boltzmann simulation of three-dimensional Hall-MHD Turbulence**|Raffaello Foldes et.al.|[2212.11024v1](http://arxiv.org/abs/2212.11024v1)|null|
+|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
+|**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|
+|**2022-12-19**|**The Possible Tidal Demise of Kepler's First Planetary System**|Shreyas Vissapragada et.al.|[2212.09752v1](http://arxiv.org/abs/2212.09752v1)|null|
+|**2022-12-17**|**ProNet: Adaptive Process Noise Estimation for INS/DVL Fusion**|Barak Or et.al.|[2212.08882v1](http://arxiv.org/abs/2212.08882v1)|null|
+|**2022-12-16**|**rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**|Bo Wei et.al.|[2212.08418v1](http://arxiv.org/abs/2212.08418v1)|null|
+|**2022-12-16**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v2](http://arxiv.org/abs/2212.08326v2)|null|
+|**2022-12-16**|**Proton Imaging of High-Energy-Density Laboratory Plasmas**|Derek B. Schaeffer et.al.|[2212.08252v1](http://arxiv.org/abs/2212.08252v1)|null|
+|**2022-12-15**|**Stokes drift and impurity transport in a quantum fluid**|Umberto Giuriato et.al.|[2212.07952v1](http://arxiv.org/abs/2212.07952v1)|null|
+|**2022-12-15**|**DOPAMINE: Doppler frequency and Angle of arrival MINimization of tracking Error for extended reality**|Andrea Bedin et.al.|[2212.07764v1](http://arxiv.org/abs/2212.07764v1)|null|
+|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|[link](https://github.com/xukuanHIT/AirVO)|
+|**2022-12-15**|**Scalings and intermittency in turbulent flows of elastoviscoplastic fluids**|Mohamed S. Abdelgawad et.al.|[2212.07581v1](http://arxiv.org/abs/2212.07581v1)|null|
+|**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
+|**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus et.al.|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
+|**2022-12-13**|**Deep multilevel wet etching of fused silica glass microstructures in BOE solution**|T. G. Konstantinova et.al.|[2212.06699v1](http://arxiv.org/abs/2212.06699v1)|null|
+|**2022-12-13**|**A Comprehensive Dataset of Grains for Granular Jamming in Soft Robotics: Grip Strength and Shock Absorption**|David Howard et.al.|[2212.06511v1](http://arxiv.org/abs/2212.06511v1)|null|
+|**2022-12-13**|**Even Order Explicit Symplectic Geometric Algorithms for Quaternion Kinematical Differential Equation in Guidance Navigation and Control via Diagonal Padè Approximation and Cayley Transform**|Hong-Yan Zhang et.al.|[2212.06414v1](http://arxiv.org/abs/2212.06414v1)|null|
+|**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
+|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v2](http://arxiv.org/abs/2212.05743v2)|[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)|
+|**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
+|**2022-12-10**|**MountNet: Learning an Inertial Sensor Mounting Angle with Deep Neural Networks**|Maxim Freydin et.al.|[2212.11120v1](http://arxiv.org/abs/2212.11120v1)|null|
+|**2022-12-10**|**A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries**|Jeremy A. Riousset et.al.|[2212.06147v1](http://arxiv.org/abs/2212.06147v1)|null|
+|**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
+|**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
+|**2022-12-09**|**Logarithmic scaling of higher-order temperature moments in the atmospheric surface layer**|Kelly Y. Huang et.al.|[2212.04987v1](http://arxiv.org/abs/2212.04987v1)|null|
+|**2022-12-09**|**Thermal-Inertial Effects on Relativistic Asymmetric Magnetic Reconnection**|Maricarmen A. Winkler et.al.|[2212.04952v1](http://arxiv.org/abs/2212.04952v1)|null|
+|**2022-12-09**|**The r-modes of slowly rotating, stratified neutron stars**|Fabian Gittins et.al.|[2212.04892v1](http://arxiv.org/abs/2212.04892v1)|null|
+|**2022-12-09**|**Formulating the r-mode problem for slowly rotating neutron stars**|Nils Andersson et.al.|[2212.04837v1](http://arxiv.org/abs/2212.04837v1)|null|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v2](http://arxiv.org/abs/2210.13031v2)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|[link](https://github.com/pengyu-team/dcl-slam)|
 |**2022-10-19**|**SR-LIO: LiDAR-Inertial Odometry with Sweep Reconstruction**|Zikang Yuan et.al.|[2210.10424v1](http://arxiv.org/abs/2210.10424v1)|[link](https://github.com/ZikangYuan/sr_lio)|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**A Wearable Data Collection System for Studying Micro-Level E-Scooter Behavior in Naturalistic Road Environment**|Avinash Prabu et.al.|[2212.11979v1](http://arxiv.org/abs/2212.11979v1)|null|
+|**2022-12-22**|**Peek into the Future Camera-based Occupant Sensing in Configurable Cabins for Autonomous Vehicles**|Avinash Prabu et.al.|[2212.11950v1](http://arxiv.org/abs/2212.11950v1)|null|
+|**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng et.al.|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
+|**2022-12-22**|**Spatio-Visual Fusion-Based Person Re-Identification for Overhead Fisheye Images**|Mertcan Cokbas et.al.|[2212.11477v1](http://arxiv.org/abs/2212.11477v1)|null|
+|**2022-12-22**|**Vision-Based Environmental Perception for Autonomous Driving**|Fei Liu et.al.|[2212.11453v1](http://arxiv.org/abs/2212.11453v1)|null|
+|**2022-12-22**|**Near-infrared spectroscopy of a massive young stellar object in the direction toward the Galactic Center: XCN and aromatic C-D features**|Takashi Onaka et.al.|[2212.11424v1](http://arxiv.org/abs/2212.11424v1)|null|
+|**2022-12-22**|**PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data**|Sebastian Zieba et.al.|[2212.11421v1](http://arxiv.org/abs/2212.11421v1)|[link](https://github.com/sebastian-zieba/pacman)|
+|**2022-12-21**|**Cattle Detection Occlusion Problem**|Aparna Mendu et.al.|[2212.11418v1](http://arxiv.org/abs/2212.11418v1)|null|
+|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
+|**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
+|**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
+|**2022-12-21**|**Shakebot: A Low-cost, Open-source Shake Table for Ground Motion Seismic Studies**|Zhiang Chen et.al.|[2212.10763v1](http://arxiv.org/abs/2212.10763v1)|null|
+|**2022-12-21**|**AEStream: Accelerated event-based processing with coroutines**|Jens Egholm Pedersen et.al.|[2212.10719v1](http://arxiv.org/abs/2212.10719v1)|null|
+|**2022-12-20**|**Scene-aware Egocentric 3D Human Pose Estimation**|Jian Wang et.al.|[2212.11684v1](http://arxiv.org/abs/2212.11684v1)|null|
+|**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
+|**2022-12-20**|**Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**|Simon Klenk et.al.|[2212.10368v1](http://arxiv.org/abs/2212.10368v1)|null|
+|**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
+|**2022-12-20**|**Tracking by Associating Clips**|Sanghyun Woo et.al.|[2212.10149v1](http://arxiv.org/abs/2212.10149v1)|null|
+|**2022-12-20**|**360$^\circ$ Stereo Image Composition with Depth Adaption**|Kun Huang et.al.|[2212.10062v1](http://arxiv.org/abs/2212.10062v1)|null|
+|**2022-12-20**|**Benchmarking person re-identification datasets and approaches for practical real-world implementations**|Jose Huaman et.al.|[2212.09981v1](http://arxiv.org/abs/2212.09981v1)|[link](https://github.com/josemiki/benchmarking_person_re_id)|
+|**2022-12-20**|**Robust and Resource-efficient Machine Learning Aided Viewport Prediction in Virtual Reality**|Yuang Jiang et.al.|[2212.09945v1](http://arxiv.org/abs/2212.09945v1)|null|
+|**2022-12-19**|**A study on Performance Boost of a 17~m class Cherenkov telescope with a SiPM-based camera**|Cornelia Arcaro et.al.|[2212.09456v1](http://arxiv.org/abs/2212.09456v1)|null|
+|**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
+|**2022-12-19**|**Simultaneous Multicolor Photometry of the DESTINY$^{+}$ target asteroid (3200) Phaethon**|Jin Beniyama et.al.|[2212.09323v1](http://arxiv.org/abs/2212.09323v1)|null|
+|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|null|
+|**2022-12-19**|**CHAD: Charlotte Anomaly Dataset**|Armin Danesh Pazho et.al.|[2212.09258v1](http://arxiv.org/abs/2212.09258v1)|null|
+|**2022-12-18**|**Beyond Digital "Echo Chambers": The Role of Viewpoint Diversity in Political Discussion**|Rishav Hada et.al.|[2212.09056v1](http://arxiv.org/abs/2212.09056v1)|[link](https://github.com/hadarishav/beyond-digital-echo-chambers)|
+|**2022-12-18**|**Smart Face Shield: A Sensor-Based Wearable Face Shield Utilizing Computer Vision Algorithms**|Manuel Luis C. Delos Santos et.al.|[2212.08996v1](http://arxiv.org/abs/2212.08996v1)|null|
+|**2022-12-17**|**A Brief Survey on Person Recognition at a Distance**|Chrisopher B. Nalty et.al.|[2212.08969v1](http://arxiv.org/abs/2212.08969v1)|null|
