@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-23**|**Atom Interferometry with the Rb Blue Transitions**|L. Salvi et.al.|[2212.12248v1](http://arxiv.org/abs/2212.12248v1)|null|
+|**2022-12-23**|**Gravitational Effect on Fundamental Physical Observables**|Yoshimasa Kurihara et.al.|[2212.12163v1](http://arxiv.org/abs/2212.12163v1)|null|
 |**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
 |**2022-12-21**|**An inertial ADMM for a class of nonconvex composite optimization with nonlinear coupling constraints**|Le Thi Khanh Hien et.al.|[2212.11336v1](http://arxiv.org/abs/2212.11336v1)|null|
 |**2022-12-21**|**Efficient kinetic Lattice Boltzmann simulation of three-dimensional Hall-MHD Turbulence**|Raffaello Foldes et.al.|[2212.11024v1](http://arxiv.org/abs/2212.11024v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
 |**2022-12-09**|**Logarithmic scaling of higher-order temperature moments in the atmospheric surface layer**|Kelly Y. Huang et.al.|[2212.04987v1](http://arxiv.org/abs/2212.04987v1)|null|
 |**2022-12-09**|**Thermal-Inertial Effects on Relativistic Asymmetric Magnetic Reconnection**|Maricarmen A. Winkler et.al.|[2212.04952v1](http://arxiv.org/abs/2212.04952v1)|null|
-|**2022-12-09**|**The r-modes of slowly rotating, stratified neutron stars**|Fabian Gittins et.al.|[2212.04892v1](http://arxiv.org/abs/2212.04892v1)|null|
-|**2022-12-09**|**Formulating the r-mode problem for slowly rotating neutron stars**|Nils Andersson et.al.|[2212.04837v1](http://arxiv.org/abs/2212.04837v1)|null|
