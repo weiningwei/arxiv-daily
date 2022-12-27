@@ -2,7 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-26**|**Multisensor Data Fusion for Reliable Obstacle Avoidance**|Thanh Nguyen Canh et.al.|[2212.13218v1](http://arxiv.org/abs/2212.13218v1)|null|
+|**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|null|
+|**2022-12-26**|**Weakly-Supervised Semantic Segmentation of Ships Using Thermal Imagery**|Rushil Joshi et.al.|[2212.13170v1](http://arxiv.org/abs/2212.13170v1)|null|
+|**2022-12-26**|**Rapid Scan White Light Pump-Probe Spectroscopy with 100 kHz Shot-to-Shot Detection**|Vivek N. Bhat et.al.|[2212.13016v1](http://arxiv.org/abs/2212.13016v1)|null|
+|**2022-12-25**|**Understanding Ethics, Privacy, and Regulations in Smart Video Surveillance for Public Safety**|Babak Rahimi Ardabili et.al.|[2212.12936v1](http://arxiv.org/abs/2212.12936v1)|null|
+|**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
+|**2022-12-23**|**Quantum correlation light-field microscope with extreme depth of field**|Yingwen Zhang et.al.|[2212.12582v1](http://arxiv.org/abs/2212.12582v1)|null|
 |**2022-12-23**|**Linear features segmentation from aerial images**|Zhipeng Chang et.al.|[2212.12327v1](http://arxiv.org/abs/2212.12327v1)|null|
+|**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-23**|**Fast Event-based Optical Flow Estimation by Triplet Matching**|Shintaro Shiba et.al.|[2212.12218v1](http://arxiv.org/abs/2212.12218v1)|null|
 |**2022-12-23**|**Implementation of a Blind navigation method in outdoors/indoors areas**|Mohammad Javadian Farzaneh et.al.|[2212.12185v1](http://arxiv.org/abs/2212.12185v1)|null|
 |**2022-12-22**|**NIRCam Performance on JWST In Flight**|Marcia J. Rieke et.al.|[2212.12069v1](http://arxiv.org/abs/2212.12069v1)|null|
@@ -24,11 +32,3 @@
 |**2022-12-21**|**AEStream: Accelerated event-based processing with coroutines**|Jens Egholm Pedersen et.al.|[2212.10719v1](http://arxiv.org/abs/2212.10719v1)|null|
 |**2022-12-20**|**Scene-aware Egocentric 3D Human Pose Estimation**|Jian Wang et.al.|[2212.11684v1](http://arxiv.org/abs/2212.11684v1)|null|
 |**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
-|**2022-12-20**|**Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**|Simon Klenk et.al.|[2212.10368v1](http://arxiv.org/abs/2212.10368v1)|null|
-|**2022-12-20**|**Seafloor-Invariant Caustics Removal from Underwater Imagery**|Panagiotis Agrafiotis et.al.|[2212.10167v1](http://arxiv.org/abs/2212.10167v1)|null|
-|**2022-12-20**|**Tracking by Associating Clips**|Sanghyun Woo et.al.|[2212.10149v1](http://arxiv.org/abs/2212.10149v1)|null|
-|**2022-12-20**|**360$^\circ$ Stereo Image Composition with Depth Adaption**|Kun Huang et.al.|[2212.10062v1](http://arxiv.org/abs/2212.10062v1)|null|
-|**2022-12-20**|**Benchmarking person re-identification datasets and approaches for practical real-world implementations**|Jose Huaman et.al.|[2212.09981v1](http://arxiv.org/abs/2212.09981v1)|[link](https://github.com/josemiki/benchmarking_person_re_id)|
-|**2022-12-20**|**Robust and Resource-efficient Machine Learning Aided Viewport Prediction in Virtual Reality**|Yuang Jiang et.al.|[2212.09945v1](http://arxiv.org/abs/2212.09945v1)|null|
-|**2022-12-19**|**A study on Performance Boost of a 17~m class Cherenkov telescope with a SiPM-based camera**|Cornelia Arcaro et.al.|[2212.09456v1](http://arxiv.org/abs/2212.09456v1)|null|
-|**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|

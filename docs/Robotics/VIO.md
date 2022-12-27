@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|null|
+|**2022-12-23**|**Mutual information harvested by uniformly accelerated particle detectors**|Manar Naeem et.al.|[2212.12546v1](http://arxiv.org/abs/2212.12546v1)|null|
 |**2022-12-23**|**Atom Interferometry with the Rb Blue Transitions**|L. Salvi et.al.|[2212.12248v1](http://arxiv.org/abs/2212.12248v1)|null|
 |**2022-12-23**|**Gravitational Effect on Fundamental Physical Observables**|Yoshimasa Kurihara et.al.|[2212.12163v1](http://arxiv.org/abs/2212.12163v1)|null|
 |**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-10**|**A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries**|Jeremy A. Riousset et.al.|[2212.06147v1](http://arxiv.org/abs/2212.06147v1)|null|
 |**2022-12-10**|**Generalized Fractal Dimension for a Dissipative Multi-fractal Cascade Model for Fully Developed Turbulence**|Bhimsen Shivamoggi et.al.|[2212.05158v1](http://arxiv.org/abs/2212.05158v1)|null|
 |**2022-12-09**|**Locality of triad interaction and Kolmogorov constant in inertial wave turbulence**|Vincent David et.al.|[2212.04995v1](http://arxiv.org/abs/2212.04995v1)|null|
-|**2022-12-09**|**Logarithmic scaling of higher-order temperature moments in the atmospheric surface layer**|Kelly Y. Huang et.al.|[2212.04987v1](http://arxiv.org/abs/2212.04987v1)|null|
-|**2022-12-09**|**Thermal-Inertial Effects on Relativistic Asymmetric Magnetic Reconnection**|Maricarmen A. Winkler et.al.|[2212.04952v1](http://arxiv.org/abs/2212.04952v1)|null|
