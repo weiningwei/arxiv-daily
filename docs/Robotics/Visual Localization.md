@@ -23,7 +23,7 @@
 |**2022-12-22**|**Near-infrared spectroscopy of a massive young stellar object in the direction toward the Galactic Center: XCN and aromatic C-D features**|Takashi Onaka et.al.|[2212.11424v1](http://arxiv.org/abs/2212.11424v1)|null|
 |**2022-12-22**|**PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data**|Sebastian Zieba et.al.|[2212.11421v1](http://arxiv.org/abs/2212.11421v1)|[link](https://github.com/sebastian-zieba/pacman)|
 |**2022-12-21**|**Cattle Detection Occlusion Problem**|Aparna Mendu et.al.|[2212.11418v1](http://arxiv.org/abs/2212.11418v1)|null|
-|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v1](http://arxiv.org/abs/2212.11042v1)|null|
+|**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v2](http://arxiv.org/abs/2212.11042v2)|null|
 |**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
 |**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
