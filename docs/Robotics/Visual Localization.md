@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-28**|**TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning**|Peixiang Huang et.al.|[2212.13979v1](http://arxiv.org/abs/2212.13979v1)|[link](https://github.com/adlab3ds/tig-bev)|
+|**2022-12-28**|**The effective Equation of State in Palatini $f(R)$ cosmology**|S. Camera et.al.|[2212.13825v1](http://arxiv.org/abs/2212.13825v1)|null|
+|**2022-12-28**|**Periocular Biometrics: A Modality for Unconstrained Scenarios**|Fernando Alonso-Fernandez et.al.|[2212.13792v1](http://arxiv.org/abs/2212.13792v1)|null|
+|**2022-12-28**|**Learning When to Use Adaptive Adversarial Image Perturbations against Autonomous Vehicles**|Hyung-Jin Yoon et.al.|[2212.13667v1](http://arxiv.org/abs/2212.13667v1)|null|
+|**2022-12-27**|**MVTN: Learning Multi-View Transformations for 3D Understanding**|Abdullah Hamdi et.al.|[2212.13462v1](http://arxiv.org/abs/2212.13462v1)|null|
+|**2022-12-27**|**Recovering Surveillance Video Using RF Cues**|Xiang Li et.al.|[2212.13340v1](http://arxiv.org/abs/2212.13340v1)|null|
+|**2022-12-26**|**PMODE: Prototypical Mask based Object Dimension Estimation**|Thariq Khalid et.al.|[2212.13281v1](http://arxiv.org/abs/2212.13281v1)|null|
 |**2022-12-26**|**Multisensor Data Fusion for Reliable Obstacle Avoidance**|Thanh Nguyen Canh et.al.|[2212.13218v1](http://arxiv.org/abs/2212.13218v1)|null|
 |**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
 |**2022-12-26**|**Weakly-Supervised Semantic Segmentation of Ships Using Thermal Imagery**|Rushil Joshi et.al.|[2212.13170v1](http://arxiv.org/abs/2212.13170v1)|null|
@@ -25,10 +32,3 @@
 |**2022-12-21**|**Cattle Detection Occlusion Problem**|Aparna Mendu et.al.|[2212.11418v1](http://arxiv.org/abs/2212.11418v1)|null|
 |**2022-12-21**|**Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble**|Chun-Han Yao et.al.|[2212.11042v2](http://arxiv.org/abs/2212.11042v2)|null|
 |**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
-|**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
-|**2022-12-21**|**Dynamic Speed Guidance for CAV Ramp Merging in Non-Cooperative Environment: An On-Site Experiment**|Wei Ji et.al.|[2212.12418v1](http://arxiv.org/abs/2212.12418v1)|null|
-|**2022-12-21**|**Shakebot: A Low-cost, Open-source Shake Table for Ground Motion Seismic Studies**|Zhiang Chen et.al.|[2212.10763v1](http://arxiv.org/abs/2212.10763v1)|null|
-|**2022-12-21**|**AEStream: Accelerated event-based processing with coroutines**|Jens Egholm Pedersen et.al.|[2212.10719v1](http://arxiv.org/abs/2212.10719v1)|null|
-|**2022-12-20**|**Scene-aware Egocentric 3D Human Pose Estimation**|Jian Wang et.al.|[2212.11684v1](http://arxiv.org/abs/2212.11684v1)|null|
-|**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
