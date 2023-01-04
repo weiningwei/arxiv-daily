@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-04 10:02:44 Asia/Shanghai
+ Automated deployment @ 2023-01-04 20:12:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,10 +8,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**El elixir de la energía eterna**|José Manuel Quesada Molina et.al.|[2301.01238v1](http://arxiv.org/abs/2301.01238v1)|null|
+|**2023-01-03**|**Information Aided Navigation: A Review**|Daniel Engelsman et.al.|[2301.01114v1](http://arxiv.org/abs/2301.01114v1)|null|
+|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**Inertial migration in pressure-driven channel flow: beyond the Segre-Silberberg pinch**|Prateek Anand et.al.|[2301.00789v1](http://arxiv.org/abs/2301.00789v1)|null|
 |**2023-01-02**|**Fast convex optimization via closed-loop time scaling of gradient dynamics**|Hedy Attouch et.al.|[2301.00701v1](http://arxiv.org/abs/2301.00701v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
 |**2022-12-31**|**High-Accuracy Absolute-Position-Aided Code Phase Tracking Based on RTK/INS Deep Integration in Challenging Static Scenarios**|Yiran Luo et.al.|[2301.00308v1](http://arxiv.org/abs/2301.00308v1)|null|
+|**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**New Insights on the Stokes Paradox for Flow in Unbounded Domains**|Ingeborg G. Gjerde et.al.|[2301.00039v1](http://arxiv.org/abs/2301.00039v1)|null|
 |**2022-12-30**|**The effective diffusivity of ordered and freely evolving bubbly suspensions**|Aurore Loisy et.al.|[2301.00028v1](http://arxiv.org/abs/2301.00028v1)|null|
 |**2022-12-30**|**Killing Horizons Decohere Quantum Superpositions**|Daine L. Danielson et.al.|[2301.00026v1](http://arxiv.org/abs/2301.00026v1)|null|
@@ -22,6 +26,7 @@
 |**2022-12-29**|**Trajectory Smoothing Using GNSS/PDR Integration Via Factor Graph Optimization in Urban Canyons**|Yihan Zhong et.al.|[2212.14264v1](http://arxiv.org/abs/2212.14264v1)|null|
 |**2022-12-29**|**Discovering Efficient Periodic Behaviours in Mechanical Systems via Neural Approximators**|Yannik Wotte et.al.|[2212.14253v1](http://arxiv.org/abs/2212.14253v1)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|[link](https://github.com/KangchengLiu/slam_resources)|
+|**2022-12-29**|**Turbulent Drag Reduction in Magnetohydrodynamic Turbulence and Dynamo from Energy Flux Perspectives**|Mahendra K. Verma et.al.|[2301.01281v1](http://arxiv.org/abs/2301.01281v1)|null|
 |**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
 |**2022-12-23**|**Mutual information harvested by uniformly accelerated particle detectors**|Manar Naeem et.al.|[2212.12546v1](http://arxiv.org/abs/2212.12546v1)|null|
@@ -33,50 +38,13 @@
 |**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
 |**2022-12-21**|**Bayesian Estimation of Experimental Parameters in Stochastic Inertial Systems: Theory, Simulations, and Experiments with Objects Levitated in Vacuum**|Martin Šiler et.al.|[2212.14043v1](http://arxiv.org/abs/2212.14043v1)|null|
 |**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|
-|**2022-12-20**|**Pain level and pain-related behaviour classification using GRU-based sparsely-connected RNNs**|Mohammad Mahdi Dehshibi et.al.|[2212.14806v1](http://arxiv.org/abs/2212.14806v1)|null|
-|**2022-12-19**|**The Possible Tidal Demise of Kepler's First Planetary System**|Shreyas Vissapragada et.al.|[2212.09752v1](http://arxiv.org/abs/2212.09752v1)|null|
-|**2022-12-17**|**ProNet: Adaptive Process Noise Estimation for INS/DVL Fusion**|Barak Or et.al.|[2212.08882v1](http://arxiv.org/abs/2212.08882v1)|null|
-|**2022-12-16**|**rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**|Bo Wei et.al.|[2212.08418v1](http://arxiv.org/abs/2212.08418v1)|null|
-|**2022-12-16**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v2](http://arxiv.org/abs/2212.08326v2)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-02**|**The Undesirable Dependence on Frequency of Gender Bias Metrics Based on Word Embeddings**|Francisco Valentini et.al.|[2301.00792v1](http://arxiv.org/abs/2301.00792v1)|[link](https://github.com/ftvalentini/embeddingsbiasfrequency)|
-|**2023-01-02**|**Point Cloud-based Proactive Link Quality Prediction for Millimeter-wave Communications**|Shoki Ohta et.al.|[2301.00752v1](http://arxiv.org/abs/2301.00752v1)|null|
-|**2023-01-02**|**Learning Invariance from Generated Variance for Unsupervised Person Re-identification**|Hao Chen et.al.|[2301.00725v1](http://arxiv.org/abs/2301.00725v1)|[link](https://github.com/chenhao2345/gcl-extended)|
-|**2023-01-02**|**Dynamically Modular and Sparse General Continual Learning**|Arnav Varma et.al.|[2301.00620v1](http://arxiv.org/abs/2301.00620v1)|null|
-|**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
-|**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
-|**2023-01-02**|**Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting**|Benjamin Wilson et.al.|[2301.00493v1](http://arxiv.org/abs/2301.00493v1)|[link](https://github.com/argoverse/av2-api)|
-|**2023-01-01**|**PCA-based Data Reduction and Signal Separation Techniques for James-Webb Space Telescope Data Processing**|Güray Hatipoğlu et.al.|[2301.00415v1](http://arxiv.org/abs/2301.00415v1)|null|
-|**2022-12-31**|**Landing a UAV in Harsh Winds and Turbulent Open Waters**|Parakh M. Gupta et.al.|[2301.00255v1](http://arxiv.org/abs/2301.00255v1)|null|
-|**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
-|**2022-12-31**|**Tracking Passengers and Baggage Items using Multiple Overhead Cameras at Security Checkpoints**|Abubakar Siddique et.al.|[2301.00190v1](http://arxiv.org/abs/2301.00190v1)|null|
-|**2022-12-31**|**Don't throw that video away! Reference Frames can fix Video Analysis with a Moving Camera**|Nathan T. Moore et.al.|[2301.00013v1](http://arxiv.org/abs/2301.00013v1)|null|
-|**2022-12-30**|**Long-Term Online Multi-Session Graph-Based SPLAM with Memory Management**|Mathieu Labbé et.al.|[2301.00050v1](http://arxiv.org/abs/2301.00050v1)|null|
-|**2022-12-30**|**SE(3)-Equivariant Reconstruction from Light Field**|Yinshuang Xu et.al.|[2212.14871v1](http://arxiv.org/abs/2212.14871v1)|null|
-|**2022-12-30**|**Machine Learning and Thermography Applied to the Detection and Classification of Cracks in Building**|Angela Busheska et.al.|[2212.14730v1](http://arxiv.org/abs/2212.14730v1)|null|
-|**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|[link](https://github.com/metra4ok/hpointloc)|
-|**2022-12-30**|**Observer-based Controller for VTOL-UAVs Tracking using Direct Vision-Aided Inertial Navigation Measurements**|Hashim A. Hashim et.al.|[2212.14632v1](http://arxiv.org/abs/2212.14632v1)|null|
-|**2022-12-30**|**X-MAS: Extremely Large-Scale Multi-Modal Sensor Dataset for Outdoor Surveillance in Real Environments**|DongKi Noh et.al.|[2212.14574v1](http://arxiv.org/abs/2212.14574v1)|null|
-|**2022-12-30**|**A Fine-Grained Vehicle Detection (FGVD) Dataset for Unconstrained Roads**|Prafful Kumar Khoba et.al.|[2212.14569v1](http://arxiv.org/abs/2212.14569v1)|null|
-|**2022-12-30**|**Using Ethernet or A Wireless Harness and Named Data Networking in A Commercial Trailer and The Impact on Its Lifecycle**|Ahmed Elhadeedy et.al.|[2212.14565v1](http://arxiv.org/abs/2212.14565v1)|null|
-|**2022-12-30**|**Resolution recovery on list mode MLEM reconstruction for Dynamic Cardiac SPECT system**|Yuemeng Feng et.al.|[2212.14505v1](http://arxiv.org/abs/2212.14505v1)|null|
-|**2022-12-29**|**Efficient Movie Scene Detection using State-Space Transformers**|Md Mohaiminul Islam et.al.|[2212.14427v1](http://arxiv.org/abs/2212.14427v1)|null|
-|**2022-12-29**|**On Deep Recurrent Reinforcement Learning for Active Visual Tracking of Space Noncooperative Objects**|Dong Zhou et.al.|[2212.14304v1](http://arxiv.org/abs/2212.14304v1)|[link](https://github.com/dongzhou-1996/ramavt)|
-|**2022-12-29**|**Data Reduction Process and Pipeline for the NIC Polarimetry Mode in Python, NICpolpy**|Yoonsoo P. Bach et.al.|[2212.14167v1](http://arxiv.org/abs/2212.14167v1)|[link](https://github.com/ysbach/nicpolpy)|
-|**2022-12-29**|**Multimodal Wildland Fire Smoke Detection**|Siddhant Baldota et.al.|[2212.14143v1](http://arxiv.org/abs/2212.14143v1)|null|
-|**2022-12-28**|**TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning**|Peixiang Huang et.al.|[2212.13979v1](http://arxiv.org/abs/2212.13979v1)|[link](https://github.com/adlab3ds/tig-bev)|
-|**2022-12-28**|**The effective Equation of State in Palatini $f(R)$ cosmology**|S. Camera et.al.|[2212.13825v1](http://arxiv.org/abs/2212.13825v1)|null|
-|**2022-12-28**|**Periocular Biometrics: A Modality for Unconstrained Scenarios**|Fernando Alonso-Fernandez et.al.|[2212.13792v1](http://arxiv.org/abs/2212.13792v1)|null|
-|**2022-12-28**|**Learning When to Use Adaptive Adversarial Image Perturbations against Autonomous Vehicles**|Hyung-Jin Yoon et.al.|[2212.13667v1](http://arxiv.org/abs/2212.13667v1)|null|
-|**2022-12-27**|**MVTN: Learning Multi-View Transformations for 3D Understanding**|Abdullah Hamdi et.al.|[2212.13462v1](http://arxiv.org/abs/2212.13462v1)|[link](https://github.com/ajhamdi/mvtorch)|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
+|**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|[link](https://github.com/KangchengLiu/slam_resources)|
 |**2022-12-27**|**Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**|Felipe Gómez-Cuba et.al.|[2212.13477v1](http://arxiv.org/abs/2212.13477v1)|[link](https://github.com/gomezcuba/castro-5g)|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
@@ -104,12 +72,46 @@
 |**2022-12-06**|**PRISM: Probabilistic Real-Time Inference in Spatial World Models**|Atanas Mirchev et.al.|[2212.02988v1](http://arxiv.org/abs/2212.02988v1)|null|
 |**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|[link](https://github.com/TUMFTM/orbslam-map-saving-extension)|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
-|**2022-12-05**|**ObjectMatch: Robust Registration using Canonical Object Correspondences**|Can Gümeli et.al.|[2212.01985v1](http://arxiv.org/abs/2212.01985v1)|null|
-|**2022-12-02**|**Sparse SPN: Depth Completion from Sparse Keypoints**|Yuqun Wu et.al.|[2212.00987v1](http://arxiv.org/abs/2212.00987v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**Neural Point Catacaustics for Novel-View Synthesis of Reflections**|Georgios Kopanas et.al.|[2301.01087v1](http://arxiv.org/abs/2301.01087v1)|null|
+|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
+|**2023-01-03**|**Pinhole quantum ghost imaging**|Andres Vega et.al.|[2301.00994v1](http://arxiv.org/abs/2301.00994v1)|null|
+|**2023-01-02**|**PHANGS-JWST First Results: Mapping the 3.3 micron Polycyclic Aromatic Hydrocarbon Vibrational Band in Nearby Galaxies with NIRCam Medium Bands**|Karin Sandstrom et.al.|[2301.00854v1](http://arxiv.org/abs/2301.00854v1)|null|
+|**2023-01-02**|**The Undesirable Dependence on Frequency of Gender Bias Metrics Based on Word Embeddings**|Francisco Valentini et.al.|[2301.00792v1](http://arxiv.org/abs/2301.00792v1)|[link](https://github.com/ftvalentini/embeddingsbiasfrequency)|
+|**2023-01-02**|**Point Cloud-based Proactive Link Quality Prediction for Millimeter-wave Communications**|Shoki Ohta et.al.|[2301.00752v1](http://arxiv.org/abs/2301.00752v1)|null|
+|**2023-01-02**|**Learning Invariance from Generated Variance for Unsupervised Person Re-identification**|Hao Chen et.al.|[2301.00725v1](http://arxiv.org/abs/2301.00725v1)|[link](https://github.com/chenhao2345/gcl-extended)|
+|**2023-01-02**|**Dynamically Modular and Sparse General Continual Learning**|Arnav Varma et.al.|[2301.00620v1](http://arxiv.org/abs/2301.00620v1)|null|
+|**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
+|**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
+|**2023-01-02**|**Search for Transient, Monochromatic Light from the Galactic Plane**|Geoffrey W. Marcy et.al.|[2301.01230v1](http://arxiv.org/abs/2301.01230v1)|null|
+|**2023-01-02**|**Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting**|Benjamin Wilson et.al.|[2301.00493v1](http://arxiv.org/abs/2301.00493v1)|[link](https://github.com/argoverse/av2-api)|
+|**2023-01-01**|**PCA-based Data Reduction and Signal Separation Techniques for James-Webb Space Telescope Data Processing**|Güray Hatipoğlu et.al.|[2301.00415v1](http://arxiv.org/abs/2301.00415v1)|null|
+|**2022-12-31**|**Landing a UAV in Harsh Winds and Turbulent Open Waters**|Parakh M. Gupta et.al.|[2301.00255v1](http://arxiv.org/abs/2301.00255v1)|null|
+|**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
+|**2022-12-31**|**Tracking Passengers and Baggage Items using Multiple Overhead Cameras at Security Checkpoints**|Abubakar Siddique et.al.|[2301.00190v1](http://arxiv.org/abs/2301.00190v1)|null|
+|**2022-12-31**|**Don't throw that video away! Reference Frames can fix Video Analysis with a Moving Camera**|Nathan T. Moore et.al.|[2301.00013v1](http://arxiv.org/abs/2301.00013v1)|null|
+|**2022-12-30**|**Long-Term Online Multi-Session Graph-Based SPLAM with Memory Management**|Mathieu Labbé et.al.|[2301.00050v1](http://arxiv.org/abs/2301.00050v1)|null|
+|**2022-12-30**|**SE(3)-Equivariant Reconstruction from Light Field**|Yinshuang Xu et.al.|[2212.14871v1](http://arxiv.org/abs/2212.14871v1)|null|
+|**2022-12-30**|**Machine Learning and Thermography Applied to the Detection and Classification of Cracks in Building**|Angela Busheska et.al.|[2212.14730v1](http://arxiv.org/abs/2212.14730v1)|null|
+|**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|[link](https://github.com/metra4ok/hpointloc)|
+|**2022-12-30**|**Observer-based Controller for VTOL-UAVs Tracking using Direct Vision-Aided Inertial Navigation Measurements**|Hashim A. Hashim et.al.|[2212.14632v1](http://arxiv.org/abs/2212.14632v1)|null|
+|**2022-12-30**|**X-MAS: Extremely Large-Scale Multi-Modal Sensor Dataset for Outdoor Surveillance in Real Environments**|DongKi Noh et.al.|[2212.14574v1](http://arxiv.org/abs/2212.14574v1)|null|
+|**2022-12-30**|**A Fine-Grained Vehicle Detection (FGVD) Dataset for Unconstrained Roads**|Prafful Kumar Khoba et.al.|[2212.14569v1](http://arxiv.org/abs/2212.14569v1)|null|
+|**2022-12-30**|**Using Ethernet or A Wireless Harness and Named Data Networking in A Commercial Trailer and The Impact on Its Lifecycle**|Ahmed Elhadeedy et.al.|[2212.14565v1](http://arxiv.org/abs/2212.14565v1)|null|
+|**2022-12-30**|**Resolution recovery on list mode MLEM reconstruction for Dynamic Cardiac SPECT system**|Yuemeng Feng et.al.|[2212.14505v1](http://arxiv.org/abs/2212.14505v1)|null|
+|**2022-12-29**|**Efficient Movie Scene Detection using State-Space Transformers**|Md Mohaiminul Islam et.al.|[2212.14427v1](http://arxiv.org/abs/2212.14427v1)|null|
+|**2022-12-29**|**On Deep Recurrent Reinforcement Learning for Active Visual Tracking of Space Noncooperative Objects**|Dong Zhou et.al.|[2212.14304v1](http://arxiv.org/abs/2212.14304v1)|[link](https://github.com/dongzhou-1996/ramavt)|
+|**2022-12-29**|**Data Reduction Process and Pipeline for the NIC Polarimetry Mode in Python, NICpolpy**|Yoonsoo P. Bach et.al.|[2212.14167v1](http://arxiv.org/abs/2212.14167v1)|[link](https://github.com/ysbach/nicpolpy)|
+|**2022-12-29**|**Multimodal Wildland Fire Smoke Detection**|Siddhant Baldota et.al.|[2212.14143v1](http://arxiv.org/abs/2212.14143v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
+|**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
 |**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|[link](https://github.com/xukuanHIT/AirVO)|
@@ -138,5 +140,3 @@
 |**2022-10-27**|**Learned Inertial Odometry for Autonomous Drone Racing**|Giovanni Cioffi et.al.|[2210.15287v1](http://arxiv.org/abs/2210.15287v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2022-10-27**|**InGVIO: A Consistent Invariant Filter for Fast and High-Accuracy GNSS-Visual-Inertial Odometry**|Changwu Liu et.al.|[2210.15145v1](http://arxiv.org/abs/2210.15145v1)|[link](https://github.com/changwuliu/ingvio)|
 |**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
-|**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
-|**2022-10-24**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031v2](http://arxiv.org/abs/2210.13031v2)|null|
