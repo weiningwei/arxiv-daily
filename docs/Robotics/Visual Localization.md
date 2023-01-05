@@ -9,7 +9,7 @@
 |**2023-01-02**|**The Undesirable Dependence on Frequency of Gender Bias Metrics Based on Word Embeddings**|Francisco Valentini et.al.|[2301.00792v1](http://arxiv.org/abs/2301.00792v1)|[link](https://github.com/ftvalentini/embeddingsbiasfrequency)|
 |**2023-01-02**|**Point Cloud-based Proactive Link Quality Prediction for Millimeter-wave Communications**|Shoki Ohta et.al.|[2301.00752v1](http://arxiv.org/abs/2301.00752v1)|null|
 |**2023-01-02**|**Learning Invariance from Generated Variance for Unsupervised Person Re-identification**|Hao Chen et.al.|[2301.00725v1](http://arxiv.org/abs/2301.00725v1)|[link](https://github.com/chenhao2345/gcl-extended)|
-|**2023-01-02**|**Dynamically Modular and Sparse General Continual Learning**|Arnav Varma et.al.|[2301.00620v1](http://arxiv.org/abs/2301.00620v1)|null|
+|**2023-01-02**|**Dynamically Modular and Sparse General Continual Learning**|Arnav Varma et.al.|[2301.00620v1](http://arxiv.org/abs/2301.00620v1)|[link](https://github.com/neurai-lab/dynamiccontinuallearning)|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
 |**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
 |**2023-01-02**|**Search for Transient, Monochromatic Light from the Galactic Plane**|Geoffrey W. Marcy et.al.|[2301.01230v1](http://arxiv.org/abs/2301.01230v1)|null|
