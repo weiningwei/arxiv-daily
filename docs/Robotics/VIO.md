@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-01-03**|**El elixir de la energía eterna**|José Manuel Quesada Molina et.al.|[2301.01238v1](http://arxiv.org/abs/2301.01238v1)|null|
+|**2023-01-03**|**El elixir de la energía eterna**|José Manuel Quesada Molina et.al.|[2301.01238v2](http://arxiv.org/abs/2301.01238v2)|null|
 |**2023-01-03**|**Information Aided Navigation: A Review**|Daniel Engelsman et.al.|[2301.01114v1](http://arxiv.org/abs/2301.01114v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**Inertial migration in pressure-driven channel flow: beyond the Segre-Silberberg pinch**|Prateek Anand et.al.|[2301.00789v1](http://arxiv.org/abs/2301.00789v1)|null|
