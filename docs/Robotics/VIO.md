@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04**|**Quantum Energy Inequalities along stationary worldlines**|Christopher J. Fewster et.al.|[2301.01698v1](http://arxiv.org/abs/2301.01698v1)|null|
+|**2023-01-03**|**LunarNav: Crater-based Localization for Long-range Autonomous Lunar Rover Navigation**|Shreyansh Daftry et.al.|[2301.01350v1](http://arxiv.org/abs/2301.01350v1)|null|
+|**2023-01-03**|**The ReSWARM Microgravity Flight Experiments: Planning, Control, and Model Estimation for On-Orbit Close Proximity Operations**|Bryce Doerr et.al.|[2301.01319v1](http://arxiv.org/abs/2301.01319v1)|null|
 |**2023-01-03**|**El elixir de la energía eterna**|José Manuel Quesada Molina et.al.|[2301.01238v2](http://arxiv.org/abs/2301.01238v2)|null|
 |**2023-01-03**|**Information Aided Navigation: A Review**|Daniel Engelsman et.al.|[2301.01114v1](http://arxiv.org/abs/2301.01114v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
@@ -29,6 +32,3 @@
 |**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
 |**2022-12-21**|**An inertial ADMM for a class of nonconvex composite optimization with nonlinear coupling constraints**|Le Thi Khanh Hien et.al.|[2212.11336v1](http://arxiv.org/abs/2212.11336v1)|null|
 |**2022-12-21**|**Efficient kinetic Lattice Boltzmann simulation of three-dimensional Hall-MHD Turbulence**|Raffaello Foldes et.al.|[2212.11024v1](http://arxiv.org/abs/2212.11024v1)|null|
-|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
-|**2022-12-21**|**Bayesian Estimation of Experimental Parameters in Stochastic Inertial Systems: Theory, Simulations, and Experiments with Objects Levitated in Vacuum**|Martin Šiler et.al.|[2212.14043v1](http://arxiv.org/abs/2212.14043v1)|[link](https://github.com/leviphot/beepsis)|
-|**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|

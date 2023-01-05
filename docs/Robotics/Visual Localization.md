@@ -2,6 +2,8 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-04**|**Sensitivity enhancement using chirp transmission for an ultrasound arthroscopic probe**|Baptiste Pialot et.al.|[2301.01617v1](http://arxiv.org/abs/2301.01617v1)|null|
+|**2023-01-04**|**Towards a Pipeline for Real-Time Visualization of Faces for VR-based Telepresence and Live Broadcasting Utilizing Neural Rendering**|Philipp Ladwig et.al.|[2301.01490v1](http://arxiv.org/abs/2301.01490v1)|null|
 |**2023-01-03**|**Neural Point Catacaustics for Novel-View Synthesis of Reflections**|Georgios Kopanas et.al.|[2301.01087v1](http://arxiv.org/abs/2301.01087v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-03**|**Pinhole quantum ghost imaging**|Andres Vega et.al.|[2301.00994v1](http://arxiv.org/abs/2301.00994v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-30**|**Resolution recovery on list mode MLEM reconstruction for Dynamic Cardiac SPECT system**|Yuemeng Feng et.al.|[2212.14505v1](http://arxiv.org/abs/2212.14505v1)|null|
 |**2022-12-29**|**Efficient Movie Scene Detection using State-Space Transformers**|Md Mohaiminul Islam et.al.|[2212.14427v1](http://arxiv.org/abs/2212.14427v1)|null|
 |**2022-12-29**|**On Deep Recurrent Reinforcement Learning for Active Visual Tracking of Space Noncooperative Objects**|Dong Zhou et.al.|[2212.14304v1](http://arxiv.org/abs/2212.14304v1)|[link](https://github.com/dongzhou-1996/ramavt)|
-|**2022-12-29**|**Data Reduction Process and Pipeline for the NIC Polarimetry Mode in Python, NICpolpy**|Yoonsoo P. Bach et.al.|[2212.14167v1](http://arxiv.org/abs/2212.14167v1)|[link](https://github.com/ysbach/nicpolpy)|
-|**2022-12-29**|**Multimodal Wildland Fire Smoke Detection**|Siddhant Baldota et.al.|[2212.14143v1](http://arxiv.org/abs/2212.14143v1)|null|
