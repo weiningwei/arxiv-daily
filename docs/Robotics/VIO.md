@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-06**|**Applications of elastic instability and elastic turbulence: Review, limitations, and future directions**|C. Sasmal et.al.|[2301.02395v1](http://arxiv.org/abs/2301.02395v1)|null|
 |**2023-01-05**|**Friction dynamics of elasto-inertial turbulence in Taylor-Couette flow of viscoelastic fluids**|Masoud Moazzen et.al.|[2301.02047v1](http://arxiv.org/abs/2301.02047v1)|null|
 |**2023-01-05**|**Dynamics of active particles with translational and rotational inertia**|Alexander R. Sprenger et.al.|[2301.01865v1](http://arxiv.org/abs/2301.01865v1)|null|
 |**2023-01-04**|**Quantum Energy Inequalities along stationary worldlines**|Christopher J. Fewster et.al.|[2301.01698v1](http://arxiv.org/abs/2301.01698v1)|null|
@@ -31,4 +32,3 @@
 |**2022-12-23**|**Mutual information harvested by uniformly accelerated particle detectors**|Manar Naeem et.al.|[2212.12546v1](http://arxiv.org/abs/2212.12546v1)|null|
 |**2022-12-23**|**Atom Interferometry with the Rb Blue Transitions**|L. Salvi et.al.|[2212.12248v1](http://arxiv.org/abs/2212.12248v1)|null|
 |**2022-12-23**|**Gravitational Effect on Fundamental Physical Observables**|Yoshimasa Kurihara et.al.|[2212.12163v1](http://arxiv.org/abs/2212.12163v1)|null|
-|**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
