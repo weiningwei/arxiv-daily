@@ -2,7 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-09**|**Modeling of Four-Winged Micro Ornithopters Inspired by Dragonflies**|Sifour Oussama et.al.|[2301.03187v1](http://arxiv.org/abs/2301.03187v1)|null|
+|**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v1](http://arxiv.org/abs/2301.02957v1)|null|
+|**2023-01-07**|**Inertial effects on rectification and diffusion of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2301.02902v1](http://arxiv.org/abs/2301.02902v1)|null|
 |**2023-01-06**|**Applications of elastic instability and elastic turbulence: Review, limitations, and future directions**|C. Sasmal et.al.|[2301.02395v1](http://arxiv.org/abs/2301.02395v1)|null|
+|**2023-01-06**|**Technology Report : Smartphone-Based Pedestrian Dead Reckoning Integrated with Data-Fusion-Adopted Visible Light Positioning**|Shangsheng Wen et.al.|[2301.03471v1](http://arxiv.org/abs/2301.03471v1)|null|
 |**2023-01-05**|**Friction dynamics of elasto-inertial turbulence in Taylor-Couette flow of viscoelastic fluids**|Masoud Moazzen et.al.|[2301.02047v1](http://arxiv.org/abs/2301.02047v1)|null|
 |**2023-01-05**|**Dynamics of active particles with translational and rotational inertia**|Alexander R. Sprenger et.al.|[2301.01865v1](http://arxiv.org/abs/2301.01865v1)|null|
 |**2023-01-04**|**Quantum Energy Inequalities along stationary worldlines**|Christopher J. Fewster et.al.|[2301.01698v1](http://arxiv.org/abs/2301.01698v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|[link](https://github.com/KangchengLiu/slam_resources)|
 |**2022-12-29**|**Turbulent Drag Reduction in Magnetohydrodynamic Turbulence and Dynamo from Energy Flux Perspectives**|Mahendra K. Verma et.al.|[2301.01281v1](http://arxiv.org/abs/2301.01281v1)|null|
 |**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
-|**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
-|**2022-12-23**|**Mutual information harvested by uniformly accelerated particle detectors**|Manar Naeem et.al.|[2212.12546v1](http://arxiv.org/abs/2212.12546v1)|null|
-|**2022-12-23**|**Atom Interferometry with the Rb Blue Transitions**|L. Salvi et.al.|[2212.12248v1](http://arxiv.org/abs/2212.12248v1)|null|
-|**2022-12-23**|**Gravitational Effect on Fundamental Physical Observables**|Yoshimasa Kurihara et.al.|[2212.12163v1](http://arxiv.org/abs/2212.12163v1)|null|
