@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-10**|**Benchmarking Robustness in Neural Radiance Fields**|Chen Wang et.al.|[2301.04075v1](http://arxiv.org/abs/2301.04075v1)|null|
+|**2023-01-10**|**Feasibility of the EDICAM camera for runaway electron detection in JT-60SA disruptions**|Soma Olasz et.al.|[2301.03918v1](http://arxiv.org/abs/2301.03918v1)|null|
+|**2023-01-10**|**Sentiment-based Engagement Strategies for intuitive Human-Robot Interaction**|Thorsten Hempel et.al.|[2301.03867v1](http://arxiv.org/abs/2301.03867v1)|null|
+|**2023-01-10**|**Nonlinear interactions of ion acoustic waves explored using fast imaging decompositions**|Simon Vincent et.al.|[2301.03860v1](http://arxiv.org/abs/2301.03860v1)|null|
+|**2023-01-10**|**How Data Scientists Review the Scholarly Literature**|Sheshera Mysore et.al.|[2301.03774v1](http://arxiv.org/abs/2301.03774v1)|[link](https://github.com/msheshera/dslitreview-study)|
 |**2023-01-09**|**Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**|Armin Danesh Pazho et.al.|[2301.03561v1](http://arxiv.org/abs/2301.03561v1)|null|
 |**2023-01-09**|**EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset**|Hao Tang et.al.|[2301.03213v1](http://arxiv.org/abs/2301.03213v1)|null|
 |**2023-01-08**|**Cinematic Techniques in Narrative Visualization**|Matthew Conlen et.al.|[2301.03109v1](http://arxiv.org/abs/2301.03109v1)|null|
@@ -27,8 +32,3 @@
 |**2023-01-04**|**MonoEdge: Monocular 3D Object Detection Using Local Perspectives**|Minghan Zhu et.al.|[2301.01802v1](http://arxiv.org/abs/2301.01802v1)|null|
 |**2023-01-04**|**Chat2Map: Efficient Scene Mapping from Multi-Ego Conversations**|Sagnik Majumder et.al.|[2301.02184v1](http://arxiv.org/abs/2301.02184v1)|null|
 |**2023-01-04**|**Sensitivity enhancement using chirp transmission for an ultrasound arthroscopic probe**|Baptiste Pialot et.al.|[2301.01617v1](http://arxiv.org/abs/2301.01617v1)|null|
-|**2023-01-04**|**Towards a Pipeline for Real-Time Visualization of Faces for VR-based Telepresence and Live Broadcasting Utilizing Neural Rendering**|Philipp Ladwig et.al.|[2301.01490v1](http://arxiv.org/abs/2301.01490v1)|[link](https://github.com/mirevi/face-synthesizer-jvrb)|
-|**2023-01-03**|**Neural Point Catacaustics for Novel-View Synthesis of Reflections**|Georgios Kopanas et.al.|[2301.01087v1](http://arxiv.org/abs/2301.01087v1)|null|
-|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
-|**2023-01-03**|**Pinhole quantum ghost imaging**|Andres Vega et.al.|[2301.00994v1](http://arxiv.org/abs/2301.00994v1)|null|
-|**2023-01-02**|**PHANGS-JWST First Results: Mapping the 3.3 micron Polycyclic Aromatic Hydrocarbon Vibrational Band in Nearby Galaxies with NIRCam Medium Bands**|Karin Sandstrom et.al.|[2301.00854v1](http://arxiv.org/abs/2301.00854v1)|null|
