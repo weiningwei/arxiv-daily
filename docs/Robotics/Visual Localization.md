@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-12**|**Scene-Aware 3D Multi-Human Motion Capture from a Single Camera**|Diogo Luvizon et.al.|[2301.05175v1](http://arxiv.org/abs/2301.05175v1)|null|
+|**2023-01-12**|**Fairly Private: Investigating The Fairness of Visual Privacy Preservation Algorithms**|Sophie Noiret et.al.|[2301.05012v1](http://arxiv.org/abs/2301.05012v1)|null|
+|**2023-01-12**|**A Two-limb Explanation for the Optical-to-infrared Transmission Spectrum of the Hot Jupiter HAT-P-32Ab**|Xin-Kai Li et.al.|[2301.04812v1](http://arxiv.org/abs/2301.04812v1)|null|
 |**2023-01-11**|**Geometry-biased Transformers for Novel View Synthesis**|Naveen Venkat et.al.|[2301.04650v1](http://arxiv.org/abs/2301.04650v1)|null|
 |**2023-01-11**|**EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata**|Chenhao Zheng et.al.|[2301.04647v1](http://arxiv.org/abs/2301.04647v1)|null|
 |**2023-01-11**|**Does progress on ImageNet transfer to real-world datasets?**|Alex Fang et.al.|[2301.04644v1](http://arxiv.org/abs/2301.04644v1)|null|
@@ -29,6 +32,3 @@
 |**2023-01-06**|**ARIADNE+: Large scale demonstration of fast optical readout for dual-phase LArTPCs at the CERN Neutrino Platform**|Adam Lowe et.al.|[2301.02530v1](http://arxiv.org/abs/2301.02530v1)|null|
 |**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu et.al.|[2301.02403v1](http://arxiv.org/abs/2301.02403v1)|null|
 |**2023-01-06**|**Technology Report : Smartphone-Based Pedestrian Dead Reckoning Integrated with Data-Fusion-Adopted Visible Light Positioning**|Shangsheng Wen et.al.|[2301.03471v1](http://arxiv.org/abs/2301.03471v1)|null|
-|**2023-01-05**|**Visual Estimation of Fingertip Pressure on Diverse Surfaces using Easily Captured Data**|Patrick Grady et.al.|[2301.02310v1](http://arxiv.org/abs/2301.02310v1)|null|
-|**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
-|**2023-01-05**|**Teaching Computer Vision for Ecology**|Elijah Cole et.al.|[2301.02211v1](http://arxiv.org/abs/2301.02211v1)|null|

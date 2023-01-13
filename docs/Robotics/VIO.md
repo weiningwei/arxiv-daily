@@ -2,7 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|null|
+|**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
+|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
+|**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
+|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
 |**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
 |**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
 |**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v2](http://arxiv.org/abs/2301.03896v2)|null|
@@ -29,6 +32,3 @@
 |**2022-12-30**|**Killing Horizons Decohere Quantum Superpositions**|Daine L. Danielson et.al.|[2301.00026v1](http://arxiv.org/abs/2301.00026v1)|null|
 |**2022-12-30**|**BSA -- Bi-Stiffness Actuation for optimally exploiting intrinsic compliance and inertial coupling effects in elastic joint robots**|Dennis Ossadnik et.al.|[2212.14741v1](http://arxiv.org/abs/2212.14741v1)|null|
 |**2022-12-30**|**Observer-based Controller for VTOL-UAVs Tracking using Direct Vision-Aided Inertial Navigation Measurements**|Hashim A. Hashim et.al.|[2212.14632v1](http://arxiv.org/abs/2212.14632v1)|null|
-|**2022-12-30**|**System-environment dynamics of GHZ-like states in noninertial frames**|Tinggui Zhang et.al.|[2212.14536v1](http://arxiv.org/abs/2212.14536v1)|null|
-|**2022-12-29**|**Motion of a superfluid vortex according to holographic quantum dissipation**|Wei-Can Yang et.al.|[2212.14488v1](http://arxiv.org/abs/2212.14488v1)|null|
-|**2022-12-29**|**Trajectory Smoothing Using GNSS/PDR Integration Via Factor Graph Optimization in Urban Canyons**|Yihan Zhong et.al.|[2212.14264v1](http://arxiv.org/abs/2212.14264v1)|null|
