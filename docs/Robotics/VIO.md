@@ -3,11 +3,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|null|
-|**2023-01-11**|**TBV Radar SLAM $\unicode{x2013}$ trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v1](http://arxiv.org/abs/2301.04397v1)|null|
+|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
 |**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
 |**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v2](http://arxiv.org/abs/2301.03896v2)|null|
 |**2023-01-09**|**Modeling of Four-Winged Micro Ornithopters Inspired by Dragonflies**|Sifour Oussama et.al.|[2301.03187v1](http://arxiv.org/abs/2301.03187v1)|null|
-|**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v1](http://arxiv.org/abs/2301.02957v1)|null|
+|**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v2](http://arxiv.org/abs/2301.02957v2)|null|
 |**2023-01-07**|**Inertial effects on rectification and diffusion of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2301.02902v1](http://arxiv.org/abs/2301.02902v1)|null|
 |**2023-01-06**|**Applications of elastic instability and elastic turbulence: Review, limitations, and future directions**|C. Sasmal et.al.|[2301.02395v1](http://arxiv.org/abs/2301.02395v1)|null|
 |**2023-01-06**|**Technology Report : Smartphone-Based Pedestrian Dead Reckoning Integrated with Data-Fusion-Adopted Visible Light Positioning**|Shangsheng Wen et.al.|[2301.03471v1](http://arxiv.org/abs/2301.03471v1)|null|

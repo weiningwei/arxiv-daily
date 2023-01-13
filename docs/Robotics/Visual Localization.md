@@ -16,7 +16,7 @@
 |**2023-01-10**|**InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning**|Juyeb Shin et.al.|[2301.04470v1](http://arxiv.org/abs/2301.04470v1)|null|
 |**2023-01-10**|**How Data Scientists Review the Scholarly Literature**|Sheshera Mysore et.al.|[2301.03774v1](http://arxiv.org/abs/2301.03774v1)|[link](https://github.com/msheshera/dslitreview-study)|
 |**2023-01-09**|**Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**|Armin Danesh Pazho et.al.|[2301.03561v1](http://arxiv.org/abs/2301.03561v1)|null|
-|**2023-01-09**|**EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset**|Hao Tang et.al.|[2301.03213v1](http://arxiv.org/abs/2301.03213v1)|null|
+|**2023-01-09**|**EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset**|Hao Tang et.al.|[2301.03213v2](http://arxiv.org/abs/2301.03213v2)|null|
 |**2023-01-08**|**Cinematic Techniques in Narrative Visualization**|Matthew Conlen et.al.|[2301.03109v1](http://arxiv.org/abs/2301.03109v1)|null|
 |**2023-01-08**|**Equivalence of Two Expressions of Principal Line**|Cheng-Yen Hsu et.al.|[2301.03039v1](http://arxiv.org/abs/2301.03039v1)|null|
 |**2023-01-08**|**RGB-T Multi-Modal Crowd Counting Based on Transformer**|Zhengyi Liu et.al.|[2301.03033v1](http://arxiv.org/abs/2301.03033v1)|[link](https://github.com/liuzywen/rgbtcc)|
