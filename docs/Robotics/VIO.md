@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
+|**2023-01-13**|**Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation**|Carolina Gonçalves et.al.|[2301.05575v1](http://arxiv.org/abs/2301.05575v1)|null|
+|**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
+|**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
 |**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
 |**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
 |**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
@@ -28,7 +32,3 @@
 |**2022-12-31**|**High-Accuracy Absolute-Position-Aided Code Phase Tracking Based on RTK/INS Deep Integration in Challenging Static Scenarios**|Yiran Luo et.al.|[2301.00308v1](http://arxiv.org/abs/2301.00308v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**New Insights on the Stokes Paradox for Flow in Unbounded Domains**|Ingeborg G. Gjerde et.al.|[2301.00039v1](http://arxiv.org/abs/2301.00039v1)|null|
-|**2022-12-30**|**The effective diffusivity of ordered and freely evolving bubbly suspensions**|Aurore Loisy et.al.|[2301.00028v1](http://arxiv.org/abs/2301.00028v1)|null|
-|**2022-12-30**|**Killing Horizons Decohere Quantum Superpositions**|Daine L. Danielson et.al.|[2301.00026v1](http://arxiv.org/abs/2301.00026v1)|null|
-|**2022-12-30**|**BSA -- Bi-Stiffness Actuation for optimally exploiting intrinsic compliance and inertial coupling effects in elastic joint robots**|Dennis Ossadnik et.al.|[2212.14741v1](http://arxiv.org/abs/2212.14741v1)|null|
-|**2022-12-30**|**Observer-based Controller for VTOL-UAVs Tracking using Direct Vision-Aided Inertial Navigation Measurements**|Hashim A. Hashim et.al.|[2212.14632v1](http://arxiv.org/abs/2212.14632v1)|null|
