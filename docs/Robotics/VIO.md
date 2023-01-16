@@ -8,7 +8,7 @@
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
 |**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
 |**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
-|**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v2](http://arxiv.org/abs/2301.03896v2)|null|
+|**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v3](http://arxiv.org/abs/2301.03896v3)|null|
 |**2023-01-09**|**Modeling of Four-Winged Micro Ornithopters Inspired by Dragonflies**|Sifour Oussama et.al.|[2301.03187v1](http://arxiv.org/abs/2301.03187v1)|null|
 |**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v2](http://arxiv.org/abs/2301.02957v2)|null|
 |**2023-01-07**|**Inertial effects on rectification and diffusion of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2301.02902v1](http://arxiv.org/abs/2301.02902v1)|null|
