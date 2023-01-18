@@ -12,7 +12,7 @@
 |**2023-01-11**|**Geometry-biased Transformers for Novel View Synthesis**|Naveen Venkat et.al.|[2301.04650v1](http://arxiv.org/abs/2301.04650v1)|null|
 |**2023-01-11**|**EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata**|Chenhao Zheng et.al.|[2301.04647v1](http://arxiv.org/abs/2301.04647v1)|null|
 |**2023-01-11**|**Does progress on ImageNet transfer to real-world datasets?**|Alex Fang et.al.|[2301.04644v1](http://arxiv.org/abs/2301.04644v1)|null|
-|**2023-01-11**|**Street-View Image Generation from a Bird's-Eye View Layout**|Alexander Swerdlow et.al.|[2301.04634v1](http://arxiv.org/abs/2301.04634v1)|null|
+|**2023-01-11**|**Street-View Image Generation from a Bird's-Eye View Layout**|Alexander Swerdlow et.al.|[2301.04634v2](http://arxiv.org/abs/2301.04634v2)|null|
 |**2023-01-11**|**ShadowNav: Crater-Based Localization for Nighttime and Permanently Shadowed Region Lunar Navigation**|Abhishek Cauligi et.al.|[2301.04630v1](http://arxiv.org/abs/2301.04630v1)|null|
 |**2023-01-11**|**Threading light through dynamic complex media**|Chaitanya K. Mididoddi et.al.|[2301.04461v1](http://arxiv.org/abs/2301.04461v1)|null|
 |**2023-01-11**|**Optical Flow for Autonomous Driving: Applications, Challenges and Improvements**|Shihao Shen et.al.|[2301.04422v1](http://arxiv.org/abs/2301.04422v1)|null|

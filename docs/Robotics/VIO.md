@@ -7,7 +7,7 @@
 |**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
 |**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
 |**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
-|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
+|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
 |**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
 |**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
