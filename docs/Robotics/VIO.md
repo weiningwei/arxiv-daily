@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**Periodicities of solar activity and solar radiation derived from observations and their links with the terrestrial environment**|Valentina V. Zharkova et.al.|[2301.07480v1](http://arxiv.org/abs/2301.07480v1)|null|
+|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
+|**2023-01-17**|**Parametric instability in warped astrophysical discs: growth, saturation and feedback**|Callum W. Fairbairn et.al.|[2301.07176v1](http://arxiv.org/abs/2301.07176v1)|null|
+|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2023-01-17**|**Dynamical tides in Jupiter and other rotationally flattened planets and stars with stable stratification**|Janosz W. Dewberry et.al.|[2301.07097v1](http://arxiv.org/abs/2301.07097v1)|null|
 |**2023-01-17**|**Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers**|Emma Bouton--Bessac et.al.|[2301.06993v1](http://arxiv.org/abs/2301.06993v1)|null|
 |**2023-01-17**|**Effects of particle size and background rotation on the settling of particle clouds**|Quentin Kriaa et.al.|[2301.06963v1](http://arxiv.org/abs/2301.06963v1)|null|
@@ -28,7 +32,3 @@
 |**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v3](http://arxiv.org/abs/2301.03896v3)|null|
 |**2023-01-09**|**Modeling of Four-Winged Micro Ornithopters Inspired by Dragonflies**|Sifour Oussama et.al.|[2301.03187v1](http://arxiv.org/abs/2301.03187v1)|null|
 |**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v2](http://arxiv.org/abs/2301.02957v2)|null|
-|**2023-01-07**|**Inertial effects on rectification and diffusion of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2301.02902v1](http://arxiv.org/abs/2301.02902v1)|null|
-|**2023-01-06**|**Applications of elastic instability and elastic turbulence: Review, limitations, and future directions**|C. Sasmal et.al.|[2301.02395v1](http://arxiv.org/abs/2301.02395v1)|null|
-|**2023-01-06**|**Technology Report : Smartphone-Based Pedestrian Dead Reckoning Integrated with Data-Fusion-Adopted Visible Light Positioning**|Shangsheng Wen et.al.|[2301.03471v1](http://arxiv.org/abs/2301.03471v1)|null|
-|**2023-01-05**|**Friction dynamics of elasto-inertial turbulence in Taylor-Couette flow of viscoelastic fluids**|Masoud Moazzen et.al.|[2301.02047v1](http://arxiv.org/abs/2301.02047v1)|null|

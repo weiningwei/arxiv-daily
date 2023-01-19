@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wu et.al.|[2301.07405v1](http://arxiv.org/abs/2301.07405v1)|null|
+|**2023-01-18**|**Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant**|Ying Jin et.al.|[2301.07340v1](http://arxiv.org/abs/2301.07340v1)|[link](https://github.com/Jin-Ying/GTA-Seg)|
+|**2023-01-18**|**FPANet: Frequency-based Video Demoireing using Frame-level Post Alignment**|Gyeongrok Oh et.al.|[2301.07330v1](http://arxiv.org/abs/2301.07330v1)|null|
+|**2023-01-18**|**The OpenCDA Open-source Ecosystem for Cooperative Driving Automation Research**|Runsheng Xu et.al.|[2301.07325v1](http://arxiv.org/abs/2301.07325v1)|null|
+|**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
+|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
+|**2023-01-17**|**The JWST Resolved Stellar Populations Early Release Science Program III: Photometric Star-Galaxy Separations for NIRCam**|Jack T. Warfield et.al.|[2301.07218v1](http://arxiv.org/abs/2301.07218v1)|null|
+|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2023-01-17**|**Event-based Shape from Polarization**|Manasi Muglikar et.al.|[2301.06855v1](http://arxiv.org/abs/2301.06855v1)|null|
 |**2023-01-17**|**A 2022 $τ$-Herculid meteor cluster from an airborne experiment: automated detection, characterization, and consequences for meteoroids**|J. Vaubaillon et.al.|[2301.06851v1](http://arxiv.org/abs/2301.06851v1)|null|
 |**2023-01-17**|**The SOUL view of IRAS20126+4104. Kinematics and variability of the H$_2$ jet from a massive protostar**|F. Massi et.al.|[2301.06832v1](http://arxiv.org/abs/2301.06832v1)|null|
@@ -24,11 +32,3 @@
 |**2023-01-15**|**Delving Deep into Pixel Alignment Feature for Accurate Multi-view Human Mesh Recovery**|Kai Jia et.al.|[2301.06020v1](http://arxiv.org/abs/2301.06020v1)|null|
 |**2023-01-14**|**Hand Gesture Recognition through Reflected Infrared Light Wave Signals**|Li Yu et.al.|[2301.05955v1](http://arxiv.org/abs/2301.05955v1)|null|
 |**2023-01-14**|**Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes**|Songchun Zhang et.al.|[2301.05871v1](http://arxiv.org/abs/2301.05871v1)|null|
-|**2023-01-14**|**(Safe) SMART Hands: Hand Activity Analysis and Distraction Alerts Using a Multi-Camera Framework**|Ross Greer et.al.|[2301.05838v1](http://arxiv.org/abs/2301.05838v1)|null|
-|**2023-01-14**|**Environment Semantics Aided Wireless Communications: A Case Study of mmWave Beam Prediction and Blockage Prediction**|Yuwen Yang et.al.|[2301.05837v1](http://arxiv.org/abs/2301.05837v1)|null|
-|**2023-01-14**|**Safe Control Transitions: Machine Vision Based Observable Readiness Index and Data-Driven Takeover Time Prediction**|Ross Greer et.al.|[2301.05805v1](http://arxiv.org/abs/2301.05805v1)|null|
-|**2023-01-13**|**Co-manipulation of soft-materials estimating deformation from depth images**|Giorgio Nicola et.al.|[2301.05609v1](http://arxiv.org/abs/2301.05609v1)|null|
-|**2023-01-13**|**Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation**|Carolina Gonçalves et.al.|[2301.05575v1](http://arxiv.org/abs/2301.05575v1)|null|
-|**2023-01-13**|**Learning Transformations To Reduce the Geometric Shift in Object Detection**|Vidit Vidit et.al.|[2301.05496v1](http://arxiv.org/abs/2301.05496v1)|null|
-|**2023-01-13**|**Towards Single Camera Human 3D-Kinematics**|Marian Bittner et.al.|[2301.05435v1](http://arxiv.org/abs/2301.05435v1)|[link](https://github.com/bittnerma/direct3dkinematicestimation)|
-|**2023-01-13**|**OA-BEV: Bringing Object Awareness to Bird's-Eye-View Representation for Multi-Camera 3D Object Detection**|Xiaomeng Chu et.al.|[2301.05711v1](http://arxiv.org/abs/2301.05711v1)|null|
