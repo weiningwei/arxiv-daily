@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-20 08:36:53 Asia/Shanghai
+ Automated deployment @ 2023-01-20 10:07:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -68,44 +68,10 @@
 |**2023-01-16**|**First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory**|Nikhil Mukund et.al.|[2301.06221v1](http://arxiv.org/abs/2301.06221v1)|null|
 |**2023-01-15**|**Secure Video Streaming Using Dedicated Hardware**|Nicholas Murray-Hill et.al.|[2301.06180v1](http://arxiv.org/abs/2301.06180v1)|null|
 |**2023-01-15**|**Multi-Camera Lighting Estimation for Photorealistic Front-Facing Mobile Augmented Reality**|Yiqin Zhao et.al.|[2301.06143v1](http://arxiv.org/abs/2301.06143v1)|null|
-|**2023-01-15**|**MN-pair Contrastive Damage Representation and Clustering for Prognostic Explanation**|Takato Yasuno et.al.|[2301.06077v1](http://arxiv.org/abs/2301.06077v1)|null|
+|**2023-01-15**|**MN-Pair Contrastive Damage Representation and Clustering for Prognostic Explanation**|Takato Yasuno et.al.|[2301.06077v2](http://arxiv.org/abs/2301.06077v2)|null|
 |**2023-01-15**|**Delving Deep into Pixel Alignment Feature for Accurate Multi-view Human Mesh Recovery**|Kai Jia et.al.|[2301.06020v1](http://arxiv.org/abs/2301.06020v1)|null|
 |**2023-01-14**|**Hand Gesture Recognition through Reflected Infrared Light Wave Signals**|Li Yu et.al.|[2301.05955v1](http://arxiv.org/abs/2301.05955v1)|null|
 |**2023-01-14**|**Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes**|Songchun Zhang et.al.|[2301.05871v1](http://arxiv.org/abs/2301.05871v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-18**|**Periodicities of solar activity and solar radiation derived from observations and their links with the terrestrial environment**|Valentina V. Zharkova et.al.|[2301.07480v1](http://arxiv.org/abs/2301.07480v1)|null|
-|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
-|**2023-01-17**|**Parametric instability in warped astrophysical discs: growth, saturation and feedback**|Callum W. Fairbairn et.al.|[2301.07176v1](http://arxiv.org/abs/2301.07176v1)|null|
-|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
-|**2023-01-17**|**Dynamical tides in Jupiter and other rotationally flattened planets and stars with stable stratification**|Janosz W. Dewberry et.al.|[2301.07097v1](http://arxiv.org/abs/2301.07097v1)|null|
-|**2023-01-17**|**Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers**|Emma Bouton--Bessac et.al.|[2301.06993v1](http://arxiv.org/abs/2301.06993v1)|null|
-|**2023-01-17**|**Effects of particle size and background rotation on the settling of particle clouds**|Quentin Kriaa et.al.|[2301.06963v1](http://arxiv.org/abs/2301.06963v1)|null|
-|**2023-01-16**|**Level-crossing counting for inertial random processes. Rice's approach revisited**|Jaume Masoliver et.al.|[2301.06608v1](http://arxiv.org/abs/2301.06608v1)|null|
-|**2023-01-16**|**Are inertial vacua equivalent in Lorentz-violating theories? Does it matter?**|Bruno Arderucio Costa et.al.|[2301.06600v1](http://arxiv.org/abs/2301.06600v1)|null|
-|**2023-01-16**|**Ringdown frequencies in black holes formed from precessing black-hole binaries**|Eleanor Hamilton et.al.|[2301.06558v1](http://arxiv.org/abs/2301.06558v1)|null|
-|**2023-01-16**|**Equilivest: A Robotic Vest to aid in Post-Stroke Dynamic Balance Rehabilitation**|Franco Paviotti et.al.|[2301.06528v1](http://arxiv.org/abs/2301.06528v1)|null|
-|**2023-01-16**|**Closed-Loop Magnetic Manipulation for Robotic Transesophageal Echocardiography**|Keyu Li et.al.|[2301.06388v1](http://arxiv.org/abs/2301.06388v1)|null|
-|**2023-01-16**|**Scientific value of the quantum tests of equivalence principle in light of Hilbert's sixth problem**|Abhishek Majhi et.al.|[2301.06327v1](http://arxiv.org/abs/2301.06327v1)|null|
-|**2023-01-16**|**Representation Learning for Tablet and Paper Domain Adaptation in Favor of Online Handwriting Recognition**|Felix Ott et.al.|[2301.06293v1](http://arxiv.org/abs/2301.06293v1)|null|
-|**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie et.al.|[2301.06230v1](http://arxiv.org/abs/2301.06230v1)|[link](https://github.com/mistlab/swarm-slam)|
-|**2023-01-15**|**Lagrangian statistics of a shock-driven turbulent dynamo in decaying turbulence**|Justin Kin Jun Hew et.al.|[2301.06033v1](http://arxiv.org/abs/2301.06033v1)|null|
-|**2023-01-13**|**Theoretical modeling of capillary surfer interactions on a vibrating fluid bath**|Anand U. Oza et.al.|[2301.05767v1](http://arxiv.org/abs/2301.05767v1)|null|
-|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
-|**2023-01-13**|**Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation**|Carolina Gonçalves et.al.|[2301.05575v1](http://arxiv.org/abs/2301.05575v1)|null|
-|**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
-|**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
-|**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
-|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
-|**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
-|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
-|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
-|**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
-|**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v3](http://arxiv.org/abs/2301.03896v3)|null|
-|**2023-01-09**|**Modeling of Four-Winged Micro Ornithopters Inspired by Dragonflies**|Sifour Oussama et.al.|[2301.03187v1](http://arxiv.org/abs/2301.03187v1)|null|
-|**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v2](http://arxiv.org/abs/2301.02957v2)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -140,3 +106,37 @@
 |**2022-12-14**|**RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping**|Hyowon Kim et.al.|[2212.07141v1](http://arxiv.org/abs/2212.07141v1)|null|
 |**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus et.al.|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
 |**2022-12-13**|**SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**|Chenyangguang Zhang et.al.|[2212.06524v1](http://arxiv.org/abs/2212.06524v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**Periodicities of solar activity and solar radiation derived from observations and their links with the terrestrial environment**|Valentina V. Zharkova et.al.|[2301.07480v1](http://arxiv.org/abs/2301.07480v1)|null|
+|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
+|**2023-01-17**|**Parametric instability in warped astrophysical discs: growth, saturation and feedback**|Callum W. Fairbairn et.al.|[2301.07176v1](http://arxiv.org/abs/2301.07176v1)|null|
+|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
+|**2023-01-17**|**Dynamical tides in Jupiter and other rotationally flattened planets and stars with stable stratification**|Janosz W. Dewberry et.al.|[2301.07097v1](http://arxiv.org/abs/2301.07097v1)|null|
+|**2023-01-17**|**Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers**|Emma Bouton--Bessac et.al.|[2301.06993v1](http://arxiv.org/abs/2301.06993v1)|null|
+|**2023-01-17**|**Effects of particle size and background rotation on the settling of particle clouds**|Quentin Kriaa et.al.|[2301.06963v1](http://arxiv.org/abs/2301.06963v1)|null|
+|**2023-01-16**|**Level-crossing counting for inertial random processes. Rice's approach revisited**|Jaume Masoliver et.al.|[2301.06608v1](http://arxiv.org/abs/2301.06608v1)|null|
+|**2023-01-16**|**Are inertial vacua equivalent in Lorentz-violating theories? Does it matter?**|Bruno Arderucio Costa et.al.|[2301.06600v1](http://arxiv.org/abs/2301.06600v1)|null|
+|**2023-01-16**|**Ringdown frequencies in black holes formed from precessing black-hole binaries**|Eleanor Hamilton et.al.|[2301.06558v1](http://arxiv.org/abs/2301.06558v1)|null|
+|**2023-01-16**|**Equilivest: A Robotic Vest to aid in Post-Stroke Dynamic Balance Rehabilitation**|Franco Paviotti et.al.|[2301.06528v1](http://arxiv.org/abs/2301.06528v1)|null|
+|**2023-01-16**|**Closed-Loop Magnetic Manipulation for Robotic Transesophageal Echocardiography**|Keyu Li et.al.|[2301.06388v1](http://arxiv.org/abs/2301.06388v1)|null|
+|**2023-01-16**|**Scientific value of the quantum tests of equivalence principle in light of Hilbert's sixth problem**|Abhishek Majhi et.al.|[2301.06327v1](http://arxiv.org/abs/2301.06327v1)|null|
+|**2023-01-16**|**Representation Learning for Tablet and Paper Domain Adaptation in Favor of Online Handwriting Recognition**|Felix Ott et.al.|[2301.06293v1](http://arxiv.org/abs/2301.06293v1)|null|
+|**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie et.al.|[2301.06230v1](http://arxiv.org/abs/2301.06230v1)|[link](https://github.com/mistlab/swarm-slam)|
+|**2023-01-15**|**Lagrangian statistics of a shock-driven turbulent dynamo in decaying turbulence**|Justin Kin Jun Hew et.al.|[2301.06033v1](http://arxiv.org/abs/2301.06033v1)|null|
+|**2023-01-13**|**Theoretical modeling of capillary surfer interactions on a vibrating fluid bath**|Anand U. Oza et.al.|[2301.05767v1](http://arxiv.org/abs/2301.05767v1)|null|
+|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
+|**2023-01-13**|**Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation**|Carolina Gonçalves et.al.|[2301.05575v1](http://arxiv.org/abs/2301.05575v1)|null|
+|**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
+|**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
+|**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
+|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
+|**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
+|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
+|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
+|**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
+|**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v3](http://arxiv.org/abs/2301.03896v3)|null|
+|**2023-01-09**|**Modeling of Four-Winged Micro Ornithopters Inspired by Dragonflies**|Sifour Oussama et.al.|[2301.03187v1](http://arxiv.org/abs/2301.03187v1)|null|
+|**2023-01-08**|**Semi-Analytical Solutions of Shallow Water Waves with Idealised Bottom Topographies**|Chang Liu et.al.|[2301.02957v2](http://arxiv.org/abs/2301.02957v2)|null|

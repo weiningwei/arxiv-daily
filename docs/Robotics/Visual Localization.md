@@ -28,7 +28,7 @@
 |**2023-01-16**|**First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory**|Nikhil Mukund et.al.|[2301.06221v1](http://arxiv.org/abs/2301.06221v1)|null|
 |**2023-01-15**|**Secure Video Streaming Using Dedicated Hardware**|Nicholas Murray-Hill et.al.|[2301.06180v1](http://arxiv.org/abs/2301.06180v1)|null|
 |**2023-01-15**|**Multi-Camera Lighting Estimation for Photorealistic Front-Facing Mobile Augmented Reality**|Yiqin Zhao et.al.|[2301.06143v1](http://arxiv.org/abs/2301.06143v1)|null|
-|**2023-01-15**|**MN-pair Contrastive Damage Representation and Clustering for Prognostic Explanation**|Takato Yasuno et.al.|[2301.06077v1](http://arxiv.org/abs/2301.06077v1)|null|
+|**2023-01-15**|**MN-Pair Contrastive Damage Representation and Clustering for Prognostic Explanation**|Takato Yasuno et.al.|[2301.06077v2](http://arxiv.org/abs/2301.06077v2)|null|
 |**2023-01-15**|**Delving Deep into Pixel Alignment Feature for Accurate Multi-view Human Mesh Recovery**|Kai Jia et.al.|[2301.06020v1](http://arxiv.org/abs/2301.06020v1)|null|
 |**2023-01-14**|**Hand Gesture Recognition through Reflected Infrared Light Wave Signals**|Li Yu et.al.|[2301.05955v1](http://arxiv.org/abs/2301.05955v1)|null|
 |**2023-01-14**|**Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes**|Songchun Zhang et.al.|[2301.05871v1](http://arxiv.org/abs/2301.05871v1)|null|
