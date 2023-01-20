@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-19**|**Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception**|Bin Huang et.al.|[2301.07870v1](http://arxiv.org/abs/2301.07870v1)|null|
+|**2023-01-19**|**Improving Food Detection For Images From a Wearable Egocentric Camera**|Yue Han et.al.|[2301.07861v1](http://arxiv.org/abs/2301.07861v1)|null|
+|**2023-01-18**|**Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information**|Hsiang-Wei Huang et.al.|[2301.07805v1](http://arxiv.org/abs/2301.07805v1)|null|
 |**2023-01-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wu et.al.|[2301.07405v1](http://arxiv.org/abs/2301.07405v1)|null|
 |**2023-01-18**|**Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant**|Ying Jin et.al.|[2301.07340v1](http://arxiv.org/abs/2301.07340v1)|[link](https://github.com/Jin-Ying/GTA-Seg)|
 |**2023-01-18**|**FPANet: Frequency-based Video Demoireing using Frame-level Post Alignment**|Gyeongrok Oh et.al.|[2301.07330v1](http://arxiv.org/abs/2301.07330v1)|null|
@@ -29,6 +32,3 @@
 |**2023-01-15**|**Secure Video Streaming Using Dedicated Hardware**|Nicholas Murray-Hill et.al.|[2301.06180v1](http://arxiv.org/abs/2301.06180v1)|null|
 |**2023-01-15**|**Multi-Camera Lighting Estimation for Photorealistic Front-Facing Mobile Augmented Reality**|Yiqin Zhao et.al.|[2301.06143v1](http://arxiv.org/abs/2301.06143v1)|null|
 |**2023-01-15**|**MN-Pair Contrastive Damage Representation and Clustering for Prognostic Explanation**|Takato Yasuno et.al.|[2301.06077v2](http://arxiv.org/abs/2301.06077v2)|null|
-|**2023-01-15**|**Delving Deep into Pixel Alignment Feature for Accurate Multi-view Human Mesh Recovery**|Kai Jia et.al.|[2301.06020v1](http://arxiv.org/abs/2301.06020v1)|null|
-|**2023-01-14**|**Hand Gesture Recognition through Reflected Infrared Light Wave Signals**|Li Yu et.al.|[2301.05955v1](http://arxiv.org/abs/2301.05955v1)|null|
-|**2023-01-14**|**Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes**|Songchun Zhang et.al.|[2301.05871v1](http://arxiv.org/abs/2301.05871v1)|null|
