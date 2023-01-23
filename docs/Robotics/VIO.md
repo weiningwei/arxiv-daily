@@ -9,7 +9,7 @@
 |**2023-01-17**|**Dynamical tides in Jupiter and other rotationally flattened planets and stars with stable stratification**|Janosz W. Dewberry et.al.|[2301.07097v1](http://arxiv.org/abs/2301.07097v1)|null|
 |**2023-01-17**|**Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers**|Emma Bouton--Bessac et.al.|[2301.06993v1](http://arxiv.org/abs/2301.06993v1)|null|
 |**2023-01-17**|**Effects of particle size and background rotation on the settling of particle clouds**|Quentin Kriaa et.al.|[2301.06963v1](http://arxiv.org/abs/2301.06963v1)|null|
-|**2023-01-16**|**Level-crossing counting for inertial random processes. Rice's approach revisited**|Jaume Masoliver et.al.|[2301.06608v1](http://arxiv.org/abs/2301.06608v1)|null|
+|**2023-01-16**|**Counting of level crossings for inertial random processes: Generalization of the Rice formula**|Jaume Masoliver et.al.|[2301.06608v2](http://arxiv.org/abs/2301.06608v2)|null|
 |**2023-01-16**|**Are inertial vacua equivalent in Lorentz-violating theories? Does it matter?**|Bruno Arderucio Costa et.al.|[2301.06600v1](http://arxiv.org/abs/2301.06600v1)|null|
 |**2023-01-16**|**Ringdown frequencies in black holes formed from precessing black-hole binaries**|Eleanor Hamilton et.al.|[2301.06558v1](http://arxiv.org/abs/2301.06558v1)|null|
 |**2023-01-16**|**Equilivest: A Robotic Vest to aid in Post-Stroke Dynamic Balance Rehabilitation**|Franco Paviotti et.al.|[2301.06528v1](http://arxiv.org/abs/2301.06528v1)|null|
