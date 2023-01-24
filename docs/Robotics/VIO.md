@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
+|**2023-01-22**|**Continuous-Time Ultra-Wideband-Inertial Fusion**|Kailai Li et.al.|[2301.09033v1](http://arxiv.org/abs/2301.09033v1)|null|
+|**2023-01-21**|**A Perron-Frobenius analysis of wall-bounded turbulence**|Javier Jimenez et.al.|[2301.08948v1](http://arxiv.org/abs/2301.08948v1)|null|
 |**2023-01-20**|**Continuous Newton-like Methods featuring Inertia and Variable Mass**|Camille Castera et.al.|[2301.08726v1](http://arxiv.org/abs/2301.08726v1)|null|
 |**2023-01-19**|**Viscosity measurements of glycerol in a parallel-plate rheometer exposed to atmosphere**|Jesse T. Ault et.al.|[2301.08329v1](http://arxiv.org/abs/2301.08329v1)|null|
 |**2023-01-18**|**Periodicities of solar activity and solar radiation derived from observations and their links with the terrestrial environment**|Valentina V. Zharkova et.al.|[2301.07480v1](http://arxiv.org/abs/2301.07480v1)|null|
@@ -29,6 +32,3 @@
 |**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
 |**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
 |**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
-|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
-|**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
-|**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v3](http://arxiv.org/abs/2301.03896v3)|null|

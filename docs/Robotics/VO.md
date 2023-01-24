@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
@@ -31,4 +32,3 @@
 |**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|[link](https://github.com/brytsknguyen/slict)|
 |**2022-11-06**|**SRIBO: An Efficient and Resilient Single-Range and Inertia Based Odometry for Flying Robots**|Wei Dong et.al.|[2211.03093v1](http://arxiv.org/abs/2211.03093v1)|null|
 |**2022-11-06**|**HeRoSwarm: Fully-Capable Miniature Swarm Robot Hardware Design With Open-Source ROS Support**|Michael Starks et.al.|[2211.03014v1](http://arxiv.org/abs/2211.03014v1)|[link](https://github.com/herolab-uga/heroswarmv2)|
-|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry)|

@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-23**|**J-NEP: 60-band photometry and photometric redshifts for the James Webb Space Telescope North Ecliptic Pole Time-Domain Field**|A. Hernán-Caballero et.al.|[2301.09623v1](http://arxiv.org/abs/2301.09623v1)|null|
+|**2023-01-23**|**The Entoptic Field Camera as Metaphor-Driven Research-through-Design with AI Technologies**|Jesse Josua Benjamin et.al.|[2301.09545v1](http://arxiv.org/abs/2301.09545v1)|null|
+|**2023-01-23**|**Crowd3D: Towards Hundreds of People Reconstruction from a Single Image**|Hao Wen et.al.|[2301.09376v1](http://arxiv.org/abs/2301.09376v1)|null|
+|**2023-01-22**|**MATT: Multimodal Attention Level Estimation for e-learning Platforms**|Roberto Daza et.al.|[2301.09174v1](http://arxiv.org/abs/2301.09174v1)|null|
+|**2023-01-22**|**Performance Study of YOLOv5 and Faster R-CNN for Autonomous Navigation around Non-Cooperative Targets**|Trupti Mahendrakar et.al.|[2301.09056v1](http://arxiv.org/abs/2301.09056v1)|null|
+|**2023-01-21**|**E$^3$Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation**|Letian Zhang et.al.|[2301.09015v1](http://arxiv.org/abs/2301.09015v1)|null|
+|**2023-01-21**|**Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving**|Kevin Koch et.al.|[2301.08978v1](http://arxiv.org/abs/2301.08978v1)|null|
+|**2023-01-21**|**Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**|Feiyang Wen et.al.|[2301.08973v1](http://arxiv.org/abs/2301.08973v1)|null|
+|**2023-01-21**|**Second-Order Coverage Control for Multi-Agent UAV Photogrammetry**|Samuel Mallick et.al.|[2301.08953v1](http://arxiv.org/abs/2301.08953v1)|null|
+|**2023-01-21**|**Dense RGB SLAM with Neural Implicit Maps**|Heng Li et.al.|[2301.08930v1](http://arxiv.org/abs/2301.08930v1)|null|
+|**2023-01-20**|**An Asynchronous Intensity Representation for Framed and Event Video Sources**|Andrew C. Freeman et.al.|[2301.08783v1](http://arxiv.org/abs/2301.08783v1)|null|
 |**2023-01-20**|**Optimizing the sensitivity of high repetition rate broadband transient optical spectroscopy with modified shot-to-shot detection**|Siedah J. Hall et.al.|[2301.08722v1](http://arxiv.org/abs/2301.08722v1)|null|
 |**2023-01-20**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v1](http://arxiv.org/abs/2301.08664v1)|null|
 |**2023-01-20**|**A Big-Data Driven Framework to Estimating Vehicle Volume based on Mobile Device Location Data**|Mofeng Yang et.al.|[2301.08660v1](http://arxiv.org/abs/2301.08660v1)|null|
@@ -21,14 +32,3 @@
 |**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
 |**2023-01-17**|**The JWST Resolved Stellar Populations Early Release Science Program III: Photometric Star-Galaxy Separations for NIRCam**|Jack T. Warfield et.al.|[2301.07218v1](http://arxiv.org/abs/2301.07218v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
-|**2023-01-17**|**Event-based Shape from Polarization**|Manasi Muglikar et.al.|[2301.06855v1](http://arxiv.org/abs/2301.06855v1)|null|
-|**2023-01-17**|**A 2022 $τ$-Herculid meteor cluster from an airborne experiment: automated detection, characterization, and consequences for meteoroids**|J. Vaubaillon et.al.|[2301.06851v1](http://arxiv.org/abs/2301.06851v1)|null|
-|**2023-01-17**|**The SOUL view of IRAS20126+4104. Kinematics and variability of the H$_2$ jet from a massive protostar**|F. Massi et.al.|[2301.06832v1](http://arxiv.org/abs/2301.06832v1)|null|
-|**2023-01-17**|**A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**|Chongshan Lu et.al.|[2301.06782v1](http://arxiv.org/abs/2301.06782v1)|null|
-|**2023-01-17**|**FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs**|Peng Tu et.al.|[2301.06719v1](http://arxiv.org/abs/2301.06719v1)|null|
-|**2023-01-17**|**DIGITOUR: Automatic Digital Tours for Real-Estate Properties**|Prateek Chhikara et.al.|[2301.06680v1](http://arxiv.org/abs/2301.06680v1)|null|
-|**2023-01-17**|**YeLan: Event Camera-Based 3D Human Pose Estimation for Technology-Mediated Dancing in Challenging Environments with Comprehensive Motion-to-Event Simulator**|Zhongyang Zhang et.al.|[2301.06648v1](http://arxiv.org/abs/2301.06648v1)|null|
-|**2023-01-16**|**Sparse resultant based minimal solvers in computer vision and their connection with the action matrix**|Snehal Bhayani et.al.|[2301.06443v1](http://arxiv.org/abs/2301.06443v1)|null|
-|**2023-01-16**|**Wobble control of a pendulum actuated spherical robot**|Animesh Singhal et.al.|[2301.06433v1](http://arxiv.org/abs/2301.06433v1)|null|
-|**2023-01-16**|**JKU-ITS Automobile for Research on Autonomous Vehicles**|Novel Certad et.al.|[2301.06422v1](http://arxiv.org/abs/2301.06422v1)|null|
-|**2023-01-16**|**I See-Through You: A Framework for Removing Foreground Occlusion in Both Sparse and Dense Light Field Images**|Jiwan Hur et.al.|[2301.06392v1](http://arxiv.org/abs/2301.06392v1)|null|
