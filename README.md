@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2023-01-24 08:37:21 Asia/Shanghai
+ Automated deployment @ 2023-01-24 10:03:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-20**|**Optimizing the sensitivity of high repetition rate broadband transient optical spectroscopy with modified shot-to-shot detection**|Siedah J. Hall et.al.|[2301.08722v1](http://arxiv.org/abs/2301.08722v1)|null|
-|**2023-01-20**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v1](http://arxiv.org/abs/2301.08664v1)|null|
-|**2023-01-20**|**A Big-Data Driven Framework to Estimating Vehicle Volume based on Mobile Device Location Data**|Mofeng Yang et.al.|[2301.08660v1](http://arxiv.org/abs/2301.08660v1)|null|
-|**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu et.al.|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
-|**2023-01-20**|**Real-Time High-Resolution Pedestrian Detection in Crowded Scenes via Parallel Edge Offloading**|Hao Wang et.al.|[2301.08406v1](http://arxiv.org/abs/2301.08406v1)|null|
-|**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|null|
-|**2023-01-19**|**Evaluation of the potential of Near Infrared Hyperspectral Imaging for monitoring the invasive brown marmorated stink bug**|Veronica Ferrari et.al.|[2301.08252v1](http://arxiv.org/abs/2301.08252v1)|null|
-|**2023-01-19**|**Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception**|Bin Huang et.al.|[2301.07870v1](http://arxiv.org/abs/2301.07870v1)|null|
-|**2023-01-19**|**Improving Food Detection For Images From a Wearable Egocentric Camera**|Yue Han et.al.|[2301.07861v1](http://arxiv.org/abs/2301.07861v1)|null|
-|**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
-|**2023-01-18**|**Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information**|Hsiang-Wei Huang et.al.|[2301.07805v1](http://arxiv.org/abs/2301.07805v1)|null|
-|**2023-01-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wu et.al.|[2301.07405v1](http://arxiv.org/abs/2301.07405v1)|null|
-|**2023-01-18**|**Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant**|Ying Jin et.al.|[2301.07340v1](http://arxiv.org/abs/2301.07340v1)|[link](https://github.com/Jin-Ying/GTA-Seg)|
-|**2023-01-18**|**FPANet: Frequency-based Video Demoireing using Frame-level Post Alignment**|Gyeongrok Oh et.al.|[2301.07330v1](http://arxiv.org/abs/2301.07330v1)|null|
-|**2023-01-18**|**The OpenCDA Open-source Ecosystem for Cooperative Driving Automation Research**|Runsheng Xu et.al.|[2301.07325v1](http://arxiv.org/abs/2301.07325v1)|null|
-|**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
-|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
-|**2023-01-17**|**The JWST Resolved Stellar Populations Early Release Science Program III: Photometric Star-Galaxy Separations for NIRCam**|Jack T. Warfield et.al.|[2301.07218v1](http://arxiv.org/abs/2301.07218v1)|null|
-|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
-|**2023-01-17**|**Event-based Shape from Polarization**|Manasi Muglikar et.al.|[2301.06855v1](http://arxiv.org/abs/2301.06855v1)|null|
-|**2023-01-17**|**A 2022 $τ$-Herculid meteor cluster from an airborne experiment: automated detection, characterization, and consequences for meteoroids**|J. Vaubaillon et.al.|[2301.06851v1](http://arxiv.org/abs/2301.06851v1)|null|
-|**2023-01-17**|**The SOUL view of IRAS20126+4104. Kinematics and variability of the H$_2$ jet from a massive protostar**|F. Massi et.al.|[2301.06832v1](http://arxiv.org/abs/2301.06832v1)|null|
-|**2023-01-17**|**A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**|Chongshan Lu et.al.|[2301.06782v1](http://arxiv.org/abs/2301.06782v1)|null|
-|**2023-01-17**|**FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs**|Peng Tu et.al.|[2301.06719v1](http://arxiv.org/abs/2301.06719v1)|null|
-|**2023-01-17**|**DIGITOUR: Automatic Digital Tours for Real-Estate Properties**|Prateek Chhikara et.al.|[2301.06680v1](http://arxiv.org/abs/2301.06680v1)|null|
-|**2023-01-17**|**YeLan: Event Camera-Based 3D Human Pose Estimation for Technology-Mediated Dancing in Challenging Environments with Comprehensive Motion-to-Event Simulator**|Zhongyang Zhang et.al.|[2301.06648v1](http://arxiv.org/abs/2301.06648v1)|null|
-|**2023-01-16**|**Sparse resultant based minimal solvers in computer vision and their connection with the action matrix**|Snehal Bhayani et.al.|[2301.06443v1](http://arxiv.org/abs/2301.06443v1)|null|
-|**2023-01-16**|**Wobble control of a pendulum actuated spherical robot**|Animesh Singhal et.al.|[2301.06433v1](http://arxiv.org/abs/2301.06433v1)|null|
-|**2023-01-16**|**JKU-ITS Automobile for Research on Autonomous Vehicles**|Novel Certad et.al.|[2301.06422v1](http://arxiv.org/abs/2301.06422v1)|null|
-|**2023-01-16**|**I See-Through You: A Framework for Removing Foreground Occlusion in Both Sparse and Dense Light Field Images**|Jiwan Hur et.al.|[2301.06392v1](http://arxiv.org/abs/2301.06392v1)|null|
-
-### VO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
-|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
-|**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
-|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
-|**2023-01-03**|**LunarNav: Crater-based Localization for Long-range Autonomous Lunar Rover Navigation**|Shreyansh Daftry et.al.|[2301.01350v1](http://arxiv.org/abs/2301.01350v1)|null|
-|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
-|**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
-|**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
-|**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
-|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|[link](https://github.com/xukuanHIT/AirVO)|
-|**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
-|**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
-|**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
-|**2022-12-08**|**Towards Accurate Ground Plane Normal Estimation from Ego-Motion**|Jiaxin Zhang et.al.|[2212.04224v1](http://arxiv.org/abs/2212.04224v1)|[link](https://github.com/manymuch/ground_normal_filter)|
-|**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|[link](https://github.com/TUMFTM/orbslam-map-saving-extension)|
-|**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
-|**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
-|**2022-11-27**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v2](http://arxiv.org/abs/2211.14731v2)|null|
-|**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
-|**2022-11-26**|**DynaVIG: Monocular Vision/INS/GNSS Integrated Navigation and Object Tracking for AGV in Dynamic Scenes**|Ronghe Jin et.al.|[2211.14478v1](http://arxiv.org/abs/2211.14478v1)|null|
-|**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|[link](https://github.com/jerredchen/a1_slam)|
-|**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
-|**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
-|**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v2](http://arxiv.org/abs/2211.06548v2)|null|
-|**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|[link](https://github.com/rwth-irt/onlinefgo)|
-|**2022-11-08**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
-|**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|[link](https://github.com/brytsknguyen/slict)|
-|**2022-11-06**|**SRIBO: An Efficient and Resilient Single-Range and Inertia Based Odometry for Flying Robots**|Wei Dong et.al.|[2211.03093v1](http://arxiv.org/abs/2211.03093v1)|null|
-|**2022-11-06**|**HeRoSwarm: Fully-Capable Miniature Swarm Robot Hardware Design With Open-Source ROS Support**|Michael Starks et.al.|[2211.03014v1](http://arxiv.org/abs/2211.03014v1)|[link](https://github.com/herolab-uga/heroswarmv2)|
-|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry)|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2023-01-10**|**New Exact Betchov-like Relation for the Helicity Flux in Homogeneous Turbulence**|Damiano Capocci et.al.|[2301.04193v1](http://arxiv.org/abs/2301.04193v1)|null|
 |**2023-01-10**|**On the evolution of the Anisotropic Scaling of Magnetohydrodynamic Turbulence in the Inner Heliosphere**|Nikos Sioulas et.al.|[2301.03896v3](http://arxiv.org/abs/2301.03896v3)|null|
 
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-20**|**Optimizing the sensitivity of high repetition rate broadband transient optical spectroscopy with modified shot-to-shot detection**|Siedah J. Hall et.al.|[2301.08722v1](http://arxiv.org/abs/2301.08722v1)|null|
+|**2023-01-20**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v1](http://arxiv.org/abs/2301.08664v1)|null|
+|**2023-01-20**|**A Big-Data Driven Framework to Estimating Vehicle Volume based on Mobile Device Location Data**|Mofeng Yang et.al.|[2301.08660v1](http://arxiv.org/abs/2301.08660v1)|null|
+|**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu et.al.|[2301.08422v1](http://arxiv.org/abs/2301.08422v1)|null|
+|**2023-01-20**|**Real-Time High-Resolution Pedestrian Detection in Crowded Scenes via Parallel Edge Offloading**|Hao Wang et.al.|[2301.08406v1](http://arxiv.org/abs/2301.08406v1)|null|
+|**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|null|
+|**2023-01-19**|**Evaluation of the potential of Near Infrared Hyperspectral Imaging for monitoring the invasive brown marmorated stink bug**|Veronica Ferrari et.al.|[2301.08252v1](http://arxiv.org/abs/2301.08252v1)|null|
+|**2023-01-19**|**Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception**|Bin Huang et.al.|[2301.07870v1](http://arxiv.org/abs/2301.07870v1)|null|
+|**2023-01-19**|**Improving Food Detection For Images From a Wearable Egocentric Camera**|Yue Han et.al.|[2301.07861v1](http://arxiv.org/abs/2301.07861v1)|null|
+|**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
+|**2023-01-18**|**Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information**|Hsiang-Wei Huang et.al.|[2301.07805v1](http://arxiv.org/abs/2301.07805v1)|null|
+|**2023-01-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wu et.al.|[2301.07405v1](http://arxiv.org/abs/2301.07405v1)|null|
+|**2023-01-18**|**Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant**|Ying Jin et.al.|[2301.07340v1](http://arxiv.org/abs/2301.07340v1)|[link](https://github.com/Jin-Ying/GTA-Seg)|
+|**2023-01-18**|**FPANet: Frequency-based Video Demoireing using Frame-level Post Alignment**|Gyeongrok Oh et.al.|[2301.07330v1](http://arxiv.org/abs/2301.07330v1)|null|
+|**2023-01-18**|**The OpenCDA Open-source Ecosystem for Cooperative Driving Automation Research**|Runsheng Xu et.al.|[2301.07325v1](http://arxiv.org/abs/2301.07325v1)|null|
+|**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
+|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
+|**2023-01-17**|**The JWST Resolved Stellar Populations Early Release Science Program III: Photometric Star-Galaxy Separations for NIRCam**|Jack T. Warfield et.al.|[2301.07218v1](http://arxiv.org/abs/2301.07218v1)|null|
+|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
+|**2023-01-17**|**Event-based Shape from Polarization**|Manasi Muglikar et.al.|[2301.06855v1](http://arxiv.org/abs/2301.06855v1)|null|
+|**2023-01-17**|**A 2022 $τ$-Herculid meteor cluster from an airborne experiment: automated detection, characterization, and consequences for meteoroids**|J. Vaubaillon et.al.|[2301.06851v1](http://arxiv.org/abs/2301.06851v1)|null|
+|**2023-01-17**|**The SOUL view of IRAS20126+4104. Kinematics and variability of the H$_2$ jet from a massive protostar**|F. Massi et.al.|[2301.06832v1](http://arxiv.org/abs/2301.06832v1)|null|
+|**2023-01-17**|**A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**|Chongshan Lu et.al.|[2301.06782v1](http://arxiv.org/abs/2301.06782v1)|null|
+|**2023-01-17**|**FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs**|Peng Tu et.al.|[2301.06719v1](http://arxiv.org/abs/2301.06719v1)|null|
+|**2023-01-17**|**DIGITOUR: Automatic Digital Tours for Real-Estate Properties**|Prateek Chhikara et.al.|[2301.06680v1](http://arxiv.org/abs/2301.06680v1)|null|
+|**2023-01-17**|**YeLan: Event Camera-Based 3D Human Pose Estimation for Technology-Mediated Dancing in Challenging Environments with Comprehensive Motion-to-Event Simulator**|Zhongyang Zhang et.al.|[2301.06648v1](http://arxiv.org/abs/2301.06648v1)|null|
+|**2023-01-16**|**Sparse resultant based minimal solvers in computer vision and their connection with the action matrix**|Snehal Bhayani et.al.|[2301.06443v1](http://arxiv.org/abs/2301.06443v1)|null|
+|**2023-01-16**|**Wobble control of a pendulum actuated spherical robot**|Animesh Singhal et.al.|[2301.06433v1](http://arxiv.org/abs/2301.06433v1)|null|
+|**2023-01-16**|**JKU-ITS Automobile for Research on Autonomous Vehicles**|Novel Certad et.al.|[2301.06422v1](http://arxiv.org/abs/2301.06422v1)|null|
+|**2023-01-16**|**I See-Through You: A Framework for Removing Foreground Occlusion in Both Sparse and Dense Light Field Images**|Jiwan Hur et.al.|[2301.06392v1](http://arxiv.org/abs/2301.06392v1)|null|
+
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2022-12-14**|**RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping**|Hyowon Kim et.al.|[2212.07141v1](http://arxiv.org/abs/2212.07141v1)|null|
 |**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus et.al.|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
 |**2022-12-13**|**SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**|Chenyangguang Zhang et.al.|[2212.06524v1](http://arxiv.org/abs/2212.06524v1)|null|
+
+### VO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
+|**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
+|**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
+|**2023-01-11**|**TBV Radar SLAM -- trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v2](http://arxiv.org/abs/2301.04397v2)|null|
+|**2023-01-03**|**LunarNav: Crater-based Localization for Long-range Autonomous Lunar Rover Navigation**|Shreyansh Daftry et.al.|[2301.01350v1](http://arxiv.org/abs/2301.01350v1)|null|
+|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
+|**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
+|**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
+|**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
+|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|[link](https://github.com/xukuanHIT/AirVO)|
+|**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
+|**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
+|**2022-12-11**|**3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons**|Xikun Liu et.al.|[2212.05477v1](http://arxiv.org/abs/2212.05477v1)|null|
+|**2022-12-08**|**Towards Accurate Ground Plane Normal Estimation from Ego-Motion**|Jiaxin Zhang et.al.|[2212.04224v1](http://arxiv.org/abs/2212.04224v1)|[link](https://github.com/manymuch/ground_normal_filter)|
+|**2022-12-05**|**RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**|Florian Sauerbeck et.al.|[2212.02085v2](http://arxiv.org/abs/2212.02085v2)|[link](https://github.com/TUMFTM/orbslam-map-saving-extension)|
+|**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
+|**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
+|**2022-11-27**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v2](http://arxiv.org/abs/2211.14731v2)|null|
+|**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
+|**2022-11-26**|**DynaVIG: Monocular Vision/INS/GNSS Integrated Navigation and Object Tracking for AGV in Dynamic Scenes**|Ronghe Jin et.al.|[2211.14478v1](http://arxiv.org/abs/2211.14478v1)|null|
+|**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|[link](https://github.com/jerredchen/a1_slam)|
+|**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
+|**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
+|**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v2](http://arxiv.org/abs/2211.06548v2)|null|
+|**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|[link](https://github.com/rwth-irt/onlinefgo)|
+|**2022-11-08**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
+|**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|[link](https://github.com/brytsknguyen/slict)|
+|**2022-11-06**|**SRIBO: An Efficient and Resilient Single-Range and Inertia Based Odometry for Flying Robots**|Wei Dong et.al.|[2211.03093v1](http://arxiv.org/abs/2211.03093v1)|null|
+|**2022-11-06**|**HeRoSwarm: Fully-Capable Miniature Swarm Robot Hardware Design With Open-Source ROS Support**|Michael Starks et.al.|[2211.03014v1](http://arxiv.org/abs/2211.03014v1)|[link](https://github.com/herolab-uga/heroswarmv2)|
+|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry)|
