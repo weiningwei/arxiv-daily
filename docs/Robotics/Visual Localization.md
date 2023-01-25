@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-24**|**Detecting and measuring human gastric peristalsis using magnetically controlled capsule endoscope**|Xueshen Li et.al.|[2301.10218v1](http://arxiv.org/abs/2301.10218v1)|null|
+|**2023-01-24**|**Intensity interferometry for holography with quantum and classical light**|G. S. Thekkadath et.al.|[2301.10068v1](http://arxiv.org/abs/2301.10068v1)|null|
+|**2023-01-24**|**Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses**|Yan Long et.al.|[2301.10056v1](http://arxiv.org/abs/2301.10056v1)|null|
+|**2023-01-24**|**Development of a photothermal measurement model to determine layer thickness of multi-layered coating systems with unknown thermal properties**|Dimitri Rothermel et.al.|[2301.10050v1](http://arxiv.org/abs/2301.10050v1)|null|
+|**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
+|**2023-01-24**|**LDMIC: Learning-based Distributed Multi-view Image Coding**|Xinjie Zhang et.al.|[2301.09799v1](http://arxiv.org/abs/2301.09799v1)|[link](https://github.com/xinjie-q/ldmic)|
 |**2023-01-23**|**J-NEP: 60-band photometry and photometric redshifts for the James Webb Space Telescope North Ecliptic Pole Time-Domain Field**|A. Hernán-Caballero et.al.|[2301.09623v1](http://arxiv.org/abs/2301.09623v1)|null|
 |**2023-01-23**|**The Entoptic Field Camera as Metaphor-Driven Research-through-Design with AI Technologies**|Jesse Josua Benjamin et.al.|[2301.09545v1](http://arxiv.org/abs/2301.09545v1)|null|
 |**2023-01-23**|**Crowd3D: Towards Hundreds of People Reconstruction from a Single Image**|Hao Wen et.al.|[2301.09376v1](http://arxiv.org/abs/2301.09376v1)|null|
@@ -26,9 +32,3 @@
 |**2023-01-18**|**Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information**|Hsiang-Wei Huang et.al.|[2301.07805v1](http://arxiv.org/abs/2301.07805v1)|null|
 |**2023-01-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wu et.al.|[2301.07405v1](http://arxiv.org/abs/2301.07405v1)|null|
 |**2023-01-18**|**Semi-Supervised Semantic Segmentation via Gentle Teaching Assistant**|Ying Jin et.al.|[2301.07340v1](http://arxiv.org/abs/2301.07340v1)|[link](https://github.com/Jin-Ying/GTA-Seg)|
-|**2023-01-18**|**FPANet: Frequency-based Video Demoireing using Frame-level Post Alignment**|Gyeongrok Oh et.al.|[2301.07330v1](http://arxiv.org/abs/2301.07330v1)|null|
-|**2023-01-18**|**The OpenCDA Open-source Ecosystem for Cooperative Driving Automation Research**|Runsheng Xu et.al.|[2301.07325v2](http://arxiv.org/abs/2301.07325v2)|null|
-|**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
-|**2023-01-18**|**SensorX2car: Sensors-to-car calibration for autonomous driving in road scenarios**|Guohang Yan et.al.|[2301.07279v1](http://arxiv.org/abs/2301.07279v1)|[link](https://github.com/opencalib/sensorx2car)|
-|**2023-01-17**|**The JWST Resolved Stellar Populations Early Release Science Program III: Photometric Star-Galaxy Separations for NIRCam**|Jack T. Warfield et.al.|[2301.07218v1](http://arxiv.org/abs/2301.07218v1)|null|
-|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
