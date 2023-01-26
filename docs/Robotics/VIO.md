@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-25**|**Hydrodynamic Collapse of the Leidenfrost Vapor Layer**|Dana Harvey et.al.|[2301.10650v1](http://arxiv.org/abs/2301.10650v1)|null|
+|**2023-01-25**|**A Novel IoT-Based System for Ten Pin Bowling**|Ilias Zosimadis et.al.|[2301.10523v1](http://arxiv.org/abs/2301.10523v1)|null|
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
 |**2023-01-22**|**Continuous-Time Ultra-Wideband-Inertial Fusion**|Kailai Li et.al.|[2301.09033v1](http://arxiv.org/abs/2301.09033v1)|[link](https://github.com/kit-isas/sfuise)|
 |**2023-01-21**|**A Perron-Frobenius analysis of wall-bounded turbulence**|Javier Jimenez et.al.|[2301.08948v1](http://arxiv.org/abs/2301.08948v1)|null|
@@ -30,5 +32,3 @@
 |**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
 |**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
 |**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
-|**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
-|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|[link](https://github.com/i3tyc/adaptslam)|
