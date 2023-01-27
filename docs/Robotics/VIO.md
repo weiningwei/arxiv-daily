@@ -7,6 +7,7 @@
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
 |**2023-01-22**|**Continuous-Time Ultra-Wideband-Inertial Fusion**|Kailai Li et.al.|[2301.09033v1](http://arxiv.org/abs/2301.09033v1)|[link](https://github.com/kit-isas/sfuise)|
 |**2023-01-21**|**A Perron-Frobenius analysis of wall-bounded turbulence**|Javier Jimenez et.al.|[2301.08948v1](http://arxiv.org/abs/2301.08948v1)|null|
+|**2023-01-21**|**Reformulation of Special Relativity and Electromagnetism in terms of Reference Frames defined as maps from spacetime onto affine spaces**|Filippo Saatkamp et.al.|[2301.11285v1](http://arxiv.org/abs/2301.11285v1)|null|
 |**2023-01-20**|**Continuous Newton-like Methods featuring Inertia and Variable Mass**|Camille Castera et.al.|[2301.08726v1](http://arxiv.org/abs/2301.08726v1)|null|
 |**2023-01-19**|**Viscosity measurements of glycerol in a parallel-plate rheometer exposed to atmosphere**|Jesse T. Ault et.al.|[2301.08329v1](http://arxiv.org/abs/2301.08329v1)|null|
 |**2023-01-18**|**Periodicities of solar activity and solar radiation derived from observations and their links with the terrestrial environment**|Valentina V. Zharkova et.al.|[2301.07480v1](http://arxiv.org/abs/2301.07480v1)|null|
@@ -31,4 +32,3 @@
 |**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
 |**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
 |**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|
-|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
