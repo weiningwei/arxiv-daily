@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-27**|**Side Auth: Synthesizing Virtual Sensors for Authentication**|Yan Long et.al.|[2301.11745v1](http://arxiv.org/abs/2301.11745v1)|null|
+|**2023-01-27**|**MissBeamNet: Learning Missing Doppler Velocity Log Beam Measurements**|Mor Yona et.al.|[2301.11597v1](http://arxiv.org/abs/2301.11597v1)|null|
 |**2023-01-25**|**Hydrodynamic Collapse of the Leidenfrost Vapor Layer**|Dana Harvey et.al.|[2301.10650v1](http://arxiv.org/abs/2301.10650v1)|null|
 |**2023-01-25**|**A Novel IoT-Based System for Ten Pin Bowling**|Ilias Zosimadis et.al.|[2301.10523v1](http://arxiv.org/abs/2301.10523v1)|null|
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
@@ -30,5 +32,3 @@
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2023-01-13**|**Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation**|Carolina Gonçalves et.al.|[2301.05575v1](http://arxiv.org/abs/2301.05575v1)|null|
 |**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
-|**2023-01-13**|**Existence of solutions to a class of one-dimensional models for pedestrian evacuations**|Boris Andreianov et.al.|[2301.05472v1](http://arxiv.org/abs/2301.05472v1)|null|
-|**2023-01-12**|**ImMesh: An Immediate LiDAR Localization and Meshing Framework**|Jiarong Lin et.al.|[2301.05206v1](http://arxiv.org/abs/2301.05206v1)|[link](https://github.com/hku-mars/immesh)|

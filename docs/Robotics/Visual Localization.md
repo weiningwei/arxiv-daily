@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
+|**2023-01-27**|**Leveraging the Third Dimension in Contrastive Learning**|Sumukh Aithal et.al.|[2301.11790v1](http://arxiv.org/abs/2301.11790v1)|null|
+|**2023-01-27**|**Side Auth: Synthesizing Virtual Sensors for Authentication**|Yan Long et.al.|[2301.11745v1](http://arxiv.org/abs/2301.11745v1)|null|
+|**2023-01-27**|**Information Entropy-based Camera Path Estimation for In-Situ Visualization**|Ken Iwata et.al.|[2301.11591v1](http://arxiv.org/abs/2301.11591v1)|null|
+|**2023-01-26**|**Non-invasive and noise-robust light focusing using confocal wavefront shaping**|Dror Aizik et.al.|[2301.11421v1](http://arxiv.org/abs/2301.11421v1)|null|
 |**2023-01-26**|**High Speed Focal Plane Wavefront Sensing with an Optical Chopper**|Benjamin L. Gerard et.al.|[2301.11282v1](http://arxiv.org/abs/2301.11282v1)|null|
 |**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
 |**2023-01-26**|**I-24 MOTION: An instrument for freeway traffic science**|Derek Gloudemans et.al.|[2301.11198v1](http://arxiv.org/abs/2301.11198v1)|null|
@@ -27,8 +32,3 @@
 |**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
 |**2023-01-24**|**LDMIC: Learning-based Distributed Multi-view Image Coding**|Xinjie Zhang et.al.|[2301.09799v1](http://arxiv.org/abs/2301.09799v1)|[link](https://github.com/xinjie-q/ldmic)|
 |**2023-01-23**|**J-NEP: 60-band photometry and photometric redshifts for the James Webb Space Telescope North Ecliptic Pole Time-Domain Field**|A. Hernán-Caballero et.al.|[2301.09623v1](http://arxiv.org/abs/2301.09623v1)|null|
-|**2023-01-23**|**The Entoptic Field Camera as Metaphor-Driven Research-through-Design with AI Technologies**|Jesse Josua Benjamin et.al.|[2301.09545v1](http://arxiv.org/abs/2301.09545v1)|null|
-|**2023-01-23**|**Crowd3D: Towards Hundreds of People Reconstruction from a Single Image**|Hao Wen et.al.|[2301.09376v1](http://arxiv.org/abs/2301.09376v1)|null|
-|**2023-01-22**|**MATT: Multimodal Attention Level Estimation for e-learning Platforms**|Roberto Daza et.al.|[2301.09174v1](http://arxiv.org/abs/2301.09174v1)|null|
-|**2023-01-22**|**Performance Study of YOLOv5 and Faster R-CNN for Autonomous Navigation around Non-Cooperative Targets**|Trupti Mahendrakar et.al.|[2301.09056v1](http://arxiv.org/abs/2301.09056v1)|null|
-|**2023-01-21**|**E$^3$Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation**|Letian Zhang et.al.|[2301.09015v1](http://arxiv.org/abs/2301.09015v1)|null|
