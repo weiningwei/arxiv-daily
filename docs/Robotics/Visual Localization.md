@@ -22,7 +22,7 @@
 |**2023-01-24**|**High Precision Orientation Mapping from 4D-STEM Precession Electron Diffraction data through Quantitative Analysis of Diffracted Intensities**|Leonardo Corrêa et.al.|[2301.10286v1](http://arxiv.org/abs/2301.10286v1)|null|
 |**2023-01-24**|**Detecting and measuring human gastric peristalsis using magnetically controlled capsule endoscope**|Xueshen Li et.al.|[2301.10218v1](http://arxiv.org/abs/2301.10218v1)|null|
 |**2023-01-24**|**Intensity interferometry for holography with quantum and classical light**|G. S. Thekkadath et.al.|[2301.10068v1](http://arxiv.org/abs/2301.10068v1)|null|
-|**2023-01-24**|**Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses**|Yan Long et.al.|[2301.10056v1](http://arxiv.org/abs/2301.10056v1)|null|
+|**2023-01-24**|**Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses**|Yan Long et.al.|[2301.10056v2](http://arxiv.org/abs/2301.10056v2)|null|
 |**2023-01-24**|**Development of a photothermal measurement model to determine layer thickness of multi-layered coating systems with unknown thermal properties**|Dimitri Rothermel et.al.|[2301.10050v1](http://arxiv.org/abs/2301.10050v1)|null|
 |**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
 |**2023-01-24**|**LDMIC: Learning-based Distributed Multi-view Image Coding**|Xinjie Zhang et.al.|[2301.09799v1](http://arxiv.org/abs/2301.09799v1)|[link](https://github.com/xinjie-q/ldmic)|
