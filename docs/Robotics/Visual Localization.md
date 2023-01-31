@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-30**|**Accurate Gaze Estimation using an Active-gaze Morphable Model**|Hao Sun et.al.|[2301.13186v1](http://arxiv.org/abs/2301.13186v1)|null|
+|**2023-01-30**|**Factors that affect Camera based Self-Monitoring of Vitals in the Wild**|Nikhil S. Narayan et.al.|[2301.12943v1](http://arxiv.org/abs/2301.12943v1)|null|
+|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v1](http://arxiv.org/abs/2301.12934v1)|null|
+|**2023-01-30**|**Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics**|Euclid Collaboration et.al.|[2301.12890v1](http://arxiv.org/abs/2301.12890v1)|null|
+|**2023-01-30**|**Soft Cap for Eversion Robots**|Cem Suulker et.al.|[2301.12862v1](http://arxiv.org/abs/2301.12862v1)|null|
+|**2023-01-30**|**M3FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System**|Chenqi Kong et.al.|[2301.12831v1](http://arxiv.org/abs/2301.12831v1)|null|
+|**2023-01-30**|**Eye Image-based Algorithms to Estimate Percentage Closure of Eye and Saccadic Ratio for Alertness Detection**|Supratim Gupta et.al.|[2301.12799v1](http://arxiv.org/abs/2301.12799v1)|null|
+|**2023-01-30**|**Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production**|Rao Anyi et.al.|[2301.12688v1](http://arxiv.org/abs/2301.12688v1)|null|
+|**2023-01-30**|**Multi-View Ensemble Learning With Missing Data: Computational Framework and Evaluations using Novel Data from the Safe Autonomous Driving Domain**|Ross Greer et.al.|[2301.12592v1](http://arxiv.org/abs/2301.12592v1)|null|
+|**2023-01-29**|**Camera update for GONG refurbishment: Development and validation**|Anna L. H. Hughes et.al.|[2301.12387v1](http://arxiv.org/abs/2301.12387v1)|null|
+|**2023-01-29**|**Data-driven Estimation, Tracking, and System Identification of Deterministic and Stochastic Optical Spot Dynamics**|Aleksandar Haber et.al.|[2301.12380v1](http://arxiv.org/abs/2301.12380v1)|null|
+|**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen et.al.|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-27**|**Leveraging the Third Dimension in Contrastive Learning**|Sumukh Aithal et.al.|[2301.11790v1](http://arxiv.org/abs/2301.11790v1)|null|
 |**2023-01-27**|**Side Auth: Synthesizing Virtual Sensors for Authentication**|Yan Long et.al.|[2301.11745v1](http://arxiv.org/abs/2301.11745v1)|null|
@@ -20,15 +32,3 @@
 |**2023-01-25**|**Reconstruction of Fast Neutron Direction in Segmented Organic Detectors using Deep Learning**|Jun Woo Bae et.al.|[2301.10796v1](http://arxiv.org/abs/2301.10796v1)|null|
 |**2023-01-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xie et.al.|[2301.10766v1](http://arxiv.org/abs/2301.10766v1)|null|
 |**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
-|**2023-01-25**|**An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation**|Aotian Wu et.al.|[2301.10732v1](http://arxiv.org/abs/2301.10732v1)|null|
-|**2023-01-25**|**Strong (Hb + [OIII]) and Ha emitters at redshift z ~ 7-8 unveiled with JWST/NIRCam and MIRI imaging in the Hubble eXtreme Deep Field (XDF)**|P. Rinaldi et.al.|[2301.10717v1](http://arxiv.org/abs/2301.10717v1)|null|
-|**2023-01-25**|**Exploring local effects of economic activities using agent-based ecosystem models**|Claes Strannegård et.al.|[2301.10507v1](http://arxiv.org/abs/2301.10507v1)|null|
-|**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
-|**2023-01-24**|**High Precision Orientation Mapping from 4D-STEM Precession Electron Diffraction data through Quantitative Analysis of Diffracted Intensities**|Leonardo Corrêa et.al.|[2301.10286v1](http://arxiv.org/abs/2301.10286v1)|null|
-|**2023-01-24**|**Detecting and measuring human gastric peristalsis using magnetically controlled capsule endoscope**|Xueshen Li et.al.|[2301.10218v1](http://arxiv.org/abs/2301.10218v1)|null|
-|**2023-01-24**|**Intensity interferometry for holography with quantum and classical light**|G. S. Thekkadath et.al.|[2301.10068v1](http://arxiv.org/abs/2301.10068v1)|null|
-|**2023-01-24**|**Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses**|Yan Long et.al.|[2301.10056v2](http://arxiv.org/abs/2301.10056v2)|null|
-|**2023-01-24**|**Development of a photothermal measurement model to determine layer thickness of multi-layered coating systems with unknown thermal properties**|Dimitri Rothermel et.al.|[2301.10050v1](http://arxiv.org/abs/2301.10050v1)|null|
-|**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
-|**2023-01-24**|**LDMIC: Learning-based Distributed Multi-view Image Coding**|Xinjie Zhang et.al.|[2301.09799v1](http://arxiv.org/abs/2301.09799v1)|[link](https://github.com/xinjie-q/ldmic)|
-|**2023-01-23**|**J-NEP: 60-band photometry and photometric redshifts for the James Webb Space Telescope North Ecliptic Pole Time-Domain Field**|A. Hernán-Caballero et.al.|[2301.09623v1](http://arxiv.org/abs/2301.09623v1)|null|
