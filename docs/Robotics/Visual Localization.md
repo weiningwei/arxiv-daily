@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-31**|**The NectarCAM Timing System**|F. Bradascio et.al.|[2301.13828v1](http://arxiv.org/abs/2301.13828v1)|null|
+|**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng et.al.|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
+|**2023-01-31**|**DESI and DECaLS (D&D): galaxy-galaxy lensing measurements with 1% survey and its forecast**|Ji Yao et.al.|[2301.13434v1](http://arxiv.org/abs/2301.13434v1)|null|
+|**2023-01-30**|**LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization**|Kalpesh Krishna et.al.|[2301.13298v1](http://arxiv.org/abs/2301.13298v1)|[link](https://github.com/martiansideofthemoon/longeval-summarization)|
+|**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|[link](https://github.com/changhaonan/mono-star-demo)|
 |**2023-01-30**|**Accurate Gaze Estimation using an Active-gaze Morphable Model**|Hao Sun et.al.|[2301.13186v1](http://arxiv.org/abs/2301.13186v1)|null|
 |**2023-01-30**|**Factors that affect Camera based Self-Monitoring of Vitals in the Wild**|Nikhil S. Narayan et.al.|[2301.12943v1](http://arxiv.org/abs/2301.12943v1)|null|
 |**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|null|
@@ -27,8 +32,3 @@
 |**2023-01-26**|**Multiple Stellar Populations in Globular Clusters with JWST: a NIRCam view of 47 Tucanae**|A. P. Milone et.al.|[2301.10889v1](http://arxiv.org/abs/2301.10889v1)|null|
 |**2023-01-25**|**$^{177}$Lu SPECT Imaging in the Presence of $^{90}$Y: Does $^{90}$Y Degrade Image Quantification? A Simulation Study**|Cassandra Miller et.al.|[2301.10870v1](http://arxiv.org/abs/2301.10870v1)|null|
 |**2023-01-25**|**The transmission spectrum of the potentially rocky planet L 98-59 c**|Thomas Barclay et.al.|[2301.10866v1](http://arxiv.org/abs/2301.10866v1)|null|
-|**2023-01-25**|**Shape Reconstruction from Thoracoscopic Images using Self-supervised Virtual Learning**|Tomoki Oya et.al.|[2301.10863v1](http://arxiv.org/abs/2301.10863v1)|null|
-|**2023-01-25**|**Mini-moons from horseshoes: A physical characterization of 2022 NX1 with OSIRIS at the 10.4 m Gran Telescopio Canarias**|R. de la Fuente Marcos et.al.|[2301.10797v1](http://arxiv.org/abs/2301.10797v1)|null|
-|**2023-01-25**|**Reconstruction of Fast Neutron Direction in Segmented Organic Detectors using Deep Learning**|Jun Woo Bae et.al.|[2301.10796v1](http://arxiv.org/abs/2301.10796v1)|null|
-|**2023-01-25**|**On the Adversarial Robustness of Camera-based 3D Object Detection**|Shaoyuan Xie et.al.|[2301.10766v1](http://arxiv.org/abs/2301.10766v1)|null|
-|**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
