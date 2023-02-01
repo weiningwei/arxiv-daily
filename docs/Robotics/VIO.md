@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-01-30**|**Viscoelastic response of an active particle under the action of magnetic field**|M Muhsin et.al.|[2301.13179v1](http://arxiv.org/abs/2301.13179v1)|null|
 |**2023-01-30**|**Frame-dependence of the non-relativistic limit of quantum fields**|Riccardo Falcone et.al.|[2301.13011v1](http://arxiv.org/abs/2301.13011v1)|null|
-|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v1](http://arxiv.org/abs/2301.12934v1)|null|
+|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|null|
 |**2023-01-30**|**Delayed Stochastic Algorithms for Distributed Weakly Convex Optimization**|Wenzhi Gao et.al.|[2301.12713v1](http://arxiv.org/abs/2301.12713v1)|null|
 |**2023-01-29**|**Hawking radiation inside a charged black hole**|Tyler McMaken et.al.|[2301.12319v1](http://arxiv.org/abs/2301.12319v1)|null|
 |**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen et.al.|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
