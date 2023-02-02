@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-01**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen et.al.|[2302.00523v1](http://arxiv.org/abs/2302.00523v1)|null|
+|**2023-02-01**|**Tracking People in Highly Dynamic Industrial Environments**|Savvas Papaioannou et.al.|[2302.00503v1](http://arxiv.org/abs/2302.00503v1)|null|
+|**2023-02-01**|**Navigating in the Dark -- Designing Autonomous Driving Features to Assist Old Adults with Visual Impairments**|Lashawnda Bynum et.al.|[2302.00499v1](http://arxiv.org/abs/2302.00499v1)|null|
+|**2023-02-01**|**Physiological Imaging: When the Pixel Size Matters**|Gennadi Saiko et.al.|[2302.00404v1](http://arxiv.org/abs/2302.00404v1)|null|
+|**2023-02-01**|**PresSim: An End-to-end Framework for Dynamic Ground Pressure Profile Generation from Monocular Videos Using Physics-based 3D Simulation**|Lala Shakti Swarup Ray et.al.|[2302.00391v1](http://arxiv.org/abs/2302.00391v1)|null|
+|**2023-02-01**|**FLYEYE family tree, from smart fast cameras to MezzoCielo**|Roberto Ragazzoni et.al.|[2302.00367v1](http://arxiv.org/abs/2302.00367v1)|null|
+|**2023-02-01**|**A Flexible Framework for Virtual Omnidirectional Vision to Improve Operator Situation Awareness**|Martin Oehler et.al.|[2302.00362v1](http://arxiv.org/abs/2302.00362v1)|null|
+|**2023-02-01**|**Bayesian inference for a spatio-temporal model of road traffic collision data**|Nicola Hewett et.al.|[2302.00342v1](http://arxiv.org/abs/2302.00342v1)|null|
+|**2023-02-01**|**Human Fall Detection- Multimodality Approach**|Xi Wang et.al.|[2302.00224v1](http://arxiv.org/abs/2302.00224v1)|null|
+|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
+|**2023-01-31**|**Design and Implementation of A Soccer Ball Detection System with Multiple Cameras**|Lei Li et.al.|[2302.00123v1](http://arxiv.org/abs/2302.00123v1)|null|
 |**2023-01-31**|**The NectarCAM Timing System**|F. Bradascio et.al.|[2301.13828v1](http://arxiv.org/abs/2301.13828v1)|null|
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng et.al.|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
 |**2023-01-31**|**DESI and DECaLS (D&D): galaxy-galaxy lensing measurements with 1% survey and its forecast**|Ji Yao et.al.|[2301.13434v1](http://arxiv.org/abs/2301.13434v1)|null|
@@ -9,7 +20,7 @@
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|[link](https://github.com/changhaonan/mono-star-demo)|
 |**2023-01-30**|**Accurate Gaze Estimation using an Active-gaze Morphable Model**|Hao Sun et.al.|[2301.13186v1](http://arxiv.org/abs/2301.13186v1)|null|
 |**2023-01-30**|**Factors that affect Camera based Self-Monitoring of Vitals in the Wild**|Nikhil S. Narayan et.al.|[2301.12943v1](http://arxiv.org/abs/2301.12943v1)|null|
-|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|null|
+|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|[link](https://github.com/ZiliangMiao/Hybrid_Mapping_Cocalibration)|
 |**2023-01-30**|**Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics**|Euclid Collaboration et.al.|[2301.12890v1](http://arxiv.org/abs/2301.12890v1)|null|
 |**2023-01-30**|**Soft Cap for Eversion Robots**|Cem Suulker et.al.|[2301.12862v1](http://arxiv.org/abs/2301.12862v1)|null|
 |**2023-01-30**|**M3FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System**|Chenqi Kong et.al.|[2301.12831v1](http://arxiv.org/abs/2301.12831v1)|null|
@@ -21,14 +32,3 @@
 |**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen et.al.|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-27**|**Leveraging the Third Dimension in Contrastive Learning**|Sumukh Aithal et.al.|[2301.11790v1](http://arxiv.org/abs/2301.11790v1)|null|
-|**2023-01-27**|**Side Auth: Synthesizing Virtual Sensors for Authentication**|Yan Long et.al.|[2301.11745v1](http://arxiv.org/abs/2301.11745v1)|null|
-|**2023-01-27**|**Information Entropy-based Camera Path Estimation for In-Situ Visualization**|Ken Iwata et.al.|[2301.11591v2](http://arxiv.org/abs/2301.11591v2)|null|
-|**2023-01-26**|**Non-invasive and noise-robust light focusing using confocal wavefront shaping**|Dror Aizik et.al.|[2301.11421v1](http://arxiv.org/abs/2301.11421v1)|null|
-|**2023-01-26**|**High Speed Focal Plane Wavefront Sensing with an Optical Chopper**|Benjamin L. Gerard et.al.|[2301.11282v1](http://arxiv.org/abs/2301.11282v1)|null|
-|**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
-|**2023-01-26**|**I-24 MOTION: An instrument for freeway traffic science**|Derek Gloudemans et.al.|[2301.11198v2](http://arxiv.org/abs/2301.11198v2)|null|
-|**2023-01-26**|**Towards Continual Egocentric Activity Recognition: A Multi-modal Egocentric Activity Dataset for Continual Learning**|Linfeng Xu et.al.|[2301.10931v1](http://arxiv.org/abs/2301.10931v1)|null|
-|**2023-01-26**|**Perceptive Locomotion with Controllable Pace and Natural Gait Transitions Over Uneven Terrains**|Daniel Chee Hian Tan et.al.|[2301.10894v2](http://arxiv.org/abs/2301.10894v2)|[link](https://github.com/jennyzzt/perceptual-locomotion)|
-|**2023-01-26**|**Multiple Stellar Populations in Globular Clusters with JWST: a NIRCam view of 47 Tucanae**|A. P. Milone et.al.|[2301.10889v1](http://arxiv.org/abs/2301.10889v1)|null|
-|**2023-01-25**|**$^{177}$Lu SPECT Imaging in the Presence of $^{90}$Y: Does $^{90}$Y Degrade Image Quantification? A Simulation Study**|Cassandra Miller et.al.|[2301.10870v1](http://arxiv.org/abs/2301.10870v1)|null|
-|**2023-01-25**|**The transmission spectrum of the potentially rocky planet L 98-59 c**|Thomas Barclay et.al.|[2301.10866v1](http://arxiv.org/abs/2301.10866v1)|null|
