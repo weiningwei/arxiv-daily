@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-02**|**Probing the Nonlinear Interactions of Supertidal Internal Waves using a High-Resolution Regional Ocean Model**|Joseph Skitka et.al.|[2302.01176v1](http://arxiv.org/abs/2302.01176v1)|null|
+|**2023-02-02**|**Hidden scale invariance of turbulence in a shell model: from forcing to dissipation scales**|Alexei A. Mailybaev et.al.|[2302.01064v1](http://arxiv.org/abs/2302.01064v1)|null|
+|**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun et.al.|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
 |**2023-02-01**|**Tracking People in Highly Dynamic Industrial Environments**|Savvas Papaioannou et.al.|[2302.00503v1](http://arxiv.org/abs/2302.00503v1)|null|
 |**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
 |**2023-02-01**|**How to Prove the Optimized Values of Hyperparameters for Particle Swarm Optimization?**|Abel C. H. Chen et.al.|[2302.00155v1](http://arxiv.org/abs/2302.00155v1)|null|
@@ -29,6 +32,3 @@
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2023-01-17**|**Dynamical tides in Jupiter and other rotationally flattened planets and stars with stable stratification**|Janosz W. Dewberry et.al.|[2301.07097v1](http://arxiv.org/abs/2301.07097v1)|null|
 |**2023-01-17**|**Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers**|Emma Bouton--Bessac et.al.|[2301.06993v1](http://arxiv.org/abs/2301.06993v1)|null|
-|**2023-01-17**|**Effects of particle size and background rotation on the settling of particle clouds**|Quentin Kriaa et.al.|[2301.06963v1](http://arxiv.org/abs/2301.06963v1)|null|
-|**2023-01-16**|**Counting of level crossings for inertial random processes: Generalization of the Rice formula**|Jaume Masoliver et.al.|[2301.06608v2](http://arxiv.org/abs/2301.06608v2)|null|
-|**2023-01-16**|**Are inertial vacua equivalent in Lorentz-violating theories? Does it matter?**|Bruno Arderucio Costa et.al.|[2301.06600v1](http://arxiv.org/abs/2301.06600v1)|null|
