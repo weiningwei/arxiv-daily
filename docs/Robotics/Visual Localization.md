@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**LIDAR-based Stabilization, Navigation and Localization for UAVs Operating in Dark Indoor Environments**|Matěj Petrl\' ik et.al.|[2302.01883v1](http://arxiv.org/abs/2302.01883v1)|null|
+|**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
+|**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
+|**2023-02-03**|**DynaMIX: Resource Optimization for DNN-Based Real-Time Applications on a Multi-Tasking System**|Minkyoung Cho et.al.|[2302.01568v1](http://arxiv.org/abs/2302.01568v1)|null|
+|**2023-02-02**|**The MUSE Ultra Deep Field (MUDF) -- III: Hubble Space Telescope WFC3 Grism Spectroscopy and Imaging**|Mitchell Revalski et.al.|[2302.01345v1](http://arxiv.org/abs/2302.01345v1)|null|
 |**2023-02-02**|**SceneScape: Text-Driven Consistent Scene Generation**|Rafail Fridman et.al.|[2302.01133v1](http://arxiv.org/abs/2302.01133v1)|null|
 |**2023-02-02**|**LesionAid: Vision Transformers-based Skin Lesion Generation and Classification**|Ghanta Sai Krishna et.al.|[2302.01104v1](http://arxiv.org/abs/2302.01104v1)|null|
 |**2023-02-02**|**Curriculum Learning for ab initio Deep Learned Refractive Optics**|Xinge Yang et.al.|[2302.01089v1](http://arxiv.org/abs/2302.01089v1)|null|
@@ -18,6 +23,7 @@
 |**2023-02-01**|**FLYEYE family tree, from smart fast cameras to MezzoCielo**|Roberto Ragazzoni et.al.|[2302.00367v1](http://arxiv.org/abs/2302.00367v1)|null|
 |**2023-02-01**|**A Flexible Framework for Virtual Omnidirectional Vision to Improve Operator Situation Awareness**|Martin Oehler et.al.|[2302.00362v1](http://arxiv.org/abs/2302.00362v1)|null|
 |**2023-02-01**|**Bayesian inference for a spatio-temporal model of road traffic collision data**|Nicola Hewett et.al.|[2302.00342v1](http://arxiv.org/abs/2302.00342v1)|null|
+|**2023-02-01**|**Object Dimension Extraction for Environment Mapping with Low Cost Cameras Fused with Laser Ranging**|E. M. S. P. Ekanayake et.al.|[2302.01387v1](http://arxiv.org/abs/2302.01387v1)|null|
 |**2023-02-01**|**Human Fall Detection- Multimodality Approach**|Xi Wang et.al.|[2302.00224v1](http://arxiv.org/abs/2302.00224v1)|null|
 |**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
 |**2023-01-31**|**Design and Implementation of A Soccer Ball Detection System with Multiple Cameras**|Lei Li et.al.|[2302.00123v1](http://arxiv.org/abs/2302.00123v1)|null|
@@ -26,9 +32,3 @@
 |**2023-01-31**|**DESI and DECaLS (D&D): galaxy-galaxy lensing measurements with 1% survey and its forecast**|Ji Yao et.al.|[2301.13434v1](http://arxiv.org/abs/2301.13434v1)|null|
 |**2023-01-30**|**LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization**|Kalpesh Krishna et.al.|[2301.13298v1](http://arxiv.org/abs/2301.13298v1)|[link](https://github.com/martiansideofthemoon/longeval-summarization)|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|[link](https://github.com/changhaonan/mono-star-demo)|
-|**2023-01-30**|**Accurate Gaze Estimation using an Active-gaze Morphable Model**|Hao Sun et.al.|[2301.13186v1](http://arxiv.org/abs/2301.13186v1)|null|
-|**2023-01-30**|**Factors that affect Camera based Self-Monitoring of Vitals in the Wild**|Nikhil S. Narayan et.al.|[2301.12943v1](http://arxiv.org/abs/2301.12943v1)|null|
-|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|[link](https://github.com/ZiliangMiao/Hybrid_Mapping_Cocalibration)|
-|**2023-01-30**|**Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics**|Euclid Collaboration et.al.|[2301.12890v1](http://arxiv.org/abs/2301.12890v1)|null|
-|**2023-01-30**|**Soft Cap for Eversion Robots**|Cem Suulker et.al.|[2301.12862v1](http://arxiv.org/abs/2301.12862v1)|null|
-|**2023-01-30**|**M3FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System**|Chenqi Kong et.al.|[2301.12831v2](http://arxiv.org/abs/2301.12831v2)|null|

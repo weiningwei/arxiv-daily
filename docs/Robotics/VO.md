@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**Deployment of Reliable Visual Inertial Odometry Approaches for Unmanned Aerial Vehicles in Real-world Environment**|Jan Bednář et.al.|[2302.01867v1](http://arxiv.org/abs/2302.01867v1)|null|
+|**2023-02-03**|**DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry**|Fuzhang~Han et.al.|[2302.01703v1](http://arxiv.org/abs/2302.01703v1)|null|
 |**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
 |**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|[link](https://github.com/ZiliangMiao/Hybrid_Mapping_Cocalibration)|
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
@@ -30,5 +32,3 @@
 |**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635v1](http://arxiv.org/abs/2211.07635v1)|null|
 |**2022-11-12**|**Computationally Light Spectrally Normalized Memory Neuron Network based Estimator for GPS-Denied operation of Micro UAV**|Nishanth Rao et.al.|[2211.06548v2](http://arxiv.org/abs/2211.06548v2)|null|
 |**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|[link](https://github.com/rwth-irt/onlinefgo)|
-|**2022-11-08**|**Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs**|Russell Buchanan et.al.|[2211.04517v1](http://arxiv.org/abs/2211.04517v1)|null|
-|**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|[link](https://github.com/brytsknguyen/slict)|
