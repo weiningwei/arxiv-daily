@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-02**|**Probing the Nonlinear Interactions of Supertidal Internal Waves using a High-Resolution Regional Ocean Model**|Joseph Skitka et.al.|[2302.01176v1](http://arxiv.org/abs/2302.01176v1)|null|
+|**2023-02-02**|**Probing the Nonlinear Interactions of Supertidal Internal Waves using a High-Resolution Regional Ocean Model**|Joseph Skitka et.al.|[2302.01176v2](http://arxiv.org/abs/2302.01176v2)|null|
 |**2023-02-02**|**Hidden scale invariance of turbulence in a shell model: from forcing to dissipation scales**|Alexei A. Mailybaev et.al.|[2302.01064v1](http://arxiv.org/abs/2302.01064v1)|null|
 |**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun et.al.|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
 |**2023-02-01**|**Tracking People in Highly Dynamic Industrial Environments**|Savvas Papaioannou et.al.|[2302.00503v1](http://arxiv.org/abs/2302.00503v1)|null|

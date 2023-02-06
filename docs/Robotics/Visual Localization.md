@@ -31,4 +31,4 @@
 |**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v2](http://arxiv.org/abs/2301.12934v2)|[link](https://github.com/ZiliangMiao/Hybrid_Mapping_Cocalibration)|
 |**2023-01-30**|**Euclid Preparation XXIX: Forecasts for 10 different higher-order weak lensing statistics**|Euclid Collaboration et.al.|[2301.12890v1](http://arxiv.org/abs/2301.12890v1)|null|
 |**2023-01-30**|**Soft Cap for Eversion Robots**|Cem Suulker et.al.|[2301.12862v1](http://arxiv.org/abs/2301.12862v1)|null|
-|**2023-01-30**|**M3FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System**|Chenqi Kong et.al.|[2301.12831v1](http://arxiv.org/abs/2301.12831v1)|null|
+|**2023-01-30**|**M3FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System**|Chenqi Kong et.al.|[2301.12831v2](http://arxiv.org/abs/2301.12831v2)|null|
