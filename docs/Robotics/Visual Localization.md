@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-08**|**A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition**|Yongjian Deng et.al.|[2302.04177v1](http://arxiv.org/abs/2302.04177v1)|null|
+|**2023-02-08**|**The Hardware Impact of Quantization and Pruning for Weights in Spiking Neural Networks**|Clemens JS Schaefer et.al.|[2302.04174v1](http://arxiv.org/abs/2302.04174v1)|[link](https://github.com/intelligent-microsystems-lab/snnquantprune)|
+|**2023-02-08**|**InMyFace: Inertial and Mechanomyography-Based Sensor Fusion for Wearable Facial Activity Recognition**|Hymalai Bello et.al.|[2302.04024v1](http://arxiv.org/abs/2302.04024v1)|null|
+|**2023-02-08**|**Geometric Perception based Efficient Text Recognition**|P. N. Deelaka et.al.|[2302.03873v1](http://arxiv.org/abs/2302.03873v1)|[link](https://github.com/ACRA-FL/GeoTRNet)|
+|**2023-02-08**|**EVEN: An Event-Based Framework for Monocular Depth Estimation at Adverse Night Conditions**|Peilun Shi et.al.|[2302.03860v1](http://arxiv.org/abs/2302.03860v1)|null|
+|**2023-02-08**|**MMPD: Multi-Domain Mobile Video Physiology Dataset**|Jiankai Tang et.al.|[2302.03840v1](http://arxiv.org/abs/2302.03840v1)|[link](https://github.com/mcjacktang/mmpd_rppg_dataset)|
+|**2023-02-07**|**Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**|Ziqi Pang et.al.|[2302.03802v1](http://arxiv.org/abs/2302.03802v1)|null|
+|**2023-02-07**|**Quantifying high-dimensional spatial entanglement with a single-photon-sensitive time-stamping camera**|Baptiste Courme et.al.|[2302.03756v1](http://arxiv.org/abs/2302.03756v1)|null|
+|**2023-02-07**|**3D Neural Embedding Likelihood for Robust Sim-to-Real Transfer in Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v1](http://arxiv.org/abs/2302.03744v1)|null|
+|**2023-02-07**|**Scientific CMOS sensors in Astronomy: QHY600 and QHY411**|Miguel R. Alarcon et.al.|[2302.03700v1](http://arxiv.org/abs/2302.03700v1)|null|
 |**2023-02-07**|**In-the-wild Material Appearance Editing using Perceptual Attributes**|J. Daniel Subias et.al.|[2302.03619v1](http://arxiv.org/abs/2302.03619v1)|null|
 |**2023-02-07**|**Pole Estimation and Optical Navigation using Circle of Latitude Projections**|John A. Christian et.al.|[2302.03609v1](http://arxiv.org/abs/2302.03609v1)|null|
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu et.al.|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
@@ -22,13 +32,3 @@
 |**2023-02-03**|**A New Paradigm of Reservoir Computing Exploiting Hydrodynamics**|Giulia Marcucci et.al.|[2302.01978v1](http://arxiv.org/abs/2302.01978v1)|null|
 |**2023-02-03**|**LIDAR-based Stabilization, Navigation and Localization for UAVs Operating in Dark Indoor Environments**|Matěj Petrl\' ik et.al.|[2302.01883v1](http://arxiv.org/abs/2302.01883v1)|null|
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
-|**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
-|**2023-02-03**|**DynaMIX: Resource Optimization for DNN-Based Real-Time Applications on a Multi-Tasking System**|Minkyoung Cho et.al.|[2302.01568v1](http://arxiv.org/abs/2302.01568v1)|null|
-|**2023-02-02**|**The MUSE Ultra Deep Field (MUDF) -- III: Hubble Space Telescope WFC3 Grism Spectroscopy and Imaging**|Mitchell Revalski et.al.|[2302.01345v1](http://arxiv.org/abs/2302.01345v1)|null|
-|**2023-02-02**|**SceneScape: Text-Driven Consistent Scene Generation**|Rafail Fridman et.al.|[2302.01133v1](http://arxiv.org/abs/2302.01133v1)|null|
-|**2023-02-02**|**LesionAid: Vision Transformers-based Skin Lesion Generation and Classification**|Ghanta Sai Krishna et.al.|[2302.01104v1](http://arxiv.org/abs/2302.01104v1)|null|
-|**2023-02-02**|**Curriculum Learning for ab initio Deep Learned Refractive Optics**|Xinge Yang et.al.|[2302.01089v1](http://arxiv.org/abs/2302.01089v1)|null|
-|**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun et.al.|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
-|**2023-02-02**|**3D Coverage Path Planning for Efficient Construction Progress Monitoring**|Katrin Becker et.al.|[2302.00968v1](http://arxiv.org/abs/2302.00968v1)|null|
-|**2023-02-02**|**SHINE: Deep Learning-Based Accessible Parking Management System**|Dhiraj Neupane et.al.|[2302.00837v1](http://arxiv.org/abs/2302.00837v1)|null|
-|**2023-02-01**|**Autonomous Drone Landing: Marked Landing Pads and Solidified Lava Flows**|Joshua Springer et.al.|[2302.00786v1](http://arxiv.org/abs/2302.00786v1)|null|

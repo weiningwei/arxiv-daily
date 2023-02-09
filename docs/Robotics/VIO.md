@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-08**|**Simplified markerless stride detection pipeline (sMaSDP) for surface EMG segmentation**|Rafael Castro Aguiar et.al.|[2302.04243v1](http://arxiv.org/abs/2302.04243v1)|null|
+|**2023-02-08**|**Reduced-order approach for soft material inertial cavitation rheometry**|Zhiren Zhu et.al.|[2302.04227v1](http://arxiv.org/abs/2302.04227v1)|null|
+|**2023-02-08**|**Anisotropic skyrmion mass induced by surrounding conduction electrons: A Schwinger-Keldysh field theory approach**|Felipe Reyes-Osorio et.al.|[2302.04220v1](http://arxiv.org/abs/2302.04220v1)|null|
+|**2023-02-08**|**FR-LIO: Fast and Robust Lidar-Inertial Odometry by Tightly-Coupled Iterated Kalman Smoother and Robocentric Voxels**|Xiaoyu Zhao et.al.|[2302.04031v1](http://arxiv.org/abs/2302.04031v1)|null|
+|**2023-02-08**|**InMyFace: Inertial and Mechanomyography-Based Sensor Fusion for Wearable Facial Activity Recognition**|Hymalai Bello et.al.|[2302.04024v1](http://arxiv.org/abs/2302.04024v1)|null|
 |**2023-02-07**|**Tension Estimation and Localization for a Tethered Micro Aerial Robot**|Ricardo Martins et.al.|[2302.03551v1](http://arxiv.org/abs/2302.03551v1)|null|
 |**2023-02-07**|**Suspensions of viscoelastic capsules: effect of membrane viscosity on transient dynamics**|Fabio Guglietta et.al.|[2302.03546v1](http://arxiv.org/abs/2302.03546v1)|null|
 |**2023-02-07**|**Global regularity of hyperbolic liquid crystal elastomers for small data in three dimensions**|Xiaonan Hao et.al.|[2302.03483v1](http://arxiv.org/abs/2302.03483v1)|null|
@@ -27,8 +32,3 @@
 |**2023-01-31**|**The payload of the Lunar Gravitational-wave Antenna**|Joris van Heijningen et.al.|[2301.13685v2](http://arxiv.org/abs/2301.13685v2)|null|
 |**2023-01-30**|**Viscoelastic response of an active particle under the action of magnetic field**|M Muhsin et.al.|[2301.13179v1](http://arxiv.org/abs/2301.13179v1)|null|
 |**2023-01-30**|**Frame-dependence of the non-relativistic limit of quantum fields**|Riccardo Falcone et.al.|[2301.13011v1](http://arxiv.org/abs/2301.13011v1)|null|
-|**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v3](http://arxiv.org/abs/2301.12934v3)|[link](https://github.com/ZiliangMiao/Hybrid_Mapping_Cocalibration)|
-|**2023-01-30**|**Delayed Stochastic Algorithms for Distributed Weakly Convex Optimization**|Wenzhi Gao et.al.|[2301.12713v1](http://arxiv.org/abs/2301.12713v1)|null|
-|**2023-01-29**|**Hawking radiation inside a charged black hole**|Tyler McMaken et.al.|[2301.12319v1](http://arxiv.org/abs/2301.12319v1)|null|
-|**2023-01-28**|**AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**|Yu Chen et.al.|[2301.12135v1](http://arxiv.org/abs/2301.12135v1)|null|
-|**2023-01-27**|**Side Auth: Synthesizing Virtual Sensors for Authentication**|Yan Long et.al.|[2301.11745v1](http://arxiv.org/abs/2301.11745v1)|null|
