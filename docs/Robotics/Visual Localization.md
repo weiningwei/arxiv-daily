@@ -8,7 +8,7 @@
 |**2023-02-07**|**Structured Generative Models for Scene Understanding**|Christopher K. I. Williams et.al.|[2302.03531v1](http://arxiv.org/abs/2302.03531v1)|null|
 |**2023-02-07**|**Bringing the State-of-the-Art to Customers: A Neural Agent Assistant Framework for Customer Service Support**|Stephen Obadinma et.al.|[2302.03222v1](http://arxiv.org/abs/2302.03222v1)|[link](https://github.com/vectorinstitute/naa)|
 |**2023-02-06**|**Tendon-Driven Soft Robotic Gripper with Integrated Ripeness Sensing for Blackberry Harvesting**|Alex Qiu et.al.|[2302.03099v1](http://arxiv.org/abs/2302.03099v1)|null|
-|**2023-02-06**|**SurgT: Soft-Tissue Tracking for Robotic Surgery, Benchmark and Challenge**|Joao Cartucho et.al.|[2302.03022v1](http://arxiv.org/abs/2302.03022v1)|null|
+|**2023-02-06**|**SurgT: Soft-Tissue Tracking for Robotic Surgery, Benchmark and Challenge**|Joao Cartucho et.al.|[2302.03022v1](http://arxiv.org/abs/2302.03022v1)|[link](https://github.com/cartucho/surgt_benchmarking)|
 |**2023-02-06**|**Improved Vehicle Sub-type Classification for Acoustic Traffic Monitoring**|Mohd Ashhad et.al.|[2302.02945v1](http://arxiv.org/abs/2302.02945v1)|null|
 |**2023-02-06**|**Intra-operative Brain Tumor Detection with Deep Learning-Optimized Hyperspectral Imaging**|Tommaso Giannantonio et.al.|[2302.02884v1](http://arxiv.org/abs/2302.02884v1)|null|
 |**2023-02-05**|**Bichromatic UV detection system for atomically-resolved imaging of ions**|T. Nordmann et.al.|[2302.02489v1](http://arxiv.org/abs/2302.02489v1)|null|
