@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823v1](http://arxiv.org/abs/2302.04823v1)|[link](https://github.com/gustavokcouto/hgail)|
+|**2023-02-09**|**Optical communication-based identification for multi-UAV systems: theory and practice**|Daniel Bonilla Licea et.al.|[2302.04770v1](http://arxiv.org/abs/2302.04770v1)|null|
+|**2023-02-09**|**A Vision-Based Algorithm for a Path Following Problem**|Mario Terlizzi et.al.|[2302.04742v1](http://arxiv.org/abs/2302.04742v1)|null|
+|**2023-02-09**|**Contestable Camera Cars: A Speculative Design Exploration of Public AI That Is Open and Responsive to Dispute**|Kars Alfrink et.al.|[2302.04603v1](http://arxiv.org/abs/2302.04603v1)|null|
+|**2023-02-09**|**Euclid preparation: XXVIII. Modelling of the weak lensing angular power spectrum**|Euclid Collaboration et.al.|[2302.04507v1](http://arxiv.org/abs/2302.04507v1)|null|
+|**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang et.al.|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
+|**2023-02-09**|**Optimized Hybrid Focal Margin Loss for Crack Segmentation**|Jiajie Chen et.al.|[2302.04395v1](http://arxiv.org/abs/2302.04395v1)|null|
+|**2023-02-08**|**Shared Information-Based Safe And Efficient Behavior Planning For Connected Autonomous Vehicles**|Songyang Han et.al.|[2302.04321v1](http://arxiv.org/abs/2302.04321v1)|null|
 |**2023-02-08**|**A Dynamic Graph CNN with Cross-Representation Distillation for Event-Based Recognition**|Yongjian Deng et.al.|[2302.04177v1](http://arxiv.org/abs/2302.04177v1)|null|
 |**2023-02-08**|**The Hardware Impact of Quantization and Pruning for Weights in Spiking Neural Networks**|Clemens JS Schaefer et.al.|[2302.04174v1](http://arxiv.org/abs/2302.04174v1)|[link](https://github.com/intelligent-microsystems-lab/snnquantprune)|
 |**2023-02-08**|**InMyFace: Inertial and Mechanomyography-Based Sensor Fusion for Wearable Facial Activity Recognition**|Hymalai Bello et.al.|[2302.04024v1](http://arxiv.org/abs/2302.04024v1)|null|
@@ -19,16 +27,8 @@
 |**2023-02-07**|**Bringing the State-of-the-Art to Customers: A Neural Agent Assistant Framework for Customer Service Support**|Stephen Obadinma et.al.|[2302.03222v1](http://arxiv.org/abs/2302.03222v1)|[link](https://github.com/vectorinstitute/naa)|
 |**2023-02-06**|**Tendon-Driven Soft Robotic Gripper with Integrated Ripeness Sensing for Blackberry Harvesting**|Alex Qiu et.al.|[2302.03099v1](http://arxiv.org/abs/2302.03099v1)|null|
 |**2023-02-06**|**SurgT: Soft-Tissue Tracking for Robotic Surgery, Benchmark and Challenge**|Joao Cartucho et.al.|[2302.03022v1](http://arxiv.org/abs/2302.03022v1)|[link](https://github.com/cartucho/surgt_benchmarking)|
+|**2023-02-06**|**Closed-loop Analysis of Vision-based Autonomous Systems: A Case Study**|Corina S. Pasareanu et.al.|[2302.04634v1](http://arxiv.org/abs/2302.04634v1)|null|
 |**2023-02-06**|**Improved Vehicle Sub-type Classification for Acoustic Traffic Monitoring**|Mohd Ashhad et.al.|[2302.02945v1](http://arxiv.org/abs/2302.02945v1)|null|
 |**2023-02-06**|**Intra-operative Brain Tumor Detection with Deep Learning-Optimized Hyperspectral Imaging**|Tommaso Giannantonio et.al.|[2302.02884v1](http://arxiv.org/abs/2302.02884v1)|null|
 |**2023-02-05**|**Bichromatic UV detection system for atomically-resolved imaging of ions**|T. Nordmann et.al.|[2302.02489v1](http://arxiv.org/abs/2302.02489v1)|null|
 |**2023-02-05**|**Multi-View Masked World Models for Visual Robotic Manipulation**|Younggyo Seo et.al.|[2302.02408v1](http://arxiv.org/abs/2302.02408v1)|null|
-|**2023-02-05**|**OAcode: Overall Aesthetic 2D Barcode on Screen**|Zehua Ma et.al.|[2302.02396v1](http://arxiv.org/abs/2302.02396v1)|null|
-|**2023-02-04**|**Using Thermal Imaging to Measure Hand Hygiene Quality**|Chaofan Wang et.al.|[2302.02233v1](http://arxiv.org/abs/2302.02233v1)|null|
-|**2023-02-04**|**Robot Person Following Under Partial Occlusion**|Hanjing Ye et.al.|[2302.02121v1](http://arxiv.org/abs/2302.02121v1)|null|
-|**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
-|**2023-02-04**|**Improving Prediction Backward-Compatiblility in NLP Model Upgrade with Gated Fusion**|Yi-An Lai et.al.|[2302.02080v1](http://arxiv.org/abs/2302.02080v1)|null|
-|**2023-02-04**|**Bilevel Inverse Problems in Neuromorphic Imaging**|Harbir Antil et.al.|[2302.02052v1](http://arxiv.org/abs/2302.02052v1)|null|
-|**2023-02-03**|**A New Paradigm of Reservoir Computing Exploiting Hydrodynamics**|Giulia Marcucci et.al.|[2302.01978v1](http://arxiv.org/abs/2302.01978v1)|null|
-|**2023-02-03**|**LIDAR-based Stabilization, Navigation and Localization for UAVs Operating in Dark Indoor Environments**|Matěj Petrl\' ik et.al.|[2302.01883v1](http://arxiv.org/abs/2302.01883v1)|null|
-|**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
