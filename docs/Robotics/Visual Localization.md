@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823v1](http://arxiv.org/abs/2302.04823v1)|[link](https://github.com/gustavokcouto/hgail)|
 |**2023-02-09**|**Optical communication-based identification for multi-UAV systems: theory and practice**|Daniel Bonilla Licea et.al.|[2302.04770v1](http://arxiv.org/abs/2302.04770v1)|null|
-|**2023-02-09**|**A Vision-Based Algorithm for a Path Following Problem**|Mario Terlizzi et.al.|[2302.04742v1](http://arxiv.org/abs/2302.04742v1)|null|
+|**2023-02-09**|**A Vision-Based Algorithm for a Path Following Problem**|Mario Terlizzi et.al.|[2302.04742v1](http://arxiv.org/abs/2302.04742v1)|[link](https://github.com/mar4945/vision-based-pure-pursuing-algorithm)|
 |**2023-02-09**|**Contestable Camera Cars: A Speculative Design Exploration of Public AI That Is Open and Responsive to Dispute**|Kars Alfrink et.al.|[2302.04603v1](http://arxiv.org/abs/2302.04603v1)|null|
 |**2023-02-09**|**Euclid preparation: XXVIII. Modelling of the weak lensing angular power spectrum**|Euclid Collaboration et.al.|[2302.04507v1](http://arxiv.org/abs/2302.04507v1)|null|
 |**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang et.al.|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
