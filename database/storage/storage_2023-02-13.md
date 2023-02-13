@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-13 08:38:52 Asia/Shanghai
+ Automated deployment @ 2023-02-13 10:09:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -70,7 +70,7 @@
 |**2023-02-02**|**Improved numerical plotting of elliptical orbits using radial action coordinates -- has the symmetry of Leibniz radial theory based on inertia versus gravity been ignored?**|Ivan R. Kennedy et.al.|[2302.01768v1](http://arxiv.org/abs/2302.01768v1)|null|
 |**2023-02-01**|**Tracking People in Highly Dynamic Industrial Environments**|Savvas Papaioannou et.al.|[2302.00503v1](http://arxiv.org/abs/2302.00503v1)|null|
 |**2023-02-01**|**Fusion of Radio and Camera Sensor Data for Accurate Indoor Positioning**|Savvas Papaioannou et.al.|[2302.02952v1](http://arxiv.org/abs/2302.02952v1)|null|
-|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
+|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v2](http://arxiv.org/abs/2302.00216v2)|null|
 |**2023-02-01**|**How to Prove the Optimized Values of Hyperparameters for Particle Swarm Optimization?**|Abel C. H. Chen et.al.|[2302.00155v1](http://arxiv.org/abs/2302.00155v1)|null|
 
 ### VO
@@ -79,7 +79,7 @@
 |**2023-02-08**|**FR-LIO: Fast and Robust Lidar-Inertial Odometry by Tightly-Coupled Iterated Kalman Smoother and Robocentric Voxels**|Xiaoyu Zhao et.al.|[2302.04031v1](http://arxiv.org/abs/2302.04031v1)|null|
 |**2023-02-03**|**Deployment of Reliable Visual Inertial Odometry Approaches for Unmanned Aerial Vehicles in Real-world Environment**|Jan Bednář et.al.|[2302.01867v1](http://arxiv.org/abs/2302.01867v1)|null|
 |**2023-02-03**|**DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry**|Fuzhang Han et.al.|[2302.01703v2](http://arxiv.org/abs/2302.01703v2)|null|
-|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
+|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v2](http://arxiv.org/abs/2302.00216v2)|null|
 |**2023-01-30**|**Coarse-to-fine Hybrid 3D Mapping System with Co-calibrated Omnidirectional Camera and Non-repetitive LiDAR**|Ziliang Miao et.al.|[2301.12934v3](http://arxiv.org/abs/2301.12934v3)|[link](https://github.com/ZiliangMiao/Hybrid_Mapping_Cocalibration)|
 |**2023-01-23**|**Real-Time Simultaneous Localization and Mapping with LiDAR intensity**|Wenqiang Du et.al.|[2301.09257v1](http://arxiv.org/abs/2301.09257v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|

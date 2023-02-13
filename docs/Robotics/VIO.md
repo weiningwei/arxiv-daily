@@ -30,5 +30,5 @@
 |**2023-02-02**|**Improved numerical plotting of elliptical orbits using radial action coordinates -- has the symmetry of Leibniz radial theory based on inertia versus gravity been ignored?**|Ivan R. Kennedy et.al.|[2302.01768v1](http://arxiv.org/abs/2302.01768v1)|null|
 |**2023-02-01**|**Tracking People in Highly Dynamic Industrial Environments**|Savvas Papaioannou et.al.|[2302.00503v1](http://arxiv.org/abs/2302.00503v1)|null|
 |**2023-02-01**|**Fusion of Radio and Camera Sensor Data for Accurate Indoor Positioning**|Savvas Papaioannou et.al.|[2302.02952v1](http://arxiv.org/abs/2302.02952v1)|null|
-|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
+|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v2](http://arxiv.org/abs/2302.00216v2)|null|
 |**2023-02-01**|**How to Prove the Optimized Values of Hyperparameters for Particle Swarm Optimization?**|Abel C. H. Chen et.al.|[2302.00155v1](http://arxiv.org/abs/2302.00155v1)|null|
