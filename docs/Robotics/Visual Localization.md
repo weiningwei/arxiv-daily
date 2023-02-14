@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-02-10**|**The LuViRA Dataset: Measurement Description**|Ilayda Yaman et.al.|[2302.05309v1](http://arxiv.org/abs/2302.05309v1)|null|
-|**2023-02-10**|**Euclid: Cosmology forecasts from the void-galaxy cross-correlation function with reconstruction**|S. Radinović et.al.|[2302.05302v1](http://arxiv.org/abs/2302.05302v1)|null|
+|**2023-02-10**|**Euclid: Cosmology forecasts from the void-galaxy cross-correlation function with reconstruction**|S. Radinović et.al.|[2302.05302v2](http://arxiv.org/abs/2302.05302v2)|null|
 |**2023-02-10**|**CGA-PoseNet: Camera Pose Regression via a 1D-Up Approach to Conformal Geometric Algebra**|Alberto Pepe et.al.|[2302.05211v1](http://arxiv.org/abs/2302.05211v1)|[link](https://github.com/albertomariapepe/CGA-PoseNet)|
 |**2023-02-10**|**Virtually increasing the measurement frequency of LIDAR sensor utilizing a single RGB camera**|Zoltan Rozsa et.al.|[2302.05192v1](http://arxiv.org/abs/2302.05192v1)|null|
 |**2023-02-10**|**Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection**|Hang Zhou et.al.|[2302.05160v1](http://arxiv.org/abs/2302.05160v1)|[link](https://github.com/henrryzh1/UR-DMU)|
@@ -31,4 +31,4 @@
 |**2023-02-07**|**Quantifying high-dimensional spatial entanglement with a single-photon-sensitive time-stamping camera**|Baptiste Courme et.al.|[2302.03756v1](http://arxiv.org/abs/2302.03756v1)|null|
 |**2023-02-07**|**3D Neural Embedding Likelihood for Robust Sim-to-Real Transfer in Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v1](http://arxiv.org/abs/2302.03744v1)|null|
 |**2023-02-07**|**Scientific CMOS sensors in Astronomy: QHY600 and QHY411**|Miguel R. Alarcon et.al.|[2302.03700v1](http://arxiv.org/abs/2302.03700v1)|null|
-|**2023-02-07**|**In-the-wild Material Appearance Editing using Perceptual Attributes**|J. Daniel Subias et.al.|[2302.03619v1](http://arxiv.org/abs/2302.03619v1)|null|
+|**2023-02-07**|**In-the-wild Material Appearance Editing using Perceptual Attributes**|J. Daniel Subias et.al.|[2302.03619v2](http://arxiv.org/abs/2302.03619v2)|null|
