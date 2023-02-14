@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
+|**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama et.al.|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
 |**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi et.al.|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
 |**2023-02-08**|**SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**|Vasilis Kontonis et.al.|[2302.03806v1](http://arxiv.org/abs/2302.03806v1)|null|
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu et.al.|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
@@ -30,5 +32,3 @@
 |**2022-12-27**|**Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**|Felipe Gómez-Cuba et.al.|[2212.13477v1](http://arxiv.org/abs/2212.13477v1)|[link](https://github.com/gomezcuba/castro-5g)|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
 |**2022-12-24**|**A Comprehensive Review on Autonomous Navigation**|Saeid Nahavandi et.al.|[2212.12808v1](http://arxiv.org/abs/2212.12808v1)|null|
-|**2022-12-23**|**Radio SLAM for 6G Systems at THz Frequencies: Design and Experimental Validation**|Marina Lotti et.al.|[2212.12388v1](http://arxiv.org/abs/2212.12388v1)|null|
-|**2022-12-23**|**Implementation of a Blind navigation method in outdoors/indoors areas**|Mohammad Javadian Farzaneh et.al.|[2212.12185v1](http://arxiv.org/abs/2212.12185v1)|null|
