@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-14**|**Quantum viscosity and the Reynolds similitude in quantum liquid He-II**|Hiromitsu Takeuchi et.al.|[2302.07039v1](http://arxiv.org/abs/2302.07039v1)|null|
+|**2023-02-13**|**The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects**|Philippe Nadeau et.al.|[2302.06685v1](http://arxiv.org/abs/2302.06685v1)|null|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
 |**2023-02-13**|**High-Performance Motorbike Lean Angle Estimation**|Nicola Mimmo et.al.|[2302.06265v1](http://arxiv.org/abs/2302.06265v1)|null|
 |**2023-02-13**|**Time-dependent charged particle stopping in quantum plasmas: testing the G1-G2 scheme for quasi-one-dimensional systems**|C. Makait et.al.|[2302.06216v1](http://arxiv.org/abs/2302.06216v1)|null|
@@ -30,5 +32,3 @@
 |**2023-02-04**|**On the strong convergence of an inertial proximal algorithm with a Tikhonov regularization term**|Szilárd Csaba László et.al.|[2302.02115v1](http://arxiv.org/abs/2302.02115v1)|null|
 |**2023-02-03**|**Deployment of Reliable Visual Inertial Odometry Approaches for Unmanned Aerial Vehicles in Real-world Environment**|Jan Bednář et.al.|[2302.01867v1](http://arxiv.org/abs/2302.01867v1)|null|
 |**2023-02-03**|**The Classical Aharonov-Bohm Interaction as a Relativity Paradox**|Timothy H. Boyer et.al.|[2302.01937v1](http://arxiv.org/abs/2302.01937v1)|null|
-|**2023-02-03**|**Classical Electromagnetic Interaction of a Charge with a Solenoid or Toroid**|Timothy H. Boyer et.al.|[2302.01936v1](http://arxiv.org/abs/2302.01936v1)|null|
-|**2023-02-03**|**DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry**|Fuzhang Han et.al.|[2302.01703v2](http://arxiv.org/abs/2302.01703v2)|null|
