@@ -15,7 +15,7 @@
 |**2023-02-13**|**Capsules as viewpoint learners for human pose estimation**|Nicola Garau et.al.|[2302.06194v1](http://arxiv.org/abs/2302.06194v1)|null|
 |**2023-02-12**|**Digital Twin Tracking Dataset (DTTD): A New RGB+Depth 3D Dataset for Longer-Range Object Tracking Applications**|Weiyu Feng et.al.|[2302.05991v1](http://arxiv.org/abs/2302.05991v1)|[link](https://github.com/augcog/dttdv1)|
 |**2023-02-11**|**TPE-Net: Track Point Extraction and Association Network for Rail Path Proposal Generation**|Jungwon Kang et.al.|[2302.05803v1](http://arxiv.org/abs/2302.05803v1)|null|
-|**2023-02-11**|**Removing Image Artifacts From Scratched Lens Protectors**|Yufei Wang et.al.|[2302.05746v1](http://arxiv.org/abs/2302.05746v1)|null|
+|**2023-02-11**|**Removing Image Artifacts From Scratched Lens Protectors**|Yufei Wang et.al.|[2302.05746v2](http://arxiv.org/abs/2302.05746v2)|[link](https://github.com/wyf0912/flare-removal)|
 |**2023-02-11**|**Predicting Participants' Performance in Programming Contests using Deep Learning Techniques**|Md Mahbubur Rahman et.al.|[2302.05602v1](http://arxiv.org/abs/2302.05602v1)|null|
 |**2023-02-10**|**Building Intelligence in the Mechanical Domain -- Harvesting the Reservoir Computing Power in Origami to Achieve Information Perception Tasks**|Jun Wang et.al.|[2302.05517v1](http://arxiv.org/abs/2302.05517v1)|null|
 |**2023-02-10**|**The LuViRA Dataset: Measurement Description**|Ilayda Yaman et.al.|[2302.05309v1](http://arxiv.org/abs/2302.05309v1)|null|
