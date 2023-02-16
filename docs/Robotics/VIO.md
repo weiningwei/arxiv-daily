@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15**|**Astrophysical properties of 15062 Gaia DR3 gravity-mode pulsators: pulsation amplitudes, rotation, and spectral line broadening**|Conny Aerts et.al.|[2302.07870v1](http://arxiv.org/abs/2302.07870v1)|null|
+|**2023-02-15**|**An abstract convergence framework with application to inertial inexact forward--backward methods**|Silvia Bonettini et.al.|[2302.07545v1](http://arxiv.org/abs/2302.07545v1)|null|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
 |**2023-02-14**|**Quantum viscosity and the Reynolds similitude in quantum liquid He-II**|Hiromitsu Takeuchi et.al.|[2302.07039v1](http://arxiv.org/abs/2302.07039v1)|null|
 |**2023-02-13**|**The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects**|Philippe Nadeau et.al.|[2302.06685v1](http://arxiv.org/abs/2302.06685v1)|[link](https://github.com/utiasSTARS/inertial-identification-with-part-segmentation)|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
@@ -29,6 +32,3 @@
 |**2023-02-06**|**The interactions of the elliptical instability and convection**|N. B. de Vries et.al.|[2302.02912v1](http://arxiv.org/abs/2302.02912v1)|null|
 |**2023-02-04**|**Improved Prediction of Settling Behaviour of Solid Particles through Machine Learning Analysis of Experimental Retention Time Data**|Liron Simon Keren et.al.|[2302.02242v1](http://arxiv.org/abs/2302.02242v1)|null|
 |**2023-02-04**|**Flow past a sphere rising along the axis of a rotating fluid: Revisiting numerically Maxworthy's experiments**|Tristan Aurégan et.al.|[2302.02129v1](http://arxiv.org/abs/2302.02129v1)|null|
-|**2023-02-04**|**On the strong convergence of an inertial proximal algorithm with a Tikhonov regularization term**|Szilárd Csaba László et.al.|[2302.02115v1](http://arxiv.org/abs/2302.02115v1)|null|
-|**2023-02-03**|**Deployment of Reliable Visual Inertial Odometry Approaches for Unmanned Aerial Vehicles in Real-world Environment**|Jan Bednář et.al.|[2302.01867v1](http://arxiv.org/abs/2302.01867v1)|null|
-|**2023-02-03**|**The Classical Aharonov-Bohm Interaction as a Relativity Paradox**|Timothy H. Boyer et.al.|[2302.01937v1](http://arxiv.org/abs/2302.01937v1)|null|

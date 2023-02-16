@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|null|
+|**2023-02-15**|**DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes**|Shenghao Hao et.al.|[2302.07676v1](http://arxiv.org/abs/2302.07676v1)|null|
+|**2023-02-15**|**CERiL: Continuous Event-based Reinforcement Learning**|Celyn Walters et.al.|[2302.07667v1](http://arxiv.org/abs/2302.07667v1)|null|
+|**2023-02-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhal et.al.|[2302.07661v1](http://arxiv.org/abs/2302.07661v1)|null|
+|**2023-02-15**|**Advanced Analysis of Night Sky Background Light for SSTCAM**|Samuel Timothy Spencer et.al.|[2302.07611v1](http://arxiv.org/abs/2302.07611v1)|null|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
+|**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v1](http://arxiv.org/abs/2302.07360v1)|null|
+|**2023-02-14**|**Semi-Supervised Visual Tracking of Marine Animals using Autonomous Underwater Vehicles**|Levi Cai et.al.|[2302.07344v1](http://arxiv.org/abs/2302.07344v1)|null|
+|**2023-02-14**|**Discovery of Dust Emission Activity Emanating from Main-belt Asteroid 2015 FW412**|Colin Orion Chandler et.al.|[2302.07274v1](http://arxiv.org/abs/2302.07274v1)|null|
 |**2023-02-14**|**WSD: Wild Selfie Dataset for Face Recognition in Selfie Images**|Laxman Kumarapu et.al.|[2302.07245v1](http://arxiv.org/abs/2302.07245v1)|null|
 |**2023-02-14**|**Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks**|Konrad Zuchniak et.al.|[2302.07215v1](http://arxiv.org/abs/2302.07215v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
@@ -23,12 +32,3 @@
 |**2023-02-13**|**Self-supervised phase unwrapping in fringe projection profilometry**|Xiaomin Gao et.al.|[2302.06381v1](http://arxiv.org/abs/2302.06381v1)|null|
 |**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama et.al.|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
 |**2023-02-13**|**A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment**|Xiaoqian Huang et.al.|[2302.06301v1](http://arxiv.org/abs/2302.06301v1)|null|
-|**2023-02-13**|**Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**|Shen Yan et.al.|[2302.06287v1](http://arxiv.org/abs/2302.06287v1)|null|
-|**2023-02-13**|**Robust Extrinsic Self-Calibration of Camera and Solid State LiDAR**|Jiahui Liu et.al.|[2302.06276v1](http://arxiv.org/abs/2302.06276v1)|null|
-|**2023-02-13**|**GRANDMA and HXMT Observations of GRB 221009A -- the Standard-Luminosity Afterglow of a Hyper-Luminous Gamma-Ray Burst**|D. A. Kann et.al.|[2302.06225v1](http://arxiv.org/abs/2302.06225v1)|null|
-|**2023-02-13**|**Capsules as viewpoint learners for human pose estimation**|Nicola Garau et.al.|[2302.06194v1](http://arxiv.org/abs/2302.06194v1)|null|
-|**2023-02-12**|**Digital Twin Tracking Dataset (DTTD): A New RGB+Depth 3D Dataset for Longer-Range Object Tracking Applications**|Weiyu Feng et.al.|[2302.05991v1](http://arxiv.org/abs/2302.05991v1)|[link](https://github.com/augcog/dttdv1)|
-|**2023-02-11**|**TPE-Net: Track Point Extraction and Association Network for Rail Path Proposal Generation**|Jungwon Kang et.al.|[2302.05803v1](http://arxiv.org/abs/2302.05803v1)|null|
-|**2023-02-11**|**Removing Image Artifacts From Scratched Lens Protectors**|Yufei Wang et.al.|[2302.05746v2](http://arxiv.org/abs/2302.05746v2)|[link](https://github.com/wyf0912/flare-removal)|
-|**2023-02-11**|**Predicting Participants' Performance in Programming Contests using Deep Learning Techniques**|Md Mahbubur Rahman et.al.|[2302.05602v1](http://arxiv.org/abs/2302.05602v1)|null|
-|**2023-02-10**|**Building Intelligence in the Mechanical Domain -- Harvesting the Reservoir Computing Power in Origami to Achieve Information Perception Tasks**|Jun Wang et.al.|[2302.05517v1](http://arxiv.org/abs/2302.05517v1)|null|

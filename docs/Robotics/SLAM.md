@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
 |**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
 |**2023-02-13**|**Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**|Andrey Zhitnikov et.al.|[2302.06697v1](http://arxiv.org/abs/2302.06697v1)|null|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
@@ -31,4 +32,3 @@
 |**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManus et.al.|[2301.03359v1](http://arxiv.org/abs/2301.03359v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|[link](https://github.com/KangchengLiu/slam_resources)|
-|**2022-12-27**|**Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**|Felipe Gómez-Cuba et.al.|[2212.13477v1](http://arxiv.org/abs/2212.13477v1)|[link](https://github.com/gomezcuba/castro-5g)|
