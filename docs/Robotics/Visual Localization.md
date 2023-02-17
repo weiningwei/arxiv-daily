@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-16**|**PersonNeRF: Personalized Reconstruction from Photo Collections**|Chung-Yi Weng et.al.|[2302.08504v1](http://arxiv.org/abs/2302.08504v1)|null|
+|**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
+|**2023-02-16**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|Jongwoo Park et.al.|[2302.08231v1](http://arxiv.org/abs/2302.08231v1)|null|
+|**2023-02-16**|**Vision-Based Terrain Relative Navigation on High-Altitude Balloon and Sub-Orbital Rocket**|Dominic Maggio et.al.|[2302.08011v1](http://arxiv.org/abs/2302.08011v1)|null|
+|**2023-02-15**|**ColibriES: A Milliwatts RISC-V Based Embedded System Leveraging Neuromorphic and Neural Networks Hardware Accelerators for Low-Latency Closed-loop Control Applications**|Georg Rutishauser et.al.|[2302.07957v1](http://arxiv.org/abs/2302.07957v1)|null|
+|**2023-02-15**|**ATLAS-TEIDE: The next generations of ATLAS units for the Teide Observatory**|Javier Licandro et.al.|[2302.07954v1](http://arxiv.org/abs/2302.07954v1)|null|
 |**2023-02-15**|**Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2302.07817v1](http://arxiv.org/abs/2302.07817v1)|[link](https://github.com/wzzheng/tpvformer)|
 |**2023-02-15**|**DIVOTrack: A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes**|Shenghao Hao et.al.|[2302.07676v1](http://arxiv.org/abs/2302.07676v1)|null|
 |**2023-02-15**|**CERiL: Continuous Event-based Reinforcement Learning**|Celyn Walters et.al.|[2302.07667v1](http://arxiv.org/abs/2302.07667v1)|null|
@@ -26,9 +32,3 @@
 |**2023-02-13**|**Vision-RADAR fusion for Robotics BEV Detections: A Survey**|Apoorv Singh et.al.|[2302.06643v1](http://arxiv.org/abs/2302.06643v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-13**|**Fourier Neural Operator for Plasma Modelling**|Vignesh Gopakumar et.al.|[2302.06542v1](http://arxiv.org/abs/2302.06542v1)|null|
-|**2023-02-13**|**An Innovative Method for Measuring Instrument Data Acquisition using Image Processing Techniques**|David Shulman et.al.|[2302.07091v1](http://arxiv.org/abs/2302.07091v1)|null|
-|**2023-02-13**|**Optical Flow estimation with Event-based Cameras and Spiking Neural Networks**|Javier Cuadrado et.al.|[2302.06492v1](http://arxiv.org/abs/2302.06492v1)|[link](https://github.com/j-cuadrado/of_ev_snn)|
-|**2023-02-13**|**Why Can't Discourse Parsing Generalize? A Thorough Investigation of the Impact of Data Diversity**|Yang Janet Liu et.al.|[2302.06488v1](http://arxiv.org/abs/2302.06488v1)|[link](https://github.com/janetlauyeung/crossGENRE4RST)|
-|**2023-02-13**|**Self-supervised phase unwrapping in fringe projection profilometry**|Xiaomin Gao et.al.|[2302.06381v1](http://arxiv.org/abs/2302.06381v1)|null|
-|**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama et.al.|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
-|**2023-02-13**|**A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment**|Xiaoqian Huang et.al.|[2302.06301v1](http://arxiv.org/abs/2302.06301v1)|null|
