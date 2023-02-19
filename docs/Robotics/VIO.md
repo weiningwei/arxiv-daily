@@ -7,7 +7,7 @@
 |**2023-02-16**|**Vision-Based Terrain Relative Navigation on High-Altitude Balloon and Sub-Orbital Rocket**|Dominic Maggio et.al.|[2302.08011v1](http://arxiv.org/abs/2302.08011v1)|null|
 |**2023-02-15**|**Astrophysical properties of 15062 Gaia DR3 gravity-mode pulsators: pulsation amplitudes, rotation, and spectral line broadening**|Conny Aerts et.al.|[2302.07870v1](http://arxiv.org/abs/2302.07870v1)|null|
 |**2023-02-15**|**An abstract convergence framework with application to inertial inexact forward--backward methods**|Silvia Bonettini et.al.|[2302.07545v1](http://arxiv.org/abs/2302.07545v1)|null|
-|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|[link](https://github.com/april-zju/clic)|
 |**2023-02-14**|**Quantum viscosity and the Reynolds similitude in quantum liquid He-II**|Hiromitsu Takeuchi et.al.|[2302.07039v1](http://arxiv.org/abs/2302.07039v1)|null|
 |**2023-02-13**|**The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects**|Philippe Nadeau et.al.|[2302.06685v1](http://arxiv.org/abs/2302.06685v1)|[link](https://github.com/utiasSTARS/inertial-identification-with-part-segmentation)|
 |**2023-02-13**|**An entropy preserving implicit unified gas-kinetic wave-particle method for radiative transport equation**|Chang Liu et.al.|[2302.07945v1](http://arxiv.org/abs/2302.07945v1)|null|
