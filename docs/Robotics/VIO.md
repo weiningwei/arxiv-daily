@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-17**|**Decoherence due to Spacetime Curvature**|Raghvendra Singh et.al.|[2302.09038v1](http://arxiv.org/abs/2302.09038v1)|null|
+|**2023-02-16**|**Complex Daily Activities, Country-Level Diversity, and Smartphone Sensing: A Study in Denmark, Italy, Mongolia, Paraguay, and UK**|Karim Assi et.al.|[2302.08591v1](http://arxiv.org/abs/2302.08591v1)|null|
+|**2023-02-16**|**Propagation Measurements and Analyses at 28 GHz via an Autonomous Beam-Steering Platform**|Bharath Keshavamurthy et.al.|[2302.08584v1](http://arxiv.org/abs/2302.08584v1)|[link](https://github.com/bharathkeshavamurthy/SPAVE-28G)|
 |**2023-02-16**|**Enable High-resolution, Real-time Ensemble Simulation and Data Assimilation of Flood Inundation using Distributed GPU Parallelization**|Junyu Wei et.al.|[2302.08341v1](http://arxiv.org/abs/2302.08341v1)|null|
 |**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
 |**2023-02-16**|**Vision-Based Terrain Relative Navigation on High-Altitude Balloon and Sub-Orbital Rocket**|Dominic Maggio et.al.|[2302.08011v1](http://arxiv.org/abs/2302.08011v1)|null|
@@ -29,6 +32,3 @@
 |**2023-02-08**|**Anisotropic skyrmion mass induced by surrounding conduction electrons: A Schwinger-Keldysh field theory approach**|Felipe Reyes-Osorio et.al.|[2302.04220v1](http://arxiv.org/abs/2302.04220v1)|null|
 |**2023-02-08**|**FR-LIO: Fast and Robust Lidar-Inertial Odometry by Tightly-Coupled Iterated Kalman Smoother and Robocentric Voxels**|Xiaoyu Zhao et.al.|[2302.04031v1](http://arxiv.org/abs/2302.04031v1)|null|
 |**2023-02-08**|**InMyFace: Inertial and Mechanomyography-Based Sensor Fusion for Wearable Facial Activity Recognition**|Hymalai Bello et.al.|[2302.04024v1](http://arxiv.org/abs/2302.04024v1)|null|
-|**2023-02-07**|**Tension Estimation and Localization for a Tethered Micro Aerial Robot**|Ricardo Martins et.al.|[2302.03551v1](http://arxiv.org/abs/2302.03551v1)|null|
-|**2023-02-07**|**Suspensions of viscoelastic capsules: effect of membrane viscosity on transient dynamics**|Fabio Guglietta et.al.|[2302.03546v1](http://arxiv.org/abs/2302.03546v1)|null|
-|**2023-02-07**|**Global regularity of hyperbolic liquid crystal elastomers for small data in three dimensions**|Xiaonan Hao et.al.|[2302.03483v1](http://arxiv.org/abs/2302.03483v1)|null|

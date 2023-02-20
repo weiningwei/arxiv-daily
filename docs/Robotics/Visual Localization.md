@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-17**|**Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks**|Xu Zheng et.al.|[2302.08890v1](http://arxiv.org/abs/2302.08890v1)|null|
+|**2023-02-17**|**Apple scab detection in orchards using deep learning on colour and multispectral images**|Robert Rouš et.al.|[2302.08818v1](http://arxiv.org/abs/2302.08818v1)|null|
+|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
+|**2023-02-17**|**Few-shot 3D LiDAR Semantic Segmentation for Autonomous Driving**|Jilin Mei et.al.|[2302.08785v1](http://arxiv.org/abs/2302.08785v1)|null|
+|**2023-02-17**|**Probabilistic Qualitative Localization and Mapping**|Roee Mor et.al.|[2302.08735v1](http://arxiv.org/abs/2302.08735v1)|null|
+|**2023-02-17**|**AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving**|Tianyue Zheng et.al.|[2302.08646v1](http://arxiv.org/abs/2302.08646v1)|null|
 |**2023-02-16**|**PersonNeRF: Personalized Reconstruction from Photo Collections**|Chung-Yi Weng et.al.|[2302.08504v1](http://arxiv.org/abs/2302.08504v1)|null|
 |**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
 |**2023-02-16**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|Jongwoo Park et.al.|[2302.08231v1](http://arxiv.org/abs/2302.08231v1)|null|
@@ -26,9 +32,3 @@
 |**2023-02-14**|**Camera Calibration without Camera Access -- A Robust Validation Technique for Extended PnP Methods**|Emil Brissman et.al.|[2302.06949v1](http://arxiv.org/abs/2302.06949v1)|null|
 |**2023-02-14**|**Take a Prior from Other Tasks for Severe Blur Removal**|Pei Wang et.al.|[2302.06898v1](http://arxiv.org/abs/2302.06898v1)|null|
 |**2023-02-14**|**A lightweight method for detecting dynamic target occlusions by the robot body**|Savvas Sampaziotis et.al.|[2302.06890v1](http://arxiv.org/abs/2302.06890v1)|[link](https://github.com/auth-arl/virtual_depth_image)|
-|**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
-|**2023-02-13**|**An Application of Deep Learning for Sweet Cherry Phenotyping using YOLO Object Detection**|Ritayu Nagpal et.al.|[2302.06698v1](http://arxiv.org/abs/2302.06698v1)|null|
-|**2023-02-13**|**Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey**|Apoorv Singh et.al.|[2302.06650v1](http://arxiv.org/abs/2302.06650v1)|null|
-|**2023-02-13**|**Vision-RADAR fusion for Robotics BEV Detections: A Survey**|Apoorv Singh et.al.|[2302.06643v1](http://arxiv.org/abs/2302.06643v1)|null|
-|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
-|**2023-02-13**|**Fourier Neural Operator for Plasma Modelling**|Vignesh Gopakumar et.al.|[2302.06542v1](http://arxiv.org/abs/2302.06542v1)|null|
