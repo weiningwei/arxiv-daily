@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-20**|**Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**|Adrian Holzbock et.al.|[2302.09998v1](http://arxiv.org/abs/2302.09998v1)|null|
+|**2023-02-20**|**TBPos: Dataset for Large-Scale Precision Visual Localization**|Masud Fahim et.al.|[2302.09825v1](http://arxiv.org/abs/2302.09825v1)|null|
+|**2023-02-20**|**Seeing the Fruit for the Leaves: Towards Automated Apple Fruitlet Thinning**|Ans Qureshi et.al.|[2302.09716v1](http://arxiv.org/abs/2302.09716v1)|null|
+|**2023-02-19**|**Table Tennis Stroke Detection and Recognition Using Ball Trajectory Data**|Kaustubh Milind Kulkarni et.al.|[2302.09657v1](http://arxiv.org/abs/2302.09657v1)|null|
+|**2023-02-18**|**When Visible-to-Thermal Facial GAN Beats Conditional Diffusion**|Catherine Ordun et.al.|[2302.09395v1](http://arxiv.org/abs/2302.09395v1)|null|
+|**2023-02-18**|**Diagnostic Quality Assessment of Fundus Photographs: Hierarchical Deep Learning with Clinically Significant Explanations**|Shanmukh Reddy Manne et.al.|[2302.09391v1](http://arxiv.org/abs/2302.09391v1)|null|
+|**2023-02-18**|**Euclid preparation. XXXI. Performance assessment of the NISP Red-Grism through spectroscopic simulations for the Wide and Deep surveys**|Euclid Collaboration et.al.|[2302.09372v1](http://arxiv.org/abs/2302.09372v1)|null|
+|**2023-02-18**|**Web Photo Source Identification based on Neural Enhanced Camera Fingerprint**|Feng Qian et.al.|[2302.09228v1](http://arxiv.org/abs/2302.09228v1)|[link](https://github.com/photonecf/photonecf)|
+|**2023-02-18**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Li et.al.|[2302.09221v1](http://arxiv.org/abs/2302.09221v1)|null|
+|**2023-02-17**|**Hybrid Traffic Control and Coordination from Pixels**|Michael Villarreal et.al.|[2302.09167v1](http://arxiv.org/abs/2302.09167v1)|null|
+|**2023-02-17**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v1](http://arxiv.org/abs/2302.09119v1)|null|
 |**2023-02-17**|**Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks**|Xu Zheng et.al.|[2302.08890v1](http://arxiv.org/abs/2302.08890v1)|null|
 |**2023-02-17**|**Apple scab detection in orchards using deep learning on colour and multispectral images**|Robert Rouš et.al.|[2302.08818v1](http://arxiv.org/abs/2302.08818v1)|null|
 |**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
@@ -19,16 +30,5 @@
 |**2023-02-15**|**CERiL: Continuous Event-based Reinforcement Learning**|Celyn Walters et.al.|[2302.07667v1](http://arxiv.org/abs/2302.07667v1)|null|
 |**2023-02-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhal et.al.|[2302.07661v1](http://arxiv.org/abs/2302.07661v1)|[link](https://github.com/tiagocortinhal/titan-next)|
 |**2023-02-15**|**Advanced Analysis of Night Sky Background Light for SSTCAM**|Samuel Timothy Spencer et.al.|[2302.07611v2](http://arxiv.org/abs/2302.07611v2)|null|
+|**2023-02-15**|**Mimetic Muscle Rehabilitation Analysis Using Clustering of Low Dimensional 3D Kinect Data**|Sumit Kumar Vishwakarma et.al.|[2302.09295v1](http://arxiv.org/abs/2302.09295v1)|null|
 |**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|[link](https://github.com/april-zju/clic)|
-|**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v2](http://arxiv.org/abs/2302.07360v2)|null|
-|**2023-02-14**|**Semi-Supervised Visual Tracking of Marine Animals using Autonomous Underwater Vehicles**|Levi Cai et.al.|[2302.07344v1](http://arxiv.org/abs/2302.07344v1)|null|
-|**2023-02-14**|**Discovery of Dust Emission Activity Emanating from Main-belt Asteroid 2015 FW412**|Colin Orion Chandler et.al.|[2302.07274v1](http://arxiv.org/abs/2302.07274v1)|null|
-|**2023-02-14**|**WSD: Wild Selfie Dataset for Face Recognition in Selfie Images**|Laxman Kumarapu et.al.|[2302.07245v1](http://arxiv.org/abs/2302.07245v1)|null|
-|**2023-02-14**|**Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks**|Konrad Zuchniak et.al.|[2302.07215v1](http://arxiv.org/abs/2302.07215v1)|null|
-|**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
-|**2023-02-14**|**Adversarial Path Planning for Optimal Camera Positioning**|Gaia Carenini et.al.|[2302.07051v1](http://arxiv.org/abs/2302.07051v1)|[link](https://github.com/alexandreduplessis/adversarial_camera_placement)|
-|**2023-02-14**|**AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models**|Alexandra Chronopoulou et.al.|[2302.07027v1](http://arxiv.org/abs/2302.07027v1)|null|
-|**2023-02-14**|**Feature-Sniffer: Enabling IoT Forensics in OpenWrt based Wi-Fi Access Points**|Fabio Palmese et.al.|[2302.06991v1](http://arxiv.org/abs/2302.06991v1)|null|
-|**2023-02-14**|**Camera Calibration without Camera Access -- A Robust Validation Technique for Extended PnP Methods**|Emil Brissman et.al.|[2302.06949v1](http://arxiv.org/abs/2302.06949v1)|null|
-|**2023-02-14**|**Take a Prior from Other Tasks for Severe Blur Removal**|Pei Wang et.al.|[2302.06898v1](http://arxiv.org/abs/2302.06898v1)|null|
-|**2023-02-14**|**A lightweight method for detecting dynamic target occlusions by the robot body**|Savvas Sampaziotis et.al.|[2302.06890v1](http://arxiv.org/abs/2302.06890v1)|[link](https://github.com/auth-arl/virtual_depth_image)|
