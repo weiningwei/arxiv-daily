@@ -20,7 +20,7 @@
 |**2023-02-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhal et.al.|[2302.07661v1](http://arxiv.org/abs/2302.07661v1)|[link](https://github.com/tiagocortinhal/titan-next)|
 |**2023-02-15**|**Advanced Analysis of Night Sky Background Light for SSTCAM**|Samuel Timothy Spencer et.al.|[2302.07611v2](http://arxiv.org/abs/2302.07611v2)|null|
 |**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|[link](https://github.com/april-zju/clic)|
-|**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v1](http://arxiv.org/abs/2302.07360v1)|null|
+|**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v2](http://arxiv.org/abs/2302.07360v2)|null|
 |**2023-02-14**|**Semi-Supervised Visual Tracking of Marine Animals using Autonomous Underwater Vehicles**|Levi Cai et.al.|[2302.07344v1](http://arxiv.org/abs/2302.07344v1)|null|
 |**2023-02-14**|**Discovery of Dust Emission Activity Emanating from Main-belt Asteroid 2015 FW412**|Colin Orion Chandler et.al.|[2302.07274v1](http://arxiv.org/abs/2302.07274v1)|null|
 |**2023-02-14**|**WSD: Wild Selfie Dataset for Face Recognition in Selfie Images**|Laxman Kumarapu et.al.|[2302.07245v1](http://arxiv.org/abs/2302.07245v1)|null|
