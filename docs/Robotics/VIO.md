@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Micromagnetic study of inertial spin waves in ferromagnetic nanodots**|Massimiliano d'Aquino et.al.|[2302.10759v1](http://arxiv.org/abs/2302.10759v1)|null|
 |**2023-02-19**|**An efficient numerical method for charged particle transport based on hybrid collision model and machine learning**|Chang Liu et.al.|[2302.09644v1](http://arxiv.org/abs/2302.09644v1)|null|
 |**2023-02-19**|**Effect of a guide field on the turbulence like properties of magnetic reconnection**|Subash Adhikari et.al.|[2302.09635v1](http://arxiv.org/abs/2302.09635v1)|null|
 |**2023-02-19**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493v1](http://arxiv.org/abs/2302.09493v1)|null|
@@ -31,4 +32,3 @@
 |**2023-02-09**|**Identifying causal significance in three-dimensional isotropic turbulence**|Miguel P. Encinar et.al.|[2302.04630v1](http://arxiv.org/abs/2302.04630v1)|null|
 |**2023-02-09**|**Prospects for the inference of inertial modes from hypermassive neutron stars with future gravitational-wave detectors**|Miquel Miravet-Tenés et.al.|[2302.04553v1](http://arxiv.org/abs/2302.04553v1)|null|
 |**2023-02-08**|**Simplified markerless stride detection pipeline (sMaSDP) for surface EMG segmentation**|Rafael Castro Aguiar et.al.|[2302.04243v1](http://arxiv.org/abs/2302.04243v1)|null|
-|**2023-02-08**|**Reduced-order approach for soft material inertial cavitation rheometry**|Zhiren Zhu et.al.|[2302.04227v1](http://arxiv.org/abs/2302.04227v1)|null|
