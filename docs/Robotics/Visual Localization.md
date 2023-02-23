@@ -18,7 +18,7 @@
 |**2023-02-19**|**Table Tennis Stroke Detection and Recognition Using Ball Trajectory Data**|Kaustubh Milind Kulkarni et.al.|[2302.09657v1](http://arxiv.org/abs/2302.09657v1)|null|
 |**2023-02-18**|**When Visible-to-Thermal Facial GAN Beats Conditional Diffusion**|Catherine Ordun et.al.|[2302.09395v1](http://arxiv.org/abs/2302.09395v1)|null|
 |**2023-02-18**|**Diagnostic Quality Assessment of Fundus Photographs: Hierarchical Deep Learning with Clinically Significant Explanations**|Shanmukh Reddy Manne et.al.|[2302.09391v1](http://arxiv.org/abs/2302.09391v1)|null|
-|**2023-02-18**|**Euclid preparation. XXXI. Performance assessment of the NISP Red-Grism through spectroscopic simulations for the Wide and Deep surveys**|Euclid Collaboration et.al.|[2302.09372v1](http://arxiv.org/abs/2302.09372v1)|null|
+|**2023-02-18**|**Euclid preparation. XXXI. Performance assessment of the NISP Red-Grism through spectroscopic simulations for the Wide and Deep surveys**|Euclid Collaboration et.al.|[2302.09372v2](http://arxiv.org/abs/2302.09372v2)|null|
 |**2023-02-18**|**Web Photo Source Identification based on Neural Enhanced Camera Fingerprint**|Feng Qian et.al.|[2302.09228v1](http://arxiv.org/abs/2302.09228v1)|[link](https://github.com/photonecf/photonecf)|
 |**2023-02-18**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Li et.al.|[2302.09221v1](http://arxiv.org/abs/2302.09221v1)|null|
 |**2023-02-17**|**Hybrid Traffic Control and Coordination from Pixels**|Michael Villarreal et.al.|[2302.09167v1](http://arxiv.org/abs/2302.09167v1)|null|

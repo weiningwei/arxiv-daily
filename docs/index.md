@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2023-02-23 08:35:25 Asia/Shanghai
+ Automated deployment @ 2023-02-23 10:06:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VIO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-21**|**Micromagnetic study of inertial spin waves in ferromagnetic nanodots**|Massimiliano d'Aquino et.al.|[2302.10759v1](http://arxiv.org/abs/2302.10759v1)|null|
-|**2023-02-19**|**An efficient numerical method for charged particle transport based on hybrid collision model and machine learning**|Chang Liu et.al.|[2302.09644v1](http://arxiv.org/abs/2302.09644v1)|null|
-|**2023-02-19**|**Effect of a guide field on the turbulence like properties of magnetic reconnection**|Subash Adhikari et.al.|[2302.09635v1](http://arxiv.org/abs/2302.09635v1)|null|
-|**2023-02-19**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493v1](http://arxiv.org/abs/2302.09493v1)|null|
-|**2023-02-17**|**Decoherence due to Spacetime Curvature**|Raghvendra Singh et.al.|[2302.09038v1](http://arxiv.org/abs/2302.09038v1)|null|
-|**2023-02-16**|**Complex Daily Activities, Country-Level Diversity, and Smartphone Sensing: A Study in Denmark, Italy, Mongolia, Paraguay, and UK**|Karim Assi et.al.|[2302.08591v1](http://arxiv.org/abs/2302.08591v1)|null|
-|**2023-02-16**|**Propagation Measurements and Analyses at 28 GHz via an Autonomous Beam-Steering Platform**|Bharath Keshavamurthy et.al.|[2302.08584v1](http://arxiv.org/abs/2302.08584v1)|[link](https://github.com/bharathkeshavamurthy/SPAVE-28G)|
-|**2023-02-16**|**Enable High-resolution, Real-time Ensemble Simulation and Data Assimilation of Flood Inundation using Distributed GPU Parallelization**|Junyu Wei et.al.|[2302.08341v1](http://arxiv.org/abs/2302.08341v1)|null|
+|**2023-02-21**|**DSL-Assembly: A Robust and Safe Assembly Strategy**|Yi Liu et.al.|[2302.10842v1](http://arxiv.org/abs/2302.10842v1)|null|
+|**2023-02-21**|**Bokeh Rendering Based on Adaptive Depth Calibration Network**|Lu Liu et.al.|[2302.10808v1](http://arxiv.org/abs/2302.10808v1)|null|
+|**2023-02-21**|**Quantifying Jump Height Using Markerless Motion Capture with a Single Smartphone**|Timilehin B. Aderinola et.al.|[2302.10749v1](http://arxiv.org/abs/2302.10749v1)|null|
+|**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|[link](https://github.com/implabunipr/movad)|
+|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
+|**2023-02-21**|**SARG: the high resolution spectrograph**|Gratton R. et.al.|[2302.10584v1](http://arxiv.org/abs/2302.10584v1)|null|
+|**2023-02-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wu et.al.|[2302.10511v1](http://arxiv.org/abs/2302.10511v1)|null|
+|**2023-02-21**|**A Flexible Multi-view Multi-modal Imaging System for Outdoor Scenes**|Meng Zhang et.al.|[2302.10465v1](http://arxiv.org/abs/2302.10465v1)|null|
+|**2023-02-21**|**Automotive RADAR sub-sampling via object detection networks: Leveraging prior signal information**|Madhumitha Sakthi et.al.|[2302.10450v1](http://arxiv.org/abs/2302.10450v1)|null|
+|**2023-02-21**|**Shear-induced migration of a suspension under quasi-planar confinement**|John T. Antolik et.al.|[2302.10380v1](http://arxiv.org/abs/2302.10380v1)|null|
+|**2023-02-20**|**Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**|Adrian Holzbock et.al.|[2302.09998v1](http://arxiv.org/abs/2302.09998v1)|null|
+|**2023-02-20**|**TBPos: Dataset for Large-Scale Precision Visual Localization**|Masud Fahim et.al.|[2302.09825v1](http://arxiv.org/abs/2302.09825v1)|null|
+|**2023-02-20**|**Seeing the Fruit for the Leaves: Towards Automated Apple Fruitlet Thinning**|Ans Qureshi et.al.|[2302.09716v1](http://arxiv.org/abs/2302.09716v1)|null|
+|**2023-02-19**|**Table Tennis Stroke Detection and Recognition Using Ball Trajectory Data**|Kaustubh Milind Kulkarni et.al.|[2302.09657v1](http://arxiv.org/abs/2302.09657v1)|null|
+|**2023-02-18**|**When Visible-to-Thermal Facial GAN Beats Conditional Diffusion**|Catherine Ordun et.al.|[2302.09395v1](http://arxiv.org/abs/2302.09395v1)|null|
+|**2023-02-18**|**Diagnostic Quality Assessment of Fundus Photographs: Hierarchical Deep Learning with Clinically Significant Explanations**|Shanmukh Reddy Manne et.al.|[2302.09391v1](http://arxiv.org/abs/2302.09391v1)|null|
+|**2023-02-18**|**Euclid preparation. XXXI. Performance assessment of the NISP Red-Grism through spectroscopic simulations for the Wide and Deep surveys**|Euclid Collaboration et.al.|[2302.09372v2](http://arxiv.org/abs/2302.09372v2)|null|
+|**2023-02-18**|**Web Photo Source Identification based on Neural Enhanced Camera Fingerprint**|Feng Qian et.al.|[2302.09228v1](http://arxiv.org/abs/2302.09228v1)|[link](https://github.com/photonecf/photonecf)|
+|**2023-02-18**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Li et.al.|[2302.09221v1](http://arxiv.org/abs/2302.09221v1)|null|
+|**2023-02-17**|**Hybrid Traffic Control and Coordination from Pixels**|Michael Villarreal et.al.|[2302.09167v1](http://arxiv.org/abs/2302.09167v1)|null|
+|**2023-02-17**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v2](http://arxiv.org/abs/2302.09119v2)|null|
+|**2023-02-17**|**Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks**|Xu Zheng et.al.|[2302.08890v1](http://arxiv.org/abs/2302.08890v1)|null|
+|**2023-02-17**|**Apple scab detection in orchards using deep learning on colour and multispectral images**|Robert Rouš et.al.|[2302.08818v1](http://arxiv.org/abs/2302.08818v1)|null|
+|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
+|**2023-02-17**|**Few-shot 3D LiDAR Semantic Segmentation for Autonomous Driving**|Jilin Mei et.al.|[2302.08785v1](http://arxiv.org/abs/2302.08785v1)|null|
+|**2023-02-17**|**Probabilistic Qualitative Localization and Mapping**|Roee Mor et.al.|[2302.08735v1](http://arxiv.org/abs/2302.08735v1)|null|
+|**2023-02-17**|**AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving**|Tianyue Zheng et.al.|[2302.08646v1](http://arxiv.org/abs/2302.08646v1)|null|
+|**2023-02-16**|**PersonNeRF: Personalized Reconstruction from Photo Collections**|Chung-Yi Weng et.al.|[2302.08504v1](http://arxiv.org/abs/2302.08504v1)|null|
 |**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
-|**2023-02-16**|**Vision-Based Terrain Relative Navigation on High-Altitude Balloon and Sub-Orbital Rocket**|Dominic Maggio et.al.|[2302.08011v1](http://arxiv.org/abs/2302.08011v1)|null|
-|**2023-02-15**|**Astrophysical properties of 15062 Gaia DR3 gravity-mode pulsators: pulsation amplitudes, rotation, and spectral line broadening**|Conny Aerts et.al.|[2302.07870v1](http://arxiv.org/abs/2302.07870v1)|null|
-|**2023-02-15**|**An abstract convergence framework with application to inertial inexact forward--backward methods**|Silvia Bonettini et.al.|[2302.07545v1](http://arxiv.org/abs/2302.07545v1)|null|
-|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|[link](https://github.com/april-zju/clic)|
-|**2023-02-14**|**Quantum viscosity and the Reynolds similitude in quantum liquid He-II**|Hiromitsu Takeuchi et.al.|[2302.07039v1](http://arxiv.org/abs/2302.07039v1)|null|
-|**2023-02-13**|**The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects**|Philippe Nadeau et.al.|[2302.06685v1](http://arxiv.org/abs/2302.06685v1)|[link](https://github.com/utiasSTARS/inertial-identification-with-part-segmentation)|
-|**2023-02-13**|**An entropy preserving implicit unified gas-kinetic wave-particle method for radiative transport equation**|Chang Liu et.al.|[2302.07945v2](http://arxiv.org/abs/2302.07945v2)|null|
-|**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
-|**2023-02-13**|**High-Performance Motorbike Lean Angle Estimation**|Nicola Mimmo et.al.|[2302.06265v1](http://arxiv.org/abs/2302.06265v1)|null|
-|**2023-02-13**|**Time-dependent charged particle stopping in quantum plasmas: testing the G1-G2 scheme for quasi-one-dimensional systems**|C. Makait et.al.|[2302.06216v1](http://arxiv.org/abs/2302.06216v1)|null|
-|**2023-02-13**|**Quantum diamond magnetometry for navigation in GNSS denied environments**|Xuezhi Wang et.al.|[2302.06187v1](http://arxiv.org/abs/2302.06187v1)|null|
-|**2023-02-13**|**End-to-End Deep Learning Framework for Real-Time Inertial Attitude Estimation using 6DoF IMU**|Arman Asgharpoor Golroudbari et.al.|[2302.06037v1](http://arxiv.org/abs/2302.06037v1)|null|
-|**2023-02-12**|**Rod-climbing rheometry revisited**|Rishabh V. More et.al.|[2302.06010v1](http://arxiv.org/abs/2302.06010v1)|null|
-|**2023-02-12**|**Investigation of Enhanced Inertial Navigation Algorithms by Functional Iteration**|Hongyan Jiang et.al.|[2302.05855v1](http://arxiv.org/abs/2302.05855v1)|null|
-|**2023-02-11**|**Enhance Local Consistency in Federated Learning: A Multi-Step Inertial Momentum Approach**|Yixing Liu et.al.|[2302.05726v1](http://arxiv.org/abs/2302.05726v1)|null|
-|**2023-02-10**|**Comparing velocity and passive scalar statistics in fluid turbulence at high Schmidt numbers and Reynolds numbers**|Dhawal Buaria et.al.|[2302.05503v1](http://arxiv.org/abs/2302.05503v1)|null|
-|**2023-02-09**|**On the interactions between mean flows and inertial gravity waves**|Darryl D. Holm et.al.|[2302.04838v1](http://arxiv.org/abs/2302.04838v1)|null|
-|**2023-02-09**|**Simulating Rayleigh-Taylor induced magnetohydrodynamic turbulence in prominences**|Madhurjya Changmai et.al.|[2302.04707v1](http://arxiv.org/abs/2302.04707v1)|null|
-|**2023-02-09**|**Identifying causal significance in three-dimensional isotropic turbulence**|Miguel P. Encinar et.al.|[2302.04630v1](http://arxiv.org/abs/2302.04630v1)|null|
-|**2023-02-09**|**Prospects for the inference of inertial modes from hypermassive neutron stars with future gravitational-wave detectors**|Miquel Miravet-Tenés et.al.|[2302.04553v1](http://arxiv.org/abs/2302.04553v1)|null|
-|**2023-02-08**|**Simplified markerless stride detection pipeline (sMaSDP) for surface EMG segmentation**|Rafael Castro Aguiar et.al.|[2302.04243v1](http://arxiv.org/abs/2302.04243v1)|null|
+|**2023-02-16**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|Jongwoo Park et.al.|[2302.08231v1](http://arxiv.org/abs/2302.08231v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,6 +73,40 @@
 |**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|[link](https://github.com/jerredchen/a1_slam)|
 |**2022-11-22**|**Vision-based localization methods under GPS-denied conditions**|Zihao Lu et.al.|[2211.11988v1](http://arxiv.org/abs/2211.11988v1)|null|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**Micromagnetic study of inertial spin waves in ferromagnetic nanodots**|Massimiliano d'Aquino et.al.|[2302.10759v1](http://arxiv.org/abs/2302.10759v1)|null|
+|**2023-02-19**|**An efficient numerical method for charged particle transport based on hybrid collision model and machine learning**|Chang Liu et.al.|[2302.09644v1](http://arxiv.org/abs/2302.09644v1)|null|
+|**2023-02-19**|**Effect of a guide field on the turbulence like properties of magnetic reconnection**|Subash Adhikari et.al.|[2302.09635v1](http://arxiv.org/abs/2302.09635v1)|null|
+|**2023-02-19**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493v1](http://arxiv.org/abs/2302.09493v1)|null|
+|**2023-02-17**|**Decoherence due to Spacetime Curvature**|Raghvendra Singh et.al.|[2302.09038v1](http://arxiv.org/abs/2302.09038v1)|null|
+|**2023-02-16**|**Complex Daily Activities, Country-Level Diversity, and Smartphone Sensing: A Study in Denmark, Italy, Mongolia, Paraguay, and UK**|Karim Assi et.al.|[2302.08591v1](http://arxiv.org/abs/2302.08591v1)|null|
+|**2023-02-16**|**Propagation Measurements and Analyses at 28 GHz via an Autonomous Beam-Steering Platform**|Bharath Keshavamurthy et.al.|[2302.08584v1](http://arxiv.org/abs/2302.08584v1)|[link](https://github.com/bharathkeshavamurthy/SPAVE-28G)|
+|**2023-02-16**|**Enable High-resolution, Real-time Ensemble Simulation and Data Assimilation of Flood Inundation using Distributed GPU Parallelization**|Junyu Wei et.al.|[2302.08341v1](http://arxiv.org/abs/2302.08341v1)|null|
+|**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
+|**2023-02-16**|**Vision-Based Terrain Relative Navigation on High-Altitude Balloon and Sub-Orbital Rocket**|Dominic Maggio et.al.|[2302.08011v1](http://arxiv.org/abs/2302.08011v1)|null|
+|**2023-02-15**|**Astrophysical properties of 15062 Gaia DR3 gravity-mode pulsators: pulsation amplitudes, rotation, and spectral line broadening**|Conny Aerts et.al.|[2302.07870v1](http://arxiv.org/abs/2302.07870v1)|null|
+|**2023-02-15**|**An abstract convergence framework with application to inertial inexact forward--backward methods**|Silvia Bonettini et.al.|[2302.07545v1](http://arxiv.org/abs/2302.07545v1)|null|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|[link](https://github.com/april-zju/clic)|
+|**2023-02-14**|**Quantum viscosity and the Reynolds similitude in quantum liquid He-II**|Hiromitsu Takeuchi et.al.|[2302.07039v1](http://arxiv.org/abs/2302.07039v1)|null|
+|**2023-02-13**|**The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects**|Philippe Nadeau et.al.|[2302.06685v1](http://arxiv.org/abs/2302.06685v1)|[link](https://github.com/utiasSTARS/inertial-identification-with-part-segmentation)|
+|**2023-02-13**|**An entropy preserving implicit unified gas-kinetic wave-particle method for radiative transport equation**|Chang Liu et.al.|[2302.07945v2](http://arxiv.org/abs/2302.07945v2)|null|
+|**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
+|**2023-02-13**|**High-Performance Motorbike Lean Angle Estimation**|Nicola Mimmo et.al.|[2302.06265v1](http://arxiv.org/abs/2302.06265v1)|null|
+|**2023-02-13**|**Time-dependent charged particle stopping in quantum plasmas: testing the G1-G2 scheme for quasi-one-dimensional systems**|C. Makait et.al.|[2302.06216v1](http://arxiv.org/abs/2302.06216v1)|null|
+|**2023-02-13**|**Quantum diamond magnetometry for navigation in GNSS denied environments**|Xuezhi Wang et.al.|[2302.06187v1](http://arxiv.org/abs/2302.06187v1)|null|
+|**2023-02-13**|**End-to-End Deep Learning Framework for Real-Time Inertial Attitude Estimation using 6DoF IMU**|Arman Asgharpoor Golroudbari et.al.|[2302.06037v1](http://arxiv.org/abs/2302.06037v1)|null|
+|**2023-02-12**|**Rod-climbing rheometry revisited**|Rishabh V. More et.al.|[2302.06010v1](http://arxiv.org/abs/2302.06010v1)|null|
+|**2023-02-12**|**Investigation of Enhanced Inertial Navigation Algorithms by Functional Iteration**|Hongyan Jiang et.al.|[2302.05855v1](http://arxiv.org/abs/2302.05855v1)|null|
+|**2023-02-11**|**Enhance Local Consistency in Federated Learning: A Multi-Step Inertial Momentum Approach**|Yixing Liu et.al.|[2302.05726v1](http://arxiv.org/abs/2302.05726v1)|null|
+|**2023-02-10**|**Comparing velocity and passive scalar statistics in fluid turbulence at high Schmidt numbers and Reynolds numbers**|Dhawal Buaria et.al.|[2302.05503v1](http://arxiv.org/abs/2302.05503v1)|null|
+|**2023-02-09**|**On the interactions between mean flows and inertial gravity waves**|Darryl D. Holm et.al.|[2302.04838v1](http://arxiv.org/abs/2302.04838v1)|null|
+|**2023-02-09**|**Simulating Rayleigh-Taylor induced magnetohydrodynamic turbulence in prominences**|Madhurjya Changmai et.al.|[2302.04707v1](http://arxiv.org/abs/2302.04707v1)|null|
+|**2023-02-09**|**Identifying causal significance in three-dimensional isotropic turbulence**|Miguel P. Encinar et.al.|[2302.04630v1](http://arxiv.org/abs/2302.04630v1)|null|
+|**2023-02-09**|**Prospects for the inference of inertial modes from hypermassive neutron stars with future gravitational-wave detectors**|Miquel Miravet-Tenés et.al.|[2302.04553v1](http://arxiv.org/abs/2302.04553v1)|null|
+|**2023-02-08**|**Simplified markerless stride detection pipeline (sMaSDP) for surface EMG segmentation**|Rafael Castro Aguiar et.al.|[2302.04243v1](http://arxiv.org/abs/2302.04243v1)|null|
+
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,37 +140,3 @@
 |**2023-01-03**|**A Fast Feature Point Matching Algorithm Based on IMU Sensor**|Lu Cao et.al.|[2301.10293v1](http://arxiv.org/abs/2301.10293v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v2](http://arxiv.org/abs/2301.00618v2)|null|
 |**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManus et.al.|[2301.03359v1](http://arxiv.org/abs/2301.03359v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-21**|**DSL-Assembly: A Robust and Safe Assembly Strategy**|Yi Liu et.al.|[2302.10842v1](http://arxiv.org/abs/2302.10842v1)|null|
-|**2023-02-21**|**Bokeh Rendering Based on Adaptive Depth Calibration Network**|Lu Liu et.al.|[2302.10808v1](http://arxiv.org/abs/2302.10808v1)|null|
-|**2023-02-21**|**Quantifying Jump Height Using Markerless Motion Capture with a Single Smartphone**|Timilehin B. Aderinola et.al.|[2302.10749v1](http://arxiv.org/abs/2302.10749v1)|null|
-|**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|[link](https://github.com/implabunipr/movad)|
-|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
-|**2023-02-21**|**SARG: the high resolution spectrograph**|Gratton R. et.al.|[2302.10584v1](http://arxiv.org/abs/2302.10584v1)|null|
-|**2023-02-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wu et.al.|[2302.10511v1](http://arxiv.org/abs/2302.10511v1)|null|
-|**2023-02-21**|**A Flexible Multi-view Multi-modal Imaging System for Outdoor Scenes**|Meng Zhang et.al.|[2302.10465v1](http://arxiv.org/abs/2302.10465v1)|null|
-|**2023-02-21**|**Automotive RADAR sub-sampling via object detection networks: Leveraging prior signal information**|Madhumitha Sakthi et.al.|[2302.10450v1](http://arxiv.org/abs/2302.10450v1)|null|
-|**2023-02-21**|**Shear-induced migration of a suspension under quasi-planar confinement**|John T. Antolik et.al.|[2302.10380v1](http://arxiv.org/abs/2302.10380v1)|null|
-|**2023-02-20**|**Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**|Adrian Holzbock et.al.|[2302.09998v1](http://arxiv.org/abs/2302.09998v1)|null|
-|**2023-02-20**|**TBPos: Dataset for Large-Scale Precision Visual Localization**|Masud Fahim et.al.|[2302.09825v1](http://arxiv.org/abs/2302.09825v1)|null|
-|**2023-02-20**|**Seeing the Fruit for the Leaves: Towards Automated Apple Fruitlet Thinning**|Ans Qureshi et.al.|[2302.09716v1](http://arxiv.org/abs/2302.09716v1)|null|
-|**2023-02-19**|**Table Tennis Stroke Detection and Recognition Using Ball Trajectory Data**|Kaustubh Milind Kulkarni et.al.|[2302.09657v1](http://arxiv.org/abs/2302.09657v1)|null|
-|**2023-02-18**|**When Visible-to-Thermal Facial GAN Beats Conditional Diffusion**|Catherine Ordun et.al.|[2302.09395v1](http://arxiv.org/abs/2302.09395v1)|null|
-|**2023-02-18**|**Diagnostic Quality Assessment of Fundus Photographs: Hierarchical Deep Learning with Clinically Significant Explanations**|Shanmukh Reddy Manne et.al.|[2302.09391v1](http://arxiv.org/abs/2302.09391v1)|null|
-|**2023-02-18**|**Euclid preparation. XXXI. Performance assessment of the NISP Red-Grism through spectroscopic simulations for the Wide and Deep surveys**|Euclid Collaboration et.al.|[2302.09372v1](http://arxiv.org/abs/2302.09372v1)|null|
-|**2023-02-18**|**Web Photo Source Identification based on Neural Enhanced Camera Fingerprint**|Feng Qian et.al.|[2302.09228v1](http://arxiv.org/abs/2302.09228v1)|[link](https://github.com/photonecf/photonecf)|
-|**2023-02-18**|**2D-Empowered 3D Object Detection on the Edge**|Jingzong Li et.al.|[2302.09221v1](http://arxiv.org/abs/2302.09221v1)|null|
-|**2023-02-17**|**Hybrid Traffic Control and Coordination from Pixels**|Michael Villarreal et.al.|[2302.09167v1](http://arxiv.org/abs/2302.09167v1)|null|
-|**2023-02-17**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v2](http://arxiv.org/abs/2302.09119v2)|null|
-|**2023-02-17**|**Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks**|Xu Zheng et.al.|[2302.08890v1](http://arxiv.org/abs/2302.08890v1)|null|
-|**2023-02-17**|**Apple scab detection in orchards using deep learning on colour and multispectral images**|Robert Rouš et.al.|[2302.08818v1](http://arxiv.org/abs/2302.08818v1)|null|
-|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
-|**2023-02-17**|**Few-shot 3D LiDAR Semantic Segmentation for Autonomous Driving**|Jilin Mei et.al.|[2302.08785v1](http://arxiv.org/abs/2302.08785v1)|null|
-|**2023-02-17**|**Probabilistic Qualitative Localization and Mapping**|Roee Mor et.al.|[2302.08735v1](http://arxiv.org/abs/2302.08735v1)|null|
-|**2023-02-17**|**AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving**|Tianyue Zheng et.al.|[2302.08646v1](http://arxiv.org/abs/2302.08646v1)|null|
-|**2023-02-16**|**PersonNeRF: Personalized Reconstruction from Photo Collections**|Chung-Yi Weng et.al.|[2302.08504v1](http://arxiv.org/abs/2302.08504v1)|null|
-|**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
-|**2023-02-16**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|Jongwoo Park et.al.|[2302.08231v1](http://arxiv.org/abs/2302.08231v1)|null|
