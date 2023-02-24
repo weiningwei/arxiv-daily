@@ -12,7 +12,7 @@
 |**2023-02-21**|**Bokeh Rendering Based on Adaptive Depth Calibration Network**|Lu Liu et.al.|[2302.10808v1](http://arxiv.org/abs/2302.10808v1)|null|
 |**2023-02-21**|**Quantifying Jump Height Using Markerless Motion Capture with a Single Smartphone**|Timilehin B. Aderinola et.al.|[2302.10749v1](http://arxiv.org/abs/2302.10749v1)|null|
 |**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|[link](https://github.com/implabunipr/movad)|
-|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
+|**2023-02-21**|**$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v2](http://arxiv.org/abs/2302.10668v2)|null|
 |**2023-02-21**|**SARG: the high resolution spectrograph**|Gratton R. et.al.|[2302.10584v1](http://arxiv.org/abs/2302.10584v1)|null|
 |**2023-02-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wu et.al.|[2302.10511v1](http://arxiv.org/abs/2302.10511v1)|null|
 |**2023-02-21**|**A Flexible Multi-view Multi-modal Imaging System for Outdoor Scenes**|Meng Zhang et.al.|[2302.10465v1](http://arxiv.org/abs/2302.10465v1)|null|
