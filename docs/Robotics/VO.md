@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
 |**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v1](http://arxiv.org/abs/2302.12198v1)|null|
 |**2023-02-19**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493v1](http://arxiv.org/abs/2302.09493v1)|null|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
@@ -31,4 +32,3 @@
 |**2022-11-27**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v2](http://arxiv.org/abs/2211.14731v2)|null|
 |**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
 |**2022-11-26**|**DynaVIG: Monocular Vision/INS/GNSS Integrated Navigation and Object Tracking for AGV in Dynamic Scenes**|Ronghe Jin et.al.|[2211.14478v1](http://arxiv.org/abs/2211.14478v1)|null|
-|**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|[link](https://github.com/jerredchen/a1_slam)|
