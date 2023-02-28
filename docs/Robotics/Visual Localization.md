@@ -4,13 +4,13 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-02-24**|**Decoupling Human and Camera Motion from Videos in the Wild**|Vickie Ye et.al.|[2302.12827v1](http://arxiv.org/abs/2302.12827v1)|null|
 |**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
-|**2023-02-24**|**Fast wide-field quantum sensor based on solid-state spins integrated with a SPAD array**|Guoqing Wang et.al.|[2302.12743v1](http://arxiv.org/abs/2302.12743v1)|null|
+|**2023-02-24**|**Fast wide-field quantum sensor based on solid-state spins integrated with a SPAD array**|Guoqing Wang et.al.|[2302.12743v2](http://arxiv.org/abs/2302.12743v2)|null|
 |**2023-02-24**|**Study of central light distribution in nearby early-type galaxies hosting nuclear star clusters**|K. Sruthi et.al.|[2302.12687v1](http://arxiv.org/abs/2302.12687v1)|null|
 |**2023-02-24**|**Quantifying Noise Limitations of Neural Network Segmentations in High-Resolution Transmission Electron Microscopy**|Matthew Helmi Leth Larsen et.al.|[2302.12629v1](http://arxiv.org/abs/2302.12629v1)|null|
 |**2023-02-23**|**DisCO: Portrait Distortion Correction with Perspective-Aware 3D GANs**|Zhixiang Wang et.al.|[2302.12253v1](http://arxiv.org/abs/2302.12253v1)|null|
 |**2023-02-23**|**VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**|Yiming Li et.al.|[2302.12251v1](http://arxiv.org/abs/2302.12251v1)|[link](https://github.com/nvlabs/voxformer)|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
-|**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v1](http://arxiv.org/abs/2302.12198v1)|null|
+|**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v2](http://arxiv.org/abs/2302.12198v2)|null|
 |**2023-02-23**|**Development of Advanced Photon Calibrator for KAGRA**|Y. Inoue et.al.|[2302.12180v1](http://arxiv.org/abs/2302.12180v1)|null|
 |**2023-02-23**|**Real-Time Damage Detection in Fiber Lifting Ropes Using Convolutional Neural Networks**|Tuomas Jalonen et.al.|[2302.11947v1](http://arxiv.org/abs/2302.11947v1)|null|
 |**2023-02-23**|**On the Simulation of Perception Errors in Autonomous Vehicles**|Andrea Piazzoni et.al.|[2302.11919v1](http://arxiv.org/abs/2302.11919v1)|null|

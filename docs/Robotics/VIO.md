@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
-|**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v1](http://arxiv.org/abs/2302.12198v1)|null|
+|**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v2](http://arxiv.org/abs/2302.12198v2)|null|
 |**2023-02-23**|**A subgradient method with constant step-size for $\ell_1$-composite optimization**|Alessandro Scagliotti et.al.|[2302.12105v1](http://arxiv.org/abs/2302.12105v1)|null|
 |**2023-02-21**|**Third sound detectors in accelerated motion**|Cameron R. D. Bunney et.al.|[2302.12023v1](http://arxiv.org/abs/2302.12023v1)|null|
 |**2023-02-21**|**Micromagnetic study of inertial spin waves in ferromagnetic nanodots**|Massimiliano d'Aquino et.al.|[2302.10759v1](http://arxiv.org/abs/2302.10759v1)|null|
