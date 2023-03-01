@@ -31,4 +31,4 @@
 |**2023-02-23**|**Diverse Policy Optimization for Structured Action Space**|Wenhao Li et.al.|[2302.11917v1](http://arxiv.org/abs/2302.11917v1)|[link](https://github.com/qiang-ma/graph-pointer-network)|
 |**2023-02-23**|**Event reconstruction using pattern spectra and convolutional neural networks for the Cherenkov Telescope Array**|J. Aschersleben et.al.|[2302.11876v1](http://arxiv.org/abs/2302.11876v1)|null|
 |**2023-02-23**|**Out-of-Domain Robustness via Targeted Augmentations**|Irena Gao et.al.|[2302.11861v1](http://arxiv.org/abs/2302.11861v1)|[link](https://github.com/i-gao/targeted-augs)|
-|**2023-02-22**|**Volatile exposures on the 67P/Churyumov-Gerasimenko nucleus**|S. Fornasier et.al.|[2302.11424v1](http://arxiv.org/abs/2302.11424v1)|null|
+|**2023-02-22**|**Volatile exposures on the 67P/Churyumov-Gerasimenko nucleus**|S. Fornasier et.al.|[2302.11424v2](http://arxiv.org/abs/2302.11424v2)|null|
