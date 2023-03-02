@@ -12,7 +12,7 @@
 |**2023-02-28**|**Learning to Estimate Two Dense Depths from LiDAR and Event Data**|Vincent Brebion et.al.|[2302.14444v1](http://arxiv.org/abs/2302.14444v1)|null|
 |**2023-02-28**|**Tracking Fast by Learning Slow: An Event-based Speed Adaptive Hand Tracker Leveraging Knowledge in RGB Domain**|Chuanlin Lan et.al.|[2302.14430v1](http://arxiv.org/abs/2302.14430v1)|null|
 |**2023-02-28**|**At-Scale Evaluation of Weight Clustering to Enable Energy-Efficient Object Detection**|Martí Caro et.al.|[2302.14426v1](http://arxiv.org/abs/2302.14426v1)|null|
-|**2023-02-28**|**Mesh-SORT: Simple and effective of location-wise tracker**|ZongTan Li et.al.|[2302.14415v1](http://arxiv.org/abs/2302.14415v1)|null|
+|**2023-02-28**|**Mesh-SORT: Simple and effective of location-wise tracker**|ZongTan Li et.al.|[2302.14415v2](http://arxiv.org/abs/2302.14415v2)|null|
 |**2023-02-28**|**An Adaptive Method for Camera Attribution under Complex Radial Distortion Corrections**|Andrea Montibeller et.al.|[2302.14409v1](http://arxiv.org/abs/2302.14409v1)|null|
 |**2023-02-28**|**RemoteTouch: Enhancing Immersive 3D Video Communication with Hand Touch**|Yizhong Zhang et.al.|[2302.14365v1](http://arxiv.org/abs/2302.14365v1)|null|
 |**2023-02-28**|**Design of an Adaptive Lightweight LiDAR to Decouple Robot-Camera Geometry**|Yuyang Chen et.al.|[2302.14334v1](http://arxiv.org/abs/2302.14334v1)|null|
