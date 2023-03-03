@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|null|
+|**2023-03-02**|**Dataset Creation Pipeline for Camera-Based Heart Rate Estimation**|Mohamed Moustafa et.al.|[2303.01468v1](http://arxiv.org/abs/2303.01468v1)|null|
+|**2023-03-02**|**3D generation on ImageNet**|Ivan Skorokhodov et.al.|[2303.01416v1](http://arxiv.org/abs/2303.01416v1)|null|
+|**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
+|**2023-03-02**|**AdvRain: Adversarial Raindrops to Attack Camera-based Smart Vision Systems**|Amira Guesmi et.al.|[2303.01338v1](http://arxiv.org/abs/2303.01338v1)|null|
+|**2023-03-02**|**NeU-NBV: Next Best View Planning Using Uncertainty Estimation in Image-Based Neural Rendering**|Liren Jin et.al.|[2303.01284v1](http://arxiv.org/abs/2303.01284v1)|null|
+|**2023-03-02**|**Autonomous Aerial Filming With Distributed Lighting by a Team of Unmanned Aerial Vehicles**|Vít Krátký et.al.|[2303.01177v1](http://arxiv.org/abs/2303.01177v1)|null|
+|**2023-03-02**|**Autonomous Reflectance Transformation Imaging by a Team of Unmanned Aerial Vehicles**|Vít Krátký et.al.|[2303.01162v1](http://arxiv.org/abs/2303.01162v1)|null|
+|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
+|**2023-03-02**|**Using simulation to quantify the performance of automotive perception systems**|Zhenyi Liu et.al.|[2303.00983v1](http://arxiv.org/abs/2303.00983v1)|null|
+|**2023-03-02**|**Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning**|Chihiro Noguchi et.al.|[2303.00977v1](http://arxiv.org/abs/2303.00977v1)|null|
+|**2023-03-02**|**Open Problem: Optimal Best Arm Identification with Fixed Budget**|Chao Qin et.al.|[2303.00950v1](http://arxiv.org/abs/2303.00950v1)|null|
+|**2023-03-02**|**Real-time Audio Video Enhancement \\with a Microphone Array and Headphones**|Jacob Kealey et.al.|[2303.00949v1](http://arxiv.org/abs/2303.00949v1)|null|
+|**2023-03-02**|**MoSS: Monocular Shape Sensing for Continuum Robots**|Chengnan Shentu et.al.|[2303.00891v1](http://arxiv.org/abs/2303.00891v1)|null|
+|**2023-03-02**|**Bayesian Deep Learning for Affordance Segmentation in images**|Lorenzo Mur-Labadia et.al.|[2303.00871v1](http://arxiv.org/abs/2303.00871v1)|null|
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
 |**2023-03-01**|**OSRE: Object-to-Spot Rotation Estimation for Bike Parking Assessment**|Saghir Alfasly et.al.|[2303.00725v1](http://arxiv.org/abs/2303.00725v1)|null|
 |**2023-03-01**|**Lunar impact flash results and space surveillance activities at Kryoneri Observatory**|Alexios Liakos et.al.|[2303.00670v1](http://arxiv.org/abs/2303.00670v1)|null|
@@ -17,18 +32,3 @@
 |**2023-03-01**|**UAV Tracking with Lidar as a Camera Sensors in GNSS-Denied Environments**|Ha Sier et.al.|[2303.00277v1](http://arxiv.org/abs/2303.00277v1)|null|
 |**2023-03-01**|**Influence of Spattering on In-process Layer Surface Roughness during Laser Powder Bed Fusion**|Haolin Zhang et.al.|[2303.00272v1](http://arxiv.org/abs/2303.00272v1)|null|
 |**2023-02-28**|**Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera**|Zhefan Xu et.al.|[2303.00132v1](http://arxiv.org/abs/2303.00132v1)|null|
-|**2023-02-28**|**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**|Mohamed Nagy et.al.|[2302.14807v1](http://arxiv.org/abs/2302.14807v1)|[link](https://github.com/mohamednagymostafa/kitti-mot.bench-evals)|
-|**2023-02-28**|**The JCMT Nearby Galaxies Legacy Survey: SCUBA-2 observations of nearby galaxies**|Kate Pattle et.al.|[2302.14800v1](http://arxiv.org/abs/2302.14800v1)|null|
-|**2023-02-28**|**PA&DA: Jointly Sampling PAth and DAta for Consistent NAS**|Shun Lu et.al.|[2302.14772v1](http://arxiv.org/abs/2302.14772v1)|[link](https://github.com/ShunLu91/PA-DA)|
-|**2023-02-28**|**Finding Things in the Unknown: Semantic Object-Centric Exploration with an MAV**|Sotiris Papatheodorou et.al.|[2302.14569v1](http://arxiv.org/abs/2302.14569v1)|[link](https://bitbucket.org/smartroboticslab/semantic-exploration-icra-2023)|
-|**2023-02-28**|**AdaptiveShape: Solving Shape Variability for 3D Object Detection with Geometry Aware Anchor Distributions**|Benjamin Sick et.al.|[2302.14522v1](http://arxiv.org/abs/2302.14522v1)|null|
-|**2023-02-28**|**Estimating Head Motion from MR-Images**|Clemens Pollak et.al.|[2302.14490v1](http://arxiv.org/abs/2302.14490v1)|null|
-|**2023-02-28**|**TrainSim: A Railway Simulation Framework for LiDAR and Camera Dataset Generation**|Gianluca D'Amico et.al.|[2302.14486v1](http://arxiv.org/abs/2302.14486v1)|null|
-|**2023-02-28**|**Learning to Estimate Two Dense Depths from LiDAR and Event Data**|Vincent Brebion et.al.|[2302.14444v1](http://arxiv.org/abs/2302.14444v1)|null|
-|**2023-02-28**|**Tracking Fast by Learning Slow: An Event-based Speed Adaptive Hand Tracker Leveraging Knowledge in RGB Domain**|Chuanlin Lan et.al.|[2302.14430v1](http://arxiv.org/abs/2302.14430v1)|null|
-|**2023-02-28**|**At-Scale Evaluation of Weight Clustering to Enable Energy-Efficient Object Detection**|Martí Caro et.al.|[2302.14426v1](http://arxiv.org/abs/2302.14426v1)|null|
-|**2023-02-28**|**An Adaptive Method for Camera Attribution under Complex Radial Distortion Corrections**|Andrea Montibeller et.al.|[2302.14409v1](http://arxiv.org/abs/2302.14409v1)|[link](https://github.com/AMontiB/AdaptivePRNUCameraAttribution)|
-|**2023-02-28**|**RemoteTouch: Enhancing Immersive 3D Video Communication with Hand Touch**|Yizhong Zhang et.al.|[2302.14365v1](http://arxiv.org/abs/2302.14365v1)|null|
-|**2023-02-28**|**Design of an Adaptive Lightweight LiDAR to Decouple Robot-Camera Geometry**|Yuyang Chen et.al.|[2302.14334v1](http://arxiv.org/abs/2302.14334v1)|null|
-|**2023-02-28**|**Markerless Camera-to-Robot Pose Estimation via Self-supervised Sim-to-Real Transfer**|Jingpei Lu et.al.|[2302.14332v1](http://arxiv.org/abs/2302.14332v1)|null|
-|**2023-02-28**|**QP Chaser: Polynomial Trajectory Generation for Autonomous Aerial Tracking**|Yunwoo Lee et.al.|[2302.14273v1](http://arxiv.org/abs/2302.14273v1)|null|

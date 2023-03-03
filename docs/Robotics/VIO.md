@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-02**|**Robust, High-Precision GNSS Carrier-Phase Positioning with Visual-Inertial Fusion**|Erqun Dong et.al.|[2303.01291v1](http://arxiv.org/abs/2303.01291v1)|null|
+|**2023-03-02**|**Ground test results of the micro-vibration interference for the x-ray microcalorimeter onboard XRISM**|Takashi Hasebe et.al.|[2303.01006v1](http://arxiv.org/abs/2303.01006v1)|null|
+|**2023-03-02**|**CMB-S4: Forecasting Constraints on $f_\mathrm{NL}$ Through $μ$-distortion Anisotropy**|David Zegeye et.al.|[2303.00916v1](http://arxiv.org/abs/2303.00916v1)|null|
+|**2023-03-01**|**New Observations of Solar Wind 1/f Turbulence Spectrum from Parker Solar Probe**|Zesen Huang et.al.|[2303.00843v1](http://arxiv.org/abs/2303.00843v1)|null|
 |**2023-03-01**|**Probabilistic Contact State Estimation for Legged Robots using Inertial Information**|Michael Maravgakis et.al.|[2303.00538v1](http://arxiv.org/abs/2303.00538v1)|null|
 |**2023-03-01**|**AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities**|Thomas Jantos et.al.|[2303.00371v1](http://arxiv.org/abs/2303.00371v1)|null|
 |**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v1](http://arxiv.org/abs/2303.00304v1)|null|
@@ -28,7 +32,3 @@
 |**2023-02-19**|**Effect of a guide field on the turbulence like properties of magnetic reconnection**|Subash Adhikari et.al.|[2302.09635v1](http://arxiv.org/abs/2302.09635v1)|null|
 |**2023-02-19**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493v1](http://arxiv.org/abs/2302.09493v1)|null|
 |**2023-02-17**|**Decoherence due to Spacetime Curvature**|Raghvendra Singh et.al.|[2302.09038v1](http://arxiv.org/abs/2302.09038v1)|null|
-|**2023-02-16**|**Complex Daily Activities, Country-Level Diversity, and Smartphone Sensing: A Study in Denmark, Italy, Mongolia, Paraguay, and UK**|Karim Assi et.al.|[2302.08591v1](http://arxiv.org/abs/2302.08591v1)|null|
-|**2023-02-16**|**Propagation Measurements and Analyses at 28 GHz via an Autonomous Beam-Steering Platform**|Bharath Keshavamurthy et.al.|[2302.08584v1](http://arxiv.org/abs/2302.08584v1)|[link](https://github.com/bharathkeshavamurthy/SPAVE-28G)|
-|**2023-02-16**|**Enable High-resolution, Real-time Ensemble Simulation and Data Assimilation of Flood Inundation using Distributed GPU Parallelization**|Junyu Wei et.al.|[2302.08341v1](http://arxiv.org/abs/2302.08341v1)|null|
-|**2023-02-16**|**Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**|Mohammad Mahdi Azarbeik et.al.|[2302.08294v1](http://arxiv.org/abs/2302.08294v1)|null|
