@@ -8,7 +8,7 @@
 |**2023-03-01**|**New Observations of Solar Wind 1/f Turbulence Spectrum from Parker Solar Probe**|Zesen Huang et.al.|[2303.00843v1](http://arxiv.org/abs/2303.00843v1)|null|
 |**2023-03-01**|**Probabilistic Contact State Estimation for Legged Robots using Inertial Information**|Michael Maravgakis et.al.|[2303.00538v1](http://arxiv.org/abs/2303.00538v1)|[link](https://github.com/michaelmarav/probabilisticcontactestimation)|
 |**2023-03-01**|**AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities**|Thomas Jantos et.al.|[2303.00371v1](http://arxiv.org/abs/2303.00371v1)|null|
-|**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v1](http://arxiv.org/abs/2303.00304v1)|null|
+|**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v2](http://arxiv.org/abs/2303.00304v2)|null|
 |**2023-03-01**|**Efficient Solution to 3D-LiDAR-based Monte Carlo Localization with Fusion of Measurement Model Optimization via Importance Sampling**|Naoki Akai et.al.|[2303.00216v2](http://arxiv.org/abs/2303.00216v2)|[link](https://github.com/naokiakai/mcl3d_ros)|
 |**2023-02-28**|**Inertial migration of a neutrally buoyant spheroid in plane Poiseuille flow**|Prateek Anand et.al.|[2303.00037v1](http://arxiv.org/abs/2303.00037v1)|null|
 |**2023-02-28**|**IMU-based online multi-lidar calibration without lidar odometry**|Sandipan Das et.al.|[2302.14735v1](http://arxiv.org/abs/2302.14735v1)|null|

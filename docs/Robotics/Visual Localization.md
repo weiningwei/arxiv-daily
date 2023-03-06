@@ -27,7 +27,7 @@
 |**2023-03-01**|**Validating Monte Carlo simulations for an analysis chain in H.E.S.S**|Fabian Leuschner et.al.|[2303.00412v1](http://arxiv.org/abs/2303.00412v1)|null|
 |**2023-03-01**|**AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities**|Thomas Jantos et.al.|[2303.00371v1](http://arxiv.org/abs/2303.00371v1)|null|
 |**2023-03-01**|**Event Fusion Photometric Stereo Network**|Wonjeong Ryoo et.al.|[2303.00308v1](http://arxiv.org/abs/2303.00308v1)|null|
-|**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v1](http://arxiv.org/abs/2303.00304v1)|null|
+|**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v2](http://arxiv.org/abs/2303.00304v2)|null|
 |**2023-03-01**|**Capturing the motion of every joint: 3D human pose and shape estimation with independent tokens**|Sen Yang et.al.|[2303.00298v1](http://arxiv.org/abs/2303.00298v1)|[link](https://github.com/yangsenius/int_hmr_model)|
 |**2023-03-01**|**UAV Tracking with Lidar as a Camera Sensors in GNSS-Denied Environments**|Ha Sier et.al.|[2303.00277v1](http://arxiv.org/abs/2303.00277v1)|[link](https://github.com/tiers/uav-tracking-based-on-lidar-as-a-camera)|
 |**2023-03-01**|**Influence of Spattering on In-process Layer Surface Roughness during Laser Powder Bed Fusion**|Haolin Zhang et.al.|[2303.00272v1](http://arxiv.org/abs/2303.00272v1)|null|
