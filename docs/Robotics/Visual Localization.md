@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|[link](https://github.com/zhujunli1993/swindepose)|
+|**2023-03-03**|**Stealthy Perception-based Attacks on Unmanned Aerial Vehicles**|Amir Khazraei et.al.|[2303.02112v1](http://arxiv.org/abs/2303.02112v1)|null|
+|**2023-03-03**|**Line Multiview Ideals**|Paul Breiding et.al.|[2303.02066v1](http://arxiv.org/abs/2303.02066v1)|null|
+|**2023-03-03**|**MAEVI: Motion Aware Event-Based Video Frame Interpolation**|Ahmet Akman et.al.|[2303.02025v1](http://arxiv.org/abs/2303.02025v1)|null|
+|**2023-03-03**|**Unified Perception: Efficient Video Panoptic Segmentation with Minimal Annotation Costs**|Kurt Stolle et.al.|[2303.01991v1](http://arxiv.org/abs/2303.01991v1)|null|
+|**2023-03-03**|**AutoMatch: A Large-scale Audio Beat Matching Benchmark for Boosting Deep Learning Assistant Video Editing**|Sen Pei et.al.|[2303.01884v1](http://arxiv.org/abs/2303.01884v1)|null|
+|**2023-03-03**|**Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2303.01768v1](http://arxiv.org/abs/2303.01768v1)|null|
+|**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
+|**2023-03-03**|**One-class Damage Detector Using Fully-Convolutional Data Description for Prognostics**|Takato Yasuno et.al.|[2303.01732v1](http://arxiv.org/abs/2303.01732v1)|null|
+|**2023-03-03**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wang et.al.|[2303.01686v1](http://arxiv.org/abs/2303.01686v1)|null|
+|**2023-03-03**|**Longwave infrared multispectral image sensor system using aluminum-germanium plasmonic filter arrays**|Noor E Karishma Shaik et.al.|[2303.01661v1](http://arxiv.org/abs/2303.01661v1)|null|
+|**2023-03-02**|**Simultaneous prediction of hand gestures, handedness, and hand keypoints using thermal images**|Sichao Li et.al.|[2303.01547v1](http://arxiv.org/abs/2303.01547v1)|null|
 |**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|null|
 |**2023-03-02**|**Dataset Creation Pipeline for Camera-Based Heart Rate Estimation**|Mohamed Moustafa et.al.|[2303.01468v1](http://arxiv.org/abs/2303.01468v1)|null|
 |**2023-03-02**|**3D generation on ImageNet**|Ivan Skorokhodov et.al.|[2303.01416v1](http://arxiv.org/abs/2303.01416v1)|null|
@@ -20,15 +32,3 @@
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
 |**2023-03-01**|**OSRE: Object-to-Spot Rotation Estimation for Bike Parking Assessment**|Saghir Alfasly et.al.|[2303.00725v1](http://arxiv.org/abs/2303.00725v1)|null|
 |**2023-03-01**|**Lunar impact flash results and space surveillance activities at Kryoneri Observatory**|Alexios Liakos et.al.|[2303.00670v1](http://arxiv.org/abs/2303.00670v1)|null|
-|**2023-03-01**|**ROCO: A Roundabout Traffic Conflict Dataset**|Depu Meng et.al.|[2303.00563v2](http://arxiv.org/abs/2303.00563v2)|[link](https://github.com/michigan-traffic-lab/roco)|
-|**2023-03-01**|**Mitigating Skewed Bidding for Conference Paper Assignment**|Inbal Rozencweig et.al.|[2303.00435v1](http://arxiv.org/abs/2303.00435v1)|null|
-|**2023-03-01**|**Motion Estimation for Fisheye Video With an Application to Temporal Resolution Enhancement**|Andrea Eichenseer et.al.|[2303.00433v1](http://arxiv.org/abs/2303.00433v1)|null|
-|**2023-03-01**|**Multiperspective Teaching of Unknown Objects via Shared-gaze-based Multimodal Human-Robot Interaction**|Daniel Weber et.al.|[2303.00423v1](http://arxiv.org/abs/2303.00423v1)|[link](https://github.com/dnlwbr/multiperspective-teaching)|
-|**2023-03-01**|**Validating Monte Carlo simulations for an analysis chain in H.E.S.S**|Fabian Leuschner et.al.|[2303.00412v1](http://arxiv.org/abs/2303.00412v1)|null|
-|**2023-03-01**|**AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities**|Thomas Jantos et.al.|[2303.00371v1](http://arxiv.org/abs/2303.00371v1)|null|
-|**2023-03-01**|**Event Fusion Photometric Stereo Network**|Wonjeong Ryoo et.al.|[2303.00308v1](http://arxiv.org/abs/2303.00308v1)|null|
-|**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v2](http://arxiv.org/abs/2303.00304v2)|null|
-|**2023-03-01**|**Capturing the motion of every joint: 3D human pose and shape estimation with independent tokens**|Sen Yang et.al.|[2303.00298v1](http://arxiv.org/abs/2303.00298v1)|[link](https://github.com/yangsenius/int_hmr_model)|
-|**2023-03-01**|**UAV Tracking with Lidar as a Camera Sensors in GNSS-Denied Environments**|Ha Sier et.al.|[2303.00277v1](http://arxiv.org/abs/2303.00277v1)|[link](https://github.com/tiers/uav-tracking-based-on-lidar-as-a-camera)|
-|**2023-03-01**|**Influence of Spattering on In-process Layer Surface Roughness during Laser Powder Bed Fusion**|Haolin Zhang et.al.|[2303.00272v1](http://arxiv.org/abs/2303.00272v1)|null|
-|**2023-02-28**|**Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera**|Zhefan Xu et.al.|[2303.00132v1](http://arxiv.org/abs/2303.00132v1)|null|
