@@ -9,7 +9,7 @@
 |**2023-03-02**|**Ground test results of the micro-vibration interference for the x-ray microcalorimeter onboard XRISM**|Takashi Hasebe et.al.|[2303.01006v1](http://arxiv.org/abs/2303.01006v1)|null|
 |**2023-03-02**|**CMB-S4: Forecasting Constraints on $f_\mathrm{NL}$ Through $μ$-distortion Anisotropy**|David Zegeye et.al.|[2303.00916v1](http://arxiv.org/abs/2303.00916v1)|null|
 |**2023-03-01**|**New Observations of Solar Wind 1/f Turbulence Spectrum from Parker Solar Probe**|Zesen Huang et.al.|[2303.00843v1](http://arxiv.org/abs/2303.00843v1)|null|
-|**2023-03-01**|**Probabilistic Contact State Estimation for Legged Robots using Inertial Information**|Michael Maravgakis et.al.|[2303.00538v1](http://arxiv.org/abs/2303.00538v1)|[link](https://github.com/michaelmarav/probabilisticcontactestimation)|
+|**2023-03-01**|**Probabilistic Contact State Estimation for Legged Robots using Inertial Information**|Michael Maravgakis et.al.|[2303.00538v2](http://arxiv.org/abs/2303.00538v2)|[link](https://github.com/michaelmarav/probabilisticcontactestimation)|
 |**2023-03-01**|**AI-Based Multi-Object Relative State Estimation with Self-Calibration Capabilities**|Thomas Jantos et.al.|[2303.00371v1](http://arxiv.org/abs/2303.00371v1)|null|
 |**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v2](http://arxiv.org/abs/2303.00304v2)|null|
 |**2023-03-01**|**Efficient Solution to 3D-LiDAR-based Monte Carlo Localization with Fusion of Measurement Model Optimization via Importance Sampling**|Naoki Akai et.al.|[2303.00216v2](http://arxiv.org/abs/2303.00216v2)|[link](https://github.com/naokiakai/mcl3d_ros)|
