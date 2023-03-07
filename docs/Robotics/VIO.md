@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-06**|**Head-on collision of large-scale high density plasmas jets: a first-principle kinetic simulation approach**|D. Wu et.al.|[2303.03011v1](http://arxiv.org/abs/2303.03011v1)|null|
+|**2023-03-05**|**A Contracting Hierarchical Observer for Pose-Inertial Fusion**|Brett T. Lopez et.al.|[2303.02777v1](http://arxiv.org/abs/2303.02777v1)|null|
+|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|null|
+|**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
+|**2023-03-03**|**Lightweight, Uncertainty-Aware Conformalized Visual Odometry**|Alex C. Stutts et.al.|[2303.02207v1](http://arxiv.org/abs/2303.02207v1)|null|
 |**2023-03-03**|**ORORA: Outlier-Robust Radar Odometry**|Hyungtae Lim et.al.|[2303.01876v1](http://arxiv.org/abs/2303.01876v1)|null|
 |**2023-03-03**|**RIOT: Recursive Inertial Odometry Transformer for Localisation from Low-Cost IMU Measurements**|James Brotchie et.al.|[2303.01641v1](http://arxiv.org/abs/2303.01641v1)|null|
 |**2023-03-02**|**Robust, High-Precision GNSS Carrier-Phase Positioning with Visual-Inertial Fusion**|Erqun Dong et.al.|[2303.01291v1](http://arxiv.org/abs/2303.01291v1)|null|
@@ -27,8 +32,3 @@
 |**2023-02-25**|**SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**|Jiawei Hou et.al.|[2302.12966v1](http://arxiv.org/abs/2302.12966v1)|[link](https://github.com/jarvishou829/sups)|
 |**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
 |**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v2](http://arxiv.org/abs/2302.12198v2)|null|
-|**2023-02-23**|**A subgradient method with constant step-size for $\ell_1$-composite optimization**|Alessandro Scagliotti et.al.|[2302.12105v1](http://arxiv.org/abs/2302.12105v1)|null|
-|**2023-02-21**|**Third sound detectors in accelerated motion**|Cameron R. D. Bunney et.al.|[2302.12023v1](http://arxiv.org/abs/2302.12023v1)|null|
-|**2023-02-21**|**Micromagnetic study of inertial spin waves in ferromagnetic nanodots**|Massimiliano d'Aquino et.al.|[2302.10759v1](http://arxiv.org/abs/2302.10759v1)|null|
-|**2023-02-20**|**Pressure anisotropy and viscous heating in weakly collisional plasma turbulence**|Jonathan Squire et.al.|[2303.00468v1](http://arxiv.org/abs/2303.00468v1)|null|
-|**2023-02-19**|**An efficient numerical method for charged particle transport based on hybrid collision model and machine learning**|Chang Liu et.al.|[2302.09644v1](http://arxiv.org/abs/2302.09644v1)|null|

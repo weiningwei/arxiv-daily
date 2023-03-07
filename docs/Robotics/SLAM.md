@@ -2,6 +2,11 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-06**|**A System for Generalized 3D Multi-Object Search**|Kaiyu Zheng et.al.|[2303.03178v1](http://arxiv.org/abs/2303.03178v1)|[link](https://github.com/zkytony/genmos_object_search)|
+|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|null|
+|**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
+|**2023-03-04**|**Real-time SLAM Pipeline in Dynamics Environment**|Alex Fu et.al.|[2303.02272v1](http://arxiv.org/abs/2303.02272v1)|null|
+|**2023-03-03**|**A Visual SLAM with Moving Object Trajectory Prediction**|Qi Zhang et.al.|[2303.02257v1](http://arxiv.org/abs/2303.02257v1)|null|
 |**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
 |**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
 |**2023-03-01**|**Prediction of SLAM ATE Using an Ensemble Learning Regression Model and 1-D Global Pooling of Data Characterization**|Islam Ali et.al.|[2303.00616v1](http://arxiv.org/abs/2303.00616v1)|null|
@@ -27,8 +32,3 @@
 |**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama et.al.|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
 |**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi et.al.|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
 |**2023-02-08**|**SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**|Vasilis Kontonis et.al.|[2302.03806v1](http://arxiv.org/abs/2302.03806v1)|null|
-|**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu et.al.|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
-|**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|[link](https://github.com/kxhit/vMAP)|
-|**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
-|**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
-|**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa et.al.|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|

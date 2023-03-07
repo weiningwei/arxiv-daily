@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|null|
+|**2023-03-03**|**Lightweight, Uncertainty-Aware Conformalized Visual Odometry**|Alex C. Stutts et.al.|[2303.02207v1](http://arxiv.org/abs/2303.02207v1)|null|
 |**2023-03-03**|**ORORA: Outlier-Robust Radar Odometry**|Hyungtae Lim et.al.|[2303.01876v1](http://arxiv.org/abs/2303.01876v1)|null|
 |**2023-03-03**|**RIOT: Recursive Inertial Odometry Transformer for Localisation from Low-Cost IMU Measurements**|James Brotchie et.al.|[2303.01641v1](http://arxiv.org/abs/2303.01641v1)|null|
 |**2023-03-02**|**Robust, High-Precision GNSS Carrier-Phase Positioning with Visual-Inertial Fusion**|Erqun Dong et.al.|[2303.01291v1](http://arxiv.org/abs/2303.01291v1)|null|
@@ -30,5 +32,3 @@
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
-|**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
-|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v2](http://arxiv.org/abs/2212.07595v2)|[link](https://github.com/xukuanHIT/AirVO)|
