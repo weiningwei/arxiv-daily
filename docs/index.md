@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-06 21:13:50 Asia/Shanghai
+ Automated deployment @ 2023-03-07 08:40:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -38,6 +38,40 @@
 |**2022-12-26**|**ESVIO: Event-based Stereo Visual Inertial Odometry**|Peiyu Chen et.al.|[2212.13184v1](http://arxiv.org/abs/2212.13184v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
 |**2022-12-25**|**A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**|Nadia Figueroa et.al.|[2212.14772v1](http://arxiv.org/abs/2212.14772v1)|null|
 |**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v2](http://arxiv.org/abs/2212.07595v2)|[link](https://github.com/xukuanHIT/AirVO)|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|[link](https://github.com/zhujunli1993/swindepose)|
+|**2023-03-03**|**Stealthy Perception-based Attacks on Unmanned Aerial Vehicles**|Amir Khazraei et.al.|[2303.02112v1](http://arxiv.org/abs/2303.02112v1)|null|
+|**2023-03-03**|**Line Multiview Ideals**|Paul Breiding et.al.|[2303.02066v1](http://arxiv.org/abs/2303.02066v1)|null|
+|**2023-03-03**|**MAEVI: Motion Aware Event-Based Video Frame Interpolation**|Ahmet Akman et.al.|[2303.02025v1](http://arxiv.org/abs/2303.02025v1)|null|
+|**2023-03-03**|**Unified Perception: Efficient Video Panoptic Segmentation with Minimal Annotation Costs**|Kurt Stolle et.al.|[2303.01991v1](http://arxiv.org/abs/2303.01991v1)|null|
+|**2023-03-03**|**AutoMatch: A Large-scale Audio Beat Matching Benchmark for Boosting Deep Learning Assistant Video Editing**|Sen Pei et.al.|[2303.01884v1](http://arxiv.org/abs/2303.01884v1)|null|
+|**2023-03-03**|**Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2303.01768v1](http://arxiv.org/abs/2303.01768v1)|null|
+|**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
+|**2023-03-03**|**One-class Damage Detector Using Fully-Convolutional Data Description for Prognostics**|Takato Yasuno et.al.|[2303.01732v1](http://arxiv.org/abs/2303.01732v1)|null|
+|**2023-03-03**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wang et.al.|[2303.01686v1](http://arxiv.org/abs/2303.01686v1)|null|
+|**2023-03-03**|**Longwave infrared multispectral image sensor system using aluminum-germanium plasmonic filter arrays**|Noor E Karishma Shaik et.al.|[2303.01661v1](http://arxiv.org/abs/2303.01661v1)|null|
+|**2023-03-02**|**Simultaneous prediction of hand gestures, handedness, and hand keypoints using thermal images**|Sichao Li et.al.|[2303.01547v1](http://arxiv.org/abs/2303.01547v1)|null|
+|**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|null|
+|**2023-03-02**|**Dataset Creation Pipeline for Camera-Based Heart Rate Estimation**|Mohamed Moustafa et.al.|[2303.01468v1](http://arxiv.org/abs/2303.01468v1)|null|
+|**2023-03-02**|**3D generation on ImageNet**|Ivan Skorokhodov et.al.|[2303.01416v1](http://arxiv.org/abs/2303.01416v1)|null|
+|**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
+|**2023-03-02**|**AdvRain: Adversarial Raindrops to Attack Camera-based Smart Vision Systems**|Amira Guesmi et.al.|[2303.01338v1](http://arxiv.org/abs/2303.01338v1)|null|
+|**2023-03-02**|**NeU-NBV: Next Best View Planning Using Uncertainty Estimation in Image-Based Neural Rendering**|Liren Jin et.al.|[2303.01284v1](http://arxiv.org/abs/2303.01284v1)|[link](https://github.com/dmar-bonn/neu-nbv)|
+|**2023-03-02**|**Autonomous Aerial Filming With Distributed Lighting by a Team of Unmanned Aerial Vehicles**|Vít Krátký et.al.|[2303.01177v1](http://arxiv.org/abs/2303.01177v1)|null|
+|**2023-03-02**|**Autonomous Reflectance Transformation Imaging by a Team of Unmanned Aerial Vehicles**|Vít Krátký et.al.|[2303.01162v1](http://arxiv.org/abs/2303.01162v1)|null|
+|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
+|**2023-03-02**|**Using simulation to quantify the performance of automotive perception systems**|Zhenyi Liu et.al.|[2303.00983v1](http://arxiv.org/abs/2303.00983v1)|null|
+|**2023-03-02**|**Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning**|Chihiro Noguchi et.al.|[2303.00977v1](http://arxiv.org/abs/2303.00977v1)|null|
+|**2023-03-02**|**Open Problem: Optimal Best Arm Identification with Fixed Budget**|Chao Qin et.al.|[2303.00950v1](http://arxiv.org/abs/2303.00950v1)|null|
+|**2023-03-02**|**Real-time Audio Video Enhancement \\with a Microphone Array and Headphones**|Jacob Kealey et.al.|[2303.00949v1](http://arxiv.org/abs/2303.00949v1)|null|
+|**2023-03-02**|**MoSS: Monocular Shape Sensing for Continuum Robots**|Chengnan Shentu et.al.|[2303.00891v1](http://arxiv.org/abs/2303.00891v1)|null|
+|**2023-03-02**|**Bayesian Deep Learning for Affordance Segmentation in images**|Lorenzo Mur-Labadia et.al.|[2303.00871v1](http://arxiv.org/abs/2303.00871v1)|null|
+|**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
+|**2023-03-01**|**OSRE: Object-to-Spot Rotation Estimation for Bike Parking Assessment**|Saghir Alfasly et.al.|[2303.00725v1](http://arxiv.org/abs/2303.00725v1)|null|
+|**2023-03-01**|**Lunar impact flash results and space surveillance activities at Kryoneri Observatory**|Alexios Liakos et.al.|[2303.00670v1](http://arxiv.org/abs/2303.00670v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,37 +140,3 @@
 |**2023-02-01**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa et.al.|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|[link](https://github.com/zhujunli1993/swindepose)|
-|**2023-03-03**|**Stealthy Perception-based Attacks on Unmanned Aerial Vehicles**|Amir Khazraei et.al.|[2303.02112v1](http://arxiv.org/abs/2303.02112v1)|null|
-|**2023-03-03**|**Line Multiview Ideals**|Paul Breiding et.al.|[2303.02066v1](http://arxiv.org/abs/2303.02066v1)|null|
-|**2023-03-03**|**MAEVI: Motion Aware Event-Based Video Frame Interpolation**|Ahmet Akman et.al.|[2303.02025v1](http://arxiv.org/abs/2303.02025v1)|null|
-|**2023-03-03**|**Unified Perception: Efficient Video Panoptic Segmentation with Minimal Annotation Costs**|Kurt Stolle et.al.|[2303.01991v1](http://arxiv.org/abs/2303.01991v1)|null|
-|**2023-03-03**|**AutoMatch: A Large-scale Audio Beat Matching Benchmark for Boosting Deep Learning Assistant Video Editing**|Sen Pei et.al.|[2303.01884v1](http://arxiv.org/abs/2303.01884v1)|null|
-|**2023-03-03**|**Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2303.01768v1](http://arxiv.org/abs/2303.01768v1)|null|
-|**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
-|**2023-03-03**|**One-class Damage Detector Using Fully-Convolutional Data Description for Prognostics**|Takato Yasuno et.al.|[2303.01732v1](http://arxiv.org/abs/2303.01732v1)|null|
-|**2023-03-03**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wang et.al.|[2303.01686v1](http://arxiv.org/abs/2303.01686v1)|null|
-|**2023-03-03**|**Longwave infrared multispectral image sensor system using aluminum-germanium plasmonic filter arrays**|Noor E Karishma Shaik et.al.|[2303.01661v1](http://arxiv.org/abs/2303.01661v1)|null|
-|**2023-03-02**|**Simultaneous prediction of hand gestures, handedness, and hand keypoints using thermal images**|Sichao Li et.al.|[2303.01547v1](http://arxiv.org/abs/2303.01547v1)|null|
-|**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|null|
-|**2023-03-02**|**Dataset Creation Pipeline for Camera-Based Heart Rate Estimation**|Mohamed Moustafa et.al.|[2303.01468v1](http://arxiv.org/abs/2303.01468v1)|null|
-|**2023-03-02**|**3D generation on ImageNet**|Ivan Skorokhodov et.al.|[2303.01416v1](http://arxiv.org/abs/2303.01416v1)|null|
-|**2023-03-02**|**NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools**|Peiran Yao et.al.|[2303.01410v1](http://arxiv.org/abs/2303.01410v1)|null|
-|**2023-03-02**|**AdvRain: Adversarial Raindrops to Attack Camera-based Smart Vision Systems**|Amira Guesmi et.al.|[2303.01338v1](http://arxiv.org/abs/2303.01338v1)|null|
-|**2023-03-02**|**NeU-NBV: Next Best View Planning Using Uncertainty Estimation in Image-Based Neural Rendering**|Liren Jin et.al.|[2303.01284v1](http://arxiv.org/abs/2303.01284v1)|[link](https://github.com/dmar-bonn/neu-nbv)|
-|**2023-03-02**|**Autonomous Aerial Filming With Distributed Lighting by a Team of Unmanned Aerial Vehicles**|Vít Krátký et.al.|[2303.01177v1](http://arxiv.org/abs/2303.01177v1)|null|
-|**2023-03-02**|**Autonomous Reflectance Transformation Imaging by a Team of Unmanned Aerial Vehicles**|Vít Krátký et.al.|[2303.01162v1](http://arxiv.org/abs/2303.01162v1)|null|
-|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
-|**2023-03-02**|**Using simulation to quantify the performance of automotive perception systems**|Zhenyi Liu et.al.|[2303.00983v1](http://arxiv.org/abs/2303.00983v1)|null|
-|**2023-03-02**|**Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning**|Chihiro Noguchi et.al.|[2303.00977v1](http://arxiv.org/abs/2303.00977v1)|null|
-|**2023-03-02**|**Open Problem: Optimal Best Arm Identification with Fixed Budget**|Chao Qin et.al.|[2303.00950v1](http://arxiv.org/abs/2303.00950v1)|null|
-|**2023-03-02**|**Real-time Audio Video Enhancement \\with a Microphone Array and Headphones**|Jacob Kealey et.al.|[2303.00949v1](http://arxiv.org/abs/2303.00949v1)|null|
-|**2023-03-02**|**MoSS: Monocular Shape Sensing for Continuum Robots**|Chengnan Shentu et.al.|[2303.00891v1](http://arxiv.org/abs/2303.00891v1)|null|
-|**2023-03-02**|**Bayesian Deep Learning for Affordance Segmentation in images**|Lorenzo Mur-Labadia et.al.|[2303.00871v1](http://arxiv.org/abs/2303.00871v1)|null|
-|**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
-|**2023-03-01**|**OSRE: Object-to-Spot Rotation Estimation for Bike Parking Assessment**|Saghir Alfasly et.al.|[2303.00725v1](http://arxiv.org/abs/2303.00725v1)|null|
-|**2023-03-01**|**Lunar impact flash results and space surveillance activities at Kryoneri Observatory**|Alexios Liakos et.al.|[2303.00670v1](http://arxiv.org/abs/2303.00670v1)|null|
