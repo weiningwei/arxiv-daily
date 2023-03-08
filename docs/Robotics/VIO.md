@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-07**|**Bubble bursting jets are driven by the purely inertial collapse of gas cavities**|J. M. Gordillo et.al.|[2303.03847v1](http://arxiv.org/abs/2303.03847v1)|null|
+|**2023-03-07**|**On the jets ejected after the inertial collapse of cavities**|J. M. Gordillo et.al.|[2303.03815v1](http://arxiv.org/abs/2303.03815v1)|null|
+|**2023-03-07**|**Long Distance GNSS-Denied Visual Inertial Navigation for Autonomous Fixed Wing Unmanned Air Vehicles: SO(3) Manifold Filter based on Virtual Vision Sensor**|Eduardo Gallo et.al.|[2303.03804v1](http://arxiv.org/abs/2303.03804v1)|null|
+|**2023-03-07**|**Deep Learning for Inertial Positioning: A Survey**|Changhao Chen et.al.|[2303.03757v1](http://arxiv.org/abs/2303.03757v1)|null|
+|**2023-03-07**|**Enhancing the sensitivity of atom-interferometric inertial sensors in dynamic environments using robust control**|J. C. Saywell et.al.|[2303.03683v1](http://arxiv.org/abs/2303.03683v1)|null|
+|**2023-03-06**|**Joint On-Manifold Gravity and Accelerometer Intrinsics Estimation**|Ryan Nemiroff et.al.|[2303.03505v1](http://arxiv.org/abs/2303.03505v1)|null|
+|**2023-03-06**|**Small scale quasi-geostrophic convective turbulence at large Rayleigh number**|Tobias G. Oliver et.al.|[2303.03467v1](http://arxiv.org/abs/2303.03467v1)|null|
+|**2023-03-06**|**Learning Position From Vehicle Vibration Using an Inertial Measurement Unit**|Barak Or et.al.|[2303.03942v1](http://arxiv.org/abs/2303.03942v1)|null|
 |**2023-03-06**|**Head-on collision of large-scale high density plasmas jets: a first-principle kinetic simulation approach**|D. Wu et.al.|[2303.03011v1](http://arxiv.org/abs/2303.03011v1)|null|
 |**2023-03-05**|**A Contracting Hierarchical Observer for Pose-Inertial Fusion**|Brett T. Lopez et.al.|[2303.02777v1](http://arxiv.org/abs/2303.02777v1)|null|
 |**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|null|
@@ -24,11 +32,3 @@
 |**2023-02-28**|**TrainSim: A Railway Simulation Framework for LiDAR and Camera Dataset Generation**|Gianluca D'Amico et.al.|[2302.14486v1](http://arxiv.org/abs/2302.14486v1)|null|
 |**2023-02-28**|**Efficient Implicit Neural Reconstruction Using LiDAR**|Dongyu Yan et.al.|[2302.14363v1](http://arxiv.org/abs/2302.14363v1)|null|
 |**2023-02-28**|**Design of an Adaptive Lightweight LiDAR to Decouple Robot-Camera Geometry**|Yuyang Chen et.al.|[2302.14334v1](http://arxiv.org/abs/2302.14334v1)|null|
-|**2023-02-28**|**LIW-OAM: Lidar-Inertial-Wheel Odometry and Mapping**|Zikang Yuan et.al.|[2302.14298v1](http://arxiv.org/abs/2302.14298v1)|[link](https://github.com/ZikangYuan/liw_oam)|
-|**2023-02-28**|**Model-Free and Learning-Free Proprioceptive Humanoid Movement Control**|Boren Jiang et.al.|[2302.14249v1](http://arxiv.org/abs/2302.14249v1)|null|
-|**2023-02-27**|**Modeling of Interface Loads for EOD Suit Wearers**|Yuan Gao et.al.|[2302.14028v1](http://arxiv.org/abs/2302.14028v1)|null|
-|**2023-02-27**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v1](http://arxiv.org/abs/2302.13613v1)|null|
-|**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
-|**2023-02-25**|**SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**|Jiawei Hou et.al.|[2302.12966v1](http://arxiv.org/abs/2302.12966v1)|[link](https://github.com/jarvishou829/sups)|
-|**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
-|**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v2](http://arxiv.org/abs/2302.12198v2)|null|
