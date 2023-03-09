@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-08**|**Global Localization in Unstructured Environments using Semantic Object Maps Built from Various Viewpoints**|Jacqueline Ankenbauer et.al.|[2303.04658v1](http://arxiv.org/abs/2303.04658v1)|null|
+|**2023-03-08**|**Robust Multimodal Fusion for Human Activity Recognition**|Sanju Xaviar et.al.|[2303.04636v1](http://arxiv.org/abs/2303.04636v1)|null|
+|**2023-03-08**|**Inertial angular dynamics of non-spherical atmospheric particles**|Taraprasad Bhowmick et.al.|[2303.04299v1](http://arxiv.org/abs/2303.04299v1)|null|
 |**2023-03-07**|**Bubble bursting jets are driven by the purely inertial collapse of gas cavities**|J. M. Gordillo et.al.|[2303.03847v1](http://arxiv.org/abs/2303.03847v1)|null|
 |**2023-03-07**|**On the jets ejected after the inertial collapse of cavities**|J. M. Gordillo et.al.|[2303.03815v1](http://arxiv.org/abs/2303.03815v1)|null|
 |**2023-03-07**|**Long Distance GNSS-Denied Visual Inertial Navigation for Autonomous Fixed Wing Unmanned Air Vehicles: SO(3) Manifold Filter based on Virtual Vision Sensor**|Eduardo Gallo et.al.|[2303.03804v1](http://arxiv.org/abs/2303.03804v1)|null|
@@ -29,6 +32,3 @@
 |**2023-02-28**|**Inertial migration of a neutrally buoyant spheroid in plane Poiseuille flow**|Prateek Anand et.al.|[2303.00037v1](http://arxiv.org/abs/2303.00037v1)|null|
 |**2023-02-28**|**IMU-based online multi-lidar calibration without lidar odometry**|Sandipan Das et.al.|[2302.14735v1](http://arxiv.org/abs/2302.14735v1)|null|
 |**2023-02-28**|**LIO-PPF: Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking**|Xingyu Chen et.al.|[2302.14674v2](http://arxiv.org/abs/2302.14674v2)|[link](https://github.com/xingyuuchen/lio-ppf)|
-|**2023-02-28**|**TrainSim: A Railway Simulation Framework for LiDAR and Camera Dataset Generation**|Gianluca D'Amico et.al.|[2302.14486v1](http://arxiv.org/abs/2302.14486v1)|null|
-|**2023-02-28**|**Efficient Implicit Neural Reconstruction Using LiDAR**|Dongyu Yan et.al.|[2302.14363v1](http://arxiv.org/abs/2302.14363v1)|null|
-|**2023-02-28**|**Design of an Adaptive Lightweight LiDAR to Decouple Robot-Camera Geometry**|Yuyang Chen et.al.|[2302.14334v1](http://arxiv.org/abs/2302.14334v1)|null|

@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-08**|**A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**|Daniele Evangelista et.al.|[2303.04747v1](http://arxiv.org/abs/2303.04747v1)|null|
+|**2023-03-08**|**Efficient Visuo-Haptic Object Shape Completion for Robot Manipulation**|Lukas Rustler et.al.|[2303.04700v1](http://arxiv.org/abs/2303.04700v1)|null|
+|**2023-03-08**|**EvConv: Fast CNN Inference on Event Camera Inputs For High-Speed Robot Perception**|Sankeerth Durvasula et.al.|[2303.04670v1](http://arxiv.org/abs/2303.04670v1)|null|
+|**2023-03-08**|**Aberration-Aware Depth-from-Focus**|Xinge Yang et.al.|[2303.04654v1](http://arxiv.org/abs/2303.04654v1)|null|
+|**2023-03-08**|**RM-Depth: Unsupervised Learning of Recurrent Monocular Depth in Dynamic Scenes**|Tak-Wai Hui et.al.|[2303.04456v1](http://arxiv.org/abs/2303.04456v1)|[link](https://github.com/twhui/rm-depth)|
+|**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
+|**2023-03-08**|**Toward Zero-Shot Sim-to-Real Transfer Learning for Pneumatic Soft Robot 3D Proprioceptive Sensing**|Uksang Yoo et.al.|[2303.04307v1](http://arxiv.org/abs/2303.04307v1)|null|
+|**2023-03-08**|**Camera-Radar Perception for Autonomous Vehicles and ADAS: Concepts, Datasets and Metrics**|Felipe Manfio Barbosa et.al.|[2303.04302v1](http://arxiv.org/abs/2303.04302v1)|null|
+|**2023-03-07**|**Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes**|Brandon Clark et.al.|[2303.04249v1](http://arxiv.org/abs/2303.04249v1)|null|
 |**2023-03-07**|**OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception**|Xiaofeng Wang et.al.|[2303.03991v1](http://arxiv.org/abs/2303.03991v1)|null|
 |**2023-03-07**|**CUREE: A Curious Underwater Robot for Ecosystem Exploration**|ogesh Girdhar et.al.|[2303.03943v1](http://arxiv.org/abs/2303.03943v1)|null|
 |**2023-03-07**|**A Dataset and Comparative Study for Vision-Based Relative Position Estimation of Multirotor Teams Flying in Close Proximity**|Akmaral Moldagalieva et.al.|[2303.03898v1](http://arxiv.org/abs/2303.03898v1)|null|
@@ -23,12 +32,3 @@
 |**2023-03-06**|**Stargazer: An Interactive Camera Robot for Capturing How-To Videos Based on Subtle Instructor Cues**|Jiannan Li et.al.|[2303.03221v1](http://arxiv.org/abs/2303.03221v1)|[link](https://github.com/jchrisli/stargazer-chi23)|
 |**2023-03-06**|**Flexible Gear Assembly With Visual Servoing and Force Feedback**|Junjie Ming et.al.|[2303.03153v1](http://arxiv.org/abs/2303.03153v1)|null|
 |**2023-03-06**|**A Miniaturised Camera-based Multi-Modal Tactile Sensor**|Kaspar Althoefer et.al.|[2303.03093v1](http://arxiv.org/abs/2303.03093v1)|null|
-|**2023-03-06**|**Graph-based View Motion Planning for Fruit Detection**|Tobias Zaenker et.al.|[2303.03048v1](http://arxiv.org/abs/2303.03048v1)|null|
-|**2023-03-06**|**Design of the Readout Electronics for the TRIDENT Pathfinder Experiment**|M. X. Wang et.al.|[2303.02911v1](http://arxiv.org/abs/2303.02911v1)|null|
-|**2023-03-06**|**Enhancing Border Security and Countering Terrorism Through Computer Vision: a Field of Artificial Intelligence**|Tosin Ige et.al.|[2303.02869v1](http://arxiv.org/abs/2303.02869v1)|null|
-|**2023-03-06**|**EvHandPose: Event-based 3D Hand Pose Estimation with Sparse Supervision**|Jianping Jiang et.al.|[2303.02862v1](http://arxiv.org/abs/2303.02862v1)|null|
-|**2023-03-05**|**Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes**|Xuan Ju et.al.|[2303.02760v1](http://arxiv.org/abs/2303.02760v1)|null|
-|**2023-03-05**|**Learning to Localize in Unseen Scenes with Relative Pose Regressors**|Ofer Idan et.al.|[2303.02717v1](http://arxiv.org/abs/2303.02717v1)|[link](https://github.com/yolish/relformer)|
-|**2023-03-05**|**Continuous-Time Gaussian Process Motion-Compensation for Event-vision Pattern Tracking with Distance Fields**|Cedric Le Gentil et.al.|[2303.02672v1](http://arxiv.org/abs/2303.02672v1)|null|
-|**2023-03-05**|**HyperPose: Camera Pose Localization using Attention Hypernetworks**|Ron Ferens et.al.|[2303.02610v1](http://arxiv.org/abs/2303.02610v1)|null|
-|**2023-03-05**|**Event-based Camera Simulation using Monte Carlo Path Tracing with Adaptive Denoising**|Yuta Tsuji et.al.|[2303.02608v1](http://arxiv.org/abs/2303.02608v1)|[link](https://github.com/0v/esim-ad)|
