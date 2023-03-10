@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09**|**Presentation Attack Detection with Advanced CNN Models for Noncontact-based Fingerprint Systems**|Sandip Purnapatra et.al.|[2303.05459v1](http://arxiv.org/abs/2303.05459v1)|null|
+|**2023-03-09**|**Probabilistic 3d regression with projected huber distribution**|David Mohlin et.al.|[2303.05245v1](http://arxiv.org/abs/2303.05245v1)|null|
+|**2023-03-09**|**Taming Contrast Maximization for Learning Sequential, Low-latency, Event-based Optical Flow**|Federico Paredes-Vallés et.al.|[2303.05214v1](http://arxiv.org/abs/2303.05214v1)|null|
+|**2023-03-09**|**RMMDet: Road-Side Multitype and Multigroup Sensor Detection System for Autonomous Driving**|Xiuyu Yang et.al.|[2303.05203v1](http://arxiv.org/abs/2303.05203v1)|[link](https://github.com/OrangeSodahub/RMMDet)|
+|**2023-03-09**|**Virtual Inverse Perspective Mapping for Simultaneous Pose and Motion Estimation**|Masahiro Hirano et.al.|[2303.05192v1](http://arxiv.org/abs/2303.05192v1)|null|
+|**2023-03-09**|**Blind deblurring of hyperspectral document images**|M. Ljubenovic et.al.|[2303.05130v1](http://arxiv.org/abs/2303.05130v1)|null|
+|**2023-03-09**|**Stereo Event-based Visual-Inertial Odometry**|Kunfeng Wang et.al.|[2303.05086v1](http://arxiv.org/abs/2303.05086v1)|null|
+|**2023-03-08**|**You Only Crash Once: Improved Object Detection for Real-Time, Sim-to-Real Hazardous Terrain Detection and Classification for Autonomous Planetary Landings**|Timothy Chase Jr et.al.|[2303.04891v1](http://arxiv.org/abs/2303.04891v1)|null|
+|**2023-03-08**|**CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation**|Arthur Moreau et.al.|[2303.04869v1](http://arxiv.org/abs/2303.04869v1)|null|
+|**2023-03-08**|**Extending the extinction law in 30 Doradus to the infrared with JWST**|Katja Fahrion et.al.|[2303.04820v1](http://arxiv.org/abs/2303.04820v1)|null|
 |**2023-03-08**|**A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**|Daniele Evangelista et.al.|[2303.04747v1](http://arxiv.org/abs/2303.04747v1)|null|
 |**2023-03-08**|**Efficient Visuo-Haptic Object Shape Completion for Robot Manipulation**|Lukas Rustler et.al.|[2303.04700v1](http://arxiv.org/abs/2303.04700v1)|null|
 |**2023-03-08**|**EvConv: Fast CNN Inference on Event Camera Inputs For High-Speed Robot Perception**|Sankeerth Durvasula et.al.|[2303.04670v1](http://arxiv.org/abs/2303.04670v1)|null|
@@ -22,13 +32,3 @@
 |**2023-03-07**|**Weakly Supervised Caveline Detection For AUV Navigation Inside Underwater Caves**|Boxiao Yu et.al.|[2303.03670v1](http://arxiv.org/abs/2303.03670v1)|null|
 |**2023-03-07**|**The Solar Upper Transition Region Imager (SUTRI) onboard the SATech-01 satellite**|Xianyong Bai et.al.|[2303.03669v1](http://arxiv.org/abs/2303.03669v1)|null|
 |**2023-03-07**|**F2BEV: Bird's Eye View Generation from Surround-View Fisheye Camera Images for Automated Driving**|Ekta U. Samani et.al.|[2303.03651v1](http://arxiv.org/abs/2303.03651v1)|null|
-|**2023-03-07**|**Revisiting the Transit Timing and Atmosphere Characterization of the Neptune-mass Planet HAT-P-26 b**|Napaporn A-thano et.al.|[2303.03610v1](http://arxiv.org/abs/2303.03610v1)|null|
-|**2023-03-07**|**LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**|Xin Li et.al.|[2303.03595v1](http://arxiv.org/abs/2303.03595v1)|[link](https://github.com/sankin97/logonet)|
-|**2023-03-07**|**Calibration-free BEV Representation for Infrastructure Perception**|Siqi Fan et.al.|[2303.03583v1](http://arxiv.org/abs/2303.03583v1)|null|
-|**2023-03-06**|**Paper 1: The JWST PEARLS View of the El Gordo Galaxy Cluster and of the Structure It Magnifies**|Brenda L. Frye et.al.|[2303.03556v1](http://arxiv.org/abs/2303.03556v1)|null|
-|**2023-03-06**|**Structured Kernel Estimation for Photon-Limited Deconvolution**|Yash Sanghvi et.al.|[2303.03472v1](http://arxiv.org/abs/2303.03472v1)|[link](https://github.com/sanghviyashiitb/structured-kernel-cvpr23)|
-|**2023-03-06**|**Star-Image Centering with Deep Learning: HST/WFPC2 Images**|Dana I. Casetti-Dinescu et.al.|[2303.03346v1](http://arxiv.org/abs/2303.03346v1)|null|
-|**2023-03-06**|**MACARONS: Mapping And Coverage Anticipation with RGB Online Self-Supervision**|Antoine Guédon et.al.|[2303.03315v1](http://arxiv.org/abs/2303.03315v1)|null|
-|**2023-03-06**|**Stargazer: An Interactive Camera Robot for Capturing How-To Videos Based on Subtle Instructor Cues**|Jiannan Li et.al.|[2303.03221v1](http://arxiv.org/abs/2303.03221v1)|[link](https://github.com/jchrisli/stargazer-chi23)|
-|**2023-03-06**|**Flexible Gear Assembly With Visual Servoing and Force Feedback**|Junjie Ming et.al.|[2303.03153v1](http://arxiv.org/abs/2303.03153v1)|null|
-|**2023-03-06**|**A Miniaturised Camera-based Multi-Modal Tactile Sensor**|Kaspar Althoefer et.al.|[2303.03093v1](http://arxiv.org/abs/2303.03093v1)|null|
