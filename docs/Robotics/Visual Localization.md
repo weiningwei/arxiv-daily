@@ -5,8 +5,8 @@
 |**2023-03-10**|**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**|Yunzhong Hou et.al.|[2303.06145v1](http://arxiv.org/abs/2303.06145v1)|[link](https://github.com/hou-yz/mvselect)|
 |**2023-03-10**|**Non-invasive Retrieval of the Transmission Matrix for Optical Imaging Deep Inside a Multiple Scattering Medium**|Ulysse Najar et.al.|[2303.06119v1](http://arxiv.org/abs/2303.06119v1)|null|
 |**2023-03-10**|**MVImgNet: A Large-scale Dataset of Multi-view Images**|Xianggang Yu et.al.|[2303.06042v1](http://arxiv.org/abs/2303.06042v1)|null|
-|**2023-03-10**|**Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception**|Chunrui Han et.al.|[2303.05970v1](http://arxiv.org/abs/2303.05970v1)|null|
-|**2023-03-10**|**Monocular Simultaneous Localization and Mapping using Ground Textures**|Kyle M. Hart et.al.|[2303.05946v1](http://arxiv.org/abs/2303.05946v1)|null|
+|**2023-03-10**|**Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception**|Chunrui Han et.al.|[2303.05970v2](http://arxiv.org/abs/2303.05970v2)|null|
+|**2023-03-10**|**Monocular Simultaneous Localization and Mapping using Ground Textures**|Kyle M. Hart et.al.|[2303.05946v1](http://arxiv.org/abs/2303.05946v1)|[link](https://github.com/navy-rise-lab/ground-texture-slam)|
 |**2023-03-10**|**Creation and evaluation of timelines for longitudinal user posts**|Anthony Hills et.al.|[2303.05891v1](http://arxiv.org/abs/2303.05891v1)|[link](https://github.com/maria-liakata-nlp-group/timeline_selection_and_evaluation)|
 |**2023-03-10**|**Handheld Burst Super-Resolution Meets Multi-Exposure Satellite Imagery**|Jamy Lafenetre et.al.|[2303.05879v1](http://arxiv.org/abs/2303.05879v1)|null|
 |**2023-03-10**|**Accurate Real-time Polyp Detection in Videos from Concatenation of Latent Features Extracted from Consecutive Frames**|Hemin Ali Qadir et.al.|[2303.05871v1](http://arxiv.org/abs/2303.05871v1)|null|
