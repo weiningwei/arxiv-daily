@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-03-13**|**Visual Contact Pressure Estimation for Grippers in the Wild**|Jeremy A. Collins et.al.|[2303.07344v1](http://arxiv.org/abs/2303.07344v1)|null|
 |**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu et.al.|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|
-|**2023-03-13**|**The Audio-Visual BatVision Dataset for Research on Sight and Sound**|Brunetto Amandine et.al.|[2303.07257v1](http://arxiv.org/abs/2303.07257v1)|null|
+|**2023-03-13**|**The Audio-Visual BatVision Dataset for Research on Sight and Sound**|Amandine Brunetto et.al.|[2303.07257v2](http://arxiv.org/abs/2303.07257v2)|null|
 |**2023-03-13**|**Dynamic Event-based Optical Flow Identification and Communication**|Axel von Arnim et.al.|[2303.07169v1](http://arxiv.org/abs/2303.07169v1)|null|
 |**2023-03-13**|**Quantum ghost imaging of a transparent polarisation sensitive phase pattern**|Aditya Saxena et.al.|[2303.07108v1](http://arxiv.org/abs/2303.07108v1)|null|
 |**2023-03-13**|**A Feature-based Approach for the Recognition of Image Quality Degradation in Automotive Applications**|Florian Bauer et.al.|[2303.07100v1](http://arxiv.org/abs/2303.07100v1)|null|
@@ -20,7 +20,7 @@
 |**2023-03-11**|**GeoCamera: Telling Stories in Geographic Visualizations with Camera Movements**|Wenchao Li et.al.|[2303.06460v1](http://arxiv.org/abs/2303.06460v1)|null|
 |**2023-03-11**|**Hallucinated Heartbeats: Anomaly-Aware Remote Pulse Estimation**|Jeremy Speth et.al.|[2303.06452v1](http://arxiv.org/abs/2303.06452v1)|null|
 |**2023-03-11**|**TIRCAM2 Fast Sub-array Readout Mode for Lunar Occultation studies**|Milind B. Naik et.al.|[2303.06399v1](http://arxiv.org/abs/2303.06399v1)|null|
-|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|null|
+|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|[link](https://github.com/minjae-lulu/just-flip)|
 |**2023-03-11**|**Virtual Mouse And Assistant: A Technological Revolution Of Artificial Intelligence**|Jagbeer Singh et.al.|[2303.06309v1](http://arxiv.org/abs/2303.06309v1)|null|
 |**2023-03-10**|**A POV-based Highway Vehicle Trajectory Dataset and Prediction Architecture**|Vinit Katariya et.al.|[2303.06202v1](http://arxiv.org/abs/2303.06202v1)|[link](https://github.com/tecsar-uncc/pishguve)|
 |**2023-03-10**|**Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**|Yunzhong Hou et.al.|[2303.06145v1](http://arxiv.org/abs/2303.06145v1)|[link](https://github.com/hou-yz/mvselect)|
