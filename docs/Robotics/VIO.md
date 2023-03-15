@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-14**|**On the contribution of the Hall term in small-scale magnetohydrodynamic dynamo**|Arijit Halder et.al.|[2303.07857v1](http://arxiv.org/abs/2303.07857v1)|null|
+|**2023-03-14**|**PIEKF-VIWO: Visual-Inertial-Wheel Odometry using Partial Invariant Extended Kalman Filter**|Tong Hua et.al.|[2303.07668v1](http://arxiv.org/abs/2303.07668v1)|null|
+|**2023-03-13**|**Discovering Multiple Algorithm Configurations**|Leonid Keselman et.al.|[2303.07434v1](http://arxiv.org/abs/2303.07434v1)|null|
 |**2023-03-13**|**Low Frequency Spinning LiDAR De-Skewing**|Omar Salem et.al.|[2303.07312v1](http://arxiv.org/abs/2303.07312v1)|null|
 |**2023-03-13**|**On the Inertial Rotational Brownian Motion of Arbitrarily Shaped Particles**|Amitesh S. Jayaraman et.al.|[2303.07021v1](http://arxiv.org/abs/2303.07021v1)|null|
 |**2023-03-13**|**HOOV: Hand Out-Of-View Tracking for Proprioceptive Interaction using Inertial Sensing**|Paul Streli et.al.|[2303.07016v1](http://arxiv.org/abs/2303.07016v1)|null|
@@ -29,6 +32,3 @@
 |**2023-03-06**|**Learning Position From Vehicle Vibration Using an Inertial Measurement Unit**|Barak Or et.al.|[2303.03942v1](http://arxiv.org/abs/2303.03942v1)|null|
 |**2023-03-06**|**Head-on collision of large-scale high density plasmas jets: a first-principle kinetic simulation approach**|D. Wu et.al.|[2303.03011v1](http://arxiv.org/abs/2303.03011v1)|null|
 |**2023-03-05**|**A Contracting Hierarchical Observer for Pose-Inertial Fusion**|Brett T. Lopez et.al.|[2303.02777v1](http://arxiv.org/abs/2303.02777v1)|null|
-|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|[link](https://github.com/tiers/multi-modal-loam)|
-|**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
-|**2023-03-03**|**Lightweight, Uncertainty-Aware Conformalized Visual Odometry**|Alex C. Stutts et.al.|[2303.02207v1](http://arxiv.org/abs/2303.02207v1)|null|
