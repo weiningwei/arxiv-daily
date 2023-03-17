@@ -11,7 +11,7 @@
 |**2023-03-15**|**Improving Fast Auto-Focus with Event Polarity**|Yuhan Bao et.al.|[2303.08611v1](http://arxiv.org/abs/2303.08611v1)|null|
 |**2023-03-15**|**GCRE-GPT: A Generative Model for Comparative Relation Extraction**|Yequan Wang et.al.|[2303.08601v1](http://arxiv.org/abs/2303.08601v1)|null|
 |**2023-03-15**|**MSeg3D: Multi-modal 3D Semantic Segmentation for Autonomous Driving**|Jiale Li et.al.|[2303.08600v1](http://arxiv.org/abs/2303.08600v1)|[link](https://github.com/jialeli1/lidarseg3d)|
-|**2023-03-15**|**Aerial-Ground Person Re-ID**|Huy Nguyen et.al.|[2303.08597v1](http://arxiv.org/abs/2303.08597v1)|null|
+|**2023-03-15**|**Aerial-Ground Person Re-ID**|Huy Nguyen et.al.|[2303.08597v2](http://arxiv.org/abs/2303.08597v2)|null|
 |**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550v1](http://arxiv.org/abs/2303.08550v1)|null|
 |**2023-03-15**|**BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2303.08498v1](http://arxiv.org/abs/2303.08498v1)|[link](https://github.com/adlab-autodrive/bevheight)|
 |**2023-03-15**|**Online and Predictive Warning System for Forced Lane Changes using Risk Maps**|Tim Puphal et.al.|[2303.08458v1](http://arxiv.org/abs/2303.08458v1)|null|
@@ -29,6 +29,6 @@
 |**2023-03-14**|**Magnetic fields in the Horsehead Nebula**|Jihye Hwang et.al.|[2303.07628v1](http://arxiv.org/abs/2303.07628v1)|null|
 |**2023-03-14**|**Training Robust Spiking Neural Networks with ViewPoint Transform and SpatioTemporal Stretching**|Haibo Shen et.al.|[2303.07609v1](http://arxiv.org/abs/2303.07609v1)|null|
 |**2023-03-14**|**Xtend, the Soft X-ray Imaging Telescope for the X-ray Imaging and Spectroscopy Mission (XRISM)**|Koji Mori et.al.|[2303.07575v1](http://arxiv.org/abs/2303.07575v1)|null|
-|**2023-03-13**|**Speech Intelligibility Classifiers from 550k Disordered Speech Samples**|Subhashini Venugopalan et.al.|[2303.07533v1](http://arxiv.org/abs/2303.07533v1)|null|
+|**2023-03-13**|**Speech Intelligibility Classifiers from 550k Disordered Speech Samples**|Subhashini Venugopalan et.al.|[2303.07533v2](http://arxiv.org/abs/2303.07533v2)|null|
 |**2023-03-13**|**Reinforcement Learning-based Wavefront Sensorless Adaptive Optics Approaches for Satellite-to-Ground Laser Communication**|Payam Parvizi et.al.|[2303.07516v1](http://arxiv.org/abs/2303.07516v1)|null|
 |**2023-03-13**|**Schrödinger's Camera: First Steps Towards a Quantum-Based Privacy Preserving Camera**|Hannah Kirkland et.al.|[2303.07510v1](http://arxiv.org/abs/2303.07510v1)|[link](https://github.com/teawizardry/schrodingers-camera)|
