@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2023-03-18 20:42:02 Asia/Shanghai
+ Automated deployment @ 2023-03-18 20:59:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-15**|**Descriptor Distillation for Efficient Multi-Robot SLAM**|Xiyue Guo et.al.|[2303.08420v1](http://arxiv.org/abs/2303.08420v1)|null|
-|**2023-03-15**|**Atmospheric parameters and kinematic information for the M giants stars from LAMOST DR9**|Dan Qiu et.al.|[2303.08344v1](http://arxiv.org/abs/2303.08344v1)|null|
-|**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu et.al.|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|
-|**2023-03-13**|**Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types**|Taekbeom Lee et.al.|[2303.07872v1](http://arxiv.org/abs/2303.07872v1)|null|
-|**2023-03-11**|**Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**|Kyeongsu Kang et.al.|[2303.06308v1](http://arxiv.org/abs/2303.06308v1)|null|
-|**2023-03-10**|**Mobile Robot Control and Autonomy Through Collaborative Simulation Twin**|Nazish Tahir et.al.|[2303.06172v1](http://arxiv.org/abs/2303.06172v1)|null|
-|**2023-03-10**|**Monocular Simultaneous Localization and Mapping using Ground Textures**|Kyle M. Hart et.al.|[2303.05946v1](http://arxiv.org/abs/2303.05946v1)|[link](https://github.com/navy-rise-lab/ground-texture-slam)|
-|**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|[link](https://github.com/lab-sun/slamesh)|
-|**2023-03-09**|**EVOLIN Benchmark: Evaluation of Line Detection and Association**|Kirill Ivanov et.al.|[2303.05162v1](http://arxiv.org/abs/2303.05162v1)|[link](https://github.com/prime-slam/evolin)|
-|**2023-03-08**|**kollagen: A Collaborative SLAM Pose Graph Generator**|Roberto C. Sundin et.al.|[2303.04753v1](http://arxiv.org/abs/2303.04753v1)|[link](https://github.com/ericssonresearch/kollagen)|
-|**2023-03-08**|**A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**|Daniele Evangelista et.al.|[2303.04747v1](http://arxiv.org/abs/2303.04747v1)|null|
-|**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|[link](https://github.com/eliabntt/GRADE-RR)|
-|**2023-03-06**|**A System for Generalized 3D Multi-Object Search**|Kaiyu Zheng et.al.|[2303.03178v1](http://arxiv.org/abs/2303.03178v1)|[link](https://github.com/zkytony/genmos_object_search)|
-|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|[link](https://github.com/tiers/multi-modal-loam)|
-|**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
-|**2023-03-04**|**Real-time SLAM Pipeline in Dynamics Environment**|Alex Fu et.al.|[2303.02272v1](http://arxiv.org/abs/2303.02272v1)|null|
-|**2023-03-03**|**A Visual SLAM with Moving Object Trajectory Prediction**|Qi Zhang et.al.|[2303.02257v1](http://arxiv.org/abs/2303.02257v1)|null|
-|**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
-|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
-|**2023-03-01**|**Prediction of SLAM ATE Using an Ensemble Learning Regression Model and 1-D Global Pooling of Data Characterization**|Islam Ali et.al.|[2303.00616v1](http://arxiv.org/abs/2303.00616v1)|null|
-|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
-|**2023-02-28**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325v2](http://arxiv.org/abs/2302.14325v2)|[link](https://github.com/zjuluolun/bevplace)|
-|**2023-02-27**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v2](http://arxiv.org/abs/2302.13613v2)|null|
-|**2023-02-27**|**GeoLCR: Attention-based Geometric Loop Closure and Registration**|Jing Liang et.al.|[2302.13509v5](http://arxiv.org/abs/2302.13509v5)|null|
-|**2023-02-26**|**Data-Association-Free Landmark-based SLAM**|Yihao Zhang et.al.|[2302.13264v2](http://arxiv.org/abs/2302.13264v2)|null|
-|**2023-02-26**|**Autonomous Search of Semantic Objects in Unknown Environments**|Zhentian Qian et.al.|[2302.13236v1](http://arxiv.org/abs/2302.13236v1)|null|
-|**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
-|**2023-02-25**|**SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**|Jiawei Hou et.al.|[2302.12966v1](http://arxiv.org/abs/2302.12966v1)|[link](https://github.com/jarvishou829/sups)|
-|**2023-02-24**|**Decoupling Human and Camera Motion from Videos in the Wild**|Vickie Ye et.al.|[2302.12827v1](http://arxiv.org/abs/2302.12827v1)|null|
-|**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,6 +72,40 @@
 |**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550v1](http://arxiv.org/abs/2303.08550v1)|null|
 |**2023-03-15**|**BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2303.08498v1](http://arxiv.org/abs/2303.08498v1)|[link](https://github.com/adlab-autodrive/bevheight)|
 |**2023-03-15**|**Online and Predictive Warning System for Forced Lane Changes using Risk Maps**|Tim Puphal et.al.|[2303.08458v1](http://arxiv.org/abs/2303.08458v1)|null|
+
+### SLAM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-15**|**Descriptor Distillation for Efficient Multi-Robot SLAM**|Xiyue Guo et.al.|[2303.08420v1](http://arxiv.org/abs/2303.08420v1)|null|
+|**2023-03-15**|**Atmospheric parameters and kinematic information for the M giants stars from LAMOST DR9**|Dan Qiu et.al.|[2303.08344v1](http://arxiv.org/abs/2303.08344v1)|null|
+|**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu et.al.|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|
+|**2023-03-13**|**Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types**|Taekbeom Lee et.al.|[2303.07872v1](http://arxiv.org/abs/2303.07872v1)|null|
+|**2023-03-11**|**Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**|Kyeongsu Kang et.al.|[2303.06308v1](http://arxiv.org/abs/2303.06308v1)|null|
+|**2023-03-10**|**Mobile Robot Control and Autonomy Through Collaborative Simulation Twin**|Nazish Tahir et.al.|[2303.06172v1](http://arxiv.org/abs/2303.06172v1)|null|
+|**2023-03-10**|**Monocular Simultaneous Localization and Mapping using Ground Textures**|Kyle M. Hart et.al.|[2303.05946v1](http://arxiv.org/abs/2303.05946v1)|[link](https://github.com/navy-rise-lab/ground-texture-slam)|
+|**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|[link](https://github.com/lab-sun/slamesh)|
+|**2023-03-09**|**EVOLIN Benchmark: Evaluation of Line Detection and Association**|Kirill Ivanov et.al.|[2303.05162v1](http://arxiv.org/abs/2303.05162v1)|[link](https://github.com/prime-slam/evolin)|
+|**2023-03-08**|**kollagen: A Collaborative SLAM Pose Graph Generator**|Roberto C. Sundin et.al.|[2303.04753v1](http://arxiv.org/abs/2303.04753v1)|[link](https://github.com/ericssonresearch/kollagen)|
+|**2023-03-08**|**A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**|Daniele Evangelista et.al.|[2303.04747v1](http://arxiv.org/abs/2303.04747v1)|null|
+|**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|[link](https://github.com/eliabntt/GRADE-RR)|
+|**2023-03-06**|**A System for Generalized 3D Multi-Object Search**|Kaiyu Zheng et.al.|[2303.03178v1](http://arxiv.org/abs/2303.03178v1)|[link](https://github.com/zkytony/genmos_object_search)|
+|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|[link](https://github.com/tiers/multi-modal-loam)|
+|**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
+|**2023-03-04**|**Real-time SLAM Pipeline in Dynamics Environment**|Alex Fu et.al.|[2303.02272v1](http://arxiv.org/abs/2303.02272v1)|null|
+|**2023-03-03**|**A Visual SLAM with Moving Object Trajectory Prediction**|Qi Zhang et.al.|[2303.02257v1](http://arxiv.org/abs/2303.02257v1)|null|
+|**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
+|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
+|**2023-03-01**|**Prediction of SLAM ATE Using an Ensemble Learning Regression Model and 1-D Global Pooling of Data Characterization**|Islam Ali et.al.|[2303.00616v1](http://arxiv.org/abs/2303.00616v1)|null|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
+|**2023-02-28**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325v2](http://arxiv.org/abs/2302.14325v2)|[link](https://github.com/zjuluolun/bevplace)|
+|**2023-02-27**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v2](http://arxiv.org/abs/2302.13613v2)|null|
+|**2023-02-27**|**GeoLCR: Attention-based Geometric Loop Closure and Registration**|Jing Liang et.al.|[2302.13509v5](http://arxiv.org/abs/2302.13509v5)|null|
+|**2023-02-26**|**Data-Association-Free Landmark-based SLAM**|Yihao Zhang et.al.|[2302.13264v2](http://arxiv.org/abs/2302.13264v2)|null|
+|**2023-02-26**|**Autonomous Search of Semantic Objects in Unknown Environments**|Zhentian Qian et.al.|[2302.13236v1](http://arxiv.org/abs/2302.13236v1)|null|
+|**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
+|**2023-02-25**|**SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**|Jiawei Hou et.al.|[2302.12966v1](http://arxiv.org/abs/2302.12966v1)|[link](https://github.com/jarvishou829/sups)|
+|**2023-02-24**|**Decoupling Human and Camera Motion from Videos in the Wild**|Vickie Ye et.al.|[2302.12827v1](http://arxiv.org/abs/2302.12827v1)|null|
+|**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
