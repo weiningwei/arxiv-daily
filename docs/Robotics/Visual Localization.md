@@ -13,7 +13,7 @@
 |**2023-03-16**|**A New Benchmark: On the Utility of Synthetic Data with Blender for Bare Supervised Learning and Downstream Domain Adaptation**|Hui Tang et.al.|[2303.09165v1](http://arxiv.org/abs/2303.09165v1)|[link](https://github.com/huitangtang/on_the_utility_of_synthetic_data)|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|null|
 |**2023-03-16**|**SigVIC: Spatial Importance Guided Variable-Rate Image Compression**|Jiaming Liang et.al.|[2303.09112v1](http://arxiv.org/abs/2303.09112v1)|null|
-|**2023-03-16**|**SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**|Yudi Dai et.al.|[2303.09095v1](http://arxiv.org/abs/2303.09095v1)|null|
+|**2023-03-16**|**SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**|Yudi Dai et.al.|[2303.09095v1](http://arxiv.org/abs/2303.09095v1)|[link](https://github.com/climbingdaily/SLOPER4D)|
 |**2023-03-16**|**FindView: Precise Target View Localization Task for Look Around Agents**|Haruya Ishikawa et.al.|[2303.09054v1](http://arxiv.org/abs/2303.09054v1)|[link](https://github.com/haruishi43/look_around)|
 |**2023-03-16**|**Homography matrix based trajectory planning method for robot uncalibrated visual servoing**|Xiaoyu Lei et.al.|[2303.09037v1](http://arxiv.org/abs/2303.09037v1)|null|
 |**2023-03-15**|**Fast and Accurate Object Detection on Asymmetrical Receptive Field**|Liguo Zhou et.al.|[2303.08995v1](http://arxiv.org/abs/2303.08995v1)|null|
