@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
+|**2023-03-16**|**The effect of variations in magnetic field direction from turbulence on kinetic-scale instabilities**|Simon Opie et.al.|[2303.09588v1](http://arxiv.org/abs/2303.09588v1)|null|
+|**2023-03-16**|**Maximum Correntropy Criterion Kalman Filter For Indoor Quadrotor Navigation Under Intermittent Measurements**|Loizos Hadjiloizou et.al.|[2303.09561v1](http://arxiv.org/abs/2303.09561v1)|null|
 |**2023-03-15**|**Evolution of a stratified turbulent cloud under rotation**|Tianyi Li et.al.|[2303.08786v1](http://arxiv.org/abs/2303.08786v1)|null|
 |**2023-03-15**|**Turbulence in Magnetic Reconnection Jets from Injection to Sub-Ion Scales**|L. Richard et.al.|[2303.08693v1](http://arxiv.org/abs/2303.08693v1)|null|
 |**2023-03-15**|**ZTBus: A Dataset of 1000+ Complete, Second-Resolved Driving Missions of Inner-City Transit Buses**|Fabio Widmer et.al.|[2303.08667v1](http://arxiv.org/abs/2303.08667v1)|null|
@@ -29,6 +32,3 @@
 |**2023-03-08**|**Robust Multimodal Fusion for Human Activity Recognition**|Sanju Xaviar et.al.|[2303.04636v1](http://arxiv.org/abs/2303.04636v1)|null|
 |**2023-03-08**|**Inertial angular dynamics of non-spherical atmospheric particles**|Taraprasad Bhowmick et.al.|[2303.04299v1](http://arxiv.org/abs/2303.04299v1)|null|
 |**2023-03-07**|**Bubble bursting jets are driven by the purely inertial collapse of gas cavities**|J. M. Gordillo et.al.|[2303.03847v2](http://arxiv.org/abs/2303.03847v2)|null|
-|**2023-03-07**|**On the jets ejected after the inertial collapse of cavities**|J. M. Gordillo et.al.|[2303.03815v1](http://arxiv.org/abs/2303.03815v1)|null|
-|**2023-03-07**|**Long Distance GNSS-Denied Visual Inertial Navigation for Autonomous Fixed Wing Unmanned Air Vehicles: SO(3) Manifold Filter based on Virtual Vision Sensor**|Eduardo Gallo et.al.|[2303.03804v1](http://arxiv.org/abs/2303.03804v1)|null|
-|**2023-03-07**|**Deep Learning for Inertial Positioning: A Survey**|Changhao Chen et.al.|[2303.03757v1](http://arxiv.org/abs/2303.03757v1)|null|
