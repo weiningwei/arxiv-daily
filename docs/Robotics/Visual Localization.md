@@ -5,10 +5,10 @@
 |**2023-03-16**|**SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**|Yi Wei et.al.|[2303.09551v1](http://arxiv.org/abs/2303.09551v1)|[link](https://github.com/weiyithu/surroundocc)|
 |**2023-03-16**|**Euclid: Validation of the MontePython forecasting tools**|S. Casas et.al.|[2303.09451v1](http://arxiv.org/abs/2303.09451v1)|[link](https://github.com/sabarish-vm/euclid_w0wa)|
 |**2023-03-16**|**Velocity measurement in the extensive [OIII] emission region 1.2° south-east of M31**|P. Amram et.al.|[2303.09425v1](http://arxiv.org/abs/2303.09425v1)|null|
-|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v1](http://arxiv.org/abs/2303.09412v1)|[link](https://github.com/hannahhaensen/nerftrinsic_four)|
+|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|[link](https://github.com/hannahhaensen/nerftrinsic_four)|
 |**2023-03-16**|**MIGHTEE-\HI: Possible interactions with the galaxy NGC~895**|Brenda Namumba et.al.|[2303.09371v1](http://arxiv.org/abs/2303.09371v1)|null|
 |**2023-03-16**|**Depth-Aware Image Compositing Model for Parallax Camera Motion Blur**|German F. Torres et.al.|[2303.09334v1](http://arxiv.org/abs/2303.09334v1)|[link](https://github.com/germanftv/parallaxicb)|
-|**2023-03-16**|**A Generative Model for Digital Camera Noise Synthesis**|Mingyang Song et.al.|[2303.09199v1](http://arxiv.org/abs/2303.09199v1)|null|
+|**2023-03-16**|**A Generative Model for Digital Camera Noise Synthesis**|Mingyang Song et.al.|[2303.09199v2](http://arxiv.org/abs/2303.09199v2)|null|
 |**2023-03-16**|**Identifiability Results for Multimodal Contrastive Learning**|Imant Daunhawer et.al.|[2303.09166v1](http://arxiv.org/abs/2303.09166v1)|[link](https://github.com/imantdaunhawer/multimodal-contrastive-learning)|
 |**2023-03-16**|**A New Benchmark: On the Utility of Synthetic Data with Blender for Bare Supervised Learning and Downstream Domain Adaptation**|Hui Tang et.al.|[2303.09165v1](http://arxiv.org/abs/2303.09165v1)|[link](https://github.com/huitangtang/on_the_utility_of_synthetic_data)|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|null|
