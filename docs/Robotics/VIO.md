@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-20**|**Six-degree-of-freedom Localization Under Multiple Permanent Magnets Actuation**|Tomas da Veiga et.al.|[2303.11059v1](http://arxiv.org/abs/2303.11059v1)|null|
+|**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
+|**2023-03-19**|**NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**|Junyuan Deng et.al.|[2303.10709v1](http://arxiv.org/abs/2303.10709v1)|[link](https://github.com/junyuandeng/nerf-loam)|
+|**2023-03-19**|**Passivity-based Decentralized Control for Collaborative Grasping of Under-Actuated Aerial Manipulators**|Jinyeong Jeong et.al.|[2303.10567v1](http://arxiv.org/abs/2303.10567v1)|null|
 |**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
 |**2023-03-16**|**The effect of variations in magnetic field direction from turbulence on kinetic-scale instabilities**|Simon Opie et.al.|[2303.09588v1](http://arxiv.org/abs/2303.09588v1)|null|
 |**2023-03-16**|**Maximum Correntropy Criterion Kalman Filter For Indoor Quadrotor Navigation Under Intermittent Measurements**|Loizos Hadjiloizou et.al.|[2303.09561v1](http://arxiv.org/abs/2303.09561v1)|null|
@@ -28,7 +32,3 @@
 |**2023-03-09**|**Stereo Event-based Visual-Inertial Odometry**|Kunfeng Wang et.al.|[2303.05086v2](http://arxiv.org/abs/2303.05086v2)|[link](https://github.com/wkunfeng/sevio)|
 |**2023-03-08**|**Inertial Frame Dragging and Relative Rotation of ZAMOs in Axistationary Asymptotically Flat Spacetimes**|S. Braeck et.al.|[2303.04868v1](http://arxiv.org/abs/2303.04868v1)|null|
 |**2023-03-08**|**Thermal suppression of demixing dynamics in a binary condensate**|Vijay Pal Singh et.al.|[2303.04824v1](http://arxiv.org/abs/2303.04824v1)|null|
-|**2023-03-08**|**Global Localization in Unstructured Environments using Semantic Object Maps Built from Various Viewpoints**|Jacqueline Ankenbauer et.al.|[2303.04658v1](http://arxiv.org/abs/2303.04658v1)|null|
-|**2023-03-08**|**Robust Multimodal Fusion for Human Activity Recognition**|Sanju Xaviar et.al.|[2303.04636v1](http://arxiv.org/abs/2303.04636v1)|null|
-|**2023-03-08**|**Inertial angular dynamics of non-spherical atmospheric particles**|Taraprasad Bhowmick et.al.|[2303.04299v1](http://arxiv.org/abs/2303.04299v1)|null|
-|**2023-03-07**|**Bubble bursting jets are driven by the purely inertial collapse of gas cavities**|J. M. Gordillo et.al.|[2303.03847v2](http://arxiv.org/abs/2303.03847v2)|null|
