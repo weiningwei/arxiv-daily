@@ -22,7 +22,7 @@
 |**2023-03-13**|**OverlapNetVLAD: A Coarse-to-Fine Framework for LiDAR-based Place Recognition**|Chencan Fu et.al.|[2303.06881v1](http://arxiv.org/abs/2303.06881v1)|[link](https://github.com/fcchit/overlapnetvlad)|
 |**2023-03-12**|**Inertial Migration in Micro-Centrifuge Devices**|Samuel Christensen et.al.|[2303.06760v1](http://arxiv.org/abs/2303.06760v1)|null|
 |**2023-03-11**|**Need for Speed: Fast Correspondence-Free Lidar Odometry Using Doppler Velocity**|David J. Yoon et.al.|[2303.06511v1](http://arxiv.org/abs/2303.06511v1)|null|
-|**2023-03-11**|**Inertial Updating**|Adam Dominiak et.al.|[2303.06336v1](http://arxiv.org/abs/2303.06336v1)|null|
+|**2023-03-11**|**Inertial Updating**|Adam Dominiak et.al.|[2303.06336v2](http://arxiv.org/abs/2303.06336v2)|null|
 |**2023-03-09**|**An Unscented Kalman Filter-Informed Neural Network for Vehicle Sideslip Angle Estimation**|Alberto Bertipaglia et.al.|[2303.05238v1](http://arxiv.org/abs/2303.05238v1)|null|
 |**2023-03-09**|**Virtual Inverse Perspective Mapping for Simultaneous Pose and Motion Estimation**|Masahiro Hirano et.al.|[2303.05192v1](http://arxiv.org/abs/2303.05192v1)|null|
 |**2023-03-09**|**Stereo Event-based Visual-Inertial Odometry**|Kunfeng Wang et.al.|[2303.05086v2](http://arxiv.org/abs/2303.05086v2)|[link](https://github.com/wkunfeng/sevio)|
