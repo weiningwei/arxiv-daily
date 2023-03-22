@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21**|**Emulating radiation transport on cosmological scale using a denoising Unet**|Mosima P. Masipa et.al.|[2303.12065v1](http://arxiv.org/abs/2303.12065v1)|null|
+|**2023-03-21**|**Motion Matters: Neural Motion Transfer for Better Camera Physiological Sensing**|Akshay Paruchuri et.al.|[2303.12059v1](http://arxiv.org/abs/2303.12059v1)|null|
+|**2023-03-21**|**Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion**|Haisong Liu et.al.|[2303.12017v1](http://arxiv.org/abs/2303.12017v1)|[link](https://github.com/mcg-nju/camliflow)|
+|**2023-03-21**|**Automatic evaluation of herding behavior in towed fishing gear using end-to-end training of CNN and attention-based networks**|Orri Steinn Guðfinnsson et.al.|[2303.12016v1](http://arxiv.org/abs/2303.12016v1)|null|
+|**2023-03-21**|**E-MLB: Multilevel Benchmark for Event-Based Camera Denoising**|Saizhe Ding et.al.|[2303.11997v1](http://arxiv.org/abs/2303.11997v1)|[link](https://github.com/kugamaxx/cuke-emlb)|
+|**2023-03-21**|**CLIP-ReIdent: Contrastive Training for Player Re-Identification**|Konrad Habel et.al.|[2303.11855v1](http://arxiv.org/abs/2303.11855v1)|null|
+|**2023-03-21**|**Propagate And Calibrate: Real-time Passive Non-line-of-sight Tracking**|Yihao Wang et.al.|[2303.11791v1](http://arxiv.org/abs/2303.11791v1)|null|
+|**2023-03-21**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739v1](http://arxiv.org/abs/2303.11739v1)|[link](https://github.com/marialeyvallina/generalized_contrastive_loss)|
+|**2023-03-21**|**SpikeCV: Open a Continuous Computer Vision Era**|Yajing Zheng et.al.|[2303.11684v1](http://arxiv.org/abs/2303.11684v1)|[link](https://github.com/zyj061/spikecv)|
+|**2023-03-21**|**TMA: Temporal Motion Aggregation for Event-based Optical Flow**|Haotian Liu et.al.|[2303.11629v1](http://arxiv.org/abs/2303.11629v1)|null|
+|**2023-03-21**|**Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation**|Wenkang Shan et.al.|[2303.11579v1](http://arxiv.org/abs/2303.11579v1)|[link](https://github.com/patrick-swk/d3dp)|
+|**2023-03-21**|**BigSmall: Efficient Multi-Task Learning for Disparate Spatial and Temporal Physiological Measurements**|Girish Narayanswamy et.al.|[2303.11573v1](http://arxiv.org/abs/2303.11573v1)|null|
+|**2023-03-21**|**Extended Depth-of-Field Lensless Imaging using an Optimized Radial Mask**|Jose Reinaldo da Cunha Santos Aroso Vieira da Silva Neto et.al.|[2303.11554v1](http://arxiv.org/abs/2303.11554v1)|null|
+|**2023-03-21**|**Machine Learning Techniques for Estimating Soil Moisture from Mobile Captured Images**|Muhammad Riaz Hasib Hossain et.al.|[2303.11527v1](http://arxiv.org/abs/2303.11527v1)|null|
+|**2023-03-21**|**Estimating Distances Between People using a Single Overhead Fisheye Camera with Application to Social-Distancing Oversight**|Zhangchi Lu et.al.|[2303.11520v1](http://arxiv.org/abs/2303.11520v1)|null|
 |**2023-03-20**|**Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation**|Ziyang Chen et.al.|[2303.11329v1](http://arxiv.org/abs/2303.11329v1)|[link](https://github.com/IFICL/SLfM)|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|[link](https://github.com/cvlab-columbia/zero123)|
 |**2023-03-20**|**Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding**|Jihao Liu et.al.|[2303.11325v1](http://arxiv.org/abs/2303.11325v1)|null|
@@ -17,18 +32,3 @@
 |**2023-03-20**|**Semantic 3D scene segmentation for robotic assembly process execution**|Andreas Wiedholz et.al.|[2303.10930v1](http://arxiv.org/abs/2303.10930v1)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
 |**2023-03-19**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770v2](http://arxiv.org/abs/2303.10770v2)|null|
-|**2023-03-19**|**Fully Self-Supervised Depth Estimation from Defocus Clue**|Haozhe Si et.al.|[2303.10752v1](http://arxiv.org/abs/2303.10752v1)|[link](https://github.com/ehzoahis/dered)|
-|**2023-03-19**|**A Target-Based Extrinsic Calibration Framework for Non-Overlapping Camera-Lidar Systems Using a Motion Capture System**|Nicholas Charron et.al.|[2303.10729v1](http://arxiv.org/abs/2303.10729v1)|null|
-|**2023-03-19**|**Compatibility of Fundamental Matrices for Complete Viewing Graphs**|Martin Bråtelund et.al.|[2303.10658v1](http://arxiv.org/abs/2303.10658v1)|null|
-|**2023-03-19**|**Training a spiking neural network on an event-based label-free flow cytometry dataset**|Muhammed Gouda et.al.|[2303.10632v1](http://arxiv.org/abs/2303.10632v1)|null|
-|**2023-03-19**|**ANMS: Asynchronous Non-Maximum Suppression in Event Stream**|Qianang Zhou et.al.|[2303.10575v1](http://arxiv.org/abs/2303.10575v1)|null|
-|**2023-03-19**|**Deep Learning for Camera Calibration and Beyond: A Survey**|Kang Liao et.al.|[2303.10559v1](http://arxiv.org/abs/2303.10559v1)|[link](https://github.com/kangliao929/awesome-deep-camera-calibration)|
-|**2023-03-18**|**Terahertz-to-infrared converters for imaging the human skin cancer: challenges and feasibility**|Kamil Moldosanov et.al.|[2303.10518v1](http://arxiv.org/abs/2303.10518v1)|null|
-|**2023-03-18**|**3D Data Augmentation for Driving Scenes on Camera**|Wenwen Tong et.al.|[2303.10340v1](http://arxiv.org/abs/2303.10340v1)|null|
-|**2023-03-17**|**CAPE: Camera View Position Embedding for Multi-View 3D Object Detection**|Kaixin Xiong et.al.|[2303.10209v1](http://arxiv.org/abs/2303.10209v1)|[link](https://github.com/PaddlePaddle/Paddle3D)|
-|**2023-03-17**|**Refinement for Absolute Pose Regression with Neural Feature Synthesis**|Shuai Chen et.al.|[2303.10087v1](http://arxiv.org/abs/2303.10087v1)|null|
-|**2023-03-17**|**ShaRPy: Shape Reconstruction and Hand Pose Estimation from RGB-D with Uncertainty**|Vanessa Wirth et.al.|[2303.10042v1](http://arxiv.org/abs/2303.10042v1)|null|
-|**2023-03-17**|**TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving**|Shaoheng Fang et.al.|[2303.09998v1](http://arxiv.org/abs/2303.09998v1)|null|
-|**2023-03-17**|**Semantic Scene Completion with Cleaner Self**|Fengyun Wang et.al.|[2303.09977v1](http://arxiv.org/abs/2303.09977v1)|[link](https://github.com/fereenwong/cleaners)|
-|**2023-03-17**|**Usage of single-camera video recording to measure sea surface roughness with machine learning methods**|Mikhail B. Salin et.al.|[2303.09967v1](http://arxiv.org/abs/2303.09967v1)|null|
-|**2023-03-17**|**Adversarial Counterfactual Visual Explanations**|Guillaume Jeanneret et.al.|[2303.09962v1](http://arxiv.org/abs/2303.09962v1)|[link](https://github.com/guillaumejs2403/ace)|
