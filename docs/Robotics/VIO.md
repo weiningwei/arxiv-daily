@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-23**|**Quantum rotation sensor with real-time readout based on an atom-cavity system**|Jim Skulte et.al.|[2303.13468v1](http://arxiv.org/abs/2303.13468v1)|null|
+|**2023-03-23**|**Ising chain: Thermal conductivity and first-principle validation of Fourier law**|Henrique Santos Lima et.al.|[2303.13432v1](http://arxiv.org/abs/2303.13432v1)|null|
+|**2023-03-23**|**RGB-D-Inertial SLAM in Indoor Dynamic Environments with Long-term Large Occlusion**|Ran Long et.al.|[2303.13316v1](http://arxiv.org/abs/2303.13316v1)|null|
+|**2023-03-23**|**Photonic entanglement during a zero-g flight**|Julius Bittermann et.al.|[2303.13183v1](http://arxiv.org/abs/2303.13183v1)|null|
+|**2023-03-23**|**Design of a Low-Cost Prototype Underwater Vehicle**|Ahsan Tanveer et.al.|[2303.13063v1](http://arxiv.org/abs/2303.13063v1)|null|
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157v1](http://arxiv.org/abs/2303.12157v1)|null|
 |**2023-03-21**|**Monocular Visual-Inertial Depth Estimation**|Diana Wofk et.al.|[2303.12134v1](http://arxiv.org/abs/2303.12134v1)|[link](https://github.com/isl-org/vi-depth)|
 |**2023-03-21**|**LoRCoN-LO: Long-term Recurrent Convolutional Network-based LiDAR Odometry**|Donghwi Jung et.al.|[2303.11853v1](http://arxiv.org/abs/2303.11853v1)|[link](https://github.com/donghwijung/lorcon-lo)|
@@ -27,8 +32,3 @@
 |**2023-03-13**|**Discovering Multiple Algorithm Configurations**|Leonid Keselman et.al.|[2303.07434v1](http://arxiv.org/abs/2303.07434v1)|null|
 |**2023-03-13**|**Low Frequency Spinning LiDAR De-Skewing**|Omar Salem et.al.|[2303.07312v1](http://arxiv.org/abs/2303.07312v1)|null|
 |**2023-03-13**|**On the Inertial Rotational Brownian Motion of Arbitrarily Shaped Particles**|Amitesh S. Jayaraman et.al.|[2303.07021v1](http://arxiv.org/abs/2303.07021v1)|null|
-|**2023-03-13**|**HOOV: Hand Out-Of-View Tracking for Proprioceptive Interaction using Inertial Sensing**|Paul Streli et.al.|[2303.07016v1](http://arxiv.org/abs/2303.07016v1)|null|
-|**2023-03-13**|**Stable functorial equivalence of blocks**|Serge Bouc et.al.|[2303.06976v1](http://arxiv.org/abs/2303.06976v1)|null|
-|**2023-03-13**|**Compressible turbulence in the interstellar medium: New insights from a high-resolution supersonic turbulence simulation**|Renaud Ferrand et.al.|[2303.06960v1](http://arxiv.org/abs/2303.06960v1)|null|
-|**2023-03-13**|**OverlapNetVLAD: A Coarse-to-Fine Framework for LiDAR-based Place Recognition**|Chencan Fu et.al.|[2303.06881v1](http://arxiv.org/abs/2303.06881v1)|[link](https://github.com/fcchit/overlapnetvlad)|
-|**2023-03-12**|**Inertial Migration in Micro-Centrifuge Devices**|Samuel Christensen et.al.|[2303.06760v1](http://arxiv.org/abs/2303.06760v1)|null|
