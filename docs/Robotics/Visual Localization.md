@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-24**|**UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields**|Yuanbo Yang et.al.|[2303.14167v1](http://arxiv.org/abs/2303.14167v1)|null|
+|**2023-03-24**|**Object Motion Sensitivity: A Bio-inspired Solution to the Ego-motion Problem for Event-based Cameras**|Shay Snyder et.al.|[2303.14114v1](http://arxiv.org/abs/2303.14114v1)|null|
+|**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|[link](https://github.com/zafirshi/panovpr)|
+|**2023-03-24**|**The Astri Mini-Array of Cherenkov Telescopes**|Andrea Giuliani et.al.|[2303.14079v1](http://arxiv.org/abs/2303.14079v1)|null|
+|**2023-03-24**|**StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion**|Bohan Li et.al.|[2303.13959v1](http://arxiv.org/abs/2303.13959v1)|[link](https://github.com/Arlo0o/StereoScene)|
+|**2023-03-24**|**Self-Supervised Reversed Image Signal Processing via Reference-Guided Dynamic Parameter Selection**|Junji Otsuka et.al.|[2303.13916v1](http://arxiv.org/abs/2303.13916v1)|null|
+|**2023-03-24**|**ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data**|Haojie Zhao et.al.|[2303.13885v1](http://arxiv.org/abs/2303.13885v1)|null|
+|**2023-03-24**|**Physically Adversarial Infrared Patches with Learnable Shapes and Locations**|Wei Xingxing et.al.|[2303.13868v1](http://arxiv.org/abs/2303.13868v1)|null|
+|**2023-03-24**|**FishDreamer: Towards Fisheye Semantic Completion via Unified Image Outpainting and Segmentation**|Hao Shi et.al.|[2303.13842v1](http://arxiv.org/abs/2303.13842v1)|[link](https://github.com/masterhow/fishdreamer)|
+|**2023-03-24**|**Suspension of large inertial particles in a turbulent swirling flow**|Benjamin Laplace et.al.|[2303.13829v1](http://arxiv.org/abs/2303.13829v1)|null|
+|**2023-03-24**|**Multimodal Adaptive Fusion of Face and Gait Features using Keyless attention based Deep Neural Networks for Human Identification**|Ashwin Prakash et.al.|[2303.13814v1](http://arxiv.org/abs/2303.13814v1)|null|
+|**2023-03-24**|**Zolly: Zoom Focal Length Correctly for Perspective-Distorted Human Mesh Reconstruction**|Wenjia Wang et.al.|[2303.13796v1](http://arxiv.org/abs/2303.13796v1)|[link](https://github.com/wenjiawang0312/zolly)|
+|**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791v1](http://arxiv.org/abs/2303.13791v1)|null|
+|**2023-03-24**|**Application-Driven AI Paradigm for Person Counting in Various Scenarios**|Minjie Hua et.al.|[2303.13788v1](http://arxiv.org/abs/2303.13788v1)|null|
+|**2023-03-24**|**Unknown Sniffer for Object Detection: Don't Turn a Blind Eye to Unknown Objects**|Wenteng Liang et.al.|[2303.13769v1](http://arxiv.org/abs/2303.13769v1)|null|
+|**2023-03-24**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v1](http://arxiv.org/abs/2303.13767v1)|null|
+|**2023-03-23**|**Mobile MoCap: Retroreflector Localization On-The-Go**|Gary Lvov et.al.|[2303.13681v1](http://arxiv.org/abs/2303.13681v1)|null|
+|**2023-03-23**|**NEWTON: Neural View-Centric Mapping for On-the-Fly Large-Scale SLAM**|Hidenobu Matsuki et.al.|[2303.13654v1](http://arxiv.org/abs/2303.13654v1)|null|
+|**2023-03-23**|**Theoretical and Numerical Analysis of 3D Reconstruction Using Point and Line Incidences**|Felix Rydell et.al.|[2303.13593v1](http://arxiv.org/abs/2303.13593v1)|null|
 |**2023-03-23**|**Persistent Nature: A Generative Model of Unbounded 3D Worlds**|Lucy Chai et.al.|[2303.13515v1](http://arxiv.org/abs/2303.13515v1)|null|
 |**2023-03-23**|**TactoFind: A Tactile Only System for Object Retrieval**|Sameer Pai et.al.|[2303.13482v1](http://arxiv.org/abs/2303.13482v1)|null|
 |**2023-03-23**|**Prior-free Category-level Pose Estimation with Implicit Space Transformation**|Jianhui Liu et.al.|[2303.13479v1](http://arxiv.org/abs/2303.13479v1)|null|
 |**2023-03-23**|**TransPoser: Transformer as an Optimizer for Joint Object Shape and Pose Estimation**|Yuta Yoshitake et.al.|[2303.13477v1](http://arxiv.org/abs/2303.13477v1)|null|
+|**2023-03-23**|**Inheriting Bayer's Legacy-Joint Remosaicing and Denoising for Quad Bayer Image Sensor**|Haijin Zeng et.al.|[2303.13571v1](http://arxiv.org/abs/2303.13571v1)|null|
 |**2023-03-23**|**RGB-D-Inertial SLAM in Indoor Dynamic Environments with Long-term Large Occlusion**|Ran Long et.al.|[2303.13316v1](http://arxiv.org/abs/2303.13316v1)|null|
 |**2023-03-23**|**Disguise without Disruption: Utility-Preserving Face De-Identification**|Zikui Cai et.al.|[2303.13269v1](http://arxiv.org/abs/2303.13269v1)|null|
 |**2023-03-23**|**A Bag-of-Prototypes Representation for Dataset-Level Applications**|Weijie Tu et.al.|[2303.13251v1](http://arxiv.org/abs/2303.13251v1)|null|
 |**2023-03-23**|**3D-POP -- An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture**|Hemal Naik et.al.|[2303.13174v1](http://arxiv.org/abs/2303.13174v1)|[link](https://github.com/alexhang212/dataset-3dpop)|
-|**2023-03-23**|**Planning Goals for Exploration**|Edward S. Hu et.al.|[2303.13002v1](http://arxiv.org/abs/2303.13002v1)|[link](https://github.com/penn-pal-lab/peg)|
-|**2023-03-23**|**NVAutoNet: Fast and Accurate 360$^{\circ}$ 3D Perception For Self Driving**|Trung Pham et.al.|[2303.12976v1](http://arxiv.org/abs/2303.12976v1)|null|
-|**2023-03-22**|**Real-World Community-in-the-Loop Smart Video Surveillance -- A Case Study at a Community College**|Shanle Yao et.al.|[2303.12934v1](http://arxiv.org/abs/2303.12934v1)|null|
-|**2023-03-22**|**Deep learning-based stereo camera multi-video synchronization**|Nicolas Boizard et.al.|[2303.12916v1](http://arxiv.org/abs/2303.12916v1)|null|
-|**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|[link](https://github.com/skhu101/sherf)|
-|**2023-03-22**|**LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals**|Arjun Karpur et.al.|[2303.12779v1](http://arxiv.org/abs/2303.12779v1)|null|
-|**2023-03-22**|**MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset**|Chen Feng et.al.|[2303.12756v1](http://arxiv.org/abs/2303.12756v1)|[link](https://github.com/MrChenFeng/MaskCon_CVPR2023)|
-|**2023-03-22**|**Causal Reasoning in the Presence of Latent Confounders via Neural ADMG Learning**|Matthew Ashman et.al.|[2303.12703v1](http://arxiv.org/abs/2303.12703v1)|[link](https://github.com/microsoft/causica)|
-|**2023-03-22**|**Ultra-fast detection of the center frequency of a spectral line from amplitude-weighted average**|Ilja Fescenko et.al.|[2303.12544v1](http://arxiv.org/abs/2303.12544v1)|null|
-|**2023-03-22**|**Unsupervised Domain Adaptation for Training Event-Based Networks Using Contrastive Learning and Uncorrelated Conditioning**|Dayuan Jian et.al.|[2303.12424v1](http://arxiv.org/abs/2303.12424v1)|null|
-|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
-|**2023-03-21**|**Emulating radiation transport on cosmological scale using a denoising Unet**|Mosima P. Masipa et.al.|[2303.12065v1](http://arxiv.org/abs/2303.12065v1)|null|
-|**2023-03-21**|**Motion Matters: Neural Motion Transfer for Better Camera Physiological Sensing**|Akshay Paruchuri et.al.|[2303.12059v1](http://arxiv.org/abs/2303.12059v1)|[link](https://github.com/Roni-Lab/MA-rPPG-Video-Toolbox)|
-|**2023-03-21**|**Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion**|Haisong Liu et.al.|[2303.12017v1](http://arxiv.org/abs/2303.12017v1)|[link](https://github.com/mcg-nju/camliflow)|
-|**2023-03-21**|**Automatic evaluation of herding behavior in towed fishing gear using end-to-end training of CNN and attention-based networks**|Orri Steinn Guðfinnsson et.al.|[2303.12016v1](http://arxiv.org/abs/2303.12016v1)|null|
-|**2023-03-21**|**E-MLB: Multilevel Benchmark for Event-Based Camera Denoising**|Saizhe Ding et.al.|[2303.11997v1](http://arxiv.org/abs/2303.11997v1)|[link](https://github.com/kugamaxx/cuke-emlb)|
-|**2023-03-21**|**CLIP-ReIdent: Contrastive Training for Player Re-Identification**|Konrad Habel et.al.|[2303.11855v1](http://arxiv.org/abs/2303.11855v1)|null|
-|**2023-03-21**|**Propagate And Calibrate: Real-time Passive Non-line-of-sight Tracking**|Yihao Wang et.al.|[2303.11791v1](http://arxiv.org/abs/2303.11791v1)|null|
-|**2023-03-21**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739v1](http://arxiv.org/abs/2303.11739v1)|[link](https://github.com/marialeyvallina/generalized_contrastive_loss)|
-|**2023-03-21**|**SpikeCV: Open a Continuous Computer Vision Era**|Yajing Zheng et.al.|[2303.11684v1](http://arxiv.org/abs/2303.11684v1)|[link](https://github.com/zyj061/spikecv)|
-|**2023-03-21**|**TMA: Temporal Motion Aggregation for Event-based Optical Flow**|Haotian Liu et.al.|[2303.11629v1](http://arxiv.org/abs/2303.11629v1)|null|
-|**2023-03-21**|**Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation**|Wenkang Shan et.al.|[2303.11579v1](http://arxiv.org/abs/2303.11579v1)|[link](https://github.com/patrick-swk/d3dp)|
+|**2023-03-23**|**MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation**|Yunsong Zhou et.al.|[2303.13561v1](http://arxiv.org/abs/2303.13561v1)|null|
+|**2023-03-23**|**Collaboration Helps Camera Overtake LiDAR in 3D Detection**|Yue Hu et.al.|[2303.13560v1](http://arxiv.org/abs/2303.13560v1)|null|
