@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-03-24**|**UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields**|Yuanbo Yang et.al.|[2303.14167v1](http://arxiv.org/abs/2303.14167v1)|null|
-|**2023-03-24**|**Object Motion Sensitivity: A Bio-inspired Solution to the Ego-motion Problem for Event-based Cameras**|Shay Snyder et.al.|[2303.14114v1](http://arxiv.org/abs/2303.14114v1)|null|
+|**2023-03-24**|**Object Motion Sensitivity: A Bio-inspired Solution to the Ego-motion Problem for Event-based Cameras**|Shay Snyder et.al.|[2303.14114v2](http://arxiv.org/abs/2303.14114v2)|null|
 |**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|[link](https://github.com/zafirshi/panovpr)|
 |**2023-03-24**|**The Astri Mini-Array of Cherenkov Telescopes**|Andrea Giuliani et.al.|[2303.14079v1](http://arxiv.org/abs/2303.14079v1)|null|
 |**2023-03-24**|**StereoScene: BEV-Assisted Stereo Matching Empowers 3D Semantic Scene Completion**|Bohan Li et.al.|[2303.13959v1](http://arxiv.org/abs/2303.13959v1)|[link](https://github.com/Arlo0o/StereoScene)|
@@ -31,4 +31,4 @@
 |**2023-03-23**|**A Bag-of-Prototypes Representation for Dataset-Level Applications**|Weijie Tu et.al.|[2303.13251v1](http://arxiv.org/abs/2303.13251v1)|null|
 |**2023-03-23**|**3D-POP -- An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture**|Hemal Naik et.al.|[2303.13174v1](http://arxiv.org/abs/2303.13174v1)|[link](https://github.com/alexhang212/dataset-3dpop)|
 |**2023-03-23**|**MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation**|Yunsong Zhou et.al.|[2303.13561v1](http://arxiv.org/abs/2303.13561v1)|null|
-|**2023-03-23**|**Collaboration Helps Camera Overtake LiDAR in 3D Detection**|Yue Hu et.al.|[2303.13560v1](http://arxiv.org/abs/2303.13560v1)|null|
+|**2023-03-23**|**Collaboration Helps Camera Overtake LiDAR in 3D Detection**|Yue Hu et.al.|[2303.13560v1](http://arxiv.org/abs/2303.13560v1)|[link](https://github.com/mediabrain-sjtu/coca3d)|
