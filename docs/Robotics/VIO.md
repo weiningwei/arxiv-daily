@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-27**|**Inertial effects in ultrafast spin dynamics**|Ritwik Mondal et.al.|[2303.15251v1](http://arxiv.org/abs/2303.15251v1)|null|
+|**2023-03-26**|**Scale invariance and critical balance in electrostatic drift-kinetic turbulence**|T. Adkins et.al.|[2303.14834v1](http://arxiv.org/abs/2303.14834v1)|null|
+|**2023-03-24**|**Dynamics of rapidly spinning blob-filaments: fluid theory with a parallel kinetic extension**|J. R. Myra et.al.|[2303.14273v1](http://arxiv.org/abs/2303.14273v1)|null|
 |**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v1](http://arxiv.org/abs/2303.13962v1)|null|
 |**2023-03-24**|**Suspension of large inertial particles in a turbulent swirling flow**|Benjamin Laplace et.al.|[2303.13829v1](http://arxiv.org/abs/2303.13829v1)|null|
 |**2023-03-23**|**Inertial geometric quantum logic gates**|Daniel Turyansky et.al.|[2303.13674v1](http://arxiv.org/abs/2303.13674v1)|null|
@@ -29,6 +32,3 @@
 |**2023-03-15**|**ZTBus: A Dataset of 1000+ Complete, Second-Resolved Driving Missions of Inner-City Transit Buses**|Fabio Widmer et.al.|[2303.08667v1](http://arxiv.org/abs/2303.08667v1)|null|
 |**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550v1](http://arxiv.org/abs/2303.08550v1)|null|
 |**2023-03-15**|**Range-Aided LiDAR-Inertial Multi-Vehicle Mapping in Degenerate Environment**|Zhe Jin et.al.|[2303.08454v1](http://arxiv.org/abs/2303.08454v1)|null|
-|**2023-03-14**|**Inertial Spinner Swarm Experiments: Spin Pumping, Entropy Oscillations and Spin Frustration**|Shengkai Li et.al.|[2303.08223v1](http://arxiv.org/abs/2303.08223v1)|null|
-|**2023-03-14**|**On the contribution of the Hall term in small-scale magnetohydrodynamic dynamo**|Arijit Halder et.al.|[2303.07857v1](http://arxiv.org/abs/2303.07857v1)|null|
-|**2023-03-14**|**PIEKF-VIWO: Visual-Inertial-Wheel Odometry using Partial Invariant Extended Kalman Filter**|Tong Hua et.al.|[2303.07668v1](http://arxiv.org/abs/2303.07668v1)|null|
