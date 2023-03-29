@@ -29,6 +29,6 @@
 |**2023-03-25**|**Learned Two-Plane Perspective Prior based Image Resampling for Efficient Object Detection**|Anurag Ghosh et.al.|[2303.14311v1](http://arxiv.org/abs/2303.14311v1)|null|
 |**2023-03-24**|**AgileGAN3D: Few-Shot 3D Portrait Stylization by Augmented Transfer Learning**|Guoxian Song et.al.|[2303.14297v1](http://arxiv.org/abs/2303.14297v1)|null|
 |**2023-03-24**|**A computer vision based optical method for measuring fluid level in cell culture plates**|Pierre V. Baudin et.al.|[2303.14233v1](http://arxiv.org/abs/2303.14233v1)|null|
-|**2023-03-24**|**UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields**|Yuanbo Yang et.al.|[2303.14167v1](http://arxiv.org/abs/2303.14167v1)|null|
+|**2023-03-24**|**UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields**|Yuanbo Yang et.al.|[2303.14167v2](http://arxiv.org/abs/2303.14167v2)|null|
 |**2023-03-24**|**Object Motion Sensitivity: A Bio-inspired Solution to the Ego-motion Problem for Event-based Cameras**|Shay Snyder et.al.|[2303.14114v2](http://arxiv.org/abs/2303.14114v2)|null|
 |**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|[link](https://github.com/zafirshi/panovpr)|
