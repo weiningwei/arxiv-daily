@@ -2,7 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-28**|**Escape Kinetics of an Underdamped Colloidal Particle from a Cavity through Narrow Pores**|Shubhadip Nayak et.al.|[2303.16092v1](http://arxiv.org/abs/2303.16092v1)|null|
+|**2023-03-28**|**Inertial settling of an arbitrarily oriented cylinder in a quiescent flow : from short-time to quasi-steady motion**|Jean-Lou Pierson et.al.|[2303.15909v1](http://arxiv.org/abs/2303.15909v1)|null|
+|**2023-03-28**|**Investigating swimming technical skills by a double partition clustering of multivariate functional data allowing for dimension selection**|Antoine Bouvet et.al.|[2303.15812v1](http://arxiv.org/abs/2303.15812v1)|null|
+|**2023-03-28**|**A framework for experimental-data-driven assessment of Magnetized Liner Inertial Fusion stagnation image metrics**|William E. Lewis et.al.|[2303.15680v1](http://arxiv.org/abs/2303.15680v1)|null|
 |**2023-03-27**|**Inertial effects in ultrafast spin dynamics**|Ritwik Mondal et.al.|[2303.15251v1](http://arxiv.org/abs/2303.15251v1)|null|
+|**2023-03-27**|**VIDIMU. Multimodal video and IMU kinematic dataset on daily life activities using affordable devices**|Mario Martínez-Zarzuela et.al.|[2303.16150v1](http://arxiv.org/abs/2303.16150v1)|[link](https://github.com/twyncoder/vidimu-tools)|
 |**2023-03-26**|**Scale invariance and critical balance in electrostatic drift-kinetic turbulence**|T. Adkins et.al.|[2303.14834v1](http://arxiv.org/abs/2303.14834v1)|null|
 |**2023-03-24**|**Dynamics of rapidly spinning blob-filaments: fluid theory with a parallel kinetic extension**|J. R. Myra et.al.|[2303.14273v1](http://arxiv.org/abs/2303.14273v1)|null|
 |**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v1](http://arxiv.org/abs/2303.13962v1)|null|
@@ -27,8 +32,3 @@
 |**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
 |**2023-03-16**|**The effect of variations in magnetic field direction from turbulence on kinetic-scale instabilities**|Simon Opie et.al.|[2303.09588v1](http://arxiv.org/abs/2303.09588v1)|null|
 |**2023-03-16**|**Maximum Correntropy Criterion Kalman Filter For Indoor Quadrotor Navigation Under Intermittent Measurements**|Loizos Hadjiloizou et.al.|[2303.09561v1](http://arxiv.org/abs/2303.09561v1)|[link](https://github.com/loizoshad/mcckfuim)|
-|**2023-03-15**|**Evolution of a stratified turbulent cloud under rotation**|Tianyi Li et.al.|[2303.08786v1](http://arxiv.org/abs/2303.08786v1)|null|
-|**2023-03-15**|**Turbulence in Magnetic Reconnection Jets from Injection to Sub-Ion Scales**|L. Richard et.al.|[2303.08693v1](http://arxiv.org/abs/2303.08693v1)|null|
-|**2023-03-15**|**ZTBus: A Dataset of 1000+ Complete, Second-Resolved Driving Missions of Inner-City Transit Buses**|Fabio Widmer et.al.|[2303.08667v1](http://arxiv.org/abs/2303.08667v1)|null|
-|**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550v1](http://arxiv.org/abs/2303.08550v1)|null|
-|**2023-03-15**|**Range-Aided LiDAR-Inertial Multi-Vehicle Mapping in Degenerate Environment**|Zhe Jin et.al.|[2303.08454v1](http://arxiv.org/abs/2303.08454v1)|null|
