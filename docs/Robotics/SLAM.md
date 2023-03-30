@@ -2,6 +2,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|[link](https://github.com/digiamm/ba_md_slam)|
+|**2023-03-29**|**Toroidal cavitation by a snapping popper**|Akihito Kiyama et.al.|[2303.16702v1](http://arxiv.org/abs/2303.16702v1)|null|
+|**2023-03-29**|**AirLine: Efficient Learnable Line Detection with Local Edge Voting**|Xiao Lin et.al.|[2303.16500v1](http://arxiv.org/abs/2303.16500v1)|null|
 |**2023-03-24**|**GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM**|Qiangqiang Huang et.al.|[2303.14283v1](http://arxiv.org/abs/2303.14283v1)|[link](https://github.com/doublestrong/gapslam)|
 |**2023-03-24**|**Nonlinear Dual control based on Fast Moving Horizon estimation and Model Predictive Control with an observability constraint**|Emilien Flayac et.al.|[2303.13993v1](http://arxiv.org/abs/2303.13993v1)|null|
 |**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v1](http://arxiv.org/abs/2303.13962v1)|null|
@@ -29,6 +32,3 @@
 |**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
 |**2023-03-04**|**Real-time SLAM Pipeline in Dynamics Environment**|Alex Fu et.al.|[2303.02272v1](http://arxiv.org/abs/2303.02272v1)|null|
 |**2023-03-03**|**A Visual SLAM with Moving Object Trajectory Prediction**|Qi Zhang et.al.|[2303.02257v1](http://arxiv.org/abs/2303.02257v1)|null|
-|**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
-|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
-|**2023-03-01**|**Prediction of SLAM ATE Using an Ensemble Learning Regression Model and 1-D Global Pooling of Data Characterization**|Islam Ali et.al.|[2303.00616v1](http://arxiv.org/abs/2303.00616v1)|null|

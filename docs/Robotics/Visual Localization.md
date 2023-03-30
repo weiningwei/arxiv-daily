@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|[link](https://github.com/digiamm/ba_md_slam)|
+|**2023-03-29**|**Multi-View Keypoints for Reliable 6D Object Pose Estimation**|Alan Li et.al.|[2303.16833v1](http://arxiv.org/abs/2303.16833v1)|null|
+|**2023-03-29**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v1](http://arxiv.org/abs/2303.16818v1)|null|
+|**2023-03-29**|**VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking**|Limin Wang et.al.|[2303.16727v1](http://arxiv.org/abs/2303.16727v1)|null|
+|**2023-03-29**|**DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking**|Qing Lian et.al.|[2303.16628v1](http://arxiv.org/abs/2303.16628v1)|[link](https://github.com/smartbot-pjlab/dort)|
+|**2023-03-29**|**Development of a deep learning-based tool to assist wound classification**|Po-Hsuan Huang et.al.|[2303.16522v1](http://arxiv.org/abs/2303.16522v1)|null|
+|**2023-03-29**|**Visibility Aware Human-Object Interaction Tracking from Single RGB Camera**|Xianghui Xie et.al.|[2303.16479v1](http://arxiv.org/abs/2303.16479v1)|null|
+|**2023-03-29**|**Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**|Wenhao Chai et.al.|[2303.16456v1](http://arxiv.org/abs/2303.16456v1)|null|
+|**2023-03-29**|**Multi-View Azimuth Stereo via Tangent Space Consistency**|Xu Cao et.al.|[2303.16447v1](http://arxiv.org/abs/2303.16447v1)|[link](https://github.com/xucao-42/mvas)|
 |**2023-03-28**|**Large-scale Training Data Search for Object Re-identification**|Yue Yao et.al.|[2303.16186v1](http://arxiv.org/abs/2303.16186v1)|null|
 |**2023-03-28**|**Efficient solutions to the relative pose of three calibrated cameras from four points using virtual correspondences**|Charalambos Tzamos et.al.|[2303.16078v1](http://arxiv.org/abs/2303.16078v1)|null|
 |**2023-03-28**|**Egocentric Auditory Attention Localization in Conversations**|Fiona Ryan et.al.|[2303.16024v1](http://arxiv.org/abs/2303.16024v1)|null|
@@ -23,12 +32,3 @@
 |**2023-03-27**|**Euclid preparation. XXXII. A UV-NIR spectral atlas of compact planetary nebulae for wavelength calibration**|Euclid Collaboration et.al.|[2303.15525v1](http://arxiv.org/abs/2303.15525v1)|null|
 |**2023-03-27**|**Galaxy interactions are the dominant trigger for local type 2 quasars**|J. C. S. Pierce et.al.|[2303.15506v1](http://arxiv.org/abs/2303.15506v1)|null|
 |**2023-03-27**|**GeoNet: Benchmarking Unsupervised Adaptation across Geographies**|Tarun Kalluri et.al.|[2303.15443v1](http://arxiv.org/abs/2303.15443v1)|null|
-|**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
-|**2023-03-27**|**Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D Generation**|Susung Hong et.al.|[2303.15413v1](http://arxiv.org/abs/2303.15413v1)|null|
-|**2023-03-27**|**Human Pose Estimation in Extremely Low-Light Conditions**|Sohyun Lee et.al.|[2303.15410v1](http://arxiv.org/abs/2303.15410v1)|null|
-|**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
-|**2023-03-27**|**VIDIMU. Multimodal video and IMU kinematic dataset on daily life activities using affordable devices**|Mario Martínez-Zarzuela et.al.|[2303.16150v1](http://arxiv.org/abs/2303.16150v1)|[link](https://github.com/twyncoder/vidimu-tools)|
-|**2023-03-27**|**UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View**|Shengchao Zhou et.al.|[2303.15083v1](http://arxiv.org/abs/2303.15083v1)|[link](https://github.com/megvii-research/cvpr2023-unidistill)|
-|**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060v1](http://arxiv.org/abs/2303.15060v1)|null|
-|**2023-03-27**|**Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior**|Yuekun Dai et.al.|[2303.15046v1](http://arxiv.org/abs/2303.15046v1)|[link](https://github.com/ykdai/BracketFlare)|
-|**2023-03-27**|**Joint Video Multi-Frame Interpolation and Deblurring under Unknown Exposure Time**|Wei Shang et.al.|[2303.15043v1](http://arxiv.org/abs/2303.15043v1)|[link](https://github.com/shangwei5/vidue)|

@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-29**|**HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching**|Yiheng Li et.al.|[2303.16526v1](http://arxiv.org/abs/2303.16526v1)|[link](https://github.com/liyih/hybridpoint)|
+|**2023-03-29**|**Quantifying VIO Uncertainty**|Stephanie Tsuei et.al.|[2303.16386v1](http://arxiv.org/abs/2303.16386v1)|null|
 |**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v1](http://arxiv.org/abs/2303.13962v1)|null|
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157v1](http://arxiv.org/abs/2303.12157v1)|null|
 |**2023-03-21**|**Monocular Visual-Inertial Depth Estimation**|Diana Wofk et.al.|[2303.12134v1](http://arxiv.org/abs/2303.12134v1)|[link](https://github.com/isl-org/vi-depth)|
@@ -30,5 +32,3 @@
 |**2023-03-02**|**Robust, High-Precision GNSS Carrier-Phase Positioning with Visual-Inertial Fusion**|Erqun Dong et.al.|[2303.01291v1](http://arxiv.org/abs/2303.01291v1)|null|
 |**2023-03-01**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v3](http://arxiv.org/abs/2303.00304v3)|null|
 |**2023-02-28**|**IMU-based online multi-lidar calibration without lidar odometry**|Sandipan Das et.al.|[2302.14735v1](http://arxiv.org/abs/2302.14735v1)|null|
-|**2023-02-28**|**LIO-PPF: Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking**|Xingyu Chen et.al.|[2302.14674v2](http://arxiv.org/abs/2302.14674v2)|[link](https://github.com/xingyuuchen/lio-ppf)|
-|**2023-02-28**|**Efficient Implicit Neural Reconstruction Using LiDAR**|Dongyu Yan et.al.|[2302.14363v1](http://arxiv.org/abs/2302.14363v1)|null|
