@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|[link](https://github.com/digiamm/ba_md_slam)|
 |**2023-03-29**|**Multi-View Keypoints for Reliable 6D Object Pose Estimation**|Alan Li et.al.|[2303.16833v1](http://arxiv.org/abs/2303.16833v1)|null|
-|**2023-03-29**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v1](http://arxiv.org/abs/2303.16818v1)|null|
+|**2023-03-29**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v2](http://arxiv.org/abs/2303.16818v2)|null|
 |**2023-03-29**|**VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking**|Limin Wang et.al.|[2303.16727v1](http://arxiv.org/abs/2303.16727v1)|null|
 |**2023-03-29**|**DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking**|Qing Lian et.al.|[2303.16628v1](http://arxiv.org/abs/2303.16628v1)|[link](https://github.com/smartbot-pjlab/dort)|
 |**2023-03-29**|**Development of a deep learning-based tool to assist wound classification**|Po-Hsuan Huang et.al.|[2303.16522v1](http://arxiv.org/abs/2303.16522v1)|null|
