@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603v1](http://arxiv.org/abs/2303.17603v1)|[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)|
 |**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
-|**2023-03-30**|**Event-based Agile Object Catching with a Quadrupedal Robot**|Benedek Forrai et.al.|[2303.17479v1](http://arxiv.org/abs/2303.17479v1)|null|
+|**2023-03-30**|**Event-based Agile Object Catching with a Quadrupedal Robot**|Benedek Forrai et.al.|[2303.17479v1](http://arxiv.org/abs/2303.17479v1)|[link](https://github.com/uzh-rpg/event-based_object_catching_anymal)|
 |**2023-03-30**|**X-ray imaging with Micromegas detectors with optical readout**|A. Cools et.al.|[2303.17444v1](http://arxiv.org/abs/2303.17444v1)|null|
 |**2023-03-30**|**A huge-amplitude white-light superflare on a L0 brown dwarf discovered by GWAC survey**|Li-Ping Xin et.al.|[2303.17415v1](http://arxiv.org/abs/2303.17415v1)|null|
 |**2023-03-30**|**Understanding the Origin of Global Warming -- How to construct the link between CO$_2$ emissions and the average temperature of the Earth?**|Valentin Maron et.al.|[2303.17398v1](http://arxiv.org/abs/2303.17398v1)|null|
