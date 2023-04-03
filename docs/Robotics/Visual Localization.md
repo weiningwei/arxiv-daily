@@ -12,7 +12,7 @@
 |**2023-03-30**|**FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation**|Jie Qin et.al.|[2303.17225v1](http://arxiv.org/abs/2303.17225v1)|null|
 |**2023-03-30**|**Implicit View-Time Interpolation of Stereo Videos using Multi-Plane Disparities and Non-Uniform Coordinates**|Avinash Paliwal et.al.|[2303.17181v1](http://arxiv.org/abs/2303.17181v1)|null|
 |**2023-03-30**|**Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under ManhattanWorld AssumptionWithout Ambiguity**|Nobuhiko Wakai et.al.|[2303.17166v1](http://arxiv.org/abs/2303.17166v1)|null|
-|**2023-03-30**|**Online Camera-to-ground Calibration for Autonomous Driving**|Binbin Li et.al.|[2303.17137v1](http://arxiv.org/abs/2303.17137v1)|null|
+|**2023-03-30**|**Online Camera-to-ground Calibration for Autonomous Driving**|Binbin Li et.al.|[2303.17137v2](http://arxiv.org/abs/2303.17137v2)|null|
 |**2023-03-30**|**BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation**|Hongxiang Cai et.al.|[2303.17099v1](http://arxiv.org/abs/2303.17099v1)|null|
 |**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain et.al.|[2303.17094v1](http://arxiv.org/abs/2303.17094v1)|null|
 |**2023-03-29**|**The secret of immersion: actor driven camera movement generation for auto-cinematography**|Xinyi Wu et.al.|[2303.17041v1](http://arxiv.org/abs/2303.17041v1)|null|
