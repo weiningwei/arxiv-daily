@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**GVP: Generative Volumetric Primitives**|Mallikarjun B R et.al.|[2303.18193v1](http://arxiv.org/abs/2303.18193v1)|null|
+|**2023-03-31**|**Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction**|Delin Qu et.al.|[2303.18125v1](http://arxiv.org/abs/2303.18125v1)|null|
+|**2023-03-31**|**Markerless 3D human pose tracking through multiple cameras and AI: Enabling high accuracy, robustness, and real-time performance**|Luca Fortini et.al.|[2303.18119v1](http://arxiv.org/abs/2303.18119v1)|null|
+|**2023-03-31**|**GelSight EndoFlex: A Soft Endoskeleton Hand with Continuous High-Resolution Tactile Sensing**|Sandra Q. Liu et.al.|[2303.17935v1](http://arxiv.org/abs/2303.17935v1)|null|
+|**2023-03-31**|**EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection**|Haotian et.al.|[2303.17895v1](http://arxiv.org/abs/2303.17895v1)|null|
+|**2023-03-31**|**SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer**|Yuang Ai et.al.|[2303.17783v1](http://arxiv.org/abs/2303.17783v1)|null|
+|**2023-03-31**|**Joint Depth Estimation and Mixture of Rain Removal From a Single Image**|Yongzhen Wang et.al.|[2303.17766v1](http://arxiv.org/abs/2303.17766v1)|[link](https://github.com/yz-wang/demore-net)|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603v1](http://arxiv.org/abs/2303.17603v1)|[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)|
 |**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
 |**2023-03-30**|**Event-based Agile Object Catching with a Quadrupedal Robot**|Benedek Forrai et.al.|[2303.17479v1](http://arxiv.org/abs/2303.17479v1)|[link](https://github.com/uzh-rpg/event-based_object_catching_anymal)|
@@ -25,10 +32,3 @@
 |**2023-03-29**|**Visibility Aware Human-Object Interaction Tracking from Single RGB Camera**|Xianghui Xie et.al.|[2303.16479v1](http://arxiv.org/abs/2303.16479v1)|null|
 |**2023-03-29**|**Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**|Wenhao Chai et.al.|[2303.16456v1](http://arxiv.org/abs/2303.16456v1)|null|
 |**2023-03-29**|**Multi-View Azimuth Stereo via Tangent Space Consistency**|Xu Cao et.al.|[2303.16447v1](http://arxiv.org/abs/2303.16447v1)|[link](https://github.com/xucao-42/mvas)|
-|**2023-03-28**|**Large-scale Training Data Search for Object Re-identification**|Yue Yao et.al.|[2303.16186v1](http://arxiv.org/abs/2303.16186v1)|null|
-|**2023-03-28**|**Efficient solutions to the relative pose of three calibrated cameras from four points using virtual correspondences**|Charalambos Tzamos et.al.|[2303.16078v1](http://arxiv.org/abs/2303.16078v1)|null|
-|**2023-03-28**|**Egocentric Auditory Attention Localization in Conversations**|Fiona Ryan et.al.|[2303.16024v1](http://arxiv.org/abs/2303.16024v1)|null|
-|**2023-03-28**|**F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
-|**2023-03-28**|**Deep Selection: A Fully Supervised Camera Selection Network for Surgery Recordings**|Ryo Hachiuma et.al.|[2303.15947v1](http://arxiv.org/abs/2303.15947v1)|null|
-|**2023-03-28**|**VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs**|Anna Frühstück et.al.|[2303.15893v1](http://arxiv.org/abs/2303.15893v1)|null|
-|**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|[link](https://github.com/guillaumerochette/humanviewsynthesis)|

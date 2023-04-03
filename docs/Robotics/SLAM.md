@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**Knowledge Distillation for Feature Extraction in Underwater VSLAM**|Jinghe Yang et.al.|[2303.17981v1](http://arxiv.org/abs/2303.17981v1)|[link](https://github.com/jinghe-mel/ufen-slam)|
 |**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|[link](https://github.com/digiamm/ba_md_slam)|
 |**2023-03-29**|**Toroidal cavitation by a snapping popper**|Akihito Kiyama et.al.|[2303.16702v2](http://arxiv.org/abs/2303.16702v2)|null|
 |**2023-03-29**|**AirLine: Efficient Learnable Line Detection with Local Edge Voting**|Xiao Lin et.al.|[2303.16500v1](http://arxiv.org/abs/2303.16500v1)|[link](https://github.com/sair-lab/airline)|
@@ -31,4 +32,3 @@
 |**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|[link](https://github.com/tiers/multi-modal-loam)|
 |**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
 |**2023-03-04**|**Real-time SLAM Pipeline in Dynamics Environment**|Alex Fu et.al.|[2303.02272v1](http://arxiv.org/abs/2303.02272v1)|null|
-|**2023-03-03**|**A Visual SLAM with Moving Object Trajectory Prediction**|Qi Zhang et.al.|[2303.02257v1](http://arxiv.org/abs/2303.02257v1)|null|
