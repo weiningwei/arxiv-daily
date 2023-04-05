@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04**|**SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry**|Bharat Joshi et.al.|[2304.01988v1](http://arxiv.org/abs/2304.01988v1)|null|
+|**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
+|**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
+|**2023-04-03**|**Statistical models for the dynamics of heavy particles in turbulence**|J. Bec et.al.|[2304.01312v1](http://arxiv.org/abs/2304.01312v1)|null|
 |**2023-04-03**|**A Systematic Approach for Calibrating the Inertial Sensor of Taiji-1**|Haoyue Zhang et.al.|[2304.00675v2](http://arxiv.org/abs/2304.00675v2)|null|
 |**2023-03-31**|**Dielectric Barrier Discharge Actuators: Experimental and Numerical Study of Momentum Injection into Co-flow and Counter-flow Freestream**|Anthony Tang et.al.|[2304.00079v1](http://arxiv.org/abs/2304.00079v1)|null|
 |**2023-03-31**|**CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions**|Ming Yan et.al.|[2303.17948v1](http://arxiv.org/abs/2303.17948v1)|null|
@@ -28,7 +32,3 @@
 |**2023-03-23**|**Inertial geometric quantum logic gates**|Daniel Turyansky et.al.|[2303.13674v1](http://arxiv.org/abs/2303.13674v1)|null|
 |**2023-03-23**|**Quantum rotation sensor with real-time readout based on an atom-cavity system**|Jim Skulte et.al.|[2303.13468v1](http://arxiv.org/abs/2303.13468v1)|null|
 |**2023-03-23**|**Ising chain: Thermal conductivity and first-principle validation of Fourier law**|Henrique Santos Lima et.al.|[2303.13432v1](http://arxiv.org/abs/2303.13432v1)|null|
-|**2023-03-23**|**RGB-D-Inertial SLAM in Indoor Dynamic Environments with Long-term Large Occlusion**|Ran Long et.al.|[2303.13316v1](http://arxiv.org/abs/2303.13316v1)|null|
-|**2023-03-23**|**Photonic entanglement during a zero-g flight**|Julius Bittermann et.al.|[2303.13183v1](http://arxiv.org/abs/2303.13183v1)|null|
-|**2023-03-23**|**Design of a Low-Cost Prototype Underwater Vehicle**|Ahsan Tanveer et.al.|[2303.13063v1](http://arxiv.org/abs/2303.13063v1)|null|
-|**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157v1](http://arxiv.org/abs/2303.12157v1)|null|
