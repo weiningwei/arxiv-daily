@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
+|**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu et.al.|[2304.02569v1](http://arxiv.org/abs/2304.02569v1)|null|
+|**2023-04-05**|**Scalable quantum photonic devices emitting indistinguishable photons in the telecom C-band**|Paweł Holewa et.al.|[2304.02515v1](http://arxiv.org/abs/2304.02515v1)|null|
+|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|[link](https://github.com/joerowelll/comp0132_rjxz25)|
+|**2023-04-05**|**Deep Quantigraphic Image Enhancement via Comparametric Equations**|Xiaomeng Wu et.al.|[2304.02285v1](http://arxiv.org/abs/2304.02285v1)|[link](https://github.com/nttcslab/cone)|
+|**2023-04-05**|**MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding**|Bowen Liu et.al.|[2304.02273v1](http://arxiv.org/abs/2304.02273v1)|null|
+|**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264v1](http://arxiv.org/abs/2304.02264v1)|null|
+|**2023-04-04**|**GINA-3D: Learning to Generate Implicit Neural Assets in the Wild**|Bokui Shen et.al.|[2304.02163v1](http://arxiv.org/abs/2304.02163v1)|null|
+|**2023-04-04**|**Learning to Recover Spectral Reflectance from RGB Images**|Dong Huo et.al.|[2304.02162v1](http://arxiv.org/abs/2304.02162v1)|[link](https://github.com/dong-huo/srr-maxl)|
+|**2023-04-04**|**MadEye: Boosting Live Video Analytics Accuracy with Adaptive Camera Configurations**|Mike Wong et.al.|[2304.02101v1](http://arxiv.org/abs/2304.02101v1)|null|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
 |**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
 |**2023-04-04**|**Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification**|Youngwook Kim et.al.|[2304.01804v1](http://arxiv.org/abs/2304.01804v1)|[link](https://github.com/youngwk/bridgegapexplanationpamc)|
@@ -22,13 +32,3 @@
 |**2023-04-03**|**RePAST: Relative Pose Attention Scene Representation Transformer**|Aleksandr Safin et.al.|[2304.00947v1](http://arxiv.org/abs/2304.00947v1)|null|
 |**2023-04-03**|**Online Lane Graph Extraction from Onboard Video**|Yigit Baran Can et.al.|[2304.00930v1](http://arxiv.org/abs/2304.00930v1)|null|
 |**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|[link](https://github.com/scandeval/scandeval.github.io)|
-|**2023-04-03**|**Asservissement visuel 3D direct dans le domaine spectral**|Maxime Adjigble et.al.|[2304.00892v1](http://arxiv.org/abs/2304.00892v1)|null|
-|**2023-04-03**|**Thermal Spread Functions (TSF): Physics-guided Material Classification**|Aniket Dashpute et.al.|[2304.00696v1](http://arxiv.org/abs/2304.00696v1)|[link](https://github.com/aniketdashpute/tsf)|
-|**2023-04-03**|**CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception**|Youngseok Kim et.al.|[2304.00670v1](http://arxiv.org/abs/2304.00670v1)|null|
-|**2023-04-01**|**Multi-view reconstruction of bullet time effect based on improved NSFF model**|Linquan Yu et.al.|[2304.00330v1](http://arxiv.org/abs/2304.00330v1)|null|
-|**2023-04-01**|**TIRCAM2 Camera Interface on the Side port of the 3.6 meter Devasthal Optical Telescope**|Shailesh B. Bhagat et.al.|[2304.00243v1](http://arxiv.org/abs/2304.00243v1)|null|
-|**2023-03-31**|**Robotic Perception of Transparent Objects: A Review**|Jiaqi Jiang et.al.|[2304.00157v1](http://arxiv.org/abs/2304.00157v1)|null|
-|**2023-03-31**|**LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**|Noah Stier et.al.|[2304.00054v1](http://arxiv.org/abs/2304.00054v1)|null|
-|**2023-03-31**|**GVP: Generative Volumetric Primitives**|Mallikarjun B R et.al.|[2303.18193v1](http://arxiv.org/abs/2303.18193v1)|null|
-|**2023-03-31**|**Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction**|Delin Qu et.al.|[2303.18125v2](http://arxiv.org/abs/2303.18125v2)|null|
-|**2023-03-31**|**Markerless 3D human pose tracking through multiple cameras and AI: Enabling high accuracy, robustness, and real-time performance**|Luca Fortini et.al.|[2303.18119v1](http://arxiv.org/abs/2303.18119v1)|null|
