@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2023-04-07 09:43:07 Asia/Shanghai
+ Automated deployment @ 2023-04-07 20:11:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-06**|**$\text{DC}^2$: Dual-Camera Defocus Control by Learning to Refocus**|Hadi Alzayer et.al.|[2304.03285v1](http://arxiv.org/abs/2304.03285v1)|null|
+|**2023-04-06**|**Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream**|Yuheng Jiang et.al.|[2304.03184v1](http://arxiv.org/abs/2304.03184v1)|null|
+|**2023-04-06**|**Patch-wise Features for Blur Image Classification**|Sri Charan Kattamuru et.al.|[2304.03156v1](http://arxiv.org/abs/2304.03156v1)|null|
+|**2023-04-06**|**Spike Stream Denoising via Spike Camera Simulation**|Liwen hu et.al.|[2304.03129v1](http://arxiv.org/abs/2304.03129v1)|null|
+|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v1](http://arxiv.org/abs/2304.03105v1)|[link](https://github.com/opendrivelab/bevperception-survey-recipe)|
+|**2023-04-06**|**Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards**|Anna Maria Mandalari et.al.|[2304.03045v1](http://arxiv.org/abs/2304.03045v1)|null|
+|**2023-04-06**|**Visualizing Skiers' Trajectories in Monocular Videos**|Matteo Dunnhofer et.al.|[2304.02994v1](http://arxiv.org/abs/2304.02994v1)|null|
+|**2023-04-06**|**Natural Language Robot Programming: NLP integrated with autonomous robotic grasping**|Muhammad Arshad Khan et.al.|[2304.02993v1](http://arxiv.org/abs/2304.02993v1)|null|
+|**2023-04-06**|**Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation**|Adriano Cardace et.al.|[2304.02991v1](http://arxiv.org/abs/2304.02991v1)|[link](https://github.com/cvlab-unibo/mm2d3d)|
+|**2023-04-06**|**Technology-Circuit-Algorithm Tri-Design for Processing-in-Pixel-in-Memory (P2M)**|Md Abdullah-Al Kaiser et.al.|[2304.02968v1](http://arxiv.org/abs/2304.02968v1)|null|
+|**2023-04-06**|**Imaging Temperature and Thickness of Thin Planar Liquid Water Jets in Vacuum**|Tillmann Buttersack et.al.|[2304.02967v1](http://arxiv.org/abs/2304.02967v1)|null|
+|**2023-04-06**|**4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**|Wei Chen et.al.|[2304.02814v1](http://arxiv.org/abs/2304.02814v1)|null|
+|**2023-04-05**|**Characterizing cylindrical particles upon local measurements of two Stokes parameters**|Jon Lasa-Alonso et.al.|[2304.02762v1](http://arxiv.org/abs/2304.02762v1)|null|
+|**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
+|**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
+|**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu et.al.|[2304.02569v1](http://arxiv.org/abs/2304.02569v1)|null|
+|**2023-04-05**|**Scalable quantum photonic devices emitting indistinguishable photons in the telecom C-band**|Paweł Holewa et.al.|[2304.02515v1](http://arxiv.org/abs/2304.02515v1)|null|
+|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|[link](https://github.com/joerowelll/comp0132_rjxz25)|
+|**2023-04-05**|**Deep Quantigraphic Image Enhancement via Comparametric Equations**|Xiaomeng Wu et.al.|[2304.02285v1](http://arxiv.org/abs/2304.02285v1)|[link](https://github.com/nttcslab/cone)|
+|**2023-04-05**|**MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding**|Bowen Liu et.al.|[2304.02273v1](http://arxiv.org/abs/2304.02273v1)|null|
+|**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264v1](http://arxiv.org/abs/2304.02264v1)|null|
+|**2023-04-04**|**GINA-3D: Learning to Generate Implicit Neural Assets in the Wild**|Bokui Shen et.al.|[2304.02163v1](http://arxiv.org/abs/2304.02163v1)|null|
+|**2023-04-04**|**Learning to Recover Spectral Reflectance from RGB Images**|Dong Huo et.al.|[2304.02162v1](http://arxiv.org/abs/2304.02162v1)|[link](https://github.com/dong-huo/srr-maxl)|
+|**2023-04-04**|**MadEye: Boosting Live Video Analytics Accuracy with Adaptive Camera Configurations**|Mike Wong et.al.|[2304.02101v1](http://arxiv.org/abs/2304.02101v1)|null|
+|**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
+|**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
+|**2023-04-04**|**Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification**|Youngwook Kim et.al.|[2304.01804v1](http://arxiv.org/abs/2304.01804v1)|[link](https://github.com/youngwk/bridgegapexplanationpamc)|
+|**2023-04-04**|**Decoupling Dynamic Monocular Videos for Dynamic View Synthesis**|Meng You et.al.|[2304.01716v1](http://arxiv.org/abs/2304.01716v1)|null|
+|**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
+|**2023-04-04**|**Real-time Driver Monitoring Systems on Edge AI Device**|Jyothi Hariharan et.al.|[2304.01555v1](http://arxiv.org/abs/2304.01555v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -42,6 +76,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-06**|**Deep learning-based image exposure enhancement as a pre-processing for an accurate 3D colon surface reconstruction**|Ricardo Espinosa et.al.|[2304.03171v1](http://arxiv.org/abs/2304.03171v1)|null|
 |**2023-04-04**|**A Fully-automatic Side-scan Sonar SLAM Framework**|Jun Zhang et.al.|[2304.01854v1](http://arxiv.org/abs/2304.01854v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
 |**2023-04-03**|**Eigen-Factors an Alternating Optimization for Back-end Plane SLAM of 3D Point Clouds**|Gonzalo Ferrer et.al.|[2304.01055v1](http://arxiv.org/abs/2304.01055v1)|[link](https://github.com/prime-slam/ef-plane-slam)|
@@ -71,45 +106,12 @@
 |**2023-03-09**|**EVOLIN Benchmark: Evaluation of Line Detection and Association**|Kirill Ivanov et.al.|[2303.05162v1](http://arxiv.org/abs/2303.05162v1)|[link](https://github.com/prime-slam/evolin)|
 |**2023-03-08**|**kollagen: A Collaborative SLAM Pose Graph Generator**|Roberto C. Sundin et.al.|[2303.04753v1](http://arxiv.org/abs/2303.04753v1)|[link](https://github.com/ericssonresearch/kollagen)|
 |**2023-03-08**|**A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**|Daniele Evangelista et.al.|[2303.04747v1](http://arxiv.org/abs/2303.04747v1)|null|
-|**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|[link](https://github.com/eliabntt/GRADE-RR)|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
-|**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu et.al.|[2304.02569v1](http://arxiv.org/abs/2304.02569v1)|null|
-|**2023-04-05**|**Scalable quantum photonic devices emitting indistinguishable photons in the telecom C-band**|Paweł Holewa et.al.|[2304.02515v1](http://arxiv.org/abs/2304.02515v1)|null|
-|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|[link](https://github.com/joerowelll/comp0132_rjxz25)|
-|**2023-04-05**|**Deep Quantigraphic Image Enhancement via Comparametric Equations**|Xiaomeng Wu et.al.|[2304.02285v1](http://arxiv.org/abs/2304.02285v1)|[link](https://github.com/nttcslab/cone)|
-|**2023-04-05**|**MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding**|Bowen Liu et.al.|[2304.02273v1](http://arxiv.org/abs/2304.02273v1)|null|
-|**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264v1](http://arxiv.org/abs/2304.02264v1)|null|
-|**2023-04-04**|**GINA-3D: Learning to Generate Implicit Neural Assets in the Wild**|Bokui Shen et.al.|[2304.02163v1](http://arxiv.org/abs/2304.02163v1)|null|
-|**2023-04-04**|**Learning to Recover Spectral Reflectance from RGB Images**|Dong Huo et.al.|[2304.02162v1](http://arxiv.org/abs/2304.02162v1)|[link](https://github.com/dong-huo/srr-maxl)|
-|**2023-04-04**|**MadEye: Boosting Live Video Analytics Accuracy with Adaptive Camera Configurations**|Mike Wong et.al.|[2304.02101v1](http://arxiv.org/abs/2304.02101v1)|null|
-|**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
-|**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
-|**2023-04-04**|**Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification**|Youngwook Kim et.al.|[2304.01804v1](http://arxiv.org/abs/2304.01804v1)|[link](https://github.com/youngwk/bridgegapexplanationpamc)|
-|**2023-04-04**|**Decoupling Dynamic Monocular Videos for Dynamic View Synthesis**|Meng You et.al.|[2304.01716v1](http://arxiv.org/abs/2304.01716v1)|null|
-|**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
-|**2023-04-04**|**Real-time Driver Monitoring Systems on Edge AI Device**|Jyothi Hariharan et.al.|[2304.01555v1](http://arxiv.org/abs/2304.01555v1)|null|
-|**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|null|
-|**2023-04-03**|**Role of Transients in Two-Bounce Non-Line-of-Sight Imaging**|Siddharth Somasundaram et.al.|[2304.01308v1](http://arxiv.org/abs/2304.01308v1)|null|
-|**2023-04-03**|**Neural Volumetric Memory for Visual Locomotion Control**|Ruihan Yang et.al.|[2304.01201v1](http://arxiv.org/abs/2304.01201v1)|null|
-|**2023-04-03**|**Bringing Telepresence to Every Desk**|Shengze Wang et.al.|[2304.01197v1](http://arxiv.org/abs/2304.01197v1)|null|
-|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|[link](https://github.com/akshaydudhane16/burstormer)|
-|**2023-04-03**|**Generative Multiplane Neural Radiance for 3D-Aware Image Generation**|Amandeep Kumar et.al.|[2304.01172v1](http://arxiv.org/abs/2304.01172v1)|[link](https://github.com/virobo-15/gmnr)|
-|**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159v1](http://arxiv.org/abs/2304.01159v1)|null|
-|**2023-04-03**|**Characterization of MKIDs for CMB observation at 220 GHz with the South Pole Telescope**|Karia R. Dibert et.al.|[2304.01158v1](http://arxiv.org/abs/2304.01158v1)|null|
-|**2023-04-03**|**VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection**|Zhuoling Li et.al.|[2304.01054v1](http://arxiv.org/abs/2304.01054v1)|[link](https://github.com/lizhuoling/voxelformer-public)|
-|**2023-04-03**|**Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction**|Zhuofan Zong et.al.|[2304.00967v1](http://arxiv.org/abs/2304.00967v1)|null|
-|**2023-04-03**|**Semi-Automated Computer Vision based Tracking of Multiple Industrial Entities -- A Framework and Dataset Creation Approach**|Jérôme Rutinowski et.al.|[2304.00950v1](http://arxiv.org/abs/2304.00950v1)|null|
-|**2023-04-03**|**RePAST: Relative Pose Attention Scene Representation Transformer**|Aleksandr Safin et.al.|[2304.00947v1](http://arxiv.org/abs/2304.00947v1)|null|
-|**2023-04-03**|**Online Lane Graph Extraction from Onboard Video**|Yigit Baran Can et.al.|[2304.00930v1](http://arxiv.org/abs/2304.00930v1)|null|
-|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|[link](https://github.com/scandeval/scandeval.github.io)|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-06**|**On separable states in relativistic quantum field theory**|Ko Sanders et.al.|[2304.03120v1](http://arxiv.org/abs/2304.03120v1)|null|
+|**2023-04-06**|**Colength one deformation rings**|Daniel Le et.al.|[2304.03061v1](http://arxiv.org/abs/2304.03061v1)|null|
 |**2023-04-04**|**SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry**|Bharat Joshi et.al.|[2304.01988v1](http://arxiv.org/abs/2304.01988v1)|null|
 |**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
@@ -138,5 +140,3 @@
 |**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v2](http://arxiv.org/abs/2303.13962v2)|null|
 |**2023-03-24**|**Suspension of large inertial particles in a turbulent swirling flow**|Benjamin Laplace et.al.|[2303.13829v1](http://arxiv.org/abs/2303.13829v1)|null|
 |**2023-03-23**|**Inertial geometric quantum logic gates**|Daniel Turyansky et.al.|[2303.13674v1](http://arxiv.org/abs/2303.13674v1)|null|
-|**2023-03-23**|**Quantum rotation sensor with real-time readout based on an atom-cavity system**|Jim Skulte et.al.|[2303.13468v1](http://arxiv.org/abs/2303.13468v1)|null|
-|**2023-03-23**|**Ising chain: Thermal conductivity and first-principle validation of Fourier law**|Henrique Santos Lima et.al.|[2303.13432v1](http://arxiv.org/abs/2303.13432v1)|null|

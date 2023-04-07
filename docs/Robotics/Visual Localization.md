@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-06**|**$\text{DC}^2$: Dual-Camera Defocus Control by Learning to Refocus**|Hadi Alzayer et.al.|[2304.03285v1](http://arxiv.org/abs/2304.03285v1)|null|
+|**2023-04-06**|**Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream**|Yuheng Jiang et.al.|[2304.03184v1](http://arxiv.org/abs/2304.03184v1)|null|
+|**2023-04-06**|**Patch-wise Features for Blur Image Classification**|Sri Charan Kattamuru et.al.|[2304.03156v1](http://arxiv.org/abs/2304.03156v1)|null|
+|**2023-04-06**|**Spike Stream Denoising via Spike Camera Simulation**|Liwen hu et.al.|[2304.03129v1](http://arxiv.org/abs/2304.03129v1)|null|
+|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v1](http://arxiv.org/abs/2304.03105v1)|[link](https://github.com/opendrivelab/bevperception-survey-recipe)|
+|**2023-04-06**|**Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards**|Anna Maria Mandalari et.al.|[2304.03045v1](http://arxiv.org/abs/2304.03045v1)|null|
+|**2023-04-06**|**Visualizing Skiers' Trajectories in Monocular Videos**|Matteo Dunnhofer et.al.|[2304.02994v1](http://arxiv.org/abs/2304.02994v1)|null|
+|**2023-04-06**|**Natural Language Robot Programming: NLP integrated with autonomous robotic grasping**|Muhammad Arshad Khan et.al.|[2304.02993v1](http://arxiv.org/abs/2304.02993v1)|null|
+|**2023-04-06**|**Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation**|Adriano Cardace et.al.|[2304.02991v1](http://arxiv.org/abs/2304.02991v1)|[link](https://github.com/cvlab-unibo/mm2d3d)|
+|**2023-04-06**|**Technology-Circuit-Algorithm Tri-Design for Processing-in-Pixel-in-Memory (P2M)**|Md Abdullah-Al Kaiser et.al.|[2304.02968v1](http://arxiv.org/abs/2304.02968v1)|null|
+|**2023-04-06**|**Imaging Temperature and Thickness of Thin Planar Liquid Water Jets in Vacuum**|Tillmann Buttersack et.al.|[2304.02967v1](http://arxiv.org/abs/2304.02967v1)|null|
+|**2023-04-06**|**4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**|Wei Chen et.al.|[2304.02814v1](http://arxiv.org/abs/2304.02814v1)|null|
+|**2023-04-05**|**Characterizing cylindrical particles upon local measurements of two Stokes parameters**|Jon Lasa-Alonso et.al.|[2304.02762v1](http://arxiv.org/abs/2304.02762v1)|null|
+|**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
 |**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
 |**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu et.al.|[2304.02569v1](http://arxiv.org/abs/2304.02569v1)|null|
 |**2023-04-05**|**Scalable quantum photonic devices emitting indistinguishable photons in the telecom C-band**|Paweł Holewa et.al.|[2304.02515v1](http://arxiv.org/abs/2304.02515v1)|null|
@@ -18,17 +32,3 @@
 |**2023-04-04**|**Decoupling Dynamic Monocular Videos for Dynamic View Synthesis**|Meng You et.al.|[2304.01716v1](http://arxiv.org/abs/2304.01716v1)|null|
 |**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
 |**2023-04-04**|**Real-time Driver Monitoring Systems on Edge AI Device**|Jyothi Hariharan et.al.|[2304.01555v1](http://arxiv.org/abs/2304.01555v1)|null|
-|**2023-04-04**|**FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems**|Rui Song et.al.|[2304.01534v1](http://arxiv.org/abs/2304.01534v1)|null|
-|**2023-04-03**|**Role of Transients in Two-Bounce Non-Line-of-Sight Imaging**|Siddharth Somasundaram et.al.|[2304.01308v1](http://arxiv.org/abs/2304.01308v1)|null|
-|**2023-04-03**|**Neural Volumetric Memory for Visual Locomotion Control**|Ruihan Yang et.al.|[2304.01201v1](http://arxiv.org/abs/2304.01201v1)|null|
-|**2023-04-03**|**Bringing Telepresence to Every Desk**|Shengze Wang et.al.|[2304.01197v1](http://arxiv.org/abs/2304.01197v1)|null|
-|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|[link](https://github.com/akshaydudhane16/burstormer)|
-|**2023-04-03**|**Generative Multiplane Neural Radiance for 3D-Aware Image Generation**|Amandeep Kumar et.al.|[2304.01172v1](http://arxiv.org/abs/2304.01172v1)|[link](https://github.com/virobo-15/gmnr)|
-|**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159v1](http://arxiv.org/abs/2304.01159v1)|null|
-|**2023-04-03**|**Characterization of MKIDs for CMB observation at 220 GHz with the South Pole Telescope**|Karia R. Dibert et.al.|[2304.01158v1](http://arxiv.org/abs/2304.01158v1)|null|
-|**2023-04-03**|**VoxelFormer: Bird's-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection**|Zhuoling Li et.al.|[2304.01054v1](http://arxiv.org/abs/2304.01054v1)|[link](https://github.com/lizhuoling/voxelformer-public)|
-|**2023-04-03**|**Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction**|Zhuofan Zong et.al.|[2304.00967v1](http://arxiv.org/abs/2304.00967v1)|null|
-|**2023-04-03**|**Semi-Automated Computer Vision based Tracking of Multiple Industrial Entities -- A Framework and Dataset Creation Approach**|Jérôme Rutinowski et.al.|[2304.00950v1](http://arxiv.org/abs/2304.00950v1)|null|
-|**2023-04-03**|**RePAST: Relative Pose Attention Scene Representation Transformer**|Aleksandr Safin et.al.|[2304.00947v1](http://arxiv.org/abs/2304.00947v1)|null|
-|**2023-04-03**|**Online Lane Graph Extraction from Onboard Video**|Yigit Baran Can et.al.|[2304.00930v1](http://arxiv.org/abs/2304.00930v1)|null|
-|**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|[link](https://github.com/scandeval/scandeval.github.io)|
