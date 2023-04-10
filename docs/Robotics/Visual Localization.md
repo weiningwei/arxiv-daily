@@ -6,7 +6,7 @@
 |**2023-04-06**|**Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream**|Yuheng Jiang et.al.|[2304.03184v1](http://arxiv.org/abs/2304.03184v1)|null|
 |**2023-04-06**|**Patch-wise Features for Blur Image Classification**|Sri Charan Kattamuru et.al.|[2304.03156v1](http://arxiv.org/abs/2304.03156v1)|null|
 |**2023-04-06**|**Spike Stream Denoising via Spike Camera Simulation**|Liwen hu et.al.|[2304.03129v1](http://arxiv.org/abs/2304.03129v1)|null|
-|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v1](http://arxiv.org/abs/2304.03105v1)|[link](https://github.com/opendrivelab/bevperception-survey-recipe)|
+|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v2](http://arxiv.org/abs/2304.03105v2)|[link](https://github.com/opendrivelab/bevperception-survey-recipe)|
 |**2023-04-06**|**Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards**|Anna Maria Mandalari et.al.|[2304.03045v1](http://arxiv.org/abs/2304.03045v1)|null|
 |**2023-04-06**|**Visualizing Skiers' Trajectories in Monocular Videos**|Matteo Dunnhofer et.al.|[2304.02994v1](http://arxiv.org/abs/2304.02994v1)|null|
 |**2023-04-06**|**Natural Language Robot Programming: NLP integrated with autonomous robotic grasping**|Muhammad Arshad Khan et.al.|[2304.02993v1](http://arxiv.org/abs/2304.02993v1)|null|
