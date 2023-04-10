@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-07**|**A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for inferring Bird's-Eye-View Semantic Segmentation**|Naiyu Fang et.al.|[2304.03650v1](http://arxiv.org/abs/2304.03650v1)|null|
+|**2023-04-07**|**Temperature Detection from Images Using Smartphones**|Kamrul H Foysal et.al.|[2304.03637v1](http://arxiv.org/abs/2304.03637v1)|null|
+|**2023-04-07**|**Look how they have grown: Non-destructive Leaf Detection and Size Estimation of Tomato Plants for 3D Growth Monitoring**|Yuning Xing et.al.|[2304.03610v1](http://arxiv.org/abs/2304.03610v1)|null|
+|**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
+|**2023-04-07**|**Multispectral Imaging for Differential Face Morphing Attack Detection: A Preliminary Study**|Raghavendra Ramachandra et.al.|[2304.03510v1](http://arxiv.org/abs/2304.03510v1)|null|
+|**2023-04-06**|**EGA-Depth: Efficient Guided Attention for Self-Supervised Multi-Camera Depth Estimation**|Yunxiao Shi et.al.|[2304.03369v1](http://arxiv.org/abs/2304.03369v1)|null|
+|**2023-04-06**|**Water Production Rates from SOHO/SWAN Observations of Comets C/2020 S3 (Erasmus), C/2021 A1 (Leonard) and C/2021 O3 (PanSTARRS)**|M. R. Combi et.al.|[2304.03333v1](http://arxiv.org/abs/2304.03333v1)|null|
 |**2023-04-06**|**$\text{DC}^2$: Dual-Camera Defocus Control by Learning to Refocus**|Hadi Alzayer et.al.|[2304.03285v1](http://arxiv.org/abs/2304.03285v1)|null|
 |**2023-04-06**|**Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream**|Yuheng Jiang et.al.|[2304.03184v1](http://arxiv.org/abs/2304.03184v1)|null|
 |**2023-04-06**|**Patch-wise Features for Blur Image Classification**|Sri Charan Kattamuru et.al.|[2304.03156v1](http://arxiv.org/abs/2304.03156v1)|null|
@@ -25,10 +32,3 @@
 |**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264v1](http://arxiv.org/abs/2304.02264v1)|null|
 |**2023-04-04**|**GINA-3D: Learning to Generate Implicit Neural Assets in the Wild**|Bokui Shen et.al.|[2304.02163v1](http://arxiv.org/abs/2304.02163v1)|null|
 |**2023-04-04**|**Learning to Recover Spectral Reflectance from RGB Images**|Dong Huo et.al.|[2304.02162v1](http://arxiv.org/abs/2304.02162v1)|[link](https://github.com/dong-huo/srr-maxl)|
-|**2023-04-04**|**MadEye: Boosting Live Video Analytics Accuracy with Adaptive Camera Configurations**|Mike Wong et.al.|[2304.02101v1](http://arxiv.org/abs/2304.02101v1)|null|
-|**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009v1](http://arxiv.org/abs/2304.02009v1)|null|
-|**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
-|**2023-04-04**|**Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification**|Youngwook Kim et.al.|[2304.01804v1](http://arxiv.org/abs/2304.01804v1)|[link](https://github.com/youngwk/bridgegapexplanationpamc)|
-|**2023-04-04**|**Decoupling Dynamic Monocular Videos for Dynamic View Synthesis**|Meng You et.al.|[2304.01716v1](http://arxiv.org/abs/2304.01716v1)|null|
-|**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
-|**2023-04-04**|**Real-time Driver Monitoring Systems on Edge AI Device**|Jyothi Hariharan et.al.|[2304.01555v1](http://arxiv.org/abs/2304.01555v1)|null|

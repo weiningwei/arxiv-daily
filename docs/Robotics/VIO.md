@@ -2,8 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-07**|**Three-dimensional active turbulence in microswimmer suspensions: simulations and modelling**|Antonio Gascó et.al.|[2304.03662v1](http://arxiv.org/abs/2304.03662v1)|null|
+|**2023-04-07**|**Dynamics of a solitonic vortex in an anisotropically trapped superfluid**|J. M. Gomez Llorente et.al.|[2304.03569v1](http://arxiv.org/abs/2304.03569v1)|null|
+|**2023-04-07**|**Automated Tuning of Nonlinear Kalman Filters for Optimal Trajectory Tracking Performance of AUVs**|Maximilian Nitsch et.al.|[2304.03565v1](http://arxiv.org/abs/2304.03565v1)|null|
+|**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|[link](https://github.com/antabangun/dualrefine)|
 |**2023-04-06**|**On separable states in relativistic quantum field theory**|Ko Sanders et.al.|[2304.03120v1](http://arxiv.org/abs/2304.03120v1)|null|
 |**2023-04-06**|**Colength one deformation rings**|Daniel Le et.al.|[2304.03061v1](http://arxiv.org/abs/2304.03061v1)|null|
+|**2023-04-06**|**Automatic Detection of Reactions to Music via Earable Sensing**|Euihyoek Lee et.al.|[2304.03295v1](http://arxiv.org/abs/2304.03295v1)|null|
 |**2023-04-04**|**SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry**|Bharat Joshi et.al.|[2304.01988v1](http://arxiv.org/abs/2304.01988v1)|null|
 |**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
@@ -27,8 +32,3 @@
 |**2023-03-28**|**A framework for experimental-data-driven assessment of Magnetized Liner Inertial Fusion stagnation image metrics**|William E. Lewis et.al.|[2303.15680v1](http://arxiv.org/abs/2303.15680v1)|null|
 |**2023-03-27**|**Inertial effects in ultrafast spin dynamics**|Ritwik Mondal et.al.|[2303.15251v1](http://arxiv.org/abs/2303.15251v1)|null|
 |**2023-03-27**|**VIDIMU. Multimodal video and IMU kinematic dataset on daily life activities using affordable devices**|Mario Martínez-Zarzuela et.al.|[2303.16150v1](http://arxiv.org/abs/2303.16150v1)|[link](https://github.com/twyncoder/vidimu-tools)|
-|**2023-03-26**|**Scale invariance and critical balance in electrostatic drift-kinetic turbulence**|T. Adkins et.al.|[2303.14834v1](http://arxiv.org/abs/2303.14834v1)|null|
-|**2023-03-24**|**Dynamics of rapidly spinning blob-filaments: fluid theory with a parallel kinetic extension**|J. R. Myra et.al.|[2303.14273v1](http://arxiv.org/abs/2303.14273v1)|null|
-|**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v2](http://arxiv.org/abs/2303.13962v2)|null|
-|**2023-03-24**|**Suspension of large inertial particles in a turbulent swirling flow**|Benjamin Laplace et.al.|[2303.13829v1](http://arxiv.org/abs/2303.13829v1)|null|
-|**2023-03-23**|**Inertial geometric quantum logic gates**|Daniel Turyansky et.al.|[2303.13674v1](http://arxiv.org/abs/2303.13674v1)|null|
