@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-11**|**OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**|Yunpeng Zhang et.al.|[2304.05316v1](http://arxiv.org/abs/2304.05316v1)|[link](https://github.com/zhangyp15/occformer)|
+|**2023-04-11**|**Estimation of Vehicular Velocity based on Non-Intrusive stereo camera**|Bikram Adhikari et.al.|[2304.05298v1](http://arxiv.org/abs/2304.05298v1)|null|
+|**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang et.al.|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|[link](https://github.com/daniilidis-group/EvAC3D)|
+|**2023-04-11**|**Wearable multi-color RAPD screening device**|Arda Gulersoy et.al.|[2304.05182v1](http://arxiv.org/abs/2304.05182v1)|null|
+|**2023-04-11**|**Accelerating Globally Optimal Consensus Maximization in Geometric Vision**|Xinyue Zhang et.al.|[2304.05156v1](http://arxiv.org/abs/2304.05156v1)|null|
+|**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146v1](http://arxiv.org/abs/2304.05146v1)|null|
+|**2023-04-11**|**Real time enhancement of operator's ergonomics in physical human - robot collaboration scenarios using a multi-stereo camera system**|Gerasimos Arvanitis et.al.|[2304.05120v1](http://arxiv.org/abs/2304.05120v1)|null|
+|**2023-04-11**|**Pointless Global Bundle Adjustment With Relative Motions Hessians**|Ewelina Rupnik et.al.|[2304.05118v1](http://arxiv.org/abs/2304.05118v1)|[link](https://github.com/erupnik/pointlessgba)|
+|**2023-04-11**|**WEAR: A Multimodal Dataset for Wearable and Egocentric Video Activity Recognition**|Marius Bock et.al.|[2304.05088v1](http://arxiv.org/abs/2304.05088v1)|null|
+|**2023-04-11**|**Polarimetry of the potential binary supermassive black hole system in J1430+2303**|F. Marin et.al.|[2304.05003v1](http://arxiv.org/abs/2304.05003v1)|null|
+|**2023-04-11**|**Detecting Anomalous Microflows in IoT Volumetric Attacks via Dynamic Monitoring of MUD Activity**|Ayyoob Hamza et.al.|[2304.04987v1](http://arxiv.org/abs/2304.04987v1)|null|
+|**2023-04-11**|**Computer Vision-Aided Intelligent Monitoring of Coffee: Towards Sustainable Coffee Production**|Francisco Eron et.al.|[2304.04966v1](http://arxiv.org/abs/2304.04966v1)|null|
+|**2023-04-11**|**Point-and-Shoot All-in-Focus Photo Synthesis from Smartphone Camera Pair**|Xianrui Luo et.al.|[2304.04917v1](http://arxiv.org/abs/2304.04917v1)|null|
+|**2023-04-11**|**Bounding Box Annotation with Visible Status**|Takuya Kiyokawa et.al.|[2304.04901v1](http://arxiv.org/abs/2304.04901v1)|null|
+|**2023-04-10**|**Neural Lens Modeling**|Wenqi Xian et.al.|[2304.04848v1](http://arxiv.org/abs/2304.04848v1)|null|
 |**2023-04-10**|**Uncertainty-Aware Natural Language Inference with Stochastic Weight Averaging**|Aarne Talman et.al.|[2304.04726v1](http://arxiv.org/abs/2304.04726v1)|[link](https://github.com/helsinki-nlp/uncertainty-aware-nli)|
 |**2023-04-10**|**Shining light on the DVS pixel: A tutorial and discussion about biasing and optimization**|Rui Graça et.al.|[2304.04706v2](http://arxiv.org/abs/2304.04706v2)|null|
 |**2023-04-10**|**Learning to Detect Touches on Cluttered Tables**|Norberto Adrian Goussies et.al.|[2304.04687v1](http://arxiv.org/abs/2304.04687v1)|null|
@@ -17,18 +32,3 @@
 |**2023-04-08**|**Optimal biasing and physical limits of DVS event noise**|Rui Graca et.al.|[2304.04019v1](http://arxiv.org/abs/2304.04019v1)|null|
 |**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|[link](https://github.com/sjtu-visys/sky-gvins)|
 |**2023-04-08**|**GANHead: Towards Generative Animatable Neural Head Avatars**|Sijing Wu et.al.|[2304.03950v1](http://arxiv.org/abs/2304.03950v1)|null|
-|**2023-04-08**|**Photometric Correction for Infrared Sensors**|Jincheng Zhang et.al.|[2304.03930v1](http://arxiv.org/abs/2304.03930v1)|null|
-|**2023-04-07**|**Event-based Camera Tracker by $\nabla$t NeRF**|Mana Masuda et.al.|[2304.04559v1](http://arxiv.org/abs/2304.04559v1)|null|
-|**2023-04-07**|**A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for inferring Bird's-Eye-View Semantic Segmentation**|Naiyu Fang et.al.|[2304.03650v1](http://arxiv.org/abs/2304.03650v1)|null|
-|**2023-04-07**|**Temperature Detection from Images Using Smartphones**|Kamrul H Foysal et.al.|[2304.03637v1](http://arxiv.org/abs/2304.03637v1)|null|
-|**2023-04-07**|**Look how they have grown: Non-destructive Leaf Detection and Size Estimation of Tomato Plants for 3D Growth Monitoring**|Yuning Xing et.al.|[2304.03610v1](http://arxiv.org/abs/2304.03610v1)|null|
-|**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
-|**2023-04-07**|**Multispectral Imaging for Differential Face Morphing Attack Detection: A Preliminary Study**|Raghavendra Ramachandra et.al.|[2304.03510v1](http://arxiv.org/abs/2304.03510v1)|null|
-|**2023-04-06**|**EGA-Depth: Efficient Guided Attention for Self-Supervised Multi-Camera Depth Estimation**|Yunxiao Shi et.al.|[2304.03369v1](http://arxiv.org/abs/2304.03369v1)|null|
-|**2023-04-06**|**Water Production Rates from SOHO/SWAN Observations of Comets C/2020 S3 (Erasmus), C/2021 A1 (Leonard) and C/2021 O3 (PanSTARRS)**|M. R. Combi et.al.|[2304.03333v1](http://arxiv.org/abs/2304.03333v1)|null|
-|**2023-04-06**|**$\text{DC}^2$: Dual-Camera Defocus Control by Learning to Refocus**|Hadi Alzayer et.al.|[2304.03285v1](http://arxiv.org/abs/2304.03285v1)|null|
-|**2023-04-06**|**Instant-NVR: Instant Neural Volumetric Rendering for Human-object Interactions from Monocular RGBD Stream**|Yuheng Jiang et.al.|[2304.03184v1](http://arxiv.org/abs/2304.03184v1)|null|
-|**2023-04-06**|**Patch-wise Features for Blur Image Classification**|Sri Charan Kattamuru et.al.|[2304.03156v1](http://arxiv.org/abs/2304.03156v1)|null|
-|**2023-04-06**|**Spike Stream Denoising via Spike Camera Simulation**|Liwen hu et.al.|[2304.03129v1](http://arxiv.org/abs/2304.03129v1)|null|
-|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v2](http://arxiv.org/abs/2304.03105v2)|[link](https://github.com/opendrivelab/bevperception-survey-recipe)|
-|**2023-04-06**|**Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards**|Anna Maria Mandalari et.al.|[2304.03045v1](http://arxiv.org/abs/2304.03045v1)|null|
