@@ -29,6 +29,6 @@
 |**2023-04-09**|**Editable User Profiles for Controllable Text Recommendation**|Sheshera Mysore et.al.|[2304.04250v1](http://arxiv.org/abs/2304.04250v1)|null|
 |**2023-04-09**|**Sparse Dense Fusion for 3D Object Detection**|Yulu Gao et.al.|[2304.04179v1](http://arxiv.org/abs/2304.04179v1)|null|
 |**2023-04-08**|**High Speed Neuromorphic Vision-Based Inspection of Countersinks in Automated Manufacturing Processes**|Mohammed Salah et.al.|[2304.04108v1](http://arxiv.org/abs/2304.04108v1)|null|
-|**2023-04-08**|**Optimal biasing and physical limits of DVS event noise**|Rui Graca et.al.|[2304.04019v1](http://arxiv.org/abs/2304.04019v1)|null|
+|**2023-04-08**|**Optimal biasing and physical limits of DVS event noise**|Rui Graca et.al.|[2304.04019v2](http://arxiv.org/abs/2304.04019v2)|null|
 |**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|[link](https://github.com/sjtu-visys/sky-gvins)|
 |**2023-04-08**|**GANHead: Towards Generative Animatable Neural Head Avatars**|Sijing Wu et.al.|[2304.03950v1](http://arxiv.org/abs/2304.03950v1)|null|
