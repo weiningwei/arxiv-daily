@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12**|**RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**|Xiao Han et.al.|[2304.05735v1](http://arxiv.org/abs/2304.05735v1)|null|
+|**2023-04-12**|**Multipath-based SLAM for Non-Ideal Reflective Surfaces Exploiting Multiple-Measurement Data Association**|Lukas Wielandner et.al.|[2304.05680v1](http://arxiv.org/abs/2304.05680v1)|null|
 |**2023-04-11**|**Simultaneous localization and mapping by using Low-Cost Ultrasonic Sensor for Underwater crawler**|Trish Velan Dcruz et.al.|[2304.05155v1](http://arxiv.org/abs/2304.05155v1)|null|
 |**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146v1](http://arxiv.org/abs/2304.05146v1)|null|
 |**2023-04-10**|**Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned**|Yulun Tian et.al.|[2304.04362v1](http://arxiv.org/abs/2304.04362v1)|[link](https://github.com/mit-spark/kimera-multi)|
@@ -30,5 +32,3 @@
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
 |**2023-03-17**|**LP-SLAM: Language-Perceptive RGB-D SLAM system based on Large Language Model**|Weiyi Zhang et.al.|[2303.10089v1](http://arxiv.org/abs/2303.10089v1)|null|
 |**2023-03-15**|**Descriptor Distillation for Efficient Multi-Robot SLAM**|Xiyue Guo et.al.|[2303.08420v1](http://arxiv.org/abs/2303.08420v1)|null|
-|**2023-03-15**|**Atmospheric parameters and kinematic information for the M giants stars from LAMOST DR9**|Dan Qiu et.al.|[2303.08344v1](http://arxiv.org/abs/2303.08344v1)|null|
-|**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu et.al.|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|

@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019v1](http://arxiv.org/abs/2304.06019v1)|[link](https://github.com/jnjaby/alignformer)|
+|**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947v1](http://arxiv.org/abs/2304.05947v1)|null|
+|**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772v1](http://arxiv.org/abs/2304.05772v1)|[link](https://github.com/dxomark-research/piq2023)|
+|**2023-04-12**|**Multisensor fusion-based digital twin in additive manufacturing for in-situ quality monitoring and defect correction**|Lequn Chen et.al.|[2304.05685v1](http://arxiv.org/abs/2304.05685v1)|null|
+|**2023-04-12**|**Modality-Invariant Representation for Infrared and Visible Image Registration**|Zhiying Jiang et.al.|[2304.05646v1](http://arxiv.org/abs/2304.05646v1)|null|
+|**2023-04-12**|**NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation**|Chi-en Amy Tai et.al.|[2304.05619v1](http://arxiv.org/abs/2304.05619v1)|null|
+|**2023-04-12**|**SGL: Structure Guidance Learning for Camera Localization**|Xudong Zhang et.al.|[2304.05571v1](http://arxiv.org/abs/2304.05571v1)|null|
+|**2023-04-12**|**An End-to-End Network for Upright Adjustment of Panoramic Images**|Heyu Chen et.al.|[2304.05556v1](http://arxiv.org/abs/2304.05556v1)|null|
+|**2023-04-11**|**SceneCalib: Automatic Targetless Calibration of Cameras and Lidars in Autonomous Driving**|Ayon Sen et.al.|[2304.05530v1](http://arxiv.org/abs/2304.05530v1)|null|
+|**2023-04-11**|**The MONET dataset: Multimodal drone thermal dataset recorded in rural scenarios**|Luigi Riz et.al.|[2304.05417v1](http://arxiv.org/abs/2304.05417v1)|[link](https://github.com/fabiopoiesi/monet_dataset)|
 |**2023-04-11**|**OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**|Yunpeng Zhang et.al.|[2304.05316v1](http://arxiv.org/abs/2304.05316v1)|[link](https://github.com/zhangyp15/occformer)|
 |**2023-04-11**|**Estimation of Vehicular Velocity based on Non-Intrusive stereo camera**|Bikram Adhikari et.al.|[2304.05298v1](http://arxiv.org/abs/2304.05298v1)|null|
 |**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang et.al.|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|[link](https://github.com/daniilidis-group/EvAC3D)|
@@ -22,13 +32,3 @@
 |**2023-04-10**|**Learning to Detect Touches on Cluttered Tables**|Norberto Adrian Goussies et.al.|[2304.04687v1](http://arxiv.org/abs/2304.04687v1)|null|
 |**2023-04-10**|**VARS: Video Assistant Referee System for Automated Soccer Decision Making from Multiple Views**|Jan Held et.al.|[2304.04617v1](http://arxiv.org/abs/2304.04617v1)|null|
 |**2023-04-10**|**Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch**|Ru Li et.al.|[2304.04464v1](http://arxiv.org/abs/2304.04464v1)|null|
-|**2023-04-10**|**Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**|Tobias Baumgartner et.al.|[2304.04437v1](http://arxiv.org/abs/2304.04437v1)|[link](https://github.com/tobibaum/partialsportsfieldreg_3dhpe)|
-|**2023-04-10**|**Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras**|Sandeep Singh Sandha et.al.|[2304.04356v1](http://arxiv.org/abs/2304.04356v1)|[link](https://github.com/nesl/eagle_ptz_cameras)|
-|**2023-04-09**|**Self-Supervised Learning of Object Segmentation from Unlabeled RGB-D Videos**|Shiyang Lu et.al.|[2304.04325v1](http://arxiv.org/abs/2304.04325v1)|null|
-|**2023-04-09**|**GelSight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation**|Megha H. Tippur et.al.|[2304.04268v1](http://arxiv.org/abs/2304.04268v1)|null|
-|**2023-04-09**|**Editable User Profiles for Controllable Text Recommendation**|Sheshera Mysore et.al.|[2304.04250v1](http://arxiv.org/abs/2304.04250v1)|null|
-|**2023-04-09**|**Sparse Dense Fusion for 3D Object Detection**|Yulu Gao et.al.|[2304.04179v1](http://arxiv.org/abs/2304.04179v1)|null|
-|**2023-04-08**|**High Speed Neuromorphic Vision-Based Inspection of Countersinks in Automated Manufacturing Processes**|Mohammed Salah et.al.|[2304.04108v1](http://arxiv.org/abs/2304.04108v1)|null|
-|**2023-04-08**|**Optimal biasing and physical limits of DVS event noise**|Rui Graca et.al.|[2304.04019v2](http://arxiv.org/abs/2304.04019v2)|null|
-|**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|[link](https://github.com/sjtu-visys/sky-gvins)|
-|**2023-04-08**|**GANHead: Towards Generative Animatable Neural Head Avatars**|Sijing Wu et.al.|[2304.03950v1](http://arxiv.org/abs/2304.03950v1)|null|

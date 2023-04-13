@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-12**|**Interaction of solar inertial modes with turbulent convection. A 2D model for the excitation of linearly stable modes**|J. Philidet et.al.|[2304.05926v1](http://arxiv.org/abs/2304.05926v1)|null|
+|**2023-04-12**|**The Generalized Plasma Focus Problem and its Application to Space Propulsion**|S K H Auluck et.al.|[2304.05780v1](http://arxiv.org/abs/2304.05780v1)|null|
+|**2023-04-11**|**Dispersion induced by unsteady diffusion-driven flow in parallel-plate channel**|Lingyun Ding et.al.|[2304.05533v1](http://arxiv.org/abs/2304.05533v1)|null|
 |**2023-04-11**|**Animation Fidelity in Self-Avatars: Impact on User Performance and Sense of Agency**|Haoran Yun et.al.|[2304.05334v1](http://arxiv.org/abs/2304.05334v1)|null|
 |**2023-04-11**|**Fast IMU-based Dual Estimation of Human Motion and Kinematic Parameters via Progressive In-Network Computing**|Xiaobing Dai et.al.|[2304.05131v1](http://arxiv.org/abs/2304.05131v1)|null|
 |**2023-04-11**|**WEAR: A Multimodal Dataset for Wearable and Egocentric Video Activity Recognition**|Marius Bock et.al.|[2304.05088v1](http://arxiv.org/abs/2304.05088v1)|null|
@@ -29,6 +32,3 @@
 |**2023-04-03**|**Motion Capture Benchmark of Real Industrial Tasks and Traditional Crafts for Human Movement Analysis**|Brenda Elizabeth Olivas-Padilla et.al.|[2304.03771v1](http://arxiv.org/abs/2304.03771v1)|null|
 |**2023-04-03**|**A Systematic Approach for Calibrating the Inertial Sensor of Taiji-1**|Haoyue Zhang et.al.|[2304.00675v2](http://arxiv.org/abs/2304.00675v2)|null|
 |**2023-03-31**|**Dielectric Barrier Discharge Actuators: Experimental and Numerical Study of Momentum Injection into Co-flow and Counter-flow Freestream**|Anthony Tang et.al.|[2304.00079v1](http://arxiv.org/abs/2304.00079v1)|null|
-|**2023-03-31**|**CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions**|Ming Yan et.al.|[2303.17948v1](http://arxiv.org/abs/2303.17948v1)|null|
-|**2023-03-30**|**Reference frames in General Relativity and the galactic rotation curves**|L. Filipe O. Costa et.al.|[2303.17516v1](http://arxiv.org/abs/2303.17516v1)|null|
-|**2023-03-30**|**Orientation of Finite Reynolds Number Anisotropic Particles Settling in Turbulence**|Anubhab Roy et.al.|[2303.17143v1](http://arxiv.org/abs/2303.17143v1)|null|
