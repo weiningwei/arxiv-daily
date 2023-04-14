@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-13 21:00:11 Asia/Shanghai
+ Automated deployment @ 2023-04-14 08:32:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -54,7 +54,7 @@
 |**2023-04-10**|**Note on the Time Dilation for Charged Quantum Clocks**|Takeshi Chiba et.al.|[2304.04375v1](http://arxiv.org/abs/2304.04375v1)|null|
 |**2023-04-09**|**The Effect of Flagella Stiffness on the Locomotion of a Multi-Flagellated Robot at Low Reynolds Environment**|Nnamdi Chikere et.al.|[2304.04299v1](http://arxiv.org/abs/2304.04299v1)|null|
 |**2023-04-09**|**OpenDriver: an open-road driver state detection dataset**|Delong Liu et.al.|[2304.04203v1](http://arxiv.org/abs/2304.04203v1)|null|
-|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v1](http://arxiv.org/abs/2304.04036v1)|null|
+|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v2](http://arxiv.org/abs/2304.04036v2)|null|
 |**2023-04-08**|**Enhanced heat transfer in a 2D serpentine micro-channel using elastic polymers**|Himani Garg et.al.|[2304.04025v1](http://arxiv.org/abs/2304.04025v1)|null|
 |**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|[link](https://github.com/sjtu-visys/sky-gvins)|
 |**2023-04-07**|**Multi-Robot Relative Pose Estimation and IMU Preintegration Using Passive UWB Transceivers**|Mohammed Ayman Shalaby et.al.|[2304.03837v2](http://arxiv.org/abs/2304.03837v2)|null|
@@ -111,7 +111,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943v1](http://arxiv.org/abs/2304.04943v1)|null|
-|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v1](http://arxiv.org/abs/2304.04036v1)|null|
+|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v2](http://arxiv.org/abs/2304.04036v2)|null|
 |**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|[link](https://github.com/antabangun/dualrefine)|
 |**2023-04-04**|**SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry**|Bharat Joshi et.al.|[2304.01988v1](http://arxiv.org/abs/2304.01988v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
