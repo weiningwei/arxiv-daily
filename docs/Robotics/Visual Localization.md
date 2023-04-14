@@ -2,6 +2,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-13**|**RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions**|Shaoyuan Xie et.al.|[2304.06719v1](http://arxiv.org/abs/2304.06719v1)|[link](https://github.com/Daniel-xsy/RoboBEV)|
+|**2023-04-13**|**How Will It Drape Like? Capturing Fabric Mechanics from Depth Images**|Carlos Rodriguez-Pardo et.al.|[2304.06704v1](http://arxiv.org/abs/2304.06704v1)|null|
+|**2023-04-13**|**Single-shot quantitative differential phase contrast imaging combined with programmable polarization multiplexing illumination**|Siying Liu et.al.|[2304.06570v1](http://arxiv.org/abs/2304.06570v1)|null|
+|**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547v1](http://arxiv.org/abs/2304.06547v1)|[link](https://github.com/tumftm/radargnn)|
+|**2023-04-13**|**Event-based tracking of human hands**|Laura Duarte et.al.|[2304.06534v1](http://arxiv.org/abs/2304.06534v1)|null|
+|**2023-04-13**|**Neuromorphic Event-based Facial Expression Recognition**|Lorenzo Berlincioni et.al.|[2304.06351v1](http://arxiv.org/abs/2304.06351v1)|[link](https://github.com/miccunifi/nefer)|
+|**2023-04-13**|**An Automotive Case Study on the Limits of Approximation for Object Detection**|Martí Caro et.al.|[2304.06327v1](http://arxiv.org/abs/2304.06327v1)|null|
+|**2023-04-13**|**Continual Learning of Hand Gestures for Human-Robot Interaction**|Xavier Cucurull et.al.|[2304.06319v1](http://arxiv.org/abs/2304.06319v1)|null|
+|**2023-04-13**|**Efficient Multimodal Fusion via Interactive Prompting**|Yaowei Li et.al.|[2304.06306v1](http://arxiv.org/abs/2304.06306v1)|null|
+|**2023-04-13**|**Far-infrared Polarization of the Supernova Remnant Cassiopeia A with SOFIA HAWC+**|Jeonghee Rho et.al.|[2304.06291v1](http://arxiv.org/abs/2304.06291v1)|null|
+|**2023-04-13**|**Loosely Coupled Odometry, UWB Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization**|Xianjia Yu et.al.|[2304.06264v1](http://arxiv.org/abs/2304.06264v1)|null|
+|**2023-04-13**|**MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging**|Yuanyuan Wei et.al.|[2304.06258v1](http://arxiv.org/abs/2304.06258v1)|[link](https://github.com/aywi/mprotonet)|
+|**2023-04-13**|**ShapeClipper: Scalable 3D Shape Learning from Single-View Images via Geometric and CLIP-based Consistency**|Zixuan Huang et.al.|[2304.06247v1](http://arxiv.org/abs/2304.06247v1)|null|
+|**2023-04-13**|**Quasi Real-Time Autonomous Satellite Detection and Orbit Estimation**|Jarred Jordan et.al.|[2304.06227v1](http://arxiv.org/abs/2304.06227v1)|null|
+|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|null|
+|**2023-04-12**|**Visual based Tomato Size Measurement System for an Indoor Farming Environment**|Andy Kweon et.al.|[2304.06177v1](http://arxiv.org/abs/2304.06177v1)|null|
+|**2023-04-12**|**NEXT-CRAB-0: A High Pressure Gaseous Xenon Time Projection Chamber with a Direct VUV Camera Based Readout**|NEXT Collaboration et.al.|[2304.06091v1](http://arxiv.org/abs/2304.06091v1)|null|
 |**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019v1](http://arxiv.org/abs/2304.06019v1)|[link](https://github.com/jnjaby/alignformer)|
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947v1](http://arxiv.org/abs/2304.05947v1)|null|
 |**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772v1](http://arxiv.org/abs/2304.05772v1)|[link](https://github.com/dxomark-research/piq2023)|
@@ -15,20 +32,3 @@
 |**2023-04-11**|**OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**|Yunpeng Zhang et.al.|[2304.05316v1](http://arxiv.org/abs/2304.05316v1)|[link](https://github.com/zhangyp15/occformer)|
 |**2023-04-11**|**Estimation of Vehicular Velocity based on Non-Intrusive stereo camera**|Bikram Adhikari et.al.|[2304.05298v1](http://arxiv.org/abs/2304.05298v1)|null|
 |**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang et.al.|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|[link](https://github.com/daniilidis-group/EvAC3D)|
-|**2023-04-11**|**Wearable multi-color RAPD screening device**|Arda Gulersoy et.al.|[2304.05182v1](http://arxiv.org/abs/2304.05182v1)|null|
-|**2023-04-11**|**Accelerating Globally Optimal Consensus Maximization in Geometric Vision**|Xinyue Zhang et.al.|[2304.05156v1](http://arxiv.org/abs/2304.05156v1)|null|
-|**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146v1](http://arxiv.org/abs/2304.05146v1)|null|
-|**2023-04-11**|**Real time enhancement of operator's ergonomics in physical human - robot collaboration scenarios using a multi-stereo camera system**|Gerasimos Arvanitis et.al.|[2304.05120v1](http://arxiv.org/abs/2304.05120v1)|null|
-|**2023-04-11**|**Pointless Global Bundle Adjustment With Relative Motions Hessians**|Ewelina Rupnik et.al.|[2304.05118v1](http://arxiv.org/abs/2304.05118v1)|[link](https://github.com/erupnik/pointlessgba)|
-|**2023-04-11**|**WEAR: A Multimodal Dataset for Wearable and Egocentric Video Activity Recognition**|Marius Bock et.al.|[2304.05088v1](http://arxiv.org/abs/2304.05088v1)|null|
-|**2023-04-11**|**Polarimetry of the potential binary supermassive black hole system in J1430+2303**|F. Marin et.al.|[2304.05003v1](http://arxiv.org/abs/2304.05003v1)|null|
-|**2023-04-11**|**Detecting Anomalous Microflows in IoT Volumetric Attacks via Dynamic Monitoring of MUD Activity**|Ayyoob Hamza et.al.|[2304.04987v1](http://arxiv.org/abs/2304.04987v1)|null|
-|**2023-04-11**|**Computer Vision-Aided Intelligent Monitoring of Coffee: Towards Sustainable Coffee Production**|Francisco Eron et.al.|[2304.04966v1](http://arxiv.org/abs/2304.04966v1)|null|
-|**2023-04-11**|**Point-and-Shoot All-in-Focus Photo Synthesis from Smartphone Camera Pair**|Xianrui Luo et.al.|[2304.04917v1](http://arxiv.org/abs/2304.04917v1)|null|
-|**2023-04-11**|**Bounding Box Annotation with Visible Status**|Takuya Kiyokawa et.al.|[2304.04901v1](http://arxiv.org/abs/2304.04901v1)|null|
-|**2023-04-10**|**Neural Lens Modeling**|Wenqi Xian et.al.|[2304.04848v1](http://arxiv.org/abs/2304.04848v1)|null|
-|**2023-04-10**|**Uncertainty-Aware Natural Language Inference with Stochastic Weight Averaging**|Aarne Talman et.al.|[2304.04726v1](http://arxiv.org/abs/2304.04726v1)|[link](https://github.com/helsinki-nlp/uncertainty-aware-nli)|
-|**2023-04-10**|**Shining light on the DVS pixel: A tutorial and discussion about biasing and optimization**|Rui Graça et.al.|[2304.04706v2](http://arxiv.org/abs/2304.04706v2)|null|
-|**2023-04-10**|**Learning to Detect Touches on Cluttered Tables**|Norberto Adrian Goussies et.al.|[2304.04687v1](http://arxiv.org/abs/2304.04687v1)|null|
-|**2023-04-10**|**VARS: Video Assistant Referee System for Automated Soccer Decision Making from Multiple Views**|Jan Held et.al.|[2304.04617v1](http://arxiv.org/abs/2304.04617v1)|null|
-|**2023-04-10**|**Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch**|Ru Li et.al.|[2304.04464v1](http://arxiv.org/abs/2304.04464v1)|null|
