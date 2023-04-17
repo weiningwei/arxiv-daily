@@ -13,7 +13,7 @@
 |**2023-04-13**|**Efficient Multimodal Fusion via Interactive Prompting**|Yaowei Li et.al.|[2304.06306v1](http://arxiv.org/abs/2304.06306v1)|null|
 |**2023-04-13**|**Far-infrared Polarization of the Supernova Remnant Cassiopeia A with SOFIA HAWC+**|Jeonghee Rho et.al.|[2304.06291v1](http://arxiv.org/abs/2304.06291v1)|null|
 |**2023-04-13**|**Loosely Coupled Odometry, UWB Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization**|Xianjia Yu et.al.|[2304.06264v1](http://arxiv.org/abs/2304.06264v1)|null|
-|**2023-04-13**|**MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging**|Yuanyuan Wei et.al.|[2304.06258v1](http://arxiv.org/abs/2304.06258v1)|[link](https://github.com/aywi/mprotonet)|
+|**2023-04-13**|**MProtoNet: A Case-Based Interpretable Model for Brain Tumor Classification with 3D Multi-parametric Magnetic Resonance Imaging**|Yuanyuan Wei et.al.|[2304.06258v2](http://arxiv.org/abs/2304.06258v2)|[link](https://github.com/aywi/mprotonet)|
 |**2023-04-13**|**ShapeClipper: Scalable 3D Shape Learning from Single-View Images via Geometric and CLIP-based Consistency**|Zixuan Huang et.al.|[2304.06247v1](http://arxiv.org/abs/2304.06247v1)|null|
 |**2023-04-13**|**Quasi Real-Time Autonomous Satellite Detection and Orbit Estimation**|Jarred Jordan et.al.|[2304.06227v1](http://arxiv.org/abs/2304.06227v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|[link](https://github.com/facebookresearch/silk)|
