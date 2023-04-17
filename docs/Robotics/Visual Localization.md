@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250v1](http://arxiv.org/abs/2304.07250v1)|null|
+|**2023-04-14**|**EV-Catcher: High-Speed Object Catching Using Low-latency Event-based Neural Networks**|Ziyun Wang et.al.|[2304.07200v1](http://arxiv.org/abs/2304.07200v1)|null|
+|**2023-04-14**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v1](http://arxiv.org/abs/2304.07139v1)|null|
+|**2023-04-14**|**A Framework for Fast Prototyping of Photo-realistic Environments with Multiple Pedestrians**|Sara Casao et.al.|[2304.07059v1](http://arxiv.org/abs/2304.07059v1)|null|
+|**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili et.al.|[2304.07058v1](http://arxiv.org/abs/2304.07058v1)|null|
+|**2023-04-14**|**Spectral Transfer Guided Active Domain Adaptation For Thermal Imagery**|Berkcan Ustun et.al.|[2304.07031v1](http://arxiv.org/abs/2304.07031v1)|[link](https://github.com/avaapm/stgada)|
+|**2023-04-14**|**Smart Dimming Sunglasses for Photophobia Using Spatial Light Modulator**|Xiaodan Hu et.al.|[2304.07013v1](http://arxiv.org/abs/2304.07013v1)|null|
+|**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|[link](https://github.com/nyu-ce-projects/depth-estimation)|
+|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v1](http://arxiv.org/abs/2304.06943v1)|null|
+|**2023-04-14**|**Self-Supervised Scene Dynamic Recovery from Rolling Shutter Images and Events**|Yangguang Wang et.al.|[2304.06930v1](http://arxiv.org/abs/2304.06930v1)|null|
+|**2023-04-14**|**An NMPC-ECBF Framework for Dynamic Motion Planning and Execution in vision-based Human-Robot Collaboration**|Dianhao Zhang et.al.|[2304.06923v1](http://arxiv.org/abs/2304.06923v1)|null|
+|**2023-04-14**|**Submerse: Visualizing Storm Surge Flooding Simulations in Immersive Display Ecologies**|Saeed Boorboor et.al.|[2304.06872v1](http://arxiv.org/abs/2304.06872v1)|null|
+|**2023-04-14**|**PMI Sampler: Patch similarity guided frame selection for Aerial Action Recognition**|Ruiqi Xian et.al.|[2304.06866v1](http://arxiv.org/abs/2304.06866v1)|null|
+|**2023-04-13**|**Revisiting multiwavelength data on the supersoft X-ray source CAL 83**|Paulo E. Stecchini et.al.|[2304.06804v1](http://arxiv.org/abs/2304.06804v1)|null|
+|**2023-04-13**|**Speck: A Smart event-based Vision Sensor with a low latency 327K Neuron Convolutional Neuronal Network Processing Pipeline**|Ole Richter et.al.|[2304.06793v1](http://arxiv.org/abs/2304.06793v1)|null|
 |**2023-04-13**|**RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions**|Shaoyuan Xie et.al.|[2304.06719v1](http://arxiv.org/abs/2304.06719v1)|[link](https://github.com/Daniel-xsy/RoboBEV)|
 |**2023-04-13**|**How Will It Drape Like? Capturing Fabric Mechanics from Depth Images**|Carlos Rodriguez-Pardo et.al.|[2304.06704v1](http://arxiv.org/abs/2304.06704v1)|null|
 |**2023-04-13**|**Single-shot quantitative differential phase contrast imaging combined with programmable polarization multiplexing illumination**|Siying Liu et.al.|[2304.06570v1](http://arxiv.org/abs/2304.06570v1)|null|
@@ -17,18 +32,3 @@
 |**2023-04-13**|**ShapeClipper: Scalable 3D Shape Learning from Single-View Images via Geometric and CLIP-based Consistency**|Zixuan Huang et.al.|[2304.06247v1](http://arxiv.org/abs/2304.06247v1)|null|
 |**2023-04-13**|**Quasi Real-Time Autonomous Satellite Detection and Orbit Estimation**|Jarred Jordan et.al.|[2304.06227v1](http://arxiv.org/abs/2304.06227v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|[link](https://github.com/facebookresearch/silk)|
-|**2023-04-12**|**Visual based Tomato Size Measurement System for an Indoor Farming Environment**|Andy Kweon et.al.|[2304.06177v1](http://arxiv.org/abs/2304.06177v1)|null|
-|**2023-04-12**|**NEXT-CRAB-0: A High Pressure Gaseous Xenon Time Projection Chamber with a Direct VUV Camera Based Readout**|NEXT Collaboration et.al.|[2304.06091v1](http://arxiv.org/abs/2304.06091v1)|null|
-|**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019v1](http://arxiv.org/abs/2304.06019v1)|[link](https://github.com/jnjaby/alignformer)|
-|**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947v1](http://arxiv.org/abs/2304.05947v1)|[link](https://github.com/v-pnk/cadloc)|
-|**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772v1](http://arxiv.org/abs/2304.05772v1)|[link](https://github.com/dxomark-research/piq2023)|
-|**2023-04-12**|**Multisensor fusion-based digital twin in additive manufacturing for in-situ quality monitoring and defect correction**|Lequn Chen et.al.|[2304.05685v1](http://arxiv.org/abs/2304.05685v1)|null|
-|**2023-04-12**|**Modality-Invariant Representation for Infrared and Visible Image Registration**|Zhiying Jiang et.al.|[2304.05646v1](http://arxiv.org/abs/2304.05646v1)|null|
-|**2023-04-12**|**NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation**|Chi-en Amy Tai et.al.|[2304.05619v1](http://arxiv.org/abs/2304.05619v1)|null|
-|**2023-04-12**|**SGL: Structure Guidance Learning for Camera Localization**|Xudong Zhang et.al.|[2304.05571v1](http://arxiv.org/abs/2304.05571v1)|null|
-|**2023-04-12**|**An End-to-End Network for Upright Adjustment of Panoramic Images**|Heyu Chen et.al.|[2304.05556v1](http://arxiv.org/abs/2304.05556v1)|null|
-|**2023-04-11**|**SceneCalib: Automatic Targetless Calibration of Cameras and Lidars in Autonomous Driving**|Ayon Sen et.al.|[2304.05530v1](http://arxiv.org/abs/2304.05530v1)|null|
-|**2023-04-11**|**The MONET dataset: Multimodal drone thermal dataset recorded in rural scenarios**|Luigi Riz et.al.|[2304.05417v1](http://arxiv.org/abs/2304.05417v1)|[link](https://github.com/fabiopoiesi/monet_dataset)|
-|**2023-04-11**|**OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction**|Yunpeng Zhang et.al.|[2304.05316v1](http://arxiv.org/abs/2304.05316v1)|[link](https://github.com/zhangyp15/occformer)|
-|**2023-04-11**|**Estimation of Vehicular Velocity based on Non-Intrusive stereo camera**|Bikram Adhikari et.al.|[2304.05298v1](http://arxiv.org/abs/2304.05298v1)|null|
-|**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang et.al.|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|[link](https://github.com/daniilidis-group/EvAC3D)|
