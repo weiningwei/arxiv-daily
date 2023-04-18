@@ -10,7 +10,7 @@
 |**2023-04-14**|**Spectral Transfer Guided Active Domain Adaptation For Thermal Imagery**|Berkcan Ustun et.al.|[2304.07031v1](http://arxiv.org/abs/2304.07031v1)|[link](https://github.com/avaapm/stgada)|
 |**2023-04-14**|**Smart Dimming Sunglasses for Photophobia Using Spatial Light Modulator**|Xiaodan Hu et.al.|[2304.07013v1](http://arxiv.org/abs/2304.07013v1)|null|
 |**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|[link](https://github.com/nyu-ce-projects/depth-estimation)|
-|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v1](http://arxiv.org/abs/2304.06943v1)|null|
+|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v2](http://arxiv.org/abs/2304.06943v2)|null|
 |**2023-04-14**|**Self-Supervised Scene Dynamic Recovery from Rolling Shutter Images and Events**|Yangguang Wang et.al.|[2304.06930v1](http://arxiv.org/abs/2304.06930v1)|null|
 |**2023-04-14**|**An NMPC-ECBF Framework for Dynamic Motion Planning and Execution in vision-based Human-Robot Collaboration**|Dianhao Zhang et.al.|[2304.06923v1](http://arxiv.org/abs/2304.06923v1)|null|
 |**2023-04-14**|**Submerse: Visualizing Storm Surge Flooding Simulations in Immersive Display Ecologies**|Saeed Boorboor et.al.|[2304.06872v1](http://arxiv.org/abs/2304.06872v1)|null|

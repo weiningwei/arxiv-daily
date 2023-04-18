@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili et.al.|[2304.07058v1](http://arxiv.org/abs/2304.07058v1)|null|
 |**2023-04-12**|**RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**|Xiao Han et.al.|[2304.05735v1](http://arxiv.org/abs/2304.05735v1)|[link](https://github.com/xiaohan-git/ro-map)|
-|**2023-04-12**|**Multipath-based SLAM for Non-Ideal Reflective Surfaces Exploiting Multiple-Measurement Data Association**|Lukas Wielandner et.al.|[2304.05680v1](http://arxiv.org/abs/2304.05680v1)|null|
+|**2023-04-12**|**Multipath-based SLAM for Non-Ideal Reflective Surfaces Exploiting Multiple-Measurement Data Association**|Lukas Wielandner et.al.|[2304.05680v2](http://arxiv.org/abs/2304.05680v2)|null|
 |**2023-04-11**|**Simultaneous localization and mapping by using Low-Cost Ultrasonic Sensor for Underwater crawler**|Trish Velan Dcruz et.al.|[2304.05155v1](http://arxiv.org/abs/2304.05155v1)|null|
 |**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146v2](http://arxiv.org/abs/2304.05146v2)|[link](https://github.com/jixingwu/ss-lcd)|
 |**2023-04-10**|**Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned**|Yulun Tian et.al.|[2304.04362v1](http://arxiv.org/abs/2304.04362v1)|[link](https://github.com/mit-spark/kimera-multi)|
@@ -13,7 +13,7 @@
 |**2023-04-09**|**DSMNet: Deep High-precision 3D Surface Modeling from Sparse Point Cloud Frames**|Changjie Qiu et.al.|[2304.04200v1](http://arxiv.org/abs/2304.04200v1)|null|
 |**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|[link](https://github.com/sjtu-visys/sky-gvins)|
 |**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872v1](http://arxiv.org/abs/2304.03872v1)|null|
-|**2023-04-06**|**Deep learning-based image exposure enhancement as a pre-processing for an accurate 3D colon surface reconstruction**|Ricardo Espinosa et.al.|[2304.03171v1](http://arxiv.org/abs/2304.03171v1)|null|
+|**2023-04-06**|**Deep learning-based image exposure enhancement as a pre-processing for an accurate 3D colon surface reconstruction**|Ricardo Espinosa et.al.|[2304.03171v2](http://arxiv.org/abs/2304.03171v2)|null|
 |**2023-04-04**|**A Fully-automatic Side-scan Sonar SLAM Framework**|Jun Zhang et.al.|[2304.01854v1](http://arxiv.org/abs/2304.01854v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
 |**2023-04-03**|**Eigen-Factors an Alternating Optimization for Back-end Plane SLAM of 3D Point Clouds**|Gonzalo Ferrer et.al.|[2304.01055v1](http://arxiv.org/abs/2304.01055v1)|[link](https://github.com/prime-slam/ef-plane-slam)|
