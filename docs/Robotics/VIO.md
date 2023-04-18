@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-17**|**Robust human position estimation in cooperative robotic cells**|António Amorim et.al.|[2304.08379v1](http://arxiv.org/abs/2304.08379v1)|null|
+|**2023-04-17**|**The driven-Markovian master equation based on the Lewis-Riesenfeld invariants theory**|S. L. Wu et.al.|[2304.07956v1](http://arxiv.org/abs/2304.07956v1)|null|
+|**2023-04-16**|**On the computation of thermo-relaxing multi-component flows with the Baer-Nunziato model**|Chao Zhang et.al.|[2304.07799v1](http://arxiv.org/abs/2304.07799v1)|null|
+|**2023-04-16**|**TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation**|Leyuan Sun et.al.|[2304.07728v1](http://arxiv.org/abs/2304.07728v1)|null|
+|**2023-04-15**|**The Gravito-Maxwell Equations of General Relativity in the local reference frame of a GR-noninertial observer**|Christoph Schmid et.al.|[2304.07595v1](http://arxiv.org/abs/2304.07595v1)|null|
 |**2023-04-14**|**Measuring spin in coalescing binaries of neutron stars showing double precursors**|Hao-Jui Kuan et.al.|[2304.07170v1](http://arxiv.org/abs/2304.07170v1)|null|
 |**2023-04-14**|**Heavy inertial particles in rotating turbulence : distribution of particles in flow and evolution of Lagrangian trajectories**|Priyanka Maity et.al.|[2304.07008v1](http://arxiv.org/abs/2304.07008v1)|null|
 |**2023-04-13**|**A critique of one of Galileo's mental experiments and an explanation on why bodies fall with equal acceleration through the vacuum**|Leonardo Levinas et.al.|[2304.06860v1](http://arxiv.org/abs/2304.06860v1)|null|
@@ -27,8 +32,3 @@
 |**2023-04-07**|**Multi-Robot Relative Pose Estimation and IMU Preintegration Using Passive UWB Transceivers**|Mohammed Ayman Shalaby et.al.|[2304.03837v2](http://arxiv.org/abs/2304.03837v2)|null|
 |**2023-04-07**|**Three-dimensional active turbulence in microswimmer suspensions: simulations and modelling**|Antonio Gascó et.al.|[2304.03662v1](http://arxiv.org/abs/2304.03662v1)|null|
 |**2023-04-07**|**Dynamics of a solitonic vortex in an anisotropically trapped superfluid**|J. M. Gomez Llorente et.al.|[2304.03569v1](http://arxiv.org/abs/2304.03569v1)|null|
-|**2023-04-07**|**Automated Tuning of Nonlinear Kalman Filters for Optimal Trajectory Tracking Performance of AUVs**|Maximilian Nitsch et.al.|[2304.03565v1](http://arxiv.org/abs/2304.03565v1)|null|
-|**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|[link](https://github.com/antabangun/dualrefine)|
-|**2023-04-07**|**Domain Adaptation for Inertial Measurement Unit-based Human Activity Recognition: A Survey**|Avijoy Chakma et.al.|[2304.06489v1](http://arxiv.org/abs/2304.06489v1)|null|
-|**2023-04-06**|**On separable states in relativistic quantum field theory**|Ko Sanders et.al.|[2304.03120v1](http://arxiv.org/abs/2304.03120v1)|null|
-|**2023-04-06**|**Colength one deformation rings**|Daniel Le et.al.|[2304.03061v1](http://arxiv.org/abs/2304.03061v1)|null|
