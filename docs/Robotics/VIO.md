@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-04-17**|**Robust human position estimation in cooperative robotic cells**|António Amorim et.al.|[2304.08379v1](http://arxiv.org/abs/2304.08379v1)|null|
-|**2023-04-17**|**The driven-Markovian master equation based on the Lewis-Riesenfeld invariants theory**|S. L. Wu et.al.|[2304.07956v1](http://arxiv.org/abs/2304.07956v1)|null|
+|**2023-04-17**|**The driven-Markovian master equation based on the Lewis-Riesenfeld invariants theory**|S. L. Wu et.al.|[2304.07956v2](http://arxiv.org/abs/2304.07956v2)|null|
 |**2023-04-16**|**On the computation of thermo-relaxing multi-component flows with the Baer-Nunziato model**|Chao Zhang et.al.|[2304.07799v1](http://arxiv.org/abs/2304.07799v1)|null|
 |**2023-04-16**|**TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation**|Leyuan Sun et.al.|[2304.07728v1](http://arxiv.org/abs/2304.07728v1)|null|
 |**2023-04-15**|**The Gravito-Maxwell Equations of General Relativity in the local reference frame of a GR-noninertial observer**|Christoph Schmid et.al.|[2304.07595v1](http://arxiv.org/abs/2304.07595v1)|null|
