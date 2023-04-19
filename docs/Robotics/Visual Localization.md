@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-18**|**Variational Relational Point Completion Network for Robust 3D Classification**|Liang Pan et.al.|[2304.09131v1](http://arxiv.org/abs/2304.09131v1)|null|
+|**2023-04-18**|**Multi-User Matching and Resource Allocation in Vision Aided Communications**|Weihua Xu et.al.|[2304.09075v1](http://arxiv.org/abs/2304.09075v1)|null|
+|**2023-04-18**|**Spatial profiles of collimated laser Compton-scattering $γ$-ray beams**|Takashi Ari-Izumi et.al.|[2304.08935v1](http://arxiv.org/abs/2304.08935v1)|null|
+|**2023-04-18**|**Event Camera and LiDAR based Human Tracking for Adverse Lighting Conditions in Subterranean Environments**|Mario A. V. Saucedo et.al.|[2304.08908v1](http://arxiv.org/abs/2304.08908v1)|null|
+|**2023-04-18**|**UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer**|Soon Yau Cheong et.al.|[2304.08870v1](http://arxiv.org/abs/2304.08870v1)|null|
+|**2023-04-18**|**Making Thermal Imaging More Equitable and Accurate: Resolving Solar Loading Biases**|Ellin Q. Zhao et.al.|[2304.08832v1](http://arxiv.org/abs/2304.08832v1)|null|
+|**2023-04-17**|**(LC)$^2$: LiDAR-Camera Loop Constraints For Cross-Modal Place Recognition**|Alex Junho Lee et.al.|[2304.08660v1](http://arxiv.org/abs/2304.08660v1)|null|
+|**2023-04-17**|**Filling the gaps in video transcoder deployment in the cloud**|Vibhoothi et.al.|[2304.08634v1](http://arxiv.org/abs/2304.08634v1)|null|
+|**2023-04-17**|**Radiometry for Nighttime Sub-Cloud Imaging of Venus' Surface in the Near-InfraRed Spectrum**|Brian M. Sutin et.al.|[2304.08585v1](http://arxiv.org/abs/2304.08585v1)|null|
 |**2023-04-17**|**Neural Map Prior for Autonomous Driving**|Xuan Xiong et.al.|[2304.08481v1](http://arxiv.org/abs/2304.08481v1)|null|
 |**2023-04-17**|**Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics**|Yifan Yin et.al.|[2304.08464v1](http://arxiv.org/abs/2304.08464v1)|null|
 |**2023-04-17**|**RadarFormer: Lightweight and Accurate Real-Time Radar Object Detection Model**|Yahia Dalbah et.al.|[2304.08447v1](http://arxiv.org/abs/2304.08447v1)|[link](https://github.com/yahidar/radarformer)|
@@ -23,12 +32,3 @@
 |**2023-04-15**|**The 7th AI City Challenge**|Milind Naphade et.al.|[2304.07500v1](http://arxiv.org/abs/2304.07500v1)|null|
 |**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426v1](http://arxiv.org/abs/2304.07426v1)|null|
 |**2023-04-14**|**Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition**|Liangqi Yuan et.al.|[2304.07421v1](http://arxiv.org/abs/2304.07421v1)|null|
-|**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250v1](http://arxiv.org/abs/2304.07250v1)|null|
-|**2023-04-14**|**EV-Catcher: High-Speed Object Catching Using Low-latency Event-based Neural Networks**|Ziyun Wang et.al.|[2304.07200v1](http://arxiv.org/abs/2304.07200v1)|null|
-|**2023-04-14**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v1](http://arxiv.org/abs/2304.07139v1)|null|
-|**2023-04-14**|**A Framework for Fast Prototyping of Photo-realistic Environments with Multiple Pedestrians**|Sara Casao et.al.|[2304.07059v1](http://arxiv.org/abs/2304.07059v1)|null|
-|**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili et.al.|[2304.07058v1](http://arxiv.org/abs/2304.07058v1)|null|
-|**2023-04-14**|**Spectral Transfer Guided Active Domain Adaptation For Thermal Imagery**|Berkcan Ustun et.al.|[2304.07031v1](http://arxiv.org/abs/2304.07031v1)|[link](https://github.com/avaapm/stgada)|
-|**2023-04-14**|**Smart Dimming Sunglasses for Photophobia Using Spatial Light Modulator**|Xiaodan Hu et.al.|[2304.07013v1](http://arxiv.org/abs/2304.07013v1)|null|
-|**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|[link](https://github.com/nyu-ce-projects/depth-estimation)|
-|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v2](http://arxiv.org/abs/2304.06943v2)|null|
