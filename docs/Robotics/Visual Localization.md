@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-19**|**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**|Chongjian Ge et.al.|[2304.09801v1](http://arxiv.org/abs/2304.09801v1)|null|
+|**2023-04-19**|**Event-based Simultaneous Localization and Mapping: A Comprehensive Survey**|Kunping Huang et.al.|[2304.09793v1](http://arxiv.org/abs/2304.09793v1)|null|
+|**2023-04-19**|**Rehabilitation Exercise Repetition Segmentation and Counting using Skeletal Body Joints**|Ali Abedi et.al.|[2304.09735v1](http://arxiv.org/abs/2304.09735v1)|[link](https://github.com/abedicodes/repetition-segmentation)|
+|**2023-04-19**|**UniCal: a Single-Branch Transformer-Based Model for Camera-to-LiDAR Calibration and Validation**|Mathieu Cocheteux et.al.|[2304.09715v1](http://arxiv.org/abs/2304.09715v1)|null|
+|**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang et.al.|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
+|**2023-04-19**|**Automatic Individual Identification of Patterned Solitary Species Based on Unlabeled Video Data**|Vanessa Suessle et.al.|[2304.09657v1](http://arxiv.org/abs/2304.09657v1)|null|
+|**2023-04-19**|**Integrated Ray-Tracing and Coverage Planning Control using Reinforcement Learning**|Savvas Papaioannou et.al.|[2304.09631v1](http://arxiv.org/abs/2304.09631v1)|null|
+|**2023-04-19**|**Seeing the invisible: convection cells revealed with thermal imaging**|Renzo Guido et.al.|[2304.09625v1](http://arxiv.org/abs/2304.09625v1)|null|
+|**2023-04-19**|**Self-supervised Image Denoising with Downsampled Invariance Loss and Conditional Blind-Spot Network**|Yeong Il Jang et.al.|[2304.09507v1](http://arxiv.org/abs/2304.09507v1)|null|
+|**2023-04-19**|**Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment**|Hsiang-Wei Huang et.al.|[2304.09471v1](http://arxiv.org/abs/2304.09471v1)|[link](https://github.com/ipl-uw/aic23_track1_uwipl_etri)|
+|**2023-04-18**|**Federated Alternate Training (FAT): Leveraging Unannotated Data Silos in Federated Segmentation for Medical Imaging**|Erum Mushtaq et.al.|[2304.09327v1](http://arxiv.org/abs/2304.09327v1)|null|
 |**2023-04-18**|**Variational Relational Point Completion Network for Robust 3D Classification**|Liang Pan et.al.|[2304.09131v1](http://arxiv.org/abs/2304.09131v1)|null|
 |**2023-04-18**|**Multi-User Matching and Resource Allocation in Vision Aided Communications**|Weihua Xu et.al.|[2304.09075v1](http://arxiv.org/abs/2304.09075v1)|null|
 |**2023-04-18**|**Spatial profiles of collimated laser Compton-scattering $γ$-ray beams**|Takashi Ari-Izumi et.al.|[2304.08935v1](http://arxiv.org/abs/2304.08935v1)|null|
@@ -20,15 +31,4 @@
 |**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186v1](http://arxiv.org/abs/2304.08186v1)|null|
 |**2023-04-17**|**New variable sources revealed by DECam toward the LMC: the first 15 deg2**|A. Franco et.al.|[2304.08133v1](http://arxiv.org/abs/2304.08133v1)|null|
 |**2023-04-17**|**GREX-PLUS Science Book**|GREX-PLUS Science Team et.al.|[2304.08104v1](http://arxiv.org/abs/2304.08104v1)|null|
-|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|null|
-|**2023-04-16**|**Likelihood-Based Generative Radiance Field with Latent Space Energy-Based Model for 3D-Aware Disentangled Image Representation**|Yaxuan Zhu et.al.|[2304.07918v1](http://arxiv.org/abs/2304.07918v1)|null|
-|**2023-04-16**|**Multiple Stellar Populations in Globular Clusters with JWST**|A. P. Milone et.al.|[2304.07770v1](http://arxiv.org/abs/2304.07770v1)|null|
-|**2023-04-16**|**Deep learning universal crater detection using Segment Anything Model (SAM)**|Iraklis Giannakis et.al.|[2304.07764v1](http://arxiv.org/abs/2304.07764v1)|null|
-|**2023-04-16**|**Framework for Quality Evaluation of Smart Roadside Infrastructure Sensors for Automated Driving Applications**|Laurent Kloeker et.al.|[2304.07745v1](http://arxiv.org/abs/2304.07745v1)|null|
-|**2023-04-16**|**SeaThru-NeRF: Neural Radiance Fields in Scattering Media**|Deborah Levy et.al.|[2304.07743v1](http://arxiv.org/abs/2304.07743v1)|null|
-|**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691v1](http://arxiv.org/abs/2304.07691v1)|null|
-|**2023-04-15**|**Surveillance Face Presentation Attack Detection Challenge**|Hao Fang et.al.|[2304.07580v1](http://arxiv.org/abs/2304.07580v1)|null|
-|**2023-04-15**|**Within-Camera Multilayer Perceptron DVS Denoising**|A. Rios-Navarro et.al.|[2304.07543v1](http://arxiv.org/abs/2304.07543v1)|[link](https://github.com/sensorsini/dnd_hls)|
-|**2023-04-15**|**The 7th AI City Challenge**|Milind Naphade et.al.|[2304.07500v1](http://arxiv.org/abs/2304.07500v1)|null|
-|**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426v1](http://arxiv.org/abs/2304.07426v1)|null|
-|**2023-04-14**|**Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition**|Liangqi Yuan et.al.|[2304.07421v1](http://arxiv.org/abs/2304.07421v1)|null|
+|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|[link](https://github.com/aimi-lab/robust-pose-estimator)|
