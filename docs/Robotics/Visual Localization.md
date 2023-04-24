@@ -29,6 +29,6 @@
 |**2023-04-18**|**Making Thermal Imaging More Equitable and Accurate: Resolving Solar Loading Biases**|Ellin Q. Zhao et.al.|[2304.08832v1](http://arxiv.org/abs/2304.08832v1)|null|
 |**2023-04-17**|**(LC)$^2$: LiDAR-Camera Loop Constraints For Cross-Modal Place Recognition**|Alex Junho Lee et.al.|[2304.08660v1](http://arxiv.org/abs/2304.08660v1)|null|
 |**2023-04-17**|**Filling the gaps in video transcoder deployment in the cloud**|Vibhoothi et.al.|[2304.08634v1](http://arxiv.org/abs/2304.08634v1)|null|
-|**2023-04-17**|**Radiometry for Nighttime Sub-Cloud Imaging of Venus' Surface in the Near-InfraRed Spectrum**|Brian M. Sutin et.al.|[2304.08585v1](http://arxiv.org/abs/2304.08585v1)|null|
+|**2023-04-17**|**Radiometry for Nighttime Sub-Cloud Imaging of Venus' Surface in the Near-InfraRed Spectrum**|Brian M. Sutin et.al.|[2304.08585v2](http://arxiv.org/abs/2304.08585v2)|null|
 |**2023-04-17**|**Neural Map Prior for Autonomous Driving**|Xuan Xiong et.al.|[2304.08481v1](http://arxiv.org/abs/2304.08481v1)|null|
 |**2023-04-17**|**Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics**|Yifan Yin et.al.|[2304.08464v1](http://arxiv.org/abs/2304.08464v1)|null|
