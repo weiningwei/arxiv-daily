@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-24**|**Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis**|Chonghyuk Song et.al.|[2304.12317v1](http://arxiv.org/abs/2304.12317v1)|null|
+|**2023-04-24**|**Model-Based Pose Estimation of Steerable Catheters under Bi-Plane Image Feedback**|Jared Lawson et.al.|[2304.12165v1](http://arxiv.org/abs/2304.12165v1)|null|
+|**2023-04-24**|**VR Facial Animation for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2304.12051v1](http://arxiv.org/abs/2304.12051v1)|null|
+|**2023-04-24**|**iTieProbe: Is Your IoT Setup Secure against (Modern) Evil Twin?**|Anand Agrawal et.al.|[2304.12041v1](http://arxiv.org/abs/2304.12041v1)|null|
+|**2023-04-24**|**Study of afterpulsing in optical image intensifiers**|Ryan Mahon et.al.|[2304.12020v1](http://arxiv.org/abs/2304.12020v1)|null|
+|**2023-04-24**|**Terzina on board NUSES: a pathfinder for EAS Cherenkov Light Detection from space**|Leonid Burmistrov et.al.|[2304.11992v1](http://arxiv.org/abs/2304.11992v1)|null|
+|**2023-04-24**|**Auto-CARD: Efficient and Robust Codec Avatar Driving for Real-time Mobile Telepresence**|Yonggan Fu et.al.|[2304.11835v1](http://arxiv.org/abs/2304.11835v1)|null|
+|**2023-04-24**|**UAV-Video-Based Rip Current Detection in Nearshore Areas**|Anchen Sun et.al.|[2304.11783v1](http://arxiv.org/abs/2304.11783v1)|null|
+|**2023-04-23**|**GamutMLP: A Lightweight MLP for Color Loss Recovery**|Hoang M. Le et.al.|[2304.11743v1](http://arxiv.org/abs/2304.11743v1)|null|
+|**2023-04-23**|**A Neuro-Symbolic Approach for Enhanced Human Motion Prediction**|Sariah Mghames et.al.|[2304.11740v1](http://arxiv.org/abs/2304.11740v1)|[link](https://github.com/sariahmghames/neurosym-prediction)|
+|**2023-04-23**|**AirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world Airports**|Hongyu Sun et.al.|[2304.11662v1](http://arxiv.org/abs/2304.11662v1)|null|
+|**2023-04-23**|**Spectral Sensitivity Estimation Without a Camera**|Grigory Solomatov et.al.|[2304.11549v1](http://arxiv.org/abs/2304.11549v1)|null|
+|**2023-04-23**|**CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection**|Zhongyu Yang et.al.|[2304.11546v1](http://arxiv.org/abs/2304.11546v1)|null|
+|**2023-04-22**|**AutoVRL: A High Fidelity Autonomous Ground Vehicle Simulator for Sim-to-Real Deep Reinforcement Learning**|Shathushan Sivashangaran et.al.|[2304.11496v1](http://arxiv.org/abs/2304.11496v1)|null|
+|**2023-04-22**|**LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation**|Song Wang et.al.|[2304.11379v1](http://arxiv.org/abs/2304.11379v1)|null|
 |**2023-04-21**|**HabitatDyn Dataset: Dynamic Object Detection to Kinematics Estimation**|Zhengcheng Shen et.al.|[2304.10854v1](http://arxiv.org/abs/2304.10854v1)|[link](https://github.com/ignc-research/habitatdyn)|
 |**2023-04-21**|**Automated Static Camera Calibration with Intelligent Vehicles**|Alexander Tsaregorodtsev et.al.|[2304.10814v1](http://arxiv.org/abs/2304.10814v1)|null|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
@@ -17,18 +32,3 @@
 |**2023-04-20**|**MIPI 2023 Challenge on RGBW Remosaic: Methods and Results**|Qianhui Sun et.al.|[2304.10551v1](http://arxiv.org/abs/2304.10551v1)|null|
 |**2023-04-20**|**MIPI 2023 Challenge on RGBW Fusion: Methods and Results**|Qianhui Sun et.al.|[2304.10089v1](http://arxiv.org/abs/2304.10089v1)|null|
 |**2023-04-20**|**Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion**|Yingqi Wang et.al.|[2304.11057v1](http://arxiv.org/abs/2304.11057v1)|null|
-|**2023-04-19**|**Prospects and Applications of Incoherent Light in Non-contact Wireless Sensing Systems**|Md Zobaer Islam et.al.|[2304.09922v1](http://arxiv.org/abs/2304.09922v1)|null|
-|**2023-04-19**|**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**|Chongjian Ge et.al.|[2304.09801v1](http://arxiv.org/abs/2304.09801v1)|null|
-|**2023-04-19**|**Event-based Simultaneous Localization and Mapping: A Comprehensive Survey**|Kunping Huang et.al.|[2304.09793v1](http://arxiv.org/abs/2304.09793v1)|null|
-|**2023-04-19**|**Rehabilitation Exercise Repetition Segmentation and Counting using Skeletal Body Joints**|Ali Abedi et.al.|[2304.09735v1](http://arxiv.org/abs/2304.09735v1)|[link](https://github.com/abedicodes/repetition-segmentation)|
-|**2023-04-19**|**UniCal: a Single-Branch Transformer-Based Model for Camera-to-LiDAR Calibration and Validation**|Mathieu Cocheteux et.al.|[2304.09715v1](http://arxiv.org/abs/2304.09715v1)|null|
-|**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang et.al.|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
-|**2023-04-19**|**Automatic Individual Identification of Patterned Solitary Species Based on Unlabeled Video Data**|Vanessa Suessle et.al.|[2304.09657v1](http://arxiv.org/abs/2304.09657v1)|null|
-|**2023-04-19**|**Integrated Ray-Tracing and Coverage Planning Control using Reinforcement Learning**|Savvas Papaioannou et.al.|[2304.09631v1](http://arxiv.org/abs/2304.09631v1)|null|
-|**2023-04-19**|**Seeing the invisible: convection cells revealed with thermal imaging**|Renzo Guido et.al.|[2304.09625v1](http://arxiv.org/abs/2304.09625v1)|null|
-|**2023-04-19**|**Self-supervised Image Denoising with Downsampled Invariance Loss and Conditional Blind-Spot Network**|Yeong Il Jang et.al.|[2304.09507v1](http://arxiv.org/abs/2304.09507v1)|null|
-|**2023-04-19**|**Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment**|Hsiang-Wei Huang et.al.|[2304.09471v1](http://arxiv.org/abs/2304.09471v1)|[link](https://github.com/ipl-uw/aic23_track1_uwipl_etri)|
-|**2023-04-18**|**Federated Alternate Training (FAT): Leveraging Unannotated Data Silos in Federated Segmentation for Medical Imaging**|Erum Mushtaq et.al.|[2304.09327v1](http://arxiv.org/abs/2304.09327v1)|null|
-|**2023-04-18**|**Variational Relational Point Completion Network for Robust 3D Classification**|Liang Pan et.al.|[2304.09131v1](http://arxiv.org/abs/2304.09131v1)|null|
-|**2023-04-18**|**Multi-User Matching and Resource Allocation in Vision Aided Communications**|Weihua Xu et.al.|[2304.09075v1](http://arxiv.org/abs/2304.09075v1)|null|
-|**2023-04-18**|**Spatial profiles of collimated laser Compton-scattering $γ$-ray beams**|Takashi Ari-Izumi et.al.|[2304.08935v1](http://arxiv.org/abs/2304.08935v1)|[link](https://github.com/dan-mihai-filipescu/elilabr)|

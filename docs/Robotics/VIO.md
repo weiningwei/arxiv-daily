@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-24**|**Tidal dissipation in stratified and semi-convective regions of giant planets**|Christina M. Pontin et.al.|[2304.11898v1](http://arxiv.org/abs/2304.11898v1)|null|
+|**2023-04-22**|**Jet from a very large, surface-gravity wave**|Lohit Kayal et.al.|[2304.11365v1](http://arxiv.org/abs/2304.11365v1)|null|
 |**2023-04-21**|**Velocity and acceleration statistics of heavy spheroidal particles in turbulence**|Sofia Allende et.al.|[2304.11139v1](http://arxiv.org/abs/2304.11139v1)|null|
 |**2023-04-21**|**Visualizing Ultrafast Kinetic Instabilities in Laser-Driven Solids using X-ray Scattering**|Paweł Ordyna et.al.|[2304.11011v1](http://arxiv.org/abs/2304.11011v1)|null|
 |**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|null|
@@ -30,5 +32,3 @@
 |**2023-04-13**|**Multi-kernel Correntropy-based Orientation Estimation of IMUs: Gradient Descent Methods**|Shilei Li et.al.|[2304.06548v1](http://arxiv.org/abs/2304.06548v1)|[link](https://github.com/lsl-zsj/mc_gd_imu)|
 |**2023-04-13**|**Loosely Coupled Odometry, UWB Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization**|Xianjia Yu et.al.|[2304.06264v1](http://arxiv.org/abs/2304.06264v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|[link](https://github.com/facebookresearch/silk)|
-|**2023-04-12**|**Interaction of solar inertial modes with turbulent convection. A 2D model for the excitation of linearly stable modes**|J. Philidet et.al.|[2304.05926v1](http://arxiv.org/abs/2304.05926v1)|null|
-|**2023-04-12**|**The Generalized Plasma Focus Problem and its Application to Space Propulsion**|S K H Auluck et.al.|[2304.05780v1](http://arxiv.org/abs/2304.05780v1)|null|
