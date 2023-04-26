@@ -16,7 +16,7 @@
 |**2023-04-23**|**Spectral Sensitivity Estimation Without a Camera**|Grigory Solomatov et.al.|[2304.11549v1](http://arxiv.org/abs/2304.11549v1)|null|
 |**2023-04-23**|**CANet: Curved Guide Line Network with Adaptive Decoder for Lane Detection**|Zhongyu Yang et.al.|[2304.11546v1](http://arxiv.org/abs/2304.11546v1)|null|
 |**2023-04-22**|**AutoVRL: A High Fidelity Autonomous Ground Vehicle Simulator for Sim-to-Real Deep Reinforcement Learning**|Shathushan Sivashangaran et.al.|[2304.11496v1](http://arxiv.org/abs/2304.11496v1)|null|
-|**2023-04-22**|**LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation**|Song Wang et.al.|[2304.11379v1](http://arxiv.org/abs/2304.11379v1)|null|
+|**2023-04-22**|**LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation**|Song Wang et.al.|[2304.11379v1](http://arxiv.org/abs/2304.11379v1)|[link](https://github.com/songw-zju/lidar2map)|
 |**2023-04-21**|**HabitatDyn Dataset: Dynamic Object Detection to Kinematics Estimation**|Zhengcheng Shen et.al.|[2304.10854v1](http://arxiv.org/abs/2304.10854v1)|[link](https://github.com/ignc-research/habitatdyn)|
 |**2023-04-21**|**Automated Static Camera Calibration with Intelligent Vehicles**|Alexander Tsaregorodtsev et.al.|[2304.10814v1](http://arxiv.org/abs/2304.10814v1)|null|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
@@ -30,5 +30,5 @@
 |**2023-04-20**|**Social Distance Detection Using Deep Learning And Risk Management System**|Dr. Sangeetha R. G et.al.|[2304.10259v1](http://arxiv.org/abs/2304.10259v1)|null|
 |**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
 |**2023-04-20**|**MIPI 2023 Challenge on RGBW Remosaic: Methods and Results**|Qianhui Sun et.al.|[2304.10551v1](http://arxiv.org/abs/2304.10551v1)|null|
-|**2023-04-20**|**MIPI 2023 Challenge on RGBW Fusion: Methods and Results**|Qianhui Sun et.al.|[2304.10089v1](http://arxiv.org/abs/2304.10089v1)|null|
+|**2023-04-20**|**MIPI 2023 Challenge on RGBW Fusion: Methods and Results**|Qianhui Sun et.al.|[2304.10089v2](http://arxiv.org/abs/2304.10089v2)|null|
 |**2023-04-20**|**Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion**|Yingqi Wang et.al.|[2304.11057v1](http://arxiv.org/abs/2304.11057v1)|null|
