@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-25**|**Inverting the Imaging Process by Learning an Implicit Camera Model**|Xin Huang et.al.|[2304.12748v1](http://arxiv.org/abs/2304.12748v1)|null|
+|**2023-04-25**|**Empowering Wildlife Guardians: An Equitable Digital Stewardship and Reward System for Biodiversity Conservation using Deep Learning and 3/4G Camera Traps**|Paul Fergus et.al.|[2304.12703v1](http://arxiv.org/abs/2304.12703v1)|null|
+|**2023-04-25**|**Docmarking: Real-Time Screen-Cam Robust Document Image Watermarking**|Aleksey Yakushev et.al.|[2304.12682v1](http://arxiv.org/abs/2304.12682v1)|null|
+|**2023-04-25**|**Pseudo Labels Refinement with Intra-camera Similarity for Unsupervised Person Re-identification**|Pengna Li et.al.|[2304.12634v1](http://arxiv.org/abs/2304.12634v1)|null|
+|**2023-04-25**|**Synchronous functional magnetic resonance eye imaging, video ophthalmoscopy, and eye surface imaging reveal the human brain and eye pulsation mechanisms**|Ebrahimi Seyed-Mohsen et.al.|[2304.12629v1](http://arxiv.org/abs/2304.12629v1)|null|
+|**2023-04-25**|**SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge**|Ke Chen et.al.|[2304.12556v1](http://arxiv.org/abs/2304.12556v1)|null|
+|**2023-04-25**|**Object Semantics Give Us the Depth We Need: Multi-task Approach to Aerial Depth Completion**|Sara Hatami Gazani et.al.|[2304.12542v1](http://arxiv.org/abs/2304.12542v1)|null|
+|**2023-04-24**|**End-to-End Lidar-Camera Self-Calibration for Autonomous Vehicles**|Arya Rachman et.al.|[2304.12412v1](http://arxiv.org/abs/2304.12412v1)|null|
+|**2023-04-24**|**Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Temperature Prediction**|Christophe Bolduc et.al.|[2304.12372v1](http://arxiv.org/abs/2304.12372v1)|null|
 |**2023-04-24**|**Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis**|Chonghyuk Song et.al.|[2304.12317v1](http://arxiv.org/abs/2304.12317v1)|null|
 |**2023-04-24**|**Model-Based Pose Estimation of Steerable Catheters under Bi-Plane Image Feedback**|Jared Lawson et.al.|[2304.12165v1](http://arxiv.org/abs/2304.12165v1)|null|
 |**2023-04-24**|**VR Facial Animation for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2304.12051v1](http://arxiv.org/abs/2304.12051v1)|null|
@@ -23,12 +32,3 @@
 |**2023-04-21**|**Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models**|Jason J. Yu et.al.|[2304.10700v1](http://arxiv.org/abs/2304.10700v1)|null|
 |**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664v1](http://arxiv.org/abs/2304.10664v1)|null|
 |**2023-04-20**|**Detecting Worker Attention Lapses in Human-Robot Interaction: An Eye Tracking and Multimodal Sensing Study**|Zhuangzhuang Dai et.al.|[2304.10588v1](http://arxiv.org/abs/2304.10588v1)|null|
-|**2023-04-20**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v2](http://arxiv.org/abs/2304.10532v2)|[link](https://github.com/ethanweber/nerfbusters)|
-|**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448v1](http://arxiv.org/abs/2304.10448v1)|null|
-|**2023-04-20**|**Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review**|Shanliang Yao et.al.|[2304.10410v1](http://arxiv.org/abs/2304.10410v1)|null|
-|**2023-04-20**|**PREIM3D: 3D Consistent Precise Image Attribute Editing from a Single Image**|Jianhui Li et.al.|[2304.10263v1](http://arxiv.org/abs/2304.10263v1)|null|
-|**2023-04-20**|**Social Distance Detection Using Deep Learning And Risk Management System**|Dr. Sangeetha R. G et.al.|[2304.10259v1](http://arxiv.org/abs/2304.10259v1)|null|
-|**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
-|**2023-04-20**|**MIPI 2023 Challenge on RGBW Remosaic: Methods and Results**|Qianhui Sun et.al.|[2304.10551v1](http://arxiv.org/abs/2304.10551v1)|null|
-|**2023-04-20**|**MIPI 2023 Challenge on RGBW Fusion: Methods and Results**|Qianhui Sun et.al.|[2304.10089v2](http://arxiv.org/abs/2304.10089v2)|null|
-|**2023-04-20**|**Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion**|Yingqi Wang et.al.|[2304.11057v1](http://arxiv.org/abs/2304.11057v1)|null|

@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-25**|**AdaLIO: Robust Adaptive LiDAR-Inertial Odometry in Degenerate Indoor Environments**|Hyungtae Lim et.al.|[2304.12577v1](http://arxiv.org/abs/2304.12577v1)|null|
 |**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|null|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
@@ -31,4 +32,3 @@
 |**2023-03-14**|**PIEKF-VIWO: Visual-Inertial-Wheel Odometry using Partial Invariant Extended Kalman Filter**|Tong Hua et.al.|[2303.07668v1](http://arxiv.org/abs/2303.07668v1)|null|
 |**2023-03-13**|**Discovering Multiple Algorithm Configurations**|Leonid Keselman et.al.|[2303.07434v1](http://arxiv.org/abs/2303.07434v1)|null|
 |**2023-03-13**|**Low Frequency Spinning LiDAR De-Skewing**|Omar Salem et.al.|[2303.07312v1](http://arxiv.org/abs/2303.07312v1)|null|
-|**2023-03-13**|**OverlapNetVLAD: A Coarse-to-Fine Framework for LiDAR-based Place Recognition**|Chencan Fu et.al.|[2303.06881v1](http://arxiv.org/abs/2303.06881v1)|[link](https://github.com/fcchit/overlapnetvlad)|
