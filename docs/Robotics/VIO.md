@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
+|**2023-04-27**|**Quadric Representations for LiDAR Odometry, Mapping and Localization**|Chao Xia et.al.|[2304.14190v1](http://arxiv.org/abs/2304.14190v1)|null|
+|**2023-04-27**|**Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels**|Z. P. Fu et.al.|[2304.14086v1](http://arxiv.org/abs/2304.14086v1)|null|
+|**2023-04-27**|**Unsteady granular chute flows at high inertial numbers**|Satyabrata Patro et.al.|[2304.14060v1](http://arxiv.org/abs/2304.14060v1)|null|
 |**2023-04-26**|**Non-Local Multi-Continuum method (NLMC) for Darcy-Forchheimer flow in fractured media**|Denis Spiridonov et.al.|[2304.13480v1](http://arxiv.org/abs/2304.13480v1)|null|
 |**2023-04-26**|**Reynolds number dependence of turbulence induced by the Richtmyer-Meshkov instability using direct numerical simulations**|Michael Groom et.al.|[2304.13453v1](http://arxiv.org/abs/2304.13453v1)|null|
 |**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329v1](http://arxiv.org/abs/2304.13329v1)|null|
@@ -27,8 +32,3 @@
 |**2023-04-18**|**Neuromorphic computing for attitude estimation onboard quadrotors**|Stein Stroobants et.al.|[2304.08802v1](http://arxiv.org/abs/2304.08802v1)|null|
 |**2023-04-17**|**Equivalence principle, de-Sitter space, and cosmological twistors**|Maciej Dunajski et.al.|[2304.08574v1](http://arxiv.org/abs/2304.08574v1)|null|
 |**2023-04-17**|**Robust human position estimation in cooperative robotic cells**|António Amorim et.al.|[2304.08379v1](http://arxiv.org/abs/2304.08379v1)|null|
-|**2023-04-17**|**The driven-Markovian master equation based on the Lewis-Riesenfeld invariants theory**|S. L. Wu et.al.|[2304.07956v2](http://arxiv.org/abs/2304.07956v2)|null|
-|**2023-04-16**|**On the computation of thermo-relaxing multi-component flows with the Baer-Nunziato model**|Chao Zhang et.al.|[2304.07799v1](http://arxiv.org/abs/2304.07799v1)|null|
-|**2023-04-16**|**TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation**|Leyuan Sun et.al.|[2304.07728v2](http://arxiv.org/abs/2304.07728v2)|[link](https://github.com/rakugenson/multi-modal-dataset-for-odometry-estimation)|
-|**2023-04-15**|**The Gravito-Maxwell Equations of General Relativity in the local reference frame of a GR-noninertial observer**|Christoph Schmid et.al.|[2304.07595v1](http://arxiv.org/abs/2304.07595v1)|null|
-|**2023-04-14**|**Measuring spin in coalescing binaries of neutron stars showing double precursors**|Hao-Jui Kuan et.al.|[2304.07170v1](http://arxiv.org/abs/2304.07170v1)|null|
