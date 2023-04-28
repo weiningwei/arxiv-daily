@@ -6,7 +6,7 @@
 |**2023-04-26**|**Reynolds number dependence of turbulence induced by the Richtmyer-Meshkov instability using direct numerical simulations**|Michael Groom et.al.|[2304.13453v1](http://arxiv.org/abs/2304.13453v1)|null|
 |**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329v1](http://arxiv.org/abs/2304.13329v1)|null|
 |**2023-04-26**|**Cross-beam energy transfer in conditions relevant to direct-drive implosions on OMEGA**|K. L. Nguyen et.al.|[2304.13268v1](http://arxiv.org/abs/2304.13268v1)|null|
-|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v1](http://arxiv.org/abs/2304.13182v1)|null|
+|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 |**2023-04-25**|**AdaLIO: Robust Adaptive LiDAR-Inertial Odometry in Degenerate Indoor Environments**|Hyungtae Lim et.al.|[2304.12577v1](http://arxiv.org/abs/2304.12577v1)|null|
 |**2023-04-24**|**Tidal dissipation in stratified and semi-convective regions of giant planets**|Christina M. Pontin et.al.|[2304.11898v1](http://arxiv.org/abs/2304.11898v1)|null|
 |**2023-04-22**|**Jet from a very large, surface-gravity wave**|Lohit Kayal et.al.|[2304.11365v1](http://arxiv.org/abs/2304.11365v1)|null|
