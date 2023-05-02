@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v1](http://arxiv.org/abs/2305.00647v1)|null|
+|**2023-04-30**|**Chronological-safe kind of geometric phase for $C_{60}$ fullerenes in Gödel spacetimes**|Everton Cavalcante et.al.|[2305.00490v1](http://arxiv.org/abs/2305.00490v1)|null|
+|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
+|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
 |**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
 |**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v1](http://arxiv.org/abs/2304.14696v1)|null|
 |**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
@@ -28,7 +32,3 @@
 |**2023-04-20**|**Segmented strings and holographic entanglement entropy**|Bercel Boldis et.al.|[2304.10389v1](http://arxiv.org/abs/2304.10389v1)|null|
 |**2023-04-20**|**Linear wave solutions of a stochastic shallow water model**|Etienne Mémin et.al.|[2304.10183v3](http://arxiv.org/abs/2304.10183v3)|[link](https://github.com/matlong/sw-wave-lu)|
 |**2023-04-20**|**Attitude-Estimation-Free GNSS and IMU Integration**|Taro Suzuki et.al.|[2304.10142v1](http://arxiv.org/abs/2304.10142v1)|null|
-|**2023-04-19**|**Irregular dependence on Stokes number and non-ergodic transport of heavy inertial particles in steady laminar flows**|Anu V. S. Nath et.al.|[2304.09804v1](http://arxiv.org/abs/2304.09804v1)|null|
-|**2023-04-18**|**From observer-dependent facts to frame-dependent measurement records in Wigner friend scenarios**|J. Allam et.al.|[2304.09289v1](http://arxiv.org/abs/2304.09289v1)|null|
-|**2023-04-18**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043v1](http://arxiv.org/abs/2304.09043v1)|null|
-|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
