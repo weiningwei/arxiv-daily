@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-02**|**Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection**|Ruoshi Liu et.al.|[2305.01652v1](http://arxiv.org/abs/2305.01652v1)|null|
+|**2023-05-02**|**FlowMap: Path Generation for Automated Vehicles in Open Space Using Traffic Flow**|Wenchao Ding et.al.|[2305.01622v1](http://arxiv.org/abs/2305.01622v1)|null|
+|**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
+|**2023-05-02**|**Safe Autonomous Driving in Adverse Weather: Sensor Evaluation and Performance Monitoring**|Fatih Sezgin et.al.|[2305.01336v1](http://arxiv.org/abs/2305.01336v1)|null|
+|**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257v1](http://arxiv.org/abs/2305.01257v1)|null|
+|**2023-05-02**|**EasyHeC: Accurate and Automatic Hand-eye Calibration via Differentiable Rendering and Space Exploration**|Linghao Chen et.al.|[2305.01191v1](http://arxiv.org/abs/2305.01191v1)|null|
+|**2023-05-02**|**Strategy for Dynamic Wisp Removal in James Webb Space Telescope NIRCam Images**|A. S. G. Robotham et.al.|[2305.01175v1](http://arxiv.org/abs/2305.01175v1)|null|
+|**2023-05-02**|**A New Wave in Robotics: Survey on Recent mmWave Radar Applications in Robotics**|Kyle Harlow et.al.|[2305.01135v1](http://arxiv.org/abs/2305.01135v1)|null|
+|**2023-05-01**|**LSTM-based Preceding Vehicle Behaviour Prediction during Aggressive Lane Change for ACC Application**|Rajmeet Singh et.al.|[2305.01095v1](http://arxiv.org/abs/2305.01095v1)|null|
 |**2023-05-01**|**Event Camera as Region Proposal Network**|Shrutarv Awasthi et.al.|[2305.00718v1](http://arxiv.org/abs/2305.00718v1)|null|
 |**2023-05-01**|**Joint tone mapping and denoising of thermal infrared images via multi-scale Retinex and multi-task learning**|Axel Gödrich et.al.|[2305.00691v1](http://arxiv.org/abs/2305.00691v1)|null|
 |**2023-04-30**|**Guaranteed Evader Detection in Multi-Agent Search Tasks using Pincer Trajectories**|Roee M. Francos et.al.|[2305.00533v1](http://arxiv.org/abs/2305.00533v1)|null|
@@ -23,12 +32,3 @@
 |**2023-04-28**|**Image-based Indian Sign Language Recognition: A Practical Review using Deep Neural Networks**|Mallikharjuna Rao K et.al.|[2304.14710v1](http://arxiv.org/abs/2304.14710v1)|null|
 |**2023-04-28**|**CVRecon: Rethinking 3D Geometric Feature Learning For Neural Reconstruction**|Ziyue Feng et.al.|[2304.14633v1](http://arxiv.org/abs/2304.14633v1)|null|
 |**2023-04-28**|**Fusion is Not Enough: Single-Modal Attacks to Compromise Fusion Models in Autonomous Driving**|Zhiyuan Cheng et.al.|[2304.14614v1](http://arxiv.org/abs/2304.14614v1)|null|
-|**2023-04-28**|**The Light Source of the TRIDENT Pathfinder Experiment**|Wenlian Li et.al.|[2304.14608v1](http://arxiv.org/abs/2304.14608v1)|null|
-|**2023-04-27**|**Neural Implicit Dense Semantic SLAM**|Yasaman Haghighi et.al.|[2304.14560v1](http://arxiv.org/abs/2304.14560v1)|null|
-|**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
-|**2023-04-27**|**Understanding Shared Speech-Text Representations**|Gary Wang et.al.|[2304.14514v1](http://arxiv.org/abs/2304.14514v1)|null|
-|**2023-04-27**|**Double-light-sheet, Consecutive-overlapping Particle Image Velocimetry for the Study of Boundary Layers past Opaque Objects**|Shuangjiu Fu et.al.|[2304.14513v1](http://arxiv.org/abs/2304.14513v1)|null|
-|**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang et.al.|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|null|
-|**2023-04-27**|**SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**|Yichen Xie et.al.|[2304.14340v1](http://arxiv.org/abs/2304.14340v1)|[link](https://github.com/yichen928/sparsefusion)|
-|**2023-04-27**|**Person Re-ID through Unsupervised Hypergraph Rank Selection and Fusion**|Lucas Pascotti Valem et.al.|[2304.14321v1](http://arxiv.org/abs/2304.14321v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
