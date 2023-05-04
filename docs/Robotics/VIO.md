@@ -12,7 +12,7 @@
 |**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
 |**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
 |**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-27**|**Quadric Representations for LiDAR Odometry, Mapping and Localization**|Chao Xia et.al.|[2304.14190v1](http://arxiv.org/abs/2304.14190v1)|null|
 |**2023-04-27**|**Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels**|Z. P. Fu et.al.|[2304.14086v2](http://arxiv.org/abs/2304.14086v2)|null|
 |**2023-04-27**|**Unsteady granular chute flows at high inertial numbers**|Satyabrata Patro et.al.|[2304.14060v1](http://arxiv.org/abs/2304.14060v1)|null|
