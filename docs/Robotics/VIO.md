@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-03**|**Integrated 5G mmWave Positioning in Deep Urban Environments: Advantages and Challenges**|Sharief Saleh et.al.|[2305.02284v1](http://arxiv.org/abs/2305.02284v1)|null|
+|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
+|**2023-05-03**|**Statistics of Pressure Fluctuations in Turbulent Kinetic Plasmas**|Subash Adhikari et.al.|[2305.02068v1](http://arxiv.org/abs/2305.02068v1)|null|
+|**2023-05-03**|**Stochastic High Fidelity Autonomous Fixed Wing Aircraft Flight Simulator**|Eduardo Gallo et.al.|[2305.02016v1](http://arxiv.org/abs/2305.02016v1)|null|
+|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
+|**2023-05-02**|**Paradoxical nature of negative mobility in the weak dissipation regime**|Mateusz Wiśniewski et.al.|[2305.01740v1](http://arxiv.org/abs/2305.01740v1)|null|
 |**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
 |**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v1](http://arxiv.org/abs/2305.00647v1)|null|
 |**2023-04-30**|**Chronological-safe kind of geometric phase for $C_{60}$ fullerenes in Gödel spacetimes**|Everton Cavalcante et.al.|[2305.00490v1](http://arxiv.org/abs/2305.00490v1)|null|
@@ -26,9 +32,3 @@
 |**2023-04-22**|**Jet from a very large, surface-gravity wave**|Lohit Kayal et.al.|[2304.11365v1](http://arxiv.org/abs/2304.11365v1)|null|
 |**2023-04-21**|**Velocity and acceleration statistics of heavy spheroidal particles in turbulence**|Sofia Allende et.al.|[2304.11139v1](http://arxiv.org/abs/2304.11139v1)|null|
 |**2023-04-21**|**Visualizing Ultrafast Kinetic Instabilities in Laser-Driven Solids using X-ray Scattering**|Paweł Ordyna et.al.|[2304.11011v2](http://arxiv.org/abs/2304.11011v2)|null|
-|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|[link](https://github.com/hitsz-nrsl/dynamic-vins)|
-|**2023-04-21**|**Automated Static Camera Calibration with Intelligent Vehicles**|Alexander Tsaregorodtsev et.al.|[2304.10814v1](http://arxiv.org/abs/2304.10814v1)|null|
-|**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
-|**2023-04-20**|**Activity Classification Using Unsupervised Domain Transfer from Body Worn Sensors**|Chaitra Hedge et.al.|[2304.10643v1](http://arxiv.org/abs/2304.10643v1)|null|
-|**2023-04-20**|**Segmented strings and holographic entanglement entropy**|Bercel Boldis et.al.|[2304.10389v1](http://arxiv.org/abs/2304.10389v1)|null|
-|**2023-04-20**|**Linear wave solutions of a stochastic shallow water model**|Etienne Mémin et.al.|[2304.10183v3](http://arxiv.org/abs/2304.10183v3)|[link](https://github.com/matlong/sw-wave-lu)|
