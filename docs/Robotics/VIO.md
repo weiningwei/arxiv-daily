@@ -9,12 +9,12 @@
 |**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-05-02**|**Paradoxical nature of negative mobility in the weak dissipation regime**|Mateusz Wiśniewski et.al.|[2305.01740v1](http://arxiv.org/abs/2305.01740v1)|null|
 |**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
-|**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v1](http://arxiv.org/abs/2305.00647v1)|null|
+|**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v2](http://arxiv.org/abs/2305.00647v2)|null|
 |**2023-04-30**|**Chronological-safe kind of geometric phase for $C_{60}$ fullerenes in Gödel spacetimes**|Everton Cavalcante et.al.|[2305.00490v1](http://arxiv.org/abs/2305.00490v1)|null|
 |**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
 |**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
-|**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v1](http://arxiv.org/abs/2304.14696v1)|null|
+|**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v2](http://arxiv.org/abs/2304.14696v2)|null|
 |**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
 |**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
 |**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|
