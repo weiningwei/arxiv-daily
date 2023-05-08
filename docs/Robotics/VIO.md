@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
 |**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
 |**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
 |**2023-05-04**|**Quasilinear theory of Brillouin resonances in rotating magnetized plasmas**|J. -M. Rax et.al.|[2305.02671v1](http://arxiv.org/abs/2305.02671v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-26**|**Reynolds number dependence of turbulence induced by the Richtmyer-Meshkov instability using direct numerical simulations**|Michael Groom et.al.|[2304.13453v1](http://arxiv.org/abs/2304.13453v1)|null|
 |**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329v1](http://arxiv.org/abs/2304.13329v1)|null|
 |**2023-04-26**|**Cross-beam energy transfer in conditions relevant to direct-drive implosions on OMEGA**|K. L. Nguyen et.al.|[2304.13268v1](http://arxiv.org/abs/2304.13268v1)|null|
-|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
