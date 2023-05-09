@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-08**|**Multi-legged matter transport: a framework for locomotion on noisy landscapes**|Baxi Chong et.al.|[2305.04773v1](http://arxiv.org/abs/2305.04773v1)|null|
+|**2023-05-08**|**A Reduced Basis LES turbulence model based upon Kolmogorov's equilibrium turbulence theory**|Alejandro Bandera Moreno et.al.|[2305.04598v1](http://arxiv.org/abs/2305.04598v1)|null|
+|**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
+|**2023-05-06**|**Motion and deformation of capsules flowing through a corner in the inertial and non-inertial regimes**|Damien P. Huet et.al.|[2305.04129v1](http://arxiv.org/abs/2305.04129v1)|null|
+|**2023-05-06**|**Exploring the link between coffee matrix microstructure and flow properties using combined X-ray microtomography and smoothed particle hydrodynamics simulations**|Chaojie Mo et.al.|[2305.03911v1](http://arxiv.org/abs/2305.03911v1)|null|
+|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
 |**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
 |**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
 |**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
@@ -26,9 +32,3 @@
 |**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-27**|**Quadric Representations for LiDAR Odometry, Mapping and Localization**|Chao Xia et.al.|[2304.14190v1](http://arxiv.org/abs/2304.14190v1)|null|
-|**2023-04-27**|**Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels**|Z. P. Fu et.al.|[2304.14086v2](http://arxiv.org/abs/2304.14086v2)|null|
-|**2023-04-27**|**Unsteady granular chute flows at high inertial numbers**|Satyabrata Patro et.al.|[2304.14060v1](http://arxiv.org/abs/2304.14060v1)|null|
-|**2023-04-26**|**Non-Local Multi-Continuum method (NLMC) for Darcy-Forchheimer flow in fractured media**|Denis Spiridonov et.al.|[2304.13480v1](http://arxiv.org/abs/2304.13480v1)|null|
-|**2023-04-26**|**Reynolds number dependence of turbulence induced by the Richtmyer-Meshkov instability using direct numerical simulations**|Michael Groom et.al.|[2304.13453v1](http://arxiv.org/abs/2304.13453v1)|null|
-|**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329v1](http://arxiv.org/abs/2304.13329v1)|null|
-|**2023-04-26**|**Cross-beam energy transfer in conditions relevant to direct-drive implosions on OMEGA**|K. L. Nguyen et.al.|[2304.13268v1](http://arxiv.org/abs/2304.13268v1)|null|
