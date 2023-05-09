@@ -13,7 +13,7 @@
 |**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036v1](http://arxiv.org/abs/2305.03036v1)|null|
 |**2023-05-04**|**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads**|Tobias Kirschstein et.al.|[2305.03027v1](http://arxiv.org/abs/2305.03027v1)|null|
 |**2023-05-04**|**OSDaR23: Open Sensor Data for Rail 2023**|Rustam Tagiew et.al.|[2305.03001v1](http://arxiv.org/abs/2305.03001v1)|null|
-|**2023-05-04**|**Site-testing at the Muztagh-ata Site.V. Nighttime Cloud Amount during the Last Five Years**|Jing Xu et.al.|[2305.03067v1](http://arxiv.org/abs/2305.03067v1)|null|
+|**2023-05-04**|**Site-testing at the Muztagh-ata Site.V. Nighttime Cloud Amount during the Last Five Years**|Jing Xu et.al.|[2305.03067v2](http://arxiv.org/abs/2305.03067v2)|null|
 |**2023-05-04**|**An array of microresonators as a Photonic Extreme Learning Machine**|Stefano Biasi et.al.|[2305.03066v1](http://arxiv.org/abs/2305.03066v1)|null|
 |**2023-05-04**|**Neuromorphic Sensing for Yawn Detection in Driver Drowsiness**|Paul Kielty et.al.|[2305.02888v1](http://arxiv.org/abs/2305.02888v1)|null|
 |**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756v1](http://arxiv.org/abs/2305.02756v1)|[link](https://github.com/gradient-scaling/gradient-scaling.github.io)|
