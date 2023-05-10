@@ -1,47 +1,21 @@
 # arxiv-daily
- Automated deployment @ 2023-05-10 09:48:14 Asia/Shanghai
+ Automated deployment @ 2023-05-10 20:12:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-08**|**Multi-legged matter transport: a framework for locomotion on noisy landscapes**|Baxi Chong et.al.|[2305.04773v1](http://arxiv.org/abs/2305.04773v1)|null|
-|**2023-05-08**|**A Reduced Basis LES turbulence model based upon Kolmogorov's equilibrium turbulence theory**|Alejandro Bandera Moreno et.al.|[2305.04598v1](http://arxiv.org/abs/2305.04598v1)|null|
-|**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
-|**2023-05-06**|**Motion and deformation of capsules flowing through a corner in the inertial and non-inertial regimes**|Damien P. Huet et.al.|[2305.04129v1](http://arxiv.org/abs/2305.04129v1)|null|
-|**2023-05-06**|**Exploring the link between coffee matrix microstructure and flow properties using combined X-ray microtomography and smoothed particle hydrodynamics simulations**|Chaojie Mo et.al.|[2305.03911v1](http://arxiv.org/abs/2305.03911v1)|null|
-|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
-|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
-|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
-|**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
-|**2023-05-04**|**Quasilinear theory of Brillouin resonances in rotating magnetized plasmas**|J. -M. Rax et.al.|[2305.02671v1](http://arxiv.org/abs/2305.02671v1)|null|
-|**2023-05-04**|**Odd-viscosity induced surfactant-laden shear-imposed viscous film over a slippery incline**|Md. Mouzakkir Hossain et.al.|[2305.02565v1](http://arxiv.org/abs/2305.02565v1)|null|
-|**2023-05-03**|**Primary Neutron Spectra in Ion Vlasov-Fokker-Planck Simulations**|B. D. Appelbe et.al.|[2305.02403v1](http://arxiv.org/abs/2305.02403v1)|null|
-|**2023-05-03**|**Integrated 5G mmWave Positioning in Deep Urban Environments: Advantages and Challenges**|Sharief Saleh et.al.|[2305.02284v1](http://arxiv.org/abs/2305.02284v1)|null|
-|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
-|**2023-05-03**|**Statistics of Pressure Fluctuations in Turbulent Kinetic Plasmas**|Subash Adhikari et.al.|[2305.02068v1](http://arxiv.org/abs/2305.02068v1)|null|
-|**2023-05-03**|**Stochastic High Fidelity Autonomous Fixed Wing Aircraft Flight Simulator**|Eduardo Gallo et.al.|[2305.02016v1](http://arxiv.org/abs/2305.02016v1)|null|
-|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
-|**2023-05-02**|**Paradoxical nature of negative mobility in the weak dissipation regime**|Mateusz Wiśniewski et.al.|[2305.01740v1](http://arxiv.org/abs/2305.01740v1)|null|
-|**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
-|**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v2](http://arxiv.org/abs/2305.00647v2)|null|
-|**2023-04-30**|**Chronological-safe kind of geometric phase for $C_{60}$ fullerenes in Gödel spacetimes**|Everton Cavalcante et.al.|[2305.00490v1](http://arxiv.org/abs/2305.00490v1)|null|
-|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
-|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
-|**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
-|**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v3](http://arxiv.org/abs/2304.14696v3)|null|
-|**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
-|**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
-|**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
-|**2023-04-27**|**Quadric Representations for LiDAR Odometry, Mapping and Localization**|Chao Xia et.al.|[2304.14190v1](http://arxiv.org/abs/2304.14190v1)|null|
-
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-09**|**EFE: End-to-end Frame-to-Gaze Estimation**|Haldun Balim et.al.|[2305.05526v1](http://arxiv.org/abs/2305.05526v1)|null|
+|**2023-05-09**|**Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**|Clémentin Boittiaux et.al.|[2305.05301v1](http://arxiv.org/abs/2305.05301v1)|[link](https://github.com/clementinboittiaux/sfm-pipeline)|
+|**2023-05-09**|**Towards Understanding Generalization of Macro-AUC in Multi-label Learning**|Guoqiang Wu et.al.|[2305.05248v1](http://arxiv.org/abs/2305.05248v1)|null|
+|**2023-05-09**|**FishRecGAN: An End to End GAN Based Network for Fisheye Rectification and Calibration**|Xin Shen et.al.|[2305.05222v1](http://arxiv.org/abs/2305.05222v1)|null|
+|**2023-05-09**|**A compact single-shot soft X-ray photon spectrometer for free electron laser diagnostics**|Kirk A. Larsen et.al.|[2305.05169v1](http://arxiv.org/abs/2305.05169v1)|null|
+|**2023-05-09**|**Wood-sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v1](http://arxiv.org/abs/2305.05103v1)|null|
+|**2023-05-08**|**Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**|Shiqi Xu et.al.|[2305.05085v1](http://arxiv.org/abs/2305.05085v1)|null|
+|**2023-05-08**|**Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing**|Hyeokhyen Kwon et.al.|[2305.05062v1](http://arxiv.org/abs/2305.05062v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 |**2023-05-08**|**Sense, Imagine, Act: Multimodal Perception Improves Model-Based Reinforcement Learning for Head-to-Head Autonomous Racing**|Elena Shrestha et.al.|[2305.04750v1](http://arxiv.org/abs/2305.04750v1)|null|
 |**2023-05-08**|**The Treachery of Images: Bayesian Scene Keypoints for Deep Policy Learning in Robotic Manipulation**|Jan Ole von Hartz et.al.|[2305.04718v1](http://arxiv.org/abs/2305.04718v1)|null|
@@ -57,21 +31,13 @@
 |**2023-05-07**|**Design, Implementation and Evaluation of an External Pose-Tracking System for Underwater Cameras**|Birger Winkel et.al.|[2305.04226v1](http://arxiv.org/abs/2305.04226v1)|null|
 |**2023-05-06**|**Multi-tracer power spectra and bispectra: Formalism**|Dionysios Karagiannis et.al.|[2305.04028v1](http://arxiv.org/abs/2305.04028v1)|null|
 |**2023-05-06**|**Target-free Extrinsic Calibration of Event-LiDAR Dyad using Edge Correspondences**|Wanli Xing et.al.|[2305.04017v1](http://arxiv.org/abs/2305.04017v1)|null|
-|**2023-05-05**|**Single-pixel transmission matrix recovery via 2-photon fluorescence**|Shupeng Zhao et.al.|[2305.03806v1](http://arxiv.org/abs/2305.03806v1)|null|
+|**2023-05-05**|**Single-pixel transmission matrix recovery via 2-photon fluorescence**|Shupeng Zhao et.al.|[2305.03806v1](http://arxiv.org/abs/2305.03806v1)|[link](https://github.com/comedialkb/single_pixel_tm_recovery)|
 |**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|null|
 |**2023-05-05**|**A surface-normal photodetector as nonlinear activation function in diffractive optical neural networks**|Farshid Ashtiani et.al.|[2305.03627v1](http://arxiv.org/abs/2305.03627v1)|null|
 |**2023-05-05**|**Next-generation Surgical Navigation: Multi-view Marker-less 6DoF Pose Estimation of Surgical Instruments**|Jonas Hein et.al.|[2305.03535v1](http://arxiv.org/abs/2305.03535v1)|null|
 |**2023-05-05**|**Close-range Human Following Control on a Cane-type Robot with Multi-camera Fusion**|Haowen Liu et.al.|[2305.03354v1](http://arxiv.org/abs/2305.03354v1)|null|
 |**2023-05-05**|**HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems**|Mohammad Saeid Anwar et.al.|[2305.03252v1](http://arxiv.org/abs/2305.03252v1)|null|
 |**2023-05-05**|**Sign-Coded Exposure Sensing for Noise-Robust High-Speed Imaging**|R. Wes Baldwin et.al.|[2305.03226v1](http://arxiv.org/abs/2305.03226v1)|null|
-|**2023-05-05**|**MOSAIC: Spatially-Multiplexed Edge AI Optimization over Multiple Concurrent Video Sensing Streams**|Ila Gokarn et.al.|[2305.03222v1](http://arxiv.org/abs/2305.03222v1)|null|
-|**2023-05-04**|**TelecomTM: A Fine-Grained and Ubiquitous Traffic Monitoring System Using Pre-Existing Telecommunication Fiber-Optic Cables as Sensors**|Jingxiao Liu et.al.|[2305.03172v1](http://arxiv.org/abs/2305.03172v1)|null|
-|**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036v1](http://arxiv.org/abs/2305.03036v1)|null|
-|**2023-05-04**|**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads**|Tobias Kirschstein et.al.|[2305.03027v1](http://arxiv.org/abs/2305.03027v1)|null|
-|**2023-05-04**|**OSDaR23: Open Sensor Data for Rail 2023**|Rustam Tagiew et.al.|[2305.03001v1](http://arxiv.org/abs/2305.03001v1)|null|
-|**2023-05-04**|**Site-testing at the Muztagh-ata Site.V. Nighttime Cloud Amount during the Last Five Years**|Jing Xu et.al.|[2305.03067v2](http://arxiv.org/abs/2305.03067v2)|null|
-|**2023-05-04**|**An array of microresonators as a Photonic Extreme Learning Machine**|Stefano Biasi et.al.|[2305.03066v1](http://arxiv.org/abs/2305.03066v1)|null|
-|**2023-05-04**|**Neuromorphic Sensing for Yawn Detection in Driver Drowsiness**|Paul Kielty et.al.|[2305.02888v1](http://arxiv.org/abs/2305.02888v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +76,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-09**|**Understanding why SLAM algorithms fail in modern indoor environments**|Nwankwo Linus et.al.|[2305.05313v1](http://arxiv.org/abs/2305.05313v1)|null|
 |**2023-05-07**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v1](http://arxiv.org/abs/2305.04286v1)|null|
 |**2023-05-06**|**Robust optimization of control parameters for WEC arrays using stochastic methods**|Marco Gambarini et.al.|[2305.04130v1](http://arxiv.org/abs/2305.04130v1)|null|
 |**2023-05-05**|**Multi S-graphs: A Collaborative Semantic SLAM architecture**|Miguel Fernandez-Cortizas et.al.|[2305.03441v1](http://arxiv.org/abs/2305.03441v1)|null|
@@ -139,4 +106,37 @@
 |**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146v2](http://arxiv.org/abs/2304.05146v2)|[link](https://github.com/jixingwu/ss-lcd)|
 |**2023-04-10**|**Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned**|Yulun Tian et.al.|[2304.04362v1](http://arxiv.org/abs/2304.04362v1)|[link](https://github.com/mit-spark/kimera-multi)|
 |**2023-04-10**|**A Power Method for Computing the Dominant Eigenvalue of a Dual Quaternion Hermitian Matrix**|Chunfeng Cui et.al.|[2304.04355v2](http://arxiv.org/abs/2304.04355v2)|null|
-|**2023-04-09**|**Point-SLAM: Dense Neural Point Cloud-based SLAM**|Erik Sandström et.al.|[2304.04278v1](http://arxiv.org/abs/2304.04278v1)|[link](https://github.com/tfy14esa/point-slam)|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-09**|**Atomic gravimeter robust to environmental effects**|Cristian D. Panda et.al.|[2305.05555v1](http://arxiv.org/abs/2305.05555v1)|null|
+|**2023-05-09**|**Hamel's Equations and Geometric Mechanics of Constrained and Floating Multibody and Space Systems**|Andreas Mueller et.al.|[2305.05412v1](http://arxiv.org/abs/2305.05412v1)|null|
+|**2023-05-08**|**Multi-legged matter transport: a framework for locomotion on noisy landscapes**|Baxi Chong et.al.|[2305.04773v1](http://arxiv.org/abs/2305.04773v1)|null|
+|**2023-05-08**|**A Reduced Basis LES turbulence model based upon Kolmogorov's equilibrium turbulence theory**|Alejandro Bandera Moreno et.al.|[2305.04598v1](http://arxiv.org/abs/2305.04598v1)|null|
+|**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
+|**2023-05-06**|**Motion and deformation of capsules flowing through a corner in the inertial and non-inertial regimes**|Damien P. Huet et.al.|[2305.04129v1](http://arxiv.org/abs/2305.04129v1)|null|
+|**2023-05-06**|**Exploring the link between coffee matrix microstructure and flow properties using combined X-ray microtomography and smoothed particle hydrodynamics simulations**|Chaojie Mo et.al.|[2305.03911v1](http://arxiv.org/abs/2305.03911v1)|null|
+|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
+|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
+|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
+|**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
+|**2023-05-04**|**Quasilinear theory of Brillouin resonances in rotating magnetized plasmas**|J. -M. Rax et.al.|[2305.02671v1](http://arxiv.org/abs/2305.02671v1)|null|
+|**2023-05-04**|**Odd-viscosity induced surfactant-laden shear-imposed viscous film over a slippery incline**|Md. Mouzakkir Hossain et.al.|[2305.02565v1](http://arxiv.org/abs/2305.02565v1)|null|
+|**2023-05-03**|**Primary Neutron Spectra in Ion Vlasov-Fokker-Planck Simulations**|B. D. Appelbe et.al.|[2305.02403v1](http://arxiv.org/abs/2305.02403v1)|null|
+|**2023-05-03**|**Integrated 5G mmWave Positioning in Deep Urban Environments: Advantages and Challenges**|Sharief Saleh et.al.|[2305.02284v1](http://arxiv.org/abs/2305.02284v1)|null|
+|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
+|**2023-05-03**|**Statistics of Pressure Fluctuations in Turbulent Kinetic Plasmas**|Subash Adhikari et.al.|[2305.02068v1](http://arxiv.org/abs/2305.02068v1)|null|
+|**2023-05-03**|**Stochastic High Fidelity Autonomous Fixed Wing Aircraft Flight Simulator**|Eduardo Gallo et.al.|[2305.02016v1](http://arxiv.org/abs/2305.02016v1)|null|
+|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
+|**2023-05-02**|**Paradoxical nature of negative mobility in the weak dissipation regime**|Mateusz Wiśniewski et.al.|[2305.01740v1](http://arxiv.org/abs/2305.01740v1)|null|
+|**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
+|**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v2](http://arxiv.org/abs/2305.00647v2)|null|
+|**2023-04-30**|**Chronological-safe kind of geometric phase for $C_{60}$ fullerenes in Gödel spacetimes**|Everton Cavalcante et.al.|[2305.00490v1](http://arxiv.org/abs/2305.00490v1)|null|
+|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
+|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
+|**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
+|**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v3](http://arxiv.org/abs/2304.14696v3)|null|
+|**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
+|**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
+|**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|
