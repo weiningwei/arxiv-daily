@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|null|
 |**2023-05-09**|**Atomic gravimeter robust to environmental effects**|Cristian D. Panda et.al.|[2305.05555v1](http://arxiv.org/abs/2305.05555v1)|null|
 |**2023-05-09**|**Hamel's Equations and Geometric Mechanics of Constrained and Floating Multibody and Space Systems**|Andreas Mueller et.al.|[2305.05412v1](http://arxiv.org/abs/2305.05412v1)|null|
 |**2023-05-08**|**Multi-legged matter transport: a framework for locomotion on noisy landscapes**|Baxi Chong et.al.|[2305.04773v1](http://arxiv.org/abs/2305.04773v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v3](http://arxiv.org/abs/2304.14696v3)|null|
 |**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
 |**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
-|**2023-04-27**|**A Method for Classifying Snow Using Ski-Mounted Strain Sensors**|Florian McLelland et.al.|[2304.14307v1](http://arxiv.org/abs/2304.14307v1)|null|

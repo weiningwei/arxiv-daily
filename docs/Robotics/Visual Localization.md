@@ -2,10 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v1](http://arxiv.org/abs/2305.06356v1)|null|
+|**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)|
+|**2023-05-10**|**View Correspondence Network for Implicit Light Field Representation**|Süleyman Aslan et.al.|[2305.06233v1](http://arxiv.org/abs/2305.06233v1)|null|
+|**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225v1](http://arxiv.org/abs/2305.06225v1)|[link](https://github.com/harlanhong/cvpr2022-dagan)|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|null|
+|**2023-05-10**|**Fast Event-based Double Integral for Real-time Robotics**|Shijie Lin et.al.|[2305.05925v1](http://arxiv.org/abs/2305.05925v1)|null|
+|**2023-05-10**|**Mobile Image Restoration via Prior Quantization**|Shiqi Chen et.al.|[2305.05899v1](http://arxiv.org/abs/2305.05899v1)|null|
+|**2023-05-10**|**Computational Optics for Mobile Terminals in Mass Production**|Shiqi Chen et.al.|[2305.05886v1](http://arxiv.org/abs/2305.05886v1)|null|
+|**2023-05-10**|**Optical Aberration Correction in Postprocessing using Imaging Simulation**|Shiqi Chen et.al.|[2305.05867v1](http://arxiv.org/abs/2305.05867v1)|[link](https://github.com/tangeego/imagingsimulation)|
+|**2023-05-09**|**Multi-Object Self-Supervised Depth Denoising**|Claudius Kienle et.al.|[2305.05778v1](http://arxiv.org/abs/2305.05778v1)|[link](https://github.com/alr-internship/self-supervised-depth-denoising)|
+|**2023-05-09**|**Visual Place Recognition with Low-Resolution Images**|Mihnea-Alexandru Tomita et.al.|[2305.05776v1](http://arxiv.org/abs/2305.05776v1)|null|
 |**2023-05-09**|**EFE: End-to-end Frame-to-Gaze Estimation**|Haldun Balim et.al.|[2305.05526v1](http://arxiv.org/abs/2305.05526v1)|null|
 |**2023-05-09**|**Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**|Clémentin Boittiaux et.al.|[2305.05301v1](http://arxiv.org/abs/2305.05301v1)|[link](https://github.com/clementinboittiaux/sfm-pipeline)|
 |**2023-05-09**|**Towards Understanding Generalization of Macro-AUC in Multi-label Learning**|Guoqiang Wu et.al.|[2305.05248v1](http://arxiv.org/abs/2305.05248v1)|null|
 |**2023-05-09**|**FishRecGAN: An End to End GAN Based Network for Fisheye Rectification and Calibration**|Xin Shen et.al.|[2305.05222v1](http://arxiv.org/abs/2305.05222v1)|null|
+|**2023-05-09**|**Implementation and analysis of Ryze Tello drone vision-based positioning using AprilTags**|Kacper Hulek et.al.|[2305.05673v1](http://arxiv.org/abs/2305.05673v1)|null|
 |**2023-05-09**|**A compact single-shot soft X-ray photon spectrometer for free electron laser diagnostics**|Kirk A. Larsen et.al.|[2305.05169v1](http://arxiv.org/abs/2305.05169v1)|null|
 |**2023-05-09**|**Wooden Sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v2](http://arxiv.org/abs/2305.05103v2)|null|
 |**2023-05-08**|**Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**|Shiqi Xu et.al.|[2305.05085v1](http://arxiv.org/abs/2305.05085v1)|null|
@@ -20,15 +32,3 @@
 |**2023-05-08**|**Prompted LLMs as Chatbot Modules for Long Open-domain Conversation**|Gibbeum Lee et.al.|[2305.04533v1](http://arxiv.org/abs/2305.04533v1)|[link](https://github.com/krafton-ai/mpc)|
 |**2023-05-08**|**IIITD-20K: Dense captioning for Text-Image ReID**|A V Subramanyam et.al.|[2305.04497v1](http://arxiv.org/abs/2305.04497v1)|null|
 |**2023-05-07**|**Neural Voting Field for Camera-Space 3D Hand Pose Estimation**|Lin Huang et.al.|[2305.04328v1](http://arxiv.org/abs/2305.04328v1)|null|
-|**2023-05-07**|**Poses as Queries: Image-to-LiDAR Map Localization with Transformers**|Jinyu Miao et.al.|[2305.04298v1](http://arxiv.org/abs/2305.04298v1)|null|
-|**2023-05-07**|**HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**|Jan Olszewski et.al.|[2305.04296v1](http://arxiv.org/abs/2305.04296v1)|null|
-|**2023-05-07**|**Design, Implementation and Evaluation of an External Pose-Tracking System for Underwater Cameras**|Birger Winkel et.al.|[2305.04226v1](http://arxiv.org/abs/2305.04226v1)|null|
-|**2023-05-06**|**Multi-tracer power spectra and bispectra: Formalism**|Dionysios Karagiannis et.al.|[2305.04028v1](http://arxiv.org/abs/2305.04028v1)|null|
-|**2023-05-06**|**Target-free Extrinsic Calibration of Event-LiDAR Dyad using Edge Correspondences**|Wanli Xing et.al.|[2305.04017v1](http://arxiv.org/abs/2305.04017v1)|null|
-|**2023-05-05**|**Single-pixel transmission matrix recovery via 2-photon fluorescence**|Shupeng Zhao et.al.|[2305.03806v1](http://arxiv.org/abs/2305.03806v1)|[link](https://github.com/comedialkb/single_pixel_tm_recovery)|
-|**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|null|
-|**2023-05-05**|**A surface-normal photodetector as nonlinear activation function in diffractive optical neural networks**|Farshid Ashtiani et.al.|[2305.03627v1](http://arxiv.org/abs/2305.03627v1)|null|
-|**2023-05-05**|**Next-generation Surgical Navigation: Multi-view Marker-less 6DoF Pose Estimation of Surgical Instruments**|Jonas Hein et.al.|[2305.03535v1](http://arxiv.org/abs/2305.03535v1)|null|
-|**2023-05-05**|**Close-range Human Following Control on a Cane-type Robot with Multi-camera Fusion**|Haowen Liu et.al.|[2305.03354v1](http://arxiv.org/abs/2305.03354v1)|null|
-|**2023-05-05**|**HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems**|Mohammad Saeid Anwar et.al.|[2305.03252v1](http://arxiv.org/abs/2305.03252v1)|null|
-|**2023-05-05**|**Sign-Coded Exposure Sensing for Noise-Robust High-Speed Imaging**|R. Wes Baldwin et.al.|[2305.03226v1](http://arxiv.org/abs/2305.03226v1)|null|
