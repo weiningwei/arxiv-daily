@@ -7,7 +7,7 @@
 |**2023-05-09**|**Towards Understanding Generalization of Macro-AUC in Multi-label Learning**|Guoqiang Wu et.al.|[2305.05248v1](http://arxiv.org/abs/2305.05248v1)|null|
 |**2023-05-09**|**FishRecGAN: An End to End GAN Based Network for Fisheye Rectification and Calibration**|Xin Shen et.al.|[2305.05222v1](http://arxiv.org/abs/2305.05222v1)|null|
 |**2023-05-09**|**A compact single-shot soft X-ray photon spectrometer for free electron laser diagnostics**|Kirk A. Larsen et.al.|[2305.05169v1](http://arxiv.org/abs/2305.05169v1)|null|
-|**2023-05-09**|**Wood-sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v1](http://arxiv.org/abs/2305.05103v1)|null|
+|**2023-05-09**|**Wooden Sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v2](http://arxiv.org/abs/2305.05103v2)|null|
 |**2023-05-08**|**Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**|Shiqi Xu et.al.|[2305.05085v1](http://arxiv.org/abs/2305.05085v1)|null|
 |**2023-05-08**|**Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing**|Hyeokhyen Kwon et.al.|[2305.05062v1](http://arxiv.org/abs/2305.05062v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
