@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
+|**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
+|**2023-05-11**|**Unsupervised noise reductions for gravitational reference sensors or accelerometers based on Noise2Noise method**|Zhilan Yang et.al.|[2305.06735v1](http://arxiv.org/abs/2305.06735v1)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|null|
 |**2023-05-09**|**Atomic gravimeter robust to environmental effects**|Cristian D. Panda et.al.|[2305.05555v1](http://arxiv.org/abs/2305.05555v1)|null|
 |**2023-05-09**|**Hamel's Equations and Geometric Mechanics of Constrained and Floating Multibody and Space Systems**|Andreas Mueller et.al.|[2305.05412v1](http://arxiv.org/abs/2305.05412v1)|null|
@@ -29,6 +32,3 @@
 |**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
 |**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
-|**2023-04-28**|**An analysis of the turbulence in the central region of M 42 (Orion Nebula) II: homogeneity and power-spectrum analyses**|G. A. Anorve-Zeferino et.al.|[2304.14696v3](http://arxiv.org/abs/2304.14696v3)|null|
-|**2023-04-28**|**Analysing the impact of bottom friction on shallow water waves over idealised bottom topographies**|Chang Liu et.al.|[2304.14584v1](http://arxiv.org/abs/2304.14584v1)|null|
-|**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
