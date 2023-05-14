@@ -9,7 +9,7 @@
 |**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)|
 |**2023-05-10**|**View Correspondence Network for Implicit Light Field Representation**|Süleyman Aslan et.al.|[2305.06233v1](http://arxiv.org/abs/2305.06233v1)|null|
 |**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225v1](http://arxiv.org/abs/2305.06225v1)|[link](https://github.com/harlanhong/cvpr2022-dagan)|
-|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
 |**2023-05-10**|**Fast Event-based Double Integral for Real-time Robotics**|Shijie Lin et.al.|[2305.05925v1](http://arxiv.org/abs/2305.05925v1)|null|
 |**2023-05-10**|**Mobile Image Restoration via Prior Quantization**|Shiqi Chen et.al.|[2305.05899v1](http://arxiv.org/abs/2305.05899v1)|null|
 |**2023-05-10**|**Computational Optics for Mobile Terminals in Mass Production**|Shiqi Chen et.al.|[2305.05886v1](http://arxiv.org/abs/2305.05886v1)|null|
