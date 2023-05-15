@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-12**|**Generation of Accurate Translational Motion for Testing Inertial Sensors**|Swavik Spiewak et.al.|[2305.07250v1](http://arxiv.org/abs/2305.07250v1)|null|
+|**2023-05-12**|**MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition**|Xinyu Gong et.al.|[2305.07214v1](http://arxiv.org/abs/2305.07214v1)|null|
+|**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|null|
 |**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
 |**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
 |**2023-05-11**|**Unsupervised noise reductions for gravitational reference sensors or accelerometers based on Noise2Noise method**|Zhilan Yang et.al.|[2305.06735v1](http://arxiv.org/abs/2305.06735v1)|null|
@@ -29,6 +32,3 @@
 |**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
 |**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v2](http://arxiv.org/abs/2305.00647v2)|null|
 |**2023-04-30**|**Chronological-safe kind of geometric phase for $C_{60}$ fullerenes in Gödel spacetimes**|Everton Cavalcante et.al.|[2305.00490v1](http://arxiv.org/abs/2305.00490v1)|null|
-|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
-|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
-|**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
