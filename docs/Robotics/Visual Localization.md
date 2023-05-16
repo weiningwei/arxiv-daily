@@ -31,4 +31,4 @@
 |**2023-05-09**|**FishRecGAN: An End to End GAN Based Network for Fisheye Rectification and Calibration**|Xin Shen et.al.|[2305.05222v1](http://arxiv.org/abs/2305.05222v1)|null|
 |**2023-05-09**|**Implementation and analysis of Ryze Tello drone vision-based positioning using AprilTags**|Kacper Hulek et.al.|[2305.05673v1](http://arxiv.org/abs/2305.05673v1)|null|
 |**2023-05-09**|**A compact single-shot soft X-ray photon spectrometer for free electron laser diagnostics**|Kirk A. Larsen et.al.|[2305.05169v1](http://arxiv.org/abs/2305.05169v1)|null|
-|**2023-05-09**|**Wooden Sleeper Decayed Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v2](http://arxiv.org/abs/2305.05103v2)|null|
+|**2023-05-09**|**Wooden Sleeper Deterioration Detection for Rural Railway Prognostics Using Unsupervised Deeper FCDDs**|Takato Yasuno et.al.|[2305.05103v3](http://arxiv.org/abs/2305.05103v3)|null|
