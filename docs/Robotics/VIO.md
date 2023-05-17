@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-16**|**Tightly Integrated Motion Classification and State Estimation in Foot-Mounted Navigation Systems**|Isaac Skog et.al.|[2305.09363v1](http://arxiv.org/abs/2305.09363v1)|null|
+|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
+|**2023-05-16**|**Capacitor Voltage Synchronizing Control of 100% Full-Scale Wind Power Generator-Supplied Power Systems**|Yang Liu et.al.|[2305.09198v1](http://arxiv.org/abs/2305.09198v1)|null|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
 |**2023-05-15**|**Weak equivalence principle violation for mixed scalar particles**|Massimo Blasone et.al.|[2305.08718v1](http://arxiv.org/abs/2305.08718v1)|null|
 |**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
 |**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
@@ -14,6 +18,7 @@
 |**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
 |**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
 |**2023-05-11**|**Unsupervised noise reductions for gravitational reference sensors or accelerometers based on Noise2Noise method**|Zhilan Yang et.al.|[2305.06735v1](http://arxiv.org/abs/2305.06735v1)|null|
+|**2023-05-11**|**Fulling-Davies-Unruh effect for accelerated two-level single and entangled atomic systems**|Arnab Mukherjee et.al.|[2305.08867v1](http://arxiv.org/abs/2305.08867v1)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
 |**2023-05-09**|**Atomic gravimeter robust to environmental effects**|Cristian D. Panda et.al.|[2305.05555v1](http://arxiv.org/abs/2305.05555v1)|null|
 |**2023-05-09**|**Hamel's Equations and Geometric Mechanics of Constrained and Floating Multibody and Space Systems**|Andreas Mueller et.al.|[2305.05412v1](http://arxiv.org/abs/2305.05412v1)|null|
@@ -27,8 +32,3 @@
 |**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
 |**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
 |**2023-05-04**|**Quasilinear theory of Brillouin resonances in rotating magnetized plasmas**|J. -M. Rax et.al.|[2305.02671v1](http://arxiv.org/abs/2305.02671v1)|null|
-|**2023-05-04**|**Odd-viscosity induced surfactant-laden shear-imposed viscous film over a slippery incline**|Md. Mouzakkir Hossain et.al.|[2305.02565v1](http://arxiv.org/abs/2305.02565v1)|null|
-|**2023-05-03**|**Primary Neutron Spectra in Ion Vlasov-Fokker-Planck Simulations**|B. D. Appelbe et.al.|[2305.02403v1](http://arxiv.org/abs/2305.02403v1)|null|
-|**2023-05-03**|**Integrated 5G mmWave Positioning in Deep Urban Environments: Advantages and Challenges**|Sharief Saleh et.al.|[2305.02284v1](http://arxiv.org/abs/2305.02284v1)|null|
-|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
-|**2023-05-03**|**Statistics of Pressure Fluctuations in Turbulent Kinetic Plasmas**|Subash Adhikari et.al.|[2305.02068v1](http://arxiv.org/abs/2305.02068v1)|null|

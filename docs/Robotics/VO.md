@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
 |**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
 |**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
@@ -30,5 +32,3 @@
 |**2023-03-29**|**Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration**|Lin Zhao et.al.|[2303.17005v1](http://arxiv.org/abs/2303.17005v1)|null|
 |**2023-03-29**|**HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching**|Yiheng Li et.al.|[2303.16526v2](http://arxiv.org/abs/2303.16526v2)|[link](https://github.com/liyih/hybridpoint)|
 |**2023-03-29**|**Quantifying VIO Uncertainty**|Stephanie Tsuei et.al.|[2303.16386v1](http://arxiv.org/abs/2303.16386v1)|null|
-|**2023-03-24**|**4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**|Yuan Zhuang et.al.|[2303.13962v2](http://arxiv.org/abs/2303.13962v2)|null|
-|**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157v1](http://arxiv.org/abs/2303.12157v1)|null|

@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
 |**2023-05-12**|**An Object SLAM Framework for Association, Mapping, and High-Level Tasks**|Yanmin Wu et.al.|[2305.07299v1](http://arxiv.org/abs/2305.07299v1)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|[link](https://github.com/mit-spark/hydra)|
 |**2023-05-09**|**Understanding why SLAM algorithms fail in modern indoor environments**|Nwankwo Linus et.al.|[2305.05313v1](http://arxiv.org/abs/2305.05313v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-12**|**RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**|Xiao Han et.al.|[2304.05735v1](http://arxiv.org/abs/2304.05735v1)|[link](https://github.com/xiaohan-git/ro-map)|
 |**2023-04-12**|**Multipath-based SLAM for Non-Ideal Reflective Surfaces Exploiting Multiple-Measurement Data Association**|Lukas Wielandner et.al.|[2304.05680v2](http://arxiv.org/abs/2304.05680v2)|null|
 |**2023-04-11**|**Simultaneous localization and mapping by using Low-Cost Ultrasonic Sensor for Underwater crawler**|Trish Velan Dcruz et.al.|[2304.05155v1](http://arxiv.org/abs/2304.05155v1)|null|
-|**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146v2](http://arxiv.org/abs/2304.05146v2)|[link](https://github.com/jixingwu/ss-lcd)|
