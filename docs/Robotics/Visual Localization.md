@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-17**|**Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**|Jiang-Tian Zhai et.al.|[2305.10430v1](http://arxiv.org/abs/2305.10430v1)|[link](https://github.com/E2E-AD/AD-MLP)|
+|**2023-05-17**|**Investigating image-based fallow weed detection performance on Raphanus sativus and Avena sativa at speeds up to 30 km h$^{-1}$**|Guy R. Y. Coleman et.al.|[2305.10311v1](http://arxiv.org/abs/2305.10311v1)|null|
+|**2023-05-17**|**IDO-VFI: Identifying Dynamics via Optical Flow Guidance for Video Frame Interpolation with Events**|Chenyang Shi et.al.|[2305.10198v1](http://arxiv.org/abs/2305.10198v1)|null|
+|**2023-05-17**|**Euclid preparation. XXIX. Water ice in spacecraft part I: The physics of ice formation and contamination**|Euclid Collaboration et.al.|[2305.10107v1](http://arxiv.org/abs/2305.10107v1)|null|
+|**2023-05-17**|**HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection**|Kentaro Takemoto et.al.|[2305.09948v1](http://arxiv.org/abs/2305.09948v1)|[link](https://github.com/fujitsuresearch/hoi_sg)|
+|**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|null|
+|**2023-05-16**|**The HI intensity mapping power spectrum: insights from recent measurements**|Hamsa Padmanabhan et.al.|[2305.09720v1](http://arxiv.org/abs/2305.09720v1)|null|
 |**2023-05-16**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585v1](http://arxiv.org/abs/2305.09585v1)|null|
 |**2023-05-16**|**Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares**|Dominik Muhle et.al.|[2305.09527v1](http://arxiv.org/abs/2305.09527v1)|null|
 |**2023-05-16**|**Out-of-Distribution Detection for Adaptive Computer Vision**|Simon Kristoffersson Lind et.al.|[2305.09293v1](http://arxiv.org/abs/2305.09293v1)|null|
@@ -23,12 +30,5 @@
 |**2023-05-12**|**Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution**|Jianfeng Kuang et.al.|[2305.07498v1](http://arxiv.org/abs/2305.07498v1)|[link](https://github.com/jfkuang/cfam)|
 |**2023-05-12**|**Experimental optimization of lensless digital holographic microscopy with rotating diffuser-based coherent noise reduction**|Piotr Arcab et.al.|[2305.07373v1](http://arxiv.org/abs/2305.07373v1)|null|
 |**2023-05-12**|**Simultaneous navigation and mascon gravity estimation around small bodies**|Julio C. Sanchez et.al.|[2305.07333v1](http://arxiv.org/abs/2305.07333v1)|null|
+|**2023-05-12**|**MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing**|Jianfei Yang et.al.|[2305.10345v1](http://arxiv.org/abs/2305.10345v1)|null|
 |**2023-05-12**|**Optimal calibration of optical tweezers with arbitrary integration time and sampling frequencies -- A general framework**|Laura Pérez-Garcéa et.al.|[2305.07245v1](http://arxiv.org/abs/2305.07245v1)|null|
-|**2023-05-12**|**Examining Uranus' zeta ring in Voyager 2 Wide-Angle-Camera Observations: Quantifying the Ring's Structure in 1986 and its Modifications prior to the Year 2007**|M. M. Hedman et.al.|[2305.07190v1](http://arxiv.org/abs/2305.07190v1)|null|
-|**2023-05-11**|**On the use of a consumer-grade 360-degree camera as a scientific radiometer**|Raphaël Larouche et.al.|[2305.07103v1](http://arxiv.org/abs/2305.07103v1)|null|
-|**2023-05-11**|**NIKA2 Cosmological Legacy Survey: Survey Description and Galaxy Number Counts**|L. Bing et.al.|[2305.07054v1](http://arxiv.org/abs/2305.07054v1)|null|
-|**2023-05-11**|**Virtual Occlusions Through Implicit Depth**|Jamie Watson et.al.|[2305.07014v1](http://arxiv.org/abs/2305.07014v1)|null|
-|**2023-05-11**|**DeepSTEP -- Deep Learning-Based Spatio-Temporal End-To-End Perception for Autonomous Vehicles**|Sebastian Huch et.al.|[2305.06820v1](http://arxiv.org/abs/2305.06820v1)|null|
-|**2023-05-10**|**HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks**|Burak Ercan et.al.|[2305.06382v1](http://arxiv.org/abs/2305.06382v1)|null|
-|**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|[link](https://github.com/synthesiaresearch/humanrf)|
-|**2023-05-10**|**K-UniMorph: Korean Universal Morphology and its Feature Schema**|Eunkyul Leah Jo et.al.|[2305.06335v3](http://arxiv.org/abs/2305.06335v3)|[link](https://github.com/jungyeul/k-unimorph)|
