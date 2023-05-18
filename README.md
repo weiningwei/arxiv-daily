@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2023-05-18 08:33:39 Asia/Shanghai
+ Automated deployment @ 2023-05-18 09:50:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-16**|**Tightly Integrated Motion Classification and State Estimation in Foot-Mounted Navigation Systems**|Isaac Skog et.al.|[2305.09363v1](http://arxiv.org/abs/2305.09363v1)|null|
-|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
-|**2023-05-16**|**Capacitor Voltage Synchronizing Control of 100% Full-Scale Wind Power Generator-Supplied Power Systems**|Yang Liu et.al.|[2305.09198v1](http://arxiv.org/abs/2305.09198v1)|null|
-|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
-|**2023-05-15**|**Weak equivalence principle violation for mixed scalar particles**|Massimo Blasone et.al.|[2305.08718v1](http://arxiv.org/abs/2305.08718v1)|null|
-|**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
-|**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
-|**2023-05-14**|**Entropic Force in MHD, MHD turbulence, and the Entropy-Kinetic Equation**|W. Baumjohann et.al.|[2305.08230v1](http://arxiv.org/abs/2305.08230v1)|null|
-|**2023-05-13**|**Ehrenfest Paradox: A Careful Examination**|Jitendra Kumar et.al.|[2305.07953v1](http://arxiv.org/abs/2305.07953v1)|null|
-|**2023-05-12**|**Grating magneto-optical traps with complicated level structures**|D. S. Barker et.al.|[2305.07732v1](http://arxiv.org/abs/2305.07732v1)|null|
-|**2023-05-12**|**Generation of Accurate Translational Motion for Testing Inertial Sensors**|Swavik Spiewak et.al.|[2305.07250v1](http://arxiv.org/abs/2305.07250v1)|null|
-|**2023-05-12**|**MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition**|Xinyu Gong et.al.|[2305.07214v1](http://arxiv.org/abs/2305.07214v1)|null|
-|**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|[link](https://github.com/mit-spark/hydra)|
-|**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
-|**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
-|**2023-05-11**|**Unsupervised noise reductions for gravitational reference sensors or accelerometers based on Noise2Noise method**|Zhilan Yang et.al.|[2305.06735v1](http://arxiv.org/abs/2305.06735v1)|null|
-|**2023-05-11**|**Fulling-Davies-Unruh effect for accelerated two-level single and entangled atomic systems**|Arnab Mukherjee et.al.|[2305.08867v1](http://arxiv.org/abs/2305.08867v1)|null|
-|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
-|**2023-05-09**|**Atomic gravimeter robust to environmental effects**|Cristian D. Panda et.al.|[2305.05555v1](http://arxiv.org/abs/2305.05555v1)|null|
-|**2023-05-09**|**Hamel's Equations and Geometric Mechanics of Constrained and Floating Multibody and Space Systems**|Andreas Mueller et.al.|[2305.05412v1](http://arxiv.org/abs/2305.05412v1)|null|
-|**2023-05-08**|**Multi-legged matter transport: a framework for locomotion on noisy landscapes**|Baxi Chong et.al.|[2305.04773v1](http://arxiv.org/abs/2305.04773v1)|null|
-|**2023-05-08**|**A Reduced Basis LES turbulence model based upon Kolmogorov's equilibrium turbulence theory**|Alejandro Bandera Moreno et.al.|[2305.04598v1](http://arxiv.org/abs/2305.04598v1)|null|
-|**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
-|**2023-05-06**|**Motion and deformation of capsules flowing through a corner in the inertial and non-inertial regimes**|Damien P. Huet et.al.|[2305.04129v1](http://arxiv.org/abs/2305.04129v1)|null|
-|**2023-05-06**|**Exploring the link between coffee matrix microstructure and flow properties using combined X-ray microtomography and smoothed particle hydrodynamics simulations**|Chaojie Mo et.al.|[2305.03911v1](http://arxiv.org/abs/2305.03911v1)|null|
-|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
-|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
-|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
-|**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
-|**2023-05-04**|**Quasilinear theory of Brillouin resonances in rotating magnetized plasmas**|J. -M. Rax et.al.|[2305.02671v1](http://arxiv.org/abs/2305.02671v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,40 +39,6 @@
 |**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|[link](https://github.com/synthesiaresearch/humanrf)|
 |**2023-05-10**|**K-UniMorph: Korean Universal Morphology and its Feature Schema**|Eunkyul Leah Jo et.al.|[2305.06335v3](http://arxiv.org/abs/2305.06335v3)|[link](https://github.com/jungyeul/k-unimorph)|
 
-### VO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
-|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
-|**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
-|**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
-|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
-|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
-|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
-|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
-|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
-|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
-|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
-|**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
-|**2023-04-27**|**Quadric Representations for LiDAR Odometry, Mapping and Localization**|Chao Xia et.al.|[2304.14190v1](http://arxiv.org/abs/2304.14190v1)|null|
-|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
-|**2023-04-25**|**AdaLIO: Robust Adaptive LiDAR-Inertial Odometry in Degenerate Indoor Environments**|Hyungtae Lim et.al.|[2304.12577v1](http://arxiv.org/abs/2304.12577v1)|null|
-|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|[link](https://github.com/hitsz-nrsl/dynamic-vins)|
-|**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
-|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
-|**2023-04-16**|**TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation**|Leyuan Sun et.al.|[2304.07728v2](http://arxiv.org/abs/2304.07728v2)|[link](https://github.com/rakugenson/multi-modal-dataset-for-odometry-estimation)|
-|**2023-04-13**|**Loosely Coupled Odometry, UWB Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization**|Xianjia Yu et.al.|[2304.06264v1](http://arxiv.org/abs/2304.06264v1)|null|
-|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|[link](https://github.com/facebookresearch/silk)|
-|**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943v1](http://arxiv.org/abs/2304.04943v1)|null|
-|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v2](http://arxiv.org/abs/2304.04036v2)|null|
-|**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|[link](https://github.com/antabangun/dualrefine)|
-|**2023-04-04**|**SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry**|Bharat Joshi et.al.|[2304.01988v1](http://arxiv.org/abs/2304.01988v1)|null|
-|**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
-|**2023-03-30**|**Online Camera-to-ground Calibration for Autonomous Driving**|Binbin Li et.al.|[2303.17137v2](http://arxiv.org/abs/2303.17137v2)|null|
-|**2023-03-29**|**Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration**|Lin Zhao et.al.|[2303.17005v1](http://arxiv.org/abs/2303.17005v1)|null|
-|**2023-03-29**|**HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching**|Yiheng Li et.al.|[2303.16526v2](http://arxiv.org/abs/2303.16526v2)|[link](https://github.com/liyih/hybridpoint)|
-|**2023-03-29**|**Quantifying VIO Uncertainty**|Stephanie Tsuei et.al.|[2303.16386v1](http://arxiv.org/abs/2303.16386v1)|null|
-
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +72,71 @@
 |**2023-04-12**|**RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**|Xiao Han et.al.|[2304.05735v1](http://arxiv.org/abs/2304.05735v1)|[link](https://github.com/xiaohan-git/ro-map)|
 |**2023-04-12**|**Multipath-based SLAM for Non-Ideal Reflective Surfaces Exploiting Multiple-Measurement Data Association**|Lukas Wielandner et.al.|[2304.05680v2](http://arxiv.org/abs/2304.05680v2)|null|
 |**2023-04-11**|**Simultaneous localization and mapping by using Low-Cost Ultrasonic Sensor for Underwater crawler**|Trish Velan Dcruz et.al.|[2304.05155v1](http://arxiv.org/abs/2304.05155v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-16**|**Tightly Integrated Motion Classification and State Estimation in Foot-Mounted Navigation Systems**|Isaac Skog et.al.|[2305.09363v1](http://arxiv.org/abs/2305.09363v1)|null|
+|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
+|**2023-05-16**|**Capacitor Voltage Synchronizing Control of 100% Full-Scale Wind Power Generator-Supplied Power Systems**|Yang Liu et.al.|[2305.09198v1](http://arxiv.org/abs/2305.09198v1)|null|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
+|**2023-05-15**|**Weak equivalence principle violation for mixed scalar particles**|Massimo Blasone et.al.|[2305.08718v1](http://arxiv.org/abs/2305.08718v1)|null|
+|**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
+|**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
+|**2023-05-14**|**Entropic Force in MHD, MHD turbulence, and the Entropy-Kinetic Equation**|W. Baumjohann et.al.|[2305.08230v1](http://arxiv.org/abs/2305.08230v1)|null|
+|**2023-05-13**|**Ehrenfest Paradox: A Careful Examination**|Jitendra Kumar et.al.|[2305.07953v1](http://arxiv.org/abs/2305.07953v1)|null|
+|**2023-05-12**|**Grating magneto-optical traps with complicated level structures**|D. S. Barker et.al.|[2305.07732v1](http://arxiv.org/abs/2305.07732v1)|null|
+|**2023-05-12**|**Generation of Accurate Translational Motion for Testing Inertial Sensors**|Swavik Spiewak et.al.|[2305.07250v1](http://arxiv.org/abs/2305.07250v1)|null|
+|**2023-05-12**|**MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition**|Xinyu Gong et.al.|[2305.07214v1](http://arxiv.org/abs/2305.07214v1)|null|
+|**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|[link](https://github.com/mit-spark/hydra)|
+|**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
+|**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
+|**2023-05-11**|**Unsupervised noise reductions for gravitational reference sensors or accelerometers based on Noise2Noise method**|Zhilan Yang et.al.|[2305.06735v1](http://arxiv.org/abs/2305.06735v1)|null|
+|**2023-05-11**|**Fulling-Davies-Unruh effect for accelerated two-level single and entangled atomic systems**|Arnab Mukherjee et.al.|[2305.08867v1](http://arxiv.org/abs/2305.08867v1)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
+|**2023-05-09**|**Atomic gravimeter robust to environmental effects**|Cristian D. Panda et.al.|[2305.05555v1](http://arxiv.org/abs/2305.05555v1)|null|
+|**2023-05-09**|**Hamel's Equations and Geometric Mechanics of Constrained and Floating Multibody and Space Systems**|Andreas Mueller et.al.|[2305.05412v1](http://arxiv.org/abs/2305.05412v1)|null|
+|**2023-05-08**|**Multi-legged matter transport: a framework for locomotion on noisy landscapes**|Baxi Chong et.al.|[2305.04773v1](http://arxiv.org/abs/2305.04773v1)|null|
+|**2023-05-08**|**A Reduced Basis LES turbulence model based upon Kolmogorov's equilibrium turbulence theory**|Alejandro Bandera Moreno et.al.|[2305.04598v1](http://arxiv.org/abs/2305.04598v1)|null|
+|**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
+|**2023-05-06**|**Motion and deformation of capsules flowing through a corner in the inertial and non-inertial regimes**|Damien P. Huet et.al.|[2305.04129v1](http://arxiv.org/abs/2305.04129v1)|null|
+|**2023-05-06**|**Exploring the link between coffee matrix microstructure and flow properties using combined X-ray microtomography and smoothed particle hydrodynamics simulations**|Chaojie Mo et.al.|[2305.03911v1](http://arxiv.org/abs/2305.03911v1)|null|
+|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
+|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
+|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
+|**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
+|**2023-05-04**|**Quasilinear theory of Brillouin resonances in rotating magnetized plasmas**|J. -M. Rax et.al.|[2305.02671v1](http://arxiv.org/abs/2305.02671v1)|null|
+
+### VO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
+|**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
+|**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
+|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
+|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
+|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
+|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
+|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
+|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
+|**2023-04-27**|**Multimodal Dataset from Harsh Sub-Terranean Environment with Aerosol Particles for Frontier Exploration**|Alexander Kyuroson et.al.|[2304.14520v1](http://arxiv.org/abs/2304.14520v1)|null|
+|**2023-04-27**|**Quadric Representations for LiDAR Odometry, Mapping and Localization**|Chao Xia et.al.|[2304.14190v1](http://arxiv.org/abs/2304.14190v1)|null|
+|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
+|**2023-04-25**|**AdaLIO: Robust Adaptive LiDAR-Inertial Odometry in Degenerate Indoor Environments**|Hyungtae Lim et.al.|[2304.12577v1](http://arxiv.org/abs/2304.12577v1)|null|
+|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|[link](https://github.com/hitsz-nrsl/dynamic-vins)|
+|**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719v1](http://arxiv.org/abs/2304.10719v1)|null|
+|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
+|**2023-04-16**|**TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation**|Leyuan Sun et.al.|[2304.07728v2](http://arxiv.org/abs/2304.07728v2)|[link](https://github.com/rakugenson/multi-modal-dataset-for-odometry-estimation)|
+|**2023-04-13**|**Loosely Coupled Odometry, UWB Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization**|Xianjia Yu et.al.|[2304.06264v1](http://arxiv.org/abs/2304.06264v1)|null|
+|**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|[link](https://github.com/facebookresearch/silk)|
+|**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943v1](http://arxiv.org/abs/2304.04943v1)|null|
+|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v2](http://arxiv.org/abs/2304.04036v2)|null|
+|**2023-04-07**|**DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**|Antyanta Bangunharcana et.al.|[2304.03560v1](http://arxiv.org/abs/2304.03560v1)|[link](https://github.com/antabangun/dualrefine)|
+|**2023-04-04**|**SM/VIO: Robust Underwater State Estimation Switching Between Model-based and Visual Inertial Odometry**|Bharat Joshi et.al.|[2304.01988v1](http://arxiv.org/abs/2304.01988v1)|null|
+|**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
+|**2023-03-30**|**Online Camera-to-ground Calibration for Autonomous Driving**|Binbin Li et.al.|[2303.17137v2](http://arxiv.org/abs/2303.17137v2)|null|
+|**2023-03-29**|**Tightly-coupled Visual-DVL-Inertial Odometry for Robot-based Ice-water Boundary Exploration**|Lin Zhao et.al.|[2303.17005v1](http://arxiv.org/abs/2303.17005v1)|null|
+|**2023-03-29**|**HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching**|Yiheng Li et.al.|[2303.16526v2](http://arxiv.org/abs/2303.16526v2)|[link](https://github.com/liyih/hybridpoint)|
+|**2023-03-29**|**Quantifying VIO Uncertainty**|Stephanie Tsuei et.al.|[2303.16386v1](http://arxiv.org/abs/2303.16386v1)|null|
