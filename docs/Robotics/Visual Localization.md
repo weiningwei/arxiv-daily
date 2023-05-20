@@ -10,7 +10,7 @@
 |**2023-05-17**|**IDO-VFI: Identifying Dynamics via Optical Flow Guidance for Video Frame Interpolation with Events**|Chenyang Shi et.al.|[2305.10198v2](http://arxiv.org/abs/2305.10198v2)|null|
 |**2023-05-17**|**Euclid preparation. XXIX. Water ice in spacecraft part I: The physics of ice formation and contamination**|Euclid Collaboration et.al.|[2305.10107v1](http://arxiv.org/abs/2305.10107v1)|null|
 |**2023-05-17**|**HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection**|Kentaro Takemoto et.al.|[2305.09948v1](http://arxiv.org/abs/2305.09948v1)|[link](https://github.com/fujitsuresearch/hoi_sg)|
-|**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|null|
+|**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|[link](https://github.com/javieryu/nerf_bridge)|
 |**2023-05-16**|**The HI intensity mapping power spectrum: insights from recent measurements**|Hamsa Padmanabhan et.al.|[2305.09720v1](http://arxiv.org/abs/2305.09720v1)|null|
 |**2023-05-16**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585v1](http://arxiv.org/abs/2305.09585v1)|null|
 |**2023-05-16**|**Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares**|Dominik Muhle et.al.|[2305.09527v1](http://arxiv.org/abs/2305.09527v1)|null|
