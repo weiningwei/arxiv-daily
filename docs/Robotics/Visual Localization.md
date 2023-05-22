@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-19**|**Recommendations for Verifying HDR Subjective Testing Workflows**|Vibhoothi et.al.|[2305.11858v1](http://arxiv.org/abs/2305.11858v1)|null|
+|**2023-05-19**|**DAP: A Dynamic Adversarial Patch for Evading Person Detectors**|Amira Guesmi et.al.|[2305.11618v1](http://arxiv.org/abs/2305.11618v1)|null|
+|**2023-05-19**|**Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API**|José Miguel Moreno et.al.|[2305.11506v1](http://arxiv.org/abs/2305.11506v1)|null|
+|**2023-05-19**|**CCGen: Explainable Complementary Concept Generation in E-Commerce**|Jie Huang et.al.|[2305.11480v1](http://arxiv.org/abs/2305.11480v1)|null|
+|**2023-05-19**|**RGB-D And Thermal Sensor Fusion: A Systematic Literature Review**|Martin Brenner et.al.|[2305.11427v1](http://arxiv.org/abs/2305.11427v1)|null|
 |**2023-05-18**|**Progressive Learning of 3D Reconstruction Network from 2D GAN Data**|Aysegul Dundar et.al.|[2305.11102v1](http://arxiv.org/abs/2305.11102v1)|null|
 |**2023-05-18**|**Passive Mechanical Vibration Processor for Wireless Vibration Sensing**|Dajun Zhang et.al.|[2305.10687v1](http://arxiv.org/abs/2305.10687v1)|null|
 |**2023-05-18**|**Adaptive Learning based Upper-Limb Rehabilitation Training System with Collaborative Robot**|Jun Hong Lim et.al.|[2305.10642v1](http://arxiv.org/abs/2305.10642v1)|null|
@@ -27,8 +32,3 @@
 |**2023-05-13**|**EV-MGRFlowNet: Motion-Guided Recurrent Network for Unsupervised Event-based Optical Flow with Hybrid Motion-Compensation Loss**|Hao Zhuang et.al.|[2305.07853v1](http://arxiv.org/abs/2305.07853v1)|null|
 |**2023-05-13**|**CEMFormer: Learning to Predict Driver Intentions from In-Cabin and External Cameras via Spatial-Temporal Transformers**|Yunsheng Ma et.al.|[2305.07840v1](http://arxiv.org/abs/2305.07840v1)|null|
 |**2023-05-13**|**Lightweight Delivery Detection on Doorbell Cameras**|Pirazh Khorramshahi et.al.|[2305.07812v1](http://arxiv.org/abs/2305.07812v1)|null|
-|**2023-05-12**|**Multi-Modal 3D Object Detection by Box Matching**|Zhe Liu et.al.|[2305.07713v1](http://arxiv.org/abs/2305.07713v1)|[link](https://github.com/happinesslz/fbmnet)|
-|**2023-05-12**|**Agile gesture recognition for capacitive sensing devices: adapting on-the-job**|Ying Liu et.al.|[2305.07624v1](http://arxiv.org/abs/2305.07624v1)|null|
-|**2023-05-12**|**Periscope: A Robotic Camera System to Support Remote Physical Collaboration**|Pragathi Praveena et.al.|[2305.07517v1](http://arxiv.org/abs/2305.07517v1)|null|
-|**2023-05-12**|**Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution**|Jianfeng Kuang et.al.|[2305.07498v1](http://arxiv.org/abs/2305.07498v1)|[link](https://github.com/jfkuang/cfam)|
-|**2023-05-12**|**Experimental optimization of lensless digital holographic microscopy with rotating diffuser-based coherent noise reduction**|Piotr Arcab et.al.|[2305.07373v1](http://arxiv.org/abs/2305.07373v1)|null|

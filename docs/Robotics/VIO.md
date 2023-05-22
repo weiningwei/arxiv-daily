@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-19**|**Vehicle Teleoperation: Performance Assessment of SRPT Approach Under State Estimation Errors**|Jai Prakash et.al.|[2305.11674v1](http://arxiv.org/abs/2305.11674v1)|null|
+|**2023-05-19**|**Phononic Switching of Magnetization by the Ultrafast Barnett Effect**|C. S. Davies et.al.|[2305.11551v1](http://arxiv.org/abs/2305.11551v1)|null|
+|**2023-05-18**|**Energy dissipation in high speed impact on granular media**|Manish Kumar Mandal et.al.|[2305.11269v1](http://arxiv.org/abs/2305.11269v1)|null|
+|**2023-05-18**|**Reconnection in a Pinch**|Thomas E. Moore et.al.|[2305.11238v1](http://arxiv.org/abs/2305.11238v1)|null|
 |**2023-05-18**|**Poincaré invariance of spinning binary dynamics in the post-Minkowskian Hamiltonian approach**|Hojin Lee et.al.|[2305.10739v1](http://arxiv.org/abs/2305.10739v1)|null|
 |**2023-05-17**|**Inertial-based Navigation by Polynomial Optimization: Inertial-Magnetic Attitude Estimation**|Maoran Zhu et.al.|[2305.10338v1](http://arxiv.org/abs/2305.10338v1)|null|
 |**2023-05-16**|**Tightly Integrated Motion Classification and State Estimation in Foot-Mounted Navigation Systems**|Isaac Skog et.al.|[2305.09363v1](http://arxiv.org/abs/2305.09363v1)|null|
@@ -28,7 +32,3 @@
 |**2023-05-08**|**A Reduced Basis LES turbulence model based upon Kolmogorov's equilibrium turbulence theory**|Alejandro Bandera Moreno et.al.|[2305.04598v1](http://arxiv.org/abs/2305.04598v1)|null|
 |**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
 |**2023-05-06**|**Motion and deformation of capsules flowing through a corner in the inertial and non-inertial regimes**|Damien P. Huet et.al.|[2305.04129v1](http://arxiv.org/abs/2305.04129v1)|null|
-|**2023-05-06**|**Exploring the link between coffee matrix microstructure and flow properties using combined X-ray microtomography and smoothed particle hydrodynamics simulations**|Chaojie Mo et.al.|[2305.03911v1](http://arxiv.org/abs/2305.03911v1)|null|
-|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
-|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
-|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
