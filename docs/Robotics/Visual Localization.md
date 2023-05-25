@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
 |**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199v1](http://arxiv.org/abs/2305.15199v1)|null|
-|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078v1](http://arxiv.org/abs/2305.15078v1)|null|
+|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078v1](http://arxiv.org/abs/2305.15078v1)|[link](https://github.com/yunfanLu/EG-RSDBI)|
 |**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v1](http://arxiv.org/abs/2305.14968v1)|null|
 |**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|null|
 |**2023-05-24**|**NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario**|Tianwen Qian et.al.|[2305.14836v1](http://arxiv.org/abs/2305.14836v1)|null|
