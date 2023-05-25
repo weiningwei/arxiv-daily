@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
+|**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199v1](http://arxiv.org/abs/2305.15199v1)|null|
+|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078v1](http://arxiv.org/abs/2305.15078v1)|null|
+|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v1](http://arxiv.org/abs/2305.14968v1)|null|
+|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|null|
+|**2023-05-24**|**NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario**|Tianwen Qian et.al.|[2305.14836v1](http://arxiv.org/abs/2305.14836v1)|null|
+|**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829v1](http://arxiv.org/abs/2305.14829v1)|null|
+|**2023-05-24**|**Image scanning lensless fiber-bundle endomicroscopy**|Gil Weinberg et.al.|[2305.14807v1](http://arxiv.org/abs/2305.14807v1)|null|
+|**2023-05-24**|**Polarimetric Imaging for Perception**|Michael Baltaxe et.al.|[2305.14787v1](http://arxiv.org/abs/2305.14787v1)|null|
+|**2023-05-24**|**AutoDepthNet: High Frame Rate Depth Map Reconstruction using Commodity Depth and RGB Cameras**|Peyman Gholami et.al.|[2305.14731v1](http://arxiv.org/abs/2305.14731v1)|null|
+|**2023-05-24**|**Streaming Object Detection on Fisheye Cameras for Automatic Parking**|Yixiong Yan et.al.|[2305.14713v1](http://arxiv.org/abs/2305.14713v1)|null|
+|**2023-05-24**|**KARNet: Kalman Filter Augmented Recurrent Neural Network for Learning World Models in Autonomous Driving Tasks**|Hemanth Manjunatha et.al.|[2305.14644v1](http://arxiv.org/abs/2305.14644v1)|null|
+|**2023-05-23**|**Windscreen Optical Quality for AI Algorithms: Refractive Power and MTF not Sufficient**|Dominik Werner Wolf et.al.|[2305.14513v1](http://arxiv.org/abs/2305.14513v1)|null|
+|**2023-05-23**|**Wital: A COTS WiFi Devices Based Vital Signs Monitoring System Using NLOS Sensing Model**|Xiang Zhang et.al.|[2305.14490v1](http://arxiv.org/abs/2305.14490v1)|null|
 |**2023-05-23**|**NCC: Natural Concurrency Control for Strictly Serializable Datastores by Avoiding the Timestamp-Inversion Pitfall**|Haonan Lu et.al.|[2305.14270v1](http://arxiv.org/abs/2305.14270v1)|null|
 |**2023-05-23**|**Realistic Noise Synthesis with Diffusion Models**|Qi Wu et.al.|[2305.14022v1](http://arxiv.org/abs/2305.14022v1)|null|
 |**2023-05-23**|**Design and Operation of Autonomous Wheelchair Towing Robot**|Hyunwoo Kang et.al.|[2305.13902v1](http://arxiv.org/abs/2305.13902v1)|null|
@@ -13,22 +27,8 @@
 |**2023-05-23**|**VDD: Varied Drone Dataset for Semantic Segmentation**|Wenxiao Cai et.al.|[2305.13608v1](http://arxiv.org/abs/2305.13608v1)|null|
 |**2023-05-23**|**Multimodal sensor fusion for real-time location-dependent defect detection in laser-directed energy deposition**|Lequn Chen et.al.|[2305.13596v1](http://arxiv.org/abs/2305.13596v1)|null|
 |**2023-05-22**|**Detection of healthy and diseased crops in drone captured images using Deep Learning**|Jai Vardhan et.al.|[2305.13490v1](http://arxiv.org/abs/2305.13490v1)|null|
+|**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v1](http://arxiv.org/abs/2305.14389v1)|null|
 |**2023-05-22**|**Automatic Readability Assessment for Closely Related Languages**|Joseph Marvin Imperial et.al.|[2305.13478v1](http://arxiv.org/abs/2305.13478v1)|[link](https://github.com/imperialite/ara-close-lang)|
 |**2023-05-22**|**Indirect Detection of Decaying Dark Matter with High Angular Resolution: Case for axion search by IRCS at Subaru Telescope**|Wen Yin et.al.|[2305.13415v1](http://arxiv.org/abs/2305.13415v1)|null|
 |**2023-05-22**|**The Spitzer Coverage of HSC-Deep with IRAC for Z studies (SHIRAZ) I: IRAC mosaics**|Marianna Annunziatella et.al.|[2305.13363v1](http://arxiv.org/abs/2305.13363v1)|null|
-|**2023-05-22**|**RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**|Dongwei Pan et.al.|[2305.13353v1](http://arxiv.org/abs/2305.13353v1)|null|
-|**2023-05-22**|**A Fast and Accurate Optical Flow Camera for Resource-Constrained Edge Applications**|Jonas Kühne et.al.|[2305.13087v1](http://arxiv.org/abs/2305.13087v1)|null|
-|**2023-05-22**|**Parallelizing Optical Flow Estimation on an Ultra-Low Power RISC-V Cluster for Nano-UAV Navigation**|Jonas Kühne et.al.|[2305.13055v1](http://arxiv.org/abs/2305.13055v1)|null|
-|**2023-05-22**|**Learning Pedestrian Actions to Ensure Safe Autonomous Driving**|Jia Huang et.al.|[2305.13051v1](http://arxiv.org/abs/2305.13051v1)|null|
-|**2023-05-22**|**Robots in the Garden: Artificial Intelligence and Adaptive Landscapes**|Zihao Zhang et.al.|[2305.13019v1](http://arxiv.org/abs/2305.13019v1)|null|
-|**2023-05-22**|**Integrated Guidance and Gimbal Control for Coverage Planning With Visibility Constraints**|Savvas Papaioannou et.al.|[2305.12999v1](http://arxiv.org/abs/2305.12999v1)|null|
-|**2023-05-22**|**Why current rain denoising models fail on CycleGAN created rain images in autonomous driving**|Michael Kranl et.al.|[2305.12983v1](http://arxiv.org/abs/2305.12983v1)|null|
-|**2023-05-22**|**Flying Adversarial Patches: Manipulating the Behavior of Deep Learning-based Autonomous Multirotors**|Pia Hanfeld et.al.|[2305.12859v1](http://arxiv.org/abs/2305.12859v1)|[link](https://github.com/imrclab/flying_adversarial_patch)|
-|**2023-05-22**|**Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach**|Zhangming Chan et.al.|[2305.12837v1](http://arxiv.org/abs/2305.12837v1)|null|
-|**2023-05-22**|**Single Domain Dynamic Generalization for Iris Presentation Attack Detection**|Yachun Li et.al.|[2305.12800v1](http://arxiv.org/abs/2305.12800v1)|null|
-|**2023-05-22**|**Towards Explainable In-the-Wild Video Quality Assessment: a Database and a Language-Prompted Approach**|Haoning Wu et.al.|[2305.12726v1](http://arxiv.org/abs/2305.12726v1)|null|
-|**2023-05-22**|**Rotation-Constrained Cross-View Feature Fusion for Multi-View Appearance-based Gaze Estimation**|Yoichiro Hisadome et.al.|[2305.12704v1](http://arxiv.org/abs/2305.12704v1)|null|
-|**2023-05-22**|**DermSynth3D: Synthesis of in-the-wild Annotated Dermatology Images**|Ashish Sinha et.al.|[2305.12621v1](http://arxiv.org/abs/2305.12621v1)|[link](https://github.com/sfu-mial/dermsynth3d)|
-|**2023-05-21**|**Your smartphone could act as a pulse-oximeter and as a single-lead ECG**|Ahsan Mehmood et.al.|[2305.12583v1](http://arxiv.org/abs/2305.12583v1)|null|
-|**2023-05-21**|**Unsupervised Multi-view Pedestrian Detection**|Mengyin Liu et.al.|[2305.12457v1](http://arxiv.org/abs/2305.12457v1)|null|
-|**2023-05-21**|**Prompt Learning for Action Recognition**|Xijun Wang et.al.|[2305.12437v1](http://arxiv.org/abs/2305.12437v1)|null|
+|**2023-05-22**|**RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**|Dongwei Pan et.al.|[2305.13353v1](http://arxiv.org/abs/2305.13353v1)|[link](https://github.com/renderme-360/renderme-360)|

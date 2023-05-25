@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
 |**2023-05-23**|**Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map**|Yuming Huang et.al.|[2305.14038v1](http://arxiv.org/abs/2305.14038v1)|null|
 |**2023-05-23**|**Dual-modality Smart Shoes for Quantitative Assessment of Hemiplegic Patients' Lower Limbs' Muscle Strength**|Huajun Long et.al.|[2305.13977v1](http://arxiv.org/abs/2305.13977v1)|null|
 |**2023-05-23**|**On the time scales of spectral evolution of nonlinear waves**|Ashleigh Simonis et.al.|[2305.13601v1](http://arxiv.org/abs/2305.13601v1)|null|
@@ -31,4 +32,3 @@
 |**2023-05-12**|**MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition**|Xinyu Gong et.al.|[2305.07214v1](http://arxiv.org/abs/2305.07214v1)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|[link](https://github.com/mit-spark/hydra)|
 |**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
-|**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
