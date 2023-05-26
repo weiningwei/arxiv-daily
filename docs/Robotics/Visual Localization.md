@@ -5,8 +5,8 @@
 |**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
 |**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199v1](http://arxiv.org/abs/2305.15199v1)|null|
 |**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078v1](http://arxiv.org/abs/2305.15078v1)|[link](https://github.com/yunfanLu/EG-RSDBI)|
-|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v1](http://arxiv.org/abs/2305.14968v1)|null|
-|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|null|
+|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v2](http://arxiv.org/abs/2305.14968v2)|null|
+|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|[link](https://github.com/dreamflake/cfm)|
 |**2023-05-24**|**NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario**|Tianwen Qian et.al.|[2305.14836v1](http://arxiv.org/abs/2305.14836v1)|null|
 |**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829v1](http://arxiv.org/abs/2305.14829v1)|null|
 |**2023-05-24**|**Image scanning lensless fiber-bundle endomicroscopy**|Gil Weinberg et.al.|[2305.14807v1](http://arxiv.org/abs/2305.14807v1)|null|
@@ -28,7 +28,7 @@
 |**2023-05-23**|**Multimodal sensor fusion for real-time location-dependent defect detection in laser-directed energy deposition**|Lequn Chen et.al.|[2305.13596v1](http://arxiv.org/abs/2305.13596v1)|null|
 |**2023-05-22**|**Detection of healthy and diseased crops in drone captured images using Deep Learning**|Jai Vardhan et.al.|[2305.13490v1](http://arxiv.org/abs/2305.13490v1)|null|
 |**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v1](http://arxiv.org/abs/2305.14389v1)|null|
-|**2023-05-22**|**Automatic Readability Assessment for Closely Related Languages**|Joseph Marvin Imperial et.al.|[2305.13478v1](http://arxiv.org/abs/2305.13478v1)|[link](https://github.com/imperialite/ara-close-lang)|
+|**2023-05-22**|**Automatic Readability Assessment for Closely Related Languages**|Joseph Marvin Imperial et.al.|[2305.13478v2](http://arxiv.org/abs/2305.13478v2)|[link](https://github.com/imperialite/ara-close-lang)|
 |**2023-05-22**|**Indirect Detection of Decaying Dark Matter with High Angular Resolution: Case for axion search by IRCS at Subaru Telescope**|Wen Yin et.al.|[2305.13415v1](http://arxiv.org/abs/2305.13415v1)|null|
 |**2023-05-22**|**The Spitzer Coverage of HSC-Deep with IRAC for Z studies (SHIRAZ) I: IRAC mosaics**|Marianna Annunziatella et.al.|[2305.13363v1](http://arxiv.org/abs/2305.13363v1)|null|
 |**2023-05-22**|**RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**|Dongwei Pan et.al.|[2305.13353v1](http://arxiv.org/abs/2305.13353v1)|[link](https://github.com/renderme-360/renderme-360)|
