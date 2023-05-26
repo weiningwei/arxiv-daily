@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**High-dimensional quantum correlation measurements with an adaptively gated hybrid single-photon camera**|Sanjukta Kundu et.al.|[2305.16245v1](http://arxiv.org/abs/2305.16245v1)|null|
+|**2023-05-25**|**Diversity-Aware Coherence Loss for Improving Neural Topic Models**|Raymond Li et.al.|[2305.16199v1](http://arxiv.org/abs/2305.16199v1)|[link](https://github.com/raymondzmc/topic-model-diversity-aware-coherence-loss)|
+|**2023-05-25**|**Collaborative Blind Image Deblurring**|Thomas Eboli et.al.|[2305.16034v1](http://arxiv.org/abs/2305.16034v1)|null|
+|**2023-05-25**|**Vision-based Safe Autonomous UAV Docking with Panoramic Sensors**|Phuoc Nguyen Thuan et.al.|[2305.16008v1](http://arxiv.org/abs/2305.16008v1)|null|
+|**2023-05-25**|**Camera-Incremental Object Re-Identification with Identity Knowledge Evolution**|Hantao Yao et.al.|[2305.15909v1](http://arxiv.org/abs/2305.15909v1)|[link](https://github.com/htyao89/camera-incremental-object-reid)|
+|**2023-05-25**|**RC-BEVFusion: A Plug-In Module for Radar-Camera Bird's Eye View Feature Fusion**|Lukas Stäcker et.al.|[2305.15883v1](http://arxiv.org/abs/2305.15883v1)|null|
+|**2023-05-25**|**Enhanced 6D Pose Estimation for Robotic Fruit Picking**|Marco Costanzo et.al.|[2305.15856v1](http://arxiv.org/abs/2305.15856v1)|null|
+|**2023-05-25**|**Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric**|Aihua Zheng et.al.|[2305.15764v1](http://arxiv.org/abs/2305.15764v1)|null|
+|**2023-05-25**|**POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference**|Zhiwen Fan et.al.|[2305.15727v1](http://arxiv.org/abs/2305.15727v1)|null|
+|**2023-05-25**|**Cross-view Action Recognition Understanding From Exocentric to Egocentric Perspective**|Thanh-Dat Truong et.al.|[2305.15699v1](http://arxiv.org/abs/2305.15699v1)|null|
+|**2023-05-25**|**Frame-Event Alignment and Fusion Network for High Frame Rate Tracking**|Jiqing Zhang et.al.|[2305.15688v1](http://arxiv.org/abs/2305.15688v1)|null|
+|**2023-05-24**|**Automated Driving Architecture and Operation of a Light Commercial Vehicle**|Murat Gozu et.al.|[2305.15589v1](http://arxiv.org/abs/2305.15589v1)|null|
 |**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
 |**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199v1](http://arxiv.org/abs/2305.15199v1)|null|
 |**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078v1](http://arxiv.org/abs/2305.15078v1)|[link](https://github.com/yunfanLu/EG-RSDBI)|
@@ -20,15 +32,3 @@
 |**2023-05-23**|**Realistic Noise Synthesis with Diffusion Models**|Qi Wu et.al.|[2305.14022v1](http://arxiv.org/abs/2305.14022v1)|null|
 |**2023-05-23**|**Design and Operation of Autonomous Wheelchair Towing Robot**|Hyunwoo Kang et.al.|[2305.13902v1](http://arxiv.org/abs/2305.13902v1)|null|
 |**2023-05-23**|**Producing a Standard Dataset of Speed Climbing Training Videos Using Deep Learning Techniques**|Yufei Xie et.al.|[2305.13858v1](http://arxiv.org/abs/2305.13858v1)|null|
-|**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814v1](http://arxiv.org/abs/2305.13814v1)|[link](https://github.com/maverickpeter/vdisco)|
-|**2023-05-23**|**MIPI 2023 Challenge on Nighttime Flare Removal: Methods and Results**|Yuekun Dai et.al.|[2305.13770v1](http://arxiv.org/abs/2305.13770v1)|null|
-|**2023-05-23**|**Tau-Herculid meteor shower on night 30/31 May, 2022, and properties of the meteoroids**|Pavel Koten et.al.|[2305.13748v1](http://arxiv.org/abs/2305.13748v1)|null|
-|**2023-05-23**|**Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker**|Sukmin Cho et.al.|[2305.13729v1](http://arxiv.org/abs/2305.13729v1)|[link](https://github.com/zomss/co-prompt)|
-|**2023-05-23**|**VDD: Varied Drone Dataset for Semantic Segmentation**|Wenxiao Cai et.al.|[2305.13608v1](http://arxiv.org/abs/2305.13608v1)|null|
-|**2023-05-23**|**Multimodal sensor fusion for real-time location-dependent defect detection in laser-directed energy deposition**|Lequn Chen et.al.|[2305.13596v1](http://arxiv.org/abs/2305.13596v1)|null|
-|**2023-05-22**|**Detection of healthy and diseased crops in drone captured images using Deep Learning**|Jai Vardhan et.al.|[2305.13490v1](http://arxiv.org/abs/2305.13490v1)|null|
-|**2023-05-22**|**Breast Cancer Segmentation using Attention-based Convolutional Network and Explainable AI**|Jai Vardhan et.al.|[2305.14389v1](http://arxiv.org/abs/2305.14389v1)|null|
-|**2023-05-22**|**Automatic Readability Assessment for Closely Related Languages**|Joseph Marvin Imperial et.al.|[2305.13478v2](http://arxiv.org/abs/2305.13478v2)|[link](https://github.com/imperialite/ara-close-lang)|
-|**2023-05-22**|**Indirect Detection of Decaying Dark Matter with High Angular Resolution: Case for axion search by IRCS at Subaru Telescope**|Wen Yin et.al.|[2305.13415v1](http://arxiv.org/abs/2305.13415v1)|null|
-|**2023-05-22**|**The Spitzer Coverage of HSC-Deep with IRAC for Z studies (SHIRAZ) I: IRAC mosaics**|Marianna Annunziatella et.al.|[2305.13363v1](http://arxiv.org/abs/2305.13363v1)|null|
-|**2023-05-22**|**RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**|Dongwei Pan et.al.|[2305.13353v1](http://arxiv.org/abs/2305.13353v1)|[link](https://github.com/renderme-360/renderme-360)|
