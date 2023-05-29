@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-05-25**|**High-dimensional quantum correlation measurements with an adaptively gated hybrid single-photon camera**|Sanjukta Kundu et.al.|[2305.16245v1](http://arxiv.org/abs/2305.16245v1)|null|
-|**2023-05-25**|**Diversity-Aware Coherence Loss for Improving Neural Topic Models**|Raymond Li et.al.|[2305.16199v1](http://arxiv.org/abs/2305.16199v1)|[link](https://github.com/raymondzmc/topic-model-diversity-aware-coherence-loss)|
+|**2023-05-25**|**Diversity-Aware Coherence Loss for Improving Neural Topic Models**|Raymond Li et.al.|[2305.16199v2](http://arxiv.org/abs/2305.16199v2)|[link](https://github.com/raymondzmc/topic-model-diversity-aware-coherence-loss)|
 |**2023-05-25**|**Collaborative Blind Image Deblurring**|Thomas Eboli et.al.|[2305.16034v1](http://arxiv.org/abs/2305.16034v1)|null|
 |**2023-05-25**|**Vision-based Safe Autonomous UAV Docking with Panoramic Sensors**|Phuoc Nguyen Thuan et.al.|[2305.16008v1](http://arxiv.org/abs/2305.16008v1)|null|
 |**2023-05-25**|**Camera-Incremental Object Re-Identification with Identity Knowledge Evolution**|Hantao Yao et.al.|[2305.15909v1](http://arxiv.org/abs/2305.15909v1)|[link](https://github.com/htyao89/camera-incremental-object-reid)|
