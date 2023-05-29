@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-26**|**Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation**|Minwoo Jung et.al.|[2305.16792v1](http://arxiv.org/abs/2305.16792v1)|null|
+|**2023-05-26**|**Extended application of random-walk shielding-potential viscosity model of metals in wide temperature region**|Yuqing Cheng et.al.|[2305.16551v1](http://arxiv.org/abs/2305.16551v1)|null|
 |**2023-05-25**|**Stability Improvement of Nuclear Magnetic Resonance Gyroscope with Self-Calibrating Parametric Magnetometer**|Guoping Gao et.al.|[2305.15847v1](http://arxiv.org/abs/2305.15847v1)|null|
 |**2023-05-24**|**PCA-aided calibration of systems comprising multiple unbiased sensors**|Marek W. Rupniewski et.al.|[2305.15568v1](http://arxiv.org/abs/2305.15568v1)|null|
 |**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
@@ -30,5 +32,3 @@
 |**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
 |**2023-05-14**|**Entropic Force in MHD, MHD turbulence, and the Entropy-Kinetic Equation**|W. Baumjohann et.al.|[2305.08230v1](http://arxiv.org/abs/2305.08230v1)|null|
 |**2023-05-13**|**Ehrenfest Paradox: A Careful Examination**|Jitendra Kumar et.al.|[2305.07953v1](http://arxiv.org/abs/2305.07953v1)|null|
-|**2023-05-12**|**Grating magneto-optical traps with complicated level structures**|D. S. Barker et.al.|[2305.07732v1](http://arxiv.org/abs/2305.07732v1)|null|
-|**2023-05-12**|**Generation of Accurate Translational Motion for Testing Inertial Sensors**|Swavik Spiewak et.al.|[2305.07250v1](http://arxiv.org/abs/2305.07250v1)|null|
