@@ -2,11 +2,20 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-29**|**Active Collaborative Localization in Heterogeneous Robot Teams**|Igor Spasojevic et.al.|[2305.18193v1](http://arxiv.org/abs/2305.18193v1)|null|
+|**2023-05-29**|**Energy loss enhancement of very intense proton beams in dense matter due to the beam-density effect**|Benzheng Chen et.al.|[2305.18067v1](http://arxiv.org/abs/2305.18067v1)|null|
+|**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
+|**2023-05-28**|**Radio-Optical Reference Catalog, version 1**|Valeri V. Makarov et.al.|[2305.17755v1](http://arxiv.org/abs/2305.17755v1)|null|
+|**2023-05-28**|**Systems Development of a Two-Axis Stabilised Platform to Facilitate Astronomical Observations from a Moving Base**|James H Hepworth et.al.|[2305.17700v1](http://arxiv.org/abs/2305.17700v1)|null|
+|**2023-05-28**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673v1](http://arxiv.org/abs/2305.17673v1)|null|
+|**2023-05-28**|**A Machine-Designed Optical Lattice Atom Interferometer**|Catie LeDesma et.al.|[2305.17603v1](http://arxiv.org/abs/2305.17603v1)|null|
+|**2023-05-27**|**Fully Automatic Gym Exercises Recording: An IoT Solution**|Sizhen Bian et.al.|[2305.17594v1](http://arxiv.org/abs/2305.17594v1)|null|
 |**2023-05-26**|**Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation**|Minwoo Jung et.al.|[2305.16792v1](http://arxiv.org/abs/2305.16792v1)|null|
 |**2023-05-26**|**Extended application of random-walk shielding-potential viscosity model of metals in wide temperature region**|Yuqing Cheng et.al.|[2305.16551v1](http://arxiv.org/abs/2305.16551v1)|null|
 |**2023-05-25**|**Stability Improvement of Nuclear Magnetic Resonance Gyroscope with Self-Calibrating Parametric Magnetometer**|Guoping Gao et.al.|[2305.15847v1](http://arxiv.org/abs/2305.15847v1)|null|
 |**2023-05-24**|**PCA-aided calibration of systems comprising multiple unbiased sensors**|Marek W. Rupniewski et.al.|[2305.15568v1](http://arxiv.org/abs/2305.15568v1)|null|
 |**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
+|**2023-05-23**|**Nonperturbative Aspects of Quantum Field Theory in Curved Spacetime**|Níckolas de Aguiar Alves et.al.|[2305.17453v1](http://arxiv.org/abs/2305.17453v1)|null|
 |**2023-05-23**|**Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map**|Yuming Huang et.al.|[2305.14038v1](http://arxiv.org/abs/2305.14038v1)|null|
 |**2023-05-23**|**Dual-modality Smart Shoes for Quantitative Assessment of Hemiplegic Patients' Lower Limbs' Muscle Strength**|Huajun Long et.al.|[2305.13977v1](http://arxiv.org/abs/2305.13977v1)|null|
 |**2023-05-23**|**Hybrid Optimization of Laser-Driven Fusion Targets and Laser Profiles**|Z. Li et.al.|[2305.15434v1](http://arxiv.org/abs/2305.15434v1)|null|
@@ -23,12 +32,3 @@
 |**2023-05-18**|**Reconnection in a Pinch**|Thomas E. Moore et.al.|[2305.11238v1](http://arxiv.org/abs/2305.11238v1)|null|
 |**2023-05-18**|**Poincaré invariance of spinning binary dynamics in the post-Minkowskian Hamiltonian approach**|Hojin Lee et.al.|[2305.10739v1](http://arxiv.org/abs/2305.10739v1)|null|
 |**2023-05-17**|**Inertial-based Navigation by Polynomial Optimization: Inertial-Magnetic Attitude Estimation**|Maoran Zhu et.al.|[2305.10338v1](http://arxiv.org/abs/2305.10338v1)|null|
-|**2023-05-16**|**Tightly Integrated Motion Classification and State Estimation in Foot-Mounted Navigation Systems**|Isaac Skog et.al.|[2305.09363v1](http://arxiv.org/abs/2305.09363v1)|null|
-|**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
-|**2023-05-16**|**Capacitor Voltage Synchronizing Control of 100% Full-Scale Wind Power Generator-Supplied Power Systems**|Yang Liu et.al.|[2305.09198v1](http://arxiv.org/abs/2305.09198v1)|null|
-|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962v1](http://arxiv.org/abs/2305.08962v1)|null|
-|**2023-05-15**|**Weak equivalence principle violation for mixed scalar particles**|Massimo Blasone et.al.|[2305.08718v1](http://arxiv.org/abs/2305.08718v1)|null|
-|**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
-|**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
-|**2023-05-14**|**Entropic Force in MHD, MHD turbulence, and the Entropy-Kinetic Equation**|W. Baumjohann et.al.|[2305.08230v1](http://arxiv.org/abs/2305.08230v1)|null|
-|**2023-05-13**|**Ehrenfest Paradox: A Careful Examination**|Jitendra Kumar et.al.|[2305.07953v1](http://arxiv.org/abs/2305.07953v1)|null|

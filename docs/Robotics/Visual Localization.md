@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-29**|**Development of a ROS-based Architecture for Intelligent Autonomous on Demand Last Mile Delivery**|Georg Novtony et.al.|[2305.18276v1](http://arxiv.org/abs/2305.18276v1)|null|
+|**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|[link](https://github.com/danielcoelho112/synfeal)|
+|**2023-05-29**|**A Critical Evaluation of Evaluations for Long-form Question Answering**|Fangyuan Xu et.al.|[2305.18201v1](http://arxiv.org/abs/2305.18201v1)|[link](https://github.com/carriex/lfqa_eval)|
+|**2023-05-29**|**Active Collaborative Localization in Heterogeneous Robot Teams**|Igor Spasojevic et.al.|[2305.18193v1](http://arxiv.org/abs/2305.18193v1)|null|
+|**2023-05-29**|**Alignment-free HDR Deghosting with Semantics Consistent Transformer**|Steven Tel et.al.|[2305.18135v1](http://arxiv.org/abs/2305.18135v1)|null|
+|**2023-05-29**|**Pedestrian detection with high-resolution event camera**|Piotr Wzorek et.al.|[2305.18008v1](http://arxiv.org/abs/2305.18008v1)|null|
+|**2023-05-29**|**Monocular 2D Camera-based Proximity Monitoring for Human-Machine Collision Warning on Construction Sites**|Yuexiong Ding et.al.|[2305.17931v1](http://arxiv.org/abs/2305.17931v1)|null|
+|**2023-05-28**|**Lighting and Rotation Invariant Real-time Vehicle Wheel Detector based on YOLOv5**|Michael Shenoda et.al.|[2305.17785v1](http://arxiv.org/abs/2305.17785v1)|null|
+|**2023-05-28**|**Parallel Data Helps Neural Entity Coreference Resolution**|Gongbo Tang et.al.|[2305.17709v1](http://arxiv.org/abs/2305.17709v1)|null|
+|**2023-05-28**|**Systems Development of a Two-Axis Stabilised Platform to Facilitate Astronomical Observations from a Moving Base**|James H Hepworth et.al.|[2305.17700v1](http://arxiv.org/abs/2305.17700v1)|null|
+|**2023-05-27**|**Collaborative Multi-Agent Video Fast-Forwarding**|Shuyue Lan et.al.|[2305.17569v1](http://arxiv.org/abs/2305.17569v1)|null|
+|**2023-05-27**|**The Implicit Regularization of Dynamical Stability in Stochastic Gradient Descent**|Lei Wu et.al.|[2305.17490v1](http://arxiv.org/abs/2305.17490v1)|null|
+|**2023-05-27**|**BASED: Benchmarking, Analysis, and Structural Estimation of Deblurring**|Nikita Alutis et.al.|[2305.17477v1](http://arxiv.org/abs/2305.17477v1)|[link](https://github.com/illaitar/based)|
+|**2023-05-27**|**FishEye8K: A Benchmark and Dataset for Fisheye Camera Object Detection**|Munkhjargal Gochoo et.al.|[2305.17449v1](http://arxiv.org/abs/2305.17449v1)|[link](https://github.com/moyog/fisheye8k)|
+|**2023-05-27**|**An Image Based Visual Servo Method for Probe-and-Drogue Autonomous Aerial Refueling**|Quan Quan et.al.|[2305.17414v1](http://arxiv.org/abs/2305.17414v1)|null|
+|**2023-05-27**|**Radar Enlighten the Dark: Enhancing Low-Visibility Perception for Automated Vehicles with Camera-Radar Fusion**|Can Cui et.al.|[2305.17318v1](http://arxiv.org/abs/2305.17318v1)|[link](https://github.com/purduedigitaltwin/redformer)|
+|**2023-05-26**|**VoxDet: Voxel Learning for Novel Instance Detection**|Bowen Li et.al.|[2305.17220v1](http://arxiv.org/abs/2305.17220v1)|null|
+|**2023-05-26**|**Image Quality Is Not All You Want: Task-Driven Lens Design for Image Classification**|Xinge Yang et.al.|[2305.17185v1](http://arxiv.org/abs/2305.17185v1)|null|
 |**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v1](http://arxiv.org/abs/2305.16914v1)|null|
 |**2023-05-26**|**Automatic Surround Camera Calibration Method in Road Scene for Self-driving Car**|Jixiang Li et.al.|[2305.16840v1](http://arxiv.org/abs/2305.16840v1)|null|
 |**2023-05-26**|**Songs Across Borders: Singable and Controllable Neural Lyric Translation**|Longshen Ou et.al.|[2305.16816v1](http://arxiv.org/abs/2305.16816v1)|[link](https://github.com/sonata165/controllablelyrictranslation)|
@@ -14,21 +32,3 @@
 |**2023-05-25**|**Vision-based UAV Detection in Complex Backgrounds and Rainy Conditions**|Adnan Munir et.al.|[2305.16450v1](http://arxiv.org/abs/2305.16450v1)|null|
 |**2023-05-25**|**High-dimensional quantum correlation measurements with an adaptively gated hybrid single-photon camera**|Sanjukta Kundu et.al.|[2305.16245v1](http://arxiv.org/abs/2305.16245v1)|null|
 |**2023-05-25**|**Diversity-Aware Coherence Loss for Improving Neural Topic Models**|Raymond Li et.al.|[2305.16199v2](http://arxiv.org/abs/2305.16199v2)|[link](https://github.com/raymondzmc/topic-model-diversity-aware-coherence-loss)|
-|**2023-05-25**|**Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark**|Juncheng Li et.al.|[2305.16378v1](http://arxiv.org/abs/2305.16378v1)|null|
-|**2023-05-25**|**Collaborative Blind Image Deblurring**|Thomas Eboli et.al.|[2305.16034v1](http://arxiv.org/abs/2305.16034v1)|null|
-|**2023-05-25**|**Vision-based Safe Autonomous UAV Docking with Panoramic Sensors**|Phuoc Nguyen Thuan et.al.|[2305.16008v1](http://arxiv.org/abs/2305.16008v1)|null|
-|**2023-05-25**|**Camera-Incremental Object Re-Identification with Identity Knowledge Evolution**|Hantao Yao et.al.|[2305.15909v1](http://arxiv.org/abs/2305.15909v1)|[link](https://github.com/htyao89/camera-incremental-object-reid)|
-|**2023-05-25**|**RC-BEVFusion: A Plug-In Module for Radar-Camera Bird's Eye View Feature Fusion**|Lukas Stäcker et.al.|[2305.15883v1](http://arxiv.org/abs/2305.15883v1)|null|
-|**2023-05-25**|**Enhanced 6D Pose Estimation for Robotic Fruit Picking**|Marco Costanzo et.al.|[2305.15856v1](http://arxiv.org/abs/2305.15856v1)|null|
-|**2023-05-25**|**Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric**|Aihua Zheng et.al.|[2305.15764v1](http://arxiv.org/abs/2305.15764v1)|null|
-|**2023-05-25**|**POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference**|Zhiwen Fan et.al.|[2305.15727v1](http://arxiv.org/abs/2305.15727v1)|null|
-|**2023-05-25**|**Cross-view Action Recognition Understanding From Exocentric to Egocentric Perspective**|Thanh-Dat Truong et.al.|[2305.15699v1](http://arxiv.org/abs/2305.15699v1)|null|
-|**2023-05-25**|**Frame-Event Alignment and Fusion Network for High Frame Rate Tracking**|Jiqing Zhang et.al.|[2305.15688v1](http://arxiv.org/abs/2305.15688v1)|null|
-|**2023-05-24**|**Automated Driving Architecture and Operation of a Light Commercial Vehicle**|Murat Gozu et.al.|[2305.15589v1](http://arxiv.org/abs/2305.15589v1)|null|
-|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
-|**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199v1](http://arxiv.org/abs/2305.15199v1)|null|
-|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078v1](http://arxiv.org/abs/2305.15078v1)|[link](https://github.com/yunfanLu/EG-RSDBI)|
-|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968v2](http://arxiv.org/abs/2305.14968v2)|null|
-|**2023-05-24**|**Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup**|Junyoung Byun et.al.|[2305.14846v1](http://arxiv.org/abs/2305.14846v1)|[link](https://github.com/dreamflake/cfm)|
-|**2023-05-24**|**NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario**|Tianwen Qian et.al.|[2305.14836v1](http://arxiv.org/abs/2305.14836v1)|[link](https://github.com/qiantianwen/nuscenes-qa)|
-|**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829v1](http://arxiv.org/abs/2305.14829v1)|null|
