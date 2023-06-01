@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-31**|**Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism**|Haoxuan Xu et.al.|[2305.20055v1](http://arxiv.org/abs/2305.20055v1)|null|
+|**2023-05-31**|**Efficient Shapley Values Estimation by Amortization for Text Classification**|Chenghao Yang et.al.|[2305.19998v1](http://arxiv.org/abs/2305.19998v1)|[link](https://github.com/yangalan123/amortized-interpretability)|
+|**2023-05-31**|**Analysing high resolution digital Mars images using machine learning**|M. Gergacz et.al.|[2305.19958v1](http://arxiv.org/abs/2305.19958v1)|null|
+|**2023-05-31**|**Self-supervised Learning to Bring Dual Reversed Rolling Shutter Images Alive**|Wei Shang et.al.|[2305.19862v1](http://arxiv.org/abs/2305.19862v1)|[link](https://github.com/shangwei5/selfdrsc)|
+|**2023-05-31**|**A Multi-Modal Transformer Network for Action Detection**|Matthew Korban et.al.|[2305.19624v1](http://arxiv.org/abs/2305.19624v1)|null|
+|**2023-05-31**|**Automatic Illumination Spectrum Recovery**|Nariman Habili et.al.|[2305.19538v1](http://arxiv.org/abs/2305.19538v1)|null|
+|**2023-05-30**|**Bigger, Better, Faster: Human-level Atari with human-level efficiency**|Max Schwarzer et.al.|[2305.19452v1](http://arxiv.org/abs/2305.19452v1)|[link](https://github.com/google-research/google-research)|
+|**2023-05-30**|**The Merian Survey: Design, Construction, and Characterization of a Filter Set Optimized to Find Dwarf Galaxies and Measure their Dark Matter Halo Properties with Weak Lensing**|Yifei Luo et.al.|[2305.19310v1](http://arxiv.org/abs/2305.19310v1)|null|
 |**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994v1](http://arxiv.org/abs/2305.18994v1)|null|
 |**2023-05-30**|**Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**|Chen Min et.al.|[2305.18829v1](http://arxiv.org/abs/2305.18829v1)|[link](https://github.com/chaytonmin/occ-bev)|
 |**2023-05-30**|**Scalable Performance Analysis for Vision-Language Models**|Santiago Castro et.al.|[2305.18786v2](http://arxiv.org/abs/2305.18786v2)|[link](https://github.com/michigannlp/scalable-vlm-probing)|
@@ -24,11 +32,3 @@
 |**2023-05-27**|**BASED: Benchmarking, Analysis, and Structural Estimation of Deblurring**|Nikita Alutis et.al.|[2305.17477v1](http://arxiv.org/abs/2305.17477v1)|[link](https://github.com/illaitar/based)|
 |**2023-05-27**|**FishEye8K: A Benchmark and Dataset for Fisheye Camera Object Detection**|Munkhjargal Gochoo et.al.|[2305.17449v1](http://arxiv.org/abs/2305.17449v1)|[link](https://github.com/moyog/fisheye8k)|
 |**2023-05-27**|**An Image Based Visual Servo Method for Probe-and-Drogue Autonomous Aerial Refueling**|Quan Quan et.al.|[2305.17414v1](http://arxiv.org/abs/2305.17414v1)|null|
-|**2023-05-27**|**Radar Enlighten the Dark: Enhancing Low-Visibility Perception for Automated Vehicles with Camera-Radar Fusion**|Can Cui et.al.|[2305.17318v1](http://arxiv.org/abs/2305.17318v1)|[link](https://github.com/purduedigitaltwin/redformer)|
-|**2023-05-26**|**VoxDet: Voxel Learning for Novel Instance Detection**|Bowen Li et.al.|[2305.17220v2](http://arxiv.org/abs/2305.17220v2)|null|
-|**2023-05-26**|**Image Quality Is Not All You Want: Task-Driven Lens Design for Image Classification**|Xinge Yang et.al.|[2305.17185v1](http://arxiv.org/abs/2305.17185v1)|null|
-|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v2](http://arxiv.org/abs/2305.16914v2)|null|
-|**2023-05-26**|**Automatic Surround Camera Calibration Method in Road Scene for Self-driving Car**|Jixiang Li et.al.|[2305.16840v1](http://arxiv.org/abs/2305.16840v1)|[link](https://github.com/opencalib/surroundcameracalib)|
-|**2023-05-26**|**Songs Across Borders: Singable and Controllable Neural Lyric Translation**|Longshen Ou et.al.|[2305.16816v1](http://arxiv.org/abs/2305.16816v1)|[link](https://github.com/sonata165/controllablelyrictranslation)|
-|**2023-05-26**|**Backpack Language Models**|John Hewitt et.al.|[2305.16765v1](http://arxiv.org/abs/2305.16765v1)|null|
-|**2023-05-26**|**Parameter-Efficient Fine-Tuning without Introducing New Latency**|Baohao Liao et.al.|[2305.16742v1](http://arxiv.org/abs/2305.16742v1)|null|
