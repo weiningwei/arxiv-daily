@@ -28,7 +28,7 @@
 |**2023-05-28**|**Systems Development of a Two-Axis Stabilised Platform to Facilitate Astronomical Observations from a Moving Base**|James H Hepworth et.al.|[2305.17700v1](http://arxiv.org/abs/2305.17700v1)|null|
 |**2023-05-27**|**ColibriUAV: An Ultra-Fast, Energy-Efficient Neuromorphic Edge Processing UAV-Platform with Event-Based and Frame-Based Cameras**|Sizhen Bian et.al.|[2305.18371v1](http://arxiv.org/abs/2305.18371v1)|null|
 |**2023-05-27**|**Collaborative Multi-Agent Video Fast-Forwarding**|Shuyue Lan et.al.|[2305.17569v1](http://arxiv.org/abs/2305.17569v1)|null|
-|**2023-05-27**|**The Implicit Regularization of Dynamical Stability in Stochastic Gradient Descent**|Lei Wu et.al.|[2305.17490v1](http://arxiv.org/abs/2305.17490v1)|null|
+|**2023-05-27**|**The Implicit Regularization of Dynamical Stability in Stochastic Gradient Descent**|Lei Wu et.al.|[2305.17490v2](http://arxiv.org/abs/2305.17490v2)|null|
 |**2023-05-27**|**BASED: Benchmarking, Analysis, and Structural Estimation of Deblurring**|Nikita Alutis et.al.|[2305.17477v1](http://arxiv.org/abs/2305.17477v1)|[link](https://github.com/illaitar/based)|
 |**2023-05-27**|**FishEye8K: A Benchmark and Dataset for Fisheye Camera Object Detection**|Munkhjargal Gochoo et.al.|[2305.17449v1](http://arxiv.org/abs/2305.17449v1)|[link](https://github.com/moyog/fisheye8k)|
 |**2023-05-27**|**An Image Based Visual Servo Method for Probe-and-Drogue Autonomous Aerial Refueling**|Quan Quan et.al.|[2305.17414v1](http://arxiv.org/abs/2305.17414v1)|null|
