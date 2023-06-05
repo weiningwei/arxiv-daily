@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-02**|**Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis**|Yedi Luo et.al.|[2306.01704v1](http://arxiv.org/abs/2306.01704v1)|null|
+|**2023-06-02**|**Two-View Geometry Scoring Without Correspondences**|Axel Barroso-Laguna et.al.|[2306.01596v1](http://arxiv.org/abs/2306.01596v1)|[link](https://github.com/nianticlabs/scoring-without-correspondences)|
+|**2023-06-02**|**Unsupervised Extractive Summarization of Emotion Triggers**|Tiberiu Sosea et.al.|[2306.01444v1](http://arxiv.org/abs/2306.01444v1)|null|
+|**2023-06-02**|**Model-based demosaicking for acquisitions by a RGBW color filter array**|Matthieu Muller et.al.|[2306.01357v1](http://arxiv.org/abs/2306.01357v1)|null|
+|**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
+|**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
+|**2023-06-01**|**Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning**|Fan Yin et.al.|[2306.01150v1](http://arxiv.org/abs/2306.01150v1)|[link](https://github.com/fanyin3639/rethinking-instruction-effectiveness)|
+|**2023-06-01**|**Further Analysis on the Mystery of the Surveyor III Dust Deposits**|John Lane et.al.|[2306.01087v1](http://arxiv.org/abs/2306.01087v1)|null|
+|**2023-06-01**|**Snapshot hyperspectral imaging of intracellular lasers**|Soraya Caixeiro et.al.|[2306.01083v1](http://arxiv.org/abs/2306.01083v1)|null|
 |**2023-06-01**|**LIV: Language-Image Representations and Rewards for Robotic Control**|Yecheng Jason Ma et.al.|[2306.00958v1](http://arxiv.org/abs/2306.00958v1)|[link](https://github.com/penn-pal-lab/liv)|
 |**2023-06-01**|**Experimental Energy Consumption Analysis of a Flapping-Wing Robot**|Raul Tapia et.al.|[2306.00848v1](http://arxiv.org/abs/2306.00848v1)|null|
 |**2023-06-01**|**Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**|Dan Yang et.al.|[2306.00834v1](http://arxiv.org/abs/2306.00834v1)|null|
@@ -23,12 +32,3 @@
 |**2023-05-31**|**Automatic Illumination Spectrum Recovery**|Nariman Habili et.al.|[2305.19538v1](http://arxiv.org/abs/2305.19538v1)|null|
 |**2023-05-30**|**Bigger, Better, Faster: Human-level Atari with human-level efficiency**|Max Schwarzer et.al.|[2305.19452v1](http://arxiv.org/abs/2305.19452v1)|[link](https://github.com/google-research/google-research)|
 |**2023-05-30**|**The Merian Survey: Design, Construction, and Characterization of a Filter Set Optimized to Find Dwarf Galaxies and Measure their Dark Matter Halo Properties with Weak Lensing**|Yifei Luo et.al.|[2305.19310v1](http://arxiv.org/abs/2305.19310v1)|null|
-|**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994v1](http://arxiv.org/abs/2305.18994v1)|null|
-|**2023-05-30**|**Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**|Chen Min et.al.|[2305.18829v1](http://arxiv.org/abs/2305.18829v1)|[link](https://github.com/chaytonmin/occ-bev)|
-|**2023-05-30**|**Scalable Performance Analysis for Vision-Language Models**|Santiago Castro et.al.|[2305.18786v2](http://arxiv.org/abs/2305.18786v2)|[link](https://github.com/michigannlp/scalable-vlm-probing)|
-|**2023-05-29**|**The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories**|Wesley Andrés Watters et.al.|[2305.18566v2](http://arxiv.org/abs/2305.18566v2)|null|
-|**2023-05-29**|**A Hardware and Software Platform for Aerial Object Localization**|Matthew Szenher et.al.|[2305.18555v1](http://arxiv.org/abs/2305.18555v1)|null|
-|**2023-05-29**|**Development of a ROS-based Architecture for Intelligent Autonomous on Demand Last Mile Delivery**|Georg Novtony et.al.|[2305.18276v1](http://arxiv.org/abs/2305.18276v1)|null|
-|**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|[link](https://github.com/danielcoelho112/synfeal)|
-|**2023-05-29**|**A Critical Evaluation of Evaluations for Long-form Question Answering**|Fangyuan Xu et.al.|[2305.18201v1](http://arxiv.org/abs/2305.18201v1)|[link](https://github.com/carriex/lfqa_eval)|
-|**2023-05-29**|**Active Collaborative Localization in Heterogeneous Robot Teams**|Igor Spasojevic et.al.|[2305.18193v1](http://arxiv.org/abs/2305.18193v1)|null|

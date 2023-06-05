@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430v1](http://arxiv.org/abs/2306.01430v1)|null|
+|**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
+|**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
 |**2023-05-31**|**Energy coupling in intense laser solid interactions: material properties of gold**|Xu Liu et.al.|[2305.19469v1](http://arxiv.org/abs/2305.19469v1)|null|
 |**2023-05-30**|**Homogeneous turbulence in a random-jet-stirred tank**|Joo Young Bang et.al.|[2305.19430v1](http://arxiv.org/abs/2305.19430v1)|null|
 |**2023-05-30**|**Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment**|Yashar Kiarashi et.al.|[2305.19342v1](http://arxiv.org/abs/2305.19342v1)|null|
@@ -29,6 +32,3 @@
 |**2023-05-22**|**On the emission of ultra fine particles from municipal solid waste (MSW) incinerators**|Micheal W Reeks et.al.|[2305.13029v1](http://arxiv.org/abs/2305.13029v1)|null|
 |**2023-05-22**|**PO-VINS: An Efficient Pose-Only LiDAR-Enhanced Visual-Inertial State Estimator**|Hailiang Tang et.al.|[2305.12644v1](http://arxiv.org/abs/2305.12644v1)|null|
 |**2023-05-20**|**Effect of confinement on the transition from 2D to 3D fast rotating flows**|Chandra Shekhar Lohani et.al.|[2305.12255v1](http://arxiv.org/abs/2305.12255v1)|null|
-|**2023-05-20**|**Accelerated DC Algorithms for the Asymmetric Eigenvalue Complementarity Problem**|Yi-Shuai Niu et.al.|[2305.12076v1](http://arxiv.org/abs/2305.12076v1)|[link](https://github.com/niuyishuai/hdca)|
-|**2023-05-19**|**Vehicle Teleoperation: Performance Assessment of SRPT Approach Under State Estimation Errors**|Jai Prakash et.al.|[2305.11674v1](http://arxiv.org/abs/2305.11674v1)|null|
-|**2023-05-19**|**Phononic Switching of Magnetization by the Ultrafast Barnett Effect**|C. S. Davies et.al.|[2305.11551v1](http://arxiv.org/abs/2305.11551v1)|null|
