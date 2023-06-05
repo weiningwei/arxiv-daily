@@ -6,7 +6,7 @@
 |**2023-06-01**|**Experimental Energy Consumption Analysis of a Flapping-Wing Robot**|Raul Tapia et.al.|[2306.00848v1](http://arxiv.org/abs/2306.00848v1)|null|
 |**2023-06-01**|**Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**|Dan Yang et.al.|[2306.00834v1](http://arxiv.org/abs/2306.00834v1)|null|
 |**2023-06-01**|**Spying on the Spy: Security Analysis of Hidden Cameras**|Samuel Herodotou et.al.|[2306.00610v1](http://arxiv.org/abs/2306.00610v1)|null|
-|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547v1](http://arxiv.org/abs/2306.00547v1)|null|
+|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547v2](http://arxiv.org/abs/2306.00547v2)|null|
 |**2023-06-01**|**CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception**|Jiachen Sun et.al.|[2306.00349v1](http://arxiv.org/abs/2306.00349v1)|null|
 |**2023-06-01**|**Provable Benefit of Mixup for Finding Optimal Decision Boundaries**|Junsoo Oh et.al.|[2306.00267v1](http://arxiv.org/abs/2306.00267v1)|null|
 |**2023-05-31**|**Bytes Are All You Need: Transformers Operating Directly On File Bytes**|Maxwell Horton et.al.|[2306.00238v1](http://arxiv.org/abs/2306.00238v1)|[link](https://github.com/apple/ml-cvnets)|
