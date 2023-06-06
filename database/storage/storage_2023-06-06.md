@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-06 10:15:52 Asia/Shanghai
+ Automated deployment @ 2023-06-06 20:11:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,42 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-02**|**Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis**|Yedi Luo et.al.|[2306.01704v1](http://arxiv.org/abs/2306.01704v1)|null|
+|**2023-06-05**|**ELEV-VISION: Automated Lowest Floor Elevation Estimation from Segmenting Street View Images**|Yu-Hsuan Ho et.al.|[2306.03050v1](http://arxiv.org/abs/2306.03050v1)|null|
+|**2023-06-05**|**Long-range UAV Thermal Geo-localization with Satellite Imagery**|Jiuhong Xiao et.al.|[2306.02994v1](http://arxiv.org/abs/2306.02994v1)|[link](https://github.com/arplaboratory/satellite-thermal-geo-localization)|
+|**2023-06-05**|**Best of Both Worlds: Hybrid SNN-ANN Architecture for Event-based Optical Flow Estimation**|Shubham Negi et.al.|[2306.02960v1](http://arxiv.org/abs/2306.02960v1)|null|
+|**2023-06-05**|**Color-aware Deep Temporal Backdrop Duplex Matting System**|Hendrik Hachmann et.al.|[2306.02954v1](http://arxiv.org/abs/2306.02954v1)|null|
+|**2023-06-05**|**Unsupervised network for low-light enhancement**|Praveen Kandula et.al.|[2306.02883v1](http://arxiv.org/abs/2306.02883v1)|null|
+|**2023-06-05**|**Text-To-KG Alignment: Comparing Current Methods on Classification Tasks**|Sondre Wold et.al.|[2306.02871v1](http://arxiv.org/abs/2306.02871v1)|null|
+|**2023-06-05**|**TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments**|Yu Sun et.al.|[2306.02850v1](http://arxiv.org/abs/2306.02850v1)|[link](https://github.com/arthur151/dynacam)|
+|**2023-06-05**|**Differentially Private Cross-camera Person Re-identification**|Lucas Maris et.al.|[2306.02765v1](http://arxiv.org/abs/2306.02765v1)|null|
+|**2023-06-05**|**Current status and operation of the H.E.S.S. array of imaging atmospheric Cherenkov telescopes**|S. Ohm et.al.|[2306.02716v1](http://arxiv.org/abs/2306.02716v1)|null|
+|**2023-06-05**|**Background contribution in the electron-tracking Compton camera aboard SMILE-2+**|Tomonori Ikeda et.al.|[2306.02700v1](http://arxiv.org/abs/2306.02700v1)|null|
+|**2023-06-05**|**Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything**|Zhaotong Luo et.al.|[2306.02656v1](http://arxiv.org/abs/2306.02656v1)|null|
+|**2023-06-05**|**Computational 3D topographic microscopy from terabytes of data per sample**|Kevin C. Zhou et.al.|[2306.02634v1](http://arxiv.org/abs/2306.02634v1)|null|
+|**2023-06-05**|**Learning from Multi-View Representation for Point-Cloud Pre-Training**|Siming Yan et.al.|[2306.02558v1](http://arxiv.org/abs/2306.02558v1)|null|
+|**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520v1](http://arxiv.org/abs/2306.02520v1)|null|
+|**2023-06-04**|**Overview of the JWST Advanced Deep Extragalactic Survey (JADES)**|Daniel J. Eisenstein et.al.|[2306.02465v1](http://arxiv.org/abs/2306.02465v1)|null|
+|**2023-06-04**|**Sanity Checks for Saliency Methods Explaining Object Detectors**|Deepan Chakravarthi Padmanabhan et.al.|[2306.02424v1](http://arxiv.org/abs/2306.02424v1)|null|
+|**2023-06-04**|**Heteroskedastic Geospatial Tracking with Distributed Camera Networks**|Colin Samplawski et.al.|[2306.02407v1](http://arxiv.org/abs/2306.02407v1)|null|
+|**2023-06-04**|**Online estimation of the hand-eye transformation from surgical scenes**|Krittin Pachtrachai et.al.|[2306.02261v1](http://arxiv.org/abs/2306.02261v1)|null|
+|**2023-06-03**|**Why We Should Report the Details in Subjective Evaluation of TTS More Rigorously**|Cheng-Han Chiang et.al.|[2306.02044v1](http://arxiv.org/abs/2306.02044v1)|null|
+|**2023-06-03**|**Algebraic Smooth Occluding Contours**|Ryan Capouellez et.al.|[2306.01973v1](http://arxiv.org/abs/2306.01973v1)|null|
+|**2023-06-03**|**GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation**|Tatsuya Aoyama et.al.|[2306.01966v1](http://arxiv.org/abs/2306.01966v1)|null|
+|**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938v1](http://arxiv.org/abs/2306.01938v1)|null|
+|**2023-06-02**|**Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis**|Yedi Luo et.al.|[2306.01704v1](http://arxiv.org/abs/2306.01704v1)|[link](https://github.com/ostadabbas/temporal-controlled-frame-swap-gtav-tefs-)|
 |**2023-06-02**|**Two-View Geometry Scoring Without Correspondences**|Axel Barroso-Laguna et.al.|[2306.01596v1](http://arxiv.org/abs/2306.01596v1)|[link](https://github.com/nianticlabs/scoring-without-correspondences)|
-|**2023-06-02**|**Unsupervised Extractive Summarization of Emotion Triggers**|Tiberiu Sosea et.al.|[2306.01444v1](http://arxiv.org/abs/2306.01444v1)|null|
+|**2023-06-02**|**Unsupervised Extractive Summarization of Emotion Triggers**|Tiberiu Sosea et.al.|[2306.01444v1](http://arxiv.org/abs/2306.01444v1)|[link](https://github.com/tsosea2/covidet-ext)|
 |**2023-06-02**|**Model-based demosaicking for acquisitions by a RGBW color filter array**|Matthieu Muller et.al.|[2306.01357v1](http://arxiv.org/abs/2306.01357v1)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
 |**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
 |**2023-06-01**|**Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning**|Fan Yin et.al.|[2306.01150v1](http://arxiv.org/abs/2306.01150v1)|[link](https://github.com/fanyin3639/rethinking-instruction-effectiveness)|
 |**2023-06-01**|**Further Analysis on the Mystery of the Surveyor III Dust Deposits**|John Lane et.al.|[2306.01087v1](http://arxiv.org/abs/2306.01087v1)|null|
-|**2023-06-01**|**Snapshot hyperspectral imaging of intracellular lasers**|Soraya Caixeiro et.al.|[2306.01083v1](http://arxiv.org/abs/2306.01083v1)|null|
-|**2023-06-01**|**LIV: Language-Image Representations and Rewards for Robotic Control**|Yecheng Jason Ma et.al.|[2306.00958v1](http://arxiv.org/abs/2306.00958v1)|[link](https://github.com/penn-pal-lab/liv)|
-|**2023-06-01**|**Experimental Energy Consumption Analysis of a Flapping-Wing Robot**|Raul Tapia et.al.|[2306.00848v1](http://arxiv.org/abs/2306.00848v1)|null|
-|**2023-06-01**|**Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**|Dan Yang et.al.|[2306.00834v1](http://arxiv.org/abs/2306.00834v1)|null|
-|**2023-06-01**|**Spying on the Spy: Security Analysis of Hidden Cameras**|Samuel Herodotou et.al.|[2306.00610v1](http://arxiv.org/abs/2306.00610v1)|null|
-|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547v2](http://arxiv.org/abs/2306.00547v2)|null|
-|**2023-06-01**|**CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception**|Jiachen Sun et.al.|[2306.00349v1](http://arxiv.org/abs/2306.00349v1)|null|
-|**2023-06-01**|**Provable Benefit of Mixup for Finding Optimal Decision Boundaries**|Junsoo Oh et.al.|[2306.00267v1](http://arxiv.org/abs/2306.00267v1)|null|
-|**2023-05-31**|**Bytes Are All You Need: Transformers Operating Directly On File Bytes**|Maxwell Horton et.al.|[2306.00238v1](http://arxiv.org/abs/2306.00238v1)|[link](https://github.com/apple/ml-cvnets)|
-|**2023-05-31**|**Customized Co-Simulation Environment for Autonomous Driving Algorithm Development and Evaluation**|Mustafa Ridvan Cantas et.al.|[2306.00223v1](http://arxiv.org/abs/2306.00223v1)|null|
-|**2023-05-31**|**FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow**|Cameron Smith et.al.|[2306.00180v1](http://arxiv.org/abs/2306.00180v1)|null|
-|**2023-05-31**|**Optimal Sets and Solution Paths of ReLU Networks**|Aaron Mishkin et.al.|[2306.00119v1](http://arxiv.org/abs/2306.00119v1)|null|
-|**2023-05-31**|**Neural Textured Deformable Meshes for Robust Analysis-by-Synthesis**|Angtian Wang et.al.|[2306.00118v1](http://arxiv.org/abs/2306.00118v1)|null|
-|**2023-05-31**|**CAROM Air -- Vehicle Localization and Traffic Scene Reconstruction from Aerial Videos**|Duo Lu et.al.|[2306.00075v1](http://arxiv.org/abs/2306.00075v1)|null|
-|**2023-05-31**|**Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism**|Haoxuan Xu et.al.|[2305.20055v1](http://arxiv.org/abs/2305.20055v1)|null|
-|**2023-05-31**|**Efficient Shapley Values Estimation by Amortization for Text Classification**|Chenghao Yang et.al.|[2305.19998v1](http://arxiv.org/abs/2305.19998v1)|[link](https://github.com/yangalan123/amortized-interpretability)|
-|**2023-05-31**|**Analysing high resolution digital Mars images using machine learning**|M. Gergacz et.al.|[2305.19958v1](http://arxiv.org/abs/2305.19958v1)|null|
-|**2023-05-31**|**Self-supervised Learning to Bring Dual Reversed Rolling Shutter Images Alive**|Wei Shang et.al.|[2305.19862v1](http://arxiv.org/abs/2305.19862v1)|[link](https://github.com/shangwei5/selfdrsc)|
-|**2023-05-31**|**A Multi-Modal Transformer Network for Action Detection**|Matthew Korban et.al.|[2305.19624v1](http://arxiv.org/abs/2305.19624v1)|null|
-|**2023-05-31**|**Automatic Illumination Spectrum Recovery**|Nariman Habili et.al.|[2305.19538v1](http://arxiv.org/abs/2305.19538v1)|null|
-|**2023-05-30**|**Bigger, Better, Faster: Human-level Atari with human-level efficiency**|Max Schwarzer et.al.|[2305.19452v1](http://arxiv.org/abs/2305.19452v1)|[link](https://github.com/google-research/google-research)|
-|**2023-05-30**|**The Merian Survey: Design, Construction, and Characterization of a Filter Set Optimized to Find Dwarf Galaxies and Measure their Dark Matter Halo Properties with Weak Lensing**|Yifei Luo et.al.|[2305.19310v1](http://arxiv.org/abs/2305.19310v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-03**|**A Deligne-Lusztig type correspondence for tame $p$-adic groups**|Zhongyipan Lin et.al.|[2306.02093v1](http://arxiv.org/abs/2306.02093v1)|null|
+|**2023-06-02**|**Electron-Scale Current Sheets and Energy Dissipation in 3D Kinetic-Scale Plasma Turbulence with Low Electron Beta**|Cristian Vega et.al.|[2306.01932v1](http://arxiv.org/abs/2306.01932v1)|null|
 |**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430v1](http://arxiv.org/abs/2306.01430v1)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
 |**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
@@ -70,12 +72,12 @@
 |**2023-05-22**|**PALoc: Robust Prior-assisted Trajectory Generation for Benchmarking**|Xiangcheng Hu et.al.|[2305.13147v1](http://arxiv.org/abs/2305.13147v1)|null|
 |**2023-05-22**|**Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors**|Alexander Hoelzemann et.al.|[2305.13124v1](http://arxiv.org/abs/2305.13124v1)|[link](https://github.com/ahoelzemann/hangtime_har)|
 |**2023-05-22**|**On the emission of ultra fine particles from municipal solid waste (MSW) incinerators**|Micheal W Reeks et.al.|[2305.13029v1](http://arxiv.org/abs/2305.13029v1)|null|
-|**2023-05-22**|**PO-VINS: An Efficient Pose-Only LiDAR-Enhanced Visual-Inertial State Estimator**|Hailiang Tang et.al.|[2305.12644v1](http://arxiv.org/abs/2305.12644v1)|null|
-|**2023-05-20**|**Effect of confinement on the transition from 2D to 3D fast rotating flows**|Chandra Shekhar Lohani et.al.|[2305.12255v1](http://arxiv.org/abs/2305.12255v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-04**|**NICE-SLAM with Adaptive Feature Grids**|Ganlin Zhang et.al.|[2306.02395v1](http://arxiv.org/abs/2306.02395v1)|[link](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)|
+|**2023-06-02**|**DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**|Abanob Soliman et.al.|[2306.01891v1](http://arxiv.org/abs/2306.01891v1)|null|
 |**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
 |**2023-06-01**|**FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**|Tongyan Hua et.al.|[2306.00579v1](http://arxiv.org/abs/2306.00579v1)|null|
 |**2023-05-31**|**On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**|Romain Hascoët et.al.|[2305.19899v1](http://arxiv.org/abs/2305.19899v1)|null|
@@ -104,8 +106,6 @@
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|[link](https://github.com/memmelma/vo-transformer)|
 |**2023-04-27**|**Neural Implicit Dense Semantic SLAM**|Yasaman Haghighi et.al.|[2304.14560v2](http://arxiv.org/abs/2304.14560v2)|null|
 |**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang et.al.|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|[link](https://github.com/HengyiWang/Co-SLAM)|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
-|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|

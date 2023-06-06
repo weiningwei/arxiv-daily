@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-03**|**A Deligne-Lusztig type correspondence for tame $p$-adic groups**|Zhongyipan Lin et.al.|[2306.02093v1](http://arxiv.org/abs/2306.02093v1)|null|
+|**2023-06-02**|**Electron-Scale Current Sheets and Energy Dissipation in 3D Kinetic-Scale Plasma Turbulence with Low Electron Beta**|Cristian Vega et.al.|[2306.01932v1](http://arxiv.org/abs/2306.01932v1)|null|
 |**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430v1](http://arxiv.org/abs/2306.01430v1)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
 |**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
@@ -30,5 +32,3 @@
 |**2023-05-22**|**PALoc: Robust Prior-assisted Trajectory Generation for Benchmarking**|Xiangcheng Hu et.al.|[2305.13147v1](http://arxiv.org/abs/2305.13147v1)|null|
 |**2023-05-22**|**Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors**|Alexander Hoelzemann et.al.|[2305.13124v1](http://arxiv.org/abs/2305.13124v1)|[link](https://github.com/ahoelzemann/hangtime_har)|
 |**2023-05-22**|**On the emission of ultra fine particles from municipal solid waste (MSW) incinerators**|Micheal W Reeks et.al.|[2305.13029v1](http://arxiv.org/abs/2305.13029v1)|null|
-|**2023-05-22**|**PO-VINS: An Efficient Pose-Only LiDAR-Enhanced Visual-Inertial State Estimator**|Hailiang Tang et.al.|[2305.12644v1](http://arxiv.org/abs/2305.12644v1)|null|
-|**2023-05-20**|**Effect of confinement on the transition from 2D to 3D fast rotating flows**|Chandra Shekhar Lohani et.al.|[2305.12255v1](http://arxiv.org/abs/2305.12255v1)|null|
