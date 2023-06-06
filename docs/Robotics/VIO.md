@@ -18,7 +18,7 @@
 |**2023-05-28**|**A Machine-Designed Optical Lattice Atom Interferometer**|Catie LeDesma et.al.|[2305.17603v1](http://arxiv.org/abs/2305.17603v1)|null|
 |**2023-05-27**|**Fully Automatic Gym Exercises Recording: An IoT Solution**|Sizhen Bian et.al.|[2305.17594v1](http://arxiv.org/abs/2305.17594v1)|null|
 |**2023-05-26**|**Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation**|Minwoo Jung et.al.|[2305.16792v1](http://arxiv.org/abs/2305.16792v1)|[link](https://github.com/minwoo0611/ma-lio)|
-|**2023-05-26**|**Extended application of random-walk shielding-potential viscosity model of metals in wide temperature region**|Yuqing Cheng et.al.|[2305.16551v1](http://arxiv.org/abs/2305.16551v1)|null|
+|**2023-05-26**|**Extended application of random-walk shielding-potential viscosity model of metals in wide temperature region**|Yuqing Cheng et.al.|[2305.16551v2](http://arxiv.org/abs/2305.16551v2)|null|
 |**2023-05-25**|**Stability Improvement of Nuclear Magnetic Resonance Gyroscope with Self-Calibrating Parametric Magnetometer**|Guoping Gao et.al.|[2305.15847v1](http://arxiv.org/abs/2305.15847v1)|null|
 |**2023-05-24**|**PCA-aided calibration of systems comprising multiple unbiased sensors**|Marek W. Rupniewski et.al.|[2305.15568v1](http://arxiv.org/abs/2305.15568v1)|null|
 |**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
