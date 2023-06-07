@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-06-05**|**ELEV-VISION: Automated Lowest Floor Elevation Estimation from Segmenting Street View Images**|Yu-Hsuan Ho et.al.|[2306.03050v1](http://arxiv.org/abs/2306.03050v1)|null|
-|**2023-06-05**|**Long-range UAV Thermal Geo-localization with Satellite Imagery**|Jiuhong Xiao et.al.|[2306.02994v1](http://arxiv.org/abs/2306.02994v1)|[link](https://github.com/arplaboratory/satellite-thermal-geo-localization)|
+|**2023-06-05**|**Long-range UAV Thermal Geo-localization with Satellite Imagery**|Jiuhong Xiao et.al.|[2306.02994v2](http://arxiv.org/abs/2306.02994v2)|[link](https://github.com/arplaboratory/satellite-thermal-geo-localization)|
 |**2023-06-05**|**Best of Both Worlds: Hybrid SNN-ANN Architecture for Event-based Optical Flow Estimation**|Shubham Negi et.al.|[2306.02960v1](http://arxiv.org/abs/2306.02960v1)|null|
 |**2023-06-05**|**Color-aware Deep Temporal Backdrop Duplex Matting System**|Hendrik Hachmann et.al.|[2306.02954v1](http://arxiv.org/abs/2306.02954v1)|null|
 |**2023-06-05**|**Unsupervised network for low-light enhancement**|Praveen Kandula et.al.|[2306.02883v1](http://arxiv.org/abs/2306.02883v1)|null|
