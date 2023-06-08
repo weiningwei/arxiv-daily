@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619v1](http://arxiv.org/abs/2306.04619v1)|null|
+|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v1](http://arxiv.org/abs/2306.04607v1)|null|
+|**2023-06-07**|**The CYGNO experiment, a directional detector for direct Dark Matter searches**|F. D. Amaro et.al.|[2306.04568v1](http://arxiv.org/abs/2306.04568v1)|null|
+|**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554v1](http://arxiv.org/abs/2306.04554v1)|null|
+|**2023-06-07**|**Revising deep learning methods in parking lot occupancy detection**|Anastasia Martynova et.al.|[2306.04288v1](http://arxiv.org/abs/2306.04288v1)|[link](https://github.com/eighonet/parking-research)|
+|**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231v1](http://arxiv.org/abs/2306.04231v1)|null|
+|**2023-06-07**|**StructuredMesh: 3D Structured Optimization of Façade Components on Photogrammetric Mesh Models using Binary Integer Programming**|Libin Wang et.al.|[2306.04184v1](http://arxiv.org/abs/2306.04184v1)|null|
+|**2023-06-07**|**When to Read Documents or QA History: On Unified and Selective Open-domain QA**|Kyungjae Lee et.al.|[2306.04176v1](http://arxiv.org/abs/2306.04176v1)|null|
+|**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166v1](http://arxiv.org/abs/2306.04166v1)|null|
+|**2023-06-07**|**Effect of viscosity on the dynamics of a non-equilibrium bubble in free-field and near a free-surface**|Y. S. Kannan et.al.|[2306.04129v1](http://arxiv.org/abs/2306.04129v1)|null|
+|**2023-06-07**|**Retrosynthesis Prediction with Local Template Retrieval**|Shufang Xie et.al.|[2306.04123v1](http://arxiv.org/abs/2306.04123v1)|null|
+|**2023-06-06**|**BokehOrNot: Transforming Bokeh Effect with Image Transformer and Lens Metadata Embedding**|Zhihao Yang et.al.|[2306.04032v1](http://arxiv.org/abs/2306.04032v1)|[link](https://github.com/indicator0/bokehornot)|
+|**2023-06-06**|**Real-Time Online Unsupervised Domain Adaptation for Real-World Person Re-identification**|Christopher Neff et.al.|[2306.03993v1](http://arxiv.org/abs/2306.03993v1)|null|
 |**2023-06-06**|**X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation**|Shubhankar Borse et.al.|[2306.03810v1](http://arxiv.org/abs/2306.03810v1)|null|
 |**2023-06-06**|**Towards Scalable Multi-View Reconstruction of Geometry and Materials**|Carolin Schmitt et.al.|[2306.03747v1](http://arxiv.org/abs/2306.03747v1)|null|
 |**2023-06-06**|**CAGIRE: a wide-field NIR imager for the COLIBRI 1.3 meter robotic telescope**|Alix Nouvel de la Flèche et.al.|[2306.03716v1](http://arxiv.org/abs/2306.03716v1)|null|
@@ -19,16 +32,3 @@
 |**2023-06-05**|**Long-range UAV Thermal Geo-localization with Satellite Imagery**|Jiuhong Xiao et.al.|[2306.02994v2](http://arxiv.org/abs/2306.02994v2)|[link](https://github.com/arplaboratory/satellite-thermal-geo-localization)|
 |**2023-06-05**|**Best of Both Worlds: Hybrid SNN-ANN Architecture for Event-based Optical Flow Estimation**|Shubham Negi et.al.|[2306.02960v1](http://arxiv.org/abs/2306.02960v1)|null|
 |**2023-06-05**|**Color-aware Deep Temporal Backdrop Duplex Matting System**|Hendrik Hachmann et.al.|[2306.02954v1](http://arxiv.org/abs/2306.02954v1)|null|
-|**2023-06-05**|**Unsupervised network for low-light enhancement**|Praveen Kandula et.al.|[2306.02883v1](http://arxiv.org/abs/2306.02883v1)|null|
-|**2023-06-05**|**Text-To-KG Alignment: Comparing Current Methods on Classification Tasks**|Sondre Wold et.al.|[2306.02871v1](http://arxiv.org/abs/2306.02871v1)|null|
-|**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115v1](http://arxiv.org/abs/2306.03115v1)|null|
-|**2023-06-05**|**TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments**|Yu Sun et.al.|[2306.02850v1](http://arxiv.org/abs/2306.02850v1)|[link](https://github.com/arthur151/dynacam)|
-|**2023-06-05**|**Differentially Private Cross-camera Person Re-identification**|Lucas Maris et.al.|[2306.02765v1](http://arxiv.org/abs/2306.02765v1)|null|
-|**2023-06-05**|**Current status and operation of the H.E.S.S. array of imaging atmospheric Cherenkov telescopes**|S. Ohm et.al.|[2306.02716v1](http://arxiv.org/abs/2306.02716v1)|null|
-|**2023-06-05**|**Background contribution in the electron-tracking Compton camera aboard SMILE-2+**|Tomonori Ikeda et.al.|[2306.02700v1](http://arxiv.org/abs/2306.02700v1)|null|
-|**2023-06-05**|**Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything**|Zhaotong Luo et.al.|[2306.02656v1](http://arxiv.org/abs/2306.02656v1)|null|
-|**2023-06-05**|**Computational 3D topographic microscopy from terabytes of data per sample**|Kevin C. Zhou et.al.|[2306.02634v1](http://arxiv.org/abs/2306.02634v1)|null|
-|**2023-06-05**|**Learning from Multi-View Representation for Point-Cloud Pre-Training**|Siming Yan et.al.|[2306.02558v1](http://arxiv.org/abs/2306.02558v1)|null|
-|**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520v1](http://arxiv.org/abs/2306.02520v1)|null|
-|**2023-06-04**|**Overview of the JWST Advanced Deep Extragalactic Survey (JADES)**|Daniel J. Eisenstein et.al.|[2306.02465v1](http://arxiv.org/abs/2306.02465v1)|null|
-|**2023-06-04**|**Sanity Checks for Saliency Methods Explaining Object Detectors**|Deepan Chakravarthi Padmanabhan et.al.|[2306.02424v1](http://arxiv.org/abs/2306.02424v1)|null|
