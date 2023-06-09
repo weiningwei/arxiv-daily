@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-08**|**Temperature anomalies of oscillating diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2306.04977v1](http://arxiv.org/abs/2306.04977v1)|null|
 |**2023-06-07**|**Systematic investigation of wear-induced cold welding in ultrahigh vacuum piezoelectric motors with non-metallic coatings**|Taemin Ahn et.al.|[2306.04401v1](http://arxiv.org/abs/2306.04401v1)|null|
 |**2023-06-07**|**CaptAinGlove: Capacitive and Inertial Fusion-Based Glove for Real-Time on Edge Hand Gesture Recognition for Drone Control**|Hymalai Bello et.al.|[2306.04319v1](http://arxiv.org/abs/2306.04319v1)|null|
 |**2023-06-07**|**Distributed accelerated proximal conjugate gradient methods for multi-agent constrained optimization problems**|Anteneh Getachew Gebrie et.al.|[2306.04230v1](http://arxiv.org/abs/2306.04230v1)|null|
@@ -31,4 +32,3 @@
 |**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
 |**2023-05-23**|**Nonperturbative Aspects of Quantum Field Theory in Curved Spacetime**|Níckolas de Aguiar Alves et.al.|[2305.17453v1](http://arxiv.org/abs/2305.17453v1)|null|
 |**2023-05-23**|**Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map**|Yuming Huang et.al.|[2305.14038v1](http://arxiv.org/abs/2305.14038v1)|null|
-|**2023-05-23**|**Dual-modality Smart Shoes for Quantitative Assessment of Hemiplegic Patients' Lower Limbs' Muscle Strength**|Huajun Long et.al.|[2305.13977v1](http://arxiv.org/abs/2305.13977v1)|null|
