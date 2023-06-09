@@ -8,7 +8,7 @@
 |**2023-06-07**|**Two-step inertial Bregman alternating structure-adapted proximal gradient descent algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.04208v1](http://arxiv.org/abs/2306.04208v1)|null|
 |**2023-06-07**|**Prediction of nanobubble-assisted focused ultrasound-induced blood-brain barrier opening with machine learning**|Wenjing Li et.al.|[2306.04106v1](http://arxiv.org/abs/2306.04106v1)|null|
 |**2023-06-03**|**A Deligne-Lusztig type correspondence for tame $p$-adic groups**|Zhongyipan Lin et.al.|[2306.02093v1](http://arxiv.org/abs/2306.02093v1)|null|
-|**2023-06-02**|**Electron-Scale Current Sheets and Energy Dissipation in 3D Kinetic-Scale Plasma Turbulence with Low Electron Beta**|Cristian Vega et.al.|[2306.01932v1](http://arxiv.org/abs/2306.01932v1)|null|
+|**2023-06-02**|**Electron-Scale Current Sheets and Energy Dissipation in 3D Kinetic-Scale Plasma Turbulence with Low Electron Beta**|Cristian Vega et.al.|[2306.01932v2](http://arxiv.org/abs/2306.01932v2)|null|
 |**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430v1](http://arxiv.org/abs/2306.01430v1)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
 |**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
