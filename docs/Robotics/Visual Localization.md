@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-09**|**Developing Speech Processing Pipelines for Police Accountability**|Anjalie Field et.al.|[2306.06086v1](http://arxiv.org/abs/2306.06086v1)|null|
+|**2023-06-09**|**Star formation history for the starburst dwarf galaxy in the Local Group, IC 10**|Mahtab Gholami et.al.|[2306.06025v1](http://arxiv.org/abs/2306.06025v1)|null|
+|**2023-06-09**|**Using extreme value theory to evaluate the leading pedestrian interval road safety intervention**|Nicola Hewett et.al.|[2306.05925v1](http://arxiv.org/abs/2306.05925v1)|null|
+|**2023-06-09**|**DIFT: Dynamic Iterative Field Transforms for Memory Efficient Optical Flow**|Risheek Garrepalli et.al.|[2306.05691v1](http://arxiv.org/abs/2306.05691v1)|null|
+|**2023-06-09**|**Lightweight Monocular Depth Estimation via Token-Sharing Transformer**|Dong-Jae Lee et.al.|[2306.05682v1](http://arxiv.org/abs/2306.05682v1)|null|
 |**2023-06-08**|**Tracking Everything Everywhere All at Once**|Qianqian Wang et.al.|[2306.05422v1](http://arxiv.org/abs/2306.05422v1)|null|
 |**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
 |**2023-06-08**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng et.al.|[2306.05410v1](http://arxiv.org/abs/2306.05410v1)|null|
@@ -27,8 +32,3 @@
 |**2023-06-07**|**StructuredMesh: 3D Structured Optimization of Façade Components on Photogrammetric Mesh Models using Binary Integer Programming**|Libin Wang et.al.|[2306.04184v1](http://arxiv.org/abs/2306.04184v1)|null|
 |**2023-06-07**|**When to Read Documents or QA History: On Unified and Selective Open-domain QA**|Kyungjae Lee et.al.|[2306.04176v1](http://arxiv.org/abs/2306.04176v1)|null|
 |**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166v1](http://arxiv.org/abs/2306.04166v1)|null|
-|**2023-06-07**|**Effect of viscosity on the dynamics of a non-equilibrium bubble in free-field and near a free-surface**|Y. S. Kannan et.al.|[2306.04129v1](http://arxiv.org/abs/2306.04129v1)|null|
-|**2023-06-07**|**Retrosynthesis Prediction with Local Template Retrieval**|Shufang Xie et.al.|[2306.04123v1](http://arxiv.org/abs/2306.04123v1)|null|
-|**2023-06-06**|**BokehOrNot: Transforming Bokeh Effect with Image Transformer and Lens Metadata Embedding**|Zhihao Yang et.al.|[2306.04032v1](http://arxiv.org/abs/2306.04032v1)|[link](https://github.com/indicator0/bokehornot)|
-|**2023-06-06**|**Real-Time Online Unsupervised Domain Adaptation for Real-World Person Re-identification**|Christopher Neff et.al.|[2306.03993v1](http://arxiv.org/abs/2306.03993v1)|null|
-|**2023-06-06**|**X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation**|Shubhankar Borse et.al.|[2306.03810v1](http://arxiv.org/abs/2306.03810v1)|null|
