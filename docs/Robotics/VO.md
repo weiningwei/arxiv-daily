@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
 |**2023-05-29**|**Active Collaborative Localization in Heterogeneous Robot Teams**|Igor Spasojevic et.al.|[2305.18193v1](http://arxiv.org/abs/2305.18193v1)|null|
 |**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
@@ -31,4 +32,3 @@
 |**2023-04-13**|**Loosely Coupled Odometry, UWB Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization**|Xianjia Yu et.al.|[2304.06264v1](http://arxiv.org/abs/2304.06264v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|[link](https://github.com/facebookresearch/silk)|
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943v1](http://arxiv.org/abs/2304.04943v1)|null|
-|**2023-04-08**|**On-manifold Decentralized State Estimation using Pseudomeasurements and Preintegration**|Charles Champagne Cossette et.al.|[2304.04036v2](http://arxiv.org/abs/2304.04036v2)|null|

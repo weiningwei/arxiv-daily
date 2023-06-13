@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-12**|**MaskedFusion360: Reconstruct LiDAR Data by Querying Camera Features**|Royden Wagner et.al.|[2306.07087v1](http://arxiv.org/abs/2306.07087v1)|[link](https://github.com/kit-mrt/masked-fusion-360)|
+|**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|[link](https://github.com/peterstratton/volume-droid)|
+|**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
+|**2023-06-11**|**Neural Projection Mapping Using Reflectance Fields**|Yotam Erel et.al.|[2306.06595v1](http://arxiv.org/abs/2306.06595v1)|null|
+|**2023-06-10**|**Fast light-field 3D microscopy with out-of-distribution detection and adaptation through Conditional Normalizing Flows**|Josué Page Vizcaíno et.al.|[2306.06408v1](http://arxiv.org/abs/2306.06408v1)|null|
+|**2023-06-10**|**Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception**|Xiaqing Pan et.al.|[2306.06362v1](http://arxiv.org/abs/2306.06362v1)|null|
+|**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|[link](https://github.com/kshitijkarnawat/structure-from-motion)|
+|**2023-06-10**|**EventCLIP: Adapting CLIP for Event-based Object Recognition**|Ziyi Wu et.al.|[2306.06354v1](http://arxiv.org/abs/2306.06354v1)|null|
+|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|[link](https://github.com/3dom-fbk/nerfbk)|
+|**2023-06-09**|**Circular Rectifiction of 3D Video and Efficient Modification of 3D-HEVC**|Jarosław Samelak et.al.|[2306.06285v1](http://arxiv.org/abs/2306.06285v1)|null|
+|**2023-06-09**|**Asymmetric metasurface photodetectors for single-shot quantitative phase imaging**|Jianing Liu et.al.|[2306.06267v1](http://arxiv.org/abs/2306.06267v1)|null|
+|**2023-06-09**|**The Disturbed and Globular Cluster-Rich Ultra-diffuse Galaxy UGC 9050-Dw1**|Catherine E. Fielder et.al.|[2306.06164v1](http://arxiv.org/abs/2306.06164v1)|null|
 |**2023-06-09**|**Developing Speech Processing Pipelines for Police Accountability**|Anjalie Field et.al.|[2306.06086v1](http://arxiv.org/abs/2306.06086v1)|null|
 |**2023-06-09**|**Star formation history for the starburst dwarf galaxy in the Local Group, IC 10**|Mahtab Gholami et.al.|[2306.06025v1](http://arxiv.org/abs/2306.06025v1)|null|
 |**2023-06-09**|**Using extreme value theory to evaluate the leading pedestrian interval road safety intervention**|Nicola Hewett et.al.|[2306.05925v1](http://arxiv.org/abs/2306.05925v1)|null|
@@ -20,15 +32,3 @@
 |**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988v1](http://arxiv.org/abs/2306.04988v1)|null|
 |**2023-06-08**|**Ultraviolet Photodetectors based on GaN and AlGaN/AlN Nanowire Ensembles: Effects of Planarization with Hydrogen Silsesquioxane and Nanowire Architecture**|E. Akar et.al.|[2306.04986v1](http://arxiv.org/abs/2306.04986v1)|null|
 |**2023-06-08**|**Test-Time Style Shifting: Handling Arbitrary Styles in Domain Generalization**|Jungwuk Park et.al.|[2306.04911v1](http://arxiv.org/abs/2306.04911v1)|null|
-|**2023-06-08**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905v1](http://arxiv.org/abs/2306.04905v1)|null|
-|**2023-06-08**|**ExtPerFC: An Efficient 2D and 3D Perception Hardware-Software Framework for Mobile Cobot**|Tuan Dang et.al.|[2306.04853v1](http://arxiv.org/abs/2306.04853v1)|[link](https://github.com/tuantdang/perception_framework)|
-|**2023-06-07**|**BU-CVKit: Extendable Computer Vision Framework for Species Independent Tracking and Analysis**|Mahir Patel et.al.|[2306.04736v1](http://arxiv.org/abs/2306.04736v1)|null|
-|**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619v1](http://arxiv.org/abs/2306.04619v1)|null|
-|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v3](http://arxiv.org/abs/2306.04607v3)|null|
-|**2023-06-07**|**The CYGNO experiment, a directional detector for direct Dark Matter searches**|F. D. Amaro et.al.|[2306.04568v1](http://arxiv.org/abs/2306.04568v1)|null|
-|**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554v1](http://arxiv.org/abs/2306.04554v1)|null|
-|**2023-06-07**|**Revising deep learning methods in parking lot occupancy detection**|Anastasia Martynova et.al.|[2306.04288v2](http://arxiv.org/abs/2306.04288v2)|[link](https://github.com/eighonet/parking-research)|
-|**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231v1](http://arxiv.org/abs/2306.04231v1)|null|
-|**2023-06-07**|**StructuredMesh: 3D Structured Optimization of Façade Components on Photogrammetric Mesh Models using Binary Integer Programming**|Libin Wang et.al.|[2306.04184v1](http://arxiv.org/abs/2306.04184v1)|null|
-|**2023-06-07**|**When to Read Documents or QA History: On Unified and Selective Open-domain QA**|Kyungjae Lee et.al.|[2306.04176v1](http://arxiv.org/abs/2306.04176v1)|null|
-|**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166v2](http://arxiv.org/abs/2306.04166v2)|null|
