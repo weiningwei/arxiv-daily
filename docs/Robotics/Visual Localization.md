@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-13**|**Continuous Cost Aggregation for Dual-Pixel Disparity Extraction**|Sagi Monin et.al.|[2306.07921v1](http://arxiv.org/abs/2306.07921v1)|null|
+|**2023-06-13**|**Sciences for The 2.5-meter Wide Field Survey Telescope (WFST)**|WFST Collaboration et.al.|[2306.07590v1](http://arxiv.org/abs/2306.07590v1)|null|
+|**2023-06-13**|**Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second**|Vincent-Pierre Berges et.al.|[2306.07552v1](http://arxiv.org/abs/2306.07552v1)|[link](https://github.com/facebookresearch/galactic)|
+|**2023-06-13**|**TRACED: Execution-aware Pre-training for Source Code**|Yangruibo Ding et.al.|[2306.07487v1](http://arxiv.org/abs/2306.07487v1)|null|
+|**2023-06-12**|**Instant Multi-View Head Capture through Learnable Registration**|Timo Bolkart et.al.|[2306.07437v1](http://arxiv.org/abs/2306.07437v1)|null|
+|**2023-06-12**|**Towards a Robust Sensor Fusion Step for 3D Object Detection on Corrupted Data**|Maciej K. Wozniak et.al.|[2306.07344v1](http://arxiv.org/abs/2306.07344v1)|null|
 |**2023-06-12**|**MaskedFusion360: Reconstruct LiDAR Data by Querying Camera Features**|Royden Wagner et.al.|[2306.07087v1](http://arxiv.org/abs/2306.07087v1)|[link](https://github.com/kit-mrt/masked-fusion-360)|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|[link](https://github.com/peterstratton/volume-droid)|
 |**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
@@ -26,9 +32,3 @@
 |**2023-06-08**|**Predictive Modeling of Equine Activity Budgets Using a 3D Skeleton Reconstructed from Surveillance Recordings**|Ernest Pokropek et.al.|[2306.05311v1](http://arxiv.org/abs/2306.05311v1)|null|
 |**2023-06-08**|**EXOT: Exit-aware Object Tracker for Safe Robotic Manipulation of Moving Object**|Hyunseo Kim et.al.|[2306.05262v1](http://arxiv.org/abs/2306.05262v1)|null|
 |**2023-06-08**|**Human Action Recognition in Egocentric Perspective Using 2D Object and Hands Pose**|Wiktor Mucha et.al.|[2306.05147v1](http://arxiv.org/abs/2306.05147v1)|null|
-|**2023-06-08**|**Variable Radiance Field for Real-Life Category-Specifc Reconstruction from Single Image**|Kun Wang et.al.|[2306.05145v1](http://arxiv.org/abs/2306.05145v1)|null|
-|**2023-06-08**|**Neuromorphic Sampling of Signals in Shift-Invariant Spaces**|Abijith Jagannath Kamath et.al.|[2306.05103v1](http://arxiv.org/abs/2306.05103v1)|null|
-|**2023-06-08**|**Real-Time Rendering of Glinty Appearances using Distributed Binomial Laws on Anisotropic Grids**|Deliot et.al.|[2306.05051v1](http://arxiv.org/abs/2306.05051v1)|null|
-|**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988v1](http://arxiv.org/abs/2306.04988v1)|null|
-|**2023-06-08**|**Ultraviolet Photodetectors based on GaN and AlGaN/AlN Nanowire Ensembles: Effects of Planarization with Hydrogen Silsesquioxane and Nanowire Architecture**|E. Akar et.al.|[2306.04986v1](http://arxiv.org/abs/2306.04986v1)|null|
-|**2023-06-08**|**Test-Time Style Shifting: Handling Arbitrary Styles in Domain Generalization**|Jungwuk Park et.al.|[2306.04911v2](http://arxiv.org/abs/2306.04911v2)|null|
