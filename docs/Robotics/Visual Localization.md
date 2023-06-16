@@ -16,7 +16,7 @@
 |**2023-06-10**|**Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception**|Xiaqing Pan et.al.|[2306.06362v2](http://arxiv.org/abs/2306.06362v2)|null|
 |**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|[link](https://github.com/kshitijkarnawat/structure-from-motion)|
 |**2023-06-10**|**EventCLIP: Adapting CLIP for Event-based Object Recognition**|Ziyi Wu et.al.|[2306.06354v1](http://arxiv.org/abs/2306.06354v1)|null|
-|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|[link](https://github.com/3dom-fbk/nerfbk)|
+|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v2](http://arxiv.org/abs/2306.06300v2)|[link](https://github.com/3dom-fbk/nerfbk)|
 |**2023-06-09**|**Circular Rectifiction of 3D Video and Efficient Modification of 3D-HEVC**|Jarosław Samelak et.al.|[2306.06285v1](http://arxiv.org/abs/2306.06285v1)|null|
 |**2023-06-09**|**Asymmetric metasurface photodetectors for single-shot quantitative phase imaging**|Jianing Liu et.al.|[2306.06267v1](http://arxiv.org/abs/2306.06267v1)|null|
 |**2023-06-09**|**The Disturbed and Globular Cluster-Rich Ultra-diffuse Galaxy UGC 9050-Dw1**|Catherine E. Fielder et.al.|[2306.06164v1](http://arxiv.org/abs/2306.06164v1)|null|
