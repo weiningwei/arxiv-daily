@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348v1](http://arxiv.org/abs/2306.09348v1)|null|
+|**2023-06-15**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v1](http://arxiv.org/abs/2306.09349v1)|null|
+|**2023-06-15**|**Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**|Youquan Liu et.al.|[2306.09347v1](http://arxiv.org/abs/2306.09347v1)|[link](https://github.com/youquanl/segment-any-point-cloud)|
+|**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310v1](http://arxiv.org/abs/2306.09310v1)|null|
+|**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266v1](http://arxiv.org/abs/2306.09266v1)|null|
+|**2023-06-15**|**Neural World Models for Computer Vision**|Anthony Hu et.al.|[2306.09179v1](http://arxiv.org/abs/2306.09179v1)|null|
+|**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani et.al.|[2306.09109v1](http://arxiv.org/abs/2306.09109v1)|null|
+|**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078v1](http://arxiv.org/abs/2306.09078v1)|[link](https://github.com/mohammedsalah98/e_calib)|
+|**2023-06-15**|**A Review and Comparative Study of Close-Range Geometric Camera Calibration Tools**|Jianzhu Huai et.al.|[2306.09014v1](http://arxiv.org/abs/2306.09014v1)|null|
+|**2023-06-15**|**Team AcieLee: Technical Report for EPIC-SOUNDS Audio-Based Interaction Recognition Challenge 2023**|Yuqi Li et.al.|[2306.08998v1](http://arxiv.org/abs/2306.08998v1)|null|
+|**2023-06-15**|**Path Generation for Wheeled Robots Autonomous Navigation on Vegetated Terrain**|Zhuozhu Jian et.al.|[2306.08977v1](http://arxiv.org/abs/2306.08977v1)|null|
+|**2023-06-15**|**Why does Stereo Triangulation Not Work in UAV Distance Estimation**|Jiafan Zhuang et.al.|[2306.08939v1](http://arxiv.org/abs/2306.08939v1)|null|
+|**2023-06-15**|**Probabilistic-based Feature Embedding of 4-D Light Fields for Compressive Imaging and Denoising**|Xianqiang Lyu et.al.|[2306.08836v1](http://arxiv.org/abs/2306.08836v1)|[link](https://github.com/lyuxianqiang/lfca-cr-net)|
+|**2023-06-15**|**A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**|Yu Chen et.al.|[2306.08814v1](http://arxiv.org/abs/2306.08814v1)|null|
+|**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792v1](http://arxiv.org/abs/2306.08792v1)|[link](https://github.com/WesleyZhang1991/GCN_rerank)|
+|**2023-06-14**|**EPIC Fields: Marrying 3D Geometry and Video Understanding**|Vadim Tschernezki et.al.|[2306.08731v1](http://arxiv.org/abs/2306.08731v1)|null|
+|**2023-06-14**|**Towards vision-based dual arm robotic fruit harvesting**|Ege Gursoy et.al.|[2306.08729v1](http://arxiv.org/abs/2306.08729v1)|null|
+|**2023-06-14**|**SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo**|Yingye Xin et.al.|[2306.08648v1](http://arxiv.org/abs/2306.08648v1)|null|
+|**2023-06-14**|**FROG: A new people detection dataset for knee-high 2D range finders**|Fernando Amodeo et.al.|[2306.08531v1](http://arxiv.org/abs/2306.08531v1)|null|
+|**2023-06-14**|**Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images**|Sanmin Kim et.al.|[2306.08528v1](http://arxiv.org/abs/2306.08528v1)|null|
+|**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|null|
+|**2023-06-14**|**Simulation Study on Super-Resolution for Coded Aperture Gamma Imaging**|Tobias Meißner et.al.|[2306.08483v1](http://arxiv.org/abs/2306.08483v1)|null|
+|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341v1](http://arxiv.org/abs/2306.08341v1)|null|
+|**2023-06-14**|**3-Dimensional Sonic Phase-invariant Echo Localization**|Christopher Hahne et.al.|[2306.08281v1](http://arxiv.org/abs/2306.08281v1)|null|
+|**2023-06-14**|**GBSD: Generative Bokeh with Stage Diffusion**|Jieren Deng et.al.|[2306.08251v1](http://arxiv.org/abs/2306.08251v1)|null|
 |**2023-06-13**|**Continuous Cost Aggregation for Dual-Pixel Disparity Extraction**|Sagi Monin et.al.|[2306.07921v1](http://arxiv.org/abs/2306.07921v1)|null|
 |**2023-06-13**|**Sciences for The 2.5-meter Wide Field Survey Telescope (WFST)**|WFST Collaboration et.al.|[2306.07590v1](http://arxiv.org/abs/2306.07590v1)|null|
 |**2023-06-13**|**Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second**|Vincent-Pierre Berges et.al.|[2306.07552v1](http://arxiv.org/abs/2306.07552v1)|[link](https://github.com/facebookresearch/galactic)|
 |**2023-06-13**|**TRACED: Execution-aware Pre-training for Source Code**|Yangruibo Ding et.al.|[2306.07487v1](http://arxiv.org/abs/2306.07487v1)|null|
-|**2023-06-12**|**Instant Multi-View Head Capture through Learnable Registration**|Timo Bolkart et.al.|[2306.07437v1](http://arxiv.org/abs/2306.07437v1)|null|
-|**2023-06-12**|**Towards a Robust Sensor Fusion Step for 3D Object Detection on Corrupted Data**|Maciej K. Wozniak et.al.|[2306.07344v1](http://arxiv.org/abs/2306.07344v1)|null|
-|**2023-06-12**|**MaskedFusion360: Reconstruct LiDAR Data by Querying Camera Features**|Royden Wagner et.al.|[2306.07087v1](http://arxiv.org/abs/2306.07087v1)|[link](https://github.com/kit-mrt/masked-fusion-360)|
-|**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|[link](https://github.com/peterstratton/volume-droid)|
-|**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
-|**2023-06-11**|**Neural Projection Mapping Using Reflectance Fields**|Yotam Erel et.al.|[2306.06595v1](http://arxiv.org/abs/2306.06595v1)|null|
-|**2023-06-10**|**Fast light-field 3D microscopy with out-of-distribution detection and adaptation through Conditional Normalizing Flows**|Josué Page Vizcaíno et.al.|[2306.06408v2](http://arxiv.org/abs/2306.06408v2)|[link](https://github.com/pvjosue/cwfa)|
-|**2023-06-10**|**Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception**|Xiaqing Pan et.al.|[2306.06362v2](http://arxiv.org/abs/2306.06362v2)|null|
-|**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|[link](https://github.com/kshitijkarnawat/structure-from-motion)|
-|**2023-06-10**|**EventCLIP: Adapting CLIP for Event-based Object Recognition**|Ziyi Wu et.al.|[2306.06354v1](http://arxiv.org/abs/2306.06354v1)|null|
-|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v2](http://arxiv.org/abs/2306.06300v2)|[link](https://github.com/3dom-fbk/nerfbk)|
-|**2023-06-09**|**Circular Rectifiction of 3D Video and Efficient Modification of 3D-HEVC**|Jarosław Samelak et.al.|[2306.06285v1](http://arxiv.org/abs/2306.06285v1)|null|
-|**2023-06-09**|**Asymmetric metasurface photodetectors for single-shot quantitative phase imaging**|Jianing Liu et.al.|[2306.06267v1](http://arxiv.org/abs/2306.06267v1)|null|
-|**2023-06-09**|**The Disturbed and Globular Cluster-Rich Ultra-diffuse Galaxy UGC 9050-Dw1**|Catherine E. Fielder et.al.|[2306.06164v1](http://arxiv.org/abs/2306.06164v1)|null|
-|**2023-06-09**|**Developing Speech Processing Pipelines for Police Accountability**|Anjalie Field et.al.|[2306.06086v1](http://arxiv.org/abs/2306.06086v1)|null|
-|**2023-06-09**|**Star formation history for the starburst dwarf galaxy in the Local Group, IC 10**|Mahtab Gholami et.al.|[2306.06025v1](http://arxiv.org/abs/2306.06025v1)|null|
-|**2023-06-09**|**Using extreme value theory to evaluate the leading pedestrian interval road safety intervention**|Nicola Hewett et.al.|[2306.05925v1](http://arxiv.org/abs/2306.05925v1)|null|
-|**2023-06-09**|**DIFT: Dynamic Iterative Field Transforms for Memory Efficient Optical Flow**|Risheek Garrepalli et.al.|[2306.05691v1](http://arxiv.org/abs/2306.05691v1)|null|
-|**2023-06-09**|**Lightweight Monocular Depth Estimation via Token-Sharing Transformer**|Dong-Jae Lee et.al.|[2306.05682v1](http://arxiv.org/abs/2306.05682v1)|null|
-|**2023-06-08**|**Tracking Everything Everywhere All at Once**|Qianqian Wang et.al.|[2306.05422v1](http://arxiv.org/abs/2306.05422v1)|null|
-|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
-|**2023-06-08**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng et.al.|[2306.05410v1](http://arxiv.org/abs/2306.05410v1)|null|
-|**2023-06-08**|**SNAP: Self-Supervised Neural Maps for Visual Positioning and Semantic Understanding**|Paul-Edouard Sarlin et.al.|[2306.05407v1](http://arxiv.org/abs/2306.05407v1)|null|
-|**2023-06-08**|**Predictive Modeling of Equine Activity Budgets Using a 3D Skeleton Reconstructed from Surveillance Recordings**|Ernest Pokropek et.al.|[2306.05311v1](http://arxiv.org/abs/2306.05311v1)|null|
-|**2023-06-08**|**EXOT: Exit-aware Object Tracker for Safe Robotic Manipulation of Moving Object**|Hyunseo Kim et.al.|[2306.05262v1](http://arxiv.org/abs/2306.05262v1)|null|
-|**2023-06-08**|**Human Action Recognition in Egocentric Perspective Using 2D Object and Hands Pose**|Wiktor Mucha et.al.|[2306.05147v1](http://arxiv.org/abs/2306.05147v1)|null|
+|**2023-06-12**|**Instant Multi-View Head Capture through Learnable Registration**|Timo Bolkart et.al.|[2306.07437v1](http://arxiv.org/abs/2306.07437v1)|[link](https://github.com/TimoBolkart/TEMPEH)|
