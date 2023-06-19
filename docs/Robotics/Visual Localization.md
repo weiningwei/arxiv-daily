@@ -27,7 +27,7 @@
 |**2023-06-15**|**Path Generation for Wheeled Robots Autonomous Navigation on Vegetated Terrain**|Zhuozhu Jian et.al.|[2306.08977v1](http://arxiv.org/abs/2306.08977v1)|null|
 |**2023-06-15**|**Why does Stereo Triangulation Not Work in UAV Distance Estimation**|Jiafan Zhuang et.al.|[2306.08939v1](http://arxiv.org/abs/2306.08939v1)|null|
 |**2023-06-15**|**Probabilistic-based Feature Embedding of 4-D Light Fields for Compressive Imaging and Denoising**|Xianqiang Lyu et.al.|[2306.08836v1](http://arxiv.org/abs/2306.08836v1)|[link](https://github.com/lyuxianqiang/lfca-cr-net)|
-|**2023-06-15**|**A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**|Yu Chen et.al.|[2306.08814v1](http://arxiv.org/abs/2306.08814v1)|null|
+|**2023-06-15**|**A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**|Yu Chen et.al.|[2306.08814v1](http://arxiv.org/abs/2306.08814v1)|[link](https://github.com/mszuyx/mosts)|
 |**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792v1](http://arxiv.org/abs/2306.08792v1)|[link](https://github.com/WesleyZhang1991/GCN_rerank)|
 |**2023-06-14**|**EPIC Fields: Marrying 3D Geometry and Video Understanding**|Vadim Tschernezki et.al.|[2306.08731v1](http://arxiv.org/abs/2306.08731v1)|null|
 |**2023-06-14**|**Towards vision-based dual arm robotic fruit harvesting**|Ege Gursoy et.al.|[2306.08729v2](http://arxiv.org/abs/2306.08729v2)|null|
