@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-20**|**A revised gap-averaged Floquet analysis of Faraday waves in Hele-Shaw cells**|Alessandro Bongarzone et.al.|[2306.11501v1](http://arxiv.org/abs/2306.11501v1)|null|
+|**2023-06-20**|**HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2306.11429v1](http://arxiv.org/abs/2306.11429v1)|null|
+|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
+|**2023-06-20**|**CoNi-MPC: Cooperative Non-inertial Frame Based Model Predictive Control**|Baozhe Zhang et.al.|[2306.11259v1](http://arxiv.org/abs/2306.11259v1)|null|
 |**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri et.al.|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
 |**2023-06-16**|**Investigating the magnitude and temporal localization of inertial particle mixing in turbulent channel flows**|D. Perrone et.al.|[2306.09644v1](http://arxiv.org/abs/2306.09644v1)|null|
 |**2023-06-16**|**Aspects of clock synchronization in relativistic kinematics -- a tutorial**|Winfried A. Mitaroff et.al.|[2306.09582v1](http://arxiv.org/abs/2306.09582v1)|null|
@@ -28,7 +32,3 @@
 |**2023-06-07**|**CaptAinGlove: Capacitive and Inertial Fusion-Based Glove for Real-Time on Edge Hand Gesture Recognition for Drone Control**|Hymalai Bello et.al.|[2306.04319v1](http://arxiv.org/abs/2306.04319v1)|null|
 |**2023-06-07**|**Distributed accelerated proximal conjugate gradient methods for multi-agent constrained optimization problems**|Anteneh Getachew Gebrie et.al.|[2306.04230v1](http://arxiv.org/abs/2306.04230v1)|null|
 |**2023-06-07**|**Two-step inertial Bregman alternating structure-adapted proximal gradient descent algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.04208v1](http://arxiv.org/abs/2306.04208v1)|null|
-|**2023-06-07**|**Prediction of nanobubble-assisted focused ultrasound-induced blood-brain barrier opening with machine learning**|Wenjing Li et.al.|[2306.04106v1](http://arxiv.org/abs/2306.04106v1)|null|
-|**2023-06-03**|**A Deligne-Lusztig type correspondence for tame $p$-adic groups**|Zhongyipan Lin et.al.|[2306.02093v1](http://arxiv.org/abs/2306.02093v1)|null|
-|**2023-06-02**|**Electron-Scale Current Sheets and Energy Dissipation in 3D Kinetic-Scale Plasma Turbulence with Low Electron Beta**|Cristian Vega et.al.|[2306.01932v2](http://arxiv.org/abs/2306.01932v2)|null|
-|**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430v1](http://arxiv.org/abs/2306.01430v1)|null|
