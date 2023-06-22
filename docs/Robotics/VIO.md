@@ -2,8 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-21**|**Inertial Balanced Viscosity (IBV) solutions to infinite-dimensional rate-independent systems**|Filippo Riva et.al.|[2306.12248v1](http://arxiv.org/abs/2306.12248v1)|null|
 |**2023-06-20**|**A revised gap-averaged Floquet analysis of Faraday waves in Hele-Shaw cells**|Alessandro Bongarzone et.al.|[2306.11501v1](http://arxiv.org/abs/2306.11501v1)|null|
-|**2023-06-20**|**HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2306.11429v1](http://arxiv.org/abs/2306.11429v1)|null|
+|**2023-06-20**|**HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2306.11429v1](http://arxiv.org/abs/2306.11429v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
 |**2023-06-20**|**CoNi-MPC: Cooperative Non-inertial Frame Based Model Predictive Control**|Baozhe Zhang et.al.|[2306.11259v1](http://arxiv.org/abs/2306.11259v1)|null|
 |**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri et.al.|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
@@ -31,4 +32,3 @@
 |**2023-06-07**|**Systematic investigation of wear-induced cold welding in ultrahigh vacuum piezoelectric motors with non-metallic coatings**|Taemin Ahn et.al.|[2306.04401v1](http://arxiv.org/abs/2306.04401v1)|null|
 |**2023-06-07**|**CaptAinGlove: Capacitive and Inertial Fusion-Based Glove for Real-Time on Edge Hand Gesture Recognition for Drone Control**|Hymalai Bello et.al.|[2306.04319v1](http://arxiv.org/abs/2306.04319v1)|null|
 |**2023-06-07**|**Distributed accelerated proximal conjugate gradient methods for multi-agent constrained optimization problems**|Anteneh Getachew Gebrie et.al.|[2306.04230v1](http://arxiv.org/abs/2306.04230v1)|null|
-|**2023-06-07**|**Two-step inertial Bregman alternating structure-adapted proximal gradient descent algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.04208v1](http://arxiv.org/abs/2306.04208v1)|null|

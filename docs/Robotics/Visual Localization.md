@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|[link](https://github.com/qiuyu96/carver)|
+|**2023-06-21**|**Spectroscopy of the Supernova H0pe Host Galaxy at Redshift 1.78**|M. Polletta et.al.|[2306.12385v1](http://arxiv.org/abs/2306.12385v1)|null|
+|**2023-06-21**|**Euclid: Constraining linearly scale-independent modifications of gravity with the spectroscopic and photometric primary probes**|N. Frusciante et.al.|[2306.12368v1](http://arxiv.org/abs/2306.12368v1)|null|
+|**2023-06-21**|**Wildfire Detection Via Transfer Learning: A Survey**|Ziliang Hong et.al.|[2306.12276v1](http://arxiv.org/abs/2306.12276v1)|null|
+|**2023-06-21**|**Near infrared view on the photodissociation regions S255, S257, NGC7538 and S140**|M. S. Kirsanova et.al.|[2306.12264v1](http://arxiv.org/abs/2306.12264v1)|null|
+|**2023-06-20**|**NILUT: Conditional Neural Implicit 3D Lookup Tables for Image Enhancement**|Marcos V. Conde et.al.|[2306.11920v1](http://arxiv.org/abs/2306.11920v1)|null|
+|**2023-06-20**|**Self-supervised Multi-task Learning Framework for Safety and Health-Oriented Connected Driving Environment Perception using Onboard Camera**|Shaocheng Jia et.al.|[2306.11822v1](http://arxiv.org/abs/2306.11822v1)|null|
 |**2023-06-20**|**BEVScope: Enhancing Self-Supervised Depth Estimation Leveraging Bird's-Eye-View in Dynamic Scenarios**|Yucheng Mao et.al.|[2306.11598v1](http://arxiv.org/abs/2306.11598v1)|null|
 |**2023-06-20**|**The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics**|Matthias Orlikowski et.al.|[2306.11559v1](http://arxiv.org/abs/2306.11559v1)|[link](https://github.com/morlikowski/ecological-fallacy)|
 |**2023-06-20**|**Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition**|Yiting Dong et.al.|[2306.11546v1](http://arxiv.org/abs/2306.11546v1)|null|
@@ -25,10 +32,3 @@
 |**2023-06-16**|**CANDID: Correspondence AligNment for Deep-burst Image Denoising**|Arijit Mallick et.al.|[2306.09887v1](http://arxiv.org/abs/2306.09887v1)|null|
 |**2023-06-16**|**Camera PPG waveforms at the forehead**|A. C. den Brinker et.al.|[2306.09879v1](http://arxiv.org/abs/2306.09879v1)|null|
 |**2023-06-16**|**Can robots mold soft plastic materials by shaping depth images?**|Ege Gursoy et.al.|[2306.09848v1](http://arxiv.org/abs/2306.09848v1)|null|
-|**2023-06-16**|**Microlayer in nucleate boiling seen as Landau-Levich film with dewetting and evaporation**|Cassiano Tecchio et.al.|[2306.09838v1](http://arxiv.org/abs/2306.09838v1)|null|
-|**2023-06-16**|**Efficient Search and Detection of Relevant Plant Parts using Semantics-Aware Active Vision**|Akshay K. Burusa et.al.|[2306.09801v1](http://arxiv.org/abs/2306.09801v1)|null|
-|**2023-06-16**|**Cooperative Multi-Objective Reinforcement Learning for Traffic Signal Control and Carbon Emission Reduction**|Cheng Ruei Tang et.al.|[2306.09662v1](http://arxiv.org/abs/2306.09662v1)|null|
-|**2023-06-16**|**A Vision-based Autonomous Perching Approach for Nano Aerial Vehicles**|Truong-Dong Do et.al.|[2306.09591v1](http://arxiv.org/abs/2306.09591v1)|null|
-|**2023-06-15**|**A superconducting-nanowire single-photon camera with 400,000 pixels**|Bakhrom G. Oripov et.al.|[2306.09473v1](http://arxiv.org/abs/2306.09473v1)|null|
-|**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348v1](http://arxiv.org/abs/2306.09348v1)|null|
-|**2023-06-15**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v2](http://arxiv.org/abs/2306.09349v2)|null|
