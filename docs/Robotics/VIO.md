@@ -10,7 +10,7 @@
 |**2023-06-16**|**Investigating the magnitude and temporal localization of inertial particle mixing in turbulent channel flows**|D. Perrone et.al.|[2306.09644v1](http://arxiv.org/abs/2306.09644v1)|null|
 |**2023-06-16**|**Aspects of clock synchronization in relativistic kinematics -- a tutorial**|Winfried A. Mitaroff et.al.|[2306.09582v1](http://arxiv.org/abs/2306.09582v1)|null|
 |**2023-06-14**|**The coherent structure of the energy cascade in isotropic turbulence**|Danah Park et.al.|[2306.08784v1](http://arxiv.org/abs/2306.08784v1)|null|
-|**2023-06-14**|**SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo**|Yingye Xin et.al.|[2306.08648v1](http://arxiv.org/abs/2306.08648v1)|null|
+|**2023-06-14**|**SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo**|Yingye Xin et.al.|[2306.08648v2](http://arxiv.org/abs/2306.08648v2)|null|
 |**2023-06-14**|**Synchronous oscillatory electro-inertial focusing of microparticles**|Giridar Vishwanathan et.al.|[2306.08606v1](http://arxiv.org/abs/2306.08606v1)|null|
 |**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|[link](https://github.com/neufieldrobotics/nufr-m3f)|
 |**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341v2](http://arxiv.org/abs/2306.08341v2)|null|
