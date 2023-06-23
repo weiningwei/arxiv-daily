@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-22**|**Affine Correspondences between Multi-Camera Systems for Relative Pose Estimation**|Banglei Guan et.al.|[2306.12996v1](http://arxiv.org/abs/2306.12996v1)|null|
+|**2023-06-22**|**Relevance-Based Compression of Cataract Surgery Videos**|Natalia Mathá et.al.|[2306.12829v1](http://arxiv.org/abs/2306.12829v1)|null|
+|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v1](http://arxiv.org/abs/2306.12770v1)|null|
+|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
+|**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
+|**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|
+|**2023-06-21**|**Arc-to-line frame registration method for ultrasound and photoacoustic image-guided intraoperative robot-assisted laparoscopic prostatectomy**|Hyunwoo Song et.al.|[2306.12590v1](http://arxiv.org/abs/2306.12590v1)|null|
+|**2023-06-21**|**Varstrometry for Off-nucleus and Dual sub-Kpc AGN (VODKA). SDSS J1608+2716: A Sub-arcsec Quadruply Lensed Quasar at $z=2.575$**|Junyao Li et.al.|[2306.12502v1](http://arxiv.org/abs/2306.12502v1)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|[link](https://github.com/qiuyu96/carver)|
 |**2023-06-21**|**Spectroscopy of the Supernova H0pe Host Galaxy at Redshift 1.78**|M. Polletta et.al.|[2306.12385v1](http://arxiv.org/abs/2306.12385v1)|null|
 |**2023-06-21**|**Euclid: Constraining linearly scale-independent modifications of gravity with the spectroscopic and photometric primary probes**|N. Frusciante et.al.|[2306.12368v1](http://arxiv.org/abs/2306.12368v1)|null|
@@ -24,11 +32,3 @@
 |**2023-06-18**|**STHG: Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization**|Kyle Min et.al.|[2306.10608v1](http://arxiv.org/abs/2306.10608v1)|null|
 |**2023-06-18**|**Optical Integrated Sensing and Communication for Cooperative Mobile Robotics Design and Experiments**|Shengqian Wang et.al.|[2306.10584v1](http://arxiv.org/abs/2306.10584v1)|null|
 |**2023-06-18**|**A Universal Semantic-Geometric Representation for Robotic Manipulation**|Tong Zhang et.al.|[2306.10474v1](http://arxiv.org/abs/2306.10474v1)|null|
-|**2023-06-16**|**Enhancing Visual Domain Adaptation with Source Preparation**|Anirudha Ramesh et.al.|[2306.10142v1](http://arxiv.org/abs/2306.10142v1)|null|
-|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013v1](http://arxiv.org/abs/2306.10013v1)|null|
-|**2023-06-16**|**Robot Learning with Sensorimotor Pre-training**|Ilija Radosavovic et.al.|[2306.10007v1](http://arxiv.org/abs/2306.10007v1)|null|
-|**2023-06-16**|**Tactile-Reactive Roller Grasper**|Shenli Yuan et.al.|[2306.09946v1](http://arxiv.org/abs/2306.09946v1)|null|
-|**2023-06-16**|**Vehicle Occurrence-based Parking Space Detection**|Paulo R. Lisboa de Almeida et.al.|[2306.09940v1](http://arxiv.org/abs/2306.09940v1)|null|
-|**2023-06-16**|**CANDID: Correspondence AligNment for Deep-burst Image Denoising**|Arijit Mallick et.al.|[2306.09887v1](http://arxiv.org/abs/2306.09887v1)|null|
-|**2023-06-16**|**Camera PPG waveforms at the forehead**|A. C. den Brinker et.al.|[2306.09879v1](http://arxiv.org/abs/2306.09879v1)|null|
-|**2023-06-16**|**Can robots mold soft plastic materials by shaping depth images?**|Ege Gursoy et.al.|[2306.09848v1](http://arxiv.org/abs/2306.09848v1)|null|
