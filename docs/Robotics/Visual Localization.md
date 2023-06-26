@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-23**|**Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.|[2306.13518v1](http://arxiv.org/abs/2306.13518v1)|null|
+|**2023-06-23**|**Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.|[2306.13518v1](http://arxiv.org/abs/2306.13518v1)|[link](https://github.com/nanh5837/lettucemots)|
 |**2023-06-23**|**Differentiable Display Photometric Stereo**|Seokjun Choi et.al.|[2306.13325v1](http://arxiv.org/abs/2306.13325v1)|null|
 |**2023-06-23**|**Cross calibration between Hayabusa2/ONC-T and OSIRIS-REx/MapCam for comparative analyses between asteroids Ryugu and Bennu**|K. Yumoto et.al.|[2306.13321v1](http://arxiv.org/abs/2306.13321v1)|null|
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
