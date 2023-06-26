@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-23**|**Contribution of fictitious forces to polarization drag in rotating media**|Julien Langlois et.al.|[2306.13485v1](http://arxiv.org/abs/2306.13485v1)|null|
+|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
+|**2023-06-23**|**Coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2306.13267v1](http://arxiv.org/abs/2306.13267v1)|null|
 |**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
 |**2023-06-21**|**Accelerated Griffin-Lim algorithm: A fast and provably converging numerical method for phase retrieval**|Rossen Nenov et.al.|[2306.12504v1](http://arxiv.org/abs/2306.12504v1)|null|
 |**2023-06-21**|**Inertial Balanced Viscosity (IBV) solutions to infinite-dimensional rate-independent systems**|Filippo Riva et.al.|[2306.12248v1](http://arxiv.org/abs/2306.12248v1)|null|
@@ -29,6 +32,3 @@
 |**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
 |**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522v1](http://arxiv.org/abs/2306.06522v1)|[link](https://github.com/philipph77/ts-moco)|
 |**2023-06-09**|**Electronic density response of warm dense hydrogen on the nanoscale**|Tobias Dornheim et.al.|[2306.05814v1](http://arxiv.org/abs/2306.05814v1)|null|
-|**2023-06-08**|**The WARP Reactor Concept**|Michael G. Anderson et.al.|[2306.06133v1](http://arxiv.org/abs/2306.06133v1)|null|
-|**2023-06-08**|**Temperature anomalies of oscillating diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2306.04977v1](http://arxiv.org/abs/2306.04977v1)|null|
-|**2023-06-07**|**Systematic investigation of wear-induced cold welding in ultrahigh vacuum piezoelectric motors with non-metallic coatings**|Taemin Ahn et.al.|[2306.04401v1](http://arxiv.org/abs/2306.04401v1)|null|

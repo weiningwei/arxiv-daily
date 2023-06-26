@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-23**|**Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.|[2306.13518v1](http://arxiv.org/abs/2306.13518v1)|null|
+|**2023-06-23**|**Differentiable Display Photometric Stereo**|Seokjun Choi et.al.|[2306.13325v1](http://arxiv.org/abs/2306.13325v1)|null|
+|**2023-06-23**|**Cross calibration between Hayabusa2/ONC-T and OSIRIS-REx/MapCam for comparative analyses between asteroids Ryugu and Bennu**|K. Yumoto et.al.|[2306.13321v1](http://arxiv.org/abs/2306.13321v1)|null|
+|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
+|**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
 |**2023-06-22**|**Affine Correspondences between Multi-Camera Systems for Relative Pose Estimation**|Banglei Guan et.al.|[2306.12996v1](http://arxiv.org/abs/2306.12996v1)|[link](https://github.com/jizhaox/relpose-mcs-depth)|
 |**2023-06-22**|**Relevance-Based Compression of Cataract Surgery Videos**|Natalia Mathá et.al.|[2306.12829v1](http://arxiv.org/abs/2306.12829v1)|null|
 |**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v1](http://arxiv.org/abs/2306.12770v1)|null|
@@ -27,8 +32,3 @@
 |**2023-06-19**|**Thickness Dependent Sensitivity of GAGG:Ce Scintillation detectors for Thermal Neutrons: GEANT4 Simulations and Experimental Measurements**|Annesha Karmakar et.al.|[2306.11191v1](http://arxiv.org/abs/2306.11191v1)|null|
 |**2023-06-19**|**Euclid: Constraints on f(R) cosmologies from the spectroscopic and photometric primary probes**|S. Casas et.al.|[2306.11053v1](http://arxiv.org/abs/2306.11053v1)|null|
 |**2023-06-19**|**Scaling of Class-wise Training Losses for Post-hoc Calibration**|Seungjin Jung et.al.|[2306.10989v1](http://arxiv.org/abs/2306.10989v1)|[link](https://github.com/seungjinjung/sctl)|
-|**2023-06-19**|**Tame a Wild Camera: In-the-Wild Monocular Camera Calibration**|Shengjie Zhu et.al.|[2306.10988v1](http://arxiv.org/abs/2306.10988v1)|[link](https://github.com/shngjz/wildcamera)|
-|**2023-06-19**|**PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird's-Eye View**|Peizheng Li et.al.|[2306.10761v1](http://arxiv.org/abs/2306.10761v1)|[link](https://github.com/edwardleelpz/powerbev)|
-|**2023-06-18**|**STHG: Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization**|Kyle Min et.al.|[2306.10608v1](http://arxiv.org/abs/2306.10608v1)|null|
-|**2023-06-18**|**Optical Integrated Sensing and Communication for Cooperative Mobile Robotics Design and Experiments**|Shengqian Wang et.al.|[2306.10584v1](http://arxiv.org/abs/2306.10584v1)|null|
-|**2023-06-18**|**A Universal Semantic-Geometric Representation for Robotic Manipulation**|Tong Zhang et.al.|[2306.10474v1](http://arxiv.org/abs/2306.10474v1)|null|
