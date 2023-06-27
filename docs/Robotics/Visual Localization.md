@@ -9,7 +9,7 @@
 |**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
 |**2023-06-22**|**Affine Correspondences between Multi-Camera Systems for Relative Pose Estimation**|Banglei Guan et.al.|[2306.12996v1](http://arxiv.org/abs/2306.12996v1)|[link](https://github.com/jizhaox/relpose-mcs-depth)|
 |**2023-06-22**|**Relevance-Based Compression of Cataract Surgery Videos**|Natalia Mathá et.al.|[2306.12829v1](http://arxiv.org/abs/2306.12829v1)|null|
-|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v1](http://arxiv.org/abs/2306.12770v1)|null|
+|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v2](http://arxiv.org/abs/2306.12770v2)|null|
 |**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
 |**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
 |**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|

@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2023-06-26 21:13:08 Asia/Shanghai
+ Automated deployment @ 2023-06-27 08:42:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-23**|**Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.|[2306.13518v1](http://arxiv.org/abs/2306.13518v1)|[link](https://github.com/nanh5837/lettucemots)|
+|**2023-06-23**|**Differentiable Display Photometric Stereo**|Seokjun Choi et.al.|[2306.13325v1](http://arxiv.org/abs/2306.13325v1)|null|
+|**2023-06-23**|**Cross calibration between Hayabusa2/ONC-T and OSIRIS-REx/MapCam for comparative analyses between asteroids Ryugu and Bennu**|K. Yumoto et.al.|[2306.13321v1](http://arxiv.org/abs/2306.13321v1)|null|
+|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
+|**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
+|**2023-06-22**|**Affine Correspondences between Multi-Camera Systems for Relative Pose Estimation**|Banglei Guan et.al.|[2306.12996v1](http://arxiv.org/abs/2306.12996v1)|[link](https://github.com/jizhaox/relpose-mcs-depth)|
+|**2023-06-22**|**Relevance-Based Compression of Cataract Surgery Videos**|Natalia Mathá et.al.|[2306.12829v1](http://arxiv.org/abs/2306.12829v1)|null|
+|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v2](http://arxiv.org/abs/2306.12770v2)|null|
+|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
+|**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
+|**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|
+|**2023-06-21**|**Arc-to-line frame registration method for ultrasound and photoacoustic image-guided intraoperative robot-assisted laparoscopic prostatectomy**|Hyunwoo Song et.al.|[2306.12590v1](http://arxiv.org/abs/2306.12590v1)|null|
+|**2023-06-21**|**Varstrometry for Off-nucleus and Dual sub-Kpc AGN (VODKA). SDSS J1608+2716: A Sub-arcsec Quadruply Lensed Quasar at $z=2.575$**|Junyao Li et.al.|[2306.12502v1](http://arxiv.org/abs/2306.12502v1)|null|
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|[link](https://github.com/qiuyu96/carver)|
+|**2023-06-21**|**Spectroscopy of the Supernova H0pe Host Galaxy at Redshift 1.78**|M. Polletta et.al.|[2306.12385v1](http://arxiv.org/abs/2306.12385v1)|null|
+|**2023-06-21**|**Euclid: Constraining linearly scale-independent modifications of gravity with the spectroscopic and photometric primary probes**|N. Frusciante et.al.|[2306.12368v1](http://arxiv.org/abs/2306.12368v1)|null|
+|**2023-06-21**|**Wildfire Detection Via Transfer Learning: A Survey**|Ziliang Hong et.al.|[2306.12276v1](http://arxiv.org/abs/2306.12276v1)|null|
+|**2023-06-21**|**Near infrared view on the photodissociation regions S255, S257, NGC7538 and S140**|M. S. Kirsanova et.al.|[2306.12264v1](http://arxiv.org/abs/2306.12264v1)|null|
+|**2023-06-20**|**NILUT: Conditional Neural Implicit 3D Lookup Tables for Image Enhancement**|Marcos V. Conde et.al.|[2306.11920v1](http://arxiv.org/abs/2306.11920v1)|[link](https://github.com/mv-lab/nilut)|
+|**2023-06-20**|**Self-supervised Multi-task Learning Framework for Safety and Health-Oriented Connected Driving Environment Perception using Onboard Camera**|Shaocheng Jia et.al.|[2306.11822v1](http://arxiv.org/abs/2306.11822v1)|null|
+|**2023-06-20**|**BEVScope: Enhancing Self-Supervised Depth Estimation Leveraging Bird's-Eye-View in Dynamic Scenarios**|Yucheng Mao et.al.|[2306.11598v1](http://arxiv.org/abs/2306.11598v1)|null|
+|**2023-06-20**|**The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics**|Matthias Orlikowski et.al.|[2306.11559v1](http://arxiv.org/abs/2306.11559v1)|[link](https://github.com/morlikowski/ecological-fallacy)|
+|**2023-06-20**|**Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition**|Yiting Dong et.al.|[2306.11546v1](http://arxiv.org/abs/2306.11546v1)|null|
+|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
+|**2023-06-20**|**Meerkat Behaviour Recognition Dataset**|Mitchell Rogers et.al.|[2306.11326v1](http://arxiv.org/abs/2306.11326v1)|null|
+|**2023-06-20**|**Spatiotemporal Pyramidal CNN with Depth-Wise Separable Convolution for Eye Blinking Detection in the Wild**|Lan Anh Thi Nguy et.al.|[2306.11287v1](http://arxiv.org/abs/2306.11287v1)|null|
+|**2023-06-20**|**GUMSum: Multi-Genre Data and Evaluation for English Abstractive Summarization**|Yang Janet Liu et.al.|[2306.11256v1](http://arxiv.org/abs/2306.11256v1)|null|
+|**2023-06-19**|**Thickness Dependent Sensitivity of GAGG:Ce Scintillation detectors for Thermal Neutrons: GEANT4 Simulations and Experimental Measurements**|Annesha Karmakar et.al.|[2306.11191v1](http://arxiv.org/abs/2306.11191v1)|null|
+|**2023-06-19**|**Euclid: Constraints on f(R) cosmologies from the spectroscopic and photometric primary probes**|S. Casas et.al.|[2306.11053v1](http://arxiv.org/abs/2306.11053v1)|null|
+|**2023-06-19**|**Scaling of Class-wise Training Losses for Post-hoc Calibration**|Seungjin Jung et.al.|[2306.10989v1](http://arxiv.org/abs/2306.10989v1)|[link](https://github.com/seungjinjung/sctl)|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -39,74 +73,6 @@
 |**2023-04-25**|**AdaLIO: Robust Adaptive LiDAR-Inertial Odometry in Degenerate Indoor Environments**|Hyungtae Lim et.al.|[2304.12577v1](http://arxiv.org/abs/2304.12577v1)|null|
 |**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|[link](https://github.com/hitsz-nrsl/dynamic-vins)|
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-23**|**Contribution of fictitious forces to polarization drag in rotating media**|Julien Langlois et.al.|[2306.13485v1](http://arxiv.org/abs/2306.13485v1)|null|
-|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
-|**2023-06-23**|**Coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2306.13267v1](http://arxiv.org/abs/2306.13267v1)|null|
-|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
-|**2023-06-21**|**Accelerated Griffin-Lim algorithm: A fast and provably converging numerical method for phase retrieval**|Rossen Nenov et.al.|[2306.12504v1](http://arxiv.org/abs/2306.12504v1)|null|
-|**2023-06-21**|**Inertial Balanced Viscosity (IBV) solutions to infinite-dimensional rate-independent systems**|Filippo Riva et.al.|[2306.12248v1](http://arxiv.org/abs/2306.12248v1)|null|
-|**2023-06-20**|**A revised gap-averaged Floquet analysis of Faraday waves in Hele-Shaw cells**|Alessandro Bongarzone et.al.|[2306.11501v1](http://arxiv.org/abs/2306.11501v1)|null|
-|**2023-06-20**|**HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2306.11429v1](http://arxiv.org/abs/2306.11429v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
-|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
-|**2023-06-20**|**CoNi-MPC: Cooperative Non-inertial Frame Based Model Predictive Control**|Baozhe Zhang et.al.|[2306.11259v1](http://arxiv.org/abs/2306.11259v1)|null|
-|**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri et.al.|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
-|**2023-06-16**|**Investigating the magnitude and temporal localization of inertial particle mixing in turbulent channel flows**|D. Perrone et.al.|[2306.09644v1](http://arxiv.org/abs/2306.09644v1)|null|
-|**2023-06-16**|**Aspects of clock synchronization in relativistic kinematics -- a tutorial**|Winfried A. Mitaroff et.al.|[2306.09582v1](http://arxiv.org/abs/2306.09582v1)|null|
-|**2023-06-14**|**The coherent structure of the energy cascade in isotropic turbulence**|Danah Park et.al.|[2306.08784v1](http://arxiv.org/abs/2306.08784v1)|null|
-|**2023-06-14**|**SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo**|Yingye Xin et.al.|[2306.08648v2](http://arxiv.org/abs/2306.08648v2)|null|
-|**2023-06-14**|**Synchronous oscillatory electro-inertial focusing of microparticles**|Giridar Vishwanathan et.al.|[2306.08606v1](http://arxiv.org/abs/2306.08606v1)|null|
-|**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|[link](https://github.com/neufieldrobotics/nufr-m3f)|
-|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341v2](http://arxiv.org/abs/2306.08341v2)|null|
-|**2023-06-14**|**Inertial randomized Kaczmarz algorithms for solving coherent linear systems**|Songnian He et.al.|[2306.08185v1](http://arxiv.org/abs/2306.08185v1)|null|
-|**2023-06-13**|**A Past Episode of Rapid Tidal Evolution of Enceladus?**|Matija Ćuk et.al.|[2306.07901v1](http://arxiv.org/abs/2306.07901v1)|null|
-|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu et.al.|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
-|**2023-06-13**|**An observer's perspective of the Unruh and Hawking effects**|Satish Ramakrishna et.al.|[2306.07683v3](http://arxiv.org/abs/2306.07683v3)|null|
-|**2023-06-13**|**Two-step inertial Bregman proximal alternating linearized minimization algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.07614v1](http://arxiv.org/abs/2306.07614v1)|null|
-|**2023-06-13**|**First-Principle Validation of Fourier's Law: One-Dimensional Classical Inertial Heisenberg Model**|Henrique Santos Lima et.al.|[2306.07481v1](http://arxiv.org/abs/2306.07481v1)|null|
-|**2023-06-12**|**H-SLAM: Hybrid Direct-Indirect Visual SLAM**|Georges Younes et.al.|[2306.07363v1](http://arxiv.org/abs/2306.07363v1)|[link](https://github.com/aubvrl/fslam_ros_docker)|
-|**2023-06-12**|**Measurement of the scaling slope of compressible magnetohydrodynamic turbulence by synchrotron radiation statistics**|Zhang Xue-Wen et.al.|[2306.07143v1](http://arxiv.org/abs/2306.07143v1)|null|
-|**2023-06-12**|**Non-collinear polychromatic light for inertial fusion energy**|Yao Zhao et.al.|[2306.06964v1](http://arxiv.org/abs/2306.06964v1)|null|
-|**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
-|**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522v1](http://arxiv.org/abs/2306.06522v1)|[link](https://github.com/philipph77/ts-moco)|
-|**2023-06-09**|**Electronic density response of warm dense hydrogen on the nanoscale**|Tobias Dornheim et.al.|[2306.05814v1](http://arxiv.org/abs/2306.05814v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-23**|**Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.|[2306.13518v1](http://arxiv.org/abs/2306.13518v1)|[link](https://github.com/nanh5837/lettucemots)|
-|**2023-06-23**|**Differentiable Display Photometric Stereo**|Seokjun Choi et.al.|[2306.13325v1](http://arxiv.org/abs/2306.13325v1)|null|
-|**2023-06-23**|**Cross calibration between Hayabusa2/ONC-T and OSIRIS-REx/MapCam for comparative analyses between asteroids Ryugu and Bennu**|K. Yumoto et.al.|[2306.13321v1](http://arxiv.org/abs/2306.13321v1)|null|
-|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
-|**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
-|**2023-06-22**|**Affine Correspondences between Multi-Camera Systems for Relative Pose Estimation**|Banglei Guan et.al.|[2306.12996v1](http://arxiv.org/abs/2306.12996v1)|[link](https://github.com/jizhaox/relpose-mcs-depth)|
-|**2023-06-22**|**Relevance-Based Compression of Cataract Surgery Videos**|Natalia Mathá et.al.|[2306.12829v1](http://arxiv.org/abs/2306.12829v1)|null|
-|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v1](http://arxiv.org/abs/2306.12770v1)|null|
-|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
-|**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
-|**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|
-|**2023-06-21**|**Arc-to-line frame registration method for ultrasound and photoacoustic image-guided intraoperative robot-assisted laparoscopic prostatectomy**|Hyunwoo Song et.al.|[2306.12590v1](http://arxiv.org/abs/2306.12590v1)|null|
-|**2023-06-21**|**Varstrometry for Off-nucleus and Dual sub-Kpc AGN (VODKA). SDSS J1608+2716: A Sub-arcsec Quadruply Lensed Quasar at $z=2.575$**|Junyao Li et.al.|[2306.12502v1](http://arxiv.org/abs/2306.12502v1)|null|
-|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|[link](https://github.com/qiuyu96/carver)|
-|**2023-06-21**|**Spectroscopy of the Supernova H0pe Host Galaxy at Redshift 1.78**|M. Polletta et.al.|[2306.12385v1](http://arxiv.org/abs/2306.12385v1)|null|
-|**2023-06-21**|**Euclid: Constraining linearly scale-independent modifications of gravity with the spectroscopic and photometric primary probes**|N. Frusciante et.al.|[2306.12368v1](http://arxiv.org/abs/2306.12368v1)|null|
-|**2023-06-21**|**Wildfire Detection Via Transfer Learning: A Survey**|Ziliang Hong et.al.|[2306.12276v1](http://arxiv.org/abs/2306.12276v1)|null|
-|**2023-06-21**|**Near infrared view on the photodissociation regions S255, S257, NGC7538 and S140**|M. S. Kirsanova et.al.|[2306.12264v1](http://arxiv.org/abs/2306.12264v1)|null|
-|**2023-06-20**|**NILUT: Conditional Neural Implicit 3D Lookup Tables for Image Enhancement**|Marcos V. Conde et.al.|[2306.11920v1](http://arxiv.org/abs/2306.11920v1)|[link](https://github.com/mv-lab/nilut)|
-|**2023-06-20**|**Self-supervised Multi-task Learning Framework for Safety and Health-Oriented Connected Driving Environment Perception using Onboard Camera**|Shaocheng Jia et.al.|[2306.11822v1](http://arxiv.org/abs/2306.11822v1)|null|
-|**2023-06-20**|**BEVScope: Enhancing Self-Supervised Depth Estimation Leveraging Bird's-Eye-View in Dynamic Scenarios**|Yucheng Mao et.al.|[2306.11598v1](http://arxiv.org/abs/2306.11598v1)|null|
-|**2023-06-20**|**The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics**|Matthias Orlikowski et.al.|[2306.11559v1](http://arxiv.org/abs/2306.11559v1)|[link](https://github.com/morlikowski/ecological-fallacy)|
-|**2023-06-20**|**Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition**|Yiting Dong et.al.|[2306.11546v1](http://arxiv.org/abs/2306.11546v1)|null|
-|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
-|**2023-06-20**|**Meerkat Behaviour Recognition Dataset**|Mitchell Rogers et.al.|[2306.11326v1](http://arxiv.org/abs/2306.11326v1)|null|
-|**2023-06-20**|**Spatiotemporal Pyramidal CNN with Depth-Wise Separable Convolution for Eye Blinking Detection in the Wild**|Lan Anh Thi Nguy et.al.|[2306.11287v1](http://arxiv.org/abs/2306.11287v1)|null|
-|**2023-06-20**|**GUMSum: Multi-Genre Data and Evaluation for English Abstractive Summarization**|Yang Janet Liu et.al.|[2306.11256v1](http://arxiv.org/abs/2306.11256v1)|null|
-|**2023-06-19**|**Thickness Dependent Sensitivity of GAGG:Ce Scintillation detectors for Thermal Neutrons: GEANT4 Simulations and Experimental Measurements**|Annesha Karmakar et.al.|[2306.11191v1](http://arxiv.org/abs/2306.11191v1)|null|
-|**2023-06-19**|**Euclid: Constraints on f(R) cosmologies from the spectroscopic and photometric primary probes**|S. Casas et.al.|[2306.11053v1](http://arxiv.org/abs/2306.11053v1)|null|
-|**2023-06-19**|**Scaling of Class-wise Training Losses for Post-hoc Calibration**|Seungjin Jung et.al.|[2306.10989v1](http://arxiv.org/abs/2306.10989v1)|[link](https://github.com/seungjinjung/sctl)|
-
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2023-05-22**|**Angle-based SLAM on 5G mmWave Systems: Design, Implementation, and Measurement**|Jie Yang et.al.|[2305.12669v1](http://arxiv.org/abs/2305.12669v1)|null|
 |**2023-05-17**|**TextSLAM: Visual SLAM with Semantic Planar Text Features**|Boying Li et.al.|[2305.10029v1](http://arxiv.org/abs/2305.10029v1)|[link](https://github.com/sjtu-visys/textslam)|
 |**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-23**|**Contribution of fictitious forces to polarization drag in rotating media**|Julien Langlois et.al.|[2306.13485v1](http://arxiv.org/abs/2306.13485v1)|null|
+|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
+|**2023-06-23**|**Coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2306.13267v1](http://arxiv.org/abs/2306.13267v1)|null|
+|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
+|**2023-06-21**|**Accelerated Griffin-Lim algorithm: A fast and provably converging numerical method for phase retrieval**|Rossen Nenov et.al.|[2306.12504v1](http://arxiv.org/abs/2306.12504v1)|null|
+|**2023-06-21**|**Inertial Balanced Viscosity (IBV) solutions to infinite-dimensional rate-independent systems**|Filippo Riva et.al.|[2306.12248v1](http://arxiv.org/abs/2306.12248v1)|null|
+|**2023-06-20**|**A revised gap-averaged Floquet analysis of Faraday waves in Hele-Shaw cells**|Alessandro Bongarzone et.al.|[2306.11501v1](http://arxiv.org/abs/2306.11501v1)|null|
+|**2023-06-20**|**HDVIO: Improving Localization and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2306.11429v1](http://arxiv.org/abs/2306.11429v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
+|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
+|**2023-06-20**|**CoNi-MPC: Cooperative Non-inertial Frame Based Model Predictive Control**|Baozhe Zhang et.al.|[2306.11259v1](http://arxiv.org/abs/2306.11259v1)|null|
+|**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri et.al.|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
+|**2023-06-16**|**Investigating the magnitude and temporal localization of inertial particle mixing in turbulent channel flows**|D. Perrone et.al.|[2306.09644v1](http://arxiv.org/abs/2306.09644v1)|null|
+|**2023-06-16**|**Aspects of clock synchronization in relativistic kinematics -- a tutorial**|Winfried A. Mitaroff et.al.|[2306.09582v1](http://arxiv.org/abs/2306.09582v1)|null|
+|**2023-06-14**|**The coherent structure of the energy cascade in isotropic turbulence**|Danah Park et.al.|[2306.08784v1](http://arxiv.org/abs/2306.08784v1)|null|
+|**2023-06-14**|**SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo**|Yingye Xin et.al.|[2306.08648v2](http://arxiv.org/abs/2306.08648v2)|null|
+|**2023-06-14**|**Synchronous oscillatory electro-inertial focusing of microparticles**|Giridar Vishwanathan et.al.|[2306.08606v1](http://arxiv.org/abs/2306.08606v1)|null|
+|**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|[link](https://github.com/neufieldrobotics/nufr-m3f)|
+|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341v2](http://arxiv.org/abs/2306.08341v2)|null|
+|**2023-06-14**|**Inertial randomized Kaczmarz algorithms for solving coherent linear systems**|Songnian He et.al.|[2306.08185v1](http://arxiv.org/abs/2306.08185v1)|null|
+|**2023-06-13**|**A Past Episode of Rapid Tidal Evolution of Enceladus?**|Matija Ćuk et.al.|[2306.07901v1](http://arxiv.org/abs/2306.07901v1)|null|
+|**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu et.al.|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
+|**2023-06-13**|**An observer's perspective of the Unruh and Hawking effects**|Satish Ramakrishna et.al.|[2306.07683v3](http://arxiv.org/abs/2306.07683v3)|null|
+|**2023-06-13**|**Two-step inertial Bregman proximal alternating linearized minimization algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.07614v1](http://arxiv.org/abs/2306.07614v1)|null|
+|**2023-06-13**|**First-Principle Validation of Fourier's Law: One-Dimensional Classical Inertial Heisenberg Model**|Henrique Santos Lima et.al.|[2306.07481v1](http://arxiv.org/abs/2306.07481v1)|null|
+|**2023-06-12**|**H-SLAM: Hybrid Direct-Indirect Visual SLAM**|Georges Younes et.al.|[2306.07363v1](http://arxiv.org/abs/2306.07363v1)|[link](https://github.com/aubvrl/fslam_ros_docker)|
+|**2023-06-12**|**Measurement of the scaling slope of compressible magnetohydrodynamic turbulence by synchrotron radiation statistics**|Zhang Xue-Wen et.al.|[2306.07143v1](http://arxiv.org/abs/2306.07143v1)|null|
+|**2023-06-12**|**Non-collinear polychromatic light for inertial fusion energy**|Yao Zhao et.al.|[2306.06964v1](http://arxiv.org/abs/2306.06964v1)|null|
+|**2023-06-11**|**LF-PGVIO: A Visual-Inertial-Odometry Framework for Large Field-of-View Cameras using Points and Geodesic Segments**|Ze Wang et.al.|[2306.06663v1](http://arxiv.org/abs/2306.06663v1)|[link](https://github.com/flysoaryun/lf-pgvio)|
+|**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522v1](http://arxiv.org/abs/2306.06522v1)|[link](https://github.com/philipph77/ts-moco)|
+|**2023-06-09**|**Electronic density response of warm dense hydrogen on the nanoscale**|Tobias Dornheim et.al.|[2306.05814v1](http://arxiv.org/abs/2306.05814v1)|null|
