@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-27**|**The effects of wing inertial forces and mean stroke angle on the pitch stability of hovering insects**|Sevak Tahmasian et.al.|[2306.15592v1](http://arxiv.org/abs/2306.15592v1)|null|
+|**2023-06-27**|**Taylor columns and inertial-like waves in a three-dimensional odd viscous liquid**|E. Kirkinis et.al.|[2306.15536v1](http://arxiv.org/abs/2306.15536v1)|null|
 |**2023-06-26**|**Towards Operating Wind Turbine Inspections using a LiDAR-equipped UAV**|Toma Sikora et.al.|[2306.14637v1](http://arxiv.org/abs/2306.14637v1)|null|
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|null|
 |**2023-06-23**|**Contribution of fictitious forces to polarization drag in rotating media**|Julien Langlois et.al.|[2306.13485v1](http://arxiv.org/abs/2306.13485v1)|null|
@@ -30,5 +32,3 @@
 |**2023-06-13**|**Two-step inertial Bregman proximal alternating linearized minimization algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.07614v1](http://arxiv.org/abs/2306.07614v1)|null|
 |**2023-06-13**|**First-Principle Validation of Fourier's Law: One-Dimensional Classical Inertial Heisenberg Model**|Henrique Santos Lima et.al.|[2306.07481v1](http://arxiv.org/abs/2306.07481v1)|null|
 |**2023-06-12**|**H-SLAM: Hybrid Direct-Indirect Visual SLAM**|Georges Younes et.al.|[2306.07363v1](http://arxiv.org/abs/2306.07363v1)|[link](https://github.com/aubvrl/fslam_ros_docker)|
-|**2023-06-12**|**Measurement of the scaling slope of compressible magnetohydrodynamic turbulence by synchrotron radiation statistics**|Zhang Xue-Wen et.al.|[2306.07143v1](http://arxiv.org/abs/2306.07143v1)|null|
-|**2023-06-12**|**Non-collinear polychromatic light for inertial fusion energy**|Yao Zhao et.al.|[2306.06964v1](http://arxiv.org/abs/2306.06964v1)|null|
