@@ -2,6 +2,8 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-28**|**NIPD: A Federated Learning Person Detection Benchmark Based on Real-World Non-IID Data**|Kangning Yin et.al.|[2306.15932v1](http://arxiv.org/abs/2306.15932v1)|null|
+|**2023-06-28**|**SpotEM: Efficient Video Search for Episodic Memory**|Santhosh Kumar Ramakrishnan et.al.|[2306.15850v1](http://arxiv.org/abs/2306.15850v1)|null|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|null|
 |**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
 |**2023-06-27**|**Enhancing Navigation Benchmarking and Perception Data Generation for Row-based Crops in Simulation**|Mauro Martini et.al.|[2306.15517v1](http://arxiv.org/abs/2306.15517v1)|null|
@@ -30,5 +32,3 @@
 |**2023-06-23**|**Differentiable Display Photometric Stereo**|Seokjun Choi et.al.|[2306.13325v2](http://arxiv.org/abs/2306.13325v2)|null|
 |**2023-06-23**|**Cross calibration between Hayabusa2/ONC-T and OSIRIS-REx/MapCam for comparative analyses between asteroids Ryugu and Bennu**|K. Yumoto et.al.|[2306.13321v1](http://arxiv.org/abs/2306.13321v1)|null|
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|[link](https://github.com/chichengcn/gici-open)|
-|**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
-|**2023-06-22**|**Affine Correspondences between Multi-Camera Systems for Relative Pose Estimation**|Banglei Guan et.al.|[2306.12996v1](http://arxiv.org/abs/2306.12996v1)|[link](https://github.com/jizhaox/relpose-mcs-depth)|

@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-28**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197v1](http://arxiv.org/abs/2306.16197v1)|null|
+|**2023-06-28**|**Dynamical Maps for Accelerating Detectors**|Shalin Jose et.al.|[2306.16041v1](http://arxiv.org/abs/2306.16041v1)|null|
+|**2023-06-27**|**Classification of Infant Sleep/Wake States: Cross-Attention among Large Scale Pretrained Transformer Networks using Audio, ECG, and IMU Data**|Kai Chieh Chang et.al.|[2306.15808v1](http://arxiv.org/abs/2306.15808v1)|null|
+|**2023-06-27**|**A Novel Two Stream Decision Level Fusion of Vision and Inertial Sensors Data for Automatic Multimodal Human Activity Recognition System**|Santosh Kumar Yadav et.al.|[2306.15765v1](http://arxiv.org/abs/2306.15765v1)|null|
 |**2023-06-27**|**The effects of wing inertial forces and mean stroke angle on the pitch stability of hovering insects**|Sevak Tahmasian et.al.|[2306.15592v1](http://arxiv.org/abs/2306.15592v1)|null|
 |**2023-06-27**|**Taylor columns and inertial-like waves in a three-dimensional odd viscous liquid**|E. Kirkinis et.al.|[2306.15536v1](http://arxiv.org/abs/2306.15536v1)|null|
 |**2023-06-26**|**Towards Operating Wind Turbine Inspections using a LiDAR-equipped UAV**|Toma Sikora et.al.|[2306.14637v1](http://arxiv.org/abs/2306.14637v1)|null|
@@ -28,7 +32,3 @@
 |**2023-06-14**|**Inertial randomized Kaczmarz algorithms for solving coherent linear systems**|Songnian He et.al.|[2306.08185v1](http://arxiv.org/abs/2306.08185v1)|null|
 |**2023-06-13**|**A Past Episode of Rapid Tidal Evolution of Enceladus?**|Matija Ćuk et.al.|[2306.07901v1](http://arxiv.org/abs/2306.07901v1)|null|
 |**2023-06-13**|**iSLAM: Imperative SLAM**|Taimeng Fu et.al.|[2306.07894v2](http://arxiv.org/abs/2306.07894v2)|null|
-|**2023-06-13**|**An observer's perspective of the Unruh and Hawking effects**|Satish Ramakrishna et.al.|[2306.07683v4](http://arxiv.org/abs/2306.07683v4)|null|
-|**2023-06-13**|**Two-step inertial Bregman proximal alternating linearized minimization algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2306.07614v1](http://arxiv.org/abs/2306.07614v1)|null|
-|**2023-06-13**|**First-Principle Validation of Fourier's Law: One-Dimensional Classical Inertial Heisenberg Model**|Henrique Santos Lima et.al.|[2306.07481v1](http://arxiv.org/abs/2306.07481v1)|null|
-|**2023-06-12**|**H-SLAM: Hybrid Direct-Indirect Visual SLAM**|Georges Younes et.al.|[2306.07363v1](http://arxiv.org/abs/2306.07363v1)|[link](https://github.com/aubvrl/fslam_ros_docker)|
