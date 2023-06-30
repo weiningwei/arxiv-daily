@@ -2,6 +2,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)|
+|**2023-06-28**|**SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**|Jingwen Wang et.al.|[2306.16585v1](http://arxiv.org/abs/2306.16585v1)|null|
+|**2023-06-28**|**Image-based Visual Servo Control for Aerial Manipulation Using a Fully-Actuated UAV**|Guanqi He et.al.|[2306.16530v1](http://arxiv.org/abs/2306.16530v1)|null|
 |**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar et.al.|[2306.14812v1](http://arxiv.org/abs/2306.14812v1)|null|
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|[link](https://github.com/robot-pesg/botanicgarden)|
 |**2023-06-22**|**Map Point Selection for Visual SLAM**|Christiaan J. Müller et.al.|[2306.12901v1](http://arxiv.org/abs/2306.12901v1)|[link](https://github.com/ChristiaanM/MapSelect)|
@@ -29,6 +32,3 @@
 |**2023-05-24**|**Robust Imaging Sonar-based Place Recognition and Localization in Underwater Environments**|Hogyun Kim et.al.|[2305.14773v1](http://arxiv.org/abs/2305.14773v1)|[link](https://github.com/sparolab/sonar_context)|
 |**2023-05-23**|**Exploiting Radio Fingerprints for Simultaneous Localization and Mapping**|Ran Liu et.al.|[2305.13635v1](http://arxiv.org/abs/2305.13635v1)|null|
 |**2023-05-22**|**FEDORA: Flying Event Dataset fOr Reactive behAvior**|Amogh Joshi et.al.|[2305.14392v1](http://arxiv.org/abs/2305.14392v1)|null|
-|**2023-05-22**|**WiROS: WiFi sensing toolbox for robotics**|William Hunter et.al.|[2305.13418v1](http://arxiv.org/abs/2305.13418v1)|[link](https://github.com/ucsdwcsng/wiros)|
-|**2023-05-22**|**PALoc: Robust Prior-assisted Trajectory Generation for Benchmarking**|Xiangcheng Hu et.al.|[2305.13147v1](http://arxiv.org/abs/2305.13147v1)|null|
-|**2023-05-22**|**Angle-based SLAM on 5G mmWave Systems: Design, Implementation, and Measurement**|Jie Yang et.al.|[2305.12669v1](http://arxiv.org/abs/2305.12669v1)|null|
