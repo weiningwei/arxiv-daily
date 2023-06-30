@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-28**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197v1](http://arxiv.org/abs/2306.16197v1)|null|
+|**2023-06-28**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197v2](http://arxiv.org/abs/2306.16197v2)|null|
 |**2023-06-28**|**Dynamical Maps for Accelerating Detectors**|Shalin Jose et.al.|[2306.16041v1](http://arxiv.org/abs/2306.16041v1)|null|
 |**2023-06-27**|**Classification of Infant Sleep/Wake States: Cross-Attention among Large Scale Pretrained Transformer Networks using Audio, ECG, and IMU Data**|Kai Chieh Chang et.al.|[2306.15808v1](http://arxiv.org/abs/2306.15808v1)|null|
 |**2023-06-27**|**A Novel Two Stream Decision Level Fusion of Vision and Inertial Sensors Data for Automatic Multimodal Human Activity Recognition System**|Santosh Kumar Yadav et.al.|[2306.15765v1](http://arxiv.org/abs/2306.15765v1)|null|

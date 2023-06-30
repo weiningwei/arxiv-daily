@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-28**|**NIPD: A Federated Learning Person Detection Benchmark Based on Real-World Non-IID Data**|Kangning Yin et.al.|[2306.15932v1](http://arxiv.org/abs/2306.15932v1)|null|
+|**2023-06-28**|**NIPD: A Federated Learning Person Detection Benchmark Based on Real-World Non-IID Data**|Kangning Yin et.al.|[2306.15932v1](http://arxiv.org/abs/2306.15932v1)|[link](https://github.com/ShenSuanZiZhen/NIID_Person_Detection)|
 |**2023-06-28**|**SpotEM: Efficient Video Search for Episodic Memory**|Santhosh Kumar Ramakrishnan et.al.|[2306.15850v1](http://arxiv.org/abs/2306.15850v1)|null|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|null|
 |**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
@@ -10,7 +10,7 @@
 |**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507v1](http://arxiv.org/abs/2306.15507v1)|null|
 |**2023-06-27**|**Miniaturized gas-solid fluidized beds**|Fernando David Cúñez Benalcázar et.al.|[2306.15463v1](http://arxiv.org/abs/2306.15463v1)|null|
 |**2023-06-27**|**Total Ionizing Dose Effects on CMOS Image Sensor for the ULTRASAT Space Mission**|Vlad D. Berlea et.al.|[2306.15307v1](http://arxiv.org/abs/2306.15307v1)|null|
-|**2023-06-27**|**Cross Spectral Image Reconstruction Using a Deep Guided Neural Network**|Frank Sippel et.al.|[2306.15237v1](http://arxiv.org/abs/2306.15237v1)|null|
+|**2023-06-27**|**Cross Spectral Image Reconstruction Using a Deep Guided Neural Network**|Frank Sippel et.al.|[2306.15237v1](http://arxiv.org/abs/2306.15237v1)|[link](https://github.com/fau-lms/dgnet)|
 |**2023-06-27**|**DeepStream: Bandwidth Efficient Multi-Camera Video Streaming for Deep Learning Analytics**|Hongpeng Guo et.al.|[2306.15129v1](http://arxiv.org/abs/2306.15129v1)|null|
 |**2023-06-27**|**MIMIC: Masked Image Modeling with Image Correspondences**|Kalyani Marathe et.al.|[2306.15128v2](http://arxiv.org/abs/2306.15128v2)|[link](https://github.com/raivnlab/mimic)|
 |**2023-06-26**|**WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models**|Virginia K. Felkner et.al.|[2306.15087v1](http://arxiv.org/abs/2306.15087v1)|[link](https://github.com/katyfelkner/winoqueer)|
