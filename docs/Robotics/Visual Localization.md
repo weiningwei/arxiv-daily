@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817v1](http://arxiv.org/abs/2306.17817v1)|null|
+|**2023-06-30**|**Accurate 2D Reconstruction for PET Scanners based on the Analytical White Image Model**|Tomislav Matulić et.al.|[2306.17652v1](http://arxiv.org/abs/2306.17652v1)|null|
+|**2023-06-30**|**Achieving RGB-D level Segmentation Performance from a Single ToF Camera**|Pranav Sharma et.al.|[2306.17636v1](http://arxiv.org/abs/2306.17636v1)|null|
+|**2023-06-30**|**Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media**|Daniel S. Jeon et.al.|[2306.17618v1](http://arxiv.org/abs/2306.17618v1)|null|
+|**2023-06-30**|**Unscented Optimal Control for 3D Coverage Planning with an Autonomous UAV Agent**|Savvas Papaioannou et.al.|[2306.17588v1](http://arxiv.org/abs/2306.17588v1)|null|
+|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|null|
+|**2023-06-30**|**Multipass wide-field phase imager**|Álvaro Cuevas et.al.|[2306.17542v1](http://arxiv.org/abs/2306.17542v1)|null|
+|**2023-06-30**|**Beyond-Voice: Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices**|Yin Li et.al.|[2306.17477v1](http://arxiv.org/abs/2306.17477v1)|null|
+|**2023-06-30**|**Interferometric speckle visibility spectroscopy (iSVS) for measuring decorrelation time and dynamics of moving samples with enhanced signal-to-noise ratio and relaxed reference requirements**|Yu Xi Huang et.al.|[2306.17419v1](http://arxiv.org/abs/2306.17419v1)|null|
+|**2023-06-29**|**Towards Zero-Shot Scale-Aware Monocular Depth Estimation**|Vitor Guizilini et.al.|[2306.17253v1](http://arxiv.org/abs/2306.17253v1)|null|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140v1](http://arxiv.org/abs/2306.17140v1)|null|
 |**2023-06-29**|**Deep Ensemble for Rotorcraft Attitude Prediction**|Hikmat Khan et.al.|[2306.17104v1](http://arxiv.org/abs/2306.17104v1)|null|
 |**2023-06-29**|**Towards rapid extracellular vesicles colorimetric detection using optofluidics-enhanced color-changing optical metasurface**|Chuchuan Hong et.al.|[2306.17102v1](http://arxiv.org/abs/2306.17102v1)|null|
@@ -22,13 +32,3 @@
 |**2023-06-27**|**Enhancing Navigation Benchmarking and Perception Data Generation for Row-based Crops in Simulation**|Mauro Martini et.al.|[2306.15517v1](http://arxiv.org/abs/2306.15517v1)|null|
 |**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507v1](http://arxiv.org/abs/2306.15507v1)|null|
 |**2023-06-27**|**Miniaturized gas-solid fluidized beds**|Fernando David Cúñez Benalcázar et.al.|[2306.15463v1](http://arxiv.org/abs/2306.15463v1)|null|
-|**2023-06-27**|**Total Ionizing Dose Effects on CMOS Image Sensor for the ULTRASAT Space Mission**|Vlad D. Berlea et.al.|[2306.15307v1](http://arxiv.org/abs/2306.15307v1)|null|
-|**2023-06-27**|**Cross Spectral Image Reconstruction Using a Deep Guided Neural Network**|Frank Sippel et.al.|[2306.15237v1](http://arxiv.org/abs/2306.15237v1)|[link](https://github.com/fau-lms/dgnet)|
-|**2023-06-27**|**DeepStream: Bandwidth Efficient Multi-Camera Video Streaming for Deep Learning Analytics**|Hongpeng Guo et.al.|[2306.15129v1](http://arxiv.org/abs/2306.15129v1)|null|
-|**2023-06-27**|**MIMIC: Masked Image Modeling with Image Correspondences**|Kalyani Marathe et.al.|[2306.15128v2](http://arxiv.org/abs/2306.15128v2)|[link](https://github.com/raivnlab/mimic)|
-|**2023-06-26**|**WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models**|Virginia K. Felkner et.al.|[2306.15087v1](http://arxiv.org/abs/2306.15087v1)|[link](https://github.com/katyfelkner/winoqueer)|
-|**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896v1](http://arxiv.org/abs/2306.14896v1)|null|
-|**2023-06-26**|**Visual Servoing on Wheels: Robust Robot Orientation Estimation in Remote Viewpoint Control**|Luke Robinson et.al.|[2306.14848v1](http://arxiv.org/abs/2306.14848v1)|null|
-|**2023-06-26**|**Towards Operating Wind Turbine Inspections using a LiDAR-equipped UAV**|Toma Sikora et.al.|[2306.14637v1](http://arxiv.org/abs/2306.14637v1)|null|
-|**2023-06-26**|**TaiChi Action Capture and Performance Analysis with Multi-view RGB Cameras**|Jianwei Li et.al.|[2306.14490v1](http://arxiv.org/abs/2306.14490v1)|null|
-|**2023-06-26**|**Subjective assessment of the impact of a content adaptive optimiser for compressing 4K HDR content with AV1**|Vibhoothi et.al.|[2306.14432v1](http://arxiv.org/abs/2306.14432v1)|[link](https://gitlab.com/mindfreeze/icip2023)|

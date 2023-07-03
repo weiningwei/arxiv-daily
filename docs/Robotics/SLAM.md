@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)|
 |**2023-06-28**|**SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**|Jingwen Wang et.al.|[2306.16585v1](http://arxiv.org/abs/2306.16585v1)|null|
 |**2023-06-28**|**Image-based Visual Servo Control for Aerial Manipulation Using a Fully-Actuated UAV**|Guanqi He et.al.|[2306.16530v1](http://arxiv.org/abs/2306.16530v1)|null|
@@ -31,4 +32,3 @@
 |**2023-05-24**|**Towards View-invariant and Accurate Loop Detection Based on Scene Graph**|Chuhao Liu et.al.|[2305.14885v1](http://arxiv.org/abs/2305.14885v1)|null|
 |**2023-05-24**|**Robust Imaging Sonar-based Place Recognition and Localization in Underwater Environments**|Hogyun Kim et.al.|[2305.14773v1](http://arxiv.org/abs/2305.14773v1)|[link](https://github.com/sparolab/sonar_context)|
 |**2023-05-23**|**Exploiting Radio Fingerprints for Simultaneous Localization and Mapping**|Ran Liu et.al.|[2305.13635v1](http://arxiv.org/abs/2305.13635v1)|null|
-|**2023-05-22**|**FEDORA: Flying Event Dataset fOr Reactive behAvior**|Amogh Joshi et.al.|[2305.14392v1](http://arxiv.org/abs/2305.14392v1)|null|

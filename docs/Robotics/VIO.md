@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**The Bridge between Xsens Motion-Capture and Robot Operating System (ROS): Enabling Robots with Online 3D Human Motion Tracking**|Mattia Leonori et.al.|[2306.17738v1](http://arxiv.org/abs/2306.17738v1)|null|
+|**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703v1](http://arxiv.org/abs/2306.17703v1)|null|
+|**2023-06-30**|**Evidence of free-bound transitions in warm dense matter and their impact on equation-of-state measurements**|Maximilian P. Böhme et.al.|[2306.17653v1](http://arxiv.org/abs/2306.17653v1)|null|
+|**2023-06-30**|**Tidal dissipation due to the elliptical instability and turbulent viscosity in convection zones in rotating giant planets and stars**|Nils B. de Vries et.al.|[2306.17622v1](http://arxiv.org/abs/2306.17622v1)|null|
+|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|null|
+|**2023-06-30**|**Reflected entropy and Markov gap in non-inertial frames**|Jaydeep Kumar Basak et.al.|[2306.17490v1](http://arxiv.org/abs/2306.17490v1)|null|
+|**2023-06-30**|**LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map**|Xingyu Ji et.al.|[2306.17436v1](http://arxiv.org/abs/2306.17436v1)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)|
 |**2023-06-28**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197v2](http://arxiv.org/abs/2306.16197v2)|null|
 |**2023-06-28**|**Dynamical Maps for Accelerating Detectors**|Shalin Jose et.al.|[2306.16041v1](http://arxiv.org/abs/2306.16041v1)|null|
@@ -25,10 +32,3 @@
 |**2023-06-19**|**MeciFace: Mechanomyography and Inertial Fusion based Glasses for Edge Real-Time Recognition of Facial and Eating Activities**|Hymalai Bello et.al.|[2306.13674v1](http://arxiv.org/abs/2306.13674v1)|null|
 |**2023-06-16**|**Pose Graph Optimization for a MAV Indoor Localization Fusing 5GNR TOA with an IMU**|Meisam Kabiri et.al.|[2306.09826v1](http://arxiv.org/abs/2306.09826v1)|null|
 |**2023-06-16**|**Investigating the magnitude and temporal localization of inertial particle mixing in turbulent channel flows**|D. Perrone et.al.|[2306.09644v1](http://arxiv.org/abs/2306.09644v1)|null|
-|**2023-06-16**|**Aspects of clock synchronization in relativistic kinematics -- a tutorial**|Winfried A. Mitaroff et.al.|[2306.09582v1](http://arxiv.org/abs/2306.09582v1)|null|
-|**2023-06-14**|**The coherent structure of the energy cascade in isotropic turbulence**|Danah Park et.al.|[2306.08784v1](http://arxiv.org/abs/2306.08784v1)|null|
-|**2023-06-14**|**SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo**|Yingye Xin et.al.|[2306.08648v2](http://arxiv.org/abs/2306.08648v2)|null|
-|**2023-06-14**|**Synchronous oscillatory electro-inertial focusing of microparticles**|Giridar Vishwanathan et.al.|[2306.08606v1](http://arxiv.org/abs/2306.08606v1)|null|
-|**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|[link](https://github.com/neufieldrobotics/nufr-m3f)|
-|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341v2](http://arxiv.org/abs/2306.08341v2)|null|
-|**2023-06-14**|**Inertial randomized Kaczmarz algorithms for solving coherent linear systems**|Songnian He et.al.|[2306.08185v1](http://arxiv.org/abs/2306.08185v1)|null|
