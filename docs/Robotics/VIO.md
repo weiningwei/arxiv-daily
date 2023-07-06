@@ -7,11 +7,11 @@
 |**2023-07-03**|**Fast convergence of inertial multiobjective gradient-like systems with asymptotic vanishing damping**|Konstantin Sonntag et.al.|[2307.00975v1](http://arxiv.org/abs/2307.00975v1)|null|
 |**2023-07-02**|**On Embedding B-Splines in Recursive State Estimation**|Kailai Li et.al.|[2307.00637v1](http://arxiv.org/abs/2307.00637v1)|null|
 |**2023-07-01**|**Inertial-like waves in rigidly-rotating odd viscous liquids**|E. Kirkinis et.al.|[2307.00415v1](http://arxiv.org/abs/2307.00415v1)|null|
-|**2023-06-30**|**The Bridge between Xsens Motion-Capture and Robot Operating System (ROS): Enabling Robots with Online 3D Human Motion Tracking**|Mattia Leonori et.al.|[2306.17738v1](http://arxiv.org/abs/2306.17738v1)|null|
+|**2023-06-30**|**The Bridge between Xsens Motion-Capture and Robot Operating System (ROS): Enabling Robots with Online 3D Human Motion Tracking**|Mattia Leonori et.al.|[2306.17738v1](http://arxiv.org/abs/2306.17738v1)|[link](https://github.com/hrii-iit/xsens_mvn_ros)|
 |**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703v1](http://arxiv.org/abs/2306.17703v1)|null|
 |**2023-06-30**|**Evidence of free-bound transitions in warm dense matter and their impact on equation-of-state measurements**|Maximilian P. Böhme et.al.|[2306.17653v1](http://arxiv.org/abs/2306.17653v1)|null|
 |**2023-06-30**|**Tidal dissipation due to the elliptical instability and turbulent viscosity in convection zones in rotating giant planets and stars**|Nils B. de Vries et.al.|[2306.17622v1](http://arxiv.org/abs/2306.17622v1)|null|
-|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|null|
+|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|[link](https://github.com/ctu-mrs/coop_uav_dataset)|
 |**2023-06-30**|**Reflected entropy and Markov gap in non-inertial frames**|Jaydeep Kumar Basak et.al.|[2306.17490v1](http://arxiv.org/abs/2306.17490v1)|null|
 |**2023-06-30**|**LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map**|Xingyu Ji et.al.|[2306.17436v1](http://arxiv.org/abs/2306.17436v1)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)|
