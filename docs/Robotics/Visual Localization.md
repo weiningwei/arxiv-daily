@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-05**|**Utility-Aware Load Shedding for Real-time Video Analytics at the Edge**|Enrique Saurez et.al.|[2307.02409v1](http://arxiv.org/abs/2307.02409v1)|null|
+|**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
+|**2023-07-05**|**Astronomical Camera Based on a CCD261-84 Detector with Increased Sensitivity in the Near-Infrared**|Irina Afanasieva et.al.|[2307.02190v1](http://arxiv.org/abs/2307.02190v1)|null|
+|**2023-07-04**|**Instantaneous Wireless Robotic Node Localization Using Collaborative Direction of Arrival**|Ehsan Latif et.al.|[2307.01956v1](http://arxiv.org/abs/2307.01956v1)|null|
+|**2023-07-04**|**Falsification of a Vision-based Automatic Landing System**|Sara Shoouri et.al.|[2307.01925v1](http://arxiv.org/abs/2307.01925v1)|null|
+|**2023-07-04**|**Deep Features for Contactless Fingerprint Presentation Attack Detection: Can They Be Generalized?**|Hailin Li et.al.|[2307.01845v1](http://arxiv.org/abs/2307.01845v1)|null|
+|**2023-07-04**|**Convolutional Transformer for Autonomous Recognition and Grading of Tomatoes Under Various Lighting, Occlusion, and Ripeness Conditions**|Asim Khan et.al.|[2307.01530v1](http://arxiv.org/abs/2307.01530v1)|null|
+|**2023-07-04**|**FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation**|Zhiqi Li et.al.|[2307.01492v1](http://arxiv.org/abs/2307.01492v1)|null|
+|**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447v1](http://arxiv.org/abs/2307.01447v1)|null|
 |**2023-07-03**|**NeuBTF: Neural fields for BTF encoding and transfer**|Carlos Rodriguez-Pardo et.al.|[2307.01199v1](http://arxiv.org/abs/2307.01199v1)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
 |**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047v1](http://arxiv.org/abs/2307.01047v1)|null|
@@ -23,12 +32,3 @@
 |**2023-06-30**|**Radio-optical synergies at high redshift to constrain primordial non-Gaussianity**|Matilde Barberi Squarotti et.al.|[2307.00058v1](http://arxiv.org/abs/2307.00058v1)|null|
 |**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817v1](http://arxiv.org/abs/2306.17817v1)|null|
 |**2023-06-30**|**Accurate 2D Reconstruction for PET Scanners based on the Analytical White Image Model**|Tomislav Matulić et.al.|[2306.17652v1](http://arxiv.org/abs/2306.17652v1)|null|
-|**2023-06-30**|**Achieving RGB-D level Segmentation Performance from a Single ToF Camera**|Pranav Sharma et.al.|[2306.17636v1](http://arxiv.org/abs/2306.17636v1)|null|
-|**2023-06-30**|**Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media**|Daniel S. Jeon et.al.|[2306.17618v1](http://arxiv.org/abs/2306.17618v1)|null|
-|**2023-06-30**|**Unscented Optimal Control for 3D Coverage Planning with an Autonomous UAV Agent**|Savvas Papaioannou et.al.|[2306.17588v1](http://arxiv.org/abs/2306.17588v1)|null|
-|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|null|
-|**2023-06-30**|**Multipass wide-field phase imager**|Álvaro Cuevas et.al.|[2306.17542v1](http://arxiv.org/abs/2306.17542v1)|null|
-|**2023-06-30**|**MARF: The Medial Atom Ray Field Object Representation**|Peder Bergebakken Sundt et.al.|[2307.00037v1](http://arxiv.org/abs/2307.00037v1)|null|
-|**2023-06-30**|**Beyond-Voice: Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices**|Yin Li et.al.|[2306.17477v1](http://arxiv.org/abs/2306.17477v1)|null|
-|**2023-06-30**|**Interferometric speckle visibility spectroscopy (iSVS) for measuring decorrelation time and dynamics of moving samples with enhanced signal-to-noise ratio and relaxed reference requirements**|Yu Xi Huang et.al.|[2306.17419v1](http://arxiv.org/abs/2306.17419v1)|null|
-|**2023-06-29**|**Towards Zero-Shot Scale-Aware Monocular Depth Estimation**|Vitor Guizilini et.al.|[2306.17253v1](http://arxiv.org/abs/2306.17253v1)|null|
