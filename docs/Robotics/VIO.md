@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
+|**2023-07-05**|**Extending a Physics-Informed Machine Learning Network for Superresolution Studies of Rayleigh-Bénard Convection**|Diane M. Salim et.al.|[2307.02674v1](http://arxiv.org/abs/2307.02674v1)|null|
+|**2023-07-05**|**Spin as a probe of axion physics in general relativity**|Yuri N. Obukhov et.al.|[2307.02567v1](http://arxiv.org/abs/2307.02567v1)|null|
 |**2023-07-05**|**A Dataset of Inertial Measurement Units for Handwritten English Alphabets**|Hari Prabhat Gupta et.al.|[2307.02480v1](http://arxiv.org/abs/2307.02480v1)|null|
 |**2023-07-04**|**Non-local dispersion and the reassessment of Richardson's t3-scaling law**|Gerrit E. Elsinga et.al.|[2307.01746v1](http://arxiv.org/abs/2307.01746v1)|null|
 |**2023-07-03**|**Fast convergence of inertial multiobjective gradient-like systems with asymptotic vanishing damping**|Konstantin Sonntag et.al.|[2307.00975v1](http://arxiv.org/abs/2307.00975v1)|null|
@@ -29,6 +32,3 @@
 |**2023-06-22**|**Inertial Navigation Meets Deep Learning: A Survey of Current Trends and Future Directions**|Nadav Cohen et.al.|[2307.00014v1](http://arxiv.org/abs/2307.00014v1)|null|
 |**2023-06-22**|**Capillary-lubrication force exerted on a 2D particle moving towards a fluid interface**|Aditya Jha et.al.|[2307.00013v1](http://arxiv.org/abs/2307.00013v1)|null|
 |**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
-|**2023-06-21**|**Accelerated Griffin-Lim algorithm: A fast and provably converging numerical method for phase retrieval**|Rossen Nenov et.al.|[2306.12504v1](http://arxiv.org/abs/2306.12504v1)|null|
-|**2023-06-21**|**Inertial Balanced Viscosity (IBV) solutions to infinite-dimensional rate-independent systems**|Filippo Riva et.al.|[2306.12248v1](http://arxiv.org/abs/2306.12248v1)|null|
-|**2023-06-21**|**Bending of electric field lines and light-ray trajectories in a static gravitational field**|Ashok K. Singal et.al.|[2306.16423v1](http://arxiv.org/abs/2306.16423v1)|null|

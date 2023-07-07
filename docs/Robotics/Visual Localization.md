@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-06**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177v1](http://arxiv.org/abs/2307.03177v1)|null|
+|**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949v1](http://arxiv.org/abs/2307.02949v1)|null|
+|**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
+|**2023-07-06**|**Single Image LDR to HDR Conversion using Conditional Diffusion**|Dwip Dalal et.al.|[2307.02814v1](http://arxiv.org/abs/2307.02814v1)|null|
+|**2023-07-06**|**Sensor Allocation and Online-Learning-based Path Planning for Maritime Situational Awareness Enhancement: A Multi-Agent Approach**|Bach Long Nguyen et.al.|[2307.02790v1](http://arxiv.org/abs/2307.02790v1)|null|
+|**2023-07-06**|**CityTrack: Improving City-Scale Multi-Camera Multi-Target Tracking by Location-Aware Tracking and Box-Grained Matching**|Jincheng Lu et.al.|[2307.02753v1](http://arxiv.org/abs/2307.02753v1)|null|
+|**2023-07-05**|**GNEP Based Dynamic Segmentation and Motion Estimation for Neuromorphic Imaging**|Harbir Antil et.al.|[2307.02595v1](http://arxiv.org/abs/2307.02595v1)|null|
 |**2023-07-05**|**Utility-Aware Load Shedding for Real-time Video Analytics at the Edge**|Enrique Saurez et.al.|[2307.02409v1](http://arxiv.org/abs/2307.02409v1)|null|
 |**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
 |**2023-07-05**|**Astronomical Camera Based on a CCD261-84 Detector with Increased Sensitivity in the Near-Infrared**|Irina Afanasieva et.al.|[2307.02190v1](http://arxiv.org/abs/2307.02190v1)|null|
@@ -25,10 +32,3 @@
 |**2023-07-01**|**Improving CNN-based Person Re-identification using score Normalization**|Ammar Chouchane et.al.|[2307.00397v2](http://arxiv.org/abs/2307.00397v2)|null|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|[link](https://github.com/boschresearch/symfm6d)|
 |**2023-06-30**|**LensLeech: On-Lens Interaction for Arbitrary Camera Devices**|Christopher Getschmann et.al.|[2307.00152v1](http://arxiv.org/abs/2307.00152v1)|null|
-|**2023-06-30**|**Vision-based Oxy-fuel Torch Control for Robotic Metal Cutting**|James Akl et.al.|[2307.00133v1](http://arxiv.org/abs/2307.00133v1)|null|
-|**2023-06-30**|**An End-to-End Review of Gaze Estimation and its Interactive Applications on Handheld Mobile Devices**|Yaxiong Lei et.al.|[2307.00122v1](http://arxiv.org/abs/2307.00122v1)|null|
-|**2023-06-30**|**Obscured Wildfire Flame Detection By Temporal Analysis of Smoke Patterns Captured by Unmanned Aerial Systems**|Uma Meleti et.al.|[2307.00104v1](http://arxiv.org/abs/2307.00104v1)|null|
-|**2023-06-30**|**Situated Cameras, Situated Knowledges: Towards an Egocentric Epistemology for Computer Vision**|Samuel Goree et.al.|[2307.00064v1](http://arxiv.org/abs/2307.00064v1)|null|
-|**2023-06-30**|**Radio-optical synergies at high redshift to constrain primordial non-Gaussianity**|Matilde Barberi Squarotti et.al.|[2307.00058v1](http://arxiv.org/abs/2307.00058v1)|null|
-|**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817v1](http://arxiv.org/abs/2306.17817v1)|null|
-|**2023-06-30**|**Accurate 2D Reconstruction for PET Scanners based on the Analytical White Image Model**|Tomislav Matulić et.al.|[2306.17652v1](http://arxiv.org/abs/2306.17652v1)|null|
