@@ -12,7 +12,7 @@
 |**2023-07-05**|**Utility-Aware Load Shedding for Real-time Video Analytics at the Edge**|Enrique Saurez et.al.|[2307.02409v1](http://arxiv.org/abs/2307.02409v1)|null|
 |**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
 |**2023-07-05**|**Astronomical Camera Based on a CCD261-84 Detector with Increased Sensitivity in the Near-Infrared**|Irina Afanasieva et.al.|[2307.02190v1](http://arxiv.org/abs/2307.02190v1)|null|
-|**2023-07-04**|**Instantaneous Wireless Robotic Node Localization Using Collaborative Direction of Arrival**|Ehsan Latif et.al.|[2307.01956v1](http://arxiv.org/abs/2307.01956v1)|null|
+|**2023-07-04**|**Instantaneous Wireless Robotic Node Localization Using Collaborative Direction of Arrival**|Ehsan Latif et.al.|[2307.01956v1](http://arxiv.org/abs/2307.01956v1)|[link](https://github.com/herolab-uga/cdoa-localization)|
 |**2023-07-04**|**Falsification of a Vision-based Automatic Landing System**|Sara Shoouri et.al.|[2307.01925v1](http://arxiv.org/abs/2307.01925v1)|null|
 |**2023-07-04**|**Deep Features for Contactless Fingerprint Presentation Attack Detection: Can They Be Generalized?**|Hailin Li et.al.|[2307.01845v1](http://arxiv.org/abs/2307.01845v1)|null|
 |**2023-07-04**|**Convolutional Transformer for Autonomous Recognition and Grading of Tomatoes Under Various Lighting, Occlusion, and Ripeness Conditions**|Asim Khan et.al.|[2307.01530v1](http://arxiv.org/abs/2307.01530v1)|null|
