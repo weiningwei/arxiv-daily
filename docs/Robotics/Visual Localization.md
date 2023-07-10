@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-07-06**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177v1](http://arxiv.org/abs/2307.03177v1)|null|
+|**2023-07-06**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177v2](http://arxiv.org/abs/2307.03177v2)|null|
 |**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949v1](http://arxiv.org/abs/2307.02949v1)|null|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-06**|**Single Image LDR to HDR Conversion using Conditional Diffusion**|Dwip Dalal et.al.|[2307.02814v1](http://arxiv.org/abs/2307.02814v1)|null|
@@ -24,7 +24,7 @@
 |**2023-07-03**|**SynthCal: A Synthetic Benchmarking Pipeline to Compare Camera Calibration Algorithms**|Lala Shakti Swarup Ray et.al.|[2307.01013v1](http://arxiv.org/abs/2307.01013v1)|null|
 |**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821v1](http://arxiv.org/abs/2307.00821v1)|null|
 |**2023-07-03**|**UnLoc: A Universal Localization Method for Autonomous Vehicles using LiDAR, Radar and/or Camera Input**|Muhammad Ibrahim et.al.|[2307.00741v1](http://arxiv.org/abs/2307.00741v1)|null|
-|**2023-07-03**|**LXL: LiDAR Exclusive Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion**|Weiyi Xiong et.al.|[2307.00724v1](http://arxiv.org/abs/2307.00724v1)|null|
+|**2023-07-03**|**LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion**|Weiyi Xiong et.al.|[2307.00724v2](http://arxiv.org/abs/2307.00724v2)|null|
 |**2023-07-02**|**Camera Calibration from a Single Imaged Ellipsoid: A Moon Calibration Algorithm**|Kalani R. Danas Rivera et.al.|[2307.00689v1](http://arxiv.org/abs/2307.00689v1)|null|
 |**2023-07-02**|**The Forward-Forward Algorithm as a feature extractor for skin lesion classification: A preliminary study**|Abel Reyes-Angulo et.al.|[2307.00617v1](http://arxiv.org/abs/2307.00617v1)|null|
 |**2023-07-02**|**RH20T: A Robotic Dataset for Learning Diverse Skills in One-Shot**|Hao-Shu Fang et.al.|[2307.00595v1](http://arxiv.org/abs/2307.00595v1)|null|

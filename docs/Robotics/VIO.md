@@ -7,7 +7,7 @@
 |**2023-07-05**|**Spin as a probe of axion physics in general relativity**|Yuri N. Obukhov et.al.|[2307.02567v1](http://arxiv.org/abs/2307.02567v1)|null|
 |**2023-07-05**|**A Dataset of Inertial Measurement Units for Handwritten English Alphabets**|Hari Prabhat Gupta et.al.|[2307.02480v1](http://arxiv.org/abs/2307.02480v1)|null|
 |**2023-07-04**|**Non-local dispersion and the reassessment of Richardson's t3-scaling law**|Gerrit E. Elsinga et.al.|[2307.01746v1](http://arxiv.org/abs/2307.01746v1)|null|
-|**2023-07-03**|**Fast convergence of inertial multiobjective gradient-like systems with asymptotic vanishing damping**|Konstantin Sonntag et.al.|[2307.00975v1](http://arxiv.org/abs/2307.00975v1)|null|
+|**2023-07-03**|**Fast Convergence of Inertial Multiobjective Gradient-like Systems with Asymptotic Vanishing Damping**|Konstantin Sonntag et.al.|[2307.00975v2](http://arxiv.org/abs/2307.00975v2)|null|
 |**2023-07-02**|**On Embedding B-Splines in Recursive State Estimation**|Kailai Li et.al.|[2307.00637v1](http://arxiv.org/abs/2307.00637v1)|null|
 |**2023-07-01**|**Inertial-like waves in rigidly-rotating odd viscous liquids**|E. Kirkinis et.al.|[2307.00415v1](http://arxiv.org/abs/2307.00415v1)|null|
 |**2023-06-30**|**The Bridge between Xsens Motion-Capture and Robot Operating System (ROS): Enabling Robots with Online 3D Human Motion Tracking**|Mattia Leonori et.al.|[2306.17738v1](http://arxiv.org/abs/2306.17738v1)|[link](https://github.com/hrii-iit/xsens_mvn_ros)|
