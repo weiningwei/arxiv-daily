@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
+|**2023-07-07**|**Applications of the Klein-Gordon equation in the Feshbach-Villars representation in the non-inertial cosmic string space-time**|Abdelmalek Bouzenada et.al.|[2307.03634v1](http://arxiv.org/abs/2307.03634v1)|null|
 |**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
 |**2023-07-05**|**Extending a Physics-Informed Machine Learning Network for Superresolution Studies of Rayleigh-Bénard Convection**|Diane M. Salim et.al.|[2307.02674v1](http://arxiv.org/abs/2307.02674v1)|null|
 |**2023-07-05**|**Spin as a probe of axion physics in general relativity**|Yuri N. Obukhov et.al.|[2307.02567v1](http://arxiv.org/abs/2307.02567v1)|null|
@@ -30,5 +32,3 @@
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|[link](https://github.com/chichengcn/gici-open)|
 |**2023-06-23**|**Coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2306.13267v1](http://arxiv.org/abs/2306.13267v1)|null|
 |**2023-06-22**|**Inertial Navigation Meets Deep Learning: A Survey of Current Trends and Future Directions**|Nadav Cohen et.al.|[2307.00014v1](http://arxiv.org/abs/2307.00014v1)|null|
-|**2023-06-22**|**Capillary-lubrication force exerted on a 2D particle moving towards a fluid interface**|Aditya Jha et.al.|[2307.00013v1](http://arxiv.org/abs/2307.00013v1)|null|
-|**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|

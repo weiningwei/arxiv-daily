@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-07**|**Polybot: Training One Policy Across Robots While Embracing Variability**|Jonathan Yang et.al.|[2307.03719v1](http://arxiv.org/abs/2307.03719v1)|null|
+|**2023-07-07**|**Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation**|Annie Xie et.al.|[2307.03659v1](http://arxiv.org/abs/2307.03659v1)|null|
+|**2023-07-07**|**Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion**|Kaiwen Cai et.al.|[2307.03623v1](http://arxiv.org/abs/2307.03623v1)|null|
+|**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
+|**2023-07-07**|**RCDN -- Robust X-Corner Detection Algorithm based on Advanced CNN Model**|Ben Chen et.al.|[2307.03505v1](http://arxiv.org/abs/2307.03505v1)|null|
+|**2023-07-07**|**Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery**|Wenmiao Hu et.al.|[2307.03398v1](http://arxiv.org/abs/2307.03398v1)|null|
 |**2023-07-06**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177v2](http://arxiv.org/abs/2307.03177v2)|null|
 |**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949v1](http://arxiv.org/abs/2307.02949v1)|null|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
@@ -26,9 +32,3 @@
 |**2023-07-03**|**UnLoc: A Universal Localization Method for Autonomous Vehicles using LiDAR, Radar and/or Camera Input**|Muhammad Ibrahim et.al.|[2307.00741v1](http://arxiv.org/abs/2307.00741v1)|null|
 |**2023-07-03**|**LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion**|Weiyi Xiong et.al.|[2307.00724v2](http://arxiv.org/abs/2307.00724v2)|null|
 |**2023-07-02**|**Camera Calibration from a Single Imaged Ellipsoid: A Moon Calibration Algorithm**|Kalani R. Danas Rivera et.al.|[2307.00689v1](http://arxiv.org/abs/2307.00689v1)|null|
-|**2023-07-02**|**The Forward-Forward Algorithm as a feature extractor for skin lesion classification: A preliminary study**|Abel Reyes-Angulo et.al.|[2307.00617v1](http://arxiv.org/abs/2307.00617v1)|null|
-|**2023-07-02**|**RH20T: A Robotic Dataset for Learning Diverse Skills in One-Shot**|Hao-Shu Fang et.al.|[2307.00595v1](http://arxiv.org/abs/2307.00595v1)|null|
-|**2023-07-02**|**A MIL Approach for Anomaly Detection in Surveillance Videos from Multiple Camera Views**|Silas Santiago Lopes Pereira et.al.|[2307.00562v1](http://arxiv.org/abs/2307.00562v1)|[link](https://github.com/santiagosilas/mc-vad-dataset-basedon-pets2009)|
-|**2023-07-01**|**Improving CNN-based Person Re-identification using score Normalization**|Ammar Chouchane et.al.|[2307.00397v2](http://arxiv.org/abs/2307.00397v2)|null|
-|**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|[link](https://github.com/boschresearch/symfm6d)|
-|**2023-06-30**|**LensLeech: On-Lens Interaction for Arbitrary Camera Devices**|Christopher Getschmann et.al.|[2307.00152v1](http://arxiv.org/abs/2307.00152v1)|[link](https://github.com/volzotan/lensleech)|
