@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-10**|**Coexistence of self-similar and anomalous scalings in turbulent small-scale solar magnetic fields**|Gorobets Andrei Y. et.al.|[2307.04703v1](http://arxiv.org/abs/2307.04703v1)|null|
+|**2023-07-10**|**Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication**|Adam Dai et.al.|[2307.04692v1](http://arxiv.org/abs/2307.04692v1)|null|
+|**2023-07-10**|**An Examination of Wearable Sensors and Video Data Capture for Human Exercise Classification**|Ashish Singh et.al.|[2307.04516v1](http://arxiv.org/abs/2307.04516v1)|null|
+|**2023-07-09**|**On IMU preintegration: A nonlinear observer viewpoint and its application**|Bowen Yi et.al.|[2307.04165v1](http://arxiv.org/abs/2307.04165v1)|null|
+|**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|null|
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
 |**2023-07-07**|**Applications of the Klein-Gordon equation in the Feshbach-Villars representation in the non-inertial cosmic string space-time**|Abdelmalek Bouzenada et.al.|[2307.03634v1](http://arxiv.org/abs/2307.03634v1)|null|
 |**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
@@ -27,8 +32,3 @@
 |**2023-06-27**|**The effects of wing inertial forces and mean stroke angle on the pitch stability of hovering insects**|Sevak Tahmasian et.al.|[2306.15592v1](http://arxiv.org/abs/2306.15592v1)|null|
 |**2023-06-27**|**Taylor columns and inertial-like waves in a three-dimensional odd viscous liquid**|E. Kirkinis et.al.|[2306.15536v1](http://arxiv.org/abs/2306.15536v1)|null|
 |**2023-06-26**|**Towards Operating Wind Turbine Inspections using a LiDAR-equipped UAV**|Toma Sikora et.al.|[2306.14637v1](http://arxiv.org/abs/2306.14637v1)|null|
-|**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|[link](https://github.com/robot-pesg/botanicgarden)|
-|**2023-06-23**|**Contribution of fictitious forces to polarization drag in rotating media**|Julien Langlois et.al.|[2306.13485v1](http://arxiv.org/abs/2306.13485v1)|null|
-|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|[link](https://github.com/chichengcn/gici-open)|
-|**2023-06-23**|**Coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2306.13267v1](http://arxiv.org/abs/2306.13267v1)|null|
-|**2023-06-22**|**Inertial Navigation Meets Deep Learning: A Survey of Current Trends and Future Directions**|Nadav Cohen et.al.|[2307.00014v1](http://arxiv.org/abs/2307.00014v1)|null|
