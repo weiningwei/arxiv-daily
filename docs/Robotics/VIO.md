@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-12**|**Air Bumper: A Collision Detection and Reaction Framework for Autonomous MAV Navigation**|Ruoyu Wang et.al.|[2307.06101v1](http://arxiv.org/abs/2307.06101v1)|null|
+|**2023-07-12**|**Transition of AC electroosmotic flow from linear to nonlinear state**|Yu Han et.al.|[2307.05903v1](http://arxiv.org/abs/2307.05903v1)|null|
+|**2023-07-11**|**A Vacuum-Compatible Cylindrical Inertial Rotation Sensor with Picoradian Sensitivity**|M. P. Ross et.al.|[2307.05710v1](http://arxiv.org/abs/2307.05710v1)|null|
 |**2023-07-11**|**The merger of co-rotating vortices in dusty flows**|Shuai Shuai et.al.|[2307.05413v1](http://arxiv.org/abs/2307.05413v1)|null|
 |**2023-07-11**|**Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety**|Sushil Sharma et.al.|[2307.05288v2](http://arxiv.org/abs/2307.05288v2)|[link](https://github.com/sharmasushil/navigating-uncertainty-trajectory-prediction)|
 |**2023-07-11**|**A stochastic two-step inertial Bregman proximal alternating linearized minimization algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2307.05287v1](http://arxiv.org/abs/2307.05287v1)|null|
@@ -29,6 +32,3 @@
 |**2023-06-30**|**Evidence of free-bound transitions in warm dense matter and their impact on equation-of-state measurements**|Maximilian P. Böhme et.al.|[2306.17653v1](http://arxiv.org/abs/2306.17653v1)|null|
 |**2023-06-30**|**Tidal dissipation due to the elliptical instability and turbulent viscosity in convection zones in rotating giant planets and stars**|Nils B. de Vries et.al.|[2306.17622v1](http://arxiv.org/abs/2306.17622v1)|null|
 |**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|[link](https://github.com/ctu-mrs/coop_uav_dataset)|
-|**2023-06-30**|**Reflected entropy and Markov gap in non-inertial frames**|Jaydeep Kumar Basak et.al.|[2306.17490v1](http://arxiv.org/abs/2306.17490v1)|null|
-|**2023-06-30**|**LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map**|Xingyu Ji et.al.|[2306.17436v1](http://arxiv.org/abs/2306.17436v1)|null|
-|**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)|
