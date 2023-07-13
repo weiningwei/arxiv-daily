@@ -13,7 +13,7 @@
 |**2023-07-10**|**Combining DVL-INS and Laser-Based Loop Closures in a Batch Estimation Framework for Underwater Positioning**|Amro Al-Baali et.al.|[2307.04885v1](http://arxiv.org/abs/2307.04885v1)|null|
 |**2023-07-10**|**Saturation and multifractality of Lagrangian and Eulerian scaling exponents in 3D turbulence**|Dhawal Buaria et.al.|[2307.04846v1](http://arxiv.org/abs/2307.04846v1)|null|
 |**2023-07-10**|**Coexistence of self-similar and anomalous scalings in turbulent small-scale solar magnetic fields**|Gorobets Andrei Y. et.al.|[2307.04703v1](http://arxiv.org/abs/2307.04703v1)|null|
-|**2023-07-10**|**Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication**|Adam Dai et.al.|[2307.04692v1](http://arxiv.org/abs/2307.04692v1)|null|
+|**2023-07-10**|**Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication**|Adam Dai et.al.|[2307.04692v1](http://arxiv.org/abs/2307.04692v1)|[link](https://github.com/stanford-navlab/chimera_fgo)|
 |**2023-07-10**|**An Examination of Wearable Sensors and Video Data Capture for Human Exercise Classification**|Ashish Singh et.al.|[2307.04516v1](http://arxiv.org/abs/2307.04516v1)|null|
 |**2023-07-09**|**On IMU preintegration: A nonlinear observer viewpoint and its application**|Bowen Yi et.al.|[2307.04165v1](http://arxiv.org/abs/2307.04165v1)|null|
 |**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|null|
