@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13**|**Self-Supervised Learning for Interactive Perception of Surgical Thread for Autonomous Suture Tail-Shortening**|Vincent Schorp et.al.|[2307.06845v1](http://arxiv.org/abs/2307.06845v1)|null|
+|**2023-07-13**|**Spatio-Temporal Calibration for Omni-Directional Vehicle-Mounted**|Xiao Li et.al.|[2307.06810v1](http://arxiv.org/abs/2307.06810v1)|null|
+|**2023-07-13**|**Robotic surface exploration with vision and tactile sensing for cracks detection and characterisation**|Francesca Palermo et.al.|[2307.06784v1](http://arxiv.org/abs/2307.06784v1)|null|
+|**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|null|
+|**2023-07-13**|**Domain-adaptive Person Re-identification without Cross-camera Paired Samples**|Huafeng Li et.al.|[2307.06533v1](http://arxiv.org/abs/2307.06533v1)|null|
+|**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|null|
+|**2023-07-12**|**The miniJPAS survey: clusters and galaxy groups detection with AMICO**|M. Maturi et.al.|[2307.06412v1](http://arxiv.org/abs/2307.06412v1)|null|
 |**2023-07-12**|**Correlation-Aware Mutual Learning for Semi-supervised Medical Image Segmentation**|Shengbo Gao et.al.|[2307.06312v1](http://arxiv.org/abs/2307.06312v1)|[link](https://github.com/herschel555/caml)|
 |**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307v1](http://arxiv.org/abs/2307.06307v1)|null|
 |**2023-07-12**|**UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis**|Pham Vu Hung et.al.|[2307.06260v1](http://arxiv.org/abs/2307.06260v1)|null|
@@ -25,10 +32,3 @@
 |**2023-07-10**|**Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication**|Adam Dai et.al.|[2307.04692v1](http://arxiv.org/abs/2307.04692v1)|[link](https://github.com/stanford-navlab/chimera_fgo)|
 |**2023-07-10**|**AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System**|Yuzhe Qin et.al.|[2307.04577v1](http://arxiv.org/abs/2307.04577v1)|null|
 |**2023-07-10**|**An Examination of Wearable Sensors and Video Data Capture for Human Exercise Classification**|Ashish Singh et.al.|[2307.04516v1](http://arxiv.org/abs/2307.04516v1)|null|
-|**2023-07-09**|**Characterization of a novel proton-CT scanner based on Silicon and LaBr$_3$(Ce) detectors**|E. Nácher et.al.|[2307.04273v1](http://arxiv.org/abs/2307.04273v1)|null|
-|**2023-07-09**|**RidgeBase: A Cross-Sensor Multi-Finger Contactless Fingerprint Dataset**|Bhavin Jawade et.al.|[2307.05563v1](http://arxiv.org/abs/2307.05563v1)|[link](https://github.com/bhavinjawade/fingerprintcameraapp)|
-|**2023-07-09**|**Real-time Human Detection in Fire Scenarios using Infrared and Thermal Imaging Fusion**|Truong-Dong Do et.al.|[2307.04223v1](http://arxiv.org/abs/2307.04223v1)|null|
-|**2023-07-09**|**Enhancing Low-Light Images Using Infrared-Encoded Images**|Shulin Tian et.al.|[2307.04122v1](http://arxiv.org/abs/2307.04122v1)|null|
-|**2023-07-09**|**CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation**|Jun Cen et.al.|[2307.04091v1](http://arxiv.org/abs/2307.04091v1)|null|
-|**2023-07-08**|**Adversarial Self-Attack Defense and Spatial-Temporal Relation Mining for Visible-Infrared Video Person Re-Identification**|Huafeng Li et.al.|[2307.03903v1](http://arxiv.org/abs/2307.03903v1)|null|
-|**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|null|
