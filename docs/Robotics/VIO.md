@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-14**|**Phase-field simulations for dripping-to-jetting transitions: Effects of low interfacial tension and bulk diffusion**|Fukeng Huang et.al.|[2307.07139v1](http://arxiv.org/abs/2307.07139v1)|null|
 |**2023-07-13**|**Sensing directional forces in levitated optomechanics**|J. M. H. Gosling et.al.|[2307.06765v1](http://arxiv.org/abs/2307.06765v1)|null|
 |**2023-07-13**|**FF-LINS: A Consistent Frame-to-Frame Solid-State-LiDAR-Inertial State Estimator**|Hailiang Tang et.al.|[2307.06632v1](http://arxiv.org/abs/2307.06632v1)|[link](https://github.com/i2nav-whu/ff-lins)|
 |**2023-07-13**|**Kolmogorov's refined similarity hypothesis: consequences from an exact two-point equation for isotropic turbulence**|H. Yao et.al.|[2307.06546v1](http://arxiv.org/abs/2307.06546v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-03**|**Fast Convergence of Inertial Multiobjective Gradient-like Systems with Asymptotic Vanishing Damping**|Konstantin Sonntag et.al.|[2307.00975v2](http://arxiv.org/abs/2307.00975v2)|null|
 |**2023-07-02**|**On Embedding B-Splines in Recursive State Estimation**|Kailai Li et.al.|[2307.00637v1](http://arxiv.org/abs/2307.00637v1)|null|
 |**2023-07-01**|**Inertial-like waves in rigidly-rotating odd viscous liquids**|E. Kirkinis et.al.|[2307.00415v1](http://arxiv.org/abs/2307.00415v1)|null|
-|**2023-06-30**|**The Bridge between Xsens Motion-Capture and Robot Operating System (ROS): Enabling Robots with Online 3D Human Motion Tracking**|Mattia Leonori et.al.|[2306.17738v1](http://arxiv.org/abs/2306.17738v1)|[link](https://github.com/hrii-iit/xsens_mvn_ros)|
