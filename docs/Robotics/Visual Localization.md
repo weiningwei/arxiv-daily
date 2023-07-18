@@ -14,7 +14,7 @@
 |**2023-07-13**|**Spatio-Temporal Calibration for Omni-Directional Vehicle-Mounted**|Xiao Li et.al.|[2307.06810v1](http://arxiv.org/abs/2307.06810v1)|[link](https://github.com/esheroe/evcalib)|
 |**2023-07-13**|**Robotic surface exploration with vision and tactile sensing for cracks detection and characterisation**|Francesca Palermo et.al.|[2307.06784v1](http://arxiv.org/abs/2307.06784v1)|null|
 |**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|[link](https://github.com/MiraPurkrabek/RePoGen)|
-|**2023-07-13**|**Domain-adaptive Person Re-identification without Cross-camera Paired Samples**|Huafeng Li et.al.|[2307.06533v1](http://arxiv.org/abs/2307.06533v1)|null|
+|**2023-07-13**|**Domain-adaptive Person Re-identification without Cross-camera Paired Samples**|Huafeng Li et.al.|[2307.06533v2](http://arxiv.org/abs/2307.06533v2)|null|
 |**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|[link](https://github.com/waterscenes/waterscenes)|
 |**2023-07-12**|**The miniJPAS survey: clusters and galaxy groups detection with AMICO**|M. Maturi et.al.|[2307.06412v1](http://arxiv.org/abs/2307.06412v1)|null|
 |**2023-07-12**|**Correlation-Aware Mutual Learning for Semi-supervised Medical Image Segmentation**|Shengbo Gao et.al.|[2307.06312v1](http://arxiv.org/abs/2307.06312v1)|[link](https://github.com/herschel555/caml)|

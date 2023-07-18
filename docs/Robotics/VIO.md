@@ -9,7 +9,7 @@
 |**2023-07-12**|**Dynamics of solar large-scale flows**|Hideyuki Hotta et.al.|[2307.06481v1](http://arxiv.org/abs/2307.06481v1)|null|
 |**2023-07-12**|**Air Bumper: A Collision Detection and Reaction Framework for Autonomous MAV Navigation**|Ruoyu Wang et.al.|[2307.06101v1](http://arxiv.org/abs/2307.06101v1)|null|
 |**2023-07-12**|**Transition of AC electroosmotic flow from linear to nonlinear state in different pH environment**|Yu Han et.al.|[2307.05903v2](http://arxiv.org/abs/2307.05903v2)|null|
-|**2023-07-11**|**A Vacuum-Compatible Cylindrical Inertial Rotation Sensor with Picoradian Sensitivity**|M. P. Ross et.al.|[2307.05710v1](http://arxiv.org/abs/2307.05710v1)|[link](https://github.com/mpross/crs-analysis)|
+|**2023-07-11**|**A Vacuum-Compatible Cylindrical Inertial Rotation Sensor with Picoradian Sensitivity**|M. P. Ross et.al.|[2307.05710v2](http://arxiv.org/abs/2307.05710v2)|[link](https://github.com/mpross/crs-analysis)|
 |**2023-07-11**|**The merger of co-rotating vortices in dusty flows**|Shuai Shuai et.al.|[2307.05413v1](http://arxiv.org/abs/2307.05413v1)|null|
 |**2023-07-11**|**Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety**|Sushil Sharma et.al.|[2307.05288v2](http://arxiv.org/abs/2307.05288v2)|[link](https://github.com/sharmasushil/navigating-uncertainty-trajectory-prediction)|
 |**2023-07-11**|**A stochastic two-step inertial Bregman proximal alternating linearized minimization algorithm for nonconvex and nonsmooth problems**|Chenzheng Guo et.al.|[2307.05287v1](http://arxiv.org/abs/2307.05287v1)|null|
