@@ -2,8 +2,12 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|[link](https://github.com/SlamCabbage/NDTMC)|
+|**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
+|**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao et.al.|[2307.07607v1](http://arxiv.org/abs/2307.07607v1)|null|
 |**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296v1](http://arxiv.org/abs/2307.07296v1)|null|
-|**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|null|
+|**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|[link](https://github.com/sjtuyinjie/ground-challenge)|
 |**2023-07-06**|**Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**|Andrew D. McRae et.al.|[2307.02941v1](http://arxiv.org/abs/2307.02941v1)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
 |**2023-07-02**|**POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**|Jingxing Qian et.al.|[2307.00488v1](http://arxiv.org/abs/2307.00488v1)|null|
@@ -28,7 +32,3 @@
 |**2023-06-06**|**Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping**|Manon Kok et.al.|[2306.03953v1](http://arxiv.org/abs/2306.03953v1)|null|
 |**2023-06-06**|**PQM: A Point Quality Evaluation Metric for Dense Maps**|Yash Turkar et.al.|[2306.03660v1](http://arxiv.org/abs/2306.03660v1)|null|
 |**2023-06-04**|**NICE-SLAM with Adaptive Feature Grids**|Ganlin Zhang et.al.|[2306.02395v2](http://arxiv.org/abs/2306.02395v2)|[link](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)|
-|**2023-06-02**|**DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**|Abanob Soliman et.al.|[2306.01891v1](http://arxiv.org/abs/2306.01891v1)|null|
-|**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v2](http://arxiv.org/abs/2306.01173v2)|null|
-|**2023-06-01**|**FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**|Tongyan Hua et.al.|[2306.00579v1](http://arxiv.org/abs/2306.00579v1)|null|
-|**2023-05-31**|**On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**|Romain Hascoët et.al.|[2305.19899v1](http://arxiv.org/abs/2305.19899v1)|null|

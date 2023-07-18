@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-15**|**Radar Odometry for Autonomous Ground Vehicles: A Survey of Methods and Datasets**|Nader J. Abu-Alrub et.al.|[2307.07861v1](http://arxiv.org/abs/2307.07861v1)|null|
+|**2023-07-15**|**Semi-Elastic LiDAR-Inertial Odometry**|Zikang Yuan et.al.|[2307.07792v1](http://arxiv.org/abs/2307.07792v1)|[link](https://github.com/ZikangYuan/semi_elastic_lio)|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
 |**2023-07-11**|**Navigating Uncertainty: The Role of Short-Term Trajectory Prediction in Autonomous Vehicle Safety**|Sushil Sharma et.al.|[2307.05288v2](http://arxiv.org/abs/2307.05288v2)|[link](https://github.com/sharmasushil/navigating-uncertainty-trajectory-prediction)|
 |**2023-07-10**|**Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication**|Adam Dai et.al.|[2307.04692v1](http://arxiv.org/abs/2307.04692v1)|[link](https://github.com/stanford-navlab/chimera_fgo)|
 |**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703v1](http://arxiv.org/abs/2306.17703v1)|null|
@@ -29,6 +32,3 @@
 |**2023-05-15**|**CMSG Cross-Media Semantic-Graph Feature Matching Algorithm for Autonomous Vehicle Relocalization**|Shuhang Tan et.al.|[2305.08318v1](http://arxiv.org/abs/2305.08318v1)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|[link](https://github.com/aofrancani/tsformer-vo)|
 |**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|[link](https://github.com/hui-design/hd2reg)|
-|**2023-05-04**|**Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow**|Minh-Quan Dao et.al.|[2305.02909v1](http://arxiv.org/abs/2305.02909v1)|[link](https://github.com/quan-dao/pc-corrector)|
-|**2023-05-03**|**A Multi-step Dynamics Modeling Framework For Autonomous Driving In Multiple Environments**|Jason Gibson et.al.|[2305.02241v1](http://arxiv.org/abs/2305.02241v1)|null|
-|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
