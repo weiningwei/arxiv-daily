@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-17**|**Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**|Daniel Engelsman et.al.|[2307.08571v2](http://arxiv.org/abs/2307.08571v2)|null|
 |**2023-07-16**|**Cosmological constraints in covariant $f(Q)$ gravity with different connections**|Jiaming Shi et.al.|[2307.08103v1](http://arxiv.org/abs/2307.08103v1)|null|
 |**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
 |**2023-07-07**|**Applications of the Klein-Gordon equation in the Feshbach-Villars representation in the non-inertial cosmic string space-time**|Abdelmalek Bouzenada et.al.|[2307.03634v1](http://arxiv.org/abs/2307.03634v1)|null|
 |**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
-|**2023-07-05**|**Extending a Physics-Informed Machine Learning Network for Superresolution Studies of Rayleigh-Bénard Convection**|Diane M. Salim et.al.|[2307.02674v1](http://arxiv.org/abs/2307.02674v1)|null|

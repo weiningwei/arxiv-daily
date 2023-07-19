@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18**|**Experimental Security Analysis of DNN-based Adaptive Cruise Control under Context-Aware Perception Attacks**|Xugui Zhou et.al.|[2307.08939v1](http://arxiv.org/abs/2307.08939v1)|null|
+|**2023-07-17**|**LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving**|Sambit Mohapatra et.al.|[2307.08850v1](http://arxiv.org/abs/2307.08850v1)|null|
+|**2023-07-17**|**Euclid Preparation TBD. Characterization of convolutional neural networks for the identification of galaxy-galaxy strong lensing events**|Euclid Collaboration et.al.|[2307.08736v1](http://arxiv.org/abs/2307.08736v1)|null|
 |**2023-07-17**|**Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D**|Aalok Gangopadhyay et.al.|[2307.08652v2](http://arxiv.org/abs/2307.08652v2)|null|
 |**2023-07-17**|**Improving Data Efficiency for Plant Cover Prediction with Label Interpolation and Monte-Carlo Cropping**|Matthias Körschens et.al.|[2307.08559v1](http://arxiv.org/abs/2307.08559v1)|null|
 |**2023-07-17**|**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**|Zhe Zhu et.al.|[2307.08492v1](http://arxiv.org/abs/2307.08492v1)|[link](https://github.com/czvvd/svdformer)|
@@ -20,15 +23,12 @@
 |**2023-07-16**|**Metasurface for programmable quantum algorithms with quantum and classical light**|Randy Stefan Tanuwijaya et.al.|[2307.07985v1](http://arxiv.org/abs/2307.07985v1)|null|
 |**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977v1](http://arxiv.org/abs/2307.07977v1)|[link](https://github.com/liujf69/ipp-net-parsing)|
 |**2023-07-16**|**Panoramic Voltage-Sensitive Optical Mapping of Contracting Hearts using Cooperative Multi-View Motion Tracking with 12 to 24 Cameras**|Shrey Chowdhary et.al.|[2307.07943v1](http://arxiv.org/abs/2307.07943v1)|null|
+|**2023-07-16**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916v2](http://arxiv.org/abs/2307.07916v2)|null|
 |**2023-07-15**|**Handwritten and Printed Text Segmentation: A Signature Case Study**|Sina Gholamian et.al.|[2307.07887v1](http://arxiv.org/abs/2307.07887v1)|null|
 |**2023-07-15**|**Ultra-Fast and Ultra-Low-Power In-Sensor Edge Vision for Gaze Estimation**|Pietro Bonazzi et.al.|[2307.07813v2](http://arxiv.org/abs/2307.07813v2)|null|
 |**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao et.al.|[2307.07607v1](http://arxiv.org/abs/2307.07607v1)|null|
 |**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|[link](https://github.com/Necolizer/ISTA-Net)|
 |**2023-07-14**|**L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**|Yasar Abbas Ur Rehman et.al.|[2307.07393v1](http://arxiv.org/abs/2307.07393v1)|null|
+|**2023-07-14**|**Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach**|Tianlin Zhang et.al.|[2307.08838v1](http://arxiv.org/abs/2307.08838v1)|null|
 |**2023-07-14**|**LightFormer: An End-to-End Model for Intersection Right-of-Way Recognition Using Traffic Light Signals and an Attention Mechanism**|Zhenxing Ming et.al.|[2307.07196v1](http://arxiv.org/abs/2307.07196v1)|[link](https://github.com/danielming123/lightformer)|
 |**2023-07-14**|**Linking vision and motion for self-supervised object-centric perception**|Kaylene C. Stocking et.al.|[2307.07147v1](http://arxiv.org/abs/2307.07147v1)|[link](https://github.com/wayveai/socs)|
-|**2023-07-14**|**Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2307.07102v1](http://arxiv.org/abs/2307.07102v1)|[link](https://github.com/GuanRunwei/Achelous)|
-|**2023-07-13**|**Adaptive Coding and Modulation Aided Mobile Relaying for Millimeter-Wave Flying Ad-Hoc Networks**|Jiankang Zhang et.al.|[2307.07075v1](http://arxiv.org/abs/2307.07075v1)|null|
-|**2023-07-13**|**Leveraging Factored Action Spaces for Off-Policy Evaluation**|Aaman Rebello et.al.|[2307.07014v1](http://arxiv.org/abs/2307.07014v1)|[link](https://github.com/ai4ai-lab/factored-action-spaces-for-ope)|
-|**2023-07-13**|**Size - Stellar Mass Relation and Morphology of Quiescent Galaxies at $z\geq3$ in Public $JWST$ Fields**|Kei Ito et.al.|[2307.06994v1](http://arxiv.org/abs/2307.06994v1)|null|
-|**2023-07-13**|**Self-Supervised Learning for Interactive Perception of Surgical Thread for Autonomous Suture Tail-Shortening**|Vincent Schorp et.al.|[2307.06845v1](http://arxiv.org/abs/2307.06845v1)|null|
