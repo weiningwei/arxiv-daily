@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-07-17**|**Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**|Daniel Engelsman et.al.|[2307.08571v1](http://arxiv.org/abs/2307.08571v1)|null|
+|**2023-07-17**|**Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**|Daniel Engelsman et.al.|[2307.08571v2](http://arxiv.org/abs/2307.08571v2)|null|
 |**2023-07-16**|**Cosmological constraints in covariant $f(Q)$ gravity with different connections**|Jiaming Shi et.al.|[2307.08103v1](http://arxiv.org/abs/2307.08103v1)|null|
 |**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
 |**2023-07-15**|**Radar Odometry for Autonomous Ground Vehicles: A Survey of Methods and Datasets**|Nader J. Abu-Alrub et.al.|[2307.07861v1](http://arxiv.org/abs/2307.07861v1)|null|
