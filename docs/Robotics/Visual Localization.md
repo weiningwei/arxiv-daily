@@ -10,7 +10,7 @@
 |**2023-07-19**|**Learning from Abstract Images: on the Importance of Occlusion in a Minimalist Encoding of Human Poses**|Saad Manzur et.al.|[2307.09893v1](http://arxiv.org/abs/2307.09893v1)|null|
 |**2023-07-19**|**Flexible single multimode fiber imaging using white LED**|Minyu Fan et.al.|[2307.09714v1](http://arxiv.org/abs/2307.09714v1)|null|
 |**2023-07-18**|**The Panchromatic Hubble Andromeda Treasury XXI. The Legacy Resolved Stellar Photometry Catalog**|Benjamin F. Williams et.al.|[2307.09681v1](http://arxiv.org/abs/2307.09681v1)|null|
-|**2023-07-18**|**CEERS Key Paper VII: Emission Line Ratios from NIRSpec and NIRCam Wide-Field Slitless Spectroscopy at z>2**|Bren E. Backhaus et.al.|[2307.09503v1](http://arxiv.org/abs/2307.09503v1)|null|
+|**2023-07-18**|**CEERS Key Paper VII: Emission Line Ratios from NIRSpec and NIRCam Wide-Field Slitless Spectroscopy at z>2**|Bren E. Backhaus et.al.|[2307.09503v2](http://arxiv.org/abs/2307.09503v2)|null|
 |**2023-07-18**|**Experimental Security Analysis of DNN-based Adaptive Cruise Control under Context-Aware Perception Attacks**|Xugui Zhou et.al.|[2307.08939v1](http://arxiv.org/abs/2307.08939v1)|null|
 |**2023-07-17**|**LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving**|Sambit Mohapatra et.al.|[2307.08850v1](http://arxiv.org/abs/2307.08850v1)|null|
 |**2023-07-17**|**Euclid Preparation TBD. Characterization of convolutional neural networks for the identification of galaxy-galaxy strong lensing events**|Euclid Collaboration et.al.|[2307.08736v1](http://arxiv.org/abs/2307.08736v1)|null|
@@ -28,7 +28,7 @@
 |**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228v1](http://arxiv.org/abs/2307.08228v1)|null|
 |**2023-07-16**|**Seven-probe scintillator dosimeter for treatment verification in HDR-brachytherapy**|Mathieu Gonod et.al.|[2307.08144v1](http://arxiv.org/abs/2307.08144v1)|null|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|[link](https://github.com/yifyang993/cr-nerf-pytorch)|
-|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v2](http://arxiv.org/abs/2307.08015v2)|null|
+|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v3](http://arxiv.org/abs/2307.08015v3)|null|
 |**2023-07-16**|**Metasurface for programmable quantum algorithms with quantum and classical light**|Randy Stefan Tanuwijaya et.al.|[2307.07985v1](http://arxiv.org/abs/2307.07985v1)|null|
 |**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977v1](http://arxiv.org/abs/2307.07977v1)|[link](https://github.com/liujf69/ipp-net-parsing)|
 |**2023-07-16**|**Panoramic Voltage-Sensitive Optical Mapping of Contracting Hearts using Cooperative Multi-View Motion Tracking with 12 to 24 Cameras**|Shrey Chowdhary et.al.|[2307.07943v1](http://arxiv.org/abs/2307.07943v1)|null|
