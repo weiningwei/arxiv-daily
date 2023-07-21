@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058v1](http://arxiv.org/abs/2307.11058v1)|null|
+|**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|[link](https://github.com/yvanyin/metric3d)|
+|**2023-07-20**|**OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios**|Aditya Nalgunda Ganesh et.al.|[2307.10934v1](http://arxiv.org/abs/2307.10934v1)|null|
+|**2023-07-20**|**SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar**|Jianan Liu et.al.|[2307.10784v1](http://arxiv.org/abs/2307.10784v1)|null|
+|**2023-07-20**|**Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV**|Jaime Spencer et.al.|[2307.10713v1](http://arxiv.org/abs/2307.10713v1)|[link](https://github.com/jspenmar/slowtv_monodepth)|
+|**2023-07-20**|**SqueezerFaceNet: Reducing a Small Face Recognition CNN Even More Via Filter Pruning**|Fernando Alonso-Fernandez et.al.|[2307.10697v1](http://arxiv.org/abs/2307.10697v1)|null|
+|**2023-07-20**|**Depth from Defocus Technique: A Simple Calibration-Free Approach for Dispersion Size Measurement**|Saini Jatin Rao et.al.|[2307.10678v1](http://arxiv.org/abs/2307.10678v1)|null|
+|**2023-07-20**|**Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors**|Haechang Lee et.al.|[2307.10667v1](http://arxiv.org/abs/2307.10667v1)|null|
+|**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664v1](http://arxiv.org/abs/2307.10664v1)|[link](https://github.com/onpix/LLNeRF)|
+|**2023-07-20**|**Parallelization of a new embedded application for automatic meteor detection**|Mathuran Kandeepan et.al.|[2307.10632v1](http://arxiv.org/abs/2307.10632v1)|null|
+|**2023-07-20**|**Learning Discriminative Visual-Text Representation for Polyp Re-Identification**|Suncheng Xiang et.al.|[2307.10625v1](http://arxiv.org/abs/2307.10625v1)|[link](https://github.com/jeremyxsc/vt-reid)|
+|**2023-07-20**|**GPRL: Gaussian Processes-Based Relative Localization for Multi-Robot Systems**|Ehsan Latif et.al.|[2307.10614v1](http://arxiv.org/abs/2307.10614v1)|null|
+|**2023-07-20**|**Event Blob Tracking: An Asynchronous Real-Time Algorithm**|Ziwei Wang et.al.|[2307.10593v1](http://arxiv.org/abs/2307.10593v1)|[link](https://github.com/ziweiwwang/event-blob-tracking)|
+|**2023-07-20**|**Analysis of the rSVDdpd Algorithm: A Robust Singular Value Decomposition Method using Density Power Divergence**|Subhrajyoty Roy et.al.|[2307.10591v1](http://arxiv.org/abs/2307.10591v1)|null|
+|**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519v1](http://arxiv.org/abs/2307.10519v1)|null|
+|**2023-07-19**|**3D track reconstruction of low-energy electrons in the MIGDAL low pressure optical time projection chamber**|Elizabeth Tilly et.al.|[2307.10477v1](http://arxiv.org/abs/2307.10477v1)|null|
+|**2023-07-19**|**Classification of Visualization Types and Perspectives in Patents**|Junaid Ahmed Ghauri et.al.|[2307.10471v1](http://arxiv.org/abs/2307.10471v1)|[link](https://github.com/tibhannover/patentimageclassification)|
+|**2023-07-19**|**Visual, Optical and Replica Inspections: Surface Preparation of 650 MHz NB Cavity for PIP-II Linac**|V. Chouhan et.al.|[2307.10414v1](http://arxiv.org/abs/2307.10414v1)|null|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|[link](https://github.com/DNA-Rendering/DNA-Rendering)|
 |**2023-07-19**|**The first comprehensive Milky Way stellar mock catalogue for the Chinese Space Station Telescope Survey Camera**|Yang Chen et.al.|[2307.10091v1](http://arxiv.org/abs/2307.10091v1)|null|
 |**2023-07-19**|**Contextual Reliability: When Different Features Matter in Different Contexts**|Gaurav Ghosal et.al.|[2307.10026v1](http://arxiv.org/abs/2307.10026v1)|null|
@@ -14,21 +32,3 @@
 |**2023-07-18**|**Experimental Security Analysis of DNN-based Adaptive Cruise Control under Context-Aware Perception Attacks**|Xugui Zhou et.al.|[2307.08939v1](http://arxiv.org/abs/2307.08939v1)|null|
 |**2023-07-17**|**LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving**|Sambit Mohapatra et.al.|[2307.08850v1](http://arxiv.org/abs/2307.08850v1)|null|
 |**2023-07-17**|**Euclid Preparation TBD. Characterization of convolutional neural networks for the identification of galaxy-galaxy strong lensing events**|Euclid Collaboration et.al.|[2307.08736v1](http://arxiv.org/abs/2307.08736v1)|null|
-|**2023-07-17**|**Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D**|Aalok Gangopadhyay et.al.|[2307.08652v2](http://arxiv.org/abs/2307.08652v2)|null|
-|**2023-07-17**|**Improving Data Efficiency for Plant Cover Prediction with Label Interpolation and Monte-Carlo Cropping**|Matthias Körschens et.al.|[2307.08559v1](http://arxiv.org/abs/2307.08559v1)|null|
-|**2023-07-17**|**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**|Zhe Zhu et.al.|[2307.08492v1](http://arxiv.org/abs/2307.08492v1)|[link](https://github.com/czvvd/svdformer)|
-|**2023-07-17**|**Towards Zero-power 3D Imaging: VLC-assisted Passive ToF Sensing**|Faisal Ahmed et.al.|[2307.08445v1](http://arxiv.org/abs/2307.08445v1)|null|
-|**2023-07-17**|**Distributed bundle adjustment with block-based sparse matrix compression for super large scale datasets**|Maoteng Zheng et.al.|[2307.08383v1](http://arxiv.org/abs/2307.08383v1)|[link](https://github.com/MozartZheng/DistributedBA)|
-|**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|[link](https://github.com/andreaszachariae/petra_dataset_human_emergency_detection)|
-|**2023-07-17**|**Component-wise Power Estimation of Electrical Devices Using Thermal Imaging**|Christian Herglotz et.al.|[2307.08354v2](http://arxiv.org/abs/2307.08354v2)|null|
-|**2023-07-17**|**Multi-Task Cross-Modality Attention-Fusion for 2D Object Detection**|Huawei Sun et.al.|[2307.08339v1](http://arxiv.org/abs/2307.08339v1)|null|
-|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316v1](http://arxiv.org/abs/2307.08316v1)|null|
-|**2023-07-17**|**Large-Scale Person Detection and Localization using Overhead Fisheye Cameras**|Lu Yang et.al.|[2307.08252v1](http://arxiv.org/abs/2307.08252v1)|null|
-|**2023-07-17**|**ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**|Liu Liu et.al.|[2307.08233v1](http://arxiv.org/abs/2307.08233v1)|null|
-|**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228v1](http://arxiv.org/abs/2307.08228v1)|null|
-|**2023-07-16**|**Seven-probe scintillator dosimeter for treatment verification in HDR-brachytherapy**|Mathieu Gonod et.al.|[2307.08144v1](http://arxiv.org/abs/2307.08144v1)|null|
-|**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|[link](https://github.com/yifyang993/cr-nerf-pytorch)|
-|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v3](http://arxiv.org/abs/2307.08015v3)|null|
-|**2023-07-16**|**Metasurface for programmable quantum algorithms with quantum and classical light**|Randy Stefan Tanuwijaya et.al.|[2307.07985v1](http://arxiv.org/abs/2307.07985v1)|null|
-|**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977v1](http://arxiv.org/abs/2307.07977v1)|[link](https://github.com/liujf69/ipp-net-parsing)|
-|**2023-07-16**|**Panoramic Voltage-Sensitive Optical Mapping of Contracting Hearts using Cooperative Multi-View Motion Tracking with 12 to 24 Cameras**|Shrey Chowdhary et.al.|[2307.07943v1](http://arxiv.org/abs/2307.07943v1)|null|
