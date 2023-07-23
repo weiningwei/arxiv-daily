@@ -13,7 +13,7 @@
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664v1](http://arxiv.org/abs/2307.10664v1)|[link](https://github.com/onpix/LLNeRF)|
 |**2023-07-20**|**Parallelization of a new embedded application for automatic meteor detection**|Mathuran Kandeepan et.al.|[2307.10632v1](http://arxiv.org/abs/2307.10632v1)|null|
 |**2023-07-20**|**Learning Discriminative Visual-Text Representation for Polyp Re-Identification**|Suncheng Xiang et.al.|[2307.10625v1](http://arxiv.org/abs/2307.10625v1)|[link](https://github.com/jeremyxsc/vt-reid)|
-|**2023-07-20**|**GPRL: Gaussian Processes-Based Relative Localization for Multi-Robot Systems**|Ehsan Latif et.al.|[2307.10614v1](http://arxiv.org/abs/2307.10614v1)|null|
+|**2023-07-20**|**GPRL: Gaussian Processes-Based Relative Localization for Multi-Robot Systems**|Ehsan Latif et.al.|[2307.10614v1](http://arxiv.org/abs/2307.10614v1)|[link](https://github.com/herolab-uga/gprl-multi-robot-localization)|
 |**2023-07-20**|**Event Blob Tracking: An Asynchronous Real-Time Algorithm**|Ziwei Wang et.al.|[2307.10593v1](http://arxiv.org/abs/2307.10593v1)|[link](https://github.com/ziweiwwang/event-blob-tracking)|
 |**2023-07-20**|**Analysis of the rSVDdpd Algorithm: A Robust Singular Value Decomposition Method using Density Power Divergence**|Subhrajyoty Roy et.al.|[2307.10591v1](http://arxiv.org/abs/2307.10591v1)|null|
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519v1](http://arxiv.org/abs/2307.10519v1)|null|
