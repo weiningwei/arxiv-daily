@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-21**|**Using simulation to calibrate real data acquisition in veterinary medicine**|Krystian Strzałka et.al.|[2307.11695v1](http://arxiv.org/abs/2307.11695v1)|null|
+|**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|null|
+|**2023-07-21**|**Computational Image Formation**|Stanley H. Chan et.al.|[2307.11635v1](http://arxiv.org/abs/2307.11635v1)|null|
+|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v1](http://arxiv.org/abs/2307.11526v1)|null|
+|**2023-07-21**|**BatMobility: Towards Flying Without Seeing for Autonomous Drones**|Emerson Sie et.al.|[2307.11518v1](http://arxiv.org/abs/2307.11518v1)|null|
+|**2023-07-21**|**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2307.11477v1](http://arxiv.org/abs/2307.11477v1)|null|
+|**2023-07-21**|**MatSpectNet: Material Segmentation Network with Domain-Aware and Physically-Constrained Hyperspectral Reconstruction**|Yuwen Heng et.al.|[2307.11466v1](http://arxiv.org/abs/2307.11466v1)|null|
+|**2023-07-21**|**A Video-based Detector for Suspicious Activity in Examination with OpenPose**|Reuben Moyo et.al.|[2307.11413v1](http://arxiv.org/abs/2307.11413v1)|null|
+|**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v1](http://arxiv.org/abs/2307.11349v1)|null|
+|**2023-07-21**|**HVDetFusion: A Simple and Robust Camera-Radar Fusion Framework**|Kai Lei et.al.|[2307.11323v1](http://arxiv.org/abs/2307.11323v1)|null|
+|**2023-07-20**|**Towards Non-Parametric Models for Confidence Aware Image Prediction from Low Data using Gaussian Processes**|Nikhil U. Shinde et.al.|[2307.11259v1](http://arxiv.org/abs/2307.11259v1)|null|
 |**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058v1](http://arxiv.org/abs/2307.11058v1)|null|
 |**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|[link](https://github.com/yvanyin/metric3d)|
 |**2023-07-20**|**OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios**|Aditya Nalgunda Ganesh et.al.|[2307.10934v1](http://arxiv.org/abs/2307.10934v1)|null|
@@ -21,14 +32,3 @@
 |**2023-07-19**|**Classification of Visualization Types and Perspectives in Patents**|Junaid Ahmed Ghauri et.al.|[2307.10471v1](http://arxiv.org/abs/2307.10471v1)|[link](https://github.com/tibhannover/patentimageclassification)|
 |**2023-07-19**|**Visual, Optical and Replica Inspections: Surface Preparation of 650 MHz NB Cavity for PIP-II Linac**|V. Chouhan et.al.|[2307.10414v1](http://arxiv.org/abs/2307.10414v1)|null|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|[link](https://github.com/DNA-Rendering/DNA-Rendering)|
-|**2023-07-19**|**The first comprehensive Milky Way stellar mock catalogue for the Chinese Space Station Telescope Survey Camera**|Yang Chen et.al.|[2307.10091v1](http://arxiv.org/abs/2307.10091v1)|null|
-|**2023-07-19**|**Contextual Reliability: When Different Features Matter in Different Contexts**|Gaurav Ghosal et.al.|[2307.10026v1](http://arxiv.org/abs/2307.10026v1)|null|
-|**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|[link](https://github.com/star-center/o-efmt)|
-|**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981v1](http://arxiv.org/abs/2307.09981v1)|null|
-|**2023-07-19**|**Learning from Abstract Images: on the Importance of Occlusion in a Minimalist Encoding of Human Poses**|Saad Manzur et.al.|[2307.09893v1](http://arxiv.org/abs/2307.09893v1)|null|
-|**2023-07-19**|**Flexible single multimode fiber imaging using white LED**|Minyu Fan et.al.|[2307.09714v1](http://arxiv.org/abs/2307.09714v1)|null|
-|**2023-07-18**|**The Panchromatic Hubble Andromeda Treasury XXI. The Legacy Resolved Stellar Photometry Catalog**|Benjamin F. Williams et.al.|[2307.09681v1](http://arxiv.org/abs/2307.09681v1)|null|
-|**2023-07-18**|**CEERS Key Paper VII: Emission Line Ratios from NIRSpec and NIRCam Wide-Field Slitless Spectroscopy at z>2**|Bren E. Backhaus et.al.|[2307.09503v2](http://arxiv.org/abs/2307.09503v2)|null|
-|**2023-07-18**|**Experimental Security Analysis of DNN-based Adaptive Cruise Control under Context-Aware Perception Attacks**|Xugui Zhou et.al.|[2307.08939v1](http://arxiv.org/abs/2307.08939v1)|null|
-|**2023-07-17**|**LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving**|Sambit Mohapatra et.al.|[2307.08850v1](http://arxiv.org/abs/2307.08850v1)|null|
-|**2023-07-17**|**Euclid Preparation TBD. Characterization of convolutional neural networks for the identification of galaxy-galaxy strong lensing events**|Euclid Collaboration et.al.|[2307.08736v1](http://arxiv.org/abs/2307.08736v1)|null|

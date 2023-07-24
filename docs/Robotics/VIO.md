@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|null|
+|**2023-07-21**|**Solving Pallet loading Problem with Real-World Constraints**|Marko Švaco et.al.|[2307.11531v1](http://arxiv.org/abs/2307.11531v1)|null|
+|**2023-07-21**|**Entropy and fluctuation relations in isotropic turbulence**|H. Yao et.al.|[2307.11311v1](http://arxiv.org/abs/2307.11311v1)|null|
+|**2023-07-20**|**The Structure of Turbulence in Pulsatile Flow over Urban Canopies**|Weiyi Li et.al.|[2307.11203v1](http://arxiv.org/abs/2307.11203v1)|null|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|[link](https://github.com/star-center/o-efmt)|
 |**2023-07-19**|**Turbulence Properties of Interplanetary Coronal Mass Ejections in the Inner Heliosphere: Dependence on Proton Beta and Flux Rope Structure**|S. W. Good et.al.|[2307.09800v1](http://arxiv.org/abs/2307.09800v1)|null|
 |**2023-07-18**|**General Formalism of the Quantum Equivalence Principle**|Saurya Das et.al.|[2307.09632v1](http://arxiv.org/abs/2307.09632v1)|null|
@@ -28,7 +32,3 @@
 |**2023-07-11**|**Forward Dynamics Estimation from Data-Driven Inverse Dynamics Learning**|Alberto Dalla Libera et.al.|[2307.05093v1](http://arxiv.org/abs/2307.05093v1)|null|
 |**2023-07-10**|**Combining DVL-INS and Laser-Based Loop Closures in a Batch Estimation Framework for Underwater Positioning**|Amro Al-Baali et.al.|[2307.04885v1](http://arxiv.org/abs/2307.04885v1)|null|
 |**2023-07-10**|**Saturation and multifractality of Lagrangian and Eulerian scaling exponents in 3D turbulence**|Dhawal Buaria et.al.|[2307.04846v1](http://arxiv.org/abs/2307.04846v1)|null|
-|**2023-07-10**|**Coexistence of self-similar and anomalous scalings in turbulent small-scale solar magnetic fields**|Gorobets Andrei Y. et.al.|[2307.04703v1](http://arxiv.org/abs/2307.04703v1)|null|
-|**2023-07-10**|**Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication**|Adam Dai et.al.|[2307.04692v1](http://arxiv.org/abs/2307.04692v1)|[link](https://github.com/stanford-navlab/chimera_fgo)|
-|**2023-07-10**|**An Examination of Wearable Sensors and Video Data Capture for Human Exercise Classification**|Ashish Singh et.al.|[2307.04516v1](http://arxiv.org/abs/2307.04516v1)|null|
-|**2023-07-09**|**On IMU preintegration: A nonlinear observer viewpoint and its application**|Bowen Yi et.al.|[2307.04165v1](http://arxiv.org/abs/2307.04165v1)|null|
