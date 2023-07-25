@@ -8,7 +8,7 @@
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v1](http://arxiv.org/abs/2307.11526v1)|null|
 |**2023-07-21**|**BatMobility: Towards Flying Without Seeing for Autonomous Drones**|Emerson Sie et.al.|[2307.11518v1](http://arxiv.org/abs/2307.11518v1)|null|
 |**2023-07-21**|**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2307.11477v1](http://arxiv.org/abs/2307.11477v1)|null|
-|**2023-07-21**|**MatSpectNet: Material Segmentation Network with Domain-Aware and Physically-Constrained Hyperspectral Reconstruction**|Yuwen Heng et.al.|[2307.11466v1](http://arxiv.org/abs/2307.11466v1)|null|
+|**2023-07-21**|**MatSpectNet: Material Segmentation Network with Domain-Aware and Physically-Constrained Hyperspectral Reconstruction**|Yuwen Heng et.al.|[2307.11466v2](http://arxiv.org/abs/2307.11466v2)|null|
 |**2023-07-21**|**A Video-based Detector for Suspicious Activity in Examination with OpenPose**|Reuben Moyo et.al.|[2307.11413v1](http://arxiv.org/abs/2307.11413v1)|null|
 |**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v1](http://arxiv.org/abs/2307.11349v1)|null|
 |**2023-07-21**|**HVDetFusion: A Simple and Robust Camera-Radar Fusion Framework**|Kai Lei et.al.|[2307.11323v1](http://arxiv.org/abs/2307.11323v1)|null|
