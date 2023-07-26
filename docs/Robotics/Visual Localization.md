@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-25**|**Decisive Data using Multi-Modality Optical Sensors for Advanced Vehicular Systems**|Muhammad Ali Farooq et.al.|[2307.13600v1](http://arxiv.org/abs/2307.13600v1)|null|
+|**2023-07-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wu et.al.|[2307.13510v1](http://arxiv.org/abs/2307.13510v1)|null|
+|**2023-07-25**|**Prior Based Online Lane Graph Extraction from Single Onboard Camera Image**|Yigit Baran Can et.al.|[2307.13344v1](http://arxiv.org/abs/2307.13344v1)|null|
+|**2023-07-25**|**A Visual Quality Assessment Method for Raster Images in Scanned Document**|Justin Yang et.al.|[2307.13241v1](http://arxiv.org/abs/2307.13241v1)|null|
+|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v1](http://arxiv.org/abs/2307.13131v1)|null|
+|**2023-07-24**|**Automatic Infant Respiration Estimation from Video: A Deep Flow-based Algorithm and a Novel Public Benchmark**|Sai Kumar Reddy Manne et.al.|[2307.13110v1](http://arxiv.org/abs/2307.13110v1)|[link](https://github.com/ostadabbas/infant-respiration-estimation)|
 |**2023-07-24**|**Freeform three-mirror anastigmatic large-aperture telescope and receiver optics for CMB-S4**|Patricio A. Gallardo et.al.|[2307.12931v1](http://arxiv.org/abs/2307.12931v1)|null|
 |**2023-07-24**|**Trust-aware Safe Control for Autonomous Navigation: Estimation of System-to-human Trust for Trust-adaptive Control Barrier Functions**|Saad Ejaz et.al.|[2307.12815v1](http://arxiv.org/abs/2307.12815v1)|null|
 |**2023-07-24**|**Deep Homography Prediction for Endoscopic Camera Motion Imitation Learning**|Martin Huber et.al.|[2307.12792v1](http://arxiv.org/abs/2307.12792v1)|null|
@@ -26,9 +32,3 @@
 |**2023-07-21**|**Clash of Titans: The Impact of Cluster Mergers in the Galaxy Cluster Red Sequence**|Franklin Aldás et.al.|[2307.11837v1](http://arxiv.org/abs/2307.11837v1)|null|
 |**2023-07-21**|**Towards Quantifying the Impact of Triaxiality on Optical Signatures of Galaxy Clusters: Weak Lensing and Galaxy Distributions**|Shenming Fu et.al.|[2307.11835v1](http://arxiv.org/abs/2307.11835v1)|null|
 |**2023-07-21**|**Using simulation to calibrate real data acquisition in veterinary medicine**|Krystian Strzałka et.al.|[2307.11695v1](http://arxiv.org/abs/2307.11695v1)|null|
-|**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|null|
-|**2023-07-21**|**Computational Image Formation**|Stanley H. Chan et.al.|[2307.11635v1](http://arxiv.org/abs/2307.11635v1)|null|
-|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v1](http://arxiv.org/abs/2307.11526v1)|null|
-|**2023-07-21**|**BatMobility: Towards Flying Without Seeing for Autonomous Drones**|Emerson Sie et.al.|[2307.11518v1](http://arxiv.org/abs/2307.11518v1)|null|
-|**2023-07-21**|**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2307.11477v1](http://arxiv.org/abs/2307.11477v1)|[link](https://github.com/mengtan00/sa-bev)|
-|**2023-07-21**|**MatSpectNet: Material Segmentation Network with Domain-Aware and Physically-Constrained Hyperspectral Reconstruction**|Yuwen Heng et.al.|[2307.11466v2](http://arxiv.org/abs/2307.11466v2)|[link](https://github.com/heng-yuwen/matspectnet)|
