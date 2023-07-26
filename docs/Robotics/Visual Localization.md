@@ -22,7 +22,7 @@
 |**2023-07-22**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090v1](http://arxiv.org/abs/2307.12090v1)|null|
 |**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|[link](https://github.com/facebookresearch/replay_dataset)|
 |**2023-07-21**|**Practical Low-density Codes for PB-ToF Sensing**|Alvaro Lopez Paredes et.al.|[2307.11909v1](http://arxiv.org/abs/2307.11909v1)|null|
-|**2023-07-21**|**Lala Shakti Swarup Ray, Bo Zhou, Sungho Suh, Paul Lukowicz**|Lala Shakti Swarup Ray et.al.|[2307.11881v1](http://arxiv.org/abs/2307.11881v1)|[link](https://github.com/lalasray/dmcb)|
+|**2023-07-21**|**Selecting the motion ground truth for loose-fitting wearables: benchmarking optical MoCap methods**|Lala Shakti Swarup Ray et.al.|[2307.11881v2](http://arxiv.org/abs/2307.11881v2)|[link](https://github.com/lalasray/dmcb)|
 |**2023-07-21**|**Clash of Titans: The Impact of Cluster Mergers in the Galaxy Cluster Red Sequence**|Franklin Aldás et.al.|[2307.11837v1](http://arxiv.org/abs/2307.11837v1)|null|
 |**2023-07-21**|**Towards Quantifying the Impact of Triaxiality on Optical Signatures of Galaxy Clusters: Weak Lensing and Galaxy Distributions**|Shenming Fu et.al.|[2307.11835v1](http://arxiv.org/abs/2307.11835v1)|null|
 |**2023-07-21**|**Using simulation to calibrate real data acquisition in veterinary medicine**|Krystian Strzałka et.al.|[2307.11695v1](http://arxiv.org/abs/2307.11695v1)|null|
