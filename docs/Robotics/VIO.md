@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**Multi-IMU Proprioceptive State Estimator for Humanoid Robots**|Fabio Elnecave Xavier et.al.|[2307.14125v1](http://arxiv.org/abs/2307.14125v1)|null|
+|**2023-07-26**|**Research on Inertial Navigation Technology of Unmanned Aerial Vehicles with Integrated Reinforcement Learning Algorithm**|Longcheng Guo et.al.|[2307.14038v1](http://arxiv.org/abs/2307.14038v1)|null|
+|**2023-07-26**|**Improved Ion Heating in Fast Ignition by Pulse Shaping**|Henry Fetsch et.al.|[2307.13988v1](http://arxiv.org/abs/2307.13988v1)|null|
 |**2023-07-25**|**Comparing phase-space and phenomenological modeling approaches for Lagrangian particles settling in a turbulent boundary layer**|Andrew P. Grace et.al.|[2307.13659v1](http://arxiv.org/abs/2307.13659v1)|null|
 |**2023-07-25**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513v1](http://arxiv.org/abs/2307.13513v1)|null|
 |**2023-07-25**|**Preferential acceleration of heavy ions in magnetic reconnection: Hybrid-kinetic simulations with electron inertia**|Neeraj Jain et.al.|[2307.13268v1](http://arxiv.org/abs/2307.13268v1)|null|
@@ -29,6 +32,3 @@
 |**2023-07-15**|**Radar Odometry for Autonomous Ground Vehicles: A Survey of Methods and Datasets**|Nader J. Abu-Alrub et.al.|[2307.07861v1](http://arxiv.org/abs/2307.07861v1)|null|
 |**2023-07-15**|**Semi-Elastic LiDAR-Inertial Odometry**|Zikang Yuan et.al.|[2307.07792v1](http://arxiv.org/abs/2307.07792v1)|[link](https://github.com/ZikangYuan/semi_elastic_lio)|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
-|**2023-07-14**|**Phase-field simulations for dripping-to-jetting transitions: Effects of low interfacial tension and bulk diffusion**|Fukeng Huang et.al.|[2307.07139v1](http://arxiv.org/abs/2307.07139v1)|null|
-|**2023-07-13**|**Sensing directional forces in levitated optomechanics**|J. M. H. Gosling et.al.|[2307.06765v1](http://arxiv.org/abs/2307.06765v1)|null|
-|**2023-07-13**|**FF-LINS: A Consistent Frame-to-Frame Solid-State-LiDAR-Inertial State Estimator**|Hailiang Tang et.al.|[2307.06632v1](http://arxiv.org/abs/2307.06632v1)|[link](https://github.com/i2nav-whu/ff-lins)|

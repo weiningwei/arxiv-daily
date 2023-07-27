@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**US & MR Image-Fusion Based on Skin Co-Registration**|Martina Paccini et.al.|[2307.14288v1](http://arxiv.org/abs/2307.14288v1)|null|
+|**2023-07-26**|**DisguisOR: Holistic Face Anonymization for the Operating Room**|Lennart Bastian et.al.|[2307.14241v1](http://arxiv.org/abs/2307.14241v1)|[link](https://github.com/wngtn/disguisor)|
+|**2023-07-26**|**The nature of the X-ray sources in dwarf galaxies in nearby clusters from the KIWICS**|Şeyda Şen et.al.|[2307.14230v1](http://arxiv.org/abs/2307.14230v1)|null|
+|**2023-07-26**|**Tackling Scattering and Reflective Flare in Mobile Camera Systems: A Raw Image Dataset for Enhanced Flare Removal**|Fengbo Lan et.al.|[2307.14180v1](http://arxiv.org/abs/2307.14180v1)|null|
+|**2023-07-26**|**Memory-Efficient Graph Convolutional Networks for Object Classification and Detection with Event Cameras**|Kamil Jeziorek et.al.|[2307.14124v1](http://arxiv.org/abs/2307.14124v1)|null|
+|**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077v1](http://arxiv.org/abs/2307.14077v1)|null|
+|**2023-07-26**|**Three-year performance of the IceAct telescopes at the IceCube Neutrino Observatory**|Lars Heuermann et.al.|[2307.13969v1](http://arxiv.org/abs/2307.13969v1)|null|
+|**2023-07-26**|**Towards a cosmic ray composition measurement with the IceAct telescopes at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
 |**2023-07-25**|**Decisive Data using Multi-Modality Optical Sensors for Advanced Vehicular Systems**|Muhammad Ali Farooq et.al.|[2307.13600v1](http://arxiv.org/abs/2307.13600v1)|null|
 |**2023-07-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wu et.al.|[2307.13510v1](http://arxiv.org/abs/2307.13510v1)|null|
 |**2023-07-25**|**Prior Based Online Lane Graph Extraction from Single Onboard Camera Image**|Yigit Baran Can et.al.|[2307.13344v1](http://arxiv.org/abs/2307.13344v1)|null|
@@ -24,11 +32,3 @@
 |**2023-07-23**|**LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2307.12194v1](http://arxiv.org/abs/2307.12194v1)|null|
 |**2023-07-22**|**Improving temperature estimation in low-cost infrared cameras using deep neural networks**|Navot Oz et.al.|[2307.12130v1](http://arxiv.org/abs/2307.12130v1)|null|
 |**2023-07-22**|**AI on the Road: A Comprehensive Analysis of Traffic Accidents and Accident Detection System in Smart Cities**|Victor Adewopo et.al.|[2307.12128v1](http://arxiv.org/abs/2307.12128v1)|null|
-|**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106v1](http://arxiv.org/abs/2307.12106v1)|null|
-|**2023-07-22**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090v2](http://arxiv.org/abs/2307.12090v2)|null|
-|**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|[link](https://github.com/facebookresearch/replay_dataset)|
-|**2023-07-21**|**Practical Low-density Codes for PB-ToF Sensing**|Alvaro Lopez Paredes et.al.|[2307.11909v1](http://arxiv.org/abs/2307.11909v1)|null|
-|**2023-07-21**|**Selecting the motion ground truth for loose-fitting wearables: benchmarking optical MoCap methods**|Lala Shakti Swarup Ray et.al.|[2307.11881v2](http://arxiv.org/abs/2307.11881v2)|[link](https://github.com/lalasray/dmcb)|
-|**2023-07-21**|**Clash of Titans: The Impact of Cluster Mergers in the Galaxy Cluster Red Sequence**|Franklin Aldás et.al.|[2307.11837v1](http://arxiv.org/abs/2307.11837v1)|null|
-|**2023-07-21**|**Towards Quantifying the Impact of Triaxiality on Optical Signatures of Galaxy Clusters: Weak Lensing and Galaxy Distributions**|Shenming Fu et.al.|[2307.11835v1](http://arxiv.org/abs/2307.11835v1)|null|
-|**2023-07-21**|**Using simulation to calibrate real data acquisition in veterinary medicine**|Krystian Strzałka et.al.|[2307.11695v1](http://arxiv.org/abs/2307.11695v1)|null|
