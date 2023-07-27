@@ -25,7 +25,7 @@
 |**2023-07-22**|**Improving temperature estimation in low-cost infrared cameras using deep neural networks**|Navot Oz et.al.|[2307.12130v1](http://arxiv.org/abs/2307.12130v1)|null|
 |**2023-07-22**|**AI on the Road: A Comprehensive Analysis of Traffic Accidents and Accident Detection System in Smart Cities**|Victor Adewopo et.al.|[2307.12128v1](http://arxiv.org/abs/2307.12128v1)|null|
 |**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106v1](http://arxiv.org/abs/2307.12106v1)|null|
-|**2023-07-22**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090v1](http://arxiv.org/abs/2307.12090v1)|null|
+|**2023-07-22**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090v2](http://arxiv.org/abs/2307.12090v2)|null|
 |**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|[link](https://github.com/facebookresearch/replay_dataset)|
 |**2023-07-21**|**Practical Low-density Codes for PB-ToF Sensing**|Alvaro Lopez Paredes et.al.|[2307.11909v1](http://arxiv.org/abs/2307.11909v1)|null|
 |**2023-07-21**|**Selecting the motion ground truth for loose-fitting wearables: benchmarking optical MoCap methods**|Lala Shakti Swarup Ray et.al.|[2307.11881v2](http://arxiv.org/abs/2307.11881v2)|[link](https://github.com/lalasray/dmcb)|

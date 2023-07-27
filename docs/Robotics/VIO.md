@@ -5,14 +5,14 @@
 |**2023-07-25**|**Comparing phase-space and phenomenological modeling approaches for Lagrangian particles settling in a turbulent boundary layer**|Andrew P. Grace et.al.|[2307.13659v1](http://arxiv.org/abs/2307.13659v1)|null|
 |**2023-07-25**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513v1](http://arxiv.org/abs/2307.13513v1)|null|
 |**2023-07-25**|**Preferential acceleration of heavy ions in magnetic reconnection: Hybrid-kinetic simulations with electron inertia**|Neeraj Jain et.al.|[2307.13268v1](http://arxiv.org/abs/2307.13268v1)|null|
-|**2023-07-24**|**Fluid pendulum explains reversals of the large-scale circulation in thermal convection**|Nicholas J. Moore et.al.|[2307.13148v1](http://arxiv.org/abs/2307.13148v1)|null|
+|**2023-07-24**|**Fluid pendulum explains reversals of the large-scale circulation in thermal convection**|Nicholas J. Moore et.al.|[2307.13148v2](http://arxiv.org/abs/2307.13148v2)|null|
 |**2023-07-24**|**GNSS-stereo-inertial SLAM for arable farming**|Javier Cremona et.al.|[2307.12836v1](http://arxiv.org/abs/2307.12836v1)|[link](https://github.com/CIFASIS/gnss-stereo-inertial-fusion)|
 |**2023-07-24**|**BonnBot-I: A Precise Weed Management and Crop Monitoring Platform**|Alireza Ahmadi et.al.|[2307.12588v1](http://arxiv.org/abs/2307.12588v1)|null|
 |**2023-07-24**|**Viscous and inertial forces between translating and growing bubbles in close proximity**|Jean-Lou Pierson et.al.|[2307.12570v1](http://arxiv.org/abs/2307.12570v1)|null|
 |**2023-07-24**|**Quantum GravitoElectromagnetic Dynamics**|Yoshimasa Kurihara et.al.|[2307.13003v1](http://arxiv.org/abs/2307.13003v1)|null|
 |**2023-07-23**|**Near-inertial wave propagation between stratified and homogeneous layers**|Hans van Haren et.al.|[2307.12303v1](http://arxiv.org/abs/2307.12303v1)|null|
 |**2023-07-22**|**Nonlinear Multi-Resonant Cavity Quantum Photonics Gyroscopes Quantum Light Navigation**|Mengdi Sun et.al.|[2307.12167v1](http://arxiv.org/abs/2307.12167v1)|null|
-|**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v1](http://arxiv.org/abs/2307.11998v1)|null|
+|**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v2](http://arxiv.org/abs/2307.11998v2)|null|
 |**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|[link](https://github.com/hkust-aerial-robotics/monolanemapping)|
 |**2023-07-21**|**Solving Pallet loading Problem with Real-World Constraints**|Marko Švaco et.al.|[2307.11531v1](http://arxiv.org/abs/2307.11531v1)|null|
 |**2023-07-21**|**Entropy and fluctuation relations in isotropic turbulence**|H. Yao et.al.|[2307.11311v1](http://arxiv.org/abs/2307.11311v1)|null|
