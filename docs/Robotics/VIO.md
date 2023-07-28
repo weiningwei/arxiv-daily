@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-27**|**Enhanced Activity Reduces the Duration of Intermittent Lévy Walks in Bacterial Turbulence**|G. Dhananjay et.al.|[2307.15035v1](http://arxiv.org/abs/2307.15035v1)|null|
 |**2023-07-26**|**Multi-IMU Proprioceptive State Estimator for Humanoid Robots**|Fabio Elnecave Xavier et.al.|[2307.14125v1](http://arxiv.org/abs/2307.14125v1)|null|
 |**2023-07-26**|**Research on Inertial Navigation Technology of Unmanned Aerial Vehicles with Integrated Reinforcement Learning Algorithm**|Longcheng Guo et.al.|[2307.14038v1](http://arxiv.org/abs/2307.14038v1)|null|
 |**2023-07-26**|**Improved Ion Heating in Fast Ignition by Pulse Shaping**|Henry Fetsch et.al.|[2307.13988v1](http://arxiv.org/abs/2307.13988v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
 |**2023-07-15**|**Radar Odometry for Autonomous Ground Vehicles: A Survey of Methods and Datasets**|Nader J. Abu-Alrub et.al.|[2307.07861v1](http://arxiv.org/abs/2307.07861v1)|null|
 |**2023-07-15**|**Semi-Elastic LiDAR-Inertial Odometry**|Zikang Yuan et.al.|[2307.07792v1](http://arxiv.org/abs/2307.07792v1)|[link](https://github.com/ZikangYuan/semi_elastic_lio)|
-|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|

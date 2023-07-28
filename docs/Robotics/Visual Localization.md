@@ -2,7 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
+|**2023-07-27**|**MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation**|Chenming Wu et.al.|[2307.14981v1](http://arxiv.org/abs/2307.14981v1)|null|
+|**2023-07-27**|**GET3D--: Learning GET3D from Unconstrained Image Collections**|Fanghua Yu et.al.|[2307.14918v1](http://arxiv.org/abs/2307.14918v1)|null|
+|**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889v1](http://arxiv.org/abs/2307.14889v1)|null|
+|**2023-07-27**|**Learning Full-Head 3D GANs from a Single-View Portrait Dataset**|Yiqian Wu et.al.|[2307.14770v1](http://arxiv.org/abs/2307.14770v1)|null|
+|**2023-07-27**|**High Dynamic Range Imaging via Visual Attention Modules**|Ali Reza Omrani et.al.|[2307.14705v1](http://arxiv.org/abs/2307.14705v1)|[link](https://github.com/alirezaomrani95/hdr-vam)|
+|**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei et.al.|[2307.14624v1](http://arxiv.org/abs/2307.14624v1)|null|
+|**2023-07-27**|**White-light superflare and long-term activity of the nearby M7 type binary EI~Cnc observed with GWAC system**|Hua-Li Li et.al.|[2307.14594v1](http://arxiv.org/abs/2307.14594v1)|null|
+|**2023-07-27**|**MCPA: Multi-scale Cross Perceptron Attention Network for 2D Medical Image Segmentation**|Liang Xu et.al.|[2307.14588v1](http://arxiv.org/abs/2307.14588v1)|[link](https://github.com/simonustc/mcpa-for-2d-medical-image-segmentation)|
+|**2023-07-27**|**A Memory-Augmented Multi-Task Collaborative Framework for Unsupervised Traffic Accident Detection in Driving Videos**|Rongqin Liang et.al.|[2307.14575v1](http://arxiv.org/abs/2307.14575v1)|null|
+|**2023-07-26**|**Patterns of Vehicle Lights: Addressing Complexities in Curation and Annotation of Camera-Based Vehicle Light Datasets and Metrics**|Ross Greer et.al.|[2307.14521v1](http://arxiv.org/abs/2307.14521v1)|null|
+|**2023-07-26**|**Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision**|Jin Wang et.al.|[2307.14487v1](http://arxiv.org/abs/2307.14487v1)|null|
+|**2023-07-26**|**AutoSourceID-Classifier. Star-Galaxy Classification using a Convolutional Neural Network with Spatial Information**|F. Stoppa et.al.|[2307.14456v1](http://arxiv.org/abs/2307.14456v1)|null|
 |**2023-07-26**|**US & MR Image-Fusion Based on Skin Co-Registration**|Martina Paccini et.al.|[2307.14288v1](http://arxiv.org/abs/2307.14288v1)|null|
+|**2023-07-26**|**Probing reflection from aerosols with the near-infrared dayside spectrum of WASP-80b**|Bob Jacobs et.al.|[2307.14399v1](http://arxiv.org/abs/2307.14399v1)|null|
 |**2023-07-26**|**DisguisOR: Holistic Face Anonymization for the Operating Room**|Lennart Bastian et.al.|[2307.14241v1](http://arxiv.org/abs/2307.14241v1)|[link](https://github.com/wngtn/disguisor)|
 |**2023-07-26**|**The nature of the X-ray sources in dwarf galaxies in nearby clusters from the KIWICS**|Şeyda Şen et.al.|[2307.14230v1](http://arxiv.org/abs/2307.14230v1)|null|
 |**2023-07-26**|**Tackling Scattering and Reflective Flare in Mobile Camera Systems: A Raw Image Dataset for Enhanced Flare Removal**|Fengbo Lan et.al.|[2307.14180v1](http://arxiv.org/abs/2307.14180v1)|null|
@@ -18,17 +32,3 @@
 |**2023-07-24**|**Automatic Infant Respiration Estimation from Video: A Deep Flow-based Algorithm and a Novel Public Benchmark**|Sai Kumar Reddy Manne et.al.|[2307.13110v1](http://arxiv.org/abs/2307.13110v1)|[link](https://github.com/ostadabbas/infant-respiration-estimation)|
 |**2023-07-24**|**Freeform three-mirror anastigmatic large-aperture telescope and receiver optics for CMB-S4**|Patricio A. Gallardo et.al.|[2307.12931v1](http://arxiv.org/abs/2307.12931v1)|null|
 |**2023-07-24**|**Trust-aware Safe Control for Autonomous Navigation: Estimation of System-to-human Trust for Trust-adaptive Control Barrier Functions**|Saad Ejaz et.al.|[2307.12815v1](http://arxiv.org/abs/2307.12815v1)|null|
-|**2023-07-24**|**Deep Homography Prediction for Endoscopic Camera Motion Imitation Learning**|Martin Huber et.al.|[2307.12792v1](http://arxiv.org/abs/2307.12792v1)|null|
-|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
-|**2023-07-24**|**Remote Bio-Sensing: Open Source Benchmark Framework for Fair Evaluation of rPPG**|Dae Yeol Kim et.al.|[2307.12644v1](http://arxiv.org/abs/2307.12644v1)|[link](https://github.com/remotebiosensing/rppg)|
-|**2023-07-24**|**Protein sizing with Differential Dynamic Microscopy**|Chiara Guidolin et.al.|[2307.12608v1](http://arxiv.org/abs/2307.12608v1)|null|
-|**2023-07-24**|**MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary**|Beiya Dai et.al.|[2307.12571v1](http://arxiv.org/abs/2307.12571v1)|null|
-|**2023-07-24**|**Revisiting Event-based Video Frame Interpolation**|Jiaben Chen et.al.|[2307.12558v1](http://arxiv.org/abs/2307.12558v1)|null|
-|**2023-07-23**|**On the (De)centralization of FruitChains**|Aikaterini-Panagiota Stouka et.al.|[2307.12422v1](http://arxiv.org/abs/2307.12422v1)|null|
-|**2023-07-23**|**4D Feet: Registering Walking Foot Shapes Using Attention Enhanced Dynamic-Synchronized Graph Convolutional LSTM Network**|Farzam Tajdari et.al.|[2307.12377v1](http://arxiv.org/abs/2307.12377v1)|null|
-|**2023-07-23**|**Estimation of the error matrix in a linear least square fit to the data from an experiment performed by smartphone photography**|Sanjoy Kumar Pal et.al.|[2307.12312v1](http://arxiv.org/abs/2307.12312v1)|null|
-|**2023-07-23**|**Simultaneous temperature estimation and nonuniformity correction from multiple frames**|Navot Oz et.al.|[2307.12297v1](http://arxiv.org/abs/2307.12297v1)|null|
-|**2023-07-23**|**Semantic Communication-Empowered Traffic Management using Vehicle Count Prediction**|Sachin Kadam et.al.|[2307.12254v1](http://arxiv.org/abs/2307.12254v1)|null|
-|**2023-07-23**|**LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2307.12194v1](http://arxiv.org/abs/2307.12194v1)|null|
-|**2023-07-22**|**Improving temperature estimation in low-cost infrared cameras using deep neural networks**|Navot Oz et.al.|[2307.12130v1](http://arxiv.org/abs/2307.12130v1)|null|
-|**2023-07-22**|**AI on the Road: A Comprehensive Analysis of Traffic Accidents and Accident Detection System in Smart Cities**|Victor Adewopo et.al.|[2307.12128v1](http://arxiv.org/abs/2307.12128v1)|null|
