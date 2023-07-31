@@ -28,7 +28,7 @@
 |**2023-07-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wu et.al.|[2307.13510v1](http://arxiv.org/abs/2307.13510v1)|null|
 |**2023-07-25**|**Prior Based Online Lane Graph Extraction from Single Onboard Camera Image**|Yigit Baran Can et.al.|[2307.13344v1](http://arxiv.org/abs/2307.13344v1)|null|
 |**2023-07-25**|**A Visual Quality Assessment Method for Raster Images in Scanned Document**|Justin Yang et.al.|[2307.13241v1](http://arxiv.org/abs/2307.13241v1)|null|
-|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v1](http://arxiv.org/abs/2307.13131v1)|null|
+|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v2](http://arxiv.org/abs/2307.13131v2)|null|
 |**2023-07-24**|**Automatic Infant Respiration Estimation from Video: A Deep Flow-based Algorithm and a Novel Public Benchmark**|Sai Kumar Reddy Manne et.al.|[2307.13110v1](http://arxiv.org/abs/2307.13110v1)|[link](https://github.com/ostadabbas/infant-respiration-estimation)|
 |**2023-07-24**|**Freeform three-mirror anastigmatic large-aperture telescope and receiver optics for CMB-S4**|Patricio A. Gallardo et.al.|[2307.12931v1](http://arxiv.org/abs/2307.12931v1)|null|
 |**2023-07-24**|**Trust-aware Safe Control for Autonomous Navigation: Estimation of System-to-human Trust for Trust-adaptive Control Barrier Functions**|Saad Ejaz et.al.|[2307.12815v1](http://arxiv.org/abs/2307.12815v1)|null|
