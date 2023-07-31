@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28**|**Exact intermittent solutions in a turbulence multi branch shell model**|Ben Ajzner et.al.|[2307.15505v1](http://arxiv.org/abs/2307.15505v1)|null|
 |**2023-07-27**|**Enhanced Activity Reduces the Duration of Intermittent Lévy Walks in Bacterial Turbulence**|G. Dhananjay et.al.|[2307.15035v1](http://arxiv.org/abs/2307.15035v1)|null|
 |**2023-07-26**|**Multi-IMU Proprioceptive State Estimator for Humanoid Robots**|Fabio Elnecave Xavier et.al.|[2307.14125v1](http://arxiv.org/abs/2307.14125v1)|null|
 |**2023-07-26**|**Research on Inertial Navigation Technology of Unmanned Aerial Vehicles with Integrated Reinforcement Learning Algorithm**|Longcheng Guo et.al.|[2307.14038v1](http://arxiv.org/abs/2307.14038v1)|null|
@@ -26,9 +27,8 @@
 |**2023-07-19**|**Turbulence Properties of Interplanetary Coronal Mass Ejections in the Inner Heliosphere: Dependence on Proton Beta and Flux Rope Structure**|S. W. Good et.al.|[2307.09800v1](http://arxiv.org/abs/2307.09800v1)|null|
 |**2023-07-18**|**General Formalism of the Quantum Equivalence Principle**|Saurya Das et.al.|[2307.09632v1](http://arxiv.org/abs/2307.09632v1)|null|
 |**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v1](http://arxiv.org/abs/2307.09531v1)|null|
+|**2023-07-18**|**On the effect of the maximal proper acceleration in the inertia**|Ricardo Gallego Torromé et.al.|[2307.15077v1](http://arxiv.org/abs/2307.15077v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-17**|**Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**|Daniel Engelsman et.al.|[2307.08571v2](http://arxiv.org/abs/2307.08571v2)|[link](https://github.com/ansfl/multiple-mems-imus-estimation)|
 |**2023-07-16**|**Cosmological constraints in covariant $f(Q)$ gravity with different connections**|Jiaming Shi et.al.|[2307.08103v2](http://arxiv.org/abs/2307.08103v2)|null|
 |**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
-|**2023-07-15**|**Radar Odometry for Autonomous Ground Vehicles: A Survey of Methods and Datasets**|Nader J. Abu-Alrub et.al.|[2307.07861v1](http://arxiv.org/abs/2307.07861v1)|null|
-|**2023-07-15**|**Semi-Elastic LiDAR-Inertial Odometry**|Zikang Yuan et.al.|[2307.07792v1](http://arxiv.org/abs/2307.07792v1)|[link](https://github.com/ZikangYuan/semi_elastic_lio)|

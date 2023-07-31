@@ -2,10 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671v1](http://arxiv.org/abs/2307.15671v1)|null|
+|**2023-07-28**|**OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes**|Fei Teng et.al.|[2307.15588v1](http://arxiv.org/abs/2307.15588v1)|[link](https://github.com/feibryantkit/oafuser)|
+|**2023-07-28**|**Non-invasive Diabetes Detection using Gabor Filter: A Comparative Analysis of Different Cameras**|Christina A. Garcia et.al.|[2307.15480v1](http://arxiv.org/abs/2307.15480v1)|null|
+|**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443v1](http://arxiv.org/abs/2307.15443v1)|null|
+|**2023-07-28**|**Automated Visual Monitoring of Nocturnal Insects with Light-based Camera Traps**|Dimitri Korsch et.al.|[2307.15433v1](http://arxiv.org/abs/2307.15433v1)|null|
+|**2023-07-28**|**Robust Visual Sim-to-Real Transfer for Robotic Manipulation**|Ricardo Garcia et.al.|[2307.15320v1](http://arxiv.org/abs/2307.15320v1)|null|
+|**2023-07-28**|**A model independent parametrization of the optical properties of the refrozen IceCube drill holes**|Philipp Eller et.al.|[2307.15298v1](http://arxiv.org/abs/2307.15298v1)|null|
+|**2023-07-28**|**3D Radar and Camera Co-Calibration: A Flexible and Accurate Method for Target-based Extrinsic Calibration**|Lei Cheng et.al.|[2307.15264v1](http://arxiv.org/abs/2307.15264v1)|null|
+|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250v1](http://arxiv.org/abs/2307.15250v1)|null|
+|**2023-07-27**|**Photon discerner: Adaptive quantum optical sensing near the shot noise limit**|F. Bao et.al.|[2307.15141v1](http://arxiv.org/abs/2307.15141v1)|null|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-27**|**MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation**|Chenming Wu et.al.|[2307.14981v1](http://arxiv.org/abs/2307.14981v1)|null|
 |**2023-07-27**|**GET3D--: Learning GET3D from Unconstrained Image Collections**|Fanghua Yu et.al.|[2307.14918v1](http://arxiv.org/abs/2307.14918v1)|null|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889v1](http://arxiv.org/abs/2307.14889v1)|null|
+|**2023-07-27**|**Self-Supervised Learning for Improved Synthetic Aperture Sonar Target Recognition**|BW Sheffield et.al.|[2307.15098v1](http://arxiv.org/abs/2307.15098v1)|null|
 |**2023-07-27**|**Learning Full-Head 3D GANs from a Single-View Portrait Dataset**|Yiqian Wu et.al.|[2307.14770v1](http://arxiv.org/abs/2307.14770v1)|null|
 |**2023-07-27**|**High Dynamic Range Imaging via Visual Attention Modules**|Ali Reza Omrani et.al.|[2307.14705v1](http://arxiv.org/abs/2307.14705v1)|[link](https://github.com/alirezaomrani95/hdr-vam)|
 |**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei et.al.|[2307.14624v1](http://arxiv.org/abs/2307.14624v1)|null|
@@ -21,14 +32,3 @@
 |**2023-07-26**|**The nature of the X-ray sources in dwarf galaxies in nearby clusters from the KIWICS**|Şeyda Şen et.al.|[2307.14230v1](http://arxiv.org/abs/2307.14230v1)|null|
 |**2023-07-26**|**Tackling Scattering and Reflective Flare in Mobile Camera Systems: A Raw Image Dataset for Enhanced Flare Removal**|Fengbo Lan et.al.|[2307.14180v1](http://arxiv.org/abs/2307.14180v1)|null|
 |**2023-07-26**|**Memory-Efficient Graph Convolutional Networks for Object Classification and Detection with Event Cameras**|Kamil Jeziorek et.al.|[2307.14124v1](http://arxiv.org/abs/2307.14124v1)|null|
-|**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077v1](http://arxiv.org/abs/2307.14077v1)|[link](https://github.com/spikeai/2023_grimaldiperrinet_heterogeneousdelaysnn)|
-|**2023-07-26**|**Three-year performance of the IceAct telescopes at the IceCube Neutrino Observatory**|Lars Heuermann et.al.|[2307.13969v1](http://arxiv.org/abs/2307.13969v1)|null|
-|**2023-07-26**|**Towards a cosmic ray composition measurement with the IceAct telescopes at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
-|**2023-07-25**|**Decisive Data using Multi-Modality Optical Sensors for Advanced Vehicular Systems**|Muhammad Ali Farooq et.al.|[2307.13600v1](http://arxiv.org/abs/2307.13600v1)|null|
-|**2023-07-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wu et.al.|[2307.13510v1](http://arxiv.org/abs/2307.13510v1)|null|
-|**2023-07-25**|**Prior Based Online Lane Graph Extraction from Single Onboard Camera Image**|Yigit Baran Can et.al.|[2307.13344v1](http://arxiv.org/abs/2307.13344v1)|null|
-|**2023-07-25**|**A Visual Quality Assessment Method for Raster Images in Scanned Document**|Justin Yang et.al.|[2307.13241v1](http://arxiv.org/abs/2307.13241v1)|null|
-|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v2](http://arxiv.org/abs/2307.13131v2)|null|
-|**2023-07-24**|**Automatic Infant Respiration Estimation from Video: A Deep Flow-based Algorithm and a Novel Public Benchmark**|Sai Kumar Reddy Manne et.al.|[2307.13110v1](http://arxiv.org/abs/2307.13110v1)|[link](https://github.com/ostadabbas/infant-respiration-estimation)|
-|**2023-07-24**|**Freeform three-mirror anastigmatic large-aperture telescope and receiver optics for CMB-S4**|Patricio A. Gallardo et.al.|[2307.12931v1](http://arxiv.org/abs/2307.12931v1)|null|
-|**2023-07-24**|**Trust-aware Safe Control for Autonomous Navigation: Estimation of System-to-human Trust for Trust-adaptive Control Barrier Functions**|Saad Ejaz et.al.|[2307.12815v1](http://arxiv.org/abs/2307.12815v1)|null|
