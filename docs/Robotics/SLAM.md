@@ -28,7 +28,7 @@
 |**2023-06-22**|**Map Point Selection for Visual SLAM**|Christiaan J. Müller et.al.|[2306.12901v1](http://arxiv.org/abs/2306.12901v1)|[link](https://github.com/ChristiaanM/MapSelect)|
 |**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
 |**2023-06-19**|**UncLe-SLAM: Uncertainty Learning for Dense Neural SLAM**|Erik Sandström et.al.|[2306.11048v1](http://arxiv.org/abs/2306.11048v1)|null|
-|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561v1](http://arxiv.org/abs/2306.10561v1)|null|
+|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Yongjun Zhang et.al.|[2306.10561v2](http://arxiv.org/abs/2306.10561v2)|null|
 |**2023-06-18**|**Lighthouses and Global Graph Stabilization: Active SLAM for Low-compute, Narrow-FoV Robots**|Mohit Deshpande et.al.|[2306.10463v1](http://arxiv.org/abs/2306.10463v1)|null|
 |**2023-06-14**|**Investigation of the Challenges of Underwater-Visual-Monocular-SLAM**|Michele Grimaldi et.al.|[2306.08738v1](http://arxiv.org/abs/2306.08738v1)|null|
 |**2023-06-14**|**FROG: A new people detection dataset for knee-high 2D range finders**|Fernando Amodeo et.al.|[2306.08531v1](http://arxiv.org/abs/2306.08531v1)|[link](https://github.com/robotics-upo/2dlaserpeoplebenchmark)|

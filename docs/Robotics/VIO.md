@@ -17,7 +17,7 @@
 |**2023-07-24**|**Quantum GravitoElectromagnetic Dynamics**|Yoshimasa Kurihara et.al.|[2307.13003v1](http://arxiv.org/abs/2307.13003v1)|null|
 |**2023-07-23**|**Near-inertial wave propagation between stratified and homogeneous layers**|Hans van Haren et.al.|[2307.12303v1](http://arxiv.org/abs/2307.12303v1)|null|
 |**2023-07-22**|**Nonlinear Multi-Resonant Cavity Quantum Photonics Gyroscopes Quantum Light Navigation**|Mengdi Sun et.al.|[2307.12167v1](http://arxiv.org/abs/2307.12167v1)|null|
-|**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v2](http://arxiv.org/abs/2307.11998v2)|null|
+|**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
 |**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|[link](https://github.com/hkust-aerial-robotics/monolanemapping)|
 |**2023-07-21**|**Solving Pallet loading Problem with Real-World Constraints**|Marko Švaco et.al.|[2307.11531v1](http://arxiv.org/abs/2307.11531v1)|null|
 |**2023-07-21**|**Entropy and fluctuation relations in isotropic turbulence**|H. Yao et.al.|[2307.11311v1](http://arxiv.org/abs/2307.11311v1)|null|
