@@ -10,7 +10,7 @@
 |**2023-07-30**|**Uncertainty-Encoded Multi-Modal Fusion for Robust Object Detection in Autonomous Driving**|Yang Lou et.al.|[2307.16121v1](http://arxiv.org/abs/2307.16121v1)|null|
 |**2023-07-29**|**A New Multi-Level Hazy Image and Video Dataset for Benchmark of Dehazing Methods**|Bedrettin Cetinkaya et.al.|[2307.16050v1](http://arxiv.org/abs/2307.16050v1)|null|
 |**2023-07-29**|**CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation**|Ruihao Xia et.al.|[2307.15942v1](http://arxiv.org/abs/2307.15942v1)|[link](https://github.com/xiarho/cmda)|
-|**2023-07-28**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v1](http://arxiv.org/abs/2307.15829v1)|null|
+|**2023-07-28**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
 |**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834v1](http://arxiv.org/abs/2307.16834v1)|null|
 |**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671v1](http://arxiv.org/abs/2307.15671v1)|null|
 |**2023-07-28**|**OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes**|Fei Teng et.al.|[2307.15588v1](http://arxiv.org/abs/2307.15588v1)|[link](https://github.com/feibryantkit/oafuser)|
