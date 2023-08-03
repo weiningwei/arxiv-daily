@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
+|**2023-08-02**|**Interpreting Observed Interactions between Near-Inertial Waves and Mesoscale Eddies**|Scott Conn et.al.|[2308.00889v1](http://arxiv.org/abs/2308.00889v1)|null|
+|**2023-08-01**|**Mode coupling coefficients between the convective core and radiative envelope of $γ\,$Doradus and slowly pulsating B stars**|Conny Aerts et.al.|[2308.00764v1](http://arxiv.org/abs/2308.00764v1)|null|
 |**2023-08-01**|**UVIO: An UWB-Aided Visual-Inertial Odometry Framework with Bias-Compensated Anchors Initialization**|Giulio Delama et.al.|[2308.00513v1](http://arxiv.org/abs/2308.00513v1)|null|
 |**2023-08-01**|**On greedy multi-step inertial randomized Kaczmarz method for solving linear systems**|Yansheng Su et.al.|[2308.00467v1](http://arxiv.org/abs/2308.00467v1)|null|
 |**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117v1](http://arxiv.org/abs/2307.16117v1)|null|
@@ -29,6 +32,3 @@
 |**2023-07-20**|**The Structure of Turbulence in Pulsatile Flow over Urban Canopies**|Weiyi Li et.al.|[2307.11203v1](http://arxiv.org/abs/2307.11203v1)|null|
 |**2023-07-20**|**Development of an Autonomous Reverse Engineering Capability for Controller Area Network Messages to Support Autonomous Control Retrofits**|Kevin Setterstrom et.al.|[2307.11781v1](http://arxiv.org/abs/2307.11781v1)|null|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|[link](https://github.com/star-center/o-efmt)|
-|**2023-07-19**|**Turbulence Properties of Interplanetary Coronal Mass Ejections in the Inner Heliosphere: Dependence on Proton Beta and Flux Rope Structure**|S. W. Good et.al.|[2307.09800v1](http://arxiv.org/abs/2307.09800v1)|null|
-|**2023-07-18**|**General Formalism of the Quantum Equivalence Principle**|Saurya Das et.al.|[2307.09632v2](http://arxiv.org/abs/2307.09632v2)|null|
-|**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v1](http://arxiv.org/abs/2307.09531v1)|null|

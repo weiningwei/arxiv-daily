@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-02**|**Quantitative and dark field ghost imaging with ultraviolet light**|Jiaqi Song et.al.|[2308.01168v1](http://arxiv.org/abs/2308.01168v1)|null|
+|**2023-08-02**|**Hand tracking for clinical applications: validation of the Google MediaPipe Hand (GMH) and the depth-enhanced GMH-D frameworks**|Gianluca Amprimo et.al.|[2308.01088v1](http://arxiv.org/abs/2308.01088v1)|null|
+|**2023-08-02**|**Homography Estimation in Complex Topological Scenes**|Giacomo D'Amicantonio et.al.|[2308.01086v1](http://arxiv.org/abs/2308.01086v1)|null|
+|**2023-08-02**|**Point Anywhere: Directed Object Estimation from Omnidirectional Images**|Nanami Kotani et.al.|[2308.01010v1](http://arxiv.org/abs/2308.01010v1)|[link](https://github.com/nkotani/pointanywhere)|
+|**2023-08-02**|**FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving**|Tengju Ye et.al.|[2308.01006v1](http://arxiv.org/abs/2308.01006v1)|[link](https://github.com/westlake-autolab/fusionad)|
+|**2023-08-02**|**Towards Discriminative Representation with Meta-learning for Colonoscopic Polyp Re-Identification**|Suncheng Xiang et.al.|[2308.00929v1](http://arxiv.org/abs/2308.00929v1)|null|
+|**2023-08-02**|**Detection and Segmentation of Cosmic Objects Based on Adaptive Thresholding and Back Propagation Neural Network**|Samia Sultana et.al.|[2308.00926v1](http://arxiv.org/abs/2308.00926v1)|null|
+|**2023-08-02**|**Photometry, Centroid and Point-Spread Function Measurements in the LSST Camera Focal Plane Using Artificial Stars**|Johnny H. Esteves et.al.|[2308.00919v1](http://arxiv.org/abs/2308.00919v1)|null|
+|**2023-08-01**|**Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction**|Yufei Zhang et.al.|[2308.00799v1](http://arxiv.org/abs/2308.00799v1)|null|
 |**2023-08-01**|**MonoNext: A 3D Monocular Object Detection with ConvNext**|Marcelo Eduardo Pederiva et.al.|[2308.00596v1](http://arxiv.org/abs/2308.00596v1)|null|
 |**2023-08-01**|**Sliding Touch-based Exploration for Modeling Unknown Object Shape with Multi-fingered Hands**|Yiting Chen et.al.|[2308.00576v1](http://arxiv.org/abs/2308.00576v1)|null|
 |**2023-08-01**|**Extending Lunar Impact Flash Observations into the Daytime with Short-Wave Infrared**|Daniel Sheward et.al.|[2308.00510v1](http://arxiv.org/abs/2308.00510v1)|null|
@@ -23,12 +32,3 @@
 |**2023-07-29**|**A New Multi-Level Hazy Image and Video Dataset for Benchmark of Dehazing Methods**|Bedrettin Cetinkaya et.al.|[2307.16050v1](http://arxiv.org/abs/2307.16050v1)|null|
 |**2023-07-29**|**CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation**|Ruihao Xia et.al.|[2307.15942v1](http://arxiv.org/abs/2307.15942v1)|[link](https://github.com/xiarho/cmda)|
 |**2023-07-28**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
-|**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834v1](http://arxiv.org/abs/2307.16834v1)|null|
-|**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671v1](http://arxiv.org/abs/2307.15671v1)|null|
-|**2023-07-28**|**OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes**|Fei Teng et.al.|[2307.15588v1](http://arxiv.org/abs/2307.15588v1)|[link](https://github.com/feibryantkit/oafuser)|
-|**2023-07-28**|**Non-invasive Diabetes Detection using Gabor Filter: A Comparative Analysis of Different Cameras**|Christina A. Garcia et.al.|[2307.15480v1](http://arxiv.org/abs/2307.15480v1)|null|
-|**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443v1](http://arxiv.org/abs/2307.15443v1)|null|
-|**2023-07-28**|**Automated Visual Monitoring of Nocturnal Insects with Light-based Camera Traps**|Dimitri Korsch et.al.|[2307.15433v1](http://arxiv.org/abs/2307.15433v1)|null|
-|**2023-07-28**|**Investigating the Learning Behaviour of In-context Learning: A Comparison with Supervised Learning**|Xindi Wang et.al.|[2307.15411v2](http://arxiv.org/abs/2307.15411v2)|[link](https://github.com/xdwang0726/icl_ll)|
-|**2023-07-28**|**Robust Visual Sim-to-Real Transfer for Robotic Manipulation**|Ricardo Garcia et.al.|[2307.15320v1](http://arxiv.org/abs/2307.15320v1)|null|
-|**2023-07-28**|**A model independent parametrization of the optical properties of the refrozen IceCube drill holes**|Philipp Eller et.al.|[2307.15298v1](http://arxiv.org/abs/2307.15298v1)|null|
