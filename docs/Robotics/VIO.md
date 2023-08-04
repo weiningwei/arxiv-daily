@@ -27,7 +27,7 @@
 |**2023-07-22**|**Nonlinear Multi-Resonant Cavity Quantum Photonics Gyroscopes Quantum Light Navigation**|Mengdi Sun et.al.|[2307.12167v1](http://arxiv.org/abs/2307.12167v1)|null|
 |**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
 |**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|[link](https://github.com/hkust-aerial-robotics/monolanemapping)|
-|**2023-07-21**|**Solving Pallet loading Problem with Real-World Constraints**|Marko Švaco et.al.|[2307.11531v1](http://arxiv.org/abs/2307.11531v1)|null|
+|**2023-07-21**|**Solving Pallet loading Problem with Real-World Constraints**|Marko Švaco et.al.|[2307.11531v2](http://arxiv.org/abs/2307.11531v2)|null|
 |**2023-07-21**|**Entropy and fluctuation relations in isotropic turbulence**|H. Yao et.al.|[2307.11311v1](http://arxiv.org/abs/2307.11311v1)|null|
 |**2023-07-20**|**The Structure of Turbulence in Pulsatile Flow over Urban Canopies**|Weiyi Li et.al.|[2307.11203v1](http://arxiv.org/abs/2307.11203v1)|null|
 |**2023-07-20**|**Development of an Autonomous Reverse Engineering Capability for Controller Area Network Messages to Support Autonomous Control Retrofits**|Kevin Setterstrom et.al.|[2307.11781v1](http://arxiv.org/abs/2307.11781v1)|null|
