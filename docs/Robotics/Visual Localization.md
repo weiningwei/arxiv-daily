@@ -29,6 +29,6 @@
 |**2023-08-01**|**Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**|Matti Henning et.al.|[2308.00330v1](http://arxiv.org/abs/2308.00330v1)|null|
 |**2023-08-01**|**Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)**|Chaochao Zhou et.al.|[2308.00214v1](http://arxiv.org/abs/2308.00214v1)|null|
 |**2023-07-31**|**Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches**|Nuno Cunha et.al.|[2308.00159v1](http://arxiv.org/abs/2308.00159v1)|[link](https://github.com/cybonic/misagriculture)|
-|**2023-07-31**|**Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor**|Qingyuan Jiang et.al.|[2308.00134v1](http://arxiv.org/abs/2308.00134v1)|null|
+|**2023-07-31**|**Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor**|Qingyuan Jiang et.al.|[2308.00134v1](http://arxiv.org/abs/2308.00134v1)|[link](https://github.com/qingyuan-jiang/view_planning_3dhuman)|
 |**2023-07-31**|**AirTouch: Towards Safe Human-Robot Interaction Using Air Pressure Feedback and IR Mocap System**|Viktor Rakhmatulin et.al.|[2308.00096v1](http://arxiv.org/abs/2308.00096v1)|null|
-|**2023-07-31**|**A Hybrid Classical Quantum Computing Approach to the Satellite Mission Planning Problem**|Nils Quetschlich et.al.|[2308.00029v1](http://arxiv.org/abs/2308.00029v1)|null|
+|**2023-07-31**|**A Hybrid Classical Quantum Computing Approach to the Satellite Mission Planning Problem**|Nils Quetschlich et.al.|[2308.00029v1](http://arxiv.org/abs/2308.00029v1)|[link](https://github.com/cda-tum/mqt-problemsolver)|
