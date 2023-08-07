@@ -2,11 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-04**|**JWST/NIRCam Coronagraphy of the Young Planet-hosting Debris Disk AU Microscopii**|Kellen Lawson et.al.|[2308.02486v1](http://arxiv.org/abs/2308.02486v1)|null|
+|**2023-08-04**|**FB-BEV: BEV Representation from Forward-Backward View Transformations**|Zhiqi Li et.al.|[2308.02236v1](http://arxiv.org/abs/2308.02236v1)|null|
+|**2023-08-04**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153v1](http://arxiv.org/abs/2308.02153v1)|null|
+|**2023-08-04**|**World-Model-Based Control for Industrial box-packing of Multiple Objects using NewtonianVAE**|Yusuke Kato et.al.|[2308.02136v1](http://arxiv.org/abs/2308.02136v1)|null|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898v1](http://arxiv.org/abs/2308.01898v1)|null|
 |**2023-08-03**|**Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopter**|Luca Crupi et.al.|[2308.01833v1](http://arxiv.org/abs/2308.01833v1)|null|
 |**2023-08-03**|**QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception**|Siqi Fan et.al.|[2308.01804v1](http://arxiv.org/abs/2308.01804v1)|null|
+|**2023-08-03**|**Maximum-likelihood estimation in ptychography in the presence of Poisson-Gaussian noise statistics**|Jacob Seifert et.al.|[2308.02436v1](http://arxiv.org/abs/2308.02436v1)|null|
 |**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686v1](http://arxiv.org/abs/2308.01686v1)|null|
 |**2023-08-03**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661v2](http://arxiv.org/abs/2308.01661v2)|null|
+|**2023-08-03**|**An M dwarf accompanied by a close-in giant orbiter with SPECULOOS**|Amaury H. M. J. Triaud et.al.|[2308.02253v1](http://arxiv.org/abs/2308.02253v1)|null|
 |**2023-08-03**|**DMDC: Dynamic-mask-based dual camera design for snapshot Hyperspectral Imaging**|Zeyu Cai et.al.|[2308.01541v1](http://arxiv.org/abs/2308.01541v1)|[link](https://github.com/caizeyu1992/dmdc)|
 |**2023-08-03**|**The Influence of Satellite Trails on H.E.S.S. Gamma-Ray Astronomical Observations**|Samuel T. Spencer et.al.|[2308.01509v1](http://arxiv.org/abs/2308.01509v1)|null|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
@@ -26,9 +32,3 @@
 |**2023-08-01**|**Space Debris: Are Deep Learning-based Image Enhancements part of the Solution?**|Michele Jamrozik et.al.|[2308.00408v1](http://arxiv.org/abs/2308.00408v1)|null|
 |**2023-08-01**|**On the Generation of a Synthetic Event-Based Vision Dataset for Navigation and Landing**|Loïc J. Azzalini et.al.|[2308.00394v1](http://arxiv.org/abs/2308.00394v1)|[link](https://gitlab.com/europeanspaceagency/trajectory-to-events)|
 |**2023-08-01**|**Kidnapping Deep Learning-based Multirotors using Optimized Flying Adversarial Patches**|Pia Hanfeld et.al.|[2308.00344v1](http://arxiv.org/abs/2308.00344v1)|null|
-|**2023-08-01**|**Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**|Matti Henning et.al.|[2308.00330v1](http://arxiv.org/abs/2308.00330v1)|null|
-|**2023-08-01**|**Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)**|Chaochao Zhou et.al.|[2308.00214v1](http://arxiv.org/abs/2308.00214v1)|null|
-|**2023-07-31**|**Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches**|Nuno Cunha et.al.|[2308.00159v1](http://arxiv.org/abs/2308.00159v1)|[link](https://github.com/cybonic/misagriculture)|
-|**2023-07-31**|**Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor**|Qingyuan Jiang et.al.|[2308.00134v1](http://arxiv.org/abs/2308.00134v1)|[link](https://github.com/qingyuan-jiang/view_planning_3dhuman)|
-|**2023-07-31**|**AirTouch: Towards Safe Human-Robot Interaction Using Air Pressure Feedback and IR Mocap System**|Viktor Rakhmatulin et.al.|[2308.00096v1](http://arxiv.org/abs/2308.00096v1)|null|
-|**2023-07-31**|**A Hybrid Classical Quantum Computing Approach to the Satellite Mission Planning Problem**|Nils Quetschlich et.al.|[2308.00029v1](http://arxiv.org/abs/2308.00029v1)|[link](https://github.com/cda-tum/mqt-problemsolver)|

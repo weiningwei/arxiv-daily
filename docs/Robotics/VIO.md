@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03**|**Microscopic Gyration with Dissipative Coupling**|Soham Dutta et.al.|[2308.02085v1](http://arxiv.org/abs/2308.02085v1)|null|
 |**2023-08-03**|**Optimizing Sorting of Micro-Sized Bio-Cells in Symmetric Serpentine Microchannel using Machine Learning**|Sayan Karmakar et.al.|[2308.01701v1](http://arxiv.org/abs/2308.01701v1)|null|
 |**2023-08-03**|**Kinematic Afterslip Patterns**|Brendan J. Meade et.al.|[2308.01510v1](http://arxiv.org/abs/2308.01510v1)|null|
 |**2023-08-02**|**LiDAR View Synthesis for Robust Vehicle Navigation Without Expert Labels**|Jonathan Schmidt et.al.|[2308.01424v1](http://arxiv.org/abs/2308.01424v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-22**|**Nonlinear Multi-Resonant Cavity Quantum Photonics Gyroscopes Quantum Light Navigation**|Mengdi Sun et.al.|[2307.12167v1](http://arxiv.org/abs/2307.12167v1)|null|
 |**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
 |**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|[link](https://github.com/hkust-aerial-robotics/monolanemapping)|
-|**2023-07-21**|**Solving Pallet loading Problem with Real-World Constraints**|Marko Švaco et.al.|[2307.11531v2](http://arxiv.org/abs/2307.11531v2)|null|
