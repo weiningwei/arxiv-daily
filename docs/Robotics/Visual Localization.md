@@ -6,7 +6,7 @@
 |**2023-08-03**|**Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopter**|Luca Crupi et.al.|[2308.01833v1](http://arxiv.org/abs/2308.01833v1)|null|
 |**2023-08-03**|**QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception**|Siqi Fan et.al.|[2308.01804v1](http://arxiv.org/abs/2308.01804v1)|null|
 |**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686v1](http://arxiv.org/abs/2308.01686v1)|null|
-|**2023-08-03**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661v1](http://arxiv.org/abs/2308.01661v1)|null|
+|**2023-08-03**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661v2](http://arxiv.org/abs/2308.01661v2)|null|
 |**2023-08-03**|**DMDC: Dynamic-mask-based dual camera design for snapshot Hyperspectral Imaging**|Zeyu Cai et.al.|[2308.01541v1](http://arxiv.org/abs/2308.01541v1)|[link](https://github.com/caizeyu1992/dmdc)|
 |**2023-08-03**|**The Influence of Satellite Trails on H.E.S.S. Gamma-Ray Astronomical Observations**|Samuel T. Spencer et.al.|[2308.01509v1](http://arxiv.org/abs/2308.01509v1)|null|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
