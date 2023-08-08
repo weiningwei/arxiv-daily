@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-07**|**SEM-GAT: Explainable Semantic Pose Estimation using Learned Graph Attention**|Efimia Panagiotaki et.al.|[2308.03718v1](http://arxiv.org/abs/2308.03718v1)|null|
+|**2023-08-07**|**Acoustodynamic mass determination: Accounting for inertial effects in acoustic levitation of granular materials**|Mia C. Morrell et.al.|[2308.03682v1](http://arxiv.org/abs/2308.03682v1)|null|
+|**2023-08-07**|**Colliding of two high Mach-number quantum degenerate plasma jets**|W. B. Zhang et.al.|[2308.03336v1](http://arxiv.org/abs/2308.03336v1)|null|
+|**2023-08-06**|**PNN: From proximal algorithms to robust unfolded image denoising networks and Plug-and-Play methods**|Hoang Trieu Vy Le et.al.|[2308.03139v1](http://arxiv.org/abs/2308.03139v1)|null|
+|**2023-08-06**|**Self-similarity and the direct (enstrophy) cascade in two-dimensional fluid turbulence**|Mateo Reynoso et.al.|[2308.03007v1](http://arxiv.org/abs/2308.03007v1)|null|
+|**2023-08-05**|**VoxelMap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry**|Yifei Yuan et.al.|[2308.02799v1](http://arxiv.org/abs/2308.02799v1)|null|
+|**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670v1](http://arxiv.org/abs/2308.02670v1)|null|
 |**2023-08-03**|**Microscopic Gyration with Dissipative Coupling**|Soham Dutta et.al.|[2308.02085v1](http://arxiv.org/abs/2308.02085v1)|null|
 |**2023-08-03**|**Optimizing Sorting of Micro-Sized Bio-Cells in Symmetric Serpentine Microchannel using Machine Learning**|Sayan Karmakar et.al.|[2308.01701v1](http://arxiv.org/abs/2308.01701v1)|null|
 |**2023-08-03**|**Kinematic Afterslip Patterns**|Brendan J. Meade et.al.|[2308.01510v1](http://arxiv.org/abs/2308.01510v1)|null|
@@ -25,10 +32,3 @@
 |**2023-07-25**|**Preferential acceleration of heavy ions in magnetic reconnection: Hybrid-kinetic simulations with electron inertia**|Neeraj Jain et.al.|[2307.13268v1](http://arxiv.org/abs/2307.13268v1)|null|
 |**2023-07-24**|**Fluid pendulum explains reversals of the large-scale circulation in thermal convection**|Nicholas J. Moore et.al.|[2307.13148v2](http://arxiv.org/abs/2307.13148v2)|null|
 |**2023-07-24**|**GNSS-stereo-inertial SLAM for arable farming**|Javier Cremona et.al.|[2307.12836v1](http://arxiv.org/abs/2307.12836v1)|[link](https://github.com/CIFASIS/gnss-stereo-inertial-fusion)|
-|**2023-07-24**|**BonnBot-I: A Precise Weed Management and Crop Monitoring Platform**|Alireza Ahmadi et.al.|[2307.12588v1](http://arxiv.org/abs/2307.12588v1)|null|
-|**2023-07-24**|**Viscous and inertial forces between translating and growing bubbles in close proximity**|Jean-Lou Pierson et.al.|[2307.12570v1](http://arxiv.org/abs/2307.12570v1)|null|
-|**2023-07-24**|**Quantum GravitoElectromagnetic Dynamics**|Yoshimasa Kurihara et.al.|[2307.13003v1](http://arxiv.org/abs/2307.13003v1)|null|
-|**2023-07-23**|**Near-inertial wave propagation between stratified and homogeneous layers**|Hans van Haren et.al.|[2307.12303v1](http://arxiv.org/abs/2307.12303v1)|null|
-|**2023-07-22**|**Nonlinear Multi-Resonant Cavity Quantum Photonics Gyroscopes Quantum Light Navigation**|Mengdi Sun et.al.|[2307.12167v1](http://arxiv.org/abs/2307.12167v1)|null|
-|**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
-|**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|[link](https://github.com/hkust-aerial-robotics/monolanemapping)|
