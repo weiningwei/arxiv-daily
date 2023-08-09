@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-08 21:11:09 Asia/Shanghai
+ Automated deployment @ 2023-08-09 08:37:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -116,7 +116,7 @@
 |**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492v1](http://arxiv.org/abs/2308.03492v1)|null|
 |**2023-08-07**|**Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising**|Xin Jin et.al.|[2308.03448v1](http://arxiv.org/abs/2308.03448v1)|[link](https://github.com/srameo/led)|
 |**2023-08-07**|**VR-based body tracking to stimulate musculoskeletal training**|M. Neidhardt et.al.|[2308.03375v1](http://arxiv.org/abs/2308.03375v1)|null|
-|**2023-08-07**|**Spatialyze: A Geospatial Video Analytics System with Spatial-Aware Optimizations**|Chanwut Kittivorawong et.al.|[2308.03276v1](http://arxiv.org/abs/2308.03276v1)|null|
+|**2023-08-07**|**Spatialyze: A Geospatial Video Analytics System with Spatial-Aware Optimizations**|Chanwut Kittivorawong et.al.|[2308.03276v2](http://arxiv.org/abs/2308.03276v2)|[link](https://github.com/apperception-db/spatialyze)|
 |**2023-08-06**|**Unmasking the Invisible: Finding Location-Specific Aggregated Air Quality Index with Smartphone-Captured Images**|Joyanta Jyoti Mondal et.al.|[2308.03200v1](http://arxiv.org/abs/2308.03200v1)|null|
 |**2023-08-06**|**Syn-Mediverse: A Multimodal Synthetic Dataset for Intelligent Scene Understanding of Healthcare Facilities**|Rohit Mohan et.al.|[2308.03193v1](http://arxiv.org/abs/2308.03193v1)|null|
 |**2023-08-06**|**MetaCast: A Self-Driven Metaverse Announcer Architecture Based on Quality of Experience Evaluation Model**|Zhonghao Lin et.al.|[2308.03165v1](http://arxiv.org/abs/2308.03165v1)|null|
