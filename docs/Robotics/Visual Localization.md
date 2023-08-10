@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-09**|**StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability**|Tengchuan Kou et.al.|[2308.04904v1](http://arxiv.org/abs/2308.04904v1)|null|
+|**2023-08-09**|**Tracking Players in a Badminton Court by Two Cameras**|Young-Ching Chou et.al.|[2308.04872v1](http://arxiv.org/abs/2308.04872v1)|null|
+|**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749v1](http://arxiv.org/abs/2308.04749v1)|null|
+|**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622v1](http://arxiv.org/abs/2308.04622v1)|null|
+|**2023-08-08**|**LATR: 3D Lane Detection from Monocular Images with Transformer**|Yueru Luo et.al.|[2308.04583v1](http://arxiv.org/abs/2308.04583v1)|null|
+|**2023-08-08**|**Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation**|Shuangrui Ding et.al.|[2308.04549v1](http://arxiv.org/abs/2308.04549v1)|null|
 |**2023-08-08**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v2](http://arxiv.org/abs/2308.04402v2)|null|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[link](https://github.com/event-ahu/sstformer)|
 |**2023-08-08**|**Apple Vision Pro for Healthcare: "The Ultimate Display"? -- Entering the Wonderland of Precision**|Jan Egger et.al.|[2308.04313v2](http://arxiv.org/abs/2308.04313v2)|null|
@@ -26,9 +32,3 @@
 |**2023-08-06**|**LARCH: Large Language Model-based Automatic Readme Creation with Heuristics**|Yuta Koreeda et.al.|[2308.03099v1](http://arxiv.org/abs/2308.03099v1)|[link](https://github.com/hitachi-nlp/larch)|
 |**2023-08-06**|**Towards Scene-Text to Scene-Text Translation**|Onkar Susladkar et.al.|[2308.03024v1](http://arxiv.org/abs/2308.03024v1)|null|
 |**2023-08-06**|**Recurrent Spike-based Image Restoration under General Illumination**|Lin Zhu et.al.|[2308.03018v1](http://arxiv.org/abs/2308.03018v1)|[link](https://github.com/bit-vision/rsir)|
-|**2023-08-05**|**Robust estimation of exposure ratios in multi-exposure image stacks**|Param Hanji et.al.|[2308.02968v1](http://arxiv.org/abs/2308.02968v1)|[link](https://github.com/gfxdisp/hdrutils)|
-|**2023-08-05**|**Elucidate Gender Fairness in Singing Voice Transcription**|Xiangming Gu et.al.|[2308.02898v1](http://arxiv.org/abs/2308.02898v1)|null|
-|**2023-08-05**|**DISCO: An optical instrument to calibrate neutrino detection in complex media**|Carsten Rott et.al.|[2308.02830v1](http://arxiv.org/abs/2308.02830v1)|null|
-|**2023-08-05**|**Thin On-Sensor Nanophotonic Array Cameras**|Praneeth Chakravarthula et.al.|[2308.02797v1](http://arxiv.org/abs/2308.02797v1)|null|
-|**2023-08-05**|**Polarization-insensitive dual-wavelength dispersion tunable metalens achieved by global modulation method**|Haohan Chen et.al.|[2308.02789v1](http://arxiv.org/abs/2308.02789v1)|null|
-|**2023-08-04**|**Fluid Property Prediction Leveraging AI and Robotics**|Jong Hoon Park et.al.|[2308.02715v1](http://arxiv.org/abs/2308.02715v1)|[link](https://github.com/baratilab/vid2visc)|

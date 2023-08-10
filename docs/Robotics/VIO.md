@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-09**|**High-fidelity simulation of pebble beds: Toward an improved understanding of the wall channeling effect**|David Reger et.al.|[2308.05031v1](http://arxiv.org/abs/2308.05031v1)|null|
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423v1](http://arxiv.org/abs/2308.04423v1)|null|
 |**2023-08-08**|**From Unimodal to Multimodal: improving the sEMG-Based Pattern Recognition via deep generative models**|Wentao Wei et.al.|[2308.04091v1](http://arxiv.org/abs/2308.04091v1)|null|
 |**2023-08-07**|**SEM-GAT: Explainable Semantic Pose Estimation using Learned Graph Attention**|Efimia Panagiotaki et.al.|[2308.03718v1](http://arxiv.org/abs/2308.03718v1)|null|
@@ -21,7 +22,7 @@
 |**2023-08-01**|**Mode coupling coefficients between the convective core and radiative envelope of $γ\,$Doradus and slowly pulsating B stars**|Conny Aerts et.al.|[2308.00764v1](http://arxiv.org/abs/2308.00764v1)|null|
 |**2023-08-01**|**UVIO: An UWB-Aided Visual-Inertial Odometry Framework with Bias-Compensated Anchors Initialization**|Giulio Delama et.al.|[2308.00513v1](http://arxiv.org/abs/2308.00513v1)|null|
 |**2023-08-01**|**On greedy multi-step inertial randomized Kaczmarz method for solving linear systems**|Yansheng Su et.al.|[2308.00467v1](http://arxiv.org/abs/2308.00467v1)|null|
-|**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117v2](http://arxiv.org/abs/2307.16117v2)|[link](https://github.com/Star-sunny/Fast-CFEAR-Radar-Odometry)|
+|**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117v2](http://arxiv.org/abs/2307.16117v2)|[link](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
 |**2023-07-28**|**Exact intermittent solutions in a turbulence multi branch shell model**|Ben Ajzner et.al.|[2307.15505v1](http://arxiv.org/abs/2307.15505v1)|null|
 |**2023-07-28**|**Curiosity-Driven Reinforcement Learning based Low-Level Flight Control**|Amir Ramezani Dooraki et.al.|[2307.15724v1](http://arxiv.org/abs/2307.15724v1)|[link](https://github.com/a-ramezani/cdrl-l2fc_u_hcm)|
 |**2023-07-28**|**Scaling transition of active turbulence from two to three dimensions**|Da Wei et.al.|[2307.15720v1](http://arxiv.org/abs/2307.15720v1)|null|
@@ -31,4 +32,3 @@
 |**2023-07-26**|**Improved Ion Heating in Fast Ignition by Pulse Shaping**|Henry Fetsch et.al.|[2307.13988v1](http://arxiv.org/abs/2307.13988v1)|null|
 |**2023-07-25**|**Comparing phase-space and phenomenological modeling approaches for Lagrangian particles settling in a turbulent boundary layer**|Andrew P. Grace et.al.|[2307.13659v1](http://arxiv.org/abs/2307.13659v1)|null|
 |**2023-07-25**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513v2](http://arxiv.org/abs/2307.13513v2)|null|
-|**2023-07-25**|**Preferential acceleration of heavy ions in magnetic reconnection: Hybrid-kinetic simulations with electron inertia**|Neeraj Jain et.al.|[2307.13268v1](http://arxiv.org/abs/2307.13268v1)|null|
