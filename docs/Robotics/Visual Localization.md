@@ -2,9 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-08**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v1](http://arxiv.org/abs/2308.04402v1)|null|
+|**2023-08-08**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v2](http://arxiv.org/abs/2308.04402v2)|null|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[link](https://github.com/event-ahu/sstformer)|
-|**2023-08-08**|**Apple Vision Pro for Healthcare: "The Ultimate Display"?**|Jan Egger et.al.|[2308.04313v1](http://arxiv.org/abs/2308.04313v1)|null|
+|**2023-08-08**|**Apple Vision Pro for Healthcare: "The Ultimate Display"? -- Entering the Wonderland of Precision**|Jan Egger et.al.|[2308.04313v2](http://arxiv.org/abs/2308.04313v2)|null|
 |**2023-08-08**|**Blur aware metric depth estimation with multi-focus plenoptic cameras**|Mathieu Labussière et.al.|[2308.04252v1](http://arxiv.org/abs/2308.04252v1)|null|
 |**2023-08-08**|**Will your Doorbell Camera still recognize you as you grow old**|Wang Yao et.al.|[2308.04224v1](http://arxiv.org/abs/2308.04224v1)|null|
 |**2023-08-08**|**On Monotonic Aggregation for Open-domain QA**|Sang-eun Han et.al.|[2308.04176v1](http://arxiv.org/abs/2308.04176v1)|[link](https://github.com/yeonseokjeong/judge-specialist)|
