@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
+|**2023-08-10**|**MobiScout: A Scalable Cloud-Based Driving and Activity Monitoring Platform Featuring an IOS App and a WatchOS Extension**|Kojo Konadu Adu-Gyamfi et.al.|[2308.05698v1](http://arxiv.org/abs/2308.05698v1)|null|
+|**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
+|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer et.al.|[2308.05504v1](http://arxiv.org/abs/2308.05504v1)|null|
+|**2023-08-10**|**Fast calibration for ultrasound imaging guidance based on depth camera**|Fuqiang Zhao et.al.|[2308.05401v1](http://arxiv.org/abs/2308.05401v1)|null|
+|**2023-08-10**|**Robust Localization with Visual-Inertial Odometry Constraints for Markerless Mobile AR**|Changkun Liu et.al.|[2308.05394v1](http://arxiv.org/abs/2308.05394v1)|null|
+|**2023-08-10**|**Co-movement Pattern Mining from Videos**|Dongxiang Zhang et.al.|[2308.05370v1](http://arxiv.org/abs/2308.05370v1)|null|
+|**2023-08-10**|**Visibility-Constrained Control of Multirotor via Reference Governor**|Dabin Kim et.al.|[2308.05334v1](http://arxiv.org/abs/2308.05334v1)|null|
+|**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303v1](http://arxiv.org/abs/2308.05303v1)|null|
 |**2023-08-09**|**StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability**|Tengchuan Kou et.al.|[2308.04904v2](http://arxiv.org/abs/2308.04904v2)|null|
 |**2023-08-09**|**Tracking Players in a Badminton Court by Two Cameras**|Young-Ching Chou et.al.|[2308.04872v1](http://arxiv.org/abs/2308.04872v1)|null|
 |**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749v1](http://arxiv.org/abs/2308.04749v1)|[link](https://github.com/braincog-x/brain-cog)|
@@ -23,12 +32,3 @@
 |**2023-08-07**|**Segmentation Framework for Heat Loss Identification in Thermal Images: Empowering Scottish Retrofitting and Thermographic Survey Companies**|Md Junayed Hasan et.al.|[2308.03631v1](http://arxiv.org/abs/2308.03631v1)|null|
 |**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492v1](http://arxiv.org/abs/2308.03492v1)|null|
 |**2023-08-07**|**Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising**|Xin Jin et.al.|[2308.03448v1](http://arxiv.org/abs/2308.03448v1)|[link](https://github.com/srameo/led)|
-|**2023-08-07**|**VR-based body tracking to stimulate musculoskeletal training**|M. Neidhardt et.al.|[2308.03375v1](http://arxiv.org/abs/2308.03375v1)|null|
-|**2023-08-07**|**Spatialyze: A Geospatial Video Analytics System with Spatial-Aware Optimizations**|Chanwut Kittivorawong et.al.|[2308.03276v2](http://arxiv.org/abs/2308.03276v2)|[link](https://github.com/apperception-db/spatialyze)|
-|**2023-08-06**|**Unmasking the Invisible: Finding Location-Specific Aggregated Air Quality Index with Smartphone-Captured Images**|Joyanta Jyoti Mondal et.al.|[2308.03200v1](http://arxiv.org/abs/2308.03200v1)|null|
-|**2023-08-06**|**Syn-Mediverse: A Multimodal Synthetic Dataset for Intelligent Scene Understanding of Healthcare Facilities**|Rohit Mohan et.al.|[2308.03193v1](http://arxiv.org/abs/2308.03193v1)|null|
-|**2023-08-06**|**MetaCast: A Self-Driven Metaverse Announcer Architecture Based on Quality of Experience Evaluation Model**|Zhonghao Lin et.al.|[2308.03165v1](http://arxiv.org/abs/2308.03165v1)|null|
-|**2023-08-06**|**E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP**|Jiazhou Zhou et.al.|[2308.03135v1](http://arxiv.org/abs/2308.03135v1)|null|
-|**2023-08-06**|**LARCH: Large Language Model-based Automatic Readme Creation with Heuristics**|Yuta Koreeda et.al.|[2308.03099v1](http://arxiv.org/abs/2308.03099v1)|[link](https://github.com/hitachi-nlp/larch)|
-|**2023-08-06**|**Towards Scene-Text to Scene-Text Translation**|Onkar Susladkar et.al.|[2308.03024v1](http://arxiv.org/abs/2308.03024v1)|null|
-|**2023-08-06**|**Recurrent Spike-based Image Restoration under General Illumination**|Lin Zhu et.al.|[2308.03018v1](http://arxiv.org/abs/2308.03018v1)|[link](https://github.com/bit-vision/rsir)|
