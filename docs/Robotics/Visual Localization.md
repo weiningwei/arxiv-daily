@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-11**|**ACCESS, LRG-BEASTS, & MOPSS: Featureless Optical Transmission Spectra of WASP-25b and WASP-124b**|Chima D. McGruder et.al.|[2308.06263v1](http://arxiv.org/abs/2308.06263v1)|null|
+|**2023-08-11**|**A new simulation framework for IceCube Upgrade calibration using IceCube Upgrade Camera system**|Christoph Tönnis et.al.|[2308.06247v1](http://arxiv.org/abs/2308.06247v1)|null|
+|**2023-08-11**|**Physical Adversarial Attacks For Camera-based Smart Systems: Current Trends, Categorization, Applications, Research Challenges, and Future Outlook**|Amira Guesmi et.al.|[2308.06173v1](http://arxiv.org/abs/2308.06173v1)|null|
+|**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147v1](http://arxiv.org/abs/2308.06147v1)|null|
+|**2023-08-11**|**Automated Construction of Time-Space Diagrams for Traffic Analysis Using Street-View Video Sequence**|Tanay Rastogi et.al.|[2308.06098v1](http://arxiv.org/abs/2308.06098v1)|null|
+|**2023-08-11**|**Audio-Visual Spatial Integration and Recursive Attention for Robust Sound Source Localization**|Sung Jin Um et.al.|[2308.06087v1](http://arxiv.org/abs/2308.06087v1)|null|
+|**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
+|**2023-08-10**|**First laboratory demonstration of real-time multi-wavefront sensor single conjugate adaptive optics**|Benjamin L. Gerard et.al.|[2308.05863v1](http://arxiv.org/abs/2308.05863v1)|null|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
 |**2023-08-10**|**MobiScout: A Scalable Cloud-Based Driving and Activity Monitoring Platform Featuring an IOS App and a WatchOS Extension**|Kojo Konadu Adu-Gyamfi et.al.|[2308.05698v1](http://arxiv.org/abs/2308.05698v1)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
@@ -24,11 +32,3 @@
 |**2023-08-08**|**Will your Doorbell Camera still recognize you as you grow old**|Wang Yao et.al.|[2308.04224v1](http://arxiv.org/abs/2308.04224v1)|null|
 |**2023-08-08**|**On Monotonic Aggregation for Open-domain QA**|Sang-eun Han et.al.|[2308.04176v1](http://arxiv.org/abs/2308.04176v1)|[link](https://github.com/yeonseokjeong/judge-specialist)|
 |**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163v1](http://arxiv.org/abs/2308.04163v1)|[link](https://github.com/namecantbenull/srudc)|
-|**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079v1](http://arxiv.org/abs/2308.04079v1)|null|
-|**2023-08-08**|**SODFormer: Streaming Object Detection with Transformer Using Events and Frames**|Dianze Li et.al.|[2308.04047v1](http://arxiv.org/abs/2308.04047v1)|[link](https://github.com/dianzl/sodformer)|
-|**2023-08-07**|**Composite Bulges -- III. A Study of Nuclear Star Clusters in Nearby Spiral Galaxies**|Aishwarya Ashok et.al.|[2308.03913v1](http://arxiv.org/abs/2308.03913v1)|null|
-|**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757v1](http://arxiv.org/abs/2308.03757v1)|null|
-|**2023-08-07**|**Video-based Person Re-identification with Long Short-Term Representation Learning**|Xuehu Liu et.al.|[2308.03703v1](http://arxiv.org/abs/2308.03703v1)|null|
-|**2023-08-07**|**Segmentation Framework for Heat Loss Identification in Thermal Images: Empowering Scottish Retrofitting and Thermographic Survey Companies**|Md Junayed Hasan et.al.|[2308.03631v1](http://arxiv.org/abs/2308.03631v1)|null|
-|**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492v1](http://arxiv.org/abs/2308.03492v1)|null|
-|**2023-08-07**|**Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising**|Xin Jin et.al.|[2308.03448v1](http://arxiv.org/abs/2308.03448v1)|[link](https://github.com/srameo/led)|
