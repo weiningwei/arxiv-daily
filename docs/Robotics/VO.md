@@ -20,7 +20,7 @@
 |**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
 |**2023-07-21**|**Online Monocular Lane Mapping Using Catmull-Rom Spline**|Zhijian Qiao et.al.|[2307.11653v1](http://arxiv.org/abs/2307.11653v1)|[link](https://github.com/hkust-aerial-robotics/monolanemapping)|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|[link](https://github.com/star-center/o-efmt)|
-|**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v1](http://arxiv.org/abs/2307.09531v1)|null|
+|**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v2](http://arxiv.org/abs/2307.09531v2)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-15**|**Radar Odometry for Autonomous Ground Vehicles: A Survey of Methods and Datasets**|Nader J. Abu-Alrub et.al.|[2307.07861v1](http://arxiv.org/abs/2307.07861v1)|null|
 |**2023-07-15**|**Semi-Elastic LiDAR-Inertial Odometry**|Zikang Yuan et.al.|[2307.07792v1](http://arxiv.org/abs/2307.07792v1)|[link](https://github.com/ZikangYuan/semi_elastic_lio)|

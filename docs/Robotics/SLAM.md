@@ -23,7 +23,7 @@
 |**2023-07-23**|**Scale jump-aware pose graph relaxation for monocular SLAM with re-initializations**|Runze Yuan et.al.|[2307.12326v1](http://arxiv.org/abs/2307.12326v1)|null|
 |**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|[link](https://github.com/yvanyin/metric3d)|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|[link](https://github.com/star-center/o-efmt)|
-|**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v1](http://arxiv.org/abs/2307.09531v1)|null|
+|**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v2](http://arxiv.org/abs/2307.09531v2)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|[link](https://github.com/SlamCabbage/NDTMC)|
 |**2023-07-16**|**Joint Beam Management and SLAM for mmWave Communication Systems**|Hang Que et.al.|[2307.07936v1](http://arxiv.org/abs/2307.07936v1)|null|
