@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
+|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
 |**2023-08-11**|**User Feedback and Sample Weighting for Ill-Conditioned Hand-Eye Calibration**|Markus Horn et.al.|[2308.06045v1](http://arxiv.org/abs/2308.06045v1)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459v1](http://arxiv.org/abs/2308.05459v1)|null|
@@ -30,5 +32,3 @@
 |**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703v1](http://arxiv.org/abs/2306.17703v1)|null|
 |**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|[link](https://github.com/ctu-mrs/coop_uav_dataset)|
 |**2023-06-30**|**LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map**|Xingyu Ji et.al.|[2306.17436v1](http://arxiv.org/abs/2306.17436v1)|null|
-|**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)|
-|**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|[link](https://github.com/robot-pesg/botanicgarden)|

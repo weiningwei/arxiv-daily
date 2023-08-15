@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298v1](http://arxiv.org/abs/2308.07298v1)|null|
+|**2023-08-14**|**Operations plans and sensitivities of the IceCube Upgrade Camera System**|Steven Rodan et.al.|[2308.07276v1](http://arxiv.org/abs/2308.07276v1)|null|
+|**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267v1](http://arxiv.org/abs/2308.07267v1)|null|
+|**2023-08-14**|**Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems**|Alexander Kyuroson et.al.|[2308.07264v1](http://arxiv.org/abs/2308.07264v1)|null|
+|**2023-08-14**|**UniWorld: Autonomous Driving Pre-training via World Models**|Chen Min et.al.|[2308.07234v1](http://arxiv.org/abs/2308.07234v1)|[link](https://github.com/chaytonmin/uniworld)|
+|**2023-08-14**|**An Outlook into the Future of Egocentric Vision**|Chiara Plizzari et.al.|[2308.07123v1](http://arxiv.org/abs/2308.07123v1)|null|
+|**2023-08-14**|**VoxSnap: X-Large Speaker Verification Dataset on Camera**|Yuke Lin et.al.|[2308.07056v1](http://arxiv.org/abs/2308.07056v1)|null|
+|**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050v1](http://arxiv.org/abs/2308.07050v1)|null|
+|**2023-08-14**|**One-shot lip-based biometric authentication: extending behavioral features with authentication phrase information**|Brando Koch et.al.|[2308.06944v1](http://arxiv.org/abs/2308.06944v1)|null|
+|**2023-08-14**|**Camera Based mmWave Beam Prediction: Towards Multi-Candidate Real-World Scenarios**|Gouranga Charan et.al.|[2308.06868v1](http://arxiv.org/abs/2308.06868v1)|null|
+|**2023-08-12**|**A Fog-based Smart Agriculture System to Detect Animal Intrusion**|Jinpeng Miao et.al.|[2308.06614v1](http://arxiv.org/abs/2308.06614v1)|null|
+|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
+|**2023-08-11**|**Combining feature aggregation and geometric similarity for re-identification of patterned animals**|Veikka Immonen et.al.|[2308.06335v1](http://arxiv.org/abs/2308.06335v1)|null|
+|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|null|
 |**2023-08-11**|**ACCESS, LRG-BEASTS, & MOPSS: Featureless Optical Transmission Spectra of WASP-25b and WASP-124b**|Chima D. McGruder et.al.|[2308.06263v1](http://arxiv.org/abs/2308.06263v1)|null|
 |**2023-08-11**|**A new simulation framework for IceCube Upgrade calibration using IceCube Upgrade Camera system**|Christoph Tönnis et.al.|[2308.06247v1](http://arxiv.org/abs/2308.06247v1)|null|
 |**2023-08-11**|**Physical Adversarial Attacks For Camera-based Smart Systems: Current Trends, Categorization, Applications, Research Challenges, and Future Outlook**|Amira Guesmi et.al.|[2308.06173v1](http://arxiv.org/abs/2308.06173v1)|null|
@@ -18,17 +32,3 @@
 |**2023-08-10**|**Robust Localization with Visual-Inertial Odometry Constraints for Markerless Mobile AR**|Changkun Liu et.al.|[2308.05394v1](http://arxiv.org/abs/2308.05394v1)|null|
 |**2023-08-10**|**Co-movement Pattern Mining from Videos**|Dongxiang Zhang et.al.|[2308.05370v1](http://arxiv.org/abs/2308.05370v1)|[link](https://github.com/mateng0228/co-movement-pattern-mining-from-videos)|
 |**2023-08-10**|**Visibility-Constrained Control of Multirotor via Reference Governor**|Dabin Kim et.al.|[2308.05334v1](http://arxiv.org/abs/2308.05334v1)|null|
-|**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303v1](http://arxiv.org/abs/2308.05303v1)|null|
-|**2023-08-09**|**StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability**|Tengchuan Kou et.al.|[2308.04904v2](http://arxiv.org/abs/2308.04904v2)|[link](https://github.com/qmme/stablevqa)|
-|**2023-08-09**|**Tracking Players in a Badminton Court by Two Cameras**|Young-Ching Chou et.al.|[2308.04872v1](http://arxiv.org/abs/2308.04872v1)|null|
-|**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749v1](http://arxiv.org/abs/2308.04749v1)|[link](https://github.com/braincog-x/brain-cog)|
-|**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622v1](http://arxiv.org/abs/2308.04622v1)|null|
-|**2023-08-08**|**LATR: 3D Lane Detection from Monocular Images with Transformer**|Yueru Luo et.al.|[2308.04583v1](http://arxiv.org/abs/2308.04583v1)|[link](https://github.com/jmoonr/latr)|
-|**2023-08-08**|**Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation**|Shuangrui Ding et.al.|[2308.04549v1](http://arxiv.org/abs/2308.04549v1)|null|
-|**2023-08-08**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v3](http://arxiv.org/abs/2308.04402v3)|[link](https://github.com/IIT-PAVIS/ReId_without_Id)|
-|**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|[link](https://github.com/event-ahu/sstformer)|
-|**2023-08-08**|**Apple Vision Pro for Healthcare: "The Ultimate Display"? -- Entering the Wonderland of Precision**|Jan Egger et.al.|[2308.04313v3](http://arxiv.org/abs/2308.04313v3)|null|
-|**2023-08-08**|**Blur aware metric depth estimation with multi-focus plenoptic cameras**|Mathieu Labussière et.al.|[2308.04252v1](http://arxiv.org/abs/2308.04252v1)|null|
-|**2023-08-08**|**Will your Doorbell Camera still recognize you as you grow old**|Wang Yao et.al.|[2308.04224v1](http://arxiv.org/abs/2308.04224v1)|null|
-|**2023-08-08**|**On Monotonic Aggregation for Open-domain QA**|Sang-eun Han et.al.|[2308.04176v1](http://arxiv.org/abs/2308.04176v1)|[link](https://github.com/yeonseokjeong/judge-specialist)|
-|**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163v1](http://arxiv.org/abs/2308.04163v1)|[link](https://github.com/namecantbenull/srudc)|

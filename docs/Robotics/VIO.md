@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-14**|**Space-local Navier--Stokes turbulence**|Ryo Araki et.al.|[2308.07255v1](http://arxiv.org/abs/2308.07255v1)|null|
+|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
+|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
 |**2023-08-11**|**The Rheology of Granular Mixtures with Varying Size, Density, Particle Friction and Flow Geometry**|Eric C. P Breard et.al.|[2308.06062v1](http://arxiv.org/abs/2308.06062v1)|null|
 |**2023-08-11**|**User Feedback and Sample Weighting for Ill-Conditioned Hand-Eye Calibration**|Markus Horn et.al.|[2308.06045v1](http://arxiv.org/abs/2308.06045v1)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
@@ -29,6 +32,3 @@
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-08-02**|**Interpreting Observed Interactions between Near-Inertial Waves and Mesoscale Eddies**|Scott Conn et.al.|[2308.00889v1](http://arxiv.org/abs/2308.00889v1)|null|
 |**2023-08-01**|**Mode coupling coefficients between the convective core and radiative envelope of $γ\,$Doradus and slowly pulsating B stars**|Conny Aerts et.al.|[2308.00764v1](http://arxiv.org/abs/2308.00764v1)|null|
-|**2023-08-01**|**UVIO: An UWB-Aided Visual-Inertial Odometry Framework with Bias-Compensated Anchors Initialization**|Giulio Delama et.al.|[2308.00513v1](http://arxiv.org/abs/2308.00513v1)|null|
-|**2023-08-01**|**On greedy multi-step inertial randomized Kaczmarz method for solving linear systems**|Yansheng Su et.al.|[2308.00467v1](http://arxiv.org/abs/2308.00467v1)|null|
-|**2023-07-30**|**Successive Pose Estimation and Beam Tracking for mmWave Vehicular Communication Systems**|Cen Liu et.al.|[2307.16117v2](http://arxiv.org/abs/2307.16117v2)|[link](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
