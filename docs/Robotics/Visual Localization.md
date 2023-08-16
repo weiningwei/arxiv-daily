@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-15**|**Memory-and-Anticipation Transformer for Online Action Understanding**|Jiahao Wang et.al.|[2308.07893v1](http://arxiv.org/abs/2308.07893v1)|[link](https://github.com/echo0125/memory-and-anticipation-transformer)|
+|**2023-08-15**|**Neuromorphic Seatbelt State Detection for In-Cabin Monitoring with Event Cameras**|Paul Kielty et.al.|[2308.07802v1](http://arxiv.org/abs/2308.07802v1)|null|
+|**2023-08-15**|**ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2308.07590v1](http://arxiv.org/abs/2308.07590v1)|null|
+|**2023-08-14**|**SpecTracle: Wearable Facial Motion Tracking from Unobtrusive Peripheral Cameras**|Yinan Xuan et.al.|[2308.07502v1](http://arxiv.org/abs/2308.07502v1)|null|
+|**2023-08-14**|**Open Medical Gesture: An Open-Source Experiment in Naturalistic Physical Interactions for Mixed and Virtual Reality Simulations**|Thomas B Talbot et.al.|[2308.07472v1](http://arxiv.org/abs/2308.07472v1)|null|
+|**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
 |**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298v1](http://arxiv.org/abs/2308.07298v1)|null|
 |**2023-08-14**|**Operations plans and sensitivities of the IceCube Upgrade Camera System**|Steven Rodan et.al.|[2308.07276v1](http://arxiv.org/abs/2308.07276v1)|null|
 |**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267v1](http://arxiv.org/abs/2308.07267v1)|null|
@@ -26,9 +32,3 @@
 |**2023-08-10**|**First laboratory demonstration of real-time multi-wavefront sensor single conjugate adaptive optics**|Benjamin L. Gerard et.al.|[2308.05863v1](http://arxiv.org/abs/2308.05863v1)|null|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
 |**2023-08-10**|**MobiScout: A Scalable Cloud-Based Driving and Activity Monitoring Platform Featuring an IOS App and a WatchOS Extension**|Kojo Konadu Adu-Gyamfi et.al.|[2308.05698v1](http://arxiv.org/abs/2308.05698v1)|null|
-|**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
-|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer et.al.|[2308.05504v2](http://arxiv.org/abs/2308.05504v2)|null|
-|**2023-08-10**|**Fast calibration for ultrasound imaging guidance based on depth camera**|Fuqiang Zhao et.al.|[2308.05401v1](http://arxiv.org/abs/2308.05401v1)|null|
-|**2023-08-10**|**Robust Localization with Visual-Inertial Odometry Constraints for Markerless Mobile AR**|Changkun Liu et.al.|[2308.05394v1](http://arxiv.org/abs/2308.05394v1)|null|
-|**2023-08-10**|**Co-movement Pattern Mining from Videos**|Dongxiang Zhang et.al.|[2308.05370v2](http://arxiv.org/abs/2308.05370v2)|[link](https://github.com/mateng0228/co-movement-pattern-mining-from-videos)|
-|**2023-08-10**|**Visibility-Constrained Control of Multirotor via Reference Governor**|Dabin Kim et.al.|[2308.05334v1](http://arxiv.org/abs/2308.05334v1)|null|

@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916v1](http://arxiv.org/abs/2308.07916v1)|null|
+|**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723v1](http://arxiv.org/abs/2308.07723v1)|null|
+|**2023-08-15**|**Characterization of fast magnetosonic waves driven by interaction between magnetic fields and compact toroids**|F. Chu et.al.|[2308.07582v1](http://arxiv.org/abs/2308.07582v1)|null|
+|**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
+|**2023-08-14**|**Classical Non-Relativistic Fractons**|Abhishodh Prakash et.al.|[2308.07372v1](http://arxiv.org/abs/2308.07372v1)|null|
 |**2023-08-14**|**Space-local Navier--Stokes turbulence**|Ryo Araki et.al.|[2308.07255v1](http://arxiv.org/abs/2308.07255v1)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-03**|**Microscopic Gyration with Dissipative Coupling**|Soham Dutta et.al.|[2308.02085v1](http://arxiv.org/abs/2308.02085v1)|null|
 |**2023-08-03**|**Optimizing Sorting of Micro-Sized Bio-Cells in Symmetric Serpentine Microchannel using Machine Learning**|Sayan Karmakar et.al.|[2308.01701v1](http://arxiv.org/abs/2308.01701v1)|null|
 |**2023-08-03**|**Kinematic Afterslip Patterns**|Brendan J. Meade et.al.|[2308.01510v1](http://arxiv.org/abs/2308.01510v1)|null|
-|**2023-08-02**|**LiDAR View Synthesis for Robust Vehicle Navigation Without Expert Labels**|Jonathan Schmidt et.al.|[2308.01424v2](http://arxiv.org/abs/2308.01424v2)|null|
-|**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398v1](http://arxiv.org/abs/2308.01398v1)|null|
-|**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
-|**2023-08-02**|**Interpreting Observed Interactions between Near-Inertial Waves and Mesoscale Eddies**|Scott Conn et.al.|[2308.00889v1](http://arxiv.org/abs/2308.00889v1)|null|
-|**2023-08-01**|**Mode coupling coefficients between the convective core and radiative envelope of $γ\,$Doradus and slowly pulsating B stars**|Conny Aerts et.al.|[2308.00764v1](http://arxiv.org/abs/2308.00764v1)|null|
