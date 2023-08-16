@@ -15,8 +15,8 @@
 |**2023-08-12**|**A Fog-based Smart Agriculture System to Detect Animal Intrusion**|Jinpeng Miao et.al.|[2308.06614v1](http://arxiv.org/abs/2308.06614v1)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
 |**2023-08-11**|**Combining feature aggregation and geometric similarity for re-identification of patterned animals**|Veikka Immonen et.al.|[2308.06335v1](http://arxiv.org/abs/2308.06335v1)|null|
-|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|null|
-|**2023-08-11**|**ACCESS, LRG-BEASTS, & MOPSS: Featureless Optical Transmission Spectra of WASP-25b and WASP-124b**|Chima D. McGruder et.al.|[2308.06263v1](http://arxiv.org/abs/2308.06263v1)|null|
+|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|[link](https://github.com/FarihaHossain/SwinFSR)|
+|**2023-08-11**|**ACCESS, LRG-BEASTS, & MOPSS: Featureless Optical Transmission Spectra of WASP-25b and WASP-124b**|Chima D. McGruder et.al.|[2308.06263v2](http://arxiv.org/abs/2308.06263v2)|null|
 |**2023-08-11**|**A new simulation framework for IceCube Upgrade calibration using IceCube Upgrade Camera system**|Christoph Tönnis et.al.|[2308.06247v1](http://arxiv.org/abs/2308.06247v1)|null|
 |**2023-08-11**|**Physical Adversarial Attacks For Camera-based Smart Systems: Current Trends, Categorization, Applications, Research Challenges, and Future Outlook**|Amira Guesmi et.al.|[2308.06173v1](http://arxiv.org/abs/2308.06173v1)|null|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147v1](http://arxiv.org/abs/2308.06147v1)|null|
@@ -30,5 +30,5 @@
 |**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer et.al.|[2308.05504v2](http://arxiv.org/abs/2308.05504v2)|null|
 |**2023-08-10**|**Fast calibration for ultrasound imaging guidance based on depth camera**|Fuqiang Zhao et.al.|[2308.05401v1](http://arxiv.org/abs/2308.05401v1)|null|
 |**2023-08-10**|**Robust Localization with Visual-Inertial Odometry Constraints for Markerless Mobile AR**|Changkun Liu et.al.|[2308.05394v1](http://arxiv.org/abs/2308.05394v1)|null|
-|**2023-08-10**|**Co-movement Pattern Mining from Videos**|Dongxiang Zhang et.al.|[2308.05370v1](http://arxiv.org/abs/2308.05370v1)|[link](https://github.com/mateng0228/co-movement-pattern-mining-from-videos)|
+|**2023-08-10**|**Co-movement Pattern Mining from Videos**|Dongxiang Zhang et.al.|[2308.05370v2](http://arxiv.org/abs/2308.05370v2)|[link](https://github.com/mateng0228/co-movement-pattern-mining-from-videos)|
 |**2023-08-10**|**Visibility-Constrained Control of Multirotor via Reference Governor**|Dabin Kim et.al.|[2308.05334v1](http://arxiv.org/abs/2308.05334v1)|null|
