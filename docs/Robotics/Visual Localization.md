@@ -8,13 +8,13 @@
 |**2023-08-14**|**SpecTracle: Wearable Facial Motion Tracking from Unobtrusive Peripheral Cameras**|Yinan Xuan et.al.|[2308.07502v1](http://arxiv.org/abs/2308.07502v1)|null|
 |**2023-08-14**|**Open Medical Gesture: An Open-Source Experiment in Naturalistic Physical Interactions for Mixed and Virtual Reality Simulations**|Thomas B Talbot et.al.|[2308.07472v1](http://arxiv.org/abs/2308.07472v1)|null|
 |**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
-|**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298v1](http://arxiv.org/abs/2308.07298v1)|null|
+|**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298v2](http://arxiv.org/abs/2308.07298v2)|null|
 |**2023-08-14**|**Operations plans and sensitivities of the IceCube Upgrade Camera System**|Steven Rodan et.al.|[2308.07276v1](http://arxiv.org/abs/2308.07276v1)|null|
 |**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267v1](http://arxiv.org/abs/2308.07267v1)|null|
 |**2023-08-14**|**Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems**|Alexander Kyuroson et.al.|[2308.07264v1](http://arxiv.org/abs/2308.07264v1)|null|
 |**2023-08-14**|**UniWorld: Autonomous Driving Pre-training via World Models**|Chen Min et.al.|[2308.07234v1](http://arxiv.org/abs/2308.07234v1)|[link](https://github.com/chaytonmin/uniworld)|
 |**2023-08-14**|**An Outlook into the Future of Egocentric Vision**|Chiara Plizzari et.al.|[2308.07123v1](http://arxiv.org/abs/2308.07123v1)|null|
-|**2023-08-14**|**VoxSnap: X-Large Speaker Verification Dataset on Camera**|Yuke Lin et.al.|[2308.07056v1](http://arxiv.org/abs/2308.07056v1)|null|
+|**2023-08-14**|**VoxBlink: X-Large Speaker Verification Dataset on Camera**|Yuke Lin et.al.|[2308.07056v2](http://arxiv.org/abs/2308.07056v2)|null|
 |**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050v1](http://arxiv.org/abs/2308.07050v1)|null|
 |**2023-08-14**|**One-shot lip-based biometric authentication: extending behavioral features with authentication phrase information**|Brando Koch et.al.|[2308.06944v1](http://arxiv.org/abs/2308.06944v1)|null|
 |**2023-08-14**|**Camera Based mmWave Beam Prediction: Towards Multi-Candidate Real-World Scenarios**|Gouranga Charan et.al.|[2308.06868v1](http://arxiv.org/abs/2308.06868v1)|null|
