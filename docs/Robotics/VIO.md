@@ -19,7 +19,7 @@
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459v1](http://arxiv.org/abs/2308.05459v1)|null|
 |**2023-08-10**|**Robust Localization with Visual-Inertial Odometry Constraints for Markerless Mobile AR**|Changkun Liu et.al.|[2308.05394v1](http://arxiv.org/abs/2308.05394v1)|null|
 |**2023-08-10**|**Deep Semantic Graph Matching for Large-scale Outdoor Point Clouds Registration**|Shaocong Liu et.al.|[2308.05314v1](http://arxiv.org/abs/2308.05314v1)|null|
-|**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303v1](http://arxiv.org/abs/2308.05303v1)|null|
+|**2023-08-10**|**Multi-Visual-Inertial System: Analysis, Calibration and Estimation**|Yulin Yang et.al.|[2308.05303v2](http://arxiv.org/abs/2308.05303v2)|null|
 |**2023-08-10**|**A Generalized Model for Predicting the Drag Coefficient of Arbitrary Bluff Shaped Bodies at High Reynolds Numbers**|Yousef El Hasadi et.al.|[2308.05272v1](http://arxiv.org/abs/2308.05272v1)|null|
 |**2023-08-09**|**A review on the questions of spin and spin quantum correlations in the relativistic regime**|Shrobona Bagchi et.al.|[2308.05231v1](http://arxiv.org/abs/2308.05231v1)|null|
 |**2023-08-09**|**High-fidelity simulation of pebble beds: Toward an improved understanding of the wall channeling effect**|David Reger et.al.|[2308.05031v1](http://arxiv.org/abs/2308.05031v1)|null|
