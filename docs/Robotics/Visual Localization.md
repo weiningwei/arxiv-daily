@@ -2,6 +2,28 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-18**|**Training with Product Digital Twins for AutoRetail Checkout**|Yue Yao et.al.|[2308.09708v1](http://arxiv.org/abs/2308.09708v1)|[link](https://github.com/yorkeyao/automated-retail-checkout)|
+|**2023-08-18**|**VALERIE22 -- A photorealistic, richly metadata annotated dataset of urban environments**|Oliver Grau et.al.|[2308.09632v1](http://arxiv.org/abs/2308.09632v1)|null|
+|**2023-08-18**|**PeV Gamma-ray Astronomy With Panoramic Optical SETI Telescopes**|Nikolas Korzoun et.al.|[2308.09607v1](http://arxiv.org/abs/2308.09607v1)|null|
+|**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591v1](http://arxiv.org/abs/2308.09591v1)|null|
+|**2023-08-18**|**Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning**|Xiang Yuan et.al.|[2308.09534v1](http://arxiv.org/abs/2308.09534v1)|[link](https://github.com/shaunyuan22/cfinet)|
+|**2023-08-18**|**Measurement of flow birefringence induced by the shear components along the optical axis using a parallel-plate-type rheometer**|William Kai Alexander Worby et.al.|[2308.09457v1](http://arxiv.org/abs/2308.09457v1)|null|
+|**2023-08-18**|**TrOMR:Transformer-Based Polyphonic Optical Music Recognition**|Yixuan Li et.al.|[2308.09370v1](http://arxiv.org/abs/2308.09370v1)|[link](https://github.com/netease/polyphonic-tromr)|
+|**2023-08-18**|**Diverse Cotraining Makes Strong Semi-Supervised Segmentor**|Yijiang Li et.al.|[2308.09281v1](http://arxiv.org/abs/2308.09281v1)|null|
+|**2023-08-18**|**SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos**|Haisong Liu et.al.|[2308.09244v1](http://arxiv.org/abs/2308.09244v1)|null|
+|**2023-08-18**|**Improving Buoy Detection with Deep Transfer Learning for Mussel Farm Automation**|Carl McMillan et.al.|[2308.09238v1](http://arxiv.org/abs/2308.09238v1)|null|
+|**2023-08-17**|**GPU Accelerated Color Correction and Frame Warping for Real-time Video Stitching**|Lu Yang et.al.|[2308.09209v1](http://arxiv.org/abs/2308.09209v1)|null|
+|**2023-08-17**|**Accelerating Aggregation Queries on Unstructured Streams of Data**|Matthew Russo et.al.|[2308.09157v1](http://arxiv.org/abs/2308.09157v1)|null|
+|**2023-08-17**|**That Doesn't Go There: Attacks on Shared State in Multi-User Augmented Reality Applications**|Carter Slocum et.al.|[2308.09146v1](http://arxiv.org/abs/2308.09146v1)|null|
+|**2023-08-17**|**Watch Out! Smartwatches as criminal tool and digital forensic investigations**|Seungjae Jeon et.al.|[2308.09092v1](http://arxiv.org/abs/2308.09092v1)|null|
+|**2023-08-17**|**Pedestrian Environment Model for Automated Driving**|Adrian Holzbock et.al.|[2308.09080v1](http://arxiv.org/abs/2308.09080v1)|null|
+|**2023-08-17**|**The Lyman Continuum Escape Fraction of Star-forming Galaxies at $2.4\lesssim z\lesssim3.7$ from UVCANDELS**|Xin Wang et.al.|[2308.09064v1](http://arxiv.org/abs/2308.09064v1)|null|
+|**2023-08-17**|**ARAI-MVSNet: A multi-view stereo depth estimation network with adaptive depth range and depth interval**|Song Zhang et.al.|[2308.09022v1](http://arxiv.org/abs/2308.09022v1)|null|
+|**2023-08-17**|**MV-ROPE: Multi-view Constraints for Robust Category-level Object Pose and Size Estimation**|Jiaqi Yang et.al.|[2308.08856v1](http://arxiv.org/abs/2308.08856v1)|[link](https://github.com/greatoyster/mv-rope)|
+|**2023-08-17**|**Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language**|Francesco Taioli et.al.|[2308.08854v1](http://arxiv.org/abs/2308.08854v1)|null|
+|**2023-08-17**|**Dr.Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering**|Yichen Sheng et.al.|[2308.08843v1](http://arxiv.org/abs/2308.08843v1)|null|
+|**2023-08-17**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741v1](http://arxiv.org/abs/2308.08741v1)|null|
+|**2023-08-17**|**ReProHRL: Towards Multi-Goal Navigation in the Real World using Hierarchical Agents**|Tejaswini Manjunath et.al.|[2308.08737v1](http://arxiv.org/abs/2308.08737v1)|null|
 |**2023-08-16**|**Autoencoding a Soft Touch to Learn Grasping from On-land to Underwater**|Ning Guo et.al.|[2308.08510v1](http://arxiv.org/abs/2308.08510v1)|[link](https://github.com/bionicdl-sustech/amphibioussoftfinger)|
 |**2023-08-16**|**Self-Supervised Online Camera Calibration for Automated Driving and Parking Applications**|Ciarán Hogan et.al.|[2308.08495v1](http://arxiv.org/abs/2308.08495v1)|null|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258v1](http://arxiv.org/abs/2308.08258v1)|null|
@@ -10,25 +32,3 @@
 |**2023-08-16**|**Snapshot High Dynamic Range Imaging with a Polarization Camera**|Mingyang Xie et.al.|[2308.08094v1](http://arxiv.org/abs/2308.08094v1)|null|
 |**2023-08-16**|**Pro-Cap: Leveraging a Frozen Vision-Language Model for Hateful Meme Detection**|Rui Cao et.al.|[2308.08088v1](http://arxiv.org/abs/2308.08088v1)|[link](https://github.com/social-ai-studio/pro-cap)|
 |**2023-08-15**|**Hyper-Drive: Visible-Short Wave Infrared Hyperspectral Imaging Datasets for Robots in Unstructured Environments**|Nathaniel Hanson et.al.|[2308.08058v1](http://arxiv.org/abs/2308.08058v1)|null|
-|**2023-08-15**|**Memory-and-Anticipation Transformer for Online Action Understanding**|Jiahao Wang et.al.|[2308.07893v1](http://arxiv.org/abs/2308.07893v1)|[link](https://github.com/echo0125/memory-and-anticipation-transformer)|
-|**2023-08-15**|**Fuzzing for CPS Mutation Testing**|Jaekwon Lee et.al.|[2308.07949v1](http://arxiv.org/abs/2308.07949v1)|null|
-|**2023-08-15**|**Neuromorphic Seatbelt State Detection for In-Cabin Monitoring with Event Cameras**|Paul Kielty et.al.|[2308.07802v1](http://arxiv.org/abs/2308.07802v1)|null|
-|**2023-08-15**|**ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2308.07590v1](http://arxiv.org/abs/2308.07590v1)|null|
-|**2023-08-14**|**SpecTracle: Wearable Facial Motion Tracking from Unobtrusive Peripheral Cameras**|Yinan Xuan et.al.|[2308.07502v1](http://arxiv.org/abs/2308.07502v1)|null|
-|**2023-08-14**|**Open Medical Gesture: An Open-Source Experiment in Naturalistic Physical Interactions for Mixed and Virtual Reality Simulations**|Thomas B Talbot et.al.|[2308.07472v1](http://arxiv.org/abs/2308.07472v1)|null|
-|**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
-|**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298v2](http://arxiv.org/abs/2308.07298v2)|null|
-|**2023-08-14**|**Operations plans and sensitivities of the IceCube Upgrade Camera System**|Steven Rodan et.al.|[2308.07276v1](http://arxiv.org/abs/2308.07276v1)|null|
-|**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267v1](http://arxiv.org/abs/2308.07267v1)|null|
-|**2023-08-14**|**Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems**|Alexander Kyuroson et.al.|[2308.07264v1](http://arxiv.org/abs/2308.07264v1)|null|
-|**2023-08-14**|**UniWorld: Autonomous Driving Pre-training via World Models**|Chen Min et.al.|[2308.07234v1](http://arxiv.org/abs/2308.07234v1)|[link](https://github.com/chaytonmin/uniworld)|
-|**2023-08-14**|**An Outlook into the Future of Egocentric Vision**|Chiara Plizzari et.al.|[2308.07123v1](http://arxiv.org/abs/2308.07123v1)|null|
-|**2023-08-14**|**VoxBlink: X-Large Speaker Verification Dataset on Camera**|Yuke Lin et.al.|[2308.07056v2](http://arxiv.org/abs/2308.07056v2)|null|
-|**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050v1](http://arxiv.org/abs/2308.07050v1)|null|
-|**2023-08-14**|**One-shot lip-based biometric authentication: extending behavioral features with authentication phrase information**|Brando Koch et.al.|[2308.06944v1](http://arxiv.org/abs/2308.06944v1)|null|
-|**2023-08-14**|**Camera Based mmWave Beam Prediction: Towards Multi-Candidate Real-World Scenarios**|Gouranga Charan et.al.|[2308.06868v1](http://arxiv.org/abs/2308.06868v1)|null|
-|**2023-08-12**|**A Fog-based Smart Agriculture System to Detect Animal Intrusion**|Jinpeng Miao et.al.|[2308.06614v1](http://arxiv.org/abs/2308.06614v1)|null|
-|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
-|**2023-08-11**|**Combining feature aggregation and geometric similarity for re-identification of patterned animals**|Veikka Immonen et.al.|[2308.06335v1](http://arxiv.org/abs/2308.06335v1)|null|
-|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|[link](https://github.com/FarihaHossain/SwinFSR)|
-|**2023-08-11**|**ACCESS, LRG-BEASTS, & MOPSS: Featureless Optical Transmission Spectra of WASP-25b and WASP-124b**|Chima D. McGruder et.al.|[2308.06263v2](http://arxiv.org/abs/2308.06263v2)|null|
