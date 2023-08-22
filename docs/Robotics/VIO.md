@@ -13,7 +13,7 @@
 |**2023-08-15**|**Characterization of fast magnetosonic waves driven by interaction between magnetic fields and compact toroids**|F. Chu et.al.|[2308.07582v1](http://arxiv.org/abs/2308.07582v1)|null|
 |**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
 |**2023-08-14**|**Classical Non-Relativistic Fractons**|Abhishodh Prakash et.al.|[2308.07372v1](http://arxiv.org/abs/2308.07372v1)|null|
-|**2023-08-14**|**Space-local Navier--Stokes turbulence**|Ryo Araki et.al.|[2308.07255v1](http://arxiv.org/abs/2308.07255v1)|null|
+|**2023-08-14**|**Space-local Navier--Stokes turbulence**|Ryo Araki et.al.|[2308.07255v2](http://arxiv.org/abs/2308.07255v2)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
 |**2023-08-11**|**The Rheology of Granular Mixtures with Varying Size, Density, Particle Friction and Flow Geometry**|Eric C. P Breard et.al.|[2308.06062v1](http://arxiv.org/abs/2308.06062v1)|null|

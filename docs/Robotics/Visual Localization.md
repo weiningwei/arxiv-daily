@@ -7,7 +7,7 @@
 |**2023-08-18**|**PeV Gamma-ray Astronomy With Panoramic Optical SETI Telescopes**|Nikolas Korzoun et.al.|[2308.09607v1](http://arxiv.org/abs/2308.09607v1)|null|
 |**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591v1](http://arxiv.org/abs/2308.09591v1)|null|
 |**2023-08-18**|**Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning**|Xiang Yuan et.al.|[2308.09534v1](http://arxiv.org/abs/2308.09534v1)|[link](https://github.com/shaunyuan22/cfinet)|
-|**2023-08-18**|**Measurement of flow birefringence induced by the shear components along the optical axis using a parallel-plate-type rheometer**|William Kai Alexander Worby et.al.|[2308.09457v1](http://arxiv.org/abs/2308.09457v1)|null|
+|**2023-08-18**|**Measurement of flow birefringence induced by the shear components along the optical axis using a parallel-plate-type rheometer**|William Kai Alexander Worby et.al.|[2308.09457v2](http://arxiv.org/abs/2308.09457v2)|null|
 |**2023-08-18**|**TrOMR:Transformer-Based Polyphonic Optical Music Recognition**|Yixuan Li et.al.|[2308.09370v1](http://arxiv.org/abs/2308.09370v1)|[link](https://github.com/netease/polyphonic-tromr)|
 |**2023-08-18**|**Diverse Cotraining Makes Strong Semi-Supervised Segmentor**|Yijiang Li et.al.|[2308.09281v1](http://arxiv.org/abs/2308.09281v1)|null|
 |**2023-08-18**|**SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos**|Haisong Liu et.al.|[2308.09244v1](http://arxiv.org/abs/2308.09244v1)|null|
