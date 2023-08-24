@@ -7,7 +7,7 @@
 |**2023-08-22**|**VIO-DualProNet: Visual-Inertial Odometry with Learning Based Process Noise Covariance**|Dan Solodar et.al.|[2308.11228v1](http://arxiv.org/abs/2308.11228v1)|null|
 |**2023-08-21**|**Doppler-aware Odometry from FMCW Scanning Radar**|Fraser Rennie et.al.|[2308.10597v1](http://arxiv.org/abs/2308.10597v1)|null|
 |**2023-08-20**|**Automated mapping of virtual environments with visual predictive coding**|James Gornet et.al.|[2308.10913v1](http://arxiv.org/abs/2308.10913v1)|null|
-|**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|null|
+|**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|[link](https://github.com/ir-lab/denkf)|
 |**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|

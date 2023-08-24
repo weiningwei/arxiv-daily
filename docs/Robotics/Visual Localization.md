@@ -5,14 +5,14 @@
 |**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|
 |**2023-08-22**|**Pose2Gait: Extracting Gait Features from Monocular Video of Individuals with Dementia**|Caroline Malin-Mayor et.al.|[2308.11484v1](http://arxiv.org/abs/2308.11484v1)|[link](https://github.com/taatiteam/pose2gait_public)|
-|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bon et.al.|[2308.11471v1](http://arxiv.org/abs/2308.11471v1)|[link](https://github.com/mistlab/dovesei)|
+|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bong et.al.|[2308.11471v1](http://arxiv.org/abs/2308.11471v1)|[link](https://github.com/mistlab/dovesei)|
 |**2023-08-22**|**Generating airshower images for the VERITAS telescopes with conditional Generative Adversarial Networks**|J. Hoang et.al.|[2308.11431v1](http://arxiv.org/abs/2308.11431v1)|null|
 |**2023-08-22**|**ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes**|Chandan Yeshwanth et.al.|[2308.11417v1](http://arxiv.org/abs/2308.11417v1)|null|
 |**2023-08-22**|**High Dynamic Range Imaging of Dynamic Scenes with Saturation Compensation but without Explicit Motion Compensation**|Haesoo Chung et.al.|[2308.11140v1](http://arxiv.org/abs/2308.11140v1)|[link](https://github.com/haesoochung/hdri-saturation-compensation)|
 |**2023-08-21**|**Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images**|Tze Ho Elden Tse et.al.|[2308.11015v1](http://arxiv.org/abs/2308.11015v1)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
 |**2023-08-21**|**MGMAE: Motion Guided Masking for Video Masked Autoencoding**|Bingkun Huang et.al.|[2308.10794v1](http://arxiv.org/abs/2308.10794v1)|null|
-|**2023-08-21**|**Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction**|Rémi Pautrat et.al.|[2308.10694v1](http://arxiv.org/abs/2308.10694v1)|null|
+|**2023-08-21**|**Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction**|Rémi Pautrat et.al.|[2308.10694v1](http://arxiv.org/abs/2308.10694v1)|[link](https://github.com/cvg/vp-estimation-with-prior-gravity)|
 |**2023-08-21**|**PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait**|Adrian Cosma et.al.|[2308.10631v1](http://arxiv.org/abs/2308.10631v1)|null|
 |**2023-08-21**|**Multi-Modal Dataset Acquisition for Photometrically Challenging Object**|HyunJun Jung et.al.|[2308.10621v1](http://arxiv.org/abs/2308.10621v1)|null|
 |**2023-08-21**|**Photometry and astrometry with JWST -- III. A NIRCam-Gaia DR3 analysis of the open cluster NGC 2506**|D. Nardiello et.al.|[2308.10575v1](http://arxiv.org/abs/2308.10575v1)|null|
@@ -29,6 +29,6 @@
 |**2023-08-20**|**ThermRad: A Multi-modal Dataset for Robust 3D Object Detection under Challenging Conditions**|Qiao Yan et.al.|[2308.10161v1](http://arxiv.org/abs/2308.10161v1)|null|
 |**2023-08-20**|**OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision**|Shujie Zhang et.al.|[2308.10146v1](http://arxiv.org/abs/2308.10146v1)|null|
 |**2023-08-19**|**Dronevision: An Experimental 3D Testbed for Flying Light Specks**|Hamed Alimohammadzadeh et.al.|[2308.10121v1](http://arxiv.org/abs/2308.10121v1)|null|
-|**2023-08-19**|**Learning and Communications Co-Design for Remote Inference Systems: Feature Length Selection and Transmission Scheduling**|Md Kamran Chowdhury Shisher et.al.|[2308.10094v1](http://arxiv.org/abs/2308.10094v1)|null|
+|**2023-08-19**|**Learning and Communications Co-Design for Remote Inference Systems: Feature Length Selection and Transmission Scheduling**|Md Kamran Chowdhury Shisher et.al.|[2308.10094v1](http://arxiv.org/abs/2308.10094v1)|[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 |**2023-08-19**|**ILCAS: Imitation Learning-Based Configuration-Adaptive Streaming for Live Video Analytics with Cross-Camera Collaboration**|Duo Wu et.al.|[2308.10068v1](http://arxiv.org/abs/2308.10068v1)|null|
 |**2023-08-19**|**R-C-P Method: An Autonomous Volume Calculation Method Using Image Processing and Machine Vision**|MA Muktadir et.al.|[2308.10058v1](http://arxiv.org/abs/2308.10058v1)|null|
