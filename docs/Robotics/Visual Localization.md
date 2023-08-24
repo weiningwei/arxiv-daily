@@ -2,7 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-23**|**A Generative Approach for Image Registration of Visible-Thermal (VT) Cancer Faces**|Catherine Ordun et.al.|[2308.12271v1](http://arxiv.org/abs/2308.12271v1)|null|
+|**2023-08-23**|**NimbRo wins ANA Avatar XPRIZE Immersive Telepresence Competition: Human-Centric Evaluation and Lessons Learned**|Christian Lenz et.al.|[2308.12238v1](http://arxiv.org/abs/2308.12238v1)|null|
+|**2023-08-23**|**Mesh Conflation of Oblique Photogrammetric Models using Virtual Cameras and Truncated Signed Distance Field**|Shuang Song et.al.|[2308.12139v1](http://arxiv.org/abs/2308.12139v1)|null|
+|**2023-08-23**|**Cross-Modality Proposal-guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection**|Chao Tian et.al.|[2308.12111v1](http://arxiv.org/abs/2308.12111v1)|null|
+|**2023-08-23**|**Towards Privacy-Supporting Fall Detection via Deep Unsupervised RGB2Depth Adaptation**|Hejun Xiao et.al.|[2308.12049v1](http://arxiv.org/abs/2308.12049v1)|[link](https://github.com/1015206533/privacy_supporting_fall_detection)|
+|**2023-08-23**|**Temperature measurement methods in an experimental setup during bone drilling: A brief review on the comparison of thermocouple and infrared thermography**|Md Ashequl Islam et.al.|[2308.12034v1](http://arxiv.org/abs/2308.12034v1)|null|
+|**2023-08-23**|**Multi-Modal Multi-Task (3MT) Road Segmentation**|Erkan Milli et.al.|[2308.11983v1](http://arxiv.org/abs/2308.11983v1)|[link](https://github.com/erkanmilli/3mt-roadseg)|
+|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v1](http://arxiv.org/abs/2308.11951v1)|null|
+|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|null|
+|**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|[link](https://github.com/mooncake199809/ufvl-net)|
+|**2023-08-23**|**Semantic-Aware Implicit Template Learning via Part Deformation Consistency**|Sihyeon Kim et.al.|[2308.11916v1](http://arxiv.org/abs/2308.11916v1)|null|
+|**2023-08-23**|**Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification**|Geon Lee et.al.|[2308.11901v1](http://arxiv.org/abs/2308.11901v1)|null|
+|**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
+|**2023-08-22**|**PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification**|Yizhen Yuan et.al.|[2308.11822v1](http://arxiv.org/abs/2308.11822v1)|[link](https://github.com/xaiveryuan/patchbackdoor)|
+|**2023-08-22**|**Coarse-to-Fine Multi-Scene Pose Regression with Transformers**|Yoli Shavit et.al.|[2308.11783v1](http://arxiv.org/abs/2308.11783v1)|null|
+|**2023-08-22**|**WS-SfMLearner: Self-supervised Monocular Depth and Ego-motion Estimation on Surgical Videos with Unknown Camera Parameters**|Ange Lou et.al.|[2308.11776v1](http://arxiv.org/abs/2308.11776v1)|null|
+|**2023-08-22**|**3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network**|Qinyu Chen et.al.|[2308.11771v1](http://arxiv.org/abs/2308.11771v1)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|[link](https://github.com/kuanchihhuang/moma-m3t)|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|
 |**2023-08-22**|**Pose2Gait: Extracting Gait Features from Monocular Video of Individuals with Dementia**|Caroline Malin-Mayor et.al.|[2308.11484v1](http://arxiv.org/abs/2308.11484v1)|[link](https://github.com/taatiteam/pose2gait_public)|
 |**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bong et.al.|[2308.11471v1](http://arxiv.org/abs/2308.11471v1)|[link](https://github.com/mistlab/dovesei)|
@@ -12,23 +29,6 @@
 |**2023-08-21**|**Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images**|Tze Ho Elden Tse et.al.|[2308.11015v1](http://arxiv.org/abs/2308.11015v1)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
 |**2023-08-21**|**MGMAE: Motion Guided Masking for Video Masked Autoencoding**|Bingkun Huang et.al.|[2308.10794v1](http://arxiv.org/abs/2308.10794v1)|null|
+|**2023-08-21**|**Deep optical imaging of star-forming blue early-type galaxies: Color map structures and faint features indicative of recent mergers**|Koshy George et.al.|[2308.12153v1](http://arxiv.org/abs/2308.12153v1)|null|
 |**2023-08-21**|**Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction**|Rémi Pautrat et.al.|[2308.10694v1](http://arxiv.org/abs/2308.10694v1)|[link](https://github.com/cvg/vp-estimation-with-prior-gravity)|
 |**2023-08-21**|**PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait**|Adrian Cosma et.al.|[2308.10631v1](http://arxiv.org/abs/2308.10631v1)|null|
-|**2023-08-21**|**Multi-Modal Dataset Acquisition for Photometrically Challenging Object**|HyunJun Jung et.al.|[2308.10621v1](http://arxiv.org/abs/2308.10621v1)|null|
-|**2023-08-21**|**Photometry and astrometry with JWST -- III. A NIRCam-Gaia DR3 analysis of the open cluster NGC 2506**|D. Nardiello et.al.|[2308.10575v1](http://arxiv.org/abs/2308.10575v1)|null|
-|**2023-08-21**|**RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems**|Cheng Feng et.al.|[2308.10569v1](http://arxiv.org/abs/2308.10569v1)|null|
-|**2023-08-21**|**Semantic Programming for Device-Edge-Cloud Continuum**|Anh Le-Tuan et.al.|[2308.10555v1](http://arxiv.org/abs/2308.10555v1)|null|
-|**2023-08-21**|**LightDepth: Single-View Depth Self-Supervision from Illumination Decline**|Javier Rodríguez-Puigvert et.al.|[2308.10525v1](http://arxiv.org/abs/2308.10525v1)|null|
-|**2023-08-21**|**The Change You Want to See (Now in 3D)**|Ragav Sachdeva et.al.|[2308.10417v1](http://arxiv.org/abs/2308.10417v1)|null|
-|**2023-08-21**|**Dual Purpose Lyot Coronagraph Masks for Simultaneous High-Contrast Imaging and High-Resolution Wavefront Sensing**|Garreth Ruane et.al.|[2308.10395v1](http://arxiv.org/abs/2308.10395v1)|null|
-|**2023-08-20**|**Vehicle Cameras Guide mmWave Beams: Approach and Real-World V2V Demonstration**|Tawfik Osman et.al.|[2308.10362v1](http://arxiv.org/abs/2308.10362v1)|null|
-|**2023-08-20**|**DVGaze: Dual-View Gaze Estimation**|Yihua Cheng et.al.|[2308.10310v1](http://arxiv.org/abs/2308.10310v1)|[link](https://github.com/yihuacheng/dvgaze)|
-|**2023-08-20**|**Efficient-VRNet: An Exquisite Fusion Network for Riverway Panoptic Perception based on Asymmetric Fair Fusion of Vision and 4D mmWave Radar**|Runwei Guan et.al.|[2308.10287v1](http://arxiv.org/abs/2308.10287v1)|[link](https://github.com/GuanRunwei/Efficient-VRNet)|
-|**2023-08-20**|**Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image**|Liao Shen et.al.|[2308.10257v1](http://arxiv.org/abs/2308.10257v1)|null|
-|**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196v1](http://arxiv.org/abs/2308.10196v1)|null|
-|**2023-08-20**|**ThermRad: A Multi-modal Dataset for Robust 3D Object Detection under Challenging Conditions**|Qiao Yan et.al.|[2308.10161v1](http://arxiv.org/abs/2308.10161v1)|null|
-|**2023-08-20**|**OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision**|Shujie Zhang et.al.|[2308.10146v1](http://arxiv.org/abs/2308.10146v1)|null|
-|**2023-08-19**|**Dronevision: An Experimental 3D Testbed for Flying Light Specks**|Hamed Alimohammadzadeh et.al.|[2308.10121v1](http://arxiv.org/abs/2308.10121v1)|null|
-|**2023-08-19**|**Learning and Communications Co-Design for Remote Inference Systems: Feature Length Selection and Transmission Scheduling**|Md Kamran Chowdhury Shisher et.al.|[2308.10094v1](http://arxiv.org/abs/2308.10094v1)|[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
-|**2023-08-19**|**ILCAS: Imitation Learning-Based Configuration-Adaptive Streaming for Live Video Analytics with Cross-Camera Collaboration**|Duo Wu et.al.|[2308.10068v1](http://arxiv.org/abs/2308.10068v1)|null|
-|**2023-08-19**|**R-C-P Method: An Autonomous Volume Calculation Method Using Image Processing and Machine Vision**|MA Muktadir et.al.|[2308.10058v1](http://arxiv.org/abs/2308.10058v1)|null|

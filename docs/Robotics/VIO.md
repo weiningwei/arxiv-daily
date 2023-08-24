@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-23**|**Investigating the feasibility of a trapped atom interferometer with movable traps**|Gayathrini Premawardhana et.al.|[2308.12246v1](http://arxiv.org/abs/2308.12246v1)|null|
+|**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082v1](http://arxiv.org/abs/2308.12082v1)|null|
+|**2023-08-23**|**Multi-Modal Multi-Task (3MT) Road Segmentation**|Erkan Milli et.al.|[2308.11983v1](http://arxiv.org/abs/2308.11983v1)|[link](https://github.com/erkanmilli/3mt-roadseg)|
+|**2023-08-22**|**INS/DVL Fusion with DVL Based Acceleration Measurements**|Orzion Levy et.al.|[2308.11762v1](http://arxiv.org/abs/2308.11762v1)|null|
 |**2023-08-22**|**Multistability of elasto-inertial two-dimensional channel flow**|Miguel Beneitez et.al.|[2308.11554v1](http://arxiv.org/abs/2308.11554v1)|null|
 |**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
 |**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
@@ -17,6 +21,7 @@
 |**2023-08-18**|**Explicit Runge-Kutta algorithm to solve non-local equations with memory effects: case of the Maxey-Riley-Gatignol equation**|Divya Jaganathan et.al.|[2308.09714v1](http://arxiv.org/abs/2308.09714v1)|null|
 |**2023-08-17**|**Quantum Frame Relativity of Subsystems, Correlations and Thermodynamics**|Philipp A. Hoehn et.al.|[2308.09131v1](http://arxiv.org/abs/2308.09131v1)|null|
 |**2023-08-17**|**Unveiling the Spatiotemporal Evolution of Liquid-Lens Coalescence: Self-Similarity, Vortex Quadrupoles, and Turbulence in a Three-Phase Fluid System**|Nadia Bihari Padhan et.al.|[2308.08993v1](http://arxiv.org/abs/2308.08993v1)|null|
+|**2023-08-16**|**Gesture Recognition based on Long-Short Term Memory Cells using Smartphone IMUs**|Yuvaraj Govindarajulu et.al.|[2308.11642v1](http://arxiv.org/abs/2308.11642v1)|null|
 |**2023-08-16**|**Investigation on the Compressibility Characteristics of Low Mach Number Laminar Flow in Rotating Channel**|Junxin Che et.al.|[2308.08225v1](http://arxiv.org/abs/2308.08225v1)|null|
 |**2023-08-15**|**Nonlinear Deterministic Observer for Inertial Navigation using Ultra-wideband and IMU Sensor Fusion**|Hashim A. Hashim et.al.|[2308.08023v1](http://arxiv.org/abs/2308.08023v1)|null|
 |**2023-08-15**|**Evaluation of eddy viscosity-based models in decaying rotating stratified turbulence**|Kiran Jadhav et.al.|[2308.07978v1](http://arxiv.org/abs/2308.07978v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-14**|**Classical Non-Relativistic Fractons**|Abhishodh Prakash et.al.|[2308.07372v1](http://arxiv.org/abs/2308.07372v1)|null|
 |**2023-08-14**|**Space-local Navier--Stokes turbulence**|Ryo Araki et.al.|[2308.07255v2](http://arxiv.org/abs/2308.07255v2)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
-|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
-|**2023-08-11**|**The Rheology of Granular Mixtures with Varying Size, Density, Particle Friction and Flow Geometry**|Eric C. P Breard et.al.|[2308.06062v1](http://arxiv.org/abs/2308.06062v1)|null|
-|**2023-08-11**|**User Feedback and Sample Weighting for Ill-Conditioned Hand-Eye Calibration**|Markus Horn et.al.|[2308.06045v1](http://arxiv.org/abs/2308.06045v1)|null|
-|**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
-|**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459v1](http://arxiv.org/abs/2308.05459v1)|null|
