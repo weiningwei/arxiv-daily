@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-24**|**The massive side of the electromagnetic waves**|Rafael Ferraro et.al.|[2308.12860v1](http://arxiv.org/abs/2308.12860v1)|null|
+|**2023-08-24**|**A linear model for inertial modes in a differentially rotating Sun**|Jishnu Bhattacharya et.al.|[2308.12766v1](http://arxiv.org/abs/2308.12766v1)|null|
+|**2023-08-23**|**Quantum computation of stopping power for inertial fusion target design**|Nicholas C. Rubin et.al.|[2308.12352v1](http://arxiv.org/abs/2308.12352v1)|null|
 |**2023-08-23**|**Investigating the feasibility of a trapped atom interferometer with movable traps**|Gayathrini Premawardhana et.al.|[2308.12246v1](http://arxiv.org/abs/2308.12246v1)|null|
 |**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082v1](http://arxiv.org/abs/2308.12082v1)|null|
 |**2023-08-23**|**Multi-Modal Multi-Task (3MT) Road Segmentation**|Erkan Milli et.al.|[2308.11983v1](http://arxiv.org/abs/2308.11983v1)|[link](https://github.com/erkanmilli/3mt-roadseg)|
@@ -29,6 +32,3 @@
 |**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723v1](http://arxiv.org/abs/2308.07723v1)|null|
 |**2023-08-15**|**Characterization of fast magnetosonic waves driven by interaction between magnetic fields and compact toroids**|F. Chu et.al.|[2308.07582v1](http://arxiv.org/abs/2308.07582v1)|null|
 |**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
-|**2023-08-14**|**Classical Non-Relativistic Fractons**|Abhishodh Prakash et.al.|[2308.07372v1](http://arxiv.org/abs/2308.07372v1)|null|
-|**2023-08-14**|**Space-local Navier--Stokes turbulence**|Ryo Araki et.al.|[2308.07255v2](http://arxiv.org/abs/2308.07255v2)|null|
-|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
