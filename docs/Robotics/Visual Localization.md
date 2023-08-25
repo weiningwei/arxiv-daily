@@ -10,7 +10,7 @@
 |**2023-08-23**|**Temperature measurement methods in an experimental setup during bone drilling: A brief review on the comparison of thermocouple and infrared thermography**|Md Ashequl Islam et.al.|[2308.12034v1](http://arxiv.org/abs/2308.12034v1)|null|
 |**2023-08-23**|**Multi-Modal Multi-Task (3MT) Road Segmentation**|Erkan Milli et.al.|[2308.11983v1](http://arxiv.org/abs/2308.11983v1)|[link](https://github.com/erkanmilli/3mt-roadseg)|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v1](http://arxiv.org/abs/2308.11951v1)|null|
-|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|null|
+|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|[link](https://github.com/event-ahu/efv_event_classification)|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|[link](https://github.com/mooncake199809/ufvl-net)|
 |**2023-08-23**|**Semantic-Aware Implicit Template Learning via Part Deformation Consistency**|Sihyeon Kim et.al.|[2308.11916v1](http://arxiv.org/abs/2308.11916v1)|null|
 |**2023-08-23**|**Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification**|Geon Lee et.al.|[2308.11901v1](http://arxiv.org/abs/2308.11901v1)|null|
@@ -22,7 +22,7 @@
 |**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|[link](https://github.com/kuanchihhuang/moma-m3t)|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|
 |**2023-08-22**|**Pose2Gait: Extracting Gait Features from Monocular Video of Individuals with Dementia**|Caroline Malin-Mayor et.al.|[2308.11484v1](http://arxiv.org/abs/2308.11484v1)|[link](https://github.com/taatiteam/pose2gait_public)|
-|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bong et.al.|[2308.11471v1](http://arxiv.org/abs/2308.11471v1)|[link](https://github.com/mistlab/dovesei)|
+|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bong et.al.|[2308.11471v2](http://arxiv.org/abs/2308.11471v2)|[link](https://github.com/mistlab/dovesei)|
 |**2023-08-22**|**Generating airshower images for the VERITAS telescopes with conditional Generative Adversarial Networks**|J. Hoang et.al.|[2308.11431v1](http://arxiv.org/abs/2308.11431v1)|null|
 |**2023-08-22**|**ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes**|Chandan Yeshwanth et.al.|[2308.11417v1](http://arxiv.org/abs/2308.11417v1)|null|
 |**2023-08-22**|**High Dynamic Range Imaging of Dynamic Scenes with Saturation Compensation but without Explicit Motion Compensation**|Haesoo Chung et.al.|[2308.11140v1](http://arxiv.org/abs/2308.11140v1)|[link](https://github.com/haesoochung/hdri-saturation-compensation)|
