@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393v1](http://arxiv.org/abs/2308.13393v1)|null|
 |**2023-08-24**|**The massive side of the electromagnetic waves**|Rafael Ferraro et.al.|[2308.12860v1](http://arxiv.org/abs/2308.12860v1)|null|
 |**2023-08-24**|**A linear model for inertial modes in a differentially rotating Sun**|Jishnu Bhattacharya et.al.|[2308.12766v1](http://arxiv.org/abs/2308.12766v1)|null|
 |**2023-08-23**|**Quantum computation of stopping power for inertial fusion target design**|Nicholas C. Rubin et.al.|[2308.12352v1](http://arxiv.org/abs/2308.12352v1)|null|
@@ -31,4 +32,3 @@
 |**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916v1](http://arxiv.org/abs/2308.07916v1)|null|
 |**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723v1](http://arxiv.org/abs/2308.07723v1)|null|
 |**2023-08-15**|**Characterization of fast magnetosonic waves driven by interaction between magnetic fields and compact toroids**|F. Chu et.al.|[2308.07582v1](http://arxiv.org/abs/2308.07582v1)|null|
-|**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|

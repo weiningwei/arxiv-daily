@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor**|Kai Chong Lei et.al.|[2308.13241v1](http://arxiv.org/abs/2308.13241v1)|null|
+|**2023-08-25**|**ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking**|Cheng-Che Cheng et.al.|[2308.13229v1](http://arxiv.org/abs/2308.13229v1)|[link](https://github.com/chengche6230/rest)|
+|**2023-08-24**|**Enhancing Perception and Immersion in Pre-Captured Environments through Learning-Based Eye Height Adaptation**|Qi Feng et.al.|[2308.13042v1](http://arxiv.org/abs/2308.13042v1)|null|
 |**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938v1](http://arxiv.org/abs/2308.12938v1)|[link](https://github.com/KenYu910645/perspective-aware-convolution)|
 |**2023-08-24**|**SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**|Xinyu Zhang et.al.|[2308.12863v1](http://arxiv.org/abs/2308.12863v1)|null|
 |**2023-08-24**|**Object level footprint uncertainty quantification in infrastructure based sensing**|Arpan Kusari et.al.|[2308.12846v1](http://arxiv.org/abs/2308.12846v1)|null|
@@ -29,6 +32,3 @@
 |**2023-08-22**|**3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network**|Qinyu Chen et.al.|[2308.11771v1](http://arxiv.org/abs/2308.11771v1)|null|
 |**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|[link](https://github.com/kuanchihhuang/moma-m3t)|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|
-|**2023-08-22**|**Pose2Gait: Extracting Gait Features from Monocular Video of Individuals with Dementia**|Caroline Malin-Mayor et.al.|[2308.11484v1](http://arxiv.org/abs/2308.11484v1)|[link](https://github.com/taatiteam/pose2gait_public)|
-|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bong et.al.|[2308.11471v2](http://arxiv.org/abs/2308.11471v2)|[link](https://github.com/mistlab/dovesei)|
-|**2023-08-22**|**Generating airshower images for the VERITAS telescopes with conditional Generative Adversarial Networks**|J. Hoang et.al.|[2308.11431v1](http://arxiv.org/abs/2308.11431v1)|null|
