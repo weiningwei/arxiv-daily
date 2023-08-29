@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
+|**2023-08-28**|**Video-Based Hand Pose Estimation for Remote Assessment of Bradykinesia in Parkinson's Disease**|Gabriela T. Acevedo Trebbau et.al.|[2308.14679v1](http://arxiv.org/abs/2308.14679v1)|null|
+|**2023-08-28**|**Active Pose Refinement for Textureless Shiny Objects using the Structured Light Camera**|Jun Yang et.al.|[2308.14665v1](http://arxiv.org/abs/2308.14665v1)|null|
+|**2023-08-28**|**Semi-Supervised Learning for Visual Bird's Eye View Semantic Segmentation**|Junyu Zhu et.al.|[2308.14525v1](http://arxiv.org/abs/2308.14525v1)|null|
+|**2023-08-28**|**Graph-based Asynchronous Event Processing for Rapid Object Recognition**|Yijin Li et.al.|[2308.14419v1](http://arxiv.org/abs/2308.14419v1)|null|
+|**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414v1](http://arxiv.org/abs/2308.14414v1)|null|
+|**2023-08-28**|**Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor**|Xinyang Liu et.al.|[2308.14383v1](http://arxiv.org/abs/2308.14383v1)|null|
+|**2023-08-28**|**End-to-End Driving via Self-Supervised Imitation Learning Using Camera and LiDAR Data**|Jin Bok Park et.al.|[2308.14329v1](http://arxiv.org/abs/2308.14329v1)|null|
+|**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152v1](http://arxiv.org/abs/2308.14152v1)|null|
+|**2023-08-27**|**Semantic-aware Consistency Network for Cloth-changing Person Re-Identification**|Peini Guo et.al.|[2308.14113v1](http://arxiv.org/abs/2308.14113v1)|[link](https://github.com/gpn-star/scnet)|
+|**2023-08-26**|**Evaluating Deep Learning Assisted Automated Aquaculture Net Pens Inspection Using ROV**|Waseem Akram et.al.|[2308.13826v1](http://arxiv.org/abs/2308.13826v1)|null|
+|**2023-08-26**|**Devignet: High-Resolution Vignetting Removal via a Dual Aggregated Fusion Transformer With Adaptive Channel Expansion**|Shenghong Luo et.al.|[2308.13739v1](http://arxiv.org/abs/2308.13739v1)|null|
+|**2023-08-25**|**EventTransAct: A video transformer-based framework for Event-camera based action recognition**|Tristan de Blegiers et.al.|[2308.13711v1](http://arxiv.org/abs/2308.13711v1)|null|
+|**2023-08-25**|**Textureless Deformable Surface Reconstruction with Invisible Markers**|Xinyuan Li et.al.|[2308.13678v1](http://arxiv.org/abs/2308.13678v1)|null|
 |**2023-08-25**|**WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor**|Kai Chong Lei et.al.|[2308.13241v1](http://arxiv.org/abs/2308.13241v1)|null|
 |**2023-08-25**|**ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking**|Cheng-Che Cheng et.al.|[2308.13229v1](http://arxiv.org/abs/2308.13229v1)|[link](https://github.com/chengche6230/rest)|
 |**2023-08-24**|**Enhancing Perception and Immersion in Pre-Captured Environments through Learning-Based Eye Height Adaptation**|Qi Feng et.al.|[2308.13042v1](http://arxiv.org/abs/2308.13042v1)|null|
@@ -18,17 +32,3 @@
 |**2023-08-23**|**Mesh Conflation of Oblique Photogrammetric Models using Virtual Cameras and Truncated Signed Distance Field**|Shuang Song et.al.|[2308.12139v1](http://arxiv.org/abs/2308.12139v1)|null|
 |**2023-08-23**|**Cross-Modality Proposal-guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection**|Chao Tian et.al.|[2308.12111v1](http://arxiv.org/abs/2308.12111v1)|null|
 |**2023-08-23**|**Towards Privacy-Supporting Fall Detection via Deep Unsupervised RGB2Depth Adaptation**|Hejun Xiao et.al.|[2308.12049v1](http://arxiv.org/abs/2308.12049v1)|[link](https://github.com/1015206533/privacy_supporting_fall_detection)|
-|**2023-08-23**|**Temperature measurement methods in an experimental setup during bone drilling: A brief review on the comparison of thermocouple and infrared thermography**|Md Ashequl Islam et.al.|[2308.12034v1](http://arxiv.org/abs/2308.12034v1)|null|
-|**2023-08-23**|**Multi-Modal Multi-Task (3MT) Road Segmentation**|Erkan Milli et.al.|[2308.11983v1](http://arxiv.org/abs/2308.11983v1)|[link](https://github.com/erkanmilli/3mt-roadseg)|
-|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
-|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|[link](https://github.com/event-ahu/efv_event_classification)|
-|**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|[link](https://github.com/mooncake199809/ufvl-net)|
-|**2023-08-23**|**Semantic-Aware Implicit Template Learning via Part Deformation Consistency**|Sihyeon Kim et.al.|[2308.11916v1](http://arxiv.org/abs/2308.11916v1)|null|
-|**2023-08-23**|**Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification**|Geon Lee et.al.|[2308.11901v1](http://arxiv.org/abs/2308.11901v1)|null|
-|**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
-|**2023-08-22**|**PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification**|Yizhen Yuan et.al.|[2308.11822v1](http://arxiv.org/abs/2308.11822v1)|[link](https://github.com/xaiveryuan/patchbackdoor)|
-|**2023-08-22**|**Coarse-to-Fine Multi-Scene Pose Regression with Transformers**|Yoli Shavit et.al.|[2308.11783v1](http://arxiv.org/abs/2308.11783v1)|[link](https://github.com/yolish/c2f-ms-transformer)|
-|**2023-08-22**|**WS-SfMLearner: Self-supervised Monocular Depth and Ego-motion Estimation on Surgical Videos with Unknown Camera Parameters**|Ange Lou et.al.|[2308.11776v1](http://arxiv.org/abs/2308.11776v1)|null|
-|**2023-08-22**|**3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network**|Qinyu Chen et.al.|[2308.11771v1](http://arxiv.org/abs/2308.11771v1)|null|
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|[link](https://github.com/kuanchihhuang/moma-m3t)|
-|**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|

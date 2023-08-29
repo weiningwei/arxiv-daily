@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-28**|**An affordable and customizable wave buoy for the study of wave-ice interactions: design concept and results from field deployments**|Tsubasa Kodaira et.al.|[2308.14361v1](http://arxiv.org/abs/2308.14361v1)|null|
+|**2023-08-28**|**Persistent effects of inertia on diffusion-influenced reactions: Theoretical methods and applications**|Sangyoub Lee et.al.|[2308.14344v1](http://arxiv.org/abs/2308.14344v1)|null|
+|**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
+|**2023-08-28**|**Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate**|Zehua Tian et.al.|[2308.14246v1](http://arxiv.org/abs/2308.14246v1)|null|
+|**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
+|**2023-08-26**|**Learning Human-arm Reaching Motion Using IMU in Human-Robot Collaboration**|Nadav D. Kahanowich et.al.|[2308.13936v1](http://arxiv.org/abs/2308.13936v1)|null|
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393v1](http://arxiv.org/abs/2308.13393v1)|null|
 |**2023-08-24**|**The massive side of the electromagnetic waves**|Rafael Ferraro et.al.|[2308.12860v1](http://arxiv.org/abs/2308.12860v1)|null|
 |**2023-08-24**|**A linear model for inertial modes in a differentially rotating Sun**|Jishnu Bhattacharya et.al.|[2308.12766v1](http://arxiv.org/abs/2308.12766v1)|null|
@@ -26,9 +32,3 @@
 |**2023-08-17**|**Quantum Frame Relativity of Subsystems, Correlations and Thermodynamics**|Philipp A. Hoehn et.al.|[2308.09131v1](http://arxiv.org/abs/2308.09131v1)|null|
 |**2023-08-17**|**Unveiling the Spatiotemporal Evolution of Liquid-Lens Coalescence: Self-Similarity, Vortex Quadrupoles, and Turbulence in a Three-Phase Fluid System**|Nadia Bihari Padhan et.al.|[2308.08993v1](http://arxiv.org/abs/2308.08993v1)|null|
 |**2023-08-16**|**Gesture Recognition based on Long-Short Term Memory Cells using Smartphone IMUs**|Yuvaraj Govindarajulu et.al.|[2308.11642v1](http://arxiv.org/abs/2308.11642v1)|null|
-|**2023-08-16**|**Investigation on the Compressibility Characteristics of Low Mach Number Laminar Flow in Rotating Channel**|Junxin Che et.al.|[2308.08225v1](http://arxiv.org/abs/2308.08225v1)|null|
-|**2023-08-15**|**Nonlinear Deterministic Observer for Inertial Navigation using Ultra-wideband and IMU Sensor Fusion**|Hashim A. Hashim et.al.|[2308.08023v1](http://arxiv.org/abs/2308.08023v1)|null|
-|**2023-08-15**|**Evaluation of eddy viscosity-based models in decaying rotating stratified turbulence**|Kiran Jadhav et.al.|[2308.07978v1](http://arxiv.org/abs/2308.07978v1)|null|
-|**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916v1](http://arxiv.org/abs/2308.07916v1)|null|
-|**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723v1](http://arxiv.org/abs/2308.07723v1)|null|
-|**2023-08-15**|**Characterization of fast magnetosonic waves driven by interaction between magnetic fields and compact toroids**|F. Chu et.al.|[2308.07582v1](http://arxiv.org/abs/2308.07582v1)|null|
