@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-28**|**An affordable and customizable wave buoy for the study of wave-ice interactions: design concept and results from field deployments**|Tsubasa Kodaira et.al.|[2308.14361v1](http://arxiv.org/abs/2308.14361v1)|null|
+|**2023-08-28**|**An affordable and customizable wave buoy for the study of wave-ice interactions: design concept and results from field deployments**|Tsubasa Kodaira et.al.|[2308.14361v2](http://arxiv.org/abs/2308.14361v2)|null|
 |**2023-08-28**|**Persistent effects of inertia on diffusion-influenced reactions: Theoretical methods and applications**|Sangyoub Lee et.al.|[2308.14344v1](http://arxiv.org/abs/2308.14344v1)|null|
 |**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
 |**2023-08-28**|**Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate**|Zehua Tian et.al.|[2308.14246v1](http://arxiv.org/abs/2308.14246v1)|null|
@@ -19,7 +19,7 @@
 |**2023-08-22**|**Multistability of elasto-inertial two-dimensional channel flow**|Miguel Beneitez et.al.|[2308.11554v1](http://arxiv.org/abs/2308.11554v1)|null|
 |**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
 |**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
-|**2023-08-22**|**$2\cdot 10^{-13}$ fractional laser frequency stability with a 7-cm unequal-arm Mach-Zehnder interferometer**|Victor Huarcaya et.al.|[2308.11325v1](http://arxiv.org/abs/2308.11325v1)|null|
+|**2023-08-22**|**$2\cdot 10^{-13}$ fractional laser frequency stability with a 7-cm unequal-arm Mach-Zehnder interferometer**|Victor Huarcaya et.al.|[2308.11325v2](http://arxiv.org/abs/2308.11325v2)|null|
 |**2023-08-22**|**LEAP: Efficient and Automated Test Method for NLP Software**|Mingxuan Xiao et.al.|[2308.11284v1](http://arxiv.org/abs/2308.11284v1)|[link](https://github.com/lumos-xiao/leap)|
 |**2023-08-22**|**Collective Flows Drive Cavitation in Spinner Monolayers**|Zaiyi Shen et.al.|[2308.11280v1](http://arxiv.org/abs/2308.11280v1)|null|
 |**2023-08-22**|**VIO-DualProNet: Visual-Inertial Odometry with Learning Based Process Noise Covariance**|Dan Solodar et.al.|[2308.11228v1](http://arxiv.org/abs/2308.11228v1)|null|
