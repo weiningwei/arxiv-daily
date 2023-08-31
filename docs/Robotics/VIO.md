@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-30**|**Simple type theory for metaplectic covers of $\mathrm{GL}(r)$ over a non-archimedean local field**|Jiandi Zou et.al.|[2308.16143v1](http://arxiv.org/abs/2308.16143v1)|null|
+|**2023-08-30**|**Effects of the librationally induced flow in Mercury's fluid core with an outer stably stratified layer**|Fleur Seuren et.al.|[2308.15912v1](http://arxiv.org/abs/2308.15912v1)|null|
+|**2023-08-29**|**Quantum Otto engine driven by quantum fields**|Kensuke Gallock-Yoshimura et.al.|[2308.15528v1](http://arxiv.org/abs/2308.15528v1)|null|
 |**2023-08-29**|**Departure from the statistical equilibrium of large scales in three-dimensional hydrodynamic turbulence**|Mengjie Ding et.al.|[2308.15292v1](http://arxiv.org/abs/2308.15292v1)|null|
 |**2023-08-29**|**GPS-aided Visual Wheel Odometry**|Junlin Song et.al.|[2308.15133v1](http://arxiv.org/abs/2308.15133v1)|null|
 |**2023-08-28**|**Inertial enhancement of the polymer diffusive instability**|Miles M. P. Couchman et.al.|[2308.14879v1](http://arxiv.org/abs/2308.14879v1)|null|
@@ -29,6 +32,3 @@
 |**2023-08-22**|**Constructive Equivariant Observer Design for Inertial Navigation**|Pieter van Goor et.al.|[2308.11124v1](http://arxiv.org/abs/2308.11124v1)|null|
 |**2023-08-21**|**Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction**|Rémi Pautrat et.al.|[2308.10694v1](http://arxiv.org/abs/2308.10694v1)|[link](https://github.com/cvg/vp-estimation-with-prior-gravity)|
 |**2023-08-21**|**Doppler-aware Odometry from FMCW Scanning Radar**|Fraser Rennie et.al.|[2308.10597v1](http://arxiv.org/abs/2308.10597v1)|null|
-|**2023-08-20**|**Automated mapping of virtual environments with visual predictive coding**|James Gornet et.al.|[2308.10913v1](http://arxiv.org/abs/2308.10913v1)|null|
-|**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|[link](https://github.com/ir-lab/denkf)|
-|**2023-08-18**|**Explicit Runge-Kutta algorithm to solve non-local equations with memory effects: case of the Maxey-Riley-Gatignol equation**|Divya Jaganathan et.al.|[2308.09714v1](http://arxiv.org/abs/2308.09714v1)|null|
