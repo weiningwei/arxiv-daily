@@ -5,7 +5,7 @@
 |**2023-08-29**|**Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection**|Yazhou Xing et.al.|[2308.15462v1](http://arxiv.org/abs/2308.15462v1)|null|
 |**2023-08-29**|**Detect, Augment, Compose, and Adapt: Four Steps for Unsupervised Domain Adaptation in Object Detection**|Mohamed L. Mekhalfi et.al.|[2308.15353v1](http://arxiv.org/abs/2308.15353v1)|[link](https://github.com/mohamedtev/daca)|
 |**2023-08-29**|**iBARLE: imBalance-Aware Room Layout Estimation**|Taotao Jing et.al.|[2308.15050v1](http://arxiv.org/abs/2308.15050v1)|null|
-|**2023-08-28**|**NSF: Neural Surface Fields for Human Modeling from Monocular Depth**|Yuxuan Xue et.al.|[2308.14847v1](http://arxiv.org/abs/2308.14847v1)|null|
+|**2023-08-28**|**NSF: Neural Surface Fields for Human Modeling from Monocular Depth**|Yuxuan Xue et.al.|[2308.14847v2](http://arxiv.org/abs/2308.14847v2)|null|
 |**2023-08-28**|**The Interstate-24 3D Dataset: a new benchmark for 3D multi-camera vehicle tracking**|Derek Gloudemans et.al.|[2308.14833v1](http://arxiv.org/abs/2308.14833v1)|null|
 |**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
 |**2023-08-28**|**Video-Based Hand Pose Estimation for Remote Assessment of Bradykinesia in Parkinson's Disease**|Gabriela T. Acevedo Trebbau et.al.|[2308.14679v1](http://arxiv.org/abs/2308.14679v1)|null|
