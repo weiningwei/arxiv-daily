@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-31**|**SiTAR: Situated Trajectory Analysis for In-the-Wild Pose Error Estimation**|Tim Scargill et.al.|[2308.16813v1](http://arxiv.org/abs/2308.16813v1)|null|
+|**2023-08-31**|**Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurations**|Tom Van Wouwe et.al.|[2308.16682v1](http://arxiv.org/abs/2308.16682v1)|null|
+|**2023-08-31**|**Gyrophilia: Harnessing Centrifugal and Euler Forces for Tunable Buckling of a Rotating Elastica**|Eduardo Gutierrez-Prieto et.al.|[2308.16667v1](http://arxiv.org/abs/2308.16667v1)|null|
+|**2023-08-31**|**Expanding Frozen Vision-Language Models without Retraining: Towards Improved Robot Perception**|Riley Tavassoli et.al.|[2308.16493v1](http://arxiv.org/abs/2308.16493v1)|null|
+|**2023-08-31**|**On the departure from Monin-Obukhov surface similarity and transition to the convective mixed layer**|Michael Heisel et.al.|[2308.16405v1](http://arxiv.org/abs/2308.16405v1)|null|
+|**2023-08-30**|**Optimizing beam-splitter pulses for atom interferometry: a geometric approach**|Nikolaos Dedes et.al.|[2308.16287v1](http://arxiv.org/abs/2308.16287v1)|null|
 |**2023-08-30**|**Simple type theory for metaplectic covers of $\mathrm{GL}(r)$ over a non-archimedean local field**|Jiandi Zou et.al.|[2308.16143v1](http://arxiv.org/abs/2308.16143v1)|null|
 |**2023-08-30**|**Effects of the librationally induced flow in Mercury's fluid core with an outer stably stratified layer**|Fleur Seuren et.al.|[2308.15912v1](http://arxiv.org/abs/2308.15912v1)|null|
 |**2023-08-29**|**Quantum Otto engine driven by quantum fields**|Kensuke Gallock-Yoshimura et.al.|[2308.15528v1](http://arxiv.org/abs/2308.15528v1)|null|
@@ -26,9 +32,3 @@
 |**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
 |**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
 |**2023-08-22**|**$2\cdot 10^{-13}$ fractional laser frequency stability with a 7-cm unequal-arm Mach-Zehnder interferometer**|Victor Huarcaya et.al.|[2308.11325v2](http://arxiv.org/abs/2308.11325v2)|null|
-|**2023-08-22**|**LEAP: Efficient and Automated Test Method for NLP Software**|Mingxuan Xiao et.al.|[2308.11284v1](http://arxiv.org/abs/2308.11284v1)|[link](https://github.com/lumos-xiao/leap)|
-|**2023-08-22**|**Collective Flows Drive Cavitation in Spinner Monolayers**|Zaiyi Shen et.al.|[2308.11280v1](http://arxiv.org/abs/2308.11280v1)|null|
-|**2023-08-22**|**VIO-DualProNet: Visual-Inertial Odometry with Learning Based Process Noise Covariance**|Dan Solodar et.al.|[2308.11228v1](http://arxiv.org/abs/2308.11228v1)|null|
-|**2023-08-22**|**Constructive Equivariant Observer Design for Inertial Navigation**|Pieter van Goor et.al.|[2308.11124v1](http://arxiv.org/abs/2308.11124v1)|null|
-|**2023-08-21**|**Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction**|Rémi Pautrat et.al.|[2308.10694v1](http://arxiv.org/abs/2308.10694v1)|[link](https://github.com/cvg/vp-estimation-with-prior-gravity)|
-|**2023-08-21**|**Doppler-aware Odometry from FMCW Scanning Radar**|Fraser Rennie et.al.|[2308.10597v1](http://arxiv.org/abs/2308.10597v1)|null|
