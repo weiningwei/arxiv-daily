@@ -19,7 +19,7 @@
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733v1](http://arxiv.org/abs/2308.15733v1)|null|
 |**2023-08-30**|**Overview and First Results of EUSO-SPB2**|Johannes Eser et.al.|[2308.15693v2](http://arxiv.org/abs/2308.15693v2)|null|
 |**2023-08-29**|**The EUSO-SPB2 Cherenkov Telescope -- Flight Performance and Preliminary Results**|Eliza Gazda et.al.|[2308.15628v1](http://arxiv.org/abs/2308.15628v1)|null|
-|**2023-08-29**|**Real-time stokes polarimetry based on a polarisation camera**|Mitchell A. Cox et.al.|[2308.15606v1](http://arxiv.org/abs/2308.15606v1)|null|
+|**2023-08-29**|**Real-time stokes polarimetry based on a polarisation camera**|Mitchell A. Cox et.al.|[2308.15606v1](http://arxiv.org/abs/2308.15606v1)|[link](https://github.com/witsoclab/stokescamera)|
 |**2023-08-29**|**A 9-Month $\textit{Hubble Space Telescope}$ Near-UV Survey of M87. I. Light and Color Curves of 94 Novae, and a Re-determination of the Nova Rate**|Michael M. Shara et.al.|[2308.15599v1](http://arxiv.org/abs/2308.15599v1)|null|
 |**2023-08-29**|**Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection**|Yazhou Xing et.al.|[2308.15462v1](http://arxiv.org/abs/2308.15462v1)|null|
 |**2023-08-29**|**Detect, Augment, Compose, and Adapt: Four Steps for Unsupervised Domain Adaptation in Object Detection**|Mohamed L. Mekhalfi et.al.|[2308.15353v1](http://arxiv.org/abs/2308.15353v1)|[link](https://github.com/mohamedtev/daca)|
