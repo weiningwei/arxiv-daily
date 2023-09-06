@@ -17,7 +17,7 @@
 |**2023-08-29**|**Departure from the statistical equilibrium of large scales in three-dimensional hydrodynamic turbulence**|Mengjie Ding et.al.|[2308.15292v1](http://arxiv.org/abs/2308.15292v1)|null|
 |**2023-08-29**|**GPS-aided Visual Wheel Odometry**|Junlin Song et.al.|[2308.15133v1](http://arxiv.org/abs/2308.15133v1)|null|
 |**2023-08-28**|**Inertial enhancement of the polymer diffusive instability**|Miles M. P. Couchman et.al.|[2308.14879v1](http://arxiv.org/abs/2308.14879v1)|null|
-|**2023-08-28**|**An affordable and customizable wave buoy for the study of wave-ice interactions: design concept and results from field deployments**|Tsubasa Kodaira et.al.|[2308.14361v2](http://arxiv.org/abs/2308.14361v2)|null|
+|**2023-08-28**|**An affordable and customizable wave buoy for the study of wave-ice interactions: design concept and results from field deployments**|Tsubasa Kodaira et.al.|[2308.14361v3](http://arxiv.org/abs/2308.14361v3)|null|
 |**2023-08-28**|**Persistent effects of inertia on diffusion-influenced reactions: Theoretical methods and applications**|Sangyoub Lee et.al.|[2308.14344v1](http://arxiv.org/abs/2308.14344v1)|null|
 |**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
 |**2023-08-28**|**Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate**|Zehua Tian et.al.|[2308.14246v1](http://arxiv.org/abs/2308.14246v1)|null|
