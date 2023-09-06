@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-04**|**ReLoc-PDR: Visual Relocalization Enhanced Pedestrian Dead Reckoning via Graph Optimization**|Zongyang Chen et.al.|[2309.01646v1](http://arxiv.org/abs/2309.01646v1)|null|
+|**2023-09-04**|**On the energetics of a tidally oscillating convective flow**|Caroline Terquem et.al.|[2309.01450v1](http://arxiv.org/abs/2309.01450v1)|null|
+|**2023-09-04**|**Detection of Pedestrian Turning Motions to Enhance Indoor Map Matching Performance**|Seunghyeon Park et.al.|[2309.01405v1](http://arxiv.org/abs/2309.01405v1)|null|
+|**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296v1](http://arxiv.org/abs/2309.01296v1)|null|
+|**2023-09-03**|**BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking**|Dorian F. Henning et.al.|[2309.01236v1](http://arxiv.org/abs/2309.01236v1)|null|
+|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962v1](http://arxiv.org/abs/2309.00962v1)|null|
 |**2023-09-01**|**Relativistic hydrodynamic fluctuations from an effective action: causality, stability, and the information current**|Nicki Mullins et.al.|[2309.00512v1](http://arxiv.org/abs/2309.00512v1)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
 |**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310v1](http://arxiv.org/abs/2309.00310v1)|[link](https://github.com/shaohua-pan/RobustCap)|
@@ -26,9 +32,3 @@
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393v1](http://arxiv.org/abs/2308.13393v1)|null|
 |**2023-08-24**|**The massive side of the electromagnetic waves**|Rafael Ferraro et.al.|[2308.12860v1](http://arxiv.org/abs/2308.12860v1)|null|
 |**2023-08-24**|**A linear model for inertial modes in a differentially rotating Sun**|Jishnu Bhattacharya et.al.|[2308.12766v1](http://arxiv.org/abs/2308.12766v1)|null|
-|**2023-08-23**|**Quantum computation of stopping power for inertial fusion target design**|Nicholas C. Rubin et.al.|[2308.12352v1](http://arxiv.org/abs/2308.12352v1)|null|
-|**2023-08-23**|**Investigating the feasibility of a trapped atom interferometer with movable traps**|Gayathrini Premawardhana et.al.|[2308.12246v1](http://arxiv.org/abs/2308.12246v1)|null|
-|**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082v1](http://arxiv.org/abs/2308.12082v1)|null|
-|**2023-08-23**|**Multi-Modal Multi-Task (3MT) Road Segmentation**|Erkan Milli et.al.|[2308.11983v1](http://arxiv.org/abs/2308.11983v1)|[link](https://github.com/erkanmilli/3mt-roadseg)|
-|**2023-08-22**|**INS/DVL Fusion with DVL Based Acceleration Measurements**|Orzion Levy et.al.|[2308.11762v1](http://arxiv.org/abs/2308.11762v1)|null|
-|**2023-08-22**|**Multistability of elasto-inertial two-dimensional channel flow**|Miguel Beneitez et.al.|[2308.11554v1](http://arxiv.org/abs/2308.11554v1)|null|
