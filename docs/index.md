@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-06 21:12:13 Asia/Shanghai
+ Automated deployment @ 2023-09-07 08:29:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -21,7 +21,7 @@
 |**2023-09-04**|**3D View Prediction Models of the Dorsal Visual Stream**|Gabriel Sarch et.al.|[2309.01782v1](http://arxiv.org/abs/2309.01782v1)|null|
 |**2023-09-04**|**Towards Robust Velocity and Position Estimation of Opponents for Autonomous Racing Using Low-Power Radar**|Andrea Ronco et.al.|[2309.01647v1](http://arxiv.org/abs/2309.01647v1)|null|
 |**2023-09-04**|**AGG-Net: Attention Guided Gated-convolutional Network for Depth Image Completion**|Dongyue Chen et.al.|[2309.01624v1](http://arxiv.org/abs/2309.01624v1)|null|
-|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539v1](http://arxiv.org/abs/2309.01539v1)|[link](https://github.com/tusen-ai/TSTTC)|
+|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539v2](http://arxiv.org/abs/2309.01539v2)|[link](https://github.com/tusen-ai/TSTTC)|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324v1](http://arxiv.org/abs/2309.01324v1)|null|
 |**2023-09-04**|**An FPGA smart camera implementation of segmentation models for drone wildfire imagery**|Eduardo Guarduño-Martinez et.al.|[2309.01318v1](http://arxiv.org/abs/2309.01318v1)|null|
 |**2023-09-03**|**Multimodal Contrastive Learning with Hard Negative Sampling for Human Activity Recognition**|Hyeongju Choi et.al.|[2309.01262v1](http://arxiv.org/abs/2309.01262v1)|null|
