@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111v1](http://arxiv.org/abs/2309.03111v1)|null|
+|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
+|**2023-09-05**|**Tidally-excited inertial waves in stars and planets: exploring the frequency-dependent and averaged dissipation with nonlinear simulations**|Aurélie Astoul et.al.|[2309.02520v1](http://arxiv.org/abs/2309.02520v1)|null|
 |**2023-09-04**|**ReLoc-PDR: Visual Relocalization Enhanced Pedestrian Dead Reckoning via Graph Optimization**|Zongyang Chen et.al.|[2309.01646v1](http://arxiv.org/abs/2309.01646v1)|null|
 |**2023-09-04**|**On the energetics of a tidally oscillating convective flow**|Caroline Terquem et.al.|[2309.01450v1](http://arxiv.org/abs/2309.01450v1)|null|
 |**2023-09-04**|**Detection of Pedestrian Turning Motions to Enhance Indoor Map Matching Performance**|Seunghyeon Park et.al.|[2309.01405v1](http://arxiv.org/abs/2309.01405v1)|null|
@@ -29,6 +32,3 @@
 |**2023-08-28**|**Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate**|Zehua Tian et.al.|[2308.14246v1](http://arxiv.org/abs/2308.14246v1)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
 |**2023-08-26**|**Learning Human-arm Reaching Motion Using IMU in Human-Robot Collaboration**|Nadav D. Kahanowich et.al.|[2308.13936v1](http://arxiv.org/abs/2308.13936v1)|null|
-|**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393v1](http://arxiv.org/abs/2308.13393v1)|null|
-|**2023-08-24**|**The massive side of the electromagnetic waves**|Rafael Ferraro et.al.|[2308.12860v1](http://arxiv.org/abs/2308.12860v1)|null|
-|**2023-08-24**|**A linear model for inertial modes in a differentially rotating Sun**|Jishnu Bhattacharya et.al.|[2308.12766v1](http://arxiv.org/abs/2308.12766v1)|null|
