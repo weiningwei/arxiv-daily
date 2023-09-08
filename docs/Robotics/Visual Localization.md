@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-07**|**Panoramas from Photons**|Sacha Jungerman et.al.|[2309.03811v1](http://arxiv.org/abs/2309.03811v1)|null|
+|**2023-09-07**|**FisheyePP4AV: A privacy-preserving method for autonomous vehicles on fisheye camera images**|Linh Trinh et.al.|[2309.03799v1](http://arxiv.org/abs/2309.03799v1)|null|
+|**2023-09-07**|**dacl1k: Real-World Bridge Damage Dataset Putting Open-Source Data to the Test**|Johannes Flotzinger et.al.|[2309.03763v1](http://arxiv.org/abs/2309.03763v1)|null|
+|**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734v1](http://arxiv.org/abs/2309.03734v1)|null|
+|**2023-09-07**|**Context-Aware 3D Object Localization from Single Calibrated Images: A Study of Basketballs**|Marcello Davide Caio et.al.|[2309.03640v1](http://arxiv.org/abs/2309.03640v1)|[link](https://github.com/gabriel-vanzandycke/deepsport)|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
+|**2023-09-07**|**Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation**|Zhuqiang Lu et.al.|[2309.03467v1](http://arxiv.org/abs/2309.03467v1)|null|
+|**2023-09-06**|**Source Camera Identification and Detection in Digital Videos through Blind Forensics**|Venkata Udaya Sameer et.al.|[2309.03353v1](http://arxiv.org/abs/2309.03353v1)|null|
+|**2023-09-06**|**Comparative Analysis of Deep-Fake Algorithms**|Nikhil Sontakke et.al.|[2309.03295v1](http://arxiv.org/abs/2309.03295v1)|null|
 |**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008v1](http://arxiv.org/abs/2309.03008v1)|null|
 |**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997v1](http://arxiv.org/abs/2309.02997v1)|null|
 |**2023-09-06**|**Measurement of Charge State Distributions using a Scintillation Screen**|C. Marshall et.al.|[2309.02991v2](http://arxiv.org/abs/2309.02991v2)|null|
@@ -23,12 +32,3 @@
 |**2023-09-04**|**Towards Robust Velocity and Position Estimation of Opponents for Autonomous Racing Using Low-Power Radar**|Andrea Ronco et.al.|[2309.01647v1](http://arxiv.org/abs/2309.01647v1)|null|
 |**2023-09-04**|**AGG-Net: Attention Guided Gated-convolutional Network for Depth Image Completion**|Dongyue Chen et.al.|[2309.01624v1](http://arxiv.org/abs/2309.01624v1)|null|
 |**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539v2](http://arxiv.org/abs/2309.01539v2)|[link](https://github.com/tusen-ai/TSTTC)|
-|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324v1](http://arxiv.org/abs/2309.01324v1)|null|
-|**2023-09-04**|**An FPGA smart camera implementation of segmentation models for drone wildfire imagery**|Eduardo Guarduño-Martinez et.al.|[2309.01318v1](http://arxiv.org/abs/2309.01318v1)|null|
-|**2023-09-03**|**Multimodal Contrastive Learning with Hard Negative Sampling for Human Activity Recognition**|Hyeongju Choi et.al.|[2309.01262v1](http://arxiv.org/abs/2309.01262v1)|null|
-|**2023-09-03**|**BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking**|Dorian F. Henning et.al.|[2309.01236v1](http://arxiv.org/abs/2309.01236v1)|null|
-|**2023-09-03**|**Spatial-temporal Vehicle Re-identification**|Hye-Geun Kim et.al.|[2309.01166v1](http://arxiv.org/abs/2309.01166v1)|null|
-|**2023-09-03**|**An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras**|Ziwei Wang et.al.|[2309.01159v1](http://arxiv.org/abs/2309.01159v1)|null|
-|**2023-09-02**|**Mitigating Motion Blur for Robust 3D Baseball Player Pose Modeling for Pitch Analysis**|Jerrin Bright et.al.|[2309.01010v1](http://arxiv.org/abs/2309.01010v1)|null|
-|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962v1](http://arxiv.org/abs/2309.00962v1)|null|
-|**2023-09-02**|**Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera**|Lei Cheng et.al.|[2309.00787v1](http://arxiv.org/abs/2309.00787v1)|null|

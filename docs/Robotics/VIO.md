@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-07**|**Equivariant Symmetries for Inertial Navigation Systems**|Alessandro Fornasier et.al.|[2309.03765v1](http://arxiv.org/abs/2309.03765v1)|null|
 |**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111v1](http://arxiv.org/abs/2309.03111v1)|null|
 |**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
 |**2023-09-05**|**Tidally-excited inertial waves in stars and planets: exploring the frequency-dependent and averaged dissipation with nonlinear simulations**|Aurélie Astoul et.al.|[2309.02520v1](http://arxiv.org/abs/2309.02520v1)|null|
@@ -31,4 +32,3 @@
 |**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
 |**2023-08-28**|**Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate**|Zehua Tian et.al.|[2308.14246v1](http://arxiv.org/abs/2308.14246v1)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
-|**2023-08-26**|**Learning Human-arm Reaching Motion Using IMU in Human-Robot Collaboration**|Nadav D. Kahanowich et.al.|[2308.13936v1](http://arxiv.org/abs/2308.13936v1)|null|
