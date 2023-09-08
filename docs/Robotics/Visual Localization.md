@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008v1](http://arxiv.org/abs/2309.03008v1)|null|
 |**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997v1](http://arxiv.org/abs/2309.02997v1)|null|
-|**2023-09-06**|**Measurement of Charge State Distributions using a Scintillation Screen**|C. Marshall et.al.|[2309.02991v1](http://arxiv.org/abs/2309.02991v1)|null|
+|**2023-09-06**|**Measurement of Charge State Distributions using a Scintillation Screen**|C. Marshall et.al.|[2309.02991v2](http://arxiv.org/abs/2309.02991v2)|null|
 |**2023-09-06**|**Indoor Localization Using Radio, Vision and Audio Sensors: Real-Life Data Validation and Discussion**|Ilayda Yaman et.al.|[2309.02961v1](http://arxiv.org/abs/2309.02961v1)|null|
 |**2023-09-06**|**3D Trajectory Reconstruction of Drones using a Single Camera**|Seobin Hwang et.al.|[2309.02801v1](http://arxiv.org/abs/2309.02801v1)|null|
 |**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777v1](http://arxiv.org/abs/2309.02777v1)|null|
