@@ -10,7 +10,7 @@
 |**2023-09-06**|**Feasibility of Local Trajectory Planning for Level-2+ Semi-autonomous Driving without Absolute Localization**|Sheng Zhu et.al.|[2309.03051v1](http://arxiv.org/abs/2309.03051v1)|null|
 |**2023-09-06**|**tinySLAM-based exploration with a swarm of nano-UAVs**|Johan Markdahl et.al.|[2309.02834v1](http://arxiv.org/abs/2309.02834v1)|null|
 |**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
-|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|null|
+|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|[link](https://github.com/youmi-zym/go-slam)|
 |**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962v1](http://arxiv.org/abs/2309.00962v1)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
 |**2023-08-31**|**Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition**|Milad Ramezani et.al.|[2309.00168v1](http://arxiv.org/abs/2309.00168v1)|null|

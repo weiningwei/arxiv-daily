@@ -27,7 +27,7 @@
 |**2023-09-06**|**3D Trajectory Reconstruction of Drones using a Single Camera**|Seobin Hwang et.al.|[2309.02801v1](http://arxiv.org/abs/2309.02801v1)|null|
 |**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777v1](http://arxiv.org/abs/2309.02777v1)|null|
 |**2023-09-06**|**White paper on Selected Environmental Parameters affecting Autonomous Vehicle (AV) Sensors**|James Lee Wei Shung et.al.|[2309.02673v1](http://arxiv.org/abs/2309.02673v1)|null|
-|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|null|
+|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|[link](https://github.com/youmi-zym/go-slam)|
 |**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217v1](http://arxiv.org/abs/2309.02217v1)|null|
 |**2023-09-05**|**AniPortraitGAN: Animatable 3D Portrait Generation from 2D Image Collections**|Yue Wu et.al.|[2309.02186v1](http://arxiv.org/abs/2309.02186v1)|null|
 |**2023-09-05**|**Forgotten treasures in the HST/FOC UV imaging polarimetric archives of active galactic nuclei. I. Pipeline and benchmarking against NGC~1068 and exploring IC~5063**|Thibault Barnouin et.al.|[2309.02167v1](http://arxiv.org/abs/2309.02167v1)|null|
