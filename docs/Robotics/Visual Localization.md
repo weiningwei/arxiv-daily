@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-08**|**WiSARD: A Labeled Visual and Thermal Image Dataset for Wilderness Search and Rescue**|Daniel Broyles et.al.|[2309.04453v1](http://arxiv.org/abs/2309.04453v1)|null|
+|**2023-09-08**|**Demographic Disparities in 1-to-Many Facial Identification**|Aman Bhatta et.al.|[2309.04447v1](http://arxiv.org/abs/2309.04447v1)|null|
+|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441v1](http://arxiv.org/abs/2309.04441v1)|null|
+|**2023-09-08**|**SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios**|Amr Gomaa et.al.|[2309.04421v1](http://arxiv.org/abs/2309.04421v1)|null|
+|**2023-09-08**|**Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality**|Ziang Cheng et.al.|[2309.04183v1](http://arxiv.org/abs/2309.04183v1)|null|
+|**2023-09-08**|**Depth Completion with Multiple Balanced Bases and Confidence for Dense Monocular SLAM**|Weijian Xie et.al.|[2309.04145v1](http://arxiv.org/abs/2309.04145v1)|null|
+|**2023-09-07**|**Algebra and Geometry of Camera Resectioning**|Erin Connelly et.al.|[2309.04028v1](http://arxiv.org/abs/2309.04028v1)|null|
+|**2023-09-07**|**BOLA360: Near-optimal View and Bitrate Adaptation for 360-degree Video Streaming**|Ali Zeynali et.al.|[2309.04023v1](http://arxiv.org/abs/2309.04023v1)|null|
+|**2023-09-07**|**Improving the Accuracy of Beauty Product Recommendations by Assessing Face Illumination Quality**|Parnian Afshar et.al.|[2309.04022v1](http://arxiv.org/abs/2309.04022v1)|null|
 |**2023-09-07**|**Panoramas from Photons**|Sacha Jungerman et.al.|[2309.03811v1](http://arxiv.org/abs/2309.03811v1)|null|
 |**2023-09-07**|**FisheyePP4AV: A privacy-preserving method for autonomous vehicles on fisheye camera images**|Linh Trinh et.al.|[2309.03799v1](http://arxiv.org/abs/2309.03799v1)|null|
 |**2023-09-07**|**dacl1k: Real-World Bridge Damage Dataset Putting Open-Source Data to the Test**|Johannes Flotzinger et.al.|[2309.03763v1](http://arxiv.org/abs/2309.03763v1)|null|
@@ -23,12 +32,3 @@
 |**2023-09-05**|**AniPortraitGAN: Animatable 3D Portrait Generation from 2D Image Collections**|Yue Wu et.al.|[2309.02186v1](http://arxiv.org/abs/2309.02186v1)|null|
 |**2023-09-05**|**Forgotten treasures in the HST/FOC UV imaging polarimetric archives of active galactic nuclei. I. Pipeline and benchmarking against NGC~1068 and exploring IC~5063**|Thibault Barnouin et.al.|[2309.02167v1](http://arxiv.org/abs/2309.02167v1)|null|
 |**2023-09-05**|**FALCO simulations of high-contrast polarimetry with the Nancy Grace Roman Space Telescope Coronagraph Instrument**|David S. Doelman et.al.|[2309.02044v1](http://arxiv.org/abs/2309.02044v1)|null|
-|**2023-09-05**|**RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**|Yunhao Zou et.al.|[2309.02020v1](http://arxiv.org/abs/2309.02020v1)|null|
-|**2023-09-05**|**Logarithmic Mathematical Morphology: theory and applications**|Guillaume Noyel et.al.|[2309.02007v1](http://arxiv.org/abs/2309.02007v1)|null|
-|**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925v1](http://arxiv.org/abs/2309.01925v1)|null|
-|**2023-09-05**|**Realistic Volume Rendering with Environment-Synced Illumination in Mixed Reality**|Haojie Cheng et.al.|[2309.01916v1](http://arxiv.org/abs/2309.01916v1)|null|
-|**2023-09-04**|**Cone beam neutron interferometry: from modeling to applications**|D. Sarenac et.al.|[2309.01787v1](http://arxiv.org/abs/2309.01787v1)|null|
-|**2023-09-04**|**3D View Prediction Models of the Dorsal Visual Stream**|Gabriel Sarch et.al.|[2309.01782v1](http://arxiv.org/abs/2309.01782v1)|null|
-|**2023-09-04**|**Towards Robust Velocity and Position Estimation of Opponents for Autonomous Racing Using Low-Power Radar**|Andrea Ronco et.al.|[2309.01647v1](http://arxiv.org/abs/2309.01647v1)|null|
-|**2023-09-04**|**AGG-Net: Attention Guided Gated-convolutional Network for Depth Image Completion**|Dongyue Chen et.al.|[2309.01624v1](http://arxiv.org/abs/2309.01624v1)|null|
-|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539v2](http://arxiv.org/abs/2309.01539v2)|[link](https://github.com/tusen-ai/TSTTC)|
