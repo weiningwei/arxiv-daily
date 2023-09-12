@@ -2,6 +2,11 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|null|
+|**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349v1](http://arxiv.org/abs/2309.05349v1)|null|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
+|**2023-09-10**|**Benchmarking ground truth trajectories with robotic total stations**|Effie Daum et.al.|[2309.05134v1](http://arxiv.org/abs/2309.05134v1)|null|
+|**2023-09-10**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v1](http://arxiv.org/abs/2309.04937v1)|null|
 |**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441v1](http://arxiv.org/abs/2309.04441v1)|null|
 |**2023-09-08**|**Data-Driven Batch Localization and SLAM Using Koopman Linearization**|Zi Cong Guo et.al.|[2309.04375v1](http://arxiv.org/abs/2309.04375v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-17**|**MV-ROPE: Multi-view Constraints for Robust Category-level Object Pose and Size Estimation**|Jiaqi Yang et.al.|[2308.08856v1](http://arxiv.org/abs/2308.08856v1)|[link](https://github.com/greatoyster/mv-rope)|
 |**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723v1](http://arxiv.org/abs/2308.07723v1)|null|
 |**2023-08-14**|**On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics**|Connor Holmes et.al.|[2308.07275v1](http://arxiv.org/abs/2308.07275v1)|null|
-|**2023-08-14**|**Occ$^2$Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**|Miao Fan et.al.|[2308.16160v1](http://arxiv.org/abs/2308.16160v1)|null|
-|**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147v1](http://arxiv.org/abs/2308.06147v1)|null|
-|**2023-08-10**|**A Robust and Rapidly Deployable Waypoint Navigation Architecture for Long-Duration Operations in GPS-Denied Environments**|Erik Pearson et.al.|[2308.05620v1](http://arxiv.org/abs/2308.05620v1)|null|
-|**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593v1](http://arxiv.org/abs/2308.05593v1)|null|
-|**2023-08-10**|**Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**|Maarten de Backer et.al.|[2308.05504v2](http://arxiv.org/abs/2308.05504v2)|null|

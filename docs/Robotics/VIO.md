@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|null|
+|**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
+|**2023-09-10**|**New method to detect size, timespan and flow in nanoplasmonic fusion**|L. P. Csernai et.al.|[2309.05156v1](http://arxiv.org/abs/2309.05156v1)|null|
+|**2023-09-10**|**Inertial self-propelled particles in anisotropic environments**|Alexander R. Sprenger et.al.|[2309.04942v1](http://arxiv.org/abs/2309.04942v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 |**2023-09-07**|**Equivariant Symmetries for Inertial Navigation Systems**|Alessandro Fornasier et.al.|[2309.03765v1](http://arxiv.org/abs/2309.03765v1)|null|
 |**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111v1](http://arxiv.org/abs/2309.03111v1)|null|
@@ -27,8 +32,3 @@
 |**2023-08-29**|**Quantum Otto engine driven by quantum fields**|Kensuke Gallock-Yoshimura et.al.|[2308.15528v1](http://arxiv.org/abs/2308.15528v1)|null|
 |**2023-08-29**|**Departure from the statistical equilibrium of large scales in three-dimensional hydrodynamic turbulence**|Mengjie Ding et.al.|[2308.15292v1](http://arxiv.org/abs/2308.15292v1)|null|
 |**2023-08-29**|**GPS-aided Visual Wheel Odometry**|Junlin Song et.al.|[2308.15133v1](http://arxiv.org/abs/2308.15133v1)|null|
-|**2023-08-28**|**Inertial enhancement of the polymer diffusive instability**|Miles M. P. Couchman et.al.|[2308.14879v1](http://arxiv.org/abs/2308.14879v1)|null|
-|**2023-08-28**|**An affordable and customizable wave buoy for the study of wave-ice interactions: design concept and results from field deployments**|Tsubasa Kodaira et.al.|[2308.14361v3](http://arxiv.org/abs/2308.14361v3)|null|
-|**2023-08-28**|**Persistent effects of inertia on diffusion-influenced reactions: Theoretical methods and applications**|Sangyoub Lee et.al.|[2308.14344v1](http://arxiv.org/abs/2308.14344v1)|null|
-|**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
-|**2023-08-28**|**Using nanokelvin quantum thermometry to detect timelike Unruh effect in a Bose-Einstein condensate**|Zehua Tian et.al.|[2308.14246v1](http://arxiv.org/abs/2308.14246v1)|null|
