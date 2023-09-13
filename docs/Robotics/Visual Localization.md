@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-12**|**Mass ratio of single-line spectroscopic binaries with visual orbits using Bayesian inference and suitable priors**|Jennifer Anguita-Aguero et.al.|[2309.06394v1](http://arxiv.org/abs/2309.06394v1)|null|
+|**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313v1](http://arxiv.org/abs/2309.06313v1)|null|
+|**2023-09-12**|**360$^\circ$ from a Single Camera: A Few-Shot Approach for LiDAR Segmentation**|Laurenz Reichardt et.al.|[2309.06197v1](http://arxiv.org/abs/2309.06197v1)|null|
+|**2023-09-12**|**HOC-Search: Efficient CAD Model and Pose Retrieval from RGB-D Scans**|Stefan Ainetter et.al.|[2309.06107v1](http://arxiv.org/abs/2309.06107v1)|null|
+|**2023-09-12**|**A new meteor detection application robust to camera movements**|Clara Ciocan et.al.|[2309.06027v1](http://arxiv.org/abs/2309.06027v1)|null|
+|**2023-09-12**|**SoccerNet 2023 Challenges Results**|Anthony Cioppa et.al.|[2309.06006v1](http://arxiv.org/abs/2309.06006v1)|null|
+|**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
+|**2023-09-11**|**Integrated modeling of wavefront sensing and control for space telescopes utilizing active and adaptive optics**|Kevin Z. Derby et.al.|[2309.05748v1](http://arxiv.org/abs/2309.05748v1)|null|
 |**2023-09-11**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665v2](http://arxiv.org/abs/2309.05665v2)|null|
 |**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|null|
 |**2023-09-11**|**A Comparison between Frame-based and Event-based Cameras for Flapping-Wing Robot Perception**|Raul Tapia et.al.|[2309.05450v1](http://arxiv.org/abs/2309.05450v1)|null|
@@ -24,11 +32,3 @@
 |**2023-09-08**|**EGOFALLS: A visual-audio dataset and benchmark for fall detection using egocentric cameras**|Xueyi Wang et.al.|[2309.04579v1](http://arxiv.org/abs/2309.04579v1)|null|
 |**2023-09-08**|**Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561v1](http://arxiv.org/abs/2309.04561v1)|null|
 |**2023-09-08**|**Examining Autoexposure for Challenging Scenes**|SaiKiran Tedla et.al.|[2309.04542v1](http://arxiv.org/abs/2309.04542v1)|null|
-|**2023-09-08**|**WiSARD: A Labeled Visual and Thermal Image Dataset for Wilderness Search and Rescue**|Daniel Broyles et.al.|[2309.04453v1](http://arxiv.org/abs/2309.04453v1)|null|
-|**2023-09-08**|**Demographic Disparities in 1-to-Many Facial Identification**|Aman Bhatta et.al.|[2309.04447v1](http://arxiv.org/abs/2309.04447v1)|null|
-|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441v1](http://arxiv.org/abs/2309.04441v1)|null|
-|**2023-09-08**|**SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios**|Amr Gomaa et.al.|[2309.04421v1](http://arxiv.org/abs/2309.04421v1)|null|
-|**2023-09-08**|**Unsupervised Gaze-aware Contrastive Learning with Subject-specific Condition**|Lingyu Du et.al.|[2309.04506v1](http://arxiv.org/abs/2309.04506v1)|null|
-|**2023-09-08**|**Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality**|Ziang Cheng et.al.|[2309.04183v1](http://arxiv.org/abs/2309.04183v1)|null|
-|**2023-09-08**|**Depth Completion with Multiple Balanced Bases and Confidence for Dense Monocular SLAM**|Weijian Xie et.al.|[2309.04145v1](http://arxiv.org/abs/2309.04145v1)|null|
-|**2023-09-07**|**Algebra and Geometry of Camera Resectioning**|Erin Connelly et.al.|[2309.04028v1](http://arxiv.org/abs/2309.04028v1)|null|
