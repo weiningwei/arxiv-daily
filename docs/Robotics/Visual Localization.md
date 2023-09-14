@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
+|**2023-09-13**|**SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection**|Yiran Qin et.al.|[2309.07084v1](http://arxiv.org/abs/2309.07084v1)|[link](https://github.com/iranqin/supfusion)|
+|**2023-09-13**|**EPOCHS VIII. An Insight into MIRI-selected Galaxies in SMACS-0723 and the Benefits of Deep MIRI Photometry in Revealing AGN and the Dusty Universe**|Qiong Li et.al.|[2309.06932v1](http://arxiv.org/abs/2309.06932v1)|null|
+|**2023-09-13**|**Estimation with ultimate quantum precision of the transverse displacement between two photons via two-photon interference sampling measurements**|Danilo Triggiani et.al.|[2309.06883v1](http://arxiv.org/abs/2309.06883v1)|null|
+|**2023-09-13**|**Tracking Particles Ejected From Active Asteroid Bennu With Event-Based Vision**|Loïc J. Azzalini et.al.|[2309.06819v1](http://arxiv.org/abs/2309.06819v1)|null|
+|**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802v1](http://arxiv.org/abs/2309.06802v1)|null|
+|**2023-09-13**|**MPI-Flow: Learning Realistic Optical Flow with Multiplane Images**|Yingping Liang et.al.|[2309.06714v1](http://arxiv.org/abs/2309.06714v1)|[link](https://github.com/sharpiless/mpi-flow)|
+|**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652v1](http://arxiv.org/abs/2309.06652v1)|null|
+|**2023-09-12**|**Mobile Object Tracking in Panoramic Video and LiDAR for Radiological Source-Object Attribution and Improved Source Detection**|M. R. Marshall et.al.|[2309.06592v1](http://arxiv.org/abs/2309.06592v1)|null|
+|**2023-09-12**|**Quantum Diamond Microscope for Dynamic Imaging of Magnetic Fields**|Jiashen Tang et.al.|[2309.06587v1](http://arxiv.org/abs/2309.06587v1)|null|
+|**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547v1](http://arxiv.org/abs/2309.06547v1)|null|
 |**2023-09-12**|**Mass ratio of single-line spectroscopic binaries with visual orbits using Bayesian inference and suitable priors**|Jennifer Anguita-Aguero et.al.|[2309.06394v1](http://arxiv.org/abs/2309.06394v1)|null|
 |**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313v1](http://arxiv.org/abs/2309.06313v1)|null|
 |**2023-09-12**|**360$^\circ$ from a Single Camera: A Few-Shot Approach for LiDAR Segmentation**|Laurenz Reichardt et.al.|[2309.06197v1](http://arxiv.org/abs/2309.06197v1)|null|
@@ -21,14 +32,3 @@
 |**2023-09-11**|**The spin measurement of MAXI J1348-630 using the Insight-HXMT data**|Yujia Song et.al.|[2309.05232v1](http://arxiv.org/abs/2309.05232v1)|null|
 |**2023-09-11**|**Towards Viewpoint Robustness in Bird's Eye View Segmentation**|Tzofi Klinghoffer et.al.|[2309.05192v1](http://arxiv.org/abs/2309.05192v1)|null|
 |**2023-09-11**|**SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth**|Xihang Yu et.al.|[2309.05184v1](http://arxiv.org/abs/2309.05184v1)|null|
-|**2023-09-10**|**Certified Vision-based State Estimation for Autonomous Landing Systems using Reachability Analysis**|Ulices Santa Cruz Leal et.al.|[2309.05167v1](http://arxiv.org/abs/2309.05167v1)|null|
-|**2023-09-10**|**AVARS -- Alleviating Unexpected Urban Road Traffic Congestion using UAVs**|Jiaying Guo et.al.|[2309.04976v1](http://arxiv.org/abs/2309.04976v1)|[link](https://github.com/guojyjy/avars)|
-|**2023-09-10**|**What's Hard in English RST Parsing? Predictive Models for Error Analysis**|Yang Janet Liu et.al.|[2309.04940v1](http://arxiv.org/abs/2309.04940v1)|null|
-|**2023-09-10**|**Experimental comparison of model-free and model-based dark hole algorithms for future space telescopes**|Niyati Desai et.al.|[2309.04920v1](http://arxiv.org/abs/2309.04920v1)|null|
-|**2023-09-09**|**VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis**|Xinya Chen et.al.|[2309.04800v1](http://arxiv.org/abs/2309.04800v1)|null|
-|**2023-09-09**|**Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation**|Boyuan Jiang et.al.|[2309.04756v1](http://arxiv.org/abs/2309.04756v1)|[link](https://github.com/bymaths/probabilistic_triangulation)|
-|**2023-09-09**|**Deep Video Restoration for Under-Display Camera**|Xuanxi Chen et.al.|[2309.04752v1](http://arxiv.org/abs/2309.04752v1)|null|
-|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
-|**2023-09-08**|**EGOFALLS: A visual-audio dataset and benchmark for fall detection using egocentric cameras**|Xueyi Wang et.al.|[2309.04579v1](http://arxiv.org/abs/2309.04579v1)|null|
-|**2023-09-08**|**Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561v1](http://arxiv.org/abs/2309.04561v1)|null|
-|**2023-09-08**|**Examining Autoexposure for Challenging Scenes**|SaiKiran Tedla et.al.|[2309.04542v1](http://arxiv.org/abs/2309.04542v1)|null|
