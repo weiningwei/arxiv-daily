@@ -6,7 +6,7 @@
 |**2023-09-14**|**Persistence in Active Turbulence**|Amal Manoharan et.al.|[2309.07567v1](http://arxiv.org/abs/2309.07567v1)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
-|**2023-09-13**|**Ridge detection for nonstationary multicomponent signals with time-varying wave-shape functions and its applications**|Yan-Wei Su et.al.|[2309.06673v1](http://arxiv.org/abs/2309.06673v1)|null|
+|**2023-09-13**|**Ridge detection for nonstationary multicomponent signals with time-varying wave-shape functions and its applications**|Yan-Wei Su et.al.|[2309.06673v1](http://arxiv.org/abs/2309.06673v1)|[link](https://github.com/Nils-Laurent/RRP-RD)|
 |**2023-09-13**|**Investigation of the Paschen Curve for Various Electrode Geometries in IEC Fusion Devices through Monte Carlo Simulations**|William Bowers et.al.|[2309.07184v1](http://arxiv.org/abs/2309.07184v1)|null|
 |**2023-09-12**|**Probabilistic Differentiable Filters Enable Ubiquitous Robot Control with Smartwatches**|Fabian C Weigend et.al.|[2309.06606v1](http://arxiv.org/abs/2309.06606v1)|null|
 |**2023-09-12**|**Statistical analysis of stochastic magnetic fluctuations in space plasma based on the MMS mission**|Wiesław M. Macek et.al.|[2309.06585v1](http://arxiv.org/abs/2309.06585v1)|null|
