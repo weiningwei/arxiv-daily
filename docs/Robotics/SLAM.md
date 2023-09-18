@@ -2,6 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
+|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
 |**2023-09-12**|**Collaborative Dynamic 3D Scene Graphs for Automated Driving**|Elias Greve et.al.|[2309.06635v1](http://arxiv.org/abs/2309.06635v1)|null|
@@ -28,7 +32,3 @@
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870v1](http://arxiv.org/abs/2308.12870v1)|null|
 |**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
-|**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
-|**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
-|**2023-08-22**|**Faster Optimization in S-Graphs Exploiting Hierarchy**|Hriday Bavle et.al.|[2308.11242v1](http://arxiv.org/abs/2308.11242v1)|null|
-|**2023-08-20**|**Automated mapping of virtual environments with visual predictive coding**|James Gornet et.al.|[2308.10913v1](http://arxiv.org/abs/2308.10913v1)|null|
