@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|[link](https://github.com/wengflow/robust-e-nerf)|
-|**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
-|**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416v1](http://arxiv.org/abs/2309.08416v1)|null|
-|**2023-09-15**|**The stratification of ISM properties in the edge-on galaxy NGC 891 revealed by NIKA2**|S. Katsioli et.al.|[2309.08403v1](http://arxiv.org/abs/2309.08403v1)|null|
-|**2023-09-15**|**Beyond Domain Gap: Exploiting Subjectivity in Sketch-Based Person Retrieval**|Kejun Lin et.al.|[2309.08372v1](http://arxiv.org/abs/2309.08372v1)|[link](https://github.com/lin-kayla/subjectivity-sketch-reid)|
-|**2023-09-15**|**An Efficient Wide-Range Pseudo-3D Vehicle Detection Using A Single Camera**|Zhupeng Ye et.al.|[2309.08369v1](http://arxiv.org/abs/2309.08369v1)|null|
-|**2023-09-15**|**A Real-Time Active Speaker Detection System Integrating an Audio-Visual Signal with a Spatial Querying Mechanism**|Ilya Gurvich et.al.|[2309.08295v1](http://arxiv.org/abs/2309.08295v1)|null|
-|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
-|**2023-09-15**|**Let's Roll: Synthetic Dataset Analysis for Pedestrian Detection Across Different Shutter Types**|Yue Hu et.al.|[2309.08136v1](http://arxiv.org/abs/2309.08136v1)|null|
-|**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
-|**2023-09-15**|**Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates**|Insu Jang et.al.|[2309.08125v1](http://arxiv.org/abs/2309.08125v1)|[link](https://github.com/symbioticlab/oobleck)|
-|**2023-09-15**|**GelSplitter: Tactile Reconstruction from Near Infrared and Visible Images**|Yuankai Lin et.al.|[2309.08096v1](http://arxiv.org/abs/2309.08096v1)|null|
-|**2023-09-14**|**Depth Estimation from a Single Optical Encoded Image using a Learned Colored-Coded Aperture**|Jhon Lopez et.al.|[2309.08033v1](http://arxiv.org/abs/2309.08033v1)|null|
-|**2023-09-14**|**Empowering Visually Impaired Individuals: A Novel Use of Apple Live Photos and Android Motion Photos**|Seyedalireza Khoshsirat et.al.|[2309.08022v1](http://arxiv.org/abs/2309.08022v1)|null|
-|**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986v1](http://arxiv.org/abs/2309.07986v1)|null|
-|**2023-09-14**|**OpenIllumination: A Multi-Illumination Dataset for Inverse Rendering Evaluation on Real Objects**|Isabella Liu et.al.|[2309.07921v1](http://arxiv.org/abs/2309.07921v1)|null|
-|**2023-09-14**|**mEBAL2 Database and Benchmark: Image-based Multispectral Eyeblink Detection**|Roberto Daza et.al.|[2309.07880v1](http://arxiv.org/abs/2309.07880v1)|null|
-|**2023-09-14**|**Ca$^2$Lib: Simple and Accurate LiDAR-RGB Calibration using Small Common Markers**|Emanuele Giacomini et.al.|[2309.07874v1](http://arxiv.org/abs/2309.07874v1)|null|
-|**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846v1](http://arxiv.org/abs/2309.07846v1)|null|
-|**2023-09-14**|**Macroscopic fundamental diagram with volume-delay relationship: model derivation, empirical validation and invariance property**|Ke Han et.al.|[2309.07811v1](http://arxiv.org/abs/2309.07811v1)|null|
-|**2023-09-14**|**For A More Comprehensive Evaluation of 6DoF Object Pose Tracking**|Yang Li et.al.|[2309.07796v2](http://arxiv.org/abs/2309.07796v2)|null|
-|**2023-09-14**|**Heuristic Satisficing Inferential Decision Making in Human and Robot Active Perception**|Yucheng Chen et.al.|[2309.07720v1](http://arxiv.org/abs/2309.07720v1)|null|
-|**2023-09-14**|**Measurements of the charge-to-mass ratio of particles trapped by the Paul Trap for education**|R. J. Saito et.al.|[2309.07493v1](http://arxiv.org/abs/2309.07493v1)|null|
-|**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|[link](https://github.com/minnjung/ep2p-loc)|
-|**2023-09-14**|**Physical Invisible Backdoor Based on Camera Imaging**|Yusheng Guo et.al.|[2309.07428v1](http://arxiv.org/abs/2309.07428v1)|null|
-|**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
-|**2023-09-14**|**The Mars Science Laboratory record of optical depth measurements via solar imaging**|M. T. Lemmon et.al.|[2309.07378v1](http://arxiv.org/abs/2309.07378v1)|null|
-|**2023-09-14**|**VCD: A Video Conferencing Dataset for Video Compression**|Babak Naderi et.al.|[2309.07376v1](http://arxiv.org/abs/2309.07376v1)|null|
-|**2023-09-13**|**The JWST Discovery of the Triply-imaged Type Ia "Supernova H0pe" and Observations of the Galaxy Cluster PLCK G165.7+67.0**|Brenda L. Frye et.al.|[2309.07326v1](http://arxiv.org/abs/2309.07326v1)|null|
+|**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|[link](https://github.com/qcraftai/gedepth)|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
+|**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875v1](http://arxiv.org/abs/2309.09875v1)|null|
+|**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855v1](http://arxiv.org/abs/2309.09855v1)|null|
+|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|null|
+|**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737v1](http://arxiv.org/abs/2309.09737v1)|null|
+|**2023-09-18**|**Conditioning Latent-Space Clusters for Real-World Anomaly Classification**|Daniel Bogdoll et.al.|[2309.09676v1](http://arxiv.org/abs/2309.09676v1)|null|
+|**2023-09-18**|**DGM-DR: Domain Generalization with Mutual Information Regularized Diabetic Retinopathy Classification**|Aleksandr Matsun et.al.|[2309.09670v1](http://arxiv.org/abs/2309.09670v1)|null|
+|**2023-09-18**|**Mutual Information-calibrated Conformal Feature Fusion for Uncertainty-Aware Multimodal 3D Object Detection at the Edge**|Alex C. Stutts et.al.|[2309.09593v1](http://arxiv.org/abs/2309.09593v1)|null|
+|**2023-09-18**|**Study on the gain and photon detection efficiency drops of silicon photomultipliers under bright background conditions**|Akira Okumura et.al.|[2309.09580v1](http://arxiv.org/abs/2309.09580v1)|null|
+|**2023-09-18**|**Development of a blue-mirror multilayer coating on light concentrators for future SiPM cameras**|Akira Okumura et.al.|[2309.09572v1](http://arxiv.org/abs/2309.09572v1)|null|
+|**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563v1](http://arxiv.org/abs/2309.09563v1)|null|
+|**2023-09-18**|**Evaluation of the effective mirror area of CTA Small-Sized Telescopes for camera design and Monte Carlo simulation**|Akira Okumura et.al.|[2309.09560v1](http://arxiv.org/abs/2309.09560v1)|null|
+|**2023-09-18**|**Sparse and Privacy-enhanced Representation for Human Pose Estimation**|Ting-Ying Lin et.al.|[2309.09515v1](http://arxiv.org/abs/2309.09515v1)|null|
+|**2023-09-18**|**Learning Parallax for Stereo Event-based Motion Deblurring**|Mingyuan Lin et.al.|[2309.09513v1](http://arxiv.org/abs/2309.09513v1)|null|
+|**2023-09-18**|**The DECam Ecliptic Exploration Project (DEEP): V. The Absolute Magnitude Distribution of the Cold Classical Kuiper Belt**|Kevin J. Napier et.al.|[2309.09478v1](http://arxiv.org/abs/2309.09478v1)|null|
+|**2023-09-18**|**Joint Demosaicing and Denoising with Double Deep Image Priors**|Taihui Li et.al.|[2309.09426v1](http://arxiv.org/abs/2309.09426v1)|null|
+|**2023-09-17**|**a critical analysis of internal reliability for uncertainty quantification of dense image matching in multi-view stereo**|Debao Huang et.al.|[2309.09379v1](http://arxiv.org/abs/2309.09379v1)|null|
+|**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297v1](http://arxiv.org/abs/2309.09297v1)|null|
+|**2023-09-16**|**Multi-camera Bird's Eye View Perception for Autonomous Driving**|David Unger et.al.|[2309.09080v1](http://arxiv.org/abs/2309.09080v1)|null|
+|**2023-09-16**|**Triple Regression for Camera Agnostic Sim2Real Robot Grasping and Manipulation Tasks**|Yuanhong Zeng et.al.|[2309.09017v1](http://arxiv.org/abs/2309.09017v1)|null|
+|**2023-09-16**|**MonoForce: Self-supervised learning of physics-aware grey-box model for predicting the robot-terrain interaction**|Ruslan Agishev et.al.|[2309.09007v1](http://arxiv.org/abs/2309.09007v1)|null|
+|**2023-09-16**|**ExBluRF: Efficient Radiance Fields for Extreme Motion Blurred Images**|Dongwoo Lee et.al.|[2309.08957v1](http://arxiv.org/abs/2309.08957v1)|null|
+|**2023-09-16**|**Semantics-aware LiDAR-Only Pseudo Point Cloud Generation for 3D Object Detection**|Tiago Cortinhal et.al.|[2309.08932v1](http://arxiv.org/abs/2309.08932v1)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
+|**2023-09-16**|**V2CE: Video to Continuous Events Simulator**|Zhongyang Zhang et.al.|[2309.08891v1](http://arxiv.org/abs/2309.08891v1)|null|
+|**2023-09-16**|**Dual-Camera Joint Deblurring-Denoising**|Shayan Shekarforoush et.al.|[2309.08826v1](http://arxiv.org/abs/2309.08826v1)|null|
+|**2023-09-16**|**Distributionally Robust Post-hoc Classifiers under Prior Shifts**|Jiaheng Wei et.al.|[2309.08825v1](http://arxiv.org/abs/2309.08825v1)|[link](https://github.com/weijiaheng/drops)|
+|**2023-09-15**|**EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding**|Chenchen Zhu et.al.|[2309.08816v1](http://arxiv.org/abs/2309.08816v1)|[link](https://github.com/facebookresearch/egoobjects)|
+|**2023-09-15**|**The Use of Multi-Scale Fiducial Markers To Aid Takeoff and Landing Navigation by Rotorcraft**|Jongwon Lee et.al.|[2309.08769v1](http://arxiv.org/abs/2309.08769v1)|null|

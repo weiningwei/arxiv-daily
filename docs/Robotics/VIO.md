@@ -2,6 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
+|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
+|**2023-09-18**|**Wait, That Feels Familiar: Learning to Extrapolate Human Preferences for Preference Aligned Path Planning**|Haresh Karnan et.al.|[2309.09912v1](http://arxiv.org/abs/2309.09912v1)|null|
+|**2023-09-18**|**Learning Inertial Parameter Identification of Unknown Object with Humanoid Robot using Sim-to-Real Adaptation**|Donghoon Baek et.al.|[2309.09810v1](http://arxiv.org/abs/2309.09810v1)|null|
+|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|null|
+|**2023-09-18**|**GHNet:Learning GNSS Heading from Velocity Measurements**|Nitzan Dahan et.al.|[2309.09696v1](http://arxiv.org/abs/2309.09696v1)|null|
+|**2023-09-17**|**Effect of polydispersity on the transport and sound absorbing properties of three-dimensional random fibrous structures**|Q. V. Tran et.al.|[2309.09388v1](http://arxiv.org/abs/2309.09388v1)|null|
+|**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295v1](http://arxiv.org/abs/2309.09295v1)|null|
+|**2023-09-17**|**Scattering of lattice waves by an inertial line defect in planar motion**|M. J. Nieves et.al.|[2309.09286v1](http://arxiv.org/abs/2309.09286v1)|null|
+|**2023-09-15**|**Robust Indoor Localization with Ranging-IMU Fusion**|Fan Jiang et.al.|[2309.08803v1](http://arxiv.org/abs/2309.08803v1)|null|
 |**2023-09-15**|**General Parallel Cosmology**|Débora Aguiar Gomes et.al.|[2309.08554v1](http://arxiv.org/abs/2309.08554v1)|null|
 |**2023-09-15**|**Slowly Rotating Close Binary Stars in Cassini States**|Catherine Felce et.al.|[2309.08506v1](http://arxiv.org/abs/2309.08506v1)|null|
 |**2023-09-15**|**Super Slowly Spinning Stars in Close Binaries**|Jim Fuller et.al.|[2309.08505v1](http://arxiv.org/abs/2309.08505v1)|null|
@@ -22,13 +32,3 @@
 |**2023-09-12**|**Feasibility studies for imaging e$^{+}$e$^{-}$ annihilation with modular multi-strip detectors**|S. Sharma et.al.|[2309.07171v1](http://arxiv.org/abs/2309.07171v1)|null|
 |**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|[link](https://github.com/utiasasrl/starloc)|
 |**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
-|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
-|**2023-09-10**|**New method to detect size, timespan and flow in nanoplasmonic fusion**|L. P. Csernai et.al.|[2309.05156v1](http://arxiv.org/abs/2309.05156v1)|null|
-|**2023-09-10**|**Inertial self-propelled particles in anisotropic environments**|Alexander R. Sprenger et.al.|[2309.04942v1](http://arxiv.org/abs/2309.04942v1)|null|
-|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
-|**2023-09-07**|**Equivariant Symmetries for Inertial Navigation Systems**|Alessandro Fornasier et.al.|[2309.03765v1](http://arxiv.org/abs/2309.03765v1)|null|
-|**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111v1](http://arxiv.org/abs/2309.03111v1)|[link](https://github.com/roahmlab/waitr-dev)|
-|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
-|**2023-09-05**|**Tidally-excited inertial waves in stars and planets: exploring the frequency-dependent and averaged dissipation with nonlinear simulations**|Aurélie Astoul et.al.|[2309.02520v1](http://arxiv.org/abs/2309.02520v1)|null|
-|**2023-09-04**|**ReLoc-PDR: Visual Relocalization Enhanced Pedestrian Dead Reckoning via Graph Optimization**|Zongyang Chen et.al.|[2309.01646v1](http://arxiv.org/abs/2309.01646v1)|null|
-|**2023-09-04**|**On the energetics of a tidally oscillating convective flow**|Caroline Terquem et.al.|[2309.01450v1](http://arxiv.org/abs/2309.01450v1)|null|
