@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
 |**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|

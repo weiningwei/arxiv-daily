@@ -7,7 +7,7 @@
 |**2023-09-15**|**Super Slowly Spinning Stars in Close Binaries**|Jim Fuller et.al.|[2309.08505v1](http://arxiv.org/abs/2309.08505v1)|null|
 |**2023-09-15**|**Trajectory Tracking Control of UAV Bicopter using Linear Quadratic Gaussian**|Fahmizal et.al.|[2309.08226v1](http://arxiv.org/abs/2309.08226v1)|null|
 |**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
 |**2023-09-15**|**Entanglement dynamics in $κ$-deformed spacetime**|Xiaobao Liu et.al.|[2309.08135v1](http://arxiv.org/abs/2309.08135v1)|null|
 |**2023-09-14**|**Investigating the parametric dependence of the impact of two-way coupling on inertial particle settling in turbulence**|Soumak Bhattacharjee et.al.|[2309.07762v1](http://arxiv.org/abs/2309.07762v1)|null|
 |**2023-09-14**|**Persistence in Active Turbulence**|Amal Manoharan et.al.|[2309.07567v1](http://arxiv.org/abs/2309.07567v1)|null|

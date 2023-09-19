@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-19 08:30:35 Asia/Shanghai
+ Automated deployment @ 2023-09-19 09:33:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
 |**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
@@ -84,7 +84,7 @@
 |**2023-09-15**|**An Efficient Wide-Range Pseudo-3D Vehicle Detection Using A Single Camera**|Zhupeng Ye et.al.|[2309.08369v1](http://arxiv.org/abs/2309.08369v1)|null|
 |**2023-09-15**|**A Real-Time Active Speaker Detection System Integrating an Audio-Visual Signal with a Spatial Querying Mechanism**|Ilya Gurvich et.al.|[2309.08295v1](http://arxiv.org/abs/2309.08295v1)|null|
 |**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
 |**2023-09-15**|**Let's Roll: Synthetic Dataset Analysis for Pedestrian Detection Across Different Shutter Types**|Yue Hu et.al.|[2309.08136v1](http://arxiv.org/abs/2309.08136v1)|null|
 |**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
 |**2023-09-15**|**Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates**|Insu Jang et.al.|[2309.08125v1](http://arxiv.org/abs/2309.08125v1)|[link](https://github.com/symbioticlab/oobleck)|
@@ -115,7 +115,7 @@
 |**2023-09-15**|**Super Slowly Spinning Stars in Close Binaries**|Jim Fuller et.al.|[2309.08505v1](http://arxiv.org/abs/2309.08505v1)|null|
 |**2023-09-15**|**Trajectory Tracking Control of UAV Bicopter using Linear Quadratic Gaussian**|Fahmizal et.al.|[2309.08226v1](http://arxiv.org/abs/2309.08226v1)|null|
 |**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
 |**2023-09-15**|**Entanglement dynamics in $κ$-deformed spacetime**|Xiaobao Liu et.al.|[2309.08135v1](http://arxiv.org/abs/2309.08135v1)|null|
 |**2023-09-14**|**Investigating the parametric dependence of the impact of two-way coupling on inertial particle settling in turbulence**|Soumak Bhattacharjee et.al.|[2309.07762v1](http://arxiv.org/abs/2309.07762v1)|null|
 |**2023-09-14**|**Persistence in Active Turbulence**|Amal Manoharan et.al.|[2309.07567v1](http://arxiv.org/abs/2309.07567v1)|null|

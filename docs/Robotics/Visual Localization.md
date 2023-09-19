@@ -10,7 +10,7 @@
 |**2023-09-15**|**An Efficient Wide-Range Pseudo-3D Vehicle Detection Using A Single Camera**|Zhupeng Ye et.al.|[2309.08369v1](http://arxiv.org/abs/2309.08369v1)|null|
 |**2023-09-15**|**A Real-Time Active Speaker Detection System Integrating an Audio-Visual Signal with a Spatial Querying Mechanism**|Ilya Gurvich et.al.|[2309.08295v1](http://arxiv.org/abs/2309.08295v1)|null|
 |**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|null|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v1](http://arxiv.org/abs/2309.08142v1)|null|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
 |**2023-09-15**|**Let's Roll: Synthetic Dataset Analysis for Pedestrian Detection Across Different Shutter Types**|Yue Hu et.al.|[2309.08136v1](http://arxiv.org/abs/2309.08136v1)|null|
 |**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
 |**2023-09-15**|**Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates**|Insu Jang et.al.|[2309.08125v1](http://arxiv.org/abs/2309.08125v1)|[link](https://github.com/symbioticlab/oobleck)|
