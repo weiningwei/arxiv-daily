@@ -21,7 +21,7 @@
 |**2023-09-18**|**Joint Demosaicing and Denoising with Double Deep Image Priors**|Taihui Li et.al.|[2309.09426v1](http://arxiv.org/abs/2309.09426v1)|null|
 |**2023-09-17**|**a critical analysis of internal reliability for uncertainty quantification of dense image matching in multi-view stereo**|Debao Huang et.al.|[2309.09379v1](http://arxiv.org/abs/2309.09379v1)|null|
 |**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297v1](http://arxiv.org/abs/2309.09297v1)|null|
-|**2023-09-16**|**Multi-camera Bird's Eye View Perception for Autonomous Driving**|David Unger et.al.|[2309.09080v1](http://arxiv.org/abs/2309.09080v1)|null|
+|**2023-09-16**|**Multi-camera Bird's Eye View Perception for Autonomous Driving**|David Unger et.al.|[2309.09080v2](http://arxiv.org/abs/2309.09080v2)|null|
 |**2023-09-16**|**Triple Regression for Camera Agnostic Sim2Real Robot Grasping and Manipulation Tasks**|Yuanhong Zeng et.al.|[2309.09017v1](http://arxiv.org/abs/2309.09017v1)|null|
 |**2023-09-16**|**MonoForce: Self-supervised learning of physics-aware grey-box model for predicting the robot-terrain interaction**|Ruslan Agishev et.al.|[2309.09007v1](http://arxiv.org/abs/2309.09007v1)|null|
 |**2023-09-16**|**ExBluRF: Efficient Radiance Fields for Extreme Motion Blurred Images**|Dongwoo Lee et.al.|[2309.08957v1](http://arxiv.org/abs/2309.08957v1)|null|
