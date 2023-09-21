@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-20**|**Dynamic Hand Gesture-Featured Human Motor Adaptation in Tool Delivery using Voice Recognition**|Haolin Fei et.al.|[2309.11368v1](http://arxiv.org/abs/2309.11368v1)|null|
+|**2023-09-20**|**Quantitative Phase Imaging with a Metalens**|Aamod Shanker et.al.|[2309.11348v1](http://arxiv.org/abs/2309.11348v1)|null|
+|**2023-09-20**|**2D-3D Pose Tracking with Multi-View Constraints**|Huai Yu et.al.|[2309.11335v1](http://arxiv.org/abs/2309.11335v1)|null|
+|**2023-09-20**|**How to turn your camera into a perfect pinhole model**|Ivan De Boi et.al.|[2309.11326v1](http://arxiv.org/abs/2309.11326v1)|null|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|null|
+|**2023-09-20**|**Imaging performance above 150 keV of the wide field monitor on board the ASTENA concept mission**|Lisa Ferro et.al.|[2309.11195v1](http://arxiv.org/abs/2309.11195v1)|null|
+|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v1](http://arxiv.org/abs/2309.11119v1)|null|
+|**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
+|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006v1](http://arxiv.org/abs/2309.11006v1)|null|
+|**2023-09-20**|**PPD: A New Valet Parking Pedestrian Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2309.11002v1](http://arxiv.org/abs/2309.11002v1)|null|
+|**2023-09-19**|**Field evaluation of a mobile app for assisting blind and visually impaired travelers to find bus stops**|Shrinivas Pundlik et.al.|[2309.10940v1](http://arxiv.org/abs/2309.10940v1)|null|
+|**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|null|
+|**2023-09-19**|**GelSight Svelte Hand: A Three-finger, Two-DoF, Tactile-rich, Low-cost Robot Hand for Dexterous Manipulation**|Jialiang Zhao et.al.|[2309.10886v1](http://arxiv.org/abs/2309.10886v1)|null|
+|**2023-09-19**|**GelSight Svelte: A Human Finger-shaped Single-camera Tactile Robot Finger with Large Sensing Coverage and Proprioceptive Sensing**|Jialiang Zhao et.al.|[2309.10885v1](http://arxiv.org/abs/2309.10885v1)|null|
 |**2023-09-19**|**Mobile Manipulation Platform for Autonomous Indoor Inspections in Low-Clearance Areas**|Erik Pearson et.al.|[2309.10794v1](http://arxiv.org/abs/2309.10794v1)|null|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748v1](http://arxiv.org/abs/2309.10748v1)|null|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
@@ -18,17 +32,3 @@
 |**2023-09-19**|**Autonomous Field-of-View Adjustment Using Adaptive Kinematic Constrained Control with Robot-Held Microscopic Camera Feedback**|Hung-Ching Lin et.al.|[2309.10287v1](http://arxiv.org/abs/2309.10287v1)|null|
 |**2023-09-19**|**Crowdotic: Transformer-based Occupancy Estimation for Hospital Waiting Rooms with Non-speech Audio and Differential Privacy**|Forsad Al Hossain et.al.|[2309.10280v1](http://arxiv.org/abs/2309.10280v1)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269v1](http://arxiv.org/abs/2309.10269v1)|null|
-|**2023-09-19**|**RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery**|Jiaxin Wei et.al.|[2309.10255v1](http://arxiv.org/abs/2309.10255v1)|null|
-|**2023-09-18**|**The One-hundred-deg^2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals**|Kyoung-Soo Lee et.al.|[2309.10191v1](http://arxiv.org/abs/2309.10191v1)|null|
-|**2023-09-18**|**Human Gait Recognition using Deep Learning: A Comprehensive Review**|Muhammad Imran Sharif et.al.|[2309.10144v1](http://arxiv.org/abs/2309.10144v1)|null|
-|**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|[link](https://github.com/qcraftai/gedepth)|
-|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
-|**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875v1](http://arxiv.org/abs/2309.09875v1)|null|
-|**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855v1](http://arxiv.org/abs/2309.09855v1)|null|
-|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|[link](https://github.com/april-zju/coco-lic)|
-|**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737v1](http://arxiv.org/abs/2309.09737v1)|null|
-|**2023-09-18**|**Conditioning Latent-Space Clusters for Real-World Anomaly Classification**|Daniel Bogdoll et.al.|[2309.09676v1](http://arxiv.org/abs/2309.09676v1)|null|
-|**2023-09-18**|**DGM-DR: Domain Generalization with Mutual Information Regularized Diabetic Retinopathy Classification**|Aleksandr Matsun et.al.|[2309.09670v1](http://arxiv.org/abs/2309.09670v1)|null|
-|**2023-09-18**|**Mutual Information-calibrated Conformal Feature Fusion for Uncertainty-Aware Multimodal 3D Object Detection at the Edge**|Alex C. Stutts et.al.|[2309.09593v1](http://arxiv.org/abs/2309.09593v1)|null|
-|**2023-09-18**|**Study on the gain and photon detection efficiency drops of silicon photomultipliers under bright background conditions**|Akira Okumura et.al.|[2309.09580v1](http://arxiv.org/abs/2309.09580v1)|null|
-|**2023-09-18**|**Development of a blue-mirror multilayer coating on light concentrators for future SiPM cameras**|Akira Okumura et.al.|[2309.09572v1](http://arxiv.org/abs/2309.09572v1)|null|

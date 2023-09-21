@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v1](http://arxiv.org/abs/2309.11148v1)|null|
+|**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
+|**2023-09-20**|**The Navier-Stokes equation and a fully developed turbulence**|Marian Apostol et.al.|[2309.11115v1](http://arxiv.org/abs/2309.11115v1)|null|
+|**2023-09-20**|**Large-scale Kinetic Simulations of Colliding Plasmas within a Hohlraum of Indirect Drive Inertial Confinement Fusions**|Tianyi Liang et.al.|[2309.11075v1](http://arxiv.org/abs/2309.11075v1)|null|
+|**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente et.al.|[2309.11018v1](http://arxiv.org/abs/2309.11018v1)|null|
+|**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
 |**2023-09-19**|**Learning-Initialized Trajectory Planning in Unknown Environments**|Yicheng Chen et.al.|[2309.10683v1](http://arxiv.org/abs/2309.10683v1)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
 |**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v1](http://arxiv.org/abs/2309.10314v1)|null|
@@ -26,9 +32,3 @@
 |**2023-09-14**|**Persistence in Active Turbulence**|Amal Manoharan et.al.|[2309.07567v1](http://arxiv.org/abs/2309.07567v1)|null|
 |**2023-09-14**|**Eigenvalue attraction in open quantum systems, biophysical systems, and Parity-Time symmetric materials**|Pete Rigas et.al.|[2309.07943v1](http://arxiv.org/abs/2309.07943v1)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
-|**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
-|**2023-09-13**|**Ridge detection for nonstationary multicomponent signals with time-varying wave-shape functions and its applications**|Yan-Wei Su et.al.|[2309.06673v1](http://arxiv.org/abs/2309.06673v1)|[link](https://github.com/Nils-Laurent/RRP-RD)|
-|**2023-09-13**|**Investigation of the Paschen Curve for Various Electrode Geometries in IEC Fusion Devices through Monte Carlo Simulations**|William Bowers et.al.|[2309.07184v1](http://arxiv.org/abs/2309.07184v1)|null|
-|**2023-09-12**|**Probabilistic Differentiable Filters Enable Ubiquitous Robot Control with Smartwatches**|Fabian C Weigend et.al.|[2309.06606v1](http://arxiv.org/abs/2309.06606v1)|null|
-|**2023-09-12**|**Statistical analysis of stochastic magnetic fluctuations in space plasma based on the MMS mission**|Wiesław M. Macek et.al.|[2309.06585v1](http://arxiv.org/abs/2309.06585v1)|null|
-|**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547v1](http://arxiv.org/abs/2309.06547v1)|null|
