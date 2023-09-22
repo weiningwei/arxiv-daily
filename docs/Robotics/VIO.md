@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v1](http://arxiv.org/abs/2309.11148v1)|null|
+|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
 |**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
 |**2023-09-20**|**The Navier-Stokes equation and a fully developed turbulence**|Marian Apostol et.al.|[2309.11115v1](http://arxiv.org/abs/2309.11115v1)|null|
 |**2023-09-20**|**Large-scale Kinetic Simulations of Colliding Plasmas within a Hohlraum of Indirect Drive Inertial Confinement Fusions**|Tianyi Liang et.al.|[2309.11075v1](http://arxiv.org/abs/2309.11075v1)|null|
@@ -10,7 +10,7 @@
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
 |**2023-09-19**|**Learning-Initialized Trajectory Planning in Unknown Environments**|Yicheng Chen et.al.|[2309.10683v1](http://arxiv.org/abs/2309.10683v1)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
-|**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v1](http://arxiv.org/abs/2309.10314v1)|null|
+|**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v2](http://arxiv.org/abs/2309.10314v2)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
 |**2023-09-18**|**Wait, That Feels Familiar: Learning to Extrapolate Human Preferences for Preference Aligned Path Planning**|Haresh Karnan et.al.|[2309.09912v1](http://arxiv.org/abs/2309.09912v1)|null|
