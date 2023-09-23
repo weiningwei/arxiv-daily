@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-23 09:29:18 Asia/Shanghai
+ Automated deployment @ 2023-09-23 20:10:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2023-09-15**|**Robust Indoor Localization with Ranging-IMU Fusion**|Fan Jiang et.al.|[2309.08803v1](http://arxiv.org/abs/2309.08803v1)|null|
 |**2023-09-15**|**General Parallel Cosmology**|Débora Aguiar Gomes et.al.|[2309.08554v1](http://arxiv.org/abs/2309.08554v1)|null|
 
-### VO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
-|**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
-|**2023-09-21**|**Improving GPS-VIO Fusion with Adaptive Rotational Calibration**|Junlin Song et.al.|[2309.12005v1](http://arxiv.org/abs/2309.12005v1)|null|
-|**2023-09-21**|**Crop Row Switching for Vision-Based Navigation: A Comprehensive Approach for Efficient Crop Field Navigation**|Rajitha de Silva et.al.|[2309.11989v1](http://arxiv.org/abs/2309.11989v1)|null|
-|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
-|**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
-|**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente et.al.|[2309.11018v1](http://arxiv.org/abs/2309.11018v1)|null|
-|**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
-|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
-|**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v2](http://arxiv.org/abs/2309.10314v2)|null|
-|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
-|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
-|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|[link](https://github.com/april-zju/coco-lic)|
-|**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
-|**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
-|**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547v1](http://arxiv.org/abs/2309.06547v1)|null|
-|**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
-|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
-|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
-|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
-|**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296v1](http://arxiv.org/abs/2309.01296v1)|null|
-|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962v1](http://arxiv.org/abs/2309.00962v1)|null|
-|**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
-|**2023-08-29**|**GPS-aided Visual Wheel Odometry**|Junlin Song et.al.|[2308.15133v1](http://arxiv.org/abs/2308.15133v1)|null|
-|**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
-|**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
-|**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082v1](http://arxiv.org/abs/2308.12082v1)|null|
-|**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
-|**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
-|**2023-08-22**|**VIO-DualProNet: Visual-Inertial Odometry with Learning Based Process Noise Covariance**|Dan Solodar et.al.|[2308.11228v1](http://arxiv.org/abs/2308.11228v1)|null|
-
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -107,6 +73,40 @@
 |**2023-09-07**|**Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones**|Carl Friess et.al.|[2309.03678v1](http://arxiv.org/abs/2309.03678v1)|null|
 |**2023-09-06**|**Feasibility of Local Trajectory Planning for Level-2+ Semi-autonomous Driving without Absolute Localization**|Sheng Zhu et.al.|[2309.03051v1](http://arxiv.org/abs/2309.03051v1)|[link](https://github.com/codezs09/l2_frenet_planner)|
 
+### VO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
+|**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
+|**2023-09-21**|**Improving GPS-VIO Fusion with Adaptive Rotational Calibration**|Junlin Song et.al.|[2309.12005v1](http://arxiv.org/abs/2309.12005v1)|null|
+|**2023-09-21**|**Crop Row Switching for Vision-Based Navigation: A Comprehensive Approach for Efficient Crop Field Navigation**|Rajitha de Silva et.al.|[2309.11989v1](http://arxiv.org/abs/2309.11989v1)|null|
+|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
+|**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
+|**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente et.al.|[2309.11018v1](http://arxiv.org/abs/2309.11018v1)|null|
+|**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
+|**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v2](http://arxiv.org/abs/2309.10314v2)|null|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
+|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
+|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|[link](https://github.com/april-zju/coco-lic)|
+|**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
+|**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
+|**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547v1](http://arxiv.org/abs/2309.06547v1)|null|
+|**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
+|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
+|**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296v1](http://arxiv.org/abs/2309.01296v1)|null|
+|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962v1](http://arxiv.org/abs/2309.00962v1)|null|
+|**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
+|**2023-08-29**|**GPS-aided Visual Wheel Odometry**|Junlin Song et.al.|[2308.15133v1](http://arxiv.org/abs/2308.15133v1)|null|
+|**2023-08-28**|**Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer**|Guanqun Ding et.al.|[2308.14332v1](http://arxiv.org/abs/2308.14332v1)|null|
+|**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
+|**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082v1](http://arxiv.org/abs/2308.12082v1)|null|
+|**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
+|**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
+|**2023-08-22**|**VIO-DualProNet: Visual-Inertial Odometry with Learning Based Process Noise Covariance**|Dan Solodar et.al.|[2308.11228v1](http://arxiv.org/abs/2308.11228v1)|null|
+
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -138,5 +138,5 @@
 |**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
-|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006v1](http://arxiv.org/abs/2309.11006v1)|[link](https://github.com/sinatayebati/STARNet)|
+|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006v1](http://arxiv.org/abs/2309.11006v1)|null|
 |**2023-09-20**|**PPD: A New Valet Parking Pedestrian Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2309.11002v1](http://arxiv.org/abs/2309.11002v1)|null|

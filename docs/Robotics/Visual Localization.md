@@ -30,5 +30,5 @@
 |**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
-|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006v1](http://arxiv.org/abs/2309.11006v1)|[link](https://github.com/sinatayebati/STARNet)|
+|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006v1](http://arxiv.org/abs/2309.11006v1)|null|
 |**2023-09-20**|**PPD: A New Valet Parking Pedestrian Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2309.11002v1](http://arxiv.org/abs/2309.11002v1)|null|
