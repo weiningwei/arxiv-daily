@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-22**|**Latitudinal Propagation of Thermal Rossby Waves in Stellar Convection Zones**|Rekha Jain et.al.|[2309.12903v1](http://arxiv.org/abs/2309.12903v1)|null|
 |**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
 |**2023-09-21**|**Chaotic von Zeipel-Lidov-Kozai Oscillations of Binary System around Rotating Supermassive Black Hole**|Kei-ichi Maeda et.al.|[2309.12096v1](http://arxiv.org/abs/2309.12096v1)|null|
 |**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295v1](http://arxiv.org/abs/2309.09295v1)|null|
 |**2023-09-17**|**Scattering of lattice waves by an inertial line defect in planar motion**|M. J. Nieves et.al.|[2309.09286v1](http://arxiv.org/abs/2309.09286v1)|null|
 |**2023-09-15**|**Robust Indoor Localization with Ranging-IMU Fusion**|Fan Jiang et.al.|[2309.08803v1](http://arxiv.org/abs/2309.08803v1)|null|
-|**2023-09-15**|**General Parallel Cosmology**|Débora Aguiar Gomes et.al.|[2309.08554v1](http://arxiv.org/abs/2309.08554v1)|null|
