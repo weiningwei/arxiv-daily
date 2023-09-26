@@ -10,7 +10,7 @@
 |**2023-09-22**|**eWand: A calibration framework for wide baseline frame-based and event-based camera systems**|Thomas Gossard et.al.|[2309.12685v1](http://arxiv.org/abs/2309.12685v1)|null|
 |**2023-09-22**|**UWA360CAM: A 360$^{\circ}$ 24/7 Real-Time Streaming Camera System for Underwater Applications**|Quan-Dung Pham et.al.|[2309.12668v1](http://arxiv.org/abs/2309.12668v1)|null|
 |**2023-09-22**|**A Study on Learning Social Robot Navigation with Multimodal Perception**|Bhabaranjan Panigrahi et.al.|[2309.12568v1](http://arxiv.org/abs/2309.12568v1)|[link](https://github.com/robotixx/multimodal-fusion-network)|
-|**2023-09-22**|**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**|Junqi Jiang et.al.|[2309.12545v1](http://arxiv.org/abs/2309.12545v1)|null|
+|**2023-09-22**|**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**|Junqi Jiang et.al.|[2309.12545v1](http://arxiv.org/abs/2309.12545v1)|[link](https://github.com/junqi-jiang/proplace)|
 |**2023-09-21**|**Trip Planning for Autonomous Vehicles with Wireless Data Transfer Needs Using Reinforcement Learning**|Yousef AlSaqabi et.al.|[2309.12534v1](http://arxiv.org/abs/2309.12534v1)|null|
 |**2023-09-21**|**Human Following in Mobile Platforms with Person Re-Identification**|Mario Srouji et.al.|[2309.12479v1](http://arxiv.org/abs/2309.12479v1)|null|
 |**2023-09-21**|**SAVME: Efficient Safety Validation for Autonomous Systems Using Meta-Learning**|Marc R. Schlichting et.al.|[2309.12474v1](http://arxiv.org/abs/2309.12474v1)|null|
@@ -19,7 +19,7 @@
 |**2023-09-21**|**Detecting Relativistic Doppler in Galaxy Clustering with Tailored Galaxy Samples**|Federico Montano et.al.|[2309.12400v1](http://arxiv.org/abs/2309.12400v1)|null|
 |**2023-09-21**|**POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation**|Bo-Hsun Chen et.al.|[2309.12397v1](http://arxiv.org/abs/2309.12397v1)|null|
 |**2023-09-21**|**Active Stereo Without Pattern Projector**|Luca Bartolomei et.al.|[2309.12315v1](http://arxiv.org/abs/2309.12315v1)|[link](https://github.com/bartn8/vppstereo)|
-|**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312v1](http://arxiv.org/abs/2309.12312v1)|null|
+|**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312v2](http://arxiv.org/abs/2309.12312v2)|null|
 |**2023-09-21**|**Optimizing the Wasserstein GAN for TeV Gamma Ray Detection with VERITAS**|Deivid Ribeiro et.al.|[2309.12221v1](http://arxiv.org/abs/2309.12221v1)|null|
 |**2023-09-21**|**Beyond Image Borders: Learning Feature Extrapolation for Unbounded Image Composition**|Xiaoyu Liu et.al.|[2309.12042v1](http://arxiv.org/abs/2309.12042v1)|[link](https://github.com/liuxiaoyu1104/unic)|
 |**2023-09-21**|**Uncertainty-driven Exploration Strategies for Online Grasp Learning**|Yitian Shi et.al.|[2309.12038v1](http://arxiv.org/abs/2309.12038v1)|null|
