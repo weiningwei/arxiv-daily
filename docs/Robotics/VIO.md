@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-25**|**Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**|Yinan Meng et.al.|[2309.14279v1](http://arxiv.org/abs/2309.14279v1)|null|
+|**2023-09-25**|**Effect of surfactant-laden droplets on turbulent flow topology**|Giovanni Soligo et.al.|[2309.14132v1](http://arxiv.org/abs/2309.14132v1)|null|
+|**2023-09-25**|**Magneto-optical trap performance for high-bandwidth applications**|Benjamin Adams et.al.|[2309.14026v1](http://arxiv.org/abs/2309.14026v1)|null|
+|**2023-09-25**|**Influence of density and viscosity on deformation, breakage, and coalescence of bubbles in turbulence**|Francesca Mangani et.al.|[2309.13995v1](http://arxiv.org/abs/2309.13995v1)|null|
+|**2023-09-25**|**Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory**|Xin Zheng et.al.|[2309.13842v1](http://arxiv.org/abs/2309.13842v1)|null|
+|**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
+|**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
+|**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|null|
+|**2023-09-22**|**Probing the physics in the core boundary layers of the double-lined B-type binary KIC4930889 from its gravito-inertial modes**|Mathias Michielsen et.al.|[2309.13123v1](http://arxiv.org/abs/2309.13123v1)|null|
 |**2023-09-22**|**Latitudinal Propagation of Thermal Rossby Waves in Stellar Convection Zones**|Rekha Jain et.al.|[2309.12903v1](http://arxiv.org/abs/2309.12903v1)|null|
 |**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
 |**2023-09-21**|**Chaotic von Zeipel-Lidov-Kozai Oscillations of Binary System around Rotating Supermassive Black Hole**|Kei-ichi Maeda et.al.|[2309.12096v1](http://arxiv.org/abs/2309.12096v1)|null|
@@ -23,12 +32,3 @@
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|[link](https://github.com/tiers/ws-lidar-as-camera-odom)|
 |**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v2](http://arxiv.org/abs/2309.10314v2)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
-|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
-|**2023-09-18**|**Wait, That Feels Familiar: Learning to Extrapolate Human Preferences for Preference Aligned Path Planning**|Haresh Karnan et.al.|[2309.09912v1](http://arxiv.org/abs/2309.09912v1)|null|
-|**2023-09-18**|**Learning Inertial Parameter Identification of Unknown Object with Humanoid Robot using Sim-to-Real Adaptation**|Donghoon Baek et.al.|[2309.09810v1](http://arxiv.org/abs/2309.09810v1)|null|
-|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|[link](https://github.com/april-zju/coco-lic)|
-|**2023-09-18**|**GHNet:Learning GNSS Heading from Velocity Measurements**|Nitzan Dahan et.al.|[2309.09696v1](http://arxiv.org/abs/2309.09696v1)|null|
-|**2023-09-17**|**Effect of polydispersity on the transport and sound absorbing properties of three-dimensional random fibrous structures**|Q. V. Tran et.al.|[2309.09388v1](http://arxiv.org/abs/2309.09388v1)|null|
-|**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295v1](http://arxiv.org/abs/2309.09295v1)|null|
-|**2023-09-17**|**Scattering of lattice waves by an inertial line defect in planar motion**|M. J. Nieves et.al.|[2309.09286v1](http://arxiv.org/abs/2309.09286v1)|null|
-|**2023-09-15**|**Robust Indoor Localization with Ranging-IMU Fusion**|Fan Jiang et.al.|[2309.08803v1](http://arxiv.org/abs/2309.08803v1)|null|
