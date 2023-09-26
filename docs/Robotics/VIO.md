@@ -8,7 +8,7 @@
 |**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
 |**2023-09-21**|**Improving GPS-VIO Fusion with Adaptive Rotational Calibration**|Junlin Song et.al.|[2309.12005v1](http://arxiv.org/abs/2309.12005v1)|null|
 |**2023-09-21**|**Crop Row Switching for Vision-Based Navigation: A Comprehensive Approach for Efficient Crop Field Navigation**|Rajitha de Silva et.al.|[2309.11989v1](http://arxiv.org/abs/2309.11989v1)|null|
-|**2023-09-21**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917v1](http://arxiv.org/abs/2309.11917v1)|null|
+|**2023-09-21**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917v2](http://arxiv.org/abs/2309.11917v2)|null|
 |**2023-09-21**|**Nuclear viscosity estimated by dynamics of neck formation in the early stage of nuclear collision**|S. Amano et.al.|[2309.11771v1](http://arxiv.org/abs/2309.11771v1)|null|
 |**2023-09-21**|**Dictionary Attack on IMU-based Gait Authentication**|Rajesh Kumar et.al.|[2309.11766v1](http://arxiv.org/abs/2309.11766v1)|[link](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
 |**2023-09-21**|**Stability and causality criteria in linear mode analysis: stability means causality**|Dong-Lin Wang et.al.|[2309.11708v1](http://arxiv.org/abs/2309.11708v1)|null|
