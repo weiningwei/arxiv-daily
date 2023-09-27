@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2023-09-27 08:30:47 Asia/Shanghai
+ Automated deployment @ 2023-09-27 09:33:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### Visual Localization
+### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|
-|**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962v1](http://arxiv.org/abs/2309.13962v1)|null|
-|**2023-09-25**|**Chinese herb medicine in augmented reality**|Qianyun Zhu et.al.|[2309.13909v1](http://arxiv.org/abs/2309.13909v1)|null|
-|**2023-09-25**|**DISeR: Designing Imaging Systems with Reinforcement Learning**|Tzofi Klinghoffer et.al.|[2309.13851v1](http://arxiv.org/abs/2309.13851v1)|null|
+|**2023-09-25**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v2](http://arxiv.org/abs/2309.14063v2)|null|
+|**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
 |**2023-09-24**|**Motion Segmentation from a Moving Monocular Camera**|Yuxiang Huang et.al.|[2309.13772v1](http://arxiv.org/abs/2309.13772v1)|null|
-|**2023-09-24**|**Combining Two Adversarial Attacks Against Person Re-Identification Systems**|Eduardo de O. Andrade et.al.|[2309.13763v1](http://arxiv.org/abs/2309.13763v1)|null|
-|**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716v1](http://arxiv.org/abs/2309.13716v1)|null|
-|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|[link](https://github.com/naagar/art_restoration_dm)|
-|**2023-09-24**|**Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset**|Arthur Zhang et.al.|[2309.13549v1](http://arxiv.org/abs/2309.13549v1)|null|
-|**2023-09-24**|**Time-resolved laser speckle contrast imaging (TR-LSCI) of cerebral blood flow**|Faraneh Fathi et.al.|[2309.13527v1](http://arxiv.org/abs/2309.13527v1)|null|
-|**2023-09-23**|**MiliPoint: A Point Cloud Dataset for mmWave Radar**|Han Cui et.al.|[2309.13425v1](http://arxiv.org/abs/2309.13425v1)|null|
-|**2023-09-23**|**AgriSORT: A Simple Online Real-time Tracking-by-Detection framework for robotics in precision agriculture**|Leonardo Saraceni et.al.|[2309.13393v1](http://arxiv.org/abs/2309.13393v1)|null|
-|**2023-09-23**|**YOLORe-IDNet: An Efficient Multi-Camera System for Person-Tracking**|Vipin Gautam et.al.|[2309.13387v1](http://arxiv.org/abs/2309.13387v1)|null|
-|**2023-09-23**|**Class Attendance System in Education with Deep Learning Method**|Hüdaverdi Demir et.al.|[2309.13317v1](http://arxiv.org/abs/2309.13317v1)|null|
-|**2023-09-23**|**Order-preserving Consistency Regularization for Domain Adaptation and Generalization**|Mengmeng Jing et.al.|[2309.13258v1](http://arxiv.org/abs/2309.13258v1)|null|
-|**2023-09-23**|**Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**|Ke Fan et.al.|[2309.13248v1](http://arxiv.org/abs/2309.13248v1)|[link](https://github.com/kfan21/eoras)|
-|**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240v1](http://arxiv.org/abs/2309.13240v1)|null|
-|**2023-09-22**|**Characterization of a C-RED One camera for astrophotonical applications**|Stella Vješnica et.al.|[2309.13212v1](http://arxiv.org/abs/2309.13212v1)|null|
-|**2023-09-22**|**Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations**|Hanjiang Hu et.al.|[2309.13150v1](http://arxiv.org/abs/2309.13150v1)|null|
-|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
-|**2023-09-22**|**License Plate Recognition Based On Multi-Angle View Model**|Dat Tran-Anh et.al.|[2309.12972v1](http://arxiv.org/abs/2309.12972v1)|null|
-|**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842v1](http://arxiv.org/abs/2309.12842v1)|null|
-|**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804v1](http://arxiv.org/abs/2309.12804v1)|null|
-|**2023-09-22**|**CloudGripper: An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale**|Muhammad Zahid et.al.|[2309.12786v1](http://arxiv.org/abs/2309.12786v1)|null|
-|**2023-09-22**|**eWand: A calibration framework for wide baseline frame-based and event-based camera systems**|Thomas Gossard et.al.|[2309.12685v1](http://arxiv.org/abs/2309.12685v1)|null|
-|**2023-09-22**|**UWA360CAM: A 360$^{\circ}$ 24/7 Real-Time Streaming Camera System for Underwater Applications**|Quan-Dung Pham et.al.|[2309.12668v1](http://arxiv.org/abs/2309.12668v1)|null|
-|**2023-09-22**|**A Study on Learning Social Robot Navigation with Multimodal Perception**|Bhabaranjan Panigrahi et.al.|[2309.12568v1](http://arxiv.org/abs/2309.12568v1)|[link](https://github.com/robotixx/multimodal-fusion-network)|
-|**2023-09-22**|**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**|Junqi Jiang et.al.|[2309.12545v1](http://arxiv.org/abs/2309.12545v1)|[link](https://github.com/junqi-jiang/proplace)|
-|**2023-09-21**|**Trip Planning for Autonomous Vehicles with Wireless Data Transfer Needs Using Reinforcement Learning**|Yousef AlSaqabi et.al.|[2309.12534v1](http://arxiv.org/abs/2309.12534v1)|null|
-|**2023-09-21**|**Human Following in Mobile Platforms with Person Re-Identification**|Mario Srouji et.al.|[2309.12479v1](http://arxiv.org/abs/2309.12479v1)|null|
+|**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
+|**2023-09-21**|**RTS-GT: Robotic Total Stations Ground Truthing dataset**|Maxime Vaidis et.al.|[2309.11935v1](http://arxiv.org/abs/2309.11935v1)|null|
+|**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|[link](https://github.com/luigifreda/plvs)|
+|**2023-09-19**|**Measurement Simplification in ρ-POMDP with Performance Guarantees**|Tom Yotam et.al.|[2309.10701v1](http://arxiv.org/abs/2309.10701v1)|null|
+|**2023-09-19**|**OASIS: Optimal Arrangements for Sensing in SLAM**|Pushyami Kaveti et.al.|[2309.10698v1](http://arxiv.org/abs/2309.10698v1)|null|
+|**2023-09-19**|**Vision-based Situational Graphs Generating Optimizable 3D Scene Representations**|Ali Tourani et.al.|[2309.10461v1](http://arxiv.org/abs/2309.10461v1)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|[link](https://github.com/tiers/ws-lidar-as-camera-odom)|
+|**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225v1](http://arxiv.org/abs/2309.10225v1)|[link](https://github.com/QVPR/VPRTempo)|
+|**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
+|**2023-09-17**|**Differentiable SLAM Helps Deep Learning-based LiDAR Perception Tasks**|Prashant Kumar et.al.|[2309.09206v1](http://arxiv.org/abs/2309.09206v1)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
+|**2023-09-16**|**CARLA-Loc: Synthetic SLAM Dataset with Full-stack Sensor Setup in Challenging Weather and Dynamic Environments**|Yuhang Han et.al.|[2309.08909v1](http://arxiv.org/abs/2309.08909v1)|null|
+|**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
+|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|[link](https://github.com/yale-cv/avm-slam)|
+|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
+|**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
+|**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
+|**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
+|**2023-09-12**|**Collaborative Dynamic 3D Scene Graphs for Automated Driving**|Elias Greve et.al.|[2309.06635v2](http://arxiv.org/abs/2309.06635v2)|[link](https://github.com/robot-learning-freiburg/CURB-SG)|
+|**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|[link](https://github.com/utiasasrl/starloc)|
+|**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349v1](http://arxiv.org/abs/2309.05349v1)|null|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
+|**2023-09-10**|**Benchmarking ground truth trajectories with robotic total stations**|Effie Daum et.al.|[2309.05134v1](http://arxiv.org/abs/2309.05134v1)|null|
+|**2023-09-10**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
+|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441v1](http://arxiv.org/abs/2309.04441v1)|null|
+|**2023-09-08**|**Data-Driven Batch Localization and SLAM Using Koopman Linearization**|Zi Cong Guo et.al.|[2309.04375v1](http://arxiv.org/abs/2309.04375v1)|null|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,39 +73,39 @@
 |**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314v2](http://arxiv.org/abs/2309.10314v2)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
 
-### SLAM
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v2](http://arxiv.org/abs/2309.14063v2)|null|
-|**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
+|**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|
+|**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962v1](http://arxiv.org/abs/2309.13962v1)|null|
+|**2023-09-25**|**Chinese herb medicine in augmented reality**|Qianyun Zhu et.al.|[2309.13909v1](http://arxiv.org/abs/2309.13909v1)|null|
+|**2023-09-25**|**DISeR: Designing Imaging Systems with Reinforcement Learning**|Tzofi Klinghoffer et.al.|[2309.13851v1](http://arxiv.org/abs/2309.13851v1)|null|
 |**2023-09-24**|**Motion Segmentation from a Moving Monocular Camera**|Yuxiang Huang et.al.|[2309.13772v1](http://arxiv.org/abs/2309.13772v1)|null|
-|**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
-|**2023-09-21**|**RTS-GT: Robotic Total Stations Ground Truthing dataset**|Maxime Vaidis et.al.|[2309.11935v1](http://arxiv.org/abs/2309.11935v1)|null|
-|**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|[link](https://github.com/luigifreda/plvs)|
-|**2023-09-19**|**Measurement Simplification in ρ-POMDP with Performance Guarantees**|Tom Yotam et.al.|[2309.10701v1](http://arxiv.org/abs/2309.10701v1)|null|
-|**2023-09-19**|**OASIS: Optimal Arrangements for Sensing in SLAM**|Pushyami Kaveti et.al.|[2309.10698v1](http://arxiv.org/abs/2309.10698v1)|null|
-|**2023-09-19**|**Vision-based Situational Graphs Generating Optimizable 3D Scene Representations**|Ali Tourani et.al.|[2309.10461v1](http://arxiv.org/abs/2309.10461v1)|null|
-|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|[link](https://github.com/tiers/ws-lidar-as-camera-odom)|
-|**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225v1](http://arxiv.org/abs/2309.10225v1)|[link](https://github.com/QVPR/VPRTempo)|
-|**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
-|**2023-09-17**|**Differentiable SLAM Helps Deep Learning-based LiDAR Perception Tasks**|Prashant Kumar et.al.|[2309.09206v1](http://arxiv.org/abs/2309.09206v1)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
-|**2023-09-16**|**CARLA-Loc: Synthetic SLAM Dataset with Full-stack Sensor Setup in Challenging Weather and Dynamic Environments**|Yuhang Han et.al.|[2309.08909v1](http://arxiv.org/abs/2309.08909v1)|null|
-|**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
-|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180v1](http://arxiv.org/abs/2309.08180v1)|[link](https://github.com/yale-cv/avm-slam)|
-|**2023-09-15**|**MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**|Yifu Wang et.al.|[2309.08142v2](http://arxiv.org/abs/2309.08142v2)|null|
-|**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
-|**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
-|**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
-|**2023-09-12**|**Collaborative Dynamic 3D Scene Graphs for Automated Driving**|Elias Greve et.al.|[2309.06635v2](http://arxiv.org/abs/2309.06635v2)|[link](https://github.com/robot-learning-freiburg/CURB-SG)|
-|**2023-09-11**|**STAR-loc: Dataset for STereo And Range-based localization**|Frederike Dümbgen et.al.|[2309.05518v1](http://arxiv.org/abs/2309.05518v1)|[link](https://github.com/utiasasrl/starloc)|
-|**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349v1](http://arxiv.org/abs/2309.05349v1)|null|
-|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
-|**2023-09-10**|**Benchmarking ground truth trajectories with robotic total stations**|Effie Daum et.al.|[2309.05134v1](http://arxiv.org/abs/2309.05134v1)|null|
-|**2023-09-10**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
-|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441v1](http://arxiv.org/abs/2309.04441v1)|null|
-|**2023-09-08**|**Data-Driven Batch Localization and SLAM Using Koopman Linearization**|Zi Cong Guo et.al.|[2309.04375v1](http://arxiv.org/abs/2309.04375v1)|null|
-|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
+|**2023-09-24**|**Combining Two Adversarial Attacks Against Person Re-Identification Systems**|Eduardo de O. Andrade et.al.|[2309.13763v1](http://arxiv.org/abs/2309.13763v1)|null|
+|**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716v1](http://arxiv.org/abs/2309.13716v1)|null|
+|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|[link](https://github.com/naagar/art_restoration_dm)|
+|**2023-09-24**|**Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset**|Arthur Zhang et.al.|[2309.13549v1](http://arxiv.org/abs/2309.13549v1)|null|
+|**2023-09-24**|**Time-resolved laser speckle contrast imaging (TR-LSCI) of cerebral blood flow**|Faraneh Fathi et.al.|[2309.13527v1](http://arxiv.org/abs/2309.13527v1)|null|
+|**2023-09-23**|**MiliPoint: A Point Cloud Dataset for mmWave Radar**|Han Cui et.al.|[2309.13425v1](http://arxiv.org/abs/2309.13425v1)|null|
+|**2023-09-23**|**AgriSORT: A Simple Online Real-time Tracking-by-Detection framework for robotics in precision agriculture**|Leonardo Saraceni et.al.|[2309.13393v1](http://arxiv.org/abs/2309.13393v1)|null|
+|**2023-09-23**|**YOLORe-IDNet: An Efficient Multi-Camera System for Person-Tracking**|Vipin Gautam et.al.|[2309.13387v1](http://arxiv.org/abs/2309.13387v1)|null|
+|**2023-09-23**|**Class Attendance System in Education with Deep Learning Method**|Hüdaverdi Demir et.al.|[2309.13317v1](http://arxiv.org/abs/2309.13317v1)|null|
+|**2023-09-23**|**Order-preserving Consistency Regularization for Domain Adaptation and Generalization**|Mengmeng Jing et.al.|[2309.13258v1](http://arxiv.org/abs/2309.13258v1)|null|
+|**2023-09-23**|**Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**|Ke Fan et.al.|[2309.13248v1](http://arxiv.org/abs/2309.13248v1)|[link](https://github.com/kfan21/eoras)|
+|**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240v1](http://arxiv.org/abs/2309.13240v1)|null|
+|**2023-09-22**|**Characterization of a C-RED One camera for astrophotonical applications**|Stella Vješnica et.al.|[2309.13212v1](http://arxiv.org/abs/2309.13212v1)|null|
+|**2023-09-22**|**Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations**|Hanjiang Hu et.al.|[2309.13150v1](http://arxiv.org/abs/2309.13150v1)|null|
+|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
+|**2023-09-22**|**License Plate Recognition Based On Multi-Angle View Model**|Dat Tran-Anh et.al.|[2309.12972v1](http://arxiv.org/abs/2309.12972v1)|null|
+|**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842v1](http://arxiv.org/abs/2309.12842v1)|null|
+|**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804v1](http://arxiv.org/abs/2309.12804v1)|null|
+|**2023-09-22**|**CloudGripper: An Open Source Cloud Robotics Testbed for Robotic Manipulation Research, Benchmarking and Data Collection at Scale**|Muhammad Zahid et.al.|[2309.12786v1](http://arxiv.org/abs/2309.12786v1)|null|
+|**2023-09-22**|**eWand: A calibration framework for wide baseline frame-based and event-based camera systems**|Thomas Gossard et.al.|[2309.12685v1](http://arxiv.org/abs/2309.12685v1)|null|
+|**2023-09-22**|**UWA360CAM: A 360$^{\circ}$ 24/7 Real-Time Streaming Camera System for Underwater Applications**|Quan-Dung Pham et.al.|[2309.12668v1](http://arxiv.org/abs/2309.12668v1)|null|
+|**2023-09-22**|**A Study on Learning Social Robot Navigation with Multimodal Perception**|Bhabaranjan Panigrahi et.al.|[2309.12568v1](http://arxiv.org/abs/2309.12568v1)|[link](https://github.com/robotixx/multimodal-fusion-network)|
+|**2023-09-22**|**Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation**|Junqi Jiang et.al.|[2309.12545v1](http://arxiv.org/abs/2309.12545v1)|[link](https://github.com/junqi-jiang/proplace)|
+|**2023-09-21**|**Trip Planning for Autonomous Vehicles with Wireless Data Transfer Needs Using Reinforcement Learning**|Yousef AlSaqabi et.al.|[2309.12534v1](http://arxiv.org/abs/2309.12534v1)|null|
+|**2023-09-21**|**Human Following in Mobile Platforms with Person Re-Identification**|Mario Srouji et.al.|[2309.12479v1](http://arxiv.org/abs/2309.12479v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
