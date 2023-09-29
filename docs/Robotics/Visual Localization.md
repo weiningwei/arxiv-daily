@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670v1](http://arxiv.org/abs/2309.16670v1)|null|
+|**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|null|
+|**2023-09-28**|**Visual In-Context Learning for Few-Shot Eczema Segmentation**|Neelesh Kumar et.al.|[2309.16656v1](http://arxiv.org/abs/2309.16656v1)|null|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|null|
+|**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634v1](http://arxiv.org/abs/2309.16634v1)|null|
+|**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553v1](http://arxiv.org/abs/2309.16553v1)|null|
+|**2023-09-28**|**Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds**|Matthias Zeller et.al.|[2309.16435v1](http://arxiv.org/abs/2309.16435v1)|null|
+|**2023-09-28**|**A Comprehensive Review on Tree Detection Methods Using Point Cloud and Aerial Imagery from Unmanned Aerial Vehicles**|Weijie Kuang et.al.|[2309.16375v1](http://arxiv.org/abs/2309.16375v1)|null|
+|**2023-09-28**|**Audio Visual Speaker Localization from EgoCentric Views**|Jinzheng Zhao et.al.|[2309.16308v1](http://arxiv.org/abs/2309.16308v1)|null|
+|**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189v1](http://arxiv.org/abs/2309.16189v1)|null|
+|**2023-09-28**|**BEVHeight++: Toward Robust Visual Centric 3D Object Detection**|Lei Yang et.al.|[2309.16179v1](http://arxiv.org/abs/2309.16179v1)|null|
+|**2023-09-28**|**Doppler Time-of-Flight Rendering**|Juhyeon Kim et.al.|[2309.16163v1](http://arxiv.org/abs/2309.16163v1)|[link](https://github.com/juhyeonkim95/Mitsuba3DopplerToF)|
+|**2023-09-28**|**Generative Semi-supervised Learning with Meta-Optimized Synthetic Samples**|Shin'ya Yamaguchi et.al.|[2309.16143v1](http://arxiv.org/abs/2309.16143v1)|null|
+|**2023-09-28**|**Single-shot deterministic complex amplitude imaging with a single-layer metalens**|Liu Li et.al.|[2309.16123v1](http://arxiv.org/abs/2309.16123v1)|null|
+|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057v1](http://arxiv.org/abs/2309.16057v1)|null|
+|**2023-09-27**|**Aperture Diffraction for Compact Snapshot Spectral Imaging**|Tao Lv et.al.|[2309.16372v1](http://arxiv.org/abs/2309.16372v1)|null|
 |**2023-09-27**|**Development of a Whole-body Work Imitation Learning System by a Biped and Bi-armed Humanoid**|Yutaro Matsuura et.al.|[2309.15756v1](http://arxiv.org/abs/2309.15756v1)|null|
 |**2023-09-27**|**Automated CT Lung Cancer Screening Workflow using 3D Camera**|Brian Teixeira et.al.|[2309.15750v1](http://arxiv.org/abs/2309.15750v1)|null|
 |**2023-09-27**|**Tracking Snake-like Robots in the Wild Using Only a Single Camera**|Jingpei Lu et.al.|[2309.15700v1](http://arxiv.org/abs/2309.15700v1)|null|
@@ -16,19 +32,3 @@
 |**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390v1](http://arxiv.org/abs/2309.15390v1)|null|
 |**2023-09-27**|**DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud**|Ruixu Geng et.al.|[2309.15374v1](http://arxiv.org/abs/2309.15374v1)|null|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
-|**2023-09-26**|**Characterization of a SiPM-based monolithic neutron scatter camera using dark counts**|J. Balajthy et.al.|[2309.15280v1](http://arxiv.org/abs/2309.15280v1)|null|
-|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|[link](https://github.com/qcraftai/distill-bev)|
-|**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082v1](http://arxiv.org/abs/2309.15082v1)|[link](https://github.com/danqu130/RPEFlow)|
-|**2023-09-26**|**Near Real-Time Position Tracking for Robot-Guided Evacuation**|Mollik Nayyar et.al.|[2309.15054v1](http://arxiv.org/abs/2309.15054v1)|null|
-|**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932v1](http://arxiv.org/abs/2309.14932v1)|null|
-|**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865v1](http://arxiv.org/abs/2309.14865v1)|null|
-|**2023-09-26**|**Application of the optimised next neighbour image cleaning method to the VERITAS array**|Maria Kherlakian et.al.|[2309.14839v1](http://arxiv.org/abs/2309.14839v1)|null|
-|**2023-09-26**|**Advanced Volleyball Stats for All Levels: Automatic Setting Tactic Detection and Classification with a Single Camera**|Haotian Xia et.al.|[2309.14753v1](http://arxiv.org/abs/2309.14753v1)|[link](https://github.com/volleyIEEE/VolleyStats)|
-|**2023-09-26**|**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**|Xiao Wang et.al.|[2309.14611v1](http://arxiv.org/abs/2309.14611v1)|[link](https://github.com/event-ahu/eventvot_benchmark)|
-|**2023-09-25**|**UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities**|Shiming Wang et.al.|[2309.14516v1](http://arxiv.org/abs/2309.14516v1)|null|
-|**2023-09-25**|**"Can You Move It?": The Design and Evaluation of Moving VR Shots in Sport Broadcast**|Xiuqi Zhu et.al.|[2309.14490v1](http://arxiv.org/abs/2309.14490v1)|null|
-|**2023-09-25**|**FARSEC: A Reproducible Framework for Automatic Real-Time Vehicle Speed Estimation Using Traffic Cameras**|Lucas Liebe et.al.|[2309.14468v1](http://arxiv.org/abs/2309.14468v1)|[link](https://github.com/porscheofficial/speed-estimation-traffic-monitoring)|
-|**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|
-|**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962v1](http://arxiv.org/abs/2309.13962v1)|null|
-|**2023-09-25**|**Chinese herb medicine in augmented reality**|Qianyun Zhu et.al.|[2309.13909v1](http://arxiv.org/abs/2309.13909v1)|null|
-|**2023-09-25**|**DISeR: Designing Imaging Systems with Reinforcement Learning**|Tzofi Klinghoffer et.al.|[2309.13851v1](http://arxiv.org/abs/2309.13851v1)|null|

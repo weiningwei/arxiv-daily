@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-28**|**Physics-Preserving AI-Accelerated Simulations of Plasma Turbulence**|Robin Greif et.al.|[2309.16400v1](http://arxiv.org/abs/2309.16400v1)|null|
 |**2023-09-27**|**In search of gravity mode signatures in main sequence solar-type stars observed by Kepler**|Sylvain N. Breton et.al.|[2309.15691v1](http://arxiv.org/abs/2309.15691v1)|null|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
 |**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390v1](http://arxiv.org/abs/2309.15390v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-21**|**Dictionary Attack on IMU-based Gait Authentication**|Rajesh Kumar et.al.|[2309.11766v1](http://arxiv.org/abs/2309.11766v1)|[link](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
 |**2023-09-21**|**Stability and causality criteria in linear mode analysis: stability means causality**|Dong-Lin Wang et.al.|[2309.11708v1](http://arxiv.org/abs/2309.11708v1)|null|
 |**2023-09-20**|**Gas Assisted Binary Black Hole Formation in AGN Discs**|Henry Whitehead et.al.|[2309.11561v1](http://arxiv.org/abs/2309.11561v1)|null|
-|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
