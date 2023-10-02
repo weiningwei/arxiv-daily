@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-29**|**Optical-pump terahertz-probe spectroscopy in high magnetic fields with kHz single-shot detection**|Blake S. Dastrup et.al.|[2309.17393v1](http://arxiv.org/abs/2309.17393v1)|null|
+|**2023-09-29**|**$Euclid$: The search for primordial features**|M. Ballardini et.al.|[2309.17287v1](http://arxiv.org/abs/2309.17287v1)|null|
+|**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239v1](http://arxiv.org/abs/2309.17239v1)|[link](https://github.com/booker-max/egvd)|
+|**2023-09-29**|**A Vision-Guided Robotic System for Grasping Harvested Tomato Trusses in Cluttered Environments**|Luuk van den Bent et.al.|[2309.17170v1](http://arxiv.org/abs/2309.17170v1)|null|
+|**2023-09-29**|**Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**|Weizhe Lin et.al.|[2309.17133v1](http://arxiv.org/abs/2309.17133v1)|null|
+|**2023-09-29**|**A 5-Point Minimal Solver for Event Camera Relative Motion Estimation**|Ling Gao et.al.|[2309.17054v1](http://arxiv.org/abs/2309.17054v1)|null|
+|**2023-09-29**|**Simultaneous Synchronization and Calibration for Wide-baseline Stereo Event Cameras**|Wanli Xing et.al.|[2309.16990v1](http://arxiv.org/abs/2309.16990v1)|null|
+|**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987v1](http://arxiv.org/abs/2309.16987v1)|null|
+|**2023-09-29**|**CrossZoom: Simultaneously Motion Deblurring and Event Super-Resolving**|Chi Zhang et.al.|[2309.16949v1](http://arxiv.org/abs/2309.16949v1)|null|
+|**2023-09-29**|**Incremental Rotation Averaging Revisited and More: A New Rotation Averaging Benchmark**|Xiang Gao et.al.|[2309.16924v1](http://arxiv.org/abs/2309.16924v1)|null|
+|**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859v1](http://arxiv.org/abs/2309.16859v1)|null|
+|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v1](http://arxiv.org/abs/2309.16772v1)|null|
 |**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670v1](http://arxiv.org/abs/2309.16670v1)|null|
 |**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|null|
 |**2023-09-28**|**Visual In-Context Learning for Few-Shot Eczema Segmentation**|Neelesh Kumar et.al.|[2309.16656v1](http://arxiv.org/abs/2309.16656v1)|null|
@@ -20,15 +32,3 @@
 |**2023-09-27**|**Aperture Diffraction for Compact Snapshot Spectral Imaging**|Tao Lv et.al.|[2309.16372v1](http://arxiv.org/abs/2309.16372v1)|null|
 |**2023-09-27**|**Development of a Whole-body Work Imitation Learning System by a Biped and Bi-armed Humanoid**|Yutaro Matsuura et.al.|[2309.15756v1](http://arxiv.org/abs/2309.15756v1)|null|
 |**2023-09-27**|**Automated CT Lung Cancer Screening Workflow using 3D Camera**|Brian Teixeira et.al.|[2309.15750v1](http://arxiv.org/abs/2309.15750v1)|null|
-|**2023-09-27**|**Tracking Snake-like Robots in the Wild Using Only a Single Camera**|Jingpei Lu et.al.|[2309.15700v1](http://arxiv.org/abs/2309.15700v1)|null|
-|**2023-09-27**|**Neuromorphic Imaging and Classification with Graph Learning**|Pei Zhang et.al.|[2309.15627v1](http://arxiv.org/abs/2309.15627v1)|null|
-|**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596v1](http://arxiv.org/abs/2309.15596v1)|null|
-|**2023-09-27**|**Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction**|Basit Alawode et.al.|[2309.15576v1](http://arxiv.org/abs/2309.15576v1)|null|
-|**2023-09-27**|**Learning Dense Flow Field for Highly-accurate Cross-view Camera Localization**|Zhenbo Song et.al.|[2309.15556v1](http://arxiv.org/abs/2309.15556v1)|null|
-|**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
-|**2023-09-27**|**CauDR: A Causality-inspired Domain Generalization Framework for Fundus-based Diabetic Retinopathy Grading**|Hao Wei et.al.|[2309.15493v1](http://arxiv.org/abs/2309.15493v1)|null|
-|**2023-09-27**|**Cross-Dataset Experimental Study of Radar-Camera Fusion in Bird's-Eye View**|Lukas Stäcker et.al.|[2309.15465v1](http://arxiv.org/abs/2309.15465v1)|null|
-|**2023-09-27**|**Environmental impacts on the rest-frame UV size and morphology ofstar-forming galaxies at $z\sim2$**|Abdurrahman Naufal et.al.|[2309.15450v1](http://arxiv.org/abs/2309.15450v1)|null|
-|**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390v1](http://arxiv.org/abs/2309.15390v1)|[link](https://github.com/rpng/mins)|
-|**2023-09-27**|**DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud**|Ruixu Geng et.al.|[2309.15374v1](http://arxiv.org/abs/2309.15374v1)|null|
-|**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|

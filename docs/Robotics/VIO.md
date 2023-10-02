@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-29**|**Turbulent dynamo action and its effects on the mixing at the convective boundary of an idealized oxygen-burning shell**|G. Leidi et.al.|[2309.17225v1](http://arxiv.org/abs/2309.17225v1)|null|
+|**2023-09-29**|**A 5-Point Minimal Solver for Event Camera Relative Motion Estimation**|Ling Gao et.al.|[2309.17054v1](http://arxiv.org/abs/2309.17054v1)|null|
+|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v1](http://arxiv.org/abs/2309.16772v1)|null|
 |**2023-09-28**|**Physics-Preserving AI-Accelerated Simulations of Plasma Turbulence**|Robin Greif et.al.|[2309.16400v1](http://arxiv.org/abs/2309.16400v1)|null|
 |**2023-09-27**|**In search of gravity mode signatures in main sequence solar-type stars observed by Kepler**|Sylvain N. Breton et.al.|[2309.15691v1](http://arxiv.org/abs/2309.15691v1)|null|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
@@ -29,6 +32,3 @@
 |**2023-09-21**|**Crop Row Switching for Vision-Based Navigation: A Comprehensive Approach for Efficient Crop Field Navigation**|Rajitha de Silva et.al.|[2309.11989v1](http://arxiv.org/abs/2309.11989v1)|null|
 |**2023-09-21**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917v2](http://arxiv.org/abs/2309.11917v2)|null|
 |**2023-09-21**|**Nuclear viscosity estimated by dynamics of neck formation in the early stage of nuclear collision**|S. Amano et.al.|[2309.11771v1](http://arxiv.org/abs/2309.11771v1)|null|
-|**2023-09-21**|**Dictionary Attack on IMU-based Gait Authentication**|Rajesh Kumar et.al.|[2309.11766v1](http://arxiv.org/abs/2309.11766v1)|[link](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
-|**2023-09-21**|**Stability and causality criteria in linear mode analysis: stability means causality**|Dong-Lin Wang et.al.|[2309.11708v1](http://arxiv.org/abs/2309.11708v1)|null|
-|**2023-09-20**|**Gas Assisted Binary Black Hole Formation in AGN Discs**|Henry Whitehead et.al.|[2309.11561v1](http://arxiv.org/abs/2309.11561v1)|null|
