@@ -10,13 +10,13 @@
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553v1](http://arxiv.org/abs/2309.16553v1)|null|
 |**2023-09-28**|**Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds**|Matthias Zeller et.al.|[2309.16435v1](http://arxiv.org/abs/2309.16435v1)|null|
 |**2023-09-28**|**A Comprehensive Review on Tree Detection Methods Using Point Cloud and Aerial Imagery from Unmanned Aerial Vehicles**|Weijie Kuang et.al.|[2309.16375v1](http://arxiv.org/abs/2309.16375v1)|null|
-|**2023-09-28**|**Audio Visual Speaker Localization from EgoCentric Views**|Jinzheng Zhao et.al.|[2309.16308v1](http://arxiv.org/abs/2309.16308v1)|null|
+|**2023-09-28**|**Audio Visual Speaker Localization from EgoCentric Views**|Jinzheng Zhao et.al.|[2309.16308v1](http://arxiv.org/abs/2309.16308v1)|[link](https://github.com/kawhizhao/egocentric-audio-visual-speaker-localization)|
 |**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189v1](http://arxiv.org/abs/2309.16189v1)|null|
 |**2023-09-28**|**BEVHeight++: Toward Robust Visual Centric 3D Object Detection**|Lei Yang et.al.|[2309.16179v1](http://arxiv.org/abs/2309.16179v1)|null|
-|**2023-09-28**|**Doppler Time-of-Flight Rendering**|Juhyeon Kim et.al.|[2309.16163v1](http://arxiv.org/abs/2309.16163v1)|[link](https://github.com/juhyeonkim95/mitsubadopplertof)|
+|**2023-09-28**|**Doppler Time-of-Flight Rendering**|Juhyeon Kim et.al.|[2309.16163v2](http://arxiv.org/abs/2309.16163v2)|[link](https://github.com/juhyeonkim95/mitsubadopplertof)|
 |**2023-09-28**|**Generative Semi-supervised Learning with Meta-Optimized Synthetic Samples**|Shin'ya Yamaguchi et.al.|[2309.16143v1](http://arxiv.org/abs/2309.16143v1)|null|
 |**2023-09-28**|**Single-shot deterministic complex amplitude imaging with a single-layer metalens**|Liu Li et.al.|[2309.16123v1](http://arxiv.org/abs/2309.16123v1)|null|
-|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057v1](http://arxiv.org/abs/2309.16057v1)|null|
+|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057v1](http://arxiv.org/abs/2309.16057v1)|[link](https://github.com/unmannedlab/uwb_dataset)|
 |**2023-09-27**|**Aperture Diffraction for Compact Snapshot Spectral Imaging**|Tao Lv et.al.|[2309.16372v1](http://arxiv.org/abs/2309.16372v1)|null|
 |**2023-09-27**|**Development of a Whole-body Work Imitation Learning System by a Biped and Bi-armed Humanoid**|Yutaro Matsuura et.al.|[2309.15756v1](http://arxiv.org/abs/2309.15756v1)|null|
 |**2023-09-27**|**Automated CT Lung Cancer Screening Workflow using 3D Camera**|Brian Teixeira et.al.|[2309.15750v1](http://arxiv.org/abs/2309.15750v1)|null|

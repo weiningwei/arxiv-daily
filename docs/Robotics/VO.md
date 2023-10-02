@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
-|**2023-09-27**|**Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms**|Hanzhe Teng et.al.|[2309.15332v1](http://arxiv.org/abs/2309.15332v1)|[link](https://github.com/ucr-robotics/citrus-farm-dataset)|
+|**2023-09-27**|**Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms**|Hanzhe Teng et.al.|[2309.15332v2](http://arxiv.org/abs/2309.15332v2)|[link](https://github.com/ucr-robotics/citrus-farm-dataset)|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
 |**2023-09-26**|**Ambient-Aware LiDAR Odometry in Variable Terrains**|Mazeyu Ji et.al.|[2309.14641v1](http://arxiv.org/abs/2309.14641v1)|null|
