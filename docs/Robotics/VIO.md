@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-04**|**Predicting the Splash of a Drop Impacting a Thin Liquid Film**|Sucharitha Rajendran et.al.|[2310.02526v1](http://arxiv.org/abs/2310.02526v1)|null|
+|**2023-10-03**|**Estimating viscoelastic, soft material properties using a modified Rayleigh cavitation bubble collapse time**|Jin Yang et.al.|[2310.02475v1](http://arxiv.org/abs/2310.02475v1)|null|
+|**2023-10-03**|**First Principle Description of Plasma Expansion Using the Expanding Box Model**|Sebastian Echeverría-Veas et.al.|[2310.02302v1](http://arxiv.org/abs/2310.02302v1)|null|
 |**2023-10-03**|**Grid-Forming Control Methods for Weakly Connected Offshore WPPs**|Sulav Ghimire et.al.|[2310.01826v1](http://arxiv.org/abs/2310.01826v1)|null|
 |**2023-10-02**|**Scaling laws and exact results in turbulence**|Matthew Novack et.al.|[2310.01375v1](http://arxiv.org/abs/2310.01375v1)|null|
 |**2023-10-02**|**COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry**|Patrick Pfreundschuh et.al.|[2310.01235v1](http://arxiv.org/abs/2310.01235v1)|null|
@@ -29,6 +32,3 @@
 |**2023-09-25**|**Influence of density and viscosity on deformation, breakage, and coalescence of bubbles in turbulence**|Francesca Mangani et.al.|[2309.13995v1](http://arxiv.org/abs/2309.13995v1)|null|
 |**2023-09-25**|**Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory**|Xin Zheng et.al.|[2309.13842v1](http://arxiv.org/abs/2309.13842v1)|null|
 |**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
-|**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
-|**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|[link](https://github.com/norlab-ulaval/borealhdr)|
-|**2023-09-22**|**Probing the physics in the core boundary layers of the double-lined B-type binary KIC4930889 from its gravito-inertial modes**|Mathias Michielsen et.al.|[2309.13123v1](http://arxiv.org/abs/2309.13123v1)|null|
