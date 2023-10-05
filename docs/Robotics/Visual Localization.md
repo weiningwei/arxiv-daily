@@ -20,12 +20,12 @@
 |**2023-10-02**|**Pavo: Discovery of a star-forming dwarf galaxy just outside the Local Group**|Michael G. Jones et.al.|[2310.01478v1](http://arxiv.org/abs/2310.01478v1)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
 |**2023-10-02**|**Status of the SST Camera for the Cherenkov Telescope Array**|Davide Depaoli et.al.|[2310.01183v1](http://arxiv.org/abs/2310.01183v1)|null|
-|**2023-10-02**|**Strength in Diversity: Multi-Branch Representation Learning for Vehicle Re-Identification**|Eurico Almeida et.al.|[2310.01129v1](http://arxiv.org/abs/2310.01129v1)|null|
+|**2023-10-02**|**Strength in Diversity: Multi-Branch Representation Learning for Vehicle Re-Identification**|Eurico Almeida et.al.|[2310.01129v1](http://arxiv.org/abs/2310.01129v1)|[link](https://github.com/videturfortuna/vehicle_reid_itsc2023)|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092v1](http://arxiv.org/abs/2310.01092v1)|null|
 |**2023-10-02**|**NIKA2 observations of starless cores in Taurus and Perseus**|C. Kramer et.al.|[2310.01044v2](http://arxiv.org/abs/2310.01044v2)|null|
 |**2023-10-02**|**Autonomous Navigation of Micro Air Vehicles in Warehouses Using Vision-based Line Following**|Ling Shuang Soh et.al.|[2310.00950v1](http://arxiv.org/abs/2310.00950v1)|null|
 |**2023-10-02**|**Semi-Blind Image Deblurring Based on Framelet Prior**|M. Zarebnia et.al.|[2310.00943v1](http://arxiv.org/abs/2310.00943v1)|null|
-|**2023-10-02**|**Enhanced Winter Road Surface Condition Monitoring with Computer Vision**|Risto Ojala et.al.|[2310.00923v1](http://arxiv.org/abs/2310.00923v1)|null|
+|**2023-10-02**|**Enhanced Winter Road Surface Condition Monitoring with Computer Vision**|Risto Ojala et.al.|[2310.00923v1](http://arxiv.org/abs/2310.00923v1)|[link](https://github.com/ojalar/siwnet)|
 |**2023-10-02**|**Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training**|Fulong Ma et.al.|[2310.00920v1](http://arxiv.org/abs/2310.00920v1)|null|
 |**2023-10-01**|**EventLFM: Event Camera integrated Fourier Light Field Microscopy for Ultrafast 3D imaging**|Ruipeng Guo et.al.|[2310.00730v1](http://arxiv.org/abs/2310.00730v1)|null|
 |**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530v1](http://arxiv.org/abs/2310.00530v1)|null|
