@@ -22,7 +22,7 @@
 |**2023-10-02**|**Status of the SST Camera for the Cherenkov Telescope Array**|Davide Depaoli et.al.|[2310.01183v1](http://arxiv.org/abs/2310.01183v1)|null|
 |**2023-10-02**|**Strength in Diversity: Multi-Branch Representation Learning for Vehicle Re-Identification**|Eurico Almeida et.al.|[2310.01129v1](http://arxiv.org/abs/2310.01129v1)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092v1](http://arxiv.org/abs/2310.01092v1)|null|
-|**2023-10-02**|**NIKA-2 observations of starless cores in Taurus and Perseus**|C. Kramer et.al.|[2310.01044v1](http://arxiv.org/abs/2310.01044v1)|null|
+|**2023-10-02**|**NIKA2 observations of starless cores in Taurus and Perseus**|C. Kramer et.al.|[2310.01044v2](http://arxiv.org/abs/2310.01044v2)|null|
 |**2023-10-02**|**Autonomous Navigation of Micro Air Vehicles in Warehouses Using Vision-based Line Following**|Ling Shuang Soh et.al.|[2310.00950v1](http://arxiv.org/abs/2310.00950v1)|null|
 |**2023-10-02**|**Semi-Blind Image Deblurring Based on Framelet Prior**|M. Zarebnia et.al.|[2310.00943v1](http://arxiv.org/abs/2310.00943v1)|null|
 |**2023-10-02**|**Enhanced Winter Road Surface Condition Monitoring with Computer Vision**|Risto Ojala et.al.|[2310.00923v1](http://arxiv.org/abs/2310.00923v1)|null|
