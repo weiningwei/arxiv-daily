@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-05**|**Otago Exercises Monitoring for Older Adults by a Single IMU and Hierarchical Machine Learning Models**|Meng Shang et.al.|[2310.03512v1](http://arxiv.org/abs/2310.03512v1)|null|
+|**2023-10-05**|**Inertial dynamical transitions drive particle capture and filtration**|Joshua F. Robinson et.al.|[2310.03474v1](http://arxiv.org/abs/2310.03474v1)|null|
+|**2023-10-04**|**Wave Measurements using Open Source Ship Mounted Ultrasonic Altimeter and Motion Correction System during the One Ocean Expedition**|Judith Thu Ølberg et.al.|[2310.03101v1](http://arxiv.org/abs/2310.03101v1)|null|
 |**2023-10-04**|**Predicting the Splash of a Drop Impacting a Thin Liquid Film**|Sucharitha Rajendran et.al.|[2310.02526v1](http://arxiv.org/abs/2310.02526v1)|null|
 |**2023-10-03**|**Estimating viscoelastic, soft material properties using a modified Rayleigh cavitation bubble collapse time**|Jin Yang et.al.|[2310.02475v1](http://arxiv.org/abs/2310.02475v1)|null|
 |**2023-10-03**|**First Principle Description of Plasma Expansion Using the Expanding Box Model**|Sebastian Echeverría-Veas et.al.|[2310.02302v1](http://arxiv.org/abs/2310.02302v1)|null|
@@ -29,6 +32,3 @@
 |**2023-09-25**|**Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**|Yinan Meng et.al.|[2309.14279v1](http://arxiv.org/abs/2309.14279v1)|null|
 |**2023-09-25**|**Effect of surfactant-laden droplets on turbulent flow topology**|Giovanni Soligo et.al.|[2309.14132v1](http://arxiv.org/abs/2309.14132v1)|null|
 |**2023-09-25**|**Magneto-optical trap performance for high-bandwidth applications**|Benjamin Adams et.al.|[2309.14026v1](http://arxiv.org/abs/2309.14026v1)|null|
-|**2023-09-25**|**Influence of density and viscosity on deformation, breakage, and coalescence of bubbles in turbulence**|Francesca Mangani et.al.|[2309.13995v1](http://arxiv.org/abs/2309.13995v1)|null|
-|**2023-09-25**|**Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory**|Xin Zheng et.al.|[2309.13842v1](http://arxiv.org/abs/2309.13842v1)|null|
-|**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
