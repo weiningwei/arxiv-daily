@@ -24,11 +24,11 @@
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
 |**2023-10-03**|**Not all spacetime coordinates for general-relativistic ray tracing are created equal**|Gabriele Bozzola et.al.|[2310.02321v1](http://arxiv.org/abs/2310.02321v1)|null|
-|**2023-10-03**|**RESCUER: Cosmological K-corrections for star clusters**|Marta Reina-Campos et.al.|[2310.02307v1](http://arxiv.org/abs/2310.02307v1)|null|
+|**2023-10-03**|**RESCUER: Cosmological K-corrections for star clusters**|Marta Reina-Campos et.al.|[2310.02307v1](http://arxiv.org/abs/2310.02307v1)|[link](https://github.com/mreinacampos/rescuer)|
 |**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260v1](http://arxiv.org/abs/2310.02260v1)|[link](https://github.com/yahidar/transradar)|
 |**2023-10-03**|**Offset coalescence behaviour of impacting low-surface tension droplet on high-surface-tension droplet**|Pragyan Kumar Sarma et.al.|[2310.02236v1](http://arxiv.org/abs/2310.02236v1)|null|
 |**2023-10-03**|**Performances of an upgraded front-end-board for the NectarCAM camera**|Federica Bradascio et.al.|[2310.02155v1](http://arxiv.org/abs/2310.02155v1)|null|
 |**2023-10-03**|**Status of the Medium-Sized Telescopes for the Cherenkov Telescope Array Observatory**|Federica Bradascio et.al.|[2310.02127v1](http://arxiv.org/abs/2310.02127v1)|null|
 |**2023-10-03**|**View-Independent Adjoint Light Tracing for Lighting Design Optimization**|Lukas Lipp et.al.|[2310.02043v1](http://arxiv.org/abs/2310.02043v1)|null|
-|**2023-10-03**|**Automatic Data Processing for Space Robotics Machine Learning**|Anja Sheppard et.al.|[2310.01932v1](http://arxiv.org/abs/2310.01932v1)|null|
+|**2023-10-03**|**Automatic Data Processing for Space Robotics Machine Learning**|Anja Sheppard et.al.|[2310.01932v1](http://arxiv.org/abs/2310.01932v1)|[link](https://github.com/umfieldrobotics/automatic-data-processing-for-space-robotics-machine-learning)|
 |**2023-10-03**|**Smartphone-based Optical Sectioning (SOS) Microscopy with A Telecentric Design for Fluorescence Imaging**|Ziao Jiao et.al.|[2310.01928v1](http://arxiv.org/abs/2310.01928v1)|null|
