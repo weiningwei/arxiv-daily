@@ -12,7 +12,7 @@
 |**2023-10-02**|**Scaling laws and exact results in turbulence**|Matthew Novack et.al.|[2310.01375v1](http://arxiv.org/abs/2310.01375v1)|null|
 |**2023-10-02**|**COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry**|Patrick Pfreundschuh et.al.|[2310.01235v1](http://arxiv.org/abs/2310.01235v1)|null|
 |**2023-10-02**|**Hydrodynamical modelling of tidal dissipation in gas giant planets at the time of space missions**|Hachem Dhouib et.al.|[2310.01031v1](http://arxiv.org/abs/2310.01031v1)|null|
-|**2023-10-02**|**Stability of Abstract Thermoelastic Systems with Cattaneo's Law and Inertial Term**|Chenxi Deng et.al.|[2310.00988v1](http://arxiv.org/abs/2310.00988v1)|null|
+|**2023-10-02**|**Stability of Abstract Thermoelastic Systems with Cattaneo's Law and Inertial Term**|Chenxi Deng et.al.|[2310.00988v2](http://arxiv.org/abs/2310.00988v2)|null|
 |**2023-10-02**|**The regularity of the coupled system between an electrical network with fractional dissipation and a plate equation with fractional inertial rotational**|Santos R. W. S. Bejarano et.al.|[2310.00869v1](http://arxiv.org/abs/2310.00869v1)|null|
 |**2023-10-02**|**Time-averaged Dynamics of Compressible Particles in Oscillatory Gradient Flows**|Xiaokang Zhang et.al.|[2310.00842v1](http://arxiv.org/abs/2310.00842v1)|null|
 |**2023-10-01**|**Exact moments and re-entrant transitions in the inertial dynamics of active Brownian particles**|Manish Patel et.al.|[2310.00802v1](http://arxiv.org/abs/2310.00802v1)|null|
