@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-06**|**Fast Output Energy Regulation in a Medical Proton Linac**|L. Yu. Ovchinnikova et.al.|[2310.04262v1](http://arxiv.org/abs/2310.04262v1)|null|
+|**2023-10-06**|**Making sense of relativistic Wigner friend scenarios**|J. Allam et.al.|[2310.04167v1](http://arxiv.org/abs/2310.04167v1)|null|
+|**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|null|
+|**2023-10-06**|**Doppler-only Single-scan 3D Vehicle Odometry**|Andres Galeote-Luque et.al.|[2310.04113v1](http://arxiv.org/abs/2310.04113v1)|null|
+|**2023-10-05**|**TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment**|Leonardo Novicki Neto et.al.|[2310.03895v1](http://arxiv.org/abs/2310.03895v1)|null|
 |**2023-10-05**|**Otago Exercises Monitoring for Older Adults by a Single IMU and Hierarchical Machine Learning Models**|Meng Shang et.al.|[2310.03512v1](http://arxiv.org/abs/2310.03512v1)|null|
 |**2023-10-05**|**Inertial dynamical transitions drive particle capture and filtration**|Joshua F. Robinson et.al.|[2310.03474v1](http://arxiv.org/abs/2310.03474v1)|null|
 |**2023-10-04**|**Wave Measurements using Open Source Ship Mounted Ultrasonic Altimeter and Motion Correction System during the One Ocean Expedition**|Judith Thu Ølberg et.al.|[2310.03101v1](http://arxiv.org/abs/2310.03101v1)|[link](https://github.com/jerabaul29/oneocean_wave_ultrasonic_sensor_system)|
@@ -27,8 +32,3 @@
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
 |**2023-09-26**|**Low-Power Synchronization for Multi-IMU WSNs**|Jona Cappelle et.al.|[2309.14867v1](http://arxiv.org/abs/2309.14867v1)|null|
-|**2023-09-26**|**Ambient-Aware LiDAR Odometry in Variable Terrains**|Mazeyu Ji et.al.|[2309.14641v1](http://arxiv.org/abs/2309.14641v1)|null|
-|**2023-09-25**|**Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion**|Christopher L. Choi et.al.|[2309.14514v1](http://arxiv.org/abs/2309.14514v1)|[link](https://github.com/chutsu/yac)|
-|**2023-09-25**|**Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**|Yinan Meng et.al.|[2309.14279v1](http://arxiv.org/abs/2309.14279v1)|null|
-|**2023-09-25**|**Effect of surfactant-laden droplets on turbulent flow topology**|Giovanni Soligo et.al.|[2309.14132v1](http://arxiv.org/abs/2309.14132v1)|null|
-|**2023-09-25**|**Magneto-optical trap performance for high-bandwidth applications**|Benjamin Adams et.al.|[2309.14026v1](http://arxiv.org/abs/2309.14026v1)|null|
