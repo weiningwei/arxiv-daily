@@ -2,6 +2,27 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-09**|**The XXL Survey LV. Pressure profile and $Y_{\rm SZ}$-$M$ scaling relation in three low-mass galaxy clusters at $z\sim1$ observed with NIKA2**|R. Adam et.al.|[2310.05819v1](http://arxiv.org/abs/2310.05819v1)|null|
+|**2023-10-09**|**Joint object detection and re-identification for 3D obstacle multi-camera systems**|Irene Cortés et.al.|[2310.05785v1](http://arxiv.org/abs/2310.05785v1)|null|
+|**2023-10-09**|**3D tomatoes' localisation with monocular cameras using histogram filters**|Sandro Costa Magalhães et.al.|[2310.05762v1](http://arxiv.org/abs/2310.05762v1)|null|
+|**2023-10-09**|**STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines**|Yuxuan Kuang et.al.|[2310.05717v1](http://arxiv.org/abs/2310.05717v1)|null|
+|**2023-10-09**|**A MKID-readout based on a heterogeneous, closely coupled architecture**|Gerrit Grutzeck et.al.|[2310.05544v1](http://arxiv.org/abs/2310.05544v1)|null|
+|**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|null|
+|**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407v1](http://arxiv.org/abs/2310.05407v1)|null|
+|**2023-10-09**|**Rotation Matters: Generalized Monocular 3D Object Detection for Various Camera Systems**|SungHo Moon et.al.|[2310.05366v1](http://arxiv.org/abs/2310.05366v1)|null|
+|**2023-10-08**|**MSight: An Edge-Cloud Infrastructure-based Perception System for Connected Automated Vehicles**|Rusheng Zhang et.al.|[2310.05290v1](http://arxiv.org/abs/2310.05290v1)|null|
+|**2023-10-08**|**Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving**|Ye Li et.al.|[2310.05245v1](http://arxiv.org/abs/2310.05245v1)|null|
+|**2023-10-08**|**An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception**|Murad Mehrab Abrar et.al.|[2310.05041v1](http://arxiv.org/abs/2310.05041v1)|null|
+|**2023-10-08**|**Detecting Abnormal Health Conditions in Smart Home Using a Drone**|Pronob Kumar Barman et.al.|[2310.05012v1](http://arxiv.org/abs/2310.05012v1)|null|
+|**2023-10-08**|**Prompt-augmented Temporal Point Process for Streaming Event Sequence**|Siqiao Xue et.al.|[2310.04993v1](http://arxiv.org/abs/2310.04993v1)|null|
+|**2023-10-08**|**Direct Observations of X-Rays Produced by Upward Positive Lightning**|Toma Oregel-Chaumont et.al.|[2310.04958v1](http://arxiv.org/abs/2310.04958v1)|null|
+|**2023-10-07**|**$H$-RANSAC, an algorithmic variant for Homography image transform from featureless point sets: application to video-based football analytics**|George Nousias et.al.|[2310.04912v1](http://arxiv.org/abs/2310.04912v1)|null|
+|**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837v1](http://arxiv.org/abs/2310.04837v1)|null|
+|**2023-10-07**|**Extract-Transform-Load for Video Streams**|Ferdinand Kossmann et.al.|[2310.04830v1](http://arxiv.org/abs/2310.04830v1)|null|
+|**2023-10-07**|**Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories**|Alessandro Saviolo et.al.|[2310.04781v1](http://arxiv.org/abs/2310.04781v1)|null|
+|**2023-10-07**|**Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery**|Qi Li et.al.|[2310.04721v1](http://arxiv.org/abs/2310.04721v1)|null|
+|**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712v1](http://arxiv.org/abs/2310.04712v1)|null|
+|**2023-10-06**|**The NIKA2 Sunyaev-Zeldovich Large Program: Sample and upcoming product public release**|L. Perotto et.al.|[2310.04553v1](http://arxiv.org/abs/2310.04553v1)|null|
 |**2023-10-06**|**Exploring the interstellar medium of NGC 891 at millimeter wavelengths using the NIKA2 camera**|S. Katsioli et.al.|[2310.04204v1](http://arxiv.org/abs/2310.04204v1)|null|
 |**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122v1](http://arxiv.org/abs/2310.04122v1)|null|
 |**2023-10-06**|**Imaging Atmospheric Cherenkov Telescopes pointing determination using the trajectories of the stars in the field of view**|Mykhailo Dalchenko et.al.|[2310.04101v1](http://arxiv.org/abs/2310.04101v1)|null|
@@ -11,24 +32,3 @@
 |**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953v1](http://arxiv.org/abs/2310.03953v1)|null|
 |**2023-10-06**|**ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis**|Jiali Zheng et.al.|[2310.03952v1](http://arxiv.org/abs/2310.03952v1)|null|
 |**2023-10-05**|**TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment**|Leonardo Novicki Neto et.al.|[2310.03895v1](http://arxiv.org/abs/2310.03895v1)|null|
-|**2023-10-05**|**Euclid: Identification of asteroid streaks in simulated images using deep learning**|M. Pöntinen et.al.|[2310.03845v1](http://arxiv.org/abs/2310.03845v1)|null|
-|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704v1](http://arxiv.org/abs/2310.03704v1)|null|
-|**2023-10-05**|**Multispectral Imaging with Fresnel Lens**|Khen Cohen et.al.|[2310.03625v1](http://arxiv.org/abs/2310.03625v1)|null|
-|**2023-10-05**|**High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning**|Lennart Schulze et.al.|[2310.03624v1](http://arxiv.org/abs/2310.03624v1)|null|
-|**2023-10-05**|**Impact of Artificial Intelligence on Electrical and Electronics Engineering Productivity in the Construction Industry**|Nwosu Obinnaya Chikezie Victor et.al.|[2310.03591v1](http://arxiv.org/abs/2310.03591v1)|null|
-|**2023-10-05**|**Vocal Fold Reconstruction from Optical Velocity and Displacement Measurements**|Daniel Zieger et.al.|[2310.03514v1](http://arxiv.org/abs/2310.03514v1)|null|
-|**2023-10-05**|**RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation**|Boshi An et.al.|[2310.03478v1](http://arxiv.org/abs/2310.03478v1)|null|
-|**2023-10-05**|**Cyber Physical System Information Collection: Robot Location and Navigation Method Based on QR Code**|Hongwei Li et.al.|[2310.03470v1](http://arxiv.org/abs/2310.03470v1)|null|
-|**2023-10-05**|**Constraining Millimeter Dust Emission in Nearby Galaxies with NIKA2: the case of NGC2146 and NGC2976**|G. Ejlali et.al.|[2310.03428v1](http://arxiv.org/abs/2310.03428v1)|null|
-|**2023-10-05**|**Real-time Multi-modal Object Detection and Tracking on Edge for Regulatory Compliance Monitoring**|Jia Syuen Lim et.al.|[2310.03333v1](http://arxiv.org/abs/2310.03333v1)|null|
-|**2023-10-04**|**ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements**|Bryan Bo Cao et.al.|[2310.03140v1](http://arxiv.org/abs/2310.03140v1)|[link](https://github.com/bryanbocao/vifit)|
-|**2023-10-04**|**Adaptive Landmark Color for AUV Docking in Visually Dynamic Environments**|Corey Knutson et.al.|[2310.02944v1](http://arxiv.org/abs/2310.02944v1)|null|
-|**2023-10-04**|**Realistic Neutral Atom Image Simulation**|Jonas Winklmann et.al.|[2310.02836v1](http://arxiv.org/abs/2310.02836v1)|null|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|null|
-|**2023-10-04**|**LROC-PANGU-GAN: Closing the Simulation Gap in Learning Crater Segmentation with Planetary Simulators**|Jaewon La et.al.|[2310.02781v1](http://arxiv.org/abs/2310.02781v1)|null|
-|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
-|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|[link](https://github.com/peterande/get-group-event-transformer)|
-|**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
-|**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2310.02532v1](http://arxiv.org/abs/2310.02532v1)|null|
-|**2023-10-04**|**Predicting the Splash of a Drop Impacting a Thin Liquid Film**|Sucharitha Rajendran et.al.|[2310.02526v1](http://arxiv.org/abs/2310.02526v1)|null|
-|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|[link](https://github.com/anish-bhattacharya/evdnerf)|
