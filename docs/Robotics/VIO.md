@@ -23,7 +23,7 @@
 |**2023-10-01**|**Exact moments and re-entrant transitions in the inertial dynamics of active Brownian particles**|Manish Patel et.al.|[2310.00802v1](http://arxiv.org/abs/2310.00802v1)|null|
 |**2023-09-29**|**Turbulent dynamo action and its effects on the mixing at the convective boundary of an idealized oxygen-burning shell**|G. Leidi et.al.|[2309.17225v1](http://arxiv.org/abs/2309.17225v1)|null|
 |**2023-09-29**|**A 5-Point Minimal Solver for Event Camera Relative Motion Estimation**|Ling Gao et.al.|[2309.17054v1](http://arxiv.org/abs/2309.17054v1)|null|
-|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v2](http://arxiv.org/abs/2309.16772v2)|null|
+|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v3](http://arxiv.org/abs/2309.16772v3)|null|
 |**2023-09-28**|**Physics-Preserving AI-Accelerated Simulations of Plasma Turbulence**|Robin Greif et.al.|[2309.16400v1](http://arxiv.org/abs/2309.16400v1)|null|
 |**2023-09-27**|**In search of gravity mode signatures in main sequence solar-type stars observed by Kepler**|Sylvain N. Breton et.al.|[2309.15691v1](http://arxiv.org/abs/2309.15691v1)|null|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
