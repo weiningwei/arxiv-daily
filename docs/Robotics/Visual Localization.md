@@ -26,7 +26,7 @@
 |**2023-10-06**|**Exploring the interstellar medium of NGC 891 at millimeter wavelengths using the NIKA2 camera**|S. Katsioli et.al.|[2310.04204v1](http://arxiv.org/abs/2310.04204v1)|null|
 |**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122v1](http://arxiv.org/abs/2310.04122v1)|null|
 |**2023-10-06**|**Imaging Atmospheric Cherenkov Telescopes pointing determination using the trajectories of the stars in the field of view**|Mykhailo Dalchenko et.al.|[2310.04101v1](http://arxiv.org/abs/2310.04101v1)|null|
-|**2023-10-06**|**End-to-End Chess Recognition**|Athanasios Masouris et.al.|[2310.04086v1](http://arxiv.org/abs/2310.04086v1)|null|
+|**2023-10-06**|**End-to-End Chess Recognition**|Athanasios Masouris et.al.|[2310.04086v2](http://arxiv.org/abs/2310.04086v2)|null|
 |**2023-10-06**|**In the Blink of an Eye: Event-based Emotion Recognition**|Haiwei Zhang et.al.|[2310.04043v1](http://arxiv.org/abs/2310.04043v1)|[link](https://github.com/zhanghaiwei1234/single-eye-emotion-recognition)|
 |**2023-10-06**|**Towards Increasing the Robustness of Predictive Steering-Control Autonomous Navigation Systems Against Dash Cam Image Angle Perturbations Due to Pothole Encounters**|Shivam Aarya et.al.|[2310.03959v1](http://arxiv.org/abs/2310.03959v1)|null|
 |**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953v1](http://arxiv.org/abs/2310.03953v1)|null|
