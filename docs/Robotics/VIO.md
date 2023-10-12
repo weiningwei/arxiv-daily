@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
+|**2023-10-10**|**Discovering the Unknowns: A First Step**|V. Roshan Joseph et.al.|[2310.07016v1](http://arxiv.org/abs/2310.07016v1)|null|
 |**2023-10-10**|**Energy spectra and fluxes of turbulent rotating Bose-Einstein condensates in two dimension**|Anirudh Sivakumar et.al.|[2310.06741v1](http://arxiv.org/abs/2310.06741v1)|null|
 |**2023-10-10**|**A numerical investigation of quasi-static magnetoconvection with an imposed horizontal magnetic field**|Michael A. Calkins et.al.|[2310.06683v1](http://arxiv.org/abs/2310.06683v1)|null|
 |**2023-10-10**|**The role of magnetic waves in tangent cylinder convection**|Debarshi Majumder et.al.|[2310.06487v1](http://arxiv.org/abs/2310.06487v1)|null|
@@ -30,5 +32,3 @@
 |**2023-10-05**|**Extended Kalman Filter State Estimation for Autonomous Competition Robots**|Ethan Kou et.al.|[2310.04459v1](http://arxiv.org/abs/2310.04459v1)|null|
 |**2023-10-04**|**Wave Measurements using Open Source Ship Mounted Ultrasonic Altimeter and Motion Correction System during the One Ocean Expedition**|Judith Thu Ølberg et.al.|[2310.03101v1](http://arxiv.org/abs/2310.03101v1)|[link](https://github.com/jerabaul29/oneocean_wave_ultrasonic_sensor_system)|
 |**2023-10-04**|**Do nonlinear effects disrupt tidal dissipation predictions in convective envelopes?**|Aurélie Astoul et.al.|[2310.05980v1](http://arxiv.org/abs/2310.05980v1)|null|
-|**2023-10-04**|**Predicting the Splash of a Drop Impacting a Thin Liquid Film**|Sucharitha Rajendran et.al.|[2310.02526v1](http://arxiv.org/abs/2310.02526v1)|null|
-|**2023-10-03**|**Estimating viscoelastic, soft material properties using a modified Rayleigh cavitation bubble collapse time**|Jin Yang et.al.|[2310.02475v1](http://arxiv.org/abs/2310.02475v1)|null|
