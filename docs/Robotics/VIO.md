@@ -8,7 +8,7 @@
 |**2023-10-10**|**A numerical investigation of quasi-static magnetoconvection with an imposed horizontal magnetic field**|Michael A. Calkins et.al.|[2310.06683v1](http://arxiv.org/abs/2310.06683v1)|null|
 |**2023-10-10**|**The role of magnetic waves in tangent cylinder convection**|Debarshi Majumder et.al.|[2310.06487v1](http://arxiv.org/abs/2310.06487v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
-|**2023-10-09**|**A Natural Indirect Adaptive Controller for a Satellite-Mounted Manipulator**|Jacopo Giordano et.al.|[2310.06193v1](http://arxiv.org/abs/2310.06193v1)|null|
+|**2023-10-09**|**A Natural Indirect Adaptive Controller for a Satellite-Mounted Manipulator**|Jacopo Giordano et.al.|[2310.06193v2](http://arxiv.org/abs/2310.06193v2)|null|
 |**2023-10-09**|**Towards Agility: A Momentum Aware Trajectory Optimisation Framework using Full-Centroidal Dynamics & Implicit Inverse Kinematics**|Aristotelis Papatheodorou et.al.|[2310.06074v1](http://arxiv.org/abs/2310.06074v1)|null|
 |**2023-10-09**|**Data-Driven Modeling and Forecasting of Chaotic Dynamics on Inertial Manifolds Constructed as Spectral Submanifolds**|Aihui Liu et.al.|[2310.06067v1](http://arxiv.org/abs/2310.06067v1)|null|
 |**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
@@ -18,8 +18,8 @@
 |**2023-10-09**|**Elastic turbulence in planar channel flows -- Turbulence with no drag and enhanced mixing**|Giulio Foggi Rota et.al.|[2310.05340v1](http://arxiv.org/abs/2310.05340v1)|null|
 |**2023-10-08**|**Indoor Localization for an Autonomous Model Car: A Marker-Based Multi-Sensor Fusion Framework**|Xibo Li et.al.|[2310.05198v1](http://arxiv.org/abs/2310.05198v1)|null|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
-|**2023-10-07**|**A Closed-form Solution for the Strapdown Inertial Navigation Initial Value Problem**|James Goppert et.al.|[2310.04886v1](http://arxiv.org/abs/2310.04886v1)|null|
-|**2023-10-07**|**AirIMU: Learning Uncertainty Propagation for Inertial Odometry**|Yuheng Qiu et.al.|[2310.04874v2](http://arxiv.org/abs/2310.04874v2)|null|
+|**2023-10-07**|**A Closed-form Solution for the Strapdown Inertial Navigation Initial Value Problem**|James Goppert et.al.|[2310.04886v1](http://arxiv.org/abs/2310.04886v1)|[link](https://github.com/cognipilot/cyecca)|
+|**2023-10-07**|**AirIMU: Learning Uncertainty Propagation for Inertial Odometry**|Yuheng Qiu et.al.|[2310.04874v3](http://arxiv.org/abs/2310.04874v3)|null|
 |**2023-10-07**|**Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories**|Alessandro Saviolo et.al.|[2310.04781v1](http://arxiv.org/abs/2310.04781v1)|null|
 |**2023-10-06**|**Tidal migration of exoplanets around M-dwarfs: frequency-dependent tidal dissipation**|Samantha C. Wu et.al.|[2310.04588v1](http://arxiv.org/abs/2310.04588v1)|null|
 |**2023-10-06**|**Fast Output Energy Regulation in a Medical Proton Linac**|L. Yu. Ovchinnikova et.al.|[2310.04262v1](http://arxiv.org/abs/2310.04262v1)|null|
@@ -29,6 +29,6 @@
 |**2023-10-05**|**TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment**|Leonardo Novicki Neto et.al.|[2310.03895v1](http://arxiv.org/abs/2310.03895v1)|null|
 |**2023-10-05**|**Otago Exercises Monitoring for Older Adults by a Single IMU and Hierarchical Machine Learning Models**|Meng Shang et.al.|[2310.03512v1](http://arxiv.org/abs/2310.03512v1)|null|
 |**2023-10-05**|**Inertial dynamical transitions drive particle capture and filtration**|Joshua F. Robinson et.al.|[2310.03474v1](http://arxiv.org/abs/2310.03474v1)|null|
-|**2023-10-05**|**Extended Kalman Filter State Estimation for Autonomous Competition Robots**|Ethan Kou et.al.|[2310.04459v1](http://arxiv.org/abs/2310.04459v1)|null|
+|**2023-10-05**|**Extended Kalman Filter State Estimation for Autonomous Competition Robots**|Ethan Kou et.al.|[2310.04459v1](http://arxiv.org/abs/2310.04459v1)|[link](https://github.com/bubblybingbong/ekf)|
 |**2023-10-04**|**Wave Measurements using Open Source Ship Mounted Ultrasonic Altimeter and Motion Correction System during the One Ocean Expedition**|Judith Thu Ølberg et.al.|[2310.03101v1](http://arxiv.org/abs/2310.03101v1)|[link](https://github.com/jerabaul29/oneocean_wave_ultrasonic_sensor_system)|
 |**2023-10-04**|**Do nonlinear effects disrupt tidal dissipation predictions in convective envelopes?**|Aurélie Astoul et.al.|[2310.05980v1](http://arxiv.org/abs/2310.05980v1)|null|
