@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
+|**2023-10-11**|**Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions**|Simon-Pierre Deschênes et.al.|[2310.07844v1](http://arxiv.org/abs/2310.07844v1)|null|
 |**2023-10-10**|**Efficient Graduated Non-Convexity for Pose Graph Optimization**|Wonseok Kang et.al.|[2310.06765v1](http://arxiv.org/abs/2310.06765v1)|[link](https://github.com/SNU-DLLAB/EGNC-PGO)|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
 |**2023-10-09**|**Entropy Based Multi-robot Active SLAM**|Muhammad Farhan Ahmed et.al.|[2310.06160v1](http://arxiv.org/abs/2310.06160v1)|null|
@@ -30,5 +32,3 @@
 |**2023-09-24**|**Motion Segmentation from a Moving Monocular Camera**|Yuxiang Huang et.al.|[2309.13772v1](http://arxiv.org/abs/2309.13772v1)|null|
 |**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
 |**2023-09-21**|**RTS-GT: Robotic Total Stations Ground Truthing dataset**|Maxime Vaidis et.al.|[2309.11935v1](http://arxiv.org/abs/2309.11935v1)|null|
-|**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|[link](https://github.com/luigifreda/plvs)|
-|**2023-09-19**|**Measurement Simplification in ρ-POMDP with Performance Guarantees**|Tom Yotam et.al.|[2309.10701v1](http://arxiv.org/abs/2309.10701v1)|null|
