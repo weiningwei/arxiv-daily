@@ -2,12 +2,6 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-12**|**Two regimes of dilute turbulent settling suspensions under shear**|Jake Langham et.al.|[2310.08508v1](http://arxiv.org/abs/2310.08508v1)|null|
-|**2023-10-12**|**Willis elasticity from microcontinuum field theories: Asymptotics, microstructure-property relationships, and cloaking**|Hussein Nassar et.al.|[2310.08463v1](http://arxiv.org/abs/2310.08463v1)|null|
-|**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435v1](http://arxiv.org/abs/2310.08435v1)|null|
-|**2023-10-12**|**Acceleration and focusing of multispecies ion beam using a converging laser-driven shock**|Jihoon Kim et.al.|[2310.08432v1](http://arxiv.org/abs/2310.08432v1)|null|
-|**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
-|**2023-10-12**|**Turbulent properties of stationary flows in porous media**|Florencia Falkinhoff et.al.|[2310.08075v1](http://arxiv.org/abs/2310.08075v1)|null|
 |**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
 |**2023-10-10**|**Discovering the Unknowns: A First Step**|V. Roshan Joseph et.al.|[2310.07016v1](http://arxiv.org/abs/2310.07016v1)|null|
 |**2023-10-10**|**Energy spectra and fluxes of turbulent rotating Bose-Einstein condensates in two dimension**|Anirudh Sivakumar et.al.|[2310.06741v1](http://arxiv.org/abs/2310.06741v1)|null|
@@ -32,3 +26,9 @@
 |**2023-10-06**|**Making sense of relativistic Wigner friend scenarios**|J. Allam et.al.|[2310.04167v1](http://arxiv.org/abs/2310.04167v1)|null|
 |**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|[link](https://github.com/brenyi/light-loam)|
 |**2023-10-06**|**Doppler-only Single-scan 3D Vehicle Odometry**|Andres Galeote-Luque et.al.|[2310.04113v1](http://arxiv.org/abs/2310.04113v1)|[link](https://github.com/andresgalu/doppler_odometry)|
+|**2023-10-05**|**TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment**|Leonardo Novicki Neto et.al.|[2310.03895v1](http://arxiv.org/abs/2310.03895v1)|null|
+|**2023-10-05**|**Otago Exercises Monitoring for Older Adults by a Single IMU and Hierarchical Machine Learning Models**|Meng Shang et.al.|[2310.03512v1](http://arxiv.org/abs/2310.03512v1)|null|
+|**2023-10-05**|**Inertial dynamical transitions drive particle capture and filtration**|Joshua F. Robinson et.al.|[2310.03474v1](http://arxiv.org/abs/2310.03474v1)|null|
+|**2023-10-05**|**Extended Kalman Filter State Estimation for Autonomous Competition Robots**|Ethan Kou et.al.|[2310.04459v1](http://arxiv.org/abs/2310.04459v1)|[link](https://github.com/bubblybingbong/ekf)|
+|**2023-10-04**|**Wave Measurements using Open Source Ship Mounted Ultrasonic Altimeter and Motion Correction System during the One Ocean Expedition**|Judith Thu Ølberg et.al.|[2310.03101v1](http://arxiv.org/abs/2310.03101v1)|[link](https://github.com/jerabaul29/oneocean_wave_ultrasonic_sensor_system)|
+|**2023-10-04**|**Do nonlinear effects disrupt tidal dissipation predictions in convective envelopes?**|Aurélie Astoul et.al.|[2310.05980v1](http://arxiv.org/abs/2310.05980v1)|null|
