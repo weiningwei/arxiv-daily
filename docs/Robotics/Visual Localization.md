@@ -2,22 +2,6 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v1](http://arxiv.org/abs/2310.08577v1)|[link](https://github.com/bethgelab/DataTypeIdentification)|
-|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465v1](http://arxiv.org/abs/2310.08465v1)|null|
-|**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398v1](http://arxiv.org/abs/2310.08398v1)|null|
-|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370v1](http://arxiv.org/abs/2310.08370v1)|[link](https://github.com/Nightmare-n/UniPAD)|
-|**2023-10-12**|**Extended target tracking utilizing machine-learning software -- with applications to animal classification**|Magnus Malmström et.al.|[2310.08316v1](http://arxiv.org/abs/2310.08316v1)|null|
-|**2023-10-12**|**Fusion framework and multimodality for the Laplacian approximation of Bayesian neural networks**|Magnus Malmström et.al.|[2310.08315v1](http://arxiv.org/abs/2310.08315v1)|null|
-|**2023-10-12**|**MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition**|Shuhui Wu et.al.|[2310.08298v1](http://arxiv.org/abs/2310.08298v1)|[link](https://github.com/XiPotatonium/mproto)|
-|**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2310.08261v1](http://arxiv.org/abs/2310.08261v1)|null|
-|**2023-10-12**|**Attosecond Ionization Delays in Strong-Field Physics**|Yongzhe Ma et.al.|[2310.08250v1](http://arxiv.org/abs/2310.08250v1)|null|
-|**2023-10-12**|**NGSs acquisition in MORFEO**|Guido Agapito et.al.|[2310.08181v1](http://arxiv.org/abs/2310.08181v1)|null|
-|**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
-|**2023-10-12**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006v1](http://arxiv.org/abs/2310.08006v1)|null|
-|**2023-10-12**|**MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging**|Zeyu Cai et.al.|[2310.08002v1](http://arxiv.org/abs/2310.08002v1)|null|
-|**2023-10-12**|**Towards Causal Deep Learning for Vulnerability Detection**|Md Mahbubur Rahman et.al.|[2310.07958v1](http://arxiv.org/abs/2310.07958v1)|null|
-|**2023-10-11**|**A Survey of Feature Types and Their Contributions for Camera Tampering Detection**|Pranav Mantini et.al.|[2310.07886v1](http://arxiv.org/abs/2310.07886v1)|null|
-|**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771v1](http://arxiv.org/abs/2310.07771v1)|null|
 |**2023-10-11**|**Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Angular Clustering of Radio Sources**|C. L. Hale et.al.|[2310.07627v1](http://arxiv.org/abs/2310.07627v1)|null|
 |**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602v1](http://arxiv.org/abs/2310.07602v1)|[link](https://github.com/adept-thu/dual-radar)|
 |**2023-10-11**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522v2](http://arxiv.org/abs/2310.07522v2)|null|
@@ -32,3 +16,19 @@
 |**2023-10-10**|**Timing performances of NectarCAM, a Medium Sized Telescope Camera for the Cherenkov Telescope Array**|H. Rueda et.al.|[2310.06910v1](http://arxiv.org/abs/2310.06910v1)|null|
 |**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751v1](http://arxiv.org/abs/2310.06751v1)|null|
 |**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
+|**2023-10-10**|**A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection**|Shiping Yang et.al.|[2310.06498v1](http://arxiv.org/abs/2310.06498v1)|null|
+|**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
+|**2023-10-10**|**GPI 2.0: Performance Evaluation of the Wavefront Sensor's EMCCD**|Clarissa R. Do Ó et.al.|[2310.06276v1](http://arxiv.org/abs/2310.06276v1)|null|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
+|**2023-10-10**|**Compression Ratio Learning and Semantic Communications for Video Imaging**|Bowen Zhang et.al.|[2310.06246v1](http://arxiv.org/abs/2310.06246v1)|null|
+|**2023-10-09**|**Layout Sequence Prediction From Noisy Mobile Modality**|Haichao Zhang et.al.|[2310.06138v1](http://arxiv.org/abs/2310.06138v1)|null|
+|**2023-10-09**|**QR-Tag: Angular Measurement and Tracking with a QR-Design Marker**|Simeng Qiu et.al.|[2310.06109v1](http://arxiv.org/abs/2310.06109v1)|null|
+|**2023-10-09**|**DyST: Towards Dynamic Neural Scene Representations on Real-World Videos**|Maximilian Seitzer et.al.|[2310.06020v1](http://arxiv.org/abs/2310.06020v1)|null|
+|**2023-10-09**|**CoBEVFusion: Cooperative Perception with LiDAR-Camera Bird's-Eye View Fusion**|Donghao Qiao et.al.|[2310.06008v1](http://arxiv.org/abs/2310.06008v1)|null|
+|**2023-10-09**|**The XXL Survey LV. Pressure profile and $Y_{\rm SZ}$-$M$ scaling relation in three low-mass galaxy clusters at $z\sim1$ observed with NIKA2**|R. Adam et.al.|[2310.05819v1](http://arxiv.org/abs/2310.05819v1)|null|
+|**2023-10-09**|**Joint object detection and re-identification for 3D obstacle multi-camera systems**|Irene Cortés et.al.|[2310.05785v1](http://arxiv.org/abs/2310.05785v1)|null|
+|**2023-10-09**|**3D tomatoes' localisation with monocular cameras using histogram filters**|Sandro Costa Magalhães et.al.|[2310.05762v1](http://arxiv.org/abs/2310.05762v1)|null|
+|**2023-10-09**|**STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines**|Yuxuan Kuang et.al.|[2310.05717v1](http://arxiv.org/abs/2310.05717v1)|null|
+|**2023-10-09**|**A MKID-readout based on a heterogeneous, closely coupled architecture**|Gerrit Grutzeck et.al.|[2310.05544v1](http://arxiv.org/abs/2310.05544v1)|null|
+|**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|[link](https://github.com/xiaobaiiiiii/colmap-pcd)|
+|**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407v1](http://arxiv.org/abs/2310.05407v1)|null|
