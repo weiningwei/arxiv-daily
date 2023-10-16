@@ -15,7 +15,7 @@
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
 |**2023-10-12**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006v1](http://arxiv.org/abs/2310.08006v1)|null|
 |**2023-10-12**|**MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging**|Zeyu Cai et.al.|[2310.08002v1](http://arxiv.org/abs/2310.08002v1)|[link](https://github.com/caizeyu1992/MLP-AMDC)|
-|**2023-10-12**|**Towards Causal Deep Learning for Vulnerability Detection**|Md Mahbubur Rahman et.al.|[2310.07958v1](http://arxiv.org/abs/2310.07958v1)|null|
+|**2023-10-12**|**Towards Causal Deep Learning for Vulnerability Detection**|Md Mahbubur Rahman et.al.|[2310.07958v2](http://arxiv.org/abs/2310.07958v2)|null|
 |**2023-10-11**|**A Survey of Feature Types and Their Contributions for Camera Tampering Detection**|Pranav Mantini et.al.|[2310.07886v1](http://arxiv.org/abs/2310.07886v1)|null|
 |**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771v1](http://arxiv.org/abs/2310.07771v1)|null|
 |**2023-10-11**|**Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Angular Clustering of Radio Sources**|C. L. Hale et.al.|[2310.07627v1](http://arxiv.org/abs/2310.07627v1)|null|
