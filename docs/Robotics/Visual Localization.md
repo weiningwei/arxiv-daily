@@ -7,10 +7,10 @@
 |**2023-10-17**|**Quasi-2D Weak Lensing Cosmological Constraints Using the PDF-SYM method**|Zhenjie Liu et.al.|[2310.11209v1](http://arxiv.org/abs/2310.11209v1)|null|
 |**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
 |**2023-10-17**|**Generalizability of CNN Architectures for Face Morph Presentation Attack**|Sherko R. HmaSalah et.al.|[2310.11105v1](http://arxiv.org/abs/2310.11105v1)|null|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|null|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
 |**2023-10-16**|**Integrated coronagraphy and wavefront sensing with the PIAACMC**|Sebastiaan Y. Haffert et.al.|[2310.10892v1](http://arxiv.org/abs/2310.10892v1)|null|
 |**2023-10-16**|**Greedy Perspectives: Multi-Drone View Planning for Collaborative Coverage in Cluttered Environments**|Krishna Suresh et.al.|[2310.10863v1](http://arxiv.org/abs/2310.10863v1)|null|
-|**2023-10-16**|**Generation of realistic input parameters for simulating atmospheric point-spread functions at astronomical observatories**|Claire-Alice Hébert et.al.|[2310.10855v1](http://arxiv.org/abs/2310.10855v1)|null|
+|**2023-10-16**|**Generation of realistic input parameters for simulating atmospheric point-spread functions at astronomical observatories**|Claire-Alice Hébert et.al.|[2310.10855v1](http://arxiv.org/abs/2310.10855v1)|[link](https://github.com/lsstdesc/psf-weather-station)|
 |**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
 |**2023-10-16**|**Towards Scenario-based Safety Validation for Autonomous Trains with Deep Generative Models**|Thomas Decker et.al.|[2310.10635v1](http://arxiv.org/abs/2310.10635v1)|null|
 |**2023-10-16**|**Video Language Planning**|Yilun Du et.al.|[2310.10625v1](http://arxiv.org/abs/2310.10625v1)|null|
@@ -28,7 +28,7 @@
 |**2023-10-14**|**Time-based Mapping of Space Using Visual Motion Invariants**|Juan D. Yepes et.al.|[2310.09632v1](http://arxiv.org/abs/2310.09632v1)|null|
 |**2023-10-14**|**Real-Time Traffic Sign Detection: A Case Study in a Santa Clara Suburban Neighborhood**|Harish Loghashankar et.al.|[2310.09630v1](http://arxiv.org/abs/2310.09630v1)|null|
 |**2023-10-14**|**Detecting Moving Objects Using a Novel Optical-Flow-Based Range-Independent Invariant**|Daniel Raviv et.al.|[2310.09627v1](http://arxiv.org/abs/2310.09627v1)|null|
-|**2023-10-14**|**An Expression Tree Decoding Strategy for Mathematical Equation Generation**|Wenqi Zhang et.al.|[2310.09619v2](http://arxiv.org/abs/2310.09619v2)|null|
+|**2023-10-14**|**An Expression Tree Decoding Strategy for Mathematical Equation Generation**|Wenqi Zhang et.al.|[2310.09619v3](http://arxiv.org/abs/2310.09619v3)|null|
 |**2023-10-14**|**DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit**|Jivnesh Sandhan et.al.|[2310.09501v1](http://arxiv.org/abs/2310.09501v1)|[link](https://github.com/yaswanth-iitkgp/depnecti)|
 |**2023-10-13**|**Direct Observation of Sub-Poissonian Temporal Statistics in a Continuous Free Electron Beam with Sub-picosecond Resolution**|S. Borrelli et.al.|[2310.09248v1](http://arxiv.org/abs/2310.09248v1)|null|
 |**2023-10-13**|**mnmDTW: An extension to Dynamic Time Warping for Camera-based Movement Error Localization**|Sebastian Dill et.al.|[2310.09170v1](http://arxiv.org/abs/2310.09170v1)|null|

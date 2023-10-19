@@ -2,12 +2,12 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|null|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
 |**2023-10-16**|**The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**|Paul Ruvolo et.al.|[2310.10862v1](http://arxiv.org/abs/2310.10862v1)|null|
 |**2023-10-16**|**Neuromorphic Place Cells**|Zhaoqi Chen et.al.|[2310.10790v1](http://arxiv.org/abs/2310.10790v1)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
-|**2023-10-11**|**Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions**|Simon-Pierre Deschênes et.al.|[2310.07844v1](http://arxiv.org/abs/2310.07844v1)|null|
+|**2023-10-11**|**Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions**|Simon-Pierre Deschênes et.al.|[2310.07844v1](http://arxiv.org/abs/2310.07844v1)|[link](https://github.com/norlab-ulaval/norlab_wiki)|
 |**2023-10-10**|**Efficient Graduated Non-Convexity for Pose Graph Optimization**|Wonseok Kang et.al.|[2310.06765v1](http://arxiv.org/abs/2310.06765v1)|[link](https://github.com/SNU-DLLAB/EGNC-PGO)|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
 |**2023-10-09**|**Entropy Based Multi-robot Active SLAM**|Muhammad Farhan Ahmed et.al.|[2310.06160v1](http://arxiv.org/abs/2310.06160v1)|null|

@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|null|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
 |**2023-10-16**|**Basal force fluctuations and granular rheology: Linking macroscopic descriptions of granular flows to bed forces with implications for monitoring signals**|P. J. Zrelak et.al.|[2310.10871v1](http://arxiv.org/abs/2310.10871v1)|null|
 |**2023-10-16**|**The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**|Paul Ruvolo et.al.|[2310.10862v1](http://arxiv.org/abs/2310.10862v1)|null|
 |**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597v1](http://arxiv.org/abs/2310.10597v1)|null|
