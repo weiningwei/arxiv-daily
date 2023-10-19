@@ -23,7 +23,7 @@
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
 |**2023-09-26**|**Ambient-Aware LiDAR Odometry in Variable Terrains**|Mazeyu Ji et.al.|[2309.14641v1](http://arxiv.org/abs/2309.14641v1)|null|
 |**2023-09-25**|**Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion**|Christopher L. Choi et.al.|[2309.14514v1](http://arxiv.org/abs/2309.14514v1)|[link](https://github.com/chutsu/yac)|
-|**2023-09-25**|**Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory**|Xin Zheng et.al.|[2309.13842v1](http://arxiv.org/abs/2309.13842v1)|null|
+|**2023-09-25**|**Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory**|Xin Zheng et.al.|[2309.13842v1](http://arxiv.org/abs/2309.13842v1)|[link](https://github.com/kevin2431/traj-lo)|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
 |**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|[link](https://github.com/norlab-ulaval/borealhdr)|
 |**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|

@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142v1](http://arxiv.org/abs/2310.12142v1)|null|
+|**2023-10-18**|**Elasto-Inertial Instability in Torsional Flows of Shear-Thinning Viscoelastic Fluids**|Rishabh V. More et.al.|[2310.12050v1](http://arxiv.org/abs/2310.12050v1)|null|
 |**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
 |**2023-10-16**|**Basal force fluctuations and granular rheology: Linking macroscopic descriptions of granular flows to bed forces with implications for monitoring signals**|P. J. Zrelak et.al.|[2310.10871v1](http://arxiv.org/abs/2310.10871v1)|null|
@@ -30,5 +32,3 @@
 |**2023-10-09**|**Data-Driven Modeling and Forecasting of Chaotic Dynamics on Inertial Manifolds Constructed as Spectral Submanifolds**|Aihui Liu et.al.|[2310.06067v1](http://arxiv.org/abs/2310.06067v1)|null|
 |**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
 |**2023-10-09**|**Bath-induced spin inertia**|Mario Gaspar Quarenta et.al.|[2310.05621v1](http://arxiv.org/abs/2310.05621v1)|null|
-|**2023-10-09**|**Dynamic wetting experiment with nitrogen in a quasi-capillary tube**|Domenico Fiorini et.al.|[2310.05490v1](http://arxiv.org/abs/2310.05490v1)|null|
-|**2023-10-09**|**Elastic turbulence in planar channel flows -- Turbulence with no drag and enhanced mixing**|Giulio Foggi Rota et.al.|[2310.05340v1](http://arxiv.org/abs/2310.05340v1)|null|
