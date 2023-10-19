@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2023-10-19 20:12:27 Asia/Shanghai
+ Automated deployment @ 2023-10-19 20:42:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142v1](http://arxiv.org/abs/2310.12142v1)|null|
-|**2023-10-18**|**Elasto-Inertial Instability in Torsional Flows of Shear-Thinning Viscoelastic Fluids**|Rishabh V. More et.al.|[2310.12050v1](http://arxiv.org/abs/2310.12050v1)|null|
-|**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
-|**2023-10-16**|**Basal force fluctuations and granular rheology: Linking macroscopic descriptions of granular flows to bed forces with implications for monitoring signals**|P. J. Zrelak et.al.|[2310.10871v1](http://arxiv.org/abs/2310.10871v1)|null|
-|**2023-10-16**|**The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**|Paul Ruvolo et.al.|[2310.10862v1](http://arxiv.org/abs/2310.10862v1)|null|
-|**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597v1](http://arxiv.org/abs/2310.10597v1)|null|
-|**2023-10-16**|**Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot**|Muhammad Shalihan et.al.|[2310.10289v1](http://arxiv.org/abs/2310.10289v1)|null|
-|**2023-10-16**|**A Human Motion Compensation Framework for a Supernumerary Robotic Arm**|Xin Zhang et.al.|[2310.10029v1](http://arxiv.org/abs/2310.10029v1)|null|
-|**2023-10-15**|**Assessing Smart Algorithms for Gait Phases Detection in Lower Limb Prosthesis: A Comprehensive Review**|Barath Kumar JK et.al.|[2310.09735v1](http://arxiv.org/abs/2310.09735v1)|null|
-|**2023-10-14**|**Can the energy of a particle be negative in the absence of external fields?**|A. A. Grib et.al.|[2310.09558v1](http://arxiv.org/abs/2310.09558v1)|null|
-|**2023-10-13**|**Midpoint geometric integrators for inertial magnetization dynamics**|Massimiliano d'Aquino et.al.|[2310.09043v1](http://arxiv.org/abs/2310.09043v1)|null|
-|**2023-10-13**|**Unified framework of the microscopic Landau-Lifshitz-Gilbert equation and its application to Skyrmion dynamics**|Fuming Xu et.al.|[2310.08807v1](http://arxiv.org/abs/2310.08807v1)|null|
-|**2023-10-12**|**Two regimes of dilute turbulent settling suspensions under shear**|Jake Langham et.al.|[2310.08508v1](http://arxiv.org/abs/2310.08508v1)|null|
-|**2023-10-12**|**Willis elasticity from microcontinuum field theories: Asymptotics, microstructure-property relationships, and cloaking**|Hussein Nassar et.al.|[2310.08463v1](http://arxiv.org/abs/2310.08463v1)|null|
-|**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435v1](http://arxiv.org/abs/2310.08435v1)|null|
-|**2023-10-12**|**Acceleration and focusing of multispecies ion beam using a converging laser-driven shock**|Jihoon Kim et.al.|[2310.08432v1](http://arxiv.org/abs/2310.08432v1)|null|
-|**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
-|**2023-10-12**|**Turbulent properties of stationary flows in porous media**|Florencia Falkinhoff et.al.|[2310.08075v1](http://arxiv.org/abs/2310.08075v1)|null|
-|**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
-|**2023-10-10**|**Discovering the Unknowns: A First Step**|V. Roshan Joseph et.al.|[2310.07016v1](http://arxiv.org/abs/2310.07016v1)|null|
-|**2023-10-10**|**Energy spectra and fluxes of turbulent rotating Bose-Einstein condensates in two dimension**|Anirudh Sivakumar et.al.|[2310.06741v2](http://arxiv.org/abs/2310.06741v2)|null|
-|**2023-10-10**|**A numerical investigation of quasi-static magnetoconvection with an imposed horizontal magnetic field**|Michael A. Calkins et.al.|[2310.06683v1](http://arxiv.org/abs/2310.06683v1)|null|
-|**2023-10-10**|**The role of magnetic waves in tangent cylinder convection**|Debarshi Majumder et.al.|[2310.06487v1](http://arxiv.org/abs/2310.06487v1)|null|
-|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
-|**2023-10-09**|**A Natural Indirect Adaptive Controller for a Satellite-Mounted Manipulator**|Jacopo Giordano et.al.|[2310.06193v2](http://arxiv.org/abs/2310.06193v2)|null|
-|**2023-10-09**|**Towards Agility: A Momentum Aware Trajectory Optimisation Framework using Full-Centroidal Dynamics & Implicit Inverse Kinematics**|Aristotelis Papatheodorou et.al.|[2310.06074v1](http://arxiv.org/abs/2310.06074v1)|null|
-|**2023-10-09**|**Data-Driven Modeling and Forecasting of Chaotic Dynamics on Inertial Manifolds Constructed as Spectral Submanifolds**|Aihui Liu et.al.|[2310.06067v1](http://arxiv.org/abs/2310.06067v1)|null|
-|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
-|**2023-10-09**|**Bath-induced spin inertia**|Mario Gaspar Quarenta et.al.|[2310.05621v1](http://arxiv.org/abs/2310.05621v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
-|**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
-|**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
-|**2023-10-18**|**Separating Invisible Sounds Toward Universal Audiovisual Scene-Aware Sound Separation**|Yiyang Su et.al.|[2310.11713v1](http://arxiv.org/abs/2310.11713v1)|null|
-|**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629v1](http://arxiv.org/abs/2310.11629v1)|null|
-|**2023-10-17**|**Classification of Safety Driver Attention During Autonomous Vehicle Operation**|Santiago Gerling Konrad et.al.|[2310.11608v1](http://arxiv.org/abs/2310.11608v1)|null|
-|**2023-10-17**|**BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages**|Joseph Marvin Imperial et.al.|[2310.11584v1](http://arxiv.org/abs/2310.11584v1)|[link](https://github.com/imperialite/basahacorpus-hierarchicalcrosslingualara)|
-|**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536v1](http://arxiv.org/abs/2310.11536v1)|null|
-|**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535v1](http://arxiv.org/abs/2310.11535v1)|null|
-|**2023-10-17**|**Field Robot for High-throughput and High-resolution 3D Plant Phenotyping**|Felix Esser et.al.|[2310.11516v1](http://arxiv.org/abs/2310.11516v1)|null|
-|**2023-10-17**|**3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM**|Jing-Chen Peng et.al.|[2310.11372v1](http://arxiv.org/abs/2310.11372v1)|null|
-|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346v1](http://arxiv.org/abs/2310.11346v1)|null|
-|**2023-10-17**|**Quasi-2D Weak Lensing Cosmological Constraints Using the PDF-SYM method**|Zhenjie Liu et.al.|[2310.11209v1](http://arxiv.org/abs/2310.11209v1)|null|
-|**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
-|**2023-10-17**|**Generalizability of CNN Architectures for Face Morph Presentation Attack**|Sherko R. HmaSalah et.al.|[2310.11105v1](http://arxiv.org/abs/2310.11105v1)|null|
-|**2023-10-17**|**Tracking and Mapping in Medical Computer Vision: A Review**|Adam Schmidt et.al.|[2310.11475v1](http://arxiv.org/abs/2310.11475v1)|null|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
-|**2023-10-16**|**Integrated coronagraphy and wavefront sensing with the PIAACMC**|Sebastiaan Y. Haffert et.al.|[2310.10892v1](http://arxiv.org/abs/2310.10892v1)|null|
-|**2023-10-16**|**Greedy Perspectives: Multi-Drone View Planning for Collaborative Coverage in Cluttered Environments**|Krishna Suresh et.al.|[2310.10863v1](http://arxiv.org/abs/2310.10863v1)|null|
-|**2023-10-16**|**Generation of realistic input parameters for simulating atmospheric point-spread functions at astronomical observatories**|Claire-Alice Hébert et.al.|[2310.10855v1](http://arxiv.org/abs/2310.10855v1)|[link](https://github.com/lsstdesc/psf-weather-station)|
-|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
-|**2023-10-16**|**Towards Scenario-based Safety Validation for Autonomous Trains with Deep Generative Models**|Thomas Decker et.al.|[2310.10635v1](http://arxiv.org/abs/2310.10635v1)|null|
-|**2023-10-16**|**Video Language Planning**|Yilun Du et.al.|[2310.10625v1](http://arxiv.org/abs/2310.10625v1)|null|
-|**2023-10-16**|**Bayesian Filtering for Homography Estimation**|Arturo Del Castillo Bernal et.al.|[2310.10612v1](http://arxiv.org/abs/2310.10612v1)|null|
-|**2023-10-16**|**Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes**|Yan Pan et.al.|[2310.10371v1](http://arxiv.org/abs/2310.10371v1)|null|
-|**2023-10-16**|**Multimodal Object Query Initialization for 3D Object Detection**|Mathijs R. van Geerenstein et.al.|[2310.10353v1](http://arxiv.org/abs/2310.10353v1)|null|
-|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
-|**2023-10-16**|**Generalizable Person Search on Open-world User-Generated Video Content**|Junjie Li et.al.|[2310.10068v1](http://arxiv.org/abs/2310.10068v1)|null|
-|**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
-|**2023-10-15**|**"Reading Between the Heat": Co-Teaching Body Thermal Signatures for Non-intrusive Stress Detection**|Yi Xiao et.al.|[2310.09932v1](http://arxiv.org/abs/2310.09932v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -140,3 +72,71 @@
 |**2023-09-21**|**Crop Row Switching for Vision-Based Navigation: A Comprehensive Approach for Efficient Crop Field Navigation**|Rajitha de Silva et.al.|[2309.11989v1](http://arxiv.org/abs/2309.11989v1)|null|
 |**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
 |**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
+|**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
+|**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
+|**2023-10-18**|**Separating Invisible Sounds Toward Universal Audiovisual Scene-Aware Sound Separation**|Yiyang Su et.al.|[2310.11713v1](http://arxiv.org/abs/2310.11713v1)|null|
+|**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629v1](http://arxiv.org/abs/2310.11629v1)|null|
+|**2023-10-17**|**Classification of Safety Driver Attention During Autonomous Vehicle Operation**|Santiago Gerling Konrad et.al.|[2310.11608v1](http://arxiv.org/abs/2310.11608v1)|null|
+|**2023-10-17**|**BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages**|Joseph Marvin Imperial et.al.|[2310.11584v1](http://arxiv.org/abs/2310.11584v1)|[link](https://github.com/imperialite/basahacorpus-hierarchicalcrosslingualara)|
+|**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536v1](http://arxiv.org/abs/2310.11536v1)|null|
+|**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535v1](http://arxiv.org/abs/2310.11535v1)|null|
+|**2023-10-17**|**Field Robot for High-throughput and High-resolution 3D Plant Phenotyping**|Felix Esser et.al.|[2310.11516v1](http://arxiv.org/abs/2310.11516v1)|null|
+|**2023-10-17**|**3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM**|Jing-Chen Peng et.al.|[2310.11372v1](http://arxiv.org/abs/2310.11372v1)|null|
+|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346v1](http://arxiv.org/abs/2310.11346v1)|null|
+|**2023-10-17**|**Quasi-2D Weak Lensing Cosmological Constraints Using the PDF-SYM method**|Zhenjie Liu et.al.|[2310.11209v1](http://arxiv.org/abs/2310.11209v1)|null|
+|**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
+|**2023-10-17**|**Generalizability of CNN Architectures for Face Morph Presentation Attack**|Sherko R. HmaSalah et.al.|[2310.11105v1](http://arxiv.org/abs/2310.11105v1)|null|
+|**2023-10-17**|**Tracking and Mapping in Medical Computer Vision: A Review**|Adam Schmidt et.al.|[2310.11475v1](http://arxiv.org/abs/2310.11475v1)|null|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
+|**2023-10-16**|**Integrated coronagraphy and wavefront sensing with the PIAACMC**|Sebastiaan Y. Haffert et.al.|[2310.10892v1](http://arxiv.org/abs/2310.10892v1)|null|
+|**2023-10-16**|**Greedy Perspectives: Multi-Drone View Planning for Collaborative Coverage in Cluttered Environments**|Krishna Suresh et.al.|[2310.10863v1](http://arxiv.org/abs/2310.10863v1)|null|
+|**2023-10-16**|**Generation of realistic input parameters for simulating atmospheric point-spread functions at astronomical observatories**|Claire-Alice Hébert et.al.|[2310.10855v1](http://arxiv.org/abs/2310.10855v1)|[link](https://github.com/lsstdesc/psf-weather-station)|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
+|**2023-10-16**|**Towards Scenario-based Safety Validation for Autonomous Trains with Deep Generative Models**|Thomas Decker et.al.|[2310.10635v1](http://arxiv.org/abs/2310.10635v1)|null|
+|**2023-10-16**|**Video Language Planning**|Yilun Du et.al.|[2310.10625v1](http://arxiv.org/abs/2310.10625v1)|null|
+|**2023-10-16**|**Bayesian Filtering for Homography Estimation**|Arturo Del Castillo Bernal et.al.|[2310.10612v1](http://arxiv.org/abs/2310.10612v1)|null|
+|**2023-10-16**|**Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes**|Yan Pan et.al.|[2310.10371v1](http://arxiv.org/abs/2310.10371v1)|null|
+|**2023-10-16**|**Multimodal Object Query Initialization for 3D Object Detection**|Mathijs R. van Geerenstein et.al.|[2310.10353v1](http://arxiv.org/abs/2310.10353v1)|null|
+|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
+|**2023-10-16**|**Generalizable Person Search on Open-world User-Generated Video Content**|Junjie Li et.al.|[2310.10068v1](http://arxiv.org/abs/2310.10068v1)|null|
+|**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
+|**2023-10-15**|**"Reading Between the Heat": Co-Teaching Body Thermal Signatures for Non-intrusive Stress Detection**|Yi Xiao et.al.|[2310.09932v1](http://arxiv.org/abs/2310.09932v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142v1](http://arxiv.org/abs/2310.12142v1)|null|
+|**2023-10-18**|**Elasto-Inertial Instability in Torsional Flows of Shear-Thinning Viscoelastic Fluids**|Rishabh V. More et.al.|[2310.12050v1](http://arxiv.org/abs/2310.12050v1)|null|
+|**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
+|**2023-10-16**|**Basal force fluctuations and granular rheology: Linking macroscopic descriptions of granular flows to bed forces with implications for monitoring signals**|P. J. Zrelak et.al.|[2310.10871v1](http://arxiv.org/abs/2310.10871v1)|null|
+|**2023-10-16**|**The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**|Paul Ruvolo et.al.|[2310.10862v1](http://arxiv.org/abs/2310.10862v1)|null|
+|**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597v1](http://arxiv.org/abs/2310.10597v1)|null|
+|**2023-10-16**|**Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot**|Muhammad Shalihan et.al.|[2310.10289v1](http://arxiv.org/abs/2310.10289v1)|null|
+|**2023-10-16**|**A Human Motion Compensation Framework for a Supernumerary Robotic Arm**|Xin Zhang et.al.|[2310.10029v1](http://arxiv.org/abs/2310.10029v1)|null|
+|**2023-10-15**|**Assessing Smart Algorithms for Gait Phases Detection in Lower Limb Prosthesis: A Comprehensive Review**|Barath Kumar JK et.al.|[2310.09735v1](http://arxiv.org/abs/2310.09735v1)|null|
+|**2023-10-14**|**Can the energy of a particle be negative in the absence of external fields?**|A. A. Grib et.al.|[2310.09558v1](http://arxiv.org/abs/2310.09558v1)|null|
+|**2023-10-13**|**Midpoint geometric integrators for inertial magnetization dynamics**|Massimiliano d'Aquino et.al.|[2310.09043v1](http://arxiv.org/abs/2310.09043v1)|null|
+|**2023-10-13**|**Unified framework of the microscopic Landau-Lifshitz-Gilbert equation and its application to Skyrmion dynamics**|Fuming Xu et.al.|[2310.08807v1](http://arxiv.org/abs/2310.08807v1)|null|
+|**2023-10-12**|**Two regimes of dilute turbulent settling suspensions under shear**|Jake Langham et.al.|[2310.08508v1](http://arxiv.org/abs/2310.08508v1)|null|
+|**2023-10-12**|**Willis elasticity from microcontinuum field theories: Asymptotics, microstructure-property relationships, and cloaking**|Hussein Nassar et.al.|[2310.08463v1](http://arxiv.org/abs/2310.08463v1)|null|
+|**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435v1](http://arxiv.org/abs/2310.08435v1)|null|
+|**2023-10-12**|**Acceleration and focusing of multispecies ion beam using a converging laser-driven shock**|Jihoon Kim et.al.|[2310.08432v1](http://arxiv.org/abs/2310.08432v1)|null|
+|**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
+|**2023-10-12**|**Turbulent properties of stationary flows in porous media**|Florencia Falkinhoff et.al.|[2310.08075v1](http://arxiv.org/abs/2310.08075v1)|null|
+|**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
+|**2023-10-10**|**Discovering the Unknowns: A First Step**|V. Roshan Joseph et.al.|[2310.07016v1](http://arxiv.org/abs/2310.07016v1)|null|
+|**2023-10-10**|**Energy spectra and fluxes of turbulent rotating Bose-Einstein condensates in two dimension**|Anirudh Sivakumar et.al.|[2310.06741v2](http://arxiv.org/abs/2310.06741v2)|null|
+|**2023-10-10**|**A numerical investigation of quasi-static magnetoconvection with an imposed horizontal magnetic field**|Michael A. Calkins et.al.|[2310.06683v1](http://arxiv.org/abs/2310.06683v1)|null|
+|**2023-10-10**|**The role of magnetic waves in tangent cylinder convection**|Debarshi Majumder et.al.|[2310.06487v1](http://arxiv.org/abs/2310.06487v1)|null|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
+|**2023-10-09**|**A Natural Indirect Adaptive Controller for a Satellite-Mounted Manipulator**|Jacopo Giordano et.al.|[2310.06193v2](http://arxiv.org/abs/2310.06193v2)|null|
+|**2023-10-09**|**Towards Agility: A Momentum Aware Trajectory Optimisation Framework using Full-Centroidal Dynamics & Implicit Inverse Kinematics**|Aristotelis Papatheodorou et.al.|[2310.06074v1](http://arxiv.org/abs/2310.06074v1)|null|
+|**2023-10-09**|**Data-Driven Modeling and Forecasting of Chaotic Dynamics on Inertial Manifolds Constructed as Spectral Submanifolds**|Aihui Liu et.al.|[2310.06067v1](http://arxiv.org/abs/2310.06067v1)|null|
+|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
+|**2023-10-09**|**Bath-induced spin inertia**|Mario Gaspar Quarenta et.al.|[2310.05621v1](http://arxiv.org/abs/2310.05621v1)|null|
