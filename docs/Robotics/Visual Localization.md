@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-19**|**Character-level Chinese Backpack Language Models**|Hao Sun et.al.|[2310.12751v1](http://arxiv.org/abs/2310.12751v1)|null|
+|**2023-10-19**|**MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**|Deepak Nathani et.al.|[2310.12426v1](http://arxiv.org/abs/2310.12426v1)|null|
+|**2023-10-19**|**Online Multi-IMU Calibration Using Visual-Inertial Odometry**|Jacob Hartzer et.al.|[2310.12411v1](http://arxiv.org/abs/2310.12411v1)|null|
+|**2023-10-18**|**REVAMP: Automated Simulations of Adversarial Attacks on Arbitrary Objects in Realistic Scenes**|Matthew Hull et.al.|[2310.12243v1](http://arxiv.org/abs/2310.12243v1)|[link](https://github.com/poloclub/revamp)|
 |**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
 |**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
@@ -28,7 +32,3 @@
 |**2023-10-16**|**Bayesian Filtering for Homography Estimation**|Arturo Del Castillo Bernal et.al.|[2310.10612v1](http://arxiv.org/abs/2310.10612v1)|null|
 |**2023-10-16**|**Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes**|Yan Pan et.al.|[2310.10371v1](http://arxiv.org/abs/2310.10371v1)|null|
 |**2023-10-16**|**Multimodal Object Query Initialization for 3D Object Detection**|Mathijs R. van Geerenstein et.al.|[2310.10353v1](http://arxiv.org/abs/2310.10353v1)|null|
-|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
-|**2023-10-16**|**Generalizable Person Search on Open-world User-Generated Video Content**|Junjie Li et.al.|[2310.10068v1](http://arxiv.org/abs/2310.10068v1)|null|
-|**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
-|**2023-10-15**|**"Reading Between the Heat": Co-Teaching Body Thermal Signatures for Non-intrusive Stress Detection**|Yi Xiao et.al.|[2310.09932v1](http://arxiv.org/abs/2310.09932v1)|null|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-19**|**Convective scale and subadiabatic layers in simulations of rotating compressible convection**|Petri J. Käpylä et.al.|[2310.12855v1](http://arxiv.org/abs/2310.12855v1)|null|
+|**2023-10-19**|**Advancements in Radar Odometry**|Matteo Frosi et.al.|[2310.12729v1](http://arxiv.org/abs/2310.12729v1)|null|
+|**2023-10-19**|**Online Multi-IMU Calibration Using Visual-Inertial Odometry**|Jacob Hartzer et.al.|[2310.12411v1](http://arxiv.org/abs/2310.12411v1)|null|
 |**2023-10-18**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142v2](http://arxiv.org/abs/2310.12142v2)|null|
 |**2023-10-18**|**Elasto-Inertial Instability in Torsional Flows of Shear-Thinning Viscoelastic Fluids**|Rishabh V. More et.al.|[2310.12050v1](http://arxiv.org/abs/2310.12050v1)|null|
 |**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
@@ -29,6 +32,3 @@
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
 |**2023-10-09**|**A Natural Indirect Adaptive Controller for a Satellite-Mounted Manipulator**|Jacopo Giordano et.al.|[2310.06193v2](http://arxiv.org/abs/2310.06193v2)|null|
 |**2023-10-09**|**Towards Agility: A Momentum Aware Trajectory Optimisation Framework using Full-Centroidal Dynamics & Implicit Inverse Kinematics**|Aristotelis Papatheodorou et.al.|[2310.06074v1](http://arxiv.org/abs/2310.06074v1)|null|
-|**2023-10-09**|**Data-Driven Modeling and Forecasting of Chaotic Dynamics on Inertial Manifolds Constructed as Spectral Submanifolds**|Aihui Liu et.al.|[2310.06067v1](http://arxiv.org/abs/2310.06067v1)|null|
-|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
-|**2023-10-09**|**Bath-induced spin inertia**|Mario Gaspar Quarenta et.al.|[2310.05621v1](http://arxiv.org/abs/2310.05621v1)|null|
