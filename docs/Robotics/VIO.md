@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142v1](http://arxiv.org/abs/2310.12142v1)|null|
+|**2023-10-18**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142v2](http://arxiv.org/abs/2310.12142v2)|null|
 |**2023-10-18**|**Elasto-Inertial Instability in Torsional Flows of Shear-Thinning Viscoelastic Fluids**|Rishabh V. More et.al.|[2310.12050v1](http://arxiv.org/abs/2310.12050v1)|null|
 |**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
