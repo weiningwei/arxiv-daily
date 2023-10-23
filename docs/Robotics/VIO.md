@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-20**|**Quadrotor Dead Recooking with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452v1](http://arxiv.org/abs/2310.13452v1)|null|
+|**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|null|
+|**2023-10-19**|**A Multi-Stage Temporal Convolutional Network for Volleyball Jumps Classification Using a Waist-Mounted IMU**|Meng Shang et.al.|[2310.13097v1](http://arxiv.org/abs/2310.13097v1)|null|
 |**2023-10-19**|**Convective scale and subadiabatic layers in simulations of rotating compressible convection**|Petri J. Käpylä et.al.|[2310.12855v1](http://arxiv.org/abs/2310.12855v1)|null|
 |**2023-10-19**|**Advancements in Radar Odometry**|Matteo Frosi et.al.|[2310.12729v1](http://arxiv.org/abs/2310.12729v1)|null|
 |**2023-10-19**|**Online Multi-IMU Calibration Using Visual-Inertial Odometry**|Jacob Hartzer et.al.|[2310.12411v1](http://arxiv.org/abs/2310.12411v1)|[link](https://github.com/unmannedlab/ekf-cal)|
@@ -29,6 +32,3 @@
 |**2023-10-10**|**Energy spectra and fluxes of turbulent rotating Bose-Einstein condensates in two dimension**|Anirudh Sivakumar et.al.|[2310.06741v2](http://arxiv.org/abs/2310.06741v2)|null|
 |**2023-10-10**|**A numerical investigation of quasi-static magnetoconvection with an imposed horizontal magnetic field**|Michael A. Calkins et.al.|[2310.06683v1](http://arxiv.org/abs/2310.06683v1)|null|
 |**2023-10-10**|**The role of magnetic waves in tangent cylinder convection**|Debarshi Majumder et.al.|[2310.06487v1](http://arxiv.org/abs/2310.06487v1)|null|
-|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
-|**2023-10-09**|**A Natural Indirect Adaptive Controller for a Satellite-Mounted Manipulator**|Jacopo Giordano et.al.|[2310.06193v2](http://arxiv.org/abs/2310.06193v2)|null|
-|**2023-10-09**|**Towards Agility: A Momentum Aware Trajectory Optimisation Framework using Full-Centroidal Dynamics & Implicit Inverse Kinematics**|Aristotelis Papatheodorou et.al.|[2310.06074v1](http://arxiv.org/abs/2310.06074v1)|null|
