@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-20**|**Bridging Information-Theoretic and Geometric Compression in Language Models**|Emily Cheng et.al.|[2310.13620v1](http://arxiv.org/abs/2310.13620v1)|[link](https://github.com/chengemily1/id_bridging)|
-|**2023-10-20**|**A Simple Baseline for Knowledge-Based Visual Question Answering**|Alexandros Xenos et.al.|[2310.13570v1](http://arxiv.org/abs/2310.13570v1)|null|
-|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|[link](https://github.com/jingy1yu/scalablemap)|
-|**2023-10-20**|**EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View**|Torben Teepe et.al.|[2310.13350v1](http://arxiv.org/abs/2310.13350v1)|[link](https://github.com/tteepe/earlybird)|
-|**2023-10-20**|**Dynamic Object Detection in Range data using Spatiotemporal Normals**|Raphael Falque et.al.|[2310.13273v1](http://arxiv.org/abs/2310.13273v1)|null|
-|**2023-10-20**|**Multi-level Contrastive Learning for Script-based Character Understanding**|Dawei Li et.al.|[2310.13231v1](http://arxiv.org/abs/2310.13231v1)|null|
-|**2023-10-19**|**LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning**|Pedram Agand et.al.|[2310.13135v1](http://arxiv.org/abs/2310.13135v1)|[link](https://github.com/pagand/e2etransfuser)|
-|**2023-10-19**|**The Large Array Survey Telescope -- Pipeline. I. Basic image reduction and visit coaddition**|E. O. Ofek et.al.|[2310.13063v1](http://arxiv.org/abs/2310.13063v1)|null|
-|**2023-10-19**|**JWST uncovers helium and water abundance variations in the bulge globular cluster NGC 6440**|Mario Cadelano et.al.|[2310.13056v1](http://arxiv.org/abs/2310.13056v1)|null|
-|**2023-10-19**|**Character-level Chinese Backpack Language Models**|Hao Sun et.al.|[2310.12751v1](http://arxiv.org/abs/2310.12751v1)|[link](https://github.com/swordelucidator/nanobackpacklm)|
-|**2023-10-19**|**MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**|Deepak Nathani et.al.|[2310.12426v1](http://arxiv.org/abs/2310.12426v1)|[link](https://github.com/deepakn97/maf)|
-|**2023-10-19**|**Online Multi-IMU Calibration Using Visual-Inertial Odometry**|Jacob Hartzer et.al.|[2310.12411v1](http://arxiv.org/abs/2310.12411v1)|[link](https://github.com/unmannedlab/ekf-cal)|
-|**2023-10-18**|**REVAMP: Automated Simulations of Adversarial Attacks on Arbitrary Objects in Realistic Scenes**|Matthew Hull et.al.|[2310.12243v1](http://arxiv.org/abs/2310.12243v1)|[link](https://github.com/poloclub/revamp)|
-|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
-|**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
-|**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
-|**2023-10-18**|**Separating Invisible Sounds Toward Universal Audiovisual Scene-Aware Sound Separation**|Yiyang Su et.al.|[2310.11713v1](http://arxiv.org/abs/2310.11713v1)|null|
-|**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629v1](http://arxiv.org/abs/2310.11629v1)|null|
-|**2023-10-17**|**Classification of Safety Driver Attention During Autonomous Vehicle Operation**|Santiago Gerling Konrad et.al.|[2310.11608v1](http://arxiv.org/abs/2310.11608v1)|null|
-|**2023-10-17**|**BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages**|Joseph Marvin Imperial et.al.|[2310.11584v1](http://arxiv.org/abs/2310.11584v1)|[link](https://github.com/imperialite/basahacorpus-hierarchicalcrosslingualara)|
-|**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536v1](http://arxiv.org/abs/2310.11536v1)|null|
-|**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535v1](http://arxiv.org/abs/2310.11535v1)|null|
-|**2023-10-17**|**Field Robot for High-throughput and High-resolution 3D Plant Phenotyping**|Felix Esser et.al.|[2310.11516v1](http://arxiv.org/abs/2310.11516v1)|null|
-|**2023-10-17**|**3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM**|Jing-Chen Peng et.al.|[2310.11372v1](http://arxiv.org/abs/2310.11372v1)|null|
-|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346v1](http://arxiv.org/abs/2310.11346v1)|null|
-|**2023-10-17**|**Quasi-2D Weak Lensing Cosmological Constraints Using the PDF-SYM method**|Zhenjie Liu et.al.|[2310.11209v1](http://arxiv.org/abs/2310.11209v1)|null|
-|**2023-10-17**|**Long-form Simultaneous Speech Translation: Thesis Proposal**|Peter Polák et.al.|[2310.11141v1](http://arxiv.org/abs/2310.11141v1)|null|
-|**2023-10-17**|**Generalizability of CNN Architectures for Face Morph Presentation Attack**|Sherko R. HmaSalah et.al.|[2310.11105v1](http://arxiv.org/abs/2310.11105v1)|null|
-|**2023-10-17**|**Tracking and Mapping in Medical Computer Vision: A Review**|Adam Schmidt et.al.|[2310.11475v1](http://arxiv.org/abs/2310.11475v1)|null|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
+|**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061v1](http://arxiv.org/abs/2310.15061v1)|null|
+|**2023-10-23**|**CalibrationPhys: Self-supervised Video-based Heart and Respiratory Rate Measurements by Calibrating Between Multiple Cameras**|Yusuke Akamatsu et.al.|[2310.15043v1](http://arxiv.org/abs/2310.15043v1)|null|
+|**2023-10-23**|**SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars**|Samiran Gode et.al.|[2310.15023v1](http://arxiv.org/abs/2310.15023v1)|null|
+|**2023-10-23**|**GRLib: An Open-Source Hand Gesture Detection and Recognition Python Library**|Jan Warchocki et.al.|[2310.14919v1](http://arxiv.org/abs/2310.14919v1)|[link](https://github.com/mikhail-vlasenko/grlib)|
+|**2023-10-23**|**Object Pose Estimation Annotation Pipeline for Multi-view Monocular Camera Systems in Industrial Settings**|Hazem Youssef et.al.|[2310.14914v1](http://arxiv.org/abs/2310.14914v1)|null|
+|**2023-10-23**|**Sedimentation of a single soluble particle at low Reynolds and high Péclet numbers**|Nan He et.al.|[2310.14737v1](http://arxiv.org/abs/2310.14737v1)|null|
+|**2023-10-23**|**Euclid preparation. XXXI. The effect of the variations in photometric passbands on photometric-redshift accuracy**|Euclid Collaboration et.al.|[2310.14716v1](http://arxiv.org/abs/2310.14716v1)|null|
+|**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702v1](http://arxiv.org/abs/2310.14702v1)|[link](https://github.com/byzhaoai/bm2cp)|
+|**2023-10-23**|**Interaction-Driven Active 3D Reconstruction with Object Interiors**|Zihao Yan et.al.|[2310.14700v1](http://arxiv.org/abs/2310.14700v1)|null|
+|**2023-10-23**|**API-Assisted Code Generation for Question Answering on Varied Table Structures**|Yihan Cao et.al.|[2310.14687v1](http://arxiv.org/abs/2310.14687v1)|null|
+|**2023-10-23**|**QUDEVAL: The Evaluation of Questions Under Discussion Discourse Parsing**|Yating Wu et.al.|[2310.14520v1](http://arxiv.org/abs/2310.14520v1)|[link](https://github.com/lingchensanwen/qudeval)|
+|**2023-10-23**|**First realization of macroscopic Fourier ptychography for hundred-meter distance sub-diffraction imaging**|Qi Zhang et.al.|[2310.14515v1](http://arxiv.org/abs/2310.14515v1)|null|
+|**2023-10-23**|**Diversify Question Generation with Retrieval-Augmented Style Transfer**|Qi Gou et.al.|[2310.14503v1](http://arxiv.org/abs/2310.14503v1)|[link](https://github.com/gouqi666/rast)|
+|**2023-10-22**|**Mobile AR Depth Estimation: Challenges & Prospects -- Extended Version**|Ashkan Ganj et.al.|[2310.14437v1](http://arxiv.org/abs/2310.14437v1)|null|
+|**2023-10-22**|**Urban wireless traffic evolution: the role of new devices and the effect of policy**|Jaume Benseny et.al.|[2310.14406v1](http://arxiv.org/abs/2310.14406v1)|null|
+|**2023-10-22**|**Merging Generated and Retrieved Knowledge for Open-Domain QA**|Yunxiang Zhang et.al.|[2310.14393v1](http://arxiv.org/abs/2310.14393v1)|[link](https://github.com/yunx-z/combo)|
+|**2023-10-22**|**Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models**|Hongli Zhan et.al.|[2310.14389v1](http://arxiv.org/abs/2310.14389v1)|[link](https://github.com/honglizhan/covidet-appraisals-public)|
+|**2023-10-22**|**Learning Generalizable Manipulation Policies with Object-Centric 3D Representations**|Yifeng Zhu et.al.|[2310.14386v1](http://arxiv.org/abs/2310.14386v1)|null|
+|**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364v1](http://arxiv.org/abs/2310.14364v1)|null|
+|**2023-10-22**|**Toward Flare-Free Images: A Survey**|Yousef Kotp et.al.|[2310.14354v1](http://arxiv.org/abs/2310.14354v1)|null|
+|**2023-10-22**|**APP-RUSS: Automated Path Planning for Robotic Ultrasound System**|David Liu et.al.|[2310.14297v1](http://arxiv.org/abs/2310.14297v1)|null|
+|**2023-10-22**|**Research on Key Technologies of Infrastructure Digitalization based on Multimodal Spatial Data**|Zhanyuan Tian et.al.|[2310.14296v1](http://arxiv.org/abs/2310.14296v1)|null|
+|**2023-10-22**|**Distractor-aware Event-based Tracking**|Yingkai Fu et.al.|[2310.14194v1](http://arxiv.org/abs/2310.14194v1)|null|
+|**2023-10-21**|**Ask To The Point: Open-Domain Entity-Centric Question Generation**|Yuxiang Liu et.al.|[2310.14126v1](http://arxiv.org/abs/2310.14126v1)|[link](https://github.com/liuyuxiang512/ecqg)|
+|**2023-10-21**|**POVNav: A Pareto-Optimal Mapless Visual Navigator**|Durgakant Pushp et.al.|[2310.14065v1](http://arxiv.org/abs/2310.14065v1)|null|
+|**2023-10-21**|**FHT-Map: Feature-based Hierarchical Topological Map for Relocalization and Path Planning**|Kun Song et.al.|[2310.13899v1](http://arxiv.org/abs/2310.13899v1)|null|
+|**2023-10-20**|**Morphological Study of Granular-Granular Impact Craters through Time-of-Flight Cameras: from Concept to Automation in Python**|F. Corrales-Machín et.al.|[2310.13834v1](http://arxiv.org/abs/2310.13834v1)|null|
+|**2023-10-20**|**How Much Consistency Is Your Accuracy Worth?**|Jacob K. Johnson et.al.|[2310.13781v1](http://arxiv.org/abs/2310.13781v1)|null|
+|**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768v1](http://arxiv.org/abs/2310.13768v1)|null|
+|**2023-10-20**|**Nebular C IV 1550 Imaging of the Metal-Poor Starburst Mrk 71: Direct Evidence of Catastrophic Cooling**|M. S. Oey et.al.|[2310.13751v1](http://arxiv.org/abs/2310.13751v1)|null|
