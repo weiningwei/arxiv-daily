@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-10-20**|**Bridging Information-Theoretic and Geometric Compression in Language Models**|Emily Cheng et.al.|[2310.13620v1](http://arxiv.org/abs/2310.13620v1)|[link](https://github.com/chengemily1/id_bridging)|
 |**2023-10-20**|**A Simple Baseline for Knowledge-Based Visual Question Answering**|Alexandros Xenos et.al.|[2310.13570v1](http://arxiv.org/abs/2310.13570v1)|null|
-|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|null|
+|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|[link](https://github.com/jingy1yu/scalablemap)|
 |**2023-10-20**|**EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View**|Torben Teepe et.al.|[2310.13350v1](http://arxiv.org/abs/2310.13350v1)|[link](https://github.com/tteepe/earlybird)|
 |**2023-10-20**|**Dynamic Object Detection in Range data using Spatiotemporal Normals**|Raphael Falque et.al.|[2310.13273v1](http://arxiv.org/abs/2310.13273v1)|null|
 |**2023-10-20**|**Multi-level Contrastive Learning for Script-based Character Understanding**|Dawei Li et.al.|[2310.13231v1](http://arxiv.org/abs/2310.13231v1)|null|
