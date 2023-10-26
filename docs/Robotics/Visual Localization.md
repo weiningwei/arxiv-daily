@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-10-24**|**Dissecting In-Context Learning of Translations in GPTs**|Vikas Raunak et.al.|[2310.15987v1](http://arxiv.org/abs/2310.15987v1)|null|
 |**2023-10-24**|**Do Stochastic Parrots have Feelings Too? Improving Neural Detection of Synthetic Text via Emotion Recognition**|Alan Cowap et.al.|[2310.15904v1](http://arxiv.org/abs/2310.15904v1)|[link](https://github.com/alanagiasi/emoplmsynth)|
-|**2023-10-24**|**Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation**|C. L. Zheng et.al.|[2310.15846v1](http://arxiv.org/abs/2310.15846v1)|null|
+|**2023-10-24**|**Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation**|C. L. Zheng et.al.|[2310.15846v2](http://arxiv.org/abs/2310.15846v2)|null|
 |**2023-10-24**|**Unnatural language processing: How do language models handle machine-generated prompts?**|Corentin Kervadec et.al.|[2310.15829v1](http://arxiv.org/abs/2310.15829v1)|null|
 |**2023-10-24**|**Neuromorphic Sampling of Sparse Signals**|Abijith Jagannath Kamath et.al.|[2310.15750v1](http://arxiv.org/abs/2310.15750v1)|null|
 |**2023-10-24**|**Euclid preparation. TBD. Forecast impact of super-sample covariance on 3x2pt analysis with Euclid**|Euclid Collaboration et.al.|[2310.15731v1](http://arxiv.org/abs/2310.15731v1)|null|
