@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
+|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
+|**2023-10-24**|**Mass-based separation of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2310.16204v1](http://arxiv.org/abs/2310.16204v1)|null|
 |**2023-10-24**|**Nonlinear dimensionality reduction then and now: AIMs for dissipative PDEs in the ML era**|Eleni D. Koronaki et.al.|[2310.15816v1](http://arxiv.org/abs/2310.15816v1)|null|
 |**2023-10-24**|**Breaking of brightness consistency in optical flow with a lightweight CNN network**|Yicheng Lin et.al.|[2310.15655v1](http://arxiv.org/abs/2310.15655v1)|[link](https://github.com/linyicheng1/LET-NET)|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
@@ -29,6 +32,3 @@
 |**2023-10-13**|**Midpoint geometric integrators for inertial magnetization dynamics**|Massimiliano d'Aquino et.al.|[2310.09043v1](http://arxiv.org/abs/2310.09043v1)|null|
 |**2023-10-13**|**Unified framework of the microscopic Landau-Lifshitz-Gilbert equation and its application to Skyrmion dynamics**|Fuming Xu et.al.|[2310.08807v1](http://arxiv.org/abs/2310.08807v1)|null|
 |**2023-10-12**|**Two regimes of dilute turbulent settling suspensions under shear**|Jake Langham et.al.|[2310.08508v1](http://arxiv.org/abs/2310.08508v1)|null|
-|**2023-10-12**|**Willis elasticity from microcontinuum field theories: Asymptotics, microstructure-property relationships, and cloaking**|Hussein Nassar et.al.|[2310.08463v1](http://arxiv.org/abs/2310.08463v1)|[link](https://github.com/nassarh/trussx)|
-|**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435v1](http://arxiv.org/abs/2310.08435v1)|null|
-|**2023-10-12**|**Acceleration and focusing of multispecies ion beam using a converging laser-driven shock**|Jihoon Kim et.al.|[2310.08432v1](http://arxiv.org/abs/2310.08432v1)|null|
