@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-26**|**DeepShaRM: Multi-View Shape and Reflectance Map Recovery Under Unknown Lighting**|Kohei Yamashita et.al.|[2310.17632v1](http://arxiv.org/abs/2310.17632v1)|null|
+|**2023-10-26**|**The Atacama Cosmology Telescope: Extragalactic Point Sources in the Southern Surveys at 150, 220 and 280 GHz observed between 2008-2010**|Cristian Vargas et.al.|[2310.17535v1](http://arxiv.org/abs/2310.17535v1)|null|
+|**2023-10-26**|**Crashing with disorder: Reaching the precision limit with tensor-based wavefront shaping**|Rodrigo Gutiérrez-Cuevas et.al.|[2310.17516v1](http://arxiv.org/abs/2310.17516v1)|null|
+|**2023-10-26**|**Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering**|Sukmin Cho et.al.|[2310.17490v1](http://arxiv.org/abs/2310.17490v1)|null|
+|**2023-10-26**|**Towards Learning Monocular 3D Object Localization From 2D Labels using the Physical Laws of Motion**|Daniel Kienzle et.al.|[2310.17462v1](http://arxiv.org/abs/2310.17462v1)|null|
+|**2023-10-26**|**''Fifty Shades of Bias'': Normative Ratings of Gender Bias in GPT Generated English Text**|Rishav Hada et.al.|[2310.17428v1](http://arxiv.org/abs/2310.17428v1)|null|
+|**2023-10-26**|**YOLO-BEV: Generating Bird's-Eye View in the Same Way as 2D Object Detection**|Chang Liu et.al.|[2310.17379v1](http://arxiv.org/abs/2310.17379v1)|null|
+|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|null|
+|**2023-10-26**|**Lookup Table meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping**|Feng Zhang et.al.|[2310.17190v1](http://arxiv.org/abs/2310.17190v1)|[link](https://github.com/fengzhang427/LLF-LUT)|
+|**2023-10-26**|**Automating lichen monitoring in ecological studies using instance segmentation of time-lapse images**|Safwen Naimi et.al.|[2310.17080v1](http://arxiv.org/abs/2310.17080v1)|null|
+|**2023-10-25**|**Exploring Question Decomposition for Zero-Shot VQA**|Zaid Khan et.al.|[2310.17050v1](http://arxiv.org/abs/2310.17050v1)|null|
+|**2023-10-25**|**An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives**|Young Min Cho et.al.|[2310.17017v1](http://arxiv.org/abs/2310.17017v1)|[link](https://github.com/jeffreych0/mental_chatbot_survey)|
+|**2023-10-25**|**The Teenager's Problem: Efficient Garment Decluttering With Grasp Optimization**|Aviv Adler et.al.|[2310.16951v1](http://arxiv.org/abs/2310.16951v1)|null|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
 |**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner et.al.|[2310.16750v1](http://arxiv.org/abs/2310.16750v1)|[link](https://github.com/ebnerluca/uw_depth)|
 |**2023-10-25**|**STRAW-b (STRings for Absorption length in Water-b): the second pathfinder mission for the Pacific Ocean Neutrino Experiment**|Kilian Holzapfel et.al.|[2310.16714v2](http://arxiv.org/abs/2310.16714v2)|null|
@@ -19,16 +32,3 @@
 |**2023-10-24**|**CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset**|Susanna Rücker et.al.|[2310.16225v1](http://arxiv.org/abs/2310.16225v1)|null|
 |**2023-10-24**|**The Wagging Plasma Tail of Comet C/2020 S3 (Erasmus)**|Jing Li et.al.|[2310.16219v1](http://arxiv.org/abs/2310.16219v1)|null|
 |**2023-10-24**|**Background Summarization of Event Timelines**|Adithya Pratapa et.al.|[2310.16197v1](http://arxiv.org/abs/2310.16197v1)|null|
-|**2023-10-24**|**Pix2HDR -- A pixel-wise acquisition and deep learning-based synthesis approach for high-speed HDR videos**|Caixin Wang et.al.|[2310.16139v1](http://arxiv.org/abs/2310.16139v1)|null|
-|**2023-10-24**|**Can You Follow Me? Testing Situational Understanding in ChatGPT**|Chenghao Yang et.al.|[2310.16135v1](http://arxiv.org/abs/2310.16135v1)|[link](https://github.com/yangalan123/situationaltesting)|
-|**2023-10-24**|**The Evolution from Design to Verification of the Antenna System and Mechanisms in the AcubeSAT mission**|Panagiotis Bountzioukas et.al.|[2310.16134v1](http://arxiv.org/abs/2310.16134v1)|null|
-|**2023-10-24**|**Dissecting In-Context Learning of Translations in GPTs**|Vikas Raunak et.al.|[2310.15987v1](http://arxiv.org/abs/2310.15987v1)|null|
-|**2023-10-24**|**Do Stochastic Parrots have Feelings Too? Improving Neural Detection of Synthetic Text via Emotion Recognition**|Alan Cowap et.al.|[2310.15904v1](http://arxiv.org/abs/2310.15904v1)|[link](https://github.com/alanagiasi/emoplmsynth)|
-|**2023-10-24**|**Optimal Spatial-Temporal Triangulation for Bearing-Only Cooperative Motion Estimation**|C. L. Zheng et.al.|[2310.15846v2](http://arxiv.org/abs/2310.15846v2)|null|
-|**2023-10-24**|**Unnatural language processing: How do language models handle machine-generated prompts?**|Corentin Kervadec et.al.|[2310.15829v1](http://arxiv.org/abs/2310.15829v1)|null|
-|**2023-10-24**|**Neuromorphic Sampling of Sparse Signals**|Abijith Jagannath Kamath et.al.|[2310.15750v1](http://arxiv.org/abs/2310.15750v1)|null|
-|**2023-10-24**|**Euclid preparation. TBD. Forecast impact of super-sample covariance on 3x2pt analysis with Euclid**|Euclid Collaboration et.al.|[2310.15731v1](http://arxiv.org/abs/2310.15731v1)|null|
-|**2023-10-24**|**Nighttime Thermal Infrared Image Colorization with Feedback-based Object Appearance Learning**|Fu-Ya Luo et.al.|[2310.15688v1](http://arxiv.org/abs/2310.15688v1)|[link](https://github.com/fuyaluo/foalgan)|
-|**2023-10-24**|**Robot-Relay : Building-Wide, Calibration-Less Visual Servoing with Learned Sensor Handover Network**|Luke Robinson et.al.|[2310.15677v1](http://arxiv.org/abs/2310.15677v1)|null|
-|**2023-10-24**|**Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation**|Yinjie Lei et.al.|[2310.15676v1](http://arxiv.org/abs/2310.15676v1)|null|
-|**2023-10-24**|**Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection**|Linyan Huang et.al.|[2310.15670v1](http://arxiv.org/abs/2310.15670v1)|[link](https://github.com/opendrivelab/birds-eye-view-perception)|

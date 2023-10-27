@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|null|
+|**2023-10-25**|**Scale Filtering Analysis of Kinetic Reconnection and its Associated Turbulence**|Subash Adhikari et.al.|[2310.16973v1](http://arxiv.org/abs/2310.16973v1)|null|
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
 |**2023-10-24**|**Mass-based separation of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2310.16204v1](http://arxiv.org/abs/2310.16204v1)|null|
@@ -30,5 +32,3 @@
 |**2023-10-15**|**Assessing Smart Algorithms for Gait Phases Detection in Lower Limb Prosthesis: A Comprehensive Review**|Barath Kumar JK et.al.|[2310.09735v1](http://arxiv.org/abs/2310.09735v1)|null|
 |**2023-10-14**|**Can the energy of a particle be negative in the absence of external fields?**|A. A. Grib et.al.|[2310.09558v1](http://arxiv.org/abs/2310.09558v1)|null|
 |**2023-10-13**|**Midpoint geometric integrators for inertial magnetization dynamics**|Massimiliano d'Aquino et.al.|[2310.09043v1](http://arxiv.org/abs/2310.09043v1)|null|
-|**2023-10-13**|**Unified framework of the microscopic Landau-Lifshitz-Gilbert equation and its application to Skyrmion dynamics**|Fuming Xu et.al.|[2310.08807v1](http://arxiv.org/abs/2310.08807v1)|null|
-|**2023-10-12**|**Two regimes of dilute turbulent settling suspensions under shear**|Jake Langham et.al.|[2310.08508v1](http://arxiv.org/abs/2310.08508v1)|null|
