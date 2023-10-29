@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|null|
+|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
 |**2023-10-25**|**Scale Filtering Analysis of Kinetic Reconnection and its Associated Turbulence**|Subash Adhikari et.al.|[2310.16973v1](http://arxiv.org/abs/2310.16973v1)|null|
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
@@ -14,7 +14,7 @@
 |**2023-10-23**|**A multiple time scale approach for anisotropic inertial wave turbulence**|Sebastien Galtier et.al.|[2310.14640v1](http://arxiv.org/abs/2310.14640v1)|null|
 |**2023-10-22**|**Cross-Domain HAR: Few Shot Transfer Learning for Human Activity Recognition**|Megha Thukral et.al.|[2310.14390v1](http://arxiv.org/abs/2310.14390v1)|null|
 |**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163v1](http://arxiv.org/abs/2310.14163v1)|null|
-|**2023-10-20**|**Quadrotor Dead Reckoning with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452v2](http://arxiv.org/abs/2310.13452v2)|[link](https://github.com/ansfl/quadrotor-dead-recooking-with-multiple-inertial-sensors)|
+|**2023-10-20**|**Quadrotor Dead Reckoning with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452v2](http://arxiv.org/abs/2310.13452v2)|[link](https://github.com/ansfl/quadrotor-dead-reckoning-with-multiple-inertial-sensors)|
 |**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|[link](https://github.com/fast-fire/colag)|
 |**2023-10-19**|**A Multi-Stage Temporal Convolutional Network for Volleyball Jumps Classification Using a Waist-Mounted IMU**|Meng Shang et.al.|[2310.13097v1](http://arxiv.org/abs/2310.13097v1)|null|
 |**2023-10-19**|**Convective scale and subadiabatic layers in simulations of rotating compressible convection**|Petri J. Käpylä et.al.|[2310.12855v1](http://arxiv.org/abs/2310.12855v1)|null|

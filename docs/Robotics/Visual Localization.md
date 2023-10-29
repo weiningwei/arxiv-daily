@@ -9,7 +9,7 @@
 |**2023-10-26**|**Towards Learning Monocular 3D Object Localization From 2D Labels using the Physical Laws of Motion**|Daniel Kienzle et.al.|[2310.17462v1](http://arxiv.org/abs/2310.17462v1)|null|
 |**2023-10-26**|**''Fifty Shades of Bias'': Normative Ratings of Gender Bias in GPT Generated English Text**|Rishav Hada et.al.|[2310.17428v1](http://arxiv.org/abs/2310.17428v1)|null|
 |**2023-10-26**|**YOLO-BEV: Generating Bird's-Eye View in the Same Way as 2D Object Detection**|Chang Liu et.al.|[2310.17379v1](http://arxiv.org/abs/2310.17379v1)|null|
-|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|null|
+|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
 |**2023-10-26**|**Lookup Table meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping**|Feng Zhang et.al.|[2310.17190v1](http://arxiv.org/abs/2310.17190v1)|[link](https://github.com/fengzhang427/LLF-LUT)|
 |**2023-10-26**|**Automating lichen monitoring in ecological studies using instance segmentation of time-lapse images**|Safwen Naimi et.al.|[2310.17080v1](http://arxiv.org/abs/2310.17080v1)|null|
 |**2023-10-25**|**Exploring Question Decomposition for Zero-Shot VQA**|Zaid Khan et.al.|[2310.17050v1](http://arxiv.org/abs/2310.17050v1)|null|
