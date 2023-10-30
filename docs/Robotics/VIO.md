@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-27**|**Phase-space entropy cascade and irreversibility of stochastic heating in nearly collisionless plasma turbulence**|Michael L. Nastac et.al.|[2310.18211v1](http://arxiv.org/abs/2310.18211v1)|null|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
+|**2023-10-27**|**Two-dimensional Rayleigh-Bénard convection without boundaries**|Philip Winchester et.al.|[2310.17928v1](http://arxiv.org/abs/2310.17928v1)|null|
+|**2023-10-26**|**Kinetic stability of Chapman-Enskog plasmas**|Archie F. A. Bott et.al.|[2310.17754v1](http://arxiv.org/abs/2310.17754v1)|null|
 |**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
 |**2023-10-25**|**Scale Filtering Analysis of Kinetic Reconnection and its Associated Turbulence**|Subash Adhikari et.al.|[2310.16973v1](http://arxiv.org/abs/2310.16973v1)|null|
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
@@ -28,7 +32,3 @@
 |**2023-10-16**|**The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**|Paul Ruvolo et.al.|[2310.10862v1](http://arxiv.org/abs/2310.10862v1)|null|
 |**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597v1](http://arxiv.org/abs/2310.10597v1)|null|
 |**2023-10-16**|**Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot**|Muhammad Shalihan et.al.|[2310.10289v1](http://arxiv.org/abs/2310.10289v1)|null|
-|**2023-10-16**|**A Human Motion Compensation Framework for a Supernumerary Robotic Arm**|Xin Zhang et.al.|[2310.10029v1](http://arxiv.org/abs/2310.10029v1)|null|
-|**2023-10-15**|**Assessing Smart Algorithms for Gait Phases Detection in Lower Limb Prosthesis: A Comprehensive Review**|Barath Kumar JK et.al.|[2310.09735v1](http://arxiv.org/abs/2310.09735v1)|null|
-|**2023-10-14**|**Can the energy of a particle be negative in the absence of external fields?**|A. A. Grib et.al.|[2310.09558v1](http://arxiv.org/abs/2310.09558v1)|null|
-|**2023-10-13**|**Midpoint geometric integrators for inertial magnetization dynamics**|Massimiliano d'Aquino et.al.|[2310.09043v1](http://arxiv.org/abs/2310.09043v1)|null|

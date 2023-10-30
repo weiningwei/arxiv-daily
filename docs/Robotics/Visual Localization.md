@@ -2,7 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-27**|**Exit Dynamics of a Square Cylinder**|Intesaaf Ashraf et.al.|[2310.18267v1](http://arxiv.org/abs/2310.18267v1)|null|
+|**2023-10-27**|**Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches**|Tianrun Chen et.al.|[2310.18148v1](http://arxiv.org/abs/2310.18148v1)|null|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
+|**2023-10-27**|**Observing galaxy clusters and the cosmic web through the Sunyaev Zel'dovich effect with MISTRAL**|E. S. Battistelli et.al.|[2310.18029v1](http://arxiv.org/abs/2310.18029v1)|null|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
+|**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911v1](http://arxiv.org/abs/2310.17911v1)|null|
+|**2023-10-27**|**The Innovation-to-Occupations Ontology: Linking Business Transformation Initiatives to Occupations and Skills**|Daniela Elia et.al.|[2310.17909v1](http://arxiv.org/abs/2310.17909v1)|null|
+|**2023-10-26**|**Graph Convolutional Networks for Complex Traffic Scenario Classification**|Tobias Hoek et.al.|[2310.17773v1](http://arxiv.org/abs/2310.17773v1)|null|
+|**2023-10-26**|**Silicon Carbide Timepix3 detector for quantum-imaging detection and spectral tracking of charged particles in wide range of energy and field-of-view**|Andrej Novak et.al.|[2310.17747v1](http://arxiv.org/abs/2310.17747v1)|null|
+|**2023-10-26**|**Outlier Dimensions Encode Task-Specific Knowledge**|William Rudman et.al.|[2310.17715v1](http://arxiv.org/abs/2310.17715v1)|[link](https://github.com/wrudman/outlier_dimensions)|
+|**2023-10-26**|**Honing cross-correlation tools for inference on ultra-high-energy cosmic-ray composition**|Konstantinos Tanidis et.al.|[2310.17699v1](http://arxiv.org/abs/2310.17699v1)|null|
 |**2023-10-26**|**DeepShaRM: Multi-View Shape and Reflectance Map Recovery Under Unknown Lighting**|Kohei Yamashita et.al.|[2310.17632v1](http://arxiv.org/abs/2310.17632v1)|null|
+|**2023-10-26**|**SPA: A Graph Spectral Alignment Perspective for Domain Adaptation**|Zhiqing Xiao et.al.|[2310.17594v2](http://arxiv.org/abs/2310.17594v2)|null|
 |**2023-10-26**|**The Atacama Cosmology Telescope: Extragalactic Point Sources in the Southern Surveys at 150, 220 and 280 GHz observed between 2008-2010**|Cristian Vargas et.al.|[2310.17535v1](http://arxiv.org/abs/2310.17535v1)|null|
 |**2023-10-26**|**Crashing with disorder: Reaching the precision limit with tensor-based wavefront shaping**|Rodrigo Gutiérrez-Cuevas et.al.|[2310.17516v1](http://arxiv.org/abs/2310.17516v1)|null|
 |**2023-10-26**|**Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering**|Sukmin Cho et.al.|[2310.17490v1](http://arxiv.org/abs/2310.17490v1)|null|
@@ -16,19 +28,7 @@
 |**2023-10-25**|**An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives**|Young Min Cho et.al.|[2310.17017v1](http://arxiv.org/abs/2310.17017v1)|[link](https://github.com/jeffreych0/mental_chatbot_survey)|
 |**2023-10-25**|**The Teenager's Problem: Efficient Garment Decluttering With Grasp Optimization**|Aviv Adler et.al.|[2310.16951v1](http://arxiv.org/abs/2310.16951v1)|null|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v2](http://arxiv.org/abs/2310.16832v2)|[link](https://github.com/lightspeed-r2l/lightspeed)|
 |**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner et.al.|[2310.16750v1](http://arxiv.org/abs/2310.16750v1)|[link](https://github.com/ebnerluca/uw_depth)|
 |**2023-10-25**|**STRAW-b (STRings for Absorption length in Water-b): the second pathfinder mission for the Pacific Ocean Neutrino Experiment**|Kilian Holzapfel et.al.|[2310.16714v2](http://arxiv.org/abs/2310.16714v2)|null|
 |**2023-10-25**|**Nighttime Driver Behavior Prediction Using Taillight Signal Recognition via CNN-SVM Classifier**|Amir Hossein Barshooi et.al.|[2310.16706v1](http://arxiv.org/abs/2310.16706v1)|[link](https://github.com/deepcar/taillight_recognition)|
-|**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
-|**2023-10-25**|**Spectroradiometry with sub-microsecond time resolution using multianode photomultiplier tube assemblies**|Zachary M. Geballe et.al.|[2310.16660v1](http://arxiv.org/abs/2310.16660v1)|null|
-|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
-|**2023-10-25**|**EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration**|Xingchen Li et.al.|[2310.16629v1](http://arxiv.org/abs/2310.16629v1)|null|
-|**2023-10-25**|**Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers**|Gerald Ebmer et.al.|[2310.16618v1](http://arxiv.org/abs/2310.16618v1)|null|
-|**2023-10-25**|**NIKA2 observations of dust grain evolution from star-forming filament to T-Tauri disk: Preliminary results from NIKA2 observations of the Taurus B211/B213 filament**|Q. Nguyen-Luong et.al.|[2310.16526v1](http://arxiv.org/abs/2310.16526v1)|null|
-|**2023-10-25**|**MVFAN: Multi-View Feature Assisted Network for 4D Radar Object Detection**|Qiao Yan et.al.|[2310.16389v1](http://arxiv.org/abs/2310.16389v1)|null|
-|**2023-10-25**|**Neuromorphic cameras for Atmospheric Cherenkov Telescopes and fast optical astronomy: new paradigm, challenges and opportunities**|John Hoang et.al.|[2310.16321v1](http://arxiv.org/abs/2310.16321v1)|null|
-|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
-|**2023-10-24**|**Mixture-of-Linguistic-Experts Adapters for Improving and Interpreting Pre-trained Language Models**|Raymond Li et.al.|[2310.16240v1](http://arxiv.org/abs/2310.16240v1)|null|
-|**2023-10-24**|**CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset**|Susanna Rücker et.al.|[2310.16225v1](http://arxiv.org/abs/2310.16225v1)|null|
-|**2023-10-24**|**The Wagging Plasma Tail of Comet C/2020 S3 (Erasmus)**|Jing Li et.al.|[2310.16219v1](http://arxiv.org/abs/2310.16219v1)|null|
-|**2023-10-24**|**Background Summarization of Event Timelines**|Adithya Pratapa et.al.|[2310.16197v1](http://arxiv.org/abs/2310.16197v1)|null|

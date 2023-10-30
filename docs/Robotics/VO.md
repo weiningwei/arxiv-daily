@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-26**|**Ambient-Aware LiDAR Odometry in Variable Terrains**|Mazeyu Ji et.al.|[2309.14641v1](http://arxiv.org/abs/2309.14641v1)|null|
 |**2023-09-25**|**Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion**|Christopher L. Choi et.al.|[2309.14514v1](http://arxiv.org/abs/2309.14514v1)|[link](https://github.com/chutsu/yac)|
 |**2023-09-25**|**Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory**|Xin Zheng et.al.|[2309.13842v1](http://arxiv.org/abs/2309.13842v1)|[link](https://github.com/kevin2431/traj-lo)|
-|**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|

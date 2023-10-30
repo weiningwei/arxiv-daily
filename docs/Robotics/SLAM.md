@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
 |**2023-10-23**|**SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars**|Samiran Gode et.al.|[2310.15023v1](http://arxiv.org/abs/2310.15023v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|[link](https://github.com/rlsch/depth-conversions)|
 |**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768v1](http://arxiv.org/abs/2310.13768v1)|null|
@@ -31,4 +32,3 @@
 |**2023-09-30**|**Better Situational Graphs by Inferring High-level Semantic-Relational Concepts**|Jose Andres Millan-Romera et.al.|[2310.00401v1](http://arxiv.org/abs/2310.00401v1)|null|
 |**2023-09-30**|**Walking = Traversable? : Traversability Prediction via Multiple Human Object Tracking under Occlusion**|Jonathan Tay Yu Liang et.al.|[2310.00242v1](http://arxiv.org/abs/2310.00242v1)|null|
 |**2023-09-29**|**UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**|Linghao Yang et.al.|[2309.17036v2](http://arxiv.org/abs/2309.17036v2)|null|
-|**2023-09-28**|**Active SLAM Utility Function Exploiting Path Entropy**|Muhammad Farhan Ahmed et.al.|[2309.16490v1](http://arxiv.org/abs/2309.16490v1)|null|
