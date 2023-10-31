@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
+|**2023-10-28**|**KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form**|Fang Bai et.al.|[2310.18697v1](http://arxiv.org/abs/2310.18697v1)|null|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
 |**2023-10-23**|**SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars**|Samiran Gode et.al.|[2310.15023v1](http://arxiv.org/abs/2310.15023v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|[link](https://github.com/rlsch/depth-conversions)|
@@ -30,5 +32,3 @@
 |**2023-10-03**|**Collaborative Active SLAM: Synchronous and Asynchronous Coordination Among Agents**|Matteo Maragliano et.al.|[2310.01967v1](http://arxiv.org/abs/2310.01967v1)|null|
 |**2023-10-02**|**Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping**|Weria Khaksar et.al.|[2310.01064v1](http://arxiv.org/abs/2310.01064v1)|null|
 |**2023-09-30**|**Better Situational Graphs by Inferring High-level Semantic-Relational Concepts**|Jose Andres Millan-Romera et.al.|[2310.00401v1](http://arxiv.org/abs/2310.00401v1)|null|
-|**2023-09-30**|**Walking = Traversable? : Traversability Prediction via Multiple Human Object Tracking under Occlusion**|Jonathan Tay Yu Liang et.al.|[2310.00242v1](http://arxiv.org/abs/2310.00242v1)|null|
-|**2023-09-29**|**UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**|Linghao Yang et.al.|[2309.17036v2](http://arxiv.org/abs/2309.17036v2)|null|

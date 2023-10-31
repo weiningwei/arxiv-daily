@@ -2,8 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-29**|**Accelerations of large inertial particles in turbulence**|Yaning Fan et.al.|[2310.19157v1](http://arxiv.org/abs/2310.19157v1)|null|
+|**2023-10-29**|**Hall magnetohydrodynamics in a relativistically strong mean magnetic field**|Y. Kawazura et.al.|[2310.19072v1](http://arxiv.org/abs/2310.19072v1)|null|
+|**2023-10-27**|**Maglev for Dark Matter: Dark-photon and axion dark matter sensing with levitated superconductors**|Gerard Higgins et.al.|[2310.18398v1](http://arxiv.org/abs/2310.18398v1)|null|
 |**2023-10-27**|**Phase-space entropy cascade and irreversibility of stochastic heating in nearly collisionless plasma turbulence**|Michael L. Nastac et.al.|[2310.18211v1](http://arxiv.org/abs/2310.18211v1)|null|
-|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
 |**2023-10-27**|**Two-dimensional Rayleigh-Bénard convection without boundaries**|Philip Winchester et.al.|[2310.17928v1](http://arxiv.org/abs/2310.17928v1)|null|
 |**2023-10-26**|**Kinetic stability of Chapman-Enskog plasmas**|Archie F. A. Bott et.al.|[2310.17754v1](http://arxiv.org/abs/2310.17754v1)|null|
 |**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
@@ -29,6 +32,3 @@
 |**2023-10-17**|**Feature Pyramid biLSTM: Using Smartphone Sensors for Transportation Mode Detection**|Qinrui Tang et.al.|[2310.11087v1](http://arxiv.org/abs/2310.11087v1)|null|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
 |**2023-10-16**|**Basal force fluctuations and granular rheology: Linking macroscopic descriptions of granular flows to bed forces with implications for monitoring signals**|P. J. Zrelak et.al.|[2310.10871v1](http://arxiv.org/abs/2310.10871v1)|null|
-|**2023-10-16**|**The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**|Paul Ruvolo et.al.|[2310.10862v1](http://arxiv.org/abs/2310.10862v1)|null|
-|**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597v1](http://arxiv.org/abs/2310.10597v1)|null|
-|**2023-10-16**|**Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot**|Muhammad Shalihan et.al.|[2310.10289v1](http://arxiv.org/abs/2310.10289v1)|null|
