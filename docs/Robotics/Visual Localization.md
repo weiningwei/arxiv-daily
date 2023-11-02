@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-01**|**nvblox: GPU-Accelerated Incremental Signed Distance Field Mapping**|Alexander Millane et.al.|[2311.00626v1](http://arxiv.org/abs/2311.00626v1)|null|
+|**2023-11-01**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|Anthony Fuller et.al.|[2311.00566v1](http://arxiv.org/abs/2311.00566v1)|[link](https://github.com/antofuller/croma)|
+|**2023-11-01**|**Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**|Zhanwen Liu et.al.|[2311.00436v1](http://arxiv.org/abs/2311.00436v1)|null|
+|**2023-11-01**|**Event-based Background-Oriented Schlieren**|Shintaro Shiba et.al.|[2311.00434v1](http://arxiv.org/abs/2311.00434v1)|[link](https://github.com/tub-rip/event_based_bos)|
+|**2023-11-01**|**Analyzing Head Orientation of Neurotypical and Autistic Individuals in Triadic Conversations**|Onur N. Tepencelik et.al.|[2311.00343v1](http://arxiv.org/abs/2311.00343v1)|null|
+|**2023-11-01**|**Gaze-based Learning from Demonstration In Surgical Robotics**|A. E. Abdelaal et.al.|[2311.00313v1](http://arxiv.org/abs/2311.00313v1)|null|
+|**2023-10-31**|**UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges**|Mohit K. Sharma et.al.|[2311.00082v1](http://arxiv.org/abs/2311.00082v1)|null|
+|**2023-10-31**|**Investigating Software Developers' Challenges for Android Permissions in Stack Overflow**|Sahrima Jannat Oishwee et.al.|[2311.00074v1](http://arxiv.org/abs/2311.00074v1)|null|
 |**2023-10-31**|**Meta Learning for Multi-View Visuomotor Systems**|Benji Alwis et.al.|[2310.20414v1](http://arxiv.org/abs/2310.20414v1)|null|
 |**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412v1](http://arxiv.org/abs/2310.20412v1)|null|
 |**2023-10-31**|**Recaptured Raw Screen Image and Video Demoiréing via Channel and Spatial Modulations**|Huanjing Yue et.al.|[2310.20332v1](http://arxiv.org/abs/2310.20332v1)|[link](https://github.com/tju-chengyijia/vd_raw)|
@@ -24,11 +32,3 @@
 |**2023-10-27**|**Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches**|Tianrun Chen et.al.|[2310.18148v1](http://arxiv.org/abs/2310.18148v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
 |**2023-10-27**|**Observing galaxy clusters and the cosmic web through the Sunyaev Zel'dovich effect with MISTRAL**|E. S. Battistelli et.al.|[2310.18029v1](http://arxiv.org/abs/2310.18029v1)|null|
-|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
-|**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911v1](http://arxiv.org/abs/2310.17911v1)|[link](https://github.com/hyperspectral-skin/hyper-skin-2023)|
-|**2023-10-27**|**The Innovation-to-Occupations Ontology: Linking Business Transformation Initiatives to Occupations and Skills**|Daniela Elia et.al.|[2310.17909v1](http://arxiv.org/abs/2310.17909v1)|null|
-|**2023-10-26**|**Graph Convolutional Networks for Complex Traffic Scenario Classification**|Tobias Hoek et.al.|[2310.17773v1](http://arxiv.org/abs/2310.17773v1)|null|
-|**2023-10-26**|**Silicon Carbide Timepix3 detector for quantum-imaging detection and spectral tracking of charged particles in wide range of energy and field-of-view**|Andrej Novak et.al.|[2310.17747v1](http://arxiv.org/abs/2310.17747v1)|null|
-|**2023-10-26**|**Outlier Dimensions Encode Task-Specific Knowledge**|William Rudman et.al.|[2310.17715v1](http://arxiv.org/abs/2310.17715v1)|[link](https://github.com/wrudman/outlier_dimensions)|
-|**2023-10-26**|**Honing cross-correlation tools for inference on ultra-high-energy cosmic-ray composition**|Konstantinos Tanidis et.al.|[2310.17699v2](http://arxiv.org/abs/2310.17699v2)|null|
-|**2023-10-26**|**DeepShaRM: Multi-View Shape and Reflectance Map Recovery Under Unknown Lighting**|Kohei Yamashita et.al.|[2310.17632v1](http://arxiv.org/abs/2310.17632v1)|null|
