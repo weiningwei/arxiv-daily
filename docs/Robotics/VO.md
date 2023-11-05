@@ -5,7 +5,7 @@
 |**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v1](http://arxiv.org/abs/2311.01017v1)|null|
 |**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset et.al.|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
-|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
+|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|[link](https://github.com/ntnu-arl/underwater-datasets)|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|[link](https://github.com/rlsch/depth-conversions)|

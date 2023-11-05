@@ -19,7 +19,7 @@
 |**2023-10-26**|**Kinetic stability of Chapman-Enskog plasmas**|Archie F. A. Bott et.al.|[2310.17754v1](http://arxiv.org/abs/2310.17754v1)|null|
 |**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
 |**2023-10-25**|**Scale Filtering Analysis of Kinetic Reconnection and its Associated Turbulence**|Subash Adhikari et.al.|[2310.16973v1](http://arxiv.org/abs/2310.16973v1)|null|
-|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|null|
+|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|[link](https://github.com/ntnu-arl/underwater-datasets)|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
 |**2023-10-24**|**Mass-based separation of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2310.16204v1](http://arxiv.org/abs/2310.16204v1)|null|
 |**2023-10-24**|**Nonlinear dimensionality reduction then and now: AIMs for dissipative PDEs in the ML era**|Eleni D. Koronaki et.al.|[2310.15816v1](http://arxiv.org/abs/2310.15816v1)|null|
