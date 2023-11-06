@@ -16,7 +16,7 @@
 |**2023-11-02**|**M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object Detection**|Hang Zhang et.al.|[2311.00986v1](http://arxiv.org/abs/2311.00986v1)|null|
 |**2023-11-02**|**Federated Linear Bandits with Finite Adversarial Actions**|Li Fan et.al.|[2311.00973v1](http://arxiv.org/abs/2311.00973v1)|null|
 |**2023-11-01**|**Centralized Management of a Wifi Mesh for Autonomous Farms**|Ammar Tahir et.al.|[2311.00887v1](http://arxiv.org/abs/2311.00887v1)|null|
-|**2023-11-01**|**nvblox: GPU-Accelerated Incremental Signed Distance Field Mapping**|Alexander Millane et.al.|[2311.00626v1](http://arxiv.org/abs/2311.00626v1)|null|
+|**2023-11-01**|**nvblox: GPU-Accelerated Incremental Signed Distance Field Mapping**|Alexander Millane et.al.|[2311.00626v1](http://arxiv.org/abs/2311.00626v1)|[link](https://github.com/nvidia-isaac-ros/isaac_ros_nvblox)|
 |**2023-11-01**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|Anthony Fuller et.al.|[2311.00566v1](http://arxiv.org/abs/2311.00566v1)|[link](https://github.com/antofuller/croma)|
 |**2023-11-01**|**Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**|Zhanwen Liu et.al.|[2311.00436v1](http://arxiv.org/abs/2311.00436v1)|null|
 |**2023-11-01**|**Event-based Background-Oriented Schlieren**|Shintaro Shiba et.al.|[2311.00434v1](http://arxiv.org/abs/2311.00434v1)|[link](https://github.com/tub-rip/event_based_bos)|

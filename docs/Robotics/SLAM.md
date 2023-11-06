@@ -25,7 +25,7 @@
 |**2023-10-10**|**Efficient Graduated Non-Convexity for Pose Graph Optimization**|Wonseok Kang et.al.|[2310.06765v1](http://arxiv.org/abs/2310.06765v1)|[link](https://github.com/SNU-DLLAB/EGNC-PGO)|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
 |**2023-10-09**|**Entropy Based Multi-robot Active SLAM**|Muhammad Farhan Ahmed et.al.|[2310.06160v1](http://arxiv.org/abs/2310.06160v1)|null|
-|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
+|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|[link](https://github.com/juliangaal/warpsense)|
 |**2023-10-09**|**Care3D: An Active 3D Object Detection Dataset of Real Robotic-Care Environments**|Michael G. Adam et.al.|[2310.05600v1](http://arxiv.org/abs/2310.05600v1)|[link](https://github.com/m-g-a/care3d)|
 |**2023-10-07**|**Hierarchical Unsupervised Topological SLAM**|Ayush Sharma et.al.|[2310.04802v1](http://arxiv.org/abs/2310.04802v1)|null|
 |**2023-10-07**|**HI-SLAM: Monocular Real-time Dense Mapping with Hybrid Implicit Fields**|Wei Zhang et.al.|[2310.04787v1](http://arxiv.org/abs/2310.04787v1)|null|

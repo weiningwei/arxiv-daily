@@ -18,7 +18,7 @@
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
 |**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
-|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
+|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|[link](https://github.com/juliangaal/warpsense)|
 |**2023-10-08**|**Indoor Localization for an Autonomous Model Car: A Marker-Based Multi-Sensor Fusion Framework**|Xibo Li et.al.|[2310.05198v1](http://arxiv.org/abs/2310.05198v1)|null|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
 |**2023-10-07**|**AirIMU: Learning Uncertainty Propagation for Inertial Odometry**|Yuheng Qiu et.al.|[2310.04874v3](http://arxiv.org/abs/2310.04874v3)|null|
