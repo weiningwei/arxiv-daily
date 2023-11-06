@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-03**|**From Chaos to Calibration: A Geometric Mutual Information Approach to Target-Free Camera LiDAR Extrinsic Calibration**|Jack Borer et.al.|[2311.01905v1](http://arxiv.org/abs/2311.01905v1)|null|
+|**2023-11-03**|**High Precision Causal Model Evaluation with Conditional Randomization**|Chao Ma et.al.|[2311.01902v1](http://arxiv.org/abs/2311.01902v1)|null|
+|**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
+|**2023-11-03**|**On Hand-Held Grippers and the Morphological Gap in Human Manipulation Demonstration**|Kiran Doshi et.al.|[2311.01832v1](http://arxiv.org/abs/2311.01832v1)|null|
+|**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815v1](http://arxiv.org/abs/2311.01815v1)|null|
+|**2023-11-02**|**4D-Former: Multimodal 4D Panoptic Segmentation**|Ali Athar et.al.|[2311.01520v1](http://arxiv.org/abs/2311.01520v1)|null|
 |**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|
 |**2023-11-02**|**Learning to See Physical Properties with Active Sensing Motor Policies**|Gabriel B. Margolis et.al.|[2311.01405v1](http://arxiv.org/abs/2311.01405v1)|null|
 |**2023-11-02**|**Respiratory Anomaly Detection using Reflected Infrared Light-wave Signals**|Md Zobaer Islam et.al.|[2311.01367v1](http://arxiv.org/abs/2311.01367v1)|null|
@@ -26,9 +32,3 @@
 |**2023-10-31**|**Investigating Software Developers' Challenges for Android Permissions in Stack Overflow**|Sahrima Jannat Oishwee et.al.|[2311.00074v1](http://arxiv.org/abs/2311.00074v1)|null|
 |**2023-10-31**|**Meta Learning for Multi-View Visuomotor Systems**|Benji Alwis et.al.|[2310.20414v2](http://arxiv.org/abs/2310.20414v2)|null|
 |**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412v1](http://arxiv.org/abs/2310.20412v1)|null|
-|**2023-10-31**|**Recaptured Raw Screen Image and Video Demoiréing via Channel and Spatial Modulations**|Huanjing Yue et.al.|[2310.20332v1](http://arxiv.org/abs/2310.20332v1)|[link](https://github.com/tju-chengyijia/vd_raw)|
-|**2023-10-31**|**C-Silicon-based metasurfaces for aperture-robust spectrometer/imaging with angle integration**|Weizhu Xu et.al.|[2310.20289v1](http://arxiv.org/abs/2310.20289v1)|null|
-|**2023-10-31**|**Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents**|Woojun Kim et.al.|[2310.20287v1](http://arxiv.org/abs/2310.20287v1)|null|
-|**2023-10-31**|**Refined Equivalent Pinhole Model for Large-scale 3D Reconstruction from Spaceborne CCD Imagery**|Hong Danyang et.al.|[2310.20117v1](http://arxiv.org/abs/2310.20117v1)|null|
-|**2023-10-30**|**The DECam Ecliptic Exploration Project (DEEP) II. Observational Strategy and Design**|Chadwick A. Trujillo et.al.|[2310.19864v1](http://arxiv.org/abs/2310.19864v1)|null|
-|**2023-10-30**|**LLMaAA: Making Large Language Models as Active Annotators**|Ruoyu Zhang et.al.|[2310.19596v2](http://arxiv.org/abs/2310.19596v2)|null|

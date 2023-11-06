@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-03**|**Control Design for Trajectory Tracking and Stabilization of Sensor LOS in an Inertially Stabilized Platform**|Abinash Agasti et.al.|[2311.01859v1](http://arxiv.org/abs/2311.01859v1)|null|
 |**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
 |**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v1](http://arxiv.org/abs/2311.01017v1)|null|
 |**2023-10-31**|**A new inertial condition on the subgradient extragradient method for solving pseudomonotone equilibrium problem**|Chinedu Izuchukwu et.al.|[2310.20368v1](http://arxiv.org/abs/2310.20368v1)|null|
@@ -31,4 +32,3 @@
 |**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163v1](http://arxiv.org/abs/2310.14163v1)|null|
 |**2023-10-20**|**Quadrotor Dead Reckoning with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452v2](http://arxiv.org/abs/2310.13452v2)|[link](https://github.com/ansfl/quadrotor-dead-reckoning-with-multiple-inertial-sensors)|
 |**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|[link](https://github.com/fast-fire/colag)|
-|**2023-10-19**|**A Multi-Stage Temporal Convolutional Network for Volleyball Jumps Classification Using a Waist-Mounted IMU**|Meng Shang et.al.|[2310.13097v1](http://arxiv.org/abs/2310.13097v1)|null|
