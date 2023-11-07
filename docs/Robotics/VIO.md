@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-06**|**Hydrodynamic modelling of dynamical tides dissipation in Jupiter's interior as revealed by Juno**|Hachem Dhouib et.al.|[2311.03288v1](http://arxiv.org/abs/2311.03288v1)|null|
+|**2023-11-06**|**Tidal dissipation in stably stratified and semi-convective regions of rotating giant planets: incorporating Coriolis forces**|Christina M. Pontin et.al.|[2311.03273v1](http://arxiv.org/abs/2311.03273v1)|null|
+|**2023-11-06**|**Inertia & viscosity dictate drop impact forces**|Vatsal Sanjay et.al.|[2311.03012v1](http://arxiv.org/abs/2311.03012v1)|null|
+|**2023-11-06**|**Non-linear Three-mode Coupling of Gravity Modes in Rotating Slowly Pulsating B Stars: Stationary Solutions and Modeling Potential**|Jordan Van Beeck et.al.|[2311.02972v1](http://arxiv.org/abs/2311.02972v1)|null|
+|**2023-11-05**|**Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight**|Michael Bosello et.al.|[2311.02667v1](http://arxiv.org/abs/2311.02667v1)|[link](https://github.com/tii-racing/drone-racing-dataset)|
+|**2023-11-04**|**Molecular dynamics simulation of the coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2311.02417v1](http://arxiv.org/abs/2311.02417v1)|null|
+|**2023-11-04**|**Predicting Ground Reaction Force from Inertial Sensors**|Bowen Song et.al.|[2311.02287v1](http://arxiv.org/abs/2311.02287v1)|null|
+|**2023-11-03**|**Topographically-generated near-internal waves as a response to winds over the ocean surface**|Ashley J. Barnes et.al.|[2311.02275v1](http://arxiv.org/abs/2311.02275v1)|null|
+|**2023-11-03**|**Synchronous Observer Design for Inertial Navigation Systems with Almost-Global Convergence**|Pieter van Goor et.al.|[2311.02234v1](http://arxiv.org/abs/2311.02234v1)|null|
 |**2023-11-03**|**Control Design for Trajectory Tracking and Stabilization of Sensor LOS in an Inertially Stabilized Platform**|Abinash Agasti et.al.|[2311.01859v1](http://arxiv.org/abs/2311.01859v1)|null|
 |**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
 |**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v1](http://arxiv.org/abs/2311.01017v1)|null|
@@ -23,12 +32,3 @@
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|[link](https://github.com/ntnu-arl/underwater-datasets)|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
 |**2023-10-24**|**Mass-based separation of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2310.16204v1](http://arxiv.org/abs/2310.16204v1)|null|
-|**2023-10-24**|**Nonlinear dimensionality reduction then and now: AIMs for dissipative PDEs in the ML era**|Eleni D. Koronaki et.al.|[2310.15816v1](http://arxiv.org/abs/2310.15816v1)|null|
-|**2023-10-24**|**Breaking of brightness consistency in optical flow with a lightweight CNN network**|Yicheng Lin et.al.|[2310.15655v1](http://arxiv.org/abs/2310.15655v1)|[link](https://github.com/linyicheng1/LET-NET)|
-|**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
-|**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|[link](https://github.com/rlsch/depth-conversions)|
-|**2023-10-23**|**A multiple time scale approach for anisotropic inertial wave turbulence**|Sebastien Galtier et.al.|[2310.14640v1](http://arxiv.org/abs/2310.14640v1)|null|
-|**2023-10-22**|**Cross-Domain HAR: Few Shot Transfer Learning for Human Activity Recognition**|Megha Thukral et.al.|[2310.14390v1](http://arxiv.org/abs/2310.14390v1)|null|
-|**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163v1](http://arxiv.org/abs/2310.14163v1)|null|
-|**2023-10-20**|**Quadrotor Dead Reckoning with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452v2](http://arxiv.org/abs/2310.13452v2)|[link](https://github.com/ansfl/quadrotor-dead-reckoning-with-multiple-inertial-sensors)|
-|**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|[link](https://github.com/fast-fire/colag)|
