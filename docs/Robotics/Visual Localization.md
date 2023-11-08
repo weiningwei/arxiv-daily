@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|null|
+|**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058v1](http://arxiv.org/abs/2311.04058v1)|null|
+|**2023-11-07**|**RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments**|Rui She et.al.|[2311.03904v1](http://arxiv.org/abs/2311.03904v1)|[link](https://github.com/ai-it-avs/robustmat)|
+|**2023-11-07**|**Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots**|Aleksander Vangen et.al.|[2311.03855v1](http://arxiv.org/abs/2311.03855v1)|null|
+|**2023-11-07**|**Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots**|Mihir Dharmadhikari et.al.|[2311.03838v1](http://arxiv.org/abs/2311.03838v1)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v1](http://arxiv.org/abs/2311.03784v1)|null|
+|**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742v1](http://arxiv.org/abs/2311.03742v1)|null|
+|**2023-11-07**|**FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion**|Xinhao Xiang et.al.|[2311.03620v1](http://arxiv.org/abs/2311.03620v1)|null|
+|**2023-11-06**|**Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking**|Cheng-Yen Yang et.al.|[2311.03561v1](http://arxiv.org/abs/2311.03561v1)|null|
 |**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198v1](http://arxiv.org/abs/2311.03198v1)|[link](https://github.com/ZhouZijie77/LCPR)|
 |**2023-11-06**|**Euclid Preparation. TBD. Impact of magnification on spectroscopic galaxy clustering**|Euclid Collaboration et.al.|[2311.03168v1](http://arxiv.org/abs/2311.03168v1)|null|
 |**2023-11-06**|**Modelling cross-correlations of ultra-high-energy cosmic rays and galaxies**|Federico R. Urban et.al.|[2311.03048v1](http://arxiv.org/abs/2311.03048v1)|null|
@@ -23,12 +32,3 @@
 |**2023-11-04**|**P2O-Calib: Camera-LiDAR Calibration Using Point-Pair Spatial Occlusion Relationship**|Su Wang et.al.|[2311.02413v1](http://arxiv.org/abs/2311.02413v1)|null|
 |**2023-11-04**|**Continual Learning of Unsupervised Monocular Depth from Videos**|Hemang Chawla et.al.|[2311.02393v1](http://arxiv.org/abs/2311.02393v1)|[link](https://github.com/neurai-lab/cude-monodepthcl)|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|null|
-|**2023-11-03**|**Phase and contrast moiré signatures in two-dimensional cone beam interferometry**|D. Sarenac et.al.|[2311.02261v1](http://arxiv.org/abs/2311.02261v1)|null|
-|**2023-11-03**|**Monitoring Inactivity of Single Older Adults at Home**|Longfei Chen et.al.|[2311.02249v1](http://arxiv.org/abs/2311.02249v1)|null|
-|**2023-11-03**|**From Chaos to Calibration: A Geometric Mutual Information Approach to Target-Free Camera LiDAR Extrinsic Calibration**|Jack Borer et.al.|[2311.01905v1](http://arxiv.org/abs/2311.01905v1)|null|
-|**2023-11-03**|**High Precision Causal Model Evaluation with Conditional Randomization**|Chao Ma et.al.|[2311.01902v1](http://arxiv.org/abs/2311.01902v1)|null|
-|**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
-|**2023-11-03**|**On Hand-Held Grippers and the Morphological Gap in Human Manipulation Demonstration**|Kiran Doshi et.al.|[2311.01832v1](http://arxiv.org/abs/2311.01832v1)|null|
-|**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815v1](http://arxiv.org/abs/2311.01815v1)|null|
-|**2023-11-02**|**4D-Former: Multimodal 4D Panoptic Segmentation**|Ali Athar et.al.|[2311.01520v1](http://arxiv.org/abs/2311.01520v1)|null|
-|**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|

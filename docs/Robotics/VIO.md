@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-07**|**The role of sign indefinite invariants in shaping turbulent cascades**|Michal Shavit et.al.|[2311.04183v1](http://arxiv.org/abs/2311.04183v1)|null|
+|**2023-11-07**|**Spectral scaling of unstably-stratified atmospheric flows: understanding the low frequency spread of Kaimal model**|Claudine Charrondière et.al.|[2311.03859v1](http://arxiv.org/abs/2311.03859v1)|null|
+|**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-11-06**|**Hydrodynamic modelling of dynamical tides dissipation in Jupiter's interior as revealed by Juno**|Hachem Dhouib et.al.|[2311.03288v1](http://arxiv.org/abs/2311.03288v1)|null|
 |**2023-11-06**|**Tidal dissipation in stably stratified and semi-convective regions of rotating giant planets: incorporating Coriolis forces**|Christina M. Pontin et.al.|[2311.03273v1](http://arxiv.org/abs/2311.03273v1)|null|
 |**2023-11-06**|**Inertia & viscosity dictate drop impact forces**|Vatsal Sanjay et.al.|[2311.03012v1](http://arxiv.org/abs/2311.03012v1)|null|
@@ -29,6 +32,3 @@
 |**2023-10-26**|**Kinetic stability of Chapman-Enskog plasmas**|Archie F. A. Bott et.al.|[2310.17754v1](http://arxiv.org/abs/2310.17754v1)|null|
 |**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
 |**2023-10-25**|**Scale Filtering Analysis of Kinetic Reconnection and its Associated Turbulence**|Subash Adhikari et.al.|[2310.16973v1](http://arxiv.org/abs/2310.16973v1)|null|
-|**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|[link](https://github.com/ntnu-arl/underwater-datasets)|
-|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
-|**2023-10-24**|**Mass-based separation of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2310.16204v1](http://arxiv.org/abs/2310.16204v1)|null|
