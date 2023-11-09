@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-08**|**Propagation of acoustic-gravity waves in non-uniform wind flows of the polar atmosphere**|A. K. Fedorenko et.al.|[2311.04529v1](http://arxiv.org/abs/2311.04529v1)|null|
+|**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477v1](http://arxiv.org/abs/2311.04477v1)|null|
+|**2023-11-07**|**Proprioceptive Invariant Robot State Estimation**|Tzu-Yuan Lin et.al.|[2311.04320v1](http://arxiv.org/abs/2311.04320v1)|null|
 |**2023-11-07**|**The role of sign indefinite invariants in shaping turbulent cascades**|Michal Shavit et.al.|[2311.04183v1](http://arxiv.org/abs/2311.04183v1)|null|
 |**2023-11-07**|**Spectral scaling of unstably-stratified atmospheric flows: understanding the low frequency spread of Kaimal model**|Claudine Charrondière et.al.|[2311.03859v1](http://arxiv.org/abs/2311.03859v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
@@ -29,6 +32,3 @@
 |**2023-10-27**|**Phase-space entropy cascade and irreversibility of stochastic heating in nearly collisionless plasma turbulence**|Michael L. Nastac et.al.|[2310.18211v1](http://arxiv.org/abs/2310.18211v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
 |**2023-10-27**|**Two-dimensional Rayleigh-Bénard convection without boundaries**|Philip Winchester et.al.|[2310.17928v1](http://arxiv.org/abs/2310.17928v1)|null|
-|**2023-10-26**|**Kinetic stability of Chapman-Enskog plasmas**|Archie F. A. Bott et.al.|[2310.17754v1](http://arxiv.org/abs/2310.17754v1)|null|
-|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|[link](https://github.com/ryota-takedalab/judgeai-lutzedge)|
-|**2023-10-25**|**Scale Filtering Analysis of Kinetic Reconnection and its Associated Turbulence**|Subash Adhikari et.al.|[2310.16973v1](http://arxiv.org/abs/2310.16973v1)|null|
