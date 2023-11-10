@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-09**|**Reconstructing Objects in-the-wild for Realistic Sensor Simulation**|Ze Yang et.al.|[2311.05602v1](http://arxiv.org/abs/2311.05602v1)|null|
+|**2023-11-09**|**Object-centric Cross-modal Feature Distillation for Event-based Object Detection**|Lei Li et.al.|[2311.05494v1](http://arxiv.org/abs/2311.05494v1)|null|
+|**2023-11-09**|**Remarkably Compact Quiescent Candidates at $3<z<5$ in JWST-CEERS**|Lillian Wright et.al.|[2311.05394v1](http://arxiv.org/abs/2311.05394v1)|null|
+|**2023-11-09**|**Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions**|Wojciech Michal Matkowski et.al.|[2311.05383v1](http://arxiv.org/abs/2311.05383v1)|null|
+|**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344v1](http://arxiv.org/abs/2311.05344v1)|null|
+|**2023-11-09**|**TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning**|Gustavo Salazar-Gomez et.al.|[2311.05319v1](http://arxiv.org/abs/2311.05319v1)|null|
+|**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310v1](http://arxiv.org/abs/2311.05310v1)|null|
+|**2023-11-09**|**Tracking and Following a Suspended Moving Object using Camera-Based Vision System**|Michele Ambrosino et.al.|[2311.05213v1](http://arxiv.org/abs/2311.05213v1)|null|
+|**2023-11-09**|**Differentiable Cloth Parameter Identification and State Estimation in Manipulation**|Dongzhe Zheng et.al.|[2311.05141v1](http://arxiv.org/abs/2311.05141v1)|null|
+|**2023-11-08**|**Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR**|Conghao Zhou et.al.|[2311.04997v1](http://arxiv.org/abs/2311.04997v1)|null|
 |**2023-11-08**|**Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction**|Zacharias Anastasakis et.al.|[2311.04834v1](http://arxiv.org/abs/2311.04834v1)|[link](https://github.com/deeplab-ai/selfsupervisedvrd)|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
 |**2023-11-08**|**Accessibility of the ILMT survey data**|Kuntal Misra et.al.|[2311.04717v1](http://arxiv.org/abs/2311.04717v1)|null|
@@ -22,13 +32,3 @@
 |**2023-11-07**|**Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots**|Mihir Dharmadhikari et.al.|[2311.03838v1](http://arxiv.org/abs/2311.03838v1)|null|
 |**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
 |**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742v1](http://arxiv.org/abs/2311.03742v1)|null|
-|**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246v1](http://arxiv.org/abs/2311.04246v1)|null|
-|**2023-11-07**|**FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion**|Xinhao Xiang et.al.|[2311.03620v1](http://arxiv.org/abs/2311.03620v1)|null|
-|**2023-11-06**|**Toward Planet-Wide Traffic Camera Calibration**|Khiem Vuong et.al.|[2311.04243v1](http://arxiv.org/abs/2311.04243v1)|null|
-|**2023-11-06**|**Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking**|Cheng-Yen Yang et.al.|[2311.03561v1](http://arxiv.org/abs/2311.03561v1)|null|
-|**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198v1](http://arxiv.org/abs/2311.03198v1)|[link](https://github.com/ZhouZijie77/LCPR)|
-|**2023-11-06**|**Euclid Preparation. TBD. Impact of magnification on spectroscopic galaxy clustering**|Euclid Collaboration et.al.|[2311.03168v1](http://arxiv.org/abs/2311.03168v1)|[link](https://github.com/jcgoran/fitk)|
-|**2023-11-06**|**Modelling cross-correlations of ultra-high-energy cosmic rays and galaxies**|Federico R. Urban et.al.|[2311.03048v1](http://arxiv.org/abs/2311.03048v1)|null|
-|**2023-11-06**|**Obstacle- and Occlusion-Responsive Visual Tracking Control for Redundant Manipulators using Reachability Measure**|Mincheul Kang et.al.|[2311.03029v1](http://arxiv.org/abs/2311.03029v1)|null|
-|**2023-11-06**|**Rotational phase dependent J-H colour of the dwarf planet Eris**|Róbert Szakáts et.al.|[2311.02966v1](http://arxiv.org/abs/2311.02966v1)|null|
-|**2023-11-06**|**The Pursuit of Human Labeling: A New Perspective on Unsupervised Learning**|Artyom Gadetsky et.al.|[2311.02940v1](http://arxiv.org/abs/2311.02940v1)|[link](https://github.com/mlbio-epfl/hume)|
