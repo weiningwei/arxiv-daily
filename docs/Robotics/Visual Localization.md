@@ -28,7 +28,7 @@
 |**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|null|
 |**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058v1](http://arxiv.org/abs/2311.04058v1)|null|
 |**2023-11-07**|**RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments**|Rui She et.al.|[2311.03904v1](http://arxiv.org/abs/2311.03904v1)|[link](https://github.com/ai-it-avs/robustmat)|
-|**2023-11-07**|**Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots**|Aleksander Vangen et.al.|[2311.03855v1](http://arxiv.org/abs/2311.03855v1)|null|
+|**2023-11-07**|**Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots**|Aleksander Vangen et.al.|[2311.03855v1](http://arxiv.org/abs/2311.03855v1)|[link](https://github.com/ntnu-arl/trace_paw)|
 |**2023-11-07**|**Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots**|Mihir Dharmadhikari et.al.|[2311.03838v1](http://arxiv.org/abs/2311.03838v1)|null|
 |**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
 |**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742v1](http://arxiv.org/abs/2311.03742v1)|null|
