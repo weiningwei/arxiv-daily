@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-10**|**Gain variations as induced by the diffuse night sky background: the ASTRI-Horn experience**|D. Impiombato et.al.|[2311.06155v1](http://arxiv.org/abs/2311.06155v1)|null|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
+|**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992v1](http://arxiv.org/abs/2311.05992v1)|null|
+|**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
+|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887v1](http://arxiv.org/abs/2311.05887v1)|null|
+|**2023-11-10**|**Central Angle Optimization for 360-degree Holographic 3D Content**|Hakdong Kim et.al.|[2311.05878v1](http://arxiv.org/abs/2311.05878v1)|null|
 |**2023-11-09**|**Reconstructing Objects in-the-wild for Realistic Sensor Simulation**|Ze Yang et.al.|[2311.05602v1](http://arxiv.org/abs/2311.05602v1)|null|
 |**2023-11-09**|**Object-centric Cross-modal Feature Distillation for Event-based Object Detection**|Lei Li et.al.|[2311.05494v1](http://arxiv.org/abs/2311.05494v1)|null|
 |**2023-11-09**|**Remarkably Compact Quiescent Candidates at $3<z<5$ in JWST-CEERS**|Lillian Wright et.al.|[2311.05394v1](http://arxiv.org/abs/2311.05394v1)|null|
@@ -26,9 +32,3 @@
 |**2023-11-07**|**CHIMERA Occultation Constraints on the Abundance of Kilometer-scale Kuiper Belt Objects**|Qicheng Zhang et.al.|[2311.04267v1](http://arxiv.org/abs/2311.04267v1)|null|
 |**2023-11-07**|**Perceptual Quality Improvement in Videoconferencing using Keyframes-based GAN**|Lorenzo Agnolucci et.al.|[2311.04263v1](http://arxiv.org/abs/2311.04263v1)|[link](https://github.com/lorenzoagnolucci/keyframes-gan)|
 |**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|null|
-|**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058v1](http://arxiv.org/abs/2311.04058v1)|null|
-|**2023-11-07**|**RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments**|Rui She et.al.|[2311.03904v1](http://arxiv.org/abs/2311.03904v1)|[link](https://github.com/ai-it-avs/robustmat)|
-|**2023-11-07**|**Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots**|Aleksander Vangen et.al.|[2311.03855v1](http://arxiv.org/abs/2311.03855v1)|[link](https://github.com/ntnu-arl/trace_paw)|
-|**2023-11-07**|**Autonomous Exploration and General Visual Inspection of Ship Ballast Water Tanks using Aerial Robots**|Mihir Dharmadhikari et.al.|[2311.03838v1](http://arxiv.org/abs/2311.03838v1)|null|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|[link](https://github.com/mlvlab/upnerf)|
-|**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742v1](http://arxiv.org/abs/2311.03742v1)|null|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
+|**2023-11-10**|**Gravitational Waves Emitted by a Uniformly Accelerated Mass: The Role of Zero-Rindler-Energy Modes in the Classical and Quantum Descriptions**|Felipe Portales-Oliva et.al.|[2311.06032v1](http://arxiv.org/abs/2311.06032v1)|null|
+|**2023-11-09**|**PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry**|Yanyu Zhang et.al.|[2311.05717v1](http://arxiv.org/abs/2311.05717v1)|null|
 |**2023-11-09**|**Multi-scale observation of magnetotail reconnection onset: 2. microscopic dynamics**|K. J. Genestreti et.al.|[2311.05411v1](http://arxiv.org/abs/2311.05411v1)|null|
 |**2023-11-09**|**Nonlinear dynamics of large-amplitude, small-scale Alfvén waves**|Alfred Mallet et.al.|[2311.05068v1](http://arxiv.org/abs/2311.05068v1)|null|
 |**2023-11-08**|**A volume averaging approach to the interfacial force in homogeneous bubbly flows with monodisperse bubbles**|Sergio Baz-Rodriguez et.al.|[2311.05044v1](http://arxiv.org/abs/2311.05044v1)|null|
@@ -29,6 +32,3 @@
 |**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset et.al.|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
 |**2023-10-30**|**Trend to equilibrium and diffusion limit for the inertial Kuramoto-Sakaguchi equation**|Francis Filbet et.al.|[2310.19344v1](http://arxiv.org/abs/2310.19344v1)|null|
 |**2023-10-30**|**Inertial focusing dynamics of spherical particles in curved microfluidic ducts with a trapezoidal cross-section**|Brendan Harding et.al.|[2310.19260v1](http://arxiv.org/abs/2310.19260v1)|null|
-|**2023-10-29**|**Accelerations of large inertial particles in turbulence**|Yaning Fan et.al.|[2310.19157v1](http://arxiv.org/abs/2310.19157v1)|null|
-|**2023-10-29**|**Hall magnetohydrodynamics in a relativistically strong mean magnetic field**|Y. Kawazura et.al.|[2310.19072v1](http://arxiv.org/abs/2310.19072v1)|null|
-|**2023-10-27**|**Maglev for Dark Matter: Dark-photon and axion dark matter sensing with levitated superconductors**|Gerard Higgins et.al.|[2310.18398v1](http://arxiv.org/abs/2310.18398v1)|[link](https://github.com/zhenliuphys/maglevdm)|
