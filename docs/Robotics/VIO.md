@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-13**|**Towards a covariant framework for post-Newtonian expansions for radiative sources**|Jelle Hartong et.al.|[2311.07546v1](http://arxiv.org/abs/2311.07546v1)|null|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|null|
+|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291v1](http://arxiv.org/abs/2311.07291v1)|null|
+|**2023-11-13**|**A Sub-5mW Evanescent Field Atom Guide with Nanofibers towards Guided Atom Interferometry with Membrane Waveguides**|Adrian Orozco et.al.|[2311.07055v1](http://arxiv.org/abs/2311.07055v1)|null|
+|**2023-11-13**|**Clifford Algebra-Based Iterated Extended Kalman Filter with Application to Low-Cost INS/GNSS Navigation**|Wei Ouyang et.al.|[2311.07049v1](http://arxiv.org/abs/2311.07049v1)|null|
+|**2023-11-12**|**Physics-Informed Data Denoising for Real-Life Sensing Systems**|Xiyuan Zhang et.al.|[2311.06968v1](http://arxiv.org/abs/2311.06968v1)|null|
+|**2023-11-12**|**The Synge G-Method: cosmology, wormholes, firewalls, geometry**|George F R Ellis et.al.|[2311.06881v1](http://arxiv.org/abs/2311.06881v1)|null|
+|**2023-11-12**|**Mass Loss and Displacement Modeling for Multi-Axis Milling**|Adrian Karl Rüppel et.al.|[2311.06847v1](http://arxiv.org/abs/2311.06847v1)|null|
+|**2023-11-11**|**Inertial control of a spinning flat disk**|Luc Jaulin et.al.|[2311.06528v1](http://arxiv.org/abs/2311.06528v1)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
 |**2023-11-10**|**Gravitational Waves Emitted by a Uniformly Accelerated Mass: The Role of Zero-Rindler-Energy Modes in the Classical and Quantum Descriptions**|Felipe Portales-Oliva et.al.|[2311.06032v1](http://arxiv.org/abs/2311.06032v1)|null|
 |**2023-11-09**|**PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry**|Yanyu Zhang et.al.|[2311.05717v1](http://arxiv.org/abs/2311.05717v1)|null|
@@ -23,12 +32,3 @@
 |**2023-11-04**|**Predicting Ground Reaction Force from Inertial Sensors**|Bowen Song et.al.|[2311.02287v1](http://arxiv.org/abs/2311.02287v1)|null|
 |**2023-11-03**|**Topographically-generated near-internal waves as a response to winds over the ocean surface**|Ashley J. Barnes et.al.|[2311.02275v1](http://arxiv.org/abs/2311.02275v1)|[link](https://github.com/ashjbarnes/topographic-niws)|
 |**2023-11-03**|**Synchronous Observer Design for Inertial Navigation Systems with Almost-Global Convergence**|Pieter van Goor et.al.|[2311.02234v1](http://arxiv.org/abs/2311.02234v1)|null|
-|**2023-11-03**|**Control Design for Trajectory Tracking and Stabilization of Sensor LOS in an Inertially Stabilized Platform**|Abinash Agasti et.al.|[2311.01859v1](http://arxiv.org/abs/2311.01859v1)|null|
-|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
-|**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v1](http://arxiv.org/abs/2311.01017v1)|null|
-|**2023-10-31**|**A new inertial condition on the subgradient extragradient method for solving pseudomonotone equilibrium problem**|Chinedu Izuchukwu et.al.|[2310.20368v1](http://arxiv.org/abs/2310.20368v1)|null|
-|**2023-10-31**|**Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach**|Nguyen Quang Hieu et.al.|[2310.20228v2](http://arxiv.org/abs/2310.20228v2)|null|
-|**2023-10-30**|**Model for the structure function constant for index of refraction fluctuations in Rayleigh-Benard turbulence**|Robert A. Handler et.al.|[2310.19977v1](http://arxiv.org/abs/2310.19977v1)|null|
-|**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset et.al.|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
-|**2023-10-30**|**Trend to equilibrium and diffusion limit for the inertial Kuramoto-Sakaguchi equation**|Francis Filbet et.al.|[2310.19344v1](http://arxiv.org/abs/2310.19344v1)|null|
-|**2023-10-30**|**Inertial focusing dynamics of spherical particles in curved microfluidic ducts with a trapezoidal cross-section**|Brendan Harding et.al.|[2310.19260v1](http://arxiv.org/abs/2310.19260v1)|null|
