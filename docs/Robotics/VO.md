@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-14**|**Velocity-Based Channel Charting with Spatial Distribution Map Matching**|Maximilian Stahlke et.al.|[2311.08016v1](http://arxiv.org/abs/2311.08016v1)|null|
+|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291v1](http://arxiv.org/abs/2311.07291v1)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
 |**2023-11-09**|**PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry**|Yanyu Zhang et.al.|[2311.05717v1](http://arxiv.org/abs/2311.05717v1)|null|
@@ -30,5 +32,3 @@
 |**2023-10-07**|**AirIMU: Learning Uncertainty Propagation for Inertial Odometry**|Yuheng Qiu et.al.|[2310.04874v3](http://arxiv.org/abs/2310.04874v3)|null|
 |**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|[link](https://github.com/brenyi/light-loam)|
 |**2023-10-06**|**Doppler-only Single-scan 3D Vehicle Odometry**|Andres Galeote-Luque et.al.|[2310.04113v1](http://arxiv.org/abs/2310.04113v1)|[link](https://github.com/andresgalu/doppler_odometry)|
-|**2023-10-05**|**Extended Kalman Filter State Estimation for Autonomous Competition Robots**|Ethan Kou et.al.|[2310.04459v1](http://arxiv.org/abs/2310.04459v1)|[link](https://github.com/bubblybingbong/ekf)|
-|**2023-10-02**|**COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry**|Patrick Pfreundschuh et.al.|[2310.01235v2](http://arxiv.org/abs/2310.01235v2)|null|

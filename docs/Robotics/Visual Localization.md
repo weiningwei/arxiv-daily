@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-14**|**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**|Johannes Tenhumberg et.al.|[2311.08338v1](http://arxiv.org/abs/2311.08338v1)|null|
+|**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307v1](http://arxiv.org/abs/2311.08307v1)|null|
+|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
+|**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
+|**2023-11-14**|**The spatially resolved star formation history of the dwarf spiral galaxy NGC 5474**|G. Bortolini et.al.|[2311.08160v1](http://arxiv.org/abs/2311.08160v1)|null|
+|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
+|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
+|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
+|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|null|
+|**2023-11-13**|**Simplifying Complex Observation Models in Continuous POMDP Planning with Probabilistic Guarantees and Practice**|Idan Lev-Yehudi et.al.|[2311.07745v1](http://arxiv.org/abs/2311.07745v1)|null|
 |**2023-11-13**|**Galaxy Clusters Discovered via the Thermal Sunyaev-Zel'dovich Effect in the 500-square-degree SPTpol Survey**|L. E. Bleem et.al.|[2311.07512v1](http://arxiv.org/abs/2311.07512v1)|null|
 |**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|[link](https://github.com/luisrui/seeing-ai-system)|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432v1](http://arxiv.org/abs/2311.07432v1)|null|
@@ -21,14 +32,3 @@
 |**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
 |**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887v1](http://arxiv.org/abs/2311.05887v1)|null|
 |**2023-11-10**|**Central Angle Optimization for 360-degree Holographic 3D Content**|Hakdong Kim et.al.|[2311.05878v1](http://arxiv.org/abs/2311.05878v1)|null|
-|**2023-11-09**|**Reconstructing Objects in-the-wild for Realistic Sensor Simulation**|Ze Yang et.al.|[2311.05602v1](http://arxiv.org/abs/2311.05602v1)|null|
-|**2023-11-09**|**Object-centric Cross-modal Feature Distillation for Event-based Object Detection**|Lei Li et.al.|[2311.05494v1](http://arxiv.org/abs/2311.05494v1)|null|
-|**2023-11-09**|**Remarkably Compact Quiescent Candidates at $3<z<5$ in JWST-CEERS**|Lillian Wright et.al.|[2311.05394v1](http://arxiv.org/abs/2311.05394v1)|null|
-|**2023-11-09**|**Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions**|Wojciech Michal Matkowski et.al.|[2311.05383v1](http://arxiv.org/abs/2311.05383v1)|null|
-|**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344v1](http://arxiv.org/abs/2311.05344v1)|null|
-|**2023-11-09**|**TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning**|Gustavo Salazar-Gomez et.al.|[2311.05319v1](http://arxiv.org/abs/2311.05319v1)|null|
-|**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310v1](http://arxiv.org/abs/2311.05310v1)|null|
-|**2023-11-09**|**Tracking and Following a Suspended Moving Object using Camera-Based Vision System**|Michele Ambrosino et.al.|[2311.05213v1](http://arxiv.org/abs/2311.05213v1)|[link](https://github.com/mikamb95/ekf)|
-|**2023-11-09**|**Differentiable Cloth Parameter Identification and State Estimation in Manipulation**|Dongzhe Zheng et.al.|[2311.05141v1](http://arxiv.org/abs/2311.05141v1)|null|
-|**2023-11-08**|**Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR**|Conghao Zhou et.al.|[2311.04997v1](http://arxiv.org/abs/2311.04997v1)|null|
-|**2023-11-08**|**Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction**|Zacharias Anastasakis et.al.|[2311.04834v1](http://arxiv.org/abs/2311.04834v1)|[link](https://github.com/deeplab-ai/selfsupervisedvrd)|

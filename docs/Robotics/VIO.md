@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
+|**2023-11-14**|**Velocity-Based Channel Charting with Spatial Distribution Map Matching**|Maximilian Stahlke et.al.|[2311.08016v1](http://arxiv.org/abs/2311.08016v1)|null|
+|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-13**|**Towards a covariant framework for post-Newtonian expansions for radiative sources**|Jelle Hartong et.al.|[2311.07546v1](http://arxiv.org/abs/2311.07546v1)|null|
 |**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|null|
 |**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291v1](http://arxiv.org/abs/2311.07291v1)|null|
@@ -29,6 +32,3 @@
 |**2023-11-06**|**Non-linear Three-mode Coupling of Gravity Modes in Rotating Slowly Pulsating B Stars: Stationary Solutions and Modeling Potential**|Jordan Van Beeck et.al.|[2311.02972v1](http://arxiv.org/abs/2311.02972v1)|null|
 |**2023-11-05**|**Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight**|Michael Bosello et.al.|[2311.02667v1](http://arxiv.org/abs/2311.02667v1)|[link](https://github.com/tii-racing/drone-racing-dataset)|
 |**2023-11-04**|**Molecular dynamics simulation of the coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2311.02417v1](http://arxiv.org/abs/2311.02417v1)|null|
-|**2023-11-04**|**Predicting Ground Reaction Force from Inertial Sensors**|Bowen Song et.al.|[2311.02287v1](http://arxiv.org/abs/2311.02287v1)|null|
-|**2023-11-03**|**Topographically-generated near-internal waves as a response to winds over the ocean surface**|Ashley J. Barnes et.al.|[2311.02275v1](http://arxiv.org/abs/2311.02275v1)|[link](https://github.com/ashjbarnes/topographic-niws)|
-|**2023-11-03**|**Synchronous Observer Design for Inertial Navigation Systems with Almost-Global Convergence**|Pieter van Goor et.al.|[2311.02234v1](http://arxiv.org/abs/2311.02234v1)|null|
