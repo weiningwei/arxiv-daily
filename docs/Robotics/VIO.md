@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
+|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|null|
+|**2023-11-15**|**On the orbital decay of the gas giant Kepler-1658b**|Adrian J. Barker et.al.|[2311.08801v1](http://arxiv.org/abs/2311.08801v1)|null|
+|**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
+|**2023-11-15**|**Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar**|Jui-Te Huang et.al.|[2311.08608v1](http://arxiv.org/abs/2311.08608v1)|null|
 |**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
 |**2023-11-14**|**Velocity-Based Channel Charting with Spatial Distribution Map Matching**|Maximilian Stahlke et.al.|[2311.08016v1](http://arxiv.org/abs/2311.08016v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
@@ -27,8 +32,3 @@
 |**2023-11-07**|**Spectral scaling of unstably-stratified atmospheric flows: understanding the low frequency spread of Kaimal model**|Claudine Charrondière et.al.|[2311.03859v1](http://arxiv.org/abs/2311.03859v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-11-06**|**Hydrodynamic modelling of dynamical tides dissipation in Jupiter's interior as revealed by Juno**|Hachem Dhouib et.al.|[2311.03288v1](http://arxiv.org/abs/2311.03288v1)|null|
-|**2023-11-06**|**Tidal dissipation in stably stratified and semi-convective regions of rotating giant planets: incorporating Coriolis forces**|Christina M. Pontin et.al.|[2311.03273v1](http://arxiv.org/abs/2311.03273v1)|null|
-|**2023-11-06**|**Inertia & viscosity dictate drop impact forces**|Vatsal Sanjay et.al.|[2311.03012v1](http://arxiv.org/abs/2311.03012v1)|null|
-|**2023-11-06**|**Non-linear Three-mode Coupling of Gravity Modes in Rotating Slowly Pulsating B Stars: Stationary Solutions and Modeling Potential**|Jordan Van Beeck et.al.|[2311.02972v1](http://arxiv.org/abs/2311.02972v1)|null|
-|**2023-11-05**|**Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight**|Michael Bosello et.al.|[2311.02667v1](http://arxiv.org/abs/2311.02667v1)|[link](https://github.com/tii-racing/drone-racing-dataset)|
-|**2023-11-04**|**Molecular dynamics simulation of the coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2311.02417v1](http://arxiv.org/abs/2311.02417v1)|null|

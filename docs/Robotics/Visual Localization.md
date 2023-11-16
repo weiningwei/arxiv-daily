@@ -2,11 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v1](http://arxiv.org/abs/2311.09093v1)|null|
+|**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
+|**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
+|**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674v1](http://arxiv.org/abs/2311.08674v1)|null|
+|**2023-11-15**|**Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar**|Jui-Te Huang et.al.|[2311.08608v1](http://arxiv.org/abs/2311.08608v1)|null|
+|**2023-11-14**|**The study of x-ray spectrum of the Coma cluster**|L. Zadorozhna et.al.|[2311.08603v1](http://arxiv.org/abs/2311.08603v1)|null|
+|**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
 |**2023-11-14**|**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**|Johannes Tenhumberg et.al.|[2311.08338v1](http://arxiv.org/abs/2311.08338v1)|null|
 |**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307v1](http://arxiv.org/abs/2311.08307v1)|null|
 |**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
 |**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
+|**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
 |**2023-11-14**|**The spatially resolved star formation history of the dwarf spiral galaxy NGC 5474**|G. Bortolini et.al.|[2311.08160v1](http://arxiv.org/abs/2311.08160v1)|null|
 |**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
@@ -24,11 +32,3 @@
 |**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623v1](http://arxiv.org/abs/2311.06623v1)|null|
 |**2023-11-11**|**Computer Vision for Particle Size Analysis of Coarse-Grained Soils**|Sompote Youwai et.al.|[2311.06613v1](http://arxiv.org/abs/2311.06613v1)|null|
 |**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455v1](http://arxiv.org/abs/2311.06455v1)|null|
-|**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443v1](http://arxiv.org/abs/2311.06443v1)|null|
-|**2023-11-10**|**Experimental investigation of Lord Kelvins isentropic cooling and heating expression in tensile bars for two engineering alloys**|S. J. Burns et.al.|[2311.06371v1](http://arxiv.org/abs/2311.06371v1)|null|
-|**2023-11-10**|**Gain variations as induced by the diffuse night sky background: the ASTRI-Horn experience**|D. Impiombato et.al.|[2311.06155v1](http://arxiv.org/abs/2311.06155v1)|null|
-|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
-|**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992v1](http://arxiv.org/abs/2311.05992v1)|null|
-|**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
-|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887v1](http://arxiv.org/abs/2311.05887v1)|null|
-|**2023-11-10**|**Central Angle Optimization for 360-degree Holographic 3D Content**|Hakdong Kim et.al.|[2311.05878v1](http://arxiv.org/abs/2311.05878v1)|null|
