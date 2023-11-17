@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v1](http://arxiv.org/abs/2311.09093v1)|null|
+|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
 |**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
 |**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674v1](http://arxiv.org/abs/2311.08674v1)|null|
