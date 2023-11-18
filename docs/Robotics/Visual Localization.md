@@ -2,13 +2,6 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
-|**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
-|**2023-11-16**|**Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes**|Aniket Dashpute et.al.|[2311.09652v1](http://arxiv.org/abs/2311.09652v1)|null|
-|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
-|**2023-11-16**|**PELS: A Lightweight and Flexible Peripheral Event Linking System for Ultra-Low Power IoT Processors**|Alessandro Ottaviano et.al.|[2311.09645v1](http://arxiv.org/abs/2311.09645v1)|null|
-|**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
-|**2023-11-15**|**Limits on Optical Counterparts to the Repeating FRB 20180916B from High-speed Imaging with Gemini-N/'Alopeke**|Charles D. Kilpatrick et.al.|[2311.09316v1](http://arxiv.org/abs/2311.09316v1)|null|
 |**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
 |**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
@@ -32,3 +25,10 @@
 |**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|[link](https://github.com/luisrui/seeing-ai-system)|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432v1](http://arxiv.org/abs/2311.07432v1)|null|
 |**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
+|**2023-11-13**|**DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery**|Yitong Sun et.al.|[2311.07235v1](http://arxiv.org/abs/2311.07235v1)|null|
+|**2023-11-13**|**A method for quantifying sectoral optic disc pallor in fundus photographs and its association with peripapillary RNFL thickness**|Samuel Gibbon et.al.|[2311.07213v1](http://arxiv.org/abs/2311.07213v1)|null|
+|**2023-11-13**|**Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection**|Junjie Huang et.al.|[2311.07152v1](http://arxiv.org/abs/2311.07152v1)|[link](https://github.com/HuangJunJie2017/BEVDet)|
+|**2023-11-12**|**Video-based sympathetic arousal assessment via peripheral blood flow estimation**|Bjoern Braun et.al.|[2311.06930v1](http://arxiv.org/abs/2311.06930v1)|null|
+|**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623v1](http://arxiv.org/abs/2311.06623v1)|null|
+|**2023-11-11**|**Computer Vision for Particle Size Analysis of Coarse-Grained Soils**|Sompote Youwai et.al.|[2311.06613v1](http://arxiv.org/abs/2311.06613v1)|null|
+|**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455v1](http://arxiv.org/abs/2311.06455v1)|null|
