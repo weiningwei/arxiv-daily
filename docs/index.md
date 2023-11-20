@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2023-11-20 08:33:17 Asia/Shanghai
+ Automated deployment @ 2023-11-20 09:40:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VIO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
-|**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
+|**2023-11-16**|**Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes**|Aniket Dashpute et.al.|[2311.09652v1](http://arxiv.org/abs/2311.09652v1)|null|
+|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
+|**2023-11-16**|**PELS: A Lightweight and Flexible Peripheral Event Linking System for Ultra-Low Power IoT Processors**|Alessandro Ottaviano et.al.|[2311.09645v1](http://arxiv.org/abs/2311.09645v1)|null|
 |**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
-|**2023-11-15**|**The Foucault Pendulum: Trajectories of the Full Lagrangian**|Richard J. Mathar et.al.|[2311.09357v1](http://arxiv.org/abs/2311.09357v1)|null|
+|**2023-11-15**|**Limits on Optical Counterparts to the Repeating FRB 20180916B from High-speed Imaging with Gemini-N/'Alopeke**|Charles D. Kilpatrick et.al.|[2311.09316v1](http://arxiv.org/abs/2311.09316v1)|null|
+|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
-|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|[link](https://github.com/utiasdsl/ra_lan)|
-|**2023-11-15**|**On the orbital decay of the gas giant Kepler-1658b**|Adrian J. Barker et.al.|[2311.08801v1](http://arxiv.org/abs/2311.08801v1)|null|
 |**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
+|**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674v1](http://arxiv.org/abs/2311.08674v1)|null|
 |**2023-11-15**|**Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar**|Jui-Te Huang et.al.|[2311.08608v1](http://arxiv.org/abs/2311.08608v1)|null|
-|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
-|**2023-11-14**|**Velocity-Based Channel Charting with Spatial Distribution Map Matching**|Maximilian Stahlke et.al.|[2311.08016v1](http://arxiv.org/abs/2311.08016v1)|null|
+|**2023-11-14**|**The study of x-ray spectrum of the Coma cluster**|L. Zadorozhna et.al.|[2311.08603v1](http://arxiv.org/abs/2311.08603v1)|null|
+|**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|
+|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-14**|**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**|Johannes Tenhumberg et.al.|[2311.08338v1](http://arxiv.org/abs/2311.08338v1)|null|
+|**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307v1](http://arxiv.org/abs/2311.08307v1)|null|
+|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
+|**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
+|**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
+|**2023-11-14**|**The spatially resolved star formation history of the dwarf spiral galaxy NGC 5474**|G. Bortolini et.al.|[2311.08160v1](http://arxiv.org/abs/2311.08160v1)|null|
+|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
+|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
-|**2023-11-13**|**Towards a covariant framework for post-Newtonian expansions for radiative sources**|Jelle Hartong et.al.|[2311.07546v1](http://arxiv.org/abs/2311.07546v1)|null|
-|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|[link](https://github.com/cabrowne/enhancedmixing)|
-|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291v1](http://arxiv.org/abs/2311.07291v1)|[link](https://github.com/aurova-lab/applications)|
-|**2023-11-13**|**A Sub-5mW Evanescent Field Atom Guide with Nanofibers towards Guided Atom Interferometry with Membrane Waveguides**|Adrian Orozco et.al.|[2311.07055v1](http://arxiv.org/abs/2311.07055v1)|null|
-|**2023-11-13**|**Clifford Algebra-Based Iterated Extended Kalman Filter with Application to Low-Cost INS/GNSS Navigation**|Wei Ouyang et.al.|[2311.07049v2](http://arxiv.org/abs/2311.07049v2)|null|
-|**2023-11-12**|**Physics-Informed Data Denoising for Real-Life Sensing Systems**|Xiyuan Zhang et.al.|[2311.06968v1](http://arxiv.org/abs/2311.06968v1)|null|
-|**2023-11-12**|**The Synge G-Method: cosmology, wormholes, firewalls, geometry**|George F R Ellis et.al.|[2311.06881v1](http://arxiv.org/abs/2311.06881v1)|null|
-|**2023-11-12**|**Mass Loss and Displacement Modeling for Multi-Axis Milling**|Adrian Karl Rüppel et.al.|[2311.06847v1](http://arxiv.org/abs/2311.06847v1)|null|
-|**2023-11-11**|**Inertial control of a spinning flat disk**|Luc Jaulin et.al.|[2311.06528v1](http://arxiv.org/abs/2311.06528v1)|null|
-|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
-|**2023-11-10**|**Gravitational Waves Emitted by a Uniformly Accelerated Mass: The Role of Zero-Rindler-Energy Modes in the Classical and Quantum Descriptions**|Felipe Portales-Oliva et.al.|[2311.06032v1](http://arxiv.org/abs/2311.06032v1)|null|
-|**2023-11-09**|**PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry**|Yanyu Zhang et.al.|[2311.05717v1](http://arxiv.org/abs/2311.05717v1)|null|
-|**2023-11-09**|**Multi-scale observation of magnetotail reconnection onset: 2. microscopic dynamics**|K. J. Genestreti et.al.|[2311.05411v1](http://arxiv.org/abs/2311.05411v1)|null|
-|**2023-11-09**|**Nonlinear dynamics of large-amplitude, small-scale Alfvén waves**|Alfred Mallet et.al.|[2311.05068v1](http://arxiv.org/abs/2311.05068v1)|null|
-|**2023-11-08**|**A volume averaging approach to the interfacial force in homogeneous bubbly flows with monodisperse bubbles**|Sergio Baz-Rodriguez et.al.|[2311.05044v1](http://arxiv.org/abs/2311.05044v1)|null|
-|**2023-11-08**|**Propagation of acoustic-gravity waves in non-uniform wind flows of the polar atmosphere**|A. K. Fedorenko et.al.|[2311.04529v1](http://arxiv.org/abs/2311.04529v1)|null|
-|**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477v1](http://arxiv.org/abs/2311.04477v1)|null|
-|**2023-11-07**|**Proprioceptive Invariant Robot State Estimation**|Tzu-Yuan Lin et.al.|[2311.04320v1](http://arxiv.org/abs/2311.04320v1)|null|
+|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|null|
+|**2023-11-13**|**Simplifying Complex Observation Models in Continuous POMDP Planning with Probabilistic Guarantees and Practice**|Idan Lev-Yehudi et.al.|[2311.07745v1](http://arxiv.org/abs/2311.07745v1)|null|
+|**2023-11-13**|**Galaxy Clusters Discovered via the Thermal Sunyaev-Zel'dovich Effect in the 500-square-degree SPTpol Survey**|L. E. Bleem et.al.|[2311.07512v1](http://arxiv.org/abs/2311.07512v1)|null|
+|**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|[link](https://github.com/luisrui/seeing-ai-system)|
+|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432v1](http://arxiv.org/abs/2311.07432v1)|null|
+|**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,36 +107,36 @@
 |**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
 
-### Visual Localization
+### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
-|**2023-11-16**|**Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes**|Aniket Dashpute et.al.|[2311.09652v1](http://arxiv.org/abs/2311.09652v1)|null|
-|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
-|**2023-11-16**|**PELS: A Lightweight and Flexible Peripheral Event Linking System for Ultra-Low Power IoT Processors**|Alessandro Ottaviano et.al.|[2311.09645v1](http://arxiv.org/abs/2311.09645v1)|null|
+|**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
 |**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
-|**2023-11-15**|**Limits on Optical Counterparts to the Repeating FRB 20180916B from High-speed Imaging with Gemini-N/'Alopeke**|Charles D. Kilpatrick et.al.|[2311.09316v1](http://arxiv.org/abs/2311.09316v1)|null|
-|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
+|**2023-11-15**|**The Foucault Pendulum: Trajectories of the Full Lagrangian**|Richard J. Mathar et.al.|[2311.09357v1](http://arxiv.org/abs/2311.09357v1)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
+|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|[link](https://github.com/utiasdsl/ra_lan)|
+|**2023-11-15**|**On the orbital decay of the gas giant Kepler-1658b**|Adrian J. Barker et.al.|[2311.08801v1](http://arxiv.org/abs/2311.08801v1)|null|
 |**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
-|**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674v1](http://arxiv.org/abs/2311.08674v1)|null|
 |**2023-11-15**|**Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar**|Jui-Te Huang et.al.|[2311.08608v1](http://arxiv.org/abs/2311.08608v1)|null|
-|**2023-11-14**|**The study of x-ray spectrum of the Coma cluster**|L. Zadorozhna et.al.|[2311.08603v1](http://arxiv.org/abs/2311.08603v1)|null|
-|**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|
-|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
-|**2023-11-14**|**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**|Johannes Tenhumberg et.al.|[2311.08338v1](http://arxiv.org/abs/2311.08338v1)|null|
-|**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307v1](http://arxiv.org/abs/2311.08307v1)|null|
-|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
-|**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
-|**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
-|**2023-11-14**|**The spatially resolved star formation history of the dwarf spiral galaxy NGC 5474**|G. Bortolini et.al.|[2311.08160v1](http://arxiv.org/abs/2311.08160v1)|null|
-|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
-|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
+|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
+|**2023-11-14**|**Velocity-Based Channel Charting with Spatial Distribution Map Matching**|Maximilian Stahlke et.al.|[2311.08016v1](http://arxiv.org/abs/2311.08016v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
-|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|null|
-|**2023-11-13**|**Simplifying Complex Observation Models in Continuous POMDP Planning with Probabilistic Guarantees and Practice**|Idan Lev-Yehudi et.al.|[2311.07745v1](http://arxiv.org/abs/2311.07745v1)|null|
-|**2023-11-13**|**Galaxy Clusters Discovered via the Thermal Sunyaev-Zel'dovich Effect in the 500-square-degree SPTpol Survey**|L. E. Bleem et.al.|[2311.07512v1](http://arxiv.org/abs/2311.07512v1)|null|
-|**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|[link](https://github.com/luisrui/seeing-ai-system)|
-|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432v1](http://arxiv.org/abs/2311.07432v1)|null|
-|**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
+|**2023-11-13**|**Towards a covariant framework for post-Newtonian expansions for radiative sources**|Jelle Hartong et.al.|[2311.07546v1](http://arxiv.org/abs/2311.07546v1)|null|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|[link](https://github.com/cabrowne/enhancedmixing)|
+|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291v1](http://arxiv.org/abs/2311.07291v1)|[link](https://github.com/aurova-lab/applications)|
+|**2023-11-13**|**A Sub-5mW Evanescent Field Atom Guide with Nanofibers towards Guided Atom Interferometry with Membrane Waveguides**|Adrian Orozco et.al.|[2311.07055v1](http://arxiv.org/abs/2311.07055v1)|null|
+|**2023-11-13**|**Clifford Algebra-Based Iterated Extended Kalman Filter with Application to Low-Cost INS/GNSS Navigation**|Wei Ouyang et.al.|[2311.07049v2](http://arxiv.org/abs/2311.07049v2)|null|
+|**2023-11-12**|**Physics-Informed Data Denoising for Real-Life Sensing Systems**|Xiyuan Zhang et.al.|[2311.06968v1](http://arxiv.org/abs/2311.06968v1)|null|
+|**2023-11-12**|**The Synge G-Method: cosmology, wormholes, firewalls, geometry**|George F R Ellis et.al.|[2311.06881v1](http://arxiv.org/abs/2311.06881v1)|null|
+|**2023-11-12**|**Mass Loss and Displacement Modeling for Multi-Axis Milling**|Adrian Karl Rüppel et.al.|[2311.06847v1](http://arxiv.org/abs/2311.06847v1)|null|
+|**2023-11-11**|**Inertial control of a spinning flat disk**|Luc Jaulin et.al.|[2311.06528v1](http://arxiv.org/abs/2311.06528v1)|null|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
+|**2023-11-10**|**Gravitational Waves Emitted by a Uniformly Accelerated Mass: The Role of Zero-Rindler-Energy Modes in the Classical and Quantum Descriptions**|Felipe Portales-Oliva et.al.|[2311.06032v1](http://arxiv.org/abs/2311.06032v1)|null|
+|**2023-11-09**|**PL-CVIO: Point-Line Cooperative Visual-Inertial Odometry**|Yanyu Zhang et.al.|[2311.05717v1](http://arxiv.org/abs/2311.05717v1)|null|
+|**2023-11-09**|**Multi-scale observation of magnetotail reconnection onset: 2. microscopic dynamics**|K. J. Genestreti et.al.|[2311.05411v1](http://arxiv.org/abs/2311.05411v1)|null|
+|**2023-11-09**|**Nonlinear dynamics of large-amplitude, small-scale Alfvén waves**|Alfred Mallet et.al.|[2311.05068v1](http://arxiv.org/abs/2311.05068v1)|null|
+|**2023-11-08**|**A volume averaging approach to the interfacial force in homogeneous bubbly flows with monodisperse bubbles**|Sergio Baz-Rodriguez et.al.|[2311.05044v1](http://arxiv.org/abs/2311.05044v1)|null|
+|**2023-11-08**|**Propagation of acoustic-gravity waves in non-uniform wind flows of the polar atmosphere**|A. K. Fedorenko et.al.|[2311.04529v1](http://arxiv.org/abs/2311.04529v1)|null|
+|**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477v1](http://arxiv.org/abs/2311.04477v1)|null|
+|**2023-11-07**|**Proprioceptive Invariant Robot State Estimation**|Tzu-Yuan Lin et.al.|[2311.04320v1](http://arxiv.org/abs/2311.04320v1)|null|
