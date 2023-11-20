@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-17**|**Multimodal Indoor Localization Using Crowdsourced Radio Maps**|Zhaoguang Yi et.al.|[2311.10601v1](http://arxiv.org/abs/2311.10601v1)|null|
+|**2023-11-17**|**Numerical study of non-toroidal inertial modes with l=m+1 radial vorticity in the Sun's convection zone**|Yuto Bekki et.al.|[2311.10414v1](http://arxiv.org/abs/2311.10414v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
 |**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
 |**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
@@ -30,5 +32,3 @@
 |**2023-11-09**|**Nonlinear dynamics of large-amplitude, small-scale Alfvén waves**|Alfred Mallet et.al.|[2311.05068v1](http://arxiv.org/abs/2311.05068v1)|null|
 |**2023-11-08**|**A volume averaging approach to the interfacial force in homogeneous bubbly flows with monodisperse bubbles**|Sergio Baz-Rodriguez et.al.|[2311.05044v1](http://arxiv.org/abs/2311.05044v1)|null|
 |**2023-11-08**|**Propagation of acoustic-gravity waves in non-uniform wind flows of the polar atmosphere**|A. K. Fedorenko et.al.|[2311.04529v1](http://arxiv.org/abs/2311.04529v1)|null|
-|**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477v1](http://arxiv.org/abs/2311.04477v1)|null|
-|**2023-11-07**|**Proprioceptive Invariant Robot State Estimation**|Tzu-Yuan Lin et.al.|[2311.04320v1](http://arxiv.org/abs/2311.04320v1)|null|

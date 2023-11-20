@@ -2,16 +2,29 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-17**|**Broadband dual-comb hyperspectral imaging and adaptable spectroscopy with programmable frequency combs**|Fabrizio R. Giorgetta et.al.|[2311.10629v1](http://arxiv.org/abs/2311.10629v1)|null|
+|**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617v1](http://arxiv.org/abs/2311.10617v1)|null|
+|**2023-11-17**|**CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification**|Yiyu Chen et.al.|[2311.10605v1](http://arxiv.org/abs/2311.10605v1)|null|
+|**2023-11-17**|**Phase Guided Light Field for Spatial-Depth High Resolution 3D Imaging**|Geyou Zhang et.al.|[2311.10568v1](http://arxiv.org/abs/2311.10568v1)|null|
+|**2023-11-17**|**Deep Learning based CNN Model for Classification and Detection of Individuals Wearing Face Mask**|R. Chinnaiyan et.al.|[2311.10408v1](http://arxiv.org/abs/2311.10408v1)|null|
+|**2023-11-17**|**Optimized Deep Learning Models for AUV Seabed Image Analysis**|Rajesh Sharma R et.al.|[2311.10399v1](http://arxiv.org/abs/2311.10399v1)|null|
+|**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361v1](http://arxiv.org/abs/2311.10361v1)|null|
+|**2023-11-17**|**Density Field Reconstruction of an Overexpanded Supersonic Jet using Tomographic Background-Oriented Schlieren**|Joachim A. Bron et.al.|[2311.10332v1](http://arxiv.org/abs/2311.10332v1)|null|
+|**2023-11-17**|**Vision meets mmWave Radar: 3D Object Perception Benchmark for Autonomous Driving**|Yizhou Wang et.al.|[2311.10261v1](http://arxiv.org/abs/2311.10261v1)|null|
+|**2023-11-16**|**The edges of galaxies in the Fornax Cluster: Fifty percent smaller and denser compared to the field**|Nushkia Chamba et.al.|[2311.10144v1](http://arxiv.org/abs/2311.10144v1)|null|
+|**2023-11-16**|**Quasar Sightline and Galaxy Evolution (QSAGE) -- III. The mass-metallicity and fundamental metallicity relation in $z \approx$ 2.2 galaxies**|H. M. O. Stephenson et.al.|[2311.10140v1](http://arxiv.org/abs/2311.10140v1)|null|
 |**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
 |**2023-11-16**|**Event-based Motion-Robust Accurate Shape Estimation for Mixed Reflectance Scenes**|Aniket Dashpute et.al.|[2311.09652v1](http://arxiv.org/abs/2311.09652v1)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
 |**2023-11-16**|**PELS: A Lightweight and Flexible Peripheral Event Linking System for Ultra-Low Power IoT Processors**|Alessandro Ottaviano et.al.|[2311.09645v1](http://arxiv.org/abs/2311.09645v1)|null|
 |**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
+|**2023-11-16**|**Combined Channel and Spatial Attention-based Stereo Endoscopic Image Super-Resolution**|Mansoor Hayat et.al.|[2311.10115v1](http://arxiv.org/abs/2311.10115v1)|null|
 |**2023-11-15**|**Limits on Optical Counterparts to the Repeating FRB 20180916B from High-speed Imaging with Gemini-N/'Alopeke**|Charles D. Kilpatrick et.al.|[2311.09316v1](http://arxiv.org/abs/2311.09316v1)|null|
 |**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
 |**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
+|**2023-11-15**|**High-speed photoelastic tomography for axisymmetric stress fields in a soft material: temporal evolution of all stress components**|Yuto Yokoyama et.al.|[2311.10107v1](http://arxiv.org/abs/2311.10107v1)|null|
 |**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674v1](http://arxiv.org/abs/2311.08674v1)|null|
 |**2023-11-15**|**Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar**|Jui-Te Huang et.al.|[2311.08608v1](http://arxiv.org/abs/2311.08608v1)|null|
 |**2023-11-14**|**The study of x-ray spectrum of the Coma cluster**|L. Zadorozhna et.al.|[2311.08603v1](http://arxiv.org/abs/2311.08603v1)|null|
@@ -19,16 +32,3 @@
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
 |**2023-11-14**|**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**|Johannes Tenhumberg et.al.|[2311.08338v1](http://arxiv.org/abs/2311.08338v1)|null|
 |**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307v1](http://arxiv.org/abs/2311.08307v1)|null|
-|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
-|**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
-|**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
-|**2023-11-14**|**The spatially resolved star formation history of the dwarf spiral galaxy NGC 5474**|G. Bortolini et.al.|[2311.08160v1](http://arxiv.org/abs/2311.08160v1)|null|
-|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
-|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
-|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
-|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880v1](http://arxiv.org/abs/2311.07880v1)|null|
-|**2023-11-13**|**Simplifying Complex Observation Models in Continuous POMDP Planning with Probabilistic Guarantees and Practice**|Idan Lev-Yehudi et.al.|[2311.07745v1](http://arxiv.org/abs/2311.07745v1)|null|
-|**2023-11-13**|**Galaxy Clusters Discovered via the Thermal Sunyaev-Zel'dovich Effect in the 500-square-degree SPTpol Survey**|L. E. Bleem et.al.|[2311.07512v1](http://arxiv.org/abs/2311.07512v1)|null|
-|**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|[link](https://github.com/luisrui/seeing-ai-system)|
-|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432v1](http://arxiv.org/abs/2311.07432v1)|null|
-|**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
