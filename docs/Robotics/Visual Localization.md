@@ -5,11 +5,11 @@
 |**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
 |**2023-11-20**|**Simultaneous Robot-World and Hand-Eye Calibration**|Fadi Dornaika et.al.|[2311.11818v1](http://arxiv.org/abs/2311.11818v1)|null|
 |**2023-11-20**|**Hybrid Controller for Robot Manipulators in Task-Space with Visual-Inertial Feedback**|Seyed Hamed Hashemi et.al.|[2311.11816v1](http://arxiv.org/abs/2311.11816v1)|null|
-|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v1](http://arxiv.org/abs/2311.11808v1)|null|
+|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v2](http://arxiv.org/abs/2311.11808v2)|null|
 |**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762v1](http://arxiv.org/abs/2311.11762v1)|null|
 |**2023-11-20**|**Heat transport during drop impact onto a heated wall covered with an electrospun nanofiber mat: The influence of wall superheat, impact velocity, and mat thickness**|Alireza Gholijani et.al.|[2311.11755v1](http://arxiv.org/abs/2311.11755v1)|null|
 |**2023-11-20**|**A Large-Scale Car Parts (LSCP) Dataset for Lightweight Fine-Grained Detection**|Wang Jie et.al.|[2311.11754v1](http://arxiv.org/abs/2311.11754v1)|null|
-|**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v1](http://arxiv.org/abs/2311.11700v1)|null|
+|**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v2](http://arxiv.org/abs/2311.11700v2)|null|
 |**2023-11-20**|**PMP-Swin: Multi-Scale Patch Message Passing Swin Transformer for Retinal Disease Classification**|Zhihan Yang et.al.|[2311.11669v1](http://arxiv.org/abs/2311.11669v1)|null|
 |**2023-11-20**|**Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos**|Sushovan Chanda et.al.|[2311.11662v1](http://arxiv.org/abs/2311.11662v1)|null|
 |**2023-11-20**|**MSCEqF: A Multi State Constraint Equivariant Filter for Vision-aided Inertial Navigation**|Alessandro Fornasier et.al.|[2311.11649v1](http://arxiv.org/abs/2311.11649v1)|null|
@@ -24,7 +24,7 @@
 |**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v1](http://arxiv.org/abs/2311.11125v1)|null|
 |**2023-11-18**|**Geometric Data Augmentations to Mitigate Distribution Shifts in Pollen Classification from Microscopic Images**|Nam Cao et.al.|[2311.11029v1](http://arxiv.org/abs/2311.11029v1)|null|
 |**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016v1](http://arxiv.org/abs/2311.11016v1)|null|
-|**2023-11-18**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013v1](http://arxiv.org/abs/2311.11013v1)|null|
+|**2023-11-18**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013v2](http://arxiv.org/abs/2311.11013v2)|null|
 |**2023-11-18**|**Multiple View Geometry Transformers for 3D Human Pose Estimation**|Ziwei Liao et.al.|[2311.10983v1](http://arxiv.org/abs/2311.10983v1)|null|
 |**2023-11-17**|**Broadband dual-comb hyperspectral imaging and adaptable spectroscopy with programmable frequency combs**|Fabrizio R. Giorgetta et.al.|[2311.10629v1](http://arxiv.org/abs/2311.10629v1)|null|
 |**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617v1](http://arxiv.org/abs/2311.10617v1)|null|
