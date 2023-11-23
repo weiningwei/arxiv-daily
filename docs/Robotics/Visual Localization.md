@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570v1](http://arxiv.org/abs/2311.13570v1)|null|
+|**2023-11-22**|**Euclid preparation TBD. Modelling spectroscopic clustering on mildly nonlinear scales in beyond-$Λ$CDM models**|Euclid Collaboration et.al.|[2311.13529v1](http://arxiv.org/abs/2311.13529v1)|null|
+|**2023-11-22**|**Towards a general description of the cavitation threshold in acoustic systems**|Gianmaria Viciconte et.al.|[2311.13425v1](http://arxiv.org/abs/2311.13425v1)|null|
+|**2023-11-22**|**CompenHR: Efficient Full Compensation for High-resolution Projector**|Yuxi Wang et.al.|[2311.13409v1](http://arxiv.org/abs/2311.13409v1)|null|
+|**2023-11-22**|**Lightweight High-Speed Photography Built on Coded Exposure and Implicit Neural Representation of Videos**|Zhihong Zhang et.al.|[2311.13134v1](http://arxiv.org/abs/2311.13134v1)|null|
+|**2023-11-22**|**Validation of Consumer-grade Digital Camera-based Human Activity Evaluation for Upper Limb Exercises and Development of a Therapist-guided, Automated Telerehabilitation Framework and Platform for Stroke Rehabilitation**|Elton H. L. Yeung et.al.|[2311.13088v1](http://arxiv.org/abs/2311.13088v1)|null|
+|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|[link](https://github.com/huang-yh/selfocc)|
 |**2023-11-21**|**Visually Guided Object Grasping**|Radu Horaud et.al.|[2311.12660v1](http://arxiv.org/abs/2311.12660v1)|null|
@@ -25,10 +32,3 @@
 |**2023-11-20**|**Characterization and performances of an upgraded front-end-board for the NectarCAM camera**|F. Bradascio et.al.|[2311.11631v1](http://arxiv.org/abs/2311.11631v1)|null|
 |**2023-11-20**|**SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles**|Linh Trinh et.al.|[2311.11580v1](http://arxiv.org/abs/2311.11580v1)|null|
 |**2023-11-20**|**Event Camera Data Dense Pre-training**|Yan Yang et.al.|[2311.11533v1](http://arxiv.org/abs/2311.11533v1)|null|
-|**2023-11-19**|**Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets**|Kun Yang et.al.|[2311.11423v1](http://arxiv.org/abs/2311.11423v1)|null|
-|**2023-11-19**|**Determination of Stokes vector from a single image acquisition**|Shuji Kamegaki et.al.|[2311.11197v1](http://arxiv.org/abs/2311.11197v1)|null|
-|**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
-|**2023-11-18**|**Goal-Oriented Communications for Remote Inference with Two-Way Delay**|Cagri Ari et.al.|[2311.11143v1](http://arxiv.org/abs/2311.11143v1)|null|
-|**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes et.al.|[2311.11130v1](http://arxiv.org/abs/2311.11130v1)|null|
-|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v1](http://arxiv.org/abs/2311.11125v1)|null|
-|**2023-11-18**|**Geometric Data Augmentations to Mitigate Distribution Shifts in Pollen Classification from Microscopic Images**|Nam Cao et.al.|[2311.11029v1](http://arxiv.org/abs/2311.11029v1)|null|

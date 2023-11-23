@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Inverse energy cascade in ocean macroscopic turbulence: Kolmogorov self-similarity in surface drifter observations and Richardson-Obhukov constant**|J. Dräger-Dietel et.al.|[2311.13560v1](http://arxiv.org/abs/2311.13560v1)|null|
+|**2023-11-22**|**Direct observations of general geothermal convection in deep Mediterranean waters**|Hans van Haren et.al.|[2311.13366v1](http://arxiv.org/abs/2311.13366v1)|null|
+|**2023-11-22**|**Perturbative analysis of the effect of a magnetic field on gravito-inertial modes**|François Lignières et.al.|[2311.13296v1](http://arxiv.org/abs/2311.13296v1)|null|
 |**2023-11-21**|**Weyl semimetal from non-inertial observers**|Wen-Bin Pan et.al.|[2311.12600v1](http://arxiv.org/abs/2311.12600v1)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
 |**2023-11-21**|**Wearable Technologies for Monitoring Upper Extremity Functions During Daily Life in Neurologically Impaired Individuals**|Tommaso Proietti et.al.|[2311.12513v1](http://arxiv.org/abs/2311.12513v1)|null|
@@ -29,6 +32,3 @@
 |**2023-11-13**|**Towards a covariant framework for post-Newtonian expansions for radiative sources**|Jelle Hartong et.al.|[2311.07546v1](http://arxiv.org/abs/2311.07546v1)|null|
 |**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|[link](https://github.com/cabrowne/enhancedmixing)|
 |**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291v1](http://arxiv.org/abs/2311.07291v1)|[link](https://github.com/aurova-lab/applications)|
-|**2023-11-13**|**A Sub-5mW Evanescent Field Atom Guide with Nanofibers towards Guided Atom Interferometry with Membrane Waveguides**|Adrian Orozco et.al.|[2311.07055v1](http://arxiv.org/abs/2311.07055v1)|null|
-|**2023-11-13**|**Clifford Algebra-Based Iterated Extended Kalman Filter with Application to Low-Cost INS/GNSS Navigation**|Wei Ouyang et.al.|[2311.07049v2](http://arxiv.org/abs/2311.07049v2)|null|
-|**2023-11-12**|**Physics-Informed Data Denoising for Real-Life Sensing Systems**|Xiyuan Zhang et.al.|[2311.06968v1](http://arxiv.org/abs/2311.06968v1)|null|
