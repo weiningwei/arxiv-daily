@@ -5,7 +5,7 @@
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|[link](https://github.com/huang-yh/selfocc)|
 |**2023-11-21**|**Visually Guided Object Grasping**|Radu Horaud et.al.|[2311.12660v1](http://arxiv.org/abs/2311.12660v1)|null|
-|**2023-11-21**|**Hand-Eye Calibration**|Radu Horaud et.al.|[2311.12655v1](http://arxiv.org/abs/2311.12655v1)|null|
+|**2023-11-21**|**Hand-Eye Calibration**|Radu Horaud et.al.|[2311.12655v2](http://arxiv.org/abs/2311.12655v2)|null|
 |**2023-11-21**|**An innovative dose rate independent 2D Ce-doped YAG scintillating dosimetry system for time resolved beam monitoring in ultra-high dose rate electron FLASH radiation therapy**|Verdi Vanreusel et.al.|[2311.12531v1](http://arxiv.org/abs/2311.12531v1)|null|
 |**2023-11-21**|**Two Views Are Better than One: Monocular 3D Pose Estimation with Multiview Consistency**|Christian Keilstrup Ingwersen et.al.|[2311.12421v1](http://arxiv.org/abs/2311.12421v1)|null|
 |**2023-11-21**|**RFTrans: Leveraging Refractive Flow of Transparent Objects for Surface Normal Estimation and Manipulation**|Tutian Tang et.al.|[2311.12398v1](http://arxiv.org/abs/2311.12398v1)|null|
