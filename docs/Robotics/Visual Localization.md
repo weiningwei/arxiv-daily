@@ -6,9 +6,9 @@
 |**2023-11-22**|**Euclid preparation TBD. Modelling spectroscopic clustering on mildly nonlinear scales in beyond-$Λ$CDM models**|Euclid Collaboration et.al.|[2311.13529v1](http://arxiv.org/abs/2311.13529v1)|null|
 |**2023-11-22**|**Towards a general description of the cavitation threshold in acoustic systems**|Gianmaria Viciconte et.al.|[2311.13425v1](http://arxiv.org/abs/2311.13425v1)|null|
 |**2023-11-22**|**CompenHR: Efficient Full Compensation for High-resolution Projector**|Yuxi Wang et.al.|[2311.13409v1](http://arxiv.org/abs/2311.13409v1)|null|
-|**2023-11-22**|**Lightweight High-Speed Photography Built on Coded Exposure and Implicit Neural Representation of Videos**|Zhihong Zhang et.al.|[2311.13134v1](http://arxiv.org/abs/2311.13134v1)|null|
+|**2023-11-22**|**Lightweight High-Speed Photography Built on Coded Exposure and Implicit Neural Representation of Videos**|Zhihong Zhang et.al.|[2311.13134v1](http://arxiv.org/abs/2311.13134v1)|[link](https://github.com/zhihongz/bdinr)|
 |**2023-11-22**|**Validation of Consumer-grade Digital Camera-based Human Activity Evaluation for Upper Limb Exercises and Development of a Therapist-guided, Automated Telerehabilitation Framework and Platform for Stroke Rehabilitation**|Elton H. L. Yeung et.al.|[2311.13088v1](http://arxiv.org/abs/2311.13088v1)|null|
-|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|null|
+|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|[link](https://github.com/sleekeagle/defocus_camind)|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|[link](https://github.com/davidstotko/physics-guided-shape-from-template)|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|[link](https://github.com/huang-yh/selfocc)|
 |**2023-11-21**|**Visually Guided Object Grasping**|Radu Horaud et.al.|[2311.12660v1](http://arxiv.org/abs/2311.12660v1)|null|
