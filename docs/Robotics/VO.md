@@ -20,7 +20,7 @@
 |**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477v1](http://arxiv.org/abs/2311.04477v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-11-05**|**Race Against the Machine: a Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight**|Michael Bosello et.al.|[2311.02667v1](http://arxiv.org/abs/2311.02667v1)|[link](https://github.com/tii-racing/drone-racing-dataset)|
-|**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v1](http://arxiv.org/abs/2311.01017v1)|null|
+|**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v2](http://arxiv.org/abs/2311.01017v2)|null|
 |**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset et.al.|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|[link](https://github.com/ntnu-arl/underwater-datasets)|

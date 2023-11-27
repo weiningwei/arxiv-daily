@@ -18,11 +18,11 @@
 |**2023-11-21**|**RFTrans: Leveraging Refractive Flow of Transparent Objects for Surface Normal Estimation and Manipulation**|Tutian Tang et.al.|[2311.12398v1](http://arxiv.org/abs/2311.12398v1)|null|
 |**2023-11-20**|**HandSight: DeCAF & Improved Fisher Vectors to Classify Clothing Color and Texture with a Finger-Mounted Camera**|Alexander J. Medeiros et.al.|[2311.12225v1](http://arxiv.org/abs/2311.12225v1)|null|
 |**2023-11-20**|**Euclid preparation TBD. Spectroscopy of active galactic nuclei with NISP**|Euclid Collaboration et.al.|[2311.12096v1](http://arxiv.org/abs/2311.12096v1)|null|
-|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v2](http://arxiv.org/abs/2311.12024v2)|null|
 |**2023-11-20**|**Simultaneous Robot-World and Hand-Eye Calibration**|Fadi Dornaika et.al.|[2311.11818v1](http://arxiv.org/abs/2311.11818v1)|null|
 |**2023-11-20**|**Hybrid Controller for Robot Manipulators in Task-Space with Visual-Inertial Feedback**|Seyed Hamed Hashemi et.al.|[2311.11816v1](http://arxiv.org/abs/2311.11816v1)|null|
 |**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v2](http://arxiv.org/abs/2311.11808v2)|null|
-|**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762v1](http://arxiv.org/abs/2311.11762v1)|null|
+|**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762v2](http://arxiv.org/abs/2311.11762v2)|null|
 |**2023-11-20**|**Heat transport during drop impact onto a heated wall covered with an electrospun nanofiber mat: The influence of wall superheat, impact velocity, and mat thickness**|Alireza Gholijani et.al.|[2311.11755v1](http://arxiv.org/abs/2311.11755v1)|null|
 |**2023-11-20**|**A Large-Scale Car Parts (LSCP) Dataset for Lightweight Fine-Grained Detection**|Wang Jie et.al.|[2311.11754v1](http://arxiv.org/abs/2311.11754v1)|null|
 |**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v2](http://arxiv.org/abs/2311.11700v2)|null|
