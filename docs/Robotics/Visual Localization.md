@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042v1](http://arxiv.org/abs/2311.16042v1)|null|
+|**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914v1](http://arxiv.org/abs/2311.15914v1)|null|
+|**2023-11-27**|**LIFT OFF: LoRaWAN Installation and Fiducial Tracking Operations for the Flightline of the Future**|Ari Goodman et.al.|[2311.15912v1](http://arxiv.org/abs/2311.15912v1)|null|
+|**2023-11-27**|**FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax**|Yu Lu et.al.|[2311.15813v1](http://arxiv.org/abs/2311.15813v1)|null|
+|**2023-11-27**|**Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**|Simone Conia et.al.|[2311.15781v1](http://arxiv.org/abs/2311.15781v1)|[link](https://github.com/apple/ml-kge)|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674v1](http://arxiv.org/abs/2311.15674v1)|null|
+|**2023-11-27**|**A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation**|Jinyu Miao et.al.|[2311.15643v1](http://arxiv.org/abs/2311.15643v1)|null|
+|**2023-11-27**|**Full-aperture extended-depth oblique plane microscopy through dynamic remote focusing**|Paolo Pozzi et.al.|[2311.15608v1](http://arxiv.org/abs/2311.15608v1)|null|
+|**2023-11-27**|**Real Time GAZED: Online Shot Selection and Editing of Virtual Cameras from Wide-Angle Monocular Video Recordings**|Sudheer Achary et.al.|[2311.15581v1](http://arxiv.org/abs/2311.15581v1)|null|
+|**2023-11-27**|**Video-based Visible-Infrared Person Re-Identification with Auxiliary Samples**|Yunhao Du et.al.|[2311.15571v1](http://arxiv.org/abs/2311.15571v1)|[link](https://github.com/dyhbupt/buptcampus)|
+|**2023-11-26**|**GAN-Based LiDAR Intensity Simulation**|Richard Marcus et.al.|[2311.15415v1](http://arxiv.org/abs/2311.15415v1)|null|
+|**2023-11-26**|**Ultra-Range Gesture Recognition using an RGB Camera in Human-Robot Interaction**|Eran Bamani et.al.|[2311.15361v1](http://arxiv.org/abs/2311.15361v1)|null|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260v1](http://arxiv.org/abs/2311.15260v1)|[link](https://github.com/georghess/neurad)|
+|**2023-11-26**|**CalibFormer: A Transformer-based Automatic LiDAR-Camera Calibration Network**|Yuxuan Xiao et.al.|[2311.15241v1](http://arxiv.org/abs/2311.15241v1)|null|
+|**2023-11-25**|**Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets**|Andreas Blattmann et.al.|[2311.15127v1](http://arxiv.org/abs/2311.15127v1)|[link](https://github.com/stability-ai/generative-models)|
+|**2023-11-25**|**Candidate Galaxies at z ~ 11.3--21.8 and beyond: results from JWST's public data taken in its first year**|Haojing Yan et.al.|[2311.15121v1](http://arxiv.org/abs/2311.15121v1)|null|
+|**2023-11-25**|**Active disturbance rejection control for unmanned tracked vehicles in leader-follower scenarios: discrete-time implementation and field test validation**|Salem-Bilal Amokrane et.al.|[2311.15095v1](http://arxiv.org/abs/2311.15095v1)|null|
+|**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970v1](http://arxiv.org/abs/2311.14970v1)|null|
 |**2023-11-24**|**Automated Detection and Counting of Windows using UAV Imagery based Remote Sensing**|Dhruv Patel et.al.|[2311.14635v1](http://arxiv.org/abs/2311.14635v1)|null|
 |**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175v1](http://arxiv.org/abs/2311.14175v1)|[link](https://github.com/flakeua/bachelorsthesis)|
 |**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153v1](http://arxiv.org/abs/2311.14153v1)|null|
@@ -14,21 +32,3 @@
 |**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570v1](http://arxiv.org/abs/2311.13570v1)|null|
 |**2023-11-22**|**Euclid preparation TBD. Modelling spectroscopic clustering on mildly nonlinear scales in beyond-$Λ$CDM models**|Euclid Collaboration et.al.|[2311.13529v1](http://arxiv.org/abs/2311.13529v1)|null|
 |**2023-11-22**|**Towards a general description of the cavitation threshold in acoustic systems**|Gianmaria Viciconte et.al.|[2311.13425v1](http://arxiv.org/abs/2311.13425v1)|null|
-|**2023-11-22**|**CompenHR: Efficient Full Compensation for High-resolution Projector**|Yuxi Wang et.al.|[2311.13409v1](http://arxiv.org/abs/2311.13409v1)|null|
-|**2023-11-22**|**Lightweight High-Speed Photography Built on Coded Exposure and Implicit Neural Representation of Videos**|Zhihong Zhang et.al.|[2311.13134v1](http://arxiv.org/abs/2311.13134v1)|[link](https://github.com/zhihongz/bdinr)|
-|**2023-11-22**|**Validation of Consumer-grade Digital Camera-based Human Activity Evaluation for Upper Limb Exercises and Development of a Therapist-guided, Automated Telerehabilitation Framework and Platform for Stroke Rehabilitation**|Elton H. L. Yeung et.al.|[2311.13088v1](http://arxiv.org/abs/2311.13088v1)|null|
-|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|[link](https://github.com/sleekeagle/defocus_camind)|
-|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|[link](https://github.com/davidstotko/physics-guided-shape-from-template)|
-|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|[link](https://github.com/huang-yh/selfocc)|
-|**2023-11-21**|**Visually Guided Object Grasping**|Radu Horaud et.al.|[2311.12660v1](http://arxiv.org/abs/2311.12660v1)|null|
-|**2023-11-21**|**Hand-Eye Calibration**|Radu Horaud et.al.|[2311.12655v2](http://arxiv.org/abs/2311.12655v2)|null|
-|**2023-11-21**|**An innovative dose rate independent 2D Ce-doped YAG scintillating dosimetry system for time resolved beam monitoring in ultra-high dose rate electron FLASH radiation therapy**|Verdi Vanreusel et.al.|[2311.12531v1](http://arxiv.org/abs/2311.12531v1)|null|
-|**2023-11-21**|**Two Views Are Better than One: Monocular 3D Pose Estimation with Multiview Consistency**|Christian Keilstrup Ingwersen et.al.|[2311.12421v1](http://arxiv.org/abs/2311.12421v1)|null|
-|**2023-11-21**|**RFTrans: Leveraging Refractive Flow of Transparent Objects for Surface Normal Estimation and Manipulation**|Tutian Tang et.al.|[2311.12398v1](http://arxiv.org/abs/2311.12398v1)|null|
-|**2023-11-20**|**HandSight: DeCAF & Improved Fisher Vectors to Classify Clothing Color and Texture with a Finger-Mounted Camera**|Alexander J. Medeiros et.al.|[2311.12225v1](http://arxiv.org/abs/2311.12225v1)|null|
-|**2023-11-20**|**Euclid preparation TBD. Spectroscopy of active galactic nuclei with NISP**|Euclid Collaboration et.al.|[2311.12096v1](http://arxiv.org/abs/2311.12096v1)|null|
-|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v2](http://arxiv.org/abs/2311.12024v2)|null|
-|**2023-11-20**|**Simultaneous Robot-World and Hand-Eye Calibration**|Fadi Dornaika et.al.|[2311.11818v1](http://arxiv.org/abs/2311.11818v1)|null|
-|**2023-11-20**|**Hybrid Controller for Robot Manipulators in Task-Space with Visual-Inertial Feedback**|Seyed Hamed Hashemi et.al.|[2311.11816v1](http://arxiv.org/abs/2311.11816v1)|null|
-|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v2](http://arxiv.org/abs/2311.11808v2)|null|
-|**2023-11-20**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762v2](http://arxiv.org/abs/2311.11762v2)|null|

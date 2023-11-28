@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
+|**2023-11-27**|**Temporal Action Localization for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2311.15831v1](http://arxiv.org/abs/2311.15831v1)|null|
+|**2023-11-27**|**Tidal dissipation in rotating and evolving giant planets with application to exoplanet systems**|Yaroslav A. Lazovik et.al.|[2311.15815v1](http://arxiv.org/abs/2311.15815v1)|null|
+|**2023-11-27**|**Even-odd alternative dispersions and beyond. Part II. Noninertial and inertial particles, and, some astrophysical chirality analogy**|Jian-Zhou Zhu et.al.|[2311.15659v1](http://arxiv.org/abs/2311.15659v1)|null|
+|**2023-11-27**|**Motility-induced coexistence of a hot liquid and a cold gas**|Lukas Hecht et.al.|[2311.15638v1](http://arxiv.org/abs/2311.15638v1)|null|
+|**2023-11-25**|**Rheology of suspensions of non-Brownian soft spheres across the jamming and viscous-to-inertial transitions**|Franco Tapia et.al.|[2311.15107v1](http://arxiv.org/abs/2311.15107v1)|null|
+|**2023-11-25**|**Nonequilibrium hyperuniform states in active turbulence**|Rainer Backofen et.al.|[2311.14959v1](http://arxiv.org/abs/2311.14959v1)|null|
 |**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
 |**2023-11-23**|**Timing relationships and resulting communications challenges in relativistic travel**|David Messerschmitt et.al.|[2311.14039v1](http://arxiv.org/abs/2311.14039v1)|null|
 |**2023-11-23**|**Quantum conditional mutual information of W state in non-inertial frames**|H Saveetha et.al.|[2311.14010v1](http://arxiv.org/abs/2311.14010v1)|null|
@@ -25,10 +32,3 @@
 |**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
 |**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
 |**2023-11-15**|**The Foucault Pendulum: Trajectories of the Full Lagrangian**|Richard J. Mathar et.al.|[2311.09357v1](http://arxiv.org/abs/2311.09357v1)|null|
-|**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
-|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|[link](https://github.com/utiasdsl/ra_lan)|
-|**2023-11-15**|**On the orbital decay of the gas giant Kepler-1658b**|Adrian J. Barker et.al.|[2311.08801v1](http://arxiv.org/abs/2311.08801v1)|null|
-|**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740v1](http://arxiv.org/abs/2311.08740v1)|null|
-|**2023-11-15**|**Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar**|Jui-Te Huang et.al.|[2311.08608v1](http://arxiv.org/abs/2311.08608v1)|null|
-|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
-|**2023-11-14**|**Velocity-Based Channel Charting with Spatial Distribution Map Matching**|Maximilian Stahlke et.al.|[2311.08016v1](http://arxiv.org/abs/2311.08016v1)|null|
