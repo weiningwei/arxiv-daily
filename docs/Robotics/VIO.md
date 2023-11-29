@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-28**|**A Continuous Dual-Axis Atomic Interferometric Inertial Sensor**|Pei-Qiang Yan et.al.|[2311.16557v1](http://arxiv.org/abs/2311.16557v1)|null|
 |**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
 |**2023-11-27**|**Temporal Action Localization for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2311.15831v1](http://arxiv.org/abs/2311.15831v1)|null|
 |**2023-11-27**|**Tidal dissipation in rotating and evolving giant planets with application to exoplanet systems**|Yaroslav A. Lazovik et.al.|[2311.15815v1](http://arxiv.org/abs/2311.15815v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
 |**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
 |**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
-|**2023-11-15**|**The Foucault Pendulum: Trajectories of the Full Lagrangian**|Richard J. Mathar et.al.|[2311.09357v1](http://arxiv.org/abs/2311.09357v1)|null|

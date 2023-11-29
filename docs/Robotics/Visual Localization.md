@@ -2,10 +2,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945v1](http://arxiv.org/abs/2311.16945v1)|null|
+|**2023-11-28**|**Gradient-based Local Next-best-view Planning for Improved Perception of Targeted Plant Nodes**|Akshay K. Burusa et.al.|[2311.16759v1](http://arxiv.org/abs/2311.16759v1)|null|
+|**2023-11-28**|**Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras**|Huajian Huang et.al.|[2311.16728v1](http://arxiv.org/abs/2311.16728v1)|null|
+|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v1](http://arxiv.org/abs/2311.16668v1)|null|
+|**2023-11-28**|**Space-based optical imaging of blue corona discharges on cumulonimbus cloud tops**|Yoav Yair et.al.|[2311.16615v1](http://arxiv.org/abs/2311.16615v1)|null|
+|**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592v1](http://arxiv.org/abs/2311.16592v1)|null|
+|**2023-11-28**|**Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement**|Jian Wang et.al.|[2311.16495v1](http://arxiv.org/abs/2311.16495v1)|null|
+|**2023-11-28**|**Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos**|Takehiko Ohkawa et.al.|[2311.16444v1](http://arxiv.org/abs/2311.16444v1)|null|
+|**2023-11-27**|**Multi-3D-Models Registration-Based Augmented Reality (AR) Instructions for Assembly**|Seda Tuzun Canadinc et.al.|[2311.16337v1](http://arxiv.org/abs/2311.16337v1)|null|
+|**2023-11-27**|**Robust Self-calibration of Focal Lengths from the Fundamental Matrix**|Viktor Kocur et.al.|[2311.16304v1](http://arxiv.org/abs/2311.16304v1)|null|
+|**2023-11-27**|**VehicleGAN: Pair-flexible Pose Guided Image Synthesis for Vehicle Re-identification**|Baolu Li et.al.|[2311.16278v1](http://arxiv.org/abs/2311.16278v1)|null|
+|**2023-11-27**|**Euclid Preparation. TBD. Galaxy colour selections with Euclid and ground photometry for cluster weak-lensing analyses**|Euclid Collaboration et.al.|[2311.16239v1](http://arxiv.org/abs/2311.16239v1)|null|
 |**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042v1](http://arxiv.org/abs/2311.16042v1)|null|
 |**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914v1](http://arxiv.org/abs/2311.15914v1)|null|
 |**2023-11-27**|**LIFT OFF: LoRaWAN Installation and Fiducial Tracking Operations for the Flightline of the Future**|Ari Goodman et.al.|[2311.15912v1](http://arxiv.org/abs/2311.15912v1)|null|
 |**2023-11-27**|**FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax**|Yu Lu et.al.|[2311.15813v1](http://arxiv.org/abs/2311.15813v1)|null|
+|**2023-11-27**|**Mip-Splatting: Alias-free 3D Gaussian Splatting**|Zehao Yu et.al.|[2311.16493v1](http://arxiv.org/abs/2311.16493v1)|null|
 |**2023-11-27**|**Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**|Simone Conia et.al.|[2311.15781v1](http://arxiv.org/abs/2311.15781v1)|[link](https://github.com/apple/ml-kge)|
 |**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674v1](http://arxiv.org/abs/2311.15674v1)|null|
 |**2023-11-27**|**A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation**|Jinyu Miao et.al.|[2311.15643v1](http://arxiv.org/abs/2311.15643v1)|null|
@@ -19,16 +32,3 @@
 |**2023-11-25**|**Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets**|Andreas Blattmann et.al.|[2311.15127v1](http://arxiv.org/abs/2311.15127v1)|[link](https://github.com/stability-ai/generative-models)|
 |**2023-11-25**|**Candidate Galaxies at z ~ 11.3--21.8 and beyond: results from JWST's public data taken in its first year**|Haojing Yan et.al.|[2311.15121v1](http://arxiv.org/abs/2311.15121v1)|null|
 |**2023-11-25**|**Active disturbance rejection control for unmanned tracked vehicles in leader-follower scenarios: discrete-time implementation and field test validation**|Salem-Bilal Amokrane et.al.|[2311.15095v1](http://arxiv.org/abs/2311.15095v1)|null|
-|**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970v1](http://arxiv.org/abs/2311.14970v1)|null|
-|**2023-11-24**|**Automated Detection and Counting of Windows using UAV Imagery based Remote Sensing**|Dhruv Patel et.al.|[2311.14635v1](http://arxiv.org/abs/2311.14635v1)|null|
-|**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175v1](http://arxiv.org/abs/2311.14175v1)|[link](https://github.com/flakeua/bachelorsthesis)|
-|**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153v1](http://arxiv.org/abs/2311.14153v1)|null|
-|**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
-|**2023-11-23**|**Overview of the distributed image processing infrastructure to produce the Legacy Survey of Space and Time**|Fabio Hernandez et.al.|[2311.13981v1](http://arxiv.org/abs/2311.13981v1)|null|
-|**2023-11-23**|**Electric Network Frequency Optical Sensing Devices**|Christos Moysiadis et.al.|[2311.13954v1](http://arxiv.org/abs/2311.13954v1)|null|
-|**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750v1](http://arxiv.org/abs/2311.13750v1)|null|
-|**2023-11-22**|**GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar**|Berna Kabadayi et.al.|[2311.13655v1](http://arxiv.org/abs/2311.13655v1)|null|
-|**2023-11-22**|**Diffusion models meet image counter-forensics**|Matías Tailanian et.al.|[2311.13629v1](http://arxiv.org/abs/2311.13629v1)|[link](https://github.com/mtailanian/diff-cf)|
-|**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570v1](http://arxiv.org/abs/2311.13570v1)|null|
-|**2023-11-22**|**Euclid preparation TBD. Modelling spectroscopic clustering on mildly nonlinear scales in beyond-$Λ$CDM models**|Euclid Collaboration et.al.|[2311.13529v1](http://arxiv.org/abs/2311.13529v1)|null|
-|**2023-11-22**|**Towards a general description of the cavitation threshold in acoustic systems**|Gianmaria Viciconte et.al.|[2311.13425v1](http://arxiv.org/abs/2311.13425v1)|null|
