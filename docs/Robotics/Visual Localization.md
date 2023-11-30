@@ -5,12 +5,12 @@
 |**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945v1](http://arxiv.org/abs/2311.16945v1)|null|
 |**2023-11-28**|**Gradient-based Local Next-best-view Planning for Improved Perception of Targeted Plant Nodes**|Akshay K. Burusa et.al.|[2311.16759v1](http://arxiv.org/abs/2311.16759v1)|null|
 |**2023-11-28**|**Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras**|Huajian Huang et.al.|[2311.16728v1](http://arxiv.org/abs/2311.16728v1)|null|
-|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v1](http://arxiv.org/abs/2311.16668v1)|null|
+|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v2](http://arxiv.org/abs/2311.16668v2)|null|
 |**2023-11-28**|**Space-based optical imaging of blue corona discharges on cumulonimbus cloud tops**|Yoav Yair et.al.|[2311.16615v1](http://arxiv.org/abs/2311.16615v1)|null|
 |**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592v1](http://arxiv.org/abs/2311.16592v1)|null|
 |**2023-11-28**|**Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement**|Jian Wang et.al.|[2311.16495v1](http://arxiv.org/abs/2311.16495v1)|null|
-|**2023-11-28**|**Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos**|Takehiko Ohkawa et.al.|[2311.16444v1](http://arxiv.org/abs/2311.16444v1)|null|
-|**2023-11-27**|**Multi-3D-Models Registration-Based Augmented Reality (AR) Instructions for Assembly**|Seda Tuzun Canadinc et.al.|[2311.16337v1](http://arxiv.org/abs/2311.16337v1)|null|
+|**2023-11-28**|**Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos**|Takehiko Ohkawa et.al.|[2311.16444v2](http://arxiv.org/abs/2311.16444v2)|null|
+|**2023-11-27**|**Multi-3D-Models Registration-Based Augmented Reality (AR) Instructions for Assembly**|Seda Tuzun Canadinc et.al.|[2311.16337v2](http://arxiv.org/abs/2311.16337v2)|null|
 |**2023-11-27**|**Robust Self-calibration of Focal Lengths from the Fundamental Matrix**|Viktor Kocur et.al.|[2311.16304v1](http://arxiv.org/abs/2311.16304v1)|null|
 |**2023-11-27**|**VehicleGAN: Pair-flexible Pose Guided Image Synthesis for Vehicle Re-identification**|Baolu Li et.al.|[2311.16278v1](http://arxiv.org/abs/2311.16278v1)|null|
 |**2023-11-27**|**Euclid Preparation. TBD. Galaxy colour selections with Euclid and ground photometry for cluster weak-lensing analyses**|Euclid Collaboration et.al.|[2311.16239v1](http://arxiv.org/abs/2311.16239v1)|null|
