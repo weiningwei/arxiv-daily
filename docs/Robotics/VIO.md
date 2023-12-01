@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722v1](http://arxiv.org/abs/2311.18722v1)|null|
+|**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process**|Moses Ike et.al.|[2311.18539v1](http://arxiv.org/abs/2311.18539v1)|null|
+|**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
+|**2023-11-30**|**PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi**|Pierre-Yves Lajoie et.al.|[2311.18182v1](http://arxiv.org/abs/2311.18182v1)|null|
 |**2023-11-28**|**A Continuous Dual-Axis Atomic Interferometric Inertial Sensor**|Pei-Qiang Yan et.al.|[2311.16557v1](http://arxiv.org/abs/2311.16557v1)|null|
 |**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
 |**2023-11-27**|**Temporal Action Localization for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2311.15831v1](http://arxiv.org/abs/2311.15831v1)|null|
@@ -28,7 +32,3 @@
 |**2023-11-19**|**Radarize: Large-Scale Radar SLAM for Indoor Environments**|Emerson Sie et.al.|[2311.11260v1](http://arxiv.org/abs/2311.11260v1)|null|
 |**2023-11-17**|**Verification of Wave Turbulence Theory in the Kinetic Limit**|Alexander Hrabski et.al.|[2311.10846v1](http://arxiv.org/abs/2311.10846v1)|null|
 |**2023-11-17**|**Multimodal Indoor Localization Using Crowdsourced Radio Maps**|Zhaoguang Yi et.al.|[2311.10601v1](http://arxiv.org/abs/2311.10601v1)|null|
-|**2023-11-17**|**Numerical study of non-toroidal inertial modes with l=m+1 radial vorticity in the Sun's convection zone**|Yuto Bekki et.al.|[2311.10414v1](http://arxiv.org/abs/2311.10414v1)|null|
-|**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
-|**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
-|**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|

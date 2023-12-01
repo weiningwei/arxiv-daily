@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
 |**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
 |**2023-11-20**|**MSCEqF: A Multi State Constraint Equivariant Filter for Vision-aided Inertial Navigation**|Alessandro Fornasier et.al.|[2311.11649v1](http://arxiv.org/abs/2311.11649v1)|[link](https://github.com/aau-cns/msceqf)|
@@ -31,4 +32,3 @@
 |**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|[link](https://github.com/fast-fire/colag)|
 |**2023-10-19**|**Advancements in Radar Odometry**|Matteo Frosi et.al.|[2310.12729v1](http://arxiv.org/abs/2310.12729v1)|null|
 |**2023-10-19**|**Online Multi-IMU Calibration Using Visual-Inertial Odometry**|Jacob Hartzer et.al.|[2310.12411v1](http://arxiv.org/abs/2310.12411v1)|[link](https://github.com/unmannedlab/ekf-cal)|
-|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|[link](https://github.com/yanyan-li/open-structure)|
