@@ -5,7 +5,7 @@
 |**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534v1](http://arxiv.org/abs/2312.00534v1)|null|
 |**2023-12-01**|**Inertial (self-)collisions of viscoelastic solids with Lipschitz boundaries**|Antonín Češík et.al.|[2312.00431v1](http://arxiv.org/abs/2312.00431v1)|null|
 |**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722v1](http://arxiv.org/abs/2311.18722v1)|null|
-|**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process**|Moses Ike et.al.|[2311.18539v1](http://arxiv.org/abs/2311.18539v1)|null|
+|**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process Attacks**|Moses Ike et.al.|[2311.18539v2](http://arxiv.org/abs/2311.18539v2)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
 |**2023-11-30**|**PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi**|Pierre-Yves Lajoie et.al.|[2311.18182v1](http://arxiv.org/abs/2311.18182v1)|null|
 |**2023-11-28**|**A Continuous Dual-Axis Atomic Interferometric Inertial Sensor**|Pei-Qiang Yan et.al.|[2311.16557v1](http://arxiv.org/abs/2311.16557v1)|null|
