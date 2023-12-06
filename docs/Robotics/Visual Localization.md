@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
+|**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
+|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v1](http://arxiv.org/abs/2312.02934v1)|[link](https://github.com/fudan-zvg/wovogen)|
+|**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928v1](http://arxiv.org/abs/2312.02928v1)|null|
+|**2023-12-05**|**High-rate electron detectors to study Compton scattering in non-perturbative QED**|Antonios Athanassiadis et.al.|[2312.02924v1](http://arxiv.org/abs/2312.02924v1)|null|
+|**2023-12-05**|**Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs**|Camillo Quattrocchi et.al.|[2312.02638v1](http://arxiv.org/abs/2312.02638v1)|[link](https://github.com/fpv-iplab/synchronization-is-all-you-need)|
+|**2023-12-05**|**Automatic Robot Path Planning for Visual Inspection from Object Shape**|O. Tasneem et.al.|[2312.02603v1](http://arxiv.org/abs/2312.02603v1)|null|
+|**2023-12-05**|**An Integrated System for Spatio-Temporal Summarization of 360-degrees Videos**|Ioannis Kontostathis et.al.|[2312.02576v1](http://arxiv.org/abs/2312.02576v1)|null|
+|**2023-12-05**|**Fortress: Securing IoT Peripherals with Trusted Execution Environments**|Peterson Yuhala et.al.|[2312.02542v1](http://arxiv.org/abs/2312.02542v1)|null|
+|**2023-12-05**|**Time-Relative RTK-GNSS: GNSS Loop Closure in Pose Graph Optimization**|Taro Suzuki et.al.|[2312.02448v1](http://arxiv.org/abs/2312.02448v1)|null|
+|**2023-12-04**|**Cable Slack Detection for Arresting Gear Application using Machine Vision**|Ari Goodman et.al.|[2312.02320v1](http://arxiv.org/abs/2312.02320v1)|null|
+|**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284v1](http://arxiv.org/abs/2312.02284v1)|null|
 |**2023-12-04**|**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**|Shunyuan Zheng et.al.|[2312.02155v1](http://arxiv.org/abs/2312.02155v1)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|[link](https://github.com/georg-bn/rotation-steerers)|
 |**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144v1](http://arxiv.org/abs/2312.02144v1)|null|
@@ -20,15 +32,3 @@
 |**2023-12-03**|**Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models**|Shengqu Cai et.al.|[2312.01409v1](http://arxiv.org/abs/2312.01409v1)|null|
 |**2023-12-03**|**ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models**|Jeong-gi Kwak et.al.|[2312.01305v1](http://arxiv.org/abs/2312.01305v1)|null|
 |**2023-12-03**|**A novel design for 100 meter-scale water attenuation length measurement and monitoring**|Li Wang et.al.|[2312.01293v1](http://arxiv.org/abs/2312.01293v1)|null|
-|**2023-12-02**|**Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation**|Niklas Funk et.al.|[2312.01236v1](http://arxiv.org/abs/2312.01236v1)|null|
-|**2023-12-02**|**Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction**|Devikalyan Das et.al.|[2312.01196v1](http://arxiv.org/abs/2312.01196v1)|null|
-|**2023-12-02**|**Comprehensive Robotic Cholecystectomy Dataset (CRCD): Integrating Kinematics, Pedal Signals, and Endoscopic Videos**|Ki-Hwan Oh et.al.|[2312.01183v1](http://arxiv.org/abs/2312.01183v1)|null|
-|**2023-12-02**|**Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays**|Elena Fedorova et.al.|[2312.01174v1](http://arxiv.org/abs/2312.01174v1)|null|
-|**2023-12-02**|**RobustCalib: Robust Lidar-Camera Extrinsic Calibration with Consistency Learning**|Shuang Xu et.al.|[2312.01085v1](http://arxiv.org/abs/2312.01085v1)|null|
-|**2023-12-02**|**OpEnCam: Lensless Optical Encryption Camera**|Salman S. Khan et.al.|[2312.01077v1](http://arxiv.org/abs/2312.01077v1)|null|
-|**2023-12-01**|**Euclid preparation. TBD. Galaxy power spectrum modelling in real space**|Euclid Collaboration et.al.|[2312.00679v1](http://arxiv.org/abs/2312.00679v1)|null|
-|**2023-12-01**|**UAVs and Birds: Enhancing Short-Range Navigation through Budgerigar Flight Studies**|Md. Mahmudur Rahman et.al.|[2312.00597v1](http://arxiv.org/abs/2312.00597v1)|null|
-|**2023-12-01**|**Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous Phenomena**|M. Szydagis et.al.|[2312.00558v2](http://arxiv.org/abs/2312.00558v2)|null|
-|**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500v1](http://arxiv.org/abs/2312.00500v1)|null|
-|**2023-12-01**|**Unfolder: Fast localization and image rectification of a document with a crease from folding in half**|A. M. Ershov et.al.|[2312.00467v1](http://arxiv.org/abs/2312.00467v1)|null|
-|**2023-12-01**|**A Low-Power Neuromorphic Approach for Efficient Eye-Tracking**|Pietro Bonazzi et.al.|[2312.00425v1](http://arxiv.org/abs/2312.00425v1)|null|
