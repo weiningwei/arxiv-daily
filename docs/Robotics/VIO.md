@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-06**|**Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**|Matthew L. Olson et.al.|[2312.03642v1](http://arxiv.org/abs/2312.03642v1)|null|
 |**2023-12-05**|**Dynamic wetting experiments in microgravity and capillary dominated flows**|Domenico Fiorini et.al.|[2312.02754v1](http://arxiv.org/abs/2312.02754v1)|null|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
 |**2023-12-05**|**Inertial Line-Of-Sight Stabilization Using a 3-DOF Spherical Parallel Manipulator with Coaxial Input Shafts**|Alexandre Le et.al.|[2312.02641v1](http://arxiv.org/abs/2312.02641v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
 |**2023-11-23**|**Timing relationships and resulting communications challenges in relativistic travel**|David Messerschmitt et.al.|[2311.14039v1](http://arxiv.org/abs/2311.14039v1)|null|
 |**2023-11-23**|**Quantum conditional mutual information of W state in non-inertial frames**|H Saveetha et.al.|[2311.14010v1](http://arxiv.org/abs/2311.14010v1)|null|
-|**2023-11-23**|**Object Location Prediction in Real-time using LSTM Neural Network and Polynomial Regression**|Petar Stojković et.al.|[2311.13950v1](http://arxiv.org/abs/2311.13950v1)|null|

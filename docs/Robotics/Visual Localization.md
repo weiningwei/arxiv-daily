@@ -2,11 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-06**|**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation**|Zhouxia Wang et.al.|[2312.03641v1](http://arxiv.org/abs/2312.03641v1)|null|
+|**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|[link](https://github.com/gfxdisp/colorvideovdp)|
+|**2023-12-06**|**Automated Multimodal Data Annotation via Calibration With Indoor Positioning System**|Ryan Rubel et.al.|[2312.03608v1](http://arxiv.org/abs/2312.03608v1)|null|
+|**2023-12-06**|**From Detection to Action Recognition: An Edge-Based Pipeline for Robot Human Perception**|Petros Toupas et.al.|[2312.03477v1](http://arxiv.org/abs/2312.03477v1)|null|
+|**2023-12-06**|**Action Scene Graphs for Long-Form Understanding of Egocentric Videos**|Ivan Rodin et.al.|[2312.03391v1](http://arxiv.org/abs/2312.03391v1)|[link](https://github.com/fpv-iplab/easg)|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
+|**2023-12-06**|**Calibrating Figures**|Niels Lubbes et.al.|[2312.03354v1](http://arxiv.org/abs/2312.03354v1)|null|
+|**2023-12-05**|**Mitigation of the Brighter-Fatter Effect in the LSST Camera**|Alex Broughton et.al.|[2312.03115v1](http://arxiv.org/abs/2312.03115v1)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
 |**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
 |**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v2](http://arxiv.org/abs/2312.02934v2)|[link](https://github.com/fudan-zvg/wovogen)|
 |**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928v1](http://arxiv.org/abs/2312.02928v1)|null|
 |**2023-12-05**|**High-rate electron detectors to study Compton scattering in non-perturbative QED**|Antonios Athanassiadis et.al.|[2312.02924v1](http://arxiv.org/abs/2312.02924v1)|null|
+|**2023-12-05**|**LiDAR-based Person Re-identification**|Wenxuan Guo et.al.|[2312.03033v1](http://arxiv.org/abs/2312.03033v1)|null|
 |**2023-12-05**|**Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs**|Camillo Quattrocchi et.al.|[2312.02638v1](http://arxiv.org/abs/2312.02638v1)|[link](https://github.com/fpv-iplab/synchronization-is-all-you-need)|
 |**2023-12-05**|**Automatic Robot Path Planning for Visual Inspection from Object Shape**|O. Tasneem et.al.|[2312.02603v1](http://arxiv.org/abs/2312.02603v1)|null|
 |**2023-12-05**|**An Integrated System for Spatio-Temporal Summarization of 360-degrees Videos**|Ioannis Kontostathis et.al.|[2312.02576v1](http://arxiv.org/abs/2312.02576v1)|null|
@@ -23,12 +32,3 @@
 |**2023-12-04**|**Integrating AI into CCTV Systems: A Comprehensive Evaluation of Smart Video Surveillance in Community Space**|Shanle Yao et.al.|[2312.02078v1](http://arxiv.org/abs/2312.02078v1)|null|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029v1](http://arxiv.org/abs/2312.02029v1)|null|
 |**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015v1](http://arxiv.org/abs/2312.02015v1)|null|
-|**2023-12-04**|**Head Orientation Estimation with Distributed Microphones Using Speech Radiation Patterns**|Kaspar Müller et.al.|[2312.01808v1](http://arxiv.org/abs/2312.01808v1)|null|
-|**2023-12-04**|**BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection**|Zhenxin Li et.al.|[2312.01696v1](http://arxiv.org/abs/2312.01696v1)|null|
-|**2023-12-04**|**Multi-View Person Matching and 3D Pose Estimation with Arbitrary Uncalibrated Camera Networks**|Yan Xu et.al.|[2312.01561v1](http://arxiv.org/abs/2312.01561v1)|null|
-|**2023-12-03**|**Regularity as Intrinsic Reward for Free Play**|Cansu Sancaktar et.al.|[2312.01473v1](http://arxiv.org/abs/2312.01473v1)|null|
-|**2023-12-03**|**Exploring Adversarial Robustness of LiDAR-Camera Fusion Model in Autonomous Driving**|Bo Yang et.al.|[2312.01468v1](http://arxiv.org/abs/2312.01468v1)|null|
-|**2023-12-03**|**Looking Inside Out: Anticipating Driver Intent From Videos**|Yung-chi Kung et.al.|[2312.01444v1](http://arxiv.org/abs/2312.01444v1)|null|
-|**2023-12-03**|**Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models**|Shengqu Cai et.al.|[2312.01409v1](http://arxiv.org/abs/2312.01409v1)|null|
-|**2023-12-03**|**ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models**|Jeong-gi Kwak et.al.|[2312.01305v1](http://arxiv.org/abs/2312.01305v1)|null|
-|**2023-12-03**|**A novel design for 100 meter-scale water attenuation length measurement and monitoring**|Li Wang et.al.|[2312.01293v1](http://arxiv.org/abs/2312.01293v1)|null|
