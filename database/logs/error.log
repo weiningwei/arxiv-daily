@@ -403,3 +403,5 @@ yaml.parser.ParserError: while parsing a block mapping
   in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 1, column 1
 expected <block end>, but found '<block mapping start>'
   in "/home/runner/work/arxiv-daily/arxiv-daily/database/topic.yml", line 5, column 3
+2023-12-09 08:42:47.572 | ERROR    | __main__:handle_html:66 - Expecting value: line 1 column 1 (char 0)
+2023-12-09 08:42:47.642 | ERROR    | __main__:handle_html:66 - Expecting value: line 1 column 1 (char 0)

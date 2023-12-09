@@ -15285,3 +15285,7 @@ expected <block end>, but found '<block mapping start>'
 2023-12-08 21:10:09.390 | SUCCESS  | __main__:parse:182 - handle [2/4] | topic=`Robotics` subtopic=`Visual Localization`
 2023-12-08 21:10:09.635 | SUCCESS  | __main__:parse:182 - handle [3/4] | topic=`Robotics` subtopic=`SLAM`
 2023-12-08 21:10:09.840 | SUCCESS  | __main__:parse:182 - handle [4/4] | topic=`Robotics` subtopic=`VIO`
+2023-12-09 08:42:39.347 | SUCCESS  | __main__:parse:182 - handle [1/4] | topic=`Robotics` subtopic=`VIO`
+2023-12-09 08:42:47.572 | ERROR    | __main__:handle_html:66 - Expecting value: line 1 column 1 (char 0)
+2023-12-09 08:42:47.642 | ERROR    | __main__:handle_html:66 - Expecting value: line 1 column 1 (char 0)
+2023-12-09 08:54:40.126 | SUCCESS  | __main__:parse:182 - handle [2/4] | topic=`Robotics` subtopic=`VO`
