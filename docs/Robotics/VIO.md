@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125v1](http://arxiv.org/abs/2312.05125v1)|null|
+|**2023-12-08**|**Bi-planar magnetic stabilisation coils for an inertial sensor based on atom interferometry**|A. Davis et.al.|[2312.05020v1](http://arxiv.org/abs/2312.05020v1)|null|
+|**2023-12-08**|**MagHT: a Magnetic Hough Transform for Fast Indoor Place Recognition**|Iad Abdul Raouf et.al.|[2312.05015v1](http://arxiv.org/abs/2312.05015v1)|null|
+|**2023-12-07**|**Effects of electrostatic interaction on clustering and collision of bidispersed inertial particles in homogeneous and isotropic turbulence**|Xuan Ruan et.al.|[2312.04694v1](http://arxiv.org/abs/2312.04694v1)|null|
 |**2023-12-06**|**Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**|Matthew L. Olson et.al.|[2312.03642v1](http://arxiv.org/abs/2312.03642v1)|null|
 |**2023-12-05**|**Dynamic wetting experiments in microgravity and capillary dominated flows**|Domenico Fiorini et.al.|[2312.02754v1](http://arxiv.org/abs/2312.02754v1)|null|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
@@ -28,7 +32,3 @@
 |**2023-11-27**|**Even-odd alternative dispersions and beyond. Part II. Noninertial and inertial particles, and, astrophysical chirality analogy**|Jian-Zhou Zhu et.al.|[2311.15659v2](http://arxiv.org/abs/2311.15659v2)|null|
 |**2023-11-27**|**Motility-induced coexistence of a hot liquid and a cold gas**|Lukas Hecht et.al.|[2311.15638v1](http://arxiv.org/abs/2311.15638v1)|null|
 |**2023-11-25**|**Rheology of suspensions of non-Brownian soft spheres across the jamming and viscous-to-inertial transitions**|Franco Tapia et.al.|[2311.15107v1](http://arxiv.org/abs/2311.15107v1)|null|
-|**2023-11-25**|**Nonequilibrium hyperuniform states in active turbulence**|Rainer Backofen et.al.|[2311.14959v1](http://arxiv.org/abs/2311.14959v1)|null|
-|**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
-|**2023-11-23**|**Timing relationships and resulting communications challenges in relativistic travel**|David Messerschmitt et.al.|[2311.14039v1](http://arxiv.org/abs/2311.14039v1)|null|
-|**2023-11-23**|**Quantum conditional mutual information of W state in non-inertial frames**|H Saveetha et.al.|[2311.14010v1](http://arxiv.org/abs/2311.14010v1)|null|

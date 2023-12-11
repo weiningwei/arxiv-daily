@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2023-12-11 09:40:51 Asia/Shanghai
+ Automated deployment @ 2023-12-11 20:12:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125v1](http://arxiv.org/abs/2312.05125v1)|null|
+|**2023-12-08**|**Bi-planar magnetic stabilisation coils for an inertial sensor based on atom interferometry**|A. Davis et.al.|[2312.05020v1](http://arxiv.org/abs/2312.05020v1)|null|
+|**2023-12-08**|**MagHT: a Magnetic Hough Transform for Fast Indoor Place Recognition**|Iad Abdul Raouf et.al.|[2312.05015v1](http://arxiv.org/abs/2312.05015v1)|null|
+|**2023-12-07**|**Effects of electrostatic interaction on clustering and collision of bidispersed inertial particles in homogeneous and isotropic turbulence**|Xuan Ruan et.al.|[2312.04694v1](http://arxiv.org/abs/2312.04694v1)|null|
+|**2023-12-06**|**Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**|Matthew L. Olson et.al.|[2312.03642v1](http://arxiv.org/abs/2312.03642v1)|null|
+|**2023-12-05**|**Dynamic wetting experiments in microgravity and capillary dominated flows**|Domenico Fiorini et.al.|[2312.02754v1](http://arxiv.org/abs/2312.02754v1)|null|
+|**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
+|**2023-12-05**|**Inertial Line-Of-Sight Stabilization Using a 3-DOF Spherical Parallel Manipulator with Coaxial Input Shafts**|Alexandre Le et.al.|[2312.02641v1](http://arxiv.org/abs/2312.02641v1)|null|
+|**2023-12-05**|**MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**|Chuan Huang et.al.|[2312.02599v1](http://arxiv.org/abs/2312.02599v1)|[link](https://github.com/huang-chuan/mainsvsmagekf)|
+|**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
+|**2023-12-04**|**SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments**|Tisheng Zhang et.al.|[2312.01809v1](http://arxiv.org/abs/2312.01809v1)|null|
+|**2023-12-04**|**Feedback Cooling of an Insulating High-Q Diamagnetically Levitated Plate**|S. Tian et.al.|[2312.01660v1](http://arxiv.org/abs/2312.01660v1)|null|
+|**2023-12-04**|**SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System**|Yunfei Fan et.al.|[2312.01616v1](http://arxiv.org/abs/2312.01616v1)|null|
+|**2023-12-02**|**Experimentation on stochastic trajectories: from Brownian motion to inertial confined dynamics**|Azul María Brigante et.al.|[2312.01208v1](http://arxiv.org/abs/2312.01208v1)|null|
+|**2023-12-02**|**Vortex polarization and circulation statistics in isotropic turbulence**|L. Moriconi et.al.|[2312.01155v1](http://arxiv.org/abs/2312.01155v1)|null|
+|**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|null|
+|**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534v1](http://arxiv.org/abs/2312.00534v1)|null|
+|**2023-12-01**|**Inertial (self-)collisions of viscoelastic solids with Lipschitz boundaries**|Antonín Češík et.al.|[2312.00431v1](http://arxiv.org/abs/2312.00431v1)|null|
+|**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722v1](http://arxiv.org/abs/2311.18722v1)|null|
+|**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process Attacks**|Moses Ike et.al.|[2311.18539v2](http://arxiv.org/abs/2311.18539v2)|null|
+|**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
+|**2023-11-30**|**PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi**|Pierre-Yves Lajoie et.al.|[2311.18182v1](http://arxiv.org/abs/2311.18182v1)|null|
+|**2023-11-28**|**A Continuous Dual-Axis Atomic Interferometric Inertial Sensor**|Pei-Qiang Yan et.al.|[2311.16557v1](http://arxiv.org/abs/2311.16557v1)|null|
+|**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
+|**2023-11-27**|**Temporal Action Localization for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2311.15831v1](http://arxiv.org/abs/2311.15831v1)|null|
+|**2023-11-27**|**Tidal dissipation in rotating and evolving giant planets with application to exoplanet systems**|Yaroslav A. Lazovik et.al.|[2311.15815v1](http://arxiv.org/abs/2311.15815v1)|null|
+|**2023-11-27**|**Even-odd alternative dispersions and beyond. Part II. Noninertial and inertial particles, and, astrophysical chirality analogy**|Jian-Zhou Zhu et.al.|[2311.15659v2](http://arxiv.org/abs/2311.15659v2)|null|
+|**2023-11-27**|**Motility-induced coexistence of a hot liquid and a cold gas**|Lukas Hecht et.al.|[2311.15638v1](http://arxiv.org/abs/2311.15638v1)|null|
+|**2023-11-25**|**Rheology of suspensions of non-Brownian soft spheres across the jamming and viscous-to-inertial transitions**|Franco Tapia et.al.|[2311.15107v1](http://arxiv.org/abs/2311.15107v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -39,43 +73,10 @@
 |**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset et.al.|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v2](http://arxiv.org/abs/2310.18917v2)|null|
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-06**|**Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**|Matthew L. Olson et.al.|[2312.03642v1](http://arxiv.org/abs/2312.03642v1)|null|
-|**2023-12-05**|**Dynamic wetting experiments in microgravity and capillary dominated flows**|Domenico Fiorini et.al.|[2312.02754v1](http://arxiv.org/abs/2312.02754v1)|null|
-|**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
-|**2023-12-05**|**Inertial Line-Of-Sight Stabilization Using a 3-DOF Spherical Parallel Manipulator with Coaxial Input Shafts**|Alexandre Le et.al.|[2312.02641v1](http://arxiv.org/abs/2312.02641v1)|null|
-|**2023-12-05**|**MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**|Chuan Huang et.al.|[2312.02599v1](http://arxiv.org/abs/2312.02599v1)|[link](https://github.com/huang-chuan/mainsvsmagekf)|
-|**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
-|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
-|**2023-12-04**|**SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments**|Tisheng Zhang et.al.|[2312.01809v1](http://arxiv.org/abs/2312.01809v1)|null|
-|**2023-12-04**|**Feedback Cooling of an Insulating High-Q Diamagnetically Levitated Plate**|S. Tian et.al.|[2312.01660v1](http://arxiv.org/abs/2312.01660v1)|null|
-|**2023-12-04**|**SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System**|Yunfei Fan et.al.|[2312.01616v1](http://arxiv.org/abs/2312.01616v1)|null|
-|**2023-12-02**|**Experimentation on stochastic trajectories: from Brownian motion to inertial confined dynamics**|Azul María Brigante et.al.|[2312.01208v1](http://arxiv.org/abs/2312.01208v1)|null|
-|**2023-12-02**|**Vortex polarization and circulation statistics in isotropic turbulence**|L. Moriconi et.al.|[2312.01155v1](http://arxiv.org/abs/2312.01155v1)|null|
-|**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|null|
-|**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534v1](http://arxiv.org/abs/2312.00534v1)|null|
-|**2023-12-01**|**Inertial (self-)collisions of viscoelastic solids with Lipschitz boundaries**|Antonín Češík et.al.|[2312.00431v1](http://arxiv.org/abs/2312.00431v1)|null|
-|**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722v1](http://arxiv.org/abs/2311.18722v1)|null|
-|**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process Attacks**|Moses Ike et.al.|[2311.18539v2](http://arxiv.org/abs/2311.18539v2)|null|
-|**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
-|**2023-11-30**|**PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi**|Pierre-Yves Lajoie et.al.|[2311.18182v1](http://arxiv.org/abs/2311.18182v1)|null|
-|**2023-11-28**|**A Continuous Dual-Axis Atomic Interferometric Inertial Sensor**|Pei-Qiang Yan et.al.|[2311.16557v1](http://arxiv.org/abs/2311.16557v1)|null|
-|**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
-|**2023-11-27**|**Temporal Action Localization for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2311.15831v1](http://arxiv.org/abs/2311.15831v1)|null|
-|**2023-11-27**|**Tidal dissipation in rotating and evolving giant planets with application to exoplanet systems**|Yaroslav A. Lazovik et.al.|[2311.15815v1](http://arxiv.org/abs/2311.15815v1)|null|
-|**2023-11-27**|**Even-odd alternative dispersions and beyond. Part II. Noninertial and inertial particles, and, astrophysical chirality analogy**|Jian-Zhou Zhu et.al.|[2311.15659v2](http://arxiv.org/abs/2311.15659v2)|null|
-|**2023-11-27**|**Motility-induced coexistence of a hot liquid and a cold gas**|Lukas Hecht et.al.|[2311.15638v1](http://arxiv.org/abs/2311.15638v1)|null|
-|**2023-11-25**|**Rheology of suspensions of non-Brownian soft spheres across the jamming and viscous-to-inertial transitions**|Franco Tapia et.al.|[2311.15107v1](http://arxiv.org/abs/2311.15107v1)|null|
-|**2023-11-25**|**Nonequilibrium hyperuniform states in active turbulence**|Rainer Backofen et.al.|[2311.14959v1](http://arxiv.org/abs/2311.14959v1)|null|
-|**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
-|**2023-11-23**|**Timing relationships and resulting communications challenges in relativistic travel**|David Messerschmitt et.al.|[2311.14039v1](http://arxiv.org/abs/2311.14039v1)|null|
-|**2023-11-23**|**Quantum conditional mutual information of W state in non-inertial frames**|H Saveetha et.al.|[2311.14010v1](http://arxiv.org/abs/2311.14010v1)|null|
-
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**MagHT: a Magnetic Hough Transform for Fast Indoor Place Recognition**|Iad Abdul Raouf et.al.|[2312.05015v1](http://arxiv.org/abs/2312.05015v1)|null|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
 |**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
@@ -105,11 +106,15 @@
 |**2023-10-30**|**Distributed multi-agent magnetic field norm SLAM with Gaussian processes**|Frida Viset et.al.|[2310.19400v1](http://arxiv.org/abs/2310.19400v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
 |**2023-10-25**|**An Online Self-calibrating Refractive Camera Model with Application to Underwater Odometry**|Mohit Singh et.al.|[2310.16658v1](http://arxiv.org/abs/2310.16658v1)|[link](https://github.com/ntnu-arl/underwater-datasets)|
-|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
+|**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970v1](http://arxiv.org/abs/2312.04970v1)|null|
+|**2023-12-08**|**A search for new dwarf galaxies outside the nearby groups**|I. D. Karachentsev et.al.|[2312.04930v1](http://arxiv.org/abs/2312.04930v1)|null|
+|**2023-12-08**|**Radar Perception in Autonomous Driving: Exploring Different Data Representations**|Shanliang Yao et.al.|[2312.04861v1](http://arxiv.org/abs/2312.04861v1)|null|
+|**2023-12-08**|**Improving Neural Machine Translation by Multi-Knowledge Integration with Prompting**|Ke Wang et.al.|[2312.04807v1](http://arxiv.org/abs/2312.04807v1)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
 |**2023-12-07**|**SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing**|Tomoki Ichikawa et.al.|[2312.04553v1](http://arxiv.org/abs/2312.04553v1)|null|
 |**2023-12-07**|**Free3D: Consistent Novel View Synthesis without 3D Representation**|Chuanxia Zheng et.al.|[2312.04551v1](http://arxiv.org/abs/2312.04551v1)|[link](https://github.com/lyndonzheng/Free3D)|
@@ -135,8 +140,3 @@
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
 |**2023-12-06**|**Calibrating Figures**|Niels Lubbes et.al.|[2312.03354v1](http://arxiv.org/abs/2312.03354v1)|null|
 |**2023-12-05**|**Mitigation of the Brighter-Fatter Effect in the LSST Camera**|Alex Broughton et.al.|[2312.03115v1](http://arxiv.org/abs/2312.03115v1)|null|
-|**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
-|**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
-|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v2](http://arxiv.org/abs/2312.02934v2)|[link](https://github.com/fudan-zvg/wovogen)|
-|**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928v1](http://arxiv.org/abs/2312.02928v1)|null|
-|**2023-12-05**|**High-rate electron detectors to study Compton scattering in non-perturbative QED**|Antonios Athanassiadis et.al.|[2312.02924v1](http://arxiv.org/abs/2312.02924v1)|null|

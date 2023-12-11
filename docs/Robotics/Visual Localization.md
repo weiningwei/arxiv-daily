@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
+|**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970v1](http://arxiv.org/abs/2312.04970v1)|null|
+|**2023-12-08**|**A search for new dwarf galaxies outside the nearby groups**|I. D. Karachentsev et.al.|[2312.04930v1](http://arxiv.org/abs/2312.04930v1)|null|
+|**2023-12-08**|**Radar Perception in Autonomous Driving: Exploring Different Data Representations**|Shanliang Yao et.al.|[2312.04861v1](http://arxiv.org/abs/2312.04861v1)|null|
+|**2023-12-08**|**Improving Neural Machine Translation by Multi-Knowledge Integration with Prompting**|Ke Wang et.al.|[2312.04807v1](http://arxiv.org/abs/2312.04807v1)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
 |**2023-12-07**|**SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing**|Tomoki Ichikawa et.al.|[2312.04553v1](http://arxiv.org/abs/2312.04553v1)|null|
 |**2023-12-07**|**Free3D: Consistent Novel View Synthesis without 3D Representation**|Chuanxia Zheng et.al.|[2312.04551v1](http://arxiv.org/abs/2312.04551v1)|[link](https://github.com/lyndonzheng/Free3D)|
@@ -27,8 +32,3 @@
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
 |**2023-12-06**|**Calibrating Figures**|Niels Lubbes et.al.|[2312.03354v1](http://arxiv.org/abs/2312.03354v1)|null|
 |**2023-12-05**|**Mitigation of the Brighter-Fatter Effect in the LSST Camera**|Alex Broughton et.al.|[2312.03115v1](http://arxiv.org/abs/2312.03115v1)|null|
-|**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
-|**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
-|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v2](http://arxiv.org/abs/2312.02934v2)|[link](https://github.com/fudan-zvg/wovogen)|
-|**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928v1](http://arxiv.org/abs/2312.02928v1)|null|
-|**2023-12-05**|**High-rate electron detectors to study Compton scattering in non-perturbative QED**|Antonios Athanassiadis et.al.|[2312.02924v1](http://arxiv.org/abs/2312.02924v1)|null|
