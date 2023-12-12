@@ -13,7 +13,7 @@
 |**2023-12-07**|**Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?**|Aritra Dutta et.al.|[2312.04548v1](http://arxiv.org/abs/2312.04548v1)|null|
 |**2023-12-07**|**Camera Height Doesn't Change: Unsupervised Monocular Scale-Aware Road-Scene Depth Estimation**|Genki Kinoshita et.al.|[2312.04530v1](http://arxiv.org/abs/2312.04530v1)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
-|**2023-12-07**|**Bootstrapping Autonomous Radars with Self-Supervised Learning**|Yiduo Hao et.al.|[2312.04519v1](http://arxiv.org/abs/2312.04519v1)|null|
+|**2023-12-07**|**Bootstrapping Autonomous Radars with Self-Supervised Learning**|Yiduo Hao et.al.|[2312.04519v2](http://arxiv.org/abs/2312.04519v2)|null|
 |**2023-12-07**|**GaitGuard: Towards Private Gait in Mixed Reality**|Diana Romero et.al.|[2312.04470v2](http://arxiv.org/abs/2312.04470v2)|null|
 |**2023-12-07**|**Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views**|Yabo Chen et.al.|[2312.04424v1](http://arxiv.org/abs/2312.04424v1)|null|
 |**2023-12-07**|**Accelerated Real-Life (ARL) Testing and Characterization of Automotive LiDAR Sensors to facilitate the Development and Validation of Enhanced Sensor Models**|Marcel Kettelgerdes et.al.|[2312.04229v1](http://arxiv.org/abs/2312.04229v1)|null|
