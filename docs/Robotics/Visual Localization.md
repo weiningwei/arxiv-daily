@@ -2,10 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-12**|**HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation**|Hongyu Liu et.al.|[2312.07539v1](http://arxiv.org/abs/2312.07539v1)|null|
+|**2023-12-12**|**WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**|Soyong Shin et.al.|[2312.07531v1](http://arxiv.org/abs/2312.07531v1)|null|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
+|**2023-12-12**|**Scintillation of Ar/CF$_4$ mixtures: glass-THGEM characterization with 1% CF$_4$ at 1-1.5 bar**|P. Amedo et.al.|[2312.07503v1](http://arxiv.org/abs/2312.07503v1)|null|
+|**2023-12-12**|**Holoported Characters: Real-time Free-viewpoint Rendering of Humans from Sparse RGB Cameras**|Ashwath Shetty et.al.|[2312.07423v1](http://arxiv.org/abs/2312.07423v1)|null|
+|**2023-12-12**|**CholecTrack20: A Dataset for Multi-Class Multiple Tool Tracking in Laparoscopic Surgery**|Chinedu Innocent Nwoye et.al.|[2312.07352v1](http://arxiv.org/abs/2312.07352v1)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|null|
+|**2023-12-12**|**Robust Target Detection of Intelligent Integrated Optical Camera and mmWave Radar System**|Chen Zhu et.al.|[2312.06983v1](http://arxiv.org/abs/2312.06983v1)|null|
+|**2023-12-11**|**The history of star-forming regions in the tails of 6 GASP jellyfish galaxies observed with the Hubble Space Telescope**|A. Werle et.al.|[2312.06879v1](http://arxiv.org/abs/2312.06879v1)|null|
+|**2023-12-11**|**Get an A in Math: Progressive Rectification Prompting**|Zhenyu Wu et.al.|[2312.06867v1](http://arxiv.org/abs/2312.06867v1)|[link](https://github.com/wzy6642/PRP)|
+|**2023-12-11**|**Probing Disk Ice Content and PAH Emission Through Multiband MagAO+Clio Images of HD 141569**|Jay K. Kueny et.al.|[2312.06866v1](http://arxiv.org/abs/2312.06866v1)|null|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865v1](http://arxiv.org/abs/2312.06865v1)|null|
+|**2023-12-11**|**Sequential coronagraphic low-order wavefront control**|Michael Bottom et.al.|[2312.06806v1](http://arxiv.org/abs/2312.06806v1)|null|
 |**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
 |**2023-12-11**|**Learning Naturally Aggregated Appearance for Efficient 3D Editing**|Ka Leong Cheng et.al.|[2312.06657v1](http://arxiv.org/abs/2312.06657v1)|[link](https://github.com/felixcheng97/agap)|
 |**2023-12-11**|**LightSim: Neural Lighting Simulation for Urban Scenes**|Ava Pun et.al.|[2312.06654v1](http://arxiv.org/abs/2312.06654v1)|null|
 |**2023-12-11**|**Mitigating Perspective Distortion-induced Shape Ambiguity in Image Crops**|Aditya Prakash et.al.|[2312.06594v1](http://arxiv.org/abs/2312.06594v1)|null|
+|**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741v1](http://arxiv.org/abs/2312.06741v1)|null|
 |**2023-12-11**|**3D Hand Pose Estimation in Egocentric Images in the Wild**|Aditya Prakash et.al.|[2312.06583v1](http://arxiv.org/abs/2312.06583v1)|null|
 |**2023-12-11**|**Complexity Evaluation of Parallel Execution of the RAPiD Deep-Learning Algorithm on Intel CPU**|Dominic Konrad et.al.|[2312.06544v1](http://arxiv.org/abs/2312.06544v1)|null|
 |**2023-12-11**|**VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network**|Zhishuai Li et.al.|[2312.06428v1](http://arxiv.org/abs/2312.06428v1)|null|
@@ -18,17 +32,3 @@
 |**2023-12-10**|**Aikyam: A Video Conferencing Utility for Deaf and Dumb**|Kshitij Deshpande et.al.|[2312.05962v1](http://arxiv.org/abs/2312.05962v1)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
 |**2023-12-10**|**R2Human: Real-Time 3D Human Appearance Rendering from a Single Image**|Qiao Feng et.al.|[2312.05826v1](http://arxiv.org/abs/2312.05826v1)|null|
-|**2023-12-10**|**Camera-based 3D Semantic Scene Completion with Sparse Guidance Network**|Jianbiao Mei et.al.|[2312.05752v1](http://arxiv.org/abs/2312.05752v1)|[link](https://github.com/jieqianyu/sgn)|
-|**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748v1](http://arxiv.org/abs/2312.05748v1)|null|
-|**2023-12-10**|**DVANet: Disentangling View and Action Features for Multi-View Action Recognition**|Nyle Siddiqui et.al.|[2312.05719v1](http://arxiv.org/abs/2312.05719v1)|null|
-|**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664v1](http://arxiv.org/abs/2312.05664v1)|null|
-|**2023-12-09**|**Pose Guidance by Supervision: A Framework for Clothes-Changing Person Re-Identification**|Quoc-Huy Trinh et.al.|[2312.05634v1](http://arxiv.org/abs/2312.05634v1)|null|
-|**2023-12-09**|**Enhancing Situational Awareness in Surveillance: Leveraging Data Visualization Techniques for Machine Learning-based Video Analytics Outcomes**|Babak Rahimi Ardabili et.al.|[2312.05629v1](http://arxiv.org/abs/2312.05629v1)|null|
-|**2023-12-08**|**360° Volumetric Portrait Avatar**|Jalees Nehvi et.al.|[2312.05311v1](http://arxiv.org/abs/2312.05311v1)|null|
-|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
-|**2023-12-08**|**MotionCrafter: One-Shot Motion Customization of Diffusion Models**|Yuxin Zhang et.al.|[2312.05288v1](http://arxiv.org/abs/2312.05288v1)|[link](https://github.com/zyxelsa/motioncrafter)|
-|**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970v1](http://arxiv.org/abs/2312.04970v1)|null|
-|**2023-12-08**|**A search for new dwarf galaxies outside the nearby groups**|I. D. Karachentsev et.al.|[2312.04930v1](http://arxiv.org/abs/2312.04930v1)|null|
-|**2023-12-08**|**Radar Perception in Autonomous Driving: Exploring Different Data Representations**|Shanliang Yao et.al.|[2312.04861v1](http://arxiv.org/abs/2312.04861v1)|null|
-|**2023-12-08**|**Improving Neural Machine Translation by Multi-Knowledge Integration with Prompting**|Ke Wang et.al.|[2312.04807v1](http://arxiv.org/abs/2312.04807v1)|null|
-|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270v1](http://arxiv.org/abs/2312.05270v1)|null|

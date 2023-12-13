@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|[link](https://github.com/ctu-mrs/rms)|
+|**2023-12-11**|**Statistics of Turbulence in the Solar Wind. I. What is the Reynolds Number of the Solar Wind?**|Daniel Wrench et.al.|[2312.06863v1](http://arxiv.org/abs/2312.06863v1)|null|
+|**2023-12-11**|**A local study of dynamo action driven by precession**|V. Kumar et.al.|[2312.06835v1](http://arxiv.org/abs/2312.06835v1)|null|
 |**2023-12-11**|**Direct molecular gas dynamics simulations of re-entry vehicles via the Boltzmann equation**|Tarik Dzanic et.al.|[2312.06567v1](http://arxiv.org/abs/2312.06567v1)|null|
 |**2023-12-11**|**The Inertial Spin Model of flocking with position-dependent forces**|Sebastián Carruitero et.al.|[2312.06368v1](http://arxiv.org/abs/2312.06368v1)|null|
 |**2023-12-11**|**Rotating gluon system and confinement**|Yin Jiang et.al.|[2312.06166v1](http://arxiv.org/abs/2312.06166v1)|null|
@@ -29,6 +32,3 @@
 |**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534v2](http://arxiv.org/abs/2312.00534v2)|null|
 |**2023-12-01**|**Inertial (self-)collisions of viscoelastic solids with Lipschitz boundaries**|Antonín Češík et.al.|[2312.00431v1](http://arxiv.org/abs/2312.00431v1)|null|
 |**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722v1](http://arxiv.org/abs/2311.18722v1)|null|
-|**2023-11-30**|**Bridging Both Worlds in Semantics and Time: Domain Knowledge Based Analysis and Correlation of Industrial Process Attacks**|Moses Ike et.al.|[2311.18539v2](http://arxiv.org/abs/2311.18539v2)|null|
-|**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
-|**2023-11-30**|**PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi**|Pierre-Yves Lajoie et.al.|[2311.18182v1](http://arxiv.org/abs/2311.18182v1)|null|
