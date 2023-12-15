@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-15 08:33:32 Asia/Shanghai
+ Automated deployment @ 2023-12-15 09:40:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -51,10 +51,10 @@
 |**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060v1](http://arxiv.org/abs/2312.08060v1)|null|
 |**2023-12-13**|**First Intensity Interferometry Measurements with the H.E.S.S. Telescopes**|Andreas Zmija et.al.|[2312.08015v1](http://arxiv.org/abs/2312.08015v1)|null|
 |**2023-12-13**|**Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**|Yang Jiao et.al.|[2312.08004v1](http://arxiv.org/abs/2312.08004v1)|null|
-|**2023-12-13**|**Challenges of YOLO Series for Object Detection in Extremely Heavy Rain: CALRA Simulator based Synthetic Evaluation Dat a set**|T. Kim et.al.|[2312.07976v1](http://arxiv.org/abs/2312.07976v1)|null|
+|**2023-12-13**|**Challenges of YOLO Series for Object Detection in Extremely Heavy Rain: CALRA Simulator based Synthetic Evaluation Dataset**|T. Kim et.al.|[2312.07976v2](http://arxiv.org/abs/2312.07976v2)|null|
 |**2023-12-13**|**DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**|Xiaoyu Zhou et.al.|[2312.07920v1](http://arxiv.org/abs/2312.07920v1)|null|
 |**2023-12-13**|**Projective Parallel Single-Pixel Imaging: 3D Structured Light Scanning Under Global Illumination**|Yuxi Li et.al.|[2312.07911v1](http://arxiv.org/abs/2312.07911v1)|null|
-|**2023-12-13**|**High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification**|Liuxiang Qiu et.al.|[2312.07853v1](http://arxiv.org/abs/2312.07853v1)|[link](https://github.com/jaulaucoeng/hos-net)|
+|**2023-12-13**|**High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification**|Liuxiang Qiu et.al.|[2312.07853v2](http://arxiv.org/abs/2312.07853v2)|[link](https://github.com/jaulaucoeng/hos-net)|
 |**2023-12-12**|**Analysis of Drop Collisions**|Alexis Tzelilis et.al.|[2312.07700v1](http://arxiv.org/abs/2312.07700v1)|null|
 |**2023-12-12**|**I Open at the Close: A Deep Reinforcement Learning Evaluation of Open Streets Initiatives**|R. Teal Witter et.al.|[2312.07680v1](http://arxiv.org/abs/2312.07680v1)|null|
 |**2023-12-12**|**HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation**|Hongyu Liu et.al.|[2312.07539v1](http://arxiv.org/abs/2312.07539v1)|null|
