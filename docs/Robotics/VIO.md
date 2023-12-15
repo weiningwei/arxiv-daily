@@ -12,6 +12,7 @@
 |**2023-12-11**|**Rotating gluon system and confinement**|Yin Jiang et.al.|[2312.06166v1](http://arxiv.org/abs/2312.06166v1)|null|
 |**2023-12-11**|**Solar wind current sheets: MVA inaccuracy and recommended single-spacecraft methodology**|Rachel Wang et.al.|[2312.06043v1](http://arxiv.org/abs/2312.06043v1)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
+|**2023-12-10**|**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**|Chengfeng Zhao et.al.|[2312.08869v1](http://arxiv.org/abs/2312.08869v1)|null|
 |**2023-12-10**|**Resonant stratification in Titan's global ocean**|Benjamin Idini et.al.|[2312.05723v1](http://arxiv.org/abs/2312.05723v1)|null|
 |**2023-12-08**|**Turbulence modulation in dense liquid-solid channel flow**|Jonathan S. Van Doren et.al.|[2312.05393v1](http://arxiv.org/abs/2312.05393v1)|null|
 |**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125v1](http://arxiv.org/abs/2312.05125v1)|null|
@@ -31,4 +32,3 @@
 |**2023-12-02**|**Experimentation on stochastic trajectories: from Brownian motion to inertial confined dynamics**|Azul María Brigante et.al.|[2312.01208v1](http://arxiv.org/abs/2312.01208v1)|null|
 |**2023-12-02**|**Vortex polarization and circulation statistics in isotropic turbulence**|L. Moriconi et.al.|[2312.01155v1](http://arxiv.org/abs/2312.01155v1)|null|
 |**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|null|
-|**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534v2](http://arxiv.org/abs/2312.00534v2)|null|
