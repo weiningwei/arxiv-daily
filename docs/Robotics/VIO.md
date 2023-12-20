@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-19**|**Fast Forward-Backward splitting for monotone inclusions with a convergence rate of the tangent residual of $o(1/k)$**|Radu Ioan Bot et.al.|[2312.12175v1](http://arxiv.org/abs/2312.12175v1)|null|
+|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121v1](http://arxiv.org/abs/2312.12121v1)|null|
+|**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|null|
+|**2023-12-18**|**Underwater Robot Pose Estimation Using Acoustic Methods and Intermittent Position Measurements at the Surface**|Vicu-Mihalis Maer et.al.|[2312.11401v1](http://arxiv.org/abs/2312.11401v1)|null|
 |**2023-12-16**|**Machine Learning-Enhanced Prediction of Surface Smoothness for Inertial Confinement Fusion Target Polishing Using Limited Data**|Antonios Alexos et.al.|[2312.10553v1](http://arxiv.org/abs/2312.10553v1)|null|
 |**2023-12-15**|**A multifidelity Bayesian optimization method for inertial confinement fusion design**|J. Wang et.al.|[2312.10218v1](http://arxiv.org/abs/2312.10218v1)|null|
 |**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|[link](https://github.com/tum-vision/devo)|
@@ -28,7 +32,3 @@
 |**2023-12-05**|**Dynamic wetting experiments in microgravity and capillary dominated flows**|Domenico Fiorini et.al.|[2312.02754v1](http://arxiv.org/abs/2312.02754v1)|null|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
 |**2023-12-05**|**Inertial Line-Of-Sight Stabilization Using a 3-DOF Spherical Parallel Manipulator with Coaxial Input Shafts**|Alexandre Le et.al.|[2312.02641v1](http://arxiv.org/abs/2312.02641v1)|null|
-|**2023-12-05**|**MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**|Chuan Huang et.al.|[2312.02599v1](http://arxiv.org/abs/2312.02599v1)|[link](https://github.com/huang-chuan/mainsvsmagekf)|
-|**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
-|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
-|**2023-12-04**|**SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments**|Tisheng Zhang et.al.|[2312.01809v1](http://arxiv.org/abs/2312.01809v1)|null|
