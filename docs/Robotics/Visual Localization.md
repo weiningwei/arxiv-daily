@@ -5,7 +5,7 @@
 |**2023-12-19**|**The PMT System of the TRIDENT Pathfinder Experiment**|Fuyudi Zhang et.al.|[2312.12327v1](http://arxiv.org/abs/2312.12327v1)|null|
 |**2023-12-19**|**M-BEV: Masked BEV Perception for Robust Autonomous Driving**|Siran Chen et.al.|[2312.12144v1](http://arxiv.org/abs/2312.12144v1)|[link](https://github.com/sranc3/m-bev)|
 |**2023-12-19**|**MPI Planar Correction of Pulse Based ToF Cameras**|Marian-Leontin Pop et.al.|[2312.12064v1](http://arxiv.org/abs/2312.12064v1)|null|
-|**2023-12-19**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036v1](http://arxiv.org/abs/2312.12036v1)|[link](https://github.com/fedeceola/lhmanip)|
+|**2023-12-19**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036v2](http://arxiv.org/abs/2312.12036v2)|[link](https://github.com/fedeceola/lhmanip)|
 |**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|null|
 |**2023-12-19**|**3D-LFM: Lifting Foundation Model**|Mosam Dabhi et.al.|[2312.11894v1](http://arxiv.org/abs/2312.11894v1)|[link](https://github.com/mosamdabhi/3dlfm)|
 |**2023-12-19**|**Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving**|Junkai Xu et.al.|[2312.11837v1](http://arxiv.org/abs/2312.11837v1)|[link](https://github.com/cskkxjk/vampire)|
