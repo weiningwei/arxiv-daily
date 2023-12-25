@@ -18,7 +18,7 @@
 |**2023-12-20**|**ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors**|Weijia Mao et.al.|[2312.13324v1](http://arxiv.org/abs/2312.13324v1)|null|
 |**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081v1](http://arxiv.org/abs/2312.13081v1)|null|
 |**2023-12-20**|**In2SET: Intra-Inter Similarity Exploiting Transformer for Dual-Camera Compressive Hyperspectral Imaging**|Xin Wang et.al.|[2312.13319v1](http://arxiv.org/abs/2312.13319v1)|null|
-|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v2](http://arxiv.org/abs/2312.13016v2)|[link](https://github.com/FreedomGu/DiffPortrait3D)|
+|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v3](http://arxiv.org/abs/2312.13016v3)|[link](https://github.com/FreedomGu/DiffPortrait3D)|
 |**2023-12-20**|**Estimating Photometric Redshift from Mock Flux for CSST Survey by using Weighted Random Forest**|Junhao Lu et.al.|[2312.12949v1](http://arxiv.org/abs/2312.12949v1)|null|
 |**2023-12-20**|**On the Energy Consumption of UAV Edge Computing in Non-Terrestrial Networks**|Alessandro Traspadini et.al.|[2312.12940v1](http://arxiv.org/abs/2312.12940v1)|null|
 |**2023-12-20**|**Deep Hybrid Camera Deblurring**|Jaesung Rim et.al.|[2312.13317v1](http://arxiv.org/abs/2312.13317v1)|null|
