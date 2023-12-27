@@ -5,7 +5,7 @@
 |**2023-12-21**|**A Dense Subframe-based SLAM Framework with Side-scan Sonar**|Jun Zhang et.al.|[2312.13802v1](http://arxiv.org/abs/2312.13802v1)|null|
 |**2023-12-21**|**Millimeter-wave Radio SLAM: End-to-End Processing Methods and Experimental Validation**|Elizaveta Rastorgueva-Foi et.al.|[2312.13741v1](http://arxiv.org/abs/2312.13741v1)|null|
 |**2023-12-20**|**ORBSLAM3-Enhanced Autonomous Toy Drones: Pioneering Indoor Exploration**|Murad Tukan et.al.|[2312.13385v1](http://arxiv.org/abs/2312.13385v1)|null|
-|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v1](http://arxiv.org/abs/2312.13332v1)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
 |**2023-12-20**|**Calibration of metallicity of LAMOST M dwarf stars Using FGK+M wide binaries**|Dan Qiu et.al.|[2312.12827v1](http://arxiv.org/abs/2312.12827v1)|null|
 |**2023-12-19**|**Enhanced Unscented Kalman Filter-Based SLAM in Dynamic Environments: Euclidean Approach**|Masoud Dorvash et.al.|[2312.12204v1](http://arxiv.org/abs/2312.12204v1)|null|
 |**2023-12-15**|**PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment**|Tianchen Deng et.al.|[2312.09866v1](http://arxiv.org/abs/2312.09866v1)|null|

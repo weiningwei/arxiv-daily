@@ -5,7 +5,7 @@
 |**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730v1](http://arxiv.org/abs/2312.14730v1)|null|
 |**2023-12-21**|**GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**|TaeYoung Kim et.al.|[2312.14035v1](http://arxiv.org/abs/2312.14035v1)|[link](https://github.com/taeyoung96/gril-calib)|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
-|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v1](http://arxiv.org/abs/2312.13332v1)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680v1](http://arxiv.org/abs/2312.12680v1)|null|
 |**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|[link](https://github.com/tum-vision/devo)|

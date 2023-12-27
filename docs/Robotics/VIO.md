@@ -13,7 +13,7 @@
 |**2023-12-21**|**The effect of stochastic resettings on the counting of level crossings for inertial random processes**|Miquel Montero et.al.|[2312.13968v1](http://arxiv.org/abs/2312.13968v1)|null|
 |**2023-12-21**|**Data-driven path collective variables**|Arthur France-Lanord et.al.|[2312.13868v1](http://arxiv.org/abs/2312.13868v1)|null|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
-|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v1](http://arxiv.org/abs/2312.13332v1)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
 |**2023-12-20**|**VIBES: Vibro-Inertial Bionic Enhancement System in a Prosthetic Socket**|Alessia Silvia Ivani et.al.|[2312.13015v1](http://arxiv.org/abs/2312.13015v1)|null|
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680v1](http://arxiv.org/abs/2312.12680v1)|null|
