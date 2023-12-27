@@ -19,7 +19,7 @@
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680v1](http://arxiv.org/abs/2312.12680v1)|null|
 |**2023-12-19**|**Fast Forward-Backward splitting for monotone inclusions with a convergence rate of the tangent residual of $o(1/k)$**|Radu Ioan Bot et.al.|[2312.12175v1](http://arxiv.org/abs/2312.12175v1)|null|
 |**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121v1](http://arxiv.org/abs/2312.12121v1)|null|
-|**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|null|
+|**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
 |**2023-12-18**|**Underwater Robot Pose Estimation Using Acoustic Methods and Intermittent Position Measurements at the Surface**|Vicu-Mihalis Maer et.al.|[2312.11401v1](http://arxiv.org/abs/2312.11401v1)|null|
 |**2023-12-18**|**A Special Lorentz Violation Model and a Special Rainbow Function**|Jinwen Hu et.al.|[2312.14176v1](http://arxiv.org/abs/2312.14176v1)|null|
 |**2023-12-16**|**Machine Learning-Enhanced Prediction of Surface Smoothness for Inertial Confinement Fusion Target Polishing Using Limited Data**|Antonios Alexos et.al.|[2312.10553v1](http://arxiv.org/abs/2312.10553v1)|null|
