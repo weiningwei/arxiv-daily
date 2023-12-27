@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
+|**2023-12-23**|**On the Cascade-Dissipation Balance in Astophysical Plasmas**|Davide Manzini et.al.|[2312.15365v1](http://arxiv.org/abs/2312.15365v1)|null|
+|**2023-12-22**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071v1](http://arxiv.org/abs/2312.15071v1)|null|
 |**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829v1](http://arxiv.org/abs/2312.14829v1)|null|
 |**2023-12-22**|**Exploiting decoupled discretization in meshless lattice Boltzmann method for high-Reynolds number flows**|Dawid Strzelczyk et.al.|[2312.14789v1](http://arxiv.org/abs/2312.14789v1)|null|
 |**2023-12-22**|**Ion Reflection by a Rippled Perpendicular Shock**|Yuri V. Khotyaintsev et.al.|[2312.14736v1](http://arxiv.org/abs/2312.14736v1)|null|
@@ -29,6 +32,3 @@
 |**2023-12-14**|**Designing Gram-Scale Resonators for Precision Inertial Sensors**|Jonathan J. Carter et.al.|[2312.09298v1](http://arxiv.org/abs/2312.09298v1)|null|
 |**2023-12-12**|**Lagrangian Liouville models of multiphase flows with randomly forced inertial particles**|Daniel Dominguez-Vazquez et.al.|[2312.07713v1](http://arxiv.org/abs/2312.07713v1)|null|
 |**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|[link](https://github.com/ctu-mrs/rms)|
-|**2023-12-11**|**Statistics of Turbulence in the Solar Wind. I. What is the Reynolds Number of the Solar Wind?**|Daniel Wrench et.al.|[2312.06863v1](http://arxiv.org/abs/2312.06863v1)|[link](https://github.com/daniel-wrench/reynolds_scales_project)|
-|**2023-12-11**|**A local study of dynamo action driven by precession**|V. Kumar et.al.|[2312.06835v1](http://arxiv.org/abs/2312.06835v1)|null|
-|**2023-12-11**|**Direct molecular gas dynamics simulations of re-entry vehicles via the Boltzmann equation**|Tarik Dzanic et.al.|[2312.06567v1](http://arxiv.org/abs/2312.06567v1)|null|
