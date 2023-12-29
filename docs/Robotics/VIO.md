@@ -2,7 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|null|
+|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
+|**2023-12-23**|**Stochastic Equilibrium the Lucas Critique and Keynesian Economics**|David Staines et.al.|[2312.16214v1](http://arxiv.org/abs/2312.16214v1)|null|
 |**2023-12-23**|**On the Cascade-Dissipation Balance in Astophysical Plasmas**|Davide Manzini et.al.|[2312.15365v1](http://arxiv.org/abs/2312.15365v1)|null|
 |**2023-12-22**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071v1](http://arxiv.org/abs/2312.15071v1)|null|
 |**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829v1](http://arxiv.org/abs/2312.14829v1)|null|
@@ -29,6 +32,3 @@
 |**2023-12-15**|**A multifidelity Bayesian optimization method for inertial confinement fusion design**|J. Wang et.al.|[2312.10218v1](http://arxiv.org/abs/2312.10218v1)|null|
 |**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|[link](https://github.com/tum-vision/devo)|
 |**2023-12-15**|**A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**|Yongsong Wang et.al.|[2312.09517v1](http://arxiv.org/abs/2312.09517v1)|null|
-|**2023-12-14**|**Designing Gram-Scale Resonators for Precision Inertial Sensors**|Jonathan J. Carter et.al.|[2312.09298v1](http://arxiv.org/abs/2312.09298v1)|null|
-|**2023-12-12**|**Lagrangian Liouville models of multiphase flows with randomly forced inertial particles**|Daniel Dominguez-Vazquez et.al.|[2312.07713v1](http://arxiv.org/abs/2312.07713v1)|null|
-|**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|[link](https://github.com/ctu-mrs/rms)|
