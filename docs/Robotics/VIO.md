@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
+|**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
+|**2023-12-29**|**Special Relativistic Covariant Fluctuation Theorems**|Ji-Hui Pei et.al.|[2312.17621v1](http://arxiv.org/abs/2312.17621v1)|null|
+|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|
 |**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
@@ -28,7 +32,3 @@
 |**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|[link](https://github.com/arclab-hku/event_based_vo-vio-slam)|
 |**2023-12-18**|**Underwater Robot Pose Estimation Using Acoustic Methods and Intermittent Position Measurements at the Surface**|Vicu-Mihalis Maer et.al.|[2312.11401v1](http://arxiv.org/abs/2312.11401v1)|null|
 |**2023-12-18**|**A Special Lorentz Violation Model and a Special Rainbow Function**|Jinwen Hu et.al.|[2312.14176v1](http://arxiv.org/abs/2312.14176v1)|null|
-|**2023-12-16**|**Machine Learning-Enhanced Prediction of Surface Smoothness for Inertial Confinement Fusion Target Polishing Using Limited Data**|Antonios Alexos et.al.|[2312.10553v1](http://arxiv.org/abs/2312.10553v1)|null|
-|**2023-12-15**|**A multifidelity Bayesian optimization method for inertial confinement fusion design**|J. Wang et.al.|[2312.10218v1](http://arxiv.org/abs/2312.10218v1)|null|
-|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|[link](https://github.com/tum-vision/devo)|
-|**2023-12-15**|**A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**|Yongsong Wang et.al.|[2312.09517v1](http://arxiv.org/abs/2312.09517v1)|null|

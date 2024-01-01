@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29**|**MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**|Yang Feng et.al.|[2312.17641v1](http://arxiv.org/abs/2312.17641v1)|null|
+|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561v1](http://arxiv.org/abs/2312.17561v1)|null|
+|**2023-12-29**|**QGFace: Quality-Guided Joint Training For Mixed-Quality Face Recognition**|Youzhe Song et.al.|[2312.17494v1](http://arxiv.org/abs/2312.17494v1)|null|
+|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|[link](https://github.com/chinhsuanwu/ifusion)|
 |**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri et.al.|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
 |**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963v2](http://arxiv.org/abs/2312.16963v2)|null|
@@ -28,7 +32,3 @@
 |**2023-12-24**|**TJDR: A High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset**|Jingxin Mao et.al.|[2312.15389v1](http://arxiv.org/abs/2312.15389v1)|[link](https://github.com/nekopii/tjdr)|
 |**2023-12-24**|**End-to-End 3D Object Detection using LiDAR Point Cloud**|Gaurav Raut et.al.|[2312.15377v1](http://arxiv.org/abs/2312.15377v1)|null|
 |**2023-12-23**|**WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in Large-scale Natural Environments**|Kavisha Vidanapathirana et.al.|[2312.15364v1](http://arxiv.org/abs/2312.15364v1)|null|
-|**2023-12-23**|**Surveying the ice condensation period at southern polar Mars using a CNN**|Mira Gergácz et.al.|[2312.15260v1](http://arxiv.org/abs/2312.15260v1)|null|
-|**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242v1](http://arxiv.org/abs/2312.15242v1)|null|
-|**2023-12-23**|**NoPose-NeuS: Jointly Optimizing Camera Poses with Neural Implicit Surfaces for Multi-view Reconstruction**|Mohamed Shawky Sabae et.al.|[2312.15238v1](http://arxiv.org/abs/2312.15238v1)|null|
-|**2023-12-22**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[2312.14919v2](http://arxiv.org/abs/2312.14919v2)|null|
