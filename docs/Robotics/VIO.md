@@ -11,7 +11,7 @@
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
 |**2023-12-23**|**Stochastic Equilibrium the Lucas Critique and Keynesian Economics**|David Staines et.al.|[2312.16214v1](http://arxiv.org/abs/2312.16214v1)|null|
 |**2023-12-23**|**On the Cascade-Dissipation Balance in Astophysical Plasmas**|Davide Manzini et.al.|[2312.15365v1](http://arxiv.org/abs/2312.15365v1)|null|
-|**2023-12-22**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071v1](http://arxiv.org/abs/2312.15071v1)|null|
+|**2023-12-22**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071v2](http://arxiv.org/abs/2312.15071v2)|null|
 |**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829v1](http://arxiv.org/abs/2312.14829v1)|null|
 |**2023-12-22**|**Exploiting decoupled discretization in meshless lattice Boltzmann method for high-Reynolds number flows**|Dawid Strzelczyk et.al.|[2312.14789v1](http://arxiv.org/abs/2312.14789v1)|null|
 |**2023-12-22**|**Ion Reflection by a Rippled Perpendicular Shock**|Yuri V. Khotyaintsev et.al.|[2312.14736v1](http://arxiv.org/abs/2312.14736v1)|null|
