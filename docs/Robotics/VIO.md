@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
+|**2024-01-03**|**Rigorous uniaxial limit of the Qian--Sheng inertial Q-tensor hydrodynamics for liquid crystals**|Sirui Li et.al.|[2401.01509v1](http://arxiv.org/abs/2401.01509v1)|null|
 |**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|null|
 |**2024-01-02**|**Transport of inertial spherical particles in compressible turbulent boundary layers**|Ming Yu et.al.|[2401.01157v1](http://arxiv.org/abs/2401.01157v1)|null|
 |**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v1](http://arxiv.org/abs/2401.01081v1)|null|
@@ -30,5 +32,3 @@
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
 |**2023-12-20**|**VIBES: Vibro-Inertial Bionic Enhancement System in a Prosthetic Socket**|Alessia Silvia Ivani et.al.|[2312.13015v1](http://arxiv.org/abs/2312.13015v1)|null|
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680v1](http://arxiv.org/abs/2312.12680v1)|null|
-|**2023-12-19**|**Fast Forward-Backward splitting for monotone inclusions with a convergence rate of the tangent residual of $o(1/k)$**|Radu Ioan Bot et.al.|[2312.12175v1](http://arxiv.org/abs/2312.12175v1)|null|
-|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121v1](http://arxiv.org/abs/2312.12121v1)|[link](https://github.com/ansfl/learning-based-mems-gyrocompassing)|

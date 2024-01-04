@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
+|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822v1](http://arxiv.org/abs/2401.01822v1)|null|
+|**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720v1](http://arxiv.org/abs/2401.01720v1)|null|
+|**2024-01-03**|**Real-Time Human Fall Detection using a Lightweight Pose Estimation Technique**|Ekram Alam et.al.|[2401.01587v1](http://arxiv.org/abs/2401.01587v1)|null|
+|**2024-01-02**|**Efficient Hybrid Zoom using Camera Fusion on Mobile Phones**|Xiaotong Wu et.al.|[2401.01461v1](http://arxiv.org/abs/2401.01461v1)|null|
+|**2024-01-02**|**Euclid preparation: TBD. The pre-launch Science Ground Segment simulation framework**|Euclid Collaboration et.al.|[2401.01452v1](http://arxiv.org/abs/2401.01452v1)|null|
+|**2024-01-02**|**Indoor Obstacle Discovery on Reflective Ground via Monocular Camera**|Feng Xue et.al.|[2401.01445v1](http://arxiv.org/abs/2401.01445v1)|[link](https://github.com/xuefengbupt/indoorobstaclediscovery-rg)|
 |**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256v1](http://arxiv.org/abs/2401.01256v1)|null|
 |**2024-01-02**|**NID-SLAM: Neural Implicit Representation-based RGB-D SLAM in dynamic environments**|Ziheng Xu et.al.|[2401.01189v1](http://arxiv.org/abs/2401.01189v1)|null|
 |**2024-01-02**|**Accurate and Efficient Urban Street Tree Inventory with Deep Learning on Mobile Phone Imagery**|Asim Khan et.al.|[2401.01180v1](http://arxiv.org/abs/2401.01180v1)|null|
@@ -24,11 +31,4 @@
 |**2023-12-30**|**A Novel Approach for Defect Detection of Wind Turbine Blade Using Virtual Reality and Deep Learning**|Md Fazle Rabbi et.al.|[2401.00237v1](http://arxiv.org/abs/2401.00237v1)|null|
 |**2023-12-30**|**CamPro: Camera-based Anti-Facial Recognition**|Wenjun Zhu et.al.|[2401.00151v1](http://arxiv.org/abs/2401.00151v1)|[link](https://github.com/forget2save/campro)|
 |**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148v1](http://arxiv.org/abs/2401.00148v1)|[link](https://github.com/usslab/tpatch)|
-|**2023-12-29**|**MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**|Yang Feng et.al.|[2312.17641v1](http://arxiv.org/abs/2312.17641v1)|null|
-|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561v1](http://arxiv.org/abs/2312.17561v1)|null|
-|**2023-12-29**|**QGFace: Quality-Guided Joint Training For Mixed-Quality Face Recognition**|Youzhe Song et.al.|[2312.17494v1](http://arxiv.org/abs/2312.17494v1)|null|
-|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
-|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|[link](https://github.com/chinhsuanwu/ifusion)|
-|**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri et.al.|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
-|**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963v2](http://arxiv.org/abs/2312.16963v2)|null|
-|**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
+|**2023-12-30**|**Mapping Walnut water Stress with High Resolution Multispectral UAV Imagery and Machine Learning**|Kaitlyn Wang et.al.|[2401.01375v1](http://arxiv.org/abs/2401.01375v1)|null|

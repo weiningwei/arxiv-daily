@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
 |**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
 |**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
 |**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
@@ -31,4 +32,3 @@
 |**2023-11-17**|**Multimodal Indoor Localization Using Crowdsourced Radio Maps**|Zhaoguang Yi et.al.|[2311.10601v1](http://arxiv.org/abs/2311.10601v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
 |**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
-|**2023-11-16**|**Homography Initialization and Dynamic Weighting Algorithm Based on a Downward-Looking Camera and IMU**|Bo Dong et.al.|[2311.09622v1](http://arxiv.org/abs/2311.09622v1)|null|
