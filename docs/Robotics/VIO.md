@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-04**|**Amplification of supersonic micro-jets by resonant inertial cavitation-bubble pair**|Yuzhe Fan et.al.|[2401.02320v1](http://arxiv.org/abs/2401.02320v1)|null|
+|**2024-01-04**|**A simple quantum picture of the relativistic Doppler effect**|Daniel Hodgson et.al.|[2401.02175v1](http://arxiv.org/abs/2401.02175v1)|null|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
 |**2024-01-03**|**Rigorous uniaxial limit of the Qian--Sheng inertial Q-tensor hydrodynamics for liquid crystals**|Sirui Li et.al.|[2401.01509v1](http://arxiv.org/abs/2401.01509v1)|null|
 |**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|null|
@@ -30,5 +32,3 @@
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
 |**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
-|**2023-12-20**|**VIBES: Vibro-Inertial Bionic Enhancement System in a Prosthetic Socket**|Alessia Silvia Ivani et.al.|[2312.13015v1](http://arxiv.org/abs/2312.13015v1)|null|
-|**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680v1](http://arxiv.org/abs/2312.12680v1)|null|

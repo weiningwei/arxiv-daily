@@ -2,9 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et.al.|[2401.02383v1](http://arxiv.org/abs/2401.02383v1)|null|
+|**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281v1](http://arxiv.org/abs/2401.02281v1)|null|
+|**2024-01-04**|**ShapeAug: Occlusion Augmentation for Event Camera Data**|Katharina Bendig et.al.|[2401.02274v1](http://arxiv.org/abs/2401.02274v1)|null|
+|**2024-01-04**|**Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain**|Xuanhua He et.al.|[2401.02161v1](http://arxiv.org/abs/2401.02161v1)|null|
+|**2024-01-03**|**Shadowing in the protoplanetary disk of ZZ Tau IRS with HST**|Jun Hashimoto et.al.|[2401.02004v1](http://arxiv.org/abs/2401.02004v1)|null|
+|**2024-01-03**|**All Puffed Up: Tidal Heating as an Ultra Diffuse Galaxy Formation Pathway**|Catherine Fielder et.al.|[2401.01931v1](http://arxiv.org/abs/2401.01931v1)|null|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
 |**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822v2](http://arxiv.org/abs/2401.01822v2)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720v1](http://arxiv.org/abs/2401.01720v1)|null|
+|**2024-01-03**|**Distilling Temporal Knowledge with Masked Feature Reconstruction for 3D Object Detection**|Haowen Zheng et.al.|[2401.01918v1](http://arxiv.org/abs/2401.01918v1)|null|
 |**2024-01-03**|**Real-Time Human Fall Detection using a Lightweight Pose Estimation Technique**|Ekram Alam et.al.|[2401.01587v1](http://arxiv.org/abs/2401.01587v1)|null|
 |**2024-01-02**|**Efficient Hybrid Zoom using Camera Fusion on Mobile Phones**|Xiaotong Wu et.al.|[2401.01461v1](http://arxiv.org/abs/2401.01461v1)|null|
 |**2024-01-02**|**Euclid preparation: TBD. The pre-launch Science Ground Segment simulation framework**|Euclid Collaboration et.al.|[2401.01452v1](http://arxiv.org/abs/2401.01452v1)|null|
@@ -24,11 +32,3 @@
 |**2023-12-31**|**WoodScape Motion Segmentation for Autonomous Driving -- CVPR 2023 OmniCV Workshop Challenge**|Saravanabalagi Ramachandran et.al.|[2401.00910v1](http://arxiv.org/abs/2401.00910v1)|null|
 |**2023-12-31**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608v1](http://arxiv.org/abs/2401.00608v1)|null|
 |**2023-12-31**|**TrailBlazer: Trajectory Control for Diffusion-Based Video Generation**|Wan-Duo Kurt Ma et.al.|[2401.00896v1](http://arxiv.org/abs/2401.00896v1)|null|
-|**2023-12-31**|**A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods**|Jian Xu et.al.|[2401.00442v1](http://arxiv.org/abs/2401.00442v1)|null|
-|**2023-12-31**|**Wild2Avatar: Rendering Humans Behind Occlusions**|Tiange Xiang et.al.|[2401.00431v1](http://arxiv.org/abs/2401.00431v1)|null|
-|**2023-12-30**|**SHARE: Single-view Human Adversarial REconstruction**|Shreelekha Revankar et.al.|[2401.00343v1](http://arxiv.org/abs/2401.00343v1)|null|
-|**2023-12-30**|**BusReF: Infrared-Visible images registration and fusion focus on reconstructible area using one set of features**|Zeyang Zhang et.al.|[2401.00285v1](http://arxiv.org/abs/2401.00285v1)|null|
-|**2023-12-30**|**A Novel Approach for Defect Detection of Wind Turbine Blade Using Virtual Reality and Deep Learning**|Md Fazle Rabbi et.al.|[2401.00237v1](http://arxiv.org/abs/2401.00237v1)|null|
-|**2023-12-30**|**CamPro: Camera-based Anti-Facial Recognition**|Wenjun Zhu et.al.|[2401.00151v1](http://arxiv.org/abs/2401.00151v1)|[link](https://github.com/forget2save/campro)|
-|**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148v1](http://arxiv.org/abs/2401.00148v1)|[link](https://github.com/usslab/tpatch)|
-|**2023-12-30**|**Mapping Walnut water Stress with High Resolution Multispectral UAV Imagery and Machine Learning**|Kaitlyn Wang et.al.|[2401.01375v1](http://arxiv.org/abs/2401.01375v1)|null|
