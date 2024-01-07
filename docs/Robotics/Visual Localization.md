@@ -22,7 +22,7 @@
 |**2024-01-02**|**Accurate and Efficient Urban Street Tree Inventory with Deep Learning on Mobile Phone Imagery**|Asim Khan et.al.|[2401.01180v1](http://arxiv.org/abs/2401.01180v1)|null|
 |**2024-01-02**|**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement**|Parham Zilouchian Moghaddam et.al.|[2401.01163v1](http://arxiv.org/abs/2401.01163v1)|null|
 |**2024-01-02**|**SSP: A Simple and Safe automatic Prompt engineering method towards realistic image synthesis on LVM**|Weijin Cheng et.al.|[2401.01128v1](http://arxiv.org/abs/2401.01128v1)|null|
-|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v1](http://arxiv.org/abs/2401.01081v1)|null|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v1](http://arxiv.org/abs/2401.01081v1)|[link](https://github.com/hjmgarmin/ple-slam)|
 |**2024-01-02**|**Relating Events and Frames Based on Self-Supervised Learning and Uncorrelated Conditioning for Unsupervised Domain Adaptation**|Mohammad Rostami et.al.|[2401.01042v1](http://arxiv.org/abs/2401.01042v1)|null|
 |**2024-01-02**|**Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks Toward AI Software Deployment**|Jie Zhu et.al.|[2401.00996v1](http://arxiv.org/abs/2401.00996v1)|[link](https://github.com/jiepku/safecompress)|
 |**2024-01-01**|**Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera**|Jiye Lee et.al.|[2401.00847v1](http://arxiv.org/abs/2401.00847v1)|null|
