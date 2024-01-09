@@ -2,15 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-05**|**CrisisViT: A Robust Vision Transformer for Crisis Image Classification**|Zijun Long et.al.|[2401.02838v1](http://arxiv.org/abs/2401.02838v1)|null|
+|**2024-01-05**|**CrisisViT: A Robust Vision Transformer for Crisis Image Classification**|Zijun Long et.al.|[2401.02838v1](http://arxiv.org/abs/2401.02838v1)|[link](https://github.com/longkukuhi/crisisvit)|
 |**2024-01-05**|**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**|Yabin Zhu et.al.|[2401.02826v1](http://arxiv.org/abs/2401.02826v1)|null|
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
 |**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702v1](http://arxiv.org/abs/2401.02702v1)|null|
 |**2024-01-05**|**Enhancing 3D-Air Signature by Pen Tip Tail Trajectory Awareness: Dataset and Featuring by Novel Spatio-temporal CNN**|Saurabh Atreya et.al.|[2401.02649v1](http://arxiv.org/abs/2401.02649v1)|null|
 |**2024-01-05**|**Recent Advancement in 3D Biometrics using Monocular Camera**|Aritra Mukherjee et.al.|[2401.02646v1](http://arxiv.org/abs/2401.02646v1)|null|
-|**2024-01-05**|**AG-ReID.v2: Bridging Aerial and Ground Views for Person Re-identification**|Huy Nguyen et.al.|[2401.02634v1](http://arxiv.org/abs/2401.02634v1)|null|
+|**2024-01-05**|**AG-ReID.v2: Bridging Aerial and Ground Views for Person Re-identification**|Huy Nguyen et.al.|[2401.02634v1](http://arxiv.org/abs/2401.02634v1)|[link](https://github.com/huynguyen792/ag-reid.v2)|
 |**2024-01-04**|**TitanCFI: Toward Enforcing Control-Flow Integrity in the Root-of-Trust**|Emanuele Parisi et.al.|[2401.02567v1](http://arxiv.org/abs/2401.02567v1)|null|
-|**2024-01-04**|**Robot-Assisted Deep Venous Thrombosis Ultrasound Examination using Virtual Fixture**|Dianye Huang et.al.|[2401.02539v1](http://arxiv.org/abs/2401.02539v1)|null|
+|**2024-01-04**|**Robot-Assisted Deep Venous Thrombosis Ultrasound Examination using Virtual Fixture**|Dianye Huang et.al.|[2401.02539v1](http://arxiv.org/abs/2401.02539v1)|[link](https://github.com/dianyehuang/robdvtus)|
 |**2024-01-04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et.al.|[2401.02383v1](http://arxiv.org/abs/2401.02383v1)|null|
 |**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
 |**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281v1](http://arxiv.org/abs/2401.02281v1)|null|
