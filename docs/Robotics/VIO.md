@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-10**|**Non-inertial motion dependent entangled Bell-state**|Julius Arthur Bittermann et.al.|[2401.05186v1](http://arxiv.org/abs/2401.05186v1)|null|
+|**2024-01-10**|**Electromagnetically Induced Transparency in Strongly Relativistic Regime**|Tie-Huai Zhang et.al.|[2401.05081v1](http://arxiv.org/abs/2401.05081v1)|null|
+|**2024-01-10**|**Inertial wave super-attractor in a truncated elliptical cone**|Benjamin Favier et.al.|[2401.05071v1](http://arxiv.org/abs/2401.05071v1)|null|
 |**2024-01-08**|**One-sweep moment-based semi-implicit-explicit integration for gray thermal radiation transport**|Ben S. Southworth et.al.|[2401.04285v1](http://arxiv.org/abs/2401.04285v1)|null|
 |**2024-01-08**|**Localization in Quantum Field Theory for inertial and accelerated observers**|Riccardo Falcone et.al.|[2401.03975v1](http://arxiv.org/abs/2401.03975v1)|null|
 |**2024-01-08**|**Weak and Strong Solutions for A Fluid-Poroelastic-Structure Interaction via A Semigroup Approach**|George Avalos et.al.|[2401.03897v1](http://arxiv.org/abs/2401.03897v1)|null|
@@ -29,6 +32,3 @@
 |**2023-12-23**|**On the Cascade-Dissipation Balance in Astrophysical Plasmas**|Davide Manzini et.al.|[2312.15365v2](http://arxiv.org/abs/2312.15365v2)|null|
 |**2023-12-22**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071v2](http://arxiv.org/abs/2312.15071v2)|null|
 |**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829v1](http://arxiv.org/abs/2312.14829v1)|null|
-|**2023-12-22**|**Exploiting decoupled discretization in meshless lattice Boltzmann method for high-Reynolds number flows**|Dawid Strzelczyk et.al.|[2312.14789v1](http://arxiv.org/abs/2312.14789v1)|null|
-|**2023-12-22**|**Ion Reflection by a Rippled Perpendicular Shock**|Yuri V. Khotyaintsev et.al.|[2312.14736v1](http://arxiv.org/abs/2312.14736v1)|null|
-|**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730v1](http://arxiv.org/abs/2312.14730v1)|null|

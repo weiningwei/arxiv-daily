@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-10**|**SOFIA/HAWC+ Far-Infrared Polarimetric Large-Area CMZ Exploration (FIREPLACE) Survey III: Full Survey Data Set**|Dylan Paré et.al.|[2401.05317v1](http://arxiv.org/abs/2401.05317v1)|null|
+|**2024-01-10**|**CineMPC: A Fully Autonomous Drone Cinematography System Incorporating Zoom, Focus, Pose, and Scene Composition**|Pablo Pueyo et.al.|[2401.05272v1](http://arxiv.org/abs/2401.05272v1)|null|
+|**2024-01-10**|**Measuring Natural Scenes SFR of Automotive Fisheye Cameras**|Daniel Jakab et.al.|[2401.05232v1](http://arxiv.org/abs/2401.05232v1)|null|
+|**2024-01-10**|**TOVAC: Tele-operated Vehicle Admission Control and Routing**|Jorge Martín-Pérez et.al.|[2401.05225v1](http://arxiv.org/abs/2401.05225v1)|null|
+|**2024-01-10**|**An event-based implementation of saliency-based visual attention for rapid scene analysis**|Camille Simon Chane et.al.|[2401.05030v1](http://arxiv.org/abs/2401.05030v1)|null|
+|**2024-01-10**|**Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**|Kamil Jeziorek et.al.|[2401.04988v1](http://arxiv.org/abs/2401.04988v1)|null|
+|**2024-01-10**|**Classification and characterization using HCT/HFOSC spectra of carbon stars selected from the HES survey**|Meenakshi Purandardas et.al.|[2401.04955v1](http://arxiv.org/abs/2401.04955v1)|null|
+|**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903v1](http://arxiv.org/abs/2401.04903v1)|null|
 |**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|null|
 |**2024-01-09**|**Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods**|Dongeon Kim et.al.|[2401.04437v1](http://arxiv.org/abs/2401.04437v1)|null|
 |**2024-01-09**|**Properties, age, and origin of a huge meteor cluster observed over Scandinavia on 30 October 2022**|Pavel Koten et.al.|[2401.04419v1](http://arxiv.org/abs/2401.04419v1)|null|
@@ -18,17 +26,9 @@
 |**2024-01-07**|**Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception**|Takami Sato et.al.|[2401.03582v1](http://arxiv.org/abs/2401.03582v1)|null|
 |**2024-01-07**|**Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**|Rongqin Liang et.al.|[2401.03522v1](http://arxiv.org/abs/2401.03522v1)|null|
 |**2024-01-07**|**BCLNet: Bilateral Consensus Learning for Two-View Correspondence Pruning**|Xiangyang Miao et.al.|[2401.03459v1](http://arxiv.org/abs/2401.03459v1)|[link](https://github.com/guobaoxiao/BCLNet)|
-|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450v1](http://arxiv.org/abs/2401.03450v1)|null|
+|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450v1](http://arxiv.org/abs/2401.03450v1)|[link](https://github.com/mabraate/critical-configurations)|
 |**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431v1](http://arxiv.org/abs/2401.03431v1)|[link](https://github.com/Holmes-Alan/See360)|
 |**2024-01-06**|**Real Time Human Detection by Unmanned Aerial Vehicles**|Walid Guettala et.al.|[2401.03275v1](http://arxiv.org/abs/2401.03275v1)|null|
 |**2024-01-06**|**Autonomous Navigation in Complex Environments**|Andrew Gerstenslager et.al.|[2401.03267v1](http://arxiv.org/abs/2401.03267v1)|null|
 |**2024-01-06**|**DistFormer: Enhancing Local and Global Features for Monocular Per-Object Distance Estimation**|Aniello Panariello et.al.|[2401.03191v1](http://arxiv.org/abs/2401.03191v1)|null|
 |**2024-01-06**|**An Event-Oriented Diffusion-Refinement Method for Sparse Events Completion**|Bo Zhang et.al.|[2401.03153v1](http://arxiv.org/abs/2401.03153v1)|null|
-|**2024-01-06**|**Self-Calibrated Transit Service Monitoring Using Automated Collected Data**|Hongyu Guo et.al.|[2401.03121v1](http://arxiv.org/abs/2401.03121v1)|null|
-|**2024-01-05**|**Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning**|Geoffery Agorku et.al.|[2401.03070v1](http://arxiv.org/abs/2401.03070v1)|null|
-|**2024-01-05**|**CrisisViT: A Robust Vision Transformer for Crisis Image Classification**|Zijun Long et.al.|[2401.02838v1](http://arxiv.org/abs/2401.02838v1)|[link](https://github.com/longkukuhi/crisisvit)|
-|**2024-01-05**|**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**|Yabin Zhu et.al.|[2401.02826v1](http://arxiv.org/abs/2401.02826v1)|null|
-|**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702v1](http://arxiv.org/abs/2401.02702v1)|null|
-|**2024-01-05**|**Enhancing 3D-Air Signature by Pen Tip Tail Trajectory Awareness: Dataset and Featuring by Novel Spatio-temporal CNN**|Saurabh Atreya et.al.|[2401.02649v1](http://arxiv.org/abs/2401.02649v1)|[link](https://github.com/atrey-a/t3aas-v1-benchmarking)|
-|**2024-01-05**|**Recent Advancement in 3D Biometrics using Monocular Camera**|Aritra Mukherjee et.al.|[2401.02646v1](http://arxiv.org/abs/2401.02646v1)|null|
