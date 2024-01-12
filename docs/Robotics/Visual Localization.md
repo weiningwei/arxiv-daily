@@ -10,7 +10,7 @@
 |**2024-01-10**|**Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**|Kamil Jeziorek et.al.|[2401.04988v1](http://arxiv.org/abs/2401.04988v1)|null|
 |**2024-01-10**|**Classification and characterization using HCT/HFOSC spectra of carbon stars selected from the HES survey**|Meenakshi Purandardas et.al.|[2401.04955v1](http://arxiv.org/abs/2401.04955v1)|null|
 |**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903v1](http://arxiv.org/abs/2401.04903v1)|null|
-|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|null|
+|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|[link](https://github.com/nilsrodrigues/animated-scatterplot-transitions-for-comparative-study)|
 |**2024-01-09**|**Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods**|Dongeon Kim et.al.|[2401.04437v1](http://arxiv.org/abs/2401.04437v1)|null|
 |**2024-01-09**|**Properties, age, and origin of a huge meteor cluster observed over Scandinavia on 30 October 2022**|Pavel Koten et.al.|[2401.04419v1](http://arxiv.org/abs/2401.04419v1)|null|
 |**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325v1](http://arxiv.org/abs/2401.04325v1)|null|
