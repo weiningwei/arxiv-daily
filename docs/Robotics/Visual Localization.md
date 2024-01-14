@@ -2,13 +2,6 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-11**|**Highly multimode visible squeezed light with programmable spectral correlations through broadband up-conversion**|Federico Presutti et.al.|[2401.06119v1](http://arxiv.org/abs/2401.06119v1)|null|
-|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
-|**2024-01-11**|**Probing diversity of type II supernovae with the Chinese Space Station Telescope**|Han Lin et.al.|[2401.05910v1](http://arxiv.org/abs/2401.05910v1)|null|
-|**2024-01-11**|**Safe reinforcement learning in uncertain contexts**|Dominik Baumann et.al.|[2401.05876v1](http://arxiv.org/abs/2401.05876v1)|[link](https://github.com/baumanndominik/cme_based_classification_bounds)|
-|**2024-01-11**|**Cross-Inlining Binary Function Similarity Detection**|Ang Jia et.al.|[2401.05739v1](http://arxiv.org/abs/2401.05739v1)|null|
-|**2024-01-11**|**A Composable Dynamic Sparse Dataflow Architecture for Efficient Event-based Vision Processing on FPGA**|Yizhao Gao et.al.|[2401.05626v1](http://arxiv.org/abs/2401.05626v1)|null|
-|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
 |**2024-01-10**|**SOFIA/HAWC+ Far-Infrared Polarimetric Large-Area CMZ Exploration (FIREPLACE) Survey III: Full Survey Data Set**|Dylan Paré et.al.|[2401.05317v1](http://arxiv.org/abs/2401.05317v1)|null|
 |**2024-01-10**|**CineMPC: A Fully Autonomous Drone Cinematography System Incorporating Zoom, Focus, Pose, and Scene Composition**|Pablo Pueyo et.al.|[2401.05272v1](http://arxiv.org/abs/2401.05272v1)|[link](https://github.com/ppueyor/cinempc_ros)|
 |**2024-01-10**|**Measuring Natural Scenes SFR of Automotive Fisheye Cameras**|Daniel Jakab et.al.|[2401.05232v1](http://arxiv.org/abs/2401.05232v1)|null|
@@ -32,3 +25,10 @@
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
 |**2024-01-07**|**Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception**|Takami Sato et.al.|[2401.03582v1](http://arxiv.org/abs/2401.03582v1)|null|
 |**2024-01-07**|**Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**|Rongqin Liang et.al.|[2401.03522v1](http://arxiv.org/abs/2401.03522v1)|null|
+|**2024-01-07**|**BCLNet: Bilateral Consensus Learning for Two-View Correspondence Pruning**|Xiangyang Miao et.al.|[2401.03459v1](http://arxiv.org/abs/2401.03459v1)|[link](https://github.com/guobaoxiao/BCLNet)|
+|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450v1](http://arxiv.org/abs/2401.03450v1)|[link](https://github.com/mabraate/critical-configurations)|
+|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431v1](http://arxiv.org/abs/2401.03431v1)|[link](https://github.com/Holmes-Alan/See360)|
+|**2024-01-06**|**Real Time Human Detection by Unmanned Aerial Vehicles**|Walid Guettala et.al.|[2401.03275v1](http://arxiv.org/abs/2401.03275v1)|null|
+|**2024-01-06**|**Autonomous Navigation in Complex Environments**|Andrew Gerstenslager et.al.|[2401.03267v1](http://arxiv.org/abs/2401.03267v1)|null|
+|**2024-01-06**|**DistFormer: Enhancing Local and Global Features for Monocular Per-Object Distance Estimation**|Aniello Panariello et.al.|[2401.03191v1](http://arxiv.org/abs/2401.03191v1)|null|
+|**2024-01-06**|**An Event-Oriented Diffusion-Refinement Method for Sparse Events Completion**|Bo Zhang et.al.|[2401.03153v1](http://arxiv.org/abs/2401.03153v1)|null|
