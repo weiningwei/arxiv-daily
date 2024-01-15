@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-15 09:44:23 Asia/Shanghai
+ Automated deployment @ 2024-01-15 20:13:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-12**|**UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications**|Jincheng Zhang et.al.|[2401.06407v1](http://arxiv.org/abs/2401.06407v1)|null|
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836v1](http://arxiv.org/abs/2401.05836v1)|null|
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
@@ -36,12 +38,16 @@
 |**2023-12-04**|**SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments**|Tisheng Zhang et.al.|[2312.01809v1](http://arxiv.org/abs/2312.01809v1)|null|
 |**2023-12-01**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534v2](http://arxiv.org/abs/2312.00534v2)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
-|**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
-|**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-12**|**Embedded Planogram Compliance Control System**|M. Erkin Yücel et.al.|[2401.06690v1](http://arxiv.org/abs/2401.06690v1)|null|
+|**2024-01-12**|**Quantitative grain size estimation on airless bodies from the negative polarization branch. II. Dawn mission targets (4) Vesta and (1) Ceres**|Yoonsoo P. Bach et.al.|[2401.06616v1](http://arxiv.org/abs/2401.06616v1)|null|
+|**2024-01-12**|**Space-Time Nonlocal Metasurfaces for Event-Based Image Processing**|Sedigheh Esfahani et.al.|[2401.06586v1](http://arxiv.org/abs/2401.06586v1)|null|
+|**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563v1](http://arxiv.org/abs/2401.06563v1)|null|
+|**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542v1](http://arxiv.org/abs/2401.06542v1)|null|
+|**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517v1](http://arxiv.org/abs/2401.06517v1)|null|
 |**2024-01-11**|**Highly multimode visible squeezed light with programmable spectral correlations through broadband up-conversion**|Federico Presutti et.al.|[2401.06119v1](http://arxiv.org/abs/2401.06119v1)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
 |**2024-01-11**|**Probing diversity of type II supernovae with the Chinese Space Station Telescope**|Han Lin et.al.|[2401.05910v1](http://arxiv.org/abs/2401.05910v1)|null|
@@ -56,6 +62,7 @@
 |**2024-01-10**|**An event-based implementation of saliency-based visual attention for rapid scene analysis**|Camille Simon Chane et.al.|[2401.05030v1](http://arxiv.org/abs/2401.05030v1)|null|
 |**2024-01-10**|**Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**|Kamil Jeziorek et.al.|[2401.04988v1](http://arxiv.org/abs/2401.04988v1)|null|
 |**2024-01-10**|**Classification and characterization using HCT/HFOSC spectra of carbon stars selected from the HES survey**|Meenakshi Purandardas et.al.|[2401.04955v1](http://arxiv.org/abs/2401.04955v1)|null|
+|**2024-01-10**|**Machine Learning Applications in Spine Biomechanics**|Farshid Ghezelbash et.al.|[2401.06174v1](http://arxiv.org/abs/2401.06174v1)|null|
 |**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903v1](http://arxiv.org/abs/2401.04903v1)|null|
 |**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|[link](https://github.com/nilsrodrigues/animated-scatterplot-transitions-for-comparative-study)|
 |**2024-01-09**|**Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods**|Dongeon Kim et.al.|[2401.04437v1](http://arxiv.org/abs/2401.04437v1)|null|
@@ -65,51 +72,11 @@
 |**2024-01-08**|**Behavioural Cloning in VizDoom**|Ryan Spick et.al.|[2401.03993v1](http://arxiv.org/abs/2401.03993v1)|null|
 |**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991v1](http://arxiv.org/abs/2401.03991v1)|[link](https://github.com/Fangjun-Li/SpatialLM-StepGame)|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
-|**2024-01-08**|**An Aerial Manipulator for Robot-to-robot Torch Relay Task: System Design and Control Scheme**|Guangyu Zhang et.al.|[2401.03903v1](http://arxiv.org/abs/2401.03903v1)|null|
-|**2024-01-08**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836v3](http://arxiv.org/abs/2401.03836v3)|[link](https://github.com/chenhongyiyang/widthformer)|
-|**2024-01-08**|**Limitations of Data-Driven Spectral Reconstruction -- An Optics-Aware Analysis**|Qiang Fu et.al.|[2401.03835v1](http://arxiv.org/abs/2401.03835v1)|null|
-|**2024-01-08**|**Simultaneous multicolour transit photometry of hot Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and HAT-P-65b**|Huiyi Kang et.al.|[2401.03715v1](http://arxiv.org/abs/2401.03715v1)|null|
-|**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
-|**2024-01-07**|**Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception**|Takami Sato et.al.|[2401.03582v1](http://arxiv.org/abs/2401.03582v1)|null|
-|**2024-01-07**|**Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**|Rongqin Liang et.al.|[2401.03522v1](http://arxiv.org/abs/2401.03522v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-11**|**On tamely ramified infinite Galois extensions**|Farshid Hajir et.al.|[2401.05927v2](http://arxiv.org/abs/2401.05927v2)|null|
-|**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836v1](http://arxiv.org/abs/2401.05836v1)|null|
-|**2024-01-10**|**Characterising the take-off dynamics and energy efficiency in spring-driven jumping robots**|John Lo et.al.|[2401.05554v1](http://arxiv.org/abs/2401.05554v1)|null|
-|**2024-01-10**|**Non-inertial motion dependent entangled Bell-state**|Julius Arthur Bittermann et.al.|[2401.05186v1](http://arxiv.org/abs/2401.05186v1)|null|
-|**2024-01-10**|**Electromagnetically Induced Transparency in Strongly Relativistic Regime**|Tie-Huai Zhang et.al.|[2401.05081v1](http://arxiv.org/abs/2401.05081v1)|null|
-|**2024-01-10**|**Inertial wave super-attractor in a truncated elliptical cone**|Benjamin Favier et.al.|[2401.05071v1](http://arxiv.org/abs/2401.05071v1)|null|
-|**2024-01-08**|**One-sweep moment-based semi-implicit-explicit integration for gray thermal radiation transport**|Ben S. Southworth et.al.|[2401.04285v1](http://arxiv.org/abs/2401.04285v1)|null|
-|**2024-01-08**|**Localization in Quantum Field Theory for inertial and accelerated observers**|Riccardo Falcone et.al.|[2401.03975v1](http://arxiv.org/abs/2401.03975v1)|null|
-|**2024-01-08**|**Weak and Strong Solutions for A Fluid-Poroelastic-Structure Interaction via A Semigroup Approach**|George Avalos et.al.|[2401.03897v1](http://arxiv.org/abs/2401.03897v1)|null|
-|**2024-01-08**|**Gyrofluid simulations of turbulence and reconnection in space plasmas**|T. Passot et.al.|[2401.03863v1](http://arxiv.org/abs/2401.03863v1)|null|
-|**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
-|**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-05**|**Solving convex optimization problems via a second order dynamical system with implicit Hessian damping and Tikhonov regularization**|Szilárd Csaba László et.al.|[2401.02676v1](http://arxiv.org/abs/2401.02676v1)|null|
-|**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
-|**2024-01-04**|**Identifying thermal effects in neutron star merger remnants with model-agnostic waveform reconstructions and third-generation detectors**|Miquel Miravet-Tenés et.al.|[2401.02493v1](http://arxiv.org/abs/2401.02493v1)|null|
-|**2024-01-04**|**Amplification of supersonic micro-jets by resonant inertial cavitation-bubble pair**|Yuzhe Fan et.al.|[2401.02320v1](http://arxiv.org/abs/2401.02320v1)|null|
-|**2024-01-04**|**A simple quantum picture of the relativistic Doppler effect**|Daniel Hodgson et.al.|[2401.02175v1](http://arxiv.org/abs/2401.02175v1)|null|
-|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
-|**2024-01-03**|**Rigorous uniaxial limit of the Qian--Sheng inertial Q-tensor hydrodynamics for liquid crystals**|Sirui Li et.al.|[2401.01509v1](http://arxiv.org/abs/2401.01509v1)|null|
-|**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|null|
-|**2024-01-02**|**Transport of inertial spherical particles in compressible turbulent boundary layers**|Ming Yu et.al.|[2401.01157v1](http://arxiv.org/abs/2401.01157v1)|null|
-|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|[link](https://github.com/hjmgarmin/ple-slam)|
-|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
-|**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
-|**2023-12-29**|**Special Relativistic Covariant Fluctuation Theorems**|Ji-Hui Pei et.al.|[2312.17621v2](http://arxiv.org/abs/2312.17621v2)|null|
-|**2023-12-29**|**Wavelet Dynamic Selection Network for Inertial Sensor Signal Enhancement**|Yifeng Wang et.al.|[2401.05416v1](http://arxiv.org/abs/2401.05416v1)|null|
-|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|
-|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
-|**2023-12-27**|**Spatial-Related Sensors Matters: 3D Human Motion Reconstruction Assisted with Textual Semantics**|Xueyuan Yang et.al.|[2401.05412v1](http://arxiv.org/abs/2401.05412v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
 |**2024-01-10**|**Multi S-Graphs: an Efficient Real-time Distributed Semantic-Relational Collaborative SLAM**|Miguel Fernandez-Cortizas et.al.|[2401.05152v1](http://arxiv.org/abs/2401.05152v1)|[link](https://github.com/snt-arg/multi_s_graphs_docker)|
 |**2024-01-09**|**SOS-SLAM: Segmentation for Open-Set SLAM in Unstructured Environments**|Jouko Kinnari et.al.|[2401.04791v1](http://arxiv.org/abs/2401.04791v1)|null|
 |**2024-01-07**|**Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**|Haobo Zhang et.al.|[2401.03453v1](http://arxiv.org/abs/2401.03453v1)|null|
@@ -139,4 +106,37 @@
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
 |**2023-12-05**|**MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**|Chuan Huang et.al.|[2312.02599v1](http://arxiv.org/abs/2312.02599v1)|[link](https://github.com/huang-chuan/mainsvsmagekf)|
 |**2023-12-04**|**Efficient 2D Graph SLAM for Sparse Sensing**|Hanzhi Zhou et.al.|[2312.02353v1](http://arxiv.org/abs/2312.02353v1)|[link](https://github.com/shiftlab-nanodrone/sparse-gslam)|
-|**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126v1](http://arxiv.org/abs/2312.02126v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-12**|**UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications**|Jincheng Zhang et.al.|[2401.06407v1](http://arxiv.org/abs/2401.06407v1)|null|
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
+|**2024-01-11**|**On tamely ramified infinite Galois extensions**|Farshid Hajir et.al.|[2401.05927v2](http://arxiv.org/abs/2401.05927v2)|null|
+|**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836v1](http://arxiv.org/abs/2401.05836v1)|null|
+|**2024-01-10**|**Characterising the take-off dynamics and energy efficiency in spring-driven jumping robots**|John Lo et.al.|[2401.05554v1](http://arxiv.org/abs/2401.05554v1)|null|
+|**2024-01-10**|**Non-inertial motion dependent entangled Bell-state**|Julius Arthur Bittermann et.al.|[2401.05186v1](http://arxiv.org/abs/2401.05186v1)|null|
+|**2024-01-10**|**Electromagnetically Induced Transparency in Strongly Relativistic Regime**|Tie-Huai Zhang et.al.|[2401.05081v1](http://arxiv.org/abs/2401.05081v1)|null|
+|**2024-01-10**|**Inertial wave super-attractor in a truncated elliptical cone**|Benjamin Favier et.al.|[2401.05071v1](http://arxiv.org/abs/2401.05071v1)|null|
+|**2024-01-08**|**One-sweep moment-based semi-implicit-explicit integration for gray thermal radiation transport**|Ben S. Southworth et.al.|[2401.04285v1](http://arxiv.org/abs/2401.04285v1)|null|
+|**2024-01-08**|**Localization in Quantum Field Theory for inertial and accelerated observers**|Riccardo Falcone et.al.|[2401.03975v1](http://arxiv.org/abs/2401.03975v1)|null|
+|**2024-01-08**|**Weak and Strong Solutions for A Fluid-Poroelastic-Structure Interaction via A Semigroup Approach**|George Avalos et.al.|[2401.03897v1](http://arxiv.org/abs/2401.03897v1)|null|
+|**2024-01-08**|**Gyrofluid simulations of turbulence and reconnection in space plasmas**|T. Passot et.al.|[2401.03863v1](http://arxiv.org/abs/2401.03863v1)|null|
+|**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
+|**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
+|**2024-01-05**|**Solving convex optimization problems via a second order dynamical system with implicit Hessian damping and Tikhonov regularization**|Szilárd Csaba László et.al.|[2401.02676v1](http://arxiv.org/abs/2401.02676v1)|null|
+|**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
+|**2024-01-04**|**Identifying thermal effects in neutron star merger remnants with model-agnostic waveform reconstructions and third-generation detectors**|Miquel Miravet-Tenés et.al.|[2401.02493v1](http://arxiv.org/abs/2401.02493v1)|null|
+|**2024-01-04**|**Amplification of supersonic micro-jets by resonant inertial cavitation-bubble pair**|Yuzhe Fan et.al.|[2401.02320v1](http://arxiv.org/abs/2401.02320v1)|null|
+|**2024-01-04**|**A simple quantum picture of the relativistic Doppler effect**|Daniel Hodgson et.al.|[2401.02175v1](http://arxiv.org/abs/2401.02175v1)|null|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
+|**2024-01-03**|**Rigorous uniaxial limit of the Qian--Sheng inertial Q-tensor hydrodynamics for liquid crystals**|Sirui Li et.al.|[2401.01509v1](http://arxiv.org/abs/2401.01509v1)|null|
+|**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|null|
+|**2024-01-02**|**Transport of inertial spherical particles in compressible turbulent boundary layers**|Ming Yu et.al.|[2401.01157v1](http://arxiv.org/abs/2401.01157v1)|null|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|[link](https://github.com/hjmgarmin/ple-slam)|
+|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
+|**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
+|**2023-12-29**|**Special Relativistic Covariant Fluctuation Theorems**|Ji-Hui Pei et.al.|[2312.17621v2](http://arxiv.org/abs/2312.17621v2)|null|
+|**2023-12-29**|**Wavelet Dynamic Selection Network for Inertial Sensor Signal Enhancement**|Yifeng Wang et.al.|[2401.05416v1](http://arxiv.org/abs/2401.05416v1)|null|
+|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|

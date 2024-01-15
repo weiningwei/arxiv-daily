@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-12**|**UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications**|Jincheng Zhang et.al.|[2401.06407v1](http://arxiv.org/abs/2401.06407v1)|null|
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
 |**2024-01-11**|**On tamely ramified infinite Galois extensions**|Farshid Hajir et.al.|[2401.05927v2](http://arxiv.org/abs/2401.05927v2)|null|
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836v1](http://arxiv.org/abs/2401.05836v1)|null|
 |**2024-01-10**|**Characterising the take-off dynamics and energy efficiency in spring-driven jumping robots**|John Lo et.al.|[2401.05554v1](http://arxiv.org/abs/2401.05554v1)|null|
@@ -30,5 +32,3 @@
 |**2023-12-29**|**Wavelet Dynamic Selection Network for Inertial Sensor Signal Enhancement**|Yifeng Wang et.al.|[2401.05416v1](http://arxiv.org/abs/2401.05416v1)|null|
 |**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|
-|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
-|**2023-12-27**|**Spatial-Related Sensors Matters: 3D Human Motion Reconstruction Assisted with Textual Semantics**|Xueyuan Yang et.al.|[2401.05412v1](http://arxiv.org/abs/2401.05412v1)|null|
