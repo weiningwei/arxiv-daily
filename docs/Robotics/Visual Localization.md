@@ -2,6 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-16**|**High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering**|Xin Ming et.al.|[2401.08398v1](http://arxiv.org/abs/2401.08398v1)|null|
 |**2024-01-16**|**AdaSem: Adaptive Goal-Oriented Semantic Communications for End-to-End Camera Relocalization**|Qi Liao et.al.|[2401.08360v1](http://arxiv.org/abs/2401.08360v1)|null|
 |**2024-01-16**|**Euclid: Improving the efficiency of weak lensing shear bias calibration. Pixel noise cancellation and the response method on trial**|H. Jansen et.al.|[2401.08239v1](http://arxiv.org/abs/2401.08239v1)|null|
 |**2024-01-16**|**ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification**|Zhongbin Fang et.al.|[2401.08210v1](http://arxiv.org/abs/2401.08210v1)|[link](https://github.com/fanglaosi/pointmls)|
@@ -31,4 +32,3 @@
 |**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542v1](http://arxiv.org/abs/2401.06542v1)|null|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517v1](http://arxiv.org/abs/2401.06517v1)|null|
 |**2024-01-11**|**Highly multimode visible squeezed light with programmable spectral correlations through broadband up-conversion**|Federico Presutti et.al.|[2401.06119v1](http://arxiv.org/abs/2401.06119v1)|null|
-|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
