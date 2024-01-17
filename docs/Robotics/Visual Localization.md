@@ -2,6 +2,29 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-16**|**High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering**|Xin Ming et.al.|[2401.08398v1](http://arxiv.org/abs/2401.08398v1)|null|
+|**2024-01-16**|**AdaSem: Adaptive Goal-Oriented Semantic Communications for End-to-End Camera Relocalization**|Qi Liao et.al.|[2401.08360v1](http://arxiv.org/abs/2401.08360v1)|null|
+|**2024-01-16**|**Euclid: Improving the efficiency of weak lensing shear bias calibration. Pixel noise cancellation and the response method on trial**|H. Jansen et.al.|[2401.08239v1](http://arxiv.org/abs/2401.08239v1)|null|
+|**2024-01-16**|**ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification**|Zhongbin Fang et.al.|[2401.08210v1](http://arxiv.org/abs/2401.08210v1)|[link](https://github.com/fanglaosi/pointmls)|
+|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171v1](http://arxiv.org/abs/2401.08171v1)|null|
+|**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v1](http://arxiv.org/abs/2401.08140v1)|null|
+|**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134v1](http://arxiv.org/abs/2401.08134v1)|null|
+|**2024-01-16**|**E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning**|Qiang Qu et.al.|[2401.08117v1](http://arxiv.org/abs/2401.08117v1)|[link](https://github.com/vincentqqu/e2hqv)|
+|**2024-01-16**|**Representation Learning on Event Stream via an Elastic Net-incorporated Tensor Network**|Beibei Yang et.al.|[2401.08068v1](http://arxiv.org/abs/2401.08068v1)|null|
+|**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043v1](http://arxiv.org/abs/2401.08043v1)|null|
+|**2024-01-16**|**Understanding factors behind IoT privacy -- A user's perspective on RF sensors**|Akash Deep Singh et.al.|[2401.08037v1](http://arxiv.org/abs/2401.08037v1)|null|
+|**2024-01-16**|**Preprocessing-based Kinodynamic Motion Planning Framework for Intercepting Projectiles using a Robot Manipulator**|Ramkumar Natarajan et.al.|[2401.08022v1](http://arxiv.org/abs/2401.08022v1)|null|
+|**2024-01-16**|**All the Way There and Back: Inertial-Based, Phone-in-Pocket Indoor Wayfinding and Backtracking Apps for Blind Travelers**|Chia Hsuan Tsai et.al.|[2401.08021v1](http://arxiv.org/abs/2401.08021v1)|null|
+|**2024-01-15**|**Information hiding cameras: optical concealment of object information into ordinary images**|Bijie Bai et.al.|[2401.07856v1](http://arxiv.org/abs/2401.07856v1)|null|
+|**2024-01-15**|**Low-light Stereo Image Enhancement and De-noising in the Low-frequency Information Enhanced Image Space**|Minghua Zhao et.al.|[2401.07753v1](http://arxiv.org/abs/2401.07753v1)|[link](https://github.com/noportraits/lfenet)|
+|**2024-01-15**|**The PRL 2.5m Telescope and its First Light Instruments: FOC & PARAS-2**|Abhijit Chakraborty et.al.|[2401.07715v1](http://arxiv.org/abs/2401.07715v1)|null|
+|**2024-01-15**|**Real-time imaging of standing-wave patterns in microresonators**|Haochen Yan et.al.|[2401.07670v1](http://arxiv.org/abs/2401.07670v1)|null|
+|**2024-01-15**|**Geo-locating Road Objects using Inverse Haversine Formula with NVIDIA Driveworks**|Mamoona Birkhez Shami et.al.|[2401.07582v1](http://arxiv.org/abs/2401.07582v1)|null|
+|**2024-01-15**|**TAROT: A Hierarchical Framework with Multitask Co-Pretraining on Semi-Structured Data towards Effective Person-Job Fit**|Yihan Cao et.al.|[2401.07525v1](http://arxiv.org/abs/2401.07525v1)|null|
+|**2024-01-14**|**MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction**|Toyota Li et.al.|[2401.07323v1](http://arxiv.org/abs/2401.07323v1)|null|
+|**2024-01-14**|**Application of 2D Homography for High Resolution Traffic Data Collection using CCTV Cameras**|Linlin Zhang et.al.|[2401.07220v1](http://arxiv.org/abs/2401.07220v1)|null|
+|**2024-01-14**|**Self-supervised Event-based Monocular Depth Estimation using Cross-modal Consistency**|Junyu Zhu et.al.|[2401.07218v1](http://arxiv.org/abs/2401.07218v1)|null|
+|**2024-01-12**|**Local Gamma Augmentation for Ischemic Stroke Lesion Segmentation on MRI**|Jon Middleton et.al.|[2401.06893v1](http://arxiv.org/abs/2401.06893v1)|null|
 |**2024-01-12**|**Embedded Planogram Compliance Control System**|M. Erkin Yücel et.al.|[2401.06690v1](http://arxiv.org/abs/2401.06690v1)|null|
 |**2024-01-12**|**Quantitative grain size estimation on airless bodies from the negative polarization branch. II. Dawn mission targets (4) Vesta and (1) Ceres**|Yoonsoo P. Bach et.al.|[2401.06616v1](http://arxiv.org/abs/2401.06616v1)|null|
 |**2024-01-12**|**Space-Time Nonlocal Metasurfaces for Event-Based Image Processing**|Sedigheh Esfahani et.al.|[2401.06586v1](http://arxiv.org/abs/2401.06586v1)|null|
@@ -9,26 +32,3 @@
 |**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542v1](http://arxiv.org/abs/2401.06542v1)|null|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517v1](http://arxiv.org/abs/2401.06517v1)|null|
 |**2024-01-11**|**Highly multimode visible squeezed light with programmable spectral correlations through broadband up-conversion**|Federico Presutti et.al.|[2401.06119v1](http://arxiv.org/abs/2401.06119v1)|null|
-|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
-|**2024-01-11**|**Probing diversity of type II supernovae with the Chinese Space Station Telescope**|Han Lin et.al.|[2401.05910v1](http://arxiv.org/abs/2401.05910v1)|null|
-|**2024-01-11**|**Safe reinforcement learning in uncertain contexts**|Dominik Baumann et.al.|[2401.05876v1](http://arxiv.org/abs/2401.05876v1)|[link](https://github.com/baumanndominik/cme_based_classification_bounds)|
-|**2024-01-11**|**Cross-Inlining Binary Function Similarity Detection**|Ang Jia et.al.|[2401.05739v1](http://arxiv.org/abs/2401.05739v1)|[link](https://github.com/island255/cross-inlining_binary_function_similarity)|
-|**2024-01-11**|**A Composable Dynamic Sparse Dataflow Architecture for Efficient Event-based Vision Processing on FPGA**|Yizhao Gao et.al.|[2401.05626v1](http://arxiv.org/abs/2401.05626v1)|null|
-|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
-|**2024-01-10**|**SOFIA/HAWC+ Far-Infrared Polarimetric Large-Area CMZ Exploration (FIREPLACE) Survey III: Full Survey Data Set**|Dylan Paré et.al.|[2401.05317v1](http://arxiv.org/abs/2401.05317v1)|null|
-|**2024-01-10**|**CineMPC: A Fully Autonomous Drone Cinematography System Incorporating Zoom, Focus, Pose, and Scene Composition**|Pablo Pueyo et.al.|[2401.05272v1](http://arxiv.org/abs/2401.05272v1)|[link](https://github.com/ppueyor/cinempc_ros)|
-|**2024-01-10**|**Measuring Natural Scenes SFR of Automotive Fisheye Cameras**|Daniel Jakab et.al.|[2401.05232v1](http://arxiv.org/abs/2401.05232v1)|null|
-|**2024-01-10**|**TOVAC: Tele-operated Vehicle Admission Control and Routing**|Jorge Martín-Pérez et.al.|[2401.05225v1](http://arxiv.org/abs/2401.05225v1)|null|
-|**2024-01-10**|**An event-based implementation of saliency-based visual attention for rapid scene analysis**|Camille Simon Chane et.al.|[2401.05030v1](http://arxiv.org/abs/2401.05030v1)|null|
-|**2024-01-10**|**Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**|Kamil Jeziorek et.al.|[2401.04988v1](http://arxiv.org/abs/2401.04988v1)|null|
-|**2024-01-10**|**Classification and characterization using HCT/HFOSC spectra of carbon stars selected from the HES survey**|Meenakshi Purandardas et.al.|[2401.04955v1](http://arxiv.org/abs/2401.04955v1)|null|
-|**2024-01-10**|**Machine Learning Applications in Spine Biomechanics**|Farshid Ghezelbash et.al.|[2401.06174v1](http://arxiv.org/abs/2401.06174v1)|null|
-|**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903v1](http://arxiv.org/abs/2401.04903v1)|null|
-|**2024-01-09**|**Comparative Evaluation of Animated Scatter Plot Transitions**|Nils Rodrigues et.al.|[2401.04692v1](http://arxiv.org/abs/2401.04692v1)|[link](https://github.com/nilsrodrigues/animated-scatterplot-transitions-for-comparative-study)|
-|**2024-01-09**|**Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods**|Dongeon Kim et.al.|[2401.04437v1](http://arxiv.org/abs/2401.04437v1)|null|
-|**2024-01-09**|**Properties, age, and origin of a huge meteor cluster observed over Scandinavia on 30 October 2022**|Pavel Koten et.al.|[2401.04419v1](http://arxiv.org/abs/2401.04419v1)|null|
-|**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325v1](http://arxiv.org/abs/2401.04325v1)|null|
-|**2024-01-09**|**Autonomous robotic re-alignment for face-to-face underwater human-robot interaction**|Demetrious T. Kutzke et.al.|[2401.04320v1](http://arxiv.org/abs/2401.04320v1)|null|
-|**2024-01-08**|**Behavioural Cloning in VizDoom**|Ryan Spick et.al.|[2401.03993v1](http://arxiv.org/abs/2401.03993v1)|null|
-|**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991v1](http://arxiv.org/abs/2401.03991v1)|[link](https://github.com/Fangjun-Li/SpatialLM-StepGame)|
-|**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
