@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-18**|**The Interaction between Solar Convection and Rotation**|Haibin Chen et.al.|[2401.10105v1](http://arxiv.org/abs/2401.10105v1)|null|
+|**2024-01-18**|**A-KIT: Adaptive Kalman-Informed Transformer**|Nadav Cohen et.al.|[2401.09987v1](http://arxiv.org/abs/2401.09987v1)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331v1](http://arxiv.org/abs/2401.09331v1)|[link](https://github.com/gowanting/nhevo)|
 |**2024-01-17**|**Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation**|Wanting Xu et.al.|[2401.09296v1](http://arxiv.org/abs/2401.09296v1)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
@@ -30,5 +32,3 @@
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
 |**2024-01-04**|**Identifying thermal effects in neutron star merger remnants with model-agnostic waveform reconstructions and third-generation detectors**|Miquel Miravet-Tenés et.al.|[2401.02493v2](http://arxiv.org/abs/2401.02493v2)|null|
 |**2024-01-04**|**Amplification of supersonic micro-jets by resonant inertial cavitation-bubble pair**|Yuzhe Fan et.al.|[2401.02320v1](http://arxiv.org/abs/2401.02320v1)|null|
-|**2024-01-04**|**A simple quantum picture of the relativistic Doppler effect**|Daniel Hodgson et.al.|[2401.02175v1](http://arxiv.org/abs/2401.02175v1)|null|
-|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
