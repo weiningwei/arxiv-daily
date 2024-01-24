@@ -2,8 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-23**|**IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images**|Zhi-Hao Lin et.al.|[2401.12977v1](http://arxiv.org/abs/2401.12977v1)|null|
+|**2024-01-23**|**Dynamical phenomena in the Martian atmosphere through Mars Express imaging**|A. Sánchez-Lavega et.al.|[2401.12928v1](http://arxiv.org/abs/2401.12928v1)|null|
+|**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
+|**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761v1](http://arxiv.org/abs/2401.12761v1)|null|
+|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v1](http://arxiv.org/abs/2401.12592v1)|null|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452v1](http://arxiv.org/abs/2401.12452v1)|null|
 |**2024-01-22**|**On the Effectiveness of Observations in the Mid-Infrared Wavelength Range on the 2.5-Meter Telescope of the Caucasus Mountain Observatory of Moscow State University with Commercial IR Cameras**|S. G. Zheltoukhov et.al.|[2401.12146v1](http://arxiv.org/abs/2401.12146v1)|null|
 |**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985v1](http://arxiv.org/abs/2401.11985v1)|null|
+|**2024-01-22**|**A decomposition algorithm for streak camera data**|Kaan Oguzhan et.al.|[2401.12269v1](http://arxiv.org/abs/2401.12269v1)|null|
 |**2024-01-22**|**End-to-end Multi-Instance Robotic Reaching from Monocular Vision**|Zheyu Zhuang et.al.|[2401.11834v1](http://arxiv.org/abs/2401.11834v1)|null|
 |**2024-01-22**|**Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review**|F. Xavier Gaya-Morey et.al.|[2401.11790v1](http://arxiv.org/abs/2401.11790v1)|null|
 |**2024-01-21**|**Efficient PSF Modeling with ShOpt.jl: A PSF Benchmarking Study with JWST NIRCam Imaging**|Edward Berman et.al.|[2401.11625v1](http://arxiv.org/abs/2401.11625v1)|null|
@@ -25,10 +32,3 @@
 |**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643v1](http://arxiv.org/abs/2401.10643v1)|null|
 |**2024-01-19**|**Assessment of the Axial Resolution of a Compact Gamma Camera with Coded Aperture Collimator**|Tobias Meißner et.al.|[2401.10633v1](http://arxiv.org/abs/2401.10633v1)|null|
 |**2024-01-19**|**Assembly and testing of Ground Layer Adaptive Optics (GLAO)for ARIES Telescopes**|Purvi Udhwani et.al.|[2401.10604v1](http://arxiv.org/abs/2401.10604v1)|null|
-|**2024-01-19**|**360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**|Yichen Chen et.al.|[2401.10560v1](http://arxiv.org/abs/2401.10560v1)|null|
-|**2024-01-19**|**Exploring Color Invariance through Image-Level Ensemble Learning**|Yunpeng Gong et.al.|[2401.10512v1](http://arxiv.org/abs/2401.10512v1)|[link](https://github.com/finger-monkey/Data-Augmentation)|
-|**2024-01-19**|**Learning to Robustly Reconstruct Low-light Dynamic Scenes from Spike Streams**|Liwen Hu et.al.|[2401.10461v1](http://arxiv.org/abs/2401.10461v1)|null|
-|**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[2401.10402v1](http://arxiv.org/abs/2401.10402v1)|null|
-|**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232v1](http://arxiv.org/abs/2401.10232v1)|null|
-|**2024-01-18**|**tinyVAST: R package with an expressive interface to specify lagged and simultaneous effects in multivariate spatio-temporal models**|James T. Thorson et.al.|[2401.10193v1](http://arxiv.org/abs/2401.10193v1)|null|
-|**2024-01-18**|**SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild**|Andreas Engelhardt et.al.|[2401.10171v1](http://arxiv.org/abs/2401.10171v1)|null|
