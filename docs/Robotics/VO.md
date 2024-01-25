@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
+|**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
+|**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
 |**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
@@ -29,6 +32,3 @@
 |**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680v1](http://arxiv.org/abs/2312.12680v1)|null|
-|**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396v1](http://arxiv.org/abs/2401.05396v1)|[link](https://github.com/remaro-network/Loss_VO_right)|
-|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|[link](https://github.com/tum-vision/devo)|
-|**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|[link](https://github.com/ctu-mrs/rms)|

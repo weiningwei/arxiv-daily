@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-24**|**Scale-free vision-based aerial control of a ground formation with hybrid topology**|Miguel Aranda et.al.|[2401.13610v1](http://arxiv.org/abs/2401.13610v1)|null|
+|**2024-01-24**|**PLATE: A perception-latency aware estimator,**|Rodrigo Aldana-López et.al.|[2401.13596v1](http://arxiv.org/abs/2401.13596v1)|null|
+|**2024-01-24**|**PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition**|Otto Brookes et.al.|[2401.13554v1](http://arxiv.org/abs/2401.13554v1)|null|
+|**2024-01-24**|**Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G**|C. Tandoi et.al.|[2401.13525v1](http://arxiv.org/abs/2401.13525v1)|null|
+|**2024-01-24**|**The Dynamics of (Not) Unfollowing Misinformation Spreaders**|Joshua Ashkinaze et.al.|[2401.13480v1](http://arxiv.org/abs/2401.13480v1)|null|
+|**2024-01-24**|**GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition**|Xingyu Song et.al.|[2401.13414v1](http://arxiv.org/abs/2401.13414v1)|null|
+|**2024-01-24**|**Evaluation of depth perception in crowded volumes**|Žiga Lesar et.al.|[2401.13341v1](http://arxiv.org/abs/2401.13341v1)|null|
+|**2024-01-24**|**A modular architecture for IMU-based data gloves**|Alessandro Carfì et.al.|[2401.13254v1](http://arxiv.org/abs/2401.13254v1)|null|
+|**2024-01-23**|**A Cryogen-Free Electron Beam Ion Trap for Astrophysically Relevant Spectroscopic Studies**|A. C. Gall et.al.|[2401.13088v1](http://arxiv.org/abs/2401.13088v1)|null|
+|**2024-01-23**|**Open-source data pipeline for street-view images: a case study on community mobility during COVID-19 pandemic**|Matthew Martell et.al.|[2401.13087v1](http://arxiv.org/abs/2401.13087v1)|null|
+|**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
 |**2024-01-23**|**IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images**|Zhi-Hao Lin et.al.|[2401.12977v1](http://arxiv.org/abs/2401.12977v1)|null|
 |**2024-01-23**|**Dynamical phenomena in the Martian atmosphere through Mars Express imaging**|A. Sánchez-Lavega et.al.|[2401.12928v1](http://arxiv.org/abs/2401.12928v1)|null|
 |**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
@@ -21,14 +32,3 @@
 |**2024-01-21**|**Quantum Circuit Simulation with Fast Tensor Decision Diagram**|Qirui Zhang et.al.|[2401.11362v1](http://arxiv.org/abs/2401.11362v1)|[link](https://github.com/QiruiZhang/FTDD)|
 |**2024-01-20**|**Angular velocity and linear acceleration measurement bias estimators for the rigid body system with global exponential convergence**|Soham Shanbhag et.al.|[2401.11191v1](http://arxiv.org/abs/2401.11191v1)|null|
 |**2024-01-20**|**Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition**|Haoxiang Yang et.al.|[2401.11123v1](http://arxiv.org/abs/2401.11123v1)|null|
-|**2024-01-20**|**A Finger on the Pulse of Cardiovascular Health: Smartphone Photoplethysmography-Based Pulse Waveform Analysis for Blood Pressure Measurement**|Ivan Liu et.al.|[2401.11117v1](http://arxiv.org/abs/2401.11117v1)|null|
-|**2024-01-19**|**PhotoBot: Reference-Guided Interactive Photography via Natural Language**|Oliver Limoyo et.al.|[2401.11061v1](http://arxiv.org/abs/2401.11061v1)|null|
-|**2024-01-19**|**Fast Registration of Photorealistic Avatars for VR Facial Animation**|Chaitanya Patel et.al.|[2401.11002v1](http://arxiv.org/abs/2401.11002v1)|null|
-|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|null|
-|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
-|**2024-01-19**|**Bidisperse micro fluidized beds: Effect of bed inclination on mixing**|Henrique Barbosa de Oliveira et.al.|[2401.10780v1](http://arxiv.org/abs/2401.10780v1)|null|
-|**2024-01-19**|**Determination of efficiency indicators of the stand for intelligent control of manual operations in industrial production**|Anton Sergeev et.al.|[2401.10777v1](http://arxiv.org/abs/2401.10777v1)|null|
-|**2024-01-19**|**BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**|Mirza Nihal Baig et.al.|[2401.10659v1](http://arxiv.org/abs/2401.10659v1)|null|
-|**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643v1](http://arxiv.org/abs/2401.10643v1)|null|
-|**2024-01-19**|**Assessment of the Axial Resolution of a Compact Gamma Camera with Coded Aperture Collimator**|Tobias Meißner et.al.|[2401.10633v1](http://arxiv.org/abs/2401.10633v1)|null|
-|**2024-01-19**|**Assembly and testing of Ground Layer Adaptive Optics (GLAO)for ARIES Telescopes**|Purvi Udhwani et.al.|[2401.10604v1](http://arxiv.org/abs/2401.10604v1)|null|
