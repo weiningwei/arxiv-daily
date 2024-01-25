@@ -6,7 +6,7 @@
 |**2024-01-23**|**Dynamical phenomena in the Martian atmosphere through Mars Express imaging**|A. Sánchez-Lavega et.al.|[2401.12928v1](http://arxiv.org/abs/2401.12928v1)|null|
 |**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761v1](http://arxiv.org/abs/2401.12761v1)|null|
-|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v1](http://arxiv.org/abs/2401.12592v1)|null|
+|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v2](http://arxiv.org/abs/2401.12592v2)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452v1](http://arxiv.org/abs/2401.12452v1)|null|
 |**2024-01-22**|**On the Effectiveness of Observations in the Mid-Infrared Wavelength Range on the 2.5-Meter Telescope of the Caucasus Mountain Observatory of Moscow State University with Commercial IR Cameras**|S. G. Zheltoukhov et.al.|[2401.12146v1](http://arxiv.org/abs/2401.12146v1)|null|
 |**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985v1](http://arxiv.org/abs/2401.11985v1)|null|
