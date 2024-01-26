@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-25**|**Learning to navigate efficiently and precisely in real environments**|Guillaume Bono et.al.|[2401.14349v1](http://arxiv.org/abs/2401.14349v1)|null|
 |**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
 |**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
 |**2024-01-24**|**A modular architecture for IMU-based data gloves**|Alessandro Carfì et.al.|[2401.13254v1](http://arxiv.org/abs/2401.13254v1)|null|
@@ -31,4 +32,3 @@
 |**2024-01-16**|**All the Way There and Back: Inertial-Based, Phone-in-Pocket Indoor Wayfinding and Backtracking Apps for Blind Travelers**|Chia Hsuan Tsai et.al.|[2401.08021v1](http://arxiv.org/abs/2401.08021v1)|null|
 |**2024-01-15**|**Active fluctuations in the harmonic chain: phonons, entropons and velocity correlations**|Umberto Marini Bettolo Marconi et.al.|[2401.07972v1](http://arxiv.org/abs/2401.07972v1)|null|
 |**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
-|**2024-01-15**|**Robustness Evaluation of Localization Techniques for Autonomous Racing**|Tian Yi Lim et.al.|[2401.07658v1](http://arxiv.org/abs/2401.07658v1)|null|
