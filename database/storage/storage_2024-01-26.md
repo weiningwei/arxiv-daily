@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-26 20:51:25 Asia/Shanghai
+ Automated deployment @ 2024-01-26 20:59:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -73,40 +73,6 @@
 |**2024-01-15**|**Active fluctuations in the harmonic chain: phonons, entropons and velocity correlations**|Umberto Marini Bettolo Marconi et.al.|[2401.07972v1](http://arxiv.org/abs/2401.07972v1)|null|
 |**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
 
-### VO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-25**|**Learning to navigate efficiently and precisely in real environments**|Guillaume Bono et.al.|[2401.14349v1](http://arxiv.org/abs/2401.14349v1)|null|
-|**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
-|**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
-|**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
-|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
-|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
-|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
-|**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331v1](http://arxiv.org/abs/2401.09331v1)|[link](https://github.com/gowanting/nhevo)|
-|**2024-01-17**|**Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation**|Wanting Xu et.al.|[2401.09296v1](http://arxiv.org/abs/2401.09296v1)|null|
-|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
-|**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
-|**2024-01-15**|**Robustness Evaluation of Localization Techniques for Autonomous Racing**|Tian Yi Lim et.al.|[2401.07658v1](http://arxiv.org/abs/2401.07658v1)|null|
-|**2024-01-12**|**UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications**|Jincheng Zhang et.al.|[2401.06407v1](http://arxiv.org/abs/2401.06407v1)|null|
-|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
-|**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836v1](http://arxiv.org/abs/2401.05836v1)|null|
-|**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
-|**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
-|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
-|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
-|**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
-|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|
-|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
-|**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
-|**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730v1](http://arxiv.org/abs/2312.14730v1)|null|
-|**2023-12-21**|**GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**|TaeYoung Kim et.al.|[2312.14035v1](http://arxiv.org/abs/2312.14035v1)|[link](https://github.com/taeyoung96/gril-calib)|
-|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
-|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
-|**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
-
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2024-01-22**|**On the Effectiveness of Observations in the Mid-Infrared Wavelength Range on the 2.5-Meter Telescope of the Caucasus Mountain Observatory of Moscow State University with Commercial IR Cameras**|S. G. Zheltoukhov et.al.|[2401.12146v1](http://arxiv.org/abs/2401.12146v1)|null|
 |**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985v1](http://arxiv.org/abs/2401.11985v1)|null|
 |**2024-01-22**|**A decomposition algorithm for streak camera data**|Kaan Oguzhan et.al.|[2401.12269v1](http://arxiv.org/abs/2401.12269v1)|null|
+
+### VO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-25**|**Learning to navigate efficiently and precisely in real environments**|Guillaume Bono et.al.|[2401.14349v1](http://arxiv.org/abs/2401.14349v1)|null|
+|**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
+|**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
+|**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
+|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
+|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
+|**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331v1](http://arxiv.org/abs/2401.09331v1)|[link](https://github.com/gowanting/nhevo)|
+|**2024-01-17**|**Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation**|Wanting Xu et.al.|[2401.09296v1](http://arxiv.org/abs/2401.09296v1)|null|
+|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
+|**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
+|**2024-01-15**|**Robustness Evaluation of Localization Techniques for Autonomous Racing**|Tian Yi Lim et.al.|[2401.07658v1](http://arxiv.org/abs/2401.07658v1)|null|
+|**2024-01-12**|**UAV-borne Mapping Algorithms for Canopy-Level and High-Speed Drone Applications**|Jincheng Zhang et.al.|[2401.06407v1](http://arxiv.org/abs/2401.06407v1)|null|
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
+|**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836v1](http://arxiv.org/abs/2401.05836v1)|null|
+|**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604v1](http://arxiv.org/abs/2401.03604v1)|[link](https://github.com/A3DV/VIRec)|
+|**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
+|**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
+|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
+|**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
+|**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|
+|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
+|**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
+|**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730v1](http://arxiv.org/abs/2312.14730v1)|null|
+|**2023-12-21**|**GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**|TaeYoung Kim et.al.|[2312.14035v1](http://arxiv.org/abs/2312.14035v1)|[link](https://github.com/taeyoung96/gril-calib)|
+|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
+|**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
