@@ -10,7 +10,7 @@
 |**2024-01-25**|**Evaluating User Experience and Data Quality in a Gamified Data Collection for Appearance-Based Gaze Estimation**|Mingtao Yue et.al.|[2401.14095v1](http://arxiv.org/abs/2401.14095v1)|null|
 |**2024-01-25**|**PLCNet: Patch-wise Lane Correction Network for Automatic Lane Correction in High-definition Maps**|Haiyang Peng et.al.|[2401.14024v1](http://arxiv.org/abs/2401.14024v1)|null|
 |**2024-01-25**|**Image based Crop Monitoring Technologies in Protected Horticulture: A Review**|Namal Jayasuriya et.al.|[2401.13928v1](http://arxiv.org/abs/2401.13928v1)|null|
-|**2024-01-24**|**Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception**|Spencer Carmichael et.al.|[2401.13853v1](http://arxiv.org/abs/2401.13853v1)|null|
+|**2024-01-24**|**Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception**|Spencer Carmichael et.al.|[2401.13853v1](http://arxiv.org/abs/2401.13853v1)|[link](https://github.com/umautobots/nsavp_tools)|
 |**2024-01-24**|**FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization**|Daniel Lichy et.al.|[2401.13786v1](http://arxiv.org/abs/2401.13786v1)|null|
 |**2024-01-24**|**Scale-free vision-based aerial control of a ground formation with hybrid topology**|Miguel Aranda et.al.|[2401.13610v1](http://arxiv.org/abs/2401.13610v1)|null|
 |**2024-01-24**|**PLATE: A perception-latency aware estimator,**|Rodrigo Aldana-López et.al.|[2401.13596v1](http://arxiv.org/abs/2401.13596v1)|null|
