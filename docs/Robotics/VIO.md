@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
+|**2024-01-26**|**Quasi-Linear Homogenization for Large-Inertia Laminar Transport across Permeable Membranes**|Kevin Wittkowski et.al.|[2401.14842v1](http://arxiv.org/abs/2401.14842v1)|null|
+|**2024-01-26**|**Inertial manifolds for the two-dimensional hyperviscous Navier-Stokes equations**|Yanqiu Guo et.al.|[2401.14642v1](http://arxiv.org/abs/2401.14642v1)|null|
 |**2024-01-25**|**Learning to navigate efficiently and precisely in real environments**|Guillaume Bono et.al.|[2401.14349v1](http://arxiv.org/abs/2401.14349v1)|null|
 |**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
 |**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
@@ -29,6 +32,3 @@
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
 |**2024-01-16**|**Reproducibility of real-time time-dependent density functional theory calculations of electronic stopping power in warm dense matter**|Alina Kononov et.al.|[2401.08793v1](http://arxiv.org/abs/2401.08793v1)|null|
 |**2024-01-16**|**Showcasing the necessity of the principle of relative motion in physical statistics: Inconsistency of the `segmented Fermi surface'**|Wei Ku et.al.|[2401.08576v1](http://arxiv.org/abs/2401.08576v1)|null|
-|**2024-01-16**|**All the Way There and Back: Inertial-Based, Phone-in-Pocket Indoor Wayfinding and Backtracking Apps for Blind Travelers**|Chia Hsuan Tsai et.al.|[2401.08021v1](http://arxiv.org/abs/2401.08021v1)|null|
-|**2024-01-15**|**Active fluctuations in the harmonic chain: phonons, entropons and velocity correlations**|Umberto Marini Bettolo Marconi et.al.|[2401.07972v1](http://arxiv.org/abs/2401.07972v1)|null|
-|**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
