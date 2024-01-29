@@ -15,7 +15,7 @@
 |**2024-01-22**|**Human Impression of Humanoid Robots Mirroring Social Cues**|Di Fu et.al.|[2401.12076v1](http://arxiv.org/abs/2401.12076v1)|null|
 |**2024-01-22**|**Validation of Classical Transport Cross Section for Ion-Ion Interactions Under Repulsive Yukawa Potential**|Tian-Xing Hu et.al.|[2401.11891v1](http://arxiv.org/abs/2401.11891v1)|null|
 |**2024-01-21**|**Random matrix model of Kolmogorov-Zakharov turbulence**|Klaus M. Frahm et.al.|[2401.11545v1](http://arxiv.org/abs/2401.11545v1)|null|
-|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
+|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v2](http://arxiv.org/abs/2401.11511v2)|null|
 |**2024-01-21**|**BA-LINS: A Frame-to-Frame Bundle Adjustment for LiDAR-Inertial Navigation**|Hailiang Tang et.al.|[2401.11491v1](http://arxiv.org/abs/2401.11491v1)|null|
 |**2024-01-21**|**Towards Non-Robocentric Dynamic Landing of Quadrotor UAVs**|Li-Yu Lo et.al.|[2401.11445v1](http://arxiv.org/abs/2401.11445v1)|null|
 |**2024-01-20**|**Formation and Study of a Spherical Plasma Liner for Plasma-Jet-Driven Magneto-Inertial Fusion**|A. L. LaJoie et.al.|[2401.11066v1](http://arxiv.org/abs/2401.11066v1)|null|
