@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
+|**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304v1](http://arxiv.org/abs/2401.16304v1)|null|
+|**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173v1](http://arxiv.org/abs/2401.16173v1)|null|
+|**2024-01-29**|**Towards Scenario Generalization for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2401.16110v1](http://arxiv.org/abs/2401.16110v1)|null|
+|**2024-01-29**|**Neuromorphic Valence and Arousal Estimation**|Lorenzo Berlincioni et.al.|[2401.16058v1](http://arxiv.org/abs/2401.16058v1)|null|
+|**2024-01-29**|**DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems**|Youcheng Zeng et.al.|[2401.16017v1](http://arxiv.org/abs/2401.16017v1)|null|
+|**2024-01-29**|**Motion-induced error reduction for high-speed dynamic digital fringe projection system**|Sanghoon Jeon et.al.|[2401.15938v1](http://arxiv.org/abs/2401.15938v1)|null|
+|**2024-01-28**|**Cooperative Receding Horizon 3D Coverage Control with a Team of Networked Aerial Agents**|Savvas Papaioannou et.al.|[2401.15674v1](http://arxiv.org/abs/2401.15674v1)|null|
+|**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616v1](http://arxiv.org/abs/2401.15616v1)|null|
+|**2024-01-27**|**Performance-Based Biped Control using a Consumer Depth Camera**|Yoonsang Lee et.al.|[2401.15523v1](http://arxiv.org/abs/2401.15523v1)|null|
+|**2024-01-27**|**A New Method for Vehicle Logo Recognition Based on Swin Transformer**|Yang Li et.al.|[2401.15458v1](http://arxiv.org/abs/2401.15458v1)|null|
+|**2024-01-27**|**STAC: Leveraging Spatio-Temporal Data Associations For Efficient Cross-Camera Streaming and Analytics**|Volodymyr Vakhniuk et.al.|[2401.15288v1](http://arxiv.org/abs/2401.15288v1)|null|
+|**2024-01-27**|**SAM-based instance segmentation models for the automation of masonry crack detection**|Zehao Ye et.al.|[2401.15266v1](http://arxiv.org/abs/2401.15266v1)|null|
+|**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261v1](http://arxiv.org/abs/2401.15261v1)|null|
+|**2024-01-26**|**Speed-based Filtration and DBSCAN of Event-based Camera Data with Neuromorphic Computing**|Charles P. Rizzo et.al.|[2401.15212v1](http://arxiv.org/abs/2401.15212v1)|null|
+|**2024-01-26**|**Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow**|Zihao Li et.al.|[2401.15193v1](http://arxiv.org/abs/2401.15193v1)|null|
 |**2024-01-26**|**Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring**|Dan Lin et.al.|[2401.14838v1](http://arxiv.org/abs/2401.14838v1)|null|
 |**2024-01-26**|**SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras**|Hanz Cuevas-Velasquez et.al.|[2401.14785v1](http://arxiv.org/abs/2401.14785v1)|null|
 |**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719v1](http://arxiv.org/abs/2401.14719v1)|null|
@@ -16,19 +32,3 @@
 |**2024-01-25**|**Image based Crop Monitoring Technologies in Protected Horticulture: A Review**|Namal Jayasuriya et.al.|[2401.13928v1](http://arxiv.org/abs/2401.13928v1)|null|
 |**2024-01-24**|**Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception**|Spencer Carmichael et.al.|[2401.13853v1](http://arxiv.org/abs/2401.13853v1)|[link](https://github.com/umautobots/nsavp_tools)|
 |**2024-01-24**|**FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization**|Daniel Lichy et.al.|[2401.13786v1](http://arxiv.org/abs/2401.13786v1)|null|
-|**2024-01-24**|**Scale-free vision-based aerial control of a ground formation with hybrid topology**|Miguel Aranda et.al.|[2401.13610v1](http://arxiv.org/abs/2401.13610v1)|null|
-|**2024-01-24**|**PLATE: A perception-latency aware estimator,**|Rodrigo Aldana-López et.al.|[2401.13596v1](http://arxiv.org/abs/2401.13596v1)|null|
-|**2024-01-24**|**PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition**|Otto Brookes et.al.|[2401.13554v1](http://arxiv.org/abs/2401.13554v1)|null|
-|**2024-01-24**|**Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G**|C. Tandoi et.al.|[2401.13525v1](http://arxiv.org/abs/2401.13525v1)|null|
-|**2024-01-24**|**The Dynamics of (Not) Unfollowing Misinformation Spreaders**|Joshua Ashkinaze et.al.|[2401.13480v1](http://arxiv.org/abs/2401.13480v1)|null|
-|**2024-01-24**|**GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition**|Xingyu Song et.al.|[2401.13414v1](http://arxiv.org/abs/2401.13414v1)|null|
-|**2024-01-24**|**Evaluation of depth perception in crowded volumes**|Žiga Lesar et.al.|[2401.13341v1](http://arxiv.org/abs/2401.13341v1)|null|
-|**2024-01-24**|**A modular architecture for IMU-based data gloves**|Alessandro Carfì et.al.|[2401.13254v1](http://arxiv.org/abs/2401.13254v1)|null|
-|**2024-01-23**|**A Cryogen-Free Electron Beam Ion Trap for Astrophysically Relevant Spectroscopic Studies**|A. C. Gall et.al.|[2401.13088v1](http://arxiv.org/abs/2401.13088v1)|null|
-|**2024-01-23**|**Open-source data pipeline for street-view images: a case study on community mobility during COVID-19 pandemic**|Matthew Martell et.al.|[2401.13087v1](http://arxiv.org/abs/2401.13087v1)|[link](https://github.com/marte292/rapid-data-pipeline)|
-|**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
-|**2024-01-23**|**IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images**|Zhi-Hao Lin et.al.|[2401.12977v1](http://arxiv.org/abs/2401.12977v1)|null|
-|**2024-01-23**|**Dynamical phenomena in the Martian atmosphere through Mars Express imaging**|A. Sánchez-Lavega et.al.|[2401.12928v1](http://arxiv.org/abs/2401.12928v1)|null|
-|**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
-|**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761v1](http://arxiv.org/abs/2401.12761v1)|null|
-|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v2](http://arxiv.org/abs/2401.12592v2)|null|

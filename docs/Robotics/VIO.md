@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-28**|**Data-Driven Strategies for Coping with Incomplete DVL Measurements**|Nadav Cohen et.al.|[2401.15620v1](http://arxiv.org/abs/2401.15620v1)|null|
+|**2024-01-27**|**A robust regularized extreme learning machine for regression problems based on self-adaptive accelerated extra-gradient algorithm**|Muideen Adegoke et.al.|[2401.15425v1](http://arxiv.org/abs/2401.15425v1)|null|
+|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v1](http://arxiv.org/abs/2401.15313v1)|null|
+|**2024-01-26**|**On inertial iterated Tikhonov methods for solving ill-posed problems**|Joel C. Rabelo et.al.|[2401.15213v1](http://arxiv.org/abs/2401.15213v1)|null|
 |**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
 |**2024-01-26**|**Quasi-Linear Homogenization for Large-Inertia Laminar Transport across Permeable Membranes**|Kevin Wittkowski et.al.|[2401.14842v1](http://arxiv.org/abs/2401.14842v1)|null|
 |**2024-01-26**|**Inertial manifolds for the two-dimensional hyperviscous Navier-Stokes equations**|Yanqiu Guo et.al.|[2401.14642v1](http://arxiv.org/abs/2401.14642v1)|null|
@@ -28,7 +32,3 @@
 |**2024-01-18**|**A-KIT: Adaptive Kalman-Informed Transformer**|Nadav Cohen et.al.|[2401.09987v1](http://arxiv.org/abs/2401.09987v1)|[link](https://github.com/ansfl/a-kit)|
 |**2024-01-18**|**A Modern Interpretation of Newton's Theorem of Revolving Orbits**|Nolan Samboy et.al.|[2401.10944v1](http://arxiv.org/abs/2401.10944v1)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331v1](http://arxiv.org/abs/2401.09331v1)|[link](https://github.com/gowanting/nhevo)|
-|**2024-01-17**|**Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation**|Wanting Xu et.al.|[2401.09296v1](http://arxiv.org/abs/2401.09296v1)|null|
-|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
-|**2024-01-16**|**Reproducibility of real-time time-dependent density functional theory calculations of electronic stopping power in warm dense matter**|Alina Kononov et.al.|[2401.08793v1](http://arxiv.org/abs/2401.08793v1)|null|
-|**2024-01-16**|**Showcasing the necessity of the principle of relative motion in physical statistics: Inconsistency of the `segmented Fermi surface'**|Wei Ku et.al.|[2401.08576v1](http://arxiv.org/abs/2401.08576v1)|null|
