@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-28**|**Data-Driven Strategies for Coping with Incomplete DVL Measurements**|Nadav Cohen et.al.|[2401.15620v1](http://arxiv.org/abs/2401.15620v1)|null|
 |**2024-01-27**|**A robust regularized extreme learning machine for regression problems based on self-adaptive accelerated extra-gradient algorithm**|Muideen Adegoke et.al.|[2401.15425v1](http://arxiv.org/abs/2401.15425v1)|null|
-|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v1](http://arxiv.org/abs/2401.15313v1)|null|
+|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v2](http://arxiv.org/abs/2401.15313v2)|null|
 |**2024-01-26**|**On inertial iterated Tikhonov methods for solving ill-posed problems**|Joel C. Rabelo et.al.|[2401.15213v1](http://arxiv.org/abs/2401.15213v1)|null|
 |**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
 |**2024-01-26**|**Quasi-Linear Homogenization for Large-Inertia Laminar Transport across Permeable Membranes**|Kevin Wittkowski et.al.|[2401.14842v1](http://arxiv.org/abs/2401.14842v1)|null|

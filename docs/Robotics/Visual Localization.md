@@ -14,7 +14,7 @@
 |**2024-01-27**|**Performance-Based Biped Control using a Consumer Depth Camera**|Yoonsang Lee et.al.|[2401.15523v1](http://arxiv.org/abs/2401.15523v1)|null|
 |**2024-01-27**|**A New Method for Vehicle Logo Recognition Based on Swin Transformer**|Yang Li et.al.|[2401.15458v1](http://arxiv.org/abs/2401.15458v1)|null|
 |**2024-01-27**|**STAC: Leveraging Spatio-Temporal Data Associations For Efficient Cross-Camera Streaming and Analytics**|Volodymyr Vakhniuk et.al.|[2401.15288v1](http://arxiv.org/abs/2401.15288v1)|null|
-|**2024-01-27**|**SAM-based instance segmentation models for the automation of masonry crack detection**|Zehao Ye et.al.|[2401.15266v1](http://arxiv.org/abs/2401.15266v1)|null|
+|**2024-01-27**|**SAM-based instance segmentation models for the automation of structural damage detection**|Zehao Ye et.al.|[2401.15266v2](http://arxiv.org/abs/2401.15266v2)|null|
 |**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261v1](http://arxiv.org/abs/2401.15261v1)|null|
 |**2024-01-26**|**Speed-based Filtration and DBSCAN of Event-based Camera Data with Neuromorphic Computing**|Charles P. Rizzo et.al.|[2401.15212v1](http://arxiv.org/abs/2401.15212v1)|null|
 |**2024-01-26**|**Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow**|Zihao Li et.al.|[2401.15193v1](http://arxiv.org/abs/2401.15193v1)|null|
