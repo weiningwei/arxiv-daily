@@ -2,6 +2,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**eRASSUJ060839.5-704014: A double degenerate ultra-compact binary in the direction of the LMC**|C. Maitra et.al.|[2401.17293v1](http://arxiv.org/abs/2401.17293v1)|null|
+|**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
+|**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217v1](http://arxiv.org/abs/2401.17217v1)|null|
+|**2024-01-30**|**Multi-Camera Asynchronous Ball Localization and Trajectory Prediction with Factor Graphs and Human Poses**|Qingyu Xiao et.al.|[2401.17185v1](http://arxiv.org/abs/2401.17185v1)|null|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|null|
+|**2024-01-30**|**Non-central panorama indoor dataset**|Bruno Berenguel-Baeta et.al.|[2401.17075v1](http://arxiv.org/abs/2401.17075v1)|[link](https://github.com/jesusbermudezcameo/noncentralindoordataset)|
+|**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064v1](http://arxiv.org/abs/2401.17064v1)|null|
+|**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061v1](http://arxiv.org/abs/2401.17061v1)|[link](https://github.com/sbrunoberenguel/omniscv)|
+|**2024-01-30**|**Floor extraction and door detection for visually impaired guidance**|Bruno Berenguel-Baeta et.al.|[2401.17056v1](http://arxiv.org/abs/2401.17056v1)|null|
+|**2024-01-30**|**Six years of Venus winds at the upper cloud level from UV, visible and near infrared observations from VIRTIS on Venus Express**|Ricardo Hueso et.al.|[2401.17046v1](http://arxiv.org/abs/2401.17046v1)|null|
+|**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972v1](http://arxiv.org/abs/2401.16972v1)|null|
+|**2024-01-30**|**An ARGoS plug-in for the Crazyflie drone**|Daniel H. Stolfi et.al.|[2401.16948v1](http://arxiv.org/abs/2401.16948v1)|null|
+|**2024-01-30**|**Cross-Lingual Transfer from Related Languages: Treating Low-Resource Maltese as Multilingual Code-Switching**|Kurt Micallef et.al.|[2401.16895v1](http://arxiv.org/abs/2401.16895v1)|null|
+|**2024-01-30**|**Line tension in a thick soap film**|Théo Lenavetier et.al.|[2401.16859v1](http://arxiv.org/abs/2401.16859v1)|null|
+|**2024-01-30**|**LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras**|Fei Teng et.al.|[2401.16712v1](http://arxiv.org/abs/2401.16712v1)|null|
+|**2024-01-30**|**JWST Observations of Starbursts: Polycyclic Aromatic Hydrocarbon Emission at the base of the M 82 Galactic Wind**|Alberto D. Bolatto et.al.|[2401.16648v1](http://arxiv.org/abs/2401.16648v1)|null|
+|**2024-01-29**|**A compact and cost-effective laser-powered speckle visibility spectroscopy (SVS) device for measuring cerebral blood flow**|Yu Xi Huang et.al.|[2401.16592v1](http://arxiv.org/abs/2401.16592v1)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304v1](http://arxiv.org/abs/2401.16304v1)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173v1](http://arxiv.org/abs/2401.16173v1)|null|
@@ -15,20 +32,3 @@
 |**2024-01-27**|**A New Method for Vehicle Logo Recognition Based on Swin Transformer**|Yang Li et.al.|[2401.15458v1](http://arxiv.org/abs/2401.15458v1)|null|
 |**2024-01-27**|**STAC: Leveraging Spatio-Temporal Data Associations For Efficient Cross-Camera Streaming and Analytics**|Volodymyr Vakhniuk et.al.|[2401.15288v1](http://arxiv.org/abs/2401.15288v1)|null|
 |**2024-01-27**|**SAM-based instance segmentation models for the automation of structural damage detection**|Zehao Ye et.al.|[2401.15266v2](http://arxiv.org/abs/2401.15266v2)|null|
-|**2024-01-27**|**Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes**|Diandian Guo et.al.|[2401.15261v1](http://arxiv.org/abs/2401.15261v1)|null|
-|**2024-01-26**|**Speed-based Filtration and DBSCAN of Event-based Camera Data with Neuromorphic Computing**|Charles P. Rizzo et.al.|[2401.15212v1](http://arxiv.org/abs/2401.15212v1)|null|
-|**2024-01-26**|**Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow**|Zihao Li et.al.|[2401.15193v1](http://arxiv.org/abs/2401.15193v1)|null|
-|**2024-01-26**|**Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring**|Dan Lin et.al.|[2401.14838v1](http://arxiv.org/abs/2401.14838v1)|null|
-|**2024-01-26**|**SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras**|Hanz Cuevas-Velasquez et.al.|[2401.14785v1](http://arxiv.org/abs/2401.14785v1)|null|
-|**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719v1](http://arxiv.org/abs/2401.14719v1)|[link](https://github.com/gicait/plitter)|
-|**2024-01-25**|**RPNR: Robust-Perception Neural Reshading**|Fouad Afiouni et.al.|[2401.14510v1](http://arxiv.org/abs/2401.14510v1)|null|
-|**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325v1](http://arxiv.org/abs/2401.14325v1)|null|
-|**2024-01-25**|**Assessing the Portability of Parameter Matrices Trained by Parameter-Efficient Finetuning Methods**|Mohammed Sabry et.al.|[2401.14228v1](http://arxiv.org/abs/2401.14228v1)|null|
-|**2024-01-25**|**Clinical Melanoma Diagnosis with Artificial Intelligence: Insights from a Prospective Multicenter Study**|Lukas Heinlein et.al.|[2401.14193v1](http://arxiv.org/abs/2401.14193v1)|null|
-|**2024-01-25**|**Enabling Cross-Camera Collaboration for Video Analytics on Distributed Smart Cameras**|Chulhong Min et.al.|[2401.14132v2](http://arxiv.org/abs/2401.14132v2)|null|
-|**2024-01-25**|**MIFI: MultI-camera Feature Integration for Roust 3D Distracted Driver Activity Recognition**|Jian Kuang et.al.|[2401.14115v1](http://arxiv.org/abs/2401.14115v1)|[link](https://github.com/john828/mifi)|
-|**2024-01-25**|**Evaluating User Experience and Data Quality in a Gamified Data Collection for Appearance-Based Gaze Estimation**|Mingtao Yue et.al.|[2401.14095v1](http://arxiv.org/abs/2401.14095v1)|null|
-|**2024-01-25**|**PLCNet: Patch-wise Lane Correction Network for Automatic Lane Correction in High-definition Maps**|Haiyang Peng et.al.|[2401.14024v1](http://arxiv.org/abs/2401.14024v1)|null|
-|**2024-01-25**|**Image based Crop Monitoring Technologies in Protected Horticulture: A Review**|Namal Jayasuriya et.al.|[2401.13928v1](http://arxiv.org/abs/2401.13928v1)|null|
-|**2024-01-24**|**Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception**|Spencer Carmichael et.al.|[2401.13853v1](http://arxiv.org/abs/2401.13853v1)|[link](https://github.com/umautobots/nsavp_tools)|
-|**2024-01-24**|**FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization**|Daniel Lichy et.al.|[2401.13786v1](http://arxiv.org/abs/2401.13786v1)|null|
