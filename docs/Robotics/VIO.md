@@ -2,9 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|null|
+|**2024-01-31**|**Self-Aligning Active Agents with Inertia and Active Torque**|Jeremy Fersula et.al.|[2401.17798v1](http://arxiv.org/abs/2401.17798v1)|null|
+|**2024-01-31**|**Force Push: Robust Single-Point Pushing with Force Feedback**|Adam Heins et.al.|[2401.17517v1](http://arxiv.org/abs/2401.17517v1)|null|
+|**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404v1](http://arxiv.org/abs/2401.17404v1)|null|
+|**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399v1](http://arxiv.org/abs/2401.17399v1)|null|
 |**2024-01-30**|**Volumetric Lattice Boltzmann Models in General Curvilinear Coordinates: Theoretical Formulation**|Hudong Chen et.al.|[2401.17183v1](http://arxiv.org/abs/2401.17183v1)|null|
 |**2024-01-30**|**The nonlinear dynamic behavior of a Rubber-Layer Roller Bearing (RLRB) for vibration isolation**|N. Menga et.al.|[2401.16880v1](http://arxiv.org/abs/2401.16880v1)|null|
 |**2024-01-30**|**Krasnoselskii-Mann Iterations: Inertia, Perturbations and Approximation**|Daniel Cortild et.al.|[2401.16870v1](http://arxiv.org/abs/2401.16870v1)|null|
+|**2024-01-28**|**Quantum inertia of non-local matterspace with kinetic and metric counter-stresses**|I. E. Bulyzhenkov et.al.|[2401.17321v1](http://arxiv.org/abs/2401.17321v1)|null|
 |**2024-01-28**|**Data-Driven Strategies for Coping with Incomplete DVL Measurements**|Nadav Cohen et.al.|[2401.15620v1](http://arxiv.org/abs/2401.15620v1)|null|
 |**2024-01-27**|**Fusion It is time to color outside the lines**|Wallace Manheimer et.al.|[2401.16442v1](http://arxiv.org/abs/2401.16442v1)|null|
 |**2024-01-27**|**A robust regularized extreme learning machine for regression problems based on self-adaptive accelerated extra-gradient algorithm**|Muideen Adegoke et.al.|[2401.15425v1](http://arxiv.org/abs/2401.15425v1)|null|
@@ -26,9 +32,3 @@
 |**2024-01-22**|**Human Impression of Humanoid Robots Mirroring Social Cues**|Di Fu et.al.|[2401.12076v1](http://arxiv.org/abs/2401.12076v1)|null|
 |**2024-01-22**|**Validation of Classical Transport Cross Section for Ion-Ion Interactions Under Repulsive Yukawa Potential**|Tian-Xing Hu et.al.|[2401.11891v1](http://arxiv.org/abs/2401.11891v1)|null|
 |**2024-01-21**|**Random matrix model of Kolmogorov-Zakharov turbulence**|Klaus M. Frahm et.al.|[2401.11545v1](http://arxiv.org/abs/2401.11545v1)|null|
-|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v2](http://arxiv.org/abs/2401.11511v2)|null|
-|**2024-01-21**|**BA-LINS: A Frame-to-Frame Bundle Adjustment for LiDAR-Inertial Navigation**|Hailiang Tang et.al.|[2401.11491v1](http://arxiv.org/abs/2401.11491v1)|null|
-|**2024-01-21**|**Towards Non-Robocentric Dynamic Landing of Quadrotor UAVs**|Li-Yu Lo et.al.|[2401.11445v1](http://arxiv.org/abs/2401.11445v1)|null|
-|**2024-01-20**|**Formation and Study of a Spherical Plasma Liner for Plasma-Jet-Driven Magneto-Inertial Fusion**|A. L. LaJoie et.al.|[2401.11066v1](http://arxiv.org/abs/2401.11066v1)|null|
-|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
-|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|

@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404v1](http://arxiv.org/abs/2401.17404v1)|null|
+|**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399v1](http://arxiv.org/abs/2401.17399v1)|null|
 |**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v2](http://arxiv.org/abs/2401.15313v2)|null|
 |**2024-01-25**|**Learning to navigate efficiently and precisely in real environments**|Guillaume Bono et.al.|[2401.14349v1](http://arxiv.org/abs/2401.14349v1)|null|
 |**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
@@ -30,5 +32,3 @@
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
 |**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730v1](http://arxiv.org/abs/2312.14730v1)|null|
 |**2023-12-21**|**GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**|TaeYoung Kim et.al.|[2312.14035v1](http://arxiv.org/abs/2312.14035v1)|[link](https://github.com/taeyoung96/gril-calib)|
-|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
-|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|

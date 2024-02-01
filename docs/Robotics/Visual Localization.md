@@ -2,8 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|[link](https://github.com/microsoft/scenelandmarklocalization)|
+|**2024-01-31**|**GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres**|Jessica Lin et.al.|[2401.17974v1](http://arxiv.org/abs/2401.17974v1)|null|
+|**2024-01-31**|**Euclid preparation. The Near-IR Background Dipole Experiment with Euclid**|Euclid Collaboration et.al.|[2401.17945v1](http://arxiv.org/abs/2401.17945v1)|null|
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|null|
+|**2024-01-31**|**Vision-Assisted Digital Twin Creation for mmWave Beam Management**|Maximilian Arnold et.al.|[2401.17781v1](http://arxiv.org/abs/2401.17781v1)|null|
+|**2024-01-31**|**3D-Plotting Algorithm for Insects using YOLOv5**|Daisuke Mori et.al.|[2401.17714v1](http://arxiv.org/abs/2401.17714v1)|null|
+|**2024-01-31**|**Bi-ACT: Bilateral Control-Based Imitation Learning via Action Chunking with Transformer**|Thanpimon Buamanee et.al.|[2401.17698v1](http://arxiv.org/abs/2401.17698v1)|null|
+|**2024-01-31**|**Unveiling the Power of Self-supervision for Multi-view Multi-human Association and Tracking**|Wei Feng et.al.|[2401.17617v1](http://arxiv.org/abs/2401.17617v1)|null|
 |**2024-01-30**|**eRASSUJ060839.5-704014: A double degenerate ultra-compact binary in the direction of the LMC**|C. Maitra et.al.|[2401.17293v1](http://arxiv.org/abs/2401.17293v1)|null|
 |**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
+|**2024-01-30**|**Through-Wall Imaging based on WiFi Channel State Information**|Julian Strohmayer et.al.|[2401.17417v1](http://arxiv.org/abs/2401.17417v1)|null|
 |**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217v2](http://arxiv.org/abs/2401.17217v2)|null|
 |**2024-01-30**|**Multi-Camera Asynchronous Ball Localization and Trajectory Prediction with Factor Graphs and Human Poses**|Qingyu Xiao et.al.|[2401.17185v1](http://arxiv.org/abs/2401.17185v1)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|[link](https://github.com/mercerai/paev3d)|
@@ -23,12 +32,3 @@
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304v1](http://arxiv.org/abs/2401.16304v1)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173v1](http://arxiv.org/abs/2401.16173v1)|[link](https://github.com/zju3dv/closemocap)|
 |**2024-01-29**|**Towards Scenario Generalization for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2401.16110v1](http://arxiv.org/abs/2401.16110v1)|[link](https://github.com/yanglei18/sgv3d)|
-|**2024-01-29**|**Neuromorphic Valence and Arousal Estimation**|Lorenzo Berlincioni et.al.|[2401.16058v1](http://arxiv.org/abs/2401.16058v1)|null|
-|**2024-01-29**|**DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems**|Youcheng Zeng et.al.|[2401.16017v1](http://arxiv.org/abs/2401.16017v1)|null|
-|**2024-01-29**|**Motion-induced error reduction for high-speed dynamic digital fringe projection system**|Sanghoon Jeon et.al.|[2401.15938v1](http://arxiv.org/abs/2401.15938v1)|null|
-|**2024-01-28**|**Cooperative Receding Horizon 3D Coverage Control with a Team of Networked Aerial Agents**|Savvas Papaioannou et.al.|[2401.15674v1](http://arxiv.org/abs/2401.15674v1)|null|
-|**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616v1](http://arxiv.org/abs/2401.15616v1)|null|
-|**2024-01-27**|**Performance-Based Biped Control using a Consumer Depth Camera**|Yoonsang Lee et.al.|[2401.15523v1](http://arxiv.org/abs/2401.15523v1)|null|
-|**2024-01-27**|**A New Method for Vehicle Logo Recognition Based on Swin Transformer**|Yang Li et.al.|[2401.15458v1](http://arxiv.org/abs/2401.15458v1)|null|
-|**2024-01-27**|**STAC: Leveraging Spatio-Temporal Data Associations For Efficient Cross-Camera Streaming and Analytics**|Volodymyr Vakhniuk et.al.|[2401.15288v1](http://arxiv.org/abs/2401.15288v1)|[link](https://github.com/volodymyrvakhniuk/cs444_final_project)|
-|**2024-01-27**|**SAM-based instance segmentation models for the automation of structural damage detection**|Zehao Ye et.al.|[2401.15266v2](http://arxiv.org/abs/2401.15266v2)|null|
