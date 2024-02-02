@@ -2,8 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|null|
-|**2024-01-31**|**PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**|Xiangcheng Hu et.al.|[2401.17826v1](http://arxiv.org/abs/2401.17826v1)|null|
+|**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
+|**2024-02-01**|**The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2402.00438v1](http://arxiv.org/abs/2402.00438v1)|null|
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|[link](https://github.com/remaro-network/subpipe-dataset)|
+|**2024-01-31**|**PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**|Xiangcheng Hu et.al.|[2401.17826v1](http://arxiv.org/abs/2401.17826v1)|[link](https://github.com/jokerjohn/paloc)|
 |**2024-01-31**|**Haris: an Advanced Autonomous Mobile Robot for Smart Parking Assistance**|Layth Hamad et.al.|[2401.17741v1](http://arxiv.org/abs/2401.17741v1)|null|
 |**2024-01-30**|**A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation**|Varun Agrawal et.al.|[2401.17463v1](http://arxiv.org/abs/2401.17463v1)|null|
 |**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061v1](http://arxiv.org/abs/2401.17061v1)|[link](https://github.com/sbrunoberenguel/omniscv)|
@@ -30,5 +32,3 @@
 |**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
 |**2024-01-02**|**NID-SLAM: Neural Implicit Representation-based RGB-D SLAM in dynamic environments**|Ziheng Xu et.al.|[2401.01189v1](http://arxiv.org/abs/2401.01189v1)|null|
-|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|[link](https://github.com/hjmgarmin/ple-slam)|
-|**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri et.al.|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
