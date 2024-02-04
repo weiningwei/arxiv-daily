@@ -9,7 +9,7 @@
 |**2024-02-01**|**Geometric Interpretations of Compatibility for Fundamental Matrices**|Erin Connelly et.al.|[2402.00495v1](http://arxiv.org/abs/2402.00495v1)|null|
 |**2024-02-01**|**Can you see me now? Blind spot estimation for autonomous vehicles using scenario-based simulation with random reference sensors**|Marc Uecker et.al.|[2402.00467v1](http://arxiv.org/abs/2402.00467v1)|[link](https://github.com/pyrestone/numpy_cukd)|
 |**2024-02-01**|**Continuous-time Trajectory Estimation: A Comparative Study Between Gaussian Process and Spline-based Approaches**|Jacob Johnson et.al.|[2402.00399v1](http://arxiv.org/abs/2402.00399v1)|null|
-|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|null|
+|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|[link](https://github.com/imrl/night-rider)|
 |**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250v1](http://arxiv.org/abs/2402.00250v1)|null|
 |**2024-01-31**|**Geometry aware 3D generation from in-the-wild images in ImageNet**|Qijia Shen et.al.|[2402.00225v1](http://arxiv.org/abs/2402.00225v1)|null|
 |**2024-01-31**|**Ptychographic lensless coherent endomicroscopy through a flexible fiber bundle**|Gil Weinberg et.al.|[2402.00148v1](http://arxiv.org/abs/2402.00148v1)|null|
