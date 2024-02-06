@@ -2,6 +2,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
+|**2024-02-03**|**Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**|David Gualda et.al.|[2402.02241v1](http://arxiv.org/abs/2402.02241v1)|null|
+|**2024-02-03**|**NeuV-SLAM: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM**|Wenzhi Guo et.al.|[2402.02020v1](http://arxiv.org/abs/2402.02020v1)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
 |**2024-02-01**|**The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2402.00438v1](http://arxiv.org/abs/2402.00438v1)|null|
 |**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|[link](https://github.com/remaro-network/subpipe-dataset)|
@@ -29,6 +32,3 @@
 |**2024-01-07**|**Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**|Haobo Zhang et.al.|[2401.03453v2](http://arxiv.org/abs/2401.03453v2)|null|
 |**2024-01-07**|**Amplifying robotics capacities with a human touch: An immersive low-latency panoramic remote system**|Junjie Li et.al.|[2401.03398v2](http://arxiv.org/abs/2401.03398v2)|null|
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
-|**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
-|**2024-01-02**|**NID-SLAM: Neural Implicit Representation-based RGB-D SLAM in dynamic environments**|Ziheng Xu et.al.|[2401.01189v1](http://arxiv.org/abs/2401.01189v1)|null|

@@ -2,14 +2,16 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|
+|**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200v1](http://arxiv.org/abs/2402.02200v1)|null|
 |**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404v1](http://arxiv.org/abs/2401.17404v1)|null|
 |**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399v1](http://arxiv.org/abs/2401.17399v1)|null|
-|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v2](http://arxiv.org/abs/2401.15313v2)|null|
+|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v3](http://arxiv.org/abs/2401.15313v3)|null|
 |**2024-01-25**|**Learning to navigate efficiently and precisely in real environments**|Guillaume Bono et.al.|[2401.14349v1](http://arxiv.org/abs/2401.14349v1)|null|
 |**2024-01-24**|**Characterizing Perspective Error in Voxel-Based Lidar Scan Matching**|Jason Rife et.al.|[2401.13416v1](http://arxiv.org/abs/2401.13416v1)|null|
 |**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
-|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v2](http://arxiv.org/abs/2401.11511v2)|null|
+|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v3](http://arxiv.org/abs/2401.11511v3)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331v1](http://arxiv.org/abs/2401.09331v1)|[link](https://github.com/gowanting/nhevo)|
@@ -30,5 +32,3 @@
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|
 |**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
 |**2023-12-25**|**Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping**|Yanjin Zhu et.al.|[2312.15630v1](http://arxiv.org/abs/2312.15630v1)|null|
-|**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730v1](http://arxiv.org/abs/2312.14730v1)|null|
-|**2023-12-21**|**GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**|TaeYoung Kim et.al.|[2312.14035v1](http://arxiv.org/abs/2312.14035v1)|[link](https://github.com/taeyoung96/gril-calib)|
