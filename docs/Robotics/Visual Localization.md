@@ -20,7 +20,7 @@
 |**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250v1](http://arxiv.org/abs/2402.00250v1)|null|
 |**2024-01-31**|**Geometry aware 3D generation from in-the-wild images in ImageNet**|Qijia Shen et.al.|[2402.00225v2](http://arxiv.org/abs/2402.00225v2)|null|
 |**2024-01-31**|**Ptychographic lensless coherent endomicroscopy through a flexible fiber bundle**|Gil Weinberg et.al.|[2402.00148v1](http://arxiv.org/abs/2402.00148v1)|null|
-|**2024-01-31**|**CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration**|Daniele Cattaneo et.al.|[2402.00129v1](http://arxiv.org/abs/2402.00129v1)|null|
+|**2024-01-31**|**CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration**|Daniele Cattaneo et.al.|[2402.00129v2](http://arxiv.org/abs/2402.00129v2)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|[link](https://github.com/microsoft/scenelandmarklocalization)|
 |**2024-01-31**|**GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres**|Jessica Lin et.al.|[2401.17974v1](http://arxiv.org/abs/2401.17974v1)|null|
 |**2024-01-31**|**Euclid preparation. The Near-IR Background Dipole Experiment with Euclid**|Euclid Collaboration et.al.|[2401.17945v1](http://arxiv.org/abs/2401.17945v1)|null|
