@@ -11,7 +11,7 @@
 |**2024-02-02**|**TartanDrive 2.0: More Modalities and Better Infrastructure to Further Self-Supervised Learning Research in Off-Road Driving Tasks**|Matthew Sivaprakasam et.al.|[2402.01913v1](http://arxiv.org/abs/2402.01913v1)|null|
 |**2024-02-01**|**Novel turbulence and coarsening arrest in active-scalar fluids**|Nadia Bihari Padhan et.al.|[2402.00961v1](http://arxiv.org/abs/2402.00961v1)|null|
 |**2024-02-01**|**Inertial particle focusing in fluid flow through spiral ducts: dynamics, tipping phenomena and particle separation**|Rahil N. Valani et.al.|[2402.00245v1](http://arxiv.org/abs/2402.00245v1)|null|
-|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|[link](https://github.com/remaro-network/subpipe-dataset)|
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v2](http://arxiv.org/abs/2401.17907v2)|[link](https://github.com/remaro-network/subpipe-dataset)|
 |**2024-01-31**|**Self-Aligning Active Agents with Inertia and Active Torque**|Jeremy Fersula et.al.|[2401.17798v1](http://arxiv.org/abs/2401.17798v1)|null|
 |**2024-01-31**|**Force Push: Robust Single-Point Pushing with Force Feedback**|Adam Heins et.al.|[2401.17517v1](http://arxiv.org/abs/2401.17517v1)|[link](https://github.com/utiasDSL/force_push)|
 |**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404v1](http://arxiv.org/abs/2401.17404v1)|null|
