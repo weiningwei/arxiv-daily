@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
 |**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v1](http://arxiv.org/abs/2402.03762v1)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
@@ -31,4 +32,3 @@
 |**2024-01-15**|**Robustness Evaluation of Localization Techniques for Autonomous Racing**|Tian Yi Lim et.al.|[2401.07658v1](http://arxiv.org/abs/2401.07658v1)|null|
 |**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
 |**2024-01-10**|**Multi S-Graphs: an Efficient Real-time Distributed Semantic-Relational Collaborative SLAM**|Miguel Fernandez-Cortizas et.al.|[2401.05152v1](http://arxiv.org/abs/2401.05152v1)|[link](https://github.com/snt-arg/multi_s_graphs_docker)|
-|**2024-01-09**|**SOS-SLAM: Segmentation for Open-Set SLAM in Unstructured Environments**|Jouko Kinnari et.al.|[2401.04791v1](http://arxiv.org/abs/2401.04791v1)|null|

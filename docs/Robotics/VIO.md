@@ -2,13 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
+|**2024-02-06**|**Spontaneous Micro Flocking of Active Inertial Particles without Alignment Interaction**|Subhajit Paul et.al.|[2402.04397v1](http://arxiv.org/abs/2402.04397v1)|null|
+|**2024-02-06**|**Cosmological Observatories**|Dionysios Anninos et.al.|[2402.04305v1](http://arxiv.org/abs/2402.04305v1)|null|
 |**2024-02-06**|**Novel IMU-based Adaptive Estimator of the Center of Rotation of Joints for Movement Analysis**|Sara García-de-Villa et.al.|[2402.04240v1](http://arxiv.org/abs/2402.04240v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
 |**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947v1](http://arxiv.org/abs/2402.03947v1)|null|
 |**2024-02-06**|**Amoeboid movement utilizes the shape coupled bifurcation of an active droplet to boost ballistic motion**|H. Ebata et.al.|[2402.03759v1](http://arxiv.org/abs/2402.03759v1)|null|
 |**2024-02-06**|**Sensitivity and Bandwidth of a Point-Source-Interferometry-based Inertial Measurement Unit Employing Large Momentum Transfer and Launched Atoms**|Jinyang Li et.al.|[2402.03608v1](http://arxiv.org/abs/2402.03608v1)|null|
 |**2024-02-05**|**Extreme statistics and extreme events in dynamical models of turbulence**|Xander M. de Wit et.al.|[2402.02994v1](http://arxiv.org/abs/2402.02994v1)|null|
-|**2024-02-05**|**DS-MS-TCN: Otago Exercises Recognition with a Dual-Scale Multi-Stage Temporal Convolutional Network**|Meng Shang et.al.|[2402.02910v1](http://arxiv.org/abs/2402.02910v1)|null|
+|**2024-02-05**|**DS-MS-TCN: Otago Exercises Recognition with a Dual-Scale Multi-Stage Temporal Convolutional Network**|Meng Shang et.al.|[2402.02910v2](http://arxiv.org/abs/2402.02910v2)|null|
 |**2024-02-04**|**On payload architecture and pointing control strategies for TianQin**|Yuzhou Fang et.al.|[2402.02383v1](http://arxiv.org/abs/2402.02383v1)|null|
 |**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|
 |**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200v1](http://arxiv.org/abs/2402.02200v1)|null|
@@ -29,6 +32,3 @@
 |**2024-01-28**|**Data-Driven Strategies for Coping with Incomplete DVL Measurements**|Nadav Cohen et.al.|[2401.15620v1](http://arxiv.org/abs/2401.15620v1)|null|
 |**2024-01-27**|**Fusion It is time to color outside the lines**|Wallace Manheimer et.al.|[2401.16442v1](http://arxiv.org/abs/2401.16442v1)|null|
 |**2024-01-27**|**A robust regularized extreme learning machine for regression problems based on self-adaptive accelerated extra-gradient algorithm**|Muideen Adegoke et.al.|[2401.15425v1](http://arxiv.org/abs/2401.15425v1)|null|
-|**2024-01-27**|**Multi-Robot Relative Pose Estimation in SE(2) with Observability Analysis: A Comparison of Extended Kalman Filtering and Robust Pose Graph Optimization**|Kihoon Shin et.al.|[2401.15313v3](http://arxiv.org/abs/2401.15313v3)|null|
-|**2024-01-26**|**On inertial iterated Tikhonov methods for solving ill-posed problems**|Joel C. Rabelo et.al.|[2401.15213v1](http://arxiv.org/abs/2401.15213v1)|null|
-|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|

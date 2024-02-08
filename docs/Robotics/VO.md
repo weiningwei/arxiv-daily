@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
 |**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947v1](http://arxiv.org/abs/2402.03947v1)|null|
 |**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|
@@ -31,4 +32,3 @@
 |**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
 |**2023-12-29**|**Developing Flying Explorer for Autonomous Digital Modelling in Wild Unknowns**|Naizhong Zhang. Yaoqiang Pan et.al.|[2312.17634v1](http://arxiv.org/abs/2312.17634v1)|null|
 |**2023-12-29**|**LiDAR Odometry Survey: Recent Advancements and Remaining Challenges**|Dongjae Lee et.al.|[2312.17487v1](http://arxiv.org/abs/2312.17487v1)|null|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|[link](https://github.com/ZikangYuan/sr_livo)|

@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883v1](http://arxiv.org/abs/2402.04883v1)|null|
+|**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|null|
+|**2024-02-07**|**Euclid: Identifying the reddest high-redshift galaxies in the Euclid Deep Fields with gradient-boosted trees**|Euclid Collaboration et.al.|[2402.04800v1](http://arxiv.org/abs/2402.04800v1)|null|
+|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798v1](http://arxiv.org/abs/2402.04798v1)|null|
+|**2024-02-07**|**Offline Deep Model Predictive Control (MPC) for Visual Navigation**|Taha Bouzid et.al.|[2402.04797v1](http://arxiv.org/abs/2402.04797v1)|null|
+|**2024-02-07**|**AINS: Affordable Indoor Navigation Solution via Line Color Identification Using Mono-Camera for Autonomous Vehicles**|Nizamuddin Maitlo et.al.|[2402.04750v1](http://arxiv.org/abs/2402.04750v1)|null|
+|**2024-02-07**|**The Influence of Autofocus Lenses in the Camera Calibration Process**|Carlos Ricolfe-Viala et.al.|[2402.04686v1](http://arxiv.org/abs/2402.04686v1)|null|
+|**2024-02-07**|**Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal-Viewpoint Alignment**|Lei Wang et.al.|[2402.04599v1](http://arxiv.org/abs/2402.04599v1)|null|
+|**2024-02-07**|**BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**|Xin Zhao et.al.|[2402.04519v1](http://arxiv.org/abs/2402.04519v1)|null|
+|**2024-02-06**|**ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**|Weiming Ren et.al.|[2402.04324v1](http://arxiv.org/abs/2402.04324v1)|null|
 |**2024-02-06**|**Mission Planning and Safety Assessment for Pipeline Inspection Using Autonomous Underwater Vehicles: A Framework based on Behavior Trees**|Martin Aubard et.al.|[2402.04045v1](http://arxiv.org/abs/2402.04045v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
 |**2024-02-06**|**EscherNet: A Generative Model for Scalable View Synthesis**|Xin Kong et.al.|[2402.03908v1](http://arxiv.org/abs/2402.03908v1)|null|
@@ -22,13 +32,3 @@
 |**2024-02-04**|**STAGE: Scalable and Traversability-Aware Graph based Exploration Planner for Dynamically Varying Environments**|Akash Patel et.al.|[2402.02566v1](http://arxiv.org/abs/2402.02566v1)|null|
 |**2024-02-04**|**Identifying and Extracting Pedestrian Behavior in Critical Traffic Situations**|Martin Schachner et.al.|[2402.02533v1](http://arxiv.org/abs/2402.02533v1)|null|
 |**2024-02-04**|**PixelGen: Rethinking Embedded Camera Systems**|Kunjun Li et.al.|[2402.03390v1](http://arxiv.org/abs/2402.03390v1)|null|
-|**2024-02-04**|**Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning**|Haoyi Zhu et.al.|[2402.02500v1](http://arxiv.org/abs/2402.02500v1)|null|
-|**2024-02-04**|**A fast and gridless ORKA algorithm for tracking moving and deforming objects**|Florian Bossmann et.al.|[2402.02395v1](http://arxiv.org/abs/2402.02395v1)|null|
-|**2024-02-04**|**Language-guided Active Sensing of Confined, Cluttered Environments via Object Rearrangement Planning**|Weihan Chen et.al.|[2402.02308v1](http://arxiv.org/abs/2402.02308v1)|null|
-|**2024-02-03**|**MSPM: A Multi-Site Physiological Monitoring Dataset for Remote Pulse, Respiration, and Blood Pressure Estimation**|Jeremy Speth et.al.|[2402.02224v1](http://arxiv.org/abs/2402.02224v1)|null|
-|**2024-02-03**|**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**|Yurui Chen et.al.|[2402.02112v1](http://arxiv.org/abs/2402.02112v1)|null|
-|**2024-02-03**|**New dimensionless pseudo-spin pointer based on weak measurement: a cost-effective scheme for precision measurement**|Ling Ye et.al.|[2402.02100v1](http://arxiv.org/abs/2402.02100v1)|null|
-|**2024-02-03**|**Multiple-Crop Human Mesh Recovery with Contrastive Learning and Camera Consistency in A Single Image**|Yongwei Nie et.al.|[2402.02074v1](http://arxiv.org/abs/2402.02074v1)|null|
-|**2024-02-03**|**RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**|Han Li et.al.|[2402.02067v1](http://arxiv.org/abs/2402.02067v1)|[link](https://github.com/mmocking/riders)|
-|**2024-02-03**|**NeuV-SLAM: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM**|Wenzhi Guo et.al.|[2402.02020v1](http://arxiv.org/abs/2402.02020v1)|null|
-|**2024-02-02**|**TartanDrive 2.0: More Modalities and Better Infrastructure to Further Self-Supervised Learning Research in Off-Road Driving Tasks**|Matthew Sivaprakasam et.al.|[2402.01913v1](http://arxiv.org/abs/2402.01913v1)|null|
