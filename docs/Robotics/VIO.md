@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-08**|**Underwater MEMS Gyrocompassing: A Virtual Testing Ground**|Daniel Engelsman et.al.|[2402.05790v1](http://arxiv.org/abs/2402.05790v1)|null|
+|**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540v1](http://arxiv.org/abs/2402.05540v1)|null|
+|**2024-02-08**|**Inertial active harmonic particle with memory escape induced by viscoelastic suspension**|F Adersh et.al.|[2402.05538v1](http://arxiv.org/abs/2402.05538v1)|null|
+|**2024-02-08**|**Absence of breakdown of ferrodark solitons exhibiting snake instability**|Xiaoquan Yu et.al.|[2402.05351v1](http://arxiv.org/abs/2402.05351v1)|null|
+|**2024-02-07**|**Assessment of models for nonlinear oscillatory flow through a hexagonal sphere pack**|Lukas Unglehrt et.al.|[2402.05320v1](http://arxiv.org/abs/2402.05320v1)|null|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254v1](http://arxiv.org/abs/2402.05254v1)|null|
+|**2024-02-07**|**Anisotropy of Density Fluctuations in the Solar Wind at 1 au**|Jiaming Wang et.al.|[2402.05191v1](http://arxiv.org/abs/2402.05191v1)|null|
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-06**|**Spontaneous Micro Flocking of Active Inertial Particles without Alignment Interaction**|Subhajit Paul et.al.|[2402.04397v1](http://arxiv.org/abs/2402.04397v1)|null|
 |**2024-02-06**|**Cosmological Observatories**|Dionysios Anninos et.al.|[2402.04305v1](http://arxiv.org/abs/2402.04305v1)|null|
@@ -25,10 +32,3 @@
 |**2024-01-31**|**Force Push: Robust Single-Point Pushing with Force Feedback**|Adam Heins et.al.|[2401.17517v1](http://arxiv.org/abs/2401.17517v1)|[link](https://github.com/utiasDSL/force_push)|
 |**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404v1](http://arxiv.org/abs/2401.17404v1)|null|
 |**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399v1](http://arxiv.org/abs/2401.17399v1)|null|
-|**2024-01-30**|**Volumetric Lattice Boltzmann Models in General Curvilinear Coordinates: Theoretical Formulation**|Hudong Chen et.al.|[2401.17183v1](http://arxiv.org/abs/2401.17183v1)|null|
-|**2024-01-30**|**The nonlinear dynamic behavior of a Rubber-Layer Roller Bearing (RLRB) for vibration isolation**|N. Menga et.al.|[2401.16880v1](http://arxiv.org/abs/2401.16880v1)|null|
-|**2024-01-30**|**Krasnoselskii-Mann Iterations: Inertia, Perturbations and Approximation**|Daniel Cortild et.al.|[2401.16870v1](http://arxiv.org/abs/2401.16870v1)|null|
-|**2024-01-28**|**Quantum inertia of non-local matterspace with kinetic and metric counter-stresses**|I. E. Bulyzhenkov et.al.|[2401.17321v1](http://arxiv.org/abs/2401.17321v1)|null|
-|**2024-01-28**|**Data-Driven Strategies for Coping with Incomplete DVL Measurements**|Nadav Cohen et.al.|[2401.15620v1](http://arxiv.org/abs/2401.15620v1)|null|
-|**2024-01-27**|**Fusion It is time to color outside the lines**|Wallace Manheimer et.al.|[2401.16442v1](http://arxiv.org/abs/2401.16442v1)|null|
-|**2024-01-27**|**A robust regularized extreme learning machine for regression problems based on self-adaptive accelerated extra-gradient algorithm**|Muideen Adegoke et.al.|[2401.15425v1](http://arxiv.org/abs/2401.15425v1)|null|

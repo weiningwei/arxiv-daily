@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746v1](http://arxiv.org/abs/2402.05746v1)|null|
+|**2024-02-08**|**Real-time Holistic Robot Pose Estimation with Unknown States**|Shikun Ban et.al.|[2402.05655v1](http://arxiv.org/abs/2402.05655v1)|null|
+|**2024-02-08**|**Linking Vision and Multi-Agent Communication through Visible Light Communication using Event Cameras**|Haruyuki Nakagawa et.al.|[2402.05619v1](http://arxiv.org/abs/2402.05619v1)|null|
+|**2024-02-08**|**GPTs Are Multilingual Annotators for Sequence Generation Tasks**|Juhwan Choi et.al.|[2402.05512v1](http://arxiv.org/abs/2402.05512v1)|[link](https://github.com/c-juhwan/gpt-multilingual-annotator)|
+|**2024-02-08**|**Scrapping The Web For Early Wildfire Detection**|Mateo Lostanlen et.al.|[2402.05349v1](http://arxiv.org/abs/2402.05349v1)|null|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254v1](http://arxiv.org/abs/2402.05254v1)|null|
+|**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235v1](http://arxiv.org/abs/2402.05235v1)|null|
 |**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883v1](http://arxiv.org/abs/2402.04883v1)|null|
 |**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|null|
 |**2024-02-07**|**Euclid: Identifying the reddest high-redshift galaxies in the Euclid Deep Fields with gradient-boosted trees**|Euclid Collaboration et.al.|[2402.04800v1](http://arxiv.org/abs/2402.04800v1)|null|
@@ -25,10 +32,3 @@
 |**2024-02-05**|**GPU-Accelerated 3D Polygon Visibility Volumes for Synergistic Perception and Navigation**|Andrew Willis et.al.|[2402.03135v1](http://arxiv.org/abs/2402.03135v1)|null|
 |**2024-02-05**|**DARTS: Diffusion Approximated Residual Time Sampling for Low Variance Time-of-flight Rendering in Homogeneous Scattering Medium**|Qianyue He et.al.|[2402.03106v1](http://arxiv.org/abs/2402.03106v1)|null|
 |**2024-02-05**|**Large-scale characterization of Cu2O monocrystals via Rydberg excitons**|Kerwan Morin et.al.|[2402.02948v1](http://arxiv.org/abs/2402.02948v1)|null|
-|**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800v1](http://arxiv.org/abs/2402.02800v1)|[link](https://github.com/scy639/extreme-two-view-geometry-from-object-poses-with-diffusion-models)|
-|**2024-02-05**|**Fast single pixel modal wavefront sensing using neural networks**|Antony Orth et.al.|[2402.02752v1](http://arxiv.org/abs/2402.02752v1)|null|
-|**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738v1](http://arxiv.org/abs/2402.02738v1)|null|
-|**2024-02-05**|**Using Motion Cues to Supervise Single-Frame Body Pose and Shape Estimation in Low Data Regimes**|Andrey Davydov et.al.|[2402.02736v1](http://arxiv.org/abs/2402.02736v1)|null|
-|**2024-02-04**|**STAGE: Scalable and Traversability-Aware Graph based Exploration Planner for Dynamically Varying Environments**|Akash Patel et.al.|[2402.02566v1](http://arxiv.org/abs/2402.02566v1)|null|
-|**2024-02-04**|**Identifying and Extracting Pedestrian Behavior in Critical Traffic Situations**|Martin Schachner et.al.|[2402.02533v1](http://arxiv.org/abs/2402.02533v1)|null|
-|**2024-02-04**|**PixelGen: Rethinking Embedded Camera Systems**|Kunjun Li et.al.|[2402.03390v1](http://arxiv.org/abs/2402.03390v1)|null|
