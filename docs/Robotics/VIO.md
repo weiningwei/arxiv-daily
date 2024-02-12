@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09**|**The minimal flow unit and origin of two-dimensional elasto-inertial turbulence**|Zhang Hongna et.al.|[2402.06189v1](http://arxiv.org/abs/2402.06189v1)|null|
+|**2024-02-09**|**Continuous-Time Radar-Inertial and Lidar-Inertial Odometry using a Gaussian Process Motion Prior**|Keenan Burnett et.al.|[2402.06174v1](http://arxiv.org/abs/2402.06174v1)|null|
 |**2024-02-08**|**Underwater MEMS Gyrocompassing: A Virtual Testing Ground**|Daniel Engelsman et.al.|[2402.05790v2](http://arxiv.org/abs/2402.05790v2)|null|
 |**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540v1](http://arxiv.org/abs/2402.05540v1)|null|
 |**2024-02-08**|**Inertial active harmonic particle with memory escape induced by viscoelastic suspension**|F Adersh et.al.|[2402.05538v1](http://arxiv.org/abs/2402.05538v1)|null|
@@ -19,6 +21,7 @@
 |**2024-02-06**|**Sensitivity and Bandwidth of a Point-Source-Interferometry-based Inertial Measurement Unit Employing Large Momentum Transfer and Launched Atoms**|Jinyang Li et.al.|[2402.03608v1](http://arxiv.org/abs/2402.03608v1)|null|
 |**2024-02-05**|**Extreme statistics and extreme events in dynamical models of turbulence**|Xander M. de Wit et.al.|[2402.02994v1](http://arxiv.org/abs/2402.02994v1)|null|
 |**2024-02-05**|**DS-MS-TCN: Otago Exercises Recognition with a Dual-Scale Multi-Stage Temporal Convolutional Network**|Meng Shang et.al.|[2402.02910v2](http://arxiv.org/abs/2402.02910v2)|null|
+|**2024-02-04**|**A comparative study on wearables and single-camera video for upper-limb out-of-thelab activity recognition with different deep learning architectures**|Mario Martínez-Zarzuela et.al.|[2402.05958v1](http://arxiv.org/abs/2402.05958v1)|null|
 |**2024-02-04**|**On payload architecture and pointing control strategies for TianQin**|Yuzhou Fang et.al.|[2402.02383v1](http://arxiv.org/abs/2402.02383v1)|null|
 |**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|
 |**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200v1](http://arxiv.org/abs/2402.02200v1)|null|
@@ -29,6 +32,3 @@
 |**2024-02-01**|**Inertial particle focusing in fluid flow through spiral ducts: dynamics, tipping phenomena and particle separation**|Rahil N. Valani et.al.|[2402.00245v1](http://arxiv.org/abs/2402.00245v1)|null|
 |**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v2](http://arxiv.org/abs/2401.17907v2)|[link](https://github.com/remaro-network/subpipe-dataset)|
 |**2024-01-31**|**Self-Aligning Active Agents with Inertia and Active Torque**|Jeremy Fersula et.al.|[2401.17798v1](http://arxiv.org/abs/2401.17798v1)|null|
-|**2024-01-31**|**Force Push: Robust Single-Point Pushing with Force Feedback**|Adam Heins et.al.|[2401.17517v1](http://arxiv.org/abs/2401.17517v1)|[link](https://github.com/utiasDSL/force_push)|
-|**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404v1](http://arxiv.org/abs/2401.17404v1)|null|
-|**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399v1](http://arxiv.org/abs/2401.17399v1)|null|

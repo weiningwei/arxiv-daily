@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09**|**CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**|Yifeng Bai et.al.|[2402.06423v1](http://arxiv.org/abs/2402.06423v1)|null|
+|**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390v1](http://arxiv.org/abs/2402.06390v1)|[link](https://github.com/quereste/implicit-deepfake)|
+|**2024-02-09**|**A Network for structural dense displacement based on 3D deformable mesh model and optical flow**|Peimian Du et.al.|[2402.06329v1](http://arxiv.org/abs/2402.06329v1)|null|
+|**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131v1](http://arxiv.org/abs/2402.06131v1)|null|
+|**2024-02-08**|**CLIP-Loc: Multi-modal Landmark Association for Global Localization in Object-based Maps**|Shigemichi Matsuzaki et.al.|[2402.06092v1](http://arxiv.org/abs/2402.06092v1)|null|
+|**2024-02-08**|**High-quality Extragalactic Legacy-field Monitoring (HELM) with DECam**|Ming-Yang Zhuang et.al.|[2402.06052v1](http://arxiv.org/abs/2402.06052v1)|null|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746v1](http://arxiv.org/abs/2402.05746v1)|[link](https://github.com/yifanlu0227/chatsim)|
 |**2024-02-08**|**Real-time Holistic Robot Pose Estimation with Unknown States**|Shikun Ban et.al.|[2402.05655v1](http://arxiv.org/abs/2402.05655v1)|[link](https://github.com/Oliverbansk/Hollistic-Robot-Pose-Estimation)|
 |**2024-02-08**|**Linking Vision and Multi-Agent Communication through Visible Light Communication using Event Cameras**|Haruyuki Nakagawa et.al.|[2402.05619v1](http://arxiv.org/abs/2402.05619v1)|null|
@@ -26,9 +32,3 @@
 |**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v2](http://arxiv.org/abs/2402.03762v2)|null|
 |**2024-02-06**|**BEAM: Beta Distribution Ray Denoising for Multi-view 3D Object Detection**|Feng Liu et.al.|[2402.03634v1](http://arxiv.org/abs/2402.03634v1)|null|
 |**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445v1](http://arxiv.org/abs/2402.03445v1)|null|
-|**2024-02-05**|**Euclid preparation. Optical emission-line predictions of intermediate-z galaxy populations in GAEA for the Euclid Deep and Wide Surveys**|Euclid Collaboration et.al.|[2402.03436v1](http://arxiv.org/abs/2402.03436v1)|null|
-|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
-|**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162v1](http://arxiv.org/abs/2402.03162v1)|null|
-|**2024-02-05**|**GPU-Accelerated 3D Polygon Visibility Volumes for Synergistic Perception and Navigation**|Andrew Willis et.al.|[2402.03135v1](http://arxiv.org/abs/2402.03135v1)|null|
-|**2024-02-05**|**DARTS: Diffusion Approximated Residual Time Sampling for Low Variance Time-of-flight Rendering in Homogeneous Scattering Medium**|Qianyue He et.al.|[2402.03106v1](http://arxiv.org/abs/2402.03106v1)|null|
-|**2024-02-05**|**Large-scale characterization of Cu2O monocrystals via Rydberg excitons**|Kerwan Morin et.al.|[2402.02948v1](http://arxiv.org/abs/2402.02948v1)|null|
