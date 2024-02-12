@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-08**|**Underwater MEMS Gyrocompassing: A Virtual Testing Ground**|Daniel Engelsman et.al.|[2402.05790v1](http://arxiv.org/abs/2402.05790v1)|null|
+|**2024-02-08**|**Underwater MEMS Gyrocompassing: A Virtual Testing Ground**|Daniel Engelsman et.al.|[2402.05790v2](http://arxiv.org/abs/2402.05790v2)|null|
 |**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540v1](http://arxiv.org/abs/2402.05540v1)|null|
 |**2024-02-08**|**Inertial active harmonic particle with memory escape induced by viscoelastic suspension**|F Adersh et.al.|[2402.05538v1](http://arxiv.org/abs/2402.05538v1)|null|
 |**2024-02-08**|**Absence of breakdown of ferrodark solitons exhibiting snake instability**|Xiaoquan Yu et.al.|[2402.05351v1](http://arxiv.org/abs/2402.05351v1)|null|

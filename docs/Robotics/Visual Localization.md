@@ -12,7 +12,7 @@
 |**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883v1](http://arxiv.org/abs/2402.04883v1)|null|
 |**2024-02-07**|**Advancing Anomaly Detection: An Adaptation Model and a New Dataset**|Liyun Zhu et.al.|[2402.04857v1](http://arxiv.org/abs/2402.04857v1)|null|
 |**2024-02-07**|**Euclid: Identifying the reddest high-redshift galaxies in the Euclid Deep Fields with gradient-boosted trees**|Euclid Collaboration et.al.|[2402.04800v1](http://arxiv.org/abs/2402.04800v1)|null|
-|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798v1](http://arxiv.org/abs/2402.04798v1)|null|
+|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798v2](http://arxiv.org/abs/2402.04798v2)|null|
 |**2024-02-07**|**Offline Deep Model Predictive Control (MPC) for Visual Navigation**|Taha Bouzid et.al.|[2402.04797v1](http://arxiv.org/abs/2402.04797v1)|null|
 |**2024-02-07**|**AINS: Affordable Indoor Navigation Solution via Line Color Identification Using Mono-Camera for Autonomous Vehicles**|Nizamuddin Maitlo et.al.|[2402.04750v1](http://arxiv.org/abs/2402.04750v1)|null|
 |**2024-02-07**|**The Influence of Autofocus Lenses in the Camera Calibration Process**|Carlos Ricolfe-Viala et.al.|[2402.04686v1](http://arxiv.org/abs/2402.04686v1)|null|
@@ -23,7 +23,7 @@
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|[link](https://github.com/unibwtas/yolopoint)|
 |**2024-02-06**|**EscherNet: A Generative Model for Scalable View Synthesis**|Xin Kong et.al.|[2402.03908v1](http://arxiv.org/abs/2402.03908v1)|null|
 |**2024-02-06**|**Using Perspective-n-Point Algorithms for a Local Positioning System Based on LEDs and a QADA Receiver**|Elena Aparicio-Esteve et.al.|[2402.03811v1](http://arxiv.org/abs/2402.03811v1)|null|
-|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v1](http://arxiv.org/abs/2402.03762v1)|null|
+|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v2](http://arxiv.org/abs/2402.03762v2)|null|
 |**2024-02-06**|**BEAM: Beta Distribution Ray Denoising for Multi-view 3D Object Detection**|Feng Liu et.al.|[2402.03634v1](http://arxiv.org/abs/2402.03634v1)|null|
 |**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445v1](http://arxiv.org/abs/2402.03445v1)|null|
 |**2024-02-05**|**Euclid preparation. Optical emission-line predictions of intermediate-z galaxy populations in GAEA for the Euclid Deep and Wide Surveys**|Euclid Collaboration et.al.|[2402.03436v1](http://arxiv.org/abs/2402.03436v1)|null|
