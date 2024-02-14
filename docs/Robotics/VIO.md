@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-13**|**A Physics-Informed Deep Learning Description of Knudsen Layer Reactivity Reduction**|Christopher J. McDevitt et.al.|[2402.08495v1](http://arxiv.org/abs/2402.08495v1)|null|
+|**2024-02-13**|**Deep Learning-based Real-time Smartphone Pose Detection for Ultra-wideband Tagless Gate**|Junyoung Choi et.al.|[2402.08399v1](http://arxiv.org/abs/2402.08399v1)|null|
 |**2024-02-12**|**Transient growth of a wake vortex and its initiation via inertial particles**|Sangjoon Lee et.al.|[2402.07469v1](http://arxiv.org/abs/2402.07469v1)|null|
 |**2024-02-10**|**CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)**|Anuj Pokhrel et.al.|[2402.07065v1](http://arxiv.org/abs/2402.07065v1)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854v1](http://arxiv.org/abs/2402.06854v1)|[link](https://github.com/lsmlovefm/GAMD-Net)|
@@ -16,7 +18,7 @@
 |**2024-02-07**|**Anisotropy of Density Fluctuations in the Solar Wind at 1 au**|Jiaming Wang et.al.|[2402.05191v1](http://arxiv.org/abs/2402.05191v1)|null|
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-06**|**Spontaneous Micro Flocking of Active Inertial Particles without Alignment Interaction**|Subhajit Paul et.al.|[2402.04397v1](http://arxiv.org/abs/2402.04397v1)|null|
-|**2024-02-06**|**Cosmological Observatories**|Dionysios Anninos et.al.|[2402.04305v1](http://arxiv.org/abs/2402.04305v1)|null|
+|**2024-02-06**|**Cosmological Observatories**|Dionysios Anninos et.al.|[2402.04305v2](http://arxiv.org/abs/2402.04305v2)|null|
 |**2024-02-06**|**Novel IMU-based Adaptive Estimator of the Center of Rotation of Joints for Movement Analysis**|Sara García-de-Villa et.al.|[2402.04240v1](http://arxiv.org/abs/2402.04240v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|[link](https://github.com/unibwtas/yolopoint)|
 |**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947v1](http://arxiv.org/abs/2402.03947v1)|null|
@@ -30,5 +32,3 @@
 |**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200v1](http://arxiv.org/abs/2402.02200v1)|null|
 |**2024-02-03**|**IMUSIC: IMU-based Facial Expression Capture**|Youjia Wang et.al.|[2402.03944v1](http://arxiv.org/abs/2402.03944v1)|null|
 |**2024-02-03**|**A self-induced mechanism of large-scale helical structures in compressible turbulent flows**|Zheng Yan et.al.|[2402.01996v1](http://arxiv.org/abs/2402.01996v1)|null|
-|**2024-02-02**|**TartanDrive 2.0: More Modalities and Better Infrastructure to Further Self-Supervised Learning Research in Off-Road Driving Tasks**|Matthew Sivaprakasam et.al.|[2402.01913v1](http://arxiv.org/abs/2402.01913v1)|null|
-|**2024-02-01**|**Novel turbulence and coarsening arrest in active-scalar fluids**|Nadia Bihari Padhan et.al.|[2402.00961v1](http://arxiv.org/abs/2402.00961v1)|null|
