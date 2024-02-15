@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-14**|**A Note on the Origin of Inertia**|A. Schlatter et.al.|[2402.09365v1](http://arxiv.org/abs/2402.09365v1)|null|
+|**2024-02-14**|**DivaTrack: Diverse Bodies and Motions from Acceleration-Enhanced Three-Point Trackers**|Dongseok Yang et.al.|[2402.09211v1](http://arxiv.org/abs/2402.09211v1)|null|
+|**2024-02-14**|**Traj-LIO: A Resilient Multi-LiDAR Multi-IMU State Estimator Through Sparse Gaussian Process**|Xin Zheng et.al.|[2402.09189v1](http://arxiv.org/abs/2402.09189v1)|null|
 |**2024-02-13**|**A Physics-Informed Deep Learning Description of Knudsen Layer Reactivity Reduction**|Christopher J. McDevitt et.al.|[2402.08495v1](http://arxiv.org/abs/2402.08495v1)|null|
 |**2024-02-13**|**Deep Learning-based Real-time Smartphone Pose Detection for Ultra-wideband Tagless Gate**|Junyoung Choi et.al.|[2402.08399v1](http://arxiv.org/abs/2402.08399v1)|null|
 |**2024-02-12**|**Transient growth of a wake vortex and its initiation via inertial particles**|Sangjoon Lee et.al.|[2402.07469v1](http://arxiv.org/abs/2402.07469v1)|null|
@@ -29,6 +32,3 @@
 |**2024-02-04**|**A comparative study on wearables and single-camera video for upper-limb out-of-thelab activity recognition with different deep learning architectures**|Mario Martínez-Zarzuela et.al.|[2402.05958v1](http://arxiv.org/abs/2402.05958v1)|null|
 |**2024-02-04**|**On payload architecture and pointing control strategies for TianQin**|Yuzhou Fang et.al.|[2402.02383v1](http://arxiv.org/abs/2402.02383v1)|null|
 |**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|
-|**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200v1](http://arxiv.org/abs/2402.02200v1)|null|
-|**2024-02-03**|**IMUSIC: IMU-based Facial Expression Capture**|Youjia Wang et.al.|[2402.03944v1](http://arxiv.org/abs/2402.03944v1)|null|
-|**2024-02-03**|**A self-induced mechanism of large-scale helical structures in compressible turbulent flows**|Zheng Yan et.al.|[2402.01996v1](http://arxiv.org/abs/2402.01996v1)|null|
