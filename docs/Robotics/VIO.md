@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-16**|**Asymptotic analysis of mixing in stratified turbulent flows, and the conditions for an inertial sub-range**|Andrew D. Bragg et.al.|[2402.10704v1](http://arxiv.org/abs/2402.10704v1)|null|
+|**2024-02-16**|**Entanglement Degradation in Causal Diamonds**|H. E. Camblong et.al.|[2402.10417v1](http://arxiv.org/abs/2402.10417v1)|null|
+|**2024-02-15**|**Athermal granular creep in a quenched sandpile**|Nakul S. Deshpande et.al.|[2402.10338v1](http://arxiv.org/abs/2402.10338v1)|null|
 |**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
 |**2024-02-15**|**Collision efficiency of droplets across diffusive, electrostatic and inertial regimes**|Florian Poydenot et.al.|[2402.10117v1](http://arxiv.org/abs/2402.10117v1)|null|
 |**2024-02-15**|**Neural 5G Indoor Localization with IMU Supervision**|Aleksandr Ermolov et.al.|[2402.09948v1](http://arxiv.org/abs/2402.09948v1)|null|
@@ -11,6 +14,7 @@
 |**2024-02-14**|**Traj-LIO: A Resilient Multi-LiDAR Multi-IMU State Estimator Through Sparse Gaussian Process**|Xin Zheng et.al.|[2402.09189v1](http://arxiv.org/abs/2402.09189v1)|null|
 |**2024-02-13**|**A Physics-Informed Deep Learning Description of Knudsen Layer Reactivity Reduction**|Christopher J. McDevitt et.al.|[2402.08495v1](http://arxiv.org/abs/2402.08495v1)|null|
 |**2024-02-13**|**Deep Learning-based Real-time Smartphone Pose Detection for Ultra-wideband Tagless Gate**|Junyoung Choi et.al.|[2402.08399v1](http://arxiv.org/abs/2402.08399v1)|null|
+|**2024-02-13**|**Plasma-wall interaction in laser inertial fusion reactors: novel proposals for radiation tests of first wall materials**|J. Alvarez Ruiz et.al.|[2402.10235v1](http://arxiv.org/abs/2402.10235v1)|null|
 |**2024-02-12**|**Transient growth of a wake vortex and its initiation via inertial particles**|Sangjoon Lee et.al.|[2402.07469v1](http://arxiv.org/abs/2402.07469v1)|null|
 |**2024-02-11**|**Silica final lens performance in laser fusion facilities: HiPER and LIFE**|David Garoz et.al.|[2402.09468v1](http://arxiv.org/abs/2402.09468v1)|null|
 |**2024-02-10**|**CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)**|Anuj Pokhrel et.al.|[2402.07065v1](http://arxiv.org/abs/2402.07065v1)|null|
@@ -28,7 +32,3 @@
 |**2024-02-06**|**Spontaneous Micro Flocking of Active Inertial Particles without Alignment Interaction**|Subhajit Paul et.al.|[2402.04397v1](http://arxiv.org/abs/2402.04397v1)|null|
 |**2024-02-06**|**Cosmological Observatories**|Dionysios Anninos et.al.|[2402.04305v2](http://arxiv.org/abs/2402.04305v2)|null|
 |**2024-02-06**|**Novel IMU-based Adaptive Estimator of the Center of Rotation of Joints for Movement Analysis**|Sara García-de-Villa et.al.|[2402.04240v1](http://arxiv.org/abs/2402.04240v1)|null|
-|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|[link](https://github.com/unibwtas/yolopoint)|
-|**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947v1](http://arxiv.org/abs/2402.03947v1)|null|
-|**2024-02-06**|**Amoeboid movement utilizes the shape coupled bifurcation of an active droplet to boost ballistic motion**|H. Ebata et.al.|[2402.03759v1](http://arxiv.org/abs/2402.03759v1)|null|
-|**2024-02-06**|**Sensitivity and Bandwidth of a Point-Source-Interferometry-based Inertial Measurement Unit Employing Large Momentum Transfer and Launched Atoms**|Jinyang Li et.al.|[2402.03608v1](http://arxiv.org/abs/2402.03608v1)|null|
