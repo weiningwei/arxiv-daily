@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790v1](http://arxiv.org/abs/2402.11790v1)|null|
 |**2024-02-09**|**Continuous-Time Radar-Inertial and Lidar-Inertial Odometry using a Gaussian Process Motion Prior**|Keenan Burnett et.al.|[2402.06174v1](http://arxiv.org/abs/2402.06174v1)|[link](https://github.com/utiasasrl/steam_icp)|
 |**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254v1](http://arxiv.org/abs/2402.05254v1)|null|
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
@@ -31,4 +32,3 @@
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887v1](http://arxiv.org/abs/2401.01887v1)|null|
-|**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|

@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-19**|**Distribution of distance-based quantum resources outside a radiating Schwarzschild black hole**|Samira Elghaayda et.al.|[2402.12308v1](http://arxiv.org/abs/2402.12308v1)|null|
+|**2024-02-19**|**Nonlocal to local convergence of phase field systems with inertial term**|Pierluigi Colli et.al.|[2402.12145v1](http://arxiv.org/abs/2402.12145v1)|null|
+|**2024-02-19**|**Dynamics of spining particles in a homogeneous space with rotation as possible mechanism of the inertial mass formation and interpretation of quantum uncertainty principle in general relativity**|V. G. Krechet et.al.|[2402.11914v1](http://arxiv.org/abs/2402.11914v1)|null|
+|**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790v1](http://arxiv.org/abs/2402.11790v1)|null|
+|**2024-02-18**|**Orbital angular momentum spectrum and entanglement in rotating accelerated reference frame**|Haorong Wu et.al.|[2402.11486v1](http://arxiv.org/abs/2402.11486v1)|null|
+|**2024-02-17**|**Internal-wave convection and shear near the top of a deep equatorial seamount**|Hans van Haren et.al.|[2402.11264v1](http://arxiv.org/abs/2402.11264v1)|null|
 |**2024-02-16**|**Asymptotic analysis of mixing in stratified turbulent flows, and the conditions for an inertial sub-range**|Andrew D. Bragg et.al.|[2402.10704v1](http://arxiv.org/abs/2402.10704v1)|null|
 |**2024-02-16**|**Entanglement Degradation in Causal Diamonds**|H. E. Camblong et.al.|[2402.10417v1](http://arxiv.org/abs/2402.10417v1)|null|
 |**2024-02-15**|**Athermal granular creep in a quenched sandpile**|Nakul S. Deshpande et.al.|[2402.10338v1](http://arxiv.org/abs/2402.10338v1)|null|
@@ -26,9 +32,3 @@
 |**2024-02-08**|**Inertial active harmonic particle with memory escape induced by viscoelastic suspension**|F Adersh et.al.|[2402.05538v1](http://arxiv.org/abs/2402.05538v1)|null|
 |**2024-02-08**|**Absence of breakdown of ferrodark solitons exhibiting snake instability**|Xiaoquan Yu et.al.|[2402.05351v1](http://arxiv.org/abs/2402.05351v1)|null|
 |**2024-02-07**|**Assessment of models for nonlinear oscillatory flow through a hexagonal sphere pack**|Lukas Unglehrt et.al.|[2402.05320v1](http://arxiv.org/abs/2402.05320v1)|null|
-|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254v1](http://arxiv.org/abs/2402.05254v1)|null|
-|**2024-02-07**|**Anisotropy of Density Fluctuations in the Solar Wind at 1 au**|Jiaming Wang et.al.|[2402.05191v1](http://arxiv.org/abs/2402.05191v1)|null|
-|**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
-|**2024-02-06**|**Spontaneous Micro Flocking of Active Inertial Particles without Alignment Interaction**|Subhajit Paul et.al.|[2402.04397v1](http://arxiv.org/abs/2402.04397v1)|null|
-|**2024-02-06**|**Cosmological Observatories**|Dionysios Anninos et.al.|[2402.04305v2](http://arxiv.org/abs/2402.04305v2)|null|
-|**2024-02-06**|**Novel IMU-based Adaptive Estimator of the Center of Rotation of Joints for Movement Analysis**|Sara García-de-Villa et.al.|[2402.04240v1](http://arxiv.org/abs/2402.04240v1)|null|
