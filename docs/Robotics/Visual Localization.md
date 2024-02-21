@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252v1](http://arxiv.org/abs/2402.13252v1)|[link](https://github.com/nemo1999/joint-tensorf)|
+|**2024-02-20**|**VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning**|Shaoyu Chen et.al.|[2402.13243v1](http://arxiv.org/abs/2402.13243v1)|null|
+|**2024-02-20**|**Design and Flight Demonstration of a Quadrotor for Urban Mapping and Target Tracking Research**|Collin Hague et.al.|[2402.13195v1](http://arxiv.org/abs/2402.13195v1)|null|
+|**2024-02-20**|**A novel image correction method for cloud-affected observations with Imaging Atmospheric Cherenkov Telescopes**|Natalia Żywucka et.al.|[2402.13190v1](http://arxiv.org/abs/2402.13190v1)|null|
+|**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906v1](http://arxiv.org/abs/2402.12906v1)|null|
+|**2024-02-20**|**Mind the Exit Pupil Gap: Revisiting the Intrinsics of a Standard Plenoptic Camera**|Tim Michels et.al.|[2402.12891v1](http://arxiv.org/abs/2402.12891v1)|[link](https://gitlab.com/ungetym/blender-camera-generator)|
+|**2024-02-20**|**PIP-Net: Pedestrian Intention Prediction in the Wild**|Mohsen Azarmi et.al.|[2402.12810v1](http://arxiv.org/abs/2402.12810v1)|null|
+|**2024-02-20**|**Radar-Based Recognition of Static Hand Gestures in American Sign Language**|Christian Schuessler et.al.|[2402.12800v1](http://arxiv.org/abs/2402.12800v1)|null|
+|**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712v1](http://arxiv.org/abs/2402.12712v1)|null|
+|**2024-02-20**|**Neuromorphic Synergy for Video Binarization**|Shijie Lin et.al.|[2402.12644v1](http://arxiv.org/abs/2402.12644v1)|[link](https://github.com/eleboss/ebr)|
+|**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551v1](http://arxiv.org/abs/2402.12551v1)|null|
+|**2024-02-19**|**Pre-perihelion Monitoring of Interstellar Comet 2I/Borisov**|George P. Prodan et.al.|[2402.12428v1](http://arxiv.org/abs/2402.12428v1)|null|
 |**2024-02-19**|**Landmark Stereo Dataset for Landmark Recognition and Moving Node Localization in a Non-GPS Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12320v1](http://arxiv.org/abs/2402.12320v1)|null|
 |**2024-02-19**|**Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenge**|Daniel Jakab et.al.|[2402.12041v1](http://arxiv.org/abs/2402.12041v1)|null|
 |**2024-02-19**|**Event-Based Motion Magnification**|Yutian Chen et.al.|[2402.11957v1](http://arxiv.org/abs/2402.11957v1)|null|
@@ -20,15 +32,3 @@
 |**2024-02-16**|**3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**|Tsung-Wei Ke et.al.|[2402.10885v1](http://arxiv.org/abs/2402.10885v1)|null|
 |**2024-02-16**|**A CBF-Adaptive Control Architecture for Visual Navigation for UAV in the Presence of Uncertainties**|Viswa Narayanan Sankaranarayanan et.al.|[2402.10729v1](http://arxiv.org/abs/2402.10729v1)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476v1](http://arxiv.org/abs/2402.10476v1)|null|
-|**2024-02-16**|**Assessing the Performance of OpenTitan as Cryptographic Accelerator in Secure Open-Hardware System-on-Chips**|Emanuele Parisi et.al.|[2402.10395v1](http://arxiv.org/abs/2402.10395v1)|null|
-|**2024-02-15**|**LoVoCCS -- II. Weak Lensing Mass Distributions, Red-Sequence Galaxy Distributions, and Their Alignment with the Brightest Cluster Galaxy in 58 Nearby X-ray-Luminous Galaxy Clusters**|Shenming Fu et.al.|[2402.10337v1](http://arxiv.org/abs/2402.10337v1)|null|
-|**2024-02-15**|**HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting**|Ankan Dash et.al.|[2402.10334v1](http://arxiv.org/abs/2402.10334v1)|null|
-|**2024-02-15**|**LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR**|Alexander Krawciw et.al.|[2402.10321v1](http://arxiv.org/abs/2402.10321v1)|null|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187v1](http://arxiv.org/abs/2402.10187v1)|[link](https://github.com/baussel/zooboteuclid)|
-|**2024-02-15**|**X-maps: Direct Depth Lookup for Event-based Structured Light Systems**|Wieland Morgenstern et.al.|[2402.10061v1](http://arxiv.org/abs/2402.10061v1)|null|
-|**2024-02-15**|**SAWEC: Sensing-Assisted Wireless Edge Computing**|Khandaker Foysal Haque et.al.|[2402.10021v1](http://arxiv.org/abs/2402.10021v1)|null|
-|**2024-02-15**|**Demonstration of nuclear gamma-ray polarimetry based on a multi-layer CdTe Compton Camera**|S. Go et.al.|[2402.09652v1](http://arxiv.org/abs/2402.09652v1)|null|
-|**2024-02-14**|**Exact, Fast and Expressive Poisson Point Processes via Squared Neural Families**|Russell Tsuchida et.al.|[2402.09608v1](http://arxiv.org/abs/2402.09608v1)|[link](https://github.com/russelltsuchida/snefy)|
-|**2024-02-14**|**Comparison of three different camera systems monitoring the meteor activity over Hungary in 2020-2023**|Livia Deme et.al.|[2402.09578v1](http://arxiv.org/abs/2402.09578v1)|null|
-|**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944v1](http://arxiv.org/abs/2402.09944v1)|null|
-|**2024-02-14**|**Manipulating a beam of barium fluoride molecules using an electrostatic hexapole**|Anno Touwen et.al.|[2402.09300v1](http://arxiv.org/abs/2402.09300v1)|null|

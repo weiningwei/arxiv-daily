@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-20**|**Design and Flight Demonstration of a Quadrotor for Urban Mapping and Target Tracking Research**|Collin Hague et.al.|[2402.13195v1](http://arxiv.org/abs/2402.13195v1)|null|
+|**2024-02-20**|**Sedimentation dynamics of triply-twisted Möbius bands: Geometry versus topology**|Nicolas Moreno et.al.|[2402.13017v1](http://arxiv.org/abs/2402.13017v1)|null|
+|**2024-02-20**|**On gravito-inertial surface waves**|Yves Colin de Verdìère et.al.|[2402.12992v1](http://arxiv.org/abs/2402.12992v1)|null|
+|**2024-02-20**|**Görlter number-based scaling of boundary-layer transition on rotating cones in axial inflow**|Sumit Tambe et.al.|[2402.12877v1](http://arxiv.org/abs/2402.12877v1)|null|
+|**2024-02-20**|**Angular Bloch Oscillations and their applications**|Bernd Konrad et.al.|[2402.12826v1](http://arxiv.org/abs/2402.12826v1)|null|
+|**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551v1](http://arxiv.org/abs/2402.12551v1)|null|
+|**2024-02-19**|**Feudal Networks for Visual Navigation**|Faith Johnson et.al.|[2402.12498v1](http://arxiv.org/abs/2402.12498v1)|null|
 |**2024-02-19**|**Distribution of distance-based quantum resources outside a radiating Schwarzschild black hole**|Samira Elghaayda et.al.|[2402.12308v1](http://arxiv.org/abs/2402.12308v1)|null|
 |**2024-02-19**|**Nonlocal to local convergence of phase field systems with inertial term**|Pierluigi Colli et.al.|[2402.12145v1](http://arxiv.org/abs/2402.12145v1)|null|
 |**2024-02-19**|**Dynamics of spining particles in a homogeneous space with rotation as possible mechanism of the inertial mass formation and interpretation of quantum uncertainty principle in general relativity**|V. G. Krechet et.al.|[2402.11914v1](http://arxiv.org/abs/2402.11914v1)|null|
@@ -25,10 +32,3 @@
 |**2024-02-11**|**Silica final lens performance in laser fusion facilities: HiPER and LIFE**|David Garoz et.al.|[2402.09468v1](http://arxiv.org/abs/2402.09468v1)|null|
 |**2024-02-10**|**CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)**|Anuj Pokhrel et.al.|[2402.07065v1](http://arxiv.org/abs/2402.07065v1)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854v1](http://arxiv.org/abs/2402.06854v1)|[link](https://github.com/lsmlovefm/GAMD-Net)|
-|**2024-02-09**|**The minimal flow unit and origin of two-dimensional elasto-inertial turbulence**|Zhang Hongna et.al.|[2402.06189v1](http://arxiv.org/abs/2402.06189v1)|null|
-|**2024-02-09**|**Continuous-Time Radar-Inertial and Lidar-Inertial Odometry using a Gaussian Process Motion Prior**|Keenan Burnett et.al.|[2402.06174v1](http://arxiv.org/abs/2402.06174v1)|[link](https://github.com/utiasasrl/steam_icp)|
-|**2024-02-08**|**Underwater MEMS Gyrocompassing: A Virtual Testing Ground**|Daniel Engelsman et.al.|[2402.05790v2](http://arxiv.org/abs/2402.05790v2)|null|
-|**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540v1](http://arxiv.org/abs/2402.05540v1)|null|
-|**2024-02-08**|**Inertial active harmonic particle with memory escape induced by viscoelastic suspension**|F Adersh et.al.|[2402.05538v1](http://arxiv.org/abs/2402.05538v1)|null|
-|**2024-02-08**|**Absence of breakdown of ferrodark solitons exhibiting snake instability**|Xiaoquan Yu et.al.|[2402.05351v1](http://arxiv.org/abs/2402.05351v1)|null|
-|**2024-02-07**|**Assessment of models for nonlinear oscillatory flow through a hexagonal sphere pack**|Lukas Unglehrt et.al.|[2402.05320v1](http://arxiv.org/abs/2402.05320v1)|null|
