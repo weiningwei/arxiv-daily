@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-21**|**Dynamics of bubble migration in a square channel flow of a viscoelastic fluid**|Hafiz Usman Naseer et.al.|[2402.13683v1](http://arxiv.org/abs/2402.13683v1)|null|
+|**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v1](http://arxiv.org/abs/2402.13609v1)|[link](https://github.com/yutongwangbit/voom)|
+|**2024-02-21**|**Approximation analysis for the minimization problem of difference-of-convex functions with Moreau envelopes**|Yan Tang et.al.|[2402.13461v1](http://arxiv.org/abs/2402.13461v1)|null|
 |**2024-02-20**|**Design and Flight Demonstration of a Quadrotor for Urban Mapping and Target Tracking Research**|Collin Hague et.al.|[2402.13195v1](http://arxiv.org/abs/2402.13195v1)|null|
 |**2024-02-20**|**Sedimentation dynamics of triply-twisted Möbius bands: Geometry versus topology**|Nicolas Moreno et.al.|[2402.13017v1](http://arxiv.org/abs/2402.13017v1)|null|
 |**2024-02-20**|**On gravito-inertial surface waves**|Yves Colin de Verdìère et.al.|[2402.12992v1](http://arxiv.org/abs/2402.12992v1)|null|
@@ -29,6 +32,3 @@
 |**2024-02-13**|**Deep Learning-based Real-time Smartphone Pose Detection for Ultra-wideband Tagless Gate**|Junyoung Choi et.al.|[2402.08399v1](http://arxiv.org/abs/2402.08399v1)|null|
 |**2024-02-13**|**Plasma-wall interaction in laser inertial fusion reactors: novel proposals for radiation tests of first wall materials**|J. Alvarez Ruiz et.al.|[2402.10235v1](http://arxiv.org/abs/2402.10235v1)|null|
 |**2024-02-12**|**Transient growth of a wake vortex and its initiation via inertial particles**|Sangjoon Lee et.al.|[2402.07469v1](http://arxiv.org/abs/2402.07469v1)|null|
-|**2024-02-11**|**Silica final lens performance in laser fusion facilities: HiPER and LIFE**|David Garoz et.al.|[2402.09468v1](http://arxiv.org/abs/2402.09468v1)|null|
-|**2024-02-10**|**CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)**|Anuj Pokhrel et.al.|[2402.07065v1](http://arxiv.org/abs/2402.07065v1)|null|
-|**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854v1](http://arxiv.org/abs/2402.06854v1)|[link](https://github.com/lsmlovefm/GAMD-Net)|
