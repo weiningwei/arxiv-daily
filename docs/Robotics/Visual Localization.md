@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469v1](http://arxiv.org/abs/2402.15469v1)|null|
+|**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al.|[2402.15272v1](http://arxiv.org/abs/2402.15272v1)|[link](https://github.com/bosszhe/emiff)|
+|**2024-02-22**|**EE3P: Event-based Estimation of Periodic Phenomena Properties**|Jakub Kolář et.al.|[2402.14958v1](http://arxiv.org/abs/2402.14958v1)|[link](https://github.com/jackpiecz/ee3p)|
+|**2024-02-22**|**Path Planning based on 2D Object Bounding-box**|Yanliang Huang et.al.|[2402.14933v1](http://arxiv.org/abs/2402.14933v1)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817v1](http://arxiv.org/abs/2402.14817v1)|null|
 |**2024-02-22**|**Environment Semantic Communication: Enabling Distributed Sensing Aided Networks**|Shoaib Imran et.al.|[2402.14766v1](http://arxiv.org/abs/2402.14766v1)|null|
 |**2024-02-22**|**Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot**|Fabien Baradel et.al.|[2402.14654v1](http://arxiv.org/abs/2402.14654v1)|[link](https://github.com/naver/multi-hmr)|
@@ -28,7 +32,3 @@
 |**2024-02-20**|**A novel image correction method for cloud-affected observations with Imaging Atmospheric Cherenkov Telescopes**|Natalia Żywucka et.al.|[2402.13190v1](http://arxiv.org/abs/2402.13190v1)|null|
 |**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906v1](http://arxiv.org/abs/2402.12906v1)|null|
 |**2024-02-20**|**Mind the Exit Pupil Gap: Revisiting the Intrinsics of a Standard Plenoptic Camera**|Tim Michels et.al.|[2402.12891v1](http://arxiv.org/abs/2402.12891v1)|[link](https://gitlab.com/ungetym/blender-camera-generator)|
-|**2024-02-20**|**PIP-Net: Pedestrian Intention Prediction in the Wild**|Mohsen Azarmi et.al.|[2402.12810v1](http://arxiv.org/abs/2402.12810v1)|null|
-|**2024-02-20**|**Radar-Based Recognition of Static Hand Gestures in American Sign Language**|Christian Schuessler et.al.|[2402.12800v1](http://arxiv.org/abs/2402.12800v1)|null|
-|**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712v1](http://arxiv.org/abs/2402.12712v1)|null|
-|**2024-02-20**|**Neuromorphic Synergy for Video Binarization**|Shijie Lin et.al.|[2402.12644v1](http://arxiv.org/abs/2402.12644v1)|[link](https://github.com/eleboss/ebr)|
