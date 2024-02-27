@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-26**|**Efficient Continuous-Time Ego-Motion Estimation for Asynchronous Event-based Data Associations**|Zhixiang Wang et.al.|[2402.16398v1](http://arxiv.org/abs/2402.16398v1)|null|
+|**2024-02-26**|**Flow birefringence of cellulose nanocrystal suspensions in three-dimensional flow fields: revisiting the stress-optic law**|Kento Nakamine et.al.|[2402.16351v1](http://arxiv.org/abs/2402.16351v1)|null|
+|**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211v1](http://arxiv.org/abs/2402.16211v1)|null|
+|**2024-02-25**|**MoodCapture: Depression Detection Using In-the-Wild Smartphone Images**|Subigya Nepal et.al.|[2402.16182v1](http://arxiv.org/abs/2402.16182v1)|null|
+|**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175v1](http://arxiv.org/abs/2402.16175v1)|null|
+|**2024-02-25**|**Cinematographic Camera Diffusion Model**|Hongda Jiang et.al.|[2402.16143v1](http://arxiv.org/abs/2402.16143v1)|null|
+|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|[link](https://github.com/master-cai/voloc)|
+|**2024-02-25**|**Forward and inverse modeling of depth-of-field effects in background-oriented schlieren**|Joseph P. Molnar et.al.|[2402.15954v1](http://arxiv.org/abs/2402.15954v1)|null|
+|**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919v1](http://arxiv.org/abs/2402.15919v1)|null|
+|**2024-02-24**|**Enhanced Droplet Analysis Using Generative Adversarial Networks**|Tan-Hanh Pham et.al.|[2402.15909v1](http://arxiv.org/abs/2402.15909v1)|null|
+|**2024-02-24**|**MMW-Carry: Enhancing Carry Object Detection through Millimeter-Wave Radar-Camera Fusion**|Xiangyu Gao et.al.|[2402.15897v1](http://arxiv.org/abs/2402.15897v1)|null|
+|**2024-02-24**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al.|[2402.15852v1](http://arxiv.org/abs/2402.15852v1)|null|
+|**2024-02-24**|**DART: Depth-Enhanced Accurate and Real-Time Background Matting**|Hanxi Li et.al.|[2402.15820v1](http://arxiv.org/abs/2402.15820v1)|null|
+|**2024-02-24**|**GiMeFive: Towards Interpretable Facial Emotion Classification**|Jiawen Wang et.al.|[2402.15662v1](http://arxiv.org/abs/2402.15662v1)|[link](https://github.com/werywjw/sep-cvdl)|
+|**2024-02-23**|**State Space Models for Event Cameras**|Nikola Zubić et.al.|[2402.15584v1](http://arxiv.org/abs/2402.15584v1)|null|
+|**2024-02-23**|**Cohere3D: Exploiting Temporal Coherence for Unsupervised Representation Learning of Vision-based Autonomous Driving**|Yichen Xie et.al.|[2402.15583v1](http://arxiv.org/abs/2402.15583v1)|null|
 |**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469v1](http://arxiv.org/abs/2402.15469v1)|null|
 |**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al.|[2402.15272v1](http://arxiv.org/abs/2402.15272v1)|[link](https://github.com/bosszhe/emiff)|
 |**2024-02-22**|**EE3P: Event-based Estimation of Periodic Phenomena Properties**|Jakub Kolář et.al.|[2402.14958v1](http://arxiv.org/abs/2402.14958v1)|[link](https://github.com/jackpiecz/ee3p)|
@@ -16,19 +32,3 @@
 |**2024-02-22**|**Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields**|Seungtae Nam et.al.|[2402.14196v1](http://arxiv.org/abs/2402.14196v1)|null|
 |**2024-02-21**|**Taking the pulse of the outer Milky Way with HOWVAST: an RR Lyrae density profile out to $>$200 kpc**|Gustavo E. Medina et.al.|[2402.14055v1](http://arxiv.org/abs/2402.14055v1)|null|
 |**2024-02-21**|**On Leveraging Encoder-only Pre-trained Language Models for Effective Keyphrase Generation**|Di Wu et.al.|[2402.14052v1](http://arxiv.org/abs/2402.14052v1)|[link](https://github.com/uclanlp/deepkpg)|
-|**2024-02-21**|**Particle detection performance and Geant4 simulation with low-cost CMOS technology**|M. Bonnett Del Alamo et.al.|[2402.13993v1](http://arxiv.org/abs/2402.13993v1)|null|
-|**2024-02-21**|**Design of a Miniature Underwater Vehicle and Data Collection System for Indoor Experimentation**|Jacob Herbert et.al.|[2402.13837v1](http://arxiv.org/abs/2402.13837v1)|null|
-|**2024-02-21**|**High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks**|Luca Crupi et.al.|[2402.13756v1](http://arxiv.org/abs/2402.13756v1)|null|
-|**2024-02-21**|**A Ray Launching Approach for Computing Exact Paths with Point Clouds**|Niklas Vaara et.al.|[2402.13747v1](http://arxiv.org/abs/2402.13747v1)|null|
-|**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629v1](http://arxiv.org/abs/2402.13629v1)|null|
-|**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v1](http://arxiv.org/abs/2402.13609v1)|[link](https://github.com/yutongwangbit/voom)|
-|**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537v1](http://arxiv.org/abs/2402.13537v1)|null|
-|**2024-02-21**|**Unsupervised learning based object detection using Contrastive Learning**|Chandan Kumar et.al.|[2402.13465v1](http://arxiv.org/abs/2402.13465v1)|null|
-|**2024-02-20**|**The Dimension of Self-Directed Learning**|Pramith Devulapalli et.al.|[2402.13400v1](http://arxiv.org/abs/2402.13400v1)|null|
-|**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252v1](http://arxiv.org/abs/2402.13252v1)|[link](https://github.com/nemo1999/joint-tensorf)|
-|**2024-02-20**|**Vision System Prototype for Inspection and Monitoring with a Smart Camera**|Efren Hernández-Molina et.al.|[2402.13306v1](http://arxiv.org/abs/2402.13306v1)|null|
-|**2024-02-20**|**VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning**|Shaoyu Chen et.al.|[2402.13243v1](http://arxiv.org/abs/2402.13243v1)|null|
-|**2024-02-20**|**Design and Flight Demonstration of a Quadrotor for Urban Mapping and Target Tracking Research**|Collin Hague et.al.|[2402.13195v1](http://arxiv.org/abs/2402.13195v1)|null|
-|**2024-02-20**|**A novel image correction method for cloud-affected observations with Imaging Atmospheric Cherenkov Telescopes**|Natalia Żywucka et.al.|[2402.13190v1](http://arxiv.org/abs/2402.13190v1)|null|
-|**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906v1](http://arxiv.org/abs/2402.12906v1)|null|
-|**2024-02-20**|**Mind the Exit Pupil Gap: Revisiting the Intrinsics of a Standard Plenoptic Camera**|Tim Michels et.al.|[2402.12891v1](http://arxiv.org/abs/2402.12891v1)|[link](https://gitlab.com/ungetym/blender-camera-generator)|
