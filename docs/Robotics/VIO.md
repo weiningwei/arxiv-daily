@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504v1](http://arxiv.org/abs/2402.17504v1)|null|
+|**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289v1](http://arxiv.org/abs/2402.17289v1)|[link](https://github.com/tamirshor7/ears_code)|
+|**2024-02-27**|**Spatial Distribution of Inertial Particles in Turbulent Taylor-Couette Flow**|Hao Jiang et.al.|[2402.17149v1](http://arxiv.org/abs/2402.17149v1)|null|
 |**2024-02-26**|**Using Spherical Harmonics to solve the Boltzmann equation: an operator based approach**|Nils W. Schween et.al.|[2402.16483v1](http://arxiv.org/abs/2402.16483v1)|null|
 |**2024-02-25**|**Relativistic Alfvén turbulence at kinetic scales**|Cristian Vega et.al.|[2402.16218v1](http://arxiv.org/abs/2402.16218v1)|null|
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082v1](http://arxiv.org/abs/2402.16082v1)|null|
@@ -29,6 +32,3 @@
 |**2024-02-19**|**Distribution of distance-based quantum resources outside a radiating Schwarzschild black hole**|Samira Elghaayda et.al.|[2402.12308v1](http://arxiv.org/abs/2402.12308v1)|null|
 |**2024-02-19**|**Nonlocal to local convergence of phase field systems with inertial term**|Pierluigi Colli et.al.|[2402.12145v1](http://arxiv.org/abs/2402.12145v1)|null|
 |**2024-02-19**|**Dynamics of spining particles in a homogeneous space with rotation as possible mechanism of the inertial mass formation and interpretation of quantum uncertainty principle in general relativity**|V. G. Krechet et.al.|[2402.11914v1](http://arxiv.org/abs/2402.11914v1)|null|
-|**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790v2](http://arxiv.org/abs/2402.11790v2)|[link](https://github.com/pengyu-team/co-lrio)|
-|**2024-02-18**|**Orbital angular momentum spectrum and entanglement in rotating accelerated reference frame**|Haorong Wu et.al.|[2402.11486v1](http://arxiv.org/abs/2402.11486v1)|null|
-|**2024-02-17**|**Internal-wave convection and shear near the top of a deep equatorial seamount**|Hans van Haren et.al.|[2402.11264v1](http://arxiv.org/abs/2402.11264v1)|null|
