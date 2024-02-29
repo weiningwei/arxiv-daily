@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-28**|**Leveraging Compliant Tactile Perception for Haptic Blind Surface Reconstruction**|Laurent Yves Emile Ramos Cheret et.al.|[2402.18511v1](http://arxiv.org/abs/2402.18511v1)|null|
+|**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
 |**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504v1](http://arxiv.org/abs/2402.17504v1)|null|
 |**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289v1](http://arxiv.org/abs/2402.17289v1)|[link](https://github.com/tamirshor7/ears_code)|
 |**2024-02-27**|**Spatial Distribution of Inertial Particles in Turbulent Taylor-Couette Flow**|Hao Jiang et.al.|[2402.17149v1](http://arxiv.org/abs/2402.17149v1)|null|
@@ -15,6 +17,7 @@
 |**2024-02-22**|**Wave turbulence: A solvable problem applied to Navier-Stokes**|Sebastien Galtier et.al.|[2402.14999v1](http://arxiv.org/abs/2402.14999v1)|null|
 |**2024-02-22**|**Learning Inverse Kinodynamics for Autonomous Vehicle Drifting**|M. Suvarna et.al.|[2402.14928v1](http://arxiv.org/abs/2402.14928v1)|[link](https://github.com/msuv08/autonomous-vehicle-drifting)|
 |**2024-02-22**|**Disjointness of inertial KMS states and the role of Lorentz symmetry in thermalization**|Albert Georg Passegger et.al.|[2402.14794v1](http://arxiv.org/abs/2402.14794v1)|null|
+|**2024-02-22**|**Dynamic Anchor Selection and Real-Time Pose Prediction for Ultra-wideband Tagless Gate**|Junyoung Choi et.al.|[2402.17778v1](http://arxiv.org/abs/2402.17778v1)|null|
 |**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin et.al.|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|null|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
 |**2024-02-21**|**Random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation**|Mohammadamin Moradi et.al.|[2402.14131v1](http://arxiv.org/abs/2402.14131v1)|[link](https://github.com/aminmoradixl/magnav)|
@@ -29,6 +32,3 @@
 |**2024-02-20**|**Angular Bloch Oscillations and their applications**|Bernd Konrad et.al.|[2402.12826v1](http://arxiv.org/abs/2402.12826v1)|null|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551v1](http://arxiv.org/abs/2402.12551v1)|null|
 |**2024-02-19**|**Feudal Networks for Visual Navigation**|Faith Johnson et.al.|[2402.12498v1](http://arxiv.org/abs/2402.12498v1)|null|
-|**2024-02-19**|**Distribution of distance-based quantum resources outside a radiating Schwarzschild black hole**|Samira Elghaayda et.al.|[2402.12308v1](http://arxiv.org/abs/2402.12308v1)|null|
-|**2024-02-19**|**Nonlocal to local convergence of phase field systems with inertial term**|Pierluigi Colli et.al.|[2402.12145v1](http://arxiv.org/abs/2402.12145v1)|null|
-|**2024-02-19**|**Dynamics of spining particles in a homogeneous space with rotation as possible mechanism of the inertial mass formation and interpretation of quantum uncertainty principle in general relativity**|V. G. Krechet et.al.|[2402.11914v1](http://arxiv.org/abs/2402.11914v1)|null|
