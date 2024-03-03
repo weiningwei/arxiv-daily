@@ -5,7 +5,7 @@
 |**2024-02-29**|**An asymptotic-preserving method for the three-temperature radiative transfer model**|Ruo Li et.al.|[2402.19191v1](http://arxiv.org/abs/2402.19191v1)|null|
 |**2024-02-29**|**Inertial spin waves in spin spirals**|Mikhail Cherkasskii et.al.|[2402.19141v1](http://arxiv.org/abs/2402.19141v1)|null|
 |**2024-02-29**|**Unraveling electronic correlations in warm dense quantum plasmas**|Tobias Dornheim et.al.|[2402.19113v1](http://arxiv.org/abs/2402.19113v1)|null|
-|**2024-02-29**|**DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization**|David Skuddis et.al.|[2402.19044v1](http://arxiv.org/abs/2402.19044v1)|null|
+|**2024-02-29**|**DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization**|David Skuddis et.al.|[2402.19044v1](http://arxiv.org/abs/2402.19044v1)|[link](https://github.com/davidskdds/dmsa_lidar_slam)|
 |**2024-02-29**|**Atom interferometry at arbitrary orientations and rotation rates**|Quentin d'Armagnac de Castanet et.al.|[2402.18988v1](http://arxiv.org/abs/2402.18988v1)|null|
 |**2024-02-29**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934v1](http://arxiv.org/abs/2402.18934v1)|null|
 |**2024-02-29**|**Needed computations and computational capabilities for stellarators**|Allen H Boozer et.al.|[2402.18804v1](http://arxiv.org/abs/2402.18804v1)|null|
