@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-02**|**RKHS-BA: A Semantic Correspondence-Free Multi-View Registration Framework with Global Tracking**|Ray Zhang et.al.|[2403.01254v1](http://arxiv.org/abs/2403.01254v1)|null|
+|**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
 |**2024-02-29**|**DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization**|David Skuddis et.al.|[2402.19044v1](http://arxiv.org/abs/2402.19044v1)|[link](https://github.com/davidskdds/dmsa_lidar_slam)|
 |**2024-02-29**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934v1](http://arxiv.org/abs/2402.18934v1)|null|
 |**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
@@ -30,5 +32,3 @@
 |**2024-01-24**|**A Lagrange-Newton Approach to Smoothing-and-Mapping**|Ralf Möller et.al.|[2401.13302v1](http://arxiv.org/abs/2401.13302v1)|null|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|[link](https://github.com/leomingyangli/semanticslam)|
 |**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v3](http://arxiv.org/abs/2401.11511v3)|null|
-|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
-|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|

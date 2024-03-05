@@ -2,6 +2,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
+|**2024-03-01**|**Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor**|Junlin Song et.al.|[2403.00976v1](http://arxiv.org/abs/2403.00976v1)|null|
+|**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228v1](http://arxiv.org/abs/2403.00228v1)|null|
 |**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771v1](http://arxiv.org/abs/2402.18771v1)|null|
 |**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
 |**2024-02-28**|**Generation of skill-specific maps from graph world models for robotic systems**|Koen de Vos et.al.|[2402.18174v1](http://arxiv.org/abs/2402.18174v1)|null|
@@ -29,6 +32,3 @@
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951v1](http://arxiv.org/abs/2402.06951v1)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131v1](http://arxiv.org/abs/2402.06131v1)|null|
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|[link](https://github.com/lias-cuhksz/eikf-vio-lio)|
-|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|[link](https://github.com/unibwtas/yolopoint)|
-|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v4](http://arxiv.org/abs/2402.03762v4)|null|
-|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v2](http://arxiv.org/abs/2402.03246v2)|null|
