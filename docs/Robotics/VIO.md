@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
+|**2024-03-05**|**CHEX-MATE : turbulence in the ICM from X-ray surface brightness fluctuations**|Simon Dupourqué et.al.|[2403.03064v1](http://arxiv.org/abs/2403.03064v1)|null|
+|**2024-03-05**|**Ultrahigh Resolution X-ray Thomson Scattering Measurements of Electronic Structures**|Thomas Gawne et.al.|[2403.02776v1](http://arxiv.org/abs/2403.02776v1)|null|
+|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773v1](http://arxiv.org/abs/2403.02773v1)|null|
+|**2024-03-05**|**Radiation and Heat Transport in Divergent Shock-Bubble Interactions**|Kelin Kurzer-Ogul et.al.|[2403.02684v1](http://arxiv.org/abs/2403.02684v1)|null|
+|**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
+|**2024-03-04**|**Ab initio path integral Monte Carlo simulations of warm dense two-component systems without fixed nodes: structural properties**|Tobias Dornheim et.al.|[2403.01979v1](http://arxiv.org/abs/2403.01979v1)|null|
 |**2024-03-02**|**RKHS-BA: A Semantic Correspondence-Free Multi-View Registration Framework with Global Tracking**|Ray Zhang et.al.|[2403.01254v1](http://arxiv.org/abs/2403.01254v1)|null|
 |**2024-03-02**|**Edge-guided Low-light Image Enhancement with Inertial Bregman Alternating Linearized Minimization**|Chaoyan Huang et.al.|[2403.01142v1](http://arxiv.org/abs/2403.01142v1)|null|
 |**2024-03-02**|**Evaluating Large Language Models as Virtual Annotators for Time-series Physical Sensing Data**|Aritra Hota et.al.|[2403.01133v1](http://arxiv.org/abs/2403.01133v1)|null|
@@ -25,10 +32,3 @@
 |**2024-02-27**|**Spatial Distribution of Inertial Particles in Turbulent Taylor-Couette Flow**|Hao Jiang et.al.|[2402.17149v1](http://arxiv.org/abs/2402.17149v1)|null|
 |**2024-02-26**|**Using Spherical Harmonics to solve the Boltzmann equation: an operator based approach**|Nils W. Schween et.al.|[2402.16483v1](http://arxiv.org/abs/2402.16483v1)|[link](https://github.com/nils-schween/representation-matrices)|
 |**2024-02-25**|**Relativistic Alfvén turbulence at kinetic scales**|Cristian Vega et.al.|[2402.16218v1](http://arxiv.org/abs/2402.16218v1)|null|
-|**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082v1](http://arxiv.org/abs/2402.16082v1)|null|
-|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|[link](https://github.com/master-cai/voloc)|
-|**2024-02-24**|**Prediction of Superionic State in LiH2 at Conditions Enroute to Nuclear Fusion**|Fude Li et.al.|[2402.15791v1](http://arxiv.org/abs/2402.15791v1)|null|
-|**2024-02-24**|**Inertial Accelerated Stochastic Mirror Descent for Large-Scale Generalized Tensor CP Decomposition**|Zehui Liu et.al.|[2402.15771v1](http://arxiv.org/abs/2402.15771v1)|null|
-|**2024-02-22**|**Turbulence unsteadiness drives extreme clustering**|Florencia Zapata et.al.|[2402.15015v1](http://arxiv.org/abs/2402.15015v1)|null|
-|**2024-02-22**|**Wave turbulence: A solvable problem applied to Navier-Stokes**|Sebastien Galtier et.al.|[2402.14999v1](http://arxiv.org/abs/2402.14999v1)|null|
-|**2024-02-22**|**Learning Inverse Kinodynamics for Autonomous Vehicle Drifting**|M. Suvarna et.al.|[2402.14928v1](http://arxiv.org/abs/2402.14928v1)|[link](https://github.com/msuv08/autonomous-vehicle-drifting)|
