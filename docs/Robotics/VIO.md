@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-06**|**Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**|He Li et.al.|[2403.03541v1](http://arxiv.org/abs/2403.03541v1)|null|
+|**2024-03-06**|**Energetic and Control Trade-offs in Spring-Wing Systems**|James Lynch et.al.|[2403.03398v1](http://arxiv.org/abs/2403.03398v1)|null|
 |**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
 |**2024-03-05**|**CHEX-MATE : turbulence in the ICM from X-ray surface brightness fluctuations**|Simon Dupourqué et.al.|[2403.03064v1](http://arxiv.org/abs/2403.03064v1)|null|
 |**2024-03-05**|**Ultrahigh Resolution X-ray Thomson Scattering Measurements of Electronic Structures**|Thomas Gawne et.al.|[2403.02776v1](http://arxiv.org/abs/2403.02776v1)|null|
@@ -30,5 +32,3 @@
 |**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504v1](http://arxiv.org/abs/2402.17504v1)|null|
 |**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Gabriele Serussi et.al.|[2402.17289v2](http://arxiv.org/abs/2402.17289v2)|[link](https://github.com/tamirshor7/ears_code)|
 |**2024-02-27**|**Spatial Distribution of Inertial Particles in Turbulent Taylor-Couette Flow**|Hao Jiang et.al.|[2402.17149v1](http://arxiv.org/abs/2402.17149v1)|null|
-|**2024-02-26**|**Using Spherical Harmonics to solve the Boltzmann equation: an operator based approach**|Nils W. Schween et.al.|[2402.16483v1](http://arxiv.org/abs/2402.16483v1)|[link](https://github.com/nils-schween/representation-matrices)|
-|**2024-02-25**|**Relativistic Alfvén turbulence at kinetic scales**|Cristian Vega et.al.|[2402.16218v1](http://arxiv.org/abs/2402.16218v1)|null|
