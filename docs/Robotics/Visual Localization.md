@@ -26,7 +26,7 @@
 |**2024-03-03**|**BronchoCopilot: Towards Autonomous Robotic Bronchoscopy via Multimodal Reinforcement Learning**|Jianbo Zhao et.al.|[2403.01483v1](http://arxiv.org/abs/2403.01483v1)|null|
 |**2024-03-03**|**Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis**|Xin Zhou et.al.|[2403.01439v1](http://arxiv.org/abs/2403.01439v1)|[link](https://github.com/lmd0311/dapt)|
 |**2024-03-03**|**A Novel Dynamic Light-Section 3D Reconstruction Method for Wide-Range Sensing**|Mengjuan Chen et.al.|[2403.01374v1](http://arxiv.org/abs/2403.01374v1)|null|
-|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316v1](http://arxiv.org/abs/2403.01316v1)|[link](https://github.com/tum-traffic-dataset/coopdet3d)|
+|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316v1](http://arxiv.org/abs/2403.01316v1)|[link](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit)|
 |**2024-03-02**|**Single-image camera calibration with model-free distortion correction**|Katia Genovese et.al.|[2403.01263v1](http://arxiv.org/abs/2403.01263v1)|null|
 |**2024-03-02**|**Consistent and Asymptotically Statistically-Efficient Solution to Camera Motion Estimation**|Guangyang Zeng et.al.|[2403.01174v1](http://arxiv.org/abs/2403.01174v1)|null|
 |**2024-03-02**|**Quasi-calibration method for structured light system with auxiliary camera**|Seung-Jae Son et.al.|[2403.01119v1](http://arxiv.org/abs/2403.01119v1)|null|
