@@ -13,7 +13,7 @@
 |**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
 |**2024-03-05**|**CHEX-MATE : turbulence in the ICM from X-ray surface brightness fluctuations**|Simon Dupourqué et.al.|[2403.03064v1](http://arxiv.org/abs/2403.03064v1)|null|
 |**2024-03-05**|**Ultrahigh Resolution X-ray Thomson Scattering Measurements of Electronic Structures**|Thomas Gawne et.al.|[2403.02776v1](http://arxiv.org/abs/2403.02776v1)|null|
-|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773v1](http://arxiv.org/abs/2403.02773v1)|null|
+|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773v1](http://arxiv.org/abs/2403.02773v1)|[link](https://github.com/hyesu-jang/lodestar)|
 |**2024-03-05**|**Radiation and Heat Transport in Divergent Shock-Bubble Interactions**|Kelin Kurzer-Ogul et.al.|[2403.02684v1](http://arxiv.org/abs/2403.02684v1)|null|
 |**2024-03-04**|**Determining the difference between local acceleration and local gravity: applications of the equivalence principle to relativistic trajectories**|Steven A. Balbus et.al.|[2403.03965v1](http://arxiv.org/abs/2403.03965v1)|null|
 |**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|

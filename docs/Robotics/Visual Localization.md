@@ -24,7 +24,7 @@
 |**2024-03-04**|**Pseudo-Labeling and Contextual Curriculum Learning for Online Grasp Learning in Robotic Bin Picking**|Huy Le et.al.|[2403.02495v1](http://arxiv.org/abs/2403.02495v1)|null|
 |**2024-03-04**|**Programming the scalable optical learning operator with spatial-spectral optimization**|Yi Zhou et.al.|[2403.02452v1](http://arxiv.org/abs/2403.02452v1)|null|
 |**2024-03-04**|**Optimizing Illuminant Estimation in Dual-Exposure HDR Imaging**|Mahmoud Afifi et.al.|[2403.02449v1](http://arxiv.org/abs/2403.02449v1)|null|
-|**2024-03-04**|**Perceptive self-supervised learning network for noisy image watermark removal**|Chunwei Tian et.al.|[2403.02211v1](http://arxiv.org/abs/2403.02211v1)|null|
+|**2024-03-04**|**Perceptive self-supervised learning network for noisy image watermark removal**|Chunwei Tian et.al.|[2403.02211v1](http://arxiv.org/abs/2403.02211v1)|[link](https://github.com/hellloxiaotian/pslnet)|
 |**2024-03-04**|**Iterative Occlusion-Aware Light Field Depth Estimation using 4D Geometrical Cues**|Rui Lourenço et.al.|[2403.02043v1](http://arxiv.org/abs/2403.02043v1)|null|
 |**2024-03-04**|**ZSL-RPPO: Zero-Shot Learning for Quadrupedal Locomotion in Challenging Terrains using Recurrent Proximal Policy Optimization**|Yao Zhao et.al.|[2403.01928v1](http://arxiv.org/abs/2403.01928v1)|null|
 |**2024-03-04**|**AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation**|Haonan Wang et.al.|[2403.01818v2](http://arxiv.org/abs/2403.01818v2)|[link](https://github.com/xmed-lab/AllSpark)|
