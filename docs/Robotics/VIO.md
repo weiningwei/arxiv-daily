@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[2403.05513v1](http://arxiv.org/abs/2403.05513v1)|null|
+|**2024-03-08**|**A study of the Kuramoto model for synchronization phenomena based on degenerate Kolmogorov-Fokker-Planck equations**|Giulio Pecorella et.al.|[2403.05342v1](http://arxiv.org/abs/2403.05342v1)|null|
+|**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|
+|**2024-03-08**|**DeRO: Dead Reckoning Based on Radar Odometry With Accelerometers Aided for Robot Localization**|Hoang Viet Do et.al.|[2403.05136v1](http://arxiv.org/abs/2403.05136v1)|[link](https://github.com/hoangvietdo/dero)|
+|**2024-03-08**|**Validation of hydrodynamic and kinetic simulations with a plasma interpenetration ICF hohlraum experiment**|Steven E. Anderson et.al.|[2403.04967v1](http://arxiv.org/abs/2403.04967v1)|null|
 |**2024-03-07**|**Parameter identification in PDEs by the solution of monotone inclusion problems**|Pankaj Gautam et.al.|[2403.04557v1](http://arxiv.org/abs/2403.04557v1)|null|
 |**2024-03-07**|**Comparison of Deep Learning Techniques on Human Activity Recognition using Ankle Inertial Signals**|Farhad Nazari et.al.|[2403.04387v1](http://arxiv.org/abs/2403.04387v1)|null|
 |**2024-03-07**|**IMU Tracking of Kinematic Chains in the Absence of Gravitational and Magnetic Fields**|Greg K. Stretton et.al.|[2403.04357v1](http://arxiv.org/abs/2403.04357v1)|null|
@@ -27,8 +32,3 @@
 |**2024-03-01**|**Inferring solar differential rotation and viscosity via passive imaging with inertial waves**|Tram Thi Ngoc Nguyen et.al.|[2403.00488v1](http://arxiv.org/abs/2403.00488v1)|null|
 |**2024-03-01**|**Inertia onset in disordered porous media flow**|Damian Sniezek et.al.|[2403.00456v1](http://arxiv.org/abs/2403.00456v1)|null|
 |**2024-03-01**|**Five-dimensional collective Hamiltonian with improved inertial functions**|Kouhei Washiyama et.al.|[2403.00214v1](http://arxiv.org/abs/2403.00214v1)|null|
-|**2024-02-29**|**An asymptotic-preserving method for the three-temperature radiative transfer model**|Ruo Li et.al.|[2402.19191v1](http://arxiv.org/abs/2402.19191v1)|null|
-|**2024-02-29**|**Inertial spin waves in spin spirals**|Mikhail Cherkasskii et.al.|[2402.19141v1](http://arxiv.org/abs/2402.19141v1)|null|
-|**2024-02-29**|**Unraveling electronic correlations in warm dense quantum plasmas**|Tobias Dornheim et.al.|[2402.19113v1](http://arxiv.org/abs/2402.19113v1)|null|
-|**2024-02-29**|**DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization**|David Skuddis et.al.|[2402.19044v1](http://arxiv.org/abs/2402.19044v1)|[link](https://github.com/davidskdds/dmsa_lidar_slam)|
-|**2024-02-29**|**Atom interferometry at arbitrary orientations and rotation rates**|Quentin d'Armagnac de Castanet et.al.|[2402.18988v1](http://arxiv.org/abs/2402.18988v1)|null|
