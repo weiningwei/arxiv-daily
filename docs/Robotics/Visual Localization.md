@@ -25,7 +25,7 @@
 |**2024-03-07**|**Unbiased Estimator for Distorted Conics in Camera Calibration**|Chaehyeon Song et.al.|[2403.04583v1](http://arxiv.org/abs/2403.04583v1)|null|
 |**2024-03-07**|**Out of the Room: Generalizing Event-Based Dynamic Motion Segmentation for Complex Scenes**|Stamatios Georgoulis et.al.|[2403.04562v1](http://arxiv.org/abs/2403.04562v1)|null|
 |**2024-03-07**|**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**|Tairan He et.al.|[2403.04436v1](http://arxiv.org/abs/2403.04436v1)|null|
-|**2024-03-07**|**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**|Ruicong Liu et.al.|[2403.04381v1](http://arxiv.org/abs/2403.04381v1)|null|
+|**2024-03-07**|**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**|Ruicong Liu et.al.|[2403.04381v2](http://arxiv.org/abs/2403.04381v2)|null|
 |**2024-03-07**|**Learning to Remove Wrinkled Transparent Film with Polarized Prior**|Jiaqi Tang et.al.|[2403.04368v1](http://arxiv.org/abs/2403.04368v1)|[link](https://github.com/jqtangust/filmremoval)|
 |**2024-03-07**|**Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving**|Napat Karnchanachari et.al.|[2403.04133v1](http://arxiv.org/abs/2403.04133v1)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|[link](https://github.com/caiyuanhao1998/x-gaussian)|
