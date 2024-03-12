@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979v1](http://arxiv.org/abs/2403.06979v1)|null|
+|**2024-03-11**|**Heavy Ball Momentum for Non-Strongly Convex Optimization**|Jean-François Aujol et.al.|[2403.06930v1](http://arxiv.org/abs/2403.06930v1)|null|
+|**2024-03-11**|**HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association**|Jian Shi et.al.|[2403.06590v1](http://arxiv.org/abs/2403.06590v1)|null|
+|**2024-03-11**|**Detecting degenerate bands topological invariants in optical lattice**|Jing-Xin Liu et.al.|[2403.06565v1](http://arxiv.org/abs/2403.06565v1)|null|
+|**2024-03-10**|**Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!**|Huanqi Yang et.al.|[2403.06201v1](http://arxiv.org/abs/2403.06201v1)|null|
+|**2024-03-09**|**IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation**|Keenan Burnett et.al.|[2403.05968v1](http://arxiv.org/abs/2403.05968v1)|null|
+|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v1](http://arxiv.org/abs/2403.05791v1)|null|
 |**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[2403.05513v1](http://arxiv.org/abs/2403.05513v1)|null|
 |**2024-03-08**|**A study of the Kuramoto model for synchronization phenomena based on degenerate Kolmogorov-Fokker-Planck equations**|Giulio Pecorella et.al.|[2403.05342v1](http://arxiv.org/abs/2403.05342v1)|null|
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|
@@ -25,10 +32,3 @@
 |**2024-03-04**|**Ab initio path integral Monte Carlo simulations of warm dense two-component systems without fixed nodes: structural properties**|Tobias Dornheim et.al.|[2403.01979v1](http://arxiv.org/abs/2403.01979v1)|null|
 |**2024-03-02**|**RKHS-BA: A Semantic Correspondence-Free Multi-View Registration Framework with Global Tracking**|Ray Zhang et.al.|[2403.01254v1](http://arxiv.org/abs/2403.01254v1)|null|
 |**2024-03-02**|**Edge-guided Low-light Image Enhancement with Inertial Bregman Alternating Linearized Minimization**|Chaoyan Huang et.al.|[2403.01142v1](http://arxiv.org/abs/2403.01142v1)|null|
-|**2024-03-02**|**Evaluating Large Language Models as Virtual Annotators for Time-series Physical Sensing Data**|Aritra Hota et.al.|[2403.01133v1](http://arxiv.org/abs/2403.01133v1)|null|
-|**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
-|**2024-03-02**|**Automated Continuous Force-Torque Sensor Bias Estimation**|Philippe Nadeau et.al.|[2403.01068v1](http://arxiv.org/abs/2403.01068v1)|null|
-|**2024-03-01**|**Optimal Control of Underdamped Systems: An Analytic Approach**|Julia Sanders et.al.|[2403.00679v1](http://arxiv.org/abs/2403.00679v1)|null|
-|**2024-03-01**|**Inferring solar differential rotation and viscosity via passive imaging with inertial waves**|Tram Thi Ngoc Nguyen et.al.|[2403.00488v1](http://arxiv.org/abs/2403.00488v1)|null|
-|**2024-03-01**|**Inertia onset in disordered porous media flow**|Damian Sniezek et.al.|[2403.00456v1](http://arxiv.org/abs/2403.00456v1)|null|
-|**2024-03-01**|**Five-dimensional collective Hamiltonian with improved inertial functions**|Kouhei Washiyama et.al.|[2403.00214v1](http://arxiv.org/abs/2403.00214v1)|null|
