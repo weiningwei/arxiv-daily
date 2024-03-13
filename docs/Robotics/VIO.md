@@ -8,7 +8,7 @@
 |**2024-03-11**|**Detecting degenerate bands topological invariants in optical lattice**|Jing-Xin Liu et.al.|[2403.06565v1](http://arxiv.org/abs/2403.06565v1)|null|
 |**2024-03-10**|**Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!**|Huanqi Yang et.al.|[2403.06201v1](http://arxiv.org/abs/2403.06201v1)|null|
 |**2024-03-09**|**IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation**|Keenan Burnett et.al.|[2403.05968v1](http://arxiv.org/abs/2403.05968v1)|null|
-|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v1](http://arxiv.org/abs/2403.05791v1)|null|
+|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v2](http://arxiv.org/abs/2403.05791v2)|null|
 |**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[2403.05513v1](http://arxiv.org/abs/2403.05513v1)|null|
 |**2024-03-08**|**A study of the Kuramoto model for synchronization phenomena based on degenerate Kolmogorov-Fokker-Planck equations**|Giulio Pecorella et.al.|[2403.05342v1](http://arxiv.org/abs/2403.05342v1)|null|
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|

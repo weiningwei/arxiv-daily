@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
-|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v1](http://arxiv.org/abs/2403.05791v1)|null|
+|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v2](http://arxiv.org/abs/2403.05791v2)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
 |**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
 |**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
