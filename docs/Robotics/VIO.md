@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-12**|**Discrete Laplacian thermostat for flocks and swarms: the fully conserved Inertial Spin Model**|Andrea Cavagna et.al.|[2403.07644v1](http://arxiv.org/abs/2403.07644v1)|null|
+|**2024-03-12**|**JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection**|Hanyu Zhou et.al.|[2403.07436v1](http://arxiv.org/abs/2403.07436v1)|null|
+|**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225v1](http://arxiv.org/abs/2403.07225v1)|null|
 |**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979v1](http://arxiv.org/abs/2403.06979v1)|null|
 |**2024-03-11**|**Heavy Ball Momentum for Non-Strongly Convex Optimization**|Jean-François Aujol et.al.|[2403.06930v1](http://arxiv.org/abs/2403.06930v1)|null|
 |**2024-03-11**|**HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association**|Jian Shi et.al.|[2403.06590v1](http://arxiv.org/abs/2403.06590v1)|null|
@@ -29,6 +32,3 @@
 |**2024-03-05**|**Radiation and Heat Transport in Divergent Shock-Bubble Interactions**|Kelin Kurzer-Ogul et.al.|[2403.02684v1](http://arxiv.org/abs/2403.02684v1)|null|
 |**2024-03-04**|**Determining the difference between local acceleration and local gravity: applications of the equivalence principle to relativistic trajectories**|Steven A. Balbus et.al.|[2403.03965v1](http://arxiv.org/abs/2403.03965v1)|null|
 |**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
-|**2024-03-04**|**Ab initio path integral Monte Carlo simulations of warm dense two-component systems without fixed nodes: structural properties**|Tobias Dornheim et.al.|[2403.01979v1](http://arxiv.org/abs/2403.01979v1)|null|
-|**2024-03-02**|**RKHS-BA: A Semantic Correspondence-Free Multi-View Registration Framework with Global Tracking**|Ray Zhang et.al.|[2403.01254v1](http://arxiv.org/abs/2403.01254v1)|null|
-|**2024-03-02**|**Edge-guided Low-light Image Enhancement with Inertial Bregman Alternating Linearized Minimization**|Chaoyan Huang et.al.|[2403.01142v1](http://arxiv.org/abs/2403.01142v1)|null|
