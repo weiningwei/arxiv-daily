@@ -31,4 +31,4 @@
 |**2024-03-08**|**Decoupling Degradations with Recurrent Network for Video Restoration in Under-Display Camera**|Chengxu Liu et.al.|[2403.05660v1](http://arxiv.org/abs/2403.05660v1)|[link](https://github.com/chengxuliu/ddrnet)|
 |**2024-03-08**|**Advanced Millimeter-Wave Radar System for Real-Time Multiple Human Tracking and Fall Detection**|Zichao Shen et.al.|[2403.05634v1](http://arxiv.org/abs/2403.05634v1)|null|
 |**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[2403.05513v1](http://arxiv.org/abs/2403.05513v1)|null|
-|**2024-03-08**|**Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors**|Julia Di et.al.|[2403.05500v1](http://arxiv.org/abs/2403.05500v1)|null|
+|**2024-03-08**|**Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors**|Julia Di et.al.|[2403.05500v2](http://arxiv.org/abs/2403.05500v2)|null|
