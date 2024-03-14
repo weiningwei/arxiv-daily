@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-13**|**Multi-axis inertial sensing with 2D arrays of Bose Einstein Condensates**|K. Stolzenberg et.al.|[2403.08762v1](http://arxiv.org/abs/2403.08762v1)|null|
+|**2024-03-13**|**Bubble breakup probability in turbulent flows**|Aliénor Rivière et.al.|[2403.08684v1](http://arxiv.org/abs/2403.08684v1)|null|
+|**2024-03-13**|**Ab initio Density Response and Local Field Factor of Warm Dense Hydrogen**|Tobias Dornheim et.al.|[2403.08570v1](http://arxiv.org/abs/2403.08570v1)|null|
+|**2024-03-13**|**Compliant Hierarchical Control for Arbitrary Equality and Inequality Tasks with Strict and Soft Priorities**|Gianluca Garofalo et.al.|[2403.08491v1](http://arxiv.org/abs/2403.08491v1)|null|
+|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[2403.08455v1](http://arxiv.org/abs/2403.08455v1)|null|
+|**2024-03-13**|**Probing Depth Variations of Solar Inertial Modes through Normal Mode Coupling**|Krishnendu Mandal et.al.|[2403.08150v1](http://arxiv.org/abs/2403.08150v1)|null|
+|**2024-03-12**|**Cosmic Ray Feedback on Bi-stable ISM Turbulence**|Roark Habegger et.al.|[2403.07976v1](http://arxiv.org/abs/2403.07976v1)|null|
 |**2024-03-12**|**Discrete Laplacian thermostat for flocks and swarms: the fully conserved Inertial Spin Model**|Andrea Cavagna et.al.|[2403.07644v1](http://arxiv.org/abs/2403.07644v1)|null|
 |**2024-03-12**|**JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection**|Hanyu Zhou et.al.|[2403.07436v1](http://arxiv.org/abs/2403.07436v1)|null|
 |**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225v1](http://arxiv.org/abs/2403.07225v1)|null|
@@ -25,10 +32,3 @@
 |**2024-03-07**|**Pairwise interaction of spherical particles aligned in oscillatory flow**|Fabian Kleischmann et.al.|[2403.04304v1](http://arxiv.org/abs/2403.04304v1)|null|
 |**2024-03-06**|**Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**|He Li et.al.|[2403.03541v1](http://arxiv.org/abs/2403.03541v1)|null|
 |**2024-03-06**|**Energetic and Control Trade-offs in Spring-Wing Systems**|James Lynch et.al.|[2403.03398v1](http://arxiv.org/abs/2403.03398v1)|null|
-|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
-|**2024-03-05**|**CHEX-MATE : turbulence in the ICM from X-ray surface brightness fluctuations**|Simon Dupourqué et.al.|[2403.03064v1](http://arxiv.org/abs/2403.03064v1)|null|
-|**2024-03-05**|**Ultrahigh Resolution X-ray Thomson Scattering Measurements of Electronic Structures**|Thomas Gawne et.al.|[2403.02776v1](http://arxiv.org/abs/2403.02776v1)|null|
-|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773v1](http://arxiv.org/abs/2403.02773v1)|[link](https://github.com/hyesu-jang/lodestar)|
-|**2024-03-05**|**Radiation and Heat Transport in Divergent Shock-Bubble Interactions**|Kelin Kurzer-Ogul et.al.|[2403.02684v1](http://arxiv.org/abs/2403.02684v1)|null|
-|**2024-03-04**|**Determining the difference between local acceleration and local gravity: applications of the equivalence principle to relativistic trajectories**|Steven A. Balbus et.al.|[2403.03965v1](http://arxiv.org/abs/2403.03965v1)|null|
-|**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
