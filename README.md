@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2024-03-14 20:38:20 Asia/Shanghai
+ Automated deployment @ 2024-03-14 20:52:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### SLAM
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
-|**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125v1](http://arxiv.org/abs/2403.08125v1)|null|
+|**2024-03-13**|**3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface**|Linyi Jin et.al.|[2403.08768v1](http://arxiv.org/abs/2403.08768v1)|null|
+|**2024-03-13**|**MonoOcc: Digging into Monocular Semantic Occupancy Prediction**|Yupeng Zheng et.al.|[2403.08766v1](http://arxiv.org/abs/2403.08766v1)|[link](https://github.com/ucaszyp/monoocc)|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748v1](http://arxiv.org/abs/2403.08748v1)|null|
+|**2024-03-13**|**Euclid: Testing photometric selection of emission-line galaxy targets**|M. S. Cagliari et.al.|[2403.08726v1](http://arxiv.org/abs/2403.08726v1)|null|
+|**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640v1](http://arxiv.org/abs/2403.08640v1)|null|
+|**2024-03-13**|**Real-Time Sensor-Based Feedback Control for Obstacle Avoidance in Unknown Environments**|Lyes Smaili et.al.|[2403.08614v1](http://arxiv.org/abs/2403.08614v1)|null|
+|**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586v1](http://arxiv.org/abs/2403.08586v1)|null|
+|**2024-03-13**|**SM4Depth: Seamless Monocular Metric Depth Estimation across Multiple Cameras and Scenes by One Model**|Yihao Liu et.al.|[2403.08556v1](http://arxiv.org/abs/2403.08556v1)|[link](https://github.com/1hao-liu/sm4depth)|
+|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[2403.08455v1](http://arxiv.org/abs/2403.08455v1)|null|
+|**2024-03-13**|**AADNet: Attention aware Demoiréing Network**|M Rakesh Reddy et.al.|[2403.08384v1](http://arxiv.org/abs/2403.08384v1)|null|
+|**2024-03-13**|**METER: a mobile vision transformer architecture for monocular depth estimation**|L. Papa et.al.|[2403.08368v1](http://arxiv.org/abs/2403.08368v1)|[link](https://github.com/lorenzopapa5/meter)|
+|**2024-03-13**|**Improved Image-based Pose Regressor Models for Underwater Environments**|Luyuan Peng et.al.|[2403.08360v1](http://arxiv.org/abs/2403.08360v1)|null|
+|**2024-03-13**|**Semi-Transparent Image Sensors for Eye-Tracking Applications**|Gabriel Mercier et.al.|[2403.08297v1](http://arxiv.org/abs/2403.08297v1)|null|
 |**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119v1](http://arxiv.org/abs/2403.08119v1)|null|
-|**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788v1](http://arxiv.org/abs/2403.07788v1)|null|
+|**2024-03-12**|**V-PRISM: Probabilistic Mapping of Unknown Tabletop Scenes**|Herbert Wright et.al.|[2403.08106v1](http://arxiv.org/abs/2403.08106v1)|null|
+|**2024-03-12**|**Flow-Based Visual Stream Compression for Event Cameras**|Daniel C. Stumpp et.al.|[2403.08086v1](http://arxiv.org/abs/2403.08086v1)|null|
+|**2024-03-12**|**Learning Data Association for Multi-Object Tracking using Only Coordinates**|Mehdi Miah et.al.|[2403.08018v1](http://arxiv.org/abs/2403.08018v1)|null|
+|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869v1](http://arxiv.org/abs/2403.07869v1)|null|
+|**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832v1](http://arxiv.org/abs/2403.07832v1)|null|
+|**2024-03-12**|**Vision-based Vehicle Re-identification in Bridge Scenario using Flock Similarity**|Chunfeng Zhang et.al.|[2403.07752v1](http://arxiv.org/abs/2403.07752v1)|null|
+|**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[2403.07746v1](http://arxiv.org/abs/2403.07746v1)|null|
+|**2024-03-12**|**A Framework for Controlling Multiple Industrial Robots using Mobile Applications**|Daniela Alvarado et.al.|[2403.07639v1](http://arxiv.org/abs/2403.07639v1)|null|
+|**2024-03-12**|**Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework**|Minh Hieu Phan et.al.|[2403.07636v1](http://arxiv.org/abs/2403.07636v1)|[link](https://github.com/hieuphan33/mavl)|
+|**2024-03-12**|**Smartphone region-wise image indoor localization using deep learning for indoor tourist attraction**|Gabriel Toshio Hirokawa Higa et.al.|[2403.07621v1](http://arxiv.org/abs/2403.07621v1)|null|
+|**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547v1](http://arxiv.org/abs/2403.07547v1)|[link](https://github.com/jho-yonsei/smurf)|
+|**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[2403.07535v1](http://arxiv.org/abs/2403.07535v1)|null|
+|**2024-03-12**|**Open-World Semantic Segmentation Including Class Similarity**|Matteo Sodano et.al.|[2403.07532v1](http://arxiv.org/abs/2403.07532v1)|null|
 |**2024-03-12**|**SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2403.07494v1](http://arxiv.org/abs/2403.07494v1)|null|
-|**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225v1](http://arxiv.org/abs/2403.07225v1)|null|
-|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
-|**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
-|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v2](http://arxiv.org/abs/2403.05791v2)|null|
-|**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
-|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
-|**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
-|**2024-03-04**|**Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments**|Junseo Kim et.al.|[2403.02235v1](http://arxiv.org/abs/2403.02235v1)|null|
-|**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|null|
-|**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
-|**2024-03-01**|**Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor**|Junlin Song et.al.|[2403.00976v1](http://arxiv.org/abs/2403.00976v1)|null|
-|**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228v1](http://arxiv.org/abs/2403.00228v1)|null|
-|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771v1](http://arxiv.org/abs/2402.18771v1)|null|
-|**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
-|**2024-02-28**|**Generation of skill-specific maps from graph world models for robotic systems**|Koen de Vos et.al.|[2402.18174v1](http://arxiv.org/abs/2402.18174v1)|null|
-|**2024-02-26**|**Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning**|Luca Barbieri et.al.|[2402.16656v1](http://arxiv.org/abs/2402.16656v1)|null|
-|**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082v1](http://arxiv.org/abs/2402.16082v1)|null|
-|**2024-02-22**|**High-Speed Detector For Low-Powered Devices In Aerial Grasping**|Ashish Kumar et.al.|[2402.14591v2](http://arxiv.org/abs/2402.14591v2)|null|
-|**2024-02-22**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang et.al.|[2402.14345v2](http://arxiv.org/abs/2402.14345v2)|null|
-|**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin et.al.|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|null|
-|**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
-|**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v1](http://arxiv.org/abs/2402.13817v1)|[link](https://github.com/mit-spark/khronos)|
-|**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v2](http://arxiv.org/abs/2402.13609v2)|[link](https://github.com/yutongwangbit/voom)|
-|**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537v1](http://arxiv.org/abs/2402.13537v1)|null|
-|**2024-02-21**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488v2](http://arxiv.org/abs/2402.13488v2)|null|
+|**2024-03-12**|**Study of parameters affecting the cooling capacity of liquid jets by using OpenFoam as tool to solve the inverse heat transfer problem**|Kaissar Nabbout et.al.|[2403.07490v1](http://arxiv.org/abs/2403.07490v1)|null|
+|**2024-03-12**|**Eliminating Cross-modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection**|Jiahui Fu et.al.|[2403.07372v1](http://arxiv.org/abs/2403.07372v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,6 +73,40 @@
 |**2024-03-06**|**Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**|He Li et.al.|[2403.03541v1](http://arxiv.org/abs/2403.03541v1)|null|
 |**2024-03-06**|**Energetic and Control Trade-offs in Spring-Wing Systems**|James Lynch et.al.|[2403.03398v1](http://arxiv.org/abs/2403.03398v1)|null|
 
+### SLAM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
+|**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125v1](http://arxiv.org/abs/2403.08125v1)|null|
+|**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119v1](http://arxiv.org/abs/2403.08119v1)|null|
+|**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788v1](http://arxiv.org/abs/2403.07788v1)|null|
+|**2024-03-12**|**SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2403.07494v1](http://arxiv.org/abs/2403.07494v1)|null|
+|**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225v1](http://arxiv.org/abs/2403.07225v1)|null|
+|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
+|**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
+|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v2](http://arxiv.org/abs/2403.05791v2)|null|
+|**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
+|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
+|**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
+|**2024-03-04**|**Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments**|Junseo Kim et.al.|[2403.02235v1](http://arxiv.org/abs/2403.02235v1)|null|
+|**2024-03-04**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|null|
+|**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
+|**2024-03-01**|**Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor**|Junlin Song et.al.|[2403.00976v1](http://arxiv.org/abs/2403.00976v1)|null|
+|**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228v1](http://arxiv.org/abs/2403.00228v1)|null|
+|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771v1](http://arxiv.org/abs/2402.18771v1)|null|
+|**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
+|**2024-02-28**|**Generation of skill-specific maps from graph world models for robotic systems**|Koen de Vos et.al.|[2402.18174v1](http://arxiv.org/abs/2402.18174v1)|null|
+|**2024-02-26**|**Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning**|Luca Barbieri et.al.|[2402.16656v1](http://arxiv.org/abs/2402.16656v1)|null|
+|**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082v1](http://arxiv.org/abs/2402.16082v1)|null|
+|**2024-02-22**|**High-Speed Detector For Low-Powered Devices In Aerial Grasping**|Ashish Kumar et.al.|[2402.14591v2](http://arxiv.org/abs/2402.14591v2)|null|
+|**2024-02-22**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang et.al.|[2402.14345v2](http://arxiv.org/abs/2402.14345v2)|null|
+|**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin et.al.|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|null|
+|**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
+|**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v1](http://arxiv.org/abs/2402.13817v1)|[link](https://github.com/mit-spark/khronos)|
+|**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v2](http://arxiv.org/abs/2402.13609v2)|[link](https://github.com/yutongwangbit/voom)|
+|**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537v1](http://arxiv.org/abs/2402.13537v1)|null|
+|**2024-02-21**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488v2](http://arxiv.org/abs/2402.13488v2)|null|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,37 +140,3 @@
 |**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947v1](http://arxiv.org/abs/2402.03947v1)|null|
 |**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|
 |**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200v1](http://arxiv.org/abs/2402.02200v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-13**|**3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface**|Linyi Jin et.al.|[2403.08768v1](http://arxiv.org/abs/2403.08768v1)|null|
-|**2024-03-13**|**MonoOcc: Digging into Monocular Semantic Occupancy Prediction**|Yupeng Zheng et.al.|[2403.08766v1](http://arxiv.org/abs/2403.08766v1)|[link](https://github.com/ucaszyp/monoocc)|
-|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748v1](http://arxiv.org/abs/2403.08748v1)|null|
-|**2024-03-13**|**Euclid: Testing photometric selection of emission-line galaxy targets**|M. S. Cagliari et.al.|[2403.08726v1](http://arxiv.org/abs/2403.08726v1)|null|
-|**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640v1](http://arxiv.org/abs/2403.08640v1)|null|
-|**2024-03-13**|**Real-Time Sensor-Based Feedback Control for Obstacle Avoidance in Unknown Environments**|Lyes Smaili et.al.|[2403.08614v1](http://arxiv.org/abs/2403.08614v1)|null|
-|**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586v1](http://arxiv.org/abs/2403.08586v1)|null|
-|**2024-03-13**|**SM4Depth: Seamless Monocular Metric Depth Estimation across Multiple Cameras and Scenes by One Model**|Yihao Liu et.al.|[2403.08556v1](http://arxiv.org/abs/2403.08556v1)|[link](https://github.com/1hao-liu/sm4depth)|
-|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[2403.08455v1](http://arxiv.org/abs/2403.08455v1)|null|
-|**2024-03-13**|**AADNet: Attention aware Demoiréing Network**|M Rakesh Reddy et.al.|[2403.08384v1](http://arxiv.org/abs/2403.08384v1)|null|
-|**2024-03-13**|**METER: a mobile vision transformer architecture for monocular depth estimation**|L. Papa et.al.|[2403.08368v1](http://arxiv.org/abs/2403.08368v1)|[link](https://github.com/lorenzopapa5/meter)|
-|**2024-03-13**|**Improved Image-based Pose Regressor Models for Underwater Environments**|Luyuan Peng et.al.|[2403.08360v1](http://arxiv.org/abs/2403.08360v1)|null|
-|**2024-03-13**|**Semi-Transparent Image Sensors for Eye-Tracking Applications**|Gabriel Mercier et.al.|[2403.08297v1](http://arxiv.org/abs/2403.08297v1)|null|
-|**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119v1](http://arxiv.org/abs/2403.08119v1)|null|
-|**2024-03-12**|**V-PRISM: Probabilistic Mapping of Unknown Tabletop Scenes**|Herbert Wright et.al.|[2403.08106v1](http://arxiv.org/abs/2403.08106v1)|null|
-|**2024-03-12**|**Flow-Based Visual Stream Compression for Event Cameras**|Daniel C. Stumpp et.al.|[2403.08086v1](http://arxiv.org/abs/2403.08086v1)|null|
-|**2024-03-12**|**Learning Data Association for Multi-Object Tracking using Only Coordinates**|Mehdi Miah et.al.|[2403.08018v1](http://arxiv.org/abs/2403.08018v1)|null|
-|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869v1](http://arxiv.org/abs/2403.07869v1)|null|
-|**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832v1](http://arxiv.org/abs/2403.07832v1)|null|
-|**2024-03-12**|**Vision-based Vehicle Re-identification in Bridge Scenario using Flock Similarity**|Chunfeng Zhang et.al.|[2403.07752v1](http://arxiv.org/abs/2403.07752v1)|null|
-|**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[2403.07746v1](http://arxiv.org/abs/2403.07746v1)|null|
-|**2024-03-12**|**A Framework for Controlling Multiple Industrial Robots using Mobile Applications**|Daniela Alvarado et.al.|[2403.07639v1](http://arxiv.org/abs/2403.07639v1)|null|
-|**2024-03-12**|**Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework**|Minh Hieu Phan et.al.|[2403.07636v1](http://arxiv.org/abs/2403.07636v1)|[link](https://github.com/hieuphan33/mavl)|
-|**2024-03-12**|**Smartphone region-wise image indoor localization using deep learning for indoor tourist attraction**|Gabriel Toshio Hirokawa Higa et.al.|[2403.07621v1](http://arxiv.org/abs/2403.07621v1)|null|
-|**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547v1](http://arxiv.org/abs/2403.07547v1)|[link](https://github.com/jho-yonsei/smurf)|
-|**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[2403.07535v1](http://arxiv.org/abs/2403.07535v1)|null|
-|**2024-03-12**|**Open-World Semantic Segmentation Including Class Similarity**|Matteo Sodano et.al.|[2403.07532v1](http://arxiv.org/abs/2403.07532v1)|null|
-|**2024-03-12**|**SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2403.07494v1](http://arxiv.org/abs/2403.07494v1)|null|
-|**2024-03-12**|**Study of parameters affecting the cooling capacity of liquid jets by using OpenFoam as tool to solve the inverse heat transfer problem**|Kaissar Nabbout et.al.|[2403.07490v1](http://arxiv.org/abs/2403.07490v1)|null|
-|**2024-03-12**|**Eliminating Cross-modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection**|Jiahui Fu et.al.|[2403.07372v1](http://arxiv.org/abs/2403.07372v1)|null|
