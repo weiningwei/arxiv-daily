@@ -30,5 +30,5 @@
 |**2024-03-13**|**Improved Image-based Pose Regressor Models for Underwater Environments**|Luyuan Peng et.al.|[2403.08360v1](http://arxiv.org/abs/2403.08360v1)|null|
 |**2024-03-13**|**Semi-Transparent Image Sensors for Eye-Tracking Applications**|Gabriel Mercier et.al.|[2403.08297v1](http://arxiv.org/abs/2403.08297v1)|null|
 |**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119v1](http://arxiv.org/abs/2403.08119v1)|[link](https://github.com/tub-rip/cmax_slam)|
-|**2024-03-12**|**V-PRISM: Probabilistic Mapping of Unknown Tabletop Scenes**|Herbert Wright et.al.|[2403.08106v2](http://arxiv.org/abs/2403.08106v2)|null|
+|**2024-03-12**|**V-PRISM: Probabilistic Mapping of Unknown Tabletop Scenes**|Herbert Wright et.al.|[2403.08106v2](http://arxiv.org/abs/2403.08106v2)|[link](https://github.com/herb-wright/v-prism)|
 |**2024-03-12**|**Flow-Based Visual Stream Compression for Event Cameras**|Daniel C. Stumpp et.al.|[2403.08086v1](http://arxiv.org/abs/2403.08086v1)|null|
