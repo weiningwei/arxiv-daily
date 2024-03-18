@@ -2,6 +2,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-15**|**Lifelong LERF: Local 3D Semantic Inventory Monitoring Using FogROS2**|Adam Rashid et.al.|[2403.10494v1](http://arxiv.org/abs/2403.10494v1)|null|
+|**2024-03-15**|**NeuFlow: Real-time, High-accuracy Optical Flow Estimation on Robots Using Edge Devices**|Zhiyong Zhang et.al.|[2403.10425v1](http://arxiv.org/abs/2403.10425v1)|[link](https://github.com/neufieldrobotics/neuflow)|
+|**2024-03-15**|**A Belief Propagation Algorithm for Multipath-based SLAM with Multiple Map Features: A mmWave MIMO Application**|Xuhong Li et.al.|[2403.10095v1](http://arxiv.org/abs/2403.10095v1)|null|
 |**2024-03-14**|**Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**|Sebastián Barbas Laina et.al.|[2403.09596v1](http://arxiv.org/abs/2403.09596v1)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
 |**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125v1](http://arxiv.org/abs/2403.08125v1)|null|
@@ -29,6 +32,3 @@
 |**2024-02-22**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang et.al.|[2402.14345v2](http://arxiv.org/abs/2402.14345v2)|null|
 |**2024-02-22**|**Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**|Jie Yin et.al.|[2402.14308v1](http://arxiv.org/abs/2402.14308v1)|null|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
-|**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v1](http://arxiv.org/abs/2402.13817v1)|[link](https://github.com/mit-spark/khronos)|
-|**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v2](http://arxiv.org/abs/2402.13609v2)|[link](https://github.com/yutongwangbit/voom)|
-|**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537v1](http://arxiv.org/abs/2402.13537v1)|null|

@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882v1](http://arxiv.org/abs/2403.09882v1)|null|
 |**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997v1](http://arxiv.org/abs/2403.08997v1)|[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
 |**2024-03-11**|**HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association**|Jian Shi et.al.|[2403.06590v1](http://arxiv.org/abs/2403.06590v1)|null|
 |**2024-03-09**|**IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation**|Keenan Burnett et.al.|[2403.05968v1](http://arxiv.org/abs/2403.05968v1)|[link](https://github.com/utiasasrl/steam_icp)|
@@ -31,4 +32,3 @@
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|[link](https://github.com/lias-cuhksz/eikf-vio-lio)|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|[link](https://github.com/unibwtas/yolopoint)|
 |**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947v1](http://arxiv.org/abs/2402.03947v1)|null|
-|**2024-02-04**|**Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association**|Thien-Minh Nguyen et.al.|[2402.02337v1](http://arxiv.org/abs/2402.02337v1)|null|

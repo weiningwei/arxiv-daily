@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-15**|**Pattern selection and the route to turbulence in incompressible polar active fluids**|Henning Reinken et.al.|[2403.10305v1](http://arxiv.org/abs/2403.10305v1)|null|
+|**2024-03-15**|**Synthesizing impurity clustering in the edge plasma of tokamaks using neural networks**|Zetao Lin et.al.|[2403.10219v1](http://arxiv.org/abs/2403.10219v1)|null|
+|**2024-03-15**|**Clustering and chaotic motion of heavy inertial particles in an isolated non-axisymmetric vortex**|Anu V. S. Nath et.al.|[2403.10011v1](http://arxiv.org/abs/2403.10011v1)|null|
+|**2024-03-14**|**Internally Driven $β$-plane Plasma Turbulence Using the Hasegawa-Wakatani System**|Özgür D. Gürcan et.al.|[2403.09911v1](http://arxiv.org/abs/2403.09911v1)|null|
+|**2024-03-14**|**Metaharvesting: Emergent energy harvesting by piezoelectric metamaterials**|Ibrahim Patrick et.al.|[2403.09884v1](http://arxiv.org/abs/2403.09884v1)|null|
+|**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882v1](http://arxiv.org/abs/2403.09882v1)|null|
 |**2024-03-14**|**Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**|Sebastián Barbas Laina et.al.|[2403.09596v1](http://arxiv.org/abs/2403.09596v1)|null|
 |**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997v1](http://arxiv.org/abs/2403.08997v1)|[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
 |**2024-03-13**|**Multi-axis inertial sensing with 2D arrays of Bose Einstein Condensates**|K. Stolzenberg et.al.|[2403.08762v1](http://arxiv.org/abs/2403.08762v1)|null|
@@ -26,9 +32,3 @@
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|
 |**2024-03-08**|**DeRO: Dead Reckoning Based on Radar Odometry With Accelerometers Aided for Robot Localization**|Hoang Viet Do et.al.|[2403.05136v1](http://arxiv.org/abs/2403.05136v1)|[link](https://github.com/hoangvietdo/dero)|
 |**2024-03-08**|**Validation of hydrodynamic and kinetic simulations with a plasma interpenetration ICF hohlraum experiment**|Steven E. Anderson et.al.|[2403.04967v1](http://arxiv.org/abs/2403.04967v1)|null|
-|**2024-03-07**|**Parameter identification in PDEs by the solution of monotone inclusion problems**|Pankaj Gautam et.al.|[2403.04557v1](http://arxiv.org/abs/2403.04557v1)|null|
-|**2024-03-07**|**Comparison of Deep Learning Techniques on Human Activity Recognition using Ankle Inertial Signals**|Farhad Nazari et.al.|[2403.04387v1](http://arxiv.org/abs/2403.04387v1)|null|
-|**2024-03-07**|**IMU Tracking of Kinematic Chains in the Absence of Gravitational and Magnetic Fields**|Greg K. Stretton et.al.|[2403.04357v1](http://arxiv.org/abs/2403.04357v1)|null|
-|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
-|**2024-03-07**|**The dynamics of fibers dispersed in viscoelastic turbulent flows**|M. S. Aswathy et.al.|[2403.04305v1](http://arxiv.org/abs/2403.04305v1)|null|
-|**2024-03-07**|**Pairwise interaction of spherical particles aligned in oscillatory flow**|Fabian Kleischmann et.al.|[2403.04304v1](http://arxiv.org/abs/2403.04304v1)|null|
