@@ -14,7 +14,7 @@
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274v1](http://arxiv.org/abs/2403.09274v1)|[link](https://github.com/myuansun/eventrpg)|
 |**2024-03-14**|**Improving Distant 3D Object Detection Using 2D Box Supervision**|Zetong Yang et.al.|[2403.09230v1](http://arxiv.org/abs/2403.09230v1)|null|
 |**2024-03-14**|**Generalized Relevance Learning Grassmann Quantization**|M. Mohammadi et.al.|[2403.09183v1](http://arxiv.org/abs/2403.09183v1)|null|
-|**2024-03-13**|**On the Intersection of Two Conics**|Michela Mancini et.al.|[2403.08953v1](http://arxiv.org/abs/2403.08953v1)|null|
+|**2024-03-13**|**On the Intersection of Two Conics**|Michela Mancini et.al.|[2403.08953v2](http://arxiv.org/abs/2403.08953v2)|null|
 |**2024-03-13**|**SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net**|Helin Cao et.al.|[2403.08885v1](http://arxiv.org/abs/2403.08885v1)|null|
 |**2024-03-13**|**3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface**|Linyi Jin et.al.|[2403.08768v1](http://arxiv.org/abs/2403.08768v1)|null|
 |**2024-03-13**|**MonoOcc: Digging into Monocular Semantic Occupancy Prediction**|Yupeng Zheng et.al.|[2403.08766v1](http://arxiv.org/abs/2403.08766v1)|[link](https://github.com/ucaszyp/monoocc)|
