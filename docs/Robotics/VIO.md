@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-19**|**High Precision Inertial Sensors on a One Inch Diameter Optic**|Jonathan J Carter et.al.|[2403.12632v1](http://arxiv.org/abs/2403.12632v1)|null|
+|**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631v1](http://arxiv.org/abs/2403.12631v1)|null|
+|**2024-03-19**|**Surfactant-laden liquid thread breakup driven by thermal fluctuations**|L. H. Carnevale et.al.|[2403.12614v1](http://arxiv.org/abs/2403.12614v1)|null|
+|**2024-03-19**|**TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO**|Chaoran Xiong et.al.|[2403.12504v1](http://arxiv.org/abs/2403.12504v1)|null|
+|**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194v1](http://arxiv.org/abs/2403.12194v1)|null|
+|**2024-03-18**|**Coriolis effects on wind turbine wakes across atmospheric boundary layer regimes**|Kirby S. Heck et.al.|[2403.12190v1](http://arxiv.org/abs/2403.12190v1)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639v1](http://arxiv.org/abs/2403.11639v1)|null|
 |**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496v1](http://arxiv.org/abs/2403.11496v1)|null|
 |**2024-03-17**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370v2](http://arxiv.org/abs/2403.11370v2)|null|
@@ -26,9 +32,3 @@
 |**2024-03-12**|**Discrete Laplacian thermostat for flocks and swarms: the fully conserved Inertial Spin Model**|Andrea Cavagna et.al.|[2403.07644v1](http://arxiv.org/abs/2403.07644v1)|null|
 |**2024-03-12**|**JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection**|Hanyu Zhou et.al.|[2403.07436v1](http://arxiv.org/abs/2403.07436v1)|null|
 |**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225v1](http://arxiv.org/abs/2403.07225v1)|null|
-|**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979v2](http://arxiv.org/abs/2403.06979v2)|null|
-|**2024-03-11**|**Heavy Ball Momentum for Non-Strongly Convex Optimization**|Jean-François Aujol et.al.|[2403.06930v1](http://arxiv.org/abs/2403.06930v1)|null|
-|**2024-03-11**|**HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association**|Jian Shi et.al.|[2403.06590v1](http://arxiv.org/abs/2403.06590v1)|null|
-|**2024-03-11**|**Detecting degenerate bands topological invariants in optical lattice**|Jing-Xin Liu et.al.|[2403.06565v1](http://arxiv.org/abs/2403.06565v1)|null|
-|**2024-03-10**|**Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!**|Huanqi Yang et.al.|[2403.06201v1](http://arxiv.org/abs/2403.06201v1)|null|
-|**2024-03-09**|**IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation**|Keenan Burnett et.al.|[2403.05968v1](http://arxiv.org/abs/2403.05968v1)|[link](https://github.com/utiasasrl/steam_icp)|
