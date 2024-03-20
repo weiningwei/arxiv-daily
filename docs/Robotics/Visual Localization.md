@@ -2,13 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-18**|**BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation**|Jonas Schramm et.al.|[2403.11761v1](http://arxiv.org/abs/2403.11761v1)|null|
 |**2024-03-18**|**Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification**|Kaijie Ren et.al.|[2403.11708v1](http://arxiv.org/abs/2403.11708v1)|[link](https://github.com/1kk077/idkl)|
 |**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
 |**2024-03-18**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662v1](http://arxiv.org/abs/2403.11662v1)|null|
 |**2024-03-18**|**OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System**|Chih-Chung Hsu et.al.|[2403.11536v1](http://arxiv.org/abs/2403.11536v1)|null|
 |**2024-03-18**|**SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications**|Amira Guesmi et.al.|[2403.11515v1](http://arxiv.org/abs/2403.11515v1)|null|
 |**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496v1](http://arxiv.org/abs/2403.11496v1)|null|
-|**2024-03-18**|**SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction**|Yang Zhou et.al.|[2403.11492v1](http://arxiv.org/abs/2403.11492v1)|[link](https://github.com/opendilab/smartrefine)|
+|**2024-03-18**|**SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction**|Yang Zhou et.al.|[2403.11492v2](http://arxiv.org/abs/2403.11492v2)|[link](https://github.com/opendilab/smartrefine)|
 |**2024-03-17**|**Reconstruct before Query: Continual Missing Modality Learning with Decomposed Prompt Collaboration**|Shu Zhao et.al.|[2403.11373v1](http://arxiv.org/abs/2403.11373v1)|[link](https://github.com/tree-shu-zhao/rebq.pytorch)|
 |**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367v1](http://arxiv.org/abs/2403.11367v1)|null|
 |**2024-03-17**|**Multi-Scale Experimental Characterization for LS-DYNA MAT213 Modeling of Composite Structures under High Strain Rate**|Jackob Black et.al.|[2403.11316v1](http://arxiv.org/abs/2403.11316v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-15**|**Open Stamped Parts Dataset**|Sara Antiles et.al.|[2403.10369v1](http://arxiv.org/abs/2403.10369v1)|null|
 |**2024-03-15**|**ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image**|Marco Pesavento et.al.|[2403.10357v2](http://arxiv.org/abs/2403.10357v2)|null|
 |**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353v1](http://arxiv.org/abs/2403.10353v1)|null|
-|**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340v1](http://arxiv.org/abs/2403.10340v1)|null|

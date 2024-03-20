@@ -9,7 +9,7 @@
 |**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997v1](http://arxiv.org/abs/2403.08997v1)|[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
 |**2024-03-11**|**HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association**|Jian Shi et.al.|[2403.06590v1](http://arxiv.org/abs/2403.06590v1)|null|
 |**2024-03-09**|**IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation**|Keenan Burnett et.al.|[2403.05968v1](http://arxiv.org/abs/2403.05968v1)|[link](https://github.com/utiasasrl/steam_icp)|
-|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v2](http://arxiv.org/abs/2403.05791v2)|null|
+|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v3](http://arxiv.org/abs/2403.05791v3)|null|
 |**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[2403.05513v1](http://arxiv.org/abs/2403.05513v1)|null|
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|
 |**2024-03-08**|**DeRO: Dead Reckoning Based on Radar Odometry With Accelerometers Aided for Robot Localization**|Hoang Viet Do et.al.|[2403.05136v1](http://arxiv.org/abs/2403.05136v1)|[link](https://github.com/hoangvietdo/dero)|
