@@ -29,6 +29,6 @@
 |**2024-03-15**|**Lifelong LERF: Local 3D Semantic Inventory Monitoring Using FogROS2**|Adam Rashid et.al.|[2403.10494v1](http://arxiv.org/abs/2403.10494v1)|null|
 |**2024-03-15**|**How Suboptimal is Training rPPG Models with Videos and Targets from Different Body Sites?**|Björn Braun et.al.|[2403.10582v1](http://arxiv.org/abs/2403.10582v1)|null|
 |**2024-03-15**|**Open Stamped Parts Dataset**|Sara Antiles et.al.|[2403.10369v1](http://arxiv.org/abs/2403.10369v1)|null|
-|**2024-03-15**|**ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image**|Marco Pesavento et.al.|[2403.10357v1](http://arxiv.org/abs/2403.10357v1)|null|
+|**2024-03-15**|**ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D image**|Marco Pesavento et.al.|[2403.10357v2](http://arxiv.org/abs/2403.10357v2)|null|
 |**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353v1](http://arxiv.org/abs/2403.10353v1)|null|
 |**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340v1](http://arxiv.org/abs/2403.10340v1)|null|
