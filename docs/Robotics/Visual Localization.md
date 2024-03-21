@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance**|Zixuan Wang et.al.|[2403.13667v1](http://arxiv.org/abs/2403.13667v1)|null|
+|**2024-03-20**|**Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments**|Djamahl Etchegaray et.al.|[2403.13556v1](http://arxiv.org/abs/2403.13556v1)|null|
+|**2024-03-20**|**Time-resolved measurement of acoustic density fluctuations using a phase-shifting Mach-Zehnder interferometer**|Eita Shoji et.al.|[2403.13506v1](http://arxiv.org/abs/2403.13506v1)|null|
+|**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455v1](http://arxiv.org/abs/2403.13455v1)|null|
+|**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
+|**2024-03-20**|**Learning Novel View Synthesis from Heterogeneous Low-light Captures**|Quan Zheng et.al.|[2403.13337v1](http://arxiv.org/abs/2403.13337v1)|null|
+|**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|null|
+|**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199v1](http://arxiv.org/abs/2403.13199v1)|null|
+|**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193v1](http://arxiv.org/abs/2403.13193v1)|null|
+|**2024-03-19**|**Interactive Robot-Environment Self-Calibration via Compliant Exploratory Actions**|Podshara Chanrungmaneekul et.al.|[2403.13144v1](http://arxiv.org/abs/2403.13144v1)|null|
+|**2024-03-19**|**Digital Twin-Driven Reinforcement Learning for Obstacle Avoidance in Robot Manipulators: A Self-Improving Online Training Framework**|Yuzhu Sun et.al.|[2403.13090v1](http://arxiv.org/abs/2403.13090v1)|null|
+|**2024-03-19**|**Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos**|Hadi Alzayer et.al.|[2403.13044v1](http://arxiv.org/abs/2403.13044v1)|null|
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
 |**2024-03-19**|**Short-Term Solar Irradiance Forecasting Under Data Transmission Constraints**|Joshua Edward Hammond et.al.|[2403.12873v1](http://arxiv.org/abs/2403.12873v1)|[link](https://github.com/joshuaeh/tabularsolarforecast)|
 |**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821v1](http://arxiv.org/abs/2403.12821v1)|[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)|
@@ -19,16 +32,3 @@
 |**2024-03-19**|**Multi-Object RANSAC: Efficient Plane Clustering Method in a Clutter**|Seunghyeon Lim et.al.|[2403.12449v1](http://arxiv.org/abs/2403.12449v1)|null|
 |**2024-03-19**|**Self-learning Canonical Space for Multi-view 3D Human Pose Estimation**|Xiaoben Li et.al.|[2403.12440v1](http://arxiv.org/abs/2403.12440v1)|null|
 |**2024-03-19**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434v2](http://arxiv.org/abs/2403.12434v2)|null|
-|**2024-03-19**|**Prototipo de video juego activo basado en una cámara 3D para motivar la actividad física en niños y adultos mayores**|Benjamín Ojeda Magaña et.al.|[2403.12432v1](http://arxiv.org/abs/2403.12432v1)|null|
-|**2024-03-19**|**Geometric Constraints in Deep Learning Frameworks: A Survey**|Vibhas K Vats et.al.|[2403.12431v1](http://arxiv.org/abs/2403.12431v1)|null|
-|**2024-03-19**|**VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**|Hao Wang et.al.|[2403.12415v1](http://arxiv.org/abs/2403.12415v1)|null|
-|**2024-03-18**|**Prototipo de un Contador Bidireccional Automático de Personas basado en sensores de visión 3D**|Benjamín Ojeda-Magaña et.al.|[2403.12310v1](http://arxiv.org/abs/2403.12310v1)|null|
-|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198v1](http://arxiv.org/abs/2403.12198v1)|null|
-|**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194v1](http://arxiv.org/abs/2403.12194v1)|null|
-|**2024-03-18**|**Phobos photometric properties from Mars Express HRSC observations**|S. Fornasier et.al.|[2403.12156v1](http://arxiv.org/abs/2403.12156v1)|null|
-|**2024-03-18**|**StereoNavNet: Learning to Navigate using Stereo Cameras with Auxiliary Occupancy Voxels**|Hongyu Li et.al.|[2403.12039v1](http://arxiv.org/abs/2403.12039v1)|null|
-|**2024-03-18**|**SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion**|Vikram Voleti et.al.|[2403.12008v1](http://arxiv.org/abs/2403.12008v1)|null|
-|**2024-03-18**|**SceneSense: Diffusion Models for 3D Occupancy Synthesis from Partial Observation**|Alec Reed et.al.|[2403.11985v1](http://arxiv.org/abs/2403.11985v1)|null|
-|**2024-03-18**|**Pedestrian Tracking with Monocular Camera using Unconstrained 3D Motion Model**|Jan Krejčí et.al.|[2403.11978v1](http://arxiv.org/abs/2403.11978v1)|null|
-|**2024-03-18**|**AI-Assisted Cervical Cancer Screening**|Kanchan Poudel et.al.|[2403.11936v1](http://arxiv.org/abs/2403.11936v1)|null|
-|**2024-03-18**|**HyperColorization: Propagating spatially sparse noisy spectral clues for reconstructing hyperspectral images**|M. Kerem Aydin et.al.|[2403.11935v1](http://arxiv.org/abs/2403.11935v1)|null|
