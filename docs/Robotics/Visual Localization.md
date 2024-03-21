@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
-|**2024-03-19**|**Short-Term Solar Irradiance Forecasting Under Data Transmission Constraints**|Joshua Edward Hammond et.al.|[2403.12873v1](http://arxiv.org/abs/2403.12873v1)|null|
+|**2024-03-19**|**Short-Term Solar Irradiance Forecasting Under Data Transmission Constraints**|Joshua Edward Hammond et.al.|[2403.12873v1](http://arxiv.org/abs/2403.12873v1)|[link](https://github.com/joshuaeh/tabularsolarforecast)|
 |**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821v1](http://arxiv.org/abs/2403.12821v1)|[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-19**|**Instructing Large Language Models to Identify and Ignore Irrelevant Conditions**|Zhenyu Wu et.al.|[2403.12744v1](http://arxiv.org/abs/2403.12744v1)|[link](https://github.com/wzy6642/I3C-Select)|
@@ -18,7 +18,7 @@
 |**2024-03-19**|**Diagrammatic Instructions to Specify Spatial Objectives and Constraints with Applications to Mobile Base Placement**|Qilin Sun et.al.|[2403.12465v1](http://arxiv.org/abs/2403.12465v1)|null|
 |**2024-03-19**|**Multi-Object RANSAC: Efficient Plane Clustering Method in a Clutter**|Seunghyeon Lim et.al.|[2403.12449v1](http://arxiv.org/abs/2403.12449v1)|null|
 |**2024-03-19**|**Self-learning Canonical Space for Multi-view 3D Human Pose Estimation**|Xiaoben Li et.al.|[2403.12440v1](http://arxiv.org/abs/2403.12440v1)|null|
-|**2024-03-19**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434v1](http://arxiv.org/abs/2403.12434v1)|null|
+|**2024-03-19**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434v2](http://arxiv.org/abs/2403.12434v2)|null|
 |**2024-03-19**|**Prototipo de video juego activo basado en una cámara 3D para motivar la actividad física en niños y adultos mayores**|Benjamín Ojeda Magaña et.al.|[2403.12432v1](http://arxiv.org/abs/2403.12432v1)|null|
 |**2024-03-19**|**Geometric Constraints in Deep Learning Frameworks: A Survey**|Vibhas K Vats et.al.|[2403.12431v1](http://arxiv.org/abs/2403.12431v1)|null|
 |**2024-03-19**|**VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**|Hao Wang et.al.|[2403.12415v1](http://arxiv.org/abs/2403.12415v1)|null|
