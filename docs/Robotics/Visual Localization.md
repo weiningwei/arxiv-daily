@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626v1](http://arxiv.org/abs/2403.14626v1)|null|
+|**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614v1](http://arxiv.org/abs/2403.14614v1)|null|
+|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
+|**2024-03-21**|**Designing Robust Linear Output Feedback Controller based on CLF-CBF framework via Linear~Programming(LP-CLF-CBF)**|Mahroo Bahreinian et.al.|[2403.14519v1](http://arxiv.org/abs/2403.14519v1)|null|
+|**2024-03-21**|**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**|Quan Zhang et.al.|[2403.14513v1](http://arxiv.org/abs/2403.14513v1)|[link](https://github.com/linlyac/vdt-agpreid)|
+|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro. Andrea Toaiari et.al.|[2403.14447v1](http://arxiv.org/abs/2403.14447v1)|null|
+|**2024-03-21**|**Varroa destructor detection on honey bees using hyperspectral imagery**|Zina-Sabrina Duma et.al.|[2403.14359v1](http://arxiv.org/abs/2403.14359v1)|null|
+|**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320v1](http://arxiv.org/abs/2403.14320v1)|null|
+|**2024-03-21**|**EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition**|Xu Zheng et.al.|[2403.14082v1](http://arxiv.org/abs/2403.14082v1)|null|
+|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053v1](http://arxiv.org/abs/2403.14053v1)|null|
+|**2024-03-20**|**Filming runners with drones is hard**|José-Miguel Díaz-Báñez et.al.|[2403.14033v1](http://arxiv.org/abs/2403.14033v1)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
 |**2024-03-20**|**DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance**|Zixuan Wang et.al.|[2403.13667v1](http://arxiv.org/abs/2403.13667v1)|null|
 |**2024-03-20**|**Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments**|Djamahl Etchegaray et.al.|[2403.13556v1](http://arxiv.org/abs/2403.13556v1)|null|
@@ -21,14 +32,3 @@
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-19**|**Instructing Large Language Models to Identify and Ignore Irrelevant Conditions**|Zhenyu Wu et.al.|[2403.12744v1](http://arxiv.org/abs/2403.12744v1)|[link](https://github.com/wzy6642/I3C-Select)|
 |**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686v1](http://arxiv.org/abs/2403.12686v1)|null|
-|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
-|**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631v1](http://arxiv.org/abs/2403.12631v1)|null|
-|**2024-03-19**|**Discrepancies in dynamic yield stress measurements of cement pastes**|Subhransu Dhar et.al.|[2403.12593v1](http://arxiv.org/abs/2403.12593v1)|null|
-|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574v1](http://arxiv.org/abs/2403.12574v1)|null|
-|**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538v1](http://arxiv.org/abs/2403.12538v1)|null|
-|**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|
-|**2024-03-19**|**PCT: Perspective Cue Training Framework for Multi-Camera BEV Segmentation**|Haruya Ishikawa et.al.|[2403.12530v1](http://arxiv.org/abs/2403.12530v1)|null|
-|**2024-03-19**|**Diagrammatic Instructions to Specify Spatial Objectives and Constraints with Applications to Mobile Base Placement**|Qilin Sun et.al.|[2403.12465v1](http://arxiv.org/abs/2403.12465v1)|null|
-|**2024-03-19**|**Multi-Object RANSAC: Efficient Plane Clustering Method in a Clutter**|Seunghyeon Lim et.al.|[2403.12449v1](http://arxiv.org/abs/2403.12449v1)|null|
-|**2024-03-19**|**Self-learning Canonical Space for Multi-view 3D Human Pose Estimation**|Xiaoben Li et.al.|[2403.12440v1](http://arxiv.org/abs/2403.12440v1)|null|
-|**2024-03-19**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434v2](http://arxiv.org/abs/2403.12434v2)|null|
