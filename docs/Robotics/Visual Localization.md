@@ -17,7 +17,7 @@
 |**2024-03-19**|**Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos**|Hadi Alzayer et.al.|[2403.13044v1](http://arxiv.org/abs/2403.13044v1)|null|
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
 |**2024-03-19**|**Short-Term Solar Irradiance Forecasting Under Data Transmission Constraints**|Joshua Edward Hammond et.al.|[2403.12873v1](http://arxiv.org/abs/2403.12873v1)|[link](https://github.com/joshuaeh/tabularsolarforecast)|
-|**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821v1](http://arxiv.org/abs/2403.12821v1)|[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)|
+|**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821v2](http://arxiv.org/abs/2403.12821v2)|[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-19**|**Instructing Large Language Models to Identify and Ignore Irrelevant Conditions**|Zhenyu Wu et.al.|[2403.12744v1](http://arxiv.org/abs/2403.12744v1)|[link](https://github.com/wzy6642/I3C-Select)|
 |**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686v1](http://arxiv.org/abs/2403.12686v1)|null|
