@@ -8,7 +8,7 @@
 |**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|[link](https://github.com/dlr-rm/umf)|
 |**2024-03-20**|**Tuning body shape and stiffness to mitigate water-entry forces**|Bart Boom et.al.|[2403.13262v1](http://arxiv.org/abs/2403.13262v1)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v1](http://arxiv.org/abs/2403.12837v1)|null|
-|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550v1](http://arxiv.org/abs/2403.12550v1)|[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)|
+|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550v2](http://arxiv.org/abs/2403.12550v2)|[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)|
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535v1](http://arxiv.org/abs/2403.12535v1)|null|
 |**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
 |**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
