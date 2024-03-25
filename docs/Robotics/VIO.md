@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-22**|**The effect of collision-coagulation on the mean relative velocity of particles in turbulent flow: systematic results and validation of model**|Xiaohui Meng et.al.|[2403.14928v1](http://arxiv.org/abs/2403.14928v1)|null|
 |**2024-03-21**|**Electrostatic wave interaction via asymmetric vector solitons as precursor to rogue wave formation in non-Maxwellian plasmas**|N. Lazarides et.al.|[2403.14505v1](http://arxiv.org/abs/2403.14505v1)|null|
 |**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
 |**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-14**|**Metaharvesting: Emergent energy harvesting by piezoelectric metamaterials**|Ibrahim Patrick et.al.|[2403.09884v1](http://arxiv.org/abs/2403.09884v1)|null|
 |**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882v1](http://arxiv.org/abs/2403.09882v1)|null|
 |**2024-03-14**|**Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**|Sebastián Barbas Laina et.al.|[2403.09596v1](http://arxiv.org/abs/2403.09596v1)|null|
-|**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997v1](http://arxiv.org/abs/2403.08997v1)|[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
