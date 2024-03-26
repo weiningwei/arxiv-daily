@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-26 20:59:10 Asia/Shanghai
+ Automated deployment @ 2024-03-26 21:13:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2024-03-22**|**HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers**|Christian Lenz et.al.|[2403.15306v1](http://arxiv.org/abs/2403.15306v1)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-25**|**Modulational electrostatic wave-wave interactions in plasma fluids modeled by asymmetric coupled nonlinear Schrödinger (CNLS) equations**|N. Lazarides et.al.|[2403.16715v1](http://arxiv.org/abs/2403.16715v1)|null|
-|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|
-|**2024-03-24**|**Legged Robot State Estimation within Non-inertial Environments**|Zijian He et.al.|[2403.16252v1](http://arxiv.org/abs/2403.16252v1)|null|
-|**2024-03-24**|**Non-Inertial Rigid Frames and the Principle of Equivalence**|Dawood Kothawala et.al.|[2403.16229v1](http://arxiv.org/abs/2403.16229v1)|null|
-|**2024-03-22**|**U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**|Aalok Patwardhan et.al.|[2403.15583v1](http://arxiv.org/abs/2403.15583v1)|null|
-|**2024-03-22**|**The effect of collision-coagulation on the mean relative velocity of particles in turbulent flow: systematic results and validation of model**|Xiaohui Meng et.al.|[2403.14928v1](http://arxiv.org/abs/2403.14928v1)|null|
-|**2024-03-22**|**A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaotic Mapping Theory and Reverse Learning Competition Strategy**|Baiyi Wang et.al.|[2403.15505v1](http://arxiv.org/abs/2403.15505v1)|null|
-|**2024-03-21**|**Multiple and Gyro-Free Inertial Datasets**|Zeev Yampolsky et.al.|[2403.15494v1](http://arxiv.org/abs/2403.15494v1)|null|
-|**2024-03-21**|**Electrostatic wave interaction via asymmetric vector solitons as precursor to rogue wave formation in non-Maxwellian plasmas**|N. Lazarides et.al.|[2403.14505v1](http://arxiv.org/abs/2403.14505v1)|null|
-|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
-|**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
-|**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|[link](https://github.com/great-whu/dba-fusion)|
-|**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455v1](http://arxiv.org/abs/2403.13455v1)|[link](https://github.com/zju-fast-lab/fact-coordinate-initialization)|
-|**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
-|**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|[link](https://github.com/spectacularai/3dgs-deblur)|
-|**2024-03-20**|**Extended Spreading of Saline Droplets upon Impact on a Frosty Surface**|Hao Zeng et.al.|[2403.13229v1](http://arxiv.org/abs/2403.13229v1)|null|
-|**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170v1](http://arxiv.org/abs/2403.13170v1)|null|
-|**2024-03-19**|**High Precision Inertial Sensors on a One Inch Diameter Optic**|Jonathan J Carter et.al.|[2403.12632v1](http://arxiv.org/abs/2403.12632v1)|null|
-|**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631v1](http://arxiv.org/abs/2403.12631v1)|null|
-|**2024-03-19**|**Surfactant-laden liquid thread breakup driven by thermal fluctuations**|L. H. Carnevale et.al.|[2403.12614v1](http://arxiv.org/abs/2403.12614v1)|null|
-|**2024-03-19**|**TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO**|Chaoran Xiong et.al.|[2403.12504v1](http://arxiv.org/abs/2403.12504v1)|null|
-|**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194v1](http://arxiv.org/abs/2403.12194v1)|null|
-|**2024-03-18**|**Coriolis effects on wind turbine wakes across atmospheric boundary layer regimes**|Kirby S. Heck et.al.|[2403.12190v1](http://arxiv.org/abs/2403.12190v1)|null|
-|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639v1](http://arxiv.org/abs/2403.11639v1)|null|
-|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496v1](http://arxiv.org/abs/2403.11496v1)|null|
-|**2024-03-18**|**Neural Downscaling for Complex Systems: from Large-scale to Small-scale by Neural Operator**|Pengyu Lai et.al.|[2403.13016v1](http://arxiv.org/abs/2403.13016v1)|null|
-|**2024-03-18**|**Shape Sensing for Continuum Robotics using Optoelectronic Sensors with Convex Reflectors**|Dalia Osman et.al.|[2403.15446v1](http://arxiv.org/abs/2403.15446v1)|null|
-|**2024-03-17**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370v2](http://arxiv.org/abs/2403.11370v2)|null|
-|**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364v1](http://arxiv.org/abs/2403.11364v1)|null|
-|**2024-03-16**|**Integration of 5G and Motion Sensors for Vehicular Positioning: A Loosely-Coupled Approach**|Sharief Saleh et.al.|[2403.10872v1](http://arxiv.org/abs/2403.10872v1)|null|
-
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,6 +72,40 @@
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082v1](http://arxiv.org/abs/2402.16082v1)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|[link](https://github.com/master-cai/voloc)|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-25**|**Modulational electrostatic wave-wave interactions in plasma fluids modeled by asymmetric coupled nonlinear Schrödinger (CNLS) equations**|N. Lazarides et.al.|[2403.16715v1](http://arxiv.org/abs/2403.16715v1)|null|
+|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|
+|**2024-03-24**|**Legged Robot State Estimation within Non-inertial Environments**|Zijian He et.al.|[2403.16252v1](http://arxiv.org/abs/2403.16252v1)|null|
+|**2024-03-24**|**Non-Inertial Rigid Frames and the Principle of Equivalence**|Dawood Kothawala et.al.|[2403.16229v1](http://arxiv.org/abs/2403.16229v1)|null|
+|**2024-03-22**|**U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**|Aalok Patwardhan et.al.|[2403.15583v1](http://arxiv.org/abs/2403.15583v1)|null|
+|**2024-03-22**|**The effect of collision-coagulation on the mean relative velocity of particles in turbulent flow: systematic results and validation of model**|Xiaohui Meng et.al.|[2403.14928v1](http://arxiv.org/abs/2403.14928v1)|null|
+|**2024-03-22**|**A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaotic Mapping Theory and Reverse Learning Competition Strategy**|Baiyi Wang et.al.|[2403.15505v1](http://arxiv.org/abs/2403.15505v1)|null|
+|**2024-03-21**|**Multiple and Gyro-Free Inertial Datasets**|Zeev Yampolsky et.al.|[2403.15494v1](http://arxiv.org/abs/2403.15494v1)|null|
+|**2024-03-21**|**Electrostatic wave interaction via asymmetric vector solitons as precursor to rogue wave formation in non-Maxwellian plasmas**|N. Lazarides et.al.|[2403.14505v1](http://arxiv.org/abs/2403.14505v1)|null|
+|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
+|**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
+|**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|[link](https://github.com/great-whu/dba-fusion)|
+|**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455v1](http://arxiv.org/abs/2403.13455v1)|[link](https://github.com/zju-fast-lab/fact-coordinate-initialization)|
+|**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
+|**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|[link](https://github.com/spectacularai/3dgs-deblur)|
+|**2024-03-20**|**Extended Spreading of Saline Droplets upon Impact on a Frosty Surface**|Hao Zeng et.al.|[2403.13229v1](http://arxiv.org/abs/2403.13229v1)|null|
+|**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170v1](http://arxiv.org/abs/2403.13170v1)|null|
+|**2024-03-19**|**High Precision Inertial Sensors on a One Inch Diameter Optic**|Jonathan J Carter et.al.|[2403.12632v1](http://arxiv.org/abs/2403.12632v1)|null|
+|**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631v1](http://arxiv.org/abs/2403.12631v1)|null|
+|**2024-03-19**|**Surfactant-laden liquid thread breakup driven by thermal fluctuations**|L. H. Carnevale et.al.|[2403.12614v1](http://arxiv.org/abs/2403.12614v1)|null|
+|**2024-03-19**|**TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO**|Chaoran Xiong et.al.|[2403.12504v1](http://arxiv.org/abs/2403.12504v1)|null|
+|**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194v1](http://arxiv.org/abs/2403.12194v1)|null|
+|**2024-03-18**|**Coriolis effects on wind turbine wakes across atmospheric boundary layer regimes**|Kirby S. Heck et.al.|[2403.12190v1](http://arxiv.org/abs/2403.12190v1)|null|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639v1](http://arxiv.org/abs/2403.11639v1)|null|
+|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496v1](http://arxiv.org/abs/2403.11496v1)|null|
+|**2024-03-18**|**Neural Downscaling for Complex Systems: from Large-scale to Small-scale by Neural Operator**|Pengyu Lai et.al.|[2403.13016v1](http://arxiv.org/abs/2403.13016v1)|null|
+|**2024-03-18**|**Shape Sensing for Continuum Robotics using Optoelectronic Sensors with Convex Reflectors**|Dalia Osman et.al.|[2403.15446v1](http://arxiv.org/abs/2403.15446v1)|null|
+|**2024-03-17**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370v2](http://arxiv.org/abs/2403.11370v2)|null|
+|**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364v1](http://arxiv.org/abs/2403.11364v1)|null|
+|**2024-03-16**|**Integration of 5G and Motion Sensors for Vehicular Positioning: A Loosely-Coupled Approach**|Sharief Saleh et.al.|[2403.10872v1](http://arxiv.org/abs/2403.10872v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
