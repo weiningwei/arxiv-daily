@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095v1](http://arxiv.org/abs/2403.16095v1)|null|
+|**2024-03-22**|**U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**|Aalok Patwardhan et.al.|[2403.15583v1](http://arxiv.org/abs/2403.15583v1)|null|
 |**2024-03-22**|**EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting**|Kailing Wang et.al.|[2403.15124v1](http://arxiv.org/abs/2403.15124v1)|null|
 |**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326v1](http://arxiv.org/abs/2403.14326v1)|null|
 |**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320v1](http://arxiv.org/abs/2403.14320v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v3](http://arxiv.org/abs/2403.05791v3)|[link](https://github.com/chen-jacker/hybrid-tdoa-calib)|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
-|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
-|**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|

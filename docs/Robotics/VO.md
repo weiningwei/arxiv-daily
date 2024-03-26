@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|
 |**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
 |**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|[link](https://github.com/spectacularai/3dgs-deblur)|
@@ -31,4 +32,3 @@
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082v1](http://arxiv.org/abs/2402.16082v1)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|[link](https://github.com/master-cai/voloc)|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
-|**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v2](http://arxiv.org/abs/2402.13609v2)|[link](https://github.com/yutongwangbit/voom)|

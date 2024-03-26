@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-25**|**Creating a Digital Twin of Spinal Surgery: A Proof of Concept**|Jonas Hein et.al.|[2403.16736v1](http://arxiv.org/abs/2403.16736v1)|null|
+|**2024-03-25**|**BatDeck: Advancing Nano-drone Navigation with Low-power Ultrasound-based Obstacle Avoidance**|Hanna Müller et.al.|[2403.16696v1](http://arxiv.org/abs/2403.16696v1)|null|
+|**2024-03-25**|**Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network**|Yin Zhang et.al.|[2403.16669v1](http://arxiv.org/abs/2403.16669v1)|[link](https://github.com/westlakeaerialrobotics/m3d)|
+|**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490v1](http://arxiv.org/abs/2403.16490v1)|null|
+|**2024-03-25**|**A Method for Target Detection Based on Mmw Radar and Vision Fusion**|Ming Zong et.al.|[2403.16476v1](http://arxiv.org/abs/2403.16476v1)|null|
+|**2024-03-25**|**Camera-aware Label Refinement for Unsupervised Person Re-identification**|Pengna Li et.al.|[2403.16450v1](http://arxiv.org/abs/2403.16450v1)|[link](https://github.com/leeboomla/calr)|
+|**2024-03-25**|**RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**|Zhiwei Lin et.al.|[2403.16440v1](http://arxiv.org/abs/2403.16440v1)|[link](https://github.com/vdigpku/rcbevdet)|
+|**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428v1](http://arxiv.org/abs/2403.16428v1)|null|
+|**2024-03-25**|**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**|Gokul B. Nair et.al.|[2403.16425v1](http://arxiv.org/abs/2403.16425v1)|null|
+|**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410v1](http://arxiv.org/abs/2403.16410v1)|null|
+|**2024-03-25**|**Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks**|Madhumitha Sakthi et.al.|[2403.16338v1](http://arxiv.org/abs/2403.16338v1)|null|
+|**2024-03-24**|**The Evolution of Football Betting- A Machine Learning Approach to Match Outcome Forecasting and Bookmaker Odds Estimation**|Purnachandra Mandadapu et.al.|[2403.16282v1](http://arxiv.org/abs/2403.16282v1)|null|
+|**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238v1](http://arxiv.org/abs/2403.16238v1)|null|
+|**2024-03-24**|**Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains**|Bang-Dang Pham et.al.|[2403.16205v1](http://arxiv.org/abs/2403.16205v1)|null|
+|**2024-03-24**|**Passive Screen-to-Camera Communication**|Seyed Keyarash Ghiasi et.al.|[2403.16185v1](http://arxiv.org/abs/2403.16185v1)|null|
+|**2024-03-24**|**Realtime Robust Shape Estimation of Deformable Linear Object**|Jiaming Zhang et.al.|[2403.16146v1](http://arxiv.org/abs/2403.16146v1)|null|
+|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v1](http://arxiv.org/abs/2403.16080v1)|[link](https://github.com/zhengxyun/PKU-DyMVHumans)|
+|**2024-03-24**|**V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception**|Hao Xiang et.al.|[2403.16034v1](http://arxiv.org/abs/2403.16034v1)|null|
+|**2024-03-24**|**Diverse Representation Embedding for Lifelong Person Re-Identification**|Shiben Liu et.al.|[2403.16003v1](http://arxiv.org/abs/2403.16003v1)|null|
+|**2024-03-23**|**Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms**|Shrihari Sridharan et.al.|[2403.15717v1](http://arxiv.org/abs/2403.15717v1)|null|
+|**2024-03-23**|**An active learning model to classify animal species in Hong Kong**|Gareth Lamb et.al.|[2403.15675v1](http://arxiv.org/abs/2403.15675v1)|null|
+|**2024-03-23**|**What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation**|Yihua Cheng et.al.|[2403.15664v1](http://arxiv.org/abs/2403.15664v1)|null|
+|**2024-03-22**|**GaNI: Global and Near Field Illumination Aware Neural Inverse Rendering**|Jiaye Wu et.al.|[2403.15651v1](http://arxiv.org/abs/2403.15651v1)|null|
+|**2024-03-22**|**A mock redshift catalogue of the dusty star-forming galaxy population with intrinsic clustering and lensing for deep millimetre surveys**|Norma Araceli Nava-Moreno et.al.|[2403.15650v1](http://arxiv.org/abs/2403.15650v1)|null|
+|**2024-03-22**|**U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**|Aalok Patwardhan et.al.|[2403.15583v1](http://arxiv.org/abs/2403.15583v1)|null|
+|**2024-03-22**|**Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting**|Zheng Zhang et.al.|[2403.15530v1](http://arxiv.org/abs/2403.15530v1)|null|
 |**2024-03-22**|**Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**|Aqeel Anwar et.al.|[2403.15370v1](http://arxiv.org/abs/2403.15370v1)|null|
 |**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313v1](http://arxiv.org/abs/2403.15313v1)|null|
 |**2024-03-22**|**HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers**|Christian Lenz et.al.|[2403.15306v1](http://arxiv.org/abs/2403.15306v1)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
-|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|[link](https://github.com/yimeng-fan/SFOD)|
-|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183v1](http://arxiv.org/abs/2403.15183v1)|null|
-|**2024-03-22**|**Infrastructure-Assisted Collaborative Perception in Automated Valet Parking: A Safety Perspective**|Yukuan Jia et.al.|[2403.15156v1](http://arxiv.org/abs/2403.15156v1)|null|
-|**2024-03-22**|**Broad Instantaneous Bandwidth Microwave Spectrum Analyzer with a Microfabricated Atomic Vapor Cell**|Yongqi Shi et.al.|[2403.15155v1](http://arxiv.org/abs/2403.15155v1)|null|
-|**2024-03-22**|**EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting**|Kailing Wang et.al.|[2403.15124v1](http://arxiv.org/abs/2403.15124v1)|null|
-|**2024-03-22**|**An Open-World, Diverse, Cross-Spatial-Temporal Benchmark for Dynamic Wild Person Re-Identification**|Lei Zhang et.al.|[2403.15119v1](http://arxiv.org/abs/2403.15119v1)|null|
-|**2024-03-22**|**Learning from Visual Demonstrations through Differentiable Nonlinear MPC for Personalized Autonomous Driving**|Flavia Sofia Acerbo et.al.|[2403.15102v1](http://arxiv.org/abs/2403.15102v1)|null|
-|**2024-03-22**|**VRSO: Visual-Centric Reconstruction for Static Object Annotation**|Chenyao Yu et.al.|[2403.15026v1](http://arxiv.org/abs/2403.15026v1)|null|
-|**2024-03-22**|**Single-pixel edge enhancement of object via convolutional filtering with localized vortex phase**|Jigme Zangpo et.al.|[2403.15014v1](http://arxiv.org/abs/2403.15014v1)|null|
-|**2024-03-22**|**Tri-Perspective View Decomposition for Geometry-Aware Depth Completion**|Zhiqiang Yan et.al.|[2403.15008v1](http://arxiv.org/abs/2403.15008v1)|null|
-|**2024-03-22**|**Snail: Secure Single Iteration Localization**|James Choncholas et.al.|[2403.14916v1](http://arxiv.org/abs/2403.14916v1)|null|
-|**2024-03-21**|**GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception**|Yuxiang Ma et.al.|[2403.14887v1](http://arxiv.org/abs/2403.14887v1)|null|
-|**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839v1](http://arxiv.org/abs/2403.14839v1)|null|
-|**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626v1](http://arxiv.org/abs/2403.14626v1)|null|
-|**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614v1](http://arxiv.org/abs/2403.14614v1)|[link](https://github.com/c-yn/adair)|
-|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
-|**2024-03-21**|**Designing Robust Linear Output Feedback Controller based on CLF-CBF framework via Linear~Programming(LP-CLF-CBF)**|Mahroo Bahreinian et.al.|[2403.14519v1](http://arxiv.org/abs/2403.14519v1)|null|
-|**2024-03-21**|**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**|Quan Zhang et.al.|[2403.14513v1](http://arxiv.org/abs/2403.14513v1)|[link](https://github.com/linlyac/vdt-agpreid)|
-|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro et.al.|[2403.14447v2](http://arxiv.org/abs/2403.14447v2)|null|
-|**2024-03-21**|**Varroa destructor detection on honey bees using hyperspectral imagery**|Zina-Sabrina Duma et.al.|[2403.14359v1](http://arxiv.org/abs/2403.14359v1)|null|
-|**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320v1](http://arxiv.org/abs/2403.14320v1)|null|
-|**2024-03-21**|**EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition**|Xu Zheng et.al.|[2403.14082v1](http://arxiv.org/abs/2403.14082v1)|null|
-|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053v1](http://arxiv.org/abs/2403.14053v1)|null|
-|**2024-03-20**|**Filming runners with drones is hard**|José-Miguel Díaz-Báñez et.al.|[2403.14033v1](http://arxiv.org/abs/2403.14033v1)|null|
-|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
-|**2024-03-20**|**DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance**|Zixuan Wang et.al.|[2403.13667v1](http://arxiv.org/abs/2403.13667v1)|[link](https://github.com/carmenw1203/dancecamera3d-official)|
