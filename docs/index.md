@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-25 21:13:57 Asia/Shanghai
+ Automated deployment @ 2024-03-26 08:31:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -132,7 +132,7 @@
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
 |**2024-03-21**|**Designing Robust Linear Output Feedback Controller based on CLF-CBF framework via Linear~Programming(LP-CLF-CBF)**|Mahroo Bahreinian et.al.|[2403.14519v1](http://arxiv.org/abs/2403.14519v1)|null|
 |**2024-03-21**|**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**|Quan Zhang et.al.|[2403.14513v1](http://arxiv.org/abs/2403.14513v1)|[link](https://github.com/linlyac/vdt-agpreid)|
-|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro. Andrea Toaiari et.al.|[2403.14447v1](http://arxiv.org/abs/2403.14447v1)|null|
+|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro et.al.|[2403.14447v2](http://arxiv.org/abs/2403.14447v2)|null|
 |**2024-03-21**|**Varroa destructor detection on honey bees using hyperspectral imagery**|Zina-Sabrina Duma et.al.|[2403.14359v1](http://arxiv.org/abs/2403.14359v1)|null|
 |**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320v1](http://arxiv.org/abs/2403.14320v1)|null|
 |**2024-03-21**|**EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition**|Xu Zheng et.al.|[2403.14082v1](http://arxiv.org/abs/2403.14082v1)|null|
