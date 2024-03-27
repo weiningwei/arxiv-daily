@@ -2,7 +2,6 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-25**|**Creating a Digital Twin of Spinal Surgery: A Proof of Concept**|Jonas Hein et.al.|[2403.16736v1](http://arxiv.org/abs/2403.16736v1)|null|
 |**2024-03-25**|**BatDeck: Advancing Nano-drone Navigation with Low-power Ultrasound-based Obstacle Avoidance**|Hanna Müller et.al.|[2403.16696v1](http://arxiv.org/abs/2403.16696v1)|null|
 |**2024-03-25**|**Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network**|Yin Zhang et.al.|[2403.16669v1](http://arxiv.org/abs/2403.16669v1)|[link](https://github.com/westlakeaerialrobotics/m3d)|
 |**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490v1](http://arxiv.org/abs/2403.16490v1)|null|
@@ -18,7 +17,7 @@
 |**2024-03-24**|**Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains**|Bang-Dang Pham et.al.|[2403.16205v1](http://arxiv.org/abs/2403.16205v1)|null|
 |**2024-03-24**|**Passive Screen-to-Camera Communication**|Seyed Keyarash Ghiasi et.al.|[2403.16185v1](http://arxiv.org/abs/2403.16185v1)|null|
 |**2024-03-24**|**Realtime Robust Shape Estimation of Deformable Linear Object**|Jiaming Zhang et.al.|[2403.16146v1](http://arxiv.org/abs/2403.16146v1)|null|
-|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v1](http://arxiv.org/abs/2403.16080v1)|[link](https://github.com/zhengxyun/PKU-DyMVHumans)|
+|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v2](http://arxiv.org/abs/2403.16080v2)|[link](https://github.com/zhengxyun/PKU-DyMVHumans)|
 |**2024-03-24**|**V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception**|Hao Xiang et.al.|[2403.16034v1](http://arxiv.org/abs/2403.16034v1)|null|
 |**2024-03-24**|**Diverse Representation Embedding for Lifelong Person Re-Identification**|Shiben Liu et.al.|[2403.16003v1](http://arxiv.org/abs/2403.16003v1)|null|
 |**2024-03-23**|**Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms**|Shrihari Sridharan et.al.|[2403.15717v1](http://arxiv.org/abs/2403.15717v1)|null|
@@ -32,3 +31,4 @@
 |**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313v1](http://arxiv.org/abs/2403.15313v1)|null|
 |**2024-03-22**|**HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers**|Christian Lenz et.al.|[2403.15306v1](http://arxiv.org/abs/2403.15306v1)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
+|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|[link](https://github.com/yimeng-fan/SFOD)|
