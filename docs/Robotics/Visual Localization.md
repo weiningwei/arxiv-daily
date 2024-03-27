@@ -2,6 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-25**|**Creating a Digital Twin of Spinal Surgery: A Proof of Concept**|Jonas Hein et.al.|[2403.16736v1](http://arxiv.org/abs/2403.16736v1)|null|
 |**2024-03-25**|**BatDeck: Advancing Nano-drone Navigation with Low-power Ultrasound-based Obstacle Avoidance**|Hanna Müller et.al.|[2403.16696v1](http://arxiv.org/abs/2403.16696v1)|null|
 |**2024-03-25**|**Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network**|Yin Zhang et.al.|[2403.16669v1](http://arxiv.org/abs/2403.16669v1)|[link](https://github.com/westlakeaerialrobotics/m3d)|
 |**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490v1](http://arxiv.org/abs/2403.16490v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313v1](http://arxiv.org/abs/2403.15313v1)|null|
 |**2024-03-22**|**HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers**|Christian Lenz et.al.|[2403.15306v1](http://arxiv.org/abs/2403.15306v1)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
-|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|[link](https://github.com/yimeng-fan/SFOD)|
