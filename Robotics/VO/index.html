@@ -1,0 +1,802 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../VIO/">
+      
+      
+        <link rel="next" href="../Visual%20Localization/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.15">
+    
+    
+      
+        <title>VO - arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.7e359304.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","UA-145083103-1",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#vo" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              VO
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/weiningwei/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/weiningwei/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Robotics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Robotics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Robotics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robotics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../SFM/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SFM
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../SLAM/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SLAM
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../VIO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    VIO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    VO
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    VO
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vo" class="md-nav__link">
+    <span class="md-ellipsis">
+      VO
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Visual%20Localization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visual Localization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vo" class="md-nav__link">
+    <span class="md-ellipsis">
+      VO
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>VO</h1>
+
+<h3 id="vo">VO</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-03-27</strong></td>
+<td style="text-align: center;"><strong>Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration</strong></td>
+<td style="text-align: center;">Sangwoo Jung et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.18358v1">2403.18358v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-27</strong></td>
+<td style="text-align: center;"><strong>DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment</strong></td>
+<td style="text-align: center;">Jiuming Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.18274v1">2403.18274v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-26</strong></td>
+<td style="text-align: center;"><strong>Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions</strong></td>
+<td style="text-align: center;">Chiyun Noh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.17441v1">2403.17441v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-25</strong></td>
+<td style="text-align: center;"><strong>A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments</strong></td>
+<td style="text-align: center;">Gianluca D'Amico et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.17084v1">2403.17084v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-25</strong></td>
+<td style="text-align: center;"><strong>Proprioception Is All You Need: Terrain Classification for Boreal Forests</strong></td>
+<td style="text-align: center;">Damien LaRocque et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.16877v1">2403.16877v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/norlab-ulaval/BorealTC">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-25</strong></td>
+<td style="text-align: center;"><strong>A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups</strong></td>
+<td style="text-align: center;">Yixiao Ge et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.16411v1">2403.16411v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-21</strong></td>
+<td style="text-align: center;"><strong>HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System</strong></td>
+<td style="text-align: center;">Jianping Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.14173v1">2403.14173v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-20</strong></td>
+<td style="text-align: center;"><strong>Mobile Robot Localization: a Modular, Odometry-Improving Approach</strong></td>
+<td style="text-align: center;">Luca Mozzarelli et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.13452v1">2403.13452v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-20</strong></td>
+<td style="text-align: center;"><strong>Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion</strong></td>
+<td style="text-align: center;">Otto Seiskari et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.13327v1">2403.13327v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/spectacularai/3dgs-deblur">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-19</strong></td>
+<td style="text-align: center;"><strong>On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine</strong></td>
+<td style="text-align: center;">Jagatpreet Singh Nir et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.13170v1">2403.13170v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-19</strong></td>
+<td style="text-align: center;"><strong>TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO</strong></td>
+<td style="text-align: center;">Chaoran Xiong et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.12504v1">2403.12504v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-18</strong></td>
+<td style="text-align: center;"><strong>The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions</strong></td>
+<td style="text-align: center;">Margaret Hansen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.12194v1">2403.12194v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-18</strong></td>
+<td style="text-align: center;"><strong>An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation</strong></td>
+<td style="text-align: center;">Zewen Xu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.11639v1">2403.11639v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-17</strong></td>
+<td style="text-align: center;"><strong>Creating Seamless 3D Maps Using Radiance Fields</strong></td>
+<td style="text-align: center;">Sai Tarun Sathyan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.11364v1">2403.11364v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-16</strong></td>
+<td style="text-align: center;"><strong>Efficient Domain Adaptation for Endoscopic Visual Odometry</strong></td>
+<td style="text-align: center;">Junyang Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.10860v1">2403.10860v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-14</strong></td>
+<td style="text-align: center;"><strong>Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)</strong></td>
+<td style="text-align: center;">Matthew Lisondra et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.09882v1">2403.09882v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-13</strong></td>
+<td style="text-align: center;"><strong>CART: Caltech Aerial RGB-Thermal Dataset in the Wild</strong></td>
+<td style="text-align: center;">Connor Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.08997v1">2403.08997v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/aerorobotics/caltech-aerial-rgbt-dataset">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-11</strong></td>
+<td style="text-align: center;"><strong>HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association</strong></td>
+<td style="text-align: center;">Jian Shi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.06590v1">2403.06590v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-09</strong></td>
+<td style="text-align: center;"><strong>IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation</strong></td>
+<td style="text-align: center;">Keenan Burnett et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.05968v1">2403.05968v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/utiasasrl/steam_icp">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-09</strong></td>
+<td style="text-align: center;"><strong>Asynchronous Microphone Array Calibration using Hybrid TDOA Information</strong></td>
+<td style="text-align: center;">Chengjie Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.05791v3">2403.05791v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/chen-jacker/hybrid-tdoa-calib">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-08</strong></td>
+<td style="text-align: center;"><strong>A Detection and Filtering Framework for Collaborative Localization</strong></td>
+<td style="text-align: center;">Thirumalaesh Ashokkumar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.05513v1">2403.05513v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-08</strong></td>
+<td style="text-align: center;"><strong>Degradation Resilient LiDAR-Radar-Inertial Odometry</strong></td>
+<td style="text-align: center;">Morten Nissov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.05332v1">2403.05332v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-08</strong></td>
+<td style="text-align: center;"><strong>DeRO: Dead Reckoning Based on Radar Odometry With Accelerometers Aided for Robot Localization</strong></td>
+<td style="text-align: center;">Hoang Viet Do et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.05136v1">2403.05136v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/hoangvietdo/dero">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-05</strong></td>
+<td style="text-align: center;"><strong>Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection</strong></td>
+<td style="text-align: center;">Mohamed Afifi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.03111v1">2403.03111v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-05</strong></td>
+<td style="text-align: center;"><strong>LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry</strong></td>
+<td style="text-align: center;">Hyesu Jang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.02773v1">2403.02773v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/hyesu-jang/lodestar">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-02</strong></td>
+<td style="text-align: center;"><strong>RKHS-BA: A Semantic Correspondence-Free Multi-View Registration Framework with Global Tracking</strong></td>
+<td style="text-align: center;">Ray Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.01254v1">2403.01254v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-02</strong></td>
+<td style="text-align: center;"><strong>Grid-based Fast and Structural Visual Odometry</strong></td>
+<td style="text-align: center;">Zhang Zhihe et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.01110v1">2403.01110v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-29</strong></td>
+<td style="text-align: center;"><strong>DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization</strong></td>
+<td style="text-align: center;">David Skuddis et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.19044v1">2402.19044v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/davidskdds/dmsa_lidar_slam">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-29</strong></td>
+<td style="text-align: center;"><strong>RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments</strong></td>
+<td style="text-align: center;">Zhiqiang Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.18934v2">2402.18934v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-28</strong></td>
+<td style="text-align: center;"><strong>SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds</strong></td>
+<td style="text-align: center;">Feiya Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.18318v1">2402.18318v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.bd41221c.min.js"></script>
+      
+    
+  </body>
+</html>
