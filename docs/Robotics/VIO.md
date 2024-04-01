@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-29**|**Structure and Dynamics of Magneto-Inertial, Differentially Rotating Laboratory Plasmas**|V. Valenzuela-Villaseca et.al.|[2403.20321v1](http://arxiv.org/abs/2403.20321v1)|null|
+|**2024-03-29**|**Available potential vorticity and the wave-vortex decomposition for arbitrary stratification**|Jeffrey J. Early et.al.|[2403.20269v1](http://arxiv.org/abs/2403.20269v1)|null|
+|**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875v1](http://arxiv.org/abs/2403.19875v1)|null|
+|**2024-03-28**|**Utilizing acceleration measurements to improve TDOA based localization**|Marcin Kolakowski et.al.|[2403.19865v1](http://arxiv.org/abs/2403.19865v1)|null|
 |**2024-03-28**|**Monitoring the Convergence Speed of PDHG to Find Better Primal and Dual Step Sizes**|Olivier Fercoq et.al.|[2403.19202v1](http://arxiv.org/abs/2403.19202v1)|null|
 |**2024-03-27**|**The Sun's differential rotation is controlled by high-latitude baroclinically unstable inertial modes**|Yuto Bekki et.al.|[2403.18986v1](http://arxiv.org/abs/2403.18986v1)|null|
 |**2024-03-27**|**The relative prevalence of wave-packets and coherent structures in the inertial and kinetic ranges of turbulence as seen by Solar Orbiter**|Alina Bendt et.al.|[2403.18792v1](http://arxiv.org/abs/2403.18792v1)|null|
@@ -28,7 +32,3 @@
 |**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
 |**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|[link](https://github.com/great-whu/dba-fusion)|
 |**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455v1](http://arxiv.org/abs/2403.13455v1)|[link](https://github.com/zju-fast-lab/fact-coordinate-initialization)|
-|**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
-|**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|[link](https://github.com/spectacularai/3dgs-deblur)|
-|**2024-03-20**|**Extended Spreading of Saline Droplets upon Impact on a Frosty Surface**|Hao Zeng et.al.|[2403.13229v1](http://arxiv.org/abs/2403.13229v1)|null|
-|**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170v1](http://arxiv.org/abs/2403.13170v1)|null|
