@@ -26,7 +26,7 @@
 |**2024-03-22**|**U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**|Aalok Patwardhan et.al.|[2403.15583v1](http://arxiv.org/abs/2403.15583v1)|null|
 |**2024-03-22**|**The effect of collision-coagulation on the mean relative velocity of particles in turbulent flow: systematic results and validation of model**|Xiaohui Meng et.al.|[2403.14928v1](http://arxiv.org/abs/2403.14928v1)|null|
 |**2024-03-22**|**A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaotic Mapping Theory and Reverse Learning Competition Strategy**|Baiyi Wang et.al.|[2403.15505v2](http://arxiv.org/abs/2403.15505v2)|null|
-|**2024-03-21**|**Multiple and Gyro-Free Inertial Datasets**|Zeev Yampolsky et.al.|[2403.15494v1](http://arxiv.org/abs/2403.15494v1)|null|
+|**2024-03-21**|**Multiple and Gyro-Free Inertial Datasets**|Zeev Yampolsky et.al.|[2403.15494v1](http://arxiv.org/abs/2403.15494v1)|[link](https://github.com/ansfl/magf-id)|
 |**2024-03-21**|**Electrostatic wave interaction via asymmetric vector solitons as precursor to rogue wave formation in non-Maxwellian plasmas**|N. Lazarides et.al.|[2403.14505v1](http://arxiv.org/abs/2403.14505v1)|null|
 |**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
 |**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
