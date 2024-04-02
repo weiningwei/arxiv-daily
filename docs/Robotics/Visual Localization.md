@@ -26,7 +26,7 @@
 |**2024-03-28**|**GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds**|Shengjun Zhang et.al.|[2403.19220v1](http://arxiv.org/abs/2403.19220v1)|[link](https://github.com/zhangshengjun2019/geoauxnet)|
 |**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104v1](http://arxiv.org/abs/2403.19104v1)|null|
 |**2024-03-28**|**Generative Quanta Color Imaging**|Vishal Purohit et.al.|[2403.19066v1](http://arxiv.org/abs/2403.19066v1)|null|
-|**2024-03-27**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v1](http://arxiv.org/abs/2403.19026v1)|null|
+|**2024-03-27**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v2](http://arxiv.org/abs/2403.19026v2)|null|
 |**2024-03-27**|**ReflectSumm: A Benchmark for Course Reflection Summarization**|Yang Zhong et.al.|[2403.19012v1](http://arxiv.org/abs/2403.19012v1)|null|
 |**2024-03-27**|**PLOT-TAL -- Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization**|Edward Fish et.al.|[2403.18915v1](http://arxiv.org/abs/2403.18915v1)|null|
 |**2024-03-27**|**UniDepth: Universal Monocular Metric Depth Estimation**|Luigi Piccinelli et.al.|[2403.18913v1](http://arxiv.org/abs/2403.18913v1)|[link](https://github.com/lpiccinelli-eth/unidepth)|
