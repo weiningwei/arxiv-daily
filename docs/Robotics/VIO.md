@@ -2,10 +2,24 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-02**|**Searching for new physics in the solar system with tetrahedral spacecraft formations**|Slava G. Turyshev et.al.|[2404.02096v1](http://arxiv.org/abs/2404.02096v1)|null|
+|**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
+|**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
+|**2024-04-02**|**Solving a Class of Nonconvex Quadratic Programs by Inertial DC Algorithms**|Tran Hung Cuong et.al.|[2404.01827v1](http://arxiv.org/abs/2404.01827v1)|null|
+|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v1](http://arxiv.org/abs/2404.01781v1)|null|
+|**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|null|
+|**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
+|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
+|**2024-04-01**|**Visual-inertial state estimation based on Chebyshev polynomial optimization**|Hongyu Zhang et.al.|[2404.01150v1](http://arxiv.org/abs/2404.01150v1)|null|
+|**2024-04-01**|**Exact moments for trapped active particles: inertial impact on steady-state properties and re-entrance**|Manish Patel et.al.|[2404.01107v1](http://arxiv.org/abs/2404.01107v1)|null|
+|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
+|**2024-03-31**|**2D Ego-Motion with Yaw Estimation using Only mmWave Radars via Two-Way weighted ICP**|Hojune Kim et.al.|[2404.00830v1](http://arxiv.org/abs/2404.00830v1)|null|
+|**2024-03-31**|**Graph-Based vs. Error State Kalman Filter-Based Fusion Of 5G And Inertial Data For MAV Indoor Pose Estimation**|Meisam Kabiri et.al.|[2404.00691v1](http://arxiv.org/abs/2404.00691v1)|null|
 |**2024-03-29**|**Structure and Dynamics of Magneto-Inertial, Differentially Rotating Laboratory Plasmas**|V. Valenzuela-Villaseca et.al.|[2403.20321v1](http://arxiv.org/abs/2403.20321v1)|null|
 |**2024-03-29**|**Available potential vorticity and the wave-vortex decomposition for arbitrary stratification**|Jeffrey J. Early et.al.|[2403.20269v1](http://arxiv.org/abs/2403.20269v1)|null|
 |**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875v1](http://arxiv.org/abs/2403.19875v1)|null|
 |**2024-03-28**|**Utilizing acceleration measurements to improve TDOA based localization**|Marcin Kolakowski et.al.|[2403.19865v1](http://arxiv.org/abs/2403.19865v1)|null|
+|**2024-03-28**|**Local Observability of VINS and LINS**|Xinran Li et.al.|[2404.00066v1](http://arxiv.org/abs/2404.00066v1)|null|
 |**2024-03-28**|**Monitoring the Convergence Speed of PDHG to Find Better Primal and Dual Step Sizes**|Olivier Fercoq et.al.|[2403.19202v1](http://arxiv.org/abs/2403.19202v1)|null|
 |**2024-03-27**|**The Sun's differential rotation is controlled by high-latitude baroclinically unstable inertial modes**|Yuto Bekki et.al.|[2403.18986v1](http://arxiv.org/abs/2403.18986v1)|null|
 |**2024-03-27**|**The relative prevalence of wave-packets and coherent structures in the inertial and kinetic ranges of turbulence as seen by Solar Orbiter**|Alina Bendt et.al.|[2403.18792v1](http://arxiv.org/abs/2403.18792v1)|null|
@@ -18,17 +32,3 @@
 |**2024-03-25**|**Multi-Contact Inertial Estimation and Localization in Legged Robots**|Sergi Martinez et.al.|[2403.17161v1](http://arxiv.org/abs/2403.17161v1)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
 |**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877v1](http://arxiv.org/abs/2403.16877v1)|[link](https://github.com/norlab-ulaval/BorealTC)|
-|**2024-03-25**|**Stochastic Inertial Dynamics Via Time Scaling and Averaging**|Rodrigo Maulen-Soto et.al.|[2403.16775v1](http://arxiv.org/abs/2403.16775v1)|null|
-|**2024-03-25**|**Modulational electrostatic wave-wave interactions in plasma fluids modeled by asymmetric coupled nonlinear Schrödinger (CNLS) equations**|N. Lazarides et.al.|[2403.16715v1](http://arxiv.org/abs/2403.16715v1)|null|
-|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|
-|**2024-03-24**|**Legged Robot State Estimation within Non-inertial Environments**|Zijian He et.al.|[2403.16252v1](http://arxiv.org/abs/2403.16252v1)|null|
-|**2024-03-24**|**Non-Inertial Rigid Frames and the Principle of Equivalence**|Dawood Kothawala et.al.|[2403.16229v1](http://arxiv.org/abs/2403.16229v1)|null|
-|**2024-03-22**|**U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**|Aalok Patwardhan et.al.|[2403.15583v1](http://arxiv.org/abs/2403.15583v1)|null|
-|**2024-03-22**|**The effect of collision-coagulation on the mean relative velocity of particles in turbulent flow: systematic results and validation of model**|Xiaohui Meng et.al.|[2403.14928v1](http://arxiv.org/abs/2403.14928v1)|null|
-|**2024-03-22**|**A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaotic Mapping Theory and Reverse Learning Competition Strategy**|Baiyi Wang et.al.|[2403.15505v2](http://arxiv.org/abs/2403.15505v2)|null|
-|**2024-03-21**|**Multiple and Gyro-Free Inertial Datasets**|Zeev Yampolsky et.al.|[2403.15494v1](http://arxiv.org/abs/2403.15494v1)|[link](https://github.com/ansfl/magf-id)|
-|**2024-03-21**|**Electrostatic wave interaction via asymmetric vector solitons as precursor to rogue wave formation in non-Maxwellian plasmas**|N. Lazarides et.al.|[2403.14505v1](http://arxiv.org/abs/2403.14505v1)|null|
-|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
-|**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
-|**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|[link](https://github.com/great-whu/dba-fusion)|
-|**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455v1](http://arxiv.org/abs/2403.13455v1)|[link](https://github.com/zju-fast-lab/fact-coordinate-initialization)|

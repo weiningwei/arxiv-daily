@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317v1](http://arxiv.org/abs/2403.20317v1)|null|
-|**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309v1](http://arxiv.org/abs/2403.20309v1)|null|
-|**2024-03-29**|**MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark**|Sanghyun Woo et.al.|[2403.20225v1](http://arxiv.org/abs/2403.20225v1)|null|
-|**2024-03-29**|**Development of a full-Scale approach to predict overlay reflective crack**|Zehui Zhu et.al.|[2403.20141v1](http://arxiv.org/abs/2403.20141v1)|null|
-|**2024-03-29**|**OmniNxt: A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception**|Peize Liu et.al.|[2403.20085v1](http://arxiv.org/abs/2403.20085v1)|null|
-|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079v1](http://arxiv.org/abs/2403.20079v1)|null|
-|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|[link](https://github.com/dtc111111/neslam)|
-|**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032v1](http://arxiv.org/abs/2403.20032v1)|null|
-|**2024-03-29**|**eTraM: Event-based Traffic Monitoring Dataset**|Aayush Atul Verma et.al.|[2403.19976v2](http://arxiv.org/abs/2403.19976v2)|null|
-|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
-|**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780v1](http://arxiv.org/abs/2403.19780v1)|[link](https://github.com/uzh-rpg/evdeblurnerf)|
-|**2024-03-28**|**Using Deep Learning to Increase Eye-Tracking Robustness, Accuracy, and Precision in Virtual Reality**|Kevin Barkevich et.al.|[2403.19768v1](http://arxiv.org/abs/2403.19768v1)|null|
-|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
-|**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589v1](http://arxiv.org/abs/2403.19589v1)|[link](https://github.com/jxbbb/tod3cap)|
-|**2024-03-28**|**RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method**|Ming Yan et.al.|[2403.19501v1](http://arxiv.org/abs/2403.19501v1)|null|
-|**2024-03-28**|**A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization**|Hongwei Ren et.al.|[2403.19412v1](http://arxiv.org/abs/2403.19412v1)|null|
-|**2024-03-28**|**NIGHT -- Non-Line-of-Sight Imaging from Indirect Time of Flight Data**|Matteo Caligiuri et.al.|[2403.19376v1](http://arxiv.org/abs/2403.19376v1)|null|
-|**2024-03-28**|**Is the edge really necessary for drone computing offloading? An experimental assessment in carrier-grade 5G operator networks**|David Candal-Ventureira et.al.|[2403.19729v1](http://arxiv.org/abs/2403.19729v1)|null|
-|**2024-03-28**|**Experience deploying an analysis facility for the Rubin Observatory's Legacy Survey of Space and Time (LSST) data**|Gabriele Mainetti et.al.|[2403.19321v1](http://arxiv.org/abs/2403.19321v1)|null|
-|**2024-03-28**|**Hypergraph-based Multi-View Action Recognition using Event Cameras**|Yue Gao et.al.|[2403.19316v1](http://arxiv.org/abs/2403.19316v1)|null|
-|**2024-03-28**|**Taming Lookup Tables for Efficient Image Retouching**|Sidi Yang et.al.|[2403.19238v1](http://arxiv.org/abs/2403.19238v1)|[link](https://github.com/stephen0808/icelut)|
-|**2024-03-28**|**GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds**|Shengjun Zhang et.al.|[2403.19220v1](http://arxiv.org/abs/2403.19220v1)|[link](https://github.com/zhangshengjun2019/geoauxnet)|
-|**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104v1](http://arxiv.org/abs/2403.19104v1)|null|
-|**2024-03-28**|**Generative Quanta Color Imaging**|Vishal Purohit et.al.|[2403.19066v1](http://arxiv.org/abs/2403.19066v1)|null|
-|**2024-03-27**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v2](http://arxiv.org/abs/2403.19026v2)|null|
-|**2024-03-27**|**ReflectSumm: A Benchmark for Course Reflection Summarization**|Yang Zhong et.al.|[2403.19012v1](http://arxiv.org/abs/2403.19012v1)|null|
-|**2024-03-27**|**PLOT-TAL -- Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization**|Edward Fish et.al.|[2403.18915v1](http://arxiv.org/abs/2403.18915v1)|null|
-|**2024-03-27**|**UniDepth: Universal Monocular Metric Depth Estimation**|Luigi Piccinelli et.al.|[2403.18913v1](http://arxiv.org/abs/2403.18913v1)|[link](https://github.com/lpiccinelli-eth/unidepth)|
-|**2024-03-27**|**SN H0pe: The First Measurement of $H_0$ from a Multiply-Imaged Type Ia Supernova, Discovered by JWST**|Massimo Pascale et.al.|[2403.18902v1](http://arxiv.org/abs/2403.18902v1)|null|
-|**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
+|**2024-04-02**|**Mass calibration of DES Year-3 clusters via SPT-3G CMB cluster lensing**|B. Ansarinejad et.al.|[2404.02153v1](http://arxiv.org/abs/2404.02153v1)|null|
+|**2024-04-02**|**An Informed and Systematic Method to Identify Variable mid-L dwarfs**|Natalia Oliveros-Gomez et.al.|[2404.02140v1](http://arxiv.org/abs/2404.02140v1)|null|
+|**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125v1](http://arxiv.org/abs/2404.02125v1)|null|
+|**2024-04-02**|**CameraCtrl: Enabling Camera Control for Text-to-Video Generation**|Hao He et.al.|[2404.02101v1](http://arxiv.org/abs/2404.02101v1)|[link](https://github.com/hehao13/cameractrl)|
+|**2024-04-02**|**The Online Observation Quality System Implementation for the ASTRI Mini-Array Project**|L. Castaldini et.al.|[2404.02075v1](http://arxiv.org/abs/2404.02075v1)|null|
+|**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041v1](http://arxiv.org/abs/2404.02041v1)|null|
+|**2024-04-02**|**Event-assisted Low-Light Video Object Segmentation**|Hebei Li et.al.|[2404.01945v1](http://arxiv.org/abs/2404.01945v1)|null|
+|**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao et.al.|[2404.01925v1](http://arxiv.org/abs/2404.01925v1)|null|
+|**2024-04-02**|**Toward Efficient Visual Gyroscopes: Spherical Moments, Harmonics Filtering, and Masking Techniques for Spherical Camera Applications**|Yao Du et.al.|[2404.01924v1](http://arxiv.org/abs/2404.01924v1)|null|
+|**2024-04-02**|**Scene Adaptive Sparse Transformer for Event-based Object Detection**|Yansong Peng et.al.|[2404.01882v1](http://arxiv.org/abs/2404.01882v1)|[link](https://github.com/peterande/sast)|
+|**2024-04-02**|**EventSleep: Sleep Activity Recognition with Event Cameras**|Carlos Plou et.al.|[2404.01801v1](http://arxiv.org/abs/2404.01801v1)|null|
+|**2024-04-02**|**Exploring Latent Pathways: Enhancing the Interpretability of Autonomous Driving with a Variational Autoencoder**|Anass Bairouk et.al.|[2404.01750v1](http://arxiv.org/abs/2404.01750v1)|null|
+|**2024-04-02**|**Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning**|Joshua Dimasaka et.al.|[2404.01748v1](http://arxiv.org/abs/2404.01748v1)|null|
+|**2024-04-02**|**On the Role of Summary Content Units in Text Summarization Evaluation**|Marcel Nawrath et.al.|[2404.01701v1](http://arxiv.org/abs/2404.01701v1)|[link](https://github.com/tristanratz/scu-text-evaluation)|
+|**2024-04-02**|**AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease**|Xiang Xiang et.al.|[2404.01654v1](http://arxiv.org/abs/2404.01654v1)|null|
+|**2024-04-02**|**Learning to Control Camera Exposure via Reinforcement Learning**|Kyunghyun Lee et.al.|[2404.01636v1](http://arxiv.org/abs/2404.01636v1)|null|
+|**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587v1](http://arxiv.org/abs/2404.01587v1)|null|
+|**2024-04-02**|**Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection**|Seokha Moon et.al.|[2404.01580v1](http://arxiv.org/abs/2404.01580v1)|null|
+|**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437v1](http://arxiv.org/abs/2404.01437v1)|null|
+|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
+|**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300v1](http://arxiv.org/abs/2404.01300v1)|null|
+|**2024-04-01**|**Noise2Image: Noise-Enabled Static Scene Recovery for Event Cameras**|Ruiming Cao et.al.|[2404.01298v1](http://arxiv.org/abs/2404.01298v1)|null|
+|**2024-04-01**|**New infrared camera of the Caucasian Mountain Observatory of the SAI MSU: design, main parameters, and first light**|S. G. Zheltoukhov et.al.|[2404.01246v1](http://arxiv.org/abs/2404.01246v1)|null|
+|**2024-04-01**|**Force-EvT: A Closer Look at Robotic Gripper Force Measurement with Event-based Vision Transformer**|Qianyu Guo et.al.|[2404.01170v1](http://arxiv.org/abs/2404.01170v1)|null|
+|**2024-04-01**|**Motion Blur Decomposition with Cross-shutter Guidance**|Xiang Ji et.al.|[2404.01120v1](http://arxiv.org/abs/2404.01120v1)|[link](https://github.com/jixiang2016/dualbr)|
+|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
+|**2024-04-01**|**Gyro-based Neural Single Image Deblurring**|Heemin Yang et.al.|[2404.00916v1](http://arxiv.org/abs/2404.00916v1)|null|
+|**2024-04-01**|**An N-Point Linear Solver for Line and Motion Estimation with Event Cameras**|Ling Gao et.al.|[2404.00842v1](http://arxiv.org/abs/2404.00842v1)|null|
+|**2024-04-01**|**Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach**|Guoqiang Liang et.al.|[2404.00834v1](http://arxiv.org/abs/2404.00834v1)|null|
+|**2024-03-31**|**Towards Realistic Scene Generation with LiDAR Diffusion Models**|Haoxi Ran et.al.|[2404.00815v1](http://arxiv.org/abs/2404.00815v1)|[link](https://github.com/hancyran/lidar-diffusion)|
