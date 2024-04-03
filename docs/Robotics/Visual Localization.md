@@ -10,7 +10,7 @@
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079v1](http://arxiv.org/abs/2403.20079v1)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|[link](https://github.com/dtc111111/neslam)|
 |**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032v1](http://arxiv.org/abs/2403.20032v1)|null|
-|**2024-03-29**|**eTraM: Event-based Traffic Monitoring Dataset**|Aayush Atul Verma et.al.|[2403.19976v1](http://arxiv.org/abs/2403.19976v1)|null|
+|**2024-03-29**|**eTraM: Event-based Traffic Monitoring Dataset**|Aayush Atul Verma et.al.|[2403.19976v2](http://arxiv.org/abs/2403.19976v2)|null|
 |**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780v1](http://arxiv.org/abs/2403.19780v1)|[link](https://github.com/uzh-rpg/evdeblurnerf)|
 |**2024-03-28**|**Using Deep Learning to Increase Eye-Tracking Robustness, Accuracy, and Precision in Virtual Reality**|Kevin Barkevich et.al.|[2403.19768v1](http://arxiv.org/abs/2403.19768v1)|null|
