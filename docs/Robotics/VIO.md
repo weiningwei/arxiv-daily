@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-03**|**Conditions on separability in multiqubit systems with an accelerating qubit using a conditional entropy**|Harsha Miriam Reji et.al.|[2404.02716v1](http://arxiv.org/abs/2404.02716v1)|null|
+|**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515v1](http://arxiv.org/abs/2404.02515v1)|null|
+|**2024-04-02**|**Elasto-inertial rectification of oscillatory flow in an elastic tube**|Xirui Zhang et.al.|[2404.02292v1](http://arxiv.org/abs/2404.02292v1)|null|
 |**2024-04-02**|**Searching for new physics in the solar system with tetrahedral spacecraft formations**|Slava G. Turyshev et.al.|[2404.02096v1](http://arxiv.org/abs/2404.02096v1)|null|
 |**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
 |**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
@@ -29,6 +32,3 @@
 |**2024-03-26**|**Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum**|Zhandos Moldabekov et.al.|[2403.17815v1](http://arxiv.org/abs/2403.17815v1)|null|
 |**2024-03-26**|**Facet formation in slow three-dimensional fracture**|Yuri Lubomirsky et.al.|[2403.17781v1](http://arxiv.org/abs/2403.17781v1)|null|
 |**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441v1](http://arxiv.org/abs/2403.17441v1)|null|
-|**2024-03-25**|**Multi-Contact Inertial Estimation and Localization in Legged Robots**|Sergi Martinez et.al.|[2403.17161v1](http://arxiv.org/abs/2403.17161v1)|null|
-|**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
-|**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877v1](http://arxiv.org/abs/2403.16877v1)|[link](https://github.com/norlab-ulaval/BorealTC)|

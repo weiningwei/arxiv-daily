@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-03**|**Event Camera Demosaicing via Swin Transformer and Pixel-focus Loss**|Yunfan Lu et.al.|[2404.02731v1](http://arxiv.org/abs/2404.02731v1)|[link](https://github.com/yunfanlu/ev-demosaic)|
+|**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625v1](http://arxiv.org/abs/2404.02625v1)|null|
+|**2024-04-03**|**Estimating the Causal Effects of Natural Logic Features in Transformer-Based NLI Models**|Julia Rozanova et.al.|[2404.02622v1](http://arxiv.org/abs/2404.02622v1)|null|
+|**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617v1](http://arxiv.org/abs/2404.02617v1)|null|
+|**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527v1](http://arxiv.org/abs/2404.02527v1)|null|
+|**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517v1](http://arxiv.org/abs/2404.02517v1)|[link](https://github.com/vdigpku/henet)|
+|**2024-04-03**|**On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves**|Dimitrios Chatziparaschis et.al.|[2404.02516v1](http://arxiv.org/abs/2404.02516v1)|null|
+|**2024-04-03**|**TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes**|Cheng Zhao et.al.|[2404.02410v1](http://arxiv.org/abs/2404.02410v1)|null|
+|**2024-04-02**|**Constrained Robotic Navigation on Preferred Terrains Using LLMs and Speech Instruction: Exploiting the Power of Adverbs**|Faraz Lotfi et.al.|[2404.02294v1](http://arxiv.org/abs/2404.02294v1)|null|
+|**2024-04-02**|**One Noise to Rule Them All: Multi-View Adversarial Attacks with Universal Perturbation**|Mehmet Ergezer et.al.|[2404.02287v1](http://arxiv.org/abs/2404.02287v1)|[link](https://github.com/memoatwit/universalperturbation)|
+|**2024-04-02**|**OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising**|Haichao Zhang et.al.|[2404.02227v1](http://arxiv.org/abs/2404.02227v1)|[link](https://github.com/hai-chao-zhang/oostraj)|
+|**2024-04-02**|**CHOSEN: Contrastive Hypothesis Selection for Multi-View Depth Refinement**|Di Qiu et.al.|[2404.02225v1](http://arxiv.org/abs/2404.02225v1)|null|
 |**2024-04-02**|**Mass calibration of DES Year-3 clusters via SPT-3G CMB cluster lensing**|B. Ansarinejad et.al.|[2404.02153v1](http://arxiv.org/abs/2404.02153v1)|null|
 |**2024-04-02**|**An Informed and Systematic Method to Identify Variable mid-L dwarfs**|Natalia Oliveros-Gomez et.al.|[2404.02140v1](http://arxiv.org/abs/2404.02140v1)|null|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125v1](http://arxiv.org/abs/2404.02125v1)|null|
@@ -20,15 +32,3 @@
 |**2024-04-02**|**Learning to Control Camera Exposure via Reinforcement Learning**|Kyunghyun Lee et.al.|[2404.01636v1](http://arxiv.org/abs/2404.01636v1)|null|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587v1](http://arxiv.org/abs/2404.01587v1)|null|
 |**2024-04-02**|**Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection**|Seokha Moon et.al.|[2404.01580v1](http://arxiv.org/abs/2404.01580v1)|null|
-|**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437v1](http://arxiv.org/abs/2404.01437v1)|null|
-|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
-|**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300v1](http://arxiv.org/abs/2404.01300v1)|null|
-|**2024-04-01**|**Noise2Image: Noise-Enabled Static Scene Recovery for Event Cameras**|Ruiming Cao et.al.|[2404.01298v1](http://arxiv.org/abs/2404.01298v1)|null|
-|**2024-04-01**|**New infrared camera of the Caucasian Mountain Observatory of the SAI MSU: design, main parameters, and first light**|S. G. Zheltoukhov et.al.|[2404.01246v1](http://arxiv.org/abs/2404.01246v1)|null|
-|**2024-04-01**|**Force-EvT: A Closer Look at Robotic Gripper Force Measurement with Event-based Vision Transformer**|Qianyu Guo et.al.|[2404.01170v1](http://arxiv.org/abs/2404.01170v1)|null|
-|**2024-04-01**|**Motion Blur Decomposition with Cross-shutter Guidance**|Xiang Ji et.al.|[2404.01120v1](http://arxiv.org/abs/2404.01120v1)|[link](https://github.com/jixiang2016/dualbr)|
-|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
-|**2024-04-01**|**Gyro-based Neural Single Image Deblurring**|Heemin Yang et.al.|[2404.00916v1](http://arxiv.org/abs/2404.00916v1)|null|
-|**2024-04-01**|**An N-Point Linear Solver for Line and Motion Estimation with Event Cameras**|Ling Gao et.al.|[2404.00842v1](http://arxiv.org/abs/2404.00842v1)|null|
-|**2024-04-01**|**Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach**|Guoqiang Liang et.al.|[2404.00834v1](http://arxiv.org/abs/2404.00834v1)|null|
-|**2024-03-31**|**Towards Realistic Scene Generation with LiDAR Diffusion Models**|Haoxi Ran et.al.|[2404.00815v1](http://arxiv.org/abs/2404.00815v1)|[link](https://github.com/hancyran/lidar-diffusion)|

@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515v1](http://arxiv.org/abs/2404.02515v1)|null|
 |**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v2](http://arxiv.org/abs/2404.01781v2)|null|
 |**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|null|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|
 |**2024-03-08**|**DeRO: Dead Reckoning Based on Radar Odometry With Accelerometers Aided for Robot Localization**|Hoang Viet Do et.al.|[2403.05136v1](http://arxiv.org/abs/2403.05136v1)|[link](https://github.com/hoangvietdo/dero)|
 |**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
-|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773v1](http://arxiv.org/abs/2403.02773v1)|[link](https://github.com/hyesu-jang/lodestar)|
