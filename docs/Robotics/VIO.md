@@ -6,7 +6,7 @@
 |**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
 |**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
 |**2024-04-02**|**Solving a Class of Nonconvex Quadratic Programs by Inertial DC Algorithms**|Tran Hung Cuong et.al.|[2404.01827v1](http://arxiv.org/abs/2404.01827v1)|null|
-|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v1](http://arxiv.org/abs/2404.01781v1)|null|
+|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v2](http://arxiv.org/abs/2404.01781v2)|null|
 |**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|null|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
