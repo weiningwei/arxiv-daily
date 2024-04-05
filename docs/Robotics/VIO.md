@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531v1](http://arxiv.org/abs/2404.03531v1)|null|
+|**2024-04-03**|**The Independence of Magnetic Turbulent Power Spectra to the Presence of Switchbacks in the Inner Heliosphere**|Peter Tatum et.al.|[2404.03075v1](http://arxiv.org/abs/2404.03075v1)|null|
 |**2024-04-03**|**Conditions on separability in multiqubit systems with an accelerating qubit using a conditional entropy**|Harsha Miriam Reji et.al.|[2404.02716v1](http://arxiv.org/abs/2404.02716v1)|null|
 |**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515v1](http://arxiv.org/abs/2404.02515v1)|null|
 |**2024-04-02**|**Elasto-inertial rectification of oscillatory flow in an elastic tube**|Xirui Zhang et.al.|[2404.02292v1](http://arxiv.org/abs/2404.02292v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-27**|**DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment**|Jiuming Liu et.al.|[2403.18274v1](http://arxiv.org/abs/2403.18274v1)|null|
 |**2024-03-26**|**The memory of Rayleigh-Taylor turbulence**|S. Thévenin et.al.|[2403.17832v1](http://arxiv.org/abs/2403.17832v1)|null|
 |**2024-03-26**|**Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum**|Zhandos Moldabekov et.al.|[2403.17815v1](http://arxiv.org/abs/2403.17815v1)|null|
-|**2024-03-26**|**Facet formation in slow three-dimensional fracture**|Yuri Lubomirsky et.al.|[2403.17781v1](http://arxiv.org/abs/2403.17781v1)|null|
-|**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441v1](http://arxiv.org/abs/2403.17441v1)|null|
