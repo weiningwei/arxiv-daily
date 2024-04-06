@@ -8,7 +8,7 @@
 |**2024-04-04**|**DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling**|Haoran Li et.al.|[2404.03575v1](http://arxiv.org/abs/2404.03575v1)|null|
 |**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531v1](http://arxiv.org/abs/2404.03531v1)|null|
 |**2024-04-04**|**SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring**|Kaichen Huang et.al.|[2404.03386v1](http://arxiv.org/abs/2404.03386v1)|null|
-|**2024-04-04**|**LongVLM: Efficient Long Video Understanding via Large Language Models**|Yuetian Weng et.al.|[2404.03384v1](http://arxiv.org/abs/2404.03384v1)|null|
+|**2024-04-04**|**LongVLM: Efficient Long Video Understanding via Large Language Models**|Yuetian Weng et.al.|[2404.03384v1](http://arxiv.org/abs/2404.03384v1)|[link](https://github.com/ziplab/longvlm)|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349v1](http://arxiv.org/abs/2404.03349v1)|null|
 |**2024-04-04**|**Influence of Gameplay Duration, Hand Tracking, and Controller Based Control Methods on UX in VR**|Tanja Kojić et.al.|[2404.03337v1](http://arxiv.org/abs/2404.03337v1)|null|
 |**2024-04-04**|**Real-time Noise Source Estimation of a Camera System from an Image and Metadata**|Maik Wischow et.al.|[2404.03251v1](http://arxiv.org/abs/2404.03251v1)|[link](https://github.com/maikwischow/noise-source-estimation)|
