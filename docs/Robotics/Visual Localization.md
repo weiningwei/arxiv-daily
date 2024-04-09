@@ -20,7 +20,7 @@
 |**2024-04-04**|**Influence of Gameplay Duration, Hand Tracking, and Controller Based Control Methods on UX in VR**|Tanja Kojić et.al.|[2404.03337v1](http://arxiv.org/abs/2404.03337v1)|null|
 |**2024-04-04**|**Multi-purpose InSTRument for Astronomy at Low-resolution: MISTRAL@OHP**|J. Schmitt et.al.|[2404.03705v1](http://arxiv.org/abs/2404.03705v1)|null|
 |**2024-04-04**|**Real-time Noise Source Estimation of a Camera System from an Image and Metadata**|Maik Wischow et.al.|[2404.03251v1](http://arxiv.org/abs/2404.03251v1)|[link](https://github.com/maikwischow/noise-source-estimation)|
-|**2024-04-04**|**OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images**|Longwei Li et.al.|[2404.03202v1](http://arxiv.org/abs/2404.03202v1)|null|
+|**2024-04-04**|**OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images**|Longwei Li et.al.|[2404.03202v2](http://arxiv.org/abs/2404.03202v2)|null|
 |**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191v1](http://arxiv.org/abs/2404.03191v1)|null|
 |**2024-04-04**|**SEPE-SQED: Symbolic Quick Error Detection by Semantically Equivalent Program Execution**|Yufeng Li et.al.|[2404.03172v2](http://arxiv.org/abs/2404.03172v2)|null|
 |**2024-04-04**|**Design and Evaluation of a Compact 3D End-effector Assistive Robot for Adaptive Arm Support**|Sibo Yang et.al.|[2404.03149v1](http://arxiv.org/abs/2404.03149v1)|null|
