@@ -31,4 +31,4 @@
 |**2024-04-06**|**EAGLE: The First Event Camera Dataset Gathered by an Agile Quadruped Robot**|Shifan Zhu et.al.|[2404.04698v1](http://arxiv.org/abs/2404.04698v1)|null|
 |**2024-04-06**|**OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds**|Bonan Liu et.al.|[2404.04693v1](http://arxiv.org/abs/2404.04693v1)|[link](https://github.com/liubonan123/omnicolor)|
 |**2024-04-06**|**Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion**|Ziyuan Qu et.al.|[2404.04687v1](http://arxiv.org/abs/2404.04687v1)|null|
-|**2024-04-06**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561v1](http://arxiv.org/abs/2404.04561v1)|null|
+|**2024-04-06**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561v2](http://arxiv.org/abs/2404.04561v2)|null|
