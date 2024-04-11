@@ -1,81 +1,15 @@
 # arxiv-daily
- Automated deployment @ 2024-04-11 09:35:19 Asia/Shanghai
+ Automated deployment @ 2024-04-11 20:12:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-08**|**Oblique photons, plasmons, and current-plasmons in relativistic plasmas and their topological implications**|Hong Qin et.al.|[2404.05636v1](http://arxiv.org/abs/2404.05636v1)|null|
-|**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|[link](https://github.com/hamedhaghighi/lidargrit)|
-|**2024-04-08**|**On the relevance of lift force modelling in turbulent wall flows with small inertial particles**|Wei Gao et.al.|[2404.05346v1](http://arxiv.org/abs/2404.05346v1)|null|
-|**2024-04-08**|**Local sparse limit of a particle coalescence model under environmental noise**|Franco Flandoli et.al.|[2404.05233v1](http://arxiv.org/abs/2404.05233v1)|null|
-|**2024-04-07**|**The Use of MEMS Accelerometers for Remote Activity and Living Parameters Monitoring**|Natalia Osiadala et.al.|[2404.04919v1](http://arxiv.org/abs/2404.04919v1)|null|
-|**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677v1](http://arxiv.org/abs/2404.04677v1)|null|
-|**2024-04-06**|**Comment to the paper J. Yan et al. Experimental confirmation of driving pressure boosting and smoothing for hybrid-drive inertial fusion at the 100-kJ laser facility [Nature Communications (2023) 14:5782]**|Ke Lan et.al.|[2404.05760v1](http://arxiv.org/abs/2404.05760v1)|null|
-|**2024-04-05**|**System and Method to Determine ME/CFS and Long COVID Disease Severity Using a Wearable Sensor**|Yifei Sun et.al.|[2404.04345v1](http://arxiv.org/abs/2404.04345v1)|null|
-|**2024-04-05**|**Particle chirality does not matter in strong turbulence**|Giulia Piumini et.al.|[2404.04217v1](http://arxiv.org/abs/2404.04217v1)|null|
-|**2024-04-05**|**Lagrangian Particle Tracking at Large Reynolds Numbers**|Christian Küchler et.al.|[2404.04215v1](http://arxiv.org/abs/2404.04215v1)|null|
-|**2024-04-05**|**Higher-Order Analysis of Three-Dimensional Anisotropy in Imbalanced Alfvénic Turbulence**|Nikos Sioulas et.al.|[2404.04055v1](http://arxiv.org/abs/2404.04055v1)|null|
-|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-05**|**An inertial self-adaptive algorithm for solving split feasibility problems and fixed point problems in the class of demicontractive mappings**|Vasile Berinde et.al.|[2404.04309v1](http://arxiv.org/abs/2404.04309v1)|null|
-|**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531v1](http://arxiv.org/abs/2404.03531v1)|null|
-|**2024-04-03**|**The Independence of Magnetic Turbulent Power Spectra to the Presence of Switchbacks in the Inner Heliosphere**|Peter Tatum et.al.|[2404.03075v1](http://arxiv.org/abs/2404.03075v1)|null|
-|**2024-04-03**|**Conditions on separability in multiqubit systems with an accelerating qubit using a conditional entropy**|Harsha Miriam Reji et.al.|[2404.02716v1](http://arxiv.org/abs/2404.02716v1)|null|
-|**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515v1](http://arxiv.org/abs/2404.02515v1)|null|
-|**2024-04-02**|**Elasto-inertial rectification of oscillatory flow in an elastic tube**|Xirui Zhang et.al.|[2404.02292v1](http://arxiv.org/abs/2404.02292v1)|null|
-|**2024-04-02**|**Searching for new physics in the solar system with tetrahedral spacecraft formations**|Slava G. Turyshev et.al.|[2404.02096v1](http://arxiv.org/abs/2404.02096v1)|null|
-|**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
-|**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
-|**2024-04-02**|**Solving a Class of Nonconvex Quadratic Programs by Inertial DC Algorithms**|Tran Hung Cuong et.al.|[2404.01827v1](http://arxiv.org/abs/2404.01827v1)|null|
-|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v2](http://arxiv.org/abs/2404.01781v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)|
-|**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|[link](https://github.com/kirillmouraviev/prism-topomap)|
-|**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
-|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
-|**2024-04-01**|**A Clifford algebra model in phase space**|Robert A. Wilson et.al.|[2404.04278v1](http://arxiv.org/abs/2404.04278v1)|null|
-|**2024-04-01**|**Visual-inertial state estimation based on Chebyshev polynomial optimization**|Hongyu Zhang et.al.|[2404.01150v1](http://arxiv.org/abs/2404.01150v1)|null|
-|**2024-04-01**|**Exact moments for trapped active particles: inertial impact on steady-state properties and re-entrance**|Manish Patel et.al.|[2404.01107v1](http://arxiv.org/abs/2404.01107v1)|null|
-|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-09**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493v2](http://arxiv.org/abs/2404.06493v2)|null|
-|**2024-04-09**|**DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning**|Senthil Yogamani et.al.|[2404.06352v1](http://arxiv.org/abs/2404.06352v1)|null|
-|**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337v1](http://arxiv.org/abs/2404.06337v1)|null|
-|**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165v1](http://arxiv.org/abs/2404.06165v1)|null|
-|**2024-04-09**|**REPUBLIC: A variability-preserving systematic-correction algorithm for PLATO's multi-camera light curves**|Oscar Barragán et.al.|[2404.06132v1](http://arxiv.org/abs/2404.06132v1)|null|
-|**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091v1](http://arxiv.org/abs/2404.06091v1)|[link](https://github.com/Adamdad/hash3D)|
-|**2024-04-09**|**Incremental Joint Learning of Depth, Pose and Implicit Scene Representation on Monocular Camera in Large-scale Scenes**|Tianchen Deng et.al.|[2404.06050v1](http://arxiv.org/abs/2404.06050v1)|null|
-|**2024-04-09**|**Passive None-line-of-sight imaging with arbitrary scene condition and detection pattern in small amount of prior data**|Yunting Gui et.al.|[2404.06015v1](http://arxiv.org/abs/2404.06015v1)|null|
-|**2024-04-09**|**Passive Non-line-of-sight imaging of moving targets using Physical embedding and Event-based vision**|Conghe Wang et.al.|[2404.05977v1](http://arxiv.org/abs/2404.05977v1)|null|
-|**2024-04-08**|**GBEC: Geometry-Based Hand-Eye Calibration**|Yihao Liu et.al.|[2404.05884v1](http://arxiv.org/abs/2404.05884v1)|null|
-|**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858v1](http://arxiv.org/abs/2404.05858v1)|null|
-|**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705v1](http://arxiv.org/abs/2404.05705v1)|null|
-|**2024-04-08**|**SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**|Heyuan Li et.al.|[2404.05680v1](http://arxiv.org/abs/2404.05680v1)|null|
-|**2024-04-08**|**Quantum tomography of structured light patterns from simple intensity measurements**|M. Gil de Oliveira et.al.|[2404.05616v1](http://arxiv.org/abs/2404.05616v1)|null|
-|**2024-04-08**|**Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models**|Saman Motamed et.al.|[2404.05519v1](http://arxiv.org/abs/2404.05519v1)|null|
-|**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518v1](http://arxiv.org/abs/2404.05518v1)|[link](https://github.com/jackwoo0831/depthmot)|
-|**2024-04-08**|**Action-conditioned video data improves predictability**|Meenakshi Sarkar et.al.|[2404.05439v1](http://arxiv.org/abs/2404.05439v1)|null|
-|**2024-04-08**|**Non-linear Model Predictive Control for Multi-task GPS-free Autonomous Navigation in Vineyards**|Matteo Sperti et.al.|[2404.05343v1](http://arxiv.org/abs/2404.05343v1)|null|
-|**2024-04-08**|**A Power Management and Control System for Portable Ecosystem Monitoring Devices**|Marcel Balle et.al.|[2404.05322v1](http://arxiv.org/abs/2404.05322v1)|null|
-|**2024-04-08**|**CLIPping the Limits: Finding the Sweet Spot for Relevant Images in Automated Driving Systems Perception Testing**|Philipp Rigoll et.al.|[2404.05309v1](http://arxiv.org/abs/2404.05309v1)|null|
-|**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[2404.05307v1](http://arxiv.org/abs/2404.05307v1)|null|
-|**2024-04-08**|**Detecting Every Object from Events**|Haitian Zhang et.al.|[2404.05285v1](http://arxiv.org/abs/2404.05285v1)|[link](https://github.com/hatins/deoe)|
-|**2024-04-08**|**MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**|Xiahan Chen et.al.|[2404.05280v1](http://arxiv.org/abs/2404.05280v1)|null|
-|**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
-|**2024-04-08**|**STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs**|Kush Hari et.al.|[2404.05151v1](http://arxiv.org/abs/2404.05151v1)|null|
-|**2024-04-08**|**Better Monocular 3D Detectors with LiDAR from the Past**|Yurong You et.al.|[2404.05139v2](http://arxiv.org/abs/2404.05139v2)|[link](https://github.com/yurongyou/asyncdepth)|
-|**2024-04-08**|**Image-based Agarwood Resinous Area Segmentation using Deep Learning**|Irwandi Hipiny et.al.|[2404.05129v1](http://arxiv.org/abs/2404.05129v1)|null|
-|**2024-04-07**|**Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind**|Chiara Plizzari et.al.|[2404.05072v1](http://arxiv.org/abs/2404.05072v1)|null|
-|**2024-04-07**|**PathFinder: Attention-Driven Dynamic Non-Line-of-Sight Tracking with a Mobile Robot**|Shenbagaraj Kannapiran et.al.|[2404.05024v1](http://arxiv.org/abs/2404.05024v1)|null|
-|**2024-04-07**|**Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones**|Jiankai Tang et.al.|[2404.05003v1](http://arxiv.org/abs/2404.05003v1)|[link](https://github.com/health-hci-group/largest_rppg_dataset_evaluation)|
-
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v1](http://arxiv.org/abs/2404.06665v1)|[link](https://github.com/yongquan-qu/slams)|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
 |**2024-04-05**|**LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping**|Kurran Singh et.al.|[2404.04377v1](http://arxiv.org/abs/2404.04377v1)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
@@ -104,12 +38,79 @@
 |**2024-03-20**|**Tuning body shape and stiffness to mitigate water-entry forces**|Bart Boom et.al.|[2403.13262v1](http://arxiv.org/abs/2403.13262v1)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v1](http://arxiv.org/abs/2403.12837v1)|null|
 |**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550v2](http://arxiv.org/abs/2403.12550v2)|[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)|
-|**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535v1](http://arxiv.org/abs/2403.12535v1)|null|
-|**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Move Anything with Layered Scene Diffusion**|Jiawei Ren et.al.|[2404.07178v1](http://arxiv.org/abs/2404.07178v1)|null|
+|**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
+|**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
+|**2024-04-10**|**Tianyu: search for the second solar system and explore the dynamic universe**|Fabo Feng et.al.|[2404.07149v1](http://arxiv.org/abs/2404.07149v1)|null|
+|**2024-04-10**|**Driver Attention Tracking and Analysis**|Dat Viet Thanh Nguyen et.al.|[2404.07122v1](http://arxiv.org/abs/2404.07122v1)|null|
+|**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097v1](http://arxiv.org/abs/2404.07097v1)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-10**|**DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting**|Shijie Zhou et.al.|[2404.06903v1](http://arxiv.org/abs/2404.06903v1)|null|
+|**2024-04-10**|**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**|Jianxiang Xiang et.al.|[2404.06760v1](http://arxiv.org/abs/2404.06760v1)|null|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715v1](http://arxiv.org/abs/2404.06715v1)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v1](http://arxiv.org/abs/2404.06710v1)|null|
+|**2024-04-10**|**Scaling Multi-Camera 3D Object Detection through Weak-to-Strong Eliciting**|Hao Lu et.al.|[2404.06700v1](http://arxiv.org/abs/2404.06700v1)|[link](https://github.com/envision-research/scale-bev)|
+|**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang et.al.|[2404.06693v1](http://arxiv.org/abs/2404.06693v1)|null|
+|**2024-04-09**|**FlameFinder: Illuminating Obscured Fire through Smoke with Attentive Deep Metric Learning**|Hossein Rajoli et.al.|[2404.06653v1](http://arxiv.org/abs/2404.06653v1)|null|
+|**2024-04-09**|**Leveraging Latents for Efficient Thermography Classification and Segmentation**|Tamir Shor et.al.|[2404.06589v1](http://arxiv.org/abs/2404.06589v1)|[link](https://github.com/tamirshor7/latents-guided-thermography)|
+|**2024-04-09**|**PSF quality metrics in the problem of revealing Intermediate-Mass Black Holes using MICADO@ELT**|Mariia Demianenko et.al.|[2404.06558v1](http://arxiv.org/abs/2404.06558v1)|null|
+|**2024-04-09**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493v2](http://arxiv.org/abs/2404.06493v2)|null|
+|**2024-04-09**|**DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning**|Senthil Yogamani et.al.|[2404.06352v1](http://arxiv.org/abs/2404.06352v1)|null|
+|**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337v1](http://arxiv.org/abs/2404.06337v1)|null|
+|**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165v1](http://arxiv.org/abs/2404.06165v1)|null|
+|**2024-04-09**|**REPUBLIC: A variability-preserving systematic-correction algorithm for PLATO's multi-camera light curves**|Oscar Barragán et.al.|[2404.06132v1](http://arxiv.org/abs/2404.06132v1)|null|
+|**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091v1](http://arxiv.org/abs/2404.06091v1)|[link](https://github.com/Adamdad/hash3D)|
+|**2024-04-09**|**Incremental Joint Learning of Depth, Pose and Implicit Scene Representation on Monocular Camera in Large-scale Scenes**|Tianchen Deng et.al.|[2404.06050v1](http://arxiv.org/abs/2404.06050v1)|null|
+|**2024-04-09**|**Passive None-line-of-sight imaging with arbitrary scene condition and detection pattern in small amount of prior data**|Yunting Gui et.al.|[2404.06015v1](http://arxiv.org/abs/2404.06015v1)|null|
+|**2024-04-09**|**Passive Non-line-of-sight imaging of moving targets using Physical embedding and Event-based vision**|Conghe Wang et.al.|[2404.05977v1](http://arxiv.org/abs/2404.05977v1)|null|
+|**2024-04-08**|**GBEC: Geometry-Based Hand-Eye Calibration**|Yihao Liu et.al.|[2404.05884v1](http://arxiv.org/abs/2404.05884v1)|null|
+|**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858v1](http://arxiv.org/abs/2404.05858v1)|null|
+|**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705v1](http://arxiv.org/abs/2404.05705v1)|null|
+|**2024-04-08**|**SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**|Heyuan Li et.al.|[2404.05680v1](http://arxiv.org/abs/2404.05680v1)|null|
+|**2024-04-08**|**Quantum tomography of structured light patterns from simple intensity measurements**|M. Gil de Oliveira et.al.|[2404.05616v1](http://arxiv.org/abs/2404.05616v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
+|**2024-04-08**|**Oblique photons, plasmons, and current-plasmons in relativistic plasmas and their topological implications**|Hong Qin et.al.|[2404.05636v1](http://arxiv.org/abs/2404.05636v1)|null|
+|**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|[link](https://github.com/hamedhaghighi/lidargrit)|
+|**2024-04-08**|**On the relevance of lift force modelling in turbulent wall flows with small inertial particles**|Wei Gao et.al.|[2404.05346v1](http://arxiv.org/abs/2404.05346v1)|null|
+|**2024-04-08**|**Local sparse limit of a particle coalescence model under environmental noise**|Franco Flandoli et.al.|[2404.05233v1](http://arxiv.org/abs/2404.05233v1)|null|
+|**2024-04-07**|**The Use of MEMS Accelerometers for Remote Activity and Living Parameters Monitoring**|Natalia Osiadala et.al.|[2404.04919v1](http://arxiv.org/abs/2404.04919v1)|null|
+|**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677v1](http://arxiv.org/abs/2404.04677v1)|null|
+|**2024-04-06**|**Comment to the paper J. Yan et al. Experimental confirmation of driving pressure boosting and smoothing for hybrid-drive inertial fusion at the 100-kJ laser facility [Nature Communications (2023) 14:5782]**|Ke Lan et.al.|[2404.05760v1](http://arxiv.org/abs/2404.05760v1)|null|
+|**2024-04-05**|**System and Method to Determine ME/CFS and Long COVID Disease Severity Using a Wearable Sensor**|Yifei Sun et.al.|[2404.04345v1](http://arxiv.org/abs/2404.04345v1)|null|
+|**2024-04-05**|**Particle chirality does not matter in strong turbulence**|Giulia Piumini et.al.|[2404.04217v1](http://arxiv.org/abs/2404.04217v1)|null|
+|**2024-04-05**|**Lagrangian Particle Tracking at Large Reynolds Numbers**|Christian Küchler et.al.|[2404.04215v1](http://arxiv.org/abs/2404.04215v1)|null|
+|**2024-04-05**|**Higher-Order Analysis of Three-Dimensional Anisotropy in Imbalanced Alfvénic Turbulence**|Nikos Sioulas et.al.|[2404.04055v1](http://arxiv.org/abs/2404.04055v1)|null|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
+|**2024-04-05**|**An inertial self-adaptive algorithm for solving split feasibility problems and fixed point problems in the class of demicontractive mappings**|Vasile Berinde et.al.|[2404.04309v1](http://arxiv.org/abs/2404.04309v1)|null|
+|**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531v1](http://arxiv.org/abs/2404.03531v1)|null|
+|**2024-04-03**|**The Independence of Magnetic Turbulent Power Spectra to the Presence of Switchbacks in the Inner Heliosphere**|Peter Tatum et.al.|[2404.03075v1](http://arxiv.org/abs/2404.03075v1)|null|
+|**2024-04-03**|**Conditions on separability in multiqubit systems with an accelerating qubit using a conditional entropy**|Harsha Miriam Reji et.al.|[2404.02716v1](http://arxiv.org/abs/2404.02716v1)|null|
+|**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515v1](http://arxiv.org/abs/2404.02515v1)|null|
+|**2024-04-02**|**Elasto-inertial rectification of oscillatory flow in an elastic tube**|Xirui Zhang et.al.|[2404.02292v1](http://arxiv.org/abs/2404.02292v1)|null|
+|**2024-04-02**|**Searching for new physics in the solar system with tetrahedral spacecraft formations**|Slava G. Turyshev et.al.|[2404.02096v1](http://arxiv.org/abs/2404.02096v1)|null|
+|**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
+|**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
+|**2024-04-02**|**Solving a Class of Nonconvex Quadratic Programs by Inertial DC Algorithms**|Tran Hung Cuong et.al.|[2404.01827v1](http://arxiv.org/abs/2404.01827v1)|null|
+|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v2](http://arxiv.org/abs/2404.01781v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)|
+|**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|[link](https://github.com/kirillmouraviev/prism-topomap)|
+|**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
+|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
+|**2024-04-01**|**A Clifford algebra model in phase space**|Robert A. Wilson et.al.|[2404.04278v1](http://arxiv.org/abs/2404.04278v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
 |**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|[link](https://github.com/hamedhaghighi/lidargrit)|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677v1](http://arxiv.org/abs/2404.04677v1)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
@@ -139,4 +140,3 @@
 |**2024-03-13**|**CART: Caltech Aerial RGB-Thermal Dataset in the Wild**|Connor Lee et.al.|[2403.08997v1](http://arxiv.org/abs/2403.08997v1)|[link](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
 |**2024-03-11**|**HDA-LVIO: A High-Precision LiDAR-Visual-Inertial Odometry in Urban Environments with Hybrid Data Association**|Jian Shi et.al.|[2403.06590v1](http://arxiv.org/abs/2403.06590v1)|null|
 |**2024-03-09**|**IMU as an Input vs. a Measurement of the State in Inertial-Aided State Estimation**|Keenan Burnett et.al.|[2403.05968v1](http://arxiv.org/abs/2403.05968v1)|[link](https://github.com/utiasasrl/steam_icp)|
-|**2024-03-09**|**Asynchronous Microphone Array Calibration using Hybrid TDOA Information**|Chengjie Zhang et.al.|[2403.05791v3](http://arxiv.org/abs/2403.05791v3)|[link](https://github.com/chen-jacker/hybrid-tdoa-calib)|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
 |**2024-04-08**|**Oblique photons, plasmons, and current-plasmons in relativistic plasmas and their topological implications**|Hong Qin et.al.|[2404.05636v1](http://arxiv.org/abs/2404.05636v1)|null|
 |**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|[link](https://github.com/hamedhaghighi/lidargrit)|
 |**2024-04-08**|**On the relevance of lift force modelling in turbulent wall flows with small inertial particles**|Wei Gao et.al.|[2404.05346v1](http://arxiv.org/abs/2404.05346v1)|null|
@@ -29,6 +32,3 @@
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
 |**2024-04-01**|**A Clifford algebra model in phase space**|Robert A. Wilson et.al.|[2404.04278v1](http://arxiv.org/abs/2404.04278v1)|null|
-|**2024-04-01**|**Visual-inertial state estimation based on Chebyshev polynomial optimization**|Hongyu Zhang et.al.|[2404.01150v1](http://arxiv.org/abs/2404.01150v1)|null|
-|**2024-04-01**|**Exact moments for trapped active particles: inertial impact on steady-state properties and re-entrance**|Manish Patel et.al.|[2404.01107v1](http://arxiv.org/abs/2404.01107v1)|null|
-|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|

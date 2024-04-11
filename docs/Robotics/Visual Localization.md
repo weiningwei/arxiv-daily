@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-10**|**Move Anything with Layered Scene Diffusion**|Jiawei Ren et.al.|[2404.07178v1](http://arxiv.org/abs/2404.07178v1)|null|
+|**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
+|**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
+|**2024-04-10**|**Tianyu: search for the second solar system and explore the dynamic universe**|Fabo Feng et.al.|[2404.07149v1](http://arxiv.org/abs/2404.07149v1)|null|
+|**2024-04-10**|**Driver Attention Tracking and Analysis**|Dat Viet Thanh Nguyen et.al.|[2404.07122v1](http://arxiv.org/abs/2404.07122v1)|null|
+|**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097v1](http://arxiv.org/abs/2404.07097v1)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-10**|**DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting**|Shijie Zhou et.al.|[2404.06903v1](http://arxiv.org/abs/2404.06903v1)|null|
+|**2024-04-10**|**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**|Jianxiang Xiang et.al.|[2404.06760v1](http://arxiv.org/abs/2404.06760v1)|null|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715v1](http://arxiv.org/abs/2404.06715v1)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v1](http://arxiv.org/abs/2404.06710v1)|null|
+|**2024-04-10**|**Scaling Multi-Camera 3D Object Detection through Weak-to-Strong Eliciting**|Hao Lu et.al.|[2404.06700v1](http://arxiv.org/abs/2404.06700v1)|[link](https://github.com/envision-research/scale-bev)|
+|**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang et.al.|[2404.06693v1](http://arxiv.org/abs/2404.06693v1)|null|
+|**2024-04-09**|**FlameFinder: Illuminating Obscured Fire through Smoke with Attentive Deep Metric Learning**|Hossein Rajoli et.al.|[2404.06653v1](http://arxiv.org/abs/2404.06653v1)|null|
+|**2024-04-09**|**Leveraging Latents for Efficient Thermography Classification and Segmentation**|Tamir Shor et.al.|[2404.06589v1](http://arxiv.org/abs/2404.06589v1)|[link](https://github.com/tamirshor7/latents-guided-thermography)|
+|**2024-04-09**|**PSF quality metrics in the problem of revealing Intermediate-Mass Black Holes using MICADO@ELT**|Mariia Demianenko et.al.|[2404.06558v1](http://arxiv.org/abs/2404.06558v1)|null|
 |**2024-04-09**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493v2](http://arxiv.org/abs/2404.06493v2)|null|
 |**2024-04-09**|**DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning**|Senthil Yogamani et.al.|[2404.06352v1](http://arxiv.org/abs/2404.06352v1)|null|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337v1](http://arxiv.org/abs/2404.06337v1)|null|
@@ -16,19 +32,3 @@
 |**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705v1](http://arxiv.org/abs/2404.05705v1)|null|
 |**2024-04-08**|**SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**|Heyuan Li et.al.|[2404.05680v1](http://arxiv.org/abs/2404.05680v1)|null|
 |**2024-04-08**|**Quantum tomography of structured light patterns from simple intensity measurements**|M. Gil de Oliveira et.al.|[2404.05616v1](http://arxiv.org/abs/2404.05616v1)|null|
-|**2024-04-08**|**Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models**|Saman Motamed et.al.|[2404.05519v1](http://arxiv.org/abs/2404.05519v1)|null|
-|**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518v1](http://arxiv.org/abs/2404.05518v1)|[link](https://github.com/jackwoo0831/depthmot)|
-|**2024-04-08**|**Action-conditioned video data improves predictability**|Meenakshi Sarkar et.al.|[2404.05439v1](http://arxiv.org/abs/2404.05439v1)|null|
-|**2024-04-08**|**Non-linear Model Predictive Control for Multi-task GPS-free Autonomous Navigation in Vineyards**|Matteo Sperti et.al.|[2404.05343v1](http://arxiv.org/abs/2404.05343v1)|null|
-|**2024-04-08**|**A Power Management and Control System for Portable Ecosystem Monitoring Devices**|Marcel Balle et.al.|[2404.05322v1](http://arxiv.org/abs/2404.05322v1)|null|
-|**2024-04-08**|**CLIPping the Limits: Finding the Sweet Spot for Relevant Images in Automated Driving Systems Perception Testing**|Philipp Rigoll et.al.|[2404.05309v1](http://arxiv.org/abs/2404.05309v1)|null|
-|**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[2404.05307v1](http://arxiv.org/abs/2404.05307v1)|null|
-|**2024-04-08**|**Detecting Every Object from Events**|Haitian Zhang et.al.|[2404.05285v1](http://arxiv.org/abs/2404.05285v1)|[link](https://github.com/hatins/deoe)|
-|**2024-04-08**|**MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**|Xiahan Chen et.al.|[2404.05280v1](http://arxiv.org/abs/2404.05280v1)|null|
-|**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
-|**2024-04-08**|**STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs**|Kush Hari et.al.|[2404.05151v1](http://arxiv.org/abs/2404.05151v1)|null|
-|**2024-04-08**|**Better Monocular 3D Detectors with LiDAR from the Past**|Yurong You et.al.|[2404.05139v2](http://arxiv.org/abs/2404.05139v2)|[link](https://github.com/yurongyou/asyncdepth)|
-|**2024-04-08**|**Image-based Agarwood Resinous Area Segmentation using Deep Learning**|Irwandi Hipiny et.al.|[2404.05129v1](http://arxiv.org/abs/2404.05129v1)|null|
-|**2024-04-07**|**Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind**|Chiara Plizzari et.al.|[2404.05072v1](http://arxiv.org/abs/2404.05072v1)|null|
-|**2024-04-07**|**PathFinder: Attention-Driven Dynamic Non-Line-of-Sight Tracking with a Mobile Robot**|Shenbagaraj Kannapiran et.al.|[2404.05024v1](http://arxiv.org/abs/2404.05024v1)|null|
-|**2024-04-07**|**Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones**|Jiankai Tang et.al.|[2404.05003v1](http://arxiv.org/abs/2404.05003v1)|[link](https://github.com/health-hci-group/largest_rppg_dataset_evaluation)|
