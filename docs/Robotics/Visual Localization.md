@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-11**|**Gaga: Group Any Gaussians via 3D-aware Memory Bank**|Weijie Lyu et.al.|[2404.07977v1](http://arxiv.org/abs/2404.07977v1)|null|
+|**2024-04-11**|**Parameter Hierarchical Optimization for Visible-Infrared Person Re-Identification**|Zeng YU et.al.|[2404.07930v1](http://arxiv.org/abs/2404.07930v1)|null|
+|**2024-04-11**|**Context-aware Video Anomaly Detection in Long-Term Datasets**|Zhengye Yang et.al.|[2404.07887v1](http://arxiv.org/abs/2404.07887v1)|null|
+|**2024-04-11**|**X-ray imaging and electron temperature evolution in laser-driven magnetic reconnection experiments at the National Ignition Facility**|V. Valenzuela-Villaseca et.al.|[2404.07799v1](http://arxiv.org/abs/2404.07799v1)|null|
+|**2024-04-11**|**Monte Carlo Tree Search with Boltzmann Exploration**|Michael Painter et.al.|[2404.07732v1](http://arxiv.org/abs/2404.07732v1)|null|
+|**2024-04-11**|**Separated Attention: An Improved Cycle GAN Based Under Water Image Enhancement Method**|Tashmoy Ghosh et.al.|[2404.07649v1](http://arxiv.org/abs/2404.07649v1)|null|
+|**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626v1](http://arxiv.org/abs/2404.07626v1)|[link](https://github.com/shanwang-shan/homofusion)|
+|**2024-04-11**|**Event-Enhanced Snapshot Compressive Videography at 10K FPS**|Bo Zhang et.al.|[2404.07551v1](http://arxiv.org/abs/2404.07551v1)|null|
+|**2024-04-11**|**Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion**|Ang Li et.al.|[2404.07545v1](http://arxiv.org/abs/2404.07545v1)|null|
+|**2024-04-11**|**Trashbusters: Deep Learning Approach for Litter Detection and Tracking**|Kashish Jain et.al.|[2404.07467v1](http://arxiv.org/abs/2404.07467v1)|null|
+|**2024-04-11**|**Behavior Trees Enable Structured Programming of Language Model Agents**|Richard Kelley et.al.|[2404.07439v1](http://arxiv.org/abs/2404.07439v1)|[link](https://github.com/RichardKelley/dendron)|
 |**2024-04-10**|**Move Anything with Layered Scene Diffusion**|Jiawei Ren et.al.|[2404.07178v1](http://arxiv.org/abs/2404.07178v1)|null|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
 |**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
@@ -21,14 +32,3 @@
 |**2024-04-09**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493v2](http://arxiv.org/abs/2404.06493v2)|null|
 |**2024-04-09**|**DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning**|Senthil Yogamani et.al.|[2404.06352v1](http://arxiv.org/abs/2404.06352v1)|null|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337v1](http://arxiv.org/abs/2404.06337v1)|null|
-|**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165v1](http://arxiv.org/abs/2404.06165v1)|null|
-|**2024-04-09**|**REPUBLIC: A variability-preserving systematic-correction algorithm for PLATO's multi-camera light curves**|Oscar Barragán et.al.|[2404.06132v1](http://arxiv.org/abs/2404.06132v1)|[link](https://github.com/oscaribv/republic_paper_code)|
-|**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091v1](http://arxiv.org/abs/2404.06091v1)|[link](https://github.com/Adamdad/hash3D)|
-|**2024-04-09**|**Incremental Joint Learning of Depth, Pose and Implicit Scene Representation on Monocular Camera in Large-scale Scenes**|Tianchen Deng et.al.|[2404.06050v1](http://arxiv.org/abs/2404.06050v1)|null|
-|**2024-04-09**|**Passive None-line-of-sight imaging with arbitrary scene condition and detection pattern in small amount of prior data**|Yunting Gui et.al.|[2404.06015v1](http://arxiv.org/abs/2404.06015v1)|null|
-|**2024-04-09**|**Passive Non-line-of-sight imaging of moving targets using Physical embedding and Event-based vision**|Conghe Wang et.al.|[2404.05977v1](http://arxiv.org/abs/2404.05977v1)|null|
-|**2024-04-08**|**GBEC: Geometry-Based Hand-Eye Calibration**|Yihao Liu et.al.|[2404.05884v1](http://arxiv.org/abs/2404.05884v1)|null|
-|**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858v1](http://arxiv.org/abs/2404.05858v1)|null|
-|**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705v1](http://arxiv.org/abs/2404.05705v1)|null|
-|**2024-04-08**|**SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**|Heyuan Li et.al.|[2404.05680v1](http://arxiv.org/abs/2404.05680v1)|null|
-|**2024-04-08**|**Quantum tomography of structured light patterns from simple intensity measurements**|M. Gil de Oliveira et.al.|[2404.05616v1](http://arxiv.org/abs/2404.05616v1)|null|

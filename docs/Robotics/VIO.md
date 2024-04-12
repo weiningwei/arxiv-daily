@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v1](http://arxiv.org/abs/2404.07644v1)|null|
+|**2024-04-10**|**Experimental and numerical investigation of inertial particles in underexpanded jets**|Meet Patel et.al.|[2404.07329v1](http://arxiv.org/abs/2404.07329v1)|null|
 |**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
 |**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
 |**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
@@ -30,5 +32,3 @@
 |**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v2](http://arxiv.org/abs/2404.01781v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)|
 |**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|[link](https://github.com/kirillmouraviev/prism-topomap)|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
-|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
-|**2024-04-01**|**A Clifford algebra model in phase space**|Robert A. Wilson et.al.|[2404.04278v1](http://arxiv.org/abs/2404.04278v1)|null|
