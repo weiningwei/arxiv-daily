@@ -2,7 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v1](http://arxiv.org/abs/2404.07644v1)|null|
+|**2024-04-12**|**Direct numerical simulations of microlayer formation during heterogeneous bubble nucleation**|Mandeep Saini et.al.|[2404.08377v1](http://arxiv.org/abs/2404.08377v1)|null|
+|**2024-04-12**|**Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**|Z. H. Chen et.al.|[2404.08216v1](http://arxiv.org/abs/2404.08216v1)|null|
+|**2024-04-11**|**Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**|Usman Rana et.al.|[2404.08119v1](http://arxiv.org/abs/2404.08119v1)|null|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|[link](https://github.com/littledang/2dliw-slam)|
 |**2024-04-10**|**Experimental and numerical investigation of inertial particles in underexpanded jets**|Meet Patel et.al.|[2404.07329v1](http://arxiv.org/abs/2404.07329v1)|null|
 |**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
 |**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
@@ -29,6 +32,3 @@
 |**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
 |**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
 |**2024-04-02**|**Solving a Class of Nonconvex Quadratic Programs by Inertial DC Algorithms**|Tran Hung Cuong et.al.|[2404.01827v1](http://arxiv.org/abs/2404.01827v1)|null|
-|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781v2](http://arxiv.org/abs/2404.01781v2)|[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)|
-|**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674v1](http://arxiv.org/abs/2404.01674v1)|[link](https://github.com/kirillmouraviev/prism-topomap)|
-|**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537v1](http://arxiv.org/abs/2404.01537v1)|null|
