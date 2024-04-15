@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640v1](http://arxiv.org/abs/2404.08640v1)|null|
+|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640v1](http://arxiv.org/abs/2404.08640v1)|[link](https://github.com/Chris10M/EventEgo3D)|
 |**2024-04-12**|**Cooling of an objetct by forced convection**|Mateo Dutra et.al.|[2404.08587v1](http://arxiv.org/abs/2404.08587v1)|null|
 |**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v1](http://arxiv.org/abs/2404.08504v1)|null|
 |**2024-04-12**|**No Bells, Just Whistles: Sports Field Registration by Leveraging Geometric Properties**|Marc Gutiérrez-Pérez et.al.|[2404.08401v1](http://arxiv.org/abs/2404.08401v1)|null|
