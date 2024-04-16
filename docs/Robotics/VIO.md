@@ -2,10 +2,17 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691v1](http://arxiv.org/abs/2404.09691v1)|null|
+|**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635v1](http://arxiv.org/abs/2404.09635v1)|null|
+|**2024-04-14**|**Inertial range of magnetorotational turbulence**|Yohei Kawazura et.al.|[2404.09252v1](http://arxiv.org/abs/2404.09252v1)|null|
+|**2024-04-14**|**The Lunar Gravitational-wave Antenna: Mission Studies and Science Case**|Parameswaran Ajith et.al.|[2404.09181v1](http://arxiv.org/abs/2404.09181v1)|null|
+|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
+|**2024-04-13**|**NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT**|Xinzhe Zheng et.al.|[2404.08939v1](http://arxiv.org/abs/2404.08939v1)|[link](https://github.com/neurit-project/neurit)|
+|**2024-04-13**|**Assessment of a Multiphase Formulation of One-Dimensional Turbulence using Direct Numerical Simulation of a Decaying Turbulent Interfacial Flow**|A. Movaghar et.al.|[2404.08934v1](http://arxiv.org/abs/2404.08934v1)|null|
 |**2024-04-12**|**Direct numerical simulations of microlayer formation during heterogeneous bubble nucleation**|Mandeep Saini et.al.|[2404.08377v1](http://arxiv.org/abs/2404.08377v1)|null|
 |**2024-04-12**|**Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**|Z. H. Chen et.al.|[2404.08216v1](http://arxiv.org/abs/2404.08216v1)|null|
 |**2024-04-11**|**Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**|Usman Rana et.al.|[2404.08119v1](http://arxiv.org/abs/2404.08119v1)|null|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|[link](https://github.com/littledang/2dliw-slam)|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v3](http://arxiv.org/abs/2404.07644v3)|[link](https://github.com/littledang/2dliw-slam)|
 |**2024-04-10**|**Experimental and numerical investigation of inertial particles in underexpanded jets**|Meet Patel et.al.|[2404.07329v1](http://arxiv.org/abs/2404.07329v1)|null|
 |**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
 |**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
@@ -25,10 +32,3 @@
 |**2024-04-05**|**An inertial self-adaptive algorithm for solving split feasibility problems and fixed point problems in the class of demicontractive mappings**|Vasile Berinde et.al.|[2404.04309v1](http://arxiv.org/abs/2404.04309v1)|null|
 |**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531v1](http://arxiv.org/abs/2404.03531v1)|null|
 |**2024-04-03**|**The Independence of Magnetic Turbulent Power Spectra to the Presence of Switchbacks in the Inner Heliosphere**|Peter Tatum et.al.|[2404.03075v1](http://arxiv.org/abs/2404.03075v1)|null|
-|**2024-04-03**|**Conditions on separability in multiqubit systems with an accelerating qubit using a conditional entropy**|Harsha Miriam Reji et.al.|[2404.02716v1](http://arxiv.org/abs/2404.02716v1)|null|
-|**2024-04-03**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**|Taku Okawara et.al.|[2404.02515v1](http://arxiv.org/abs/2404.02515v1)|null|
-|**2024-04-02**|**Elasto-inertial rectification of oscillatory flow in an elastic tube**|Xirui Zhang et.al.|[2404.02292v1](http://arxiv.org/abs/2404.02292v1)|null|
-|**2024-04-02**|**Searching for new physics in the solar system with tetrahedral spacecraft formations**|Slava G. Turyshev et.al.|[2404.02096v1](http://arxiv.org/abs/2404.02096v1)|null|
-|**2024-04-02**|**Small-scale magnetohydrodynamic dynamos: from deterministic chaos to turbulence**|A. Bershadskii et.al.|[2404.02049v1](http://arxiv.org/abs/2404.02049v1)|null|
-|**2024-04-02**|**Making two particle detectors in flat spacetime communicate quantumly**|Alessio Lapponi et.al.|[2404.01880v1](http://arxiv.org/abs/2404.01880v1)|null|
-|**2024-04-02**|**Solving a Class of Nonconvex Quadratic Programs by Inertial DC Algorithms**|Tran Hung Cuong et.al.|[2404.01827v1](http://arxiv.org/abs/2404.01827v1)|null|
