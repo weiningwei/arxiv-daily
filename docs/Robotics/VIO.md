@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
+|**2024-04-16**|**Numerical validation of the inverse cascade of surface gravity wave action**|CHristopher Higgins et.al.|[2404.10677v1](http://arxiv.org/abs/2404.10677v1)|null|
+|**2024-04-16**|**Advances in Atom Interferometry and their Impacts on the Performance of Quantum Accelerometers On-board Future Satellite Gravity Missions**|Alireza HosseiniArania et.al.|[2404.10471v1](http://arxiv.org/abs/2404.10471v1)|null|
+|**2024-04-16**|**Dynamical Model of Rotation and Orbital Coupling for Deimos**|Kai Huang et.al.|[2404.10257v1](http://arxiv.org/abs/2404.10257v1)|null|
+|**2024-04-16**|**Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems**|Fan Zhang et.al.|[2404.10240v1](http://arxiv.org/abs/2404.10240v1)|null|
+|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
+|**2024-04-15**|**Point-Charge Models and Averages for Electromagnetic Quantities Considered in Two Relativistic Inertial Frames**|Timothy H. Boyer et.al.|[2404.10129v1](http://arxiv.org/abs/2404.10129v1)|null|
+|**2024-04-15**|**Symmetries and Thermal Radiation: A Classical Derivation of the Planck Spectrum**|Timothy H. Boyer et.al.|[2404.10116v1](http://arxiv.org/abs/2404.10116v1)|null|
 |**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691v1](http://arxiv.org/abs/2404.09691v1)|null|
 |**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635v1](http://arxiv.org/abs/2404.09635v1)|null|
 |**2024-04-14**|**Inertial range of magnetorotational turbulence**|Yohei Kawazura et.al.|[2404.09252v1](http://arxiv.org/abs/2404.09252v1)|null|
@@ -24,11 +32,3 @@
 |**2024-04-07**|**The Use of MEMS Accelerometers for Remote Activity and Living Parameters Monitoring**|Natalia Osiadala et.al.|[2404.04919v1](http://arxiv.org/abs/2404.04919v1)|null|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677v1](http://arxiv.org/abs/2404.04677v1)|null|
 |**2024-04-06**|**Comment to the paper J. Yan et al. Experimental confirmation of driving pressure boosting and smoothing for hybrid-drive inertial fusion at the 100-kJ laser facility [Nature Communications (2023) 14:5782]**|Ke Lan et.al.|[2404.05760v2](http://arxiv.org/abs/2404.05760v2)|null|
-|**2024-04-05**|**System and Method to Determine ME/CFS and Long COVID Disease Severity Using a Wearable Sensor**|Yifei Sun et.al.|[2404.04345v1](http://arxiv.org/abs/2404.04345v1)|null|
-|**2024-04-05**|**Particle chirality does not matter in strong turbulence**|Giulia Piumini et.al.|[2404.04217v1](http://arxiv.org/abs/2404.04217v1)|null|
-|**2024-04-05**|**Lagrangian Particle Tracking at Large Reynolds Numbers**|Christian Küchler et.al.|[2404.04215v1](http://arxiv.org/abs/2404.04215v1)|null|
-|**2024-04-05**|**Higher-Order Analysis of Three-Dimensional Anisotropy in Imbalanced Alfvénic Turbulence**|Nikos Sioulas et.al.|[2404.04055v1](http://arxiv.org/abs/2404.04055v1)|null|
-|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-05**|**An inertial self-adaptive algorithm for solving split feasibility problems and fixed point problems in the class of demicontractive mappings**|Vasile Berinde et.al.|[2404.04309v1](http://arxiv.org/abs/2404.04309v1)|null|
-|**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531v1](http://arxiv.org/abs/2404.03531v1)|null|
-|**2024-04-03**|**The Independence of Magnetic Turbulent Power Spectra to the Presence of Switchbacks in the Inner Heliosphere**|Peter Tatum et.al.|[2404.03075v1](http://arxiv.org/abs/2404.03075v1)|null|
