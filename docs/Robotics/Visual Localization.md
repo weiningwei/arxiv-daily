@@ -22,7 +22,7 @@
 |**2024-04-12**|**Keck Primary Mirror Closed-Loop Segment Control using a Vector-Zernike Wavefront Sensor**|Maissa Salama et.al.|[2404.08728v1](http://arxiv.org/abs/2404.08728v1)|null|
 |**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640v1](http://arxiv.org/abs/2404.08640v1)|[link](https://github.com/Chris10M/EventEgo3D)|
 |**2024-04-12**|**Cooling of an objetct by forced convection**|Mateo Dutra et.al.|[2404.08587v2](http://arxiv.org/abs/2404.08587v2)|null|
-|**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v1](http://arxiv.org/abs/2404.08504v1)|null|
+|**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v2](http://arxiv.org/abs/2404.08504v2)|null|
 |**2024-04-12**|**No Bells, Just Whistles: Sports Field Registration by Leveraging Geometric Properties**|Marc Gutiérrez-Pérez et.al.|[2404.08401v1](http://arxiv.org/abs/2404.08401v1)|null|
 |**2024-04-12**|**Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview of the Imaging Payload on SpIRIT**|Miguel Ortiz del Castillo et.al.|[2404.08399v1](http://arxiv.org/abs/2404.08399v1)|null|
 |**2024-04-12**|**High-Speed Interception Multicopter Control by Image-based Visual Servoing**|Kun Yang et.al.|[2404.08296v1](http://arxiv.org/abs/2404.08296v1)|null|
