@@ -7,7 +7,7 @@
 |**2024-04-15**|**DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**|WeiSheng Gong et.al.|[2404.09622v1](http://arxiv.org/abs/2404.09622v1)|null|
 |**2024-04-15**|**The 8th AI City Challenge**|Shuo Wang et.al.|[2404.09432v1](http://arxiv.org/abs/2404.09432v1)|null|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v1](http://arxiv.org/abs/2404.09431v1)|null|
-|**2024-04-14**|**Orientation-conditioned Facial Texture Mapping for Video-based Facial Remote Photoplethysmography Estimation**|Sam Cantrill et.al.|[2404.09378v1](http://arxiv.org/abs/2404.09378v1)|null|
+|**2024-04-14**|**Orientation-conditioned Facial Texture Mapping for Video-based Facial Remote Photoplethysmography Estimation**|Sam Cantrill et.al.|[2404.09378v2](http://arxiv.org/abs/2404.09378v2)|null|
 |**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331v1](http://arxiv.org/abs/2404.09331v1)|null|
 |**2024-04-14**|**TrafficVLM: A Controllable Visual Language Model for Traffic Video Captioning**|Quang Minh Dinh et.al.|[2404.09275v1](http://arxiv.org/abs/2404.09275v1)|[link](https://github.com/quangminhdinh/trafficvlm)|
 |**2024-04-14**|**Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching**|Haosong Peng et.al.|[2404.09267v1](http://arxiv.org/abs/2404.09267v1)|null|
