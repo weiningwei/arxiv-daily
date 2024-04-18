@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|null|
+|**2024-04-17**|**Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**|Dikai Li et.al.|[2404.11278v1](http://arxiv.org/abs/2404.11278v1)|null|
+|**2024-04-17**|**Turbulence revealed by wavelet transform: power spectrum and intermittency for the velocity field of the cosmic baryonic fluid**|Yun Wang et.al.|[2404.11255v1](http://arxiv.org/abs/2404.11255v1)|null|
+|**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149v1](http://arxiv.org/abs/2404.11149v1)|null|
+|**2024-04-17**|**Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon**|Jingrong Wang et.al.|[2404.11070v1](http://arxiv.org/abs/2404.11070v1)|[link](https://github.com/whuwangjr/sky-view-images)|
 |**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
 |**2024-04-16**|**Numerical validation of the inverse cascade of surface gravity wave action**|CHristopher Higgins et.al.|[2404.10677v1](http://arxiv.org/abs/2404.10677v1)|null|
 |**2024-04-16**|**Advances in Atom Interferometry and their Impacts on the Performance of Quantum Accelerometers On-board Future Satellite Gravity Missions**|Alireza HosseiniArania et.al.|[2404.10471v1](http://arxiv.org/abs/2404.10471v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
 |**2024-04-08**|**Oblique photons, plasmons, and current-plasmons in relativistic plasmas and their topological implications**|Hong Qin et.al.|[2404.05636v1](http://arxiv.org/abs/2404.05636v1)|null|
 |**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|[link](https://github.com/hamedhaghighi/lidargrit)|
-|**2024-04-08**|**On the relevance of lift force modelling in turbulent wall flows with small inertial particles**|Wei Gao et.al.|[2404.05346v1](http://arxiv.org/abs/2404.05346v1)|null|
-|**2024-04-08**|**Local sparse limit of a particle coalescence model under environmental noise**|Franco Flandoli et.al.|[2404.05233v1](http://arxiv.org/abs/2404.05233v1)|null|
-|**2024-04-07**|**The Use of MEMS Accelerometers for Remote Activity and Living Parameters Monitoring**|Natalia Osiadala et.al.|[2404.04919v1](http://arxiv.org/abs/2404.04919v1)|null|
-|**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677v1](http://arxiv.org/abs/2404.04677v1)|null|
-|**2024-04-06**|**Comment to the paper J. Yan et al. Experimental confirmation of driving pressure boosting and smoothing for hybrid-drive inertial fusion at the 100-kJ laser facility [Nature Communications (2023) 14:5782]**|Ke Lan et.al.|[2404.05760v2](http://arxiv.org/abs/2404.05760v2)|null|
