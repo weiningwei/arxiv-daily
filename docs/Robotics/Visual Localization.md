@@ -2,7 +2,27 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359v1](http://arxiv.org/abs/2404.12359v1)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
+|**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333v1](http://arxiv.org/abs/2404.12333v1)|null|
+|**2024-04-18**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281v1](http://arxiv.org/abs/2404.12281v1)|null|
+|**2024-04-18**|**Food Portion Estimation via 3D Object Scaling**|Gautham Vinod et.al.|[2404.12257v1](http://arxiv.org/abs/2404.12257v1)|null|
+|**2024-04-18**|**Real-World Efficient Blind Motion Deblurring via Blur Pixel Discretization**|Insoo Kim et.al.|[2404.12168v1](http://arxiv.org/abs/2404.12168v1)|null|
+|**2024-04-18**|**Euclid preparation. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples**|Euclid Collaboration et.al.|[2404.12157v1](http://arxiv.org/abs/2404.12157v1)|null|
+|**2024-04-18**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083v1](http://arxiv.org/abs/2404.12083v1)|null|
+|**2024-04-18**|**Improving the perception of visual fiducial markers in the field using Adaptive Active Exposure Control**|Ziang Ren et.al.|[2404.12055v1](http://arxiv.org/abs/2404.12055v1)|null|
+|**2024-04-18**|**Resolved magnetohydrodynamic wave lensing in the solar corona**|Xinping Zhou et.al.|[2404.12044v1](http://arxiv.org/abs/2404.12044v1)|null|
+|**2024-04-18**|**The Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite**|Maria Gritsevich et.al.|[2404.11989v1](http://arxiv.org/abs/2404.11989v1)|null|
+|**2024-04-18**|**Device (In)Dependence of Deep Learning-based Image Age Approximation**|Robert Jöchl et.al.|[2404.11974v1](http://arxiv.org/abs/2404.11974v1)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
+|**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884v1](http://arxiv.org/abs/2404.11884v1)|[link](https://github.com/liu-haoyue/ner-net)|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803v1](http://arxiv.org/abs/2404.11803v1)|null|
+|**2024-04-17**|**Event-Based Eye Tracking. AIS 2024 Challenge Survey**|Zuowen Wang et.al.|[2404.11770v1](http://arxiv.org/abs/2404.11770v1)|null|
+|**2024-04-17**|**Deep Learning for Video-Based Assessment of Endotracheal Intubation Skills**|Jean-Paul Ainam et.al.|[2404.11727v1](http://arxiv.org/abs/2404.11727v1)|null|
+|**2024-04-17**|**Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models**|Weiming Zhi et.al.|[2404.11683v1](http://arxiv.org/abs/2404.11683v1)|null|
+|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v1](http://arxiv.org/abs/2404.11669v1)|null|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590v1](http://arxiv.org/abs/2404.11590v1)|null|
+|**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163v1](http://arxiv.org/abs/2404.12163v1)|null|
 |**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569v1](http://arxiv.org/abs/2404.11569v1)|[link](https://github.com/mv-lab/AISP)|
 |**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557v1](http://arxiv.org/abs/2404.11557v1)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511v1](http://arxiv.org/abs/2404.11511v1)|null|
@@ -12,23 +32,3 @@
 |**2024-04-17**|**SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap**|Vladimir Somers et.al.|[2404.11335v1](http://arxiv.org/abs/2404.11335v1)|[link](https://github.com/soccernet/sn-gamestate)|
 |**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226v1](http://arxiv.org/abs/2404.11226v1)|null|
 |**2024-04-17**|**HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Construction**|Chi Zhang et.al.|[2404.11155v1](http://arxiv.org/abs/2404.11155v1)|null|
-|**2024-04-17**|**TaCOS: Task-Specific Camera Optimization with Simulation**|Chengyang Yan et.al.|[2404.11031v2](http://arxiv.org/abs/2404.11031v2)|null|
-|**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992v1](http://arxiv.org/abs/2404.10992v1)|null|
-|**2024-04-16**|**FlexMap Fusion: Georeferencing and Automated Conflation of HD Maps with OpenStreetMap**|Maximilian Leitenstern et.al.|[2404.10879v2](http://arxiv.org/abs/2404.10879v2)|[link](https://github.com/tumftm/flexmap_fusion)|
-|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876v1](http://arxiv.org/abs/2404.10876v1)|null|
-|**2024-04-16**|**Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging**|Toqi Tahamid Sarker et.al.|[2404.10841v1](http://arxiv.org/abs/2404.10841v1)|[link](https://github.com/toqitahamid/gasformer)|
-|**2024-04-16**|**MOWA: Multiple-in-One Image Warping Model**|Kang Liao et.al.|[2404.10716v1](http://arxiv.org/abs/2404.10716v1)|null|
-|**2024-04-16**|**Rawformer: Unpaired Raw-to-Raw Translation for Learnable Camera ISPs**|Georgy Perevozchikov et.al.|[2404.10700v1](http://arxiv.org/abs/2404.10700v1)|null|
-|**2024-04-16**|**ReWiTe: Realistic Wide-angle and Telephoto Dual Camera Fusion Dataset via Beam Splitter Camera Rig**|Chunli Peng et.al.|[2404.10584v1](http://arxiv.org/abs/2404.10584v1)|null|
-|**2024-04-16**|**Photonic Neuromorphic Accelerators for Event-Based Imaging Flow Cytometry**|Ioannis Tsilikas et.al.|[2404.10564v1](http://arxiv.org/abs/2404.10564v1)|null|
-|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527v1](http://arxiv.org/abs/2404.10527v1)|[link](https://github.com/fraunhoferhhi/spvloc)|
-|**2024-04-16**|**The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement**|Gabriele Trivigno et.al.|[2404.10438v1](http://arxiv.org/abs/2404.10438v1)|null|
-|**2024-04-16**|**Camera clustering for scalable stream-based active distillation**|Dani Manjah et.al.|[2404.10411v1](http://arxiv.org/abs/2404.10411v1)|null|
-|**2024-04-15**|**Synchronous PIV measurements of a self-powered blood turbine and pump couple for right ventricle support**|Kagan Ucak et.al.|[2404.10081v1](http://arxiv.org/abs/2404.10081v1)|null|
-|**2024-04-15**|**Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Lens Datasets**|Dai Quoc Tran et.al.|[2404.10078v1](http://arxiv.org/abs/2404.10078v1)|[link](https://github.com/daitranskku/aic2024-track4-team15)|
-|**2024-04-15**|**Unifying Global and Local Scene Entities Modelling for Precise Action Spotting**|Kim Hoang Tran et.al.|[2404.09951v1](http://arxiv.org/abs/2404.09951v1)|[link](https://github.com/fsoft-aic/unifying-global-local-feature)|
-|**2024-04-15**|**EdgeRelight360: Text-Conditioned 360-Degree HDR Image Generation for Real-Time On-Device Video Portrait Relighting**|Min-Hui Lin et.al.|[2404.09918v1](http://arxiv.org/abs/2404.09918v1)|null|
-|**2024-04-15**|**Map-Relative Pose Regression for Visual Re-Localization**|Shuai Chen et.al.|[2404.09884v1](http://arxiv.org/abs/2404.09884v1)|null|
-|**2024-04-15**|**Table tennis ball spin estimation with an event camera**|Thomas Gossard et.al.|[2404.09870v1](http://arxiv.org/abs/2404.09870v1)|null|
-|**2024-04-15**|**A Diffusion-based Data Generator for Training Object Recognition Models in Ultra-Range Distance**|Eran Bamani et.al.|[2404.09846v1](http://arxiv.org/abs/2404.09846v1)|null|
-|**2024-04-15**|**Hierarchical Fault-Tolerant Coverage Control for an Autonomous Aerial Agent**|Savvas Papaioannou et.al.|[2404.09838v1](http://arxiv.org/abs/2404.09838v1)|null|
