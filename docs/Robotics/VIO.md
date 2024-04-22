@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-19**|**Development of Two-Dimensional Neutron Imager with a Sandwich Configuration**|Y. Kamiya et.al.|[2404.12857v1](http://arxiv.org/abs/2404.12857v1)|null|
+|**2024-04-19**|**Design and Modeling of Indirectly-Driven Magnetized Implosions on the NIF**|D. J. Strozzi et.al.|[2404.12614v1](http://arxiv.org/abs/2404.12614v1)|null|
+|**2024-04-19**|**In-tube micro-pyramidal silicon nanopore for inertial-kinetic sensing of single molecules**|Jianxin Yang et.al.|[2404.12577v1](http://arxiv.org/abs/2404.12577v1)|null|
+|**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548v1](http://arxiv.org/abs/2404.12548v1)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
 |**2024-04-17**|**Direct measurement of energy transfer in strongly driven rotating turbulence**|Omri Shaltiel et.al.|[2404.11777v1](http://arxiv.org/abs/2404.11777v1)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
@@ -28,7 +32,3 @@
 |**2024-04-12**|**Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**|Z. H. Chen et.al.|[2404.08216v1](http://arxiv.org/abs/2404.08216v1)|null|
 |**2024-04-11**|**Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**|Usman Rana et.al.|[2404.08119v1](http://arxiv.org/abs/2404.08119v1)|null|
 |**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|[link](https://github.com/littledang/2dliw-slam)|
-|**2024-04-10**|**Experimental and numerical investigation of inertial particles in underexpanded jets**|Meet Patel et.al.|[2404.07329v1](http://arxiv.org/abs/2404.07329v1)|null|
-|**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
-|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
-|**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|

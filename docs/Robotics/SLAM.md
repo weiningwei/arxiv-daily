@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-19**|**Sociotechnical Considerations for SLAM Anchors in Location-Based AR**|Tiffany T. Nguyen et.al.|[2404.12555v1](http://arxiv.org/abs/2404.12555v1)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
 |**2024-04-16**|**Robust Snapshot Radio SLAM**|Ossi Kaltiokallio et.al.|[2404.10291v1](http://arxiv.org/abs/2404.10291v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-26**|**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**|Yufu Wang et.al.|[2403.17346v1](http://arxiv.org/abs/2403.17346v1)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
 |**2024-03-25**|**TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments**|Chen Yao et.al.|[2403.16875v1](http://arxiv.org/abs/2403.16875v1)|null|
-|**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095v1](http://arxiv.org/abs/2403.16095v1)|null|

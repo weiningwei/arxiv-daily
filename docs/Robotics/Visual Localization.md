@@ -2,6 +2,11 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861v1](http://arxiv.org/abs/2404.12861v1)|null|
+|**2024-04-19**|**Camera Agnostic Two-Head Network for Ego-Lane Inference**|Chaehyeon Song et.al.|[2404.12770v1](http://arxiv.org/abs/2404.12770v1)|null|
+|**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712v1](http://arxiv.org/abs/2404.12712v1)|null|
+|**2024-04-19**|**ESC: Evolutionary Stitched Camera Calibration in the Wild**|Grzegorz Rypeść et.al.|[2404.12694v1](http://arxiv.org/abs/2404.12694v1)|null|
+|**2024-04-19**|**VoxAtnNet: A 3D Point Clouds Convolutional Neural Network for Generalizable Face Presentation Attack Detection**|Raghavendra Ramachandra et.al.|[2404.12680v1](http://arxiv.org/abs/2404.12680v1)|null|
 |**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359v1](http://arxiv.org/abs/2404.12359v1)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
 |**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333v1](http://arxiv.org/abs/2404.12333v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557v1](http://arxiv.org/abs/2404.11557v1)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511v1](http://arxiv.org/abs/2404.11511v1)|null|
 |**2024-04-17**|**Spatially resolved lock-in micro-thermography (SR-LIT): A tensor analysis-enhanced method for anisotropic thermal characterization**|Dihui Wang et.al.|[2404.11424v1](http://arxiv.org/abs/2404.11424v1)|null|
-|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
-|**2024-04-17**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358v2](http://arxiv.org/abs/2404.11358v2)|null|
-|**2024-04-17**|**SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap**|Vladimir Somers et.al.|[2404.11335v1](http://arxiv.org/abs/2404.11335v1)|[link](https://github.com/soccernet/sn-gamestate)|
-|**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226v1](http://arxiv.org/abs/2404.11226v1)|null|
-|**2024-04-17**|**HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Construction**|Chi Zhang et.al.|[2404.11155v1](http://arxiv.org/abs/2404.11155v1)|null|
