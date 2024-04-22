@@ -20,7 +20,7 @@
 |**2024-04-17**|**Event-Based Eye Tracking. AIS 2024 Challenge Survey**|Zuowen Wang et.al.|[2404.11770v1](http://arxiv.org/abs/2404.11770v1)|[link](https://github.com/hh-xiaohu/event-based-eye-tracking-challenge-solution)|
 |**2024-04-17**|**Deep Learning for Video-Based Assessment of Endotracheal Intubation Skills**|Jean-Paul Ainam et.al.|[2404.11727v1](http://arxiv.org/abs/2404.11727v1)|null|
 |**2024-04-17**|**Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models**|Weiming Zhi et.al.|[2404.11683v1](http://arxiv.org/abs/2404.11683v1)|null|
-|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v1](http://arxiv.org/abs/2404.11669v1)|null|
+|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v2](http://arxiv.org/abs/2404.11669v2)|null|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590v1](http://arxiv.org/abs/2404.11590v1)|null|
 |**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163v1](http://arxiv.org/abs/2404.12163v1)|null|
 |**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569v1](http://arxiv.org/abs/2404.11569v1)|[link](https://github.com/mv-lab/AISP)|

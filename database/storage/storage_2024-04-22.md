@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-04-22 08:34:07 Asia/Shanghai
+ Automated deployment @ 2024-04-22 09:38:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
-|**2024-04-17**|**Direct measurement of energy transfer in strongly driven rotating turbulence**|Omri Shaltiel et.al.|[2404.11777v1](http://arxiv.org/abs/2404.11777v1)|null|
-|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
-|**2024-04-17**|**Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**|Dikai Li et.al.|[2404.11278v2](http://arxiv.org/abs/2404.11278v2)|null|
-|**2024-04-17**|**Turbulence revealed by wavelet transform: power spectrum and intermittency for the velocity field of the cosmic baryonic fluid**|Yun Wang et.al.|[2404.11255v1](http://arxiv.org/abs/2404.11255v1)|null|
-|**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149v1](http://arxiv.org/abs/2404.11149v1)|null|
-|**2024-04-17**|**Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon**|Jingrong Wang et.al.|[2404.11070v1](http://arxiv.org/abs/2404.11070v1)|[link](https://github.com/whuwangjr/sky-view-images)|
-|**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
-|**2024-04-16**|**Numerical validation of the inverse cascade of surface gravity wave action**|CHristopher Higgins et.al.|[2404.10677v1](http://arxiv.org/abs/2404.10677v1)|null|
-|**2024-04-16**|**Advances in Atom Interferometry and their Impacts on the Performance of Quantum Accelerometers On-board Future Satellite Gravity Missions**|Alireza HosseiniArania et.al.|[2404.10471v1](http://arxiv.org/abs/2404.10471v1)|null|
-|**2024-04-16**|**Dynamical Model of Rotation and Orbital Coupling for Deimos**|Kai Huang et.al.|[2404.10257v1](http://arxiv.org/abs/2404.10257v1)|null|
-|**2024-04-16**|**Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems**|Fan Zhang et.al.|[2404.10240v1](http://arxiv.org/abs/2404.10240v1)|null|
-|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
-|**2024-04-15**|**Point-Charge Models and Averages for Electromagnetic Quantities Considered in Two Relativistic Inertial Frames**|Timothy H. Boyer et.al.|[2404.10129v1](http://arxiv.org/abs/2404.10129v1)|null|
-|**2024-04-15**|**Symmetries and Thermal Radiation: A Classical Derivation of the Planck Spectrum**|Timothy H. Boyer et.al.|[2404.10116v1](http://arxiv.org/abs/2404.10116v1)|null|
-|**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691v1](http://arxiv.org/abs/2404.09691v1)|null|
-|**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635v1](http://arxiv.org/abs/2404.09635v1)|null|
-|**2024-04-14**|**Inertial range of magnetorotational turbulence**|Yohei Kawazura et.al.|[2404.09252v1](http://arxiv.org/abs/2404.09252v1)|null|
-|**2024-04-14**|**The Lunar Gravitational-wave Antenna: Mission Studies and Science Case**|Parameswaran Ajith et.al.|[2404.09181v1](http://arxiv.org/abs/2404.09181v1)|null|
-|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
-|**2024-04-13**|**NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT**|Xinzhe Zheng et.al.|[2404.08939v1](http://arxiv.org/abs/2404.08939v1)|[link](https://github.com/neurit-project/neurit)|
-|**2024-04-13**|**Assessment of a Multiphase Formulation of One-Dimensional Turbulence using Direct Numerical Simulation of a Decaying Turbulent Interfacial Flow**|A. Movaghar et.al.|[2404.08934v1](http://arxiv.org/abs/2404.08934v1)|null|
-|**2024-04-12**|**Direct numerical simulations of microlayer formation during heterogeneous bubble nucleation**|Mandeep Saini et.al.|[2404.08377v1](http://arxiv.org/abs/2404.08377v1)|null|
-|**2024-04-12**|**Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**|Z. H. Chen et.al.|[2404.08216v1](http://arxiv.org/abs/2404.08216v1)|null|
-|**2024-04-11**|**Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**|Usman Rana et.al.|[2404.08119v1](http://arxiv.org/abs/2404.08119v1)|null|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|[link](https://github.com/littledang/2dliw-slam)|
-|**2024-04-10**|**Experimental and numerical investigation of inertial particles in underexpanded jets**|Meet Patel et.al.|[2404.07329v1](http://arxiv.org/abs/2404.07329v1)|null|
-|**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
-|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
-|**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359v1](http://arxiv.org/abs/2404.12359v1)|null|
-|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
-|**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333v1](http://arxiv.org/abs/2404.12333v1)|null|
-|**2024-04-18**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281v1](http://arxiv.org/abs/2404.12281v1)|null|
-|**2024-04-18**|**Food Portion Estimation via 3D Object Scaling**|Gautham Vinod et.al.|[2404.12257v1](http://arxiv.org/abs/2404.12257v1)|null|
-|**2024-04-18**|**Real-World Efficient Blind Motion Deblurring via Blur Pixel Discretization**|Insoo Kim et.al.|[2404.12168v1](http://arxiv.org/abs/2404.12168v1)|null|
-|**2024-04-18**|**Euclid preparation. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples**|Euclid Collaboration et.al.|[2404.12157v1](http://arxiv.org/abs/2404.12157v1)|null|
-|**2024-04-18**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083v1](http://arxiv.org/abs/2404.12083v1)|null|
-|**2024-04-18**|**Improving the perception of visual fiducial markers in the field using Adaptive Active Exposure Control**|Ziang Ren et.al.|[2404.12055v1](http://arxiv.org/abs/2404.12055v1)|null|
-|**2024-04-18**|**Resolved magnetohydrodynamic wave lensing in the solar corona**|Xinping Zhou et.al.|[2404.12044v1](http://arxiv.org/abs/2404.12044v1)|null|
-|**2024-04-18**|**The Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite**|Maria Gritsevich et.al.|[2404.11989v1](http://arxiv.org/abs/2404.11989v1)|null|
-|**2024-04-18**|**Device (In)Dependence of Deep Learning-based Image Age Approximation**|Robert Jöchl et.al.|[2404.11974v1](http://arxiv.org/abs/2404.11974v1)|null|
-|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
-|**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884v1](http://arxiv.org/abs/2404.11884v1)|[link](https://github.com/liu-haoyue/ner-net)|
-|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803v1](http://arxiv.org/abs/2404.11803v1)|null|
-|**2024-04-17**|**Event-Based Eye Tracking. AIS 2024 Challenge Survey**|Zuowen Wang et.al.|[2404.11770v1](http://arxiv.org/abs/2404.11770v1)|[link](https://github.com/hh-xiaohu/event-based-eye-tracking-challenge-solution)|
-|**2024-04-17**|**Deep Learning for Video-Based Assessment of Endotracheal Intubation Skills**|Jean-Paul Ainam et.al.|[2404.11727v1](http://arxiv.org/abs/2404.11727v1)|null|
-|**2024-04-17**|**Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models**|Weiming Zhi et.al.|[2404.11683v1](http://arxiv.org/abs/2404.11683v1)|null|
-|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v1](http://arxiv.org/abs/2404.11669v1)|null|
-|**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590v1](http://arxiv.org/abs/2404.11590v1)|null|
-|**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163v1](http://arxiv.org/abs/2404.12163v1)|null|
-|**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569v1](http://arxiv.org/abs/2404.11569v1)|[link](https://github.com/mv-lab/AISP)|
-|**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557v1](http://arxiv.org/abs/2404.11557v1)|null|
-|**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511v1](http://arxiv.org/abs/2404.11511v1)|null|
-|**2024-04-17**|**Spatially resolved lock-in micro-thermography (SR-LIT): A tensor analysis-enhanced method for anisotropic thermal characterization**|Dihui Wang et.al.|[2404.11424v1](http://arxiv.org/abs/2404.11424v1)|null|
-|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
-|**2024-04-17**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358v2](http://arxiv.org/abs/2404.11358v2)|null|
-|**2024-04-17**|**SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap**|Vladimir Somers et.al.|[2404.11335v1](http://arxiv.org/abs/2404.11335v1)|[link](https://github.com/soccernet/sn-gamestate)|
-|**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226v1](http://arxiv.org/abs/2404.11226v1)|null|
-|**2024-04-17**|**HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Construction**|Chi Zhang et.al.|[2404.11155v1](http://arxiv.org/abs/2404.11155v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,6 +38,74 @@
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
 |**2024-03-25**|**TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments**|Chen Yao et.al.|[2403.16875v1](http://arxiv.org/abs/2403.16875v1)|null|
 |**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095v1](http://arxiv.org/abs/2403.16095v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359v1](http://arxiv.org/abs/2404.12359v1)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
+|**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333v1](http://arxiv.org/abs/2404.12333v1)|null|
+|**2024-04-18**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281v1](http://arxiv.org/abs/2404.12281v1)|null|
+|**2024-04-18**|**Food Portion Estimation via 3D Object Scaling**|Gautham Vinod et.al.|[2404.12257v1](http://arxiv.org/abs/2404.12257v1)|null|
+|**2024-04-18**|**Real-World Efficient Blind Motion Deblurring via Blur Pixel Discretization**|Insoo Kim et.al.|[2404.12168v1](http://arxiv.org/abs/2404.12168v1)|null|
+|**2024-04-18**|**Euclid preparation. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples**|Euclid Collaboration et.al.|[2404.12157v1](http://arxiv.org/abs/2404.12157v1)|null|
+|**2024-04-18**|**MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**|Zhong Wang et.al.|[2404.12083v1](http://arxiv.org/abs/2404.12083v1)|null|
+|**2024-04-18**|**Improving the perception of visual fiducial markers in the field using Adaptive Active Exposure Control**|Ziang Ren et.al.|[2404.12055v1](http://arxiv.org/abs/2404.12055v1)|null|
+|**2024-04-18**|**Resolved magnetohydrodynamic wave lensing in the solar corona**|Xinping Zhou et.al.|[2404.12044v1](http://arxiv.org/abs/2404.12044v1)|null|
+|**2024-04-18**|**The Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite**|Maria Gritsevich et.al.|[2404.11989v1](http://arxiv.org/abs/2404.11989v1)|null|
+|**2024-04-18**|**Device (In)Dependence of Deep Learning-based Image Age Approximation**|Robert Jöchl et.al.|[2404.11974v1](http://arxiv.org/abs/2404.11974v1)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
+|**2024-04-18**|**Seeing Motion at Nighttime with an Event Camera**|Haoyue Liu et.al.|[2404.11884v1](http://arxiv.org/abs/2404.11884v1)|[link](https://github.com/liu-haoyue/ner-net)|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803v1](http://arxiv.org/abs/2404.11803v1)|null|
+|**2024-04-17**|**Event-Based Eye Tracking. AIS 2024 Challenge Survey**|Zuowen Wang et.al.|[2404.11770v1](http://arxiv.org/abs/2404.11770v1)|[link](https://github.com/hh-xiaohu/event-based-eye-tracking-challenge-solution)|
+|**2024-04-17**|**Deep Learning for Video-Based Assessment of Endotracheal Intubation Skills**|Jean-Paul Ainam et.al.|[2404.11727v1](http://arxiv.org/abs/2404.11727v1)|null|
+|**2024-04-17**|**Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models**|Weiming Zhi et.al.|[2404.11683v1](http://arxiv.org/abs/2404.11683v1)|null|
+|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v2](http://arxiv.org/abs/2404.11669v2)|null|
+|**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590v1](http://arxiv.org/abs/2404.11590v1)|null|
+|**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163v1](http://arxiv.org/abs/2404.12163v1)|null|
+|**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569v1](http://arxiv.org/abs/2404.11569v1)|[link](https://github.com/mv-lab/AISP)|
+|**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557v1](http://arxiv.org/abs/2404.11557v1)|null|
+|**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511v1](http://arxiv.org/abs/2404.11511v1)|null|
+|**2024-04-17**|**Spatially resolved lock-in micro-thermography (SR-LIT): A tensor analysis-enhanced method for anisotropic thermal characterization**|Dihui Wang et.al.|[2404.11424v1](http://arxiv.org/abs/2404.11424v1)|null|
+|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
+|**2024-04-17**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358v2](http://arxiv.org/abs/2404.11358v2)|null|
+|**2024-04-17**|**SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap**|Vladimir Somers et.al.|[2404.11335v1](http://arxiv.org/abs/2404.11335v1)|[link](https://github.com/soccernet/sn-gamestate)|
+|**2024-04-17**|**Simple In-place Data Augmentation for Surveillance Object Detection**|Munkh-Erdene Otgonbold et.al.|[2404.11226v1](http://arxiv.org/abs/2404.11226v1)|null|
+|**2024-04-17**|**HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Construction**|Chi Zhang et.al.|[2404.11155v1](http://arxiv.org/abs/2404.11155v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|
+|**2024-04-17**|**Direct measurement of energy transfer in strongly driven rotating turbulence**|Omri Shaltiel et.al.|[2404.11777v1](http://arxiv.org/abs/2404.11777v1)|null|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
+|**2024-04-17**|**Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**|Dikai Li et.al.|[2404.11278v2](http://arxiv.org/abs/2404.11278v2)|null|
+|**2024-04-17**|**Turbulence revealed by wavelet transform: power spectrum and intermittency for the velocity field of the cosmic baryonic fluid**|Yun Wang et.al.|[2404.11255v1](http://arxiv.org/abs/2404.11255v1)|null|
+|**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149v1](http://arxiv.org/abs/2404.11149v1)|null|
+|**2024-04-17**|**Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon**|Jingrong Wang et.al.|[2404.11070v1](http://arxiv.org/abs/2404.11070v1)|[link](https://github.com/whuwangjr/sky-view-images)|
+|**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
+|**2024-04-16**|**Numerical validation of the inverse cascade of surface gravity wave action**|CHristopher Higgins et.al.|[2404.10677v1](http://arxiv.org/abs/2404.10677v1)|null|
+|**2024-04-16**|**Advances in Atom Interferometry and their Impacts on the Performance of Quantum Accelerometers On-board Future Satellite Gravity Missions**|Alireza HosseiniArania et.al.|[2404.10471v1](http://arxiv.org/abs/2404.10471v1)|null|
+|**2024-04-16**|**Dynamical Model of Rotation and Orbital Coupling for Deimos**|Kai Huang et.al.|[2404.10257v1](http://arxiv.org/abs/2404.10257v1)|null|
+|**2024-04-16**|**Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems**|Fan Zhang et.al.|[2404.10240v1](http://arxiv.org/abs/2404.10240v1)|null|
+|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
+|**2024-04-15**|**Point-Charge Models and Averages for Electromagnetic Quantities Considered in Two Relativistic Inertial Frames**|Timothy H. Boyer et.al.|[2404.10129v1](http://arxiv.org/abs/2404.10129v1)|null|
+|**2024-04-15**|**Symmetries and Thermal Radiation: A Classical Derivation of the Planck Spectrum**|Timothy H. Boyer et.al.|[2404.10116v1](http://arxiv.org/abs/2404.10116v1)|null|
+|**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691v1](http://arxiv.org/abs/2404.09691v1)|null|
+|**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635v1](http://arxiv.org/abs/2404.09635v1)|null|
+|**2024-04-14**|**Inertial range of magnetorotational turbulence**|Yohei Kawazura et.al.|[2404.09252v1](http://arxiv.org/abs/2404.09252v1)|null|
+|**2024-04-14**|**The Lunar Gravitational-wave Antenna: Mission Studies and Science Case**|Parameswaran Ajith et.al.|[2404.09181v1](http://arxiv.org/abs/2404.09181v1)|null|
+|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
+|**2024-04-13**|**NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT**|Xinzhe Zheng et.al.|[2404.08939v1](http://arxiv.org/abs/2404.08939v1)|[link](https://github.com/neurit-project/neurit)|
+|**2024-04-13**|**Assessment of a Multiphase Formulation of One-Dimensional Turbulence using Direct Numerical Simulation of a Decaying Turbulent Interfacial Flow**|A. Movaghar et.al.|[2404.08934v1](http://arxiv.org/abs/2404.08934v1)|null|
+|**2024-04-12**|**Direct numerical simulations of microlayer formation during heterogeneous bubble nucleation**|Mandeep Saini et.al.|[2404.08377v1](http://arxiv.org/abs/2404.08377v1)|null|
+|**2024-04-12**|**Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**|Z. H. Chen et.al.|[2404.08216v1](http://arxiv.org/abs/2404.08216v1)|null|
+|**2024-04-11**|**Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**|Usman Rana et.al.|[2404.08119v1](http://arxiv.org/abs/2404.08119v1)|null|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|[link](https://github.com/littledang/2dliw-slam)|
+|**2024-04-10**|**Experimental and numerical investigation of inertial particles in underexpanded jets**|Meet Patel et.al.|[2404.07329v1](http://arxiv.org/abs/2404.07329v1)|null|
+|**2024-04-10**|**Quantum Mechanics of Open Systems in Non-Inertial Motion**|Zi-Fan Zhu et.al.|[2404.07054v1](http://arxiv.org/abs/2404.07054v1)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
