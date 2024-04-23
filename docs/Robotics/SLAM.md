@@ -2,6 +2,12 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077v1](http://arxiv.org/abs/2404.14077v1)|[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)|
+|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903v1](http://arxiv.org/abs/2404.13903v1)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
+|**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|null|
+|**2024-04-19**|**On fusing active and passive acoustic sensing for simultaneous localization and mapping**|Aidan J. Bradley et.al.|[2404.13116v1](http://arxiv.org/abs/2404.13116v1)|null|
 |**2024-04-19**|**Sociotechnical Considerations for SLAM Anchors in Location-Based AR**|Tiffany T. Nguyen et.al.|[2404.12555v1](http://arxiv.org/abs/2404.12555v1)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
@@ -26,9 +32,3 @@
 |**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|[link](https://github.com/ga1i13o/jist)|
 |**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549v2](http://arxiv.org/abs/2403.19549v2)|null|
 |**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua et.al.|[2403.19473v1](http://arxiv.org/abs/2403.19473v1)|null|
-|**2024-03-26**|**MUTE-SLAM: Real-Time Neural SLAM with Multiple Tri-Plane Hash Representations**|Yifan Yan et.al.|[2403.17765v1](http://arxiv.org/abs/2403.17765v1)|null|
-|**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622v1](http://arxiv.org/abs/2403.17622v1)|null|
-|**2024-03-26**|**Variational Graph Auto-Encoder Based Inductive Learning Method for Semi-Supervised Classification**|Hanxuan Yang et.al.|[2403.17500v1](http://arxiv.org/abs/2403.17500v1)|null|
-|**2024-03-26**|**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**|Yufu Wang et.al.|[2403.17346v1](http://arxiv.org/abs/2403.17346v1)|null|
-|**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
-|**2024-03-25**|**TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments**|Chen Yao et.al.|[2403.16875v1](http://arxiv.org/abs/2403.16875v1)|null|

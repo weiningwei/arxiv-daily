@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-22**|**PM2D: A parallel GPU-based code for the kinetic simulation of laser plasma instabilities in large scale plasmas**|Hanghang Ma et.al.|[2404.14293v1](http://arxiv.org/abs/2404.14293v1)|null|
+|**2024-04-22**|**Linear Convergence Results for Inertial Type Projection Algorithm for Quasi-Variational Inequalities**|Yonghong Yao et.al.|[2404.13912v1](http://arxiv.org/abs/2404.13912v1)|null|
+|**2024-04-21**|**Seamless Underwater Navigation with Limited Doppler Velocity Log Measurements**|Nadav Cohen et.al.|[2404.13742v1](http://arxiv.org/abs/2404.13742v1)|null|
+|**2024-04-21**|**Stability of the Abstract Thermoelastic System with Singularity**|Chenxi Deng et.al.|[2404.13689v1](http://arxiv.org/abs/2404.13689v1)|null|
+|**2024-04-19**|**Wheelchair Maneuvering with a Single-Spherical-Wheeled Balancing Mobile Manipulator**|Cunxi Dai et.al.|[2404.13206v1](http://arxiv.org/abs/2404.13206v1)|null|
+|**2024-04-19**|**FoMo: A Proposal for a Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2404.13166v1](http://arxiv.org/abs/2404.13166v1)|null|
+|**2024-04-19**|**Group cohesion and passive dynamics of a pair of inertial swimmers with three-dimensional hydrodynamic interactions**|Mohamed Niged Mabrouk et.al.|[2404.13152v1](http://arxiv.org/abs/2404.13152v1)|null|
 |**2024-04-19**|**Development of Two-Dimensional Neutron Imager with a Sandwich Configuration**|Y. Kamiya et.al.|[2404.12857v1](http://arxiv.org/abs/2404.12857v1)|null|
 |**2024-04-19**|**Design and Modeling of Indirectly-Driven Magnetized Implosions on the NIF**|D. J. Strozzi et.al.|[2404.12614v1](http://arxiv.org/abs/2404.12614v1)|null|
 |**2024-04-19**|**In-tube micro-pyramidal silicon nanopore for inertial-kinetic sensing of single molecules**|Jianxin Yang et.al.|[2404.12577v1](http://arxiv.org/abs/2404.12577v1)|null|
@@ -25,10 +32,3 @@
 |**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635v1](http://arxiv.org/abs/2404.09635v1)|null|
 |**2024-04-14**|**Inertial range of magnetorotational turbulence**|Yohei Kawazura et.al.|[2404.09252v1](http://arxiv.org/abs/2404.09252v1)|null|
 |**2024-04-14**|**The Lunar Gravitational-wave Antenna: Mission Studies and Science Case**|Parameswaran Ajith et.al.|[2404.09181v1](http://arxiv.org/abs/2404.09181v1)|null|
-|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
-|**2024-04-13**|**NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT**|Xinzhe Zheng et.al.|[2404.08939v1](http://arxiv.org/abs/2404.08939v1)|[link](https://github.com/neurit-project/neurit)|
-|**2024-04-13**|**Assessment of a Multiphase Formulation of One-Dimensional Turbulence using Direct Numerical Simulation of a Decaying Turbulent Interfacial Flow**|A. Movaghar et.al.|[2404.08934v1](http://arxiv.org/abs/2404.08934v1)|null|
-|**2024-04-12**|**Direct numerical simulations of microlayer formation during heterogeneous bubble nucleation**|Mandeep Saini et.al.|[2404.08377v1](http://arxiv.org/abs/2404.08377v1)|null|
-|**2024-04-12**|**Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**|Z. H. Chen et.al.|[2404.08216v1](http://arxiv.org/abs/2404.08216v1)|null|
-|**2024-04-11**|**Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**|Usman Rana et.al.|[2404.08119v1](http://arxiv.org/abs/2404.08119v1)|null|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|[link](https://github.com/littledang/2dliw-slam)|
