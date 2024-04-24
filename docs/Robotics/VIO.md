@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
+|**2024-04-23**|**Invariant tensions from holography**|Constantin Bachas et.al.|[2404.14998v1](http://arxiv.org/abs/2404.14998v1)|null|
+|**2024-04-23**|**A Spatiotemporal Hand-Eye Calibration for Trajectory Alignment in Visual(-Inertial) Odometry Evaluation**|Zichao Shu et.al.|[2404.14894v1](http://arxiv.org/abs/2404.14894v1)|null|
+|**2024-04-23**|**Fast convergence rates and trajectory convergence of a Tikhonov regularized inertial primal\mbox{-}dual dynamical system with time scaling and vanishing damping**|Ting-Ting Zhu et.al.|[2404.14853v1](http://arxiv.org/abs/2404.14853v1)|null|
 |**2024-04-22**|**PM2D: A parallel GPU-based code for the kinetic simulation of laser plasma instabilities in large scale plasmas**|Hanghang Ma et.al.|[2404.14293v1](http://arxiv.org/abs/2404.14293v1)|null|
 |**2024-04-22**|**Linear Convergence Results for Inertial Type Projection Algorithm for Quasi-Variational Inequalities**|Yonghong Yao et.al.|[2404.13912v1](http://arxiv.org/abs/2404.13912v1)|null|
 |**2024-04-21**|**Seamless Underwater Navigation with Limited Doppler Velocity Log Measurements**|Nadav Cohen et.al.|[2404.13742v1](http://arxiv.org/abs/2404.13742v1)|null|
@@ -28,7 +32,3 @@
 |**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
 |**2024-04-15**|**Point-Charge Models and Averages for Electromagnetic Quantities Considered in Two Relativistic Inertial Frames**|Timothy H. Boyer et.al.|[2404.10129v1](http://arxiv.org/abs/2404.10129v1)|null|
 |**2024-04-15**|**Symmetries and Thermal Radiation: A Classical Derivation of the Planck Spectrum**|Timothy H. Boyer et.al.|[2404.10116v1](http://arxiv.org/abs/2404.10116v1)|null|
-|**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691v1](http://arxiv.org/abs/2404.09691v1)|null|
-|**2024-04-15**|**Pair statistics of anisotropic particles settling in a turbulent flow**|Prateek Anand et.al.|[2404.09635v1](http://arxiv.org/abs/2404.09635v1)|null|
-|**2024-04-14**|**Inertial range of magnetorotational turbulence**|Yohei Kawazura et.al.|[2404.09252v1](http://arxiv.org/abs/2404.09252v1)|null|
-|**2024-04-14**|**The Lunar Gravitational-wave Antenna: Mission Studies and Science Case**|Parameswaran Ajith et.al.|[2404.09181v1](http://arxiv.org/abs/2404.09181v1)|null|
