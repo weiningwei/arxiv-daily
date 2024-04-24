@@ -14,11 +14,11 @@
 |**2024-04-22**|**HashPoint: Accelerated Point Searching and Sampling for Neural Rendering**|Jiahao Ma et.al.|[2404.14044v1](http://arxiv.org/abs/2404.14044v1)|null|
 |**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027v1](http://arxiv.org/abs/2404.14027v1)|null|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
-|**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v1](http://arxiv.org/abs/2404.13949v1)|[link](https://github.com/joomeok/pelical)|
+|**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v2](http://arxiv.org/abs/2404.13949v2)|[link](https://github.com/joomeok/pelical)|
 |**2024-04-22**|**Angle-Aware Coverage with Camera Rotational Motion Control**|Zhiyuan Lu et.al.|[2404.13915v1](http://arxiv.org/abs/2404.13915v1)|null|
 |**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v1](http://arxiv.org/abs/2404.13896v1)|null|
 |**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691v1](http://arxiv.org/abs/2404.13691v1)|null|
-|**2024-04-21**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677v1](http://arxiv.org/abs/2404.13677v1)|[link](https://github.com/haoygong/lpdgan)|
+|**2024-04-21**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677v2](http://arxiv.org/abs/2404.13677v2)|[link](https://github.com/haoygong/lpdgan)|
 |**2024-04-21**|**Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence**|Ripon Kumar Saha et.al.|[2404.13605v1](http://arxiv.org/abs/2404.13605v1)|null|
 |**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541v1](http://arxiv.org/abs/2404.13541v1)|null|
