@@ -16,7 +16,7 @@
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
 |**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v2](http://arxiv.org/abs/2404.13949v2)|[link](https://github.com/joomeok/pelical)|
 |**2024-04-22**|**Angle-Aware Coverage with Camera Rotational Motion Control**|Zhiyuan Lu et.al.|[2404.13915v1](http://arxiv.org/abs/2404.13915v1)|null|
-|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v1](http://arxiv.org/abs/2404.13896v1)|null|
+|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
 |**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691v1](http://arxiv.org/abs/2404.13691v1)|null|
 |**2024-04-21**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677v2](http://arxiv.org/abs/2404.13677v2)|[link](https://github.com/haoygong/lpdgan)|
 |**2024-04-21**|**Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence**|Ripon Kumar Saha et.al.|[2404.13605v1](http://arxiv.org/abs/2404.13605v1)|null|
@@ -26,7 +26,7 @@
 |**2024-04-20**|**SiNC+: Adaptive Camera-Based Vitals with Unsupervised Learning of Periodic Signals**|Jeremy Speth et.al.|[2404.13449v1](http://arxiv.org/abs/2404.13449v1)|null|
 |**2024-04-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al.|[2404.13443v1](http://arxiv.org/abs/2404.13443v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
-|**2024-04-20**|**Diagnosis of Multiple Fundus Disorders Amidst a Scarcity of Medical Experts Via Self-supervised Machine Learning**|Yong Liu et.al.|[2404.13388v1](http://arxiv.org/abs/2404.13388v1)|null|
+|**2024-04-20**|**Diagnosis of Multiple Fundus Disorders Amidst a Scarcity of Medical Experts Via Self-supervised Machine Learning**|Yong Liu et.al.|[2404.13388v2](http://arxiv.org/abs/2404.13388v2)|null|
 |**2024-04-20**|**PoseINN: Realtime Visual-based Pose Regression and Localization with Invertible Neural Networks**|Zirui Zang et.al.|[2404.13288v1](http://arxiv.org/abs/2404.13288v1)|null|
 |**2024-04-19**|**Equivariant Imaging for Self-supervised Hyperspectral Image Inpainting**|Shuo Li et.al.|[2404.13159v1](http://arxiv.org/abs/2404.13159v1)|null|
 |**2024-04-19**|**On-board classification of underwater images using hybrid classical-quantum CNN based method**|Sreeraj Rajan Warrier et.al.|[2404.13130v1](http://arxiv.org/abs/2404.13130v1)|null|
