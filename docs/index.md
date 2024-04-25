@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-04-25 20:56:00 Asia/Shanghai
+ Automated deployment @ 2024-04-25 21:06:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
-|**2024-04-22**|**MIMO Multipath-based SLAM for Non-Ideal Reflective Surfaces**|Lukas Wielandner et.al.|[2404.15375v1](http://arxiv.org/abs/2404.15375v1)|null|
-|**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077v1](http://arxiv.org/abs/2404.14077v1)|[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)|
-|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903v2](http://arxiv.org/abs/2404.13903v2)|null|
-|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
-|**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
-|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|[link](https://github.com/lightingooo/ec-slam)|
-|**2024-04-19**|**On fusing active and passive acoustic sensing for simultaneous localization and mapping**|Aidan J. Bradley et.al.|[2404.13116v1](http://arxiv.org/abs/2404.13116v1)|null|
-|**2024-04-19**|**Sociotechnical Considerations for SLAM Anchors in Location-Based AR**|Tiffany T. Nguyen et.al.|[2404.12555v1](http://arxiv.org/abs/2404.12555v1)|null|
-|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
-|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
-|**2024-04-16**|**Robust Snapshot Radio SLAM**|Ossi Kaltiokallio et.al.|[2404.10291v1](http://arxiv.org/abs/2404.10291v1)|null|
-|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
-|**2024-04-15**|**Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction**|Ashish Devadas Nair et.al.|[2404.09765v1](http://arxiv.org/abs/2404.09765v1)|null|
-|**2024-04-15**|**DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**|WeiSheng Gong et.al.|[2404.09622v1](http://arxiv.org/abs/2404.09622v1)|null|
-|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
-|**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563v1](http://arxiv.org/abs/2404.08563v1)|null|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v5](http://arxiv.org/abs/2404.07644v5)|[link](https://github.com/littledang/2dliw-slam)|
-|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
-|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v2](http://arxiv.org/abs/2404.06665v2)|[link](https://github.com/yongquan-qu/slams)|
-|**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
-|**2024-04-05**|**LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping**|Kurran Singh et.al.|[2404.04377v1](http://arxiv.org/abs/2404.04377v1)|null|
-|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
-|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
-|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|[link](https://github.com/dtc111111/neslam)|
-|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
-|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885v1](http://arxiv.org/abs/2403.19885v1)|[link](https://github.com/neufieldrobotics/irslam_baseline)|
-|**2024-03-28**|**MAC: Maximizing Algebraic Connectivity for Graph Sparsification**|Kevin Doherty et.al.|[2403.19879v1](http://arxiv.org/abs/2403.19879v1)|[link](https://github.com/MarineRoboticsGroup/mac)|
-|**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|[link](https://github.com/ga1i13o/jist)|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-23**|**Guided AbsoluteGrad: Magnitude of Gradients Matters to Explanation's Localization and Saliency**|Jun Huang et.al.|[2404.15564v1](http://arxiv.org/abs/2404.15564v1)|null|
-|**2024-04-23**|**High Contrast, High Angular Resolution Optical Speckle Imaging: Uncovering Hidden Stellar Companions**|Steve B. Howell et.al.|[2404.15528v1](http://arxiv.org/abs/2404.15528v1)|null|
-|**2024-04-23**|**Photometry of Saturated Stars with Machine Learning**|Dominek Winecki et.al.|[2404.15405v1](http://arxiv.org/abs/2404.15405v1)|null|
-|**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
-|**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259v1](http://arxiv.org/abs/2404.15259v1)|null|
-|**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224v1](http://arxiv.org/abs/2404.15224v1)|null|
-|**2024-04-23**|**OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving**|Guoqing Wang et.al.|[2404.15014v1](http://arxiv.org/abs/2404.15014v1)|null|
-|**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780v1](http://arxiv.org/abs/2404.14780v1)|null|
-|**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|
-|**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|[link](https://github.com/visioniclab/swinfusr)|
-|**2024-04-22**|**Instrument Signature Removal and Calibration Products for the Rubin Legacy Survey of Space and Time**|Andrés A. Plazas Malagón et.al.|[2404.14516v1](http://arxiv.org/abs/2404.14516v1)|null|
-|**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388v1](http://arxiv.org/abs/2404.14388v1)|null|
-|**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351v1](http://arxiv.org/abs/2404.14351v1)|null|
-|**2024-04-22**|**Direct Comparison of SiPM and PMT Sensor Performances in a large-size imaging air Cherenkov telescope**|A. Hahn et.al.|[2404.14346v1](http://arxiv.org/abs/2404.14346v1)|null|
-|**2024-04-22**|**X-Ray: A Sequential 3D Representation for Generation**|Tao Hu et.al.|[2404.14329v1](http://arxiv.org/abs/2404.14329v1)|null|
-|**2024-04-22**|**RESFM: Robust Equivariant Multiview Structure from Motion**|Fadi Khatib et.al.|[2404.14280v1](http://arxiv.org/abs/2404.14280v1)|null|
-|**2024-04-22**|**Co-designing a Sub-millisecond Latency Event-based Eye Tracking System with Submanifold Sparse CNN**|Baoheng Zhang et.al.|[2404.14279v1](http://arxiv.org/abs/2404.14279v1)|[link](https://github.com/casr-hku/esda)|
-|**2024-04-22**|**BCFPL: Binary classification ConvNet based Fast Parking space recognition with Low resolution image**|Shuo Zhang et.al.|[2404.14198v1](http://arxiv.org/abs/2404.14198v1)|null|
-|**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167v1](http://arxiv.org/abs/2404.14167v1)|null|
-|**2024-04-22**|**Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras**|Mhairi Dunion et.al.|[2404.14064v1](http://arxiv.org/abs/2404.14064v1)|[link](https://github.com/uoe-agents/mvd)|
-|**2024-04-22**|**HashPoint: Accelerated Point Searching and Sampling for Neural Rendering**|Jiahao Ma et.al.|[2404.14044v1](http://arxiv.org/abs/2404.14044v1)|null|
-|**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027v1](http://arxiv.org/abs/2404.14027v1)|null|
-|**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
-|**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v2](http://arxiv.org/abs/2404.13949v2)|[link](https://github.com/joomeok/pelical)|
-|**2024-04-22**|**Angle-Aware Coverage with Camera Rotational Motion Control**|Zhiyuan Lu et.al.|[2404.13915v1](http://arxiv.org/abs/2404.13915v1)|null|
-|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
-|**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691v1](http://arxiv.org/abs/2404.13691v1)|null|
-|**2024-04-21**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677v2](http://arxiv.org/abs/2404.13677v2)|[link](https://github.com/haoygong/lpdgan)|
-|**2024-04-21**|**Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence**|Ripon Kumar Saha et.al.|[2404.13605v1](http://arxiv.org/abs/2404.13605v1)|null|
-|**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2024-04-16**|**Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems**|Fan Zhang et.al.|[2404.10240v1](http://arxiv.org/abs/2404.10240v1)|null|
 |**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
 
+### SLAM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
+|**2024-04-22**|**MIMO Multipath-based SLAM for Non-Ideal Reflective Surfaces**|Lukas Wielandner et.al.|[2404.15375v1](http://arxiv.org/abs/2404.15375v1)|null|
+|**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077v1](http://arxiv.org/abs/2404.14077v1)|[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)|
+|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903v2](http://arxiv.org/abs/2404.13903v2)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
+|**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|[link](https://github.com/lightingooo/ec-slam)|
+|**2024-04-19**|**On fusing active and passive acoustic sensing for simultaneous localization and mapping**|Aidan J. Bradley et.al.|[2404.13116v1](http://arxiv.org/abs/2404.13116v1)|null|
+|**2024-04-19**|**Sociotechnical Considerations for SLAM Anchors in Location-Based AR**|Tiffany T. Nguyen et.al.|[2404.12555v1](http://arxiv.org/abs/2404.12555v1)|null|
+|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322v1](http://arxiv.org/abs/2404.11322v1)|[link](https://github.com/rvp-group/vbr-devkit)|
+|**2024-04-16**|**Robust Snapshot Radio SLAM**|Ossi Kaltiokallio et.al.|[2404.10291v1](http://arxiv.org/abs/2404.10291v1)|null|
+|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
+|**2024-04-15**|**Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction**|Ashish Devadas Nair et.al.|[2404.09765v1](http://arxiv.org/abs/2404.09765v1)|null|
+|**2024-04-15**|**DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**|WeiSheng Gong et.al.|[2404.09622v1](http://arxiv.org/abs/2404.09622v1)|null|
+|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
+|**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563v1](http://arxiv.org/abs/2404.08563v1)|null|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v5](http://arxiv.org/abs/2404.07644v5)|[link](https://github.com/littledang/2dliw-slam)|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
+|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v2](http://arxiv.org/abs/2404.06665v2)|[link](https://github.com/yongquan-qu/slams)|
+|**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
+|**2024-04-05**|**LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping**|Kurran Singh et.al.|[2404.04377v1](http://arxiv.org/abs/2404.04377v1)|null|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
+|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
+|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
+|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|[link](https://github.com/dtc111111/neslam)|
+|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
+|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885v1](http://arxiv.org/abs/2403.19885v1)|[link](https://github.com/neufieldrobotics/irslam_baseline)|
+|**2024-03-28**|**MAC: Maximizing Algebraic Connectivity for Graph Sparsification**|Kevin Doherty et.al.|[2403.19879v1](http://arxiv.org/abs/2403.19879v1)|[link](https://github.com/MarineRoboticsGroup/mac)|
+|**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|[link](https://github.com/ga1i13o/jist)|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|[link](https://github.com/spectacularai/3dgs-deblur)|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170v1](http://arxiv.org/abs/2403.13170v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-23**|**Guided AbsoluteGrad: Magnitude of Gradients Matters to Explanation's Localization and Saliency**|Jun Huang et.al.|[2404.15564v1](http://arxiv.org/abs/2404.15564v1)|null|
+|**2024-04-23**|**High Contrast, High Angular Resolution Optical Speckle Imaging: Uncovering Hidden Stellar Companions**|Steve B. Howell et.al.|[2404.15528v1](http://arxiv.org/abs/2404.15528v1)|null|
+|**2024-04-23**|**Photometry of Saturated Stars with Machine Learning**|Dominek Winecki et.al.|[2404.15405v1](http://arxiv.org/abs/2404.15405v1)|null|
+|**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
+|**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259v1](http://arxiv.org/abs/2404.15259v1)|null|
+|**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224v1](http://arxiv.org/abs/2404.15224v1)|null|
+|**2024-04-23**|**OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving**|Guoqing Wang et.al.|[2404.15014v1](http://arxiv.org/abs/2404.15014v1)|null|
+|**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780v1](http://arxiv.org/abs/2404.14780v1)|null|
+|**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|
+|**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|[link](https://github.com/visioniclab/swinfusr)|
+|**2024-04-22**|**Instrument Signature Removal and Calibration Products for the Rubin Legacy Survey of Space and Time**|Andrés A. Plazas Malagón et.al.|[2404.14516v1](http://arxiv.org/abs/2404.14516v1)|null|
+|**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388v1](http://arxiv.org/abs/2404.14388v1)|null|
+|**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351v1](http://arxiv.org/abs/2404.14351v1)|null|
+|**2024-04-22**|**Direct Comparison of SiPM and PMT Sensor Performances in a large-size imaging air Cherenkov telescope**|A. Hahn et.al.|[2404.14346v1](http://arxiv.org/abs/2404.14346v1)|null|
+|**2024-04-22**|**X-Ray: A Sequential 3D Representation for Generation**|Tao Hu et.al.|[2404.14329v1](http://arxiv.org/abs/2404.14329v1)|null|
+|**2024-04-22**|**RESFM: Robust Equivariant Multiview Structure from Motion**|Fadi Khatib et.al.|[2404.14280v1](http://arxiv.org/abs/2404.14280v1)|null|
+|**2024-04-22**|**Co-designing a Sub-millisecond Latency Event-based Eye Tracking System with Submanifold Sparse CNN**|Baoheng Zhang et.al.|[2404.14279v1](http://arxiv.org/abs/2404.14279v1)|[link](https://github.com/casr-hku/esda)|
+|**2024-04-22**|**BCFPL: Binary classification ConvNet based Fast Parking space recognition with Low resolution image**|Shuo Zhang et.al.|[2404.14198v1](http://arxiv.org/abs/2404.14198v1)|null|
+|**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167v1](http://arxiv.org/abs/2404.14167v1)|null|
+|**2024-04-22**|**Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras**|Mhairi Dunion et.al.|[2404.14064v1](http://arxiv.org/abs/2404.14064v1)|[link](https://github.com/uoe-agents/mvd)|
+|**2024-04-22**|**HashPoint: Accelerated Point Searching and Sampling for Neural Rendering**|Jiahao Ma et.al.|[2404.14044v1](http://arxiv.org/abs/2404.14044v1)|null|
+|**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027v1](http://arxiv.org/abs/2404.14027v1)|null|
+|**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
+|**2024-04-22**|**PeLiCal: Targetless Extrinsic Calibration via Penetrating Lines for RGB-D Cameras with Limited Co-visibility**|Jaeho Shin et.al.|[2404.13949v2](http://arxiv.org/abs/2404.13949v2)|[link](https://github.com/joomeok/pelical)|
+|**2024-04-22**|**Angle-Aware Coverage with Camera Rotational Motion Control**|Zhiyuan Lu et.al.|[2404.13915v1](http://arxiv.org/abs/2404.13915v1)|null|
+|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
+|**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691v1](http://arxiv.org/abs/2404.13691v1)|null|
+|**2024-04-21**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677v2](http://arxiv.org/abs/2404.13677v2)|[link](https://github.com/haoygong/lpdgan)|
+|**2024-04-21**|**Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence**|Ripon Kumar Saha et.al.|[2404.13605v1](http://arxiv.org/abs/2404.13605v1)|null|
+|**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600v1](http://arxiv.org/abs/2404.13600v1)|null|
