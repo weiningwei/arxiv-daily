@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-23**|**Inertial Torsion Noise in Matter-Wave Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2404.15455v1](http://arxiv.org/abs/2404.15455v1)|null|
+|**2024-04-23**|**Towards efficient Effective One Body models for generic, non-planar orbits**|Rossella Gamba et.al.|[2404.15408v1](http://arxiv.org/abs/2404.15408v1)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
 |**2024-04-23**|**Invariant tensions from holography**|Constantin Bachas et.al.|[2404.14998v1](http://arxiv.org/abs/2404.14998v1)|null|
 |**2024-04-23**|**A Spatiotemporal Hand-Eye Calibration for Trajectory Alignment in Visual(-Inertial) Odometry Evaluation**|Zichao Shu et.al.|[2404.14894v1](http://arxiv.org/abs/2404.14894v1)|null|
@@ -30,5 +32,3 @@
 |**2024-04-16**|**Dynamical Model of Rotation and Orbital Coupling for Deimos**|Kai Huang et.al.|[2404.10257v1](http://arxiv.org/abs/2404.10257v1)|null|
 |**2024-04-16**|**Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems**|Fan Zhang et.al.|[2404.10240v1](http://arxiv.org/abs/2404.10240v1)|null|
 |**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
-|**2024-04-15**|**Point-Charge Models and Averages for Electromagnetic Quantities Considered in Two Relativistic Inertial Frames**|Timothy H. Boyer et.al.|[2404.10129v1](http://arxiv.org/abs/2404.10129v1)|null|
-|**2024-04-15**|**Symmetries and Thermal Radiation: A Classical Derivation of the Planck Spectrum**|Timothy H. Boyer et.al.|[2404.10116v1](http://arxiv.org/abs/2404.10116v1)|null|
