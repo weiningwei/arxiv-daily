@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-25**|**Finite-size inertial spherical particles in turbulence**|Alessandro Chiarini et.al.|[2404.16475v1](http://arxiv.org/abs/2404.16475v1)|null|
+|**2024-04-24**|**Unimodal and Multimodal Sensor Fusion for Wearable Activity Recognition**|Hymalai Bello et.al.|[2404.16005v1](http://arxiv.org/abs/2404.16005v1)|null|
+|**2024-04-24**|**Gravitational Faraday and spin-Hall effects of light: Local description**|Andrey A. Shoom et.al.|[2404.15934v1](http://arxiv.org/abs/2404.15934v1)|null|
+|**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan et.al.|[2404.15847v1](http://arxiv.org/abs/2404.15847v1)|null|
+|**2024-04-24**|**Inertia and Activity: Spiral transitions in semi-flexible, self-avoiding polymers**|Chitrak Karan et.al.|[2404.15748v1](http://arxiv.org/abs/2404.15748v1)|null|
+|**2024-04-24**|**Homogeneous turbophoresis of heavy inertial particles in turbulent flow**|Jérémie Bec et.al.|[2404.15679v1](http://arxiv.org/abs/2404.15679v1)|null|
+|**2024-04-24**|**Self-generated magnetic field in three-dimensional ablative Rayleigh-Taylor instability**|Dehua Zhang et.al.|[2404.15642v1](http://arxiv.org/abs/2404.15642v1)|null|
 |**2024-04-23**|**Inertial Torsion Noise in Matter-Wave Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2404.15455v1](http://arxiv.org/abs/2404.15455v1)|null|
 |**2024-04-23**|**Towards efficient Effective One Body models for generic, non-planar orbits**|Rossella Gamba et.al.|[2404.15408v1](http://arxiv.org/abs/2404.15408v1)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
@@ -25,10 +32,3 @@
 |**2024-04-17**|**Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**|Dikai Li et.al.|[2404.11278v2](http://arxiv.org/abs/2404.11278v2)|null|
 |**2024-04-17**|**Turbulence revealed by wavelet transform: power spectrum and intermittency for the velocity field of the cosmic baryonic fluid**|Yun Wang et.al.|[2404.11255v1](http://arxiv.org/abs/2404.11255v1)|null|
 |**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149v1](http://arxiv.org/abs/2404.11149v1)|null|
-|**2024-04-17**|**Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon**|Jingrong Wang et.al.|[2404.11070v1](http://arxiv.org/abs/2404.11070v1)|[link](https://github.com/whuwangjr/sky-view-images)|
-|**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
-|**2024-04-16**|**Numerical validation of the inverse cascade of surface gravity wave action**|CHristopher Higgins et.al.|[2404.10677v1](http://arxiv.org/abs/2404.10677v1)|null|
-|**2024-04-16**|**Advances in Atom Interferometry and their Impacts on the Performance of Quantum Accelerometers On-board Future Satellite Gravity Missions**|Alireza HosseiniArania et.al.|[2404.10471v1](http://arxiv.org/abs/2404.10471v1)|null|
-|**2024-04-16**|**Dynamical Model of Rotation and Orbital Coupling for Deimos**|Kai Huang et.al.|[2404.10257v1](http://arxiv.org/abs/2404.10257v1)|null|
-|**2024-04-16**|**Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems**|Fan Zhang et.al.|[2404.10240v1](http://arxiv.org/abs/2404.10240v1)|null|
-|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
