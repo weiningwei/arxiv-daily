@@ -10,7 +10,7 @@
 |**2024-04-25**|**Exploring the Dynamics of Data Transmission in 5G Networks: A Conceptual Analysis**|Nikita Smirnov et.al.|[2404.16508v1](http://arxiv.org/abs/2404.16508v1)|null|
 |**2024-04-25**|**Timely Communications for Remote Inference**|Md Kamran Chowdhury Shisher et.al.|[2404.16281v1](http://arxiv.org/abs/2404.16281v1)|null|
 |**2024-04-24**|**When does a bent concatenation not belong to the completed Maiorana-McFarland class?**|Sadmir Kudin et.al.|[2404.16220v1](http://arxiv.org/abs/2404.16220v1)|null|
-|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109v1](http://arxiv.org/abs/2404.16109v1)|null|
+|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109v1](http://arxiv.org/abs/2404.16109v1)|[link](https://github.com/jvhs0706/zkllm-ccs2024)|
 |**2024-04-24**|**MoDE: CLIP Data Experts via Clustering**|Jiawei Ma et.al.|[2404.16030v1](http://arxiv.org/abs/2404.16030v1)|[link](https://github.com/facebookresearch/metaclip)|
 |**2024-04-24**|**BeSound: Bluetooth-Based Position Estimation Enhancing with Cross-Modality Distillation**|Hymalai Bello et.al.|[2404.15999v1](http://arxiv.org/abs/2404.15999v1)|null|
 |**2024-04-24**|**Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains**|Eunsu Baek et.al.|[2404.15882v2](http://arxiv.org/abs/2404.15882v2)|[link](https://github.com/edw2n/imagenet-es)|

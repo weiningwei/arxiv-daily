@@ -29,6 +29,6 @@
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
 |**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877v1](http://arxiv.org/abs/2403.16877v1)|[link](https://github.com/norlab-ulaval/BorealTC)|
 |**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|
-|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|null|
+|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|[link](https://github.com/kafeiyin00/hcto)|
 |**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327v1](http://arxiv.org/abs/2403.13327v1)|[link](https://github.com/spectacularai/3dgs-deblur)|
