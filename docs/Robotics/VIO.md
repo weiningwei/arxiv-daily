@@ -2,8 +2,17 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29**|**3D Mapping of Glacier Moulins: Challenges and lessons learned**|William Dubois et.al.|[2404.18790v1](http://arxiv.org/abs/2404.18790v1)|null|
+|**2024-04-29**|**An entanglement-enhanced atomic gravimeter**|Christophe Cassens et.al.|[2404.18668v1](http://arxiv.org/abs/2404.18668v1)|null|
+|**2024-04-29**|**Enhancing Prosthetic Safety and Environmental Adaptability: A Visual-Inertial Prosthesis Motion Estimation Approach on Uneven Terrains**|Chuheng Chen et.al.|[2404.18612v1](http://arxiv.org/abs/2404.18612v1)|null|
+|**2024-04-29**|**Emergent dynamics of the inertial Kuramoto model with frustration on a locally coupled graph**|Tingting Zhu et.al.|[2404.18488v1](http://arxiv.org/abs/2404.18488v1)|null|
+|**2024-04-28**|**Tightly-Coupled VLP/INS Integrated Navigation by Inclination Estimation and Blockage Handling**|Xiao Sun et.al.|[2404.18105v1](http://arxiv.org/abs/2404.18105v1)|null|
+|**2024-04-28**|**LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots**|Qingrui Zhao et.al.|[2404.18047v1](http://arxiv.org/abs/2404.18047v1)|null|
+|**2024-04-27**|**Hybrid 3D Human Pose Estimation with Monocular Video and Sparse IMUs**|Yiming Bao et.al.|[2404.17837v1](http://arxiv.org/abs/2404.17837v1)|null|
+|**2024-04-27**|**Torsion and Chern-Simons gravity in 4D space-times from a Geometrodynamical four-form**|Patrick Das Gupta et.al.|[2404.17798v1](http://arxiv.org/abs/2404.17798v1)|null|
+|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
 |**2024-04-26**|**Statistical theory of the broadband two plasmon decay instability**|Rusko T. Ruskov et.al.|[2404.17384v1](http://arxiv.org/abs/2404.17384v1)|null|
-|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|[link](https://github.com/robot-learning-freiburg/MDPCalib)|
+|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251v1](http://arxiv.org/abs/2404.17251v1)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229v1](http://arxiv.org/abs/2404.17229v1)|null|
 |**2024-04-26**|**Reversal of particle Migration for viscoelastic solution at high solvent viscosity**|Xavier Salas-Barzola et.al.|[2404.17213v1](http://arxiv.org/abs/2404.17213v1)|null|
@@ -23,12 +32,3 @@
 |**2024-04-22**|**PM2D: A parallel GPU-based code for the kinetic simulation of laser plasma instabilities in large scale plasmas**|Hanghang Ma et.al.|[2404.14293v1](http://arxiv.org/abs/2404.14293v1)|null|
 |**2024-04-22**|**Linear Convergence Results for Inertial Type Projection Algorithm for Quasi-Variational Inequalities**|Yonghong Yao et.al.|[2404.13912v1](http://arxiv.org/abs/2404.13912v1)|null|
 |**2024-04-21**|**Seamless Underwater Navigation with Limited Doppler Velocity Log Measurements**|Nadav Cohen et.al.|[2404.13742v1](http://arxiv.org/abs/2404.13742v1)|null|
-|**2024-04-21**|**Stability of the Abstract Thermoelastic System with Singularity**|Chenxi Deng et.al.|[2404.13689v1](http://arxiv.org/abs/2404.13689v1)|null|
-|**2024-04-19**|**Wheelchair Maneuvering with a Single-Spherical-Wheeled Balancing Mobile Manipulator**|Cunxi Dai et.al.|[2404.13206v1](http://arxiv.org/abs/2404.13206v1)|null|
-|**2024-04-19**|**FoMo: A Proposal for a Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2404.13166v1](http://arxiv.org/abs/2404.13166v1)|null|
-|**2024-04-19**|**Group cohesion and passive dynamics of a pair of inertial swimmers with three-dimensional hydrodynamic interactions**|Mohamed Niged Mabrouk et.al.|[2404.13152v1](http://arxiv.org/abs/2404.13152v1)|null|
-|**2024-04-19**|**Development of Two-Dimensional Neutron Imager with a Sandwich Configuration**|Y. Kamiya et.al.|[2404.12857v1](http://arxiv.org/abs/2404.12857v1)|null|
-|**2024-04-19**|**Design and Modeling of Indirectly-Driven Magnetized Implosions on the NIF**|D. J. Strozzi et.al.|[2404.12614v1](http://arxiv.org/abs/2404.12614v1)|null|
-|**2024-04-19**|**In-tube micro-pyramidal silicon nanopore for inertial-kinetic sensing of single molecules**|Jianxin Yang et.al.|[2404.12577v1](http://arxiv.org/abs/2404.12577v1)|null|
-|**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548v1](http://arxiv.org/abs/2404.12548v1)|null|
-|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339v1](http://arxiv.org/abs/2404.12339v1)|null|

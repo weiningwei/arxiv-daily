@@ -2,6 +2,13 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29**|**Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**|Xin Chen et.al.|[2404.18560v1](http://arxiv.org/abs/2404.18560v1)|null|
+|**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
+|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|null|
+|**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
+|**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng et.al.|[2404.18192v1](http://arxiv.org/abs/2404.18192v1)|null|
+|**2024-04-27**|**DF-SLAM: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System**|Weifeng Wei et.al.|[2404.17876v1](http://arxiv.org/abs/2404.17876v1)|null|
+|**2024-04-27**|**HIPer: A Human-Inspired Scene Perception Model for Multifunctional Mobile Robots**|Florenz Graf et.al.|[2404.17791v1](http://arxiv.org/abs/2404.17791v1)|null|
 |**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215v1](http://arxiv.org/abs/2404.17215v1)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
 |**2024-04-22**|**MIMO Multipath-based SLAM for Non-Ideal Reflective Surfaces**|Lukas Wielandner et.al.|[2404.15375v1](http://arxiv.org/abs/2404.15375v1)|null|
@@ -25,10 +32,3 @@
 |**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v2](http://arxiv.org/abs/2404.06665v2)|[link](https://github.com/yongquan-qu/slams)|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
 |**2024-04-05**|**LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping**|Kurran Singh et.al.|[2404.04377v1](http://arxiv.org/abs/2404.04377v1)|null|
-|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
-|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
-|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|[link](https://github.com/dtc111111/neslam)|
-|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
-|**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885v1](http://arxiv.org/abs/2403.19885v1)|[link](https://github.com/neufieldrobotics/irslam_baseline)|
-|**2024-03-28**|**MAC: Maximizing Algebraic Connectivity for Graph Sparsification**|Kevin Doherty et.al.|[2403.19879v1](http://arxiv.org/abs/2403.19879v1)|[link](https://github.com/MarineRoboticsGroup/mac)|

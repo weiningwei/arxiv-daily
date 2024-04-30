@@ -2,9 +2,28 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926v1](http://arxiv.org/abs/2404.18926v1)|null|
+|**2024-04-29**|**Innovative Integration of Visual Foundation Model with a Robotic Arm on a Mobile Platform**|Shimian Zhang et.al.|[2404.18720v1](http://arxiv.org/abs/2404.18720v1)|null|
+|**2024-04-29**|**Self-Avatar Animation in Virtual Reality: Impact of Motion Signals Artifacts on the Full-Body Pose Reconstruction**|Antoine Maiorca et.al.|[2404.18628v1](http://arxiv.org/abs/2404.18628v1)|null|
+|**2024-04-29**|**Enhancing Prosthetic Safety and Environmental Adaptability: A Visual-Inertial Prosthesis Motion Estimation Approach on Uneven Terrains**|Chuheng Chen et.al.|[2404.18612v1](http://arxiv.org/abs/2404.18612v1)|null|
+|**2024-04-29**|**Multisensor Data Fusion for Automatized Insect Monitoring (KInsecta)**|Martin Tschaikner et.al.|[2404.18504v1](http://arxiv.org/abs/2404.18504v1)|null|
+|**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394v1](http://arxiv.org/abs/2404.18394v1)|null|
+|**2024-04-28**|**Riemannian Optimization for Active Mapping with Robot Teams**|Arash Asgharivaskasi et.al.|[2404.18321v1](http://arxiv.org/abs/2404.18321v1)|null|
+|**2024-04-28**|**Event-based Video Frame Interpolation with Edge Guided Motion Refinement**|Yuhan Liu et.al.|[2404.18156v1](http://arxiv.org/abs/2404.18156v1)|null|
+|**2024-04-28**|**ShapeMoiré: Channel-Wise Shape-Guided Network for Image Demoiréing**|Jinming Cao et.al.|[2404.18155v1](http://arxiv.org/abs/2404.18155v1)|null|
+|**2024-04-28**|**Online,Target-Free LiDAR-Camera Extrinsic Calibration via Cross-Modal Mask Matching**|Zhiwei Huang et.al.|[2404.18083v1](http://arxiv.org/abs/2404.18083v1)|null|
+|**2024-04-27**|**Very-Large-Scale Reconfigurable Intelligent Surfaces for Dynamic Control of Terahertz and Millimetre Waves**|Yury Malevich et.al.|[2404.17979v1](http://arxiv.org/abs/2404.17979v1)|null|
+|**2024-04-27**|**3D Extended Object Tracking by Fusing Roadside Sparse Radar Point Clouds and Pixel Keypoints**|Jiayin Deng et.al.|[2404.17903v1](http://arxiv.org/abs/2404.17903v1)|null|
+|**2024-04-27**|**Vision-based Discovery of Nonlinear Dynamics for 3D Moving Target**|Zitong Zhang et.al.|[2404.17865v1](http://arxiv.org/abs/2404.17865v1)|null|
+|**2024-04-27**|**CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**|Junyi Gu et.al.|[2404.17793v1](http://arxiv.org/abs/2404.17793v1)|[link](https://github.com/claud1234/fcn_transformer_object_segmentation)|
+|**2024-04-27**|**Charaterization of dim light response in DVS pixel: Discontinuity of event triggering time**|Xiao Jiang et.al.|[2404.17771v1](http://arxiv.org/abs/2404.17771v1)|null|
+|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
+|**2024-04-26**|**Enhancing Track Management Systems with Vehicle-To-Vehicle Enabled Sensor Fusion**|Thomas Billington et.al.|[2404.17697v1](http://arxiv.org/abs/2404.17697v1)|null|
+|**2024-04-26**|**Localization Through Particle Filter Powered Neural Network Estimated Monocular Camera Poses**|Yi Shen et.al.|[2404.17685v1](http://arxiv.org/abs/2404.17685v1)|null|
+|**2024-04-26**|**Simultaneous measurement of extensional stress and flow birefringence field for uniaxially extending worm-like micellar solutions**|Masakazu Muto et.al.|[2404.17643v1](http://arxiv.org/abs/2404.17643v1)|null|
 |**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335v1](http://arxiv.org/abs/2404.17335v1)|null|
 |**2024-04-26**|**Dense Road Surface Grip Map Prediction from Multimodal Image Data**|Jyri Maanpää et.al.|[2404.17324v1](http://arxiv.org/abs/2404.17324v1)|null|
-|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|[link](https://github.com/robot-learning-freiburg/MDPCalib)|
+|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251v1](http://arxiv.org/abs/2404.17251v1)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229v1](http://arxiv.org/abs/2404.17229v1)|null|
 |**2024-04-26**|**Enhancing Privacy and Security of Autonomous UAV Navigation**|Vatsal Aggarwal et.al.|[2404.17225v1](http://arxiv.org/abs/2404.17225v1)|null|
@@ -13,22 +32,3 @@
 |**2024-04-26**|**Localization of Pallets on Shelves Using Horizontal Plane Projection of a 360-degree Image**|Yasuyo Kita et.al.|[2404.17118v1](http://arxiv.org/abs/2404.17118v1)|null|
 |**2024-04-26**|**Don't Look at the Camera: Achieving Perceived Eye Contact**|Alice Gao et.al.|[2404.17104v1](http://arxiv.org/abs/2404.17104v1)|null|
 |**2024-04-26**|**TIUP: Effective Processor Verification with Tautology-Induced Universal Properties**|Yufeng Li et.al.|[2404.17094v1](http://arxiv.org/abs/2404.17094v1)|null|
-|**2024-04-25**|**Motor Focus: Ego-Motion Prediction with All-Pixel Matching**|Hao Wang et.al.|[2404.17031v1](http://arxiv.org/abs/2404.17031v1)|null|
-|**2024-04-25**|**Tau Herculids 2022 from the McDonald Observatory, Texas -- a progress report**|Norton Olivér Szabó et.al.|[2404.17007v1](http://arxiv.org/abs/2404.17007v1)|null|
-|**2024-04-25**|**Constellation Dataset: Benchmarking High-Altitude Object Detection for an Urban Intersection**|Mehmet Kerem Turkcan et.al.|[2404.16944v1](http://arxiv.org/abs/2404.16944v1)|[link](https://github.com/zk2172-columbia/constellation-dataset)|
-|**2024-04-25**|**TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation**|Sai Kumar Dwivedi et.al.|[2404.16752v1](http://arxiv.org/abs/2404.16752v1)|[link](https://github.com/saidwivedi/TokenHMR)|
-|**2024-04-25**|**Long-term stellar activity of M dwarfs: A combined K2 and TESS study of two early M-type stars**|St. Raetz et.al.|[2404.16625v1](http://arxiv.org/abs/2404.16625v1)|null|
-|**2024-04-25**|**Road Surface Friction Estimation for Winter Conditions Utilising General Visual Features**|Risto Ojala et.al.|[2404.16578v1](http://arxiv.org/abs/2404.16578v1)|null|
-|**2024-04-25**|**Efficient Solution of Point-Line Absolute Pose**|Petr Hruby et.al.|[2404.16552v1](http://arxiv.org/abs/2404.16552v1)|[link](https://github.com/petrhruby97/efficient_absolute)|
-|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548v1](http://arxiv.org/abs/2404.16548v1)|null|
-|**2024-04-25**|**Exploring the Dynamics of Data Transmission in 5G Networks: A Conceptual Analysis**|Nikita Smirnov et.al.|[2404.16508v1](http://arxiv.org/abs/2404.16508v1)|null|
-|**2024-04-25**|**Timely Communications for Remote Inference**|Md Kamran Chowdhury Shisher et.al.|[2404.16281v1](http://arxiv.org/abs/2404.16281v1)|null|
-|**2024-04-24**|**When does a bent concatenation not belong to the completed Maiorana-McFarland class?**|Sadmir Kudin et.al.|[2404.16220v1](http://arxiv.org/abs/2404.16220v1)|null|
-|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109v1](http://arxiv.org/abs/2404.16109v1)|[link](https://github.com/jvhs0706/zkllm-ccs2024)|
-|**2024-04-24**|**MoDE: CLIP Data Experts via Clustering**|Jiawei Ma et.al.|[2404.16030v1](http://arxiv.org/abs/2404.16030v1)|[link](https://github.com/facebookresearch/metaclip)|
-|**2024-04-24**|**BeSound: Bluetooth-Based Position Estimation Enhancing with Cross-Modality Distillation**|Hymalai Bello et.al.|[2404.15999v1](http://arxiv.org/abs/2404.15999v1)|null|
-|**2024-04-24**|**Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains**|Eunsu Baek et.al.|[2404.15882v2](http://arxiv.org/abs/2404.15882v2)|[link](https://github.com/edw2n/imagenet-es)|
-|**2024-04-24**|**MotionMaster: Training-free Camera Motion Transfer For Video Generation**|Teng Hu et.al.|[2404.15789v1](http://arxiv.org/abs/2404.15789v1)|null|
-|**2024-04-23**|**Guided AbsoluteGrad: Magnitude of Gradients Matters to Explanation's Localization and Saliency**|Jun Huang et.al.|[2404.15564v1](http://arxiv.org/abs/2404.15564v1)|null|
-|**2024-04-23**|**Adapting an Artificial Intelligence Sexually Transmitted Diseases Symptom Checker Tool for Mpox Detection: The HeHealth Experience**|Rayner Kay Jin Tan et.al.|[2404.16885v1](http://arxiv.org/abs/2404.16885v1)|null|
-|**2024-04-23**|**High Contrast, High Angular Resolution Optical Speckle Imaging: Uncovering Hidden Stellar Companions**|Steve B. Howell et.al.|[2404.15528v1](http://arxiv.org/abs/2404.15528v1)|null|

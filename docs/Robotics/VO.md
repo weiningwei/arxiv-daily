@@ -2,7 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|[link](https://github.com/robot-learning-freiburg/MDPCalib)|
+|**2024-04-28**|**LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots**|Qingrui Zhao et.al.|[2404.18047v1](http://arxiv.org/abs/2404.18047v1)|null|
+|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
+|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251v1](http://arxiv.org/abs/2404.17251v1)|null|
 |**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan et.al.|[2404.15847v1](http://arxiv.org/abs/2404.15847v1)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
@@ -30,5 +32,3 @@
 |**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441v2](http://arxiv.org/abs/2403.17441v2)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
 |**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877v1](http://arxiv.org/abs/2403.16877v1)|[link](https://github.com/norlab-ulaval/BorealTC)|
-|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|
-|**2024-03-21**|**HCTO: Optimality-Aware LiDAR Inertial Odometry with Hybrid Continuous Time Optimization for Compact Wearable Mapping System**|Jianping Li et.al.|[2403.14173v1](http://arxiv.org/abs/2403.14173v1)|[link](https://github.com/kafeiyin00/hcto)|
