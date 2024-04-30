@@ -17,7 +17,7 @@
 |**2024-04-23**|**Inertial Torsion Noise in Matter-Wave Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2404.15455v1](http://arxiv.org/abs/2404.15455v1)|null|
 |**2024-04-23**|**Towards efficient Effective One Body models for generic, non-planar orbits**|Rossella Gamba et.al.|[2404.15408v1](http://arxiv.org/abs/2404.15408v1)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
-|**2024-04-23**|**Invariant tensions from holography**|Constantin Bachas et.al.|[2404.14998v1](http://arxiv.org/abs/2404.14998v1)|null|
+|**2024-04-23**|**Invariant tensions from holography**|Constantin Bachas et.al.|[2404.14998v2](http://arxiv.org/abs/2404.14998v2)|null|
 |**2024-04-23**|**A Spatiotemporal Hand-Eye Calibration for Trajectory Alignment in Visual(-Inertial) Odometry Evaluation**|Zichao Shu et.al.|[2404.14894v1](http://arxiv.org/abs/2404.14894v1)|null|
 |**2024-04-23**|**Fast convergence rates and trajectory convergence of a Tikhonov regularized inertial primal\mbox{-}dual dynamical system with time scaling and vanishing damping**|Ting-Ting Zhu et.al.|[2404.14853v1](http://arxiv.org/abs/2404.14853v1)|null|
 |**2024-04-22**|**PM2D: A parallel GPU-based code for the kinetic simulation of laser plasma instabilities in large scale plasmas**|Hanghang Ma et.al.|[2404.14293v1](http://arxiv.org/abs/2404.14293v1)|null|
