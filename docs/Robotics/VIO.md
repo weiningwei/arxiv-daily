@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
+|**2024-05-01**|**A Dual Open Atom Interferometer for Compact, Mobile Quantum Sensing**|Yosri Ben-Aïcha et.al.|[2405.00400v1](http://arxiv.org/abs/2405.00400v1)|null|
+|**2024-04-30**|**Field Report on a Wearable and Versatile Solution for Field Acquisition and Exploration**|Olivier Gamache et.al.|[2405.00199v1](http://arxiv.org/abs/2405.00199v1)|null|
+|**2024-04-30**|**Using sunRunner3D to interpret the global structure of the heliosphere from in situ measurements**|José Juan González-Avilés et.al.|[2405.00174v1](http://arxiv.org/abs/2405.00174v1)|null|
+|**2024-04-30**|**Indoor Synthetic Aperture Radar Measurements of Point-Like Targets Using a Wheeled Mobile Robot**|Yuma E. Ritterbusch et.al.|[2405.00121v1](http://arxiv.org/abs/2405.00121v1)|null|
 |**2024-04-30**|**Physical Non-inertial Poser (PNP): Modeling Non-inertial Effects in Sparse-inertial Human Motion Capture**|Xinyu Yi et.al.|[2404.19619v1](http://arxiv.org/abs/2404.19619v1)|null|
 |**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541v1](http://arxiv.org/abs/2404.19541v1)|null|
 |**2024-04-30**|**Evaluation of An Indoor Localization Engine**|Christophe Villien et.al.|[2404.19538v1](http://arxiv.org/abs/2404.19538v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-24**|**Unimodal and Multimodal Sensor Fusion for Wearable Activity Recognition**|Hymalai Bello et.al.|[2404.16005v1](http://arxiv.org/abs/2404.16005v1)|null|
 |**2024-04-24**|**Gravitational Faraday and spin-Hall effects of light: Local description**|Andrey A. Shoom et.al.|[2404.15934v1](http://arxiv.org/abs/2404.15934v1)|null|
 |**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan et.al.|[2404.15847v1](http://arxiv.org/abs/2404.15847v1)|null|
-|**2024-04-24**|**Inertia and Activity: Spiral transitions in semi-flexible, self-avoiding polymers**|Chitrak Karan et.al.|[2404.15748v1](http://arxiv.org/abs/2404.15748v1)|null|
-|**2024-04-24**|**Homogeneous turbophoresis of heavy inertial particles in turbulent flow**|Jérémie Bec et.al.|[2404.15679v1](http://arxiv.org/abs/2404.15679v1)|null|
-|**2024-04-24**|**Self-generated magnetic field in three-dimensional ablative Rayleigh-Taylor instability**|Dehua Zhang et.al.|[2404.15642v1](http://arxiv.org/abs/2404.15642v1)|null|
-|**2024-04-23**|**Inertial Torsion Noise in Matter-Wave Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2404.15455v1](http://arxiv.org/abs/2404.15455v1)|null|
-|**2024-04-23**|**Towards efficient Effective One Body models for generic, non-planar orbits**|Rossella Gamba et.al.|[2404.15408v1](http://arxiv.org/abs/2404.15408v1)|null|

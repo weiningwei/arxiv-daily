@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
+|**2024-04-30**|**Indoor Synthetic Aperture Radar Measurements of Point-Like Targets Using a Wheeled Mobile Robot**|Yuma E. Ritterbusch et.al.|[2405.00121v1](http://arxiv.org/abs/2405.00121v1)|null|
 |**2024-04-28**|**LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots**|Qingrui Zhao et.al.|[2404.18047v1](http://arxiv.org/abs/2404.18047v1)|null|
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
 |**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|null|
@@ -30,5 +32,3 @@
 |**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358v1](http://arxiv.org/abs/2403.18358v1)|null|
 |**2024-03-27**|**DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment**|Jiuming Liu et.al.|[2403.18274v1](http://arxiv.org/abs/2403.18274v1)|null|
 |**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441v2](http://arxiv.org/abs/2403.17441v2)|null|
-|**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
-|**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877v1](http://arxiv.org/abs/2403.16877v1)|[link](https://github.com/norlab-ulaval/BorealTC)|

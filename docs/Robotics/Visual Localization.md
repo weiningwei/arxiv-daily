@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669v1](http://arxiv.org/abs/2405.00669v1)|null|
+|**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
+|**2024-05-01**|**JWST/NIRCam Detection of the Fomalhaut C Debris Disk in Scattered Light**|Kellen Lawson et.al.|[2405.00573v1](http://arxiv.org/abs/2405.00573v1)|null|
+|**2024-05-01**|**Arbitrary Time Information Modeling via Polynomial Approximation for Temporal Knowledge Graph Embedding**|Zhiyu Fang et.al.|[2405.00358v1](http://arxiv.org/abs/2405.00358v1)|[link](https://github.com/seeyourmind/ptbox)|
+|**2024-05-01**|**Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph**|Zhiyu Fang et.al.|[2405.00352v1](http://arxiv.org/abs/2405.00352v1)|[link](https://github.com/seeyourmind/tkgelib)|
+|**2024-04-30**|**Field Report on a Wearable and Versatile Solution for Field Acquisition and Exploration**|Olivier Gamache et.al.|[2405.00199v1](http://arxiv.org/abs/2405.00199v1)|null|
 |**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706v2](http://arxiv.org/abs/2404.19706v2)|null|
 |**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541v1](http://arxiv.org/abs/2404.19541v1)|null|
 |**2024-04-30**|**MIPI 2024 Challenge on Nighttime Flare Removal: Methods and Results**|Yuekun Dai et.al.|[2404.19534v1](http://arxiv.org/abs/2404.19534v1)|null|
@@ -26,9 +32,3 @@
 |**2024-04-27**|**Vision-based Discovery of Nonlinear Dynamics for 3D Moving Target**|Zitong Zhang et.al.|[2404.17865v1](http://arxiv.org/abs/2404.17865v1)|null|
 |**2024-04-27**|**CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**|Junyi Gu et.al.|[2404.17793v1](http://arxiv.org/abs/2404.17793v1)|[link](https://github.com/claud1234/fcn_transformer_object_segmentation)|
 |**2024-04-27**|**Characterization of dim light response in DVS pixel: Discontinuity of event triggering time**|Xiao Jiang et.al.|[2404.17771v2](http://arxiv.org/abs/2404.17771v2)|null|
-|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
-|**2024-04-26**|**Enhancing Track Management Systems with Vehicle-To-Vehicle Enabled Sensor Fusion**|Thomas Billington et.al.|[2404.17697v1](http://arxiv.org/abs/2404.17697v1)|null|
-|**2024-04-26**|**Localization Through Particle Filter Powered Neural Network Estimated Monocular Camera Poses**|Yi Shen et.al.|[2404.17685v1](http://arxiv.org/abs/2404.17685v1)|null|
-|**2024-04-26**|**Simultaneous measurement of extensional stress and flow birefringence field for uniaxially extending worm-like micellar solutions**|Masakazu Muto et.al.|[2404.17643v1](http://arxiv.org/abs/2404.17643v1)|null|
-|**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335v2](http://arxiv.org/abs/2404.17335v2)|null|
-|**2024-04-26**|**Dense Road Surface Grip Map Prediction from Multimodal Image Data**|Jyri Maanpää et.al.|[2404.17324v1](http://arxiv.org/abs/2404.17324v1)|null|
