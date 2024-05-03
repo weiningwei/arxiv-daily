@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-02**|**LOG-LIO2: A LiDAR-Inertial Odometry with Efficient Uncertainty Analysis**|Kai Huang et.al.|[2405.01316v1](http://arxiv.org/abs/2405.01316v1)|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
 |**2024-04-30**|**Indoor Synthetic Aperture Radar Measurements of Point-Like Targets Using a Wheeled Mobile Robot**|Yuma E. Ritterbusch et.al.|[2405.00121v1](http://arxiv.org/abs/2405.00121v1)|null|
 |**2024-04-28**|**LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots**|Qingrui Zhao et.al.|[2404.18047v1](http://arxiv.org/abs/2404.18047v1)|null|
@@ -31,4 +32,3 @@
 |**2024-03-31**|**Graph-Based vs. Error State Kalman Filter-Based Fusion Of 5G And Inertial Data For MAV Indoor Pose Estimation**|Meisam Kabiri et.al.|[2404.00691v2](http://arxiv.org/abs/2404.00691v2)|null|
 |**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358v1](http://arxiv.org/abs/2403.18358v1)|null|
 |**2024-03-27**|**DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment**|Jiuming Liu et.al.|[2403.18274v1](http://arxiv.org/abs/2403.18274v1)|null|
-|**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441v2](http://arxiv.org/abs/2403.17441v2)|null|

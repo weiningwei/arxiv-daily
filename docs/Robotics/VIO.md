@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-02**|**Nutation: separating the spin from its magnetic moment**|Anulekha De et.al.|[2405.01334v1](http://arxiv.org/abs/2405.01334v1)|null|
+|**2024-05-02**|**LOG-LIO2: A LiDAR-Inertial Odometry with Efficient Uncertainty Analysis**|Kai Huang et.al.|[2405.01316v1](http://arxiv.org/abs/2405.01316v1)|null|
+|**2024-05-02**|**A New Self-Alignment Method without Solving Wahba Problem for SINS in Autonomous Vehicles**|Hongliang Zhang et.al.|[2405.01115v1](http://arxiv.org/abs/2405.01115v1)|null|
+|**2024-05-01**|**Explosively driven Richtmyer--Meshkov instability jet suppression and enhancement via coupling machine learning and additive manufacturing**|Dane M. Sterbentz et.al.|[2405.00812v1](http://arxiv.org/abs/2405.00812v1)|null|
+|**2024-05-01**|**Decoherence by warm horizons**|Jordan Wilson-Gerow et.al.|[2405.00804v1](http://arxiv.org/abs/2405.00804v1)|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
 |**2024-05-01**|**A Dual Open Atom Interferometer for Compact, Mobile Quantum Sensing**|Yosri Ben-Aïcha et.al.|[2405.00400v1](http://arxiv.org/abs/2405.00400v1)|null|
 |**2024-04-30**|**Field Report on a Wearable and Versatile Solution for Field Acquisition and Exploration**|Olivier Gamache et.al.|[2405.00199v1](http://arxiv.org/abs/2405.00199v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251v1](http://arxiv.org/abs/2404.17251v1)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229v1](http://arxiv.org/abs/2404.17229v1)|[link](https://github.com/bella-jy/mmemp)|
-|**2024-04-26**|**Reversal of particle Migration for viscoelastic solution at high solvent viscosity**|Xavier Salas-Barzola et.al.|[2404.17213v1](http://arxiv.org/abs/2404.17213v1)|null|
-|**2024-04-25**|**Finite-size inertial spherical particles in turbulence**|Alessandro Chiarini et.al.|[2404.16475v1](http://arxiv.org/abs/2404.16475v1)|null|
-|**2024-04-24**|**Unimodal and Multimodal Sensor Fusion for Wearable Activity Recognition**|Hymalai Bello et.al.|[2404.16005v1](http://arxiv.org/abs/2404.16005v1)|null|
-|**2024-04-24**|**Gravitational Faraday and spin-Hall effects of light: Local description**|Andrey A. Shoom et.al.|[2404.15934v1](http://arxiv.org/abs/2404.15934v1)|null|
-|**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan et.al.|[2404.15847v1](http://arxiv.org/abs/2404.15847v1)|null|
