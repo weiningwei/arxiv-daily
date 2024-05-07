@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413v1](http://arxiv.org/abs/2405.03413v1)|null|
+|**2024-05-06**|**Hall effect on the joint cascades of magnetic energy and helicity in helical magnetohydrodynamic turbulence**|Running Hu et.al.|[2405.03405v1](http://arxiv.org/abs/2405.03405v1)|null|
+|**2024-05-06**|**On-site scale factor linearity calibration of MEMS triaxial gyroscopes**|Yaqi Li et.al.|[2405.03393v1](http://arxiv.org/abs/2405.03393v1)|null|
+|**2024-05-06**|**Inertial Relaxed Proximal Linearized ADMM for Nonconvex Optimization under Minimal Continuity Assumption**|Ganzhao Yuan et.al.|[2405.03233v1](http://arxiv.org/abs/2405.03233v1)|null|
+|**2024-05-06**|**Elevator, Escalator or Neither? Classifying Pedestrian Conveyor State Using Inertial Navigation System**|Tianlang He et.al.|[2405.03218v1](http://arxiv.org/abs/2405.03218v1)|null|
+|**2024-05-05**|**Weakening the effect of boundaries: `diffusion-free' boundary conditions as a `do least harm' alternative to Neumann**|Yufeng Lin et.al.|[2405.02874v1](http://arxiv.org/abs/2405.02874v1)|null|
+|**2024-05-04**|**Entanglement entropy and horizon temperature in conformal quantum mechanics**|Michele Arzano et.al.|[2405.02623v1](http://arxiv.org/abs/2405.02623v1)|null|
+|**2024-05-03**|**Self-organization in collisionless, high-$β$ turbulence**|S. Majeski et.al.|[2405.02418v1](http://arxiv.org/abs/2405.02418v1)|null|
 |**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673v2](http://arxiv.org/abs/2405.01673v2)|null|
 |**2024-05-02**|**Nutation: separating the spin from its magnetic moment**|Anulekha De et.al.|[2405.01334v1](http://arxiv.org/abs/2405.01334v1)|null|
 |**2024-05-02**|**LOG-LIO2: A LiDAR-Inertial Odometry with Efficient Uncertainty Analysis**|Kai Huang et.al.|[2405.01316v1](http://arxiv.org/abs/2405.01316v1)|null|
@@ -24,11 +32,3 @@
 |**2024-04-29**|**An entanglement-enhanced atomic gravimeter**|Christophe Cassens et.al.|[2404.18668v1](http://arxiv.org/abs/2404.18668v1)|null|
 |**2024-04-29**|**Enhancing Prosthetic Safety and Environmental Adaptability: A Visual-Inertial Prosthesis Motion Estimation Approach on Uneven Terrains**|Chuheng Chen et.al.|[2404.18612v1](http://arxiv.org/abs/2404.18612v1)|null|
 |**2024-04-29**|**Emergent dynamics of the inertial Kuramoto model with frustration on a locally coupled graph**|Tingting Zhu et.al.|[2404.18488v1](http://arxiv.org/abs/2404.18488v1)|null|
-|**2024-04-28**|**Tightly-Coupled VLP/INS Integrated Navigation by Inclination Estimation and Blockage Handling**|Xiao Sun et.al.|[2404.18105v1](http://arxiv.org/abs/2404.18105v1)|null|
-|**2024-04-28**|**LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots**|Qingrui Zhao et.al.|[2404.18047v1](http://arxiv.org/abs/2404.18047v1)|null|
-|**2024-04-27**|**Hybrid 3D Human Pose Estimation with Monocular Video and Sparse IMUs**|Yiming Bao et.al.|[2404.17837v1](http://arxiv.org/abs/2404.17837v1)|null|
-|**2024-04-27**|**Torsion and Chern-Simons gravity in 4D space-times from a Geometrodynamical four-form**|Patrick Das Gupta et.al.|[2404.17798v1](http://arxiv.org/abs/2404.17798v1)|null|
-|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
-|**2024-04-26**|**Statistical theory of the broadband two plasmon decay instability**|Rusko T. Ruskov et.al.|[2404.17384v1](http://arxiv.org/abs/2404.17384v1)|null|
-|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298v1](http://arxiv.org/abs/2404.17298v1)|null|
-|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251v1](http://arxiv.org/abs/2404.17251v1)|null|
