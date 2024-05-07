@@ -19,7 +19,7 @@
 |**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112v1](http://arxiv.org/abs/2405.01112v1)|null|
 |**2024-05-02**|**CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot Applications**|Jan Blumenkamp et.al.|[2405.01107v1](http://arxiv.org/abs/2405.01107v1)|null|
 |**2024-05-02**|**Modeling Empathetic Alignment in Conversation**|Jiamin Yang et.al.|[2405.00948v1](http://arxiv.org/abs/2405.00948v1)|null|
-|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900v1](http://arxiv.org/abs/2405.00900v1)|null|
+|**2024-05-01**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900v2](http://arxiv.org/abs/2405.00900v2)|null|
 |**2024-05-01**|**Wake Vision: A Large-scale, Diverse Dataset and Benchmark Suite for TinyML Person Detection**|Colby Banbury et.al.|[2405.00892v1](http://arxiv.org/abs/2405.00892v1)|null|
 |**2024-05-01**|**Coherent 3D Portrait Video Reconstruction via Triplane Fusion**|Shengze Wang et.al.|[2405.00794v1](http://arxiv.org/abs/2405.00794v1)|null|
 |**2024-05-01**|**Euclid preparation. LensMC, weak lensing cosmic shear measurement with forward modelling and Markov Chain Monte Carlo sampling**|Euclid Collaboration et.al.|[2405.00669v1](http://arxiv.org/abs/2405.00669v1)|null|
