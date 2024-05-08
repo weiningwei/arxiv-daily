@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
+|**2024-05-07**|**Stationary and non-stationary energy cascades in homogeneous ferrofluid turbulence**|Sukhdev Mouraya et.al.|[2405.04139v1](http://arxiv.org/abs/2405.04139v1)|null|
+|**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
+|**2024-05-07**|**High Energy Density Radiative Transfer in the Diffusion Regime with Fourier Neural Operators**|Joseph Farmer et.al.|[2405.04003v1](http://arxiv.org/abs/2405.04003v1)|null|
+|**2024-05-06**|**Direct learning of home vector direction for insect-inspired robot navigation**|Michiel Firlefyn et.al.|[2405.03827v1](http://arxiv.org/abs/2405.03827v1)|null|
 |**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413v1](http://arxiv.org/abs/2405.03413v1)|null|
 |**2024-05-06**|**Hall effect on the joint cascades of magnetic energy and helicity in helical magnetohydrodynamic turbulence**|Running Hu et.al.|[2405.03405v1](http://arxiv.org/abs/2405.03405v1)|null|
 |**2024-05-06**|**On-site scale factor linearity calibration of MEMS triaxial gyroscopes**|Yaqi Li et.al.|[2405.03393v1](http://arxiv.org/abs/2405.03393v1)|null|
@@ -27,8 +32,3 @@
 |**2024-04-29**|**How to define the Unruh-DeWitt detector on manifolds**|Tomohiro Matsuda et.al.|[2404.19160v1](http://arxiv.org/abs/2404.19160v1)|null|
 |**2024-04-29**|**Tayler Instability Revisited**|Valentin A. Skoutnev et.al.|[2404.19103v1](http://arxiv.org/abs/2404.19103v1)|null|
 |**2024-04-29**|**Depth-Resolved Characterization of Centrifugal Disk Finishing of Additively Manufactured Inconel 718**|Kenneth M. Peterson et.al.|[2404.19084v1](http://arxiv.org/abs/2404.19084v1)|null|
-|**2024-04-29**|**Bounds to the Basset-Boussinesq force on particle laden stratified flows**|Christian Reartes et.al.|[2404.19054v1](http://arxiv.org/abs/2404.19054v1)|null|
-|**2024-04-29**|**3D Mapping of Glacier Moulins: Challenges and lessons learned**|William Dubois et.al.|[2404.18790v1](http://arxiv.org/abs/2404.18790v1)|null|
-|**2024-04-29**|**An entanglement-enhanced atomic gravimeter**|Christophe Cassens et.al.|[2404.18668v1](http://arxiv.org/abs/2404.18668v1)|null|
-|**2024-04-29**|**Enhancing Prosthetic Safety and Environmental Adaptability: A Visual-Inertial Prosthesis Motion Estimation Approach on Uneven Terrains**|Chuheng Chen et.al.|[2404.18612v1](http://arxiv.org/abs/2404.18612v1)|null|
-|**2024-04-29**|**Emergent dynamics of the inertial Kuramoto model with frustration on a locally coupled graph**|Tingting Zhu et.al.|[2404.18488v1](http://arxiv.org/abs/2404.18488v1)|null|
