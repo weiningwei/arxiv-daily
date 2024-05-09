@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259v1](http://arxiv.org/abs/2405.05259v1)|[link](https://github.com/ldkong1205/openess)|
+|**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258v1](http://arxiv.org/abs/2405.05258v1)|[link](https://github.com/ldkong1205/LaserMix)|
+|**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164v1](http://arxiv.org/abs/2405.05164v1)|null|
+|**2024-05-08**|**Reviewing Intelligent Cinematography: AI research for camera-based video production**|Adrian Azzarelli et.al.|[2405.05039v1](http://arxiv.org/abs/2405.05039v1)|null|
+|**2024-05-08**|**TGTM: TinyML-based Global Tone Mapping for HDR Sensors**|Peter Todorov et.al.|[2405.05016v1](http://arxiv.org/abs/2405.05016v1)|null|
+|**2024-05-08**|**TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**|Pengcheng Shao et.al.|[2405.05004v1](http://arxiv.org/abs/2405.05004v1)|null|
+|**2024-05-08**|**Predictive Mapping of Spectral Signatures from RGB Imagery for Off-Road Terrain Analysis**|Sarvesh Prajapati et.al.|[2405.04979v1](http://arxiv.org/abs/2405.04979v1)|null|
+|**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890v1](http://arxiv.org/abs/2405.04890v1)|null|
+|**2024-05-08**|**MIPI 2024 Challenge on Demosaic for HybridEVS Camera: Methods and Results**|Yaqi Wu et.al.|[2405.04867v1](http://arxiv.org/abs/2405.04867v1)|null|
+|**2024-05-08**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807v1](http://arxiv.org/abs/2405.04807v1)|null|
+|**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804v1](http://arxiv.org/abs/2405.04804v1)|null|
+|**2024-05-08**|**Detecting and Refining HiRISE Image Patches Obscured by Atmospheric Dust**|Kunal Sunil Kasodekar et.al.|[2405.04722v1](http://arxiv.org/abs/2405.04722v1)|null|
+|**2024-05-07**|**A Novel Wide-Area Multiobject Detection System with High-Probability Region Searching**|Xianlei Long et.al.|[2405.04589v1](http://arxiv.org/abs/2405.04589v1)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
 |**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390v1](http://arxiv.org/abs/2405.04390v1)|null|
 |**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370v1](http://arxiv.org/abs/2405.04370v1)|null|
@@ -19,16 +32,3 @@
 |**2024-05-06**|**Robotic Constrained Imitation Learning for the Peg Transfer Task in Fundamentals of Laparoscopic Surgery**|Kento Kawaharazuka et.al.|[2405.03440v1](http://arxiv.org/abs/2405.03440v1)|null|
 |**2024-05-06**|**Research on Image Recognition Technology Based on Multimodal Deep Learning**|Jinyin Wang et.al.|[2405.03091v1](http://arxiv.org/abs/2405.03091v1)|null|
 |**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|null|
-|**2024-05-05**|**Light Field Spatial Resolution Enhancement Framework**|Javeria Shabbir et.al.|[2405.02787v1](http://arxiv.org/abs/2405.02787v1)|null|
-|**2024-05-04**|**Hand-Object Interaction Controller (HOIC): Deep Reinforcement Learning for Reconstructing Interactions with Physics**|Haoyu Hu et.al.|[2405.02676v1](http://arxiv.org/abs/2405.02676v1)|[link](https://github.com/hu-hy17/hoic)|
-|**2024-05-03**|**Rasterized Edge Gradients: Handling Discontinuities Differentiably**|Stanislav Pidhorskyi et.al.|[2405.02508v1](http://arxiv.org/abs/2405.02508v1)|null|
-|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280v1](http://arxiv.org/abs/2405.02280v1)|null|
-|**2024-05-03**|**X-SLAM: Scalable Dense SLAM for Task-aware Optimization using CSFD**|Zhexi Peng et.al.|[2405.02187v1](http://arxiv.org/abs/2405.02187v1)|null|
-|**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177v1](http://arxiv.org/abs/2405.02177v1)|null|
-|**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171v1](http://arxiv.org/abs/2405.02171v1)|[link](https://github.com/cszhilu1998/selfdzsr_plusplus)|
-|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005v1](http://arxiv.org/abs/2405.02005v1)|null|
-|**2024-05-03**|**M${^2}$Depth: Self-supervised Two-Frame Multi-camera Metric Depth Estimation**|Yingshuang Zou et.al.|[2405.02004v1](http://arxiv.org/abs/2405.02004v1)|null|
-|**2024-05-02**|**Zero-Shot Monocular Motion Segmentation in the Wild by Combining Deep Learning with Geometric Motion Model Fusion**|Yuxiang Huang et.al.|[2405.01723v1](http://arxiv.org/abs/2405.01723v1)|null|
-|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673v2](http://arxiv.org/abs/2405.01673v2)|null|
-|**2024-05-02**|**Evaluation and Optimization of Adaptive Cruise Control in Autonomous Vehicles using the CARLA Simulator: A Study on Performance under Wet and Dry Weather Conditions**|Roza Al-Hindaw et.al.|[2405.01504v1](http://arxiv.org/abs/2405.01504v1)|null|
-|**2024-05-02**|**Surviving tidal tails around the Milky Way bulge globular cluster NGC 6355**|Andrés E. Piatti et.al.|[2405.01485v1](http://arxiv.org/abs/2405.01485v1)|null|
