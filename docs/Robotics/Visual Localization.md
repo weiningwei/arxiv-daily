@@ -11,7 +11,7 @@
 |**2024-05-07**|**ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation**|Zhibo Zhang et.al.|[2405.04121v1](http://arxiv.org/abs/2405.04121v1)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
 |**2024-05-07**|**Deep Event-based Object Detection in Autonomous Driving: A Survey**|Bingquan Zhou et.al.|[2405.03995v1](http://arxiv.org/abs/2405.03995v1)|null|
-|**2024-05-07**|**A design method of an ultra wideband and easy-to-array Magic-T: A 6-14 GHz scaled model for a mm/submm camera**|Shuhei Inoue et.al.|[2405.03919v1](http://arxiv.org/abs/2405.03919v1)|null|
+|**2024-05-07**|**A design method of an ultra wideband and easy-to-array Magic-T: A 6-14 GHz scaled model for a mm/submm camera**|Shuhei Inoue et.al.|[2405.03919v2](http://arxiv.org/abs/2405.03919v2)|null|
 |**2024-05-06**|**BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection**|Saket S. Chaturvedi et.al.|[2405.03884v1](http://arxiv.org/abs/2405.03884v1)|null|
 |**2024-05-06**|**Large Scale Overdensity of Lyman Break Galaxies Around the z=6.3 Ultraluminous Quasar J0100+2802**|Maria Pudoka et.al.|[2405.03781v1](http://arxiv.org/abs/2405.03781v1)|null|
 |**2024-05-06**|**A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose**|Kaiwen Jiang et.al.|[2405.03659v1](http://arxiv.org/abs/2405.03659v1)|null|
