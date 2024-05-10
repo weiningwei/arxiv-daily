@@ -11,9 +11,9 @@
 |**2024-05-08**|**Predictive Mapping of Spectral Signatures from RGB Imagery for Off-Road Terrain Analysis**|Sarvesh Prajapati et.al.|[2405.04979v1](http://arxiv.org/abs/2405.04979v1)|null|
 |**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890v1](http://arxiv.org/abs/2405.04890v1)|null|
 |**2024-05-08**|**MIPI 2024 Challenge on Demosaic for HybridEVS Camera: Methods and Results**|Yaqi Wu et.al.|[2405.04867v1](http://arxiv.org/abs/2405.04867v1)|null|
-|**2024-05-08**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807v1](http://arxiv.org/abs/2405.04807v1)|null|
+|**2024-05-08**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807v2](http://arxiv.org/abs/2405.04807v2)|[link](https://github.com/kn0wthing/netsdb)|
 |**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804v1](http://arxiv.org/abs/2405.04804v1)|null|
-|**2024-05-08**|**Detecting and Refining HiRISE Image Patches Obscured by Atmospheric Dust**|Kunal Sunil Kasodekar et.al.|[2405.04722v1](http://arxiv.org/abs/2405.04722v1)|null|
+|**2024-05-08**|**Detecting and Refining HiRISE Image Patches Obscured by Atmospheric Dust**|Kunal Sunil Kasodekar et.al.|[2405.04722v1](http://arxiv.org/abs/2405.04722v1)|[link](https://github.com/gremlin97/detecting-and-refining-hirise-image-patches-obscured-by-atmospheric-dust)|
 |**2024-05-07**|**A Novel Wide-Area Multiobject Detection System with High-Probability Region Searching**|Xianlei Long et.al.|[2405.04589v1](http://arxiv.org/abs/2405.04589v1)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
 |**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390v1](http://arxiv.org/abs/2405.04390v1)|null|
