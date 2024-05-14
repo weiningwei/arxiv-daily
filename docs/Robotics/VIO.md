@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|null|
+|**2024-05-13**|**Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation**|James Foster et.al.|[2405.07901v1](http://arxiv.org/abs/2405.07901v1)|null|
+|**2024-05-13**|**Gaze-Based Intention Recognition for Human-Robot Collaboration**|Valerio Belcamino et.al.|[2405.07570v1](http://arxiv.org/abs/2405.07570v1)|null|
+|**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544v1](http://arxiv.org/abs/2405.07544v1)|null|
+|**2024-05-12**|**Two-Plasmon-Decay Instability Stimulated by a Normal- and Large-Angle-Incidence Laser Pair**|C. -W. Lian et.al.|[2405.07187v1](http://arxiv.org/abs/2405.07187v1)|null|
 |**2024-05-10**|**An explicit granular-mechanics approach to marine sediment acoustics**|Abram H. Clark et.al.|[2405.06614v1](http://arxiv.org/abs/2405.06614v1)|null|
 |**2024-05-10**|**Density and inertia effects on two-dimensional active semiflexible filament suspensions**|Giulia Janzen et.al.|[2405.06592v1](http://arxiv.org/abs/2405.06592v1)|null|
 |**2024-05-10**|**Solving maximally comonotone inclusion problems via an implicit Newton-like inertial dynamical system and its discretization**|Z. Z. Tan et.al.|[2405.06332v1](http://arxiv.org/abs/2405.06332v1)|null|
@@ -27,8 +32,3 @@
 |**2024-05-05**|**Weakening the effect of boundaries: `diffusion-free' boundary conditions as a `do least harm' alternative to Neumann**|Yufeng Lin et.al.|[2405.02874v1](http://arxiv.org/abs/2405.02874v1)|null|
 |**2024-05-04**|**Entanglement entropy and horizon temperature in conformal quantum mechanics**|Michele Arzano et.al.|[2405.02623v1](http://arxiv.org/abs/2405.02623v1)|null|
 |**2024-05-03**|**Self-organization in collisionless, high-$β$ turbulence**|S. Majeski et.al.|[2405.02418v1](http://arxiv.org/abs/2405.02418v1)|null|
-|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673v2](http://arxiv.org/abs/2405.01673v2)|null|
-|**2024-05-02**|**Nutation: separating the spin from its magnetic moment**|Anulekha De et.al.|[2405.01334v1](http://arxiv.org/abs/2405.01334v1)|null|
-|**2024-05-02**|**LOG-LIO2: A LiDAR-Inertial Odometry with Efficient Uncertainty Analysis**|Kai Huang et.al.|[2405.01316v1](http://arxiv.org/abs/2405.01316v1)|null|
-|**2024-05-02**|**A New Self-Alignment Method without Solving Wahba Problem for SINS in Autonomous Vehicles**|Hongliang Zhang et.al.|[2405.01115v1](http://arxiv.org/abs/2405.01115v1)|null|
-|**2024-05-01**|**Explosively driven Richtmyer--Meshkov instability jet suppression and enhancement via coupling machine learning and additive manufacturing**|Dane M. Sterbentz et.al.|[2405.00812v1](http://arxiv.org/abs/2405.00812v1)|null|
