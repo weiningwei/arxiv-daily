@@ -19,7 +19,7 @@
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
 |**2024-05-07**|**High Energy Density Radiative Transfer in the Diffusion Regime with Fourier Neural Operators**|Joseph Farmer et.al.|[2405.04003v1](http://arxiv.org/abs/2405.04003v1)|null|
 |**2024-05-06**|**Direct learning of home vector direction for insect-inspired robot navigation**|Michiel Firlefyn et.al.|[2405.03827v1](http://arxiv.org/abs/2405.03827v1)|null|
-|**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413v1](http://arxiv.org/abs/2405.03413v1)|null|
+|**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413v2](http://arxiv.org/abs/2405.03413v2)|null|
 |**2024-05-06**|**Hall effect on the joint cascades of magnetic energy and helicity in helical magnetohydrodynamic turbulence**|Running Hu et.al.|[2405.03405v1](http://arxiv.org/abs/2405.03405v1)|null|
 |**2024-05-06**|**On-site scale factor linearity calibration of MEMS triaxial gyroscopes**|Yaqi Li et.al.|[2405.03393v1](http://arxiv.org/abs/2405.03393v1)|null|
 |**2024-05-06**|**Inertial Relaxed Proximal Linearized ADMM for Nonconvex Optimization under Minimal Continuity Assumption**|Ganzhao Yuan et.al.|[2405.03233v1](http://arxiv.org/abs/2405.03233v1)|null|
