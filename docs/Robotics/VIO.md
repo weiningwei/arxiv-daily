@@ -2,10 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-14**|**Inertial active Ornstein-Uhlenbeck particle in a non-linear velocity dependent friction**|N Arsha et.al.|[2405.08249v1](http://arxiv.org/abs/2405.08249v1)|null|
+|**2024-05-13**|**Undisturbed velocity recovery with transient and weak inertia effects in volume-filtered simulations of particle-laden flows**|Fabien Evrard et.al.|[2405.08188v1](http://arxiv.org/abs/2405.08188v1)|null|
+|**2024-05-13**|**GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation**|Simegnew Yihunie Alaba et.al.|[2405.08119v1](http://arxiv.org/abs/2405.08119v1)|null|
 |**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|null|
 |**2024-05-13**|**Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation**|James Foster et.al.|[2405.07901v1](http://arxiv.org/abs/2405.07901v1)|null|
 |**2024-05-13**|**Gaze-Based Intention Recognition for Human-Robot Collaboration**|Valerio Belcamino et.al.|[2405.07570v1](http://arxiv.org/abs/2405.07570v1)|null|
 |**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544v1](http://arxiv.org/abs/2405.07544v1)|null|
+|**2024-05-12**|**Equivalence Principle and Machian origin of extended gravity**|Elmo Benedetto et.al.|[2405.08024v1](http://arxiv.org/abs/2405.08024v1)|null|
 |**2024-05-12**|**Two-Plasmon-Decay Instability Stimulated by a Normal- and Large-Angle-Incidence Laser Pair**|C. -W. Lian et.al.|[2405.07187v1](http://arxiv.org/abs/2405.07187v1)|null|
 |**2024-05-10**|**An explicit granular-mechanics approach to marine sediment acoustics**|Abram H. Clark et.al.|[2405.06614v1](http://arxiv.org/abs/2405.06614v1)|null|
 |**2024-05-10**|**Density and inertia effects on two-dimensional active semiflexible filament suspensions**|Giulia Janzen et.al.|[2405.06592v1](http://arxiv.org/abs/2405.06592v1)|null|
@@ -28,7 +32,3 @@
 |**2024-05-06**|**Hall effect on the joint cascades of magnetic energy and helicity in helical magnetohydrodynamic turbulence**|Running Hu et.al.|[2405.03405v1](http://arxiv.org/abs/2405.03405v1)|null|
 |**2024-05-06**|**On-site scale factor linearity calibration of MEMS triaxial gyroscopes**|Yaqi Li et.al.|[2405.03393v1](http://arxiv.org/abs/2405.03393v1)|null|
 |**2024-05-06**|**Inertial Relaxed Proximal Linearized ADMM for Nonconvex Optimization under Minimal Continuity Assumption**|Ganzhao Yuan et.al.|[2405.03233v1](http://arxiv.org/abs/2405.03233v1)|null|
-|**2024-05-06**|**Elevator, Escalator or Neither? Classifying Pedestrian Conveyor State Using Inertial Navigation System**|Tianlang He et.al.|[2405.03218v1](http://arxiv.org/abs/2405.03218v1)|null|
-|**2024-05-05**|**Weakening the effect of boundaries: `diffusion-free' boundary conditions as a `do least harm' alternative to Neumann**|Yufeng Lin et.al.|[2405.02874v1](http://arxiv.org/abs/2405.02874v1)|null|
-|**2024-05-04**|**Entanglement entropy and horizon temperature in conformal quantum mechanics**|Michele Arzano et.al.|[2405.02623v1](http://arxiv.org/abs/2405.02623v1)|null|
-|**2024-05-03**|**Self-organization in collisionless, high-$β$ turbulence**|S. Majeski et.al.|[2405.02418v1](http://arxiv.org/abs/2405.02418v1)|null|
