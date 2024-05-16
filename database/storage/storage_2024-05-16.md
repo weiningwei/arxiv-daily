@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-16 20:43:27 Asia/Shanghai
+ Automated deployment @ 2024-05-16 20:57:23 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2024-05-07**|**High Energy Density Radiative Transfer in the Diffusion Regime with Fourier Neural Operators**|Joseph Farmer et.al.|[2405.04003v1](http://arxiv.org/abs/2405.04003v1)|null|
 |**2024-05-06**|**Direct learning of home vector direction for insect-inspired robot navigation**|Michiel Firlefyn et.al.|[2405.03827v1](http://arxiv.org/abs/2405.03827v1)|null|
 
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-15**|**BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**|Yunhao Ge et.al.|[2405.09546v1](http://arxiv.org/abs/2405.09546v1)|null|
-|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|[link](https://github.com/niejiahao1998/csl)|
-|**2024-05-15**|**Vision-Based Neurosurgical Guidance: Unsupervised Localization and Camera-Pose Prediction**|Gary Sarwin et.al.|[2405.09355v1](http://arxiv.org/abs/2405.09355v1)|null|
-|**2024-05-15**|**Three-Dimensional Path Planning: Navigating through Rough Mereology**|Aleksandra Szpakowska et.al.|[2405.09282v1](http://arxiv.org/abs/2405.09282v1)|null|
-|**2024-05-15**|**Flexible image analysis for law enforcement agencies with deep neural networks to determine: where, who and what**|Henri Bouma et.al.|[2405.09194v1](http://arxiv.org/abs/2405.09194v1)|null|
-|**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909v1](http://arxiv.org/abs/2405.08909v1)|[link](https://github.com/dsx0511/ada-track)|
-|**2024-05-14**|**EndoDAC: Efficient Adapting Foundation Model for Self-Supervised Depth Estimation from Any Endoscopic Camera**|Beilei Cui et.al.|[2405.08672v1](http://arxiv.org/abs/2405.08672v1)|[link](https://github.com/beileicui/endodac)|
-|**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|[link](https://github.com/ai-application-and-integration-lab/rdpn6d)|
-|**2024-05-14**|**Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation**|Jin Wang et.al.|[2405.08458v1](http://arxiv.org/abs/2405.08458v1)|[link](https://github.com/vangjin/PI-CLIP)|
-|**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429v1](http://arxiv.org/abs/2405.08429v1)|[link](https://github.com/martin-bayon/tednet)|
-|**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
-|**2024-05-14**|**X-ray imaging camera using INTPIX4NA SOIPIX detector with SiTCP-XG 10GbE based high-speed readout system**|Ryutaro Nishimura et.al.|[2405.08330v1](http://arxiv.org/abs/2405.08330v1)|null|
-|**2024-05-14**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300v2](http://arxiv.org/abs/2405.08300v2)|null|
-|**2024-05-14**|**Ejection and Dynamics of Aggregates in the Coma of Comet 67P/Churyumov-Gerasimenko**|Pablo Lemos et.al.|[2405.08261v1](http://arxiv.org/abs/2405.08261v1)|null|
-|**2024-05-13**|**Rethinking Histology Slide Digitization Workflows for Low-Resource Settings**|Talat Zehra et.al.|[2405.08169v1](http://arxiv.org/abs/2405.08169v1)|[link](https://github.com/nadeemlab/deepliif)|
-|**2024-05-13**|**Early phase simultaneous multi-band observations of Type II supernova SN 2024ggi with Mephisto**|Xinlei Chen et.al.|[2405.07964v1](http://arxiv.org/abs/2405.07964v1)|null|
-|**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865v1](http://arxiv.org/abs/2405.07865v1)|null|
-|**2024-05-13**|**Sub-percent Characterization and Polarimetric Performance Analysis of Commercial Micro-polarizer Array Detectors**|Thijs Stockmans et.al.|[2405.07864v1](http://arxiv.org/abs/2405.07864v1)|null|
-|**2024-05-13**|**Automatic Recognition of Food Ingestion Environment from the AIM-2 Wearable Sensor**|Yuning Huang et.al.|[2405.07827v1](http://arxiv.org/abs/2405.07827v1)|null|
-|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698v1](http://arxiv.org/abs/2405.07698v1)|null|
-|**2024-05-13**|**AIris: An AI-powered Wearable Assistive Device for the Visually Impaired**|Dionysia Danai Brilli et.al.|[2405.07606v1](http://arxiv.org/abs/2405.07606v1)|null|
-|**2024-05-13**|**PRANK: a singular value based noise filtering approach**|Francesco Trainotti et.al.|[2405.07578v2](http://arxiv.org/abs/2405.07578v2)|null|
-|**2024-05-13**|**Wild Berry image dataset collected in Finnish forests and peatlands using drones**|Luigi Riz et.al.|[2405.07550v2](http://arxiv.org/abs/2405.07550v2)|null|
-|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429v1](http://arxiv.org/abs/2405.07429v1)|null|
-|**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392v1](http://arxiv.org/abs/2405.07392v1)|[link](https://github.com/yuhaozhang7/NGD-SLAM)|
-|**2024-05-12**|**3D Hand Mesh Recovery from Monocular RGB in Camera Space**|Haonan Li et.al.|[2405.07167v1](http://arxiv.org/abs/2405.07167v1)|null|
-|**2024-05-12**|**5G Virtual Reality Manipulator Teleoperation using a Mobile Phone**|Alexander Werner et.al.|[2405.07128v1](http://arxiv.org/abs/2405.07128v1)|null|
-|**2024-05-12**|**In The Wild Ellipse Parameter Estimation for Circular Dining Plates and Bowls**|Akil Pathiranage et.al.|[2405.07121v1](http://arxiv.org/abs/2405.07121v1)|null|
-|**2024-05-12**|**How Much You Ate? Food Portion Estimation on Spoons**|Aaryam Sharma et.al.|[2405.08717v1](http://arxiv.org/abs/2405.08717v1)|null|
-|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|null|
-
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,6 +72,40 @@
 |**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077v1](http://arxiv.org/abs/2404.14077v1)|[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)|
 |**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903v2](http://arxiv.org/abs/2404.13903v2)|null|
 |**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v2](http://arxiv.org/abs/2404.13816v2)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-15**|**BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation**|Yunhao Ge et.al.|[2405.09546v1](http://arxiv.org/abs/2405.09546v1)|null|
+|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|[link](https://github.com/niejiahao1998/csl)|
+|**2024-05-15**|**Vision-Based Neurosurgical Guidance: Unsupervised Localization and Camera-Pose Prediction**|Gary Sarwin et.al.|[2405.09355v1](http://arxiv.org/abs/2405.09355v1)|null|
+|**2024-05-15**|**Three-Dimensional Path Planning: Navigating through Rough Mereology**|Aleksandra Szpakowska et.al.|[2405.09282v1](http://arxiv.org/abs/2405.09282v1)|null|
+|**2024-05-15**|**Flexible image analysis for law enforcement agencies with deep neural networks to determine: where, who and what**|Henri Bouma et.al.|[2405.09194v1](http://arxiv.org/abs/2405.09194v1)|null|
+|**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909v1](http://arxiv.org/abs/2405.08909v1)|[link](https://github.com/dsx0511/ada-track)|
+|**2024-05-14**|**EndoDAC: Efficient Adapting Foundation Model for Self-Supervised Depth Estimation from Any Endoscopic Camera**|Beilei Cui et.al.|[2405.08672v1](http://arxiv.org/abs/2405.08672v1)|[link](https://github.com/beileicui/endodac)|
+|**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|[link](https://github.com/ai-application-and-integration-lab/rdpn6d)|
+|**2024-05-14**|**Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation**|Jin Wang et.al.|[2405.08458v1](http://arxiv.org/abs/2405.08458v1)|[link](https://github.com/vangjin/PI-CLIP)|
+|**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429v1](http://arxiv.org/abs/2405.08429v1)|[link](https://github.com/martin-bayon/tednet)|
+|**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
+|**2024-05-14**|**X-ray imaging camera using INTPIX4NA SOIPIX detector with SiTCP-XG 10GbE based high-speed readout system**|Ryutaro Nishimura et.al.|[2405.08330v1](http://arxiv.org/abs/2405.08330v1)|null|
+|**2024-05-14**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300v2](http://arxiv.org/abs/2405.08300v2)|null|
+|**2024-05-14**|**Ejection and Dynamics of Aggregates in the Coma of Comet 67P/Churyumov-Gerasimenko**|Pablo Lemos et.al.|[2405.08261v1](http://arxiv.org/abs/2405.08261v1)|null|
+|**2024-05-13**|**Rethinking Histology Slide Digitization Workflows for Low-Resource Settings**|Talat Zehra et.al.|[2405.08169v1](http://arxiv.org/abs/2405.08169v1)|[link](https://github.com/nadeemlab/deepliif)|
+|**2024-05-13**|**Early phase simultaneous multi-band observations of Type II supernova SN 2024ggi with Mephisto**|Xinlei Chen et.al.|[2405.07964v1](http://arxiv.org/abs/2405.07964v1)|null|
+|**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2405.07865v1](http://arxiv.org/abs/2405.07865v1)|null|
+|**2024-05-13**|**Sub-percent Characterization and Polarimetric Performance Analysis of Commercial Micro-polarizer Array Detectors**|Thijs Stockmans et.al.|[2405.07864v1](http://arxiv.org/abs/2405.07864v1)|null|
+|**2024-05-13**|**Automatic Recognition of Food Ingestion Environment from the AIM-2 Wearable Sensor**|Yuning Huang et.al.|[2405.07827v1](http://arxiv.org/abs/2405.07827v1)|null|
+|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698v1](http://arxiv.org/abs/2405.07698v1)|null|
+|**2024-05-13**|**AIris: An AI-powered Wearable Assistive Device for the Visually Impaired**|Dionysia Danai Brilli et.al.|[2405.07606v1](http://arxiv.org/abs/2405.07606v1)|null|
+|**2024-05-13**|**PRANK: a singular value based noise filtering approach**|Francesco Trainotti et.al.|[2405.07578v2](http://arxiv.org/abs/2405.07578v2)|null|
+|**2024-05-13**|**Wild Berry image dataset collected in Finnish forests and peatlands using drones**|Luigi Riz et.al.|[2405.07550v2](http://arxiv.org/abs/2405.07550v2)|null|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429v1](http://arxiv.org/abs/2405.07429v1)|null|
+|**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392v1](http://arxiv.org/abs/2405.07392v1)|[link](https://github.com/yuhaozhang7/NGD-SLAM)|
+|**2024-05-12**|**3D Hand Mesh Recovery from Monocular RGB in Camera Space**|Haonan Li et.al.|[2405.07167v1](http://arxiv.org/abs/2405.07167v1)|null|
+|**2024-05-12**|**5G Virtual Reality Manipulator Teleoperation using a Mobile Phone**|Alexander Werner et.al.|[2405.07128v1](http://arxiv.org/abs/2405.07128v1)|null|
+|**2024-05-12**|**In The Wild Ellipse Parameter Estimation for Circular Dining Plates and Bowls**|Akil Pathiranage et.al.|[2405.07121v1](http://arxiv.org/abs/2405.07121v1)|null|
+|**2024-05-12**|**How Much You Ate? Food Portion Estimation on Spoons**|Aaryam Sharma et.al.|[2405.08717v1](http://arxiv.org/abs/2405.08717v1)|null|
+|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
