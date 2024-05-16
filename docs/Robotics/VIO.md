@@ -2,9 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-15**|**On the radiation field of a linearly accelerated charged particle in Born-Infeld theory**|M. L. Peñafiel et.al.|[2405.09435v1](http://arxiv.org/abs/2405.09435v1)|null|
+|**2024-05-15**|**Rheology of three dimensional granular chute flows at large inertial numbers**|Satyabrata Patro et.al.|[2405.09069v1](http://arxiv.org/abs/2405.09069v1)|null|
+|**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001v1](http://arxiv.org/abs/2405.09001v1)|null|
 |**2024-05-14**|**Inertial active Ornstein-Uhlenbeck particle in a non-linear velocity dependent friction**|N Arsha et.al.|[2405.08249v1](http://arxiv.org/abs/2405.08249v1)|null|
 |**2024-05-13**|**Undisturbed velocity recovery with transient and weak inertia effects in volume-filtered simulations of particle-laden flows**|Fabien Evrard et.al.|[2405.08188v1](http://arxiv.org/abs/2405.08188v1)|null|
 |**2024-05-13**|**GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation**|Simegnew Yihunie Alaba et.al.|[2405.08119v1](http://arxiv.org/abs/2405.08119v1)|null|
+|**2024-05-13**|**Plasma Effects on Resonant Phenomena**|Anil Pradhan et.al.|[2405.08829v1](http://arxiv.org/abs/2405.08829v1)|null|
 |**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|null|
 |**2024-05-13**|**Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation**|James Foster et.al.|[2405.07901v1](http://arxiv.org/abs/2405.07901v1)|null|
 |**2024-05-13**|**Gaze-Based Intention Recognition for Human-Robot Collaboration**|Valerio Belcamino et.al.|[2405.07570v1](http://arxiv.org/abs/2405.07570v1)|null|
@@ -28,7 +32,3 @@
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
 |**2024-05-07**|**High Energy Density Radiative Transfer in the Diffusion Regime with Fourier Neural Operators**|Joseph Farmer et.al.|[2405.04003v1](http://arxiv.org/abs/2405.04003v1)|null|
 |**2024-05-06**|**Direct learning of home vector direction for insect-inspired robot navigation**|Michiel Firlefyn et.al.|[2405.03827v1](http://arxiv.org/abs/2405.03827v1)|null|
-|**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413v2](http://arxiv.org/abs/2405.03413v2)|null|
-|**2024-05-06**|**Hall effect on the joint cascades of magnetic energy and helicity in helical magnetohydrodynamic turbulence**|Running Hu et.al.|[2405.03405v1](http://arxiv.org/abs/2405.03405v1)|null|
-|**2024-05-06**|**On-site scale factor linearity calibration of MEMS triaxial gyroscopes**|Yaqi Li et.al.|[2405.03393v1](http://arxiv.org/abs/2405.03393v1)|null|
-|**2024-05-06**|**Inertial Relaxed Proximal Linearized ADMM for Nonconvex Optimization under Minimal Continuity Assumption**|Ganzhao Yuan et.al.|[2405.03233v1](http://arxiv.org/abs/2405.03233v1)|null|
