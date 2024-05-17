@@ -2,9 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-16**|**Driver at 10 MJ and 1 shot per 30 minutes for inertial confinement fusion at high gain: efficient, compact, low laser-plasma instabilities, multi-color, low-cost, applicable to multiple fusion schemes**|Zhan Sui et.al.|[2405.09912v1](http://arxiv.org/abs/2405.09912v1)|null|
+|**2024-05-16**|**EFEAR-4D: Ego-Velocity Filtering for Efficient and Accurate 4D radar Odometry**|Xiaoyi Wu et.al.|[2405.09780v1](http://arxiv.org/abs/2405.09780v1)|null|
 |**2024-05-15**|**On the radiation field of a linearly accelerated charged particle in Born-Infeld theory**|M. L. Peñafiel et.al.|[2405.09435v1](http://arxiv.org/abs/2405.09435v1)|null|
+|**2024-05-15**|**BxC Toolkit: Generating Tailored Turbulent 3D Magnetic Fields**|Daniela Maci et.al.|[2405.09587v1](http://arxiv.org/abs/2405.09587v1)|null|
 |**2024-05-15**|**Rheology of three dimensional granular chute flows at large inertial numbers**|Satyabrata Patro et.al.|[2405.09069v1](http://arxiv.org/abs/2405.09069v1)|null|
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001v1](http://arxiv.org/abs/2405.09001v1)|null|
+|**2024-05-14**|**A multiscale hybrid Maxwellian-Monte-Carlo Coulomb collision algorithm for particle simulations**|G. Chen et.al.|[2405.09573v1](http://arxiv.org/abs/2405.09573v1)|null|
 |**2024-05-14**|**Inertial active Ornstein-Uhlenbeck particle in a non-linear velocity dependent friction**|N Arsha et.al.|[2405.08249v1](http://arxiv.org/abs/2405.08249v1)|null|
 |**2024-05-13**|**Undisturbed velocity recovery with transient and weak inertia effects in volume-filtered simulations of particle-laden flows**|Fabien Evrard et.al.|[2405.08188v1](http://arxiv.org/abs/2405.08188v1)|null|
 |**2024-05-13**|**GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation**|Simegnew Yihunie Alaba et.al.|[2405.08119v1](http://arxiv.org/abs/2405.08119v1)|null|
@@ -28,7 +32,3 @@
 |**2024-05-08**|**Trapping and extreme clustering of finitely-dense inertial particles near a rotating vortex pair**|Saumav Kapoor et.al.|[2405.04949v1](http://arxiv.org/abs/2405.04949v1)|null|
 |**2024-05-08**|**Collective-subspace requantization for sub-barrier fusion reactions: Inertial functions for collective motions**|Chisato Ruike et.al.|[2405.04809v1](http://arxiv.org/abs/2405.04809v1)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
-|**2024-05-07**|**Stationary and non-stationary energy cascades in homogeneous ferrofluid turbulence**|Sukhdev Mouraya et.al.|[2405.04139v1](http://arxiv.org/abs/2405.04139v1)|null|
-|**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
-|**2024-05-07**|**High Energy Density Radiative Transfer in the Diffusion Regime with Fourier Neural Operators**|Joseph Farmer et.al.|[2405.04003v1](http://arxiv.org/abs/2405.04003v1)|null|
-|**2024-05-06**|**Direct learning of home vector direction for insect-inspired robot navigation**|Michiel Firlefyn et.al.|[2405.03827v1](http://arxiv.org/abs/2405.03827v1)|null|
