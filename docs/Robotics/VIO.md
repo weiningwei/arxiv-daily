@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-17**|**Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**|Jun Hu et.al.|[2405.10874v1](http://arxiv.org/abs/2405.10874v1)|null|
+|**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
+|**2024-05-17**|**First principles simulations of dense hydrogen**|Michael Bonitz et.al.|[2405.10627v1](http://arxiv.org/abs/2405.10627v1)|null|
+|**2024-05-16**|**Non-comoving description of adiabatic radial perturbations of relativistic stars**|Paulo Luz et.al.|[2405.10359v1](http://arxiv.org/abs/2405.10359v1)|null|
 |**2024-05-16**|**Driver at 10 MJ and 1 shot per 30 minutes for inertial confinement fusion at high gain: efficient, compact, low laser-plasma instabilities, multi-color, low-cost, applicable to multiple fusion schemes**|Zhan Sui et.al.|[2405.09912v1](http://arxiv.org/abs/2405.09912v1)|null|
 |**2024-05-16**|**EFEAR-4D: Ego-Velocity Filtering for Efficient and Accurate 4D radar Odometry**|Xiaoyi Wu et.al.|[2405.09780v1](http://arxiv.org/abs/2405.09780v1)|null|
 |**2024-05-15**|**On the radiation field of a linearly accelerated charged particle in Born-Infeld theory**|M. L. Peñafiel et.al.|[2405.09435v1](http://arxiv.org/abs/2405.09435v1)|null|
@@ -28,7 +32,3 @@
 |**2024-05-09**|**Guess the Drift with LOP-UKF: LiDAR Odometry and Pacejka Model for Real-Time Racecar Sideslip Estimation**|Alessandro Toschi et.al.|[2405.05668v1](http://arxiv.org/abs/2405.05668v1)|null|
 |**2024-05-09**|**Dynamics of a multilink wheeled vehicle: partial solutions and unbounded speedup**|Elizaveta Artemova et.al.|[2405.05661v2](http://arxiv.org/abs/2405.05661v2)|null|
 |**2024-05-09**|**The irreducible mass of a regular rotating black hole**|F. L. Carneiro et.al.|[2405.05475v1](http://arxiv.org/abs/2405.05475v1)|null|
-|**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210v1](http://arxiv.org/abs/2405.05210v1)|[link](https://github.com/mit-acl/motlee)|
-|**2024-05-08**|**Trapping and extreme clustering of finitely-dense inertial particles near a rotating vortex pair**|Saumav Kapoor et.al.|[2405.04949v1](http://arxiv.org/abs/2405.04949v1)|null|
-|**2024-05-08**|**Collective-subspace requantization for sub-barrier fusion reactions: Inertial functions for collective motions**|Chisato Ruike et.al.|[2405.04809v1](http://arxiv.org/abs/2405.04809v1)|null|
-|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
