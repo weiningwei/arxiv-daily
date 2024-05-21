@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
+|**2024-05-19**|**A digger for 2D densely-packed coarse granular media using vibrations**|Guo-Jie Jason Gao et.al.|[2405.11569v1](http://arxiv.org/abs/2405.11569v1)|null|
 |**2024-05-17**|**Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**|Jun Hu et.al.|[2405.10874v1](http://arxiv.org/abs/2405.10874v1)|null|
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
 |**2024-05-17**|**First principles simulations of dense hydrogen**|Michael Bonitz et.al.|[2405.10627v1](http://arxiv.org/abs/2405.10627v1)|null|
@@ -30,5 +32,3 @@
 |**2024-05-09**|**MAD-ICP: It Is All About Matching Data -- Robust and Informed LiDAR Odometry**|Simone Ferrari et.al.|[2405.05828v1](http://arxiv.org/abs/2405.05828v1)|null|
 |**2024-05-09**|**Maximum Correntropy Polynomial Chaos Kalman Filter for Underwater Navigation**|Rohit Kumar Singh et.al.|[2405.05676v1](http://arxiv.org/abs/2405.05676v1)|null|
 |**2024-05-09**|**Guess the Drift with LOP-UKF: LiDAR Odometry and Pacejka Model for Real-Time Racecar Sideslip Estimation**|Alessandro Toschi et.al.|[2405.05668v1](http://arxiv.org/abs/2405.05668v1)|null|
-|**2024-05-09**|**Dynamics of a multilink wheeled vehicle: partial solutions and unbounded speedup**|Elizaveta Artemova et.al.|[2405.05661v2](http://arxiv.org/abs/2405.05661v2)|null|
-|**2024-05-09**|**The irreducible mass of a regular rotating black hole**|F. L. Carneiro et.al.|[2405.05475v1](http://arxiv.org/abs/2405.05475v1)|null|
