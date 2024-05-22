@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864v1](http://arxiv.org/abs/2405.12864v1)|null|
+|**2024-05-21**|**Multiphoton Quantum Imaging using Natural Light**|Fatemeh Mostafavi et.al.|[2405.12794v1](http://arxiv.org/abs/2405.12794v1)|null|
+|**2024-05-21**|**Cross-spectral Gated-RGB Stereo Depth Estimation**|Samuel Brucker et.al.|[2405.12759v1](http://arxiv.org/abs/2405.12759v1)|null|
+|**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728v1](http://arxiv.org/abs/2405.12728v1)|null|
+|**2024-05-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al.|[2405.12708v1](http://arxiv.org/abs/2405.12708v1)|null|
+|**2024-05-21**|**PoseGravity: Pose Estimation from Points and Lines with Axis Prior**|Akshay Chandrasekhar et.al.|[2405.12646v1](http://arxiv.org/abs/2405.12646v1)|null|
+|**2024-05-21**|**S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video**|Hao Zhang et.al.|[2405.12607v1](http://arxiv.org/abs/2405.12607v1)|null|
+|**2024-05-21**|**NOVA-3D: Non-overlapped Views for 3D Anime Character Reconstruction**|Hongsheng Wang et.al.|[2405.12505v1](http://arxiv.org/abs/2405.12505v1)|null|
+|**2024-05-20**|**SEL-CIE: Knowledge-Guided Self-Supervised Learning Framework for CIE-XYZ Reconstruction from Non-Linear sRGB Images**|Shir Barzel et.al.|[2405.12265v1](http://arxiv.org/abs/2405.12265v1)|null|
 |**2024-05-20**|**Absolute reference for microwave polarization experiments -- The COSMOCal project and its proof of concept**|A. Ritacco et.al.|[2405.12135v1](http://arxiv.org/abs/2405.12135v1)|null|
 |**2024-05-20**|**A Fast-cadenced Search for Gamma-Ray Burst Orphan Afterglows with the Deeper, Wider, Faster Programme**|James Freeburn et.al.|[2405.11949v1](http://arxiv.org/abs/2405.11949v1)|null|
 |**2024-05-20**|**Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes**|Kento Kawaharazuka et.al.|[2405.11798v1](http://arxiv.org/abs/2405.11798v1)|null|
@@ -23,12 +32,3 @@
 |**2024-05-16**|**An upgraded 0.4-meter telescope fleet for Las Cumbres Observatory's Educational and Science Programs**|Daniel-Rolf Harbeck et.al.|[2405.10408v1](http://arxiv.org/abs/2405.10408v1)|null|
 |**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357v1](http://arxiv.org/abs/2405.10357v1)|null|
 |**2024-05-16**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320v2](http://arxiv.org/abs/2405.10320v2)|null|
-|**2024-05-16**|**Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review**|Xinyu Zhang et.al.|[2405.10132v1](http://arxiv.org/abs/2405.10132v1)|null|
-|**2024-05-16**|**Imaging Spinor Bose Gasses Using Off-Axis Holography**|Nejc Blaznik et.al.|[2405.10120v1](http://arxiv.org/abs/2405.10120v1)|null|
-|**2024-05-16**|**Bilateral Event Mining and Complementary for Event Stream Super-Resolution**|Zhilin Huang et.al.|[2405.10037v1](http://arxiv.org/abs/2405.10037v1)|[link](https://github.com/lqm26/bmcnet-esr)|
-|**2024-05-16**|**Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance**|Junkai Fan et.al.|[2405.09996v1](http://arxiv.org/abs/2405.09996v1)|null|
-|**2024-05-16**|**EFEAR-4D: Ego-Velocity Filtering for Efficient and Accurate 4D radar Odometry**|Xiaoyi Wu et.al.|[2405.09780v1](http://arxiv.org/abs/2405.09780v1)|null|
-|**2024-05-16**|**Networking Systems for Video Anomaly Detection: A Tutorial and Survey**|Jing Liu et.al.|[2405.10347v1](http://arxiv.org/abs/2405.10347v1)|[link](https://github.com/fdjingliu/nsvad)|
-|**2024-05-16**|**Collision Avoidance Metric for 3D Camera Evaluation**|Vage Taamazyan et.al.|[2405.09755v1](http://arxiv.org/abs/2405.09755v1)|null|
-|**2024-05-15**|**The Realization of a Gas Puff Imaging System on the Wendelstein 7-X Stellarator**|J. L. Terry et.al.|[2405.09705v1](http://arxiv.org/abs/2405.09705v1)|null|
-|**2024-05-15**|**A SN Ia Near a Globular Cluster in the Early-Type Galaxy NGC 5353**|Joel N. Bregman et.al.|[2405.09701v1](http://arxiv.org/abs/2405.09701v1)|null|

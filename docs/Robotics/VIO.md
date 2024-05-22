@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**A novel forward-looking ultrasound catheter for treating vascular occlusions**|Jingjing Liu et.al.|[2405.12966v1](http://arxiv.org/abs/2405.12966v1)|null|
+|**2024-05-21**|**Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data**|Yuan Fu et.al.|[2405.12577v1](http://arxiv.org/abs/2405.12577v1)|null|
+|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563v1](http://arxiv.org/abs/2405.12563v1)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
 |**2024-05-19**|**A digger for 2D densely-packed coarse granular media using vibrations**|Guo-Jie Jason Gao et.al.|[2405.11569v1](http://arxiv.org/abs/2405.11569v1)|null|
 |**2024-05-17**|**Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**|Jun Hu et.al.|[2405.10874v1](http://arxiv.org/abs/2405.10874v1)|null|
@@ -29,6 +32,3 @@
 |**2024-05-10**|**Density and inertia effects on two-dimensional active semiflexible filament suspensions**|Giulia Janzen et.al.|[2405.06592v1](http://arxiv.org/abs/2405.06592v1)|null|
 |**2024-05-10**|**Solving maximally comonotone inclusion problems via an implicit Newton-like inertial dynamical system and its discretization**|Z. Z. Tan et.al.|[2405.06332v1](http://arxiv.org/abs/2405.06332v1)|null|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
-|**2024-05-09**|**MAD-ICP: It Is All About Matching Data -- Robust and Informed LiDAR Odometry**|Simone Ferrari et.al.|[2405.05828v1](http://arxiv.org/abs/2405.05828v1)|null|
-|**2024-05-09**|**Maximum Correntropy Polynomial Chaos Kalman Filter for Underwater Navigation**|Rohit Kumar Singh et.al.|[2405.05676v1](http://arxiv.org/abs/2405.05676v1)|null|
-|**2024-05-09**|**Guess the Drift with LOP-UKF: LiDAR Odometry and Pacejka Model for Real-Time Racecar Sideslip Estimation**|Alessandro Toschi et.al.|[2405.05668v1](http://arxiv.org/abs/2405.05668v1)|null|
