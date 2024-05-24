@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864v1](http://arxiv.org/abs/2405.12864v1)|null|
-|**2024-05-21**|**Multiphoton Quantum Imaging using Natural Light**|Fatemeh Mostafavi et.al.|[2405.12794v1](http://arxiv.org/abs/2405.12794v1)|null|
-|**2024-05-21**|**Cross-spectral Gated-RGB Stereo Depth Estimation**|Samuel Brucker et.al.|[2405.12759v1](http://arxiv.org/abs/2405.12759v1)|null|
-|**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728v1](http://arxiv.org/abs/2405.12728v1)|null|
-|**2024-05-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al.|[2405.12708v1](http://arxiv.org/abs/2405.12708v1)|null|
-|**2024-05-21**|**PoseGravity: Pose Estimation from Points and Lines with Axis Prior**|Akshay Chandrasekhar et.al.|[2405.12646v1](http://arxiv.org/abs/2405.12646v1)|null|
-|**2024-05-21**|**S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video**|Hao Zhang et.al.|[2405.12607v1](http://arxiv.org/abs/2405.12607v1)|null|
-|**2024-05-21**|**NOVA-3D: Non-overlapped Views for 3D Anime Character Reconstruction**|Hongsheng Wang et.al.|[2405.12505v1](http://arxiv.org/abs/2405.12505v1)|null|
-|**2024-05-20**|**SEL-CIE: Knowledge-Guided Self-Supervised Learning Framework for CIE-XYZ Reconstruction from Non-Linear sRGB Images**|Shir Barzel et.al.|[2405.12265v1](http://arxiv.org/abs/2405.12265v1)|null|
-|**2024-05-20**|**Absolute reference for microwave polarization experiments -- The COSMOCal project and its proof of concept**|A. Ritacco et.al.|[2405.12135v1](http://arxiv.org/abs/2405.12135v1)|null|
-|**2024-05-20**|**A Fast-cadenced Search for Gamma-Ray Burst Orphan Afterglows with the Deeper, Wider, Faster Programme**|James Freeburn et.al.|[2405.11949v1](http://arxiv.org/abs/2405.11949v1)|null|
-|**2024-05-20**|**Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes**|Kento Kawaharazuka et.al.|[2405.11798v1](http://arxiv.org/abs/2405.11798v1)|null|
-|**2024-05-20**|**RHAML: Rendezvous-based Hierarchical Architecture for Mutual Localization**|Gaoming Chen et.al.|[2405.11726v1](http://arxiv.org/abs/2405.11726v1)|null|
-|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682v1](http://arxiv.org/abs/2405.11682v1)|[link](https://github.com/ziongo6/fadet)|
-|**2024-05-19**|**Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention**|Peng Li et.al.|[2405.11616v1](http://arxiv.org/abs/2405.11616v1)|null|
-|**2024-05-18**|**City-Scale Multi-Camera Vehicle Tracking System with Improved Self-Supervised Camera Link Model**|Yuqiang Lin et.al.|[2405.11345v1](http://arxiv.org/abs/2405.11345v1)|null|
-|**2024-05-17**|**Ptychographic non-line-of-sight imaging for depth-resolved visualization of hidden objects**|Pengming Song et.al.|[2405.11115v1](http://arxiv.org/abs/2405.11115v1)|null|
-|**2024-05-17**|**Broadening Privacy and Surveillance: Eliciting Interconnected Values with a Scenarios Workbook on Smart Home Cameras**|Richmond Y. Wong et.al.|[2405.10904v1](http://arxiv.org/abs/2405.10904v1)|null|
-|**2024-05-17**|**Air Signing and Privacy-Preserving Signature Verification for Digital Documents**|P. Sarveswarasarma et.al.|[2405.10868v1](http://arxiv.org/abs/2405.10868v1)|null|
-|**2024-05-17**|**KernelSHAP-IQ: Weighted Least-Square Optimization for Shapley Interactions**|Fabian Fumagalli et.al.|[2405.10852v1](http://arxiv.org/abs/2405.10852v1)|null|
-|**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803v1](http://arxiv.org/abs/2405.10803v1)|null|
-|**2024-05-17**|**Safe Control using Occupancy Grid Map-based Control Barrier Function (OGM-CBF)**|Golnaz Raja et.al.|[2405.10703v2](http://arxiv.org/abs/2405.10703v2)|null|
-|**2024-05-17**|**SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation**|Ziyao Xu et.al.|[2405.10650v4](http://arxiv.org/abs/2405.10650v4)|[link](https://github.com/xzy-xzy/spor)|
-|**2024-05-17**|**Metasurface-enabled non-orthogonal four-output polarization splitter for non-redundant full-Stokes imaging**|Go Soma et.al.|[2405.10634v1](http://arxiv.org/abs/2405.10634v1)|null|
-|**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577v1](http://arxiv.org/abs/2405.10577v1)|null|
-|**2024-05-17**|**Radar Positioning for Accurate Sensing of Pulse Waves at Multiple Sites Using a 3D Human Model**|Takehito Koshisaka et.al.|[2405.10540v1](http://arxiv.org/abs/2405.10540v1)|null|
-|**2024-05-16**|**Single-shot volumetric fluorescence imaging with neural fields**|Oumeng Zhang et.al.|[2405.10463v1](http://arxiv.org/abs/2405.10463v1)|null|
-|**2024-05-16**|**An upgraded 0.4-meter telescope fleet for Las Cumbres Observatory's Educational and Science Programs**|Daniel-Rolf Harbeck et.al.|[2405.10408v1](http://arxiv.org/abs/2405.10408v1)|null|
-|**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357v1](http://arxiv.org/abs/2405.10357v1)|null|
-|**2024-05-16**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320v2](http://arxiv.org/abs/2405.10320v2)|null|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871v1](http://arxiv.org/abs/2405.14871v1)|null|
+|**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869v1](http://arxiv.org/abs/2405.14869v1)|null|
+|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
+|**2024-05-23**|**Tele-Aloha: A Low-budget and High-authenticity Telepresence System Using Sparse RGB Cameras**|Hanzhang Tu et.al.|[2405.14866v1](http://arxiv.org/abs/2405.14866v1)|null|
+|**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855v1](http://arxiv.org/abs/2405.14855v1)|null|
+|**2024-05-23**|**Privileged Sensing Scaffolds Reinforcement Learning**|Edward S. Hu et.al.|[2405.14853v1](http://arxiv.org/abs/2405.14853v1)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824v1](http://arxiv.org/abs/2405.14824v1)|null|
+|**2024-05-23**|**Space-time statistics of 2D soliton gas in shallow water studied by stereoscopic surface mapping**|Thibault Leduque et.al.|[2405.14733v1](http://arxiv.org/abs/2405.14733v1)|null|
+|**2024-05-23**|**Event-based dataset for the detection and classification of manufacturing assembly tasks**|Laura Duarte et.al.|[2405.14626v1](http://arxiv.org/abs/2405.14626v1)|null|
+|**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
+|**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419v1](http://arxiv.org/abs/2405.14419v1)|null|
+|**2024-05-23**|**Optimal Whole Body Trajectory Planning for Mobile Manipulators in Planetary Exploration and Construction**|Federica Storiale et.al.|[2405.14363v1](http://arxiv.org/abs/2405.14363v1)|null|
+|**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292v1](http://arxiv.org/abs/2405.14292v1)|null|
+|**2024-05-23**|**Hyperspectral Image Dataset for Individual Penguin Identification**|Youta Noboru et.al.|[2405.14146v1](http://arxiv.org/abs/2405.14146v1)|null|
+|**2024-05-23**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128v1](http://arxiv.org/abs/2405.14128v1)|null|
+|**2024-05-22**|**Euclid preparation. Detecting globular clusters in the Euclid survey**|Euclid Collaboration et.al.|[2405.14015v1](http://arxiv.org/abs/2405.14015v1)|null|
+|**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014v1](http://arxiv.org/abs/2405.14014v1)|null|
+|**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|null|
+|**2024-05-22**|**Cognitive Internet of Vulnerable Road Users in Traffic: Predictive Neural Modulations of Road Crossing Intention**|Xiaoshan Zhou et.al.|[2405.13955v1](http://arxiv.org/abs/2405.13955v1)|null|
+|**2024-05-22**|**The variation in the response of solar full-disc magnetographs**|K. L. Yeo et.al.|[2405.13895v1](http://arxiv.org/abs/2405.13895v1)|null|
+|**2024-05-22**|**Ultra-Fast Adaptive Track Detection Network**|Hai Ni et.al.|[2405.13538v1](http://arxiv.org/abs/2405.13538v1)|null|
+|**2024-05-22**|**Euclid: ERO -- NISP-only sources and the search for luminous $z=6-8$ galaxies**|J. R. Weaver et.al.|[2405.13505v1](http://arxiv.org/abs/2405.13505v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- A preview of the Euclid era through a galaxy cluster magnifying lens**|H. Atek et.al.|[2405.13504v1](http://arxiv.org/abs/2405.13504v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- The intracluster light and intracluster globular clusters of the Perseus cluster**|M. Kluge et.al.|[2405.13503v1](http://arxiv.org/abs/2405.13503v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- Dwarf galaxies in the Perseus galaxy cluster**|F. R. Marleau et.al.|[2405.13502v1](http://arxiv.org/abs/2405.13502v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- Overview of the Perseus cluster and analysis of its luminosity and stellar mass functions**|J. -C. Cuillandre et.al.|[2405.13501v1](http://arxiv.org/abs/2405.13501v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- Globular clusters in the Fornax galaxy cluster, from dwarf galaxies to the intracluster field**|T. Saifollahi et.al.|[2405.13500v1](http://arxiv.org/abs/2405.13500v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- Deep anatomy of nearby galaxies**|L. K. Hunt et.al.|[2405.13499v1](http://arxiv.org/abs/2405.13499v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- Unveiling the morphology of two Milky Way globular clusters out to their periphery**|D. Massari et.al.|[2405.13498v1](http://arxiv.org/abs/2405.13498v1)|null|
+|**2024-05-22**|**Euclid: Early Release Observations -- A glance at free-floating new-born planets in the sigma Orionis cluster**|E. L. Martín et.al.|[2405.13497v1](http://arxiv.org/abs/2405.13497v1)|null|

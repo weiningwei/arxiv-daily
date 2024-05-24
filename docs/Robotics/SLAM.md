@@ -2,6 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855v1](http://arxiv.org/abs/2405.14855v1)|null|
+|**2024-05-23**|**CoPeD-Advancing Multi-Robot Collaborative Perception: A Comprehensive Dataset in Real-World Environments**|Yang Zhou et.al.|[2405.14731v1](http://arxiv.org/abs/2405.14731v1)|null|
+|**2024-05-23**|**Efficient Robot Learning for Perception and Mapping**|Niclas Vödisch et.al.|[2405.14688v1](http://arxiv.org/abs/2405.14688v1)|null|
+|**2024-05-22**|**Monocular Gaussian SLAM with Language Extended Loop Closure**|Tian Lan et.al.|[2405.13748v1](http://arxiv.org/abs/2405.13748v1)|null|
 |**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563v1](http://arxiv.org/abs/2405.12563v1)|null|
 |**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176v1](http://arxiv.org/abs/2405.11176v1)|null|
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|[link](https://github.com/antonio521/motiongs)|
@@ -28,7 +32,3 @@
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
 |**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|[link](https://github.com/intrepidchw/distributed_msckf)|
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
-|**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng et.al.|[2404.18192v1](http://arxiv.org/abs/2404.18192v1)|null|
-|**2024-04-27**|**DF-SLAM: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System**|Weifeng Wei et.al.|[2404.17876v1](http://arxiv.org/abs/2404.17876v1)|null|
-|**2024-04-27**|**HIPer: A Human-Inspired Scene Perception Model for Multifunctional Mobile Robots**|Florenz Graf et.al.|[2404.17791v1](http://arxiv.org/abs/2404.17791v1)|null|
-|**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215v1](http://arxiv.org/abs/2404.17215v1)|null|
