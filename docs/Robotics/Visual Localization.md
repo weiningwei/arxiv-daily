@@ -2,6 +2,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-24**|**DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation**|Xiankang He et.al.|[2405.15619v1](http://arxiv.org/abs/2405.15619v1)|null|
+|**2024-05-24**|**Polyp Segmentation Generalisability of Pretrained Backbones**|Edward Sanderson et.al.|[2405.15524v1](http://arxiv.org/abs/2405.15524v1)|null|
+|**2024-05-24**|**Confocal structured illumination microscopy**|Weishuai Zhou et.al.|[2405.15519v1](http://arxiv.org/abs/2405.15519v1)|null|
+|**2024-05-24**|**Feature Splatting for Better Novel View Synthesis with Low Overlap**|T. Berriel Martins et.al.|[2405.15518v1](http://arxiv.org/abs/2405.15518v1)|null|
+|**2024-05-24**|**Semantic Aware Diffusion Inverse Tone Mapping**|Abhishek Goswami et.al.|[2405.15468v1](http://arxiv.org/abs/2405.15468v1)|null|
+|**2024-05-24**|**Fieldscale: Locality-Aware Field-based Adaptive Rescaling for Thermal Infrared Image**|Hyeonjae Gil et.al.|[2405.15395v1](http://arxiv.org/abs/2405.15395v1)|[link](https://github.com/hyeonjaegil/fieldscale)|
+|**2024-05-24**|**Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving**|Jianbiao Mei et.al.|[2405.15324v1](http://arxiv.org/abs/2405.15324v1)|[link](https://github.com/pjlab-adg/leapad)|
+|**2024-05-24**|**Leveraging Unknown Objects to Construct Labeled-Unlabeled Meta-Relationships for Zero-Shot Object Navigation**|Yanwei Zheng et.al.|[2405.15222v1](http://arxiv.org/abs/2405.15222v1)|null|
+|**2024-05-24**|**Unsupervised Motion Segmentation for Neuromorphic Aerial Surveillance**|Sami Arja et.al.|[2405.15209v1](http://arxiv.org/abs/2405.15209v1)|null|
+|**2024-05-24**|**Label-efficient Semantic Scene Completion with Scribble Annotations**|Song Wang et.al.|[2405.15170v1](http://arxiv.org/abs/2405.15170v1)|[link](https://github.com/songw-zju/scribble2scene)|
+|**2024-05-24**|**NeB-SLAM: Neural Blocks-based Salable RGB-D SLAM for Unknown Scenes**|Lizhi Bai et.al.|[2405.15151v1](http://arxiv.org/abs/2405.15151v1)|null|
+|**2024-05-24**|**An Approximate Dynamic Programming Framework for Occlusion-Robust Multi-Object Tracking**|Pratyusha Musunuru et.al.|[2405.15137v1](http://arxiv.org/abs/2405.15137v1)|null|
+|**2024-05-24**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125v1](http://arxiv.org/abs/2405.15125v1)|null|
+|**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
+|**2024-05-23**|**Reframing Spatial Reasoning Evaluation in Language Models: A Real-World Simulation Benchmark for Qualitative Reasoning**|Fangjun Li et.al.|[2405.15064v1](http://arxiv.org/abs/2405.15064v1)|null|
+|**2024-05-23**|**Generating camera failures as a class of physics-based adversarial examples**|Manav Prabhakar et.al.|[2405.15033v1](http://arxiv.org/abs/2405.15033v1)|null|
+|**2024-05-23**|**EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2405.14959v1](http://arxiv.org/abs/2405.14959v1)|[link](https://github.com/mercerai/evggs)|
 |**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871v1](http://arxiv.org/abs/2405.14871v1)|null|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869v1](http://arxiv.org/abs/2405.14869v1)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
@@ -15,20 +32,3 @@
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419v1](http://arxiv.org/abs/2405.14419v1)|null|
 |**2024-05-23**|**Optimal Whole Body Trajectory Planning for Mobile Manipulators in Planetary Exploration and Construction**|Federica Storiale et.al.|[2405.14363v1](http://arxiv.org/abs/2405.14363v1)|null|
 |**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292v1](http://arxiv.org/abs/2405.14292v1)|null|
-|**2024-05-23**|**Hyperspectral Image Dataset for Individual Penguin Identification**|Youta Noboru et.al.|[2405.14146v1](http://arxiv.org/abs/2405.14146v1)|null|
-|**2024-05-23**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128v2](http://arxiv.org/abs/2405.14128v2)|null|
-|**2024-05-22**|**Euclid preparation. Detecting globular clusters in the Euclid survey**|Euclid Collaboration et.al.|[2405.14015v1](http://arxiv.org/abs/2405.14015v1)|null|
-|**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014v1](http://arxiv.org/abs/2405.14014v1)|null|
-|**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|null|
-|**2024-05-22**|**Cognitive Internet of Vulnerable Road Users in Traffic: Predictive Neural Modulations of Road Crossing Intention**|Xiaoshan Zhou et.al.|[2405.13955v1](http://arxiv.org/abs/2405.13955v1)|null|
-|**2024-05-22**|**The variation in the response of solar full-disc magnetographs**|K. L. Yeo et.al.|[2405.13895v1](http://arxiv.org/abs/2405.13895v1)|null|
-|**2024-05-22**|**Ultra-Fast Adaptive Track Detection Network**|Hai Ni et.al.|[2405.13538v1](http://arxiv.org/abs/2405.13538v1)|null|
-|**2024-05-22**|**Euclid: ERO -- NISP-only sources and the search for luminous $z=6-8$ galaxies**|J. R. Weaver et.al.|[2405.13505v1](http://arxiv.org/abs/2405.13505v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- A preview of the Euclid era through a galaxy cluster magnifying lens**|H. Atek et.al.|[2405.13504v1](http://arxiv.org/abs/2405.13504v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- The intracluster light and intracluster globular clusters of the Perseus cluster**|M. Kluge et.al.|[2405.13503v1](http://arxiv.org/abs/2405.13503v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- Dwarf galaxies in the Perseus galaxy cluster**|F. R. Marleau et.al.|[2405.13502v1](http://arxiv.org/abs/2405.13502v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- Overview of the Perseus cluster and analysis of its luminosity and stellar mass functions**|J. -C. Cuillandre et.al.|[2405.13501v1](http://arxiv.org/abs/2405.13501v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- Globular clusters in the Fornax galaxy cluster, from dwarf galaxies to the intracluster field**|T. Saifollahi et.al.|[2405.13500v1](http://arxiv.org/abs/2405.13500v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- Deep anatomy of nearby galaxies**|L. K. Hunt et.al.|[2405.13499v1](http://arxiv.org/abs/2405.13499v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- Unveiling the morphology of two Milky Way globular clusters out to their periphery**|D. Massari et.al.|[2405.13498v1](http://arxiv.org/abs/2405.13498v1)|null|
-|**2024-05-22**|**Euclid: Early Release Observations -- A glance at free-floating new-born planets in the sigma Orionis cluster**|E. L. Martín et.al.|[2405.13497v1](http://arxiv.org/abs/2405.13497v1)|null|

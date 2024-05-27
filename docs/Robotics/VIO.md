@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
 |**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
 |**2024-05-23**|**A continuous perspective on the inertial corrected primal-dual proximal splitting**|Hao Luo et.al.|[2405.14098v1](http://arxiv.org/abs/2405.14098v1)|null|
 |**2024-05-22**|**Extension of the SpK Atomic Physics Code to Generate Global Equation of State Data**|Adam R. Fraser et.al.|[2405.13814v1](http://arxiv.org/abs/2405.13814v1)|null|
@@ -31,4 +32,3 @@
 |**2024-05-13**|**Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation**|James Foster et.al.|[2405.07901v1](http://arxiv.org/abs/2405.07901v1)|null|
 |**2024-05-13**|**Gaze-Based Intention Recognition for Human-Robot Collaboration**|Valerio Belcamino et.al.|[2405.07570v1](http://arxiv.org/abs/2405.07570v1)|null|
 |**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544v1](http://arxiv.org/abs/2405.07544v1)|null|
-|**2024-05-12**|**Equivalence Principle and Machian origin of extended gravity**|Elmo Benedetto et.al.|[2405.08024v1](http://arxiv.org/abs/2405.08024v1)|null|
