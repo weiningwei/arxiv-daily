@@ -16,7 +16,7 @@
 |**2024-05-23**|**Optimal Whole Body Trajectory Planning for Mobile Manipulators in Planetary Exploration and Construction**|Federica Storiale et.al.|[2405.14363v1](http://arxiv.org/abs/2405.14363v1)|null|
 |**2024-05-23**|**A New Method in Facial Registration in Clinics Based on Structure Light Images**|Pengfei Li et.al.|[2405.14292v1](http://arxiv.org/abs/2405.14292v1)|null|
 |**2024-05-23**|**Hyperspectral Image Dataset for Individual Penguin Identification**|Youta Noboru et.al.|[2405.14146v1](http://arxiv.org/abs/2405.14146v1)|null|
-|**2024-05-23**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128v1](http://arxiv.org/abs/2405.14128v1)|null|
+|**2024-05-23**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128v2](http://arxiv.org/abs/2405.14128v2)|null|
 |**2024-05-22**|**Euclid preparation. Detecting globular clusters in the Euclid survey**|Euclid Collaboration et.al.|[2405.14015v1](http://arxiv.org/abs/2405.14015v1)|null|
 |**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014v1](http://arxiv.org/abs/2405.14014v1)|null|
 |**2024-05-22**|**Detecting Gait Abnormalities in Foot-Floor Contacts During Walking Through FootstepInduced Structural Vibrations**|Yiwen Dong et.al.|[2405.13996v1](http://arxiv.org/abs/2405.13996v1)|null|

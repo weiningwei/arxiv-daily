@@ -5,7 +5,7 @@
 |**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
 |**2024-05-23**|**A continuous perspective on the inertial corrected primal-dual proximal splitting**|Hao Luo et.al.|[2405.14098v1](http://arxiv.org/abs/2405.14098v1)|null|
 |**2024-05-22**|**Extension of the SpK Atomic Physics Code to Generate Global Equation of State Data**|Adam R. Fraser et.al.|[2405.13814v1](http://arxiv.org/abs/2405.13814v1)|null|
-|**2024-05-22**|**Stabilizing classical accelerometers and gyroscopes with a quantum inertial sensor**|Clément Salducci et.al.|[2405.13689v1](http://arxiv.org/abs/2405.13689v1)|null|
+|**2024-05-22**|**Stabilizing classical accelerometers and gyroscopes with a quantum inertial sensor**|Clément Salducci et.al.|[2405.13689v2](http://arxiv.org/abs/2405.13689v2)|null|
 |**2024-05-22**|**AUGlasses: Continuous Action Unit based Facial Reconstruction with Low-power IMUs on Smart Glasses**|Yanrong Li et.al.|[2405.13289v1](http://arxiv.org/abs/2405.13289v1)|null|
 |**2024-05-21**|**A novel forward-looking ultrasound catheter for treating vascular occlusions**|Jingjing Liu et.al.|[2405.12966v1](http://arxiv.org/abs/2405.12966v1)|null|
 |**2024-05-21**|**Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data**|Yuan Fu et.al.|[2405.12577v1](http://arxiv.org/abs/2405.12577v1)|null|
