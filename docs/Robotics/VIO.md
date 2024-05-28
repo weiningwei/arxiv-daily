@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-27**|**Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning**|Youqi Pan et.al.|[2405.16754v1](http://arxiv.org/abs/2405.16754v1)|null|
+|**2024-05-26**|**Electron-only reconnection and ion heating in 3D3V hybrid-Vlasov plasma turbulence**|C. Granier et.al.|[2405.16686v1](http://arxiv.org/abs/2405.16686v1)|null|
+|**2024-05-26**|**Dynamics Models in the Aggressive Off-Road Driving Regime**|Tyler Han et.al.|[2405.16487v1](http://arxiv.org/abs/2405.16487v1)|null|
+|**2024-05-25**|**A hybrid approach to model reduction of Generalized Langevin Dynamics**|Matteo Colangeli et.al.|[2405.16157v1](http://arxiv.org/abs/2405.16157v1)|null|
+|**2024-05-25**|**Lorentz group in gravity theories**|Jianbo Lu et.al.|[2405.16031v1](http://arxiv.org/abs/2405.16031v1)|null|
+|**2024-05-24**|**3-Minute Oscillations in the Upper Corona: Evidence from Parker Solar Probe**|Zesen Huang et.al.|[2405.15967v1](http://arxiv.org/abs/2405.15967v1)|null|
+|**2024-05-24**|**Near subsonic solar wind outflow from an active region**|Tamar Ervin et.al.|[2405.15844v1](http://arxiv.org/abs/2405.15844v1)|null|
 |**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
 |**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
 |**2024-05-23**|**A continuous perspective on the inertial corrected primal-dual proximal splitting**|Hao Luo et.al.|[2405.14098v1](http://arxiv.org/abs/2405.14098v1)|null|
@@ -25,10 +32,3 @@
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001v1](http://arxiv.org/abs/2405.09001v1)|null|
 |**2024-05-14**|**A multiscale hybrid Maxwellian-Monte-Carlo Coulomb collision algorithm for particle simulations**|G. Chen et.al.|[2405.09573v1](http://arxiv.org/abs/2405.09573v1)|null|
 |**2024-05-14**|**Inertial active Ornstein-Uhlenbeck particle in a non-linear velocity dependent friction**|N Arsha et.al.|[2405.08249v1](http://arxiv.org/abs/2405.08249v1)|null|
-|**2024-05-13**|**Undisturbed velocity recovery with transient and weak inertia effects in volume-filtered simulations of particle-laden flows**|Fabien Evrard et.al.|[2405.08188v1](http://arxiv.org/abs/2405.08188v1)|null|
-|**2024-05-13**|**GPS-IMU Sensor Fusion for Reliable Autonomous Vehicle Position Estimation**|Simegnew Yihunie Alaba et.al.|[2405.08119v1](http://arxiv.org/abs/2405.08119v1)|null|
-|**2024-05-13**|**Plasma Effects on Resonant Phenomena**|Anil Pradhan et.al.|[2405.08829v1](http://arxiv.org/abs/2405.08829v1)|null|
-|**2024-05-13**|**Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly Detection for Curiosity**|Mielad Sabzehi et.al.|[2405.07982v1](http://arxiv.org/abs/2405.07982v1)|null|
-|**2024-05-13**|**Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation**|James Foster et.al.|[2405.07901v1](http://arxiv.org/abs/2405.07901v1)|null|
-|**2024-05-13**|**Gaze-Based Intention Recognition for Human-Robot Collaboration**|Valerio Belcamino et.al.|[2405.07570v1](http://arxiv.org/abs/2405.07570v1)|null|
-|**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544v1](http://arxiv.org/abs/2405.07544v1)|null|
