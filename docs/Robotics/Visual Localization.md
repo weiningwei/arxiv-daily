@@ -28,7 +28,7 @@
 |**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517v1](http://arxiv.org/abs/2405.16517v1)|null|
 |**2024-05-26**|**Thousand foci coherent anti-Stokes Raman scattering microscopy**|Dominykas Gudavicius et.al.|[2405.16509v1](http://arxiv.org/abs/2405.16509v1)|null|
 |**2024-05-26**|**3D View Optimization for Improving Image Aesthetics**|Taichi Uchida et.al.|[2405.16443v1](http://arxiv.org/abs/2405.16443v1)|null|
-|**2024-05-25**|**VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence**|Phong Tran et.al.|[2405.16204v1](http://arxiv.org/abs/2405.16204v1)|null|
+|**2024-05-25**|**VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence**|Phong Tran et.al.|[2405.16204v2](http://arxiv.org/abs/2405.16204v2)|null|
 |**2024-05-25**|**Intensity and Texture Correction of Omnidirectional Image Using Camera Images for Indirect Augmented Reality**|Hakim Ikebayashi et.al.|[2405.16008v1](http://arxiv.org/abs/2405.16008v1)|null|
 |**2024-05-25**|**Selfie Taking with Facial Expression Recognition Using Omni-directional Camera**|Kazutaka Kiuchi et.al.|[2405.15996v1](http://arxiv.org/abs/2405.15996v1)|null|
 |**2024-05-24**|**Understanding the Impact of Training Set Size on Animal Re-identification**|Aleksandr Algasov et.al.|[2405.15976v1](http://arxiv.org/abs/2405.15976v1)|null|
