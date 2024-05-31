@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248v1](http://arxiv.org/abs/2405.20248v1)|null|
+|**2024-05-30**|**The backreaction of stellar wobbling on accretion discs of massive protostars**|D. M. -A. Meyer et.al.|[2405.19905v1](http://arxiv.org/abs/2405.19905v1)|null|
+|**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
 |**2024-05-28**|**A blended physics-based and black-box identification approach for spacecraft inertia estimation -- EXTENDED VERSION**|Martina Mammarella et.al.|[2405.18186v1](http://arxiv.org/abs/2405.18186v1)|null|
 |**2024-05-28**|**Lateral migration and bouncing of a deformable bubble rising near a vertical wall. Part 1. Moderately inertial regimes**|Pengyu Shi et.al.|[2405.17912v1](http://arxiv.org/abs/2405.17912v1)|null|
 |**2024-05-27**|**High fidelity simulations of unstart phenomena in a scramjet inlet due to angle of attack**|Jeremy Redding et.al.|[2405.17671v1](http://arxiv.org/abs/2405.17671v1)|null|
@@ -29,6 +32,3 @@
 |**2024-05-16**|**Non-comoving description of adiabatic radial perturbations of relativistic stars**|Paulo Luz et.al.|[2405.10359v1](http://arxiv.org/abs/2405.10359v1)|null|
 |**2024-05-16**|**Driver at 10 MJ and 1 shot/30min for inertial confinement fusion at high gain: efficient, compact, low-cost, low laser-plasma instabilities, beam-color selectable from 2 omega/3 omega/4 omega, applicable to multiple laser fusion schemes**|Zhan Sui et.al.|[2405.09912v4](http://arxiv.org/abs/2405.09912v4)|null|
 |**2024-05-16**|**EFEAR-4D: Ego-Velocity Filtering for Efficient and Accurate 4D radar Odometry**|Xiaoyi Wu et.al.|[2405.09780v1](http://arxiv.org/abs/2405.09780v1)|null|
-|**2024-05-15**|**On the radiation field of a linearly accelerated charged particle in Born-Infeld theory**|M. L. Peñafiel et.al.|[2405.09435v1](http://arxiv.org/abs/2405.09435v1)|null|
-|**2024-05-15**|**BxC Toolkit: Generating Tailored Turbulent 3D Magnetic Fields**|Daniela Maci et.al.|[2405.09587v1](http://arxiv.org/abs/2405.09587v1)|null|
-|**2024-05-15**|**Rheology of three dimensional granular chute flows at large inertial numbers**|Satyabrata Patro et.al.|[2405.09069v1](http://arxiv.org/abs/2405.09069v1)|null|
