@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-31 08:34:03 Asia/Shanghai
+ Automated deployment @ 2024-05-31 09:42:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -120,7 +120,7 @@
 |**2024-05-29**|**Visual Servoing Based on 3D Features: Design and Implementation for Robotic Insertion Tasks**|Antonio Rosales et.al.|[2405.18830v1](http://arxiv.org/abs/2405.18830v1)|null|
 |**2024-05-28**|**Track Initialization and Re-Identification for~3D Multi-View Multi-Object Tracking**|Linh Van Ma et.al.|[2405.18606v1](http://arxiv.org/abs/2405.18606v1)|[link](https://github.com/linh-gist/mv-glmb-ab)|
 |**2024-05-28**|**GFlow: Recovering 4D World from Monocular Video**|Shizun Wang et.al.|[2405.18426v1](http://arxiv.org/abs/2405.18426v1)|null|
-|**2024-05-28**|**3D StreetUnveiler with Semantic-Aware 2DGS**|Jingwei Xu et.al.|[2405.18416v1](http://arxiv.org/abs/2405.18416v1)|null|
+|**2024-05-28**|**3D StreetUnveiler with Semantic-Aware 2DGS**|Jingwei Xu et.al.|[2405.18416v2](http://arxiv.org/abs/2405.18416v2)|null|
 |**2024-05-28**|**Long Short-Term Memory Networks for Anomaly Detection in Magnet Power Supplies of Particle Accelerators**|Ihar Lobach et.al.|[2405.18321v1](http://arxiv.org/abs/2405.18321v1)|null|
 |**2024-05-28**|**Deep Network Pruning: A Comparative Study on CNNs in Face Recognition**|Fernando Alonso-Fernandez et.al.|[2405.18302v1](http://arxiv.org/abs/2405.18302v1)|null|
 |**2024-05-28**|**Euclid preparation. Observational expectations for redshift z<7 active galactic nuclei in the Euclid Wide and Deep surveys**|Euclid Collaboration et.al.|[2405.18126v1](http://arxiv.org/abs/2405.18126v1)|null|
