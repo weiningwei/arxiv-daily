@@ -17,12 +17,12 @@
 |**2024-05-30**|**MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**|Angel Villar-Corrales et.al.|[2405.19921v1](http://arxiv.org/abs/2405.19921v1)|[link](https://github.com/angelvillar96/MCDS-VSS)|
 |**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794v1](http://arxiv.org/abs/2405.19794v1)|null|
 |**2024-05-30**|**LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising**|Yuxing Duan et.al.|[2405.19718v1](http://arxiv.org/abs/2405.19718v1)|null|
-|**2024-05-30**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687v1](http://arxiv.org/abs/2405.19687v1)|[link](https://github.com/ridgerchu/sad)|
-|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|null|
-|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|null|
+|**2024-05-30**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687v2](http://arxiv.org/abs/2405.19687v2)|[link](https://github.com/ridgerchu/sad)|
+|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|[link](https://github.com/hardyho/ultrametric_feature_fields)|
+|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
 |**2024-05-29**|**VisTA-SR: Improving the Accuracy and Resolution of Low-Cost Thermal Imaging Cameras for Agriculture**|Heesup Yun et.al.|[2405.19413v1](http://arxiv.org/abs/2405.19413v1)|null|
-|**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305v1](http://arxiv.org/abs/2405.19305v1)|null|
+|**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305v1](http://arxiv.org/abs/2405.19305v1)|[link](https://github.com/marcointrovigne/WeatherDetection)|
 |**2024-05-29**|**Neural Isometries: Taming Transformations for Equivariant ML**|Thomas W. Mitchel et.al.|[2405.19296v1](http://arxiv.org/abs/2405.19296v1)|null|
 |**2024-05-29**|**DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots**|Maria Stamatopoulou et.al.|[2405.19232v1](http://arxiv.org/abs/2405.19232v1)|null|
 |**2024-05-29**|**Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation**|Xindi Wang et.al.|[2405.19093v1](http://arxiv.org/abs/2405.19093v1)|null|
