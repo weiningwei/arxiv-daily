@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2024-06-05 08:34:23 Asia/Shanghai
+ Automated deployment @ 2024-06-05 09:42:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### Visual Localization
+### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902v1](http://arxiv.org/abs/2405.20902v1)|null|
-|**2024-05-31**|**Intersectional Unfairness Discovery**|Gezheng Xu et.al.|[2405.20790v1](http://arxiv.org/abs/2405.20790v1)|null|
-|**2024-05-31**|**EPIDetect: Video-based convulsive seizure detection in chronic epilepsy mouse model for anti-epilepsy drug screening**|Junming Ren et.al.|[2405.20614v1](http://arxiv.org/abs/2405.20614v1)|null|
-|**2024-05-30**|**STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery**|Jiuhong Xiao et.al.|[2405.20470v1](http://arxiv.org/abs/2405.20470v1)|null|
-|**2024-05-30**|**ENTIRe-ID: An Extensive and Diverse Dataset for Person Re-Identification**|Serdar Yildiz et.al.|[2405.20465v1](http://arxiv.org/abs/2405.20465v1)|null|
-|**2024-05-30**|**Scaling Laws for the Value of Individual Data Points in Machine Learning**|Ian Covert et.al.|[2405.20456v1](http://arxiv.org/abs/2405.20456v1)|null|
-|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334v1](http://arxiv.org/abs/2405.20334v1)|null|
-|**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333v1](http://arxiv.org/abs/2405.20333v1)|null|
-|**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325v1](http://arxiv.org/abs/2405.20325v1)|null|
-|**2024-05-30**|**Vision-based Manipulation from Single Human Video with Open-World Object Graphs**|Yifeng Zhu et.al.|[2405.20321v1](http://arxiv.org/abs/2405.20321v1)|null|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310v3](http://arxiv.org/abs/2405.20310v3)|null|
+|**2024-05-31**|**Inflation Determinants in Argentina (2004-2022)**|Pablo de la Vega et.al.|[2405.20822v1](http://arxiv.org/abs/2405.20822v1)|null|
 |**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248v1](http://arxiv.org/abs/2405.20248v1)|null|
-|**2024-05-30**|**A Multimodal Dangerous State Recognition and Early Warning System for Elderly with Intermittent Dementia**|Liyun Deng et.al.|[2405.20136v1](http://arxiv.org/abs/2405.20136v1)|null|
-|**2024-05-30**|**Infinite 3D Landmarks: Improving Continuous 2D Facial Landmark Detection**|Prashanth Chandran et.al.|[2405.20117v1](http://arxiv.org/abs/2405.20117v1)|null|
-|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078v2](http://arxiv.org/abs/2405.20078v2)|null|
-|**2024-05-30**|**Feasibility of meteor surveying from a Venus orbiter**|Apostolos A. Christou et.al.|[2405.20063v1](http://arxiv.org/abs/2405.20063v1)|null|
-|**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957v2](http://arxiv.org/abs/2405.19957v2)|null|
-|**2024-05-30**|**Multi-View People Detection in Large Scenes via Supervised View-Wise Contribution Weighting**|Qi Zhang et.al.|[2405.19943v1](http://arxiv.org/abs/2405.19943v1)|[link](https://github.com/zqyq/Multi-view-People-Detection-in-Large-Scenes-via-View-wise-Contribution-Weighting)|
-|**2024-05-30**|**MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**|Angel Villar-Corrales et.al.|[2405.19921v1](http://arxiv.org/abs/2405.19921v1)|[link](https://github.com/angelvillar96/MCDS-VSS)|
-|**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794v1](http://arxiv.org/abs/2405.19794v1)|null|
-|**2024-05-30**|**LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising**|Yuxing Duan et.al.|[2405.19718v1](http://arxiv.org/abs/2405.19718v1)|null|
-|**2024-05-30**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687v2](http://arxiv.org/abs/2405.19687v2)|[link](https://github.com/ridgerchu/sad)|
-|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|[link](https://github.com/hardyho/ultrametric_feature_fields)|
-|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|
+|**2024-05-30**|**The backreaction of stellar wobbling on accretion discs of massive protostars**|D. M. -A. Meyer et.al.|[2405.19905v1](http://arxiv.org/abs/2405.19905v1)|null|
+|**2024-05-30**|**From Density Response to Energy Functionals and Back: An ab initio perspective on Matter Under Extreme Conditions**|Z. Moldabekov et.al.|[2405.20356v1](http://arxiv.org/abs/2405.20356v1)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
-|**2024-05-29**|**VisTA-SR: Improving the Accuracy and Resolution of Low-Cost Thermal Imaging Cameras for Agriculture**|Heesup Yun et.al.|[2405.19413v1](http://arxiv.org/abs/2405.19413v1)|null|
-|**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305v1](http://arxiv.org/abs/2405.19305v1)|[link](https://github.com/marcointrovigne/WeatherDetection)|
-|**2024-05-29**|**Neural Isometries: Taming Transformations for Equivariant ML**|Thomas W. Mitchel et.al.|[2405.19296v1](http://arxiv.org/abs/2405.19296v1)|null|
-|**2024-05-29**|**DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots**|Maria Stamatopoulou et.al.|[2405.19232v1](http://arxiv.org/abs/2405.19232v1)|null|
-|**2024-05-29**|**Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation**|Xindi Wang et.al.|[2405.19093v1](http://arxiv.org/abs/2405.19093v1)|null|
+|**2024-05-28**|**A blended physics-based and black-box identification approach for spacecraft inertia estimation -- EXTENDED VERSION**|Martina Mammarella et.al.|[2405.18186v1](http://arxiv.org/abs/2405.18186v1)|null|
+|**2024-05-28**|**Lateral migration and bouncing of a deformable bubble rising near a vertical wall. Part 1. Moderately inertial regimes**|Pengyu Shi et.al.|[2405.17912v1](http://arxiv.org/abs/2405.17912v1)|null|
+|**2024-05-27**|**High fidelity simulations of unstart phenomena in a scramjet inlet due to angle of attack**|Jeremy Redding et.al.|[2405.17671v1](http://arxiv.org/abs/2405.17671v1)|null|
+|**2024-05-27**|**Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning**|Youqi Pan et.al.|[2405.16754v1](http://arxiv.org/abs/2405.16754v1)|null|
+|**2024-05-26**|**Electron-only reconnection and ion heating in 3D3V hybrid-Vlasov plasma turbulence**|C. Granier et.al.|[2405.16686v1](http://arxiv.org/abs/2405.16686v1)|null|
+|**2024-05-26**|**Dynamics Models in the Aggressive Off-Road Driving Regime**|Tyler Han et.al.|[2405.16487v1](http://arxiv.org/abs/2405.16487v1)|null|
+|**2024-05-25**|**A hybrid approach to model reduction of Generalized Langevin Dynamics**|Matteo Colangeli et.al.|[2405.16157v1](http://arxiv.org/abs/2405.16157v1)|null|
+|**2024-05-25**|**Lorentz group in gravity theories**|Jianbo Lu et.al.|[2405.16031v1](http://arxiv.org/abs/2405.16031v1)|null|
+|**2024-05-24**|**3-Minute Oscillations in the Upper Corona: Evidence from Parker Solar Probe**|Zesen Huang et.al.|[2405.15967v1](http://arxiv.org/abs/2405.15967v1)|null|
+|**2024-05-24**|**Near subsonic solar wind outflow from an active region**|Tamar Ervin et.al.|[2405.15844v1](http://arxiv.org/abs/2405.15844v1)|null|
+|**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
+|**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
+|**2024-05-23**|**A continuous perspective on the inertial corrected primal-dual proximal splitting**|Hao Luo et.al.|[2405.14098v1](http://arxiv.org/abs/2405.14098v1)|null|
+|**2024-05-22**|**Extension of the SpK Atomic Physics Code to Generate Global Equation of State Data**|Adam R. Fraser et.al.|[2405.13814v1](http://arxiv.org/abs/2405.13814v1)|null|
+|**2024-05-22**|**Stabilizing classical accelerometers and gyroscopes with a quantum inertial sensor**|Clément Salducci et.al.|[2405.13689v2](http://arxiv.org/abs/2405.13689v2)|null|
+|**2024-05-22**|**AUGlasses: Continuous Action Unit based Facial Reconstruction with Low-power IMUs on Smart Glasses**|Yanrong Li et.al.|[2405.13289v1](http://arxiv.org/abs/2405.13289v1)|null|
+|**2024-05-21**|**A novel forward-looking ultrasound catheter for treating vascular occlusions**|Jingjing Liu et.al.|[2405.12966v1](http://arxiv.org/abs/2405.12966v1)|null|
+|**2024-05-21**|**Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data**|Yuan Fu et.al.|[2405.12577v1](http://arxiv.org/abs/2405.12577v1)|null|
+|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563v2](http://arxiv.org/abs/2405.12563v2)|[link](https://github.com/dhchung/nv_lio)|
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
+|**2024-05-19**|**A digger for 2D densely-packed coarse granular media using vibrations**|Guo-Jie Jason Gao et.al.|[2405.11569v1](http://arxiv.org/abs/2405.11569v1)|null|
+|**2024-05-17**|**Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**|Jun Hu et.al.|[2405.10874v1](http://arxiv.org/abs/2405.10874v1)|null|
+|**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
+|**2024-05-17**|**First principles simulations of dense hydrogen**|Michael Bonitz et.al.|[2405.10627v1](http://arxiv.org/abs/2405.10627v1)|null|
+|**2024-05-16**|**Non-comoving description of adiabatic radial perturbations of relativistic stars**|Paulo Luz et.al.|[2405.10359v1](http://arxiv.org/abs/2405.10359v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,36 +107,36 @@
 |**2024-05-06**|**Neural Graph Mapping for Dense SLAM with Efficient Loop Closure**|Leonard Bruns et.al.|[2405.03633v1](http://arxiv.org/abs/2405.03633v1)|null|
 |**2024-05-06**|**A real-time, robust and versatile visual-SLAM framework based on deep learning networks**|Zhang Xiao et.al.|[2405.03413v3](http://arxiv.org/abs/2405.03413v3)|null|
 
-### VIO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-31**|**Inflation Determinants in Argentina (2004-2022)**|Pablo de la Vega et.al.|[2405.20822v1](http://arxiv.org/abs/2405.20822v1)|null|
+|**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902v1](http://arxiv.org/abs/2405.20902v1)|null|
+|**2024-05-31**|**Intersectional Unfairness Discovery**|Gezheng Xu et.al.|[2405.20790v1](http://arxiv.org/abs/2405.20790v1)|null|
+|**2024-05-31**|**EPIDetect: Video-based convulsive seizure detection in chronic epilepsy mouse model for anti-epilepsy drug screening**|Junming Ren et.al.|[2405.20614v1](http://arxiv.org/abs/2405.20614v1)|null|
+|**2024-05-30**|**STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery**|Jiuhong Xiao et.al.|[2405.20470v1](http://arxiv.org/abs/2405.20470v1)|null|
+|**2024-05-30**|**ENTIRe-ID: An Extensive and Diverse Dataset for Person Re-Identification**|Serdar Yildiz et.al.|[2405.20465v1](http://arxiv.org/abs/2405.20465v1)|null|
+|**2024-05-30**|**Scaling Laws for the Value of Individual Data Points in Machine Learning**|Ian Covert et.al.|[2405.20456v1](http://arxiv.org/abs/2405.20456v1)|null|
+|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334v1](http://arxiv.org/abs/2405.20334v1)|null|
+|**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333v1](http://arxiv.org/abs/2405.20333v1)|null|
+|**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325v1](http://arxiv.org/abs/2405.20325v1)|null|
+|**2024-05-30**|**Vision-based Manipulation from Single Human Video with Open-World Object Graphs**|Yifeng Zhu et.al.|[2405.20321v1](http://arxiv.org/abs/2405.20321v1)|null|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310v3](http://arxiv.org/abs/2405.20310v3)|null|
 |**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248v1](http://arxiv.org/abs/2405.20248v1)|null|
-|**2024-05-30**|**The backreaction of stellar wobbling on accretion discs of massive protostars**|D. M. -A. Meyer et.al.|[2405.19905v1](http://arxiv.org/abs/2405.19905v1)|null|
-|**2024-05-30**|**From Density Response to Energy Functionals and Back: An ab initio perspective on Matter Under Extreme Conditions**|Z. Moldabekov et.al.|[2405.20356v1](http://arxiv.org/abs/2405.20356v1)|null|
+|**2024-05-30**|**A Multimodal Dangerous State Recognition and Early Warning System for Elderly with Intermittent Dementia**|Liyun Deng et.al.|[2405.20136v1](http://arxiv.org/abs/2405.20136v1)|null|
+|**2024-05-30**|**Infinite 3D Landmarks: Improving Continuous 2D Facial Landmark Detection**|Prashanth Chandran et.al.|[2405.20117v1](http://arxiv.org/abs/2405.20117v1)|null|
+|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078v2](http://arxiv.org/abs/2405.20078v2)|null|
+|**2024-05-30**|**Feasibility of meteor surveying from a Venus orbiter**|Apostolos A. Christou et.al.|[2405.20063v1](http://arxiv.org/abs/2405.20063v1)|null|
+|**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957v2](http://arxiv.org/abs/2405.19957v2)|null|
+|**2024-05-30**|**Multi-View People Detection in Large Scenes via Supervised View-Wise Contribution Weighting**|Qi Zhang et.al.|[2405.19943v1](http://arxiv.org/abs/2405.19943v1)|[link](https://github.com/zqyq/Multi-view-People-Detection-in-Large-Scenes-via-View-wise-Contribution-Weighting)|
+|**2024-05-30**|**MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**|Angel Villar-Corrales et.al.|[2405.19921v1](http://arxiv.org/abs/2405.19921v1)|[link](https://github.com/angelvillar96/MCDS-VSS)|
+|**2024-05-30**|**Video Question Answering for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2405.19794v1](http://arxiv.org/abs/2405.19794v1)|null|
+|**2024-05-30**|**LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising**|Yuxing Duan et.al.|[2405.19718v1](http://arxiv.org/abs/2405.19718v1)|null|
+|**2024-05-30**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687v2](http://arxiv.org/abs/2405.19687v2)|[link](https://github.com/ridgerchu/sad)|
+|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|[link](https://github.com/hardyho/ultrametric_feature_fields)|
+|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
-|**2024-05-28**|**A blended physics-based and black-box identification approach for spacecraft inertia estimation -- EXTENDED VERSION**|Martina Mammarella et.al.|[2405.18186v1](http://arxiv.org/abs/2405.18186v1)|null|
-|**2024-05-28**|**Lateral migration and bouncing of a deformable bubble rising near a vertical wall. Part 1. Moderately inertial regimes**|Pengyu Shi et.al.|[2405.17912v1](http://arxiv.org/abs/2405.17912v1)|null|
-|**2024-05-27**|**High fidelity simulations of unstart phenomena in a scramjet inlet due to angle of attack**|Jeremy Redding et.al.|[2405.17671v1](http://arxiv.org/abs/2405.17671v1)|null|
-|**2024-05-27**|**Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning**|Youqi Pan et.al.|[2405.16754v1](http://arxiv.org/abs/2405.16754v1)|null|
-|**2024-05-26**|**Electron-only reconnection and ion heating in 3D3V hybrid-Vlasov plasma turbulence**|C. Granier et.al.|[2405.16686v1](http://arxiv.org/abs/2405.16686v1)|null|
-|**2024-05-26**|**Dynamics Models in the Aggressive Off-Road Driving Regime**|Tyler Han et.al.|[2405.16487v1](http://arxiv.org/abs/2405.16487v1)|null|
-|**2024-05-25**|**A hybrid approach to model reduction of Generalized Langevin Dynamics**|Matteo Colangeli et.al.|[2405.16157v1](http://arxiv.org/abs/2405.16157v1)|null|
-|**2024-05-25**|**Lorentz group in gravity theories**|Jianbo Lu et.al.|[2405.16031v1](http://arxiv.org/abs/2405.16031v1)|null|
-|**2024-05-24**|**3-Minute Oscillations in the Upper Corona: Evidence from Parker Solar Probe**|Zesen Huang et.al.|[2405.15967v1](http://arxiv.org/abs/2405.15967v1)|null|
-|**2024-05-24**|**Near subsonic solar wind outflow from an active region**|Tamar Ervin et.al.|[2405.15844v1](http://arxiv.org/abs/2405.15844v1)|null|
-|**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
-|**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
-|**2024-05-23**|**A continuous perspective on the inertial corrected primal-dual proximal splitting**|Hao Luo et.al.|[2405.14098v1](http://arxiv.org/abs/2405.14098v1)|null|
-|**2024-05-22**|**Extension of the SpK Atomic Physics Code to Generate Global Equation of State Data**|Adam R. Fraser et.al.|[2405.13814v1](http://arxiv.org/abs/2405.13814v1)|null|
-|**2024-05-22**|**Stabilizing classical accelerometers and gyroscopes with a quantum inertial sensor**|Clément Salducci et.al.|[2405.13689v2](http://arxiv.org/abs/2405.13689v2)|null|
-|**2024-05-22**|**AUGlasses: Continuous Action Unit based Facial Reconstruction with Low-power IMUs on Smart Glasses**|Yanrong Li et.al.|[2405.13289v1](http://arxiv.org/abs/2405.13289v1)|null|
-|**2024-05-21**|**A novel forward-looking ultrasound catheter for treating vascular occlusions**|Jingjing Liu et.al.|[2405.12966v1](http://arxiv.org/abs/2405.12966v1)|null|
-|**2024-05-21**|**Fast Estimation of Relative Transformation Based on Fusion of Odometry and UWB Ranging Data**|Yuan Fu et.al.|[2405.12577v1](http://arxiv.org/abs/2405.12577v1)|null|
-|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563v2](http://arxiv.org/abs/2405.12563v2)|[link](https://github.com/dhchung/nv_lio)|
-|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
-|**2024-05-19**|**A digger for 2D densely-packed coarse granular media using vibrations**|Guo-Jie Jason Gao et.al.|[2405.11569v1](http://arxiv.org/abs/2405.11569v1)|null|
-|**2024-05-17**|**Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**|Jun Hu et.al.|[2405.10874v1](http://arxiv.org/abs/2405.10874v1)|null|
-|**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
-|**2024-05-17**|**First principles simulations of dense hydrogen**|Michael Bonitz et.al.|[2405.10627v1](http://arxiv.org/abs/2405.10627v1)|null|
-|**2024-05-16**|**Non-comoving description of adiabatic radial perturbations of relativistic stars**|Paulo Luz et.al.|[2405.10359v1](http://arxiv.org/abs/2405.10359v1)|null|
+|**2024-05-29**|**VisTA-SR: Improving the Accuracy and Resolution of Low-Cost Thermal Imaging Cameras for Agriculture**|Heesup Yun et.al.|[2405.19413v1](http://arxiv.org/abs/2405.19413v1)|null|
+|**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305v1](http://arxiv.org/abs/2405.19305v1)|[link](https://github.com/marcointrovigne/WeatherDetection)|
+|**2024-05-29**|**Neural Isometries: Taming Transformations for Equivariant ML**|Thomas W. Mitchel et.al.|[2405.19296v1](http://arxiv.org/abs/2405.19296v1)|null|
+|**2024-05-29**|**DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots**|Maria Stamatopoulou et.al.|[2405.19232v1](http://arxiv.org/abs/2405.19232v1)|null|
+|**2024-05-29**|**Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation**|Xindi Wang et.al.|[2405.19093v1](http://arxiv.org/abs/2405.19093v1)|null|
