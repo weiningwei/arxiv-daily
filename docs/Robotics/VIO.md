@@ -7,7 +7,7 @@
 |**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
 |**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|null|
 |**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|null|
-|**2024-06-04**|**ODE-based Learning to Optimize**|Zhonglin Xie et.al.|[2406.02006v1](http://arxiv.org/abs/2406.02006v1)|null|
+|**2024-06-04**|**ODE-based Learning to Optimize**|Zhonglin Xie et.al.|[2406.02006v1](http://arxiv.org/abs/2406.02006v1)|[link](https://github.com/optsuite/o2o)|
 |**2024-06-03**|**Dynamic transition and Galilean relativity of current-driven skyrmions**|Max T. Birch et.al.|[2406.01847v1](http://arxiv.org/abs/2406.01847v1)|null|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
 |**2024-06-03**|**Enhancing Inertial Hand based HAR through Joint Representation of Language, Pose and Synthetic IMUs**|Vitor Fortes Rey et.al.|[2406.01316v1](http://arxiv.org/abs/2406.01316v1)|null|
