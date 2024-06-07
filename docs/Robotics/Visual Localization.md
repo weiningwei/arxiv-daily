@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345v1](http://arxiv.org/abs/2406.04345v1)|[link](https://github.com/bartn8/vppstereo)|
+|**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|[link](https://github.com/cvg/glace)|
+|**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325v1](http://arxiv.org/abs/2406.04325v1)|null|
+|**2024-06-06**|**SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.|[2406.04287v1](http://arxiv.org/abs/2406.04287v1)|null|
+|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
+|**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
+|**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129v1](http://arxiv.org/abs/2406.04129v1)|null|
+|**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
+|**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835v1](http://arxiv.org/abs/2406.03835v1)|null|
+|**2024-06-06**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776v1](http://arxiv.org/abs/2406.03776v1)|null|
+|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v1](http://arxiv.org/abs/2406.03744v1)|null|
+|**2024-06-06**|**Enhancing Sign Language Detection through Mediapipe and Convolutional Neural Networks (CNN)**|Aditya Raj Verma et.al.|[2406.03729v1](http://arxiv.org/abs/2406.03729v1)|null|
+|**2024-06-05**|**Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories**|Yan Zhang et.al.|[2406.03625v1](http://arxiv.org/abs/2406.03625v1)|null|
+|**2024-06-05**|**Hi5: 2D Hand Pose Estimation with Zero Human Annotation**|Masum Hasan et.al.|[2406.03599v1](http://arxiv.org/abs/2406.03599v1)|null|
+|**2024-06-05**|**BVE + EKF: A viewpoint estimator for the estimation of the object's position in the 3D task space using Extended Kalman Filters**|Sandro Costa Magalhães et.al.|[2406.03591v1](http://arxiv.org/abs/2406.03591v1)|null|
+|**2024-06-05**|**An Empirical Calibration of the Tip of the Red Giant Branch Distance Method in the Near Infrared. II. JWST NIRCam Wide Filters**|Max J. B. Newman et.al.|[2406.03532v1](http://arxiv.org/abs/2406.03532v1)|null|
 |**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
 |**2024-06-05**|**CattleFace-RGBT: RGB-T Cattle Facial Landmark Benchmark**|Ethan Coffman et.al.|[2406.03431v1](http://arxiv.org/abs/2406.03431v1)|null|
 |**2024-06-05**|**Probing the distinct extinction law of the Pillars of Creation in M16 with JWST**|Jun Li et.al.|[2406.03410v1](http://arxiv.org/abs/2406.03410v1)|null|
@@ -16,19 +32,3 @@
 |**2024-06-04**|**RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting**|Qi Wang et.al.|[2406.02461v1](http://arxiv.org/abs/2406.02461v1)|null|
 |**2024-06-04**|**How to Explore with Belief: State Entropy Maximization in POMDPs**|Riccardo Zamboni et.al.|[2406.02295v1](http://arxiv.org/abs/2406.02295v1)|null|
 |**2024-06-04**|**Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations**|Cyril Gapp et.al.|[2406.02179v1](http://arxiv.org/abs/2406.02179v1)|null|
-|**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
-|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147v1](http://arxiv.org/abs/2406.02147v1)|null|
-|**2024-06-04**|**Towards Railways Remote Driving: Analysis of Video Streaming Latency and Adaptive Rate Control**|Daniel Mejias et.al.|[2406.02062v1](http://arxiv.org/abs/2406.02062v1)|null|
-|**2024-06-04**|**Kinematic analysis of a parallel robot for minimally invasive surgery**|Calin Vaida et.al.|[2406.02047v1](http://arxiv.org/abs/2406.02047v1)|null|
-|**2024-06-04**|**Advancing Ultra-Reliable 6G: Transformer and Semantic Localization Empowered Robust Beamforming in Millimeter-Wave Communications**|Avi Deb Raha et.al.|[2406.02000v1](http://arxiv.org/abs/2406.02000v1)|null|
-|**2024-06-04**|**GRAM: Generative Retrieval Augmented Matching of Data Schemas in the Context of Data Security**|Xuanqing Liu et.al.|[2406.01876v1](http://arxiv.org/abs/2406.01876v1)|null|
-|**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843v1](http://arxiv.org/abs/2406.01843v1)|[link](https://github.com/intellabs/mmpano)|
-|**2024-06-03**|**A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios**|Enrico Martini et.al.|[2406.01832v1](http://arxiv.org/abs/2406.01832v1)|[link](https://github.com/penn-figueroa-lab/markerless-human-perception)|
-|**2024-06-03**|**EAGLE: Efficient Adaptive Geometry-based Learning in Cross-view Understanding**|Thanh-Dat Truong et.al.|[2406.01429v1](http://arxiv.org/abs/2406.01429v1)|null|
-|**2024-06-03**|**Sensitivity-Informed Augmentation for Robust Segmentation**|Laura Zheng et.al.|[2406.01425v3](http://arxiv.org/abs/2406.01425v3)|null|
-|**2024-06-03**|**A digital instrument simulator to optimize the development of hyperspectral systems: application for intraoperative functional brain mapping**|Charly Caredda et.al.|[2406.01217v1](http://arxiv.org/abs/2406.01217v1)|null|
-|**2024-06-03**|**Estimating Canopy Height at Scale**|Jan Pauls et.al.|[2406.01076v1](http://arxiv.org/abs/2406.01076v1)|[link](https://github.com/ai4forest/global-canopy-height-map)|
-|**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042v1](http://arxiv.org/abs/2406.01042v1)|[link](https://github.com/fangli333/sc-4dgs)|
-|**2024-06-03**|**Multi-Object Tracking based on Imaging Radar 3D Object Detection**|Patrick Palmer et.al.|[2406.01011v1](http://arxiv.org/abs/2406.01011v1)|null|
-|**2024-06-03**|**Uni-ISP: Unifying the Learning of ISPs from Multiple Cameras**|Lingen Li et.al.|[2406.01003v1](http://arxiv.org/abs/2406.01003v1)|null|
-|**2024-06-03**|**VERTECS: A COTS-based payload interface board to enable next generation astronomical imaging payloads**|Ezra Fielding et.al.|[2406.00935v1](http://arxiv.org/abs/2406.00935v1)|[link](https://github.com/ezrafielding/vertecs-ccb)|

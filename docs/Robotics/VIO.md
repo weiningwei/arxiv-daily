@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Typical representations for $\mathrm{Sp}_4(F)$**|Anne-Marie Aubert et.al.|[2406.04196v1](http://arxiv.org/abs/2406.04196v1)|null|
 |**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|
 |**2024-06-05**|**Heavy Particle Clustering in Inertial Subrange of High--Reynolds Number Turbulence**|Keigo Matsuda et.al.|[2406.03107v1](http://arxiv.org/abs/2406.03107v1)|null|
 |**2024-06-05**|**Physical Origin of H-Mode**|Kwan Chul Lee et.al.|[2406.02920v1](http://arxiv.org/abs/2406.02920v1)|null|
@@ -31,4 +32,3 @@
 |**2024-05-26**|**Electron-only reconnection and ion heating in 3D3V hybrid-Vlasov plasma turbulence**|C. Granier et.al.|[2405.16686v1](http://arxiv.org/abs/2405.16686v1)|null|
 |**2024-05-26**|**Dynamics Models in the Aggressive Off-Road Driving Regime**|Tyler Han et.al.|[2405.16487v1](http://arxiv.org/abs/2405.16487v1)|null|
 |**2024-05-25**|**A hybrid approach to model reduction of Generalized Langevin Dynamics**|Matteo Colangeli et.al.|[2405.16157v1](http://arxiv.org/abs/2405.16157v1)|null|
-|**2024-05-25**|**Lorentz group in gravity theories**|Jianbo Lu et.al.|[2405.16031v1](http://arxiv.org/abs/2405.16031v1)|null|
