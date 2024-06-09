@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
 |**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|null|
-|**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|null|
+|**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|[link](https://github.com/jokerjohn/ms-mapping)|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
 |**2024-06-03**|**C$^3$P-VoxelMap: Compact, Cumulative and Coalescible Probabilistic Voxel Mapping**|Xu Yang et.al.|[2406.01195v1](http://arxiv.org/abs/2406.01195v1)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929v1](http://arxiv.org/abs/2406.00929v1)|null|
