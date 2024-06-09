@@ -21,7 +21,7 @@
 |**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
 |**2024-06-05**|**CattleFace-RGBT: RGB-T Cattle Facial Landmark Benchmark**|Ethan Coffman et.al.|[2406.03431v1](http://arxiv.org/abs/2406.03431v1)|null|
 |**2024-06-05**|**Probing the distinct extinction law of the Pillars of Creation in M16 with JWST**|Jun Li et.al.|[2406.03410v1](http://arxiv.org/abs/2406.03410v1)|null|
-|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|null|
+|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|[link](https://github.com/alexduarte23/sred)|
 |**2024-06-05**|**FAPNet: An Effective Frequency Adaptive Point-based Eye Tracker**|Xiaopeng Lin et.al.|[2406.03177v1](http://arxiv.org/abs/2406.03177v1)|null|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129v1](http://arxiv.org/abs/2406.03129v1)|null|
 |**2024-06-05**|**EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2406.03095v2](http://arxiv.org/abs/2406.03095v2)|[link](https://github.com/fujiry0/egosurgery)|
