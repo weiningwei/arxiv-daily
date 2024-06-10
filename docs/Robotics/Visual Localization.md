@@ -11,8 +11,8 @@
 |**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129v1](http://arxiv.org/abs/2406.04129v1)|null|
 |**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835v1](http://arxiv.org/abs/2406.03835v1)|null|
-|**2024-06-06**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776v1](http://arxiv.org/abs/2406.03776v1)|null|
-|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v1](http://arxiv.org/abs/2406.03744v1)|null|
+|**2024-06-06**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776v2](http://arxiv.org/abs/2406.03776v2)|null|
+|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v2](http://arxiv.org/abs/2406.03744v2)|null|
 |**2024-06-06**|**Enhancing Sign Language Detection through Mediapipe and Convolutional Neural Networks (CNN)**|Aditya Raj Verma et.al.|[2406.03729v1](http://arxiv.org/abs/2406.03729v1)|null|
 |**2024-06-05**|**Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories**|Yan Zhang et.al.|[2406.03625v1](http://arxiv.org/abs/2406.03625v1)|null|
 |**2024-06-05**|**Hi5: 2D Hand Pose Estimation with Zero Human Annotation**|Masum Hasan et.al.|[2406.03599v1](http://arxiv.org/abs/2406.03599v1)|null|
