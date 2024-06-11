@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-07**|**A Tensor Decomposition Perspective on Second-order RNNs**|Maude Lizaire et.al.|[2406.05045v1](http://arxiv.org/abs/2406.05045v1)|null|
 |**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648v1](http://arxiv.org/abs/2406.04648v1)|null|
-|**2024-06-07**|**Metasurfaces for infrared multi-modal microscopy: phase contrast and bright field**|Shaban B. Sulejman et.al.|[2406.04576v1](http://arxiv.org/abs/2406.04576v1)|null|
+|**2024-06-07**|**Metasurfaces for infrared multi-modal microscopy: phase contrast and bright field**|Shaban B. Sulejman et.al.|[2406.04576v2](http://arxiv.org/abs/2406.04576v2)|null|
 |**2024-06-07**|**Camera-Pose Robust Crater Detection from Chang'e 5**|Matthew Rodda et.al.|[2406.04569v1](http://arxiv.org/abs/2406.04569v1)|null|
 |**2024-06-06**|**Sulfur Dioxide and Other Molecular Species in the Atmosphere of the Sub-Neptune GJ 3470 b**|Thomas G. Beatty et.al.|[2406.04450v1](http://arxiv.org/abs/2406.04450v1)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345v1](http://arxiv.org/abs/2406.04345v1)|[link](https://github.com/bartn8/vppstereo)|
