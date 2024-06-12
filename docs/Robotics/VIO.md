@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-11**|**On inertial Levenberg-Marquardt type methods for solving nonlinear ill-posed operator equations**|Antonio Leitão et.al.|[2406.07044v1](http://arxiv.org/abs/2406.07044v1)|null|
 |**2024-06-10**|**Hamonically trapped inertial run-and-tumble particle in one-dimension**|Debraj Dutta et.al.|[2406.06120v1](http://arxiv.org/abs/2406.06120v1)|null|
 |**2024-06-10**|**Elasticity of fibres prefers the chaos of turbulence**|Rahul K. Singh et.al.|[2406.06033v1](http://arxiv.org/abs/2406.06033v1)|null|
 |**2024-06-10**|**Turbulent spectra of 2D inertial gravity waves**|Michal Shavit et.al.|[2406.06010v1](http://arxiv.org/abs/2406.06010v1)|null|
@@ -10,6 +11,7 @@
 |**2024-06-07**|**Bose-Einstein condensate source on a optical grating-based atom chip for quantum sensor applications**|R. Calviac et.al.|[2406.04996v1](http://arxiv.org/abs/2406.04996v1)|null|
 |**2024-06-07**|**Impact of pressure anisotropy on the cascade rate of Hall-MHD turbulence with bi-adiabatic ions**|Pauline Simon et.al.|[2406.04978v1](http://arxiv.org/abs/2406.04978v1)|null|
 |**2024-06-06**|**Typical representations for $\mathrm{Sp}_4(F)$**|Anne-Marie Aubert et.al.|[2406.04196v1](http://arxiv.org/abs/2406.04196v1)|null|
+|**2024-06-06**|**Post-Einsteinian Effects in the General Theory of Relativity from Higher-Order Riemannian Geometry**|William Bies et.al.|[2406.06604v1](http://arxiv.org/abs/2406.06604v1)|null|
 |**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|
 |**2024-06-05**|**Heavy Particle Clustering in Inertial Subrange of High--Reynolds Number Turbulence**|Keigo Matsuda et.al.|[2406.03107v1](http://arxiv.org/abs/2406.03107v1)|null|
 |**2024-06-05**|**Physical Origin of H-Mode**|Kwan Chul Lee et.al.|[2406.02920v1](http://arxiv.org/abs/2406.02920v1)|null|
@@ -30,5 +32,3 @@
 |**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248v1](http://arxiv.org/abs/2405.20248v1)|null|
 |**2024-05-30**|**The backreaction of stellar wobbling on accretion discs of massive protostars**|D. M. -A. Meyer et.al.|[2405.19905v1](http://arxiv.org/abs/2405.19905v1)|null|
 |**2024-05-30**|**From Density Response to Energy Functionals and Back: An ab initio perspective on Matter Under Extreme Conditions**|Z. Moldabekov et.al.|[2405.20356v1](http://arxiv.org/abs/2405.20356v1)|null|
-|**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
-|**2024-05-29**|**Rocket motion**|Adel Alameh et.al.|[2406.00055v1](http://arxiv.org/abs/2406.00055v1)|null|
