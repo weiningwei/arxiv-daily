@@ -16,7 +16,7 @@
 |**2024-06-08**|**The PLATO Mission**|Heike Rauer et.al.|[2406.05447v1](http://arxiv.org/abs/2406.05447v1)|null|
 |**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v1](http://arxiv.org/abs/2406.05338v1)|null|
 |**2024-06-07**|**Lessons from the Cruise Robotaxi Pedestrian Dragging Mishap**|Philip Koopman et.al.|[2406.05281v1](http://arxiv.org/abs/2406.05281v1)|null|
-|**2024-06-07**|**A Tensor Decomposition Perspective on Second-order RNNs**|Maude Lizaire et.al.|[2406.05045v1](http://arxiv.org/abs/2406.05045v1)|null|
+|**2024-06-07**|**A Tensor Decomposition Perspective on Second-order RNNs**|Maude Lizaire et.al.|[2406.05045v1](http://arxiv.org/abs/2406.05045v1)|[link](https://github.com/MaudeLiz/cprnn)|
 |**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648v1](http://arxiv.org/abs/2406.04648v1)|null|
 |**2024-06-07**|**Metasurfaces for infrared multi-modal microscopy: phase contrast and bright field**|Shaban B. Sulejman et.al.|[2406.04576v2](http://arxiv.org/abs/2406.04576v2)|null|
 |**2024-06-07**|**Camera-Pose Robust Crater Detection from Chang'e 5**|Matthew Rodda et.al.|[2406.04569v1](http://arxiv.org/abs/2406.04569v1)|null|
@@ -27,7 +27,7 @@
 |**2024-06-06**|**SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.|[2406.04287v1](http://arxiv.org/abs/2406.04287v1)|null|
 |**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v2](http://arxiv.org/abs/2406.04254v2)|null|
 |**2024-06-06**|**Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**|Gabriel della Maggiora et.al.|[2406.04388v1](http://arxiv.org/abs/2406.04388v1)|null|
-|**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
+|**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|[link](https://github.com/qxc101/probeval_cfc)|
 |**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129v1](http://arxiv.org/abs/2406.04129v1)|null|
 |**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835v1](http://arxiv.org/abs/2406.03835v1)|null|
