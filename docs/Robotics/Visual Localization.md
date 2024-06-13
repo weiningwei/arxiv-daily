@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538v1](http://arxiv.org/abs/2406.07538v1)|null|
-|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v1](http://arxiv.org/abs/2406.07500v1)|null|
+|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|
 |**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329v1](http://arxiv.org/abs/2406.07329v1)|null|
 |**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318v1](http://arxiv.org/abs/2406.07318v1)|null|
 |**2024-06-11**|**Let Go of Your Labels with Unsupervised Transfer**|Artyom Gadetsky et.al.|[2406.07236v1](http://arxiv.org/abs/2406.07236v1)|[link](https://github.com/mlbio-epfl/turtle)|
@@ -29,6 +29,6 @@
 |**2024-06-09**|**Enhancing the light yield of He:CF$_4$ based gaseous detector**|F. D. Amaro et.al.|[2406.05713v1](http://arxiv.org/abs/2406.05713v1)|null|
 |**2024-06-09**|**MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation**|Yan Ma et.al.|[2406.05690v1](http://arxiv.org/abs/2406.05690v1)|[link](https://github.com/gair-nlp/mops)|
 |**2024-06-08**|**The PLATO Mission**|Heike Rauer et.al.|[2406.05447v1](http://arxiv.org/abs/2406.05447v1)|null|
-|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v1](http://arxiv.org/abs/2406.05338v1)|null|
+|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v2](http://arxiv.org/abs/2406.05338v2)|null|
 |**2024-06-07**|**Lessons from the Cruise Robotaxi Pedestrian Dragging Mishap**|Philip Koopman et.al.|[2406.05281v1](http://arxiv.org/abs/2406.05281v1)|null|
 |**2024-06-07**|**A Tensor Decomposition Perspective on Second-order RNNs**|Maude Lizaire et.al.|[2406.05045v1](http://arxiv.org/abs/2406.05045v1)|[link](https://github.com/MaudeLiz/cprnn)|
