@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|null|
 |**2024-06-11**|**On inertial Levenberg-Marquardt type methods for solving nonlinear ill-posed operator equations**|Antonio Leitão et.al.|[2406.07044v1](http://arxiv.org/abs/2406.07044v1)|null|
 |**2024-06-10**|**Harmonically trapped inertial run-and-tumble particle in one dimension**|Debraj Dutta et.al.|[2406.06120v2](http://arxiv.org/abs/2406.06120v2)|null|
 |**2024-06-10**|**Elasticity of fibres prefers the chaos of turbulence**|Rahul K. Singh et.al.|[2406.06033v1](http://arxiv.org/abs/2406.06033v1)|null|
@@ -31,4 +32,3 @@
 |**2024-05-31**|**The potential fluctuation and its interfacial phenomena in molecular, micro, macro, and cosmic flow instabilities**|Wei Li et.al.|[2406.02586v1](http://arxiv.org/abs/2406.02586v1)|null|
 |**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248v1](http://arxiv.org/abs/2405.20248v1)|null|
 |**2024-05-30**|**The backreaction of stellar wobbling on accretion discs of massive protostars**|D. M. -A. Meyer et.al.|[2405.19905v1](http://arxiv.org/abs/2405.19905v1)|null|
-|**2024-05-30**|**From Density Response to Energy Functionals and Back: An ab initio perspective on Matter Under Extreme Conditions**|Z. Moldabekov et.al.|[2405.20356v1](http://arxiv.org/abs/2405.20356v1)|null|

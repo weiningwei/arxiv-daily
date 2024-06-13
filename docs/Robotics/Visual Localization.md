@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v1](http://arxiv.org/abs/2406.08474v1)|null|
+|**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463v1](http://arxiv.org/abs/2406.08463v1)|null|
+|**2024-06-12**|**The Camera and Readout for the Trinity Demonstrator and the EUSO-SPB2 Cherenkov Telescope**|Mahdi Bagheri et.al.|[2406.08274v1](http://arxiv.org/abs/2406.08274v1)|null|
+|**2024-06-12**|**Valeo4Cast: A Modular Approach to End-to-End Forecasting**|Yihong Xu et.al.|[2406.08113v1](http://arxiv.org/abs/2406.08113v1)|null|
+|**2024-06-12**|**Multimodal Table Understanding**|Mingyu Zheng et.al.|[2406.08100v1](http://arxiv.org/abs/2406.08100v1)|[link](https://github.com/spursgozmy/table-llava)|
+|**2024-06-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090v1](http://arxiv.org/abs/2406.08090v1)|null|
+|**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951v1](http://arxiv.org/abs/2406.07951v1)|[link](https://github.com/queahren/demosaicformer)|
+|**2024-06-12**|**Scaling Manipulation Learning with Visual Kinematic Chain Prediction**|Xinyu Zhang et.al.|[2406.07837v1](http://arxiv.org/abs/2406.07837v1)|null|
+|**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833v1](http://arxiv.org/abs/2406.07833v1)|null|
+|**2024-06-11**|**A PRISMA Driven Systematic Review of Publicly Available Datasets for Benchmark and Model Developments for Industrial Defect Detection**|Can Akbas et.al.|[2406.07694v1](http://arxiv.org/abs/2406.07694v1)|null|
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538v1](http://arxiv.org/abs/2406.07538v1)|null|
 |**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|
 |**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329v1](http://arxiv.org/abs/2406.07329v1)|null|
@@ -22,13 +32,3 @@
 |**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422v1](http://arxiv.org/abs/2406.06422v1)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|[link](https://github.com/alterpang/multi_orb_slam)|
 |**2024-06-10**|**Relativistic and wide-angle corrections to galaxy power spectra**|Sheean Jolicoeur et.al.|[2406.06274v1](http://arxiv.org/abs/2406.06274v1)|null|
-|**2024-06-10**|**DualAD: Disentangling the Dynamic and Static World for End-to-End Driving**|Simon Doll et.al.|[2406.06264v1](http://arxiv.org/abs/2406.06264v1)|null|
-|**2024-06-10**|**Vript: A Video Is Worth Thousands of Words**|Dongjie Yang et.al.|[2406.06040v1](http://arxiv.org/abs/2406.06040v1)|[link](https://github.com/mutonix/vript)|
-|**2024-06-09**|**SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05800v1](http://arxiv.org/abs/2406.05800v1)|null|
-|**2024-06-09**|**Region of Interest Loss for Anonymizing Learned Image Compression**|Christoph Liebender et.al.|[2406.05726v1](http://arxiv.org/abs/2406.05726v1)|null|
-|**2024-06-09**|**Enhancing the light yield of He:CF$_4$ based gaseous detector**|F. D. Amaro et.al.|[2406.05713v1](http://arxiv.org/abs/2406.05713v1)|null|
-|**2024-06-09**|**MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation**|Yan Ma et.al.|[2406.05690v1](http://arxiv.org/abs/2406.05690v1)|[link](https://github.com/gair-nlp/mops)|
-|**2024-06-08**|**The PLATO Mission**|Heike Rauer et.al.|[2406.05447v1](http://arxiv.org/abs/2406.05447v1)|null|
-|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v2](http://arxiv.org/abs/2406.05338v2)|null|
-|**2024-06-07**|**Lessons from the Cruise Robotaxi Pedestrian Dragging Mishap**|Philip Koopman et.al.|[2406.05281v1](http://arxiv.org/abs/2406.05281v1)|null|
-|**2024-06-07**|**A Tensor Decomposition Perspective on Second-order RNNs**|Maude Lizaire et.al.|[2406.05045v1](http://arxiv.org/abs/2406.05045v1)|[link](https://github.com/MaudeLiz/cprnn)|

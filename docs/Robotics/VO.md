@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|null|
 |**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
 |**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|null|
 |**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|[link](https://github.com/jokerjohn/ms-mapping)|
@@ -31,4 +32,3 @@
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
 |**2024-04-30**|**Indoor Synthetic Aperture Radar Measurements of Point-Like Targets Using a Wheeled Mobile Robot**|Yuma E. Ritterbusch et.al.|[2405.00121v1](http://arxiv.org/abs/2405.00121v1)|null|
 |**2024-04-28**|**LIKO: LiDAR, Inertial, and Kinematic Odometry for Bipedal Robots**|Qingrui Zhao et.al.|[2404.18047v1](http://arxiv.org/abs/2404.18047v1)|null|
-|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745v1](http://arxiv.org/abs/2404.17745v1)|null|
