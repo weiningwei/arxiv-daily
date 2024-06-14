@@ -9,11 +9,11 @@
 |**2024-06-12**|**Multimodal Table Understanding**|Mingyu Zheng et.al.|[2406.08100v1](http://arxiv.org/abs/2406.08100v1)|[link](https://github.com/spursgozmy/table-llava)|
 |**2024-06-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090v1](http://arxiv.org/abs/2406.08090v1)|null|
 |**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951v1](http://arxiv.org/abs/2406.07951v1)|[link](https://github.com/queahren/demosaicformer)|
-|**2024-06-12**|**Scaling Manipulation Learning with Visual Kinematic Chain Prediction**|Xinyu Zhang et.al.|[2406.07837v1](http://arxiv.org/abs/2406.07837v1)|null|
+|**2024-06-12**|**Scaling Manipulation Learning with Visual Kinematic Chain Prediction**|Xinyu Zhang et.al.|[2406.07837v1](http://arxiv.org/abs/2406.07837v1)|[link](https://github.com/mlzxy/visual-kinetic-chain)|
 |**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833v1](http://arxiv.org/abs/2406.07833v1)|null|
 |**2024-06-11**|**A PRISMA Driven Systematic Review of Publicly Available Datasets for Benchmark and Model Developments for Industrial Defect Detection**|Can Akbas et.al.|[2406.07694v1](http://arxiv.org/abs/2406.07694v1)|null|
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538v1](http://arxiv.org/abs/2406.07538v1)|null|
-|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|
+|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|[link](https://github.com/vpulab/spin)|
 |**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329v1](http://arxiv.org/abs/2406.07329v1)|null|
 |**2024-06-11**|**Embedded Graph Convolutional Networks for Real-Time Event Data Processing on SoC FPGAs**|Kamil Jeziorek et.al.|[2406.07318v1](http://arxiv.org/abs/2406.07318v1)|null|
 |**2024-06-11**|**Let Go of Your Labels with Unsupervised Transfer**|Artyom Gadetsky et.al.|[2406.07236v1](http://arxiv.org/abs/2406.07236v1)|[link](https://github.com/mlbio-epfl/turtle)|

@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|null|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
 |**2024-06-11**|**On inertial Levenberg-Marquardt type methods for solving nonlinear ill-posed operator equations**|Antonio Leitão et.al.|[2406.07044v1](http://arxiv.org/abs/2406.07044v1)|null|
 |**2024-06-10**|**Harmonically trapped inertial run-and-tumble particle in one dimension**|Debraj Dutta et.al.|[2406.06120v2](http://arxiv.org/abs/2406.06120v2)|null|
 |**2024-06-10**|**Elasticity of fibres prefers the chaos of turbulence**|Rahul K. Singh et.al.|[2406.06033v1](http://arxiv.org/abs/2406.06033v1)|null|
