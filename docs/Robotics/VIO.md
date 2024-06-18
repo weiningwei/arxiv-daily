@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-17**|**Optimum signal duration for Human Activity Recognition based on Deep Convolutional Neural Networks**|Farhad Nazari et.al.|[2406.11164v1](http://arxiv.org/abs/2406.11164v1)|null|
+|**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
+|**2024-06-16**|**Collisional whistler instability and electron temperature staircase in inhomogeneous plasma**|N. A. Lopez et.al.|[2406.10979v1](http://arxiv.org/abs/2406.10979v1)|null|
+|**2024-06-16**|**Acceleration Noise Induced Decoherence in Stern-Gerlach Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2406.10832v1](http://arxiv.org/abs/2406.10832v1)|null|
+|**2024-06-15**|**Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study**|Dorothy Gogoi et.al.|[2406.10495v1](http://arxiv.org/abs/2406.10495v1)|null|
 |**2024-06-14**|**PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation**|Ignacio Alzugaray et.al.|[2406.09726v1](http://arxiv.org/abs/2406.09726v1)|null|
 |**2024-06-14**|**Jointed Tails Enhance Control of Three-dimensional Body Rotation**|Xun Fu et.al.|[2406.09700v1](http://arxiv.org/abs/2406.09700v1)|null|
 |**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v2](http://arxiv.org/abs/2406.09014v2)|null|
@@ -27,8 +32,3 @@
 |**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|[link](https://github.com/jokerjohn/ms-mapping)|
 |**2024-06-04**|**ODE-based Learning to Optimize**|Zhonglin Xie et.al.|[2406.02006v1](http://arxiv.org/abs/2406.02006v1)|[link](https://github.com/optsuite/o2o)|
 |**2024-06-03**|**Dynamic transition and Galilean relativity of current-driven skyrmions**|Max T. Birch et.al.|[2406.01847v1](http://arxiv.org/abs/2406.01847v1)|null|
-|**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
-|**2024-06-03**|**Enhancing Inertial Hand based HAR through Joint Representation of Language, Pose and Synthetic IMUs**|Vitor Fortes Rey et.al.|[2406.01316v1](http://arxiv.org/abs/2406.01316v1)|null|
-|**2024-06-03**|**C$^3$P-VoxelMap: Compact, Cumulative and Coalescible Probabilistic Voxel Mapping**|Xu Yang et.al.|[2406.01195v1](http://arxiv.org/abs/2406.01195v1)|null|
-|**2024-06-03**|**Dynamical clustering and wetting phenomena in inertial active matter**|Lorenzo Caprini et.al.|[2406.01038v1](http://arxiv.org/abs/2406.01038v1)|null|
-|**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929v1](http://arxiv.org/abs/2406.00929v1)|null|
