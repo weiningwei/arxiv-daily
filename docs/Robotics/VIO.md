@@ -11,7 +11,7 @@
 |**2024-06-10**|**Harmonically trapped inertial run-and-tumble particle in one dimension**|Debraj Dutta et.al.|[2406.06120v2](http://arxiv.org/abs/2406.06120v2)|null|
 |**2024-06-10**|**Elasticity of fibres prefers the chaos of turbulence**|Rahul K. Singh et.al.|[2406.06033v1](http://arxiv.org/abs/2406.06033v1)|null|
 |**2024-06-10**|**Turbulent spectra of 2D inertial gravity waves**|Michal Shavit et.al.|[2406.06010v1](http://arxiv.org/abs/2406.06010v1)|null|
-|**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v1](http://arxiv.org/abs/2406.05969v1)|null|
+|**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v2](http://arxiv.org/abs/2406.05969v2)|null|
 |**2024-06-09**|**Structure and energy transfer in homogeneous turbulence below a free surface**|Daniel J. Ruth et.al.|[2406.05889v1](http://arxiv.org/abs/2406.05889v1)|null|
 |**2024-06-07**|**Bose-Einstein condensate source on a optical grating-based atom chip for quantum sensor applications**|R. Calviac et.al.|[2406.04996v1](http://arxiv.org/abs/2406.04996v1)|null|
 |**2024-06-07**|**Impact of pressure anisotropy on the cascade rate of Hall-MHD turbulence with bi-adiabatic ions**|Pauline Simon et.al.|[2406.04978v1](http://arxiv.org/abs/2406.04978v1)|null|
