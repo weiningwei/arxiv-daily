@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849v1](http://arxiv.org/abs/2406.12849v1)|null|
+|**2024-06-18**|**SUPER: Selfie Undistortion and Head Pose Editing with Identity Preservation**|Polina Karpikova et.al.|[2406.12700v1](http://arxiv.org/abs/2406.12700v1)|null|
+|**2024-06-18**|**A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo**|Miguel Vasco et.al.|[2406.12563v1](http://arxiv.org/abs/2406.12563v1)|null|
+|**2024-06-18**|**Demonstrating Agile Flight from Pixels without State Estimation**|Ismail Geles et.al.|[2406.12505v1](http://arxiv.org/abs/2406.12505v1)|null|
+|**2024-06-18**|**PCA-Relax: Deep-learning-based groupwise registration for motion correction of cardiac $T_1$ mapping**|Yi Zhang et.al.|[2406.12456v1](http://arxiv.org/abs/2406.12456v1)|null|
+|**2024-06-18**|**Insect Identification in the Wild: The AMI Dataset**|Aditya Jain et.al.|[2406.12452v1](http://arxiv.org/abs/2406.12452v1)|[link](https://github.com/rolnicklab/ami-dataset)|
+|**2024-06-18**|**Cycle-Correspondence Loss: Learning Dense View-Invariant Visual Features from Unlabeled and Unordered RGB Images**|David B. Adrian et.al.|[2406.12441v1](http://arxiv.org/abs/2406.12441v1)|null|
+|**2024-06-18**|**Recognition of Dynamic Hand Gestures in Long Distance using a Web-Camera for Robot Guidance**|Eran Bamani Beeri et.al.|[2406.12424v1](http://arxiv.org/abs/2406.12424v1)|null|
+|**2024-06-18**|**LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**|Yunze Deng et.al.|[2406.12355v1](http://arxiv.org/abs/2406.12355v1)|null|
+|**2024-06-18**|**Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning**|Ruiqi Wu et.al.|[2406.12316v1](http://arxiv.org/abs/2406.12316v1)|null|
+|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214v1](http://arxiv.org/abs/2406.12214v1)|null|
+|**2024-06-18**|**PCIE_LAM Solution for Ego4D Looking At Me Challenge**|Kanokphan Lertniphonphan et.al.|[2406.12211v1](http://arxiv.org/abs/2406.12211v1)|[link](https://github.com/kanokphanl/ego4d_lam_internlstm)|
+|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095v1](http://arxiv.org/abs/2406.12095v1)|null|
+|**2024-06-17**|**Deep HM-SORT: Enhancing Multi-Object Tracking in Sports with Deep Features, Harmonic Mean, and Expansion IOU**|Matias Gran-Henriksen et.al.|[2406.12081v1](http://arxiv.org/abs/2406.12081v1)|null|
+|**2024-06-17**|**MEDeA: Multi-view Efficient Depth Adjustment**|Mikhail Artemyev et.al.|[2406.12048v1](http://arxiv.org/abs/2406.12048v1)|null|
 |**2024-06-17**|**Deep Learning methodology for the identification of wood species using high-resolution macroscopic images**|David Herrera-Poyatos et.al.|[2406.11772v1](http://arxiv.org/abs/2406.11772v1)|null|
 |**2024-06-17**|**Solving Vision Tasks with Simple Photoreceptors Instead of Cameras**|Andrei Atanov et.al.|[2406.11769v1](http://arxiv.org/abs/2406.11769v1)|null|
 |**2024-06-17**|**PLATO's signal and noise budget**|Anko Börner et.al.|[2406.11556v1](http://arxiv.org/abs/2406.11556v1)|null|
@@ -17,18 +32,3 @@
 |**2024-06-16**|**WALLABY Pilot Survey: the Tully-Fisher relation in the NGC 4808, Vela and NGC 5044 fields**|Jeremy Mould et.al.|[2406.10877v1](http://arxiv.org/abs/2406.10877v1)|null|
 |**2024-06-16**|**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**|Jad Abou-Chakra et.al.|[2406.10788v1](http://arxiv.org/abs/2406.10788v1)|null|
 |**2024-06-15**|**EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos**|Vineet Parikh et.al.|[2406.10750v1](http://arxiv.org/abs/2406.10750v1)|null|
-|**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724v1](http://arxiv.org/abs/2406.10724v1)|[link](https://github.com/utat-ss/FINCH-destriping)|
-|**2024-06-15**|**Inverse Kinematics with Vision-Based Constraints**|Liangting Wu et.al.|[2406.10682v1](http://arxiv.org/abs/2406.10682v1)|null|
-|**2024-06-15**|**fNeRF: High Quality Radiance Fields from Practical Cameras**|Yi Hua et.al.|[2406.10633v1](http://arxiv.org/abs/2406.10633v1)|null|
-|**2024-06-15**|**Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey**|Anil Bhujel et.al.|[2406.10628v1](http://arxiv.org/abs/2406.10628v1)|null|
-|**2024-06-15**|**Beyond Raw Videos: Understanding Edited Videos with Large Multimodal Model**|Lu Xu et.al.|[2406.10484v1](http://arxiv.org/abs/2406.10484v1)|null|
-|**2024-06-15**|**HumanPlus: Humanoid Shadowing and Imitation from Humans**|Zipeng Fu et.al.|[2406.10454v1](http://arxiv.org/abs/2406.10454v1)|null|
-|**2024-06-14**|**The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences**|Bria Long et.al.|[2406.10447v1](http://arxiv.org/abs/2406.10447v1)|null|
-|**2024-06-14**|**Determination of the Number of Topics Intrinsically: Is It Possible?**|Victor Bulatov et.al.|[2406.10402v1](http://arxiv.org/abs/2406.10402v1)|null|
-|**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373v1](http://arxiv.org/abs/2406.10373v1)|null|
-|**2024-06-14**|**CANUCS: Constraining the MACS J0416.1-2403 Strong Lensing Model with JWST NIRISS, NIRSpec and NIRCam**|Gregor Rihtaršič et.al.|[2406.10332v1](http://arxiv.org/abs/2406.10332v1)|null|
-|**2024-06-14**|**4DRecons: 4D Neural Implicit Deformable Objects Reconstruction from a single RGB-D Camera with Geometrical and Topological Regularizations**|Xiaoyan Cong et.al.|[2406.10167v1](http://arxiv.org/abs/2406.10167v1)|null|
-|**2024-06-14**|**CarLLaVA: Vision language models for camera-only closed-loop driving**|Katrin Renz et.al.|[2406.10165v1](http://arxiv.org/abs/2406.10165v1)|null|
-|**2024-06-14**|**RoboGolf: Mastering Real-World Minigolf with a Reflective Multi-Modality Vision-Language Model**|Hantao Zhou et.al.|[2406.10157v1](http://arxiv.org/abs/2406.10157v1)|null|
-|**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126v1](http://arxiv.org/abs/2406.10126v1)|null|
-|**2024-06-14**|**MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**|Zhongyu Yang et.al.|[2406.10125v1](http://arxiv.org/abs/2406.10125v1)|null|

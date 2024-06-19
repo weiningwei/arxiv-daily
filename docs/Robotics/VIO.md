@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**Unsupervised explainable activity prediction in competitive Nordic Walking from experimental data**|Silvia García-Méndez et.al.|[2406.12762v1](http://arxiv.org/abs/2406.12762v1)|null|
 |**2024-06-17**|**Optimum signal duration for Human Activity Recognition based on Deep Convolutional Neural Networks**|Farhad Nazari et.al.|[2406.11164v1](http://arxiv.org/abs/2406.11164v1)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
 |**2024-06-16**|**Collisional whistler instability and electron temperature staircase in inhomogeneous plasma**|N. A. Lopez et.al.|[2406.10979v1](http://arxiv.org/abs/2406.10979v1)|null|
@@ -31,4 +32,3 @@
 |**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|null|
 |**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|[link](https://github.com/jokerjohn/ms-mapping)|
 |**2024-06-04**|**ODE-based Learning to Optimize**|Zhonglin Xie et.al.|[2406.02006v1](http://arxiv.org/abs/2406.02006v1)|[link](https://github.com/optsuite/o2o)|
-|**2024-06-03**|**Dynamic transition and Galilean relativity of current-driven skyrmions**|Max T. Birch et.al.|[2406.01847v1](http://arxiv.org/abs/2406.01847v1)|null|
