@@ -11,13 +11,13 @@
 |**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284v1](http://arxiv.org/abs/2406.11284v1)|null|
 |**2024-06-16**|**GANmut: Generating and Modifying Facial Expressions**|Maria Surani et.al.|[2406.11079v1](http://arxiv.org/abs/2406.11079v1)|null|
 |**2024-06-16**|**Parameter Blending for Multi-Camera Harmonization for Automotive Surround View Systems**|Yuzhuo Ren et.al.|[2406.11066v1](http://arxiv.org/abs/2406.11066v1)|null|
-|**2024-06-16**|**FastPoseCNN: Real-Time Monocular Category-Level Pose and Size Estimation Framework**|Eduardo Davalos et.al.|[2406.11063v1](http://arxiv.org/abs/2406.11063v1)|null|
+|**2024-06-16**|**FastPoseCNN: Real-Time Monocular Category-Level Pose and Size Estimation Framework**|Eduardo Davalos et.al.|[2406.11063v1](http://arxiv.org/abs/2406.11063v1)|[link](https://github.com/edavalosanaya/FastPoseCNN)|
 |**2024-06-16**|**$α$-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021v1](http://arxiv.org/abs/2406.11021v1)|null|
 |**2024-06-16**|**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**|Eduardo Davalos et.al.|[2406.11003v1](http://arxiv.org/abs/2406.11003v1)|null|
 |**2024-06-16**|**WALLABY Pilot Survey: the Tully-Fisher relation in the NGC 4808, Vela and NGC 5044 fields**|Jeremy Mould et.al.|[2406.10877v1](http://arxiv.org/abs/2406.10877v1)|null|
 |**2024-06-16**|**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**|Jad Abou-Chakra et.al.|[2406.10788v1](http://arxiv.org/abs/2406.10788v1)|null|
 |**2024-06-15**|**EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos**|Vineet Parikh et.al.|[2406.10750v1](http://arxiv.org/abs/2406.10750v1)|null|
-|**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724v1](http://arxiv.org/abs/2406.10724v1)|null|
+|**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724v1](http://arxiv.org/abs/2406.10724v1)|[link](https://github.com/utat-ss/FINCH-destriping)|
 |**2024-06-15**|**Inverse Kinematics with Vision-Based Constraints**|Liangting Wu et.al.|[2406.10682v1](http://arxiv.org/abs/2406.10682v1)|null|
 |**2024-06-15**|**fNeRF: High Quality Radiance Fields from Practical Cameras**|Yi Hua et.al.|[2406.10633v1](http://arxiv.org/abs/2406.10633v1)|null|
 |**2024-06-15**|**Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey**|Anil Bhujel et.al.|[2406.10628v1](http://arxiv.org/abs/2406.10628v1)|null|
