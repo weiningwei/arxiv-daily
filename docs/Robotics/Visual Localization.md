@@ -12,7 +12,7 @@
 |**2024-06-18**|**Recognition of Dynamic Hand Gestures in Long Distance using a Web-Camera for Robot Guidance**|Eran Bamani Beeri et.al.|[2406.12424v1](http://arxiv.org/abs/2406.12424v1)|null|
 |**2024-06-18**|**LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**|Yunze Deng et.al.|[2406.12355v1](http://arxiv.org/abs/2406.12355v1)|null|
 |**2024-06-18**|**Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning**|Ruiqi Wu et.al.|[2406.12316v1](http://arxiv.org/abs/2406.12316v1)|null|
-|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214v1](http://arxiv.org/abs/2406.12214v1)|null|
+|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214v2](http://arxiv.org/abs/2406.12214v2)|null|
 |**2024-06-18**|**PCIE_LAM Solution for Ego4D Looking At Me Challenge**|Kanokphan Lertniphonphan et.al.|[2406.12211v1](http://arxiv.org/abs/2406.12211v1)|[link](https://github.com/kanokphanl/ego4d_lam_internlstm)|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095v1](http://arxiv.org/abs/2406.12095v1)|null|
 |**2024-06-17**|**Deep HM-SORT: Enhancing Multi-Object Tracking in Sports with Deep Features, Harmonic Mean, and Expansion IOU**|Matias Gran-Henriksen et.al.|[2406.12081v1](http://arxiv.org/abs/2406.12081v1)|null|
