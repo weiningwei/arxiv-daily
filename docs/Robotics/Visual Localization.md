@@ -29,6 +29,6 @@
 |**2024-06-16**|**FastPoseCNN: Real-Time Monocular Category-Level Pose and Size Estimation Framework**|Eduardo Davalos et.al.|[2406.11063v1](http://arxiv.org/abs/2406.11063v1)|[link](https://github.com/edavalosanaya/FastPoseCNN)|
 |**2024-06-16**|**$α$-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021v1](http://arxiv.org/abs/2406.11021v1)|null|
 |**2024-06-16**|**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**|Eduardo Davalos et.al.|[2406.11003v1](http://arxiv.org/abs/2406.11003v1)|null|
-|**2024-06-16**|**WALLABY Pilot Survey: the Tully-Fisher relation in the NGC 4808, Vela and NGC 5044 fields**|Jeremy Mould et.al.|[2406.10877v1](http://arxiv.org/abs/2406.10877v1)|null|
+|**2024-06-16**|**WALLABY Pilot Survey: the Tully-Fisher relation in the NGC 4808, Vela and NGC 5044 fields**|Jeremy Mould et.al.|[2406.10877v2](http://arxiv.org/abs/2406.10877v2)|null|
 |**2024-06-16**|**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**|Jad Abou-Chakra et.al.|[2406.10788v1](http://arxiv.org/abs/2406.10788v1)|null|
 |**2024-06-15**|**EchoGuide: Active Acoustic Guidance for LLM-Based Eating Event Analysis from Egocentric Videos**|Vineet Parikh et.al.|[2406.10750v1](http://arxiv.org/abs/2406.10750v1)|null|
