@@ -8,11 +8,11 @@
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-20**|**A tensor model for calibration and imaging with air-coupled ultrasonic sensor arrays**|Raphael Müller et.al.|[2406.14355v1](http://arxiv.org/abs/2406.14355v1)|null|
 |**2024-06-20**|**Unleashing the Potential of Tracklets for Unsupervised Video Person Re-Identification**|Nanxing Meng et.al.|[2406.14261v1](http://arxiv.org/abs/2406.14261v1)|null|
-|**2024-06-20**|**DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation**|Deguo Xia et.al.|[2406.14255v1](http://arxiv.org/abs/2406.14255v1)|null|
+|**2024-06-20**|**DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation**|Deguo Xia et.al.|[2406.14255v1](http://arxiv.org/abs/2406.14255v1)|[link](https://github.com/XiyanLiu/DuMapNet)|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226v1](http://arxiv.org/abs/2406.14226v1)|null|
 |**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178v1](http://arxiv.org/abs/2406.14178v1)|null|
 |**2024-06-20**|**Pixel-scale NIR-VIS Spectral Routers Based on 2D Mie-type Metagratings**|Yifan Shao et.al.|[2406.13970v1](http://arxiv.org/abs/2406.13970v1)|null|
-|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951v1](http://arxiv.org/abs/2406.13951v1)|null|
+|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951v1](http://arxiv.org/abs/2406.13951v1)|[link](https://github.com/OUCVisionGroup/TISC-Net)|
 |**2024-06-20**|**The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**|Huthaifa I. Ashqar et.al.|[2406.13898v1](http://arxiv.org/abs/2406.13898v1)|null|
 |**2024-06-19**|**Overview of the Optical Design of the CMB-S4 Large Aperture Telescopes and Camera Optics**|Patricio A. Gallardo et.al.|[2406.13854v1](http://arxiv.org/abs/2406.13854v1)|null|
 |**2024-06-19**|**An Embedded Intelligent System for Attendance Monitoring**|Touzene Abderraouf et.al.|[2406.13694v1](http://arxiv.org/abs/2406.13694v1)|null|
