@@ -16,8 +16,8 @@
 |**2024-06-15**|**Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study**|Dorothy Gogoi et.al.|[2406.10495v1](http://arxiv.org/abs/2406.10495v1)|null|
 |**2024-06-14**|**PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation**|Ignacio Alzugaray et.al.|[2406.09726v1](http://arxiv.org/abs/2406.09726v1)|null|
 |**2024-06-14**|**Jointed Tails Enhance Control of Three-dimensional Body Rotation**|Xun Fu et.al.|[2406.09700v1](http://arxiv.org/abs/2406.09700v1)|null|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v2](http://arxiv.org/abs/2406.09014v2)|null|
-|**2024-06-13**|**Strong asymptotic convergence of an inertial primal-dual dynamical system with a slow damping controlled by a Tikhonov regularization term**|Ting-Ting Zhu et.al.|[2406.08836v2](http://arxiv.org/abs/2406.08836v2)|null|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v3](http://arxiv.org/abs/2406.09014v3)|null|
+|**2024-06-13**|**Strong asymptotic convergence of a slowly damped inertial primal-dual dynamical system controlled by a Tikhonov regularization term**|Ting-Ting Zhu et.al.|[2406.08836v3](http://arxiv.org/abs/2406.08836v3)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
 |**2024-06-11**|**On inertial Levenberg-Marquardt type methods for solving nonlinear ill-posed operator equations**|Antonio Leitão et.al.|[2406.07044v1](http://arxiv.org/abs/2406.07044v1)|null|
 |**2024-06-10**|**Harmonically trapped inertial run-and-tumble particle in one dimension**|Debraj Dutta et.al.|[2406.06120v2](http://arxiv.org/abs/2406.06120v2)|null|
