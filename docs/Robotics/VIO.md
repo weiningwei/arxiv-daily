@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
+|**2024-06-20**|**Gravitational Scattering and Beyond from Extreme Mass Ratio Effective Field Theory**|Clifford Cheung et.al.|[2406.14770v1](http://arxiv.org/abs/2406.14770v1)|null|
 |**2024-06-20**|**LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**|Sheikh Asif Imran et.al.|[2406.14498v1](http://arxiv.org/abs/2406.14498v1)|[link](https://github.com/bashlab/llasa)|
 |**2024-06-20**|**The Bose-Marletto-Vedral proposal in different frames of reference and the quantum nature of gravity**|Antonia Weber et.al.|[2406.14334v1](http://arxiv.org/abs/2406.14334v1)|null|
 |**2024-06-19**|**Effects of settling on inertial particle slip velocity statistics in wall bounded flows**|Andrew P. Grace et.al.|[2406.13680v1](http://arxiv.org/abs/2406.13680v1)|null|
@@ -30,5 +32,3 @@
 |**2024-06-06**|**Typical representations for $\mathrm{Sp}_4(F)$**|Anne-Marie Aubert et.al.|[2406.04196v1](http://arxiv.org/abs/2406.04196v1)|null|
 |**2024-06-06**|**Post-Einsteinian Effects in the General Theory of Relativity from Higher-Order Riemannian Geometry**|William Bies et.al.|[2406.06604v1](http://arxiv.org/abs/2406.06604v1)|null|
 |**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|
-|**2024-06-05**|**Heavy Particle Clustering in Inertial Subrange of High--Reynolds Number Turbulence**|Keigo Matsuda et.al.|[2406.03107v1](http://arxiv.org/abs/2406.03107v1)|null|
-|**2024-06-05**|**Physical Origin of H-Mode**|Kwan Chul Lee et.al.|[2406.02920v1](http://arxiv.org/abs/2406.02920v1)|null|

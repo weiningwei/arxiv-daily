@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-24 09:46:31 Asia/Shanghai
+ Automated deployment @ 2024-06-24 20:14:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
+|**2024-06-20**|**Gravitational Scattering and Beyond from Extreme Mass Ratio Effective Field Theory**|Clifford Cheung et.al.|[2406.14770v1](http://arxiv.org/abs/2406.14770v1)|null|
 |**2024-06-20**|**LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**|Sheikh Asif Imran et.al.|[2406.14498v1](http://arxiv.org/abs/2406.14498v1)|[link](https://github.com/bashlab/llasa)|
 |**2024-06-20**|**The Bose-Marletto-Vedral proposal in different frames of reference and the quantum nature of gravity**|Antonia Weber et.al.|[2406.14334v1](http://arxiv.org/abs/2406.14334v1)|null|
 |**2024-06-19**|**Effects of settling on inertial particle slip velocity statistics in wall bounded flows**|Andrew P. Grace et.al.|[2406.13680v1](http://arxiv.org/abs/2406.13680v1)|null|
@@ -36,12 +38,11 @@
 |**2024-06-06**|**Typical representations for $\mathrm{Sp}_4(F)$**|Anne-Marie Aubert et.al.|[2406.04196v1](http://arxiv.org/abs/2406.04196v1)|null|
 |**2024-06-06**|**Post-Einsteinian Effects in the General Theory of Relativity from Higher-Order Riemannian Geometry**|William Bies et.al.|[2406.06604v1](http://arxiv.org/abs/2406.06604v1)|null|
 |**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|
-|**2024-06-05**|**Heavy Particle Clustering in Inertial Subrange of High--Reynolds Number Turbulence**|Keigo Matsuda et.al.|[2406.03107v1](http://arxiv.org/abs/2406.03107v1)|null|
-|**2024-06-05**|**Physical Origin of H-Mode**|Kwan Chul Lee et.al.|[2406.02920v1](http://arxiv.org/abs/2406.02920v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
 |**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345v1](http://arxiv.org/abs/2406.13345v1)|null|
 |**2024-06-19**|**The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots**|Arnaud Demont et.al.|[2406.13267v1](http://arxiv.org/abs/2406.13267v1)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
@@ -71,11 +72,23 @@
 |**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210v1](http://arxiv.org/abs/2405.05210v1)|[link](https://github.com/mit-acl/motlee)|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
-|**2024-05-06**|**Direct learning of home vector direction for insect-inspired robot navigation**|Michiel Firlefyn et.al.|[2405.03827v1](http://arxiv.org/abs/2405.03827v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339v1](http://arxiv.org/abs/2406.15339v1)|null|
+|**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121v1](http://arxiv.org/abs/2406.15121v1)|null|
+|**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118v1](http://arxiv.org/abs/2406.15118v1)|null|
+|**2024-06-21**|**Finding (and exploiting) vulnerabilities on IP Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study**|Dario Stabili et.al.|[2406.15103v1](http://arxiv.org/abs/2406.15103v1)|null|
+|**2024-06-21**|**The Dragonfly Spectral Line Mapper: Completion of the 120-lens array**|Seery Chen et.al.|[2406.15101v1](http://arxiv.org/abs/2406.15101v1)|null|
+|**2024-06-21**|**3D-Localization of Single Point-Like Gamma Sources with a Coded Aperture Camera**|Tobias Meißner et.al.|[2406.15048v1](http://arxiv.org/abs/2406.15048v1)|null|
+|**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|[link](https://github.com/deguchihiroyuki/e2gs)|
+|**2024-06-21**|**FC3DNet: A Fully Connected Encoder-Decoder for Efficient Demoir'eing**|Zhibo Du et.al.|[2406.14912v1](http://arxiv.org/abs/2406.14912v1)|null|
+|**2024-06-21**|**New Candidates for Organic-rich Regions on Ceres**|J. L. Rizos et.al.|[2406.14893v1](http://arxiv.org/abs/2406.14893v1)|null|
+|**2024-06-21**|**Towards Timely Video Analytics Services at the Network Edge**|Xishuo Li et.al.|[2406.14820v1](http://arxiv.org/abs/2406.14820v1)|null|
+|**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
+|**2024-06-21**|**Camera-Invariant Meta-Learning Network for Single-Camera-Training Person Re-identification**|Jiangbo Pei et.al.|[2406.14797v1](http://arxiv.org/abs/2406.14797v1)|null|
+|**2024-06-20**|**Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation**|Chunyuan Deng et.al.|[2406.14644v1](http://arxiv.org/abs/2406.14644v1)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436v1](http://arxiv.org/abs/2406.14436v1)|null|
 |**2024-06-20**|**Learning Binary Color Filter Arrays with Trainable Hard Thresholding**|Cemre Omer Ayna et.al.|[2406.14421v1](http://arxiv.org/abs/2406.14421v1)|null|
 |**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412v1](http://arxiv.org/abs/2406.14412v1)|null|
@@ -93,19 +106,6 @@
 |**2024-06-19**|**Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks**|Jialiang Zhao et.al.|[2406.13640v1](http://arxiv.org/abs/2406.13640v1)|null|
 |**2024-06-19**|**CNN Based Flank Predictor for Quadruped Animal Species**|Vanessa Suessle et.al.|[2406.13588v1](http://arxiv.org/abs/2406.13588v1)|null|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515v1](http://arxiv.org/abs/2406.13515v1)|null|
-|**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345v1](http://arxiv.org/abs/2406.13345v1)|null|
-|**2024-06-19**|**WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation**|Yilin Ding et.al.|[2406.13344v1](http://arxiv.org/abs/2406.13344v1)|[link](https://github.com/oucvisiongroup/watermono)|
-|**2024-06-19**|**Hierarchical IoU Tracking based on Interval**|Yunhao Du et.al.|[2406.13271v1](http://arxiv.org/abs/2406.13271v1)|null|
-|**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251v1](http://arxiv.org/abs/2406.13251v1)|[link](https://github.com/yi0109/freqmipaa)|
-|**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099v1](http://arxiv.org/abs/2406.13099v1)|null|
-|**2024-06-18**|**NaviSplit: Dynamic Multi-Branch Split DNNs for Efficient Distributed Autonomous Navigation**|Timothy K Johnsen et.al.|[2406.13086v1](http://arxiv.org/abs/2406.13086v1)|null|
-|**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048v1](http://arxiv.org/abs/2406.13048v1)|null|
-|**2024-06-18**|**A machine learning pipeline for automated insect monitoring**|Aditya Jain et.al.|[2406.13031v1](http://arxiv.org/abs/2406.13031v1)|null|
-|**2024-06-18**|**Forgotten treasures in the HST/FOC UV imaging polarimetric archives of active galactic nuclei. II. Mrk 463E**|Thibault Barnouin et.al.|[2406.13021v1](http://arxiv.org/abs/2406.13021v1)|null|
-|**2024-06-18**|**NTIRE 2024 Challenge on Night Photography Rendering**|Egor Ershov et.al.|[2406.13007v1](http://arxiv.org/abs/2406.13007v1)|null|
-|**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849v1](http://arxiv.org/abs/2406.12849v1)|null|
-|**2024-06-18**|**SUPER: Selfie Undistortion and Head Pose Editing with Identity Preservation**|Polina Karpikova et.al.|[2406.12700v1](http://arxiv.org/abs/2406.12700v1)|null|
-|**2024-06-18**|**A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo**|Miguel Vasco et.al.|[2406.12563v1](http://arxiv.org/abs/2406.12563v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
