@@ -5,7 +5,7 @@
 |**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339v1](http://arxiv.org/abs/2406.15339v1)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121v1](http://arxiv.org/abs/2406.15121v1)|null|
 |**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118v1](http://arxiv.org/abs/2406.15118v1)|null|
-|**2024-06-21**|**Finding (and exploiting) vulnerabilities on IP Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study**|Dario Stabili et.al.|[2406.15103v1](http://arxiv.org/abs/2406.15103v1)|null|
+|**2024-06-21**|**Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study**|Dario Stabili et.al.|[2406.15103v2](http://arxiv.org/abs/2406.15103v2)|null|
 |**2024-06-21**|**The Dragonfly Spectral Line Mapper: Completion of the 120-lens array**|Seery Chen et.al.|[2406.15101v1](http://arxiv.org/abs/2406.15101v1)|null|
 |**2024-06-21**|**3D-Localization of Single Point-Like Gamma Sources with a Coded Aperture Camera**|Tobias Meißner et.al.|[2406.15048v1](http://arxiv.org/abs/2406.15048v1)|null|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|[link](https://github.com/deguchihiroyuki/e2gs)|
