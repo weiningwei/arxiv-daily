@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**PenSLR: Persian end-to-end Sign Language Recognition Using Ensembling**|Amirparsa Salmankhah et.al.|[2406.16388v1](http://arxiv.org/abs/2406.16388v1)|null|
+|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v1](http://arxiv.org/abs/2406.16087v1)|null|
 |**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
 |**2024-06-20**|**Gravitational Scattering and Beyond from Extreme Mass Ratio Effective Field Theory**|Clifford Cheung et.al.|[2406.14770v1](http://arxiv.org/abs/2406.14770v1)|null|
 |**2024-06-20**|**LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**|Sheikh Asif Imran et.al.|[2406.14498v1](http://arxiv.org/abs/2406.14498v1)|[link](https://github.com/bashlab/llasa)|
@@ -30,5 +32,3 @@
 |**2024-06-07**|**Bose-Einstein condensate source on a optical grating-based atom chip for quantum sensor applications**|R. Calviac et.al.|[2406.04996v1](http://arxiv.org/abs/2406.04996v1)|null|
 |**2024-06-07**|**Impact of pressure anisotropy on the cascade rate of Hall-MHD turbulence with bi-adiabatic ions**|Pauline Simon et.al.|[2406.04978v1](http://arxiv.org/abs/2406.04978v1)|null|
 |**2024-06-06**|**Typical representations for $\mathrm{Sp}_4(F)$**|Anne-Marie Aubert et.al.|[2406.04196v1](http://arxiv.org/abs/2406.04196v1)|null|
-|**2024-06-06**|**Post-Einsteinian Effects in the General Theory of Relativity from Higher-Order Riemannian Geometry**|William Bies et.al.|[2406.06604v1](http://arxiv.org/abs/2406.06604v1)|null|
-|**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|

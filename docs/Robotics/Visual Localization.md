@@ -2,7 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853v1](http://arxiv.org/abs/2406.16853v1)|[link](https://github.com/c-tl/geomformer)|
+|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713v1](http://arxiv.org/abs/2406.16713v1)|null|
+|**2024-06-24**|**A versatile and transportable endstation for controlled molecule experiments**|Wuwei Jin et.al.|[2406.16491v1](http://arxiv.org/abs/2406.16491v1)|null|
+|**2024-06-24**|**Project Management for Ground-based Telescope Array Development**|Ji Hoon Kim et.al.|[2406.16470v1](http://arxiv.org/abs/2406.16470v1)|null|
+|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
+|**2024-06-24**|**LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing**|Jiangshu Du et.al.|[2406.16253v1](http://arxiv.org/abs/2406.16253v1)|null|
+|**2024-06-23**|**Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images**|Sukanya Patra et.al.|[2406.16077v1](http://arxiv.org/abs/2406.16077v1)|null|
+|**2024-06-23**|**Real-time antiproton annihilation vertexing with sub-micron resolution**|M. Berghold et.al.|[2406.16044v1](http://arxiv.org/abs/2406.16044v1)|null|
+|**2024-06-23**|**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**|Inès Hyeonsu Kim et.al.|[2406.16042v1](http://arxiv.org/abs/2406.16042v1)|null|
+|**2024-06-22**|**Shape2.5D: A Dataset of Texture-less Surfaces for Depth and Normals Estimation**|Muhammad Saif Ullah Khan et.al.|[2406.15831v1](http://arxiv.org/abs/2406.15831v1)|[link](https://github.com/saifkhichi96/shape25d)|
+|**2024-06-22**|**psPRF:Pansharpening Planar Neural Radiance Field for Generalized 3D Reconstruction Satellite Imagery**|Tongtong Zhang et.al.|[2406.15707v1](http://arxiv.org/abs/2406.15707v1)|null|
 |**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339v1](http://arxiv.org/abs/2406.15339v1)|null|
+|**2024-06-21**|**Rocket Exhaust Blowing Soil in Near Vacuum Conditions is Faster than Predicted by Continuum Scaling Laws**|Philip T. Metzger et.al.|[2406.15535v1](http://arxiv.org/abs/2406.15535v1)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121v1](http://arxiv.org/abs/2406.15121v1)|null|
 |**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118v1](http://arxiv.org/abs/2406.15118v1)|null|
 |**2024-06-21**|**Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study**|Dario Stabili et.al.|[2406.15103v2](http://arxiv.org/abs/2406.15103v2)|null|
@@ -20,15 +32,3 @@
 |**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412v1](http://arxiv.org/abs/2406.14412v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-20**|**A tensor model for calibration and imaging with air-coupled ultrasonic sensor arrays**|Raphael Müller et.al.|[2406.14355v1](http://arxiv.org/abs/2406.14355v1)|null|
-|**2024-06-20**|**Unleashing the Potential of Tracklets for Unsupervised Video Person Re-Identification**|Nanxing Meng et.al.|[2406.14261v1](http://arxiv.org/abs/2406.14261v1)|null|
-|**2024-06-20**|**DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation**|Deguo Xia et.al.|[2406.14255v1](http://arxiv.org/abs/2406.14255v1)|[link](https://github.com/XiyanLiu/DuMapNet)|
-|**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226v1](http://arxiv.org/abs/2406.14226v1)|null|
-|**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178v1](http://arxiv.org/abs/2406.14178v1)|null|
-|**2024-06-20**|**Pixel-scale NIR-VIS Spectral Routers Based on 2D Mie-type Metagratings**|Yifan Shao et.al.|[2406.13970v1](http://arxiv.org/abs/2406.13970v1)|null|
-|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951v1](http://arxiv.org/abs/2406.13951v1)|[link](https://github.com/OUCVisionGroup/TISC-Net)|
-|**2024-06-20**|**The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**|Huthaifa I. Ashqar et.al.|[2406.13898v1](http://arxiv.org/abs/2406.13898v1)|null|
-|**2024-06-19**|**Overview of the Optical Design of the CMB-S4 Large Aperture Telescopes and Camera Optics**|Patricio A. Gallardo et.al.|[2406.13854v1](http://arxiv.org/abs/2406.13854v1)|null|
-|**2024-06-19**|**An Embedded Intelligent System for Attendance Monitoring**|Touzene Abderraouf et.al.|[2406.13694v1](http://arxiv.org/abs/2406.13694v1)|null|
-|**2024-06-19**|**Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks**|Jialiang Zhao et.al.|[2406.13640v1](http://arxiv.org/abs/2406.13640v1)|null|
-|**2024-06-19**|**CNN Based Flank Predictor for Quadruped Animal Species**|Vanessa Suessle et.al.|[2406.13588v1](http://arxiv.org/abs/2406.13588v1)|null|
-|**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515v1](http://arxiv.org/abs/2406.13515v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-25 09:44:35 Asia/Shanghai
+ Automated deployment @ 2024-06-25 20:13:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**PenSLR: Persian end-to-end Sign Language Recognition Using Ensembling**|Amirparsa Salmankhah et.al.|[2406.16388v1](http://arxiv.org/abs/2406.16388v1)|null|
+|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v1](http://arxiv.org/abs/2406.16087v1)|null|
 |**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
 |**2024-06-20**|**Gravitational Scattering and Beyond from Extreme Mass Ratio Effective Field Theory**|Clifford Cheung et.al.|[2406.14770v1](http://arxiv.org/abs/2406.14770v1)|null|
 |**2024-06-20**|**LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**|Sheikh Asif Imran et.al.|[2406.14498v1](http://arxiv.org/abs/2406.14498v1)|[link](https://github.com/bashlab/llasa)|
@@ -36,13 +38,23 @@
 |**2024-06-07**|**Bose-Einstein condensate source on a optical grating-based atom chip for quantum sensor applications**|R. Calviac et.al.|[2406.04996v1](http://arxiv.org/abs/2406.04996v1)|null|
 |**2024-06-07**|**Impact of pressure anisotropy on the cascade rate of Hall-MHD turbulence with bi-adiabatic ions**|Pauline Simon et.al.|[2406.04978v1](http://arxiv.org/abs/2406.04978v1)|null|
 |**2024-06-06**|**Typical representations for $\mathrm{Sp}_4(F)$**|Anne-Marie Aubert et.al.|[2406.04196v1](http://arxiv.org/abs/2406.04196v1)|null|
-|**2024-06-06**|**Post-Einsteinian Effects in the General Theory of Relativity from Higher-Order Riemannian Geometry**|William Bies et.al.|[2406.06604v1](http://arxiv.org/abs/2406.06604v1)|null|
-|**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853v1](http://arxiv.org/abs/2406.16853v1)|[link](https://github.com/c-tl/geomformer)|
+|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713v1](http://arxiv.org/abs/2406.16713v1)|null|
+|**2024-06-24**|**A versatile and transportable endstation for controlled molecule experiments**|Wuwei Jin et.al.|[2406.16491v1](http://arxiv.org/abs/2406.16491v1)|null|
+|**2024-06-24**|**Project Management for Ground-based Telescope Array Development**|Ji Hoon Kim et.al.|[2406.16470v1](http://arxiv.org/abs/2406.16470v1)|null|
+|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
+|**2024-06-24**|**LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing**|Jiangshu Du et.al.|[2406.16253v1](http://arxiv.org/abs/2406.16253v1)|null|
+|**2024-06-23**|**Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images**|Sukanya Patra et.al.|[2406.16077v1](http://arxiv.org/abs/2406.16077v1)|null|
+|**2024-06-23**|**Real-time antiproton annihilation vertexing with sub-micron resolution**|M. Berghold et.al.|[2406.16044v1](http://arxiv.org/abs/2406.16044v1)|null|
+|**2024-06-23**|**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**|Inès Hyeonsu Kim et.al.|[2406.16042v1](http://arxiv.org/abs/2406.16042v1)|null|
+|**2024-06-22**|**Shape2.5D: A Dataset of Texture-less Surfaces for Depth and Normals Estimation**|Muhammad Saif Ullah Khan et.al.|[2406.15831v1](http://arxiv.org/abs/2406.15831v1)|[link](https://github.com/saifkhichi96/shape25d)|
+|**2024-06-22**|**psPRF:Pansharpening Planar Neural Radiance Field for Generalized 3D Reconstruction Satellite Imagery**|Tongtong Zhang et.al.|[2406.15707v1](http://arxiv.org/abs/2406.15707v1)|null|
 |**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339v1](http://arxiv.org/abs/2406.15339v1)|null|
+|**2024-06-21**|**Rocket Exhaust Blowing Soil in Near Vacuum Conditions is Faster than Predicted by Continuum Scaling Laws**|Philip T. Metzger et.al.|[2406.15535v1](http://arxiv.org/abs/2406.15535v1)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121v1](http://arxiv.org/abs/2406.15121v1)|null|
 |**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118v1](http://arxiv.org/abs/2406.15118v1)|null|
 |**2024-06-21**|**Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study**|Dario Stabili et.al.|[2406.15103v2](http://arxiv.org/abs/2406.15103v2)|null|
@@ -60,22 +72,11 @@
 |**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412v1](http://arxiv.org/abs/2406.14412v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-20**|**A tensor model for calibration and imaging with air-coupled ultrasonic sensor arrays**|Raphael Müller et.al.|[2406.14355v1](http://arxiv.org/abs/2406.14355v1)|null|
-|**2024-06-20**|**Unleashing the Potential of Tracklets for Unsupervised Video Person Re-Identification**|Nanxing Meng et.al.|[2406.14261v1](http://arxiv.org/abs/2406.14261v1)|null|
-|**2024-06-20**|**DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation**|Deguo Xia et.al.|[2406.14255v1](http://arxiv.org/abs/2406.14255v1)|[link](https://github.com/XiyanLiu/DuMapNet)|
-|**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226v1](http://arxiv.org/abs/2406.14226v1)|null|
-|**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178v1](http://arxiv.org/abs/2406.14178v1)|null|
-|**2024-06-20**|**Pixel-scale NIR-VIS Spectral Routers Based on 2D Mie-type Metagratings**|Yifan Shao et.al.|[2406.13970v1](http://arxiv.org/abs/2406.13970v1)|null|
-|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951v1](http://arxiv.org/abs/2406.13951v1)|[link](https://github.com/OUCVisionGroup/TISC-Net)|
-|**2024-06-20**|**The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**|Huthaifa I. Ashqar et.al.|[2406.13898v1](http://arxiv.org/abs/2406.13898v1)|null|
-|**2024-06-19**|**Overview of the Optical Design of the CMB-S4 Large Aperture Telescopes and Camera Optics**|Patricio A. Gallardo et.al.|[2406.13854v1](http://arxiv.org/abs/2406.13854v1)|null|
-|**2024-06-19**|**An Embedded Intelligent System for Attendance Monitoring**|Touzene Abderraouf et.al.|[2406.13694v1](http://arxiv.org/abs/2406.13694v1)|null|
-|**2024-06-19**|**Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks**|Jialiang Zhao et.al.|[2406.13640v1](http://arxiv.org/abs/2406.13640v1)|null|
-|**2024-06-19**|**CNN Based Flank Predictor for Quadruped Animal Species**|Vanessa Suessle et.al.|[2406.13588v1](http://arxiv.org/abs/2406.13588v1)|null|
-|**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515v1](http://arxiv.org/abs/2406.13515v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
 |**2024-06-19**|**Simultaneous Map and Object Reconstruction**|Nathaniel Chodosh et.al.|[2406.13896v1](http://arxiv.org/abs/2406.13896v1)|null|
 |**2024-06-15**|**Detection and Utilization of Reflections in LiDAR Scans Through Plane Optimization and Plane SLAM**|Yinjie Li et.al.|[2406.10494v1](http://arxiv.org/abs/2406.10494v1)|null|
 |**2024-06-14**|**Galibr: Targetless LiDAR-Camera Extrinsic Calibration Method via Ground Plane Initialization**|Wonho Song et.al.|[2406.11599v1](http://arxiv.org/abs/2406.11599v1)|null|
@@ -105,11 +106,11 @@
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v2](http://arxiv.org/abs/2405.11129v2)|[link](https://github.com/antonio521/motiongs)|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793v2](http://arxiv.org/abs/2405.10793v2)|null|
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
-|**2024-05-14**|**IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**|Emilio Olivastri et.al.|[2405.08503v1](http://arxiv.org/abs/2405.08503v1)|[link](https://github.com/EmilioOlivastri/IPC)|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v1](http://arxiv.org/abs/2406.16087v1)|null|
 |**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
 |**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345v1](http://arxiv.org/abs/2406.13345v1)|null|
 |**2024-06-19**|**The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots**|Arnaud Demont et.al.|[2406.13267v1](http://arxiv.org/abs/2406.13267v1)|null|
@@ -139,4 +140,3 @@
 |**2024-05-08**|**The miscalibration of the honeybee odometer**|Laura Luebbert et.al.|[2405.12998v1](http://arxiv.org/abs/2405.12998v1)|null|
 |**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210v1](http://arxiv.org/abs/2405.05210v1)|[link](https://github.com/mit-acl/motlee)|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
-|**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071v1](http://arxiv.org/abs/2405.04071v1)|[link](https://github.com/nail-hnu/esvio_aa)|
