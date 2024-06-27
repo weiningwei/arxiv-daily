@@ -22,7 +22,7 @@
 |**2024-06-24**|**A versatile and transportable endstation for controlled molecule experiments**|Wuwei Jin et.al.|[2406.16491v1](http://arxiv.org/abs/2406.16491v1)|null|
 |**2024-06-24**|**Project Management for Ground-based Telescope Array Development**|Ji Hoon Kim et.al.|[2406.16470v1](http://arxiv.org/abs/2406.16470v1)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
-|**2024-06-24**|**LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing**|Jiangshu Du et.al.|[2406.16253v1](http://arxiv.org/abs/2406.16253v1)|null|
+|**2024-06-24**|**LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing**|Jiangshu Du et.al.|[2406.16253v2](http://arxiv.org/abs/2406.16253v2)|null|
 |**2024-06-23**|**Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images**|Sukanya Patra et.al.|[2406.16077v1](http://arxiv.org/abs/2406.16077v1)|null|
 |**2024-06-23**|**Real-time antiproton annihilation vertexing with sub-micron resolution**|M. Berghold et.al.|[2406.16044v1](http://arxiv.org/abs/2406.16044v1)|null|
 |**2024-06-23**|**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**|Inès Hyeonsu Kim et.al.|[2406.16042v1](http://arxiv.org/abs/2406.16042v1)|null|
