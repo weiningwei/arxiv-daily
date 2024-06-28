@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-27**|**A Third Order Dynamical System for Mixed Variational Inequalities**|Oday Hazaimah et.al.|[2406.19345v1](http://arxiv.org/abs/2406.19345v1)|null|
+|**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850v1](http://arxiv.org/abs/2406.18850v1)|null|
 |**2024-06-25**|**The equations of extended magnetohydrodynamics**|Christophe Cheverry et.al.|[2406.17356v1](http://arxiv.org/abs/2406.17356v1)|null|
 |**2024-06-24**|**PenSLR: Persian end-to-end Sign Language Recognition Using Ensembling**|Amirparsa Salmankhah et.al.|[2406.16388v1](http://arxiv.org/abs/2406.16388v1)|null|
 |**2024-06-24**|**AI for Equitable Tennis Training: Leveraging AI for Equitable and Accurate Classification of Tennis Skill Levels and Training Phases**|Gyanna Gao et.al.|[2406.16987v1](http://arxiv.org/abs/2406.16987v1)|null|
@@ -30,5 +32,3 @@
 |**2024-06-10**|**Harmonically trapped inertial run-and-tumble particle in one dimension**|Debraj Dutta et.al.|[2406.06120v2](http://arxiv.org/abs/2406.06120v2)|null|
 |**2024-06-10**|**Elasticity of fibres prefers the chaos of turbulence**|Rahul K. Singh et.al.|[2406.06033v1](http://arxiv.org/abs/2406.06033v1)|null|
 |**2024-06-10**|**Turbulent spectra of 2D inertial gravity waves**|Michal Shavit et.al.|[2406.06010v1](http://arxiv.org/abs/2406.06010v1)|null|
-|**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v2](http://arxiv.org/abs/2406.05969v2)|null|
-|**2024-06-09**|**Structure and energy transfer in homogeneous turbulence below a free surface**|Daniel J. Ruth et.al.|[2406.05889v1](http://arxiv.org/abs/2406.05889v1)|null|
