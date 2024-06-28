@@ -20,7 +20,7 @@
 |**2024-06-25**|**MotionBooth: Motion-Aware Customized Text-to-Video Generation**|Jianzong Wu et.al.|[2406.17758v1](http://arxiv.org/abs/2406.17758v1)|null|
 |**2024-06-25**|**PANDA: A self-driving lab for studying electrodeposited polymer films**|Harley Quinn et.al.|[2406.17725v1](http://arxiv.org/abs/2406.17725v1)|null|
 |**2024-06-25**|**Position and Time Determination without Prior State Knowledge via Onboard Optical Observations of Delta Scuti Variable Stars**|Linyi Hou et.al.|[2406.17609v1](http://arxiv.org/abs/2406.17609v1)|null|
-|**2024-06-25**|**Low-Crosstalk, Silicon-Fabricated Optical Waveguides for Laser Delivery to Matter Qubits**|Clayton L. Craft et.al.|[2406.17607v1](http://arxiv.org/abs/2406.17607v1)|null|
+|**2024-06-25**|**Low-Crosstalk, Silicon-Fabricated Optical Waveguides for Laser Delivery to Matter Qubits**|Clayton L. Craft et.al.|[2406.17607v2](http://arxiv.org/abs/2406.17607v2)|null|
 |**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|[link](https://github.com/imlixinyang/director3d)|
 |**2024-06-25**|**A Hybrid Approach to Event Reconstruction for Atmospheric Cherenkov Telescopes Combining Machine Learning and Likelihood Fitting**|Georg Schwefer et.al.|[2406.17502v1](http://arxiv.org/abs/2406.17502v1)|null|
 |**2024-06-25**|**TRIP: Trainable Region-of-Interest Prediction for Hardware-Efficient Neuromorphic Processing on Event-based Vision**|Cina Arjmand et.al.|[2406.17483v1](http://arxiv.org/abs/2406.17483v1)|[link](https://github.com/ERNIS-LAB/TRIP)|
