@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024v1](http://arxiv.org/abs/2406.20024v1)|null|
+|**2024-06-28**|**RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization**|Bing Yang et.al.|[2406.19959v1](http://arxiv.org/abs/2406.19959v1)|null|
+|**2024-06-28**|**Status of Xtend telescope onboard X-Ray Imaging and Spectroscopy Mission (XRISM)**|Koji Mori et.al.|[2406.19911v1](http://arxiv.org/abs/2406.19911v1)|null|
+|**2024-06-28**|**Initial operations of the Soft X-ray Imager onboard XRISM**|Hiromasa Suzuki et.al.|[2406.19910v1](http://arxiv.org/abs/2406.19910v1)|null|
+|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811v1](http://arxiv.org/abs/2406.19811v1)|null|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800v1](http://arxiv.org/abs/2406.19800v1)|null|
+|**2024-06-28**|**Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**|Yifan Tang et.al.|[2406.19791v1](http://arxiv.org/abs/2406.19791v1)|null|
+|**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726v1](http://arxiv.org/abs/2406.19726v1)|null|
+|**2024-06-28**|**UltraGelBot: Autonomous Gel Dispenser for Robotic Ultrasound**|Deepak Raina et.al.|[2406.19678v1](http://arxiv.org/abs/2406.19678v1)|null|
+|**2024-06-27**|**Cost-efficient Active Illumination Camera For Hyper-spectral Reconstruction**|Yuxuan Zhang et.al.|[2406.19560v1](http://arxiv.org/abs/2406.19560v1)|null|
 |**2024-06-27**|**Design and First Tests of the Trapped Electrons Experiment T-REX**|Francesco Romano et.al.|[2406.19123v1](http://arxiv.org/abs/2406.19123v1)|null|
 |**2024-06-27**|**BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**|Yang Song et.al.|[2406.19048v1](http://arxiv.org/abs/2406.19048v1)|null|
 |**2024-06-27**|**RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton**|Fanfan Liu et.al.|[2406.18977v1](http://arxiv.org/abs/2406.18977v1)|[link](https://github.com/liufanfanlff/robouniview)|
@@ -22,13 +32,3 @@
 |**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360v2](http://arxiv.org/abs/2406.18360v2)|null|
 |**2024-06-26**|**Euclid preparation. Sensitivity to non-standard particle dark matter model**|Euclid Collaboration et.al.|[2406.18274v1](http://arxiv.org/abs/2406.18274v1)|null|
 |**2024-06-26**|**Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs**|Uttaran Bhattacharya et.al.|[2406.18068v1](http://arxiv.org/abs/2406.18068v1)|null|
-|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012v1](http://arxiv.org/abs/2406.18012v1)|null|
-|**2024-06-25**|**Highly Constrained Coded Aperture Imaging Systems Design Via a Knowledge Distillation Approach**|Leon Suarez-Rodriguez et.al.|[2406.17970v1](http://arxiv.org/abs/2406.17970v1)|null|
-|**2024-06-25**|**Flux dependence of redshift distribution and clustering of LOFAR radio sources**|Nitesh Bhardwaj et.al.|[2406.17924v1](http://arxiv.org/abs/2406.17924v1)|null|
-|**2024-06-25**|**Camera Model Identification Using Audio and Visual Content from Videos**|Ioannis Tsingalis et.al.|[2406.17916v1](http://arxiv.org/abs/2406.17916v1)|[link](https://github.com/itsingalis/iariadevidfusion)|
-|**2024-06-25**|**DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset**|Joao Morais et.al.|[2406.17908v1](http://arxiv.org/abs/2406.17908v1)|null|
-|**2024-06-25**|**CHARA/Silmaril Instrument Software and Data Reduction Pipeline: Characterization of the Instrument in the Lab and On-Sky**|Narsireddy Anugu et.al.|[2406.17886v1](http://arxiv.org/abs/2406.17886v1)|null|
-|**2024-06-25**|**Text-Animator: Controllable Visual Text Video Generation**|Lin Liu et.al.|[2406.17777v1](http://arxiv.org/abs/2406.17777v1)|null|
-|**2024-06-25**|**MotionBooth: Motion-Aware Customized Text-to-Video Generation**|Jianzong Wu et.al.|[2406.17758v1](http://arxiv.org/abs/2406.17758v1)|null|
-|**2024-06-25**|**PANDA: A self-driving lab for studying electrodeposited polymer films**|Harley Quinn et.al.|[2406.17725v1](http://arxiv.org/abs/2406.17725v1)|null|
-|**2024-06-25**|**Position and Time Determination without Prior State Knowledge via Onboard Optical Observations of Delta Scuti Variable Stars**|Linyi Hou et.al.|[2406.17609v1](http://arxiv.org/abs/2406.17609v1)|null|
