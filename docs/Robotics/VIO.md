@@ -2,6 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-02**|**How turbulence increases the bubble-particle collision rate**|Linfeng Jiang et.al.|[2407.02234v1](http://arxiv.org/abs/2407.02234v1)|null|
+|**2024-07-02**|**Efficient Extrinsic Self-Calibration of Multiple IMUs using Measurement Subset Selection**|Jongwon Lee et.al.|[2407.02232v1](http://arxiv.org/abs/2407.02232v1)|null|
+|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|null|
+|**2024-07-02**|**Mass crystals and cage effect in vorticity crystals**|Jean-Régis Angilella et.al.|[2407.02001v1](http://arxiv.org/abs/2407.02001v1)|null|
+|**2024-07-02**|**PO-MSCKF: An Efficient Visual-Inertial Odometry by Reconstructing the Multi-State Constrained Kalman Filter with the Pose-only Theory**|Du Xueyu et.al.|[2407.01888v1](http://arxiv.org/abs/2407.01888v1)|null|
+|**2024-07-01**|**AquaMILR: Mechanical intelligence simplifies control of undulatory robots in cluttered fluid environments**|Tianyu Wang et.al.|[2407.01733v1](http://arxiv.org/abs/2407.01733v1)|null|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292v1](http://arxiv.org/abs/2407.01292v1)|null|
+|**2024-07-01**|**Investigation of the actuation system of the inertial sensor for high-precision space missions using torsion pendulum**|Fangchao Yang et.al.|[2407.01162v1](http://arxiv.org/abs/2407.01162v1)|null|
+|**2024-07-01**|**Tame fields, Graded Rings and Finite Complete Sequences of Key Polynomials**|Caio Henrique Silva de Souza et.al.|[2407.01030v1](http://arxiv.org/abs/2407.01030v1)|null|
+|**2024-06-30**|**A Perspective on Quantum Sensors from Basic Research to Commercial Applications**|Eun Oh et.al.|[2407.00689v1](http://arxiv.org/abs/2407.00689v1)|null|
 |**2024-06-27**|**A Third Order Dynamical System for Mixed Variational Inequalities**|Oday Hazaimah et.al.|[2406.19345v1](http://arxiv.org/abs/2406.19345v1)|null|
 |**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850v1](http://arxiv.org/abs/2406.18850v1)|null|
 |**2024-06-25**|**The equations of extended magnetohydrodynamics**|Christophe Cheverry et.al.|[2406.17356v1](http://arxiv.org/abs/2406.17356v1)|null|
@@ -22,13 +32,3 @@
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
 |**2024-06-16**|**Collisional whistler instability and electron temperature staircase in inhomogeneous plasma**|N. A. Lopez et.al.|[2406.10979v1](http://arxiv.org/abs/2406.10979v1)|null|
 |**2024-06-16**|**Acceleration Noise Induced Decoherence in Stern-Gerlach Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2406.10832v1](http://arxiv.org/abs/2406.10832v1)|null|
-|**2024-06-15**|**Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study**|Dorothy Gogoi et.al.|[2406.10495v1](http://arxiv.org/abs/2406.10495v1)|null|
-|**2024-06-14**|**PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation**|Ignacio Alzugaray et.al.|[2406.09726v1](http://arxiv.org/abs/2406.09726v1)|null|
-|**2024-06-14**|**Jointed Tails Enhance Control of Three-dimensional Body Rotation**|Xun Fu et.al.|[2406.09700v1](http://arxiv.org/abs/2406.09700v1)|null|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v3](http://arxiv.org/abs/2406.09014v3)|null|
-|**2024-06-13**|**Strong asymptotic convergence of a slowly damped inertial primal-dual dynamical system controlled by a Tikhonov regularization term**|Ting-Ting Zhu et.al.|[2406.08836v3](http://arxiv.org/abs/2406.08836v3)|null|
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
-|**2024-06-11**|**On inertial Levenberg-Marquardt type methods for solving nonlinear ill-posed operator equations**|Antonio Leitão et.al.|[2406.07044v1](http://arxiv.org/abs/2406.07044v1)|null|
-|**2024-06-10**|**Harmonically trapped inertial run-and-tumble particle in one dimension**|Debraj Dutta et.al.|[2406.06120v2](http://arxiv.org/abs/2406.06120v2)|null|
-|**2024-06-10**|**Elasticity of fibres prefers the chaos of turbulence**|Rahul K. Singh et.al.|[2406.06033v1](http://arxiv.org/abs/2406.06033v1)|null|
-|**2024-06-10**|**Turbulent spectra of 2D inertial gravity waves**|Michal Shavit et.al.|[2406.06010v1](http://arxiv.org/abs/2406.06010v1)|null|
