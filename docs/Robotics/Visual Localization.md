@@ -19,7 +19,7 @@
 |**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850v1](http://arxiv.org/abs/2406.18850v1)|null|
 |**2024-06-27**|**Dense Monocular Motion Segmentation Using Optical Flow and Pseudo Depth Map: A Zero-Shot Approach**|Yuxiang Huang et.al.|[2406.18837v1](http://arxiv.org/abs/2406.18837v1)|null|
 |**2024-06-26**|**Unified Uncertainties: Combining Input, Data and Model Uncertainty into a Single Formulation**|Matias Valdenegro-Toro et.al.|[2406.18787v1](http://arxiv.org/abs/2406.18787v1)|null|
-|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742v1](http://arxiv.org/abs/2406.18742v1)|null|
+|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742v2](http://arxiv.org/abs/2406.18742v2)|null|
 |**2024-06-26**|**Digging deeper into the dense Galactic globular cluster Terzan 5 with Electron-Multiplying CCDs. Variable star detection and new discoveries**|R. Figuera Jaimes et.al.|[2406.18733v1](http://arxiv.org/abs/2406.18733v1)|null|
 |**2024-06-26**|**SpY: A Context-Based Approach to Spacecraft Component Detection**|Trupti Mahendrakar et.al.|[2406.18709v1](http://arxiv.org/abs/2406.18709v1)|null|
 |**2024-06-26**|**From Pixels to Torques with Linear Feedback**|Jeong Hun Lee et.al.|[2406.18699v1](http://arxiv.org/abs/2406.18699v1)|null|
