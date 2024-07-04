@@ -5,7 +5,7 @@
 |**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370v2](http://arxiv.org/abs/2407.02370v2)|null|
 |**2024-07-02**|**Sign Language Recognition Based On Facial Expression and Hand Skeleton**|Zhiyu Long et.al.|[2407.02241v1](http://arxiv.org/abs/2407.02241v1)|null|
 |**2024-07-02**|**Detecting Driver Fatigue With Eye Blink Behavior**|Ali Akin et.al.|[2407.02222v1](http://arxiv.org/abs/2407.02222v1)|null|
-|**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v1](http://arxiv.org/abs/2407.02174v1)|[link](https://github.com/WU-CVGL/BeNeRF)|
+|**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|[link](https://github.com/WU-CVGL/BeNeRF)|
 |**2024-07-02**|**RETINA: a hardware-in-the-loop optical facility with reduced optical aberrations**|Paolo Panicucci et.al.|[2407.02172v1](http://arxiv.org/abs/2407.02172v1)|null|
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150v1](http://arxiv.org/abs/2407.02150v1)|null|
 |**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077v1](http://arxiv.org/abs/2407.02077v1)|[link](https://github.com/arlo0o/htcl)|
