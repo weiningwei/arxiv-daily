@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370v1](http://arxiv.org/abs/2407.02370v1)|null|
+|**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370v2](http://arxiv.org/abs/2407.02370v2)|null|
 |**2024-07-02**|**Sign Language Recognition Based On Facial Expression and Hand Skeleton**|Zhiyu Long et.al.|[2407.02241v1](http://arxiv.org/abs/2407.02241v1)|null|
 |**2024-07-02**|**Detecting Driver Fatigue With Eye Blink Behavior**|Ali Akin et.al.|[2407.02222v1](http://arxiv.org/abs/2407.02222v1)|null|
 |**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v1](http://arxiv.org/abs/2407.02174v1)|[link](https://github.com/WU-CVGL/BeNeRF)|
@@ -10,7 +10,7 @@
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150v1](http://arxiv.org/abs/2407.02150v1)|null|
 |**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077v1](http://arxiv.org/abs/2407.02077v1)|[link](https://github.com/arlo0o/htcl)|
 |**2024-07-02**|**CountFormer: Multi-View Crowd Counting Transformer**|Hong Mo et.al.|[2407.02047v1](http://arxiv.org/abs/2407.02047v1)|[link](https://github.com/MandyMo/ECCV_Countformer)|
-|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038v1](http://arxiv.org/abs/2407.02038v1)|null|
+|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038v2](http://arxiv.org/abs/2407.02038v2)|null|
 |**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi et.al.|[2407.01945v1](http://arxiv.org/abs/2407.01945v1)|null|
 |**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|
 |**2024-07-01**|**Optimal Sample Lens Positioning in Digital Camera Systems**|Ali Karaoglu et.al.|[2407.01789v1](http://arxiv.org/abs/2407.01789v1)|null|
