@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03**|**Smart City Surveillance Unveiling Indian Person Attributes in Real Time**|Shubham Kale et.al.|[2407.03305v1](http://arxiv.org/abs/2407.03305v1)|null|
+|**2024-07-03**|**Terrain Classification Enhanced with Uncertainty for Space Exploration Robots from Proprioceptive Data**|Mariela De Lucas Álvarez et.al.|[2407.03241v1](http://arxiv.org/abs/2407.03241v1)|null|
+|**2024-07-03**|**Streaming Large-Scale Electron Microscopy Data to a Supercomputing Facility**|Samuel S. Welborn et.al.|[2407.03215v1](http://arxiv.org/abs/2407.03215v1)|null|
+|**2024-07-03**|**Position and Altitude of the Nao Camera Head from Two Points on the Soccer Field plus the Gravitational Direction**|Stijn Oomes et.al.|[2407.03041v1](http://arxiv.org/abs/2407.03041v1)|[link](https://github.com/physar/landmark_based_slam_dataset)|
+|**2024-07-03**|**Spectroscopic Performance of Detectors for Athena's WFI: Measurements and Simulation**|Johannes Müller-Seidlitz et.al.|[2407.02970v1](http://arxiv.org/abs/2407.02970v1)|null|
+|**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946v1](http://arxiv.org/abs/2407.02946v1)|[link](https://github.com/eric-stumpe/plant3dimagereg)|
+|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945v1](http://arxiv.org/abs/2407.02945v1)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|null|
+|**2024-07-03**|**Plant Doctor: A hybrid machine learning and image segmentation software to quantify plant damage in video footage**|Marc Josep Montagut Marques et.al.|[2407.02853v1](http://arxiv.org/abs/2407.02853v1)|null|
+|**2024-07-02**|**Generalized Event Cameras**|Varun Sundar et.al.|[2407.02683v1](http://arxiv.org/abs/2407.02683v1)|null|
 |**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370v2](http://arxiv.org/abs/2407.02370v2)|null|
 |**2024-07-02**|**Sign Language Recognition Based On Facial Expression and Hand Skeleton**|Zhiyu Long et.al.|[2407.02241v1](http://arxiv.org/abs/2407.02241v1)|null|
 |**2024-07-02**|**Detecting Driver Fatigue With Eye Blink Behavior**|Ali Akin et.al.|[2407.02222v1](http://arxiv.org/abs/2407.02222v1)|null|
@@ -22,13 +32,3 @@
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292v1](http://arxiv.org/abs/2407.01292v1)|null|
 |**2024-07-01**|**Preliminary results of sky brightness measurements in near-infrared at Lenghu, China**|Jinji Li et.al.|[2407.01118v1](http://arxiv.org/abs/2407.01118v1)|null|
 |**2024-07-01**|**GMT: A Robust Global Association Model for Multi-Target Multi-Camera Tracking**|Huijie Fan et.al.|[2407.01007v1](http://arxiv.org/abs/2407.01007v1)|null|
-|**2024-07-01**|**Pre-capture Privacy via Adaptive Single-Pixel Imaging**|Yoko Sogabe et.al.|[2407.00991v1](http://arxiv.org/abs/2407.00991v1)|null|
-|**2024-07-01**|**Object Segmentation from Open-Vocabulary Manipulation Instructions Based on Optimal Transport Polygon Matching with Multimodal Foundation Models**|Takayuki Nishimura et.al.|[2407.00985v1](http://arxiv.org/abs/2407.00985v1)|null|
-|**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931v1](http://arxiv.org/abs/2407.00931v1)|null|
-|**2024-07-01**|**High-sensitivity multichannel zero-to-ultralow field NMR with atomic magnetometer arrays**|Blake Andrews et.al.|[2407.00929v1](http://arxiv.org/abs/2407.00929v1)|null|
-|**2024-06-30**|**Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation**|Adnan Abdullah et.al.|[2407.00848v1](http://arxiv.org/abs/2407.00848v1)|null|
-|**2024-06-30**|**Engineering an Efficient Object Tracker for Non-Linear Motion**|Momir Adžemović et.al.|[2407.00738v1](http://arxiv.org/abs/2407.00738v1)|null|
-|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697v1](http://arxiv.org/abs/2407.00697v1)|null|
-|**2024-06-30**|**OfCaM: Global Human Mesh Recovery via Optimization-free Camera Motion Scale Calibration**|Fengyuan Yang et.al.|[2407.00574v1](http://arxiv.org/abs/2407.00574v1)|null|
-|**2024-06-30**|**An abstract theory of sensor eventification**|Yulin Zhang et.al.|[2407.00563v1](http://arxiv.org/abs/2407.00563v1)|null|
-|**2024-06-29**|**Infrared Computer Vision for Utility-Scale Photovoltaic Array Inspection**|David F. Ramirez et.al.|[2407.00544v1](http://arxiv.org/abs/2407.00544v1)|null|

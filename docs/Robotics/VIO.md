@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
+|**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906v1](http://arxiv.org/abs/2407.02906v1)|null|
+|**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
+|**2024-07-02**|**Regimes of Near-Inertial Wave Dynamics**|Scott Conn et.al.|[2407.02709v1](http://arxiv.org/abs/2407.02709v1)|null|
 |**2024-07-02**|**How turbulence increases the bubble-particle collision rate**|Linfeng Jiang et.al.|[2407.02234v1](http://arxiv.org/abs/2407.02234v1)|null|
 |**2024-07-02**|**Efficient Extrinsic Self-Calibration of Multiple IMUs using Measurement Subset Selection**|Jongwon Lee et.al.|[2407.02232v1](http://arxiv.org/abs/2407.02232v1)|null|
 |**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|null|
@@ -28,7 +32,3 @@
 |**2024-06-19**|**The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots**|Arnaud Demont et.al.|[2406.13267v1](http://arxiv.org/abs/2406.13267v1)|null|
 |**2024-06-18**|**Unsupervised explainable activity prediction in competitive Nordic Walking from experimental data**|Silvia García-Méndez et.al.|[2406.12762v1](http://arxiv.org/abs/2406.12762v1)|null|
 |**2024-06-18**|**EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing**|Shengzhe Lyu et.al.|[2406.16943v1](http://arxiv.org/abs/2406.16943v1)|null|
-|**2024-06-17**|**Optimum signal duration for Human Activity Recognition based on Deep Convolutional Neural Networks**|Farhad Nazari et.al.|[2406.11164v1](http://arxiv.org/abs/2406.11164v1)|null|
-|**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
-|**2024-06-16**|**Collisional whistler instability and electron temperature staircase in inhomogeneous plasma**|N. A. Lopez et.al.|[2406.10979v1](http://arxiv.org/abs/2406.10979v1)|null|
-|**2024-06-16**|**Acceleration Noise Induced Decoherence in Stern-Gerlach Interferometers for Gravity Experiments**|Meng-Zhi Wu et.al.|[2406.10832v1](http://arxiv.org/abs/2406.10832v1)|null|
