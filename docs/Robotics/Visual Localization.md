@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-03**|**Smart City Surveillance Unveiling Indian Person Attributes in Real Time**|Shubham Kale et.al.|[2407.03305v1](http://arxiv.org/abs/2407.03305v1)|[link](https://github.com/abhilashk23/vehant-scs-par)|
+|**2024-07-03**|**Advanced Smart City Monitoring: Real-Time Identification of Indian Citizen Attributes**|Shubham Kale et.al.|[2407.03305v2](http://arxiv.org/abs/2407.03305v2)|[link](https://github.com/abhilashk23/vehant-scs-par)|
 |**2024-07-03**|**Terrain Classification Enhanced with Uncertainty for Space Exploration Robots from Proprioceptive Data**|Mariela De Lucas Álvarez et.al.|[2407.03241v1](http://arxiv.org/abs/2407.03241v1)|null|
 |**2024-07-03**|**Streaming Large-Scale Electron Microscopy Data to a Supercomputing Facility**|Samuel S. Welborn et.al.|[2407.03215v1](http://arxiv.org/abs/2407.03215v1)|null|
 |**2024-07-03**|**Position and Altitude of the Nao Camera Head from Two Points on the Soccer Field plus the Gravitational Direction**|Stijn Oomes et.al.|[2407.03041v1](http://arxiv.org/abs/2407.03041v1)|[link](https://github.com/physar/landmark_based_slam_dataset)|

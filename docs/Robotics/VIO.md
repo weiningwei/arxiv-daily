@@ -9,7 +9,7 @@
 |**2024-07-02**|**How turbulence increases the bubble-particle collision rate**|Linfeng Jiang et.al.|[2407.02234v1](http://arxiv.org/abs/2407.02234v1)|null|
 |**2024-07-02**|**Efficient Extrinsic Self-Calibration of Multiple IMUs using Measurement Subset Selection**|Jongwon Lee et.al.|[2407.02232v1](http://arxiv.org/abs/2407.02232v1)|null|
 |**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|null|
-|**2024-07-02**|**Mass crystals and cage effect in vorticity crystals**|Jean-Régis Angilella et.al.|[2407.02001v1](http://arxiv.org/abs/2407.02001v1)|null|
+|**2024-07-02**|**Mass crystals and cage effect in vorticity crystals**|Jean-Régis Angilella et.al.|[2407.02001v2](http://arxiv.org/abs/2407.02001v2)|null|
 |**2024-07-02**|**PO-MSCKF: An Efficient Visual-Inertial Odometry by Reconstructing the Multi-State Constrained Kalman Filter with the Pose-only Theory**|Du Xueyu et.al.|[2407.01888v1](http://arxiv.org/abs/2407.01888v1)|null|
 |**2024-07-01**|**AquaMILR: Mechanical intelligence simplifies control of undulatory robots in cluttered fluid environments**|Tianyu Wang et.al.|[2407.01733v1](http://arxiv.org/abs/2407.01733v1)|null|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292v1](http://arxiv.org/abs/2407.01292v1)|null|
