@@ -2,6 +2,17 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-05**|**An SDE Perspective on Stochastic Inertial Gradient Dynamics with Time-Dependent Viscosity and Geometric Damping**|Rodrigo Maulen-Soto et.al.|[2407.04562v1](http://arxiv.org/abs/2407.04562v1)|null|
+|**2024-07-05**|**Universal Scaling Laws for a Generic Swimmer Model**|Bruno Ventéjou et.al.|[2407.04511v1](http://arxiv.org/abs/2407.04511v1)|null|
+|**2024-07-05**|**Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction**|Zhongnuo Yan et.al.|[2407.04242v1](http://arxiv.org/abs/2407.04242v1)|null|
+|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
+|**2024-07-04**|**Properties of observable mixed inertial/gravito-inertial modes in γ Doradus stars**|Marion Galoy et.al.|[2407.04074v1](http://arxiv.org/abs/2407.04074v1)|null|
+|**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|
+|**2024-07-04**|**On-Device Training Empowered Transfer Learning For Human Activity Recognition**|Pixi Kang et.al.|[2407.03644v1](http://arxiv.org/abs/2407.03644v1)|null|
+|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|
+|**2024-07-04**|**Dynamics of inertial particles on the ocean surface with unrestricted reserve buoyancy**|F. J. Beron-Vera et.al.|[2407.03564v1](http://arxiv.org/abs/2407.03564v1)|null|
+|**2024-07-03**|**A strongly convergent inertial inexact proximal-point algorithm for monotone inclusions with applications to variational inequalities**|M. Marques Alves et.al.|[2407.03485v1](http://arxiv.org/abs/2407.03485v1)|null|
+|**2024-07-03**|**Fault-Tolerant Decentralized Control for Large-scale Inverter-based Resources for Active Power Tracking**|Satish Vedula et.al.|[2407.03444v1](http://arxiv.org/abs/2407.03444v1)|null|
 |**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
 |**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906v1](http://arxiv.org/abs/2407.02906v1)|null|
 |**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
@@ -21,14 +32,3 @@
 |**2024-06-25**|**The equations of extended magnetohydrodynamics**|Christophe Cheverry et.al.|[2406.17356v1](http://arxiv.org/abs/2406.17356v1)|null|
 |**2024-06-24**|**PenSLR: Persian end-to-end Sign Language Recognition Using Ensembling**|Amirparsa Salmankhah et.al.|[2406.16388v1](http://arxiv.org/abs/2406.16388v1)|null|
 |**2024-06-24**|**AI for Equitable Tennis Training: Leveraging AI for Equitable and Accurate Classification of Tennis Skill Levels and Training Phases**|Gyanna Gao et.al.|[2406.16987v1](http://arxiv.org/abs/2406.16987v1)|null|
-|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v1](http://arxiv.org/abs/2406.16087v1)|null|
-|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
-|**2024-06-20**|**Gravitational Scattering and Beyond from Extreme Mass Ratio Effective Field Theory**|Clifford Cheung et.al.|[2406.14770v1](http://arxiv.org/abs/2406.14770v1)|null|
-|**2024-06-20**|**LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**|Sheikh Asif Imran et.al.|[2406.14498v1](http://arxiv.org/abs/2406.14498v1)|[link](https://github.com/bashlab/llasa)|
-|**2024-06-20**|**The Bose-Marletto-Vedral proposal in different frames of reference and the quantum nature of gravity**|Antonia Weber et.al.|[2406.14334v1](http://arxiv.org/abs/2406.14334v1)|null|
-|**2024-06-19**|**Effects of settling on inertial particle slip velocity statistics in wall bounded flows**|Andrew P. Grace et.al.|[2406.13680v1](http://arxiv.org/abs/2406.13680v1)|null|
-|**2024-06-19**|**Strong Noninertial Radiative Shifts in Atomic Spectra at Low Accelerations**|Navdeep Arya et.al.|[2406.13481v1](http://arxiv.org/abs/2406.13481v1)|null|
-|**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345v1](http://arxiv.org/abs/2406.13345v1)|null|
-|**2024-06-19**|**The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots**|Arnaud Demont et.al.|[2406.13267v1](http://arxiv.org/abs/2406.13267v1)|null|
-|**2024-06-18**|**Unsupervised explainable activity prediction in competitive Nordic Walking from experimental data**|Silvia García-Méndez et.al.|[2406.12762v1](http://arxiv.org/abs/2406.12762v1)|null|
-|**2024-06-18**|**EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing**|Shengzhe Lyu et.al.|[2406.16943v1](http://arxiv.org/abs/2406.16943v1)|null|

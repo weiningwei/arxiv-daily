@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-05**|**Thermal and mechanical study of a parametrised cryostat model for optical characterisation of upcoming CMB experiments**|Thomas J. L. J. Gascard et.al.|[2407.04613v1](http://arxiv.org/abs/2407.04613v1)|null|
+|**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
+|**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384v1](http://arxiv.org/abs/2407.04384v1)|[link](https://github.com/genintel/uns-obj-pose3d)|
+|**2024-07-05**|**TF-SASM: Training-free Spatial-aware Sparse Memory for Multi-object Tracking**|Thuc Nguyen-Quang et.al.|[2407.04327v1](http://arxiv.org/abs/2407.04327v1)|null|
+|**2024-07-05**|**Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey**|Han Wang et.al.|[2407.04277v1](http://arxiv.org/abs/2407.04277v1)|null|
+|**2024-07-05**|**Time-resolved phase-lock pressure-sensitive paint measurement of trailing edge noise dynamics**|M. Imai et.al.|[2407.04233v1](http://arxiv.org/abs/2407.04233v1)|null|
+|**2024-07-04**|**Solutions to Deepfakes: Can Camera Hardware, Cryptography, and Deep Learning Verify Real Images?**|Alexander Vilesov et.al.|[2407.04169v1](http://arxiv.org/abs/2407.04169v1)|null|
+|**2024-07-04**|**Occupancy as Set of Points**|Yiang Shi et.al.|[2407.04049v1](http://arxiv.org/abs/2407.04049v1)|[link](https://github.com/hustvl/osp)|
+|**2024-07-04**|**Exploring Diachronic and Diatopic Changes in Dialect Continua: Tasks, Datasets and Challenges**|Melis Çelikkol et.al.|[2407.04010v1](http://arxiv.org/abs/2407.04010v1)|null|
+|**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923v1](http://arxiv.org/abs/2407.03923v1)|null|
+|**2024-07-04**|**Markerless Multi-view 3D Human Pose Estimation: a survey**|Ana Filipa Rodrigues Nogueira et.al.|[2407.03817v1](http://arxiv.org/abs/2407.03817v1)|null|
+|**2024-07-04**|**Preliminary results of the Single Event Effect testing for the ULTRASAT sensors**|Vlad Dumitru Berlea et.al.|[2407.03789v1](http://arxiv.org/abs/2407.03789v1)|null|
+|**2024-07-04**|**SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors**|Yijia Guo et.al.|[2407.03771v1](http://arxiv.org/abs/2407.03771v1)|null|
+|**2024-07-04**|**A Computer Vision Approach to Estimate the Localized Sea State**|Aleksandar Vorkapic et.al.|[2407.03755v1](http://arxiv.org/abs/2407.03755v1)|null|
+|**2024-07-04**|**Bayesian inference of physics-based models of acoustically-forced laminar premixed conical flames**|Alessandro Giannotta et.al.|[2407.03701v1](http://arxiv.org/abs/2407.03701v1)|null|
+|**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684v1](http://arxiv.org/abs/2407.03684v1)|null|
+|**2024-07-04**|**Sensitivity and Performance of LBTI/NOMIC Spectroscopy: Prospects for 10- and 30-meter class Mid-IR Exoplanet Science**|Brittany E. Miles et.al.|[2407.03620v1](http://arxiv.org/abs/2407.03620v1)|null|
+|**2024-07-03**|**Corvus A: A low-mass, isolated galaxy at 3.5 Mpc**|Michael G. Jones et.al.|[2407.03393v1](http://arxiv.org/abs/2407.03393v1)|null|
 |**2024-07-03**|**Advanced Smart City Monitoring: Real-Time Identification of Indian Citizen Attributes**|Shubham Kale et.al.|[2407.03305v2](http://arxiv.org/abs/2407.03305v2)|[link](https://github.com/abhilashk23/vehant-scs-par)|
 |**2024-07-03**|**Terrain Classification Enhanced with Uncertainty for Space Exploration Robots from Proprioceptive Data**|Mariela De Lucas Álvarez et.al.|[2407.03241v1](http://arxiv.org/abs/2407.03241v1)|null|
 |**2024-07-03**|**Streaming Large-Scale Electron Microscopy Data to a Supercomputing Facility**|Samuel S. Welborn et.al.|[2407.03215v1](http://arxiv.org/abs/2407.03215v1)|null|
@@ -14,21 +32,3 @@
 |**2024-07-02**|**Generalized Event Cameras**|Varun Sundar et.al.|[2407.02683v1](http://arxiv.org/abs/2407.02683v1)|null|
 |**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370v2](http://arxiv.org/abs/2407.02370v2)|null|
 |**2024-07-02**|**Sign Language Recognition Based On Facial Expression and Hand Skeleton**|Zhiyu Long et.al.|[2407.02241v1](http://arxiv.org/abs/2407.02241v1)|null|
-|**2024-07-02**|**Detecting Driver Fatigue With Eye Blink Behavior**|Ali Akin et.al.|[2407.02222v1](http://arxiv.org/abs/2407.02222v1)|null|
-|**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|[link](https://github.com/WU-CVGL/BeNeRF)|
-|**2024-07-02**|**RETINA: a hardware-in-the-loop optical facility with reduced optical aberrations**|Paolo Panicucci et.al.|[2407.02172v1](http://arxiv.org/abs/2407.02172v1)|null|
-|**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150v1](http://arxiv.org/abs/2407.02150v1)|null|
-|**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077v1](http://arxiv.org/abs/2407.02077v1)|[link](https://github.com/arlo0o/htcl)|
-|**2024-07-02**|**CountFormer: Multi-View Crowd Counting Transformer**|Hong Mo et.al.|[2407.02047v1](http://arxiv.org/abs/2407.02047v1)|null|
-|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038v3](http://arxiv.org/abs/2407.02038v3)|null|
-|**2024-07-02**|**Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**|Zhaoshuai Qi et.al.|[2407.01945v1](http://arxiv.org/abs/2407.01945v1)|null|
-|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|
-|**2024-07-01**|**Optimal Sample Lens Positioning in Digital Camera Systems**|Ali Karaoglu et.al.|[2407.01789v1](http://arxiv.org/abs/2407.01789v1)|null|
-|**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761v1](http://arxiv.org/abs/2407.01761v1)|null|
-|**2024-07-01**|**VolETA: One- and Few-shot Food Volume Estimation**|Ahmad AlMughrabi et.al.|[2407.01717v1](http://arxiv.org/abs/2407.01717v1)|null|
-|**2024-07-01**|**E.T. the Exceptional Trajectories: Text-to-camera-trajectory generation with character awareness**|Robin Courant et.al.|[2407.01516v1](http://arxiv.org/abs/2407.01516v1)|[link](https://github.com/robincourant/DIRECTOR)|
-|**2024-07-01**|**AtLAST Science Overview Report**|Mark Booth et.al.|[2407.01413v1](http://arxiv.org/abs/2407.01413v1)|null|
-|**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342v1](http://arxiv.org/abs/2407.02342v1)|[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)|
-|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292v1](http://arxiv.org/abs/2407.01292v1)|null|
-|**2024-07-01**|**Preliminary results of sky brightness measurements in near-infrared at Lenghu, China**|Jinji Li et.al.|[2407.01118v1](http://arxiv.org/abs/2407.01118v1)|null|
-|**2024-07-01**|**GMT: A Robust Global Association Model for Multi-Target Multi-Camera Tracking**|Huijie Fan et.al.|[2407.01007v1](http://arxiv.org/abs/2407.01007v1)|null|
