@@ -15,7 +15,7 @@
 |**2024-07-04**|**Markerless Multi-view 3D Human Pose Estimation: a survey**|Ana Filipa Rodrigues Nogueira et.al.|[2407.03817v1](http://arxiv.org/abs/2407.03817v1)|null|
 |**2024-07-04**|**Preliminary results of the Single Event Effect testing for the ULTRASAT sensors**|Vlad Dumitru Berlea et.al.|[2407.03789v1](http://arxiv.org/abs/2407.03789v1)|null|
 |**2024-07-04**|**SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors**|Yijia Guo et.al.|[2407.03771v1](http://arxiv.org/abs/2407.03771v1)|null|
-|**2024-07-04**|**A Computer Vision Approach to Estimate the Localized Sea State**|Aleksandar Vorkapic et.al.|[2407.03755v1](http://arxiv.org/abs/2407.03755v1)|null|
+|**2024-07-04**|**A Computer Vision Approach to Estimate the Localized Sea State**|Aleksandar Vorkapic et.al.|[2407.03755v2](http://arxiv.org/abs/2407.03755v2)|null|
 |**2024-07-04**|**Bayesian inference of physics-based models of acoustically-forced laminar premixed conical flames**|Alessandro Giannotta et.al.|[2407.03701v1](http://arxiv.org/abs/2407.03701v1)|null|
 |**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684v1](http://arxiv.org/abs/2407.03684v1)|null|
 |**2024-07-04**|**Sensitivity and Performance of LBTI/NOMIC Spectroscopy: Prospects for 10- and 30-meter class Mid-IR Exoplanet Science**|Brittany E. Miles et.al.|[2407.03620v1](http://arxiv.org/abs/2407.03620v1)|null|
