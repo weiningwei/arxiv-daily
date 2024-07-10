@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092v1](http://arxiv.org/abs/2407.07092v1)|null|
+|**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v1](http://arxiv.org/abs/2407.07090v1)|null|
+|**2024-07-09**|**Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
+|**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052v1](http://arxiv.org/abs/2407.07052v1)|null|
+|**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025v1](http://arxiv.org/abs/2407.07025v1)|null|
+|**2024-07-09**|**Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization**|Lei Cheng et.al.|[2407.06861v1](http://arxiv.org/abs/2407.06861v1)|null|
+|**2024-07-09**|**A Neutron Spectrometry for Fusion Plasmas**|Iskender Atilla Reyhancan et.al.|[2407.06743v1](http://arxiv.org/abs/2407.06743v1)|null|
+|**2024-07-09**|**Towards Physics-informed Cyclic Adversarial Multi-PSF Lensless Imaging**|Abeer Banerjee et.al.|[2407.06727v1](http://arxiv.org/abs/2407.06727v1)|null|
+|**2024-07-09**|**Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention**|Xunjiang Gu et.al.|[2407.06683v1](http://arxiv.org/abs/2407.06683v1)|null|
+|**2024-07-09**|**Decomposition Betters Tracking Everything Everywhere**|Rui Li et.al.|[2407.06531v1](http://arxiv.org/abs/2407.06531v1)|null|
+|**2024-07-09**|**Multi-Object Spectroscopy of Galaxy Clusters at $z \sim 0.95$ in Ultra Deep Survey Field with Different Star-formation Properties and Large-scale Environments**|Seong-Kook Lee et.al.|[2407.06490v1](http://arxiv.org/abs/2407.06490v1)|null|
+|**2024-07-08**|**Particle control via cryopumping and its impact on the edge plasma profiles of Alcator C-Mod**|M. A. Miller et.al.|[2407.06382v1](http://arxiv.org/abs/2407.06382v1)|null|
+|**2024-07-08**|**High-Throughput Phenotyping using Computer Vision and Machine Learning**|Vivaan Singhvi et.al.|[2407.06354v1](http://arxiv.org/abs/2407.06354v1)|null|
+|**2024-07-08**|**An Open-source Hardware/Software Architecture and Supporting Simulation Environment to Perform Human FPV Flight Demonstrations for Unmanned Aerial Vehicle Autonomy**|Haosong Xiao et.al.|[2407.06320v1](http://arxiv.org/abs/2407.06320v1)|null|
+|**2024-07-08**|**Decoupling Local Primordial non-Gaussianity from Relativistic Effects in the Galaxy Bispectrum**|Samantha Rossiter et.al.|[2407.06301v1](http://arxiv.org/abs/2407.06301v1)|null|
+|**2024-07-08**|**Detecting Relativistic Doppler by Multi-Tracing a Single Galaxy Population**|Federico Montano et.al.|[2407.06284v1](http://arxiv.org/abs/2407.06284v1)|null|
 |**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190v1](http://arxiv.org/abs/2407.06190v1)|[link](https://github.com/xiangxu-0103/superflow)|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
 |**2024-07-08**|**Bounding Boxes and Probabilistic Graphical Models: Video Anomaly Detection Simplified**|Mia Siemon et.al.|[2407.06000v1](http://arxiv.org/abs/2407.06000v1)|null|
@@ -16,19 +32,3 @@
 |**2024-07-07**|**Semantic Segmentation for Real-World and Synthetic Vehicle's Forward-Facing Camera Images**|Tuan T. Nguyen et.al.|[2407.05452v1](http://arxiv.org/abs/2407.05452v1)|null|
 |**2024-07-07**|**Understanding Professional Needs to Create Privacy-Preserving and Secure Emergent Digital Artworks**|Kathryn Lichlyter et.al.|[2407.05450v1](http://arxiv.org/abs/2407.05450v1)|null|
 |**2024-07-07**|**Self-supervised Learning via Cluster Distance Prediction for Operating Room Context Awareness**|Idris Hamoud et.al.|[2407.05448v1](http://arxiv.org/abs/2407.05448v1)|null|
-|**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|[link](https://github.com/fengyi233/SCIPaD)|
-|**2024-07-06**|**Helios: An extremely low power event-based gesture recognition for always-on smart eyewear**|Prarthana Bhattacharyya et.al.|[2407.05206v1](http://arxiv.org/abs/2407.05206v1)|null|
-|**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106v1](http://arxiv.org/abs/2407.05106v1)|[link](https://github.com/qiwang233/dailydvs-200)|
-|**2024-07-06**|**Exploring Sound Change Over Time: A Review of Computational and Human Perception**|Siqi He et.al.|[2407.05092v1](http://arxiv.org/abs/2407.05092v1)|null|
-|**2024-07-06**|**Calorie Burn Estimation in Community Parks Through DLICP: A Mathematical Modelling Approach**|Abhishek Sebastian et.al.|[2407.04986v1](http://arxiv.org/abs/2407.04986v1)|null|
-|**2024-07-06**|**Toward Precise Robotic Weed Flaming Using a Mobile Manipulator with a Flamethrower**|Di Wang et.al.|[2407.04929v1](http://arxiv.org/abs/2407.04929v1)|null|
-|**2024-07-06**|**SID: Stereo Image Dataset for Autonomous Driving in Adverse Conditions**|Zaid A. El-Shair et.al.|[2407.04908v1](http://arxiv.org/abs/2407.04908v1)|null|
-|**2024-07-06**|**Informative Sensor Planning for a Single-Axis Gimbaled Camera on a Fixed-Wing UAV**|Aditya Parandekar et.al.|[2407.04896v1](http://arxiv.org/abs/2407.04896v1)|null|
-|**2024-07-05**|**NSD-DIL: Null-Shot Deblurring Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2407.04815v1](http://arxiv.org/abs/2407.04815v1)|null|
-|**2024-07-05**|**Serpentine Synergy: Design and Fabrication of a Dual Soft Continuum Manipulator and Soft Snake Robot**|Rajashekhar V S et.al.|[2407.04802v1](http://arxiv.org/abs/2407.04802v1)|null|
-|**2024-07-05**|**Thermal and mechanical study of a parametrised cryostat model for optical characterisation of upcoming CMB experiments**|Thomas J. L. J. Gascard et.al.|[2407.04613v1](http://arxiv.org/abs/2407.04613v1)|null|
-|**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
-|**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384v1](http://arxiv.org/abs/2407.04384v1)|[link](https://github.com/genintel/uns-obj-pose3d)|
-|**2024-07-05**|**TF-SASM: Training-free Spatial-aware Sparse Memory for Multi-object Tracking**|Thuc Nguyen-Quang et.al.|[2407.04327v1](http://arxiv.org/abs/2407.04327v1)|null|
-|**2024-07-05**|**Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey**|Han Wang et.al.|[2407.04277v1](http://arxiv.org/abs/2407.04277v1)|null|
-|**2024-07-05**|**Time-resolved phase-lock pressure-sensitive paint measurement of trailing edge noise dynamics**|M. Imai et.al.|[2407.04233v1](http://arxiv.org/abs/2407.04233v1)|null|

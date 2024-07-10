@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
+|**2024-07-09**|**Inertial effects in discrete sampling information engines**|Aubin Archambault et.al.|[2407.06672v1](http://arxiv.org/abs/2407.06672v1)|null|
+|**2024-07-09**|**Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition**|Mingfang Zhang et.al.|[2407.06628v1](http://arxiv.org/abs/2407.06628v1)|null|
 |**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
 |**2024-07-08**|**The vertical-velocity skewness in the inertial sublayer of turbulent wall flows**|Elia Buono et.al.|[2407.05955v1](http://arxiv.org/abs/2407.05955v1)|null|
 |**2024-07-08**|**Primordial acoustic turbulence: three-dimensional simulations and gravitational wave predictions**|Jani Dahl et.al.|[2407.05826v1](http://arxiv.org/abs/2407.05826v1)|null|
@@ -29,6 +32,3 @@
 |**2024-07-02**|**Regimes of Near-Inertial Wave Dynamics**|Scott Conn et.al.|[2407.02709v1](http://arxiv.org/abs/2407.02709v1)|null|
 |**2024-07-02**|**How turbulence increases the bubble-particle collision rate**|Linfeng Jiang et.al.|[2407.02234v1](http://arxiv.org/abs/2407.02234v1)|null|
 |**2024-07-02**|**Efficient Extrinsic Self-Calibration of Multiple IMUs using Measurement Subset Selection**|Jongwon Lee et.al.|[2407.02232v1](http://arxiv.org/abs/2407.02232v1)|null|
-|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|[link](https://github.com/ywl0720/i2ekf-lo)|
-|**2024-07-02**|**Mass crystals and cage effect in vorticity crystals**|Jean-Régis Angilella et.al.|[2407.02001v2](http://arxiv.org/abs/2407.02001v2)|null|
-|**2024-07-02**|**PO-MSCKF: An Efficient Visual-Inertial Odometry by Reconstructing the Multi-State Constrained Kalman Filter with the Pose-only Theory**|Du Xueyu et.al.|[2407.01888v1](http://arxiv.org/abs/2407.01888v1)|null|
