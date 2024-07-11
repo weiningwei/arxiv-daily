@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092v1](http://arxiv.org/abs/2407.07092v1)|null|
 |**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v1](http://arxiv.org/abs/2407.07090v1)|null|
-|**2024-07-09**|**Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
+|**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052v1](http://arxiv.org/abs/2407.07052v1)|null|
 |**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025v1](http://arxiv.org/abs/2407.07025v1)|null|
 |**2024-07-09**|**Window-to-Window BEV Representation Learning for Limited FoV Cross-View Geo-localization**|Lei Cheng et.al.|[2407.06861v1](http://arxiv.org/abs/2407.06861v1)|null|
@@ -14,11 +14,11 @@
 |**2024-07-09**|**Decomposition Betters Tracking Everything Everywhere**|Rui Li et.al.|[2407.06531v1](http://arxiv.org/abs/2407.06531v1)|null|
 |**2024-07-09**|**Multi-Object Spectroscopy of Galaxy Clusters at $z \sim 0.95$ in Ultra Deep Survey Field with Different Star-formation Properties and Large-scale Environments**|Seong-Kook Lee et.al.|[2407.06490v1](http://arxiv.org/abs/2407.06490v1)|null|
 |**2024-07-08**|**Particle control via cryopumping and its impact on the edge plasma profiles of Alcator C-Mod**|M. A. Miller et.al.|[2407.06382v1](http://arxiv.org/abs/2407.06382v1)|null|
-|**2024-07-08**|**High-Throughput Phenotyping using Computer Vision and Machine Learning**|Vivaan Singhvi et.al.|[2407.06354v1](http://arxiv.org/abs/2407.06354v1)|null|
+|**2024-07-08**|**High-Throughput Phenotyping using Computer Vision and Machine Learning**|Vivaan Singhvi et.al.|[2407.06354v2](http://arxiv.org/abs/2407.06354v2)|null|
 |**2024-07-08**|**An Open-source Hardware/Software Architecture and Supporting Simulation Environment to Perform Human FPV Flight Demonstrations for Unmanned Aerial Vehicle Autonomy**|Haosong Xiao et.al.|[2407.06320v1](http://arxiv.org/abs/2407.06320v1)|null|
 |**2024-07-08**|**Decoupling Local Primordial non-Gaussianity from Relativistic Effects in the Galaxy Bispectrum**|Samantha Rossiter et.al.|[2407.06301v1](http://arxiv.org/abs/2407.06301v1)|null|
 |**2024-07-08**|**Detecting Relativistic Doppler by Multi-Tracing a Single Galaxy Population**|Federico Montano et.al.|[2407.06284v1](http://arxiv.org/abs/2407.06284v1)|null|
-|**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190v1](http://arxiv.org/abs/2407.06190v1)|[link](https://github.com/xiangxu-0103/superflow)|
+|**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[2407.06190v2](http://arxiv.org/abs/2407.06190v2)|[link](https://github.com/xiangxu-0103/superflow)|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
 |**2024-07-08**|**Bounding Boxes and Probabilistic Graphical Models: Video Anomaly Detection Simplified**|Mia Siemon et.al.|[2407.06000v1](http://arxiv.org/abs/2407.06000v1)|null|
 |**2024-07-08**|**In vacuum metasurface for optical microtrap array**|Donghao Li et.al.|[2407.05918v1](http://arxiv.org/abs/2407.05918v1)|null|
