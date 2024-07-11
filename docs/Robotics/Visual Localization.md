@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092v1](http://arxiv.org/abs/2407.07092v1)|null|
-|**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v1](http://arxiv.org/abs/2407.07090v1)|null|
+|**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v2](http://arxiv.org/abs/2407.07090v2)|null|
 |**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052v1](http://arxiv.org/abs/2407.07052v1)|null|
 |**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025v1](http://arxiv.org/abs/2407.07025v1)|null|
