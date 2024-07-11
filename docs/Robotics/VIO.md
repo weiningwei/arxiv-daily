@@ -2,7 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
+|**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
+|**2024-07-10**|**Buoyancy driven motion of non-coalescing inertial drops: microstructure modeling with nearest particle statistics**|Nicolas Fintzi et.al.|[2407.07463v1](http://arxiv.org/abs/2407.07463v1)|null|
+|**2024-07-09**|**Atom interferometry in an Einstein Elevator**|Celia Pelluet et.al.|[2407.07183v1](http://arxiv.org/abs/2407.07183v1)|null|
+|**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|[link](https://github.com/vis4rob-lab/hyperion)|
 |**2024-07-09**|**Inertial effects in discrete sampling information engines**|Aubin Archambault et.al.|[2407.06672v1](http://arxiv.org/abs/2407.06672v1)|null|
 |**2024-07-09**|**Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition**|Mingfang Zhang et.al.|[2407.06628v1](http://arxiv.org/abs/2407.06628v1)|null|
 |**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
@@ -29,6 +32,3 @@
 |**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
 |**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906v1](http://arxiv.org/abs/2407.02906v1)|null|
 |**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
-|**2024-07-02**|**Regimes of Near-Inertial Wave Dynamics**|Scott Conn et.al.|[2407.02709v1](http://arxiv.org/abs/2407.02709v1)|null|
-|**2024-07-02**|**How turbulence increases the bubble-particle collision rate**|Linfeng Jiang et.al.|[2407.02234v1](http://arxiv.org/abs/2407.02234v1)|null|
-|**2024-07-02**|**Efficient Extrinsic Self-Calibration of Multiple IMUs using Measurement Subset Selection**|Jongwon Lee et.al.|[2407.02232v1](http://arxiv.org/abs/2407.02232v1)|null|

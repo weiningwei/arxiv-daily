@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
 |**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
 |**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v2](http://arxiv.org/abs/2407.05820v2)|null|
 |**2024-07-08**|**PANS: Probabilistic Airway Navigation System for Real-time Robust Bronchoscope Localization**|Qingyao Tian et.al.|[2407.05554v1](http://arxiv.org/abs/2407.05554v1)|null|
@@ -31,4 +32,3 @@
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
 |**2024-05-27**|**Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning**|Youqi Pan et.al.|[2405.16754v1](http://arxiv.org/abs/2405.16754v1)|null|
 |**2024-05-23**|**Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization**|Han Song et.al.|[2405.15082v3](http://arxiv.org/abs/2405.15082v3)|null|
-|**2024-05-23**|**VINS-Multi: A Robust Asynchronous Multi-camera-IMU State Estimator**|Luqi Wang et.al.|[2405.14539v1](http://arxiv.org/abs/2405.14539v1)|null|
