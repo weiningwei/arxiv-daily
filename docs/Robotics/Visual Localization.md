@@ -5,7 +5,7 @@
 |**2024-07-10**|**Synthetic Light-in-Flight**|Patrick Cornwall et.al.|[2407.07872v1](http://arxiv.org/abs/2407.07872v1)|null|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
 |**2024-07-10**|**SUMix: Mixup with Semantic and Uncertain Information**|Huafeng Qin et.al.|[2407.07805v1](http://arxiv.org/abs/2407.07805v1)|[link](https://github.com/jinxins/sumix)|
-|**2024-07-10**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788v1](http://arxiv.org/abs/2407.07788v1)|null|
+|**2024-07-10**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788v2](http://arxiv.org/abs/2407.07788v2)|null|
 |**2024-07-10**|**The Solar and Geomagnetic Storms in May 2024: A Flash Data Report**|Hisashi Hayakawa et.al.|[2407.07665v1](http://arxiv.org/abs/2407.07665v1)|null|
 |**2024-07-10**|**Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction**|Yili Liu et.al.|[2407.07587v1](http://arxiv.org/abs/2407.07587v1)|null|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|[link](https://github.com/ipic-lab/irsam)|
