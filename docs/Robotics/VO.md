@@ -2,9 +2,6 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
-|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v1](http://arxiv.org/abs/2407.08260v1)|null|
-|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
 |**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
 |**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v2](http://arxiv.org/abs/2407.05820v2)|null|
@@ -32,3 +29,6 @@
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
 |**2024-06-03**|**C$^3$P-VoxelMap: Compact, Cumulative and Coalescible Probabilistic Voxel Mapping**|Xu Yang et.al.|[2406.01195v1](http://arxiv.org/abs/2406.01195v1)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929v1](http://arxiv.org/abs/2406.00929v1)|null|
+|**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
+|**2024-05-27**|**Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning**|Youqi Pan et.al.|[2405.16754v1](http://arxiv.org/abs/2405.16754v1)|null|
+|**2024-05-23**|**Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization**|Han Song et.al.|[2405.15082v3](http://arxiv.org/abs/2405.15082v3)|null|

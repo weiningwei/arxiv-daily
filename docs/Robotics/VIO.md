@@ -2,11 +2,6 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
-|**2024-07-11**|**Theory for the Anomalous Phase Behavior of Inertial Active Matter**|Jiechao Feng et.al.|[2407.08676v1](http://arxiv.org/abs/2407.08676v1)|null|
-|**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261v1](http://arxiv.org/abs/2407.08261v1)|null|
-|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v1](http://arxiv.org/abs/2407.08260v1)|null|
-|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
 |**2024-07-10**|**Buoyancy driven motion of non-coalescing inertial drops: microstructure modeling with nearest particle statistics**|Nicolas Fintzi et.al.|[2407.07463v1](http://arxiv.org/abs/2407.07463v1)|null|
 |**2024-07-09**|**Atom interferometry in an Einstein Elevator**|Celia Pelluet et.al.|[2407.07183v1](http://arxiv.org/abs/2407.07183v1)|null|
@@ -32,3 +27,8 @@
 |**2024-07-04**|**On-Device Training Empowered Transfer Learning For Human Activity Recognition**|Pixi Kang et.al.|[2407.03644v1](http://arxiv.org/abs/2407.03644v1)|null|
 |**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|
 |**2024-07-04**|**Dynamics of inertial particles on the ocean surface with unrestricted reserve buoyancy**|F. J. Beron-Vera et.al.|[2407.03564v1](http://arxiv.org/abs/2407.03564v1)|null|
+|**2024-07-03**|**A strongly convergent inertial inexact proximal-point algorithm for monotone inclusions with applications to variational inequalities**|M. Marques Alves et.al.|[2407.03485v1](http://arxiv.org/abs/2407.03485v1)|null|
+|**2024-07-03**|**Fault-Tolerant Decentralized Control for Large-scale Inverter-based Resources for Active Power Tracking**|Satish Vedula et.al.|[2407.03444v1](http://arxiv.org/abs/2407.03444v1)|null|
+|**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
+|**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906v1](http://arxiv.org/abs/2407.02906v1)|null|
+|**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
