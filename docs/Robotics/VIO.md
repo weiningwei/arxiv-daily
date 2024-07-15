@@ -27,7 +27,7 @@
 |**2024-07-05**|**Universal Scaling Laws for a Generic Swimmer Model**|Bruno Ventéjou et.al.|[2407.04511v1](http://arxiv.org/abs/2407.04511v1)|null|
 |**2024-07-05**|**Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction**|Zhongnuo Yan et.al.|[2407.04242v1](http://arxiv.org/abs/2407.04242v1)|null|
 |**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
-|**2024-07-04**|**Properties of observable mixed inertial/gravito-inertial modes in γ Doradus stars**|Marion Galoy et.al.|[2407.04074v1](http://arxiv.org/abs/2407.04074v1)|null|
+|**2024-07-04**|**Properties of observable mixed inertial and gravito-inertial modes in γ Doradus stars**|Marion Galoy et.al.|[2407.04074v2](http://arxiv.org/abs/2407.04074v2)|null|
 |**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|
 |**2024-07-04**|**On-Device Training Empowered Transfer Learning For Human Activity Recognition**|Pixi Kang et.al.|[2407.03644v1](http://arxiv.org/abs/2407.03644v1)|null|
 |**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|
