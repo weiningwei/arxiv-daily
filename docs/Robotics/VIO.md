@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-12**|**Dynamic-Mode Decomposition of Geostrophically Balanced and Unbalanced Motions from SWOT**|Takaya Uchida et.al.|[2407.09309v1](http://arxiv.org/abs/2407.09309v1)|null|
+|**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260v1](http://arxiv.org/abs/2407.09260v1)|null|
+|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v1](http://arxiv.org/abs/2407.08907v1)|null|
 |**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
 |**2024-07-11**|**Theory for the Anomalous Phase Behavior of Inertial Active Matter**|Jiechao Feng et.al.|[2407.08676v1](http://arxiv.org/abs/2407.08676v1)|null|
 |**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261v1](http://arxiv.org/abs/2407.08261v1)|null|
@@ -29,6 +32,3 @@
 |**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
 |**2024-07-04**|**Properties of observable mixed inertial and gravito-inertial modes in γ Doradus stars**|Marion Galoy et.al.|[2407.04074v2](http://arxiv.org/abs/2407.04074v2)|null|
 |**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|
-|**2024-07-04**|**On-Device Training Empowered Transfer Learning For Human Activity Recognition**|Pixi Kang et.al.|[2407.03644v1](http://arxiv.org/abs/2407.03644v1)|null|
-|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|
-|**2024-07-04**|**Dynamics of inertial particles on the ocean surface with unrestricted reserve buoyancy**|F. J. Beron-Vera et.al.|[2407.03564v1](http://arxiv.org/abs/2407.03564v1)|null|
