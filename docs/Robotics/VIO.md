@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
+|**2024-07-15**|**Tailoring Solution Accuracy for Fast Whole-body Model Predictive Control of Legged Robots**|Charles Khazoom et.al.|[2407.10789v1](http://arxiv.org/abs/2407.10789v1)|null|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-15**|**Rigorous derivation of damped-driven wave turbulence theory**|Ricardo Grande et.al.|[2407.10711v1](http://arxiv.org/abs/2407.10711v1)|null|
+|**2024-07-14**|**A proximal-gradient inertial algorithm with Tikhonov regularization: strong convergence to the minimal norm solution**|Szilárd Csaba László et.al.|[2407.10350v1](http://arxiv.org/abs/2407.10350v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
+|**2024-07-13**|**The induced friction on a probe moving in a nonequilibrium medium**|Ji-Hui Pei et.al.|[2407.09989v1](http://arxiv.org/abs/2407.09989v1)|null|
 |**2024-07-12**|**Dynamic-Mode Decomposition of Geostrophically Balanced and Unbalanced Motions from SWOT**|Takaya Uchida et.al.|[2407.09309v1](http://arxiv.org/abs/2407.09309v1)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260v1](http://arxiv.org/abs/2407.09260v1)|null|
 |**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
@@ -24,11 +32,3 @@
 |**2024-07-08**|**PANS: Probabilistic Airway Navigation System for Real-time Robust Bronchoscope Localization**|Qingyao Tian et.al.|[2407.05554v1](http://arxiv.org/abs/2407.05554v1)|null|
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|[link](https://github.com/fengyi233/SCIPaD)|
 |**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
-|**2024-07-05**|**Vector Atom Accelerometry in an Optical Lattice**|Catie LeDesma et.al.|[2407.04874v1](http://arxiv.org/abs/2407.04874v1)|null|
-|**2024-07-05**|**Lunar Time in General Relativity**|Sergei M. Kopeikin et.al.|[2407.04862v1](http://arxiv.org/abs/2407.04862v1)|null|
-|**2024-07-05**|**An SDE Perspective on Stochastic Inertial Gradient Dynamics with Time-Dependent Viscosity and Geometric Damping**|Rodrigo Maulen-Soto et.al.|[2407.04562v1](http://arxiv.org/abs/2407.04562v1)|null|
-|**2024-07-05**|**Universal Scaling Laws for a Generic Swimmer Model**|Bruno Ventéjou et.al.|[2407.04511v1](http://arxiv.org/abs/2407.04511v1)|null|
-|**2024-07-05**|**Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction**|Zhongnuo Yan et.al.|[2407.04242v1](http://arxiv.org/abs/2407.04242v1)|null|
-|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
-|**2024-07-04**|**Properties of observable mixed inertial and gravito-inertial modes in γ Doradus stars**|Marion Galoy et.al.|[2407.04074v2](http://arxiv.org/abs/2407.04074v2)|null|
-|**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|

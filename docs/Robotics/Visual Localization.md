@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-12**|**GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control**|Issatay Tokmurziyev et.al.|[2407.09459v1](http://arxiv.org/abs/2407.09459v1)|null|
-|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
-|**2024-07-12**|**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**|Ziyuan Luo et.al.|[2407.09352v1](http://arxiv.org/abs/2407.09352v1)|null|
-|**2024-07-12**|**MIXED-SENSE: A Mixed Reality Sensor Emulation Framework for Test and Evaluation of UAVs Against False Data Injection Attacks**|Kartik A. Pant et.al.|[2407.09342v1](http://arxiv.org/abs/2407.09342v1)|null|
-|**2024-07-12**|**Experimental photon addition and subtraction in multi-mode and entangled optical fields**|Kishore Thapliyal et.al.|[2407.09269v1](http://arxiv.org/abs/2407.09269v1)|null|
-|**2024-07-12**|**HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation**|Manuel Birlo et.al.|[2407.09215v1](http://arxiv.org/abs/2407.09215v1)|null|
-|**2024-07-12**|**FlyEye Ground-Based Telescope: Unveiling New Frontiers in Astronomical Science**|Carmelo Arcidiacono et.al.|[2407.09140v1](http://arxiv.org/abs/2407.09140v1)|null|
-|**2024-07-12**|**The MICADO first light imager for the ELT: the PSF Reconstruction Software**|Andrea Grazian et.al.|[2407.09132v1](http://arxiv.org/abs/2407.09132v1)|null|
-|**2024-07-12**|**Inference Optimization of Foundation Models on AI Accelerators**|Youngsuk Park et.al.|[2407.09111v1](http://arxiv.org/abs/2407.09111v1)|null|
-|**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094v1](http://arxiv.org/abs/2407.09094v1)|[link](https://github.com/yuanfeihuang/condformer)|
-|**2024-07-12**|**Accurate Prior-centric Monocular Positioning with Offline LiDAR Fusion**|Jinhao He et.al.|[2407.09091v1](http://arxiv.org/abs/2407.09091v1)|null|
-|**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051v1](http://arxiv.org/abs/2407.09051v1)|null|
-|**2024-07-12**|**High-Resolution Hyperspectral Video Imaging Using A Hexagonal Camera Array**|Frank Sippel et.al.|[2407.09038v1](http://arxiv.org/abs/2407.09038v1)|null|
-|**2024-07-11**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726v1](http://arxiv.org/abs/2407.08726v1)|null|
-|**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722v1](http://arxiv.org/abs/2407.08722v1)|null|
-|**2024-07-11**|**An infrared census of R Coronae Borealis Stars II -- Spectroscopic classifications and implications for the rate of low-mass white dwarf mergers**|Viraj R. Karambelkar et.al.|[2407.08653v1](http://arxiv.org/abs/2407.08653v1)|null|
-|**2024-07-11**|**BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**|Hang Wu et.al.|[2407.08526v1](http://arxiv.org/abs/2407.08526v1)|null|
-|**2024-07-11**|**Digital twins to alleviate the need for real field data in vision-based vehicle speed detection systems**|Antonio Hernández Martínez et.al.|[2407.08380v1](http://arxiv.org/abs/2407.08380v1)|null|
-|**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356v1](http://arxiv.org/abs/2407.08356v1)|null|
-|**2024-07-11**|**Telescope control software and proto-model siderostat for the SDSS-V Local Volume Mapper**|Hojae Ahn et.al.|[2407.08319v1](http://arxiv.org/abs/2407.08319v1)|null|
-|**2024-07-11**|**WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving**|Jannik Zürn et.al.|[2407.08280v1](http://arxiv.org/abs/2407.08280v1)|[link](https://github.com/wayveai/wayve_scenes)|
-|**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272v1](http://arxiv.org/abs/2407.08272v1)|null|
-|**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261v1](http://arxiv.org/abs/2407.08261v1)|null|
-|**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231v1](http://arxiv.org/abs/2407.08231v1)|null|
-|**2024-07-11**|**SRPose: Two-view Relative Pose Estimation with Sparse Keypoints**|Rui Yin et.al.|[2407.08199v1](http://arxiv.org/abs/2407.08199v1)|[link](https://github.com/frickyinn/SRPose)|
-|**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154v1](http://arxiv.org/abs/2407.08154v1)|null|
-|**2024-07-11**|**Urban Waterlogging Detection: A Challenging Benchmark and Large-Small Model Co-Adapter**|Suqi Song et.al.|[2407.08109v1](http://arxiv.org/abs/2407.08109v1)|[link](https://github.com/zhang-chenxu/lsm-adapter)|
-|**2024-07-10**|**Viability of Low-Cost Infrared Sensors for Short Range Tracking**|Noah Haeske et.al.|[2407.08071v1](http://arxiv.org/abs/2407.08071v1)|[link](https://github.com/noah-haeske/research/blob/main/experimentProgram.py)|
-|**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[2407.08049v1](http://arxiv.org/abs/2407.08049v1)|null|
-|**2024-07-10**|**Correcting Turbulence-induced Errors in Fiber Positioning for the Dark Energy Spectroscopic Instrument**|E. F. Schlafly et.al.|[2407.08026v1](http://arxiv.org/abs/2407.08026v1)|null|
+|**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
+|**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
+|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831v1](http://arxiv.org/abs/2407.10831v1)|null|
+|**2024-07-15**|**Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation**|Friedhelm Hamann et.al.|[2407.10802v1](http://arxiv.org/abs/2407.10802v1)|[link](https://github.com/tub-rip/motionpriorcmax)|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736v1](http://arxiv.org/abs/2407.10736v1)|null|
+|**2024-07-15**|**Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation**|Yuhwan Jeong et.al.|[2407.10703v1](http://arxiv.org/abs/2407.10703v1)|[link](https://github.com/jeongyh98/udnet)|
+|**2024-07-15**|**Searching for electromagnetic emission in an AGN from the gravitational wave binary black hole merger candidate S230922g**|Tomás Cabrera et.al.|[2407.10698v1](http://arxiv.org/abs/2407.10698v1)|null|
+|**2024-07-15**|**Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs**|Nicholas Carlotti et.al.|[2407.10661v1](http://arxiv.org/abs/2407.10661v1)|null|
+|**2024-07-15**|**Visual-tactile manipulation to collect household waste in outdoor**|Julio Castaño-Amorós et.al.|[2407.10606v1](http://arxiv.org/abs/2407.10606v1)|null|
+|**2024-07-15**|**Deep-Learning-Based Markerless Pose Estimation Systems in Gait Analysis: DeepLabCut Custom Training and the Refinement Function**|Giulia Panconi et.al.|[2407.10590v1](http://arxiv.org/abs/2407.10590v1)|null|
+|**2024-07-15**|**COSMU: Complete 3D human shape from monocular unconstrained images**|Marco Pesavento et.al.|[2407.10586v1](http://arxiv.org/abs/2407.10586v1)|null|
+|**2024-07-15**|**Multiple Peg-in-Hole Assembly of Tightly Coupled Multi-manipulator Using Learning-based Visual Servo**|Jiawei Zhang et.al.|[2407.10570v1](http://arxiv.org/abs/2407.10570v1)|null|
+|**2024-07-15**|**ConTEXTure: Consistent Multiview Images to Texture**|Jaehoon Ahn et.al.|[2407.10558v1](http://arxiv.org/abs/2407.10558v1)|null|
+|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406v1](http://arxiv.org/abs/2407.10406v1)|null|
+|**2024-07-15**|**Exploring the Impact of Moire Pattern on Deepfake Detectors**|Razaib Tariq et.al.|[2407.10399v1](http://arxiv.org/abs/2407.10399v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
+|**2024-07-14**|**3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects**|Weiming Zhi et.al.|[2407.10331v1](http://arxiv.org/abs/2407.10331v1)|null|
+|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|[link](https://github.com/myniuuu/rs-nerf)|
+|**2024-07-14**|**Multiple data sources and domain generalization learning method for road surface defect classification**|Linh Trinh et.al.|[2407.10197v1](http://arxiv.org/abs/2407.10197v1)|null|
+|**2024-07-14**|**Curriculum Learning for Small Code Language Models**|Marwa Naïr et.al.|[2407.10194v1](http://arxiv.org/abs/2407.10194v1)|null|
+|**2024-07-14**|**GRAPE: Generalizable and Robust Multi-view Facial Capture**|Jing Li et.al.|[2407.10193v1](http://arxiv.org/abs/2407.10193v1)|null|
+|**2024-07-14**|**LabelDistill: Label-guided Cross-modal Knowledge Distillation for Camera-based 3D Object Detection**|Sanmin Kim et.al.|[2407.10164v1](http://arxiv.org/abs/2407.10164v1)|[link](https://github.com/sanmin0312/labeldistill)|
+|**2024-07-14**|**From SuperBIT to GigaBIT: Informing next-generation balloon-borne telescope design with Fine Guidance System flight data**|Philippe Voyer et.al.|[2407.10103v1](http://arxiv.org/abs/2407.10103v1)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
+|**2024-07-14**|**Work-From-Home and Privacy: What Do Workers Face and What are They Doing About it?**|Eman Alashwali et.al.|[2407.10094v1](http://arxiv.org/abs/2407.10094v1)|null|
+|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062v1](http://arxiv.org/abs/2407.10062v1)|null|
+|**2024-07-14**|**Research Experience of an Undergraduate Student in Computer Vision and Robotics**|Ayush V. Gowda et.al.|[2407.10044v1](http://arxiv.org/abs/2407.10044v1)|null|
+|**2024-07-13**|**Optimizing ROI Benefits Vehicle ReID in ITS**|Mei Qiu et.al.|[2407.09966v1](http://arxiv.org/abs/2407.09966v1)|null|
+|**2024-07-13**|**LeRF: Learning Resampling Function for Adaptive and Efficient Image Interpolation**|Jiacheng Li et.al.|[2407.09935v1](http://arxiv.org/abs/2407.09935v1)|[link](https://github.com/ddlee-cn/lerf-pytorch)|

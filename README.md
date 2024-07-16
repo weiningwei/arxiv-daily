@@ -1,47 +1,55 @@
 # arxiv-daily
- Automated deployment @ 2024-07-16 09:48:48 Asia/Shanghai
+ Automated deployment @ 2024-07-16 20:14:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
-|**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
-|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v1](http://arxiv.org/abs/2407.08260v1)|null|
-|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
-|**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
-|**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
-|**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v2](http://arxiv.org/abs/2407.05820v2)|null|
-|**2024-07-08**|**PANS: Probabilistic Airway Navigation System for Real-time Robust Bronchoscope Localization**|Qingyao Tian et.al.|[2407.05554v1](http://arxiv.org/abs/2407.05554v1)|null|
-|**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|[link](https://github.com/fengyi233/SCIPaD)|
-|**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
-|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
-|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|
-|**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
-|**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
-|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|[link](https://github.com/ywl0720/i2ekf-lo)|
-|**2024-07-02**|**PO-MSCKF: An Efficient Visual-Inertial Odometry by Reconstructing the Multi-State Constrained Kalman Filter with the Pose-only Theory**|Du Xueyu et.al.|[2407.01888v1](http://arxiv.org/abs/2407.01888v1)|null|
-|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292v1](http://arxiv.org/abs/2407.01292v1)|[link](https://github.com/zju-fast-lab/active-relative-localization)|
-|**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850v1](http://arxiv.org/abs/2406.18850v1)|null|
-|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v2](http://arxiv.org/abs/2406.16087v2)|null|
-|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
-|**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345v1](http://arxiv.org/abs/2406.13345v1)|null|
-|**2024-06-19**|**The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots**|Arnaud Demont et.al.|[2406.13267v1](http://arxiv.org/abs/2406.13267v1)|null|
-|**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
-|**2024-06-14**|**PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation**|Ignacio Alzugaray et.al.|[2406.09726v1](http://arxiv.org/abs/2406.09726v1)|null|
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
-|**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
-|**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|[link](https://github.com/Huang-Chuan/OC-MAINS-code)|
-|**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|[link](https://github.com/jokerjohn/ms-mapping)|
-|**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
-|**2024-06-03**|**C$^3$P-VoxelMap: Compact, Cumulative and Coalescible Probabilistic Voxel Mapping**|Xu Yang et.al.|[2406.01195v1](http://arxiv.org/abs/2406.01195v1)|null|
+|**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
+|**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
+|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831v1](http://arxiv.org/abs/2407.10831v1)|null|
+|**2024-07-15**|**Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation**|Friedhelm Hamann et.al.|[2407.10802v1](http://arxiv.org/abs/2407.10802v1)|[link](https://github.com/tub-rip/motionpriorcmax)|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736v1](http://arxiv.org/abs/2407.10736v1)|null|
+|**2024-07-15**|**Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation**|Yuhwan Jeong et.al.|[2407.10703v1](http://arxiv.org/abs/2407.10703v1)|[link](https://github.com/jeongyh98/udnet)|
+|**2024-07-15**|**Searching for electromagnetic emission in an AGN from the gravitational wave binary black hole merger candidate S230922g**|Tomás Cabrera et.al.|[2407.10698v1](http://arxiv.org/abs/2407.10698v1)|null|
+|**2024-07-15**|**Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs**|Nicholas Carlotti et.al.|[2407.10661v1](http://arxiv.org/abs/2407.10661v1)|null|
+|**2024-07-15**|**Visual-tactile manipulation to collect household waste in outdoor**|Julio Castaño-Amorós et.al.|[2407.10606v1](http://arxiv.org/abs/2407.10606v1)|null|
+|**2024-07-15**|**Deep-Learning-Based Markerless Pose Estimation Systems in Gait Analysis: DeepLabCut Custom Training and the Refinement Function**|Giulia Panconi et.al.|[2407.10590v1](http://arxiv.org/abs/2407.10590v1)|null|
+|**2024-07-15**|**COSMU: Complete 3D human shape from monocular unconstrained images**|Marco Pesavento et.al.|[2407.10586v1](http://arxiv.org/abs/2407.10586v1)|null|
+|**2024-07-15**|**Multiple Peg-in-Hole Assembly of Tightly Coupled Multi-manipulator Using Learning-based Visual Servo**|Jiawei Zhang et.al.|[2407.10570v1](http://arxiv.org/abs/2407.10570v1)|null|
+|**2024-07-15**|**ConTEXTure: Consistent Multiview Images to Texture**|Jaehoon Ahn et.al.|[2407.10558v1](http://arxiv.org/abs/2407.10558v1)|null|
+|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406v1](http://arxiv.org/abs/2407.10406v1)|null|
+|**2024-07-15**|**Exploring the Impact of Moire Pattern on Deepfake Detectors**|Razaib Tariq et.al.|[2407.10399v1](http://arxiv.org/abs/2407.10399v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
+|**2024-07-14**|**3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects**|Weiming Zhi et.al.|[2407.10331v1](http://arxiv.org/abs/2407.10331v1)|null|
+|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|[link](https://github.com/myniuuu/rs-nerf)|
+|**2024-07-14**|**Multiple data sources and domain generalization learning method for road surface defect classification**|Linh Trinh et.al.|[2407.10197v1](http://arxiv.org/abs/2407.10197v1)|null|
+|**2024-07-14**|**Curriculum Learning for Small Code Language Models**|Marwa Naïr et.al.|[2407.10194v1](http://arxiv.org/abs/2407.10194v1)|null|
+|**2024-07-14**|**GRAPE: Generalizable and Robust Multi-view Facial Capture**|Jing Li et.al.|[2407.10193v1](http://arxiv.org/abs/2407.10193v1)|null|
+|**2024-07-14**|**LabelDistill: Label-guided Cross-modal Knowledge Distillation for Camera-based 3D Object Detection**|Sanmin Kim et.al.|[2407.10164v1](http://arxiv.org/abs/2407.10164v1)|[link](https://github.com/sanmin0312/labeldistill)|
+|**2024-07-14**|**From SuperBIT to GigaBIT: Informing next-generation balloon-borne telescope design with Fine Guidance System flight data**|Philippe Voyer et.al.|[2407.10103v1](http://arxiv.org/abs/2407.10103v1)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
+|**2024-07-14**|**Work-From-Home and Privacy: What Do Workers Face and What are They Doing About it?**|Eman Alashwali et.al.|[2407.10094v1](http://arxiv.org/abs/2407.10094v1)|null|
+|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062v1](http://arxiv.org/abs/2407.10062v1)|null|
+|**2024-07-14**|**Research Experience of an Undergraduate Student in Computer Vision and Robotics**|Ayush V. Gowda et.al.|[2407.10044v1](http://arxiv.org/abs/2407.10044v1)|null|
+|**2024-07-13**|**Optimizing ROI Benefits Vehicle ReID in ITS**|Mei Qiu et.al.|[2407.09966v1](http://arxiv.org/abs/2407.09966v1)|null|
+|**2024-07-13**|**LeRF: Learning Resampling Function for Adaptive and Efficient Image Interpolation**|Jiacheng Li et.al.|[2407.09935v1](http://arxiv.org/abs/2407.09935v1)|[link](https://github.com/ddlee-cn/lerf-pytorch)|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
+|**2024-07-15**|**Tailoring Solution Accuracy for Fast Whole-body Model Predictive Control of Legged Robots**|Charles Khazoom et.al.|[2407.10789v1](http://arxiv.org/abs/2407.10789v1)|null|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-15**|**Rigorous derivation of damped-driven wave turbulence theory**|Ricardo Grande et.al.|[2407.10711v1](http://arxiv.org/abs/2407.10711v1)|null|
+|**2024-07-14**|**A proximal-gradient inertial algorithm with Tikhonov regularization: strong convergence to the minimal norm solution**|Szilárd Csaba László et.al.|[2407.10350v1](http://arxiv.org/abs/2407.10350v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
+|**2024-07-13**|**The induced friction on a probe moving in a nonequilibrium medium**|Ji-Hui Pei et.al.|[2407.09989v1](http://arxiv.org/abs/2407.09989v1)|null|
 |**2024-07-12**|**Dynamic-Mode Decomposition of Geostrophically Balanced and Unbalanced Motions from SWOT**|Takaya Uchida et.al.|[2407.09309v1](http://arxiv.org/abs/2407.09309v1)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260v1](http://arxiv.org/abs/2407.09260v1)|null|
 |**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
@@ -64,14 +72,6 @@
 |**2024-07-08**|**PANS: Probabilistic Airway Navigation System for Real-time Robust Bronchoscope Localization**|Qingyao Tian et.al.|[2407.05554v1](http://arxiv.org/abs/2407.05554v1)|null|
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|[link](https://github.com/fengyi233/SCIPaD)|
 |**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
-|**2024-07-05**|**Vector Atom Accelerometry in an Optical Lattice**|Catie LeDesma et.al.|[2407.04874v1](http://arxiv.org/abs/2407.04874v1)|null|
-|**2024-07-05**|**Lunar Time in General Relativity**|Sergei M. Kopeikin et.al.|[2407.04862v1](http://arxiv.org/abs/2407.04862v1)|null|
-|**2024-07-05**|**An SDE Perspective on Stochastic Inertial Gradient Dynamics with Time-Dependent Viscosity and Geometric Damping**|Rodrigo Maulen-Soto et.al.|[2407.04562v1](http://arxiv.org/abs/2407.04562v1)|null|
-|**2024-07-05**|**Universal Scaling Laws for a Generic Swimmer Model**|Bruno Ventéjou et.al.|[2407.04511v1](http://arxiv.org/abs/2407.04511v1)|null|
-|**2024-07-05**|**Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction**|Zhongnuo Yan et.al.|[2407.04242v1](http://arxiv.org/abs/2407.04242v1)|null|
-|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
-|**2024-07-04**|**Properties of observable mixed inertial and gravito-inertial modes in γ Doradus stars**|Marion Galoy et.al.|[2407.04074v2](http://arxiv.org/abs/2407.04074v2)|null|
-|**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,36 +107,36 @@
 |**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906v1](http://arxiv.org/abs/2406.01906v1)|[link](https://github.com/chain-mao/progeo)|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929v1](http://arxiv.org/abs/2406.00929v1)|null|
 
-### Visual Localization
+### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-12**|**GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control**|Issatay Tokmurziyev et.al.|[2407.09459v1](http://arxiv.org/abs/2407.09459v1)|null|
-|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
-|**2024-07-12**|**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**|Ziyuan Luo et.al.|[2407.09352v1](http://arxiv.org/abs/2407.09352v1)|null|
-|**2024-07-12**|**MIXED-SENSE: A Mixed Reality Sensor Emulation Framework for Test and Evaluation of UAVs Against False Data Injection Attacks**|Kartik A. Pant et.al.|[2407.09342v1](http://arxiv.org/abs/2407.09342v1)|null|
-|**2024-07-12**|**Experimental photon addition and subtraction in multi-mode and entangled optical fields**|Kishore Thapliyal et.al.|[2407.09269v1](http://arxiv.org/abs/2407.09269v1)|null|
-|**2024-07-12**|**HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation**|Manuel Birlo et.al.|[2407.09215v1](http://arxiv.org/abs/2407.09215v1)|null|
-|**2024-07-12**|**FlyEye Ground-Based Telescope: Unveiling New Frontiers in Astronomical Science**|Carmelo Arcidiacono et.al.|[2407.09140v1](http://arxiv.org/abs/2407.09140v1)|null|
-|**2024-07-12**|**The MICADO first light imager for the ELT: the PSF Reconstruction Software**|Andrea Grazian et.al.|[2407.09132v1](http://arxiv.org/abs/2407.09132v1)|null|
-|**2024-07-12**|**Inference Optimization of Foundation Models on AI Accelerators**|Youngsuk Park et.al.|[2407.09111v1](http://arxiv.org/abs/2407.09111v1)|null|
-|**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094v1](http://arxiv.org/abs/2407.09094v1)|[link](https://github.com/yuanfeihuang/condformer)|
-|**2024-07-12**|**Accurate Prior-centric Monocular Positioning with Offline LiDAR Fusion**|Jinhao He et.al.|[2407.09091v1](http://arxiv.org/abs/2407.09091v1)|null|
-|**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051v1](http://arxiv.org/abs/2407.09051v1)|null|
-|**2024-07-12**|**High-Resolution Hyperspectral Video Imaging Using A Hexagonal Camera Array**|Frank Sippel et.al.|[2407.09038v1](http://arxiv.org/abs/2407.09038v1)|null|
-|**2024-07-11**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726v1](http://arxiv.org/abs/2407.08726v1)|null|
-|**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722v1](http://arxiv.org/abs/2407.08722v1)|null|
-|**2024-07-11**|**An infrared census of R Coronae Borealis Stars II -- Spectroscopic classifications and implications for the rate of low-mass white dwarf mergers**|Viraj R. Karambelkar et.al.|[2407.08653v1](http://arxiv.org/abs/2407.08653v1)|null|
-|**2024-07-11**|**BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**|Hang Wu et.al.|[2407.08526v1](http://arxiv.org/abs/2407.08526v1)|null|
-|**2024-07-11**|**Digital twins to alleviate the need for real field data in vision-based vehicle speed detection systems**|Antonio Hernández Martínez et.al.|[2407.08380v1](http://arxiv.org/abs/2407.08380v1)|null|
-|**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356v1](http://arxiv.org/abs/2407.08356v1)|null|
-|**2024-07-11**|**Telescope control software and proto-model siderostat for the SDSS-V Local Volume Mapper**|Hojae Ahn et.al.|[2407.08319v1](http://arxiv.org/abs/2407.08319v1)|null|
-|**2024-07-11**|**WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving**|Jannik Zürn et.al.|[2407.08280v1](http://arxiv.org/abs/2407.08280v1)|[link](https://github.com/wayveai/wayve_scenes)|
-|**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272v1](http://arxiv.org/abs/2407.08272v1)|null|
-|**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261v1](http://arxiv.org/abs/2407.08261v1)|null|
-|**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231v1](http://arxiv.org/abs/2407.08231v1)|null|
-|**2024-07-11**|**SRPose: Two-view Relative Pose Estimation with Sparse Keypoints**|Rui Yin et.al.|[2407.08199v1](http://arxiv.org/abs/2407.08199v1)|[link](https://github.com/frickyinn/SRPose)|
-|**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154v1](http://arxiv.org/abs/2407.08154v1)|null|
-|**2024-07-11**|**Urban Waterlogging Detection: A Challenging Benchmark and Large-Small Model Co-Adapter**|Suqi Song et.al.|[2407.08109v1](http://arxiv.org/abs/2407.08109v1)|[link](https://github.com/zhang-chenxu/lsm-adapter)|
-|**2024-07-10**|**Viability of Low-Cost Infrared Sensors for Short Range Tracking**|Noah Haeske et.al.|[2407.08071v1](http://arxiv.org/abs/2407.08071v1)|[link](https://github.com/noah-haeske/research/blob/main/experimentProgram.py)|
-|**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[2407.08049v1](http://arxiv.org/abs/2407.08049v1)|null|
-|**2024-07-10**|**Correcting Turbulence-induced Errors in Fiber Positioning for the Dark Energy Spectroscopic Instrument**|E. F. Schlafly et.al.|[2407.08026v1](http://arxiv.org/abs/2407.08026v1)|null|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
+|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
+|**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
+|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v1](http://arxiv.org/abs/2407.08260v1)|null|
+|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
+|**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
+|**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
+|**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v2](http://arxiv.org/abs/2407.05820v2)|null|
+|**2024-07-08**|**PANS: Probabilistic Airway Navigation System for Real-time Robust Bronchoscope Localization**|Qingyao Tian et.al.|[2407.05554v1](http://arxiv.org/abs/2407.05554v1)|null|
+|**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|[link](https://github.com/fengyi233/SCIPaD)|
+|**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
+|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
+|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|[link](https://github.com/ZikangYuan/dynamic_lio)|
+|**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
+|**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
+|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|[link](https://github.com/ywl0720/i2ekf-lo)|
+|**2024-07-02**|**PO-MSCKF: An Efficient Visual-Inertial Odometry by Reconstructing the Multi-State Constrained Kalman Filter with the Pose-only Theory**|Du Xueyu et.al.|[2407.01888v1](http://arxiv.org/abs/2407.01888v1)|null|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292v1](http://arxiv.org/abs/2407.01292v1)|[link](https://github.com/zju-fast-lab/active-relative-localization)|
+|**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850v1](http://arxiv.org/abs/2406.18850v1)|null|
+|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v2](http://arxiv.org/abs/2406.16087v2)|null|
+|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
+|**2024-06-19**|**Low Latency Visual Inertial Odometry with On-Sensor Accelerated Optical Flow for Resource-Constrained UAVs**|Jonas Kühne et.al.|[2406.13345v1](http://arxiv.org/abs/2406.13345v1)|null|
+|**2024-06-19**|**The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots**|Arnaud Demont et.al.|[2406.13267v1](http://arxiv.org/abs/2406.13267v1)|null|
+|**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
+|**2024-06-14**|**PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation**|Ignacio Alzugaray et.al.|[2406.09726v1](http://arxiv.org/abs/2406.09726v1)|null|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
+|**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
+|**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|[link](https://github.com/Huang-Chuan/OC-MAINS-code)|

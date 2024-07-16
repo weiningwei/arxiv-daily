@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
 |**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
 |**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
 |**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v1](http://arxiv.org/abs/2407.08260v1)|null|
@@ -13,7 +16,7 @@
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|[link](https://github.com/fengyi233/SCIPaD)|
 |**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
 |**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
-|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|
+|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|[link](https://github.com/ZikangYuan/dynamic_lio)|
 |**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
 |**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v1](http://arxiv.org/abs/2407.02786v1)|null|
 |**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|[link](https://github.com/ywl0720/i2ekf-lo)|
@@ -29,6 +32,3 @@
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|[link](https://github.com/swami1995/v2v)|
 |**2024-06-04**|**A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots**|Hamidreza Raei et.al.|[2406.02171v1](http://arxiv.org/abs/2406.02171v1)|null|
 |**2024-06-04**|**An Observability-Constrained Magnetic-Field-Aided Inertial Navigation System**|Chuan Huang et.al.|[2406.02161v1](http://arxiv.org/abs/2406.02161v1)|[link](https://github.com/Huang-Chuan/OC-MAINS-code)|
-|**2024-06-04**|**MS-Mapping: Multi-session LiDAR Mapping with Wasserstein-based Keyframe Selection**|Xiangcheng Hu et.al.|[2406.02096v1](http://arxiv.org/abs/2406.02096v1)|[link](https://github.com/jokerjohn/ms-mapping)|
-|**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
-|**2024-06-03**|**C$^3$P-VoxelMap: Compact, Cumulative and Coalescible Probabilistic Voxel Mapping**|Xu Yang et.al.|[2406.01195v1](http://arxiv.org/abs/2406.01195v1)|null|
