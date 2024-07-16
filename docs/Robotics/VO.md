@@ -2,7 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v1](http://arxiv.org/abs/2407.08907v1)|null|
+|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
 |**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
 |**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v1](http://arxiv.org/abs/2407.08260v1)|null|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|

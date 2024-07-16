@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-12**|**Dynamic-Mode Decomposition of Geostrophically Balanced and Unbalanced Motions from SWOT**|Takaya Uchida et.al.|[2407.09309v1](http://arxiv.org/abs/2407.09309v1)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260v1](http://arxiv.org/abs/2407.09260v1)|null|
-|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v1](http://arxiv.org/abs/2407.08907v1)|null|
+|**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
 |**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
 |**2024-07-11**|**Theory for the Anomalous Phase Behavior of Inertial Active Matter**|Jiechao Feng et.al.|[2407.08676v1](http://arxiv.org/abs/2407.08676v1)|null|
 |**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261v1](http://arxiv.org/abs/2407.08261v1)|null|
