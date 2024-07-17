@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-16**|**Thermal Imaging and Radar for Remote Sleep Monitoring of Breathing and Apnea**|Kai Del Regno et.al.|[2407.11936v1](http://arxiv.org/abs/2407.11936v1)|null|
+|**2024-07-16**|**Learning secondary tool affordances of human partners using iCub robot's egocentric data**|Bosong Ding et.al.|[2407.11922v1](http://arxiv.org/abs/2407.11922v1)|null|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v1](http://arxiv.org/abs/2407.11736v1)|[link](https://github.com/jarvisyjw/gv-bench)|
+|**2024-07-16**|**Monocular Occupancy Prediction for Scalable Indoor Scenes**|Hongxiao Yu et.al.|[2407.11730v1](http://arxiv.org/abs/2407.11730v1)|[link](https://github.com/hongxiaoy/ISO)|
+|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v1](http://arxiv.org/abs/2407.11705v1)|null|
+|**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685v1](http://arxiv.org/abs/2407.11685v1)|null|
+|**2024-07-16**|**MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**|Xiaoshuai Hao et.al.|[2407.11682v1](http://arxiv.org/abs/2407.11682v1)|null|
+|**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[2407.11644v1](http://arxiv.org/abs/2407.11644v1)|null|
+|**2024-07-16**|**Demonstration of real-time event camera to collaborative robot communication**|Laura Duarte et.al.|[2407.11560v1](http://arxiv.org/abs/2407.11560v1)|null|
+|**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420v1](http://arxiv.org/abs/2407.11420v1)|null|
+|**2024-07-16**|**Adaptive Environment-Aware Robotic Arm Reaching Based on a Bio-Inspired Neurodynamical Computational Framework**|Dimitrios Chatziparaschis et.al.|[2407.11377v1](http://arxiv.org/abs/2407.11377v1)|null|
+|**2024-07-16**|**I$^2$-SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**|Gwangtak Bae et.al.|[2407.11347v1](http://arxiv.org/abs/2407.11347v1)|null|
+|**2024-07-16**|**Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering**|Jingqian Wu et.al.|[2407.11343v1](http://arxiv.org/abs/2407.11343v1)|null|
+|**2024-07-16**|**Gaussian Splatting LK**|Liuyue Xie et.al.|[2407.11309v1](http://arxiv.org/abs/2407.11309v1)|null|
+|**2024-07-15**|**M18K: A Comprehensive RGB-D Dataset and Benchmark for Mushroom Detection and Instance Segmentation**|Abdollah Zakeri et.al.|[2407.11275v1](http://arxiv.org/abs/2407.11275v1)|[link](https://github.com/abdollahzakeri/m18k)|
+|**2024-07-15**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hiearchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223v1](http://arxiv.org/abs/2407.11223v1)|null|
+|**2024-07-15**|**Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras**|Hoonhee Cho et.al.|[2407.11216v1](http://arxiv.org/abs/2407.11216v1)|[link](https://github.com/chohoonhee/ev-wsss)|
+|**2024-07-15**|**UFQA: Utility guided Fingerphoto Quality Assessment**|Amol S. Joshi et.al.|[2407.11141v1](http://arxiv.org/abs/2407.11141v1)|null|
 |**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
 |**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
 |**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831v1](http://arxiv.org/abs/2407.10831v1)|null|
@@ -14,21 +32,3 @@
 |**2024-07-15**|**Visual-tactile manipulation to collect household waste in outdoor**|Julio Castaño-Amorós et.al.|[2407.10606v1](http://arxiv.org/abs/2407.10606v1)|null|
 |**2024-07-15**|**Deep-Learning-Based Markerless Pose Estimation Systems in Gait Analysis: DeepLabCut Custom Training and the Refinement Function**|Giulia Panconi et.al.|[2407.10590v1](http://arxiv.org/abs/2407.10590v1)|null|
 |**2024-07-15**|**COSMU: Complete 3D human shape from monocular unconstrained images**|Marco Pesavento et.al.|[2407.10586v1](http://arxiv.org/abs/2407.10586v1)|null|
-|**2024-07-15**|**Multiple Peg-in-Hole Assembly of Tightly Coupled Multi-manipulator Using Learning-based Visual Servo**|Jiawei Zhang et.al.|[2407.10570v1](http://arxiv.org/abs/2407.10570v1)|null|
-|**2024-07-15**|**ConTEXTure: Consistent Multiview Images to Texture**|Jaehoon Ahn et.al.|[2407.10558v1](http://arxiv.org/abs/2407.10558v1)|null|
-|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406v1](http://arxiv.org/abs/2407.10406v1)|null|
-|**2024-07-15**|**Exploring the Impact of Moire Pattern on Deepfake Detectors**|Razaib Tariq et.al.|[2407.10399v1](http://arxiv.org/abs/2407.10399v1)|null|
-|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|null|
-|**2024-07-14**|**3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects**|Weiming Zhi et.al.|[2407.10331v1](http://arxiv.org/abs/2407.10331v1)|null|
-|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|[link](https://github.com/myniuuu/rs-nerf)|
-|**2024-07-14**|**Multiple data sources and domain generalization learning method for road surface defect classification**|Linh Trinh et.al.|[2407.10197v1](http://arxiv.org/abs/2407.10197v1)|null|
-|**2024-07-14**|**Curriculum Learning for Small Code Language Models**|Marwa Naïr et.al.|[2407.10194v1](http://arxiv.org/abs/2407.10194v1)|null|
-|**2024-07-14**|**GRAPE: Generalizable and Robust Multi-view Facial Capture**|Jing Li et.al.|[2407.10193v1](http://arxiv.org/abs/2407.10193v1)|null|
-|**2024-07-14**|**LabelDistill: Label-guided Cross-modal Knowledge Distillation for Camera-based 3D Object Detection**|Sanmin Kim et.al.|[2407.10164v1](http://arxiv.org/abs/2407.10164v1)|[link](https://github.com/sanmin0312/labeldistill)|
-|**2024-07-14**|**From SuperBIT to GigaBIT: Informing next-generation balloon-borne telescope design with Fine Guidance System flight data**|Philippe Voyer et.al.|[2407.10103v1](http://arxiv.org/abs/2407.10103v1)|null|
-|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v1](http://arxiv.org/abs/2407.10101v1)|null|
-|**2024-07-14**|**Work-From-Home and Privacy: What Do Workers Face and What are They Doing About it?**|Eman Alashwali et.al.|[2407.10094v1](http://arxiv.org/abs/2407.10094v1)|null|
-|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062v1](http://arxiv.org/abs/2407.10062v1)|null|
-|**2024-07-14**|**Research Experience of an Undergraduate Student in Computer Vision and Robotics**|Ayush V. Gowda et.al.|[2407.10044v1](http://arxiv.org/abs/2407.10044v1)|null|
-|**2024-07-13**|**Optimizing ROI Benefits Vehicle ReID in ITS**|Mei Qiu et.al.|[2407.09966v1](http://arxiv.org/abs/2407.09966v1)|null|
-|**2024-07-13**|**LeRF: Learning Resampling Function for Adaptive and Efficient Image Interpolation**|Jiacheng Li et.al.|[2407.09935v1](http://arxiv.org/abs/2407.09935v1)|[link](https://github.com/ddlee-cn/lerf-pytorch)|
