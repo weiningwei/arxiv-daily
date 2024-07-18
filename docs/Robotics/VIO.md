@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
+|**2024-07-17**|**Inertial Methods with Viscous and Hessian driven Damping for Non-Convex Optimization**|Rodrigo Maulen-Soto et.al.|[2407.12518v1](http://arxiv.org/abs/2407.12518v1)|null|
+|**2024-07-16**|**Empirical large-scale extension of Yakhot's model of strong turbulence**|Christoph Renner et.al.|[2407.12194v1](http://arxiv.org/abs/2407.12194v1)|null|
 |**2024-07-16**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870v2](http://arxiv.org/abs/2407.11870v2)|null|
 |**2024-07-16**|**Local quantum detection of cosmological expansion: Unruh-DeWitt in spatially compact Milne**|Adam S. Wilkinson et.al.|[2407.11860v1](http://arxiv.org/abs/2407.11860v1)|null|
 |**2024-07-16**|**The Patchkeeper: An Integrated Wearable Electronic Stethoscope with Multiple Sensors**|Hongwei Li et.al.|[2407.11837v1](http://arxiv.org/abs/2407.11837v1)|null|
@@ -29,6 +32,3 @@
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
 |**2024-07-10**|**Buoyancy driven motion of non-coalescing inertial drops: microstructure modeling with nearest particle statistics**|Nicolas Fintzi et.al.|[2407.07463v1](http://arxiv.org/abs/2407.07463v1)|null|
-|**2024-07-09**|**Atom interferometry in an Einstein Elevator**|Celia Pelluet et.al.|[2407.07183v1](http://arxiv.org/abs/2407.07183v1)|null|
-|**2024-07-09**|**Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|[link](https://github.com/vis4rob-lab/hyperion)|
-|**2024-07-09**|**Inertial effects in discrete sampling information engines**|Aubin Archambault et.al.|[2407.06672v1](http://arxiv.org/abs/2407.06672v1)|null|
