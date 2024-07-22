@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-19**|**MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion**|Qiyan Li et.al.|[2407.14102v1](http://arxiv.org/abs/2407.14102v1)|null|
+|**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|null|
 |**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
 |**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405v2](http://arxiv.org/abs/2407.12405v2)|[link](https://github.com/eowjd0512/fisheye-calib-adapter)|
@@ -30,5 +32,3 @@
 |**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634v1](http://arxiv.org/abs/2406.19634v1)|null|
 |**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586v1](http://arxiv.org/abs/2406.17586v1)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v2](http://arxiv.org/abs/2406.17249v2)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
-|**2024-06-24**|**Compressing Search with Language Models**|Thomas Mulc et.al.|[2407.00085v1](http://arxiv.org/abs/2407.00085v1)|null|
