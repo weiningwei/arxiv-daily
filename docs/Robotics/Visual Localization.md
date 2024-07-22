@@ -16,7 +16,7 @@
 |**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[2407.13137v1](http://arxiv.org/abs/2407.13137v1)|null|
 |**2024-07-17**|**Universal Facial Encoding of Codec Avatars from VR Headsets**|Shaojie Bai et.al.|[2407.13038v1](http://arxiv.org/abs/2407.13038v1)|null|
 |**2024-07-17**|**MagAO-X: Commissioning Results and Status of Ongoing Upgrades**|Jared R. Males et.al.|[2407.13007v1](http://arxiv.org/abs/2407.13007v1)|null|
-|**2024-07-17**|**GenRC: Generative 3D Room Completion from Sparse Image Collections**|Ming-Feng Li et.al.|[2407.12939v1](http://arxiv.org/abs/2407.12939v1)|[link](https://github.com/minfenli/GenRC)|
+|**2024-07-17**|**GenRC: Generative 3D Room Completion from Sparse Image Collections**|Ming-Feng Li et.al.|[2407.12939v2](http://arxiv.org/abs/2407.12939v2)|[link](https://github.com/minfenli/GenRC)|
 |**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781v1](http://arxiv.org/abs/2407.12781v1)|null|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|null|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|
@@ -27,8 +27,8 @@
 |**2024-07-17**|**Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection**|Hu Cao et.al.|[2407.12582v1](http://arxiv.org/abs/2407.12582v1)|null|
 |**2024-07-17**|**Classification and reconstruction of images in the problem single-pixel imaging using classical and quantum neural networks**|Sofya Manko et.al.|[2407.12506v1](http://arxiv.org/abs/2407.12506v1)|[link](https://github.com/Oounce/classical-quantum-mnist)|
 |**2024-07-17**|**Quantum beats of a macroscopic polariton condensate in real space**|R. V. Cherbunin et.al.|[2407.12429v1](http://arxiv.org/abs/2407.12429v1)|null|
-|**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405v1](http://arxiv.org/abs/2407.12405v1)|null|
+|**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405v2](http://arxiv.org/abs/2407.12405v2)|[link](https://github.com/eowjd0512/fisheye-calib-adapter)|
 |**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354v1](http://arxiv.org/abs/2407.12354v1)|null|
 |**2024-07-17**|**VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions**|Seokha Moon et.al.|[2407.12345v1](http://arxiv.org/abs/2407.12345v1)|null|
-|**2024-07-17**|**Motion and Structure from Event-based Normal Flow**|Zhongyang Ren et.al.|[2407.12239v1](http://arxiv.org/abs/2407.12239v1)|null|
+|**2024-07-17**|**Motion and Structure from Event-based Normal Flow**|Zhongyang Ren et.al.|[2407.12239v2](http://arxiv.org/abs/2407.12239v2)|null|
 |**2024-07-16**|**The IoT Breaches your Household Again**|Davide Bonaventura et.al.|[2407.12159v1](http://arxiv.org/abs/2407.12159v1)|null|
