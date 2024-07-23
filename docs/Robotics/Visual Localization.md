@@ -27,7 +27,7 @@
 |**2024-07-17**|**Universal Facial Encoding of Codec Avatars from VR Headsets**|Shaojie Bai et.al.|[2407.13038v1](http://arxiv.org/abs/2407.13038v1)|null|
 |**2024-07-17**|**MagAO-X: Commissioning Results and Status of Ongoing Upgrades**|Jared R. Males et.al.|[2407.13007v1](http://arxiv.org/abs/2407.13007v1)|null|
 |**2024-07-17**|**GenRC: Generative 3D Room Completion from Sparse Image Collections**|Ming-Feng Li et.al.|[2407.12939v2](http://arxiv.org/abs/2407.12939v2)|[link](https://github.com/minfenli/GenRC)|
-|**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781v1](http://arxiv.org/abs/2407.12781v1)|null|
+|**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781v2](http://arxiv.org/abs/2407.12781v2)|null|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|null|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
