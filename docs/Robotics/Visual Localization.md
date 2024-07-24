@@ -14,7 +14,7 @@
 |**2024-07-22**|**Differentiable Product Quantization for Memory Efficient Camera Relocalization**|Zakaria Laskar et.al.|[2407.15540v1](http://arxiv.org/abs/2407.15540v1)|null|
 |**2024-07-22**|**Double Deep Learning-based Event Data Coding and Classification**|Abdelrahman Seleem et.al.|[2407.15531v1](http://arxiv.org/abs/2407.15531v1)|null|
 |**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484v1](http://arxiv.org/abs/2407.15484v1)|null|
-|**2024-07-22**|**Learning deep illumination-robust features from multispectral filter array images**|Anis Amziane et.al.|[2407.15472v1](http://arxiv.org/abs/2407.15472v1)|null|
+|**2024-07-22**|**Learning deep illumination-robust features from multispectral filter array images**|Anis Amziane et.al.|[2407.15472v2](http://arxiv.org/abs/2407.15472v2)|null|
 |**2024-07-22**|**Learning High-resolution Vector Representation from Multi-Camera Images for 3D Object Detection**|Zhili Chen et.al.|[2407.15354v1](http://arxiv.org/abs/2407.15354v1)|null|
 |**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[2407.15350v1](http://arxiv.org/abs/2407.15350v1)|null|
 |**2024-07-22**|**ThermalNeRF: Thermal Radiance Fields**|Yvette Y. Lin et.al.|[2407.15337v1](http://arxiv.org/abs/2407.15337v1)|null|
@@ -25,7 +25,7 @@
 |**2024-07-21**|**Back-in-Time Diffusion: Unsupervised Detection of Medical Deepfakes**|Fred Grabovski et.al.|[2407.15169v1](http://arxiv.org/abs/2407.15169v1)|null|
 |**2024-07-21**|**VoxDepth: Rectification of Depth Images on Edge Devices**|Yashashwee Chakrabarty et.al.|[2407.15067v1](http://arxiv.org/abs/2407.15067v1)|null|
 |**2024-07-21**|**Self-training Room Layout Estimation via Geometry-aware Ray-casting**|Bolivar Solarte et.al.|[2407.15041v1](http://arxiv.org/abs/2407.15041v1)|null|
-|**2024-07-20**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923v1](http://arxiv.org/abs/2407.14923v1)|null|
+|**2024-07-20**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923v2](http://arxiv.org/abs/2407.14923v2)|null|
 |**2024-07-20**|**Automated Patient Positioning with Learned 3D Hand Gestures**|Zhongpai Gao et.al.|[2407.14903v1](http://arxiv.org/abs/2407.14903v1)|null|
 |**2024-07-20**|**Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts**|Yanting Yang et.al.|[2407.14872v1](http://arxiv.org/abs/2407.14872v1)|null|
 |**2024-07-20**|**Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting**|Tianle Zeng et.al.|[2407.14846v1](http://arxiv.org/abs/2407.14846v1)|null|
