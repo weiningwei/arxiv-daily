@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961v1](http://arxiv.org/abs/2407.16961v1)|null|
+|**2024-07-23**|**Surfing vortex rings for energy-efficient propulsion**|Peter Gunnarson et.al.|[2407.16839v1](http://arxiv.org/abs/2407.16839v1)|null|
+|**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803v1](http://arxiv.org/abs/2407.16803v1)|null|
 |**2024-07-23**|**Deep Learning Assisted Inertial Dead Reckoning and Fusion**|Dror Hurwitz et.al.|[2407.16387v1](http://arxiv.org/abs/2407.16387v1)|null|
 |**2024-07-23**|**Motion Capture from Inertial and Vision Sensors**|Xiaodong Chen et.al.|[2407.16341v1](http://arxiv.org/abs/2407.16341v1)|null|
 |**2024-07-23**|**Impact of electron trapping on stimulated Raman scattering under incoherent broadband laser light in homogeneous plasma**|David Rhys Blackman et.al.|[2407.16332v1](http://arxiv.org/abs/2407.16332v1)|null|
@@ -29,6 +32,3 @@
 |**2024-07-16**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870v2](http://arxiv.org/abs/2407.11870v2)|null|
 |**2024-07-16**|**Local quantum detection of cosmological expansion: Unruh-DeWitt in spatially compact Milne**|Adam S. Wilkinson et.al.|[2407.11860v1](http://arxiv.org/abs/2407.11860v1)|null|
 |**2024-07-16**|**The Patchkeeper: An Integrated Wearable Electronic Stethoscope with Multiple Sensors**|Hongwei Li et.al.|[2407.11837v1](http://arxiv.org/abs/2407.11837v1)|null|
-|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
-|**2024-07-16**|**Feynman Diagrams for Matter Wave Interferometry**|Jonah Glick et.al.|[2407.11446v1](http://arxiv.org/abs/2407.11446v1)|null|
-|**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420v1](http://arxiv.org/abs/2407.11420v1)|[link](https://github.com/unsigned-long/ikalibr)|

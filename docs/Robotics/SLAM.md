@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé et.al.|[2407.15890v1](http://arxiv.org/abs/2407.15890v1)|null|
 |**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe et.al.|[2407.15305v1](http://arxiv.org/abs/2407.15305v1)|null|
 |**2024-07-21**|**VoxDepth: Rectification of Depth Images on Edge Devices**|Yashashwee Chakrabarty et.al.|[2407.15067v1](http://arxiv.org/abs/2407.15067v1)|null|
@@ -31,4 +32,3 @@
 |**2024-07-03**|**Ultra-Lightweight Collaborative Mapping for Robot Swarms**|Vlad Niculescu et.al.|[2407.03136v1](http://arxiv.org/abs/2407.03136v1)|null|
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|[link](https://github.com/fudan-zvg/rodyn-slam)|
 |**2024-07-01**|**Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization**|Ruofei Bai et.al.|[2407.01013v1](http://arxiv.org/abs/2407.01013v1)|[link](https://github.com/bairuofei/cge)|
-|**2024-06-30**|**Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation**|Adnan Abdullah et.al.|[2407.00848v1](http://arxiv.org/abs/2407.00848v1)|null|
