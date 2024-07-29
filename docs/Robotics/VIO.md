@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-26**|**On reduced inertial PDE models for Cucker-Smale flocking dynamics**|Sebastian Zimper et.al.|[2407.18717v1](http://arxiv.org/abs/2407.18717v1)|null|
+|**2024-07-26**|**Diffusion in driven periodic systems: from weak to strong damping regimes**|I. G. Marchenko et.al.|[2407.18592v1](http://arxiv.org/abs/2407.18592v1)|null|
+|**2024-07-25**|**Phase transition in a kinetic mean-field game model of inertial self-propelled agents**|Piyush Grover et.al.|[2407.18400v1](http://arxiv.org/abs/2407.18400v1)|null|
+|**2024-07-25**|**A novel numerical method for mixed-frame multigroup radiation-hydrodynamics with GPU acceleration implemented in the QUOKKA code**|Chong-Chong He et.al.|[2407.18304v1](http://arxiv.org/abs/2407.18304v1)|[link](https://github.com/quokka-astro/quokka)|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240v1](http://arxiv.org/abs/2407.18240v1)|null|
 |**2024-07-25**|**IRIS: Wireless Ring for Vision-based Smart Home Interaction**|Maruchi Kim et.al.|[2407.18141v1](http://arxiv.org/abs/2407.18141v1)|null|
 |**2024-07-25**|**Lagrangian flow networks for passive dispersal: tracers versus finite size particles**|Deoclécio Valente et.al.|[2407.18139v1](http://arxiv.org/abs/2407.18139v1)|null|
@@ -28,7 +32,3 @@
 |**2024-07-18**|**A Lagrange Multiplier-based method for Stokes-linearized poro-hyperelastic interface problems**|Aparna Bansal et.al.|[2407.13684v1](http://arxiv.org/abs/2407.13684v1)|null|
 |**2024-07-18**|**Droplet impact and splitting behaviour on superhydrophobic wedges**|Gudlavalleti V V S Vara Prasad et.al.|[2407.13635v1](http://arxiv.org/abs/2407.13635v1)|null|
 |**2024-07-18**|**The Effects of Selected Object Features on a Pick-and-Place Task: a Human Multimodal Dataset**|Linda Lastrico et.al.|[2407.13425v1](http://arxiv.org/abs/2407.13425v1)|[link](https://github.com/lindalastrico/objectsManipulationDataset)|
-|**2024-07-18**|**Interface-induced turbulence in viscous binary fluid mixtures**|Nadia Bihari Padhan et.al.|[2407.13393v1](http://arxiv.org/abs/2407.13393v1)|null|
-|**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159v1](http://arxiv.org/abs/2407.13159v1)|[link](https://github.com/bachzz/wflow-tartanvo)|
-|**2024-07-17**|**Transition to turbulence in the wide-gap spherical Couette system**|Ankit Barik et.al.|[2407.12981v1](http://arxiv.org/abs/2407.12981v1)|null|
-|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|

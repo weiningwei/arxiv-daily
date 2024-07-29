@@ -2,6 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-26**|**Floating No More: Object-Ground Reconstruction from a Single Image**|Yunze Man et.al.|[2407.18914v1](http://arxiv.org/abs/2407.18914v1)|null|
+|**2024-07-26**|**HRP: Human Affordances for Robotic Pre-Training**|Mohan Kumar Srirama et.al.|[2407.18911v1](http://arxiv.org/abs/2407.18911v1)|null|
+|**2024-07-26**|**AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**|Harsh Trivedi et.al.|[2407.18901v1](http://arxiv.org/abs/2407.18901v1)|[link](https://github.com/stonybrooknlp/appworld)|
+|**2024-07-26**|**Correcting for objective sample refractive index mismatch in extended field of view selective plane illumination microscopy**|Steven J. Sheppard et.al.|[2407.18862v1](http://arxiv.org/abs/2407.18862v1)|null|
+|**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695v1](http://arxiv.org/abs/2407.18695v1)|null|
+|**2024-07-26**|**DynamicTrack: Advancing Gigapixel Tracking in Crowded Scenes**|Yunqi Zhao et.al.|[2407.18637v1](http://arxiv.org/abs/2407.18637v1)|null|
+|**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590v1](http://arxiv.org/abs/2407.18590v1)|null|
+|**2024-07-26**|**The foundation of "Saint V{é}ran-Paul Felenbok" astronomical observatory**|Jean-Marie Malherbe et.al.|[2407.18573v1](http://arxiv.org/abs/2407.18573v1)|null|
+|**2024-07-26**|**Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications**|Ettore Sani et.al.|[2407.18535v1](http://arxiv.org/abs/2407.18535v1)|null|
+|**2024-07-26**|**HybridDepth: Robust Depth Fusion for Mobile AR by Leveraging Depth from Focus and Single-Image Priors**|Ashkan Ganj et.al.|[2407.18443v1](http://arxiv.org/abs/2407.18443v1)|[link](https://github.com/cake-lab/hybriddepth)|
+|**2024-07-25**|**Not So Fast: A New Catalog of Meteor Persistent Trains**|L. E. Cordonnier et.al.|[2407.18344v1](http://arxiv.org/abs/2407.18344v1)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240v1](http://arxiv.org/abs/2407.18240v1)|null|
 |**2024-07-25**|**Passive wing deployment and retraction in beetles and flapping microrobots**|Hoang-Vu Phan et.al.|[2407.18180v1](http://arxiv.org/abs/2407.18180v1)|null|
 |**2024-07-25**|**IRIS: Wireless Ring for Vision-based Smart Home Interaction**|Maruchi Kim et.al.|[2407.18141v1](http://arxiv.org/abs/2407.18141v1)|null|
@@ -21,14 +32,3 @@
 |**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961v1](http://arxiv.org/abs/2407.16961v1)|null|
 |**2024-07-24**|**Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal**|Yeying Jin et.al.|[2407.16957v1](http://arxiv.org/abs/2407.16957v1)|[link](https://github.com/jinyeying/raindropclarity)|
 |**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955v1](http://arxiv.org/abs/2407.16955v1)|[link](https://github.com/dop0/dvpe)|
-|**2024-07-24**|**SUIM project: measuring the upper atmosphere from the ISS by observations of the CXB transmitted through the Earth rim**|Kumiko K. Nobukawa et.al.|[2407.16922v1](http://arxiv.org/abs/2407.16922v1)|null|
-|**2024-07-23**|**Vision-Based Adaptive Robotics for Autonomous Surface Crack Repair**|Joshua Genova et.al.|[2407.16874v1](http://arxiv.org/abs/2407.16874v1)|null|
-|**2024-07-23**|**Domain Adaptation of Visual Policies with a Single Demonstration**|Weiyao Wang et.al.|[2407.16820v1](http://arxiv.org/abs/2407.16820v1)|null|
-|**2024-07-23**|**Towards understanding interactions between the AO system and segment co-phasing with the vector-Zernike wavefront sensor on Keck**|Maïssa Salama et.al.|[2407.16791v1](http://arxiv.org/abs/2407.16791v1)|null|
-|**2024-07-23**|**PLM-Net: Perception Latency Mitigation Network for Vision-Based Lateral Control of Autonomous Vehicles**|Aws Khalil et.al.|[2407.16740v1](http://arxiv.org/abs/2407.16740v1)|[link](https://github.com/awskhalil/oscar)|
-|**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665v1](http://arxiv.org/abs/2407.16665v1)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636v2](http://arxiv.org/abs/2407.16636v2)|null|
-|**2024-07-23**|**Timeliness-Fidelity Tradeoff in 3D Scene Representations**|Xiangmin Xu et.al.|[2407.16575v1](http://arxiv.org/abs/2407.16575v1)|null|
-|**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511v1](http://arxiv.org/abs/2407.16511v1)|null|
-|**2024-07-23**|**Motion Capture from Inertial and Vision Sensors**|Xiaodong Chen et.al.|[2407.16341v1](http://arxiv.org/abs/2407.16341v1)|null|
-|**2024-07-23**|**Re-expression of manual expertise through semi-automatic control of a teleoperated system**|Erwann Landais et.al.|[2407.16278v1](http://arxiv.org/abs/2407.16278v1)|null|
