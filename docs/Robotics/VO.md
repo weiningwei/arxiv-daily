@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-30**|**ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry**|Bo Zhou et.al.|[2407.20619v1](http://arxiv.org/abs/2407.20619v1)|null|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223v1](http://arxiv.org/abs/2407.20223v1)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240v1](http://arxiv.org/abs/2407.18240v1)|null|
 |**2024-07-25**|**PGD-VIO: An Accurate Plane-Aided Visual-Inertial Odometry with Graph-Based Drift Suppression**|Yidi Zhang et.al.|[2407.17709v1](http://arxiv.org/abs/2407.17709v1)|null|
@@ -18,7 +20,7 @@
 |**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101v2](http://arxiv.org/abs/2407.10101v2)|null|
 |**2024-07-12**|**Tightly-Coupled LiDAR-IMU-Wheel Odometry with an Online Neural Kinematic Model Learning via Factor Graph Optimization**|Taku Okawara et.al.|[2407.08907v2](http://arxiv.org/abs/2407.08907v2)|null|
 |**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
-|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v2](http://arxiv.org/abs/2407.08260v2)|null|
+|**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260v2](http://arxiv.org/abs/2407.08260v2)|[link](https://github.com/raktimgg/salsa)|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|[link](https://github.com/nubot-nudt/sglc)|
 |**2024-07-10**|**MSC-LIO: An MSCKF-Based LiDAR-Inertial Odometry with Same-Plane-Point Tracking**|Tisheng Zhang et.al.|[2407.07589v1](http://arxiv.org/abs/2407.07589v1)|null|
 |**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118v1](http://arxiv.org/abs/2407.06118v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|[link](https://github.com/ZikangYuan/dynamic_lio)|
 |**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122v1](http://arxiv.org/abs/2407.03122v1)|null|
 |**2024-07-03**|**LiDAR-Inertial Odometry Based on Extended Kalman Filter**|Naoki Akai et.al.|[2407.02786v2](http://arxiv.org/abs/2407.02786v2)|null|
-|**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190v1](http://arxiv.org/abs/2407.02190v1)|[link](https://github.com/ywl0720/i2ekf-lo)|
-|**2024-07-02**|**PO-MSCKF: An Efficient Visual-Inertial Odometry by Reconstructing the Multi-State Constrained Kalman Filter with the Pose-only Theory**|Du Xueyu et.al.|[2407.01888v1](http://arxiv.org/abs/2407.01888v1)|null|

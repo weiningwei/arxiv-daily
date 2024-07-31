@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-30**|**A simple numerical model of the water bottle flipping experiment**|Julie Nassoy et.al.|[2407.20627v1](http://arxiv.org/abs/2407.20627v1)|null|
+|**2024-07-30**|**ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry**|Bo Zhou et.al.|[2407.20619v1](http://arxiv.org/abs/2407.20619v1)|null|
+|**2024-07-30**|**Navigation-grade interferometric air-core antiresonant fibre optic gyroscope with enhanced thermal stability**|Maochun Li et.al.|[2407.20598v1](http://arxiv.org/abs/2407.20598v1)|null|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223v1](http://arxiv.org/abs/2407.20223v1)|null|
 |**2024-07-29**|**Phase transitions in rolling of irregular cylinders and spheres**|Daoyuan Qian et.al.|[2407.19861v1](http://arxiv.org/abs/2407.19861v1)|null|
 |**2024-07-29**|**PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality**|Xintong Zhang et.al.|[2407.19728v1](http://arxiv.org/abs/2407.19728v1)|null|
@@ -28,7 +32,3 @@
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|
 |**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván et.al.|[2407.14797v1](http://arxiv.org/abs/2407.14797v1)|null|
 |**2024-07-19**|**Equivariant Symmetries for Aided Inertial Navigation**|Alessandro Fornasier et.al.|[2407.14297v1](http://arxiv.org/abs/2407.14297v1)|null|
-|**2024-07-19**|**Generating quantum non-local entanglement with mechanical rotations**|Marko Toroš et.al.|[2407.14276v1](http://arxiv.org/abs/2407.14276v1)|null|
-|**2024-07-19**|**MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion**|Qiyan Li et.al.|[2407.14102v1](http://arxiv.org/abs/2407.14102v1)|null|
-|**2024-07-18**|**Optimization-Based Outlier Accommodation for Tightly Coupled RTK-Aided Inertial Navigation Systems in Urban Environments**|Wang Hu et.al.|[2407.13912v2](http://arxiv.org/abs/2407.13912v2)|[link](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|
-|**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)|

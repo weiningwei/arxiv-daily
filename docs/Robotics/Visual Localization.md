@@ -2,9 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-30**|**Mean of Means: A 10-dollar Solution for Human Localization with Calibration-free and Unconstrained Camera Settings**|Tianyi Zhang et.al.|[2407.20870v1](http://arxiv.org/abs/2407.20870v1)|null|
+|**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
+|**2024-07-30**|**Detecting $\sim$10 mK Face Temperature Change Based on Lock-in Thermography Referencing Heartbeat**|Nanami Kotani et.al.|[2407.20793v1](http://arxiv.org/abs/2407.20793v1)|null|
+|**2024-07-30**|**SceneTeller: Language-to-3D Scene Generation**|Başak Melis Öcal et.al.|[2407.20727v1](http://arxiv.org/abs/2407.20727v1)|null|
+|**2024-07-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633v1](http://arxiv.org/abs/2407.20633v1)|null|
+|**2024-07-29**|**MEVDT: Multi-Modal Event-Based Vehicle Detection and Tracking Dataset**|Zaid A. El Shair et.al.|[2407.20446v1](http://arxiv.org/abs/2407.20446v1)|null|
+|**2024-07-29**|**Alignment Scores: Robust Metrics for Multiview Pose Accuracy Evaluation**|Seong Hun Lee et.al.|[2407.20391v1](http://arxiv.org/abs/2407.20391v1)|null|
+|**2024-07-29**|**A Model Generalization Study in Localizing Indoor Cows with COw LOcalization (COLO) dataset**|Mautushi Das et.al.|[2407.20372v1](http://arxiv.org/abs/2407.20372v1)|null|
+|**2024-07-29**|**Off-axis Hartmann wavefront sensing for the GMT-Consortium Large Earth Finder (G-CLEF) red camera optics**|Matthew C. H. Leung et.al.|[2407.20344v1](http://arxiv.org/abs/2407.20344v1)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|[link](https://github.com/colmap/glomap)|
 |**2024-07-29**|**Methane Sensing via Unbalanced Nonlinear Interferometry using a CMOS Camera**|Jinghan Dong et.al.|[2407.20201v1](http://arxiv.org/abs/2407.20201v1)|null|
-|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
+|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|[link](https://github.com/leggedrobotics/rf_ros)|
 |**2024-07-29**|**Autonomous and Teleoperation Control of a Drawing Robot Avatar**|Lingyun Chen et.al.|[2407.20156v1](http://arxiv.org/abs/2407.20156v1)|null|
 |**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v2](http://arxiv.org/abs/2407.20124v2)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
 |**2024-07-29**|**Euclid preparation. Exploring the properties of proto-clusters in the Simulated Euclid Wide Survey**|Euclid Collaboration et.al.|[2407.19919v1](http://arxiv.org/abs/2407.19919v1)|null|
@@ -23,12 +32,3 @@
 |**2024-07-27**|**Robust Multimodal 3D Object Detection via Modality-Agnostic Decoding and Proximity-based Modality Ensemble**|Juhan Cha et.al.|[2407.19156v1](http://arxiv.org/abs/2407.19156v1)|[link](https://github.com/hanchaa/meformer)|
 |**2024-07-27**|**RePLAy: Remove Projective LiDAR Depthmap Artifacts via Exploiting Epipolar Geometry**|Shengjie Zhu et.al.|[2407.19154v1](http://arxiv.org/abs/2407.19154v1)|null|
 |**2024-07-26**|**A camera system for real-time optical calibration of water-based neutrino telescopes**|Wei Tian et.al.|[2407.19111v1](http://arxiv.org/abs/2407.19111v1)|null|
-|**2024-07-26**|**Floating No More: Object-Ground Reconstruction from a Single Image**|Yunze Man et.al.|[2407.18914v1](http://arxiv.org/abs/2407.18914v1)|null|
-|**2024-07-26**|**HRP: Human Affordances for Robotic Pre-Training**|Mohan Kumar Srirama et.al.|[2407.18911v1](http://arxiv.org/abs/2407.18911v1)|null|
-|**2024-07-26**|**AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**|Harsh Trivedi et.al.|[2407.18901v1](http://arxiv.org/abs/2407.18901v1)|[link](https://github.com/stonybrooknlp/appworld)|
-|**2024-07-26**|**Correcting for objective sample refractive index mismatch in extended field of view selective plane illumination microscopy**|Steven J. Sheppard et.al.|[2407.18862v1](http://arxiv.org/abs/2407.18862v1)|null|
-|**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695v1](http://arxiv.org/abs/2407.18695v1)|null|
-|**2024-07-26**|**DynamicTrack: Advancing Gigapixel Tracking in Crowded Scenes**|Yunqi Zhao et.al.|[2407.18637v1](http://arxiv.org/abs/2407.18637v1)|null|
-|**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590v1](http://arxiv.org/abs/2407.18590v1)|null|
-|**2024-07-26**|**The foundation of "Saint V{é}ran-Paul Felenbok" astronomical observatory**|Jean-Marie Malherbe et.al.|[2407.18573v1](http://arxiv.org/abs/2407.18573v1)|null|
-|**2024-07-26**|**Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications**|Ettore Sani et.al.|[2407.18535v1](http://arxiv.org/abs/2407.18535v1)|null|
