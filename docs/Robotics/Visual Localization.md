@@ -20,7 +20,7 @@
 |**2024-08-03**|**Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality**|Leina Elansary et.al.|[2408.01728v1](http://arxiv.org/abs/2408.01728v1)|null|
 |**2024-08-03**|**IDNet: A Novel Dataset for Identity Document Analysis and Fraud Detection**|Hong Guan et.al.|[2408.01690v1](http://arxiv.org/abs/2408.01690v1)|null|
 |**2024-08-03**|**Multi-Frame Vision-Language Model for Long-form Reasoning in Driver Behavior Analysis**|Hiroshi Takato et.al.|[2408.01682v1](http://arxiv.org/abs/2408.01682v1)|null|
-|**2024-08-03**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual Stereo Vision**|Tian-Ao Ren et.al.|[2408.01615v1](http://arxiv.org/abs/2408.01615v1)|null|
+|**2024-08-03**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision**|Tian-Ao Ren et.al.|[2408.01615v2](http://arxiv.org/abs/2408.01615v2)|null|
 |**2024-08-02**|**Advancing Mixed Reality Game Development: An Evaluation of a Visual Game Analytics Tool in Action-Adventure and FPS Genres**|Parisa Sargolzaei et.al.|[2408.01573v1](http://arxiv.org/abs/2408.01573v1)|null|
 |**2024-08-02**|**Self-Supervised Depth Estimation Based on Camera Models**|Jinchang Zhang et.al.|[2408.01565v1](http://arxiv.org/abs/2408.01565v1)|null|
 |**2024-08-02**|**The Keck-HGCA Pilot Survey II: Direct Imaging Discovery of HD 63754 B, a ~20 au Massive Companion Near the Hydrogen Burning Limit**|Yiting Li et.al.|[2408.01546v1](http://arxiv.org/abs/2408.01546v1)|null|
