@@ -3,8 +3,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-06**|**Understanding How Blind Users Handle Object Recognition Errors: Strategies and Challenges**|Jonggi Hong et.al.|[2408.03303v1](http://arxiv.org/abs/2408.03303v1)|null|
-|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246v1](http://arxiv.org/abs/2408.03246v1)|null|
-|**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|null|
+|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246v1](http://arxiv.org/abs/2408.03246v1)|[link](https://github.com/lavi-lab/longcontextreasoner)|
+|**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|[link](https://github.com/zibin6/lopet)|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
 |**2024-08-06**|**SCOPE: A Synthetic Multi-Modal Dataset for Collective Perception Including Physical-Correct Weather Conditions**|Jörg Gamerdinger et.al.|[2408.03065v1](http://arxiv.org/abs/2408.03065v1)|null|
 |**2024-08-06**|**VirtualNexus: Enhancing 360-Degree Video AR/VR Collaboration with Environment Cutouts and Virtual Replicas**|Xincheng Huang et.al.|[2408.02914v1](http://arxiv.org/abs/2408.02914v1)|null|
