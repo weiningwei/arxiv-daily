@@ -2,6 +2,10 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[2408.03790v1](http://arxiv.org/abs/2408.03790v1)|null|
+|**2024-08-07**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601v1](http://arxiv.org/abs/2408.03601v1)|null|
+|**2024-08-07**|**VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction**|Junsu Kim et.al.|[2408.03551v1](http://arxiv.org/abs/2408.03551v1)|null|
+|**2024-08-07**|**Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR**|Racquel Fygenson et.al.|[2408.03503v1](http://arxiv.org/abs/2408.03503v1)|[link](https://github.com/NASA-AMMOS/VECTOR)|
 |**2024-08-06**|**Understanding How Blind Users Handle Object Recognition Errors: Strategies and Challenges**|Jonggi Hong et.al.|[2408.03303v1](http://arxiv.org/abs/2408.03303v1)|null|
 |**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246v1](http://arxiv.org/abs/2408.03246v1)|[link](https://github.com/lavi-lab/longcontextreasoner)|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|[link](https://github.com/zibin6/lopet)|
@@ -28,7 +32,3 @@
 |**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
 |**2024-08-03**|**MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition**|Ruoyu Wang et.al.|[2408.01766v1](http://arxiv.org/abs/2408.01766v1)|null|
 |**2024-08-03**|**Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality**|Leina Elansary et.al.|[2408.01728v1](http://arxiv.org/abs/2408.01728v1)|null|
-|**2024-08-03**|**IDNet: A Novel Dataset for Identity Document Analysis and Fraud Detection**|Hong Guan et.al.|[2408.01690v1](http://arxiv.org/abs/2408.01690v1)|null|
-|**2024-08-03**|**Multi-Frame Vision-Language Model for Long-form Reasoning in Driver Behavior Analysis**|Hiroshi Takato et.al.|[2408.01682v1](http://arxiv.org/abs/2408.01682v1)|null|
-|**2024-08-03**|**Three-dimensional Morphological Reconstruction of Millimeter-Scale Soft Continuum Robots based on Dual-Stereo-Vision**|Tian-Ao Ren et.al.|[2408.01615v2](http://arxiv.org/abs/2408.01615v2)|null|
-|**2024-08-02**|**Advancing Mixed Reality Game Development: An Evaluation of a Visual Game Analytics Tool in Action-Adventure and FPS Genres**|Parisa Sargolzaei et.al.|[2408.01573v1](http://arxiv.org/abs/2408.01573v1)|null|

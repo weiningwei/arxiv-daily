@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
+|**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520v1](http://arxiv.org/abs/2408.03520v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
 |**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084v1](http://arxiv.org/abs/2408.02084v1)|null|
 |**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|[link](https://github.com/jarvisyjw/gv-bench)|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
 |**2024-07-16**|**Batch SLAM with PMBM Data Association Sampling and Graph-Based Optimization**|Yu Ge et.al.|[2407.11643v1](http://arxiv.org/abs/2407.11643v1)|null|
-|**2024-07-16**|**I$^2$-SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**|Gwangtak Bae et.al.|[2407.11347v1](http://arxiv.org/abs/2407.11347v1)|null|
-|**2024-07-16**|**FR-SLAM: A SLAM Improvement Method Based on Floor Plan Registration**|Jiantao Feng et.al.|[2407.11299v1](http://arxiv.org/abs/2407.11299v1)|null|

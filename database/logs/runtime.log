@@ -21302,3 +21302,7 @@ expected <block end>, but found '<block mapping start>'
 2024-08-08 09:49:59.450 | SUCCESS  | __main__:parse:182 - handle [2/4] | topic=`Robotics` subtopic=`VO`
 2024-08-08 09:49:59.557 | SUCCESS  | __main__:parse:182 - handle [3/4] | topic=`Robotics` subtopic=`Visual Localization`
 2024-08-08 09:49:59.626 | SUCCESS  | __main__:parse:182 - handle [4/4] | topic=`Robotics` subtopic=`VIO`
+2024-08-08 20:14:17.830 | SUCCESS  | __main__:parse:182 - handle [1/4] | topic=`Robotics` subtopic=`SLAM`
+2024-08-08 20:14:17.879 | SUCCESS  | __main__:parse:182 - handle [2/4] | topic=`Robotics` subtopic=`Visual Localization`
+2024-08-08 20:14:17.979 | SUCCESS  | __main__:parse:182 - handle [3/4] | topic=`Robotics` subtopic=`VO`
+2024-08-08 20:14:18.123 | SUCCESS  | __main__:parse:182 - handle [4/4] | topic=`Robotics` subtopic=`VIO`

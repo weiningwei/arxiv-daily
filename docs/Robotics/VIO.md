@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
+|**2024-08-06**|**Spacecraft inertial parameters estimation using time series clustering and reinforcement learning**|Konstantinos Platanitis et.al.|[2408.03445v1](http://arxiv.org/abs/2408.03445v1)|null|
 |**2024-08-06**|**Kinetic scales dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2408.03267v1](http://arxiv.org/abs/2408.03267v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
 |**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840v1](http://arxiv.org/abs/2408.02840v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-27**|**How to define temperature in active systems**|Lukas Hecht et.al.|[2407.19281v1](http://arxiv.org/abs/2407.19281v1)|null|
 |**2024-07-26**|**On reduced inertial PDE models for Cucker-Smale flocking dynamics**|Sebastian Zimper et.al.|[2407.18717v1](http://arxiv.org/abs/2407.18717v1)|null|
 |**2024-07-26**|**Diffusion in driven periodic systems: from weak to strong damping regimes**|I. G. Marchenko et.al.|[2407.18592v1](http://arxiv.org/abs/2407.18592v1)|null|
-|**2024-07-25**|**Phase transition in a kinetic mean-field game model of inertial self-propelled agents**|Piyush Grover et.al.|[2407.18400v1](http://arxiv.org/abs/2407.18400v1)|null|
-|**2024-07-25**|**A novel numerical method for mixed-frame multigroup radiation-hydrodynamics with GPU acceleration implemented in the QUOKKA code**|Chong-Chong He et.al.|[2407.18304v1](http://arxiv.org/abs/2407.18304v1)|[link](https://github.com/quokka-astro/quokka)|
