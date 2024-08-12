@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-09**|**Weak-inertial effects on destabilized receding contact lines**|Akhil Varma et.al.|[2408.05045v1](http://arxiv.org/abs/2408.05045v1)|null|
+|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901v1](http://arxiv.org/abs/2408.04901v1)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
 |**2024-08-06**|**Spacecraft inertial parameters estimation using time series clustering and reinforcement learning**|Konstantinos Platanitis et.al.|[2408.03445v1](http://arxiv.org/abs/2408.03445v1)|null|
 |**2024-08-06**|**Kinetic scales dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2408.03267v1](http://arxiv.org/abs/2408.03267v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-29**|**Phase transitions in rolling of irregular cylinders and spheres**|Daoyuan Qian et.al.|[2407.19861v1](http://arxiv.org/abs/2407.19861v1)|null|
 |**2024-07-29**|**PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality**|Xintong Zhang et.al.|[2407.19728v1](http://arxiv.org/abs/2407.19728v1)|null|
 |**2024-07-27**|**How to define temperature in active systems**|Lukas Hecht et.al.|[2407.19281v1](http://arxiv.org/abs/2407.19281v1)|null|
-|**2024-07-26**|**On reduced inertial PDE models for Cucker-Smale flocking dynamics**|Sebastian Zimper et.al.|[2407.18717v1](http://arxiv.org/abs/2407.18717v1)|null|
-|**2024-07-26**|**Diffusion in driven periodic systems: from weak to strong damping regimes**|I. G. Marchenko et.al.|[2407.18592v1](http://arxiv.org/abs/2407.18592v1)|null|
