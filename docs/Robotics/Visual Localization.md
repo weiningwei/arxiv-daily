@@ -9,7 +9,7 @@
 |**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113v1](http://arxiv.org/abs/2408.06113v1)|null|
 |**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952v1](http://arxiv.org/abs/2408.05952v1)|null|
 |**2024-08-12**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945v1](http://arxiv.org/abs/2408.05945v1)|null|
-|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environmen**|Eunsoo Im et.al.|[2408.05940v1](http://arxiv.org/abs/2408.05940v1)|null|
+|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environment**|Eunsoo Im et.al.|[2408.05940v2](http://arxiv.org/abs/2408.05940v2)|null|
 |**2024-08-12**|**Deep Multimodal Collaborative Learning for Polyp Re-Identification**|Suncheng Xiang et.al.|[2408.05914v1](http://arxiv.org/abs/2408.05914v1)|null|
 |**2024-08-11**|**FADE: A Dataset for Detecting Falling Objects around Buildings in Video**|Zhigang Tu et.al.|[2408.05750v1](http://arxiv.org/abs/2408.05750v1)|null|
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
@@ -23,7 +23,7 @@
 |**2024-08-10**|**PersonViT: Large-scale Self-supervised Vision Transformer for Person Re-Identificat**|Bin Hu et.al.|[2408.05398v1](http://arxiv.org/abs/2408.05398v1)|[link](https://github.com/hustvl/personvit)|
 |**2024-08-09**|**A Recurrent YOLOv8-based framework for Event-Based Object Detection**|Diego A. Silva et.al.|[2408.05321v1](http://arxiv.org/abs/2408.05321v1)|null|
 |**2024-08-09**|**Omobot: a low-cost mobile robot for autonomous search and fall detection**|Shihab Uddin Ahamad et.al.|[2408.05315v1](http://arxiv.org/abs/2408.05315v1)|null|
-|**2024-08-09**|**Euclid preparation. Cosmic Dawn Survey: Data release 1 multiwavelength catalogues for Euclid Deep Field North and Euclid Deep Field Fornax**|Euclid Collaboration et.al.|[2408.05296v1](http://arxiv.org/abs/2408.05296v1)|null|
+|**2024-08-09**|**Euclid Preparation. Cosmic Dawn Survey: Data release 1 multiwavelength catalogues for Euclid Deep Field North and Euclid Deep Field Fornax**|Euclid Collaboration et.al.|[2408.05296v2](http://arxiv.org/abs/2408.05296v2)|null|
 |**2024-08-09**|**Euclid preparation. The Cosmic Dawn Survey (DAWN) of the Euclid Deep and Auxiliary Fields**|Euclid Collaboration et.al.|[2408.05275v1](http://arxiv.org/abs/2408.05275v1)|null|
 |**2024-08-09**|**Modeling Electromagnetic Signal Injection Attacks on Camera-based Smart Systems: Applications and Mitigation**|Youqian Zhang et.al.|[2408.05124v1](http://arxiv.org/abs/2408.05124v1)|null|
 |**2024-08-09**|**A conformalized learning of a prediction set with applications to medical imaging classification**|Roy Hirsch et.al.|[2408.05037v1](http://arxiv.org/abs/2408.05037v1)|null|
