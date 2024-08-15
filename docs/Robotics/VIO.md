@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
 |**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
 |**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
 |**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
@@ -31,4 +32,3 @@
 |**2024-08-02**|**EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization**|Runze Yuan et.al.|[2408.01370v1](http://arxiv.org/abs/2408.01370v1)|null|
 |**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
 |**2024-08-01**|**Predicting nonlinear-flow regions in highly heterogeneous porous media using adaptive constitutive laws and neural networks**|Chiara Giovannini et.al.|[2408.00533v1](http://arxiv.org/abs/2408.00533v1)|null|
-|**2024-07-31**|**Influences of $δ$B Contribution and Parallel Inertial Term of Energetic Particles on MHD-Kinetic Hybrid Simulations: A Case Study of the 1/1 Internal Kink Mode**|H. X. Zhang et.al.|[2407.21709v1](http://arxiv.org/abs/2407.21709v1)|null|
