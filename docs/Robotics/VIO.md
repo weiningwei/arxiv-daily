@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
-|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v1](http://arxiv.org/abs/2408.06950v1)|null|
+|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
 |**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
 |**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
 |**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|

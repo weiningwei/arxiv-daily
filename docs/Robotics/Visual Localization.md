@@ -25,7 +25,7 @@
 |**2024-08-12**|**Deep Multimodal Collaborative Learning for Polyp Re-Identification**|Suncheng Xiang et.al.|[2408.05914v1](http://arxiv.org/abs/2408.05914v1)|null|
 |**2024-08-11**|**FADE: A Dataset for Detecting Falling Objects around Buildings in Video**|Zhigang Tu et.al.|[2408.05750v1](http://arxiv.org/abs/2408.05750v1)|null|
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
-|**2024-08-10**|**Camera Perspective Transformation to Bird's Eye View via Spatial Transformer Model for Road Intersection Monitoring**|Rukesh Prajapati et.al.|[2408.05577v1](http://arxiv.org/abs/2408.05577v1)|null|
+|**2024-08-10**|**Camera Perspective Transformation to Bird's Eye View via Spatial Transformer Model for Road Intersection Monitoring**|Rukesh Prajapati et.al.|[2408.05577v2](http://arxiv.org/abs/2408.05577v2)|null|
 |**2024-08-10**|**What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon**|Utkarsh Tiwari et.al.|[2408.05562v1](http://arxiv.org/abs/2408.05562v1)|[link](https://github.com/ut21/wsad-driving)|
 |**2024-08-10**|**Object Re-identification via Spatial-temporal Fusion Networks and Causal Identity Matching**|Hye-Geun Kim et.al.|[2408.05558v1](http://arxiv.org/abs/2408.05558v1)|null|
 |**2024-08-10**|**Differential image motion in astrometric observations with very large seeing-limited telescopes**|P. F. Lazorenko et.al.|[2408.05467v1](http://arxiv.org/abs/2408.05467v1)|null|
