@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps**|Senthil Hariharan Arul et.al.|[2408.08301v1](http://arxiv.org/abs/2408.08301v1)|null|
+|**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276v1](http://arxiv.org/abs/2408.08276v1)|null|
+|**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211v1](http://arxiv.org/abs/2408.08211v1)|null|
+|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
+|**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000v1](http://arxiv.org/abs/2408.08000v1)|null|
+|**2024-08-15**|**Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation**|Yuichiro Manabe et.al.|[2408.07996v1](http://arxiv.org/abs/2408.07996v1)|[link](https://github.com/ichi-raven/mc-ebcs)|
+|**2024-08-15**|**Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera**|Hiroki Tanioka et.al.|[2408.07982v1](http://arxiv.org/abs/2408.07982v1)|null|
+|**2024-08-15**|**GERestaurant: A German Dataset of Annotated Restaurant Reviews for Aspect-Based Sentiment Analysis**|Nils Constantin Hellwig et.al.|[2408.07955v1](http://arxiv.org/abs/2408.07955v1)|null|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|null|
+|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530v1](http://arxiv.org/abs/2408.07530v1)|[link](https://github.com/mcao92/mobilesci)|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422v1](http://arxiv.org/abs/2408.07422v1)|null|
@@ -22,13 +32,3 @@
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190v1](http://arxiv.org/abs/2408.06190v1)|[link](https://github.com/meyerls/fruitnerf)|
 |**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157v1](http://arxiv.org/abs/2408.06157v1)|null|
 |**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113v1](http://arxiv.org/abs/2408.06113v1)|null|
-|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952v1](http://arxiv.org/abs/2408.05952v1)|null|
-|**2024-08-12**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945v1](http://arxiv.org/abs/2408.05945v1)|null|
-|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environment**|Eunsoo Im et.al.|[2408.05940v2](http://arxiv.org/abs/2408.05940v2)|null|
-|**2024-08-12**|**Deep Multimodal Collaborative Learning for Polyp Re-Identification**|Suncheng Xiang et.al.|[2408.05914v1](http://arxiv.org/abs/2408.05914v1)|null|
-|**2024-08-11**|**FADE: A Dataset for Detecting Falling Objects around Buildings in Video**|Zhigang Tu et.al.|[2408.05750v1](http://arxiv.org/abs/2408.05750v1)|null|
-|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
-|**2024-08-10**|**Camera Perspective Transformation to Bird's Eye View via Spatial Transformer Model for Road Intersection Monitoring**|Rukesh Prajapati et.al.|[2408.05577v2](http://arxiv.org/abs/2408.05577v2)|null|
-|**2024-08-10**|**What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon**|Utkarsh Tiwari et.al.|[2408.05562v1](http://arxiv.org/abs/2408.05562v1)|[link](https://github.com/ut21/wsad-driving)|
-|**2024-08-10**|**Object Re-identification via Spatial-temporal Fusion Networks and Causal Identity Matching**|Hye-Geun Kim et.al.|[2408.05558v1](http://arxiv.org/abs/2408.05558v1)|null|
-|**2024-08-10**|**Differential image motion in astrometric observations with very large seeing-limited telescopes**|P. F. Lazorenko et.al.|[2408.05467v1](http://arxiv.org/abs/2408.05467v1)|null|

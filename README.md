@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-16 09:49:29 Asia/Shanghai
+ Automated deployment @ 2024-08-16 20:15:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
+|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
 |**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
 |**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
 |**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
@@ -36,12 +38,12 @@
 |**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|[link](https://github.com/princeton-vl/dpvo)|
 |**2024-08-02**|**EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization**|Runze Yuan et.al.|[2408.01370v1](http://arxiv.org/abs/2408.01370v1)|null|
-|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
-|**2024-08-01**|**Predicting nonlinear-flow regions in highly heterogeneous porous media using adaptive constitutive laws and neural networks**|Chiara Giovannini et.al.|[2408.00533v1](http://arxiv.org/abs/2408.00533v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
+|**2024-08-14**|**Inverse k-visibility for RSSI-based Indoor Geometric Mapping**|Junseo Kim et.al.|[2408.07757v1](http://arxiv.org/abs/2408.07757v1)|null|
 |**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330v1](http://arxiv.org/abs/2408.07330v1)|null|
 |**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
@@ -70,8 +72,6 @@
 |**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván et.al.|[2407.14797v1](http://arxiv.org/abs/2407.14797v1)|null|
 |**2024-07-19**|**MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion**|Qiyan Li et.al.|[2407.14102v1](http://arxiv.org/abs/2407.14102v1)|null|
 |**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)|
-|**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
-|**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +110,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps**|Senthil Hariharan Arul et.al.|[2408.08301v1](http://arxiv.org/abs/2408.08301v1)|null|
+|**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276v1](http://arxiv.org/abs/2408.08276v1)|null|
+|**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211v1](http://arxiv.org/abs/2408.08211v1)|null|
+|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
+|**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000v1](http://arxiv.org/abs/2408.08000v1)|null|
+|**2024-08-15**|**Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation**|Yuichiro Manabe et.al.|[2408.07996v1](http://arxiv.org/abs/2408.07996v1)|[link](https://github.com/ichi-raven/mc-ebcs)|
+|**2024-08-15**|**Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera**|Hiroki Tanioka et.al.|[2408.07982v1](http://arxiv.org/abs/2408.07982v1)|null|
+|**2024-08-15**|**GERestaurant: A German Dataset of Annotated Restaurant Reviews for Aspect-Based Sentiment Analysis**|Nils Constantin Hellwig et.al.|[2408.07955v1](http://arxiv.org/abs/2408.07955v1)|null|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|null|
+|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530v1](http://arxiv.org/abs/2408.07530v1)|[link](https://github.com/mcao92/mobilesci)|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422v1](http://arxiv.org/abs/2408.07422v1)|null|
@@ -130,13 +140,3 @@
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190v1](http://arxiv.org/abs/2408.06190v1)|[link](https://github.com/meyerls/fruitnerf)|
 |**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157v1](http://arxiv.org/abs/2408.06157v1)|null|
 |**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113v1](http://arxiv.org/abs/2408.06113v1)|null|
-|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952v1](http://arxiv.org/abs/2408.05952v1)|null|
-|**2024-08-12**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945v1](http://arxiv.org/abs/2408.05945v1)|null|
-|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environment**|Eunsoo Im et.al.|[2408.05940v2](http://arxiv.org/abs/2408.05940v2)|null|
-|**2024-08-12**|**Deep Multimodal Collaborative Learning for Polyp Re-Identification**|Suncheng Xiang et.al.|[2408.05914v1](http://arxiv.org/abs/2408.05914v1)|null|
-|**2024-08-11**|**FADE: A Dataset for Detecting Falling Objects around Buildings in Video**|Zhigang Tu et.al.|[2408.05750v1](http://arxiv.org/abs/2408.05750v1)|null|
-|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
-|**2024-08-10**|**Camera Perspective Transformation to Bird's Eye View via Spatial Transformer Model for Road Intersection Monitoring**|Rukesh Prajapati et.al.|[2408.05577v2](http://arxiv.org/abs/2408.05577v2)|null|
-|**2024-08-10**|**What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon**|Utkarsh Tiwari et.al.|[2408.05562v1](http://arxiv.org/abs/2408.05562v1)|[link](https://github.com/ut21/wsad-driving)|
-|**2024-08-10**|**Object Re-identification via Spatial-temporal Fusion Networks and Causal Identity Matching**|Hye-Geun Kim et.al.|[2408.05558v1](http://arxiv.org/abs/2408.05558v1)|null|
-|**2024-08-10**|**Differential image motion in astrometric observations with very large seeing-limited telescopes**|P. F. Lazorenko et.al.|[2408.05467v1](http://arxiv.org/abs/2408.05467v1)|null|
