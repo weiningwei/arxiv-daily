@@ -13,7 +13,7 @@
 |**2024-08-12**|**Galileo's Ship and the Relativity Principle**|S. Murgueitio Ramírez et.al.|[2408.06439v1](http://arxiv.org/abs/2408.06439v1)|null|
 |**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v1](http://arxiv.org/abs/2408.06321v1)|null|
 |**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
-|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|null|
+|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
 |**2024-08-11**|**Nonrelativistic limit of QFT in curved spacetime**|Riccardo Falcone et.al.|[2408.05757v1](http://arxiv.org/abs/2408.05757v1)|null|
 |**2024-08-11**|**MR-ULINS: A Tightly-Coupled UWB-LiDAR-Inertial Estimator with Multi-Epoch Outlier Rejection**|Tisheng Zhang et.al.|[2408.05719v1](http://arxiv.org/abs/2408.05719v1)|null|
 |**2024-08-10**|**Safety Enhancement in Planetary Rovers: Early Detection of Tip-over Risks Using Autoencoders**|Mariela De Lucas Alvarez et.al.|[2408.05602v1](http://arxiv.org/abs/2408.05602v1)|null|

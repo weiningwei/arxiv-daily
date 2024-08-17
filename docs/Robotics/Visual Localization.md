@@ -10,7 +10,7 @@
 |**2024-08-15**|**Monte Carlo Path Tracing and Statistical Event Detection for Event Camera Simulation**|Yuichiro Manabe et.al.|[2408.07996v1](http://arxiv.org/abs/2408.07996v1)|[link](https://github.com/ichi-raven/mc-ebcs)|
 |**2024-08-15**|**Toward a Dialogue System Using a Large Language Model to Recognize User Emotions with a Camera**|Hiroki Tanioka et.al.|[2408.07982v1](http://arxiv.org/abs/2408.07982v1)|null|
 |**2024-08-15**|**GERestaurant: A German Dataset of Annotated Restaurant Reviews for Aspect-Based Sentiment Analysis**|Nils Constantin Hellwig et.al.|[2408.07955v1](http://arxiv.org/abs/2408.07955v1)|null|
-|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|null|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|[link](https://github.com/lucaskirsten/mobilemef)|
 |**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530v1](http://arxiv.org/abs/2408.07530v1)|[link](https://github.com/mcao92/mobilesci)|
