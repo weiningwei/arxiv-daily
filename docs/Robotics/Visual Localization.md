@@ -2,6 +2,9 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
+|**2024-08-16**|**Towards Physical World Backdoor Attacks against Skeleton Action Recognition**|Qichen Zheng et.al.|[2408.08671v1](http://arxiv.org/abs/2408.08671v1)|null|
+|**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500v1](http://arxiv.org/abs/2408.08500v1)|null|
 |**2024-08-15**|**VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps**|Senthil Hariharan Arul et.al.|[2408.08301v1](http://arxiv.org/abs/2408.08301v1)|null|
 |**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276v1](http://arxiv.org/abs/2408.08276v1)|null|
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211v1](http://arxiv.org/abs/2408.08211v1)|null|
@@ -12,6 +15,7 @@
 |**2024-08-15**|**GERestaurant: A German Dataset of Annotated Restaurant Reviews for Aspect-Based Sentiment Analysis**|Nils Constantin Hellwig et.al.|[2408.07955v1](http://arxiv.org/abs/2408.07955v1)|null|
 |**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|[link](https://github.com/lucaskirsten/mobilemef)|
 |**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
+|**2024-08-15**|**Comparing NASA Discovery and New Frontiers Class Mission Concepts for the Io Volcano Observer (IVO)**|Christopher W. Hamilton et.al.|[2408.08334v1](http://arxiv.org/abs/2408.08334v1)|null|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530v1](http://arxiv.org/abs/2408.07530v1)|[link](https://github.com/mcao92/mobilesci)|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422v1](http://arxiv.org/abs/2408.07422v1)|null|
@@ -28,7 +32,3 @@
 |**2024-08-13**|**HaptoFloater: Visuo-Haptic Augmented Reality by Embedding Imperceptible Color Vibration Signals for Tactile Display Control in a Mid-Air Image**|Rina Nagano et.al.|[2408.06552v1](http://arxiv.org/abs/2408.06552v1)|null|
 |**2024-08-12**|**TacSL: A Library for Visuotactile Sensor Simulation and Learning**|Iretiayo Akinola et.al.|[2408.06506v1](http://arxiv.org/abs/2408.06506v1)|null|
 |**2024-08-12**|**Rethinking Video with a Universal Event-Based Representation**|Andrew Freeman et.al.|[2408.06248v1](http://arxiv.org/abs/2408.06248v1)|null|
-|**2024-08-12**|**Euclid: The Early Release Observations Lens Search Experiment**|J. A. Acevedo Barroso et.al.|[2408.06217v1](http://arxiv.org/abs/2408.06217v1)|null|
-|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190v1](http://arxiv.org/abs/2408.06190v1)|[link](https://github.com/meyerls/fruitnerf)|
-|**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157v1](http://arxiv.org/abs/2408.06157v1)|null|
-|**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113v1](http://arxiv.org/abs/2408.06113v1)|null|

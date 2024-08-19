@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
 |**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
 |**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
 |**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
@@ -31,4 +32,3 @@
 |**2024-08-03**|**MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions**|Rahul Islam et.al.|[2408.01850v1](http://arxiv.org/abs/2408.01850v1)|null|
 |**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|[link](https://github.com/princeton-vl/dpvo)|
-|**2024-08-02**|**EVIT: Event-based Visual-Inertial Tracking in Semi-Dense Maps Using Windowed Nonlinear Optimization**|Runze Yuan et.al.|[2408.01370v1](http://arxiv.org/abs/2408.01370v1)|null|
