@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
+|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
+|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
+|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
+|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
 |**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
 |**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
 |**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
@@ -27,8 +32,3 @@
 |**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840v1](http://arxiv.org/abs/2408.02840v1)|null|
 |**2024-08-05**|**RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**|Shuolong Chen et.al.|[2408.02444v1](http://arxiv.org/abs/2408.02444v1)|[link](https://github.com/unsigned-long/ris-calib)|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
-|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
-|**2024-08-04**|**Large-Angle Collisions in Burning Plasmas of Inertial Confinement Fusions**|Y. H. Xue et.al.|[2408.01948v1](http://arxiv.org/abs/2408.01948v1)|null|
-|**2024-08-03**|**MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions**|Rahul Islam et.al.|[2408.01850v1](http://arxiv.org/abs/2408.01850v1)|null|
-|**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
-|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|[link](https://github.com/princeton-vl/dpvo)|
