@@ -5,7 +5,7 @@
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|null|
 |**2024-08-19**|**3D-Aware Instance Segmentation and Tracking in Egocentric Videos**|Yash Bhalgat et.al.|[2408.09860v1](http://arxiv.org/abs/2408.09860v1)|null|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764v1](http://arxiv.org/abs/2408.09764v1)|[link](https://github.com/event-ahu/celex-har)|
-|**2024-08-19**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680v1](http://arxiv.org/abs/2408.09680v1)|null|
+|**2024-08-19**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680v2](http://arxiv.org/abs/2408.09680v2)|null|
 |**2024-08-18**|**SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras**|Tiejin Chen et.al.|[2408.09588v1](http://arxiv.org/abs/2408.09588v1)|null|
 |**2024-08-18**|**Contactless seismocardiography via Gunnar-Farneback optical flow**|Mohammad Muntasir Rahman et.al.|[2408.09512v1](http://arxiv.org/abs/2408.09512v1)|null|
 |**2024-08-18**|**3C: Confidence-Guided Clustering and Contrastive Learning for Unsupervised Person Re-Identification**|Mingxiao Zheng et.al.|[2408.09464v1](http://arxiv.org/abs/2408.09464v1)|[link](https://github.com/stone5265/3c-reid)|

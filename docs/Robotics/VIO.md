@@ -29,6 +29,6 @@
 |**2024-08-06**|**Spacecraft inertial parameters estimation using time series clustering and reinforcement learning**|Konstantinos Platanitis et.al.|[2408.03445v1](http://arxiv.org/abs/2408.03445v1)|null|
 |**2024-08-06**|**Kinetic scales dominated by magnetic helicity in space plasmas**|A. Bershadskii et.al.|[2408.03267v2](http://arxiv.org/abs/2408.03267v2)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|[link](https://github.com/GuidoManni/BodySLAM)|
-|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840v1](http://arxiv.org/abs/2408.02840v1)|null|
+|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840v1](http://arxiv.org/abs/2408.02840v1)|[link](https://github.com/manupillai308/garet)|
 |**2024-08-05**|**RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**|Shuolong Chen et.al.|[2408.02444v1](http://arxiv.org/abs/2408.02444v1)|[link](https://github.com/unsigned-long/ris-calib)|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
