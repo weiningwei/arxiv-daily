@@ -17,7 +17,7 @@
 |**2024-08-17**|**Optimal Strip Attitude Command of Earth Observation Satellite using Differential Dynamic Programming**|Seungyeop Han et.al.|[2408.09244v1](http://arxiv.org/abs/2408.09244v1)|null|
 |**2024-08-17**|**Intuitive Human-Robot Interface: A 3-Dimensional Action Recognition and UAV Collaboration Framework**|Akash Chaudhary et.al.|[2408.09232v1](http://arxiv.org/abs/2408.09232v1)|null|
 |**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191v1](http://arxiv.org/abs/2408.09191v1)|null|
-|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v1](http://arxiv.org/abs/2408.09130v1)|null|
+|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v2](http://arxiv.org/abs/2408.09130v2)|null|
 |**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104v1](http://arxiv.org/abs/2408.09104v1)|null|
 |**2024-08-17**|**Depth-guided Texture Diffusion for Image Semantic Segmentation**|Wei Sun et.al.|[2408.09097v1](http://arxiv.org/abs/2408.09097v1)|null|
 |**2024-08-16**|**ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation**|Hao Tang et.al.|[2408.09042v1](http://arxiv.org/abs/2408.09042v1)|null|
