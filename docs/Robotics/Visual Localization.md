@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-21**|**SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset**|Jinsub Yim et.al.|[2408.11814v1](http://arxiv.org/abs/2408.11814v1)|null|
 |**2024-08-21**|**ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**|Shiqi Yang et.al.|[2408.11805v1](http://arxiv.org/abs/2408.11805v1)|null|
-|**2024-08-21**|**Scalable parallel measurement of individual nitrogen-vacancy centers**|Matthew Cambria et.al.|[2408.11715v1](http://arxiv.org/abs/2408.11715v1)|null|
+|**2024-08-21**|**Scalable parallel measurement of individual nitrogen-vacancy centers**|Matthew Cambria et.al.|[2408.11715v2](http://arxiv.org/abs/2408.11715v2)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
 |**2024-08-21**|**Massively multiplexed nanoscale magnetometry with diamond quantum sensors**|Kai-Hung Cheng et.al.|[2408.11666v1](http://arxiv.org/abs/2408.11666v1)|null|
 |**2024-08-21**|**Optimizing QoS in HD Map Updates: Cross-Layer Multi-Agent with Hierarchical and Independent Learning**|Jeffrey Redondo et.al.|[2408.11605v1](http://arxiv.org/abs/2408.11605v1)|null|
@@ -31,4 +31,4 @@
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|null|
 |**2024-08-19**|**Detecting Wildfires on UAVs with Real-time Segmentation Trained by Larger Teacher Models**|Julius Pesonen et.al.|[2408.10843v1](http://arxiv.org/abs/2408.10843v1)|null|
 |**2024-08-19**|**3D-Aware Instance Segmentation and Tracking in Egocentric Videos**|Yash Bhalgat et.al.|[2408.09860v1](http://arxiv.org/abs/2408.09860v1)|null|
-|**2024-08-19**|**Recognizing Beam Profiles from Silicon Photonics Gratings using Transformer Model**|Yu Dian Lim et.al.|[2408.10287v2](http://arxiv.org/abs/2408.10287v2)|null|
+|**2024-08-19**|**Recognizing Beam Profiles from Silicon Photonics Gratings using Transformer Model**|Yu Dian Lim et.al.|[2408.10287v3](http://arxiv.org/abs/2408.10287v3)|null|
