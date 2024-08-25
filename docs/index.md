@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-08-24 21:00:20 Asia/Shanghai
+ Automated deployment @ 2024-08-25 08:41:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
-|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
-|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
-|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|
-|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
-|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
-|**2024-08-11**|**MR-ULINS: A Tightly-Coupled UWB-LiDAR-Inertial Estimator with Multi-Epoch Outlier Rejection**|Tisheng Zhang et.al.|[2408.05719v1](http://arxiv.org/abs/2408.05719v1)|null|
-|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901v1](http://arxiv.org/abs/2408.04901v1)|null|
-|**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
-|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|[link](https://github.com/GuidoManni/BodySLAM)|
-|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840v1](http://arxiv.org/abs/2408.02840v1)|[link](https://github.com/manupillai308/garet)|
-|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
-|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
-|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|[link](https://github.com/princeton-vl/dpvo)|
-|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
-|**2024-07-30**|**ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry**|Bo Zhou et.al.|[2407.20619v2](http://arxiv.org/abs/2407.20619v2)|null|
-|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|[link](https://github.com/molaorg/mola)|
-|**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223v1](http://arxiv.org/abs/2407.20223v1)|null|
-|**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240v1](http://arxiv.org/abs/2407.18240v1)|null|
-|**2024-07-25**|**PGD-VIO: An Accurate Plane-Aided Visual-Inertial Odometry with Graph-Based Drift Suppression**|Yidi Zhang et.al.|[2407.17709v1](http://arxiv.org/abs/2407.17709v1)|null|
-|**2024-07-23**|**Optimal camera-robot pose estimation in linear time from points and lines**|Guangyang Zeng et.al.|[2407.16151v1](http://arxiv.org/abs/2407.16151v1)|null|
-|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626v1](http://arxiv.org/abs/2407.15626v1)|[link](https://github.com/uzh-rpg/rl_vo)|
-|**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|
-|**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)|
-|**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159v1](http://arxiv.org/abs/2407.13159v1)|[link](https://github.com/bachzz/wflow-tartanvo)|
-|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
-|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
-|**2024-07-15**|**Walk along: An Experiment on Controlling the Mobile Robot 'Spot' with Voice and Gestures**|Renchi Zhang et.al.|[2407.11218v2](http://arxiv.org/abs/2407.11218v2)|null|
-|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
-|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|[link](https://github.com/koide3/glim)|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
-|**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|
-|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360v1](http://arxiv.org/abs/2408.12360v1)|null|
-|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
-|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
-|**2024-08-21**|**The vertical velocity skewness in the atmospheric boundary layer without buoyancy and Coriolis effects**|Elia Buono et.al.|[2408.11887v1](http://arxiv.org/abs/2408.11887v1)|null|
-|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
-|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
-|**2024-08-21**|**Harvesting asymmetric steering via non-identical detectors**|Shu-Min Wu et.al.|[2408.11277v1](http://arxiv.org/abs/2408.11277v1)|null|
-|**2024-08-20**|**A dissipation-induced superradiant transition in a strontium cavity-QED system**|Eric Yilun Song et.al.|[2408.11086v1](http://arxiv.org/abs/2408.11086v1)|null|
-|**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
-|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
-|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
-|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
-|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
-|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
-|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
-|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
-|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
-|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
-|**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
-|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
-|**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
-|**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
-|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|
-|**2024-08-12**|**Galileo's Ship and the Relativity Principle**|S. Murgueitio Ramírez et.al.|[2408.06439v1](http://arxiv.org/abs/2408.06439v1)|null|
-|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|
-|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
-|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
-|**2024-08-11**|**Nonrelativistic limit of QFT in curved spacetime**|Riccardo Falcone et.al.|[2408.05757v1](http://arxiv.org/abs/2408.05757v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2024-08-20**|**Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking**|Tutian Tang et.al.|[2408.10562v1](http://arxiv.org/abs/2408.10562v1)|null|
 |**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488v1](http://arxiv.org/abs/2408.10488v1)|[link](https://github.com/event-ahu/openesl)|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
+|**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360v1](http://arxiv.org/abs/2408.12360v1)|null|
+|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
+|**2024-08-21**|**The vertical velocity skewness in the atmospheric boundary layer without buoyancy and Coriolis effects**|Elia Buono et.al.|[2408.11887v1](http://arxiv.org/abs/2408.11887v1)|null|
+|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
+|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
+|**2024-08-21**|**Harvesting asymmetric steering via non-identical detectors**|Shu-Min Wu et.al.|[2408.11277v1](http://arxiv.org/abs/2408.11277v1)|null|
+|**2024-08-20**|**A dissipation-induced superradiant transition in a strontium cavity-QED system**|Eric Yilun Song et.al.|[2408.11086v1](http://arxiv.org/abs/2408.11086v1)|null|
+|**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
+|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
+|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
+|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
+|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
+|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
+|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
+|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
+|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
+|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
+|**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
+|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
+|**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
+|**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
+|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|
+|**2024-08-12**|**Galileo's Ship and the Relativity Principle**|S. Murgueitio Ramírez et.al.|[2408.06439v1](http://arxiv.org/abs/2408.06439v1)|null|
+|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
+|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
+|**2024-08-11**|**Nonrelativistic limit of QFT in curved spacetime**|Riccardo Falcone et.al.|[2408.05757v1](http://arxiv.org/abs/2408.05757v1)|null|
+
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|[link](https://github.com/molaorg/mola)|
 |**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
 |**2024-07-26**|**Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation**|Aditya Penumarti et.al.|[2407.19046v1](http://arxiv.org/abs/2407.19046v1)|null|
+
+### VO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
+|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
+|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
+|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
+|**2024-08-11**|**MR-ULINS: A Tightly-Coupled UWB-LiDAR-Inertial Estimator with Multi-Epoch Outlier Rejection**|Tisheng Zhang et.al.|[2408.05719v1](http://arxiv.org/abs/2408.05719v1)|null|
+|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901v1](http://arxiv.org/abs/2408.04901v1)|null|
+|**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|[link](https://github.com/GuidoManni/BodySLAM)|
+|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840v1](http://arxiv.org/abs/2408.02840v1)|[link](https://github.com/manupillai308/garet)|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
+|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|[link](https://github.com/princeton-vl/dpvo)|
+|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
+|**2024-07-30**|**ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry**|Bo Zhou et.al.|[2407.20619v2](http://arxiv.org/abs/2407.20619v2)|null|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|[link](https://github.com/molaorg/mola)|
+|**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223v1](http://arxiv.org/abs/2407.20223v1)|null|
+|**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240v1](http://arxiv.org/abs/2407.18240v1)|null|
+|**2024-07-25**|**PGD-VIO: An Accurate Plane-Aided Visual-Inertial Odometry with Graph-Based Drift Suppression**|Yidi Zhang et.al.|[2407.17709v1](http://arxiv.org/abs/2407.17709v1)|null|
+|**2024-07-23**|**Optimal camera-robot pose estimation in linear time from points and lines**|Guangyang Zeng et.al.|[2407.16151v1](http://arxiv.org/abs/2407.16151v1)|null|
+|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626v1](http://arxiv.org/abs/2407.15626v1)|[link](https://github.com/uzh-rpg/rl_vo)|
+|**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|
+|**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)|
+|**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159v1](http://arxiv.org/abs/2407.13159v1)|[link](https://github.com/bachzz/wflow-tartanvo)|
+|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
+|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
+|**2024-07-15**|**Walk along: An Experiment on Controlling the Mobile Robot 'Spot' with Voice and Gestures**|Renchi Zhang et.al.|[2407.11218v2](http://arxiv.org/abs/2407.11218v2)|null|
+|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|[link](https://github.com/koide3/glim)|
