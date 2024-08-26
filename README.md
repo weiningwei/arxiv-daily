@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2024-08-26 20:47:45 Asia/Shanghai
+ Automated deployment @ 2024-08-26 21:05:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VIO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
-|**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|
-|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360v1](http://arxiv.org/abs/2408.12360v1)|null|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
+|**2024-08-23**|**Map-Free Visual Relocalization Enhanced by Instance Knowledge and Depth Knowledge**|Mingyu Xiao et.al.|[2408.13085v1](http://arxiv.org/abs/2408.13085v1)|null|
+|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
+|**2024-08-23**|**The Velocity Aberration Effect of the CSST Main Survey Camera**|Hui-Mei Feng et.al.|[2408.12929v1](http://arxiv.org/abs/2408.12929v1)|null|
+|**2024-08-23**|**Underwater SONAR Image Classification and Analysis using LIME-based Explainable Artificial Intelligence**|Purushothaman Natarajan et.al.|[2408.12837v1](http://arxiv.org/abs/2408.12837v1)|null|
+|**2024-08-23**|**Unveiling the nature of cathodoluminescence from photon statistics**|Sotatsu Yanagimoto et.al.|[2408.12824v1](http://arxiv.org/abs/2408.12824v1)|null|
+|**2024-08-22**|**Visual Verity in AI-Generated Imagery: Computational Metrics and Human-Centric Analysis**|Memoona Aziz et.al.|[2408.12762v1](http://arxiv.org/abs/2408.12762v1)|null|
+|**2024-08-22**|**Programmable scanning diffuse speckle contrast imaging of cerebral blood flow**|Faezeh Akbari et.al.|[2408.12715v1](http://arxiv.org/abs/2408.12715v1)|null|
+|**2024-08-22**|**A candidate dark matter deficient dwarf galaxy in the Fornax cluster identified through overluminous star clusters**|Aaron J. Romanowsky et.al.|[2408.12663v1](http://arxiv.org/abs/2408.12663v1)|null|
+|**2024-08-22**|**DreamCinema: Cinematic Transfer with Free Camera and 3D Character**|Weiliang Chen et.al.|[2408.12601v1](http://arxiv.org/abs/2408.12601v1)|null|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
+|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
+|**2024-08-22**|**Robotic Eye-in-hand Visual Servo Axially Aligning Nasopharyngeal Swabs with the Nasal Cavity**|Peter Q. Lee et.al.|[2408.12437v1](http://arxiv.org/abs/2408.12437v1)|null|
+|**2024-08-22**|**Performance of the Southern Astrophysical Research Telescope Speckle Instrument**|Andrei Tokovinin et.al.|[2408.12384v1](http://arxiv.org/abs/2408.12384v1)|null|
+|**2024-08-22**|**Vision-Based Detection of Uncooperative Targets and Components on Small Satellites**|Hannah Grauer et.al.|[2408.12084v1](http://arxiv.org/abs/2408.12084v1)|null|
 |**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
-|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
-|**2024-08-21**|**The vertical velocity skewness in the atmospheric boundary layer without buoyancy and Coriolis effects**|Elia Buono et.al.|[2408.11887v1](http://arxiv.org/abs/2408.11887v1)|null|
-|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
-|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
-|**2024-08-21**|**Harvesting asymmetric steering via non-identical detectors**|Shu-Min Wu et.al.|[2408.11277v1](http://arxiv.org/abs/2408.11277v1)|null|
-|**2024-08-20**|**A dissipation-induced superradiant transition in a strontium cavity-QED system**|Eric Yilun Song et.al.|[2408.11086v1](http://arxiv.org/abs/2408.11086v1)|null|
-|**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
-|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
-|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
-|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
-|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
-|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
-|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
-|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
-|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
-|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
-|**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
-|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
-|**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
-|**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
-|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|
-|**2024-08-12**|**Galileo's Ship and the Relativity Principle**|S. Murgueitio Ramírez et.al.|[2408.06439v1](http://arxiv.org/abs/2408.06439v1)|null|
-|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|
-|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
-|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
-|**2024-08-11**|**Nonrelativistic limit of QFT in curved spacetime**|Riccardo Falcone et.al.|[2408.05757v1](http://arxiv.org/abs/2408.05757v1)|null|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
+|**2024-08-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al.|[2408.11958v1](http://arxiv.org/abs/2408.11958v1)|null|
+|**2024-08-21**|**SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset**|Jinsub Yim et.al.|[2408.11814v1](http://arxiv.org/abs/2408.11814v1)|null|
+|**2024-08-21**|**ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**|Shiqi Yang et.al.|[2408.11805v1](http://arxiv.org/abs/2408.11805v1)|null|
+|**2024-08-21**|**Scalable parallel measurement of individual nitrogen-vacancy centers**|Matthew Cambria et.al.|[2408.11715v2](http://arxiv.org/abs/2408.11715v2)|null|
+|**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
+|**2024-08-21**|**Massively multiplexed nanoscale magnetometry with diamond quantum sensors**|Kai-Hung Cheng et.al.|[2408.11666v1](http://arxiv.org/abs/2408.11666v1)|null|
+|**2024-08-21**|**Optimizing QoS in HD Map Updates: Cross-Layer Multi-Agent with Hierarchical and Independent Learning**|Jeffrey Redondo et.al.|[2408.11605v1](http://arxiv.org/abs/2408.11605v1)|null|
+|**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
+|**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559v1](http://arxiv.org/abs/2408.11559v1)|null|
+|**2024-08-21**|**MeTTA: Single-View to 3D Textured Mesh Reconstruction with Test-Time Adaptation**|Kim Yu-Ji et.al.|[2408.11465v1](http://arxiv.org/abs/2408.11465v1)|null|
+|**2024-08-21**|**Long-Range Vision-Based UAV-assisted Localization for Unmanned Surface Vehicles**|Waseem Akram et.al.|[2408.11429v1](http://arxiv.org/abs/2408.11429v1)|null|
+|**2024-08-21**|**Pano2Room: Novel View Synthesis from a Single Indoor Panorama**|Guo Pu et.al.|[2408.11413v1](http://arxiv.org/abs/2408.11413v1)|[link](https://github.com/trickygo/pano2room)|
+|**2024-08-21**|**SelfDRSC++: Self-Supervised Learning for Dual Reversed Rolling Shutter Correction**|Wei Shang et.al.|[2408.11411v1](http://arxiv.org/abs/2408.11411v1)|[link](https://github.com/shangwei5/selfdrsc_plusplus)|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,36 +107,36 @@
 |**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
 |**2024-07-26**|**Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation**|Aditya Penumarti et.al.|[2407.19046v1](http://arxiv.org/abs/2407.19046v1)|null|
 
-### Visual Localization
+### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
-|**2024-08-23**|**Map-Free Visual Relocalization Enhanced by Instance Knowledge and Depth Knowledge**|Mingyu Xiao et.al.|[2408.13085v1](http://arxiv.org/abs/2408.13085v1)|null|
-|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
-|**2024-08-23**|**The Velocity Aberration Effect of the CSST Main Survey Camera**|Hui-Mei Feng et.al.|[2408.12929v1](http://arxiv.org/abs/2408.12929v1)|null|
-|**2024-08-23**|**Underwater SONAR Image Classification and Analysis using LIME-based Explainable Artificial Intelligence**|Purushothaman Natarajan et.al.|[2408.12837v1](http://arxiv.org/abs/2408.12837v1)|null|
-|**2024-08-23**|**Unveiling the nature of cathodoluminescence from photon statistics**|Sotatsu Yanagimoto et.al.|[2408.12824v1](http://arxiv.org/abs/2408.12824v1)|null|
-|**2024-08-22**|**Visual Verity in AI-Generated Imagery: Computational Metrics and Human-Centric Analysis**|Memoona Aziz et.al.|[2408.12762v1](http://arxiv.org/abs/2408.12762v1)|null|
-|**2024-08-22**|**Programmable scanning diffuse speckle contrast imaging of cerebral blood flow**|Faezeh Akbari et.al.|[2408.12715v1](http://arxiv.org/abs/2408.12715v1)|null|
-|**2024-08-22**|**A candidate dark matter deficient dwarf galaxy in the Fornax cluster identified through overluminous star clusters**|Aaron J. Romanowsky et.al.|[2408.12663v1](http://arxiv.org/abs/2408.12663v1)|null|
-|**2024-08-22**|**DreamCinema: Cinematic Transfer with Free Camera and 3D Character**|Weiliang Chen et.al.|[2408.12601v1](http://arxiv.org/abs/2408.12601v1)|null|
-|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
-|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
-|**2024-08-22**|**Robotic Eye-in-hand Visual Servo Axially Aligning Nasopharyngeal Swabs with the Nasal Cavity**|Peter Q. Lee et.al.|[2408.12437v1](http://arxiv.org/abs/2408.12437v1)|null|
-|**2024-08-22**|**Performance of the Southern Astrophysical Research Telescope Speckle Instrument**|Andrei Tokovinin et.al.|[2408.12384v1](http://arxiv.org/abs/2408.12384v1)|null|
-|**2024-08-22**|**Vision-Based Detection of Uncooperative Targets and Components on Small Satellites**|Hannah Grauer et.al.|[2408.12084v1](http://arxiv.org/abs/2408.12084v1)|null|
+|**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
+|**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360v1](http://arxiv.org/abs/2408.12360v1)|null|
 |**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
-|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
-|**2024-08-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al.|[2408.11958v1](http://arxiv.org/abs/2408.11958v1)|null|
-|**2024-08-21**|**SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset**|Jinsub Yim et.al.|[2408.11814v1](http://arxiv.org/abs/2408.11814v1)|null|
-|**2024-08-21**|**ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**|Shiqi Yang et.al.|[2408.11805v1](http://arxiv.org/abs/2408.11805v1)|null|
-|**2024-08-21**|**Scalable parallel measurement of individual nitrogen-vacancy centers**|Matthew Cambria et.al.|[2408.11715v2](http://arxiv.org/abs/2408.11715v2)|null|
-|**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
-|**2024-08-21**|**Massively multiplexed nanoscale magnetometry with diamond quantum sensors**|Kai-Hung Cheng et.al.|[2408.11666v1](http://arxiv.org/abs/2408.11666v1)|null|
-|**2024-08-21**|**Optimizing QoS in HD Map Updates: Cross-Layer Multi-Agent with Hierarchical and Independent Learning**|Jeffrey Redondo et.al.|[2408.11605v1](http://arxiv.org/abs/2408.11605v1)|null|
-|**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
-|**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559v1](http://arxiv.org/abs/2408.11559v1)|null|
-|**2024-08-21**|**MeTTA: Single-View to 3D Textured Mesh Reconstruction with Test-Time Adaptation**|Kim Yu-Ji et.al.|[2408.11465v1](http://arxiv.org/abs/2408.11465v1)|null|
-|**2024-08-21**|**Long-Range Vision-Based UAV-assisted Localization for Unmanned Surface Vehicles**|Waseem Akram et.al.|[2408.11429v1](http://arxiv.org/abs/2408.11429v1)|null|
-|**2024-08-21**|**Pano2Room: Novel View Synthesis from a Single Indoor Panorama**|Guo Pu et.al.|[2408.11413v1](http://arxiv.org/abs/2408.11413v1)|[link](https://github.com/trickygo/pano2room)|
-|**2024-08-21**|**SelfDRSC++: Self-Supervised Learning for Dual Reversed Rolling Shutter Correction**|Wei Shang et.al.|[2408.11411v1](http://arxiv.org/abs/2408.11411v1)|[link](https://github.com/shangwei5/selfdrsc_plusplus)|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
+|**2024-08-21**|**The vertical velocity skewness in the atmospheric boundary layer without buoyancy and Coriolis effects**|Elia Buono et.al.|[2408.11887v1](http://arxiv.org/abs/2408.11887v1)|null|
+|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
+|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
+|**2024-08-21**|**Harvesting asymmetric steering via non-identical detectors**|Shu-Min Wu et.al.|[2408.11277v1](http://arxiv.org/abs/2408.11277v1)|null|
+|**2024-08-20**|**A dissipation-induced superradiant transition in a strontium cavity-QED system**|Eric Yilun Song et.al.|[2408.11086v1](http://arxiv.org/abs/2408.11086v1)|null|
+|**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
+|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
+|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
+|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
+|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
+|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
+|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
+|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
+|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
+|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
+|**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
+|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
+|**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
+|**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
+|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|
+|**2024-08-12**|**Galileo's Ship and the Relativity Principle**|S. Murgueitio Ramírez et.al.|[2408.06439v1](http://arxiv.org/abs/2408.06439v1)|null|
+|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
+|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764v1](http://arxiv.org/abs/2408.05764v1)|[link](https://github.com/ethz-asl/rio)|
+|**2024-08-11**|**Nonrelativistic limit of QFT in curved spacetime**|Riccardo Falcone et.al.|[2408.05757v1](http://arxiv.org/abs/2408.05757v1)|null|
