@@ -24,7 +24,7 @@
 |**2024-08-21**|**ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**|Shiqi Yang et.al.|[2408.11805v1](http://arxiv.org/abs/2408.11805v1)|null|
 |**2024-08-21**|**Scalable parallel measurement of individual nitrogen-vacancy centers**|Matthew Cambria et.al.|[2408.11715v2](http://arxiv.org/abs/2408.11715v2)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
-|**2024-08-21**|**Massively multiplexed nanoscale magnetometry with diamond quantum sensors**|Kai-Hung Cheng et.al.|[2408.11666v1](http://arxiv.org/abs/2408.11666v1)|null|
+|**2024-08-21**|**Massively multiplexed nanoscale magnetometry with diamond quantum sensors**|Kai-Hung Cheng et.al.|[2408.11666v2](http://arxiv.org/abs/2408.11666v2)|null|
 |**2024-08-21**|**Optimizing QoS in HD Map Updates: Cross-Layer Multi-Agent with Hierarchical and Independent Learning**|Jeffrey Redondo et.al.|[2408.11605v1](http://arxiv.org/abs/2408.11605v1)|null|
 |**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
 |**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559v1](http://arxiv.org/abs/2408.11559v1)|null|
