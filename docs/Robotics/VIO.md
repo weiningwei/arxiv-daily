@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Energy spectrum of two-dimensional isotropic rapidly rotating turbulence**|Peiyang Li et.al.|[2408.15106v1](http://arxiv.org/abs/2408.15106v1)|null|
+|**2024-08-27**|**Three-Dimensional Vehicle Dynamics State Estimation for High-Speed Race Cars under varying Signal Quality**|Sven Goblirsch et.al.|[2408.14885v1](http://arxiv.org/abs/2408.14885v1)|null|
+|**2024-08-26**|**Route to chaos and resonant triads interaction in a truncated Rotating Nonlinear shallow-water model**|Francesco Carbone et.al.|[2408.14495v1](http://arxiv.org/abs/2408.14495v1)|null|
 |**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081v1](http://arxiv.org/abs/2408.14081v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
 |**2024-08-23**|**Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline**|Adam Scicluna et.al.|[2408.13394v1](http://arxiv.org/abs/2408.13394v1)|null|
@@ -29,6 +32,3 @@
 |**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
 |**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
 |**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
-|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|
-|**2024-08-12**|**Galileo's Ship and the Relativity Principle**|S. Murgueitio Ramírez et.al.|[2408.06439v1](http://arxiv.org/abs/2408.06439v1)|null|
-|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v2](http://arxiv.org/abs/2408.06321v2)|null|

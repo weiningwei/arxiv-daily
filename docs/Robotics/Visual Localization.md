@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Regaining Trust: Impact of Transparent User Interface Design on Acceptance of Camera-Based In-Car Health Monitoring Systems**|Hauke Sandhaus et.al.|[2408.15177v1](http://arxiv.org/abs/2408.15177v1)|null|
+|**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997v1](http://arxiv.org/abs/2408.14997v1)|null|
+|**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948v1](http://arxiv.org/abs/2408.14948v1)|[link](https://github.com/PathPlanning/TP-SWAP)|
+|**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|[link](https://github.com/wisegamgee/hyperad)|
+|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
+|**2024-08-27**|**Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930v1](http://arxiv.org/abs/2408.14930v1)|[link](https://github.com/intelpro/cmta)|
+|**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916v1](http://arxiv.org/abs/2408.14916v1)|[link](https://github.com/intelpro/elednet)|
+|**2024-08-27**|**Time-space encoded readout for noise suppression and scalable scanning in optically active solid-state spin systems**|Joachim P. Leibold et.al.|[2408.14894v1](http://arxiv.org/abs/2408.14894v1)|null|
+|**2024-08-27**|**The Fluorescence Camera of the POEMMA-Balloon with Radio (PBR): Design and Scientific goals**|Matteo Battisti et.al.|[2408.14867v1](http://arxiv.org/abs/2408.14867v1)|null|
+|**2024-08-27**|**Data downlink prioritization using image classification on-board a 6U CubeSat**|Keenan A. A. Chatar et.al.|[2408.14865v1](http://arxiv.org/abs/2408.14865v1)|null|
+|**2024-08-27**|**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**|Ziteng Cui et.al.|[2408.14802v1](http://arxiv.org/abs/2408.14802v1)|[link](https://github.com/cuiziteng/eccv_raw_adapter)|
+|**2024-08-26**|**Physically Feasible Semantic Segmentation**|Shamik Basu et.al.|[2408.14672v1](http://arxiv.org/abs/2408.14672v1)|[link](https://github.com/shamik-97/valeo)|
+|**2024-08-26**|**Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities**|Yidi Li et.al.|[2408.14585v1](http://arxiv.org/abs/2408.14585v1)|null|
+|**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v1](http://arxiv.org/abs/2408.14578v1)|null|
 |**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348v1](http://arxiv.org/abs/2408.14348v1)|null|
 |**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|[link](https://github.com/tecsar-uncc/pheva)|
 |**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279v1](http://arxiv.org/abs/2408.14279v1)|null|
@@ -18,17 +32,3 @@
 |**2024-08-23**|**Map-Free Visual Relocalization Enhanced by Instance Knowledge and Depth Knowledge**|Mingyu Xiao et.al.|[2408.13085v1](http://arxiv.org/abs/2408.13085v1)|null|
 |**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
 |**2024-08-23**|**The Velocity Aberration Effect of the CSST Main Survey Camera**|Hui-Mei Feng et.al.|[2408.12929v1](http://arxiv.org/abs/2408.12929v1)|null|
-|**2024-08-23**|**Underwater SONAR Image Classification and Analysis using LIME-based Explainable Artificial Intelligence**|Purushothaman Natarajan et.al.|[2408.12837v1](http://arxiv.org/abs/2408.12837v1)|[link](https://github.com/Purushothaman-natarajan/Under-water-sonar-image-classification)|
-|**2024-08-23**|**Unveiling the nature of cathodoluminescence from photon statistics**|Sotatsu Yanagimoto et.al.|[2408.12824v1](http://arxiv.org/abs/2408.12824v1)|null|
-|**2024-08-22**|**Visual Verity in AI-Generated Imagery: Computational Metrics and Human-Centric Analysis**|Memoona Aziz et.al.|[2408.12762v1](http://arxiv.org/abs/2408.12762v1)|null|
-|**2024-08-22**|**Programmable scanning diffuse speckle contrast imaging of cerebral blood flow**|Faezeh Akbari et.al.|[2408.12715v1](http://arxiv.org/abs/2408.12715v1)|null|
-|**2024-08-22**|**A candidate dark matter deficient dwarf galaxy in the Fornax cluster identified through overluminous star clusters**|Aaron J. Romanowsky et.al.|[2408.12663v1](http://arxiv.org/abs/2408.12663v1)|null|
-|**2024-08-22**|**DreamCinema: Cinematic Transfer with Free Camera and 3D Character**|Weiliang Chen et.al.|[2408.12601v1](http://arxiv.org/abs/2408.12601v1)|null|
-|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
-|**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513v1](http://arxiv.org/abs/2408.12513v1)|null|
-|**2024-08-22**|**Robotic Eye-in-hand Visual Servo Axially Aligning Nasopharyngeal Swabs with the Nasal Cavity**|Peter Q. Lee et.al.|[2408.12437v1](http://arxiv.org/abs/2408.12437v1)|null|
-|**2024-08-22**|**Performance of the Southern Astrophysical Research Telescope Speckle Instrument**|Andrei Tokovinin et.al.|[2408.12384v1](http://arxiv.org/abs/2408.12384v1)|null|
-|**2024-08-22**|**Vision-Based Detection of Uncooperative Targets and Components on Small Satellites**|Hannah Grauer et.al.|[2408.12084v1](http://arxiv.org/abs/2408.12084v1)|null|
-|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
-|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
-|**2024-08-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al.|[2408.11958v1](http://arxiv.org/abs/2408.11958v1)|null|
