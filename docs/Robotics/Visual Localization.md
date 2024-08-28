@@ -11,7 +11,7 @@
 |**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912v1](http://arxiv.org/abs/2408.13912v1)|null|
 |**2024-08-25**|**PIE: Parkour with Implicit-Explicit Learning Framework for Legged Robots**|Shixin Luo et.al.|[2408.13740v2](http://arxiv.org/abs/2408.13740v2)|null|
 |**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699v1](http://arxiv.org/abs/2408.13699v1)|null|
-|**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627v1](http://arxiv.org/abs/2408.13627v1)|[link](https://github.com/chakravarthi589/event-based-vision_resources)|
+|**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627v2](http://arxiv.org/abs/2408.13627v2)|[link](https://github.com/chakravarthi589/event-based-vision_resources)|
 |**2024-08-24**|**Exploring the nature of an ultraluminous X-ray source in NGC 628**|Hasan Avdan et.al.|[2408.13503v1](http://arxiv.org/abs/2408.13503v1)|null|
 |**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379v1](http://arxiv.org/abs/2408.13379v1)|null|
 |**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
