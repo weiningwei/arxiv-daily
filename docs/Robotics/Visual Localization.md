@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
+|**2024-08-28**|**DiffAge3D: Diffusion-based 3D-aware Face Aging**|Junaid Wahid et.al.|[2408.15922v1](http://arxiv.org/abs/2408.15922v1)|null|
+|**2024-08-28**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911v1](http://arxiv.org/abs/2408.15911v1)|null|
+|**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810v1](http://arxiv.org/abs/2408.15810v1)|[link](https://github.com/laurabragagnolo/human3.6m-occluded)|
+|**2024-08-28**|**Started Off Local, Now We're in the Cloud: Forensic Examination of the Amazon Echo Show 15 Smart Display**|Jona Crasselt et.al.|[2408.15768v1](http://arxiv.org/abs/2408.15768v1)|null|
+|**2024-08-28**|**DEAR: Depth-Enhanced Action Recognition**|Sadegh Rahmaniboldaji et.al.|[2408.15679v1](http://arxiv.org/abs/2408.15679v1)|[link](https://github.com/sadeghrahmanib/dear)|
+|**2024-08-28**|**NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks**|Xiao Li et.al.|[2408.15663v1](http://arxiv.org/abs/2408.15663v1)|null|
+|**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637v1](http://arxiv.org/abs/2408.15637v1)|null|
+|**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605v1](http://arxiv.org/abs/2408.15605v1)|null|
+|**2024-08-28**|**On the Benefits of Visual Stabilization for Frame- and Event-based Perception**|Juan Pablo Rodriguez-Gomez et.al.|[2408.15602v1](http://arxiv.org/abs/2408.15602v1)|[link](https://github.com/tub-rip/visual_stabilization)|
+|**2024-08-28**|**Ray-Distance Volume Rendering for Neural Scene Reconstruction**|Ruihong Yin et.al.|[2408.15524v1](http://arxiv.org/abs/2408.15524v1)|null|
+|**2024-08-28**|**Depth-Weighted Detection of Behaviours of Risk in People with Dementia using Cameras**|Pratik K. Mishra et.al.|[2408.15519v1](http://arxiv.org/abs/2408.15519v1)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503v1](http://arxiv.org/abs/2408.15503v1)|null|
+|**2024-08-28**|**Dynamic Reconstruction from Neuromorphic Data**|Harbir Antil et.al.|[2408.15465v1](http://arxiv.org/abs/2408.15465v1)|null|
+|**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428v1](http://arxiv.org/abs/2408.15428v1)|null|
+|**2024-08-27**|**Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution**|Marcelo dos Santos et.al.|[2408.15386v1](http://arxiv.org/abs/2408.15386v1)|[link](https://github.com/marcelowds/fasr)|
 |**2024-08-27**|**Regaining Trust: Impact of Transparent User Interface Design on Acceptance of Camera-Based In-Car Health Monitoring Systems**|Hauke Sandhaus et.al.|[2408.15177v1](http://arxiv.org/abs/2408.15177v1)|null|
 |**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997v1](http://arxiv.org/abs/2408.14997v1)|null|
 |**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948v1](http://arxiv.org/abs/2408.14948v1)|[link](https://github.com/PathPlanning/TP-SWAP)|
@@ -16,19 +32,3 @@
 |**2024-08-26**|**Physically Feasible Semantic Segmentation**|Shamik Basu et.al.|[2408.14672v1](http://arxiv.org/abs/2408.14672v1)|[link](https://github.com/shamik-97/valeo)|
 |**2024-08-26**|**Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities**|Yidi Li et.al.|[2408.14585v1](http://arxiv.org/abs/2408.14585v1)|null|
 |**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v2](http://arxiv.org/abs/2408.14578v2)|null|
-|**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348v1](http://arxiv.org/abs/2408.14348v1)|null|
-|**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|[link](https://github.com/tecsar-uncc/pheva)|
-|**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279v1](http://arxiv.org/abs/2408.14279v1)|null|
-|**2024-08-26**|**NimbleD: Enhancing Self-supervised Monocular Depth Estimation with Pseudo-labels and Large-scale Video Pre-training**|Albert Luginov et.al.|[2408.14177v1](http://arxiv.org/abs/2408.14177v1)|null|
-|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050v1](http://arxiv.org/abs/2408.14050v1)|null|
-|**2024-08-26**|**The Calibration of Polycyclic Aromatic Hydrocarbon Dust Emission as a Star Formation Rate Indicator in the AKARI NEP Survey**|Helen Kyung Kim et.al.|[2408.14005v1](http://arxiv.org/abs/2408.14005v1)|null|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**|Brandon Smart et.al.|[2408.13912v2](http://arxiv.org/abs/2408.13912v2)|null|
-|**2024-08-25**|**PIE: Parkour with Implicit-Explicit Learning Framework for Legged Robots**|Shixin Luo et.al.|[2408.13740v2](http://arxiv.org/abs/2408.13740v2)|null|
-|**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699v1](http://arxiv.org/abs/2408.13699v1)|null|
-|**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627v2](http://arxiv.org/abs/2408.13627v2)|[link](https://github.com/chakravarthi589/event-based-vision_resources)|
-|**2024-08-24**|**Exploring the nature of an ultraluminous X-ray source in NGC 628**|Hasan Avdan et.al.|[2408.13503v1](http://arxiv.org/abs/2408.13503v1)|null|
-|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379v1](http://arxiv.org/abs/2408.13379v1)|null|
-|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
-|**2024-08-23**|**Map-Free Visual Relocalization Enhanced by Instance Knowledge and Depth Knowledge**|Mingyu Xiao et.al.|[2408.13085v1](http://arxiv.org/abs/2408.13085v1)|null|
-|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
-|**2024-08-23**|**The Velocity Aberration Effect of the CSST Main Survey Camera**|Hui-Mei Feng et.al.|[2408.12929v1](http://arxiv.org/abs/2408.12929v1)|null|

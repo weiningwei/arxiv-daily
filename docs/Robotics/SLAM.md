@@ -2,6 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-28**|**BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR**|Miguel Arturo Vega Torres et.al.|[2408.15870v1](http://arxiv.org/abs/2408.15870v1)|[link](https://github.com/MigVega/SLAM2REF)|
+|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v1](http://arxiv.org/abs/2408.15761v1)|null|
+|**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605v1](http://arxiv.org/abs/2408.15605v1)|null|
+|**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583v1](http://arxiv.org/abs/2408.15583v1)|null|
 |**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|[link](https://github.com/hku-mars/fast-livo2)|
 |**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518v1](http://arxiv.org/abs/2408.14518v1)|null|
@@ -11,7 +15,7 @@
 |**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576v1](http://arxiv.org/abs/2408.11576v1)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380v1](http://arxiv.org/abs/2408.11380v1)|null|
 |**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|[link](https://github.com/GradientSpaces/LoopSplat)|
-|**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727v1](http://arxiv.org/abs/2408.09727v1)|null|
+|**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727v1](http://arxiv.org/abs/2408.09727v1)|[link](https://github.com/sangwoojung98/3d_map_evaluation)|
 |**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191v1](http://arxiv.org/abs/2408.09191v1)|null|
 |**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
 |**2024-08-14**|**Inverse k-visibility for RSSI-based Indoor Geometric Mapping**|Junseo Kim et.al.|[2408.07757v1](http://arxiv.org/abs/2408.07757v1)|null|
@@ -28,7 +32,3 @@
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|[link](https://github.com/princeton-vl/dpvo)|
 |**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu et.al.|[2408.01544v1](http://arxiv.org/abs/2408.01544v1)|null|
 |**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis et.al.|[2408.01126v2](http://arxiv.org/abs/2408.01126v2)|null|
-|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
-|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538v1](http://arxiv.org/abs/2408.00538v1)|null|
-|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|[link](https://github.com/luohongk/supervins)|
-|**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
