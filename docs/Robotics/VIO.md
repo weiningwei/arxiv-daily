@@ -6,7 +6,7 @@
 |**2024-08-27**|**Three-Dimensional Vehicle Dynamics State Estimation for High-Speed Race Cars under varying Signal Quality**|Sven Goblirsch et.al.|[2408.14885v1](http://arxiv.org/abs/2408.14885v1)|null|
 |**2024-08-26**|**Route to chaos and resonant triads interaction in a truncated Rotating Nonlinear shallow-water model**|Francesco Carbone et.al.|[2408.14495v1](http://arxiv.org/abs/2408.14495v1)|null|
 |**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081v1](http://arxiv.org/abs/2408.14081v1)|null|
-|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|[link](https://github.com/hku-mars/fast-livo2)|
 |**2024-08-23**|**Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline**|Adam Scicluna et.al.|[2408.13394v1](http://arxiv.org/abs/2408.13394v1)|null|
 |**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
 |**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|

@@ -7,7 +7,7 @@
 |**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948v1](http://arxiv.org/abs/2408.14948v1)|[link](https://github.com/PathPlanning/TP-SWAP)|
 |**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|[link](https://github.com/wisegamgee/hyperad)|
 |**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
-|**2024-08-27**|**Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930v1](http://arxiv.org/abs/2408.14930v1)|[link](https://github.com/intelpro/cmta)|
+|**2024-08-27**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930v2](http://arxiv.org/abs/2408.14930v2)|[link](https://github.com/intelpro/cmta)|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916v1](http://arxiv.org/abs/2408.14916v1)|[link](https://github.com/intelpro/elednet)|
 |**2024-08-27**|**Time-space encoded readout for noise suppression and scalable scanning in optically active solid-state spin systems**|Joachim P. Leibold et.al.|[2408.14894v1](http://arxiv.org/abs/2408.14894v1)|null|
 |**2024-08-27**|**The Fluorescence Camera of the POEMMA-Balloon with Radio (PBR): Design and Scientific goals**|Matteo Battisti et.al.|[2408.14867v1](http://arxiv.org/abs/2408.14867v1)|null|
@@ -22,7 +22,7 @@
 |**2024-08-26**|**NimbleD: Enhancing Self-supervised Monocular Depth Estimation with Pseudo-labels and Large-scale Video Pre-training**|Albert Luginov et.al.|[2408.14177v1](http://arxiv.org/abs/2408.14177v1)|null|
 |**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050v1](http://arxiv.org/abs/2408.14050v1)|null|
 |**2024-08-26**|**The Calibration of Polycyclic Aromatic Hydrocarbon Dust Emission as a Star Formation Rate Indicator in the AKARI NEP Survey**|Helen Kyung Kim et.al.|[2408.14005v1](http://arxiv.org/abs/2408.14005v1)|null|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912v1](http://arxiv.org/abs/2408.13912v1)|null|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**|Brandon Smart et.al.|[2408.13912v2](http://arxiv.org/abs/2408.13912v2)|null|
 |**2024-08-25**|**PIE: Parkour with Implicit-Explicit Learning Framework for Legged Robots**|Shixin Luo et.al.|[2408.13740v2](http://arxiv.org/abs/2408.13740v2)|null|
 |**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699v1](http://arxiv.org/abs/2408.13699v1)|null|
 |**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627v2](http://arxiv.org/abs/2408.13627v2)|[link](https://github.com/chakravarthi589/event-based-vision_resources)|
