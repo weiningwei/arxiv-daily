@@ -15,7 +15,7 @@
 |**2024-08-27**|**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**|Ziteng Cui et.al.|[2408.14802v1](http://arxiv.org/abs/2408.14802v1)|[link](https://github.com/cuiziteng/eccv_raw_adapter)|
 |**2024-08-26**|**Physically Feasible Semantic Segmentation**|Shamik Basu et.al.|[2408.14672v1](http://arxiv.org/abs/2408.14672v1)|[link](https://github.com/shamik-97/valeo)|
 |**2024-08-26**|**Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities**|Yidi Li et.al.|[2408.14585v1](http://arxiv.org/abs/2408.14585v1)|null|
-|**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v1](http://arxiv.org/abs/2408.14578v1)|null|
+|**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v2](http://arxiv.org/abs/2408.14578v2)|null|
 |**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348v1](http://arxiv.org/abs/2408.14348v1)|null|
 |**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|[link](https://github.com/tecsar-uncc/pheva)|
 |**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279v1](http://arxiv.org/abs/2408.14279v1)|null|

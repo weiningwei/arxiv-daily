@@ -1,9 +1,77 @@
 # arxiv-daily
- Automated deployment @ 2024-08-29 08:38:28 Asia/Shanghai
+ Automated deployment @ 2024-08-29 09:55:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Regaining Trust: Impact of Transparent User Interface Design on Acceptance of Camera-Based In-Car Health Monitoring Systems**|Hauke Sandhaus et.al.|[2408.15177v1](http://arxiv.org/abs/2408.15177v1)|null|
+|**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997v1](http://arxiv.org/abs/2408.14997v1)|null|
+|**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948v1](http://arxiv.org/abs/2408.14948v1)|[link](https://github.com/PathPlanning/TP-SWAP)|
+|**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|[link](https://github.com/wisegamgee/hyperad)|
+|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
+|**2024-08-27**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930v2](http://arxiv.org/abs/2408.14930v2)|[link](https://github.com/intelpro/cmta)|
+|**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916v1](http://arxiv.org/abs/2408.14916v1)|[link](https://github.com/intelpro/elednet)|
+|**2024-08-27**|**Time-space encoded readout for noise suppression and scalable scanning in optically active solid-state spin systems**|Joachim P. Leibold et.al.|[2408.14894v1](http://arxiv.org/abs/2408.14894v1)|null|
+|**2024-08-27**|**The Fluorescence Camera of the POEMMA-Balloon with Radio (PBR): Design and Scientific goals**|Matteo Battisti et.al.|[2408.14867v1](http://arxiv.org/abs/2408.14867v1)|null|
+|**2024-08-27**|**Data downlink prioritization using image classification on-board a 6U CubeSat**|Keenan A. A. Chatar et.al.|[2408.14865v1](http://arxiv.org/abs/2408.14865v1)|null|
+|**2024-08-27**|**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**|Ziteng Cui et.al.|[2408.14802v1](http://arxiv.org/abs/2408.14802v1)|[link](https://github.com/cuiziteng/eccv_raw_adapter)|
+|**2024-08-26**|**Physically Feasible Semantic Segmentation**|Shamik Basu et.al.|[2408.14672v1](http://arxiv.org/abs/2408.14672v1)|[link](https://github.com/shamik-97/valeo)|
+|**2024-08-26**|**Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities**|Yidi Li et.al.|[2408.14585v1](http://arxiv.org/abs/2408.14585v1)|null|
+|**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v2](http://arxiv.org/abs/2408.14578v2)|null|
+|**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348v1](http://arxiv.org/abs/2408.14348v1)|null|
+|**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|[link](https://github.com/tecsar-uncc/pheva)|
+|**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279v1](http://arxiv.org/abs/2408.14279v1)|null|
+|**2024-08-26**|**NimbleD: Enhancing Self-supervised Monocular Depth Estimation with Pseudo-labels and Large-scale Video Pre-training**|Albert Luginov et.al.|[2408.14177v1](http://arxiv.org/abs/2408.14177v1)|null|
+|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050v1](http://arxiv.org/abs/2408.14050v1)|null|
+|**2024-08-26**|**The Calibration of Polycyclic Aromatic Hydrocarbon Dust Emission as a Star Formation Rate Indicator in the AKARI NEP Survey**|Helen Kyung Kim et.al.|[2408.14005v1](http://arxiv.org/abs/2408.14005v1)|null|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**|Brandon Smart et.al.|[2408.13912v2](http://arxiv.org/abs/2408.13912v2)|null|
+|**2024-08-25**|**PIE: Parkour with Implicit-Explicit Learning Framework for Legged Robots**|Shixin Luo et.al.|[2408.13740v2](http://arxiv.org/abs/2408.13740v2)|null|
+|**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699v1](http://arxiv.org/abs/2408.13699v1)|null|
+|**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627v2](http://arxiv.org/abs/2408.13627v2)|[link](https://github.com/chakravarthi589/event-based-vision_resources)|
+|**2024-08-24**|**Exploring the nature of an ultraluminous X-ray source in NGC 628**|Hasan Avdan et.al.|[2408.13503v1](http://arxiv.org/abs/2408.13503v1)|null|
+|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379v1](http://arxiv.org/abs/2408.13379v1)|null|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
+|**2024-08-23**|**Map-Free Visual Relocalization Enhanced by Instance Knowledge and Depth Knowledge**|Mingyu Xiao et.al.|[2408.13085v1](http://arxiv.org/abs/2408.13085v1)|null|
+|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
+|**2024-08-23**|**The Velocity Aberration Effect of the CSST Main Survey Camera**|Hui-Mei Feng et.al.|[2408.12929v1](http://arxiv.org/abs/2408.12929v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Energy spectrum of two-dimensional isotropic rapidly rotating turbulence**|Peiyang Li et.al.|[2408.15106v1](http://arxiv.org/abs/2408.15106v1)|null|
+|**2024-08-27**|**Three-Dimensional Vehicle Dynamics State Estimation for High-Speed Race Cars under varying Signal Quality**|Sven Goblirsch et.al.|[2408.14885v1](http://arxiv.org/abs/2408.14885v1)|null|
+|**2024-08-26**|**Route to chaos and resonant triads interaction in a truncated Rotating Nonlinear shallow-water model**|Francesco Carbone et.al.|[2408.14495v1](http://arxiv.org/abs/2408.14495v1)|null|
+|**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081v1](http://arxiv.org/abs/2408.14081v1)|null|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|[link](https://github.com/hku-mars/fast-livo2)|
+|**2024-08-23**|**Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline**|Adam Scicluna et.al.|[2408.13394v1](http://arxiv.org/abs/2408.13394v1)|null|
+|**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
+|**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360v1](http://arxiv.org/abs/2408.12360v1)|null|
+|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
+|**2024-08-21**|**The vertical velocity skewness in the atmospheric boundary layer without buoyancy and Coriolis effects**|Elia Buono et.al.|[2408.11887v1](http://arxiv.org/abs/2408.11887v1)|null|
+|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
+|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
+|**2024-08-21**|**Harvesting asymmetric steering via non-identical detectors**|Shu-Min Wu et.al.|[2408.11277v1](http://arxiv.org/abs/2408.11277v1)|null|
+|**2024-08-20**|**A dissipation-induced superradiant transition in a strontium cavity-QED system**|Eric Yilun Song et.al.|[2408.11086v2](http://arxiv.org/abs/2408.11086v2)|null|
+|**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
+|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
+|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
+|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
+|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
+|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
+|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
+|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
+|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
+|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
+|**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
+|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
+|**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
+|**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -39,40 +107,6 @@
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|[link](https://github.com/luohongk/supervins)|
 |**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
 
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-27**|**Regaining Trust: Impact of Transparent User Interface Design on Acceptance of Camera-Based In-Car Health Monitoring Systems**|Hauke Sandhaus et.al.|[2408.15177v1](http://arxiv.org/abs/2408.15177v1)|null|
-|**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997v1](http://arxiv.org/abs/2408.14997v1)|null|
-|**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948v1](http://arxiv.org/abs/2408.14948v1)|[link](https://github.com/PathPlanning/TP-SWAP)|
-|**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|[link](https://github.com/wisegamgee/hyperad)|
-|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
-|**2024-08-27**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930v2](http://arxiv.org/abs/2408.14930v2)|[link](https://github.com/intelpro/cmta)|
-|**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916v1](http://arxiv.org/abs/2408.14916v1)|[link](https://github.com/intelpro/elednet)|
-|**2024-08-27**|**Time-space encoded readout for noise suppression and scalable scanning in optically active solid-state spin systems**|Joachim P. Leibold et.al.|[2408.14894v1](http://arxiv.org/abs/2408.14894v1)|null|
-|**2024-08-27**|**The Fluorescence Camera of the POEMMA-Balloon with Radio (PBR): Design and Scientific goals**|Matteo Battisti et.al.|[2408.14867v1](http://arxiv.org/abs/2408.14867v1)|null|
-|**2024-08-27**|**Data downlink prioritization using image classification on-board a 6U CubeSat**|Keenan A. A. Chatar et.al.|[2408.14865v1](http://arxiv.org/abs/2408.14865v1)|null|
-|**2024-08-27**|**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**|Ziteng Cui et.al.|[2408.14802v1](http://arxiv.org/abs/2408.14802v1)|[link](https://github.com/cuiziteng/eccv_raw_adapter)|
-|**2024-08-26**|**Physically Feasible Semantic Segmentation**|Shamik Basu et.al.|[2408.14672v1](http://arxiv.org/abs/2408.14672v1)|[link](https://github.com/shamik-97/valeo)|
-|**2024-08-26**|**Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities**|Yidi Li et.al.|[2408.14585v1](http://arxiv.org/abs/2408.14585v1)|null|
-|**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v1](http://arxiv.org/abs/2408.14578v1)|null|
-|**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348v1](http://arxiv.org/abs/2408.14348v1)|null|
-|**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329v1](http://arxiv.org/abs/2408.14329v1)|[link](https://github.com/tecsar-uncc/pheva)|
-|**2024-08-26**|**Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes**|Chao Chen et.al.|[2408.14279v1](http://arxiv.org/abs/2408.14279v1)|null|
-|**2024-08-26**|**NimbleD: Enhancing Self-supervised Monocular Depth Estimation with Pseudo-labels and Large-scale Video Pre-training**|Albert Luginov et.al.|[2408.14177v1](http://arxiv.org/abs/2408.14177v1)|null|
-|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050v1](http://arxiv.org/abs/2408.14050v1)|null|
-|**2024-08-26**|**The Calibration of Polycyclic Aromatic Hydrocarbon Dust Emission as a Star Formation Rate Indicator in the AKARI NEP Survey**|Helen Kyung Kim et.al.|[2408.14005v1](http://arxiv.org/abs/2408.14005v1)|null|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**|Brandon Smart et.al.|[2408.13912v2](http://arxiv.org/abs/2408.13912v2)|null|
-|**2024-08-25**|**PIE: Parkour with Implicit-Explicit Learning Framework for Legged Robots**|Shixin Luo et.al.|[2408.13740v2](http://arxiv.org/abs/2408.13740v2)|null|
-|**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699v1](http://arxiv.org/abs/2408.13699v1)|null|
-|**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627v2](http://arxiv.org/abs/2408.13627v2)|[link](https://github.com/chakravarthi589/event-based-vision_resources)|
-|**2024-08-24**|**Exploring the nature of an ultraluminous X-ray source in NGC 628**|Hasan Avdan et.al.|[2408.13503v1](http://arxiv.org/abs/2408.13503v1)|null|
-|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379v1](http://arxiv.org/abs/2408.13379v1)|null|
-|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
-|**2024-08-23**|**Map-Free Visual Relocalization Enhanced by Instance Knowledge and Depth Knowledge**|Mingyu Xiao et.al.|[2408.13085v1](http://arxiv.org/abs/2408.13085v1)|null|
-|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
-|**2024-08-23**|**The Velocity Aberration Effect of the CSST Main Survey Camera**|Hui-Mei Feng et.al.|[2408.12929v1](http://arxiv.org/abs/2408.12929v1)|null|
-
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,37 +140,3 @@
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
 |**2024-07-15**|**Walk along: An Experiment on Controlling the Mobile Robot 'Spot' with Voice and Gestures**|Renchi Zhang et.al.|[2407.11218v2](http://arxiv.org/abs/2407.11218v2)|null|
 |**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-27**|**Energy spectrum of two-dimensional isotropic rapidly rotating turbulence**|Peiyang Li et.al.|[2408.15106v1](http://arxiv.org/abs/2408.15106v1)|null|
-|**2024-08-27**|**Three-Dimensional Vehicle Dynamics State Estimation for High-Speed Race Cars under varying Signal Quality**|Sven Goblirsch et.al.|[2408.14885v1](http://arxiv.org/abs/2408.14885v1)|null|
-|**2024-08-26**|**Route to chaos and resonant triads interaction in a truncated Rotating Nonlinear shallow-water model**|Francesco Carbone et.al.|[2408.14495v1](http://arxiv.org/abs/2408.14495v1)|null|
-|**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081v1](http://arxiv.org/abs/2408.14081v1)|null|
-|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|[link](https://github.com/hku-mars/fast-livo2)|
-|**2024-08-23**|**Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline**|Adam Scicluna et.al.|[2408.13394v1](http://arxiv.org/abs/2408.13394v1)|null|
-|**2024-08-22**|**Maximal steered coherence in the background of Schwarzschild space-time**|Ming-Ming Du et.al.|[2408.12395v1](http://arxiv.org/abs/2408.12395v1)|null|
-|**2024-08-22**|**Characterization, Experimental Validation and Pilot User Study of the Vibro-Inertial Bionic Enhancement System (VIBES)**|Alessia S. Ivani et.al.|[2408.12375v1](http://arxiv.org/abs/2408.12375v1)|null|
-|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360v1](http://arxiv.org/abs/2408.12360v1)|null|
-|**2024-08-21**|**Optimized Kalman Filter based State Estimation and Height Control in Hopping Robots**|Samuel Burns et.al.|[2408.11978v1](http://arxiv.org/abs/2408.11978v1)|null|
-|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
-|**2024-08-21**|**The vertical velocity skewness in the atmospheric boundary layer without buoyancy and Coriolis effects**|Elia Buono et.al.|[2408.11887v1](http://arxiv.org/abs/2408.11887v1)|null|
-|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
-|**2024-08-21**|**AS-LIO: Spatial Overlap Guided Adaptive Sliding Window LiDAR-Inertial Odometry for Aggressive FOV Variation**|Tianxiang Zhang et.al.|[2408.11426v1](http://arxiv.org/abs/2408.11426v1)|null|
-|**2024-08-21**|**Harvesting asymmetric steering via non-identical detectors**|Shu-Min Wu et.al.|[2408.11277v1](http://arxiv.org/abs/2408.11277v1)|null|
-|**2024-08-20**|**A dissipation-induced superradiant transition in a strontium cavity-QED system**|Eric Yilun Song et.al.|[2408.11086v2](http://arxiv.org/abs/2408.11086v2)|null|
-|**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
-|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
-|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
-|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
-|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
-|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
-|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
-|**2024-08-15**|**Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids**|Peter Angerman et.al.|[2408.08285v1](http://arxiv.org/abs/2408.08285v1)|null|
-|**2024-08-15**|**Intrusions and turbulent mixing above a small Eastern Mediterranean seafloor-slope**|Hans van Haren et.al.|[2408.07992v1](http://arxiv.org/abs/2408.07992v1)|null|
-|**2024-08-14**|**The physical mechanism of the streaming instability**|Nathan Magnan et.al.|[2408.07441v1](http://arxiv.org/abs/2408.07441v1)|null|
-|**2024-08-13**|**Revisiting de Broglie's Double-Solution Pilot-Wave Theory with a Lorentz-Covariant Lagrangian Framework**|David Darrow et.al.|[2408.06972v1](http://arxiv.org/abs/2408.06972v1)|null|
-|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v2](http://arxiv.org/abs/2408.06950v2)|null|
-|**2024-08-13**|**Characterisation of a levitated sub-mg ferromagnetic cube in a planar alternating-current magnetic Paul trap**|Martijn Janse et.al.|[2408.06838v1](http://arxiv.org/abs/2408.06838v1)|null|
-|**2024-08-13**|**A global summary of seafloor topography influenced by turbulent water mixing**|Hans van Haren et.al.|[2408.06680v1](http://arxiv.org/abs/2408.06680v1)|null|
