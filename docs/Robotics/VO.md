@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472v1](http://arxiv.org/abs/2408.16472v1)|null|
+|**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150v1](http://arxiv.org/abs/2408.16150v1)|null|
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
 |**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605v1](http://arxiv.org/abs/2408.15605v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|[link](https://github.com/hku-mars/fast-livo2)|
@@ -30,5 +32,3 @@
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|
 |**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159v1](http://arxiv.org/abs/2407.13159v1)|[link](https://github.com/bachzz/wflow-tartanvo)|
-|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
-|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|

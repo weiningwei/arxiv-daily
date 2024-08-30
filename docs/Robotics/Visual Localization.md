@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735v1](http://arxiv.org/abs/2408.16735v1)|null|
+|**2024-08-29**|**RoboMNIST: A Multimodal Dataset for Multi-Robot Activity Recognition Using WiFi Sensing, Video, and Audio**|Kian Behzad et.al.|[2408.16703v1](http://arxiv.org/abs/2408.16703v1)|null|
+|**2024-08-29**|**PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-Identification**|Lei Tan et.al.|[2408.16684v1](http://arxiv.org/abs/2408.16684v1)|null|
+|**2024-08-29**|**Turbulence Strength $C_n^2$ Estimation from Video using Physics-based Deep Learning**|Ripon Kumar Saha et.al.|[2408.16623v1](http://arxiv.org/abs/2408.16623v1)|[link](https://github.com/riponcs/cn2estimation)|
+|**2024-08-29**|**Towards Infusing Auxiliary Knowledge for Distracted Driver Detection**|Ishwar B Balappanawar et.al.|[2408.16621v1](http://arxiv.org/abs/2408.16621v1)|[link](https://github.com/ishwarbb/kid3)|
+|**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564v1](http://arxiv.org/abs/2408.16564v1)|null|
+|**2024-08-29**|**COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation**|Jiefeng Li et.al.|[2408.16426v1](http://arxiv.org/abs/2408.16426v1)|null|
+|**2024-08-29**|**BEVal: A Cross-dataset Evaluation Study of BEV Segmentation Models for Autononomous Driving**|Manuel Alejandro Diaz-Zapata et.al.|[2408.16322v1](http://arxiv.org/abs/2408.16322v1)|null|
+|**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254v1](http://arxiv.org/abs/2408.16254v1)|null|
+|**2024-08-28**|**Infrared thermal imaging camera to measure low temperature thermal fields**|E. Gordiyenko et.al.|[2408.16165v1](http://arxiv.org/abs/2408.16165v1)|null|
+|**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150v1](http://arxiv.org/abs/2408.16150v1)|null|
+|**2024-08-28**|**3D Reconstruction with Spatial Memory**|Hengyi Wang et.al.|[2408.16061v1](http://arxiv.org/abs/2408.16061v1)|null|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
 |**2024-08-28**|**DiffAge3D: Diffusion-based 3D-aware Face Aging**|Junaid Wahid et.al.|[2408.15922v1](http://arxiv.org/abs/2408.15922v1)|null|
 |**2024-08-28**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911v2](http://arxiv.org/abs/2408.15911v2)|null|
@@ -15,20 +27,8 @@
 |**2024-08-28**|**Ray-Distance Volume Rendering for Neural Scene Reconstruction**|Ruihong Yin et.al.|[2408.15524v1](http://arxiv.org/abs/2408.15524v1)|null|
 |**2024-08-28**|**Depth-Weighted Detection of Behaviours of Risk in People with Dementia using Cameras**|Pratik K. Mishra et.al.|[2408.15519v1](http://arxiv.org/abs/2408.15519v1)|null|
 |**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503v1](http://arxiv.org/abs/2408.15503v1)|null|
+|**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530v1](http://arxiv.org/abs/2408.16530v1)|[link](https://github.com/fishsoup0/autonomous-driving-perception)|
 |**2024-08-28**|**Dynamic Reconstruction from Neuromorphic Data**|Harbir Antil et.al.|[2408.15465v1](http://arxiv.org/abs/2408.15465v1)|null|
 |**2024-08-27**|**HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles**|Deyuan Qu et.al.|[2408.15428v1](http://arxiv.org/abs/2408.15428v1)|null|
 |**2024-08-27**|**Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution**|Marcelo dos Santos et.al.|[2408.15386v1](http://arxiv.org/abs/2408.15386v1)|[link](https://github.com/marcelowds/fasr)|
 |**2024-08-27**|**Regaining Trust: Impact of Transparent User Interface Design on Acceptance of Camera-Based In-Car Health Monitoring Systems**|Hauke Sandhaus et.al.|[2408.15177v1](http://arxiv.org/abs/2408.15177v1)|null|
-|**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997v1](http://arxiv.org/abs/2408.14997v1)|null|
-|**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948v1](http://arxiv.org/abs/2408.14948v1)|[link](https://github.com/PathPlanning/TP-SWAP)|
-|**2024-08-27**|**ERX: A Fast Real-Time Anomaly Detection Algorithm for Hyperspectral Line-Scanning**|Samuel Garske et.al.|[2408.14947v1](http://arxiv.org/abs/2408.14947v1)|[link](https://github.com/wisegamgee/hyperad)|
-|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
-|**2024-08-27**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930v2](http://arxiv.org/abs/2408.14930v2)|[link](https://github.com/intelpro/cmta)|
-|**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916v1](http://arxiv.org/abs/2408.14916v1)|[link](https://github.com/intelpro/elednet)|
-|**2024-08-27**|**Time-space encoded readout for noise suppression and scalable scanning in optically active solid-state spin systems**|Joachim P. Leibold et.al.|[2408.14894v1](http://arxiv.org/abs/2408.14894v1)|null|
-|**2024-08-27**|**The Fluorescence Camera of the POEMMA-Balloon with Radio (PBR): Design and Scientific goals**|Matteo Battisti et.al.|[2408.14867v1](http://arxiv.org/abs/2408.14867v1)|null|
-|**2024-08-27**|**Data downlink prioritization using image classification on-board a 6U CubeSat**|Keenan A. A. Chatar et.al.|[2408.14865v1](http://arxiv.org/abs/2408.14865v1)|null|
-|**2024-08-27**|**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**|Ziteng Cui et.al.|[2408.14802v1](http://arxiv.org/abs/2408.14802v1)|[link](https://github.com/cuiziteng/eccv_raw_adapter)|
-|**2024-08-26**|**Physically Feasible Semantic Segmentation**|Shamik Basu et.al.|[2408.14672v1](http://arxiv.org/abs/2408.14672v1)|[link](https://github.com/shamik-97/valeo)|
-|**2024-08-26**|**Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities**|Yidi Li et.al.|[2408.14585v1](http://arxiv.org/abs/2408.14585v1)|null|
-|**2024-08-26**|**Multi-faceted Sensory Substitution for Curb Alerting: A Pilot Investigation in Persons with Blindness and Low Vision**|Ligao Ruan et.al.|[2408.14578v2](http://arxiv.org/abs/2408.14578v2)|null|

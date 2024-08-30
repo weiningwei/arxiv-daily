@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472v1](http://arxiv.org/abs/2408.16472v1)|null|
+|**2024-08-29**|**An Accurate Filter-based Visual Inertial External Force Estimator via Instantaneous Accelerometer Update**|Junlin Song et.al.|[2408.16354v1](http://arxiv.org/abs/2408.16354v1)|null|
+|**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150v1](http://arxiv.org/abs/2408.16150v1)|null|
+|**2024-08-28**|**Effects of kinetic energy on heat fluctuations of passive and active overdamped driven particles**|Pedro V. Paraguassú et.al.|[2408.16104v1](http://arxiv.org/abs/2408.16104v1)|null|
 |**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948v1](http://arxiv.org/abs/2408.15948v1)|[link](https://github.com/MigVega/SLAM2REF)|
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
 |**2024-08-28**|**Benchmarking ML Approaches to UWB-Based Range-Only Posture Recognition for Human Robot-Interaction**|Salma Salimi et.al.|[2408.15717v1](http://arxiv.org/abs/2408.15717v1)|null|
@@ -28,7 +32,3 @@
 |**2024-08-20**|**Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**|Y. Guo et.al.|[2408.10510v1](http://arxiv.org/abs/2408.10510v1)|null|
 |**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
 |**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
-|**2024-08-19**|**Second-Order Moment Quantum Fluctuations and Quantum Equivalence Principle**|M. J. Luo et.al.|[2408.09630v1](http://arxiv.org/abs/2408.09630v1)|null|
-|**2024-08-18**|**Inertial Focusing of Spherical Particles: The Effects of Rotational Motion**|Dmitry Alexeev et.al.|[2408.09552v1](http://arxiv.org/abs/2408.09552v1)|null|
-|**2024-08-17**|**Demarcating the classical and quantum approaches for the Coulomb logarithm in plasmas**|S. K. Kodanova et.al.|[2408.09293v1](http://arxiv.org/abs/2408.09293v1)|null|
-|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
