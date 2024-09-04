@@ -12,7 +12,7 @@
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
 |**2024-08-28**|**Benchmarking ML Approaches to UWB-Based Range-Only Posture Recognition for Human Robot-Interaction**|Salma Salimi et.al.|[2408.15717v1](http://arxiv.org/abs/2408.15717v1)|null|
 |**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605v1](http://arxiv.org/abs/2408.15605v1)|[link](https://github.com/tub-rip/es-ptam)|
-|**2024-08-28**|**Theory of tensorial magnetic inertia in terahertz spin dynamics**|Subhadip Ghosh et.al.|[2408.15594v1](http://arxiv.org/abs/2408.15594v1)|null|
+|**2024-08-28**|**Theory of tensorial magnetic inertia in terahertz spin dynamics**|Subhadip Ghosh et.al.|[2408.15594v2](http://arxiv.org/abs/2408.15594v2)|null|
 |**2024-08-28**|**Multi-component multi-scale hydrodynamic plasma flow models in mechanical and thermal disequilibria**|Chao Zhang et.al.|[2408.15531v1](http://arxiv.org/abs/2408.15531v1)|null|
 |**2024-08-27**|**On the effectiveness of smartphone IMU sensors and Deep Learning in the detection of cardiorespiratory conditions**|Lorenzo Simone et.al.|[2408.15357v1](http://arxiv.org/abs/2408.15357v1)|null|
 |**2024-08-27**|**Energy spectrum of two-dimensional isotropic rapidly rotating turbulence**|Peiyang Li et.al.|[2408.15106v1](http://arxiv.org/abs/2408.15106v1)|null|
