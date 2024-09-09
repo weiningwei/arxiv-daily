@@ -13,7 +13,7 @@
 |**2024-09-03**|**An efficient, time-evolving, global MHD coronal model based on COCONUT**|H. P. Wang et.al.|[2409.02043v1](http://arxiv.org/abs/2409.02043v1)|null|
 |**2024-09-03**|**Transformation equation for frames undergoing non-uniform acceleration such as SHM and rotational motion**|Ranchhaigiri Brahma et.al.|[2409.01677v1](http://arxiv.org/abs/2409.01677v1)|null|
 |**2024-09-03**|**Solute-mediated colloidal vortex in a microfluidic T-junction**|Haoyu Liu et.al.|[2409.01594v1](http://arxiv.org/abs/2409.01594v1)|null|
-|**2024-09-02**|**Redshit as a stretching factor in rotating graphene wormholes**|Everton Cavalcante et.al.|[2409.01278v1](http://arxiv.org/abs/2409.01278v1)|null|
+|**2024-09-02**|**Redshit as a stretching factor in rotating graphene wormholes**|Everton Cavalcante et.al.|[2409.01278v2](http://arxiv.org/abs/2409.01278v2)|null|
 |**2024-09-02**|**Development and Validation of a Modular Sensor-Based System for Gait Analysis and Control in Lower-Limb Exoskeletons**|Giorgos Marinou et.al.|[2409.01174v1](http://arxiv.org/abs/2409.01174v1)|null|
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091v1](http://arxiv.org/abs/2409.01091v1)|null|
 |**2024-09-02**|**Flying a Quadrotor with Unknown Actuators and Sensor Configuration**|Till M. Blaha et.al.|[2409.01080v1](http://arxiv.org/abs/2409.01080v1)|null|
