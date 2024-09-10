@@ -6,7 +6,7 @@
 |**2024-09-06**|**Infra-red thermographic inversion in ST40**|Matteo Moscheni et.al.|[2409.04278v1](http://arxiv.org/abs/2409.04278v1)|null|
 |**2024-09-06**|**Hydrodynamic thinning of a coating film induced by a small solid defect: evidence of a time-minimum thickness**|Alice Etienne-Simonetti et.al.|[2409.04260v1](http://arxiv.org/abs/2409.04260v1)|null|
 |**2024-09-06**|**Characterizing the performance of two C-RED ONE cameras for implementation in RISTRETTO and SAXO+ projects**|Muskan Shinde et.al.|[2409.04247v1](http://arxiv.org/abs/2409.04247v1)|null|
-|**2024-09-06**|**{\tt{CLOWN}}: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|null|
+|**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245v1](http://arxiv.org/abs/2409.04245v1)|null|
 |**2024-09-06**|**Feature Compression for Cloud-Edge Multimodal 3D Object Detection**|Chongzhen Tian et.al.|[2409.04123v1](http://arxiv.org/abs/2409.04123v1)|null|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082v1](http://arxiv.org/abs/2409.04082v1)|[link](https://github.com/yitian97/SDformerFlow)|
 |**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003v1](http://arxiv.org/abs/2409.04003v1)|[link](https://github.com/PJLab-ADG/DriveArena)|
@@ -16,7 +16,7 @@
 |**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524v1](http://arxiv.org/abs/2409.03524v1)|null|
 |**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523v1](http://arxiv.org/abs/2409.03523v1)|null|
 |**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 1. Numerical methods and validation**|Euclid Collaboration et.al.|[2409.03522v1](http://arxiv.org/abs/2409.03522v1)|null|
-|**2024-09-05**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457v1](http://arxiv.org/abs/2409.03457v1)|null|
+|**2024-09-05**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457v2](http://arxiv.org/abs/2409.03457v2)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456v1](http://arxiv.org/abs/2409.03456v1)|null|
 |**2024-09-05**|**KiloBot: A Programming Language for Deploying Perception-Guided Industrial Manipulators at Scale**|Wei Gao et.al.|[2409.03439v1](http://arxiv.org/abs/2409.03439v1)|null|
 |**2024-09-05**|**RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning**|Lawrence Yunliang Chen et.al.|[2409.03403v1](http://arxiv.org/abs/2409.03403v1)|null|
