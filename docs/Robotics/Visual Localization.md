@@ -19,7 +19,7 @@
 |**2024-09-05**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457v2](http://arxiv.org/abs/2409.03457v2)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456v1](http://arxiv.org/abs/2409.03456v1)|null|
 |**2024-09-05**|**KiloBot: A Programming Language for Deploying Perception-Guided Industrial Manipulators at Scale**|Wei Gao et.al.|[2409.03439v1](http://arxiv.org/abs/2409.03439v1)|null|
-|**2024-09-05**|**RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning**|Lawrence Yunliang Chen et.al.|[2409.03403v1](http://arxiv.org/abs/2409.03403v1)|null|
+|**2024-09-05**|**RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning**|Lawrence Yunliang Chen et.al.|[2409.03403v2](http://arxiv.org/abs/2409.03403v2)|null|
 |**2024-09-05**|**MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice**|Friedhelm Hamann et.al.|[2409.03358v1](http://arxiv.org/abs/2409.03358v1)|null|
 |**2024-09-05**|**Semantic Communication for Efficient Point Cloud Transmission**|Shangzhuo Xie et.al.|[2409.03319v1](http://arxiv.org/abs/2409.03319v1)|null|
 |**2024-09-05**|**Configurable Vibrational Coupling in Laser-Induced Microsecond Oscillations of Multi-Microbubble System**|Xuanwei Zhang et.al.|[2409.03266v1](http://arxiv.org/abs/2409.03266v1)|null|
