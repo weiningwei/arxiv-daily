@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-09**|**Tikhonov regularized inertial primal-dual dynamics for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2409.05301v1](http://arxiv.org/abs/2409.05301v1)|null|
+|**2024-09-08**|**Pump depletion and the Raman gap in ignition-scale plasmas**|S. H. Cao et.al.|[2409.05232v1](http://arxiv.org/abs/2409.05232v1)|null|
+|**2024-09-08**|**On the Sobolev stability threshold for 3D Navier-Stokes equations with rotation near the Couette flow**|Wenting Huang et.al.|[2409.05104v1](http://arxiv.org/abs/2409.05104v1)|null|
+|**2024-09-08**|**An Inertial Bregman Proximal DC Algorithm for Generalized DC Programming with Application to Data Completion**|Chenjian Pan et.al.|[2409.05069v1](http://arxiv.org/abs/2409.05069v1)|null|
+|**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|
+|**2024-09-07**|**Vortex dynamics in two-dimensional supersolids**|Chi-Deuk Yoo et.al.|[2409.04865v1](http://arxiv.org/abs/2409.04865v1)|null|
+|**2024-09-06**|**Structure-Invariant Range-Visual-Inertial Odometry**|Ivan Alberico et.al.|[2409.04633v1](http://arxiv.org/abs/2409.04633v1)|null|
 |**2024-09-06**|**Solar Inertial Modes**|Laurent Gizon et.al.|[2409.04309v1](http://arxiv.org/abs/2409.04309v1)|null|
 |**2024-09-05**|**Quantum Imaging of Gravity**|Marian Cepok et.al.|[2409.03477v1](http://arxiv.org/abs/2409.03477v1)|null|
 |**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
@@ -25,10 +32,3 @@
 |**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343v2](http://arxiv.org/abs/2409.00343v2)|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168v1](http://arxiv.org/abs/2408.17168v1)|null|
 |**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005v1](http://arxiv.org/abs/2408.17005v1)|[link](https://github.com/shuyanguni/drl_exposure_ctrl)|
-|**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472v1](http://arxiv.org/abs/2408.16472v1)|null|
-|**2024-08-29**|**An Accurate Filter-based Visual Inertial External Force Estimator via Instantaneous Accelerometer Update**|Junlin Song et.al.|[2408.16354v1](http://arxiv.org/abs/2408.16354v1)|null|
-|**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150v1](http://arxiv.org/abs/2408.16150v1)|null|
-|**2024-08-28**|**Effects of kinetic energy on heat fluctuations of passive and active overdamped driven particles**|Pedro V. Paraguassú et.al.|[2408.16104v1](http://arxiv.org/abs/2408.16104v1)|null|
-|**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948v1](http://arxiv.org/abs/2408.15948v1)|[link](https://github.com/MigVega/SLAM2REF)|
-|**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
-|**2024-08-28**|**Benchmarking ML Approaches to UWB-Based Range-Only Posture Recognition for Human Robot-Interaction**|Salma Salimi et.al.|[2408.15717v1](http://arxiv.org/abs/2408.15717v1)|null|
