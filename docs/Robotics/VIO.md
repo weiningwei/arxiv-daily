@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-10**|**Internal tensorial variables and a heat transport equation with inertial, thermal viscosity and vorticity terms**|Liliana Restuccia et.al.|[2409.06380v1](http://arxiv.org/abs/2409.06380v1)|null|
+|**2024-09-10**|**A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition**|Mengxi Liu et.al.|[2409.06341v1](http://arxiv.org/abs/2409.06341v1)|null|
 |**2024-09-09**|**Tikhonov regularized inertial primal-dual dynamics for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2409.05301v1](http://arxiv.org/abs/2409.05301v1)|null|
 |**2024-09-08**|**Pump depletion and the Raman gap in ignition-scale plasmas**|S. H. Cao et.al.|[2409.05232v1](http://arxiv.org/abs/2409.05232v1)|null|
 |**2024-09-08**|**On the Sobolev stability threshold for 3D Navier-Stokes equations with rotation near the Couette flow**|Wenting Huang et.al.|[2409.05104v1](http://arxiv.org/abs/2409.05104v1)|null|
@@ -30,5 +32,3 @@
 |**2024-09-01**|**DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation**|Huixin Zhang et.al.|[2409.00744v1](http://arxiv.org/abs/2409.00744v1)|[link](https://github.com/irmvlab/dslo)|
 |**2024-08-31**|**Inertial Particle Dynamics in Traveling Wave Flow**|P. Swaathi et.al.|[2409.00484v1](http://arxiv.org/abs/2409.00484v1)|null|
 |**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343v2](http://arxiv.org/abs/2409.00343v2)|null|
-|**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168v1](http://arxiv.org/abs/2408.17168v1)|null|
-|**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005v1](http://arxiv.org/abs/2408.17005v1)|[link](https://github.com/shuyanguni/drl_exposure_ctrl)|
