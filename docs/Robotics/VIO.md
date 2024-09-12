@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-11**|**Inertial forces and elastohydrodynamic interaction of spherical particles in wall-bounded sedimentation experiments at low particle Reynolds number**|Isabell Noichl et.al.|[2409.07209v1](http://arxiv.org/abs/2409.07209v1)|null|
+|**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116v1](http://arxiv.org/abs/2409.07116v1)|[link](https://github.com/unsigned-long/ikalibr)|
+|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
+|**2024-09-10**|**Doppler velocity of $m=1$ high-latitude inertial mode over the last five sunspot cycles**|Zhi-Chao Liang et.al.|[2409.06896v1](http://arxiv.org/abs/2409.06896v1)|null|
 |**2024-09-10**|**Internal tensorial variables and a heat transport equation with inertial, thermal viscosity and vorticity terms**|Liliana Restuccia et.al.|[2409.06380v2](http://arxiv.org/abs/2409.06380v2)|null|
 |**2024-09-10**|**A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition**|Mengxi Liu et.al.|[2409.06341v1](http://arxiv.org/abs/2409.06341v1)|null|
 |**2024-09-09**|**Tikhonov regularized inertial primal-dual dynamics for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2409.05301v1](http://arxiv.org/abs/2409.05301v1)|null|
@@ -28,7 +32,3 @@
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091v1](http://arxiv.org/abs/2409.01091v1)|null|
 |**2024-09-02**|**Flying a Quadrotor with Unknown Actuators and Sensor Configuration**|Till M. Blaha et.al.|[2409.01080v1](http://arxiv.org/abs/2409.01080v1)|null|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038v1](http://arxiv.org/abs/2409.01038v1)|[link](https://gitlab.com/marvl/map-fusion)|
-|**2024-09-02**|**Kalman Filtering for Precise Indoor Position and Orientation Estimation Using IMU and Acoustics on Riemannian Manifolds**|Mohammed H. AlSharif et.al.|[2409.01002v1](http://arxiv.org/abs/2409.01002v1)|null|
-|**2024-09-01**|**DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation**|Huixin Zhang et.al.|[2409.00744v1](http://arxiv.org/abs/2409.00744v1)|[link](https://github.com/irmvlab/dslo)|
-|**2024-08-31**|**Inertial Particle Dynamics in Traveling Wave Flow**|P. Swaathi et.al.|[2409.00484v1](http://arxiv.org/abs/2409.00484v1)|null|
-|**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343v2](http://arxiv.org/abs/2409.00343v2)|null|

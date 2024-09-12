@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452v1](http://arxiv.org/abs/2409.07452v1)|[link](https://github.com/yanghb22-fdu/hi3d-official)|
+|**2024-09-11**|**Event-based Mosaicing Bundle Adjustment**|Shuang Guo et.al.|[2409.07365v1](http://arxiv.org/abs/2409.07365v1)|null|
+|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267v1](http://arxiv.org/abs/2409.07267v1)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200v1](http://arxiv.org/abs/2409.07200v1)|null|
+|**2024-09-11**|**Redundancy-Aware Camera Selection for Indoor Scene Neural Rendering**|Zehao Wang et.al.|[2409.07098v1](http://arxiv.org/abs/2409.07098v1)|null|
+|**2024-09-11**|**Deep intra-operative illumination calibration of hyperspectral cameras**|Alexander Baumann et.al.|[2409.07094v1](http://arxiv.org/abs/2409.07094v1)|null|
+|**2024-09-11**|**Situated Visualization in Motion for Video Games**|Federica Bucchieri et.al.|[2409.07031v1](http://arxiv.org/abs/2409.07031v1)|null|
+|**2024-09-11**|**Performance Assessment of Feature Detection Methods for 2-D FS Sonar Imagery**|Hitesh Kyatham et.al.|[2409.07004v1](http://arxiv.org/abs/2409.07004v1)|null|
+|**2024-09-10**|**The only inflated brown dwarf in an eclipsing white dwarf-brown dwarf binary: WD1032+011B**|Jenni R. French et.al.|[2409.06874v1](http://arxiv.org/abs/2409.06874v1)|null|
+|**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827v1](http://arxiv.org/abs/2409.06827v1)|[link](https://github.com/qcraftai/cross-modal-ssl)|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704v1](http://arxiv.org/abs/2409.06704v1)|[link](https://github.com/cvg/geocalib)|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
 |**2024-09-10**|**World-Grounded Human Motion Recovery via Gravity-View Coordinates**|Zehong Shen et.al.|[2409.06662v1](http://arxiv.org/abs/2409.06662v1)|null|
@@ -22,13 +32,3 @@
 |**2024-09-09**|**Vision-Driven 2D Supervised Fine-Tuning Framework for Bird's Eye View Perception**|Lei He et.al.|[2409.05834v1](http://arxiv.org/abs/2409.05834v1)|null|
 |**2024-09-09**|**Creativity and Visual Communication from Machine to Musician: Sharing a Score through a Robotic Camera**|Ross Greer et.al.|[2409.05773v1](http://arxiv.org/abs/2409.05773v1)|null|
 |**2024-09-09**|**Real-Time Boron Concentration Measurement in BNCT Using Compton Imaging**|J. Lerendegui-Marco et.al.|[2409.05687v1](http://arxiv.org/abs/2409.05687v1)|null|
-|**2024-09-09**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463v3](http://arxiv.org/abs/2409.05463v3)|null|
-|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407v1](http://arxiv.org/abs/2409.05407v1)|null|
-|**2024-09-09**|**Prim2Room: Layout-Controllable Room Mesh Generation from Primitives**|Chengzeng Feng et.al.|[2409.05380v1](http://arxiv.org/abs/2409.05380v1)|null|
-|**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142v1](http://arxiv.org/abs/2409.05142v1)|null|
-|**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979v1](http://arxiv.org/abs/2409.04979v1)|null|
-|**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961v2](http://arxiv.org/abs/2409.04961v2)|null|
-|**2024-09-07**|**Spectral energy distribution of late stage stars**|A. M. Tatarnikov et.al.|[2409.04910v1](http://arxiv.org/abs/2409.04910v1)|null|
-|**2024-09-07**|**The Dark Energy Camera Magellanic Clouds Emission-Line Survey**|Sean D. Points et.al.|[2409.04846v1](http://arxiv.org/abs/2409.04846v1)|null|
-|**2024-09-07**|**Metadata augmented deep neural networks for wild animal classification**|Aslak Tøn et.al.|[2409.04825v1](http://arxiv.org/abs/2409.04825v1)|[link](https://github.com/ammarlodhi255/metadata-augmented-neural-networks-for-wild-animal-classification)|
-|**2024-09-07**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751v2](http://arxiv.org/abs/2409.04751v2)|null|
