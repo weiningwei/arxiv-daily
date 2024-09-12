@@ -18,11 +18,11 @@
 |**2024-09-10**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189v1](http://arxiv.org/abs/2409.06189v1)|null|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104v1](http://arxiv.org/abs/2409.06104v1)|null|
 |**2024-09-09**|**MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback**|Chen Chen et.al.|[2409.06082v1](http://arxiv.org/abs/2409.06082v1)|null|
-|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|null|
+|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|[link](https://github.com/haritheja-e/robot-utility-models)|
 |**2024-09-09**|**Vision-Driven 2D Supervised Fine-Tuning Framework for Bird's Eye View Perception**|Lei He et.al.|[2409.05834v1](http://arxiv.org/abs/2409.05834v1)|null|
 |**2024-09-09**|**Creativity and Visual Communication from Machine to Musician: Sharing a Score through a Robotic Camera**|Ross Greer et.al.|[2409.05773v1](http://arxiv.org/abs/2409.05773v1)|null|
 |**2024-09-09**|**Real-Time Boron Concentration Measurement in BNCT Using Compton Imaging**|J. Lerendegui-Marco et.al.|[2409.05687v1](http://arxiv.org/abs/2409.05687v1)|null|
-|**2024-09-09**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463v2](http://arxiv.org/abs/2409.05463v2)|null|
+|**2024-09-09**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463v3](http://arxiv.org/abs/2409.05463v3)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407v1](http://arxiv.org/abs/2409.05407v1)|null|
 |**2024-09-09**|**Prim2Room: Layout-Controllable Room Mesh Generation from Primitives**|Chengzeng Feng et.al.|[2409.05380v1](http://arxiv.org/abs/2409.05380v1)|null|
 |**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142v1](http://arxiv.org/abs/2409.05142v1)|null|
@@ -31,4 +31,4 @@
 |**2024-09-07**|**Spectral energy distribution of late stage stars**|A. M. Tatarnikov et.al.|[2409.04910v1](http://arxiv.org/abs/2409.04910v1)|null|
 |**2024-09-07**|**The Dark Energy Camera Magellanic Clouds Emission-Line Survey**|Sean D. Points et.al.|[2409.04846v1](http://arxiv.org/abs/2409.04846v1)|null|
 |**2024-09-07**|**Metadata augmented deep neural networks for wild animal classification**|Aslak Tøn et.al.|[2409.04825v1](http://arxiv.org/abs/2409.04825v1)|[link](https://github.com/ammarlodhi255/metadata-augmented-neural-networks-for-wild-animal-classification)|
-|**2024-09-07**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751v1](http://arxiv.org/abs/2409.04751v1)|null|
+|**2024-09-07**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751v2](http://arxiv.org/abs/2409.04751v2)|null|

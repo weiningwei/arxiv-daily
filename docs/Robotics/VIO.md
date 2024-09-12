@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-10**|**Internal tensorial variables and a heat transport equation with inertial, thermal viscosity and vorticity terms**|Liliana Restuccia et.al.|[2409.06380v1](http://arxiv.org/abs/2409.06380v1)|null|
+|**2024-09-10**|**Internal tensorial variables and a heat transport equation with inertial, thermal viscosity and vorticity terms**|Liliana Restuccia et.al.|[2409.06380v2](http://arxiv.org/abs/2409.06380v2)|null|
 |**2024-09-10**|**A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition**|Mengxi Liu et.al.|[2409.06341v1](http://arxiv.org/abs/2409.06341v1)|null|
 |**2024-09-09**|**Tikhonov regularized inertial primal-dual dynamics for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2409.05301v1](http://arxiv.org/abs/2409.05301v1)|null|
 |**2024-09-08**|**Pump depletion and the Raman gap in ignition-scale plasmas**|S. H. Cao et.al.|[2409.05232v1](http://arxiv.org/abs/2409.05232v1)|null|
@@ -23,7 +23,7 @@
 |**2024-09-03**|**An efficient, time-evolving, global MHD coronal model based on COCONUT**|H. P. Wang et.al.|[2409.02043v1](http://arxiv.org/abs/2409.02043v1)|null|
 |**2024-09-03**|**Transformation equation for frames undergoing non-uniform acceleration such as SHM and rotational motion**|Ranchhaigiri Brahma et.al.|[2409.01677v1](http://arxiv.org/abs/2409.01677v1)|null|
 |**2024-09-03**|**Solute-mediated colloidal vortex in a microfluidic T-junction**|Haoyu Liu et.al.|[2409.01594v1](http://arxiv.org/abs/2409.01594v1)|null|
-|**2024-09-02**|**Redshit as a stretching factor in rotating graphene wormholes**|Everton Cavalcante et.al.|[2409.01278v2](http://arxiv.org/abs/2409.01278v2)|null|
+|**2024-09-02**|**Redshift as a stretching factor in rotating graphene wormholes**|Everton Cavalcante et.al.|[2409.01278v3](http://arxiv.org/abs/2409.01278v3)|null|
 |**2024-09-02**|**Development and Validation of a Modular Sensor-Based System for Gait Analysis and Control in Lower-Limb Exoskeletons**|Giorgos Marinou et.al.|[2409.01174v1](http://arxiv.org/abs/2409.01174v1)|null|
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091v1](http://arxiv.org/abs/2409.01091v1)|null|
 |**2024-09-02**|**Flying a Quadrotor with Unknown Actuators and Sensor Configuration**|Till M. Blaha et.al.|[2409.01080v1](http://arxiv.org/abs/2409.01080v1)|null|
