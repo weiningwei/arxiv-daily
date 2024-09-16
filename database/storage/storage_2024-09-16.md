@@ -1,13 +1,48 @@
 # arxiv-daily
- Automated deployment @ 2024-09-16 10:09:22 Asia/Shanghai
+ Automated deployment @ 2024-09-16 20:16:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$-XY ferromagnet**|Antonio Rodríguez et.al.|[2409.08992v1](http://arxiv.org/abs/2409.08992v1)|null|
+|**2024-09-13**|**On the performances of standard and kinetic energy preserving time-integration methods for incompressible-flow simulations**|Marco Artiano et.al.|[2409.08851v1](http://arxiv.org/abs/2409.08851v1)|null|
+|**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|
+|**2024-09-13**|**Principles of hydrodynamic particle manipulation in internal Stokes flow**|Xuchen Liu et.al.|[2409.08452v1](http://arxiv.org/abs/2409.08452v1)|null|
+|**2024-09-12**|**Time-Varying Foot-Placement Control for Underactuated Humanoid Walking on Swaying Rigid Surfaces**|Yuan Gao et.al.|[2409.08371v1](http://arxiv.org/abs/2409.08371v1)|null|
+|**2024-09-12**|**Inertial Coordination Games**|Andrew Koh et.al.|[2409.08145v1](http://arxiv.org/abs/2409.08145v1)|null|
+|**2024-09-12**|**Two-plasmon decay instability and 3/2 harmonic generation in inhomogeneous magnetized plasma**|S. S. Ghaffari-Oskooei et.al.|[2409.07982v1](http://arxiv.org/abs/2409.07982v1)|null|
+|**2024-09-11**|**Inertial forces and elastohydrodynamic interaction of spherical particles in wall-bounded sedimentation experiments at low particle Reynolds number**|Isabell Noichl et.al.|[2409.07209v1](http://arxiv.org/abs/2409.07209v1)|null|
+|**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116v1](http://arxiv.org/abs/2409.07116v1)|[link](https://github.com/unsigned-long/ikalibr)|
+|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
+|**2024-09-10**|**Doppler velocity of $m=1$ high-latitude inertial mode over the last five sunspot cycles**|Zhi-Chao Liang et.al.|[2409.06896v1](http://arxiv.org/abs/2409.06896v1)|null|
+|**2024-09-10**|**Internal tensorial variables and a heat transport equation with inertial, thermal viscosity and vorticity terms**|Liliana Restuccia et.al.|[2409.06380v2](http://arxiv.org/abs/2409.06380v2)|null|
+|**2024-09-10**|**A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition**|Mengxi Liu et.al.|[2409.06341v1](http://arxiv.org/abs/2409.06341v1)|null|
+|**2024-09-09**|**Tikhonov regularized inertial primal-dual dynamics for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2409.05301v1](http://arxiv.org/abs/2409.05301v1)|null|
+|**2024-09-08**|**Pump depletion and the Raman gap in ignition-scale plasmas**|S. H. Cao et.al.|[2409.05232v1](http://arxiv.org/abs/2409.05232v1)|null|
+|**2024-09-08**|**On the Sobolev stability threshold for 3D Navier-Stokes equations with rotation near the Couette flow**|Wenting Huang et.al.|[2409.05104v1](http://arxiv.org/abs/2409.05104v1)|null|
+|**2024-09-08**|**An Inertial Bregman Proximal DC Algorithm for Generalized DC Programming with Application to Data Completion**|Chenjian Pan et.al.|[2409.05069v1](http://arxiv.org/abs/2409.05069v1)|null|
+|**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|
+|**2024-09-07**|**Vortex dynamics in two-dimensional supersolids**|Chi-Deuk Yoo et.al.|[2409.04865v1](http://arxiv.org/abs/2409.04865v1)|null|
+|**2024-09-06**|**Structure-Invariant Range-Visual-Inertial Odometry**|Ivan Alberico et.al.|[2409.04633v1](http://arxiv.org/abs/2409.04633v1)|null|
+|**2024-09-06**|**Solar Inertial Modes**|Laurent Gizon et.al.|[2409.04309v1](http://arxiv.org/abs/2409.04309v1)|null|
+|**2024-09-05**|**Quantum Imaging of Gravity**|Marian Cepok et.al.|[2409.03477v1](http://arxiv.org/abs/2409.03477v1)|null|
+|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
+|**2024-09-05**|**Inertial Proximal Difference-of-Convex Algorithm with Convergent Bregman Plug-and-Play for Nonconvex Imaging**|Tsz Ching Chow et.al.|[2409.03262v1](http://arxiv.org/abs/2409.03262v1)|[link](https://github.com/nicholechow/PnP-iBPDCA)|
+|**2024-09-04**|**Emergence of two inertial sub-ranges in solar wind turbulence: dependence on heliospheric distance and solar activity**|Shiladittya Mondal et.al.|[2409.03090v1](http://arxiv.org/abs/2409.03090v1)|null|
+|**2024-09-04**|**Development of the Multichannel Pulsed Ultrasonic Doppler Velocimeter for the measurement of liquid metal flow**|Ding-Yi Pan et.al.|[2409.02815v1](http://arxiv.org/abs/2409.02815v1)|null|
+|**2024-09-04**|**Dispelling Four Challenges in Inertial Motion Tracking with One Recurrent Inertial Graph-based Estimator (RING)**|Simon Bachhuber et.al.|[2409.02502v1](http://arxiv.org/abs/2409.02502v1)|null|
+|**2024-09-04**|**Kolmogorov-size particles in homogeneous and isotropic turbulence**|Alessandro Chiarini et.al.|[2409.02467v1](http://arxiv.org/abs/2409.02467v1)|null|
+|**2024-09-04**|**Inertial focusing of spherical capsule in pulsatile channel flows**|Naoki Takeishi et.al.|[2409.02379v1](http://arxiv.org/abs/2409.02379v1)|null|
+|**2024-09-03**|**An efficient, time-evolving, global MHD coronal model based on COCONUT**|H. P. Wang et.al.|[2409.02043v1](http://arxiv.org/abs/2409.02043v1)|null|
+
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
 |**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|
 |**2024-09-06**|**Structure-Invariant Range-Visual-Inertial Odometry**|Ivan Alberico et.al.|[2409.04633v1](http://arxiv.org/abs/2409.04633v1)|null|
@@ -37,41 +72,6 @@
 |**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
 |**2024-07-30**|**ATI-CTLO:Adaptive Temporal Interval-based Continuous-Time LiDAR-Only Odometry**|Bo Zhou et.al.|[2407.20619v2](http://arxiv.org/abs/2407.20619v2)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|[link](https://github.com/molaorg/mola)|
-|**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223v1](http://arxiv.org/abs/2407.20223v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-12**|**Inertial Coordination Games**|Andrew Koh et.al.|[2409.08145v1](http://arxiv.org/abs/2409.08145v1)|null|
-|**2024-09-12**|**Two-plasmon decay instability and 3/2 harmonic generation in inhomogeneous magnetized plasma**|S. S. Ghaffari-Oskooei et.al.|[2409.07982v1](http://arxiv.org/abs/2409.07982v1)|null|
-|**2024-09-11**|**Inertial forces and elastohydrodynamic interaction of spherical particles in wall-bounded sedimentation experiments at low particle Reynolds number**|Isabell Noichl et.al.|[2409.07209v1](http://arxiv.org/abs/2409.07209v1)|null|
-|**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116v1](http://arxiv.org/abs/2409.07116v1)|[link](https://github.com/unsigned-long/ikalibr)|
-|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
-|**2024-09-10**|**Doppler velocity of $m=1$ high-latitude inertial mode over the last five sunspot cycles**|Zhi-Chao Liang et.al.|[2409.06896v1](http://arxiv.org/abs/2409.06896v1)|null|
-|**2024-09-10**|**Internal tensorial variables and a heat transport equation with inertial, thermal viscosity and vorticity terms**|Liliana Restuccia et.al.|[2409.06380v2](http://arxiv.org/abs/2409.06380v2)|null|
-|**2024-09-10**|**A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition**|Mengxi Liu et.al.|[2409.06341v1](http://arxiv.org/abs/2409.06341v1)|null|
-|**2024-09-09**|**Tikhonov regularized inertial primal-dual dynamics for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2409.05301v1](http://arxiv.org/abs/2409.05301v1)|null|
-|**2024-09-08**|**Pump depletion and the Raman gap in ignition-scale plasmas**|S. H. Cao et.al.|[2409.05232v1](http://arxiv.org/abs/2409.05232v1)|null|
-|**2024-09-08**|**On the Sobolev stability threshold for 3D Navier-Stokes equations with rotation near the Couette flow**|Wenting Huang et.al.|[2409.05104v1](http://arxiv.org/abs/2409.05104v1)|null|
-|**2024-09-08**|**An Inertial Bregman Proximal DC Algorithm for Generalized DC Programming with Application to Data Completion**|Chenjian Pan et.al.|[2409.05069v1](http://arxiv.org/abs/2409.05069v1)|null|
-|**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|
-|**2024-09-07**|**Vortex dynamics in two-dimensional supersolids**|Chi-Deuk Yoo et.al.|[2409.04865v1](http://arxiv.org/abs/2409.04865v1)|null|
-|**2024-09-06**|**Structure-Invariant Range-Visual-Inertial Odometry**|Ivan Alberico et.al.|[2409.04633v1](http://arxiv.org/abs/2409.04633v1)|null|
-|**2024-09-06**|**Solar Inertial Modes**|Laurent Gizon et.al.|[2409.04309v1](http://arxiv.org/abs/2409.04309v1)|null|
-|**2024-09-05**|**Quantum Imaging of Gravity**|Marian Cepok et.al.|[2409.03477v1](http://arxiv.org/abs/2409.03477v1)|null|
-|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
-|**2024-09-05**|**Inertial Proximal Difference-of-Convex Algorithm with Convergent Bregman Plug-and-Play for Nonconvex Imaging**|Tsz Ching Chow et.al.|[2409.03262v1](http://arxiv.org/abs/2409.03262v1)|[link](https://github.com/nicholechow/PnP-iBPDCA)|
-|**2024-09-04**|**Emergence of two inertial sub-ranges in solar wind turbulence: dependence on heliospheric distance and solar activity**|Shiladittya Mondal et.al.|[2409.03090v1](http://arxiv.org/abs/2409.03090v1)|null|
-|**2024-09-04**|**Development of the Multichannel Pulsed Ultrasonic Doppler Velocimeter for the measurement of liquid metal flow**|Ding-Yi Pan et.al.|[2409.02815v1](http://arxiv.org/abs/2409.02815v1)|null|
-|**2024-09-04**|**Dispelling Four Challenges in Inertial Motion Tracking with One Recurrent Inertial Graph-based Estimator (RING)**|Simon Bachhuber et.al.|[2409.02502v1](http://arxiv.org/abs/2409.02502v1)|null|
-|**2024-09-04**|**Kolmogorov-size particles in homogeneous and isotropic turbulence**|Alessandro Chiarini et.al.|[2409.02467v1](http://arxiv.org/abs/2409.02467v1)|null|
-|**2024-09-04**|**Inertial focusing of spherical capsule in pulsatile channel flows**|Naoki Takeishi et.al.|[2409.02379v1](http://arxiv.org/abs/2409.02379v1)|null|
-|**2024-09-03**|**An efficient, time-evolving, global MHD coronal model based on COCONUT**|H. P. Wang et.al.|[2409.02043v1](http://arxiv.org/abs/2409.02043v1)|null|
-|**2024-09-03**|**Transformation equation for frames undergoing non-uniform acceleration such as SHM and rotational motion**|Ranchhaigiri Brahma et.al.|[2409.01677v1](http://arxiv.org/abs/2409.01677v1)|null|
-|**2024-09-03**|**Solute-mediated colloidal vortex in a microfluidic T-junction**|Haoyu Liu et.al.|[2409.01594v1](http://arxiv.org/abs/2409.01594v1)|null|
-|**2024-09-02**|**Redshift as a stretching factor in rotating graphene wormholes**|Everton Cavalcante et.al.|[2409.01278v3](http://arxiv.org/abs/2409.01278v3)|null|
-|**2024-09-02**|**Development and Validation of a Modular Sensor-Based System for Gait Analysis and Control in Lower-Limb Exoskeletons**|Giorgos Marinou et.al.|[2409.01174v1](http://arxiv.org/abs/2409.01174v1)|null|
-|**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091v1](http://arxiv.org/abs/2409.01091v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +110,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**Pushing the boundaries of event subsampling in event-based video classification using CNNs**|Hesam Araghi et.al.|[2409.08953v1](http://arxiv.org/abs/2409.08953v1)|[link](https://github.com/hesamaraghi/pushing-boundaries-event-subsampling)|
+|**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943v1](http://arxiv.org/abs/2409.08943v1)|null|
+|**2024-09-13**|**Event-based reconstruction of time-resolved centreline deformation of flapping flags**|Gaetan Raynaud et.al.|[2409.08939v1](http://arxiv.org/abs/2409.08939v1)|null|
+|**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926v1](http://arxiv.org/abs/2409.08926v1)|null|
+|**2024-09-13**|**Kinect Calibration and Data Optimization For Anthropometric Parameters**|M. S. Gokmen et.al.|[2409.08847v1](http://arxiv.org/abs/2409.08847v1)|null|
+|**2024-09-13**|**Pathfinder for Low-altitude Aircraft with Binary Neural Network**|Kaijie Yin et.al.|[2409.08824v1](http://arxiv.org/abs/2409.08824v1)|[link](https://github.com/imrl/pathfinder)|
+|**2024-09-13**|**Development of a Compton Imager Setup**|Anuraag Arya et.al.|[2409.08822v1](http://arxiv.org/abs/2409.08822v1)|null|
+|**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|
+|**2024-09-13**|**GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction**|Siyu Li et.al.|[2409.08688v1](http://arxiv.org/abs/2409.08688v1)|[link](https://github.com/lynn-yu/genmapping)|
+|**2024-09-13**|**CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting**|Runze Chen et.al.|[2409.08562v1](http://arxiv.org/abs/2409.08562v1)|null|
+|**2024-09-13**|**EHC-MM: Embodied Holistic Control for Mobile Manipulation**|Jiawen Wang et.al.|[2409.08527v1](http://arxiv.org/abs/2409.08527v1)|null|
+|**2024-09-13**|**WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users**|Yunzhi Li et.al.|[2409.08494v1](http://arxiv.org/abs/2409.08494v1)|null|
+|**2024-09-12**|**Cross-correlation of Luminous Red Galaxies with ML-selected AGN in HSC-SSP: Unobscured AGN residing in more massive halos**|Rodrigo Córdova Rosado et.al.|[2409.08314v1](http://arxiv.org/abs/2409.08314v1)|null|
 |**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271v1](http://arxiv.org/abs/2409.08271v1)|null|
 |**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252v1](http://arxiv.org/abs/2409.08252v1)|null|
 |**2024-09-12**|**RISTRETTO: a VLT XAO design to reach Proxima Cen b in the visible**|N. Blind et.al.|[2409.08052v1](http://arxiv.org/abs/2409.08052v1)|null|
@@ -127,16 +140,3 @@
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200v1](http://arxiv.org/abs/2409.07200v1)|null|
 |**2024-09-11**|**Redundancy-Aware Camera Selection for Indoor Scene Neural Rendering**|Zehao Wang et.al.|[2409.07098v1](http://arxiv.org/abs/2409.07098v1)|null|
 |**2024-09-11**|**Deep intra-operative illumination calibration of hyperspectral cameras**|Alexander Baumann et.al.|[2409.07094v1](http://arxiv.org/abs/2409.07094v1)|null|
-|**2024-09-11**|**Situated Visualization in Motion for Video Games**|Federica Bucchieri et.al.|[2409.07031v1](http://arxiv.org/abs/2409.07031v1)|null|
-|**2024-09-11**|**Performance Assessment of Feature Detection Methods for 2-D FS Sonar Imagery**|Hitesh Kyatham et.al.|[2409.07004v1](http://arxiv.org/abs/2409.07004v1)|null|
-|**2024-09-10**|**The only inflated brown dwarf in an eclipsing white dwarf-brown dwarf binary: WD1032+011B**|Jenni R. French et.al.|[2409.06874v1](http://arxiv.org/abs/2409.06874v1)|null|
-|**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827v1](http://arxiv.org/abs/2409.06827v1)|[link](https://github.com/qcraftai/cross-modal-ssl)|
-|**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704v1](http://arxiv.org/abs/2409.06704v1)|[link](https://github.com/cvg/geocalib)|
-|**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
-|**2024-09-10**|**World-Grounded Human Motion Recovery via Gravity-View Coordinates**|Zehong Shen et.al.|[2409.06662v1](http://arxiv.org/abs/2409.06662v1)|null|
-|**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625v1](http://arxiv.org/abs/2409.06625v1)|null|
-|**2024-09-10**|**DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots**|Maria Bauza et.al.|[2409.06613v2](http://arxiv.org/abs/2409.06613v2)|null|
-|**2024-09-10**|**A Practical Gated Recurrent Transformer Network Incorporating Multiple Fusions for Video Denoising**|Kai Guo et.al.|[2409.06603v1](http://arxiv.org/abs/2409.06603v1)|null|
-|**2024-09-10**|**In Flight Boresight Rectification for Lightweight Airborne Pushbroom Imaging Spectrometry**|Julien Yuuki Burkhard et.al.|[2409.06520v1](http://arxiv.org/abs/2409.06520v1)|null|
-|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471v1](http://arxiv.org/abs/2409.06471v1)|[link](https://github.com/yujiaoshi/g2sweakly)|
-|**2024-09-10**|**CTC and CT5TEA: an advanced multi-channel digitizer and trigger ASIC for imaging atmospheric Cherenkov telescopes**|Benjamin Schwab et.al.|[2409.06435v1](http://arxiv.org/abs/2409.06435v1)|null|

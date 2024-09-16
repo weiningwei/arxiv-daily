@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$-XY ferromagnet**|Antonio Rodríguez et.al.|[2409.08992v1](http://arxiv.org/abs/2409.08992v1)|null|
+|**2024-09-13**|**On the performances of standard and kinetic energy preserving time-integration methods for incompressible-flow simulations**|Marco Artiano et.al.|[2409.08851v1](http://arxiv.org/abs/2409.08851v1)|null|
+|**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|
+|**2024-09-13**|**Principles of hydrodynamic particle manipulation in internal Stokes flow**|Xuchen Liu et.al.|[2409.08452v1](http://arxiv.org/abs/2409.08452v1)|null|
+|**2024-09-12**|**Time-Varying Foot-Placement Control for Underactuated Humanoid Walking on Swaying Rigid Surfaces**|Yuan Gao et.al.|[2409.08371v1](http://arxiv.org/abs/2409.08371v1)|null|
 |**2024-09-12**|**Inertial Coordination Games**|Andrew Koh et.al.|[2409.08145v1](http://arxiv.org/abs/2409.08145v1)|null|
 |**2024-09-12**|**Two-plasmon decay instability and 3/2 harmonic generation in inhomogeneous magnetized plasma**|S. S. Ghaffari-Oskooei et.al.|[2409.07982v1](http://arxiv.org/abs/2409.07982v1)|null|
 |**2024-09-11**|**Inertial forces and elastohydrodynamic interaction of spherical particles in wall-bounded sedimentation experiments at low particle Reynolds number**|Isabell Noichl et.al.|[2409.07209v1](http://arxiv.org/abs/2409.07209v1)|null|
@@ -27,8 +32,3 @@
 |**2024-09-04**|**Kolmogorov-size particles in homogeneous and isotropic turbulence**|Alessandro Chiarini et.al.|[2409.02467v1](http://arxiv.org/abs/2409.02467v1)|null|
 |**2024-09-04**|**Inertial focusing of spherical capsule in pulsatile channel flows**|Naoki Takeishi et.al.|[2409.02379v1](http://arxiv.org/abs/2409.02379v1)|null|
 |**2024-09-03**|**An efficient, time-evolving, global MHD coronal model based on COCONUT**|H. P. Wang et.al.|[2409.02043v1](http://arxiv.org/abs/2409.02043v1)|null|
-|**2024-09-03**|**Transformation equation for frames undergoing non-uniform acceleration such as SHM and rotational motion**|Ranchhaigiri Brahma et.al.|[2409.01677v1](http://arxiv.org/abs/2409.01677v1)|null|
-|**2024-09-03**|**Solute-mediated colloidal vortex in a microfluidic T-junction**|Haoyu Liu et.al.|[2409.01594v1](http://arxiv.org/abs/2409.01594v1)|null|
-|**2024-09-02**|**Redshift as a stretching factor in rotating graphene wormholes**|Everton Cavalcante et.al.|[2409.01278v3](http://arxiv.org/abs/2409.01278v3)|null|
-|**2024-09-02**|**Development and Validation of a Modular Sensor-Based System for Gait Analysis and Control in Lower-Limb Exoskeletons**|Giorgos Marinou et.al.|[2409.01174v1](http://arxiv.org/abs/2409.01174v1)|null|
-|**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091v1](http://arxiv.org/abs/2409.01091v1)|null|
