@@ -28,7 +28,7 @@
 |**2024-09-11**|**Euclid preparation. Deep learning true galaxy morphologies for weak lensing shear bias calibration**|Euclid Collaboration et.al.|[2409.07528v1](http://arxiv.org/abs/2409.07528v1)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452v1](http://arxiv.org/abs/2409.07452v1)|[link](https://github.com/yanghb22-fdu/hi3d-official)|
 |**2024-09-11**|**Event-based Mosaicing Bundle Adjustment**|Shuang Guo et.al.|[2409.07365v1](http://arxiv.org/abs/2409.07365v1)|[link](https://github.com/tub-rip/emba)|
-|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267v1](http://arxiv.org/abs/2409.07267v1)|[link](https://github.com/emzucas/minidrive)|
+|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267v2](http://arxiv.org/abs/2409.07267v2)|[link](https://github.com/emzucas/minidrive)|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200v1](http://arxiv.org/abs/2409.07200v1)|null|
 |**2024-09-11**|**Redundancy-Aware Camera Selection for Indoor Scene Neural Rendering**|Zehao Wang et.al.|[2409.07098v1](http://arxiv.org/abs/2409.07098v1)|null|
 |**2024-09-11**|**Deep intra-operative illumination calibration of hyperspectral cameras**|Alexander Baumann et.al.|[2409.07094v1](http://arxiv.org/abs/2409.07094v1)|null|
