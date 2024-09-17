@@ -2,6 +2,17 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-16**|**Temporal and spatial attenuation of inertial spin waves driven by spin-transfer torques**|Peng-Bin He et.al.|[2409.10457v1](http://arxiv.org/abs/2409.10457v1)|null|
+|**2024-09-16**|**A relative-error inexact ADMM splitting algorithm for convex optimization with inertial effects**|M. Marques Alves et.al.|[2409.10311v1](http://arxiv.org/abs/2409.10311v1)|null|
+|**2024-09-16**|**LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph**|Yixin Fang et.al.|[2409.10172v1](http://arxiv.org/abs/2409.10172v1)|null|
+|**2024-09-16**|**Rindler Wigner distributions for non-vacuum Minkowski states**|Nitesh K. Dubey et.al.|[2409.10054v1](http://arxiv.org/abs/2409.10054v1)|null|
+|**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904v1](http://arxiv.org/abs/2409.09904v1)|null|
+|**2024-09-15**|**Physically-Consistent Parameter Identification of Robots in Contact**|Shahram Khorshidi et.al.|[2409.09850v1](http://arxiv.org/abs/2409.09850v1)|null|
+|**2024-09-15**|**Estimation of inertial properties of a rigid structure maneuvered by satellite modules**|Deep Parikh et.al.|[2409.09658v1](http://arxiv.org/abs/2409.09658v1)|null|
+|**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|
+|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295v1](http://arxiv.org/abs/2409.09295v1)|null|
+|**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287v1](http://arxiv.org/abs/2409.09287v1)|null|
+|**2024-09-14**|**Geometric phase assisted detection of Lorentz-invariance violation from modified dispersion at high energies**|Yihao Wu et.al.|[2409.09257v1](http://arxiv.org/abs/2409.09257v1)|null|
 |**2024-09-13**|**Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$-XY ferromagnet**|Antonio Rodríguez et.al.|[2409.08992v1](http://arxiv.org/abs/2409.08992v1)|null|
 |**2024-09-13**|**On the performances of standard and kinetic energy preserving time-integration methods for incompressible-flow simulations**|Marco Artiano et.al.|[2409.08851v1](http://arxiv.org/abs/2409.08851v1)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|
@@ -21,14 +32,3 @@
 |**2024-09-08**|**An Inertial Bregman Proximal DC Algorithm for Generalized DC Programming with Application to Data Completion**|Chenjian Pan et.al.|[2409.05069v1](http://arxiv.org/abs/2409.05069v1)|null|
 |**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|
 |**2024-09-07**|**Vortex dynamics in two-dimensional supersolids**|Chi-Deuk Yoo et.al.|[2409.04865v1](http://arxiv.org/abs/2409.04865v1)|null|
-|**2024-09-06**|**Structure-Invariant Range-Visual-Inertial Odometry**|Ivan Alberico et.al.|[2409.04633v1](http://arxiv.org/abs/2409.04633v1)|null|
-|**2024-09-06**|**Solar Inertial Modes**|Laurent Gizon et.al.|[2409.04309v1](http://arxiv.org/abs/2409.04309v1)|null|
-|**2024-09-05**|**Quantum Imaging of Gravity**|Marian Cepok et.al.|[2409.03477v1](http://arxiv.org/abs/2409.03477v1)|null|
-|**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
-|**2024-09-05**|**Inertial Proximal Difference-of-Convex Algorithm with Convergent Bregman Plug-and-Play for Nonconvex Imaging**|Tsz Ching Chow et.al.|[2409.03262v1](http://arxiv.org/abs/2409.03262v1)|[link](https://github.com/nicholechow/PnP-iBPDCA)|
-|**2024-09-04**|**Emergence of two inertial sub-ranges in solar wind turbulence: dependence on heliospheric distance and solar activity**|Shiladittya Mondal et.al.|[2409.03090v1](http://arxiv.org/abs/2409.03090v1)|null|
-|**2024-09-04**|**Development of the Multichannel Pulsed Ultrasonic Doppler Velocimeter for the measurement of liquid metal flow**|Ding-Yi Pan et.al.|[2409.02815v1](http://arxiv.org/abs/2409.02815v1)|null|
-|**2024-09-04**|**Dispelling Four Challenges in Inertial Motion Tracking with One Recurrent Inertial Graph-based Estimator (RING)**|Simon Bachhuber et.al.|[2409.02502v1](http://arxiv.org/abs/2409.02502v1)|null|
-|**2024-09-04**|**Kolmogorov-size particles in homogeneous and isotropic turbulence**|Alessandro Chiarini et.al.|[2409.02467v1](http://arxiv.org/abs/2409.02467v1)|null|
-|**2024-09-04**|**Inertial focusing of spherical capsule in pulsatile channel flows**|Naoki Takeishi et.al.|[2409.02379v1](http://arxiv.org/abs/2409.02379v1)|null|
-|**2024-09-03**|**An efficient, time-evolving, global MHD coronal model based on COCONUT**|H. P. Wang et.al.|[2409.02043v1](http://arxiv.org/abs/2409.02043v1)|null|
