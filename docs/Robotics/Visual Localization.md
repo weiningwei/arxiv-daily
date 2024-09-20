@@ -20,7 +20,7 @@
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307v1](http://arxiv.org/abs/2409.11307v1)|null|
 |**2024-09-17**|**A Human-Centered Risk Evaluation of Biometric Systems Using Conjoint Analysis**|Tetsushi Ohki et.al.|[2409.11224v1](http://arxiv.org/abs/2409.11224v1)|null|
 |**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211v1](http://arxiv.org/abs/2409.11211v1)|null|
-|**2024-09-17**|**HS3-Bench: A Benchmark and Strong Baseline for Hyperspectral Semantic Segmentation in Driving Scenarios**|Nick Theisen et.al.|[2409.11205v1](http://arxiv.org/abs/2409.11205v1)|null|
+|**2024-09-17**|**HS3-Bench: A Benchmark and Strong Baseline for Hyperspectral Semantic Segmentation in Driving Scenarios**|Nick Theisen et.al.|[2409.11205v1](http://arxiv.org/abs/2409.11205v1)|[link](https://github.com/nickstheisen/hyperseg)|
 |**2024-09-17**|**Depth-based Privileged Information for Boosting 3D Human Pose Estimation on RGB**|Alessandro Simoni et.al.|[2409.11104v1](http://arxiv.org/abs/2409.11104v1)|null|
 |**2024-09-17**|**ShapeAug++: More Realistic Shape Augmentation for Event Data**|Katharina Bendig et.al.|[2409.11075v1](http://arxiv.org/abs/2409.11075v1)|null|
 |**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049v1](http://arxiv.org/abs/2409.11049v1)|null|

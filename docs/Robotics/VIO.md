@@ -13,7 +13,7 @@
 |**2024-09-17**|**Robust High-Speed State Estimation for Off-road Navigation using Radar Velocity Factors**|Morten Nissov et.al.|[2409.10953v1](http://arxiv.org/abs/2409.10953v1)|null|
 |**2024-09-16**|**Temporal and spatial attenuation of inertial spin waves driven by spin-transfer torques**|Peng-Bin He et.al.|[2409.10457v1](http://arxiv.org/abs/2409.10457v1)|null|
 |**2024-09-16**|**A relative-error inexact ADMM splitting algorithm for convex optimization with inertial effects**|M. Marques Alves et.al.|[2409.10311v1](http://arxiv.org/abs/2409.10311v1)|null|
-|**2024-09-16**|**LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph**|Yixin Fang et.al.|[2409.10172v1](http://arxiv.org/abs/2409.10172v1)|null|
+|**2024-09-16**|**LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph**|Yixin Fang et.al.|[2409.10172v1](http://arxiv.org/abs/2409.10172v1)|[link](https://github.com/yixin-f/liloc)|
 |**2024-09-16**|**Rindler Wigner distributions for non-vacuum Minkowski states**|Nitesh K. Dubey et.al.|[2409.10054v1](http://arxiv.org/abs/2409.10054v1)|null|
 |**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904v1](http://arxiv.org/abs/2409.09904v1)|null|
 |**2024-09-15**|**Physically-Consistent Parameter Identification of Robots in Contact**|Shahram Khorshidi et.al.|[2409.09850v1](http://arxiv.org/abs/2409.09850v1)|null|
