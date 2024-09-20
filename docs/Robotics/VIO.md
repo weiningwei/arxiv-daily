@@ -21,7 +21,7 @@
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295v1](http://arxiv.org/abs/2409.09295v1)|null|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287v1](http://arxiv.org/abs/2409.09287v1)|null|
-|**2024-09-14**|**Geometric phase assisted detection of Lorentz-invariance violation from modified dispersion at high energies**|Yihao Wu et.al.|[2409.09257v1](http://arxiv.org/abs/2409.09257v1)|null|
+|**2024-09-14**|**Geometric phase assisted detection of Lorentz-invariance violation from modified dispersion at high energies**|Yihao Wu et.al.|[2409.09257v2](http://arxiv.org/abs/2409.09257v2)|null|
 |**2024-09-13**|**Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$-XY ferromagnet**|Antonio Rodríguez et.al.|[2409.08992v1](http://arxiv.org/abs/2409.08992v1)|null|
 |**2024-09-13**|**On the performances of standard and kinetic energy preserving time-integration methods for incompressible-flow simulations**|Marco Artiano et.al.|[2409.08851v1](http://arxiv.org/abs/2409.08851v1)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|
