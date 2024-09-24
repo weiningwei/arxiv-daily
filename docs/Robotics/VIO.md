@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-18**|**Online Refractive Camera Model Calibration in Visual Inertial Odometry**|Mohit Singh et.al.|[2409.12074v1](http://arxiv.org/abs/2409.12074v1)|null|
-|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v1](http://arxiv.org/abs/2409.12051v1)|null|
+|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v2](http://arxiv.org/abs/2409.12051v2)|null|
 |**2024-09-18**|**Direct and inverse cascades scaling in real shell models of turbulence**|James Creswell et.al.|[2409.11898v1](http://arxiv.org/abs/2409.11898v1)|null|
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692v1](http://arxiv.org/abs/2409.11692v1)|null|
 |**2024-09-17**|**Enhancing the Reliability of LiDAR Point Cloud Sampling: A Colorization and Super-Resolution Approach Based on LiDAR-Generated Images**|Sier Ha et.al.|[2409.11532v1](http://arxiv.org/abs/2409.11532v1)|null|
