@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-23 21:14:31 Asia/Shanghai
+ Automated deployment @ 2024-09-24 08:41:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -29,7 +29,7 @@
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693v1](http://arxiv.org/abs/2409.06693v1)|null|
 |**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961v2](http://arxiv.org/abs/2409.04961v2)|[link](https://github.com/PengYu-Team/GEODE_dataset)|
-|**2024-09-05**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457v2](http://arxiv.org/abs/2409.03457v2)|null|
+|**2024-09-05**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457v3](http://arxiv.org/abs/2409.03457v3)|null|
 |**2024-09-03**|**Integration of Augmented Reality and Mobile Robot Indoor SLAM for Enhanced Spatial Awareness**|Michael D. Friske et.al.|[2409.01915v1](http://arxiv.org/abs/2409.01915v1)|null|
 |**2024-09-03**|**Explicit Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric**|Tingchen Ma et.al.|[2409.01856v1](http://arxiv.org/abs/2409.01856v1)|null|
 |**2024-09-02**|**Saying goodbyes to rotating your phone: Magnetometer calibration during SLAM**|Ilari Vallivaara et.al.|[2409.01242v1](http://arxiv.org/abs/2409.01242v1)|null|
@@ -99,7 +99,7 @@
 |**2024-09-17**|**ShapeAug++: More Realistic Shape Augmentation for Event Data**|Katharina Bendig et.al.|[2409.11075v1](http://arxiv.org/abs/2409.11075v1)|null|
 |**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049v1](http://arxiv.org/abs/2409.11049v1)|null|
 |**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982v1](http://arxiv.org/abs/2409.10982v1)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
 |**2024-09-17**|**Anti-ESIA: Analyzing and Mitigating Impacts of Electromagnetic Signal Injection Attacks**|Denglin Kang et.al.|[2409.10922v1](http://arxiv.org/abs/2409.10922v1)|null|
 |**2024-09-17**|**LVBA: LiDAR-Visual Bundle Adjustment for RGB Point Cloud Mapping**|Rundong Li et.al.|[2409.10868v1](http://arxiv.org/abs/2409.10868v1)|null|
 |**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802v2](http://arxiv.org/abs/2409.10802v2)|null|

@@ -25,7 +25,7 @@
 |**2024-09-17**|**ShapeAug++: More Realistic Shape Augmentation for Event Data**|Katharina Bendig et.al.|[2409.11075v1](http://arxiv.org/abs/2409.11075v1)|null|
 |**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049v1](http://arxiv.org/abs/2409.11049v1)|null|
 |**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982v1](http://arxiv.org/abs/2409.10982v1)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
 |**2024-09-17**|**Anti-ESIA: Analyzing and Mitigating Impacts of Electromagnetic Signal Injection Attacks**|Denglin Kang et.al.|[2409.10922v1](http://arxiv.org/abs/2409.10922v1)|null|
 |**2024-09-17**|**LVBA: LiDAR-Visual Bundle Adjustment for RGB Point Cloud Mapping**|Rundong Li et.al.|[2409.10868v1](http://arxiv.org/abs/2409.10868v1)|null|
 |**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802v2](http://arxiv.org/abs/2409.10802v2)|null|
