@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-25**|**Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots**|Zhichao Liu et.al.|[2409.17116v1](http://arxiv.org/abs/2409.17116v1)|null|
+|**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
+|**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847v1](http://arxiv.org/abs/2409.16847v1)|null|
+|**2024-09-25**|**T2Pair++: Secure and Usable IoT Pairing with Zero Information Loss**|Chuxiong Wu et.al.|[2409.16530v1](http://arxiv.org/abs/2409.16530v1)|null|
+|**2024-09-24**|**Glitch in Time: Exploiting Temporal Misalignment of IMU For Eavesdropping**|Ahmed Najeeb et.al.|[2409.16438v1](http://arxiv.org/abs/2409.16438v1)|null|
 |**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228v1](http://arxiv.org/abs/2409.16228v1)|null|
 |**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214v1](http://arxiv.org/abs/2409.16214v1)|null|
 |**2024-09-24**|**Self Calibration by ON/OFF Sensitivity Switching - Feasibility Study of a Resonant Accelerometer**|Alexandra Zobova et.al.|[2409.15839v1](http://arxiv.org/abs/2409.15839v1)|null|
@@ -27,8 +32,3 @@
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692v1](http://arxiv.org/abs/2409.11692v1)|null|
 |**2024-09-17**|**Enhancing the Reliability of LiDAR Point Cloud Sampling: A Colorization and Super-Resolution Approach Based on LiDAR-Generated Images**|Sier Ha et.al.|[2409.11532v1](http://arxiv.org/abs/2409.11532v1)|null|
 |**2024-09-17**|**Unidirectional Human-Robot-Human Physical Interaction for Gait Training**|Lorenzo Amato et.al.|[2409.11510v1](http://arxiv.org/abs/2409.11510v1)|null|
-|**2024-09-17**|**Instability and warping in vertically oscillating accretion discs**|Loren E. Held et.al.|[2409.11490v1](http://arxiv.org/abs/2409.11490v1)|null|
-|**2024-09-17**|**PC-SRIF: Preconditioned Cholesky-based Square Root Information Filter for Vision-aided Inertial Navigation**|Tong Ke et.al.|[2409.11372v1](http://arxiv.org/abs/2409.11372v1)|null|
-|**2024-09-17**|**Robust High-Speed State Estimation for Off-road Navigation using Radar Velocity Factors**|Morten Nissov et.al.|[2409.10953v1](http://arxiv.org/abs/2409.10953v1)|null|
-|**2024-09-16**|**Temporal and spatial attenuation of inertial spin waves driven by spin-transfer torques**|Peng-Bin He et.al.|[2409.10457v1](http://arxiv.org/abs/2409.10457v1)|null|
-|**2024-09-16**|**A relative-error inexact ADMM splitting algorithm for convex optimization with inertial effects**|M. Marques Alves et.al.|[2409.10311v1](http://arxiv.org/abs/2409.10311v1)|null|

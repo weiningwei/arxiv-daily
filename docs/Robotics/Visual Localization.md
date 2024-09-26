@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-25**|**Unveiling Ontological Commitment in Multi-Modal Foundation Models**|Mert Keser et.al.|[2409.17109v1](http://arxiv.org/abs/2409.17109v1)|null|
+|**2024-09-25**|**The effect of image quality on galaxy merger identification with deep learning**|Robert W. Bickley et.al.|[2409.17081v1](http://arxiv.org/abs/2409.17081v1)|null|
+|**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029v1](http://arxiv.org/abs/2409.17029v1)|null|
+|**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
+|**2024-09-25**|**Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration**|Jiazhou Zhou et.al.|[2409.16953v1](http://arxiv.org/abs/2409.16953v1)|null|
+|**2024-09-25**|**Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera**|Xu Han et.al.|[2409.16820v1](http://arxiv.org/abs/2409.16820v1)|null|
+|**2024-09-25**|**Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction**|Jinchuan Zhang et.al.|[2409.16783v1](http://arxiv.org/abs/2409.16783v1)|null|
+|**2024-09-25**|**Let There Be Light: Robust Lensless Imaging Under External Illumination With Deep Learning**|Eric Bezzam et.al.|[2409.16766v1](http://arxiv.org/abs/2409.16766v1)|null|
+|**2024-09-25**|**Multirotor Nonlinear Model Predictive Control based on Visual Servoing of Evolving Features**|Sotirios N. Aspragkathos et.al.|[2409.16665v1](http://arxiv.org/abs/2409.16665v1)|null|
+|**2024-09-25**|**Progressive Representation Learning for Real-Time UAV Tracking**|Changhong Fu et.al.|[2409.16652v1](http://arxiv.org/abs/2409.16652v1)|[link](https://github.com/vision4robotics/prl-track)|
+|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595v1](http://arxiv.org/abs/2409.16595v1)|null|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502v1](http://arxiv.org/abs/2409.16502v1)|null|
+|**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470v1](http://arxiv.org/abs/2409.16470v1)|null|
+|**2024-09-24**|**Camera Calibration and Stereo via a Single Image of a Spherical Mirror**|Nissim Barzilay et.al.|[2409.16386v1](http://arxiv.org/abs/2409.16386v1)|null|
 |**2024-09-24**|**Liger at W.M. Keck Observatory: imager structural analysis, fabrication, and characterization plan**|James Wiley et.al.|[2409.16263v1](http://arxiv.org/abs/2409.16263v1)|null|
 |**2024-09-24**|**Context-Based Meta Reinforcement Learning for Robust and Adaptable Peg-in-Hole Assembly Tasks**|Ahmed Shokry et.al.|[2409.16208v1](http://arxiv.org/abs/2409.16208v1)|null|
 |**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099v1](http://arxiv.org/abs/2409.16099v1)|null|
@@ -18,17 +32,3 @@
 |**2024-09-23**|**SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries**|Sebastian Janampa et.al.|[2409.15553v1](http://arxiv.org/abs/2409.15553v1)|[link](https://github.com/sebastianjanampa/sofi)|
 |**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529v1](http://arxiv.org/abs/2409.15529v1)|null|
 |**2024-09-23**|**Autonomous Exploration and Semantic Updating of Large-Scale Indoor Environments with Mobile Robots**|Sai Haneesh Allu et.al.|[2409.15493v1](http://arxiv.org/abs/2409.15493v1)|[link](https://github.com/IRVLUTD/semantic-mapping)|
-|**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487v1](http://arxiv.org/abs/2409.15487v1)|null|
-|**2024-09-23**|**UDA-Bench: Revisiting Common Assumptions in Unsupervised Domain Adaptation Using a Standardized Framework**|Tarun Kalluri et.al.|[2409.15264v1](http://arxiv.org/abs/2409.15264v1)|null|
-|**2024-09-23**|**The Palomar twilight survey of 'Ayló'chaxnim, Atiras, and comets**|B. T. Bolin et.al.|[2409.15263v1](http://arxiv.org/abs/2409.15263v1)|null|
-|**2024-09-23**|**TacPalm: A Soft Gripper with a Biomimetic Optical Tactile Palm for Stable Precise Grasping**|Xuyang Zhang et.al.|[2409.15239v1](http://arxiv.org/abs/2409.15239v1)|null|
-|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v1](http://arxiv.org/abs/2409.15176v1)|null|
-|**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang et.al.|[2409.15169v1](http://arxiv.org/abs/2409.15169v1)|null|
-|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054v1](http://arxiv.org/abs/2409.15054v1)|null|
-|**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Methods and Results**|Michal Nazarczuk et.al.|[2409.15045v1](http://arxiv.org/abs/2409.15045v1)|null|
-|**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark**|Michal Nazarczuk et.al.|[2409.15041v1](http://arxiv.org/abs/2409.15041v1)|null|
-|**2024-09-23**|**Sparse-to-Dense LiDAR Point Generation by LiDAR-Camera Fusion for 3D Object Detection**|Minseung Lee et.al.|[2409.14985v2](http://arxiv.org/abs/2409.14985v2)|null|
-|**2024-09-23**|**DanceCamAnimator: Keyframe-Based Controllable 3D Dance Camera Synthesis**|Zixuan Wang et.al.|[2409.14925v1](http://arxiv.org/abs/2409.14925v1)|null|
-|**2024-09-23**|**Observe Then Act: Asynchronous Active Vision-Action Model for Robotic Manipulation**|Guokang Wang et.al.|[2409.14891v1](http://arxiv.org/abs/2409.14891v1)|null|
-|**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850v1](http://arxiv.org/abs/2409.14850v1)|null|
-|**2024-09-23**|**Two Deep Learning Solutions for Automatic Blurring of Faces in Videos**|Roman Plaud et.al.|[2409.14828v1](http://arxiv.org/abs/2409.14828v1)|null|
