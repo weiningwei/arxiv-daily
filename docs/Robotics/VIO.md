@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-27**|**Gradient-free Decoder Inversion in Latent Diffusion Models**|Seongmin Hong et.al.|[2409.18442v1](http://arxiv.org/abs/2409.18442v1)|null|
+|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v1](http://arxiv.org/abs/2409.18434v1)|null|
 |**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|null|
 |**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu et.al.|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
 |**2024-09-26**|**The global flow state in a precessing cylinder**|André Giesecke et.al.|[2409.17789v1](http://arxiv.org/abs/2409.17789v1)|null|
@@ -30,5 +32,3 @@
 |**2024-09-19**|**A new study of the Unruh effect**|Robert Dickinson et.al.|[2409.12697v1](http://arxiv.org/abs/2409.12697v1)|null|
 |**2024-09-19**|**Accurately Tracking Relative Positions of Moving Trackers based on UWB Ranging and Inertial Sensing without Anchors**|Rayan Armani et.al.|[2409.12505v1](http://arxiv.org/abs/2409.12505v1)|null|
 |**2024-09-19**|**Dense Suspension Inertial Microfluidic Particle Theory (DENSE-IMPACT) Model for Elucidating Outer Wall Focusing at High Cell Densities**|Soon Wei Daniel Lim et.al.|[2409.12488v1](http://arxiv.org/abs/2409.12488v1)|null|
-|**2024-09-19**|**Some Theoretical Aspects of Observation of Acceleration Induced Thermality**|Yefim S. Levin et.al.|[2409.12398v1](http://arxiv.org/abs/2409.12398v1)|null|
-|**2024-09-18**|**The Finer Points: A Systematic Comparison of Point-Cloud Extractors for Radar Odometry**|Elliot Preston-Krebs et.al.|[2409.12256v1](http://arxiv.org/abs/2409.12256v1)|null|
