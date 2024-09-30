@@ -7,7 +7,7 @@
 |**2024-09-26**|**The global flow state in a precessing cylinder**|André Giesecke et.al.|[2409.17789v1](http://arxiv.org/abs/2409.17789v1)|null|
 |**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729v1](http://arxiv.org/abs/2409.17729v1)|null|
 |**2024-09-26**|**Electrification of a non-rotating black hole**|Ken-ichi Nakao et.al.|[2409.17639v1](http://arxiv.org/abs/2409.17639v1)|null|
-|**2024-09-25**|**Capillary waves in miscible fluids**|Alessandro Carbonaro et.al.|[2409.17333v1](http://arxiv.org/abs/2409.17333v1)|null|
+|**2024-09-25**|**Capillary waves in miscible fluids**|Alessandro Carbonaro et.al.|[2409.17333v2](http://arxiv.org/abs/2409.17333v2)|null|
 |**2024-09-25**|**Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots**|Zhichao Liu et.al.|[2409.17116v1](http://arxiv.org/abs/2409.17116v1)|null|
 |**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
 |**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847v1](http://arxiv.org/abs/2409.16847v1)|null|
