@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-30**|**Evaluating the Impact of Convolutional Neural Network Layer Depth on the Enhancement of Inertial Navigation System Solutions**|Mohammed Aftatah et.al.|[2409.20488v1](http://arxiv.org/abs/2409.20488v1)|null|
+|**2024-09-30**|**Assessing small accelerations using a bosonic Josephson junction**|Rhombik Roy et.al.|[2409.20203v1](http://arxiv.org/abs/2409.20203v1)|null|
+|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
 |**2024-09-27**|**Gradient-free Decoder Inversion in Latent Diffusion Models**|Seongmin Hong et.al.|[2409.18442v1](http://arxiv.org/abs/2409.18442v1)|null|
 |**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v1](http://arxiv.org/abs/2409.18434v1)|null|
 |**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|null|
@@ -24,11 +27,8 @@
 |**2024-09-23**|**Impedance Control for Manipulators Handling Heavy Payloads**|Farhad Aghili et.al.|[2409.14639v1](http://arxiv.org/abs/2409.14639v1)|null|
 |**2024-09-22**|**Effective potential approach to study hydrodynamics and particle dynamics in Kerr geometry**|Abhrajit Bhattacharjee et.al.|[2409.14569v1](http://arxiv.org/abs/2409.14569v1)|null|
 |**2024-09-21**|**Intuitive Derivation of the Coriolis Force**|Lachezar S. Simeonov et.al.|[2409.14135v1](http://arxiv.org/abs/2409.14135v1)|null|
+|**2024-09-21**|**Torques on curved atmospheric fibres**|F. Candelier et.al.|[2409.19004v1](http://arxiv.org/abs/2409.19004v1)|null|
 |**2024-09-21**|**Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking**|Kai Tang et.al.|[2409.13971v1](http://arxiv.org/abs/2409.13971v1)|null|
 |**2024-09-20**|**Properties of non-cryogenic DTs and their relevance for fusion**|Hartmut Ruhl et.al.|[2409.13488v1](http://arxiv.org/abs/2409.13488v1)|null|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
 |**2024-09-19**|**UL-VIO: Ultra-lightweight Visual-Inertial Odometry with Noise Robust Test-time Adaptation**|Jinho Park et.al.|[2409.13106v1](http://arxiv.org/abs/2409.13106v1)|null|
-|**2024-09-19**|**Singularity-free Backstepping-based Adaptive Control of a Bicopter with Unknown Mass and Inertia**|Jhon Manuel Portella Delgado et.al.|[2409.13081v1](http://arxiv.org/abs/2409.13081v1)|null|
-|**2024-09-19**|**A new study of the Unruh effect**|Robert Dickinson et.al.|[2409.12697v1](http://arxiv.org/abs/2409.12697v1)|null|
-|**2024-09-19**|**Accurately Tracking Relative Positions of Moving Trackers based on UWB Ranging and Inertial Sensing without Anchors**|Rayan Armani et.al.|[2409.12505v1](http://arxiv.org/abs/2409.12505v1)|null|
-|**2024-09-19**|**Dense Suspension Inertial Microfluidic Particle Theory (DENSE-IMPACT) Model for Elucidating Outer Wall Focusing at High Cell Densities**|Soon Wei Daniel Lim et.al.|[2409.12488v1](http://arxiv.org/abs/2409.12488v1)|null|
