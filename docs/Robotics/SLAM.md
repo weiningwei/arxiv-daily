@@ -14,7 +14,7 @@
 |**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680v1](http://arxiv.org/abs/2409.17680v1)|null|
 |**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944v1](http://arxiv.org/abs/2409.16944v1)|null|
-|**2024-09-25**|**Inline Photometrically Calibrated Hybrid Visual SLAM**|Nicolas Abboud et.al.|[2409.16810v1](http://arxiv.org/abs/2409.16810v1)|null|
+|**2024-09-25**|**Inline Photometrically Calibrated Hybrid Visual SLAM**|Nicolas Abboud et.al.|[2409.16810v1](http://arxiv.org/abs/2409.16810v1)|[link](https://github.com/AUBVRL/HSLAM_docker)|
 |**2024-09-25**|**Topological SLAM in colonoscopies leveraging deep features and topological priors**|Javier Morlana et.al.|[2409.16806v1](http://arxiv.org/abs/2409.16806v1)|null|
 |**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595v1](http://arxiv.org/abs/2409.16595v1)|null|
 |**2024-09-25**|**Task-driven SLAM Benchmarking**|Yanwei Du et.al.|[2409.16573v1](http://arxiv.org/abs/2409.16573v1)|null|
