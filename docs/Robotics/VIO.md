@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|null|
+|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
+|**2024-10-02**|**A semiclassical non-adiabatic phase-space approach to molecular translations and rotations: A new picture of surface hopping and electronic inertial effects**|Xuezhi Bian et.al.|[2410.01156v1](http://arxiv.org/abs/2410.01156v1)|null|
+|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
+|**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099v1](http://arxiv.org/abs/2410.01099v1)|null|
 |**2024-09-30**|**Evaluating the Impact of Convolutional Neural Network Layer Depth on the Enhancement of Inertial Navigation System Solutions**|Mohammed Aftatah et.al.|[2409.20488v1](http://arxiv.org/abs/2409.20488v1)|null|
 |**2024-09-30**|**Assessing small accelerations using a bosonic Josephson junction**|Rhombik Roy et.al.|[2409.20203v1](http://arxiv.org/abs/2409.20203v1)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
@@ -27,8 +32,3 @@
 |**2024-09-23**|**Impedance Control for Manipulators Handling Heavy Payloads**|Farhad Aghili et.al.|[2409.14639v1](http://arxiv.org/abs/2409.14639v1)|null|
 |**2024-09-22**|**Effective potential approach to study hydrodynamics and particle dynamics in Kerr geometry**|Abhrajit Bhattacharjee et.al.|[2409.14569v1](http://arxiv.org/abs/2409.14569v1)|null|
 |**2024-09-21**|**Intuitive Derivation of the Coriolis Force**|Lachezar S. Simeonov et.al.|[2409.14135v1](http://arxiv.org/abs/2409.14135v1)|null|
-|**2024-09-21**|**Torques on curved atmospheric fibres**|F. Candelier et.al.|[2409.19004v1](http://arxiv.org/abs/2409.19004v1)|null|
-|**2024-09-21**|**Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking**|Kai Tang et.al.|[2409.13971v1](http://arxiv.org/abs/2409.13971v1)|null|
-|**2024-09-20**|**Properties of non-cryogenic DTs and their relevance for fusion**|Hartmut Ruhl et.al.|[2409.13488v1](http://arxiv.org/abs/2409.13488v1)|null|
-|**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
-|**2024-09-19**|**UL-VIO: Ultra-lightweight Visual-Inertial Odometry with Noise Robust Test-time Adaptation**|Jinho Park et.al.|[2409.13106v1](http://arxiv.org/abs/2409.13106v1)|null|

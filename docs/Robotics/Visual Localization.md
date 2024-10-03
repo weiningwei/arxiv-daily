@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
+|**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703v1](http://arxiv.org/abs/2410.01703v1)|null|
+|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
+|**2024-10-02**|**Optical design options for Pollux: UV spectropolarimeter project for the Habitable Worlds Observatory**|Eduard Muslimov et.al.|[2410.01491v1](http://arxiv.org/abs/2410.01491v1)|null|
+|**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425v1](http://arxiv.org/abs/2410.01425v1)|null|
+|**2024-10-02**|**Design of a custom wideband camera for MISTRAL imager-spectrograph**|Eduard Muslimov et.al.|[2410.01414v1](http://arxiv.org/abs/2410.01414v1)|null|
+|**2024-10-02**|**Anti-biofouling Lensless Camera System with Deep Learning based Image Reconstruction**|Naoki Ide et.al.|[2410.01365v1](http://arxiv.org/abs/2410.01365v1)|null|
+|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
+|**2024-10-02**|**A Control Barrier Function Candidate for Limited Field of View Sensors**|Biagio Trimarchi et.al.|[2410.01277v1](http://arxiv.org/abs/2410.01277v1)|null|
+|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270v1](http://arxiv.org/abs/2410.01270v1)|null|
+|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
+|**2024-10-01**|**Effective self-righting strategies for elongate multi-legged robots**|Erik Teder et.al.|[2410.01056v1](http://arxiv.org/abs/2410.01056v1)|null|
+|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055v1](http://arxiv.org/abs/2410.01055v1)|null|
+|**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979v1](http://arxiv.org/abs/2410.00979v1)|null|
+|**2024-10-01**|**Euclid preparation. The impact of relativistic redshift-space distortions on two-point clustering statistics from the Euclid wide spectroscopic survey**|Euclid Collaboration et.al.|[2410.00956v1](http://arxiv.org/abs/2410.00956v1)|null|
+|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948v1](http://arxiv.org/abs/2410.00948v1)|null|
+|**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736v1](http://arxiv.org/abs/2410.00736v1)|null|
+|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|
+|**2024-10-01**|**Cross-Camera Data Association via GNN for Supervised Graph Clustering**|Đorđe Nedeljković et.al.|[2410.00643v1](http://arxiv.org/abs/2410.00643v1)|[link](https://github.com/djordjened92/cca-gnnclust)|
+|**2024-10-01**|**Obstacle-Avoidant Leader Following with a Quadruped Robot**|Carmen Scheidemann et.al.|[2410.00572v1](http://arxiv.org/abs/2410.00572v1)|null|
+|**2024-10-01**|**Design and Identification of Keypoint Patches in Unstructured Environments**|Taewook Park et.al.|[2410.00521v1](http://arxiv.org/abs/2410.00521v1)|null|
+|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503v1](http://arxiv.org/abs/2410.00503v1)|null|
+|**2024-10-01**|**GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**|Zhangshuo Qi et.al.|[2410.00299v1](http://arxiv.org/abs/2410.00299v1)|null|
+|**2024-09-30**|**Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models**|Qi Wu et.al.|[2410.00231v1](http://arxiv.org/abs/2410.00231v1)|null|
 |**2024-09-30**|**Crater Projection in Linear Pushbroom Camera Images**|Michela Mancini et.al.|[2409.20499v1](http://arxiv.org/abs/2409.20499v1)|null|
 |**2024-09-30**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al.|[2409.20435v1](http://arxiv.org/abs/2409.20435v1)|[link](https://github.com/utiasSTARS/ALLO)|
 |**2024-09-30**|**FireLite: Leveraging Transfer Learning for Efficient Fire Detection in Resource-Constrained Environments**|Mahamudul Hasan et.al.|[2409.20384v1](http://arxiv.org/abs/2409.20384v1)|null|
 |**2024-09-30**|**HEADS-UP: Head-Mounted Egocentric Dataset for Trajectory Prediction in Blind Assistance Systems**|Yasaman Haghighi et.al.|[2409.20324v1](http://arxiv.org/abs/2409.20324v1)|null|
 |**2024-09-30**|**Match Stereo Videos via Bidirectional Alignment**|Junpeng Jing et.al.|[2409.20283v1](http://arxiv.org/abs/2409.20283v1)|null|
 |**2024-09-30**|**KISS: instrument description and performance**|J. F. Macías-Pérez et.al.|[2409.20272v1](http://arxiv.org/abs/2409.20272v1)|null|
-|**2024-09-30**|**GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**|Chen Xie et.al.|[2409.20223v1](http://arxiv.org/abs/2409.20223v1)|null|
-|**2024-09-30**|**ILeSiA: Interactive Learning of Situational Awareness from Camera Input**|Petr Vanc et.al.|[2409.20173v1](http://arxiv.org/abs/2409.20173v1)|null|
-|**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171v1](http://arxiv.org/abs/2409.20171v1)|null|
-|**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127v1](http://arxiv.org/abs/2409.20127v1)|[link](https://github.com/PStelldinger/PuzzleBoard)|
-|**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111v1](http://arxiv.org/abs/2409.20111v1)|null|
-|**2024-09-30**|**Camera Calibration using a Collimator System**|Shunkun Liang et.al.|[2409.20034v1](http://arxiv.org/abs/2409.20034v1)|[link](https://github.com/liangsk98/collimatorcalibration)|
-|**2024-09-30**|**NeDF: neural deflection fields for sparse-view tomographic background oriented Schlieren**|Jiawei Li et.al.|[2409.19971v1](http://arxiv.org/abs/2409.19971v1)|null|
-|**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904v1](http://arxiv.org/abs/2409.19904v1)|null|
-|**2024-09-30**|**Opt-in Camera: Person Identification in Video via UWB Localization and Its Application to Opt-in Systems**|Matthew Ishige et.al.|[2409.19891v1](http://arxiv.org/abs/2409.19891v1)|null|
-|**2024-09-30**|**Benchmarking Adaptive Intelligence and Computer Vision on Human-Robot Collaboration**|Salaar Saraj et.al.|[2409.19856v1](http://arxiv.org/abs/2409.19856v1)|null|
-|**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811v1](http://arxiv.org/abs/2409.19811v1)|null|
-|**2024-09-29**|**4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset**|Jiuzhou Lei et.al.|[2409.19786v1](http://arxiv.org/abs/2409.19786v1)|null|
-|**2024-09-29**|**PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond**|Chen Song et.al.|[2409.19772v1](http://arxiv.org/abs/2409.19772v1)|null|
-|**2024-09-29**|**Hyperspectral Unmixing of Agricultural Images taken from UAV Using Adapted U-Net Architecture**|Vytautas Paura et.al.|[2409.19701v1](http://arxiv.org/abs/2409.19701v1)|null|
-|**2024-09-29**|**fCOP: Focal Length Estimation from Category-level Object Priors**|Xinyue Zhang et.al.|[2409.19641v1](http://arxiv.org/abs/2409.19641v1)|null|
-|**2024-09-29**|**CLIP-based Camera-Agnostic Feature Learning for Intra-camera Person Re-Identification**|Xuan Tan et.al.|[2409.19563v1](http://arxiv.org/abs/2409.19563v1)|[link](https://github.com/Trangle12/CCAFL)|
-|**2024-09-29**|**Tri-Cam: Practical Eye Gaze Tracking via Camera Network**|Sikai Yang et.al.|[2409.19554v1](http://arxiv.org/abs/2409.19554v1)|null|
-|**2024-09-29**|**A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing**|Z. Li et.al.|[2409.19503v1](http://arxiv.org/abs/2409.19503v1)|null|
-|**2024-09-29**|**KineDepth: Utilizing Robot Kinematics for Online Metric Depth Estimation**|Soofiyan Atar et.al.|[2409.19490v1](http://arxiv.org/abs/2409.19490v1)|null|
-|**2024-09-28**|**Co-design of a novel CMOS highly parallel, low-power, multi-chip neural network accelerator**|W Hokenmaier et.al.|[2409.19389v1](http://arxiv.org/abs/2409.19389v1)|null|
-|**2024-09-28**|**Solution of Multiview Egocentric Hand Tracking Challenge ECCV2024**|Minqiang Zou et.al.|[2409.19362v1](http://arxiv.org/abs/2409.19362v1)|null|
-|**2024-09-28**|**Steering Prediction via a Multi-Sensor System for Autonomous Racing**|Zhuyun Zhou et.al.|[2409.19356v1](http://arxiv.org/abs/2409.19356v1)|null|
-|**2024-09-28**|**Developing Cost-Effective Drones for 5G Non-Terrestrial Network Research and Experimentation**|Carlos de Quinto Cáceres et.al.|[2409.19337v1](http://arxiv.org/abs/2409.19337v1)|null|
-|**2024-09-28**|**Intelligent Fish Detection System with Similarity-Aware Transformer**|Shengchen Li et.al.|[2409.19323v1](http://arxiv.org/abs/2409.19323v1)|null|
