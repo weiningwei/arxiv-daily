@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-10-04 08:42:01 Asia/Shanghai
+ Automated deployment @ 2024-10-04 10:07:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
-|**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703v1](http://arxiv.org/abs/2410.01703v1)|null|
-|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
-|**2024-10-02**|**Optical design options for Pollux: UV spectropolarimeter project for the Habitable Worlds Observatory**|Eduard Muslimov et.al.|[2410.01491v1](http://arxiv.org/abs/2410.01491v1)|null|
-|**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425v1](http://arxiv.org/abs/2410.01425v1)|null|
-|**2024-10-02**|**Design of a custom wideband camera for MISTRAL imager-spectrograph**|Eduard Muslimov et.al.|[2410.01414v1](http://arxiv.org/abs/2410.01414v1)|null|
-|**2024-10-02**|**Anti-biofouling Lensless Camera System with Deep Learning based Image Reconstruction**|Naoki Ide et.al.|[2410.01365v1](http://arxiv.org/abs/2410.01365v1)|null|
-|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
-|**2024-10-02**|**A Control Barrier Function Candidate for Limited Field of View Sensors**|Biagio Trimarchi et.al.|[2410.01277v1](http://arxiv.org/abs/2410.01277v1)|null|
-|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270v1](http://arxiv.org/abs/2410.01270v1)|null|
-|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
-|**2024-10-01**|**Effective self-righting strategies for elongate multi-legged robots**|Erik Teder et.al.|[2410.01056v1](http://arxiv.org/abs/2410.01056v1)|null|
-|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055v1](http://arxiv.org/abs/2410.01055v1)|null|
-|**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979v1](http://arxiv.org/abs/2410.00979v1)|null|
-|**2024-10-01**|**Euclid preparation. The impact of relativistic redshift-space distortions on two-point clustering statistics from the Euclid wide spectroscopic survey**|Euclid Collaboration et.al.|[2410.00956v1](http://arxiv.org/abs/2410.00956v1)|null|
-|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948v1](http://arxiv.org/abs/2410.00948v1)|null|
-|**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736v1](http://arxiv.org/abs/2410.00736v1)|null|
-|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|
-|**2024-10-01**|**Cross-Camera Data Association via GNN for Supervised Graph Clustering**|Đorđe Nedeljković et.al.|[2410.00643v1](http://arxiv.org/abs/2410.00643v1)|[link](https://github.com/djordjened92/cca-gnnclust)|
-|**2024-10-01**|**Obstacle-Avoidant Leader Following with a Quadruped Robot**|Carmen Scheidemann et.al.|[2410.00572v1](http://arxiv.org/abs/2410.00572v1)|null|
-|**2024-10-01**|**Design and Identification of Keypoint Patches in Unstructured Environments**|Taewook Park et.al.|[2410.00521v1](http://arxiv.org/abs/2410.00521v1)|null|
-|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503v1](http://arxiv.org/abs/2410.00503v1)|null|
-|**2024-10-01**|**GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**|Zhangshuo Qi et.al.|[2410.00299v1](http://arxiv.org/abs/2410.00299v1)|null|
-|**2024-09-30**|**Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models**|Qi Wu et.al.|[2410.00231v1](http://arxiv.org/abs/2410.00231v1)|null|
-|**2024-09-30**|**Crater Projection in Linear Pushbroom Camera Images**|Michela Mancini et.al.|[2409.20499v1](http://arxiv.org/abs/2409.20499v1)|null|
-|**2024-09-30**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al.|[2409.20435v1](http://arxiv.org/abs/2409.20435v1)|[link](https://github.com/utiasSTARS/ALLO)|
-|**2024-09-30**|**FireLite: Leveraging Transfer Learning for Efficient Fire Detection in Resource-Constrained Environments**|Mahamudul Hasan et.al.|[2409.20384v1](http://arxiv.org/abs/2409.20384v1)|null|
-|**2024-09-30**|**HEADS-UP: Head-Mounted Egocentric Dataset for Trajectory Prediction in Blind Assistance Systems**|Yasaman Haghighi et.al.|[2409.20324v1](http://arxiv.org/abs/2409.20324v1)|null|
-|**2024-09-30**|**Match Stereo Videos via Bidirectional Alignment**|Junpeng Jing et.al.|[2409.20283v1](http://arxiv.org/abs/2409.20283v1)|null|
-|**2024-09-30**|**KISS: instrument description and performance**|J. F. Macías-Pérez et.al.|[2409.20272v1](http://arxiv.org/abs/2409.20272v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,40 +39,6 @@
 |**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v2](http://arxiv.org/abs/2409.12051v2)|null|
 |**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972v1](http://arxiv.org/abs/2409.11972v1)|null|
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|null|
-|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
-|**2024-10-02**|**A semiclassical non-adiabatic phase-space approach to molecular translations and rotations: A new picture of surface hopping and electronic inertial effects**|Xuezhi Bian et.al.|[2410.01156v1](http://arxiv.org/abs/2410.01156v1)|null|
-|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
-|**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099v1](http://arxiv.org/abs/2410.01099v1)|null|
-|**2024-09-30**|**Evaluating the Impact of Convolutional Neural Network Layer Depth on the Enhancement of Inertial Navigation System Solutions**|Mohammed Aftatah et.al.|[2409.20488v1](http://arxiv.org/abs/2409.20488v1)|null|
-|**2024-09-30**|**Assessing small accelerations using a bosonic Josephson junction**|Rhombik Roy et.al.|[2409.20203v1](http://arxiv.org/abs/2409.20203v1)|null|
-|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
-|**2024-09-27**|**Gradient-free Decoder Inversion in Latent Diffusion Models**|Seongmin Hong et.al.|[2409.18442v1](http://arxiv.org/abs/2409.18442v1)|null|
-|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v3](http://arxiv.org/abs/2409.18434v3)|null|
-|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|null|
-|**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu et.al.|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
-|**2024-09-26**|**The global flow state in a precessing cylinder**|André Giesecke et.al.|[2409.17789v1](http://arxiv.org/abs/2409.17789v1)|null|
-|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729v1](http://arxiv.org/abs/2409.17729v1)|null|
-|**2024-09-26**|**Electrification of a non-rotating black hole**|Ken-ichi Nakao et.al.|[2409.17639v1](http://arxiv.org/abs/2409.17639v1)|null|
-|**2024-09-25**|**Capillary waves in miscible fluids**|Alessandro Carbonaro et.al.|[2409.17333v2](http://arxiv.org/abs/2409.17333v2)|null|
-|**2024-09-25**|**Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots**|Zhichao Liu et.al.|[2409.17116v1](http://arxiv.org/abs/2409.17116v1)|null|
-|**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
-|**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847v1](http://arxiv.org/abs/2409.16847v1)|null|
-|**2024-09-25**|**T2Pair++: Secure and Usable IoT Pairing with Zero Information Loss**|Chuxiong Wu et.al.|[2409.16530v1](http://arxiv.org/abs/2409.16530v1)|null|
-|**2024-09-24**|**Glitch in Time: Exploiting Temporal Misalignment of IMU For Eavesdropping**|Ahmed Najeeb et.al.|[2409.16438v1](http://arxiv.org/abs/2409.16438v1)|null|
-|**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228v1](http://arxiv.org/abs/2409.16228v1)|null|
-|**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214v1](http://arxiv.org/abs/2409.16214v1)|null|
-|**2024-09-24**|**Self Calibration by ON/OFF Sensitivity Switching - Feasibility Study of a Resonant Accelerometer**|Alexandra Zobova et.al.|[2409.15839v1](http://arxiv.org/abs/2409.15839v1)|null|
-|**2024-09-23**|**Electrical Conductivity of Warm Dense Hydrogen from Ohm's Law and Time-Dependent Density Functional Theory**|Kushal Ramakrishna et.al.|[2409.15160v1](http://arxiv.org/abs/2409.15160v1)|null|
-|**2024-09-23**|**A phase field model of Cahn-Hilliard type for tumour growth with mechanical effects and damage**|Giulia Cavalleri et.al.|[2409.14817v1](http://arxiv.org/abs/2409.14817v1)|null|
-|**2024-09-23**|**A compact inertial nano-positioner operating at cryogenic temperatures**|Pritam Das et.al.|[2409.14725v2](http://arxiv.org/abs/2409.14725v2)|null|
-|**2024-09-23**|**Impedance Control for Manipulators Handling Heavy Payloads**|Farhad Aghili et.al.|[2409.14639v1](http://arxiv.org/abs/2409.14639v1)|null|
-|**2024-09-22**|**Effective potential approach to study hydrodynamics and particle dynamics in Kerr geometry**|Abhrajit Bhattacharjee et.al.|[2409.14569v1](http://arxiv.org/abs/2409.14569v1)|null|
-|**2024-09-21**|**Intuitive Derivation of the Coriolis Force**|Lachezar S. Simeonov et.al.|[2409.14135v1](http://arxiv.org/abs/2409.14135v1)|null|
-
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +72,71 @@
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091v1](http://arxiv.org/abs/2409.01091v1)|null|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038v1](http://arxiv.org/abs/2409.01038v1)|[link](https://gitlab.com/marvl/map-fusion)|
 |**2024-09-01**|**DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation**|Huixin Zhang et.al.|[2409.00744v1](http://arxiv.org/abs/2409.00744v1)|[link](https://github.com/irmvlab/dslo)|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
+|**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703v1](http://arxiv.org/abs/2410.01703v1)|null|
+|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
+|**2024-10-02**|**Optical design options for Pollux: UV spectropolarimeter project for the Habitable Worlds Observatory**|Eduard Muslimov et.al.|[2410.01491v1](http://arxiv.org/abs/2410.01491v1)|null|
+|**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425v1](http://arxiv.org/abs/2410.01425v1)|null|
+|**2024-10-02**|**Design of a custom wideband camera for MISTRAL imager-spectrograph**|Eduard Muslimov et.al.|[2410.01414v1](http://arxiv.org/abs/2410.01414v1)|null|
+|**2024-10-02**|**Anti-biofouling Lensless Camera System with Deep Learning based Image Reconstruction**|Naoki Ide et.al.|[2410.01365v1](http://arxiv.org/abs/2410.01365v1)|null|
+|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
+|**2024-10-02**|**A Control Barrier Function Candidate for Limited Field of View Sensors**|Biagio Trimarchi et.al.|[2410.01277v1](http://arxiv.org/abs/2410.01277v1)|null|
+|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270v1](http://arxiv.org/abs/2410.01270v1)|null|
+|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
+|**2024-10-01**|**Effective self-righting strategies for elongate multi-legged robots**|Erik Teder et.al.|[2410.01056v1](http://arxiv.org/abs/2410.01056v1)|null|
+|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055v1](http://arxiv.org/abs/2410.01055v1)|null|
+|**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979v1](http://arxiv.org/abs/2410.00979v1)|null|
+|**2024-10-01**|**Euclid preparation. The impact of relativistic redshift-space distortions on two-point clustering statistics from the Euclid wide spectroscopic survey**|Euclid Collaboration et.al.|[2410.00956v1](http://arxiv.org/abs/2410.00956v1)|null|
+|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948v1](http://arxiv.org/abs/2410.00948v1)|null|
+|**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736v1](http://arxiv.org/abs/2410.00736v1)|null|
+|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|
+|**2024-10-01**|**Cross-Camera Data Association via GNN for Supervised Graph Clustering**|Đorđe Nedeljković et.al.|[2410.00643v1](http://arxiv.org/abs/2410.00643v1)|[link](https://github.com/djordjened92/cca-gnnclust)|
+|**2024-10-01**|**Obstacle-Avoidant Leader Following with a Quadruped Robot**|Carmen Scheidemann et.al.|[2410.00572v1](http://arxiv.org/abs/2410.00572v1)|null|
+|**2024-10-01**|**Design and Identification of Keypoint Patches in Unstructured Environments**|Taewook Park et.al.|[2410.00521v1](http://arxiv.org/abs/2410.00521v1)|null|
+|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503v1](http://arxiv.org/abs/2410.00503v1)|null|
+|**2024-10-01**|**GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**|Zhangshuo Qi et.al.|[2410.00299v1](http://arxiv.org/abs/2410.00299v1)|null|
+|**2024-09-30**|**Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models**|Qi Wu et.al.|[2410.00231v1](http://arxiv.org/abs/2410.00231v1)|null|
+|**2024-09-30**|**Crater Projection in Linear Pushbroom Camera Images**|Michela Mancini et.al.|[2409.20499v1](http://arxiv.org/abs/2409.20499v1)|null|
+|**2024-09-30**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al.|[2409.20435v1](http://arxiv.org/abs/2409.20435v1)|[link](https://github.com/utiasSTARS/ALLO)|
+|**2024-09-30**|**FireLite: Leveraging Transfer Learning for Efficient Fire Detection in Resource-Constrained Environments**|Mahamudul Hasan et.al.|[2409.20384v1](http://arxiv.org/abs/2409.20384v1)|null|
+|**2024-09-30**|**HEADS-UP: Head-Mounted Egocentric Dataset for Trajectory Prediction in Blind Assistance Systems**|Yasaman Haghighi et.al.|[2409.20324v1](http://arxiv.org/abs/2409.20324v1)|null|
+|**2024-09-30**|**Match Stereo Videos via Bidirectional Alignment**|Junpeng Jing et.al.|[2409.20283v1](http://arxiv.org/abs/2409.20283v1)|null|
+|**2024-09-30**|**KISS: instrument description and performance**|J. F. Macías-Pérez et.al.|[2409.20272v1](http://arxiv.org/abs/2409.20272v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|null|
+|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
+|**2024-10-02**|**A semiclassical non-adiabatic phase-space approach to molecular translations and rotations: A new picture of surface hopping and electronic inertial effects**|Xuezhi Bian et.al.|[2410.01156v1](http://arxiv.org/abs/2410.01156v1)|null|
+|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
+|**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099v1](http://arxiv.org/abs/2410.01099v1)|null|
+|**2024-09-30**|**Evaluating the Impact of Convolutional Neural Network Layer Depth on the Enhancement of Inertial Navigation System Solutions**|Mohammed Aftatah et.al.|[2409.20488v1](http://arxiv.org/abs/2409.20488v1)|null|
+|**2024-09-30**|**Assessing small accelerations using a bosonic Josephson junction**|Rhombik Roy et.al.|[2409.20203v1](http://arxiv.org/abs/2409.20203v1)|null|
+|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
+|**2024-09-27**|**Gradient-free Decoder Inversion in Latent Diffusion Models**|Seongmin Hong et.al.|[2409.18442v1](http://arxiv.org/abs/2409.18442v1)|null|
+|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v3](http://arxiv.org/abs/2409.18434v3)|null|
+|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|null|
+|**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu et.al.|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
+|**2024-09-26**|**The global flow state in a precessing cylinder**|André Giesecke et.al.|[2409.17789v1](http://arxiv.org/abs/2409.17789v1)|null|
+|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729v1](http://arxiv.org/abs/2409.17729v1)|null|
+|**2024-09-26**|**Electrification of a non-rotating black hole**|Ken-ichi Nakao et.al.|[2409.17639v1](http://arxiv.org/abs/2409.17639v1)|null|
+|**2024-09-25**|**Capillary waves in miscible fluids**|Alessandro Carbonaro et.al.|[2409.17333v2](http://arxiv.org/abs/2409.17333v2)|null|
+|**2024-09-25**|**Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots**|Zhichao Liu et.al.|[2409.17116v1](http://arxiv.org/abs/2409.17116v1)|null|
+|**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
+|**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847v1](http://arxiv.org/abs/2409.16847v1)|null|
+|**2024-09-25**|**T2Pair++: Secure and Usable IoT Pairing with Zero Information Loss**|Chuxiong Wu et.al.|[2409.16530v1](http://arxiv.org/abs/2409.16530v1)|null|
+|**2024-09-24**|**Glitch in Time: Exploiting Temporal Misalignment of IMU For Eavesdropping**|Ahmed Najeeb et.al.|[2409.16438v1](http://arxiv.org/abs/2409.16438v1)|null|
+|**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228v1](http://arxiv.org/abs/2409.16228v1)|null|
+|**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214v1](http://arxiv.org/abs/2409.16214v1)|null|
+|**2024-09-24**|**Self Calibration by ON/OFF Sensitivity Switching - Feasibility Study of a Resonant Accelerometer**|Alexandra Zobova et.al.|[2409.15839v1](http://arxiv.org/abs/2409.15839v1)|null|
+|**2024-09-23**|**Electrical Conductivity of Warm Dense Hydrogen from Ohm's Law and Time-Dependent Density Functional Theory**|Kushal Ramakrishna et.al.|[2409.15160v1](http://arxiv.org/abs/2409.15160v1)|null|
+|**2024-09-23**|**A phase field model of Cahn-Hilliard type for tumour growth with mechanical effects and damage**|Giulia Cavalleri et.al.|[2409.14817v1](http://arxiv.org/abs/2409.14817v1)|null|
+|**2024-09-23**|**A compact inertial nano-positioner operating at cryogenic temperatures**|Pritam Das et.al.|[2409.14725v2](http://arxiv.org/abs/2409.14725v2)|null|
+|**2024-09-23**|**Impedance Control for Manipulators Handling Heavy Payloads**|Farhad Aghili et.al.|[2409.14639v1](http://arxiv.org/abs/2409.14639v1)|null|
+|**2024-09-22**|**Effective potential approach to study hydrodynamics and particle dynamics in Kerr geometry**|Abhrajit Bhattacharjee et.al.|[2409.14569v1](http://arxiv.org/abs/2409.14569v1)|null|
+|**2024-09-21**|**Intuitive Derivation of the Coriolis Force**|Lachezar S. Simeonov et.al.|[2409.14135v1](http://arxiv.org/abs/2409.14135v1)|null|
