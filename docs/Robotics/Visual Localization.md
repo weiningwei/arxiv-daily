@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638v1](http://arxiv.org/abs/2410.02638v1)|null|
+|**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v1](http://arxiv.org/abs/2410.02592v1)|null|
+|**2024-10-03**|**Combining Pre- and Post-Demosaicking Noise Removal for RAW Video**|Marco Sánchez-Beeckman et.al.|[2410.02572v1](http://arxiv.org/abs/2410.02572v1)|null|
+|**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249v1](http://arxiv.org/abs/2410.02249v1)|null|
+|**2024-10-03**|**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**|Arvin Tashakori et.al.|[2410.02221v1](http://arxiv.org/abs/2410.02221v1)|null|
+|**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073v1](http://arxiv.org/abs/2410.02073v1)|[link](https://github.com/apple/ml-depth-pro)|
+|**2024-10-02**|**SkyAI Sim: An Open-Source Simulation of UAV Aerial Imaging from Satellite Data**|S. Parisa Dajkhosh et.al.|[2410.02003v1](http://arxiv.org/abs/2410.02003v1)|null|
+|**2024-10-02**|**Conditional Optimal Filter Selection for Multispectral Object Classification**|Katja Kossira et.al.|[2410.02001v1](http://arxiv.org/abs/2410.02001v1)|null|
+|**2024-10-02**|**Recording dynamic facial micro-expressions with a multi-focus camera array**|Lucas Kreiss et.al.|[2410.01973v1](http://arxiv.org/abs/2410.01973v1)|null|
+|**2024-10-02**|**GPI 2.0: Exploring The Impact of Different Readout Modes on the Wavefront Sensor's EMCCD**|Clarissa R. Do Ó et.al.|[2410.01960v1](http://arxiv.org/abs/2410.01960v1)|null|
+|**2024-10-02**|**Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions**|Lennart Karstensen et.al.|[2410.01956v1](http://arxiv.org/abs/2410.01956v1)|null|
+|**2024-10-02**|**Merian: A Wide-Field Imaging Survey of Dwarf Galaxies at z~0.06-0.10**|Shany Danieli et.al.|[2410.01884v1](http://arxiv.org/abs/2410.01884v1)|null|
 |**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
 |**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703v1](http://arxiv.org/abs/2410.01703v1)|null|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
@@ -20,15 +32,3 @@
 |**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948v1](http://arxiv.org/abs/2410.00948v1)|null|
 |**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736v1](http://arxiv.org/abs/2410.00736v1)|null|
 |**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|
-|**2024-10-01**|**Cross-Camera Data Association via GNN for Supervised Graph Clustering**|Đorđe Nedeljković et.al.|[2410.00643v1](http://arxiv.org/abs/2410.00643v1)|[link](https://github.com/djordjened92/cca-gnnclust)|
-|**2024-10-01**|**Obstacle-Avoidant Leader Following with a Quadruped Robot**|Carmen Scheidemann et.al.|[2410.00572v1](http://arxiv.org/abs/2410.00572v1)|null|
-|**2024-10-01**|**Design and Identification of Keypoint Patches in Unstructured Environments**|Taewook Park et.al.|[2410.00521v1](http://arxiv.org/abs/2410.00521v1)|null|
-|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503v1](http://arxiv.org/abs/2410.00503v1)|null|
-|**2024-10-01**|**GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**|Zhangshuo Qi et.al.|[2410.00299v1](http://arxiv.org/abs/2410.00299v1)|null|
-|**2024-09-30**|**Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models**|Qi Wu et.al.|[2410.00231v1](http://arxiv.org/abs/2410.00231v1)|null|
-|**2024-09-30**|**Crater Projection in Linear Pushbroom Camera Images**|Michela Mancini et.al.|[2409.20499v1](http://arxiv.org/abs/2409.20499v1)|null|
-|**2024-09-30**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al.|[2409.20435v1](http://arxiv.org/abs/2409.20435v1)|[link](https://github.com/utiasSTARS/ALLO)|
-|**2024-09-30**|**FireLite: Leveraging Transfer Learning for Efficient Fire Detection in Resource-Constrained Environments**|Mahamudul Hasan et.al.|[2409.20384v1](http://arxiv.org/abs/2409.20384v1)|null|
-|**2024-09-30**|**HEADS-UP: Head-Mounted Egocentric Dataset for Trajectory Prediction in Blind Assistance Systems**|Yasaman Haghighi et.al.|[2409.20324v1](http://arxiv.org/abs/2409.20324v1)|null|
-|**2024-09-30**|**Match Stereo Videos via Bidirectional Alignment**|Junpeng Jing et.al.|[2409.20283v1](http://arxiv.org/abs/2409.20283v1)|null|
-|**2024-09-30**|**KISS: instrument description and performance**|J. F. Macías-Pérez et.al.|[2409.20272v1](http://arxiv.org/abs/2409.20272v1)|null|

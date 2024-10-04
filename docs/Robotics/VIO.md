@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Prediabetes detection in unconstrained conditions using wearable sensors**|Dimitra Tatli et.al.|[2410.02692v1](http://arxiv.org/abs/2410.02692v1)|null|
+|**2024-10-03**|**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**|Arvin Tashakori et.al.|[2410.02221v1](http://arxiv.org/abs/2410.02221v1)|null|
+|**2024-10-02**|**Burn Propagation in Magnetized High-Yield Inertial Fusion**|S. T. O'Neill et.al.|[2410.02063v1](http://arxiv.org/abs/2410.02063v1)|null|
+|**2024-10-02**|**Decentralized Collaborative Inertial Tracking**|Alpha Diallo et.al.|[2410.01982v1](http://arxiv.org/abs/2410.01982v1)|null|
+|**2024-10-02**|**Adaptive Invariant Extended Kalman Filter with Noise Covariance Tuning for Attitude Estimation**|Yash Pandey et.al.|[2410.01958v1](http://arxiv.org/abs/2410.01958v1)|null|
 |**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|null|
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
 |**2024-10-02**|**A semiclassical non-adiabatic phase-space approach to molecular translations and rotations: A new picture of surface hopping and electronic inertial effects**|Xuezhi Bian et.al.|[2410.01156v1](http://arxiv.org/abs/2410.01156v1)|null|
@@ -27,8 +32,3 @@
 |**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214v1](http://arxiv.org/abs/2409.16214v1)|null|
 |**2024-09-24**|**Self Calibration by ON/OFF Sensitivity Switching - Feasibility Study of a Resonant Accelerometer**|Alexandra Zobova et.al.|[2409.15839v1](http://arxiv.org/abs/2409.15839v1)|null|
 |**2024-09-23**|**Electrical Conductivity of Warm Dense Hydrogen from Ohm's Law and Time-Dependent Density Functional Theory**|Kushal Ramakrishna et.al.|[2409.15160v1](http://arxiv.org/abs/2409.15160v1)|null|
-|**2024-09-23**|**A phase field model of Cahn-Hilliard type for tumour growth with mechanical effects and damage**|Giulia Cavalleri et.al.|[2409.14817v1](http://arxiv.org/abs/2409.14817v1)|null|
-|**2024-09-23**|**A compact inertial nano-positioner operating at cryogenic temperatures**|Pritam Das et.al.|[2409.14725v2](http://arxiv.org/abs/2409.14725v2)|null|
-|**2024-09-23**|**Impedance Control for Manipulators Handling Heavy Payloads**|Farhad Aghili et.al.|[2409.14639v1](http://arxiv.org/abs/2409.14639v1)|null|
-|**2024-09-22**|**Effective potential approach to study hydrodynamics and particle dynamics in Kerr geometry**|Abhrajit Bhattacharjee et.al.|[2409.14569v1](http://arxiv.org/abs/2409.14569v1)|null|
-|**2024-09-21**|**Intuitive Derivation of the Coriolis Force**|Lachezar S. Simeonov et.al.|[2409.14135v1](http://arxiv.org/abs/2409.14135v1)|null|
