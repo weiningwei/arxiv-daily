@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-04**|**Enhancement to Fusion Reactivity in Sheared Flows**|Henry Fetsch et.al.|[2410.03590v1](http://arxiv.org/abs/2410.03590v1)|null|
+|**2024-10-04**|**Dam break of viscoplastic elliptical objects**|Kindness Isukwem et.al.|[2410.03402v1](http://arxiv.org/abs/2410.03402v1)|null|
+|**2024-10-04**|**Applicability criteria of proper charge neutrality and special relativistic MHD models extended by two-fluid effects**|Shutaro Yoshino et.al.|[2410.03317v1](http://arxiv.org/abs/2410.03317v1)|null|
+|**2024-10-04**|**Extending Kolmogorov Theory to Polymeric Turbulence**|Alessandro Chiarini et.al.|[2410.03237v1](http://arxiv.org/abs/2410.03237v1)|null|
+|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
 |**2024-10-03**|**Prediabetes detection in unconstrained conditions using wearable sensors**|Dimitra Tatli et.al.|[2410.02692v1](http://arxiv.org/abs/2410.02692v1)|null|
 |**2024-10-03**|**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**|Arvin Tashakori et.al.|[2410.02221v1](http://arxiv.org/abs/2410.02221v1)|null|
 |**2024-10-02**|**Burn Propagation in Magnetized High-Yield Inertial Fusion**|S. T. O'Neill et.al.|[2410.02063v1](http://arxiv.org/abs/2410.02063v1)|null|
@@ -27,8 +32,3 @@
 |**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
 |**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847v1](http://arxiv.org/abs/2409.16847v1)|null|
 |**2024-09-25**|**T2Pair++: Secure and Usable IoT Pairing with Zero Information Loss**|Chuxiong Wu et.al.|[2409.16530v1](http://arxiv.org/abs/2409.16530v1)|null|
-|**2024-09-24**|**Glitch in Time: Exploiting Temporal Misalignment of IMU For Eavesdropping**|Ahmed Najeeb et.al.|[2409.16438v1](http://arxiv.org/abs/2409.16438v1)|null|
-|**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228v1](http://arxiv.org/abs/2409.16228v1)|null|
-|**2024-09-24**|**TE-PINN: Quaternion-Based Orientation Estimation using Transformer-Enhanced Physics-Informed Neural Networks**|Arman Asgharpoor Golroudbari et.al.|[2409.16214v1](http://arxiv.org/abs/2409.16214v1)|null|
-|**2024-09-24**|**Self Calibration by ON/OFF Sensitivity Switching - Feasibility Study of a Resonant Accelerometer**|Alexandra Zobova et.al.|[2409.15839v1](http://arxiv.org/abs/2409.15839v1)|null|
-|**2024-09-23**|**Electrical Conductivity of Warm Dense Hydrogen from Ohm's Law and Time-Dependent Density Functional Theory**|Kushal Ramakrishna et.al.|[2409.15160v1](http://arxiv.org/abs/2409.15160v1)|null|

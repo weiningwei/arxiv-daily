@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-04**|**Enhancing Autonomous Navigation by Imaging Hidden Objects using Single-Photon LiDAR**|Aaron Young et.al.|[2410.03555v1](http://arxiv.org/abs/2410.03555v1)|null|
+|**2024-10-04**|**Collision-Aware Traversability Analysis for Autonomous Vehicles in the Context of Agricultural Robotics**|Florian Philippe et.al.|[2410.03370v1](http://arxiv.org/abs/2410.03370v1)|null|
+|**2024-10-04**|**JWST/NIRCam Narrowband Survey of Pa$β$ Emitters in the Spiderweb Protocluster at z=2.16**|Rhythm Shimakawa et.al.|[2410.03362v1](http://arxiv.org/abs/2410.03362v1)|null|
+|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|[link](https://github.com/thanhhff/MultiASL)|
+|**2024-10-04**|**Performance assessment of the HERD calorimeter with a photo-diode read-out system for high-energy electron beams**|O. Adriani et.al.|[2410.03274v1](http://arxiv.org/abs/2410.03274v1)|null|
+|**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241v1](http://arxiv.org/abs/2410.03241v1)|null|
+|**2024-10-03**|**CPFD: Confidence-aware Privileged Feature Distillation for Short Video Classification**|Jinghao Shi et.al.|[2410.03038v1](http://arxiv.org/abs/2410.03038v1)|null|
+|**2024-10-03**|**The Visual Monitoring Camera (VMC) on Mars Express: a new science instrument made from an old webcam orbiting Mars**|Jorge From et.al.|[2410.02999v1](http://arxiv.org/abs/2410.02999v1)|null|
+|**2024-10-03**|**Dissipative Avoidance Feedback for Reactive Navigation Under Second-Order Dynamics**|Lyes Smaili et.al.|[2410.02903v1](http://arxiv.org/abs/2410.02903v1)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638v1](http://arxiv.org/abs/2410.02638v1)|[link](https://github.com/fubel/stmc)|
 |**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592v1](http://arxiv.org/abs/2410.02592v1)|null|
 |**2024-10-03**|**Combining Pre- and Post-Demosaicking Noise Removal for RAW Video**|Marco Sánchez-Beeckman et.al.|[2410.02572v1](http://arxiv.org/abs/2410.02572v1)|null|
@@ -23,12 +32,3 @@
 |**2024-10-02**|**Anti-biofouling Lensless Camera System with Deep Learning based Image Reconstruction**|Naoki Ide et.al.|[2410.01365v1](http://arxiv.org/abs/2410.01365v1)|null|
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
 |**2024-10-02**|**A Control Barrier Function Candidate for Limited Field of View Sensors**|Biagio Trimarchi et.al.|[2410.01277v1](http://arxiv.org/abs/2410.01277v1)|null|
-|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270v1](http://arxiv.org/abs/2410.01270v1)|null|
-|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
-|**2024-10-01**|**Effective self-righting strategies for elongate multi-legged robots**|Erik Teder et.al.|[2410.01056v1](http://arxiv.org/abs/2410.01056v1)|null|
-|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055v1](http://arxiv.org/abs/2410.01055v1)|null|
-|**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979v1](http://arxiv.org/abs/2410.00979v1)|null|
-|**2024-10-01**|**Euclid preparation. The impact of relativistic redshift-space distortions on two-point clustering statistics from the Euclid wide spectroscopic survey**|Euclid Collaboration et.al.|[2410.00956v1](http://arxiv.org/abs/2410.00956v1)|null|
-|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948v1](http://arxiv.org/abs/2410.00948v1)|null|
-|**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736v1](http://arxiv.org/abs/2410.00736v1)|null|
-|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|
