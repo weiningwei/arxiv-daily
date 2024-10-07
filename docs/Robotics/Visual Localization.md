@@ -14,7 +14,7 @@
 |**2024-10-02**|**GPI 2.0: Exploring The Impact of Different Readout Modes on the Wavefront Sensor's EMCCD**|Clarissa R. Do Ó et.al.|[2410.01960v1](http://arxiv.org/abs/2410.01960v1)|null|
 |**2024-10-02**|**Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions**|Lennart Karstensen et.al.|[2410.01956v1](http://arxiv.org/abs/2410.01956v1)|null|
 |**2024-10-02**|**Merian: A Wide-Field Imaging Survey of Dwarf Galaxies at z~0.06-0.10**|Shany Danieli et.al.|[2410.01884v1](http://arxiv.org/abs/2410.01884v1)|null|
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v2](http://arxiv.org/abs/2410.01804v2)|null|
 |**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703v1](http://arxiv.org/abs/2410.01703v1)|null|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
 |**2024-10-02**|**Optical design options for Pollux: UV spectropolarimeter project for the Habitable Worlds Observatory**|Eduard Muslimov et.al.|[2410.01491v1](http://arxiv.org/abs/2410.01491v1)|null|
