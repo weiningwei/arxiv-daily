@@ -22,12 +22,12 @@
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944v1](http://arxiv.org/abs/2409.16944v1)|null|
 |**2024-09-25**|**Inline Photometrically Calibrated Hybrid Visual SLAM**|Nicolas Abboud et.al.|[2409.16810v1](http://arxiv.org/abs/2409.16810v1)|[link](https://github.com/AUBVRL/HSLAM_docker)|
 |**2024-09-25**|**Topological SLAM in colonoscopies leveraging deep features and topological priors**|Javier Morlana et.al.|[2409.16806v1](http://arxiv.org/abs/2409.16806v1)|null|
-|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595v1](http://arxiv.org/abs/2409.16595v1)|null|
+|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595v1](http://arxiv.org/abs/2409.16595v1)|[link](https://github.com/m-dayani/robo-platform)|
 |**2024-09-25**|**Task-driven SLAM Benchmarking**|Yanwei Du et.al.|[2409.16573v1](http://arxiv.org/abs/2409.16573v1)|null|
 |**2024-09-24**|**SoMaSLAM: 2D Graph SLAM for Sparse Range Sensing with Soft Manhattan World Constraints**|Jeahn Han et.al.|[2409.15736v1](http://arxiv.org/abs/2409.15736v1)|null|
 |**2024-09-23**|**Spectral Graph Theoretic Methods for Enhancing Network Robustness in Robot Localization**|Neelkamal Somisetty et.al.|[2409.15506v1](http://arxiv.org/abs/2409.15506v1)|null|
 |**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515v1](http://arxiv.org/abs/2409.14515v1)|null|
-|**2024-09-21**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020v1](http://arxiv.org/abs/2409.14020v1)|null|
+|**2024-09-21**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020v1](http://arxiv.org/abs/2409.14020v1)|[link](https://github.com/donghwijung/point_cloud_structural_similarity_based_underwater_sonar_loop_detection)|
 |**2024-09-20**|**HMD$^2$: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device**|Vladimir Guzov et.al.|[2409.13426v1](http://arxiv.org/abs/2409.13426v1)|null|
 |**2024-09-19**|**MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**|Yan Song Hu et.al.|[2409.13055v1](http://arxiv.org/abs/2409.13055v1)|null|
 |**2024-09-19**|**Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v1](http://arxiv.org/abs/2409.12518v1)|null|

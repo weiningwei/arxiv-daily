@@ -8,7 +8,7 @@
 |**2024-10-04**|**Extending Kolmogorov Theory to Polymeric Turbulence**|Alessandro Chiarini et.al.|[2410.03237v1](http://arxiv.org/abs/2410.03237v1)|null|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
 |**2024-10-03**|**Prediabetes detection in unconstrained conditions using wearable sensors**|Dimitra Tatli et.al.|[2410.02692v1](http://arxiv.org/abs/2410.02692v1)|null|
-|**2024-10-03**|**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**|Arvin Tashakori et.al.|[2410.02221v1](http://arxiv.org/abs/2410.02221v1)|null|
+|**2024-10-03**|**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**|Arvin Tashakori et.al.|[2410.02221v1](http://arxiv.org/abs/2410.02221v1)|[link](https://github.com/arvintashakori/SmartTextileGlove)|
 |**2024-10-02**|**Burn Propagation in Magnetized High-Yield Inertial Fusion**|S. T. O'Neill et.al.|[2410.02063v1](http://arxiv.org/abs/2410.02063v1)|null|
 |**2024-10-02**|**Decentralized Collaborative Inertial Tracking**|Alpha Diallo et.al.|[2410.01982v1](http://arxiv.org/abs/2410.01982v1)|null|
 |**2024-10-02**|**Adaptive Invariant Extended Kalman Filter with Noise Covariance Tuning for Attitude Estimation**|Yash Pandey et.al.|[2410.01958v1](http://arxiv.org/abs/2410.01958v1)|null|
