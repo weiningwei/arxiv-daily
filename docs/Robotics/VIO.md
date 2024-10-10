@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-09**|**Control System Design and Experiments for Autonomous Underwater Helicopter Docking Procedure Based on Acoustic-inertial-optical Guidance**|Haoda Li et.al.|[2410.06953v1](http://arxiv.org/abs/2410.06953v1)|null|
+|**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
+|**2024-10-08**|**Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices**|Yucheng Yang et.al.|[2410.06400v1](http://arxiv.org/abs/2410.06400v1)|null|
+|**2024-10-08**|**TapType: Ten-finger text entry on everyday surfaces via Bayesian inference**|Paul Streli et.al.|[2410.06001v1](http://arxiv.org/abs/2410.06001v1)|null|
+|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
+|**2024-10-08**|**Entangled quantum trajectories in relativistic systems**|Yannick Noel Freitag et.al.|[2410.05995v1](http://arxiv.org/abs/2410.05995v1)|null|
+|**2024-10-07**|**Propeller damage detection, classification and estimation in multirotor vehicles**|Claudio Pose et.al.|[2410.05447v1](http://arxiv.org/abs/2410.05447v1)|null|
+|**2024-10-07**|**2FAST-2LAMAA: A Lidar-Inertial Localisation and Mapping Framework for Non-Static Environments**|Cedric Le Gentil et.al.|[2410.05433v1](http://arxiv.org/abs/2410.05433v1)|null|
+|**2024-10-07**|**Estimates of (convective core) masses, radii, and relative ages for $\sim$14,000 Gaia-discovered gravity-mode pulsators monitored by TESS**|Joey S. G. Mombarg et.al.|[2410.05367v1](http://arxiv.org/abs/2410.05367v1)|null|
 |**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152v1](http://arxiv.org/abs/2410.05152v1)|null|
 |**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
 |**2024-10-06**|**Liquid-Droplet Coalescence: CNN-based Reconstruction of Flow Fields from Concentration Fields**|Vasanth Kumar Babu et.al.|[2410.04451v1](http://arxiv.org/abs/2410.04451v1)|null|
@@ -18,17 +27,8 @@
 |**2024-10-02**|**Burn Propagation in Magnetized High-Yield Inertial Fusion**|S. T. O'Neill et.al.|[2410.02063v1](http://arxiv.org/abs/2410.02063v1)|null|
 |**2024-10-02**|**Decentralized Collaborative Inertial Tracking**|Alpha Diallo et.al.|[2410.01982v1](http://arxiv.org/abs/2410.01982v1)|null|
 |**2024-10-02**|**Adaptive Invariant Extended Kalman Filter with Noise Covariance Tuning for Attitude Estimation**|Yash Pandey et.al.|[2410.01958v1](http://arxiv.org/abs/2410.01958v1)|null|
-|**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v1](http://arxiv.org/abs/2410.01758v1)|null|
+|**2024-10-02**|**Local Peculiar Motions in McVittie and LTB Spacetimes**|Masoud Molaei et.al.|[2410.01758v2](http://arxiv.org/abs/2410.01758v2)|null|
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
 |**2024-10-02**|**A semiclassical non-adiabatic phase-space approach to molecular translations and rotations: A new picture of surface hopping and electronic inertial effects**|Xuezhi Bian et.al.|[2410.01156v1](http://arxiv.org/abs/2410.01156v1)|null|
 |**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
 |**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099v1](http://arxiv.org/abs/2410.01099v1)|null|
-|**2024-09-30**|**Evaluating the Impact of Convolutional Neural Network Layer Depth on the Enhancement of Inertial Navigation System Solutions**|Mohammed Aftatah et.al.|[2409.20488v1](http://arxiv.org/abs/2409.20488v1)|null|
-|**2024-09-30**|**Assessing small accelerations using a bosonic Josephson junction**|Rhombik Roy et.al.|[2409.20203v1](http://arxiv.org/abs/2409.20203v1)|null|
-|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
-|**2024-09-27**|**Gradient-free Decoder Inversion in Latent Diffusion Models**|Seongmin Hong et.al.|[2409.18442v1](http://arxiv.org/abs/2409.18442v1)|null|
-|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v3](http://arxiv.org/abs/2409.18434v3)|null|
-|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|[link](https://github.com/CPS-TUWien/mmdvs)|
-|**2024-09-26**|**Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms**|Fangcheng Zhu et.al.|[2409.17798v1](http://arxiv.org/abs/2409.17798v1)|null|
-|**2024-09-26**|**The global flow state in a precessing cylinder**|André Giesecke et.al.|[2409.17789v1](http://arxiv.org/abs/2409.17789v1)|null|
-|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729v1](http://arxiv.org/abs/2409.17729v1)|null|
