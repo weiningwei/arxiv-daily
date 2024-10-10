@@ -18,7 +18,7 @@
 |**2024-10-06**|**DABI: Evaluation of Data Augmentation Methods Using Downsampling in Bilateral Control-Based Imitation Learning with Images**|Masato Kobayashi et.al.|[2410.04370v1](http://arxiv.org/abs/2410.04370v1)|null|
 |**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354v1](http://arxiv.org/abs/2410.04354v1)|null|
 |**2024-10-05**|**Be There, Be Together, Be Streamed! AR Scenic Live-Streaming for an Interactive and Collective Experience**|Zeyu Huang et.al.|[2410.04232v1](http://arxiv.org/abs/2410.04232v1)|null|
-|**2024-10-05**|**Consistent Autoformalization for Constructing Mathematical Libraries**|Lan Zhang et.al.|[2410.04194v1](http://arxiv.org/abs/2410.04194v1)|null|
+|**2024-10-05**|**Consistent Autoformalization for Constructing Mathematical Libraries**|Lan Zhang et.al.|[2410.04194v1](http://arxiv.org/abs/2410.04194v1)|[link](https://github.com/lanzhang128/retrieval_augmented_autoformalization)|
 |**2024-10-05**|**The Impact of Surface Co-location and Eye-tracking on Mixed Reality Typing**|Cecilia Schmitz et.al.|[2410.04177v1](http://arxiv.org/abs/2410.04177v1)|null|
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173v1](http://arxiv.org/abs/2410.04173v1)|null|
 |**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168v1](http://arxiv.org/abs/2410.04168v1)|null|
@@ -29,6 +29,6 @@
 |**2024-10-04**|**EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM**|Shi Chen et.al.|[2410.03812v1](http://arxiv.org/abs/2410.03812v1)|null|
 |**2024-10-04**|**Collision-Aware Traversability Analysis for Autonomous Vehicles in the Context of Agricultural Robotics**|Florian Philippe et.al.|[2410.03370v1](http://arxiv.org/abs/2410.03370v1)|null|
 |**2024-10-04**|**JWST/NIRCam Narrowband Survey of Pa$β$ Emitters in the Spiderweb Protocluster at z=2.16**|Rhythm Shimakawa et.al.|[2410.03362v1](http://arxiv.org/abs/2410.03362v1)|null|
-|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|null|
+|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|[link](https://github.com/thanhhff/MultiASL)|
 |**2024-10-04**|**Performance assessment of the HERD calorimeter with a photo-diode read-out system for high-energy electron beams**|O. Adriani et.al.|[2410.03274v1](http://arxiv.org/abs/2410.03274v1)|null|
 |**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241v1](http://arxiv.org/abs/2410.03241v1)|null|
