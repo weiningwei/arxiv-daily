@@ -10,7 +10,7 @@
 |**2024-10-10**|**Increasing the spatial bandwidth product in Light Field Microscopy with remote scanning**|Aymerick Bazin et.al.|[2410.07975v1](http://arxiv.org/abs/2410.07975v1)|null|
 |**2024-10-10**|**Multimodal Perception System for Real Open Environment**|Yuyang Sha et.al.|[2410.07926v1](http://arxiv.org/abs/2410.07926v1)|null|
 |**2024-10-10**|**Forgotten treasures in the HST/FOC UV imaging polarimetric archives of active galactic nuclei III. Five years monitoring of M87**|F. Marin et.al.|[2410.07903v1](http://arxiv.org/abs/2410.07903v1)|null|
-|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707v1](http://arxiv.org/abs/2410.07707v1)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707v1](http://arxiv.org/abs/2410.07707v1)|[link](https://github.com/RuijieZhu94/MotionGS)|
 |**2024-10-10**|**RNA: Video Editing with ROI-based Neural Atlas**|Jaekyeong Lee et.al.|[2410.07600v1](http://arxiv.org/abs/2410.07600v1)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577v1](http://arxiv.org/abs/2410.07577v1)|null|
 |**2024-10-09**|**Progressive Multi-Modal Fusion for Robust 3D Object Detection**|Rohit Mohan et.al.|[2410.07475v1](http://arxiv.org/abs/2410.07475v1)|null|
