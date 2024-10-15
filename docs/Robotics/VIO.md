@@ -30,5 +30,5 @@
 |**2024-10-04**|**Enhancement to Fusion Reactivity in Sheared Flows**|Henry Fetsch et.al.|[2410.03590v1](http://arxiv.org/abs/2410.03590v1)|null|
 |**2024-10-04**|**Dam break of viscoplastic elliptical objects**|Kindness Isukwem et.al.|[2410.03402v1](http://arxiv.org/abs/2410.03402v1)|null|
 |**2024-10-04**|**Applicability criteria of proper charge neutrality and special relativistic MHD models extended by two-fluid effects**|Shuntaro Yoshino et.al.|[2410.03317v3](http://arxiv.org/abs/2410.03317v3)|null|
-|**2024-10-04**|**Extending Kolmogorov Theory to Polymeric Turbulence**|Alessandro Chiarini et.al.|[2410.03237v1](http://arxiv.org/abs/2410.03237v1)|null|
+|**2024-10-04**|**Extending Kolmogorov Theory to Polymeric Turbulence**|Alessandro Chiarini et.al.|[2410.03237v2](http://arxiv.org/abs/2410.03237v2)|null|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
