@@ -2,10 +2,18 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
+|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
+|**2024-10-12**|**An Optical Method for Evaluating the Mechanical Properties of Wires Under Impact Tensile Load**|Phichai Youplao et.al.|[2410.09618v1](http://arxiv.org/abs/2410.09618v1)|null|
+|**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513v1](http://arxiv.org/abs/2410.09513v1)|null|
+|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
+|**2024-10-12**|**Wide range quantum enhanced rotation sensing with 1+2 dimensional dynamical decoupling techniques**|X. N. Feng et.al.|[2410.09367v1](http://arxiv.org/abs/2410.09367v1)|null|
+|**2024-10-12**|**Spatio-Temporal Performance of 2D Local Inertial Hydrodynamic Models for Urban Drainage and Dam-Break Applications**|Marcus N. Gomes Jr. et.al.|[2410.09325v1](http://arxiv.org/abs/2410.09325v1)|null|
 |**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990v1](http://arxiv.org/abs/2410.08990v1)|null|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|null|
 |**2024-10-11**|**DCNet: A Data-Driven Framework for DVL Calibration**|Zeev Yampolsky et.al.|[2410.08809v2](http://arxiv.org/abs/2410.08809v2)|null|
 |**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|null|
+|**2024-10-11**|**Convolutional Neural Network Design and Evaluation for Real-Time Multivariate Time Series Fault Detection in Spacecraft Attitude Sensors**|Riccardo Gallon et.al.|[2410.09126v1](http://arxiv.org/abs/2410.09126v1)|null|
 |**2024-10-11**|**Integrated adaptive coherent LiDAR for 4D bionic vision**|Ruixuan Chen et.al.|[2410.08554v1](http://arxiv.org/abs/2410.08554v1)|null|
 |**2024-10-10**|**Modular Adaptive Aerial Manipulation under Unknown Dynamic Coupling Forces**|Rishabh Dev Yadav et.al.|[2410.08285v1](http://arxiv.org/abs/2410.08285v1)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
@@ -24,11 +32,3 @@
 |**2024-10-07**|**vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox**|Paulo Roberto Pereira Santiago et.al.|[2410.07238v1](http://arxiv.org/abs/2410.07238v1)|null|
 |**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
 |**2024-10-06**|**Liquid-Droplet Coalescence: CNN-based Reconstruction of Flow Fields from Concentration Fields**|Vasanth Kumar Babu et.al.|[2410.04451v1](http://arxiv.org/abs/2410.04451v1)|null|
-|**2024-10-05**|**Retraction of levitating drops**|Kindness Isukwem et.al.|[2410.04115v1](http://arxiv.org/abs/2410.04115v1)|null|
-|**2024-10-05**|**First-principles study of the energetics and the local chemical ordering of tungsten-based alloys**|Yichen Qian et.al.|[2410.03998v2](http://arxiv.org/abs/2410.03998v2)|null|
-|**2024-10-04**|**Universal Global State Estimation for Inertial Navigation Systems**|Sifeddine Benahmed et.al.|[2410.03846v1](http://arxiv.org/abs/2410.03846v1)|null|
-|**2024-10-04**|**Enhancement to Fusion Reactivity in Sheared Flows**|Henry Fetsch et.al.|[2410.03590v1](http://arxiv.org/abs/2410.03590v1)|null|
-|**2024-10-04**|**Dam break of viscoplastic elliptical objects**|Kindness Isukwem et.al.|[2410.03402v1](http://arxiv.org/abs/2410.03402v1)|null|
-|**2024-10-04**|**Applicability criteria of proper charge neutrality and special relativistic MHD models extended by two-fluid effects**|Shuntaro Yoshino et.al.|[2410.03317v3](http://arxiv.org/abs/2410.03317v3)|null|
-|**2024-10-04**|**Extending Kolmogorov Theory to Polymeric Turbulence**|Alessandro Chiarini et.al.|[2410.03237v2](http://arxiv.org/abs/2410.03237v2)|null|
-|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
