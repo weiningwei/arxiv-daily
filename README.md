@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-10-16 20:52:37 Asia/Shanghai
+ Automated deployment @ 2024-10-16 21:15:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
-|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
-|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
-|**2024-10-12**|**An Optical Method for Evaluating the Mechanical Properties of Wires Under Impact Tensile Load**|Phichai Youplao et.al.|[2410.09618v1](http://arxiv.org/abs/2410.09618v1)|null|
-|**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513v1](http://arxiv.org/abs/2410.09513v1)|null|
-|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
-|**2024-10-12**|**Wide range quantum enhanced rotation sensing with 1+2 dimensional dynamical decoupling techniques**|X. N. Feng et.al.|[2410.09367v1](http://arxiv.org/abs/2410.09367v1)|null|
-|**2024-10-12**|**Spatio-Temporal Performance of 2D Local Inertial Hydrodynamic Models for Urban Drainage and Dam-Break Applications**|Marcus N. Gomes Jr. et.al.|[2410.09325v1](http://arxiv.org/abs/2410.09325v1)|null|
-|**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990v1](http://arxiv.org/abs/2410.08990v1)|null|
-|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|null|
-|**2024-10-11**|**DCNet: A Data-Driven Framework for DVL Calibration**|Zeev Yampolsky et.al.|[2410.08809v2](http://arxiv.org/abs/2410.08809v2)|null|
-|**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|null|
-|**2024-10-11**|**Convolutional Neural Network Design and Evaluation for Real-Time Multivariate Time Series Fault Detection in Spacecraft Attitude Sensors**|Riccardo Gallon et.al.|[2410.09126v1](http://arxiv.org/abs/2410.09126v1)|null|
-|**2024-10-11**|**Integrated adaptive coherent LiDAR for 4D bionic vision**|Ruixuan Chen et.al.|[2410.08554v1](http://arxiv.org/abs/2410.08554v1)|null|
-|**2024-10-10**|**Modular Adaptive Aerial Manipulation under Unknown Dynamic Coupling Forces**|Rishabh Dev Yadav et.al.|[2410.08285v1](http://arxiv.org/abs/2410.08285v1)|null|
-|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
-|**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097v1](http://arxiv.org/abs/2410.08097v1)|null|
-|**2024-10-10**|**From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry**|Punith Reddy Vanteddu et.al.|[2410.07963v2](http://arxiv.org/abs/2410.07963v2)|[link](https://github.com/ami-iit/paper_vanteddu_2024_iros_cogenerative_cad)|
-|**2024-10-09**|**Control System Design and Experiments for Autonomous Underwater Helicopter Docking Procedure Based on Acoustic-inertial-optical Guidance**|Haoda Li et.al.|[2410.06953v1](http://arxiv.org/abs/2410.06953v1)|null|
-|**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
-|**2024-10-08**|**Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices**|Yucheng Yang et.al.|[2410.06400v1](http://arxiv.org/abs/2410.06400v1)|null|
-|**2024-10-08**|**TapType: Ten-finger text entry on everyday surfaces via Bayesian inference**|Paul Streli et.al.|[2410.06001v1](http://arxiv.org/abs/2410.06001v1)|null|
-|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
-|**2024-10-08**|**Entangled quantum trajectories in relativistic systems**|Yannick Noel Freitag et.al.|[2410.05995v1](http://arxiv.org/abs/2410.05995v1)|null|
-|**2024-10-07**|**Propeller damage detection, classification and estimation in multirotor vehicles**|Claudio Pose et.al.|[2410.05447v1](http://arxiv.org/abs/2410.05447v1)|null|
-|**2024-10-07**|**2FAST-2LAMAA: A Lidar-Inertial Localisation and Mapping Framework for Non-Static Environments**|Cedric Le Gentil et.al.|[2410.05433v1](http://arxiv.org/abs/2410.05433v1)|[link](https://github.com/uts-ri/2fast2lamaa)|
-|**2024-10-07**|**Estimates of (convective core) masses, radii, and relative ages for $\sim$14,000 Gaia-discovered gravity-mode pulsators monitored by TESS**|Joey S. G. Mombarg et.al.|[2410.05367v1](http://arxiv.org/abs/2410.05367v1)|null|
-|**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152v1](http://arxiv.org/abs/2410.05152v1)|null|
-|**2024-10-07**|**vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox**|Paulo Roberto Pereira Santiago et.al.|[2410.07238v1](http://arxiv.org/abs/2410.07238v1)|null|
-|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-15**|**The Age of DDoScovery: An Empirical Comparison of Industry and Academic DDoS Assessments**|Raphael Hiesgen et.al.|[2410.11708v1](http://arxiv.org/abs/2410.11708v1)|null|
-|**2024-10-15**|**Scylla I: A pure-parallel, multi-wavelength imaging survey of the ULLYSES fields in the LMC and SMC**|Claire E. Murray et.al.|[2410.11695v1](http://arxiv.org/abs/2410.11695v1)|null|
-|**2024-10-15**|**Quantitative Fiber Orientation Analysis of Carbon Fiber Sheet Molding Compounds using Polarization Imaging and X-Ray Computed Tomography**|Miro Duhovic et.al.|[2410.11597v1](http://arxiv.org/abs/2410.11597v1)|null|
-|**2024-10-15**|**Look Ma, no markers: holistic performance capture without the hassle**|Charlie Hewitt et.al.|[2410.11520v1](http://arxiv.org/abs/2410.11520v1)|null|
-|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
-|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419v1](http://arxiv.org/abs/2410.11419v1)|null|
-|**2024-10-15**|**Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting**|Yuanbo Chen et.al.|[2410.11285v1](http://arxiv.org/abs/2410.11285v1)|null|
-|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228v1](http://arxiv.org/abs/2410.11228v1)|null|
-|**2024-10-15**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211v1](http://arxiv.org/abs/2410.11211v1)|[link](https://github.com/safetylab24/FusionCVCP)|
-|**2024-10-15**|**Spider-Webb: JWST Near Infrared Camera resolved galaxy star formation and nuclear activities in the Spiderweb protocluster at z=2.16**|Rhythm Shimakawa et.al.|[2410.11174v1](http://arxiv.org/abs/2410.11174v1)|null|
-|**2024-10-14**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125v1](http://arxiv.org/abs/2410.11125v1)|null|
-|**2024-10-14**|**ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera**|Jing Liang et.al.|[2410.11019v1](http://arxiv.org/abs/2410.11019v1)|null|
-|**2024-10-14**|**Optimizing Radio Access Technology Selection and Precoding in CV-Aided ISAC Systems**|Yulan Gao et.al.|[2410.11002v1](http://arxiv.org/abs/2410.11002v1)|null|
-|**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817v1](http://arxiv.org/abs/2410.10817v1)|null|
-|**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803v1](http://arxiv.org/abs/2410.10803v1)|[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)|
-|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802v1](http://arxiv.org/abs/2410.10802v1)|null|
-|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791v1](http://arxiv.org/abs/2410.10791v1)|null|
-|**2024-10-14**|**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**|Dejia Xu et.al.|[2410.10774v1](http://arxiv.org/abs/2410.10774v1)|null|
-|**2024-10-14**|**Fully Programmable Spatial Photonic Ising Machine by Focal Plane Division**|Daniele Veraldi et.al.|[2410.10689v1](http://arxiv.org/abs/2410.10689v1)|null|
-|**2024-10-14**|**Spectroscopically resolved partial phase curve of the rapid heating and cooling of the highly-eccentric Hot Jupiter HAT-P-2b with WFC3**|Bob Jacobs et.al.|[2410.11643v1](http://arxiv.org/abs/2410.11643v1)|null|
-|**2024-10-14**|**Fully Asynchronous Neuromorphic Perception for Mobile Robot Dodging with Loihi Chips**|Junjie Jiang et.al.|[2410.10601v1](http://arxiv.org/abs/2410.10601v1)|null|
-|**2024-10-14**|**Voltage-Controlled Magnetic Tunnel Junction based ADC-less Global Shutter Processing-in-Pixel for Extreme-Edge Intelligence**|Md Abdullah-Al Kaiser et.al.|[2410.10592v1](http://arxiv.org/abs/2410.10592v1)|null|
-|**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589v1](http://arxiv.org/abs/2410.10589v1)|null|
-|**2024-10-14**|**Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models**|Chanhoe Ryu et.al.|[2410.10577v1](http://arxiv.org/abs/2410.10577v1)|null|
-|**2024-10-14**|**Advancing Newborn Care: Precise Birth Time Detection Using AI-Driven Thermal Imaging with Adaptive Normalization**|Jorge García-Torres et.al.|[2410.10483v1](http://arxiv.org/abs/2410.10483v1)|[link](https://github.com/jtorres258/image-based-tob)|
-|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409v1](http://arxiv.org/abs/2410.10409v1)|null|
-|**2024-10-14**|**Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**|Pengzhou Cai et.al.|[2410.10352v2](http://arxiv.org/abs/2410.10352v2)|null|
-|**2024-10-14**|**ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object**|Jiwei Chen et.al.|[2410.10298v1](http://arxiv.org/abs/2410.10298v1)|null|
-|**2024-10-14**|**Automated extraction of 4D aircraft trajectories from video recordings**|Jean-François Villeforceix et.al.|[2410.10249v1](http://arxiv.org/abs/2410.10249v1)|null|
-|**2024-10-14**|**A Geometric Model with Stochastic Error for Abnormal Motion Detection of Portal Crane Bucket Grab**|Baichen Yu et.al.|[2410.10246v1](http://arxiv.org/abs/2410.10246v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -140,3 +72,71 @@
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du et.al.|[2409.19510v1](http://arxiv.org/abs/2409.19510v1)|[link](https://github.com/X-LANCE/SLAM-LLM)|
 |**2024-09-29**|**Fast-UMI: A Scalable and Hardware-Independent Universal Manipulation Interface**|Ziniu Wu et.al.|[2409.19499v1](http://arxiv.org/abs/2409.19499v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-15**|**The Age of DDoScovery: An Empirical Comparison of Industry and Academic DDoS Assessments**|Raphael Hiesgen et.al.|[2410.11708v1](http://arxiv.org/abs/2410.11708v1)|null|
+|**2024-10-15**|**Scylla I: A pure-parallel, multi-wavelength imaging survey of the ULLYSES fields in the LMC and SMC**|Claire E. Murray et.al.|[2410.11695v1](http://arxiv.org/abs/2410.11695v1)|null|
+|**2024-10-15**|**Quantitative Fiber Orientation Analysis of Carbon Fiber Sheet Molding Compounds using Polarization Imaging and X-Ray Computed Tomography**|Miro Duhovic et.al.|[2410.11597v1](http://arxiv.org/abs/2410.11597v1)|null|
+|**2024-10-15**|**Look Ma, no markers: holistic performance capture without the hassle**|Charlie Hewitt et.al.|[2410.11520v1](http://arxiv.org/abs/2410.11520v1)|null|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
+|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419v1](http://arxiv.org/abs/2410.11419v1)|null|
+|**2024-10-15**|**Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting**|Yuanbo Chen et.al.|[2410.11285v1](http://arxiv.org/abs/2410.11285v1)|null|
+|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228v1](http://arxiv.org/abs/2410.11228v1)|null|
+|**2024-10-15**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211v1](http://arxiv.org/abs/2410.11211v1)|[link](https://github.com/safetylab24/FusionCVCP)|
+|**2024-10-15**|**Spider-Webb: JWST Near Infrared Camera resolved galaxy star formation and nuclear activities in the Spiderweb protocluster at z=2.16**|Rhythm Shimakawa et.al.|[2410.11174v1](http://arxiv.org/abs/2410.11174v1)|null|
+|**2024-10-14**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125v1](http://arxiv.org/abs/2410.11125v1)|null|
+|**2024-10-14**|**ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera**|Jing Liang et.al.|[2410.11019v1](http://arxiv.org/abs/2410.11019v1)|null|
+|**2024-10-14**|**Optimizing Radio Access Technology Selection and Precoding in CV-Aided ISAC Systems**|Yulan Gao et.al.|[2410.11002v1](http://arxiv.org/abs/2410.11002v1)|null|
+|**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817v1](http://arxiv.org/abs/2410.10817v1)|null|
+|**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803v1](http://arxiv.org/abs/2410.10803v1)|[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802v1](http://arxiv.org/abs/2410.10802v1)|null|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791v1](http://arxiv.org/abs/2410.10791v1)|null|
+|**2024-10-14**|**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**|Dejia Xu et.al.|[2410.10774v1](http://arxiv.org/abs/2410.10774v1)|null|
+|**2024-10-14**|**Fully Programmable Spatial Photonic Ising Machine by Focal Plane Division**|Daniele Veraldi et.al.|[2410.10689v1](http://arxiv.org/abs/2410.10689v1)|null|
+|**2024-10-14**|**Spectroscopically resolved partial phase curve of the rapid heating and cooling of the highly-eccentric Hot Jupiter HAT-P-2b with WFC3**|Bob Jacobs et.al.|[2410.11643v1](http://arxiv.org/abs/2410.11643v1)|null|
+|**2024-10-14**|**Fully Asynchronous Neuromorphic Perception for Mobile Robot Dodging with Loihi Chips**|Junjie Jiang et.al.|[2410.10601v1](http://arxiv.org/abs/2410.10601v1)|null|
+|**2024-10-14**|**Voltage-Controlled Magnetic Tunnel Junction based ADC-less Global Shutter Processing-in-Pixel for Extreme-Edge Intelligence**|Md Abdullah-Al Kaiser et.al.|[2410.10592v1](http://arxiv.org/abs/2410.10592v1)|null|
+|**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589v1](http://arxiv.org/abs/2410.10589v1)|null|
+|**2024-10-14**|**Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models**|Chanhoe Ryu et.al.|[2410.10577v1](http://arxiv.org/abs/2410.10577v1)|null|
+|**2024-10-14**|**Advancing Newborn Care: Precise Birth Time Detection Using AI-Driven Thermal Imaging with Adaptive Normalization**|Jorge García-Torres et.al.|[2410.10483v1](http://arxiv.org/abs/2410.10483v1)|[link](https://github.com/jtorres258/image-based-tob)|
+|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409v1](http://arxiv.org/abs/2410.10409v1)|null|
+|**2024-10-14**|**Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**|Pengzhou Cai et.al.|[2410.10352v2](http://arxiv.org/abs/2410.10352v2)|null|
+|**2024-10-14**|**ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object**|Jiwei Chen et.al.|[2410.10298v1](http://arxiv.org/abs/2410.10298v1)|null|
+|**2024-10-14**|**Automated extraction of 4D aircraft trajectories from video recordings**|Jean-François Villeforceix et.al.|[2410.10249v1](http://arxiv.org/abs/2410.10249v1)|null|
+|**2024-10-14**|**A Geometric Model with Stochastic Error for Abnormal Motion Detection of Portal Crane Bucket Grab**|Baichen Yu et.al.|[2410.10246v1](http://arxiv.org/abs/2410.10246v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
+|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
+|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
+|**2024-10-12**|**An Optical Method for Evaluating the Mechanical Properties of Wires Under Impact Tensile Load**|Phichai Youplao et.al.|[2410.09618v1](http://arxiv.org/abs/2410.09618v1)|null|
+|**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513v1](http://arxiv.org/abs/2410.09513v1)|null|
+|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
+|**2024-10-12**|**Wide range quantum enhanced rotation sensing with 1+2 dimensional dynamical decoupling techniques**|X. N. Feng et.al.|[2410.09367v1](http://arxiv.org/abs/2410.09367v1)|null|
+|**2024-10-12**|**Spatio-Temporal Performance of 2D Local Inertial Hydrodynamic Models for Urban Drainage and Dam-Break Applications**|Marcus N. Gomes Jr. et.al.|[2410.09325v1](http://arxiv.org/abs/2410.09325v1)|null|
+|**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990v1](http://arxiv.org/abs/2410.08990v1)|null|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|null|
+|**2024-10-11**|**DCNet: A Data-Driven Framework for DVL Calibration**|Zeev Yampolsky et.al.|[2410.08809v2](http://arxiv.org/abs/2410.08809v2)|null|
+|**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|null|
+|**2024-10-11**|**Convolutional Neural Network Design and Evaluation for Real-Time Multivariate Time Series Fault Detection in Spacecraft Attitude Sensors**|Riccardo Gallon et.al.|[2410.09126v1](http://arxiv.org/abs/2410.09126v1)|null|
+|**2024-10-11**|**Integrated adaptive coherent LiDAR for 4D bionic vision**|Ruixuan Chen et.al.|[2410.08554v1](http://arxiv.org/abs/2410.08554v1)|null|
+|**2024-10-10**|**Modular Adaptive Aerial Manipulation under Unknown Dynamic Coupling Forces**|Rishabh Dev Yadav et.al.|[2410.08285v1](http://arxiv.org/abs/2410.08285v1)|null|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
+|**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097v1](http://arxiv.org/abs/2410.08097v1)|null|
+|**2024-10-10**|**From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry**|Punith Reddy Vanteddu et.al.|[2410.07963v2](http://arxiv.org/abs/2410.07963v2)|[link](https://github.com/ami-iit/paper_vanteddu_2024_iros_cogenerative_cad)|
+|**2024-10-09**|**Control System Design and Experiments for Autonomous Underwater Helicopter Docking Procedure Based on Acoustic-inertial-optical Guidance**|Haoda Li et.al.|[2410.06953v1](http://arxiv.org/abs/2410.06953v1)|null|
+|**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
+|**2024-10-08**|**Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices**|Yucheng Yang et.al.|[2410.06400v1](http://arxiv.org/abs/2410.06400v1)|null|
+|**2024-10-08**|**TapType: Ten-finger text entry on everyday surfaces via Bayesian inference**|Paul Streli et.al.|[2410.06001v1](http://arxiv.org/abs/2410.06001v1)|null|
+|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
+|**2024-10-08**|**Entangled quantum trajectories in relativistic systems**|Yannick Noel Freitag et.al.|[2410.05995v1](http://arxiv.org/abs/2410.05995v1)|null|
+|**2024-10-07**|**Propeller damage detection, classification and estimation in multirotor vehicles**|Claudio Pose et.al.|[2410.05447v1](http://arxiv.org/abs/2410.05447v1)|null|
+|**2024-10-07**|**2FAST-2LAMAA: A Lidar-Inertial Localisation and Mapping Framework for Non-Static Environments**|Cedric Le Gentil et.al.|[2410.05433v1](http://arxiv.org/abs/2410.05433v1)|[link](https://github.com/uts-ri/2fast2lamaa)|
+|**2024-10-07**|**Estimates of (convective core) masses, radii, and relative ages for $\sim$14,000 Gaia-discovered gravity-mode pulsators monitored by TESS**|Joey S. G. Mombarg et.al.|[2410.05367v1](http://arxiv.org/abs/2410.05367v1)|null|
+|**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152v1](http://arxiv.org/abs/2410.05152v1)|null|
+|**2024-10-07**|**vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox**|Paulo Roberto Pereira Santiago et.al.|[2410.07238v1](http://arxiv.org/abs/2410.07238v1)|null|
+|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
