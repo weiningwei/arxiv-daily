@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
 |**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
 |**2024-10-12**|**An Optical Method for Evaluating the Mechanical Properties of Wires Under Impact Tensile Load**|Phichai Youplao et.al.|[2410.09618v1](http://arxiv.org/abs/2410.09618v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152v1](http://arxiv.org/abs/2410.05152v1)|null|
 |**2024-10-07**|**vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox**|Paulo Roberto Pereira Santiago et.al.|[2410.07238v1](http://arxiv.org/abs/2410.07238v1)|null|
 |**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
-|**2024-10-06**|**Liquid-Droplet Coalescence: CNN-based Reconstruction of Flow Fields from Concentration Fields**|Vasanth Kumar Babu et.al.|[2410.04451v1](http://arxiv.org/abs/2410.04451v1)|null|
