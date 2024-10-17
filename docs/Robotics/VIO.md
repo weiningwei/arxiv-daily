@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-16**|**Data-Driven Gyroscope Calibration**|Zeev Yampolsky et.al.|[2410.12485v1](http://arxiv.org/abs/2410.12485v1)|null|
+|**2024-10-16**|**Efficient generation of divergent and collimated hot electrons via a novel multi-beam two-plasmon decay and stimulated Raman scattering mechanism**|K. Y. Meng et.al.|[2410.12460v1](http://arxiv.org/abs/2410.12460v1)|null|
+|**2024-10-16**|**Dynamical signature of vortex mass in Fermi superfluids**|Andrea Richaud et.al.|[2410.12417v1](http://arxiv.org/abs/2410.12417v1)|null|
+|**2024-10-16**|**A Data-driven Contact Estimation Method for Wheeled-Biped Robots**|Ü. Bora Gökbakan et.al.|[2410.12345v1](http://arxiv.org/abs/2410.12345v1)|null|
+|**2024-10-16**|**Magnetic Distortion Resistant Orientation Estimation**|Sikai Yang et.al.|[2410.12304v1](http://arxiv.org/abs/2410.12304v1)|null|
+|**2024-10-16**|**A Robot Kinematics Model Estimation Using Inertial Sensors for On-Site Building Robotics**|Hiroya Sato et.al.|[2410.12277v1](http://arxiv.org/abs/2410.12277v1)|null|
+|**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
+|**2024-10-16**|**Criticality of the viscous to inertial transition near jamming in non-Brownian suspensions**|Nishanth Murugan et.al.|[2410.12140v1](http://arxiv.org/abs/2410.12140v1)|null|
+|**2024-10-15**|**Early turbulence in viscoelastic flow past a periodic cylinder array**|Lu Zhu et.al.|[2410.12033v1](http://arxiv.org/abs/2410.12033v1)|null|
 |**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
 |**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
@@ -23,12 +32,3 @@
 |**2024-10-09**|**Control System Design and Experiments for Autonomous Underwater Helicopter Docking Procedure Based on Acoustic-inertial-optical Guidance**|Haoda Li et.al.|[2410.06953v1](http://arxiv.org/abs/2410.06953v1)|null|
 |**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
 |**2024-10-08**|**Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices**|Yucheng Yang et.al.|[2410.06400v1](http://arxiv.org/abs/2410.06400v1)|null|
-|**2024-10-08**|**TapType: Ten-finger text entry on everyday surfaces via Bayesian inference**|Paul Streli et.al.|[2410.06001v1](http://arxiv.org/abs/2410.06001v1)|null|
-|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
-|**2024-10-08**|**Entangled quantum trajectories in relativistic systems**|Yannick Noel Freitag et.al.|[2410.05995v1](http://arxiv.org/abs/2410.05995v1)|null|
-|**2024-10-07**|**Propeller damage detection, classification and estimation in multirotor vehicles**|Claudio Pose et.al.|[2410.05447v1](http://arxiv.org/abs/2410.05447v1)|null|
-|**2024-10-07**|**2FAST-2LAMAA: A Lidar-Inertial Localisation and Mapping Framework for Non-Static Environments**|Cedric Le Gentil et.al.|[2410.05433v1](http://arxiv.org/abs/2410.05433v1)|[link](https://github.com/uts-ri/2fast2lamaa)|
-|**2024-10-07**|**Estimates of (convective core) masses, radii, and relative ages for $\sim$14,000 Gaia-discovered gravity-mode pulsators monitored by TESS**|Joey S. G. Mombarg et.al.|[2410.05367v1](http://arxiv.org/abs/2410.05367v1)|null|
-|**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152v1](http://arxiv.org/abs/2410.05152v1)|null|
-|**2024-10-07**|**vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox**|Paulo Roberto Pereira Santiago et.al.|[2410.07238v1](http://arxiv.org/abs/2410.07238v1)|null|
-|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
