@@ -5,7 +5,7 @@
 |**2024-10-16**|**Data-Driven Gyroscope Calibration**|Zeev Yampolsky et.al.|[2410.12485v1](http://arxiv.org/abs/2410.12485v1)|null|
 |**2024-10-16**|**Efficient generation of divergent and collimated hot electrons via a novel multi-beam two-plasmon decay and stimulated Raman scattering mechanism**|K. Y. Meng et.al.|[2410.12460v1](http://arxiv.org/abs/2410.12460v1)|null|
 |**2024-10-16**|**Dynamical signature of vortex mass in Fermi superfluids**|Andrea Richaud et.al.|[2410.12417v1](http://arxiv.org/abs/2410.12417v1)|null|
-|**2024-10-16**|**A Data-driven Contact Estimation Method for Wheeled-Biped Robots**|Ü. Bora Gökbakan et.al.|[2410.12345v1](http://arxiv.org/abs/2410.12345v1)|null|
+|**2024-10-16**|**A Data-driven Contact Estimation Method for Wheeled-Biped Robots**|Ü. Bora Gökbakan et.al.|[2410.12345v2](http://arxiv.org/abs/2410.12345v2)|null|
 |**2024-10-16**|**Magnetic Distortion Resistant Orientation Estimation**|Sikai Yang et.al.|[2410.12304v1](http://arxiv.org/abs/2410.12304v1)|null|
 |**2024-10-16**|**A Robot Kinematics Model Estimation Using Inertial Sensors for On-Site Building Robotics**|Hiroya Sato et.al.|[2410.12277v1](http://arxiv.org/abs/2410.12277v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
