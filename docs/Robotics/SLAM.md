@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612v1](http://arxiv.org/abs/2410.13612v1)|null|
+|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520v1](http://arxiv.org/abs/2410.12520v1)|null|
 |**2024-10-16**|**PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM**|Guanghao Li et.al.|[2410.12324v1](http://arxiv.org/abs/2410.12324v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
@@ -30,5 +32,3 @@
 |**2024-10-01**|**Under Pressure: Altimeter-Aided ICP for 3D Maps Consistency**|William Dubois et.al.|[2410.00758v1](http://arxiv.org/abs/2410.00758v1)|null|
 |**2024-10-01**|**CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**|Dapeng Feng et.al.|[2410.00486v2](http://arxiv.org/abs/2410.00486v2)|[link](https://github.com/DapengFeng/cartgs)|
 |**2024-09-30**|**Additively Manufactured Open-Source Quadruped Robots for Multi-Robot SLAM Applications**|Zachary Fuge et.al.|[2410.00122v1](http://arxiv.org/abs/2410.00122v1)|null|
-|**2024-09-30**|**Direct Multipath-Based SLAM**|Mingchao Liang et.al.|[2409.20552v1](http://arxiv.org/abs/2409.20552v1)|null|
-|**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111v1](http://arxiv.org/abs/2409.20111v1)|null|

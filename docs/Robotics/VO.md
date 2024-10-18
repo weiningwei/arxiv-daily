@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
+|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
 |**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
@@ -30,5 +32,3 @@
 |**2024-09-19**|**UL-VIO: Ultra-lightweight Visual-Inertial Odometry with Noise Robust Test-time Adaptation**|Jinho Park et.al.|[2409.13106v1](http://arxiv.org/abs/2409.13106v1)|null|
 |**2024-09-18**|**The Finer Points: A Systematic Comparison of Point-Cloud Extractors for Radar Odometry**|Elliot Preston-Krebs et.al.|[2409.12256v1](http://arxiv.org/abs/2409.12256v1)|null|
 |**2024-09-18**|**Online Refractive Camera Model Calibration in Visual Inertial Odometry**|Mohit Singh et.al.|[2409.12074v1](http://arxiv.org/abs/2409.12074v1)|null|
-|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692v1](http://arxiv.org/abs/2409.11692v1)|null|
-|**2024-09-17**|**Enhancing the Reliability of LiDAR Point Cloud Sampling: A Colorization and Super-Resolution Approach Based on LiDAR-Generated Images**|Sier Ha et.al.|[2409.11532v1](http://arxiv.org/abs/2409.11532v1)|null|

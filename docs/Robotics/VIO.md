@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
+|**2024-10-17**|**On statistical signatures of ISM turbulence in dust polarization maps**|Ka Wai Ho et.al.|[2410.13244v1](http://arxiv.org/abs/2410.13244v1)|null|
+|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
+|**2024-10-16**|**BOXR: Body and head motion Optimization framework for eXtended Reality**|Ziliang Zhang et.al.|[2410.13084v1](http://arxiv.org/abs/2410.13084v1)|[link](https://github.com/rtenlab/boxr)|
+|**2024-10-16**|**How thermally-induced secondary motions in offshore hybrid wind-solar farms improve wind-farm efficiency**|Thijs Bon et.al.|[2410.13005v1](http://arxiv.org/abs/2410.13005v1)|null|
 |**2024-10-16**|**Data-Driven Gyroscope Calibration**|Zeev Yampolsky et.al.|[2410.12485v1](http://arxiv.org/abs/2410.12485v1)|null|
 |**2024-10-16**|**Efficient generation of divergent and collimated hot electrons via a novel multi-beam two-plasmon decay and stimulated Raman scattering mechanism**|K. Y. Meng et.al.|[2410.12460v1](http://arxiv.org/abs/2410.12460v1)|null|
 |**2024-10-16**|**Dynamical signature of vortex mass in Fermi superfluids**|Andrea Richaud et.al.|[2410.12417v1](http://arxiv.org/abs/2410.12417v1)|null|
@@ -27,8 +32,3 @@
 |**2024-10-11**|**Integrated adaptive coherent LiDAR for 4D bionic vision**|Ruixuan Chen et.al.|[2410.08554v1](http://arxiv.org/abs/2410.08554v1)|null|
 |**2024-10-10**|**Modular Adaptive Aerial Manipulation under Unknown Dynamic Coupling Forces**|Rishabh Dev Yadav et.al.|[2410.08285v1](http://arxiv.org/abs/2410.08285v1)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
-|**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097v1](http://arxiv.org/abs/2410.08097v1)|null|
-|**2024-10-10**|**From CAD to URDF: Co-Design of a Jet-Powered Humanoid Robot Including CAD Geometry**|Punith Reddy Vanteddu et.al.|[2410.07963v2](http://arxiv.org/abs/2410.07963v2)|[link](https://github.com/ami-iit/paper_vanteddu_2024_iros_cogenerative_cad)|
-|**2024-10-09**|**Control System Design and Experiments for Autonomous Underwater Helicopter Docking Procedure Based on Acoustic-inertial-optical Guidance**|Haoda Li et.al.|[2410.06953v1](http://arxiv.org/abs/2410.06953v1)|null|
-|**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
-|**2024-10-08**|**Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices**|Yucheng Yang et.al.|[2410.06400v1](http://arxiv.org/abs/2410.06400v1)|null|
