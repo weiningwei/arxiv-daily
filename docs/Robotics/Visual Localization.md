@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-18**|**Neural Real-Time Recalibration for Infrared Multi-Camera Systems**|Benyamin Mehmandar et.al.|[2410.14505v1](http://arxiv.org/abs/2410.14505v1)|[link](https://github.com/theictlab/neural-recalibration)|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429v1](http://arxiv.org/abs/2410.14429v1)|null|
+|**2024-10-18**|**Variable Aperture Bokeh Rendering via Customized Focal Plane Guidance**|Kang Chen et.al.|[2410.14400v1](http://arxiv.org/abs/2410.14400v1)|[link](https://github.com/motong-ai-studio/vabm)|
+|**2024-10-18**|**Non-Invasive Qualitative Vibration Analysis using Event Camera**|Dwijay Bane et.al.|[2410.14364v1](http://arxiv.org/abs/2410.14364v1)|null|
+|**2024-10-18**|**Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction**|Taras Kucherenko et.al.|[2410.14334v1](http://arxiv.org/abs/2410.14334v1)|null|
+|**2024-10-18**|**Towards High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirrors**|Yanxiang Wang et.al.|[2410.14228v1](http://arxiv.org/abs/2410.14228v1)|null|
+|**2024-10-18**|**MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging**|Zhenghao Pan et.al.|[2410.14214v1](http://arxiv.org/abs/2410.14214v1)|null|
+|**2024-10-18**|**MediTOD: An English Dialogue Dataset for Medical History Taking with Comprehensive Annotations**|Vishal Vivek Saley et.al.|[2410.14204v1](http://arxiv.org/abs/2410.14204v1)|null|
 |**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864v1](http://arxiv.org/abs/2410.13864v1)|[link](https://github.com/ywyeli/unidrive)|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860v1](http://arxiv.org/abs/2410.13860v1)|[link](https://github.com/openrobotlab/vlm-grounder)|
 |**2024-10-17**|**VidPanos: Generative Panoramic Videos from Casual Panning Videos**|Jingwei Ma et.al.|[2410.13832v1](http://arxiv.org/abs/2410.13832v1)|null|
@@ -24,11 +32,3 @@
 |**2024-10-16**|**Super-resolving Real-world Image Illumination Enhancement: A New Dataset and A Conditional Diffusion Model**|Yang Liu et.al.|[2410.12961v1](http://arxiv.org/abs/2410.12961v1)|null|
 |**2024-10-16**|**Measuring time-resolved heat transfer fluctuations on a heated-thin foil in a turbulent channel airflow**|Antonio Cuéllar et.al.|[2410.12778v1](http://arxiv.org/abs/2410.12778v1)|null|
 |**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769v1](http://arxiv.org/abs/2410.12769v1)|null|
-|**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763v1](http://arxiv.org/abs/2410.12763v1)|[link](https://github.com/colmap/glomap)|
-|**2024-10-16**|**MultiCamCows2024 -- A Multi-view Image Dataset for AI-driven Holstein-Friesian Cattle Re-Identification on a Working Farm**|Phoenix Yu et.al.|[2410.12695v1](http://arxiv.org/abs/2410.12695v1)|null|
-|**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520v1](http://arxiv.org/abs/2410.12520v1)|[link](https://github.com/larocs/queenscamp-dataset)|
-|**2024-10-16**|**Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**|Pranjali Pathre et.al.|[2410.12432v1](http://arxiv.org/abs/2410.12432v1)|null|
-|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414v1](http://arxiv.org/abs/2410.12414v1)|[link](https://github.com/rando11199/triplet)|
-|**2024-10-16**|**Continuous Pupillography: A Case for Visual Health Ecosystem**|Usama Younus et.al.|[2410.12303v1](http://arxiv.org/abs/2410.12303v1)|null|
-|**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240v1](http://arxiv.org/abs/2410.12240v1)|null|
-|**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
