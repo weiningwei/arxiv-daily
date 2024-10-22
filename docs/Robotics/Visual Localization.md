@@ -7,7 +7,7 @@
 |**2024-10-18**|**Variable Aperture Bokeh Rendering via Customized Focal Plane Guidance**|Kang Chen et.al.|[2410.14400v1](http://arxiv.org/abs/2410.14400v1)|[link](https://github.com/motong-ai-studio/vabm)|
 |**2024-10-18**|**Non-Invasive Qualitative Vibration Analysis using Event Camera**|Dwijay Bane et.al.|[2410.14364v1](http://arxiv.org/abs/2410.14364v1)|null|
 |**2024-10-18**|**Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction**|Taras Kucherenko et.al.|[2410.14334v1](http://arxiv.org/abs/2410.14334v1)|null|
-|**2024-10-18**|**Towards High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirrors**|Yanxiang Wang et.al.|[2410.14228v1](http://arxiv.org/abs/2410.14228v1)|null|
+|**2024-10-18**|**Towards High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirrors**|Yanxiang Wang et.al.|[2410.14228v2](http://arxiv.org/abs/2410.14228v2)|null|
 |**2024-10-18**|**MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging**|Zhenghao Pan et.al.|[2410.14214v1](http://arxiv.org/abs/2410.14214v1)|null|
 |**2024-10-18**|**MediTOD: An English Dialogue Dataset for Medical History Taking with Comprehensive Annotations**|Vishal Vivek Saley et.al.|[2410.14204v1](http://arxiv.org/abs/2410.14204v1)|null|
 |**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864v1](http://arxiv.org/abs/2410.13864v1)|[link](https://github.com/ywyeli/unidrive)|
