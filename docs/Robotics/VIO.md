@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|null|
+|**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v1](http://arxiv.org/abs/2410.15799v1)|null|
+|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
+|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
+|**2024-10-20**|**An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation**|Jianhang Jia et.al.|[2410.15414v1](http://arxiv.org/abs/2410.15414v1)|null|
+|**2024-10-20**|**DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery**|Seungwon Song et.al.|[2410.15373v1](http://arxiv.org/abs/2410.15373v1)|null|
 |**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v2](http://arxiv.org/abs/2410.14549v2)|null|
 |**2024-10-18**|**Wall-damped Faraday waves in horizontally oscillating two-layer fluid flows**|Linfeng Piao et.al.|[2410.14467v1](http://arxiv.org/abs/2410.14467v1)|null|
 |**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
@@ -26,9 +32,3 @@
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
 |**2024-10-12**|**Wide-range quantum enhanced rotation sensing with 1+2 dimensional dynamical decoupling techniques**|X. N. Feng et.al.|[2410.09367v2](http://arxiv.org/abs/2410.09367v2)|null|
 |**2024-10-12**|**Spatio-Temporal Performance of 2D Local Inertial Hydrodynamic Models for Urban Drainage and Dam-Break Applications**|Marcus N. Gomes Jr. et.al.|[2410.09325v1](http://arxiv.org/abs/2410.09325v1)|null|
-|**2024-10-11**|**Cyclic jetting enables microbubble-mediated drug delivery**|Marco Cattaneo et.al.|[2410.08990v1](http://arxiv.org/abs/2410.08990v1)|null|
-|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|[link](https://github.com/hku-mars/Voxel-SLAM)|
-|**2024-10-11**|**DCNet: A Data-Driven Framework for DVL Calibration**|Zeev Yampolsky et.al.|[2410.08809v2](http://arxiv.org/abs/2410.08809v2)|null|
-|**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|[link](https://github.com/davidea97/memroc)|
-|**2024-10-11**|**Convolutional Neural Network Design and Evaluation for Real-Time Multivariate Time Series Fault Detection in Spacecraft Attitude Sensors**|Riccardo Gallon et.al.|[2410.09126v1](http://arxiv.org/abs/2410.09126v1)|null|
-|**2024-10-11**|**Integrated adaptive coherent LiDAR for 4D bionic vision**|Ruixuan Chen et.al.|[2410.08554v1](http://arxiv.org/abs/2410.08554v1)|null|

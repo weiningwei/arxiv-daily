@@ -2,6 +2,10 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|null|
+|**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v1](http://arxiv.org/abs/2410.15799v1)|null|
+|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
+|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
 |**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
@@ -28,7 +32,3 @@
 |**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847v1](http://arxiv.org/abs/2409.16847v1)|null|
 |**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228v1](http://arxiv.org/abs/2409.16228v1)|null|
 |**2024-09-21**|**Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking**|Kai Tang et.al.|[2409.13971v1](http://arxiv.org/abs/2409.13971v1)|null|
-|**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
-|**2024-09-19**|**UL-VIO: Ultra-lightweight Visual-Inertial Odometry with Noise Robust Test-time Adaptation**|Jinho Park et.al.|[2409.13106v1](http://arxiv.org/abs/2409.13106v1)|null|
-|**2024-09-18**|**The Finer Points: A Systematic Comparison of Point-Cloud Extractors for Radar Odometry**|Elliot Preston-Krebs et.al.|[2409.12256v1](http://arxiv.org/abs/2409.12256v1)|null|
-|**2024-09-18**|**Online Refractive Camera Model Calibration in Visual Inertial Odometry**|Mohit Singh et.al.|[2409.12074v1](http://arxiv.org/abs/2409.12074v1)|null|
