@@ -18,7 +18,7 @@
 |**2024-10-19**|**Low-cost Robust Night-time Aerial Material Segmentation through Hyperspectral Data and Sparse Spatio-Temporal Learning**|Chandrajit Bajaj et.al.|[2410.15208v1](http://arxiv.org/abs/2410.15208v1)|null|
 |**2024-10-19**|**EndoMetric: Near-light metric scale monocular SLAM**|Raúl Iranzo et.al.|[2410.15065v1](http://arxiv.org/abs/2410.15065v1)|null|
 |**2024-10-19**|**Wave (from) Polarized Light Learning (WPLL) method: high resolution spatio-temporal measurements of water surface waves in laboratory setups**|Noam Ginio et.al.|[2410.14988v1](http://arxiv.org/abs/2410.14988v1)|null|
-|**2024-10-19**|**Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction**|Kent K. Chang et.al.|[2410.14978v2](http://arxiv.org/abs/2410.14978v2)|null|
+|**2024-10-19**|**Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction**|Kent K. Chang et.al.|[2410.14978v2](http://arxiv.org/abs/2410.14978v2)|[link](https://github.com/kentchang/subversive-characters-chr2024)|
 |**2024-10-19**|**3D Multi-Object Tracking Employing MS-GLMB Filter for Autonomous Driving**|Linh Van Ma et.al.|[2410.14977v1](http://arxiv.org/abs/2410.14977v1)|[link](https://github.com/linh-gist/ms-glmb-nuScenes)|
 |**2024-10-19**|**AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks**|Ryan Diaz et.al.|[2410.14968v1](http://arxiv.org/abs/2410.14968v1)|null|
 |**2024-10-18**|**Neural Real-Time Recalibration for Infrared Multi-Camera Systems**|Benyamin Mehmandar et.al.|[2410.14505v1](http://arxiv.org/abs/2410.14505v1)|[link](https://github.com/theictlab/neural-recalibration)|
