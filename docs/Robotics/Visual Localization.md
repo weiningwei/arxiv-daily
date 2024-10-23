@@ -5,7 +5,7 @@
 |**2024-10-21**|**Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos**|Gengshan Yang et.al.|[2410.16259v1](http://arxiv.org/abs/2410.16259v1)|null|
 |**2024-10-21**|**A new method of reconstructing images of gamma-ray telescopes applied to the LST-1 of CTAO**|CTA-LST Project et.al.|[2410.16042v1](http://arxiv.org/abs/2410.16042v1)|null|
 |**2024-10-21**|**Diffusion Transformer Policy**|Zhi Hou et.al.|[2410.15959v1](http://arxiv.org/abs/2410.15959v1)|null|
-|**2024-10-21**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957v1](http://arxiv.org/abs/2410.15957v1)|[link](https://github.com/ZGCTroy/CamI2V)|
+|**2024-10-21**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957v2](http://arxiv.org/abs/2410.15957v2)|[link](https://github.com/ZGCTroy/CamI2V)|
 |**2024-10-21**|**MINFLUX -- molecular resolution with minimal photons**|Lukas Scheiderer et.al.|[2410.15902v1](http://arxiv.org/abs/2410.15902v1)|null|
 |**2024-10-21**|**R2I-rPPG: A Robust Region of Interest Selection Method for Remote Photoplethysmography to Extract Heart Rate**|Sandeep Nagar et.al.|[2410.15851v1](http://arxiv.org/abs/2410.15851v1)|null|
 |**2024-10-21**|**Kaninfradet3D:A Road-side Camera-LiDAR Fusion 3D Perception Model based on Nonlinear Feature Extraction and Intrinsic Correlation**|Pei Liu et.al.|[2410.15814v1](http://arxiv.org/abs/2410.15814v1)|null|
@@ -18,7 +18,7 @@
 |**2024-10-19**|**Low-cost Robust Night-time Aerial Material Segmentation through Hyperspectral Data and Sparse Spatio-Temporal Learning**|Chandrajit Bajaj et.al.|[2410.15208v1](http://arxiv.org/abs/2410.15208v1)|null|
 |**2024-10-19**|**EndoMetric: Near-light metric scale monocular SLAM**|Raúl Iranzo et.al.|[2410.15065v1](http://arxiv.org/abs/2410.15065v1)|null|
 |**2024-10-19**|**Wave (from) Polarized Light Learning (WPLL) method: high resolution spatio-temporal measurements of water surface waves in laboratory setups**|Noam Ginio et.al.|[2410.14988v1](http://arxiv.org/abs/2410.14988v1)|null|
-|**2024-10-19**|**Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction**|Kent K. Chang et.al.|[2410.14978v1](http://arxiv.org/abs/2410.14978v1)|null|
+|**2024-10-19**|**Subversive Characters and Stereotyping Readers: Characterizing Queer Relationalities with Dialogue-Based Relation Extraction**|Kent K. Chang et.al.|[2410.14978v2](http://arxiv.org/abs/2410.14978v2)|null|
 |**2024-10-19**|**3D Multi-Object Tracking Employing MS-GLMB Filter for Autonomous Driving**|Linh Van Ma et.al.|[2410.14977v1](http://arxiv.org/abs/2410.14977v1)|[link](https://github.com/linh-gist/ms-glmb-nuScenes)|
 |**2024-10-19**|**AugInsert: Learning Robust Visual-Force Policies via Data Augmentation for Object Assembly Tasks**|Ryan Diaz et.al.|[2410.14968v1](http://arxiv.org/abs/2410.14968v1)|null|
 |**2024-10-18**|**Neural Real-Time Recalibration for Infrared Multi-Camera Systems**|Benyamin Mehmandar et.al.|[2410.14505v1](http://arxiv.org/abs/2410.14505v1)|[link](https://github.com/theictlab/neural-recalibration)|
