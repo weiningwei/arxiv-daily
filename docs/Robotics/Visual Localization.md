@@ -19,9 +19,9 @@
 |**2024-10-21**|**MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**|Yu Sheng et.al.|[2410.15730v1](http://arxiv.org/abs/2410.15730v1)|null|
 |**2024-10-21**|**Exploring Stronger Transformer Representation Learning for Occluded Person Re-Identificatio**|Zhangjian Ji et.al.|[2410.15613v1](http://arxiv.org/abs/2410.15613v1)|null|
 |**2024-10-21**|**Disambiguating Monocular Reconstruction of 3D Clothed Human with Spatial-Temporal Transformer**|Yong Deng et.al.|[2410.16337v1](http://arxiv.org/abs/2410.16337v1)|null|
-|**2024-10-20**|**Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training**|Rohan Saha et.al.|[2410.15509v1](http://arxiv.org/abs/2410.15509v1)|null|
+|**2024-10-20**|**Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training**|Rohan Saha et.al.|[2410.15509v1](http://arxiv.org/abs/2410.15509v1)|[link](https://github.com/simpleparadox/baby_lm_2024)|
 |**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
-|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v2](http://arxiv.org/abs/2410.15392v2)|null|
 |**2024-10-20**|**The Massive and Distant Clusters of WISE Survey 2: Second Data Release**|Khunanon Thongkham et.al.|[2410.15303v1](http://arxiv.org/abs/2410.15303v1)|null|
 |**2024-10-19**|**Low-cost Robust Night-time Aerial Material Segmentation through Hyperspectral Data and Sparse Spatio-Temporal Learning**|Chandrajit Bajaj et.al.|[2410.15208v1](http://arxiv.org/abs/2410.15208v1)|null|
 |**2024-10-19**|**EndoMetric: Near-light metric scale monocular SLAM**|Raúl Iranzo et.al.|[2410.15065v1](http://arxiv.org/abs/2410.15065v1)|null|
