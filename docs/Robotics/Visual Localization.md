@@ -17,7 +17,7 @@
 |**2024-10-21**|**R2I-rPPG: A Robust Region of Interest Selection Method for Remote Photoplethysmography to Extract Heart Rate**|Sandeep Nagar et.al.|[2410.15851v1](http://arxiv.org/abs/2410.15851v1)|null|
 |**2024-10-21**|**Kaninfradet3D:A Road-side Camera-LiDAR Fusion 3D Perception Model based on Nonlinear Feature Extraction and Intrinsic Correlation**|Pei Liu et.al.|[2410.15814v1](http://arxiv.org/abs/2410.15814v1)|null|
 |**2024-10-21**|**MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**|Yu Sheng et.al.|[2410.15730v1](http://arxiv.org/abs/2410.15730v1)|null|
-|**2024-10-21**|**Exploring Stronger Transformer Representation Learning for Occluded Person Re-Identificatio**|Zhangjian Ji et.al.|[2410.15613v1](http://arxiv.org/abs/2410.15613v1)|null|
+|**2024-10-21**|**Exploring Stronger Transformer Representation Learning for Occluded Person Re-Identification**|Zhangjian Ji et.al.|[2410.15613v2](http://arxiv.org/abs/2410.15613v2)|null|
 |**2024-10-21**|**Disambiguating Monocular Reconstruction of 3D Clothed Human with Spatial-Temporal Transformer**|Yong Deng et.al.|[2410.16337v1](http://arxiv.org/abs/2410.16337v1)|null|
 |**2024-10-20**|**Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training**|Rohan Saha et.al.|[2410.15509v1](http://arxiv.org/abs/2410.15509v1)|[link](https://github.com/simpleparadox/baby_lm_2024)|
 |**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
