@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
 |**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
 |**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
 |**2024-10-22**|**Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method**|Kefan Zhang et.al.|[2410.16807v1](http://arxiv.org/abs/2410.16807v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-15**|**Early turbulence in viscoelastic flow past a periodic cylinder array**|Lu Zhu et.al.|[2410.12033v1](http://arxiv.org/abs/2410.12033v1)|null|
 |**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
-|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
