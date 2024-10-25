@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
+|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
+|**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|null|
 |**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
 |**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
 |**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
@@ -29,6 +32,3 @@
 |**2024-10-16**|**A Robot Kinematics Model Estimation Using Inertial Sensors for On-Site Building Robotics**|Hiroya Sato et.al.|[2410.12277v1](http://arxiv.org/abs/2410.12277v1)|[link](https://github.com/hiroya1224/urdf_estimation_with_imus)|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
 |**2024-10-16**|**Criticality of the viscous to inertial transition near jamming in non-Brownian suspensions**|Nishanth Murugan et.al.|[2410.12140v1](http://arxiv.org/abs/2410.12140v1)|null|
-|**2024-10-15**|**Early turbulence in viscoelastic flow past a periodic cylinder array**|Lu Zhu et.al.|[2410.12033v1](http://arxiv.org/abs/2410.12033v1)|null|
-|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
-|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
