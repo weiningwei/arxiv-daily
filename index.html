@@ -1,0 +1,1565 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="Robotics/Robotics/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.42">
+    
+    
+      
+        <title>arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.0253249f.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","UA-145083103-1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#arxiv-daily" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              arxiv-daily
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/weiningwei/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/weiningwei/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#robotics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Robotics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Robotics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vio" class="md-nav__link">
+    <span class="md-ellipsis">
+      VIO
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#visual-localization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Visual Localization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vo" class="md-nav__link">
+    <span class="md-ellipsis">
+      VO
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#slam" class="md-nav__link">
+    <span class="md-ellipsis">
+      SLAM
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Robotics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Robotics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/Robotics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robotics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/SFM/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SFM
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/SLAM/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SLAM
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/VIO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    VIO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/VO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    VO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/Visual%20Localization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visual Localization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#robotics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Robotics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Robotics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vio" class="md-nav__link">
+    <span class="md-ellipsis">
+      VIO
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#visual-localization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Visual Localization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vo" class="md-nav__link">
+    <span class="md-ellipsis">
+      VO
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#slam" class="md-nav__link">
+    <span class="md-ellipsis">
+      SLAM
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="arxiv-daily">arxiv-daily</h1>
+<p>Automated deployment @ 2024-10-25 08:42:39 Asia/Shanghai</p>
+<blockquote>
+<p>Welcome to contribute! Add your topics and keywords in <a href="https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml"><code>topic.yml</code></a>.
+You can also view historical data through the <a href="https://github.com/weiningwei/arxiv-daily/blob/main/database/storage">storage</a>.</p>
+</blockquote>
+<h2 id="robotics">Robotics</h2>
+<h3 id="vio">VIO</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Universal Gate Set for Optical Lattice Based Atom Interferometry</strong></td>
+<td style="text-align: center;">Catie LeDesma et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17472v1">2410.17472v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study</strong></td>
+<td style="text-align: center;">J. Jorge et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17171v1">2410.17171v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics</strong></td>
+<td style="text-align: center;">Alessandro Fortunati et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16933v1">2410.16933v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method</strong></td>
+<td style="text-align: center;">Kefan Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16807v1">2410.16807v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Long spin-1/2 noble gas coherence times in mm-sized anodically bonded batch-fabricated $^{3}$He-$^{129}$Xe-$^{87}$Rb cells</strong></td>
+<td style="text-align: center;">M. E. Limes et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16440v1">2410.16440v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Robust Loop Closure by Textual Cues in Challenging Environments</strong></td>
+<td style="text-align: center;">Tongxing Jin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15869v1">2410.15869v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/tongxingjin/txtlcd">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Flying through Moving Gates without Full State Estimation</strong></td>
+<td style="text-align: center;">Ralf Römer et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15799v2">2410.15799v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones</strong></td>
+<td style="text-align: center;">Yunqian Cheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15694v1">2410.15694v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/head-inthe-cloud/palms-indoor-localization">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>Event-based Sensor Fusion and Application on Odometry: A Survey</strong></td>
+<td style="text-align: center;">Jiaqiang Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15480v1">2410.15480v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation</strong></td>
+<td style="text-align: center;">Jianhang Jia et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15414v1">2410.15414v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery</strong></td>
+<td style="text-align: center;">Seungwon Song et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15373v1">2410.15373v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-18</strong></td>
+<td style="text-align: center;"><strong>GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting</strong></td>
+<td style="text-align: center;">Yusen Xie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17084v1">2410.17084v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-18</strong></td>
+<td style="text-align: center;"><strong>Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence</strong></td>
+<td style="text-align: center;">Lukas A. Codispoti et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.14549v2">2410.14549v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-18</strong></td>
+<td style="text-align: center;"><strong>Wall-damped Faraday waves in horizontally oscillating two-layer fluid flows</strong></td>
+<td style="text-align: center;">Linfeng Piao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.14467v1">2410.14467v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions</strong></td>
+<td style="text-align: center;">Edison P. Velasco-Sánchez et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13541v1">2410.13541v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>On statistical signatures of ISM turbulence in dust polarization maps</strong></td>
+<td style="text-align: center;">Ka Wai Ho et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13244v1">2410.13244v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal</strong></td>
+<td style="text-align: center;">Yanpeng Jia et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13240v1">2410.13240v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>BOXR: Body and head motion Optimization framework for eXtended Reality</strong></td>
+<td style="text-align: center;">Ziliang Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13084v1">2410.13084v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/rtenlab/boxr">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>How thermally-induced secondary motions in offshore hybrid wind-solar farms improve wind-farm efficiency</strong></td>
+<td style="text-align: center;">Thijs Bon et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13005v1">2410.13005v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Data-Driven Gyroscope Calibration</strong></td>
+<td style="text-align: center;">Zeev Yampolsky et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12485v2">2410.12485v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Efficient generation of divergent and collimated hot electrons via a novel multi-beam two-plasmon decay and stimulated Raman scattering mechanism</strong></td>
+<td style="text-align: center;">K. Y. Meng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12460v2">2410.12460v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Dynamical signature of vortex mass in Fermi superfluids</strong></td>
+<td style="text-align: center;">Andrea Richaud et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12417v1">2410.12417v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>A Data-driven Contact Estimation Method for Wheeled-Biped Robots</strong></td>
+<td style="text-align: center;">Ü. Bora Gökbakan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12345v2">2410.12345v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Magnetic Distortion Resistant Orientation Estimation</strong></td>
+<td style="text-align: center;">Sikai Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12304v1">2410.12304v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>A Robot Kinematics Model Estimation Using Inertial Sensors for On-Site Building Robotics</strong></td>
+<td style="text-align: center;">Hiroya Sato et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12277v1">2410.12277v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/hiroya1224/urdf_estimation_with_imus">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem</strong></td>
+<td style="text-align: center;">Yichen Sha et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12169v1">2410.12169v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Criticality of the viscous to inertial transition near jamming in non-Brownian suspensions</strong></td>
+<td style="text-align: center;">Nishanth Murugan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12140v1">2410.12140v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>Early turbulence in viscoelastic flow past a periodic cylinder array</strong></td>
+<td style="text-align: center;">Lu Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12033v1">2410.12033v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot</strong></td>
+<td style="text-align: center;">Kirill Muravyev et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.11492v1">2410.11492v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration</strong></td>
+<td style="text-align: center;">Renlang Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10295v1">2410.10295v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/renlanghuang/cast">link</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="visual-localization">Visual Localization</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-23</strong></td>
+<td style="text-align: center;"><strong>FreeVS: Generative View Synthesis on Free Driving Trajectory</strong></td>
+<td style="text-align: center;">Qitai Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.18079v1">2410.18079v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-23</strong></td>
+<td style="text-align: center;"><strong>Real time anomalies detection on video</strong></td>
+<td style="text-align: center;">Fabien Poirier et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.18051v1">2410.18051v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-23</strong></td>
+<td style="text-align: center;"><strong>Characterization of the multiplicity of solutions for camera pose given two vertically-aligned landmarks and accelerometer</strong></td>
+<td style="text-align: center;">Alexander R. Pruss et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17997v1">2410.17997v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-23</strong></td>
+<td style="text-align: center;"><strong>Robust Two-View Geometry Estimation with Implicit Differentiation</strong></td>
+<td style="text-align: center;">Vladislav Pyatov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17983v1">2410.17983v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/vladpyatov/ihls">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>AG-SLAM: Active Gaussian Splatting SLAM</strong></td>
+<td style="text-align: center;">Wen Jiang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17422v1">2410.17422v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>CAMO-S: A meteor-tracking spectrograph at the Canadian Automated Meteor Observatory</strong></td>
+<td style="text-align: center;">Michael Mazur et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17346v1">2410.17346v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Data-efficient 4D-STEM in SEM: Beyond 2D Materials to Metallic Materials</strong></td>
+<td style="text-align: center;">Ujjval Bansal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17206v1">2410.17206v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study</strong></td>
+<td style="text-align: center;">J. Jorge et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17171v1">2410.17171v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>E-3DGS: Gaussian Splatting with Exposure and Motion Events</strong></td>
+<td style="text-align: center;">Xiaoting Yin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16995v1">2410.16995v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>FlightAR: AR Flight Assistance Interface with Multiple Video Streams and Object Detection Aimed at Immersive Drone Control</strong></td>
+<td style="text-align: center;">Oleg Sautenkov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16943v1">2410.16943v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>PerspectiveNet: Multi-View Perception for Dynamic Scene Understanding</strong></td>
+<td style="text-align: center;">Vinh Nguyen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16824v1">2410.16824v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition</strong></td>
+<td style="text-align: center;">Jiaqi Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16746v1">2410.16746v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>The Internet of Forgotten Things: European Cybersecurity Regulation and IoT Manufacturer Cessation</strong></td>
+<td style="text-align: center;">Mattis van 't Schip et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17296v1">2410.17296v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Resource-Efficient Sensor Fusion via System-Wide Dynamic Gated Neural Networks</strong></td>
+<td style="text-align: center;">Chetna Singhal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16723v1">2410.16723v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos</strong></td>
+<td style="text-align: center;">Gengshan Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16259v1">2410.16259v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>A new method of reconstructing images of gamma-ray telescopes applied to the LST-1 of CTAO</strong></td>
+<td style="text-align: center;">CTA-LST Project et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16042v1">2410.16042v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Diffusion Transformer Policy</strong></td>
+<td style="text-align: center;">Zhi Hou et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15959v1">2410.15959v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>CamI2V: Camera-Controlled Image-to-Video Diffusion Model</strong></td>
+<td style="text-align: center;">Guangcong Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15957v2">2410.15957v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/ZGCTroy/CamI2V">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>MINFLUX -- molecular resolution with minimal photons</strong></td>
+<td style="text-align: center;">Lukas Scheiderer et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15902v1">2410.15902v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>R2I-rPPG: A Robust Region of Interest Selection Method for Remote Photoplethysmography to Extract Heart Rate</strong></td>
+<td style="text-align: center;">Sandeep Nagar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15851v1">2410.15851v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Kaninfradet3D:A Road-side Camera-LiDAR Fusion 3D Perception Model based on Nonlinear Feature Extraction and Intrinsic Correlation</strong></td>
+<td style="text-align: center;">Pei Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15814v1">2410.15814v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation</strong></td>
+<td style="text-align: center;">Yu Sheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15730v1">2410.15730v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Exploring Stronger Transformer Representation Learning for Occluded Person Re-Identification</strong></td>
+<td style="text-align: center;">Zhangjian Ji et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15613v2">2410.15613v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Disambiguating Monocular Reconstruction of 3D Clothed Human with Spatial-Temporal Transformer</strong></td>
+<td style="text-align: center;">Yong Deng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.16337v1">2410.16337v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>Exploring Curriculum Learning for Vision-Language Tasks: A Study on Small-Scale Multimodal Training</strong></td>
+<td style="text-align: center;">Rohan Saha et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15509v1">2410.15509v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/simpleparadox/baby_lm_2024">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>Event-based Sensor Fusion and Application on Odometry: A Survey</strong></td>
+<td style="text-align: center;">Jiaqiang Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15480v1">2410.15480v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting</strong></td>
+<td style="text-align: center;">Bohao Liao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15392v2">2410.15392v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>The Massive and Distant Clusters of WISE Survey 2: Second Data Release</strong></td>
+<td style="text-align: center;">Khunanon Thongkham et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15303v1">2410.15303v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-19</strong></td>
+<td style="text-align: center;"><strong>Low-cost Robust Night-time Aerial Material Segmentation through Hyperspectral Data and Sparse Spatio-Temporal Learning</strong></td>
+<td style="text-align: center;">Chandrajit Bajaj et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15208v1">2410.15208v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-19</strong></td>
+<td style="text-align: center;"><strong>EndoMetric: Near-light metric scale monocular SLAM</strong></td>
+<td style="text-align: center;">Raúl Iranzo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15065v1">2410.15065v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="vo">VO</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study</strong></td>
+<td style="text-align: center;">J. Jorge et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17171v1">2410.17171v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Robust Loop Closure by Textual Cues in Challenging Environments</strong></td>
+<td style="text-align: center;">Tongxing Jin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15869v1">2410.15869v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/tongxingjin/txtlcd">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>Flying through Moving Gates without Full State Estimation</strong></td>
+<td style="text-align: center;">Ralf Römer et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15799v2">2410.15799v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-21</strong></td>
+<td style="text-align: center;"><strong>PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones</strong></td>
+<td style="text-align: center;">Yunqian Cheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15694v1">2410.15694v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/head-inthe-cloud/palms-indoor-localization">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-20</strong></td>
+<td style="text-align: center;"><strong>Event-based Sensor Fusion and Application on Odometry: A Survey</strong></td>
+<td style="text-align: center;">Jiaqiang Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15480v1">2410.15480v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions</strong></td>
+<td style="text-align: center;">Edison P. Velasco-Sánchez et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13541v1">2410.13541v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal</strong></td>
+<td style="text-align: center;">Yanpeng Jia et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13240v1">2410.13240v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem</strong></td>
+<td style="text-align: center;">Yichen Sha et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12169v1">2410.12169v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot</strong></td>
+<td style="text-align: center;">Kirill Muravyev et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.11492v1">2410.11492v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration</strong></td>
+<td style="text-align: center;">Renlang Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10295v1">2410.10295v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/renlanghuang/cast">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces</strong></td>
+<td style="text-align: center;">Tiziano Guadagnino et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10277v1">2410.10277v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras</strong></td>
+<td style="text-align: center;">Junkai Niu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09374v1">2410.09374v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/nail-hnu/esvo2">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System</strong></td>
+<td style="text-align: center;">Zheng Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08935v1">2410.08935v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/hku-mars/Voxel-SLAM">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>MEMROC: Multi-Eye to Mobile RObot Calibration</strong></td>
+<td style="text-align: center;">Davide Allegro et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08805v1">2410.08805v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/davidea97/memroc">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera</strong></td>
+<td style="text-align: center;">Jian Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08107v2">2410.08107v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/wu-cvgl/inceventgs">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>LiPO: LiDAR Inertial Odometry for ICP Comparison</strong></td>
+<td style="text-align: center;">Darwin Mick et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08097v1">2410.08097v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-08</strong></td>
+<td style="text-align: center;"><strong>AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry</strong></td>
+<td style="text-align: center;">Thomas Jantos et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05996v1">2410.05996v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-06</strong></td>
+<td style="text-align: center;"><strong>Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering</strong></td>
+<td style="text-align: center;">Yonghan Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04646v1">2410.04646v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-05</strong></td>
+<td style="text-align: center;"><strong>Semantic Environment Atlas for Object-Goal Navigation</strong></td>
+<td style="text-align: center;">Nuri Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09081v1">2410.09081v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-03</strong></td>
+<td style="text-align: center;"><strong>LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features</strong></td>
+<td style="text-align: center;">Zihao Dong et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.02961v1">2410.02961v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-02</strong></td>
+<td style="text-align: center;"><strong>ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space</strong></td>
+<td style="text-align: center;">Hogyun Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.01325v1">2410.01325v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-01</strong></td>
+<td style="text-align: center;"><strong>M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions</strong></td>
+<td style="text-align: center;">Aniket Datar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.01105v1">2410.01105v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-29</strong></td>
+<td style="text-align: center;"><strong>CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation</strong></td>
+<td style="text-align: center;">Yifan Duan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.19597v1">2409.19597v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-27</strong></td>
+<td style="text-align: center;"><strong>Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization</strong></td>
+<td style="text-align: center;">Siru Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.18434v3">2409.18434v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-26</strong></td>
+<td style="text-align: center;"><strong>MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset</strong></td>
+<td style="text-align: center;">Felix Resch et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.18038v1">2409.18038v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/CPS-TUWien/mmdvs">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-26</strong></td>
+<td style="text-align: center;"><strong>Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms</strong></td>
+<td style="text-align: center;">Fangcheng Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.17798v1">2409.17798v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-26</strong></td>
+<td style="text-align: center;"><strong>Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry</strong></td>
+<td style="text-align: center;">Qi Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.17729v1">2409.17729v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-25</strong></td>
+<td style="text-align: center;"><strong>Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots</strong></td>
+<td style="text-align: center;">Zhichao Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.17116v1">2409.17116v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-25</strong></td>
+<td style="text-align: center;"><strong>CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation</strong></td>
+<td style="text-align: center;">Hoang Viet Do et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.16847v1">2409.16847v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-24</strong></td>
+<td style="text-align: center;"><strong>Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System</strong></td>
+<td style="text-align: center;">Youwei Yu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.16228v1">2409.16228v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="slam">SLAM</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>AG-SLAM: Active Gaussian Splatting SLAM</strong></td>
+<td style="text-align: center;">Wen Jiang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17422v1">2410.17422v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study</strong></td>
+<td style="text-align: center;">J. Jorge et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17171v1">2410.17171v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-19</strong></td>
+<td style="text-align: center;"><strong>EndoMetric: Near-light metric scale monocular SLAM</strong></td>
+<td style="text-align: center;">Raúl Iranzo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.15065v1">2410.15065v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot</strong></td>
+<td style="text-align: center;">Dongkun Han et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13612v1">2410.13612v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-17</strong></td>
+<td style="text-align: center;"><strong>TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal</strong></td>
+<td style="text-align: center;">Yanpeng Jia et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.13240v1">2410.13240v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>QueensCAMP: an RGB-D dataset for robust Visual SLAM</strong></td>
+<td style="text-align: center;">Hudson M. S. Bruno et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12520v1">2410.12520v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/larocs/queenscamp-dataset">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM</strong></td>
+<td style="text-align: center;">Guanghao Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12324v2">2410.12324v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-16</strong></td>
+<td style="text-align: center;"><strong>Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem</strong></td>
+<td style="text-align: center;">Yichen Sha et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12169v1">2410.12169v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>V3D-SLAM: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting</strong></td>
+<td style="text-align: center;">Tuan Dang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.12068v1">2410.12068v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/tuantdang/v3d-slam">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information</strong></td>
+<td style="text-align: center;">Wancai Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.11356v1">2410.11356v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-15</strong></td>
+<td style="text-align: center;"><strong>Multiview Scene Graph</strong></td>
+<td style="text-align: center;">Juexiao Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.11187v1">2410.11187v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator</strong></td>
+<td style="text-align: center;">Taozhe Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10669v1">2410.10669v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-13</strong></td>
+<td style="text-align: center;"><strong>Markerless Aerial-Terrestrial Co-Registration of Forest Point Clouds using a Deformable Pose Graph</strong></td>
+<td style="text-align: center;">Benoit Casseau et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09896v1">2410.09896v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs</strong></td>
+<td style="text-align: center;">Wenxi Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09503v1">2410.09503v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/X-LANCE/SLAM-LLM">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation</strong></td>
+<td style="text-align: center;">Wei Liang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09443v1">2410.09443v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-12</strong></td>
+<td style="text-align: center;"><strong>ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras</strong></td>
+<td style="text-align: center;">Junkai Niu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.09374v1">2410.09374v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/nail-hnu/esvo2">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System</strong></td>
+<td style="text-align: center;">Zheng Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08935v1">2410.08935v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/hku-mars/Voxel-SLAM">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-11</strong></td>
+<td style="text-align: center;"><strong>Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints</strong></td>
+<td style="text-align: center;">Yicheng He et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08780v1">2410.08780v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization</strong></td>
+<td style="text-align: center;">Mason B. Peterson et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08262v1">2410.08262v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-10</strong></td>
+<td style="text-align: center;"><strong>IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera</strong></td>
+<td style="text-align: center;">Jian Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.08107v2">2410.08107v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/wu-cvgl/inceventgs">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-08</strong></td>
+<td style="text-align: center;"><strong>Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching</strong></td>
+<td style="text-align: center;">Gongxin Yao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.06285v1">2410.06285v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-08</strong></td>
+<td style="text-align: center;"><strong>Submodular Optimization for Keyframe Selection &amp; Usage in SLAM</strong></td>
+<td style="text-align: center;">David Thorne et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05576v1">2410.05576v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones</strong></td>
+<td style="text-align: center;">Denis Davletshin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05405v1">2410.05405v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>Enhanced Multi-Robot SLAM System with Cross-Validation Matching and Exponential Threshold Keyframe Selection</strong></td>
+<td style="text-align: center;">Ang He et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05017v1">2410.05017v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-05</strong></td>
+<td style="text-align: center;"><strong>A Framework for Reproducible Benchmarking and Performance Diagnosis of SLAM Systems</strong></td>
+<td style="text-align: center;">Nikola Radulov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04242v1">2410.04242v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/nikolaradulov/slamfuse">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-05</strong></td>
+<td style="text-align: center;"><strong>High-Speed Stereo Visual SLAM for Low-Powered Computing Devices</strong></td>
+<td style="text-align: center;">Ashish Kumar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.04090v1">2410.04090v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-04</strong></td>
+<td style="text-align: center;"><strong>Estimating Body and Hand Motion in an Ego-sensed World</strong></td>
+<td style="text-align: center;">Brent Yi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.03665v2">2410.03665v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-04</strong></td>
+<td style="text-align: center;"><strong>EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM</strong></td>
+<td style="text-align: center;">Shi Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.03812v1">2410.03812v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-03</strong></td>
+<td style="text-align: center;"><strong>LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features</strong></td>
+<td style="text-align: center;">Zihao Dong et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.02961v1">2410.02961v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-02</strong></td>
+<td style="text-align: center;"><strong>ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space</strong></td>
+<td style="text-align: center;">Hogyun Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.01325v1">2410.01325v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.indexes"], "search": "assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.83f73b43.min.js"></script>
+      
+    
+  </body>
+</html>
