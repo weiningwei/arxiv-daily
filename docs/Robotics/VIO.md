@@ -17,7 +17,7 @@
 |**2024-10-20**|**An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation**|Jianhang Jia et.al.|[2410.15414v1](http://arxiv.org/abs/2410.15414v1)|null|
 |**2024-10-20**|**DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery**|Seungwon Song et.al.|[2410.15373v1](http://arxiv.org/abs/2410.15373v1)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084v1](http://arxiv.org/abs/2410.17084v1)|null|
-|**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v2](http://arxiv.org/abs/2410.14549v2)|null|
+|**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v3](http://arxiv.org/abs/2410.14549v3)|null|
 |**2024-10-18**|**Wall-damped Faraday waves in horizontally oscillating two-layer fluid flows**|Linfeng Piao et.al.|[2410.14467v1](http://arxiv.org/abs/2410.14467v1)|null|
 |**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
 |**2024-10-17**|**On statistical signatures of ISM turbulence in dust polarization maps**|Ka Wai Ho et.al.|[2410.13244v1](http://arxiv.org/abs/2410.13244v1)|null|
