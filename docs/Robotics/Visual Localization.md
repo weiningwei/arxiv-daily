@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564v1](http://arxiv.org/abs/2410.19564v1)|null|
 |**2024-10-25**|**MM-WLAuslan: Multi-View Multi-Modal Word-Level Australian Sign Language Recognition Dataset**|Xin Shen et.al.|[2410.19488v1](http://arxiv.org/abs/2410.19488v1)|null|
-|**2024-10-25**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486v1](http://arxiv.org/abs/2410.19486v1)|null|
-|**2024-10-25**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang et.al.|[2410.19432v1](http://arxiv.org/abs/2410.19432v1)|null|
+|**2024-10-25**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486v2](http://arxiv.org/abs/2410.19486v2)|null|
+|**2024-10-25**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang et.al.|[2410.19432v2](http://arxiv.org/abs/2410.19432v2)|null|
 |**2024-10-25**|**Photometric Redshift Estimation for CSST Survey with LSTM Neural Networks**|Zhijian Luo et.al.|[2410.19402v1](http://arxiv.org/abs/2410.19402v1)|null|
 |**2024-10-24**|**Optimising image capture for low-light widefield quantitative fluorescence microscopy**|Zane Peterkovic et.al.|[2410.19210v1](http://arxiv.org/abs/2410.19210v1)|null|
 |**2024-10-24**|**Classifying Bicycle Infrastructure Using On-Bike Street-Level Images**|Kal Backman et.al.|[2410.19194v1](http://arxiv.org/abs/2410.19194v1)|null|
