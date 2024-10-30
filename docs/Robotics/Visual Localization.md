@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314v1](http://arxiv.org/abs/2410.22314v1)|null|
+|**2024-10-29**|**Multi-Object 3D Grounding with Dynamic Modules and Language-Informed Spatial Attention**|Haomeng Zhang et.al.|[2410.22306v1](http://arxiv.org/abs/2410.22306v1)|null|
+|**2024-10-29**|**Active Event Alignment for Monocular Distance Estimation**|Nan Cai et.al.|[2410.22280v1](http://arxiv.org/abs/2410.22280v1)|null|
+|**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128v1](http://arxiv.org/abs/2410.22128v1)|[link](https://github.com/cvlab-kaist/PF3plat)|
+|**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070v1](http://arxiv.org/abs/2410.22070v1)|null|
+|**2024-10-29**|**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**|Shutong Jin et.al.|[2410.22059v1](http://arxiv.org/abs/2410.22059v1)|null|
+|**2024-10-29**|**Spatio-temporal Transformers for Action Unit Classification with Event Cameras**|Luca Cultrera et.al.|[2410.21958v1](http://arxiv.org/abs/2410.21958v1)|null|
+|**2024-10-29**|**Evaluating Perceptual Deviations in Video See-Through Head-Mounted Displays while Utilizing Physical Touchscreens**|Rudy De-Xin de Lange et.al.|[2410.21944v1](http://arxiv.org/abs/2410.21944v1)|null|
+|**2024-10-29**|**ReMix: Training Generalized Person Re-identification on a Mixture of Data**|Timur Mamedov et.al.|[2410.21938v1](http://arxiv.org/abs/2410.21938v1)|null|
+|**2024-10-29**|**EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data**|Zhonghua Yi et.al.|[2410.21743v1](http://arxiv.org/abs/2410.21743v1)|null|
+|**2024-10-29**|**SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset**|Yubin Hu et.al.|[2410.21739v1](http://arxiv.org/abs/2410.21739v1)|null|
+|**2024-10-29**|**Revisiting Multi-Granularity Representation via Group Contrastive Learning for Unsupervised Vehicle Re-identification**|Zhigang Chang et.al.|[2410.21667v1](http://arxiv.org/abs/2410.21667v1)|null|
+|**2024-10-29**|**Investigation of moving objects through atmospheric turbulence from a non-stationary platform**|Nicholas Ferrante et.al.|[2410.21639v1](http://arxiv.org/abs/2410.21639v1)|null|
+|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|null|
 |**2024-10-28**|**Joint Audio-Visual Idling Vehicle Detection with Streamlined Input Dependencies**|Xiwen Li et.al.|[2410.21170v1](http://arxiv.org/abs/2410.21170v1)|null|
 |**2024-10-28**|**Colorimetric skin tone scale for improved accuracy and reduced perceptual bias of human skin tone annotations**|Cynthia M. Cook et.al.|[2410.21005v1](http://arxiv.org/abs/2410.21005v1)|null|
 |**2024-10-28**|**BEVPose: Unveiling Scene Semantics through Pose-Guided Multi-Modal BEV Alignment**|Mehdi Hosseinzadeh et.al.|[2410.20969v1](http://arxiv.org/abs/2410.20969v1)|null|
@@ -18,17 +32,3 @@
 |**2024-10-27**|**Depth Attention for Robust RGB Tracking**|Yu Liu et.al.|[2410.20395v1](http://arxiv.org/abs/2410.20395v1)|[link](https://github.com/liuyuml/depth-attention)|
 |**2024-10-27**|**Open-Vocabulary Object Detection via Language Hierarchy**|Jiaxing Huang et.al.|[2410.20371v1](http://arxiv.org/abs/2410.20371v1)|null|
 |**2024-10-27**|**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**|Mingjiang Liang et.al.|[2410.20358v1](http://arxiv.org/abs/2410.20358v1)|null|
-|**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346v1](http://arxiv.org/abs/2410.20346v1)|null|
-|**2024-10-27**|**Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions**|Rawal Khirodkar et.al.|[2410.20294v1](http://arxiv.org/abs/2410.20294v1)|null|
-|**2024-10-26**|**Improving Galaxy Cluster Selection with the Outskirt Stellar Mass of Galaxies**|Matthew Kwiecien et.al.|[2410.20205v1](http://arxiv.org/abs/2410.20205v1)|null|
-|**2024-10-26**|**LIGHTS. The extended point spread functions of the Large Binocular Cameras at the LBT**|Nafise Sedighi et.al.|[2410.20190v1](http://arxiv.org/abs/2410.20190v1)|null|
-|**2024-10-26**|**AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models**|Yabin Zhang et.al.|[2410.20149v1](http://arxiv.org/abs/2410.20149v1)|[link](https://github.com/ybzh/openood-vlm)|
-|**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097v1](http://arxiv.org/abs/2410.20097v1)|null|
-|**2024-10-26**|**Detecting and sizing the Earth with PLATO: A feasibility study based on solar data**|A. F. Krenn et.al.|[2410.20077v1](http://arxiv.org/abs/2410.20077v1)|null|
-|**2024-10-26**|**Cross-Survey Image Transformation: Enhancing SDSS and DECaLS Images to Near-HSC Quality for Advanced Astronomical Analysis**|Zhijian Luo et.al.|[2410.20025v1](http://arxiv.org/abs/2410.20025v1)|null|
-|**2024-10-26**|**GHIL-Glue: Hierarchical Control with Filtered Subgoal Images**|Kyle B. Hatch et.al.|[2410.20018v1](http://arxiv.org/abs/2410.20018v1)|null|
-|**2024-10-25**|**Turn-by-Turn Indoor Navigation for the Visually Impaired**|Santosh Srinivasaiah et.al.|[2410.19954v1](http://arxiv.org/abs/2410.19954v1)|null|
-|**2024-10-25**|**Scylla IV: Intrinsic Stellar Properties and Line-of-Sight Dust Extinction Measurements Towards 1.5 Million Stars in the SMC and LMC**|Christina W. Lindberg et.al.|[2410.19910v1](http://arxiv.org/abs/2410.19910v1)|null|
-|**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564v1](http://arxiv.org/abs/2410.19564v1)|null|
-|**2024-10-25**|**MM-WLAuslan: Multi-View Multi-Modal Word-Level Australian Sign Language Recognition Dataset**|Xin Shen et.al.|[2410.19488v1](http://arxiv.org/abs/2410.19488v1)|null|
-|**2024-10-25**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486v2](http://arxiv.org/abs/2410.19486v2)|null|
