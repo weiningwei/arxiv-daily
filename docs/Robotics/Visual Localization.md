@@ -21,7 +21,7 @@
 |**2024-10-28**|**BEVPose: Unveiling Scene Semantics through Pose-Guided Multi-Modal BEV Alignment**|Mehdi Hosseinzadeh et.al.|[2410.20969v1](http://arxiv.org/abs/2410.20969v1)|null|
 |**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953v1](http://arxiv.org/abs/2410.20953v1)|null|
 |**2024-10-28**|**Evaluation of neural network algorithms for atmospheric turbulence mitigation**|Tushar Jain et.al.|[2410.20816v1](http://arxiv.org/abs/2410.20816v1)|null|
-|**2024-10-28**|**Task Confusion and Catastrophic Forgetting in Class-Incremental Learning: A Mathematical Framework for Discriminative and Generative Modelings**|Milad Khademi Nori et.al.|[2410.20768v1](http://arxiv.org/abs/2410.20768v1)|null|
+|**2024-10-28**|**Task Confusion and Catastrophic Forgetting in Class-Incremental Learning: A Mathematical Framework for Discriminative and Generative Modelings**|Milad Khademi Nori et.al.|[2410.20768v1](http://arxiv.org/abs/2410.20768v1)|[link](https://github.com/miladkhademinori/class-incremental-learning)|
 |**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686v1](http://arxiv.org/abs/2410.20686v1)|null|
 |**2024-10-27**|**Exocentric To Egocentric Transfer For Action Recognition: A Short Survey**|Anirudh Thatipelli et.al.|[2410.20621v1](http://arxiv.org/abs/2410.20621v1)|null|
 |**2024-10-27**|**ReACKed QUICer: Measuring the Performance of Instant Acknowledgments in QUIC Handshakes**|Jonas Mücke et.al.|[2410.20602v1](http://arxiv.org/abs/2410.20602v1)|null|
