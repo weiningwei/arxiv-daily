@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
 |**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
@@ -31,4 +32,3 @@
 |**2024-10-20**|**DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery**|Seungwon Song et.al.|[2410.15373v1](http://arxiv.org/abs/2410.15373v1)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084v1](http://arxiv.org/abs/2410.17084v1)|null|
 |**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v3](http://arxiv.org/abs/2410.14549v3)|null|
-|**2024-10-18**|**Wall-damped Faraday waves in horizontally oscillating two-layer fluid flows**|Linfeng Piao et.al.|[2410.14467v1](http://arxiv.org/abs/2410.14467v1)|null|
