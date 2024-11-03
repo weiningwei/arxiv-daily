@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-11-03 20:14:38 Asia/Shanghai
+ Automated deployment @ 2024-11-03 20:47:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
-|**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
-|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
-|**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
-|**2024-10-30**|**Leader-Follower 3D Formation for Underwater Robots**|Di Ni et.al.|[2410.23128v1](http://arxiv.org/abs/2410.23128v1)|null|
-|**2024-10-30**|**Diffusion and turbulence in phase-space and formation of phase-space vortices**|Allen Lobo et.al.|[2410.22840v1](http://arxiv.org/abs/2410.22840v1)|null|
-|**2024-10-30**|**IM-GIV: an effective integrity monitoring scheme for tightly-coupled GNSS/INS/Vision integration based on factor graph optimization**|Yunong Tian et.al.|[2410.22672v1](http://arxiv.org/abs/2410.22672v1)|null|
-|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
-|**2024-10-29**|**Inertial Transformations and the Nonexistence of Tachyons for Spacetime Dimension Greater than Two**|David Acton et.al.|[2410.22025v1](http://arxiv.org/abs/2410.22025v1)|null|
-|**2024-10-29**|**Accelerated Relaxation Engines for Optimizing to Minimum Energy Path**|Sandra Liz Simon et.al.|[2410.21837v1](http://arxiv.org/abs/2410.21837v1)|null|
-|**2024-10-28**|**Constraining core-to-envelope differential rotation in gamma-doradus stars from inertial dips properties**|Lucas Barrault et.al.|[2410.21425v1](http://arxiv.org/abs/2410.21425v1)|null|
-|**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571v1](http://arxiv.org/abs/2410.19571v1)|null|
-|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
-|**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
-|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
-|**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|[link](https://github.com/maxhirsch/Q-Tensor-Inertia)|
-|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
-|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
-|**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
-|**2024-10-22**|**Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method**|Kefan Zhang et.al.|[2410.16807v1](http://arxiv.org/abs/2410.16807v1)|null|
-|**2024-10-21**|**MOND as a transformation between non-inertial reference frames via Sciama's interpretation of Mach's Principle**|Manuel Uruena Palomo et.al.|[2410.19007v1](http://arxiv.org/abs/2410.19007v1)|null|
-|**2024-10-21**|**Long spin-1/2 noble gas coherence times in mm-sized anodically bonded batch-fabricated $^{3}$He-$^{129}$Xe-$^{87}$Rb cells**|M. E. Limes et.al.|[2410.16440v1](http://arxiv.org/abs/2410.16440v1)|null|
-|**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
-|**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
-|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
-|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
-|**2024-10-20**|**An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation**|Jianhang Jia et.al.|[2410.15414v1](http://arxiv.org/abs/2410.15414v1)|null|
-|**2024-10-20**|**DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery**|Seungwon Song et.al.|[2410.15373v1](http://arxiv.org/abs/2410.15373v1)|null|
-|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084v1](http://arxiv.org/abs/2410.17084v1)|null|
-|**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v3](http://arxiv.org/abs/2410.14549v3)|null|
-
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220v1](http://arxiv.org/abs/2410.24220v1)|null|
-|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207v1](http://arxiv.org/abs/2410.24207v1)|[link](https://github.com/cvg/NoPoSplat)|
-|**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203v1](http://arxiv.org/abs/2410.24203v1)|[link](https://github.com/zju3dv/diffpano)|
-|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166v1](http://arxiv.org/abs/2410.24166v1)|[link](https://github.com/christianbresciani/nscep-spiking-NN)|
-|**2024-10-31**|**A Multi-Modal Approach for Face Anti-Spoofing in Non-Calibrated Systems using Disparity Maps**|Ariel Larey et.al.|[2410.24031v1](http://arxiv.org/abs/2410.24031v1)|null|
-|**2024-10-31**|**AdaFlow: Opportunistic Inference on Asynchronous Mobile Data with Generalized Affinity Control**|Fenmin Wu et.al.|[2410.24028v1](http://arxiv.org/abs/2410.24028v1)|null|
-|**2024-10-31**|**UAV-based detection of landmines using infrared thermography**|Muhammad Umair Akram Butt et.al.|[2410.23998v1](http://arxiv.org/abs/2410.23998v1)|null|
-|**2024-10-31**|**Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v1](http://arxiv.org/abs/2410.23806v1)|null|
-|**2024-10-31**|**Provable Benefit of Cutout and CutMix for Feature Learning**|Junsoo Oh et.al.|[2410.23672v1](http://arxiv.org/abs/2410.23672v1)|null|
-|**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
-|**2024-10-31**|**High-resolution pressure imaging via background-oriented schlieren tomography: a spatiotemporal measurement for MHz ultrasound fields and hydrophone calibration**|Sayaka Ichihara et.al.|[2410.23652v1](http://arxiv.org/abs/2410.23652v1)|null|
-|**2024-10-31**|**Sample-Efficient Agnostic Boosting**|Udaya Ghai et.al.|[2410.23632v1](http://arxiv.org/abs/2410.23632v1)|null|
-|**2024-10-31**|**Patient-Specific CBCT Synthesis for Real-time Tumor Tracking in Surface-guided Radiotherapy**|Shaoyan Pan et.al.|[2410.23582v1](http://arxiv.org/abs/2410.23582v1)|null|
-|**2024-10-31**|**LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light**|Ahalya Ravendran et.al.|[2410.23522v1](http://arxiv.org/abs/2410.23522v1)|null|
-|**2024-10-30**|**NUSense: Robust Soft Optical Tactile Sensor**|Madina Yergibay et.al.|[2410.23516v1](http://arxiv.org/abs/2410.23516v1)|null|
-|**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514v1](http://arxiv.org/abs/2410.23514v1)|[link](https://github.com/matejklemen/slonspell)|
-|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v1](http://arxiv.org/abs/2410.23262v1)|null|
-|**2024-10-30**|**Keypoint Abstraction using Large Models for Object-Relative Imitation Learning**|Xiaolin Fang et.al.|[2410.23254v1](http://arxiv.org/abs/2410.23254v1)|null|
-|**2024-10-30**|**Burstiness in low stellar-mass Ha emitters at z~2 and z~4-6 from JWST medium band photometry in GOODS-S**|R. Navarro-Carrera et.al.|[2410.23249v1](http://arxiv.org/abs/2410.23249v1)|null|
-|**2024-10-30**|**FIEVel: A Fast InExpensive Velocimeter based on an optical mouse sensor**|Robert Hunt et.al.|[2410.23176v1](http://arxiv.org/abs/2410.23176v1)|null|
-|**2024-10-30**|**Functional Gradient Flows for Constrained Sampling**|Shiyue Zhang et.al.|[2410.23170v1](http://arxiv.org/abs/2410.23170v1)|[link](https://github.com/ShiyueZhang66/Constrained-Functional-Gradient-Flow)|
-|**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159v1](http://arxiv.org/abs/2410.23159v1)|[link](https://github.com/argenycw/facl)|
-|**2024-10-30**|**Inter-Camera Color Correction for Multispectral Imaging with Camera Arrays Using a Consensus Image**|Katja Kossira et.al.|[2410.23043v1](http://arxiv.org/abs/2410.23043v1)|null|
-|**2024-10-30**|**Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**|Zehan Qi et.al.|[2410.23000v2](http://arxiv.org/abs/2410.23000v2)|null|
-|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v2](http://arxiv.org/abs/2410.22931v2)|[link](https://github.com/brytsknguyen/gptr)|
-|**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862v1](http://arxiv.org/abs/2410.22862v1)|null|
-|**2024-10-30**|**Dataset of polarimetric images of mechanically generated water surface waves coupled with surface elevation records by wave gauges linear array**|Noam Ginio et.al.|[2410.22849v1](http://arxiv.org/abs/2410.22849v1)|null|
-|**2024-10-30**|**DOA-Aware Audio-Visual Self-Supervised Learning for Sound Event Localization and Detection**|Yoto Fujita et.al.|[2410.22803v1](http://arxiv.org/abs/2410.22803v1)|null|
-|**2024-10-30**|**Analysis of Classifier Training on Synthetic Data for Cross-Domain Datasets**|Andoni Cortés et.al.|[2410.22748v1](http://arxiv.org/abs/2410.22748v1)|null|
-|**2024-10-30**|**SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark**|HyunJun Jung et.al.|[2410.22715v1](http://arxiv.org/abs/2410.22715v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v3](http://arxiv.org/abs/2409.18434v3)|null|
 |**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|[link](https://github.com/CPS-TUWien/mmdvs)|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
+|**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
+|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
+|**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
+|**2024-10-30**|**Leader-Follower 3D Formation for Underwater Robots**|Di Ni et.al.|[2410.23128v1](http://arxiv.org/abs/2410.23128v1)|null|
+|**2024-10-30**|**Diffusion and turbulence in phase-space and formation of phase-space vortices**|Allen Lobo et.al.|[2410.22840v1](http://arxiv.org/abs/2410.22840v1)|null|
+|**2024-10-30**|**IM-GIV: an effective integrity monitoring scheme for tightly-coupled GNSS/INS/Vision integration based on factor graph optimization**|Yunong Tian et.al.|[2410.22672v1](http://arxiv.org/abs/2410.22672v1)|null|
+|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
+|**2024-10-29**|**Inertial Transformations and the Nonexistence of Tachyons for Spacetime Dimension Greater than Two**|David Acton et.al.|[2410.22025v1](http://arxiv.org/abs/2410.22025v1)|null|
+|**2024-10-29**|**Accelerated Relaxation Engines for Optimizing to Minimum Energy Path**|Sandra Liz Simon et.al.|[2410.21837v1](http://arxiv.org/abs/2410.21837v1)|null|
+|**2024-10-28**|**Constraining core-to-envelope differential rotation in gamma-doradus stars from inertial dips properties**|Lucas Barrault et.al.|[2410.21425v1](http://arxiv.org/abs/2410.21425v1)|null|
+|**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571v1](http://arxiv.org/abs/2410.19571v1)|null|
+|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
+|**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
+|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
+|**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|[link](https://github.com/maxhirsch/Q-Tensor-Inertia)|
+|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
+|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
+|**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
+|**2024-10-22**|**Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method**|Kefan Zhang et.al.|[2410.16807v1](http://arxiv.org/abs/2410.16807v1)|null|
+|**2024-10-21**|**MOND as a transformation between non-inertial reference frames via Sciama's interpretation of Mach's Principle**|Manuel Uruena Palomo et.al.|[2410.19007v1](http://arxiv.org/abs/2410.19007v1)|null|
+|**2024-10-21**|**Long spin-1/2 noble gas coherence times in mm-sized anodically bonded batch-fabricated $^{3}$He-$^{129}$Xe-$^{87}$Rb cells**|M. E. Limes et.al.|[2410.16440v1](http://arxiv.org/abs/2410.16440v1)|null|
+|**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
+|**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
+|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
+|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
+|**2024-10-20**|**An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation**|Jianhang Jia et.al.|[2410.15414v1](http://arxiv.org/abs/2410.15414v1)|null|
+|**2024-10-20**|**DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery**|Seungwon Song et.al.|[2410.15373v1](http://arxiv.org/abs/2410.15373v1)|null|
+|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084v1](http://arxiv.org/abs/2410.17084v1)|null|
+|**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v3](http://arxiv.org/abs/2410.14549v3)|null|
+
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262v1](http://arxiv.org/abs/2410.08262v1)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
 |**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285v1](http://arxiv.org/abs/2410.06285v1)|null|
+
+### Visual Localization
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220v1](http://arxiv.org/abs/2410.24220v1)|null|
+|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207v1](http://arxiv.org/abs/2410.24207v1)|[link](https://github.com/cvg/NoPoSplat)|
+|**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203v1](http://arxiv.org/abs/2410.24203v1)|[link](https://github.com/zju3dv/diffpano)|
+|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166v1](http://arxiv.org/abs/2410.24166v1)|[link](https://github.com/christianbresciani/nscep-spiking-NN)|
+|**2024-10-31**|**A Multi-Modal Approach for Face Anti-Spoofing in Non-Calibrated Systems using Disparity Maps**|Ariel Larey et.al.|[2410.24031v1](http://arxiv.org/abs/2410.24031v1)|null|
+|**2024-10-31**|**AdaFlow: Opportunistic Inference on Asynchronous Mobile Data with Generalized Affinity Control**|Fenmin Wu et.al.|[2410.24028v1](http://arxiv.org/abs/2410.24028v1)|null|
+|**2024-10-31**|**UAV-based detection of landmines using infrared thermography**|Muhammad Umair Akram Butt et.al.|[2410.23998v1](http://arxiv.org/abs/2410.23998v1)|null|
+|**2024-10-31**|**Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v1](http://arxiv.org/abs/2410.23806v1)|null|
+|**2024-10-31**|**Provable Benefit of Cutout and CutMix for Feature Learning**|Junsoo Oh et.al.|[2410.23672v1](http://arxiv.org/abs/2410.23672v1)|null|
+|**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
+|**2024-10-31**|**High-resolution pressure imaging via background-oriented schlieren tomography: a spatiotemporal measurement for MHz ultrasound fields and hydrophone calibration**|Sayaka Ichihara et.al.|[2410.23652v1](http://arxiv.org/abs/2410.23652v1)|null|
+|**2024-10-31**|**Sample-Efficient Agnostic Boosting**|Udaya Ghai et.al.|[2410.23632v1](http://arxiv.org/abs/2410.23632v1)|null|
+|**2024-10-31**|**Patient-Specific CBCT Synthesis for Real-time Tumor Tracking in Surface-guided Radiotherapy**|Shaoyan Pan et.al.|[2410.23582v1](http://arxiv.org/abs/2410.23582v1)|null|
+|**2024-10-31**|**LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light**|Ahalya Ravendran et.al.|[2410.23522v1](http://arxiv.org/abs/2410.23522v1)|null|
+|**2024-10-30**|**NUSense: Robust Soft Optical Tactile Sensor**|Madina Yergibay et.al.|[2410.23516v1](http://arxiv.org/abs/2410.23516v1)|null|
+|**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514v1](http://arxiv.org/abs/2410.23514v1)|[link](https://github.com/matejklemen/slonspell)|
+|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v1](http://arxiv.org/abs/2410.23262v1)|null|
+|**2024-10-30**|**Keypoint Abstraction using Large Models for Object-Relative Imitation Learning**|Xiaolin Fang et.al.|[2410.23254v1](http://arxiv.org/abs/2410.23254v1)|null|
+|**2024-10-30**|**Burstiness in low stellar-mass Ha emitters at z~2 and z~4-6 from JWST medium band photometry in GOODS-S**|R. Navarro-Carrera et.al.|[2410.23249v1](http://arxiv.org/abs/2410.23249v1)|null|
+|**2024-10-30**|**FIEVel: A Fast InExpensive Velocimeter based on an optical mouse sensor**|Robert Hunt et.al.|[2410.23176v1](http://arxiv.org/abs/2410.23176v1)|null|
+|**2024-10-30**|**Functional Gradient Flows for Constrained Sampling**|Shiyue Zhang et.al.|[2410.23170v1](http://arxiv.org/abs/2410.23170v1)|[link](https://github.com/ShiyueZhang66/Constrained-Functional-Gradient-Flow)|
+|**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159v1](http://arxiv.org/abs/2410.23159v1)|[link](https://github.com/argenycw/facl)|
+|**2024-10-30**|**Inter-Camera Color Correction for Multispectral Imaging with Camera Arrays Using a Consensus Image**|Katja Kossira et.al.|[2410.23043v1](http://arxiv.org/abs/2410.23043v1)|null|
+|**2024-10-30**|**Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**|Zehan Qi et.al.|[2410.23000v2](http://arxiv.org/abs/2410.23000v2)|null|
+|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v2](http://arxiv.org/abs/2410.22931v2)|[link](https://github.com/brytsknguyen/gptr)|
+|**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862v1](http://arxiv.org/abs/2410.22862v1)|null|
+|**2024-10-30**|**Dataset of polarimetric images of mechanically generated water surface waves coupled with surface elevation records by wave gauges linear array**|Noam Ginio et.al.|[2410.22849v1](http://arxiv.org/abs/2410.22849v1)|null|
+|**2024-10-30**|**DOA-Aware Audio-Visual Self-Supervised Learning for Sound Event Localization and Detection**|Yoto Fujita et.al.|[2410.22803v1](http://arxiv.org/abs/2410.22803v1)|null|
+|**2024-10-30**|**Analysis of Classifier Training on Synthetic Data for Cross-Domain Datasets**|Andoni Cortés et.al.|[2410.22748v1](http://arxiv.org/abs/2410.22748v1)|null|
+|**2024-10-30**|**SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark**|HyunJun Jung et.al.|[2410.22715v1](http://arxiv.org/abs/2410.22715v1)|null|
