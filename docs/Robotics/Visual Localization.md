@@ -9,12 +9,12 @@
 |**2024-10-31**|**A Multi-Modal Approach for Face Anti-Spoofing in Non-Calibrated Systems using Disparity Maps**|Ariel Larey et.al.|[2410.24031v1](http://arxiv.org/abs/2410.24031v1)|null|
 |**2024-10-31**|**AdaFlow: Opportunistic Inference on Asynchronous Mobile Data with Generalized Affinity Control**|Fenmin Wu et.al.|[2410.24028v1](http://arxiv.org/abs/2410.24028v1)|null|
 |**2024-10-31**|**UAV-based detection of landmines using infrared thermography**|Muhammad Umair Akram Butt et.al.|[2410.23998v1](http://arxiv.org/abs/2410.23998v1)|null|
-|**2024-10-31**|**Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v1](http://arxiv.org/abs/2410.23806v1)|null|
+|**2024-10-31**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v2](http://arxiv.org/abs/2410.23806v2)|null|
 |**2024-10-31**|**Provable Benefit of Cutout and CutMix for Feature Learning**|Junsoo Oh et.al.|[2410.23672v1](http://arxiv.org/abs/2410.23672v1)|null|
 |**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
 |**2024-10-31**|**High-resolution pressure imaging via background-oriented schlieren tomography: a spatiotemporal measurement for MHz ultrasound fields and hydrophone calibration**|Sayaka Ichihara et.al.|[2410.23652v1](http://arxiv.org/abs/2410.23652v1)|null|
 |**2024-10-31**|**Sample-Efficient Agnostic Boosting**|Udaya Ghai et.al.|[2410.23632v1](http://arxiv.org/abs/2410.23632v1)|null|
-|**2024-10-31**|**Patient-Specific CBCT Synthesis for Real-time Tumor Tracking in Surface-guided Radiotherapy**|Shaoyan Pan et.al.|[2410.23582v1](http://arxiv.org/abs/2410.23582v1)|null|
+|**2024-10-31**|**Patient-Specific CBCT Synthesis for Real-time Tumor Tracking in Surface-guided Radiotherapy**|Shaoyan Pan et.al.|[2410.23582v2](http://arxiv.org/abs/2410.23582v2)|null|
 |**2024-10-31**|**LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light**|Ahalya Ravendran et.al.|[2410.23522v1](http://arxiv.org/abs/2410.23522v1)|null|
 |**2024-10-30**|**NUSense: Robust Soft Optical Tactile Sensor**|Madina Yergibay et.al.|[2410.23516v1](http://arxiv.org/abs/2410.23516v1)|null|
 |**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514v1](http://arxiv.org/abs/2410.23514v1)|[link](https://github.com/matejklemen/slonspell)|
