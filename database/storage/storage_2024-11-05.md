@@ -1,43 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2024-11-05 20:16:27 Asia/Shanghai
+ Automated deployment @ 2024-11-05 20:49:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
 
-### VO
+### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919v1](http://arxiv.org/abs/2411.01919v1)|null|
+|**2024-11-04**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319v1](http://arxiv.org/abs/2411.02319v1)|null|
+|**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236v1](http://arxiv.org/abs/2411.02236v1)|null|
+|**2024-11-04**|**Touch-to-Touch Translation -- Learning the Mapping Between Heterogeneous Tactile Sensing Technologies**|Francesco Grella et.al.|[2411.02187v1](http://arxiv.org/abs/2411.02187v1)|null|
+|**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179v1](http://arxiv.org/abs/2411.02179v1)|null|
+|**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169v1](http://arxiv.org/abs/2411.02169v1)|null|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099v1](http://arxiv.org/abs/2411.02099v1)|null|
+|**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065v1](http://arxiv.org/abs/2411.02065v1)|null|
+|**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963v1](http://arxiv.org/abs/2411.01963v1)|null|
+|**2024-11-04**|**Deep Learning for Leopard Individual Identification: An Adaptive Angular Margin Approach**|David Colomer Matachana et.al.|[2411.01962v1](http://arxiv.org/abs/2411.01962v1)|null|
+|**2024-11-04**|**Euclid: The $r_{\rm b}$-$M_\ast$ relation as a function of redshift. I. The $5 \times 10^9 M_\odot$ black hole in NGC 1272**|R. Saglia et.al.|[2411.01927v1](http://arxiv.org/abs/2411.01927v1)|null|
+|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925v1](http://arxiv.org/abs/2411.01925v1)|null|
+|**2024-11-04**|**A Global Depth-Range-Free Multi-View Stereo Transformer Network with Pose Embedding**|Yitong Dong et.al.|[2411.01893v1](http://arxiv.org/abs/2411.01893v1)|null|
+|**2024-11-04**|**OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning**|Shengjie Niu et.al.|[2411.01833v1](http://arxiv.org/abs/2411.01833v1)|[link](https://github.com/niusj03/owmatch)|
+|**2024-11-04**|**Toward Integrating Semantic-aware Path Planning and Reliable Localization for UAV Operations**|Thanh Nguyen Canh et.al.|[2411.01816v1](http://arxiv.org/abs/2411.01816v1)|null|
+|**2024-11-04**|**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**|Matthew McDermott et.al.|[2411.01725v1](http://arxiv.org/abs/2411.01725v1)|[link](https://github.com/mcdermatt/plink)|
+|**2024-11-03**|**Domain-specific Guided Summarization for Mental Health Posts**|Lu Qian et.al.|[2411.01485v1](http://arxiv.org/abs/2411.01485v1)|null|
+|**2024-11-03**|**Adaptive Domain Learning for Cross-domain Image Denoising**|Zian Qian et.al.|[2411.01472v1](http://arxiv.org/abs/2411.01472v1)|null|
+|**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457v1](http://arxiv.org/abs/2411.01457v1)|null|
+|**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443v1](http://arxiv.org/abs/2411.01443v1)|null|
+|**2024-11-02**|**Optimizing Violence Detection in Video Classification Accuracy through 3D Convolutional Neural Networks**|Aarjav Kavathia et.al.|[2411.01348v1](http://arxiv.org/abs/2411.01348v1)|null|
+|**2024-11-02**|**Detector integration at HEPS: a systematic, efficient and high-performance approach**|Qun Zhang et.al.|[2411.01260v1](http://arxiv.org/abs/2411.01260v1)|null|
 |**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
-|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
-|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
-|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
-|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
-|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
-|**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
-|**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
-|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
-|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
-|**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
-|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
-|**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
-|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
-|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
-|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
-|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
-|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|[link](https://github.com/hku-mars/Voxel-SLAM)|
-|**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|[link](https://github.com/davidea97/memroc)|
-|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
-|**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097v1](http://arxiv.org/abs/2410.08097v1)|null|
-|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
-|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
-|**2024-10-05**|**Semantic Environment Atlas for Object-Goal Navigation**|Nuri Kim et.al.|[2410.09081v1](http://arxiv.org/abs/2410.09081v1)|null|
-|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
-|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
-|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
-|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
+|**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123v1](http://arxiv.org/abs/2411.01123v1)|[link](https://github.com/yichen928/x-drive)|
+|**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
+|**2024-11-01**|**Autobiasing Event Cameras**|Mehdi Sefidgar Dilmaghani et.al.|[2411.00729v1](http://arxiv.org/abs/2411.00729v1)|null|
+|**2024-11-01**|**Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck**|Bipasha Sen et.al.|[2411.00704v1](http://arxiv.org/abs/2411.00704v1)|null|
+|**2024-11-01**|**Event-guided Low-light Video Semantic Segmentation**|Zhen Yao et.al.|[2411.00639v1](http://arxiv.org/abs/2411.00639v1)|null|
+|**2024-11-01**|**Internship Report: Benchmark of Deep Learning-based Imaging PPG in Automotive Domain**|Yuqi Tu et.al.|[2411.00919v1](http://arxiv.org/abs/2411.00919v1)|null|
+|**2024-11-01**|**Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials**|Xintong Yang et.al.|[2411.00554v1](http://arxiv.org/abs/2411.00554v1)|null|
+|**2024-11-01**|**Is Multiple Object Tracking a Matter of Specialization?**|Gianluca Mancusi et.al.|[2411.00553v1](http://arxiv.org/abs/2411.00553v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,39 +73,39 @@
 |**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262v1](http://arxiv.org/abs/2410.08262v1)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
 
-### Visual Localization
+### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-04**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319v1](http://arxiv.org/abs/2411.02319v1)|null|
-|**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236v1](http://arxiv.org/abs/2411.02236v1)|null|
-|**2024-11-04**|**Touch-to-Touch Translation -- Learning the Mapping Between Heterogeneous Tactile Sensing Technologies**|Francesco Grella et.al.|[2411.02187v1](http://arxiv.org/abs/2411.02187v1)|null|
-|**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179v1](http://arxiv.org/abs/2411.02179v1)|null|
-|**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169v1](http://arxiv.org/abs/2411.02169v1)|null|
-|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099v1](http://arxiv.org/abs/2411.02099v1)|null|
-|**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065v1](http://arxiv.org/abs/2411.02065v1)|null|
-|**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963v1](http://arxiv.org/abs/2411.01963v1)|null|
-|**2024-11-04**|**Deep Learning for Leopard Individual Identification: An Adaptive Angular Margin Approach**|David Colomer Matachana et.al.|[2411.01962v1](http://arxiv.org/abs/2411.01962v1)|null|
-|**2024-11-04**|**Euclid: The $r_{\rm b}$-$M_\ast$ relation as a function of redshift. I. The $5 \times 10^9 M_\odot$ black hole in NGC 1272**|R. Saglia et.al.|[2411.01927v1](http://arxiv.org/abs/2411.01927v1)|null|
-|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925v1](http://arxiv.org/abs/2411.01925v1)|null|
-|**2024-11-04**|**A Global Depth-Range-Free Multi-View Stereo Transformer Network with Pose Embedding**|Yitong Dong et.al.|[2411.01893v1](http://arxiv.org/abs/2411.01893v1)|null|
-|**2024-11-04**|**OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning**|Shengjie Niu et.al.|[2411.01833v1](http://arxiv.org/abs/2411.01833v1)|[link](https://github.com/niusj03/owmatch)|
-|**2024-11-04**|**Toward Integrating Semantic-aware Path Planning and Reliable Localization for UAV Operations**|Thanh Nguyen Canh et.al.|[2411.01816v1](http://arxiv.org/abs/2411.01816v1)|null|
-|**2024-11-04**|**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**|Matthew McDermott et.al.|[2411.01725v1](http://arxiv.org/abs/2411.01725v1)|[link](https://github.com/mcdermatt/plink)|
-|**2024-11-03**|**Domain-specific Guided Summarization for Mental Health Posts**|Lu Qian et.al.|[2411.01485v1](http://arxiv.org/abs/2411.01485v1)|null|
-|**2024-11-03**|**Adaptive Domain Learning for Cross-domain Image Denoising**|Zian Qian et.al.|[2411.01472v1](http://arxiv.org/abs/2411.01472v1)|null|
-|**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457v1](http://arxiv.org/abs/2411.01457v1)|null|
-|**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443v1](http://arxiv.org/abs/2411.01443v1)|null|
-|**2024-11-02**|**Optimizing Violence Detection in Video Classification Accuracy through 3D Convolutional Neural Networks**|Aarjav Kavathia et.al.|[2411.01348v1](http://arxiv.org/abs/2411.01348v1)|null|
-|**2024-11-02**|**Detector integration at HEPS: a systematic, efficient and high-performance approach**|Qun Zhang et.al.|[2411.01260v1](http://arxiv.org/abs/2411.01260v1)|null|
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919v1](http://arxiv.org/abs/2411.01919v1)|null|
 |**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
-|**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123v1](http://arxiv.org/abs/2411.01123v1)|[link](https://github.com/yichen928/x-drive)|
-|**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
-|**2024-11-01**|**Autobiasing Event Cameras**|Mehdi Sefidgar Dilmaghani et.al.|[2411.00729v1](http://arxiv.org/abs/2411.00729v1)|null|
-|**2024-11-01**|**Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck**|Bipasha Sen et.al.|[2411.00704v1](http://arxiv.org/abs/2411.00704v1)|null|
-|**2024-11-01**|**Event-guided Low-light Video Semantic Segmentation**|Zhen Yao et.al.|[2411.00639v1](http://arxiv.org/abs/2411.00639v1)|null|
-|**2024-11-01**|**Internship Report: Benchmark of Deep Learning-based Imaging PPG in Automotive Domain**|Yuqi Tu et.al.|[2411.00919v1](http://arxiv.org/abs/2411.00919v1)|null|
-|**2024-11-01**|**Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials**|Xintong Yang et.al.|[2411.00554v1](http://arxiv.org/abs/2411.00554v1)|null|
-|**2024-11-01**|**Is Multiple Object Tracking a Matter of Specialization?**|Gianluca Mancusi et.al.|[2411.00553v1](http://arxiv.org/abs/2411.00553v1)|null|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
+|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
+|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
+|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
+|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
+|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
+|**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
+|**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
+|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
+|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
+|**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
+|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
+|**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
+|**2024-10-15**|**NavTopo: Leveraging Topological Maps For Autonomous Navigation Of a Mobile Robot**|Kirill Muravyev et.al.|[2410.11492v1](http://arxiv.org/abs/2410.11492v1)|null|
+|**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295v1](http://arxiv.org/abs/2410.10295v1)|[link](https://github.com/renlanghuang/cast)|
+|**2024-10-14**|**Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces**|Tiziano Guadagnino et.al.|[2410.10277v1](http://arxiv.org/abs/2410.10277v1)|null|
+|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|[link](https://github.com/hku-mars/Voxel-SLAM)|
+|**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|[link](https://github.com/davidea97/memroc)|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
+|**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097v1](http://arxiv.org/abs/2410.08097v1)|null|
+|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
+|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
+|**2024-10-05**|**Semantic Environment Atlas for Object-Goal Navigation**|Nuri Kim et.al.|[2410.09081v1](http://arxiv.org/abs/2410.09081v1)|null|
+|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
+|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
+|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
+|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
