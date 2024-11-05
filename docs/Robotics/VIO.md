@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919v1](http://arxiv.org/abs/2411.01919v1)|null|
+|**2024-11-04**|**Thermodynamics of Gravity in Local Frames**|Suprit Singh et.al.|[2411.01868v1](http://arxiv.org/abs/2411.01868v1)|null|
+|**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
+|**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
+|**2024-11-01**|**Effects of background solar wind and drag force on the propagation of coronal mass ejection driven shock**|Chin-Chun Wu et.al.|[2411.00747v1](http://arxiv.org/abs/2411.00747v1)|null|
+|**2024-10-31**|**Thick Arnold tongues**|Mark Levi et.al.|[2411.00175v1](http://arxiv.org/abs/2411.00175v1)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
@@ -26,9 +32,3 @@
 |**2024-10-21**|**Long spin-1/2 noble gas coherence times in mm-sized anodically bonded batch-fabricated $^{3}$He-$^{129}$Xe-$^{87}$Rb cells**|M. E. Limes et.al.|[2410.16440v1](http://arxiv.org/abs/2410.16440v1)|null|
 |**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
 |**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
-|**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
-|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
-|**2024-10-20**|**An Agile Large-Workspace Teleoperation Interface Based on Human Arm Motion and Force Estimation**|Jianhang Jia et.al.|[2410.15414v1](http://arxiv.org/abs/2410.15414v1)|null|
-|**2024-10-20**|**DynaVINS++: Robust Visual-Inertial State Estimator in Dynamic Environments by Adaptive Truncated Least Squares and Stable State Recovery**|Seungwon Song et.al.|[2410.15373v1](http://arxiv.org/abs/2410.15373v1)|null|
-|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084v1](http://arxiv.org/abs/2410.17084v1)|null|
-|**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549v3](http://arxiv.org/abs/2410.14549v3)|null|

@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919v1](http://arxiv.org/abs/2411.01919v1)|null|
+|**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
@@ -30,5 +32,3 @@
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
 |**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
-|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434v3](http://arxiv.org/abs/2409.18434v3)|null|
-|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038v1](http://arxiv.org/abs/2409.18038v1)|[link](https://github.com/CPS-TUWien/mmdvs)|

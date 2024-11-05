@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804v1](http://arxiv.org/abs/2411.01804v1)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
 |**2024-10-30**|**ISAC Prototype System for Multi-Domain Cooperative Communication Networks**|Jie Yang et.al.|[2410.22956v1](http://arxiv.org/abs/2410.22956v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780v1](http://arxiv.org/abs/2410.08780v1)|null|
 |**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262v1](http://arxiv.org/abs/2410.08262v1)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
-|**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285v1](http://arxiv.org/abs/2410.06285v1)|null|
