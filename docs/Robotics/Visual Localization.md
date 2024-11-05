@@ -26,7 +26,7 @@
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159v1](http://arxiv.org/abs/2410.23159v1)|[link](https://github.com/argenycw/facl)|
 |**2024-10-30**|**Inter-Camera Color Correction for Multispectral Imaging with Camera Arrays Using a Consensus Image**|Katja Kossira et.al.|[2410.23043v1](http://arxiv.org/abs/2410.23043v1)|null|
 |**2024-10-30**|**Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**|Zehan Qi et.al.|[2410.23000v2](http://arxiv.org/abs/2410.23000v2)|null|
-|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v2](http://arxiv.org/abs/2410.22931v2)|[link](https://github.com/brytsknguyen/gptr)|
+|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v3](http://arxiv.org/abs/2410.22931v3)|[link](https://github.com/brytsknguyen/gptr)|
 |**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862v1](http://arxiv.org/abs/2410.22862v1)|null|
 |**2024-10-30**|**Dataset of polarimetric images of mechanically generated water surface waves coupled with surface elevation records by wave gauges linear array**|Noam Ginio et.al.|[2410.22849v1](http://arxiv.org/abs/2410.22849v1)|null|
 |**2024-10-30**|**DOA-Aware Audio-Visual Self-Supervised Learning for Sound Event Localization and Detection**|Yoto Fujita et.al.|[2410.22803v1](http://arxiv.org/abs/2410.22803v1)|null|
