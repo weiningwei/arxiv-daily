@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-04**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319v1](http://arxiv.org/abs/2411.02319v1)|null|
+|**2024-11-04**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319v2](http://arxiv.org/abs/2411.02319v2)|null|
 |**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236v1](http://arxiv.org/abs/2411.02236v1)|null|
 |**2024-11-04**|**Touch-to-Touch Translation -- Learning the Mapping Between Heterogeneous Tactile Sensing Technologies**|Francesco Grella et.al.|[2411.02187v1](http://arxiv.org/abs/2411.02187v1)|null|
 |**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179v1](http://arxiv.org/abs/2411.02179v1)|null|
@@ -22,7 +22,7 @@
 |**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457v1](http://arxiv.org/abs/2411.01457v1)|null|
 |**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443v1](http://arxiv.org/abs/2411.01443v1)|null|
 |**2024-11-02**|**Optimizing Violence Detection in Video Classification Accuracy through 3D Convolutional Neural Networks**|Aarjav Kavathia et.al.|[2411.01348v1](http://arxiv.org/abs/2411.01348v1)|null|
-|**2024-11-02**|**Detector integration at HEPS: a systematic, efficient and high-performance approach**|Qun Zhang et.al.|[2411.01260v1](http://arxiv.org/abs/2411.01260v1)|null|
+|**2024-11-02**|**Detector integration at HEPS: a systematic, efficient and high-performance approach**|Qun Zhang et.al.|[2411.01260v2](http://arxiv.org/abs/2411.01260v2)|null|
 |**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
 |**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123v1](http://arxiv.org/abs/2411.01123v1)|[link](https://github.com/yichen928/x-drive)|
 |**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
