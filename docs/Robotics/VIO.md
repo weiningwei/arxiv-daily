@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-06**|**Evolution of internal cnoidal waves with local defects in a two-layer fluid with rotation**|Korsarun Nirunwiroj et.al.|[2411.03997v1](http://arxiv.org/abs/2411.03997v1)|null|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**Programming an Optical Lattice Interferometer**|Lennart Maximilian Seifert et.al.|[2411.03566v1](http://arxiv.org/abs/2411.03566v1)|null|
 |**2024-11-05**|**Energy Consumption in Robotics: A Simplified Modeling Approach**|Valentyn Petrichenko et.al.|[2411.03194v1](http://arxiv.org/abs/2411.03194v1)|null|
 |**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954v1](http://arxiv.org/abs/2411.02954v1)|null|
 |**2024-11-05**|**Asymptotic limits of the attached eddy model derived from an adiabatic atmosphere**|Yue Qin et.al.|[2411.02756v1](http://arxiv.org/abs/2411.02756v1)|null|
@@ -29,6 +32,3 @@
 |**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
 |**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|[link](https://github.com/maxhirsch/Q-Tensor-Inertia)|
 |**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
-|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
-|**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
-|**2024-10-22**|**Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method**|Kefan Zhang et.al.|[2410.16807v1](http://arxiv.org/abs/2410.16807v1)|null|
