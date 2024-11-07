@@ -6,7 +6,7 @@
 |**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239v1](http://arxiv.org/abs/2411.03239v1)|null|
 |**2024-11-05**|**Investigating the Applicability of a Snapshot Computed Tomography Imaging Spectrometer for the Prediction of Brix and pH of Grapes**|Mads Svanborg Peters et.al.|[2411.03114v1](http://arxiv.org/abs/2411.03114v1)|null|
 |**2024-11-05**|**The Wide Field Monitor (WFM) of the China-Europe eXTP (enhanced X-ray Timing and Polarimetry) mission**|Margarita Hernanz et.al.|[2411.03050v1](http://arxiv.org/abs/2411.03050v1)|null|
-|**2024-11-05**|**Self-Compositional Data Augmentation for Scientific Keyphrase Generation**|Mael Houbre et.al.|[2411.03039v1](http://arxiv.org/abs/2411.03039v1)|null|
+|**2024-11-05**|**Self-Compositional Data Augmentation for Scientific Keyphrase Generation**|Mael Houbre et.al.|[2411.03039v2](http://arxiv.org/abs/2411.03039v2)|null|
 |**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022v1](http://arxiv.org/abs/2411.03022v1)|null|
 |**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013v1](http://arxiv.org/abs/2411.03013v1)|null|
 |**2024-11-05**|**Learning-based Lossless Event Data Compression**|Ahmadreza Sezavar et.al.|[2411.03010v1](http://arxiv.org/abs/2411.03010v1)|null|
