@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-06 21:13:33 Asia/Shanghai
+ Automated deployment @ 2024-11-07 08:41:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -38,6 +38,40 @@
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
 |**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105v1](http://arxiv.org/abs/2410.01105v1)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597v1](http://arxiv.org/abs/2409.19597v1)|null|
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-05**|**Energy Consumption in Robotics: A Simplified Modeling Approach**|Valentyn Petrichenko et.al.|[2411.03194v1](http://arxiv.org/abs/2411.03194v1)|null|
+|**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954v1](http://arxiv.org/abs/2411.02954v1)|null|
+|**2024-11-05**|**Asymptotic limits of the attached eddy model derived from an adiabatic atmosphere**|Yue Qin et.al.|[2411.02756v1](http://arxiv.org/abs/2411.02756v1)|null|
+|**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919v1](http://arxiv.org/abs/2411.01919v1)|[link](https://github.com/btfrontier/polygon_mapping)|
+|**2024-11-04**|**Thermodynamics of Gravity in Local Frames**|Suprit Singh et.al.|[2411.01868v1](http://arxiv.org/abs/2411.01868v1)|null|
+|**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
+|**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
+|**2024-11-01**|**Effects of background solar wind and drag force on the propagation of coronal mass ejection driven shock**|Chin-Chun Wu et.al.|[2411.00747v1](http://arxiv.org/abs/2411.00747v1)|null|
+|**2024-10-31**|**Thick Arnold tongues**|Mark Levi et.al.|[2411.00175v1](http://arxiv.org/abs/2411.00175v1)|null|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|[link](https://github.com/openxrlab/xrdslam)|
+|**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
+|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
+|**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
+|**2024-10-30**|**Leader-Follower 3D Formation for Underwater Robots**|Di Ni et.al.|[2410.23128v1](http://arxiv.org/abs/2410.23128v1)|null|
+|**2024-10-30**|**Diffusion and turbulence in phase-space and formation of phase-space vortices**|Allen Lobo et.al.|[2410.22840v1](http://arxiv.org/abs/2410.22840v1)|null|
+|**2024-10-30**|**IM-GIV: an effective integrity monitoring scheme for tightly-coupled GNSS/INS/Vision integration based on factor graph optimization**|Yunong Tian et.al.|[2410.22672v1](http://arxiv.org/abs/2410.22672v1)|null|
+|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
+|**2024-10-29**|**Inertial Transformations and the Nonexistence of Tachyons for Spacetime Dimension Greater than Two**|David Acton et.al.|[2410.22025v1](http://arxiv.org/abs/2410.22025v1)|null|
+|**2024-10-29**|**Accelerated Relaxation Engines for Optimizing to Minimum Energy Path**|Sandra Liz Simon et.al.|[2410.21837v1](http://arxiv.org/abs/2410.21837v1)|null|
+|**2024-10-28**|**Constraining core-to-envelope differential rotation in gamma-doradus stars from inertial dips properties**|Lucas Barrault et.al.|[2410.21425v1](http://arxiv.org/abs/2410.21425v1)|null|
+|**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571v1](http://arxiv.org/abs/2410.19571v1)|null|
+|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
+|**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
+|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
+|**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|[link](https://github.com/maxhirsch/Q-Tensor-Inertia)|
+|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
+|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
+|**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
+|**2024-10-22**|**Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method**|Kefan Zhang et.al.|[2410.16807v1](http://arxiv.org/abs/2410.16807v1)|null|
 
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,37 +140,3 @@
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|[link](https://github.com/hku-mars/Voxel-SLAM)|
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780v1](http://arxiv.org/abs/2410.08780v1)|null|
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-05**|**Energy Consumption in Robotics: A Simplified Modeling Approach**|Valentyn Petrichenko et.al.|[2411.03194v1](http://arxiv.org/abs/2411.03194v1)|null|
-|**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954v1](http://arxiv.org/abs/2411.02954v1)|null|
-|**2024-11-05**|**Asymptotic limits of the attached eddy model derived from an adiabatic atmosphere**|Yue Qin et.al.|[2411.02756v1](http://arxiv.org/abs/2411.02756v1)|null|
-|**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
-|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919v1](http://arxiv.org/abs/2411.01919v1)|[link](https://github.com/btfrontier/polygon_mapping)|
-|**2024-11-04**|**Thermodynamics of Gravity in Local Frames**|Suprit Singh et.al.|[2411.01868v1](http://arxiv.org/abs/2411.01868v1)|null|
-|**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
-|**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
-|**2024-11-01**|**Effects of background solar wind and drag force on the propagation of coronal mass ejection driven shock**|Chin-Chun Wu et.al.|[2411.00747v1](http://arxiv.org/abs/2411.00747v1)|null|
-|**2024-10-31**|**Thick Arnold tongues**|Mark Levi et.al.|[2411.00175v1](http://arxiv.org/abs/2411.00175v1)|null|
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|[link](https://github.com/openxrlab/xrdslam)|
-|**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
-|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
-|**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
-|**2024-10-30**|**Leader-Follower 3D Formation for Underwater Robots**|Di Ni et.al.|[2410.23128v1](http://arxiv.org/abs/2410.23128v1)|null|
-|**2024-10-30**|**Diffusion and turbulence in phase-space and formation of phase-space vortices**|Allen Lobo et.al.|[2410.22840v1](http://arxiv.org/abs/2410.22840v1)|null|
-|**2024-10-30**|**IM-GIV: an effective integrity monitoring scheme for tightly-coupled GNSS/INS/Vision integration based on factor graph optimization**|Yunong Tian et.al.|[2410.22672v1](http://arxiv.org/abs/2410.22672v1)|null|
-|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
-|**2024-10-29**|**Inertial Transformations and the Nonexistence of Tachyons for Spacetime Dimension Greater than Two**|David Acton et.al.|[2410.22025v1](http://arxiv.org/abs/2410.22025v1)|null|
-|**2024-10-29**|**Accelerated Relaxation Engines for Optimizing to Minimum Energy Path**|Sandra Liz Simon et.al.|[2410.21837v1](http://arxiv.org/abs/2410.21837v1)|null|
-|**2024-10-28**|**Constraining core-to-envelope differential rotation in gamma-doradus stars from inertial dips properties**|Lucas Barrault et.al.|[2410.21425v1](http://arxiv.org/abs/2410.21425v1)|null|
-|**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571v1](http://arxiv.org/abs/2410.19571v1)|null|
-|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
-|**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
-|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
-|**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|[link](https://github.com/maxhirsch/Q-Tensor-Inertia)|
-|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
-|**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
-|**2024-10-22**|**Analytical solutions for ultra-fast precessional switching in inertial magnetization dynamics**|Alessandro Fortunati et.al.|[2410.16933v1](http://arxiv.org/abs/2410.16933v1)|null|
-|**2024-10-22**|**Barometric Altimeter Assisted SINS/DR Combined Land Vehicle Gravity Anomaly Method**|Kefan Zhang et.al.|[2410.16807v1](http://arxiv.org/abs/2410.16807v1)|null|
