@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
+|**2024-11-07**|**Field Assessment of Force Torque Sensors for Planetary Rover Navigation**|Levin Gerdes et.al.|[2411.04700v1](http://arxiv.org/abs/2411.04700v1)|[link](https://github.com/spaceuma/fts-assessment)|
+|**2024-11-07**|**Unruh-deWitt detector in impulsive plane wave spacetimes**|João Paulo M. Pitelli et.al.|[2411.04633v1](http://arxiv.org/abs/2411.04633v1)|null|
+|**2024-11-07**|**Frame-dragging effects in the gravitational quantum field theory**|Dongfeng Gao et.al.|[2411.04460v1](http://arxiv.org/abs/2411.04460v1)|null|
 |**2024-11-06**|**Evolution of internal cnoidal waves with local defects in a two-layer fluid with rotation**|Korsarun Nirunwiroj et.al.|[2411.03997v1](http://arxiv.org/abs/2411.03997v1)|null|
 |**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
 |**2024-11-06**|**Programming an Optical Lattice Interferometer**|Lennart Maximilian Seifert et.al.|[2411.03566v1](http://arxiv.org/abs/2411.03566v1)|null|
@@ -28,7 +32,3 @@
 |**2024-10-28**|**Constraining core-to-envelope differential rotation in gamma-doradus stars from inertial dips properties**|Lucas Barrault et.al.|[2410.21425v1](http://arxiv.org/abs/2410.21425v1)|null|
 |**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571v1](http://arxiv.org/abs/2410.19571v1)|null|
 |**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
-|**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
-|**2024-10-24**|**A framework for GNSS-based solutions performance analysis in an ERTMS context**|Juliette Marais et.al.|[2410.18510v1](http://arxiv.org/abs/2410.18510v1)|null|
-|**2024-10-23**|**The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics**|Max Hirsch et.al.|[2410.18328v1](http://arxiv.org/abs/2410.18328v1)|[link](https://github.com/maxhirsch/Q-Tensor-Inertia)|
-|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472v1](http://arxiv.org/abs/2410.17472v1)|null|
