@@ -7,7 +7,7 @@
 |**2024-11-07**|**Unruh-deWitt detector in impulsive plane wave spacetimes**|João Paulo M. Pitelli et.al.|[2411.04633v1](http://arxiv.org/abs/2411.04633v1)|null|
 |**2024-11-07**|**Frame-dragging effects in the gravitational quantum field theory**|Dongfeng Gao et.al.|[2411.04460v1](http://arxiv.org/abs/2411.04460v1)|null|
 |**2024-11-06**|**Evolution of internal cnoidal waves with local defects in a two-layer fluid with rotation**|Korsarun Nirunwiroj et.al.|[2411.03997v1](http://arxiv.org/abs/2411.03997v1)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|[link](https://github.com/arclab-hku/deio)|
 |**2024-11-06**|**Programming an Optical Lattice Interferometer**|Lennart Maximilian Seifert et.al.|[2411.03566v1](http://arxiv.org/abs/2411.03566v1)|null|
 |**2024-11-05**|**Energy Consumption in Robotics: A Simplified Modeling Approach**|Valentyn Petrichenko et.al.|[2411.03194v1](http://arxiv.org/abs/2411.03194v1)|null|
 |**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954v1](http://arxiv.org/abs/2411.02954v1)|null|

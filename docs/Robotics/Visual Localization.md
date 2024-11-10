@@ -26,7 +26,7 @@
 |**2024-11-06**|**Pose-Transformation and Radial Distance Clustering for Unsupervised Person Re-identification**|Siddharth Seth et.al.|[2411.04255v1](http://arxiv.org/abs/2411.04255v1)|null|
 |**2024-11-06**|**Observations of Uranus at High Phase Angle as Seen by New Horizons**|Samantha N. Hasler et.al.|[2411.04167v1](http://arxiv.org/abs/2411.04167v1)|null|
 |**2024-11-06**|**Select2Plan: Training-Free ICL-Based Planning through VQA and Memory Retrieval**|Davide Buoso et.al.|[2411.04006v1](http://arxiv.org/abs/2411.04006v1)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|[link](https://github.com/arclab-hku/deio)|
 |**2024-11-06**|**X-ray Single-Pixel Imaging with MPGD-based detectors**|M. Simões et.al.|[2411.03907v1](http://arxiv.org/abs/2411.03907v1)|null|
 |**2024-11-06**|**Homotopy Continuation Made Easy: Regression-based Online Simulation of Starting Problem-Solution Pairs**|Xinyue Zhang et.al.|[2411.03745v1](http://arxiv.org/abs/2411.03745v1)|null|
 |**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[2411.03702v1](http://arxiv.org/abs/2411.03702v1)|null|
