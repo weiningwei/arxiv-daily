@@ -15,7 +15,7 @@
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|[link](https://github.com/l-scofano/seeme)|
 |**2024-11-07**|**Verification of Neural Networks against Convolutional Perturbations via Parameterised Kernels**|Benedikt Brückner et.al.|[2411.04594v1](http://arxiv.org/abs/2411.04594v1)|null|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501v1](http://arxiv.org/abs/2411.04501v1)|null|
-|**2024-11-07**|**CFPNet: Improving Lightweight ToF Depth Completion via Cross-zone Feature Propagation**|Laiyan Ding et.al.|[2411.04480v1](http://arxiv.org/abs/2411.04480v1)|null|
+|**2024-11-07**|**CFPNet: Improving Lightweight ToF Depth Completion via Cross-zone Feature Propagation**|Laiyan Ding et.al.|[2411.04480v2](http://arxiv.org/abs/2411.04480v2)|null|
 |**2024-11-07**|**FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments**|Aoru Xue et.al.|[2411.04469v1](http://arxiv.org/abs/2411.04469v1)|null|
 |**2024-11-07**|**Efficient single image non-uniformity correction algorithm**|Yohann Tendero et.al.|[2411.04457v1](http://arxiv.org/abs/2411.04457v1)|null|
 |**2024-11-07**|**The OASES Project: Exploring the Outer Solar System through Stellar Occultation with Amateur-Class Telescopes**|Ko Arimatsu et.al.|[2411.04436v1](http://arxiv.org/abs/2411.04436v1)|null|
