@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-11**|**Robust Nonprehensile Object Transportation with Uncertain Inertial Parameters**|Adam Heins et.al.|[2411.07079v1](http://arxiv.org/abs/2411.07079v1)|null|
+|**2024-11-11**|**Quantum Field Theory in non-inertial frames**|Enrique Álvarez et.al.|[2411.06951v1](http://arxiv.org/abs/2411.06951v1)|null|
+|**2024-11-11**|**Annotation and synchronization of smartphone inertial measurement unit and motion capture data collected in a laboratory setting to study gait and balance**|Dimitar Stanev et.al.|[2411.06809v1](http://arxiv.org/abs/2411.06809v1)|null|
+|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766v1](http://arxiv.org/abs/2411.06766v1)|null|
+|**2024-11-08**|**Cyber-Physical Security of Vehicles: Zero Dynamics Attacks Against Vehicle's Lateral Dynamics**|Ghadeer Shaaban et.al.|[2411.05999v1](http://arxiv.org/abs/2411.05999v1)|null|
 |**2024-11-08**|**Equivariant IMU Preintegration with Biases: an Inhomogeneous Galilean Group Approach**|Giulio Delama et.al.|[2411.05548v1](http://arxiv.org/abs/2411.05548v1)|null|
 |**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497v1](http://arxiv.org/abs/2411.05497v1)|null|
 |**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481v1](http://arxiv.org/abs/2411.05481v1)|null|
@@ -27,8 +32,3 @@
 |**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
 |**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
-|**2024-10-30**|**Leader-Follower 3D Formation for Underwater Robots**|Di Ni et.al.|[2410.23128v1](http://arxiv.org/abs/2410.23128v1)|null|
-|**2024-10-30**|**Diffusion and turbulence in phase-space and formation of phase-space vortices**|Allen Lobo et.al.|[2410.22840v1](http://arxiv.org/abs/2410.22840v1)|null|
-|**2024-10-30**|**IM-GIV: an effective integrity monitoring scheme for tightly-coupled GNSS/INS/Vision integration based on factor graph optimization**|Yunong Tian et.al.|[2410.22672v1](http://arxiv.org/abs/2410.22672v1)|null|
-|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
-|**2024-10-29**|**Inertial Transformations and the Nonexistence of Tachyons for Spacetime Dimension Greater than Two**|David Acton et.al.|[2410.22025v1](http://arxiv.org/abs/2410.22025v1)|null|
