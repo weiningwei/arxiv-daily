@@ -28,7 +28,7 @@
 |**2024-11-08**|**Utilisation of Vision Systems and Digital Twin for Maintaining Cleanliness in Public Spaces**|Mateusz Wasala et.al.|[2411.05964v1](http://arxiv.org/abs/2411.05964v1)|null|
 |**2024-11-08**|**Cross-correlating the EMU Pilot Survey 1 with CMB lensing: Constraints on cosmology and galaxy bias with harmonic-space power spectra**|K. Tanidis et.al.|[2411.05913v1](http://arxiv.org/abs/2411.05913v1)|null|
 |**2024-11-08**|**Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent**|Linfeng He et.al.|[2411.05898v1](http://arxiv.org/abs/2411.05898v1)|null|
-|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516v1](http://arxiv.org/abs/2411.05516v1)|null|
+|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516v1](http://arxiv.org/abs/2411.05516v1)|[link](https://github.com/airlabiisc/eroas)|
 |**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497v1](http://arxiv.org/abs/2411.05497v1)|null|
 |**2024-11-08**|**The GPU-based High-order adaptive OpticS Testbench**|Byron Engler et.al.|[2411.05408v1](http://arxiv.org/abs/2411.05408v1)|null|
 |**2024-11-08**|**MIPD: A Multi-sensory Interactive Perception Dataset for Embodied Intelligent Driving**|Zhiwei Li et.al.|[2411.05881v1](http://arxiv.org/abs/2411.05881v1)|null|
