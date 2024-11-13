@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-12**|**A Note on the Relativistic Transformation Properties of Quantum Stochastic Calculus**|J. E. Gough et.al.|[2411.07915v1](http://arxiv.org/abs/2411.07915v1)|null|
+|**2024-11-12**|**Stabilization of the Rayleigh-Bénard system by injection of thermal inertial particles and bubbles**|Saad Raza et.al.|[2411.07891v1](http://arxiv.org/abs/2411.07891v1)|null|
+|**2024-11-12**|**Suite-IN: Aggregating Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2411.07828v1](http://arxiv.org/abs/2411.07828v1)|null|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v1](http://arxiv.org/abs/2411.07699v1)|null|
+|**2024-11-12**|**Human Arm Pose Estimation with a Shoulder-worn Force-Myography Device for Human-Robot Interaction**|Rotem Atari et.al.|[2411.07644v1](http://arxiv.org/abs/2411.07644v1)|null|
+|**2024-11-12**|**SP-VIO: Robust and Efficient Filter-Based Visual Inertial Odometry with State Transformation Model and Pose-Only Visual Description**|Xueyu Du et.al.|[2411.07551v1](http://arxiv.org/abs/2411.07551v1)|null|
 |**2024-11-11**|**Robust Nonprehensile Object Transportation with Uncertain Inertial Parameters**|Adam Heins et.al.|[2411.07079v1](http://arxiv.org/abs/2411.07079v1)|null|
 |**2024-11-11**|**Quantum Field Theory in non-inertial frames**|Enrique Álvarez et.al.|[2411.06951v1](http://arxiv.org/abs/2411.06951v1)|null|
 |**2024-11-11**|**Annotation and synchronization of smartphone inertial measurement unit and motion capture data collected in a laboratory setting to study gait and balance**|Dimitar Stanev et.al.|[2411.06809v1](http://arxiv.org/abs/2411.06809v1)|null|
@@ -26,9 +32,3 @@
 |**2024-11-04**|**Thermodynamics of Gravity in Local Frames**|Suprit Singh et.al.|[2411.01868v1](http://arxiv.org/abs/2411.01868v1)|null|
 |**2024-11-02**|**Rotational Odometry using Ultra Low Resolution Thermal Cameras**|Ali Safa et.al.|[2411.01227v1](http://arxiv.org/abs/2411.01227v1)|null|
 |**2024-11-01**|**AGISim, An Open Source Airborne Gimbal Mounted IMU Signal Simulator Considering Flight Dynamics Model**|Alireza Kazemi et.al.|[2411.01038v1](http://arxiv.org/abs/2411.01038v1)|null|
-|**2024-11-01**|**Effects of background solar wind and drag force on the propagation of coronal mass ejection driven shock**|Chin-Chun Wu et.al.|[2411.00747v1](http://arxiv.org/abs/2411.00747v1)|null|
-|**2024-10-31**|**Thick Arnold tongues**|Mark Levi et.al.|[2411.00175v1](http://arxiv.org/abs/2411.00175v1)|null|
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|[link](https://github.com/openxrlab/xrdslam)|
-|**2024-10-30**|**Nonlinear dynamics of spinning fluid-conveying pipes with structural damping: stability analysis and post-instability behavior**|Ali Fasihi et.al.|[2410.23237v1](http://arxiv.org/abs/2410.23237v1)|null|
-|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|[link](https://github.com/uestc-nnlab/lgu-slam)|
-|**2024-10-30**|**Ultrafast Entropy Production in Non-Equilibrium Magnets**|Finja Tietjen et.al.|[2410.23205v2](http://arxiv.org/abs/2410.23205v2)|null|
