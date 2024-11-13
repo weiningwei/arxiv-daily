@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205v1](http://arxiv.org/abs/2411.07205v1)|[link](https://github.com/croitorualin/dlcr)|
 |**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155v1](http://arxiv.org/abs/2411.07155v1)|null|
-|**2024-11-11**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096v1](http://arxiv.org/abs/2411.07096v1)|null|
+|**2024-11-11**|**Extreme Rotation Estimation in the Wild**|Hana Bezalel et.al.|[2411.07096v2](http://arxiv.org/abs/2411.07096v2)|null|
 |**2024-11-11**|**BuckTales : A multi-UAV dataset for multi-object tracking and re-identification of wild antelopes**|Hemal Naik et.al.|[2411.06896v1](http://arxiv.org/abs/2411.06896v1)|null|
 |**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[2411.06851v1](http://arxiv.org/abs/2411.06851v1)|[link](https://github.com/miguelag99/efficient-instance-prediction)|
 |**2024-11-11**|**AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness**|Yizhuo Yang et.al.|[2411.06789v1](http://arxiv.org/abs/2411.06789v1)|null|
@@ -15,7 +15,7 @@
 |**2024-11-10**|**Image Segmentation from Shadow-Hints using Minimum Spanning Trees**|Moritz Heep et.al.|[2411.06530v1](http://arxiv.org/abs/2411.06530v1)|null|
 |**2024-11-10**|**I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength**|Wanquan Feng et.al.|[2411.06525v1](http://arxiv.org/abs/2411.06525v1)|null|
 |**2024-11-10**|**Visuotactile-Based Learning for Insertion with Compliant Hands**|Osher Azulay et.al.|[2411.06408v1](http://arxiv.org/abs/2411.06408v1)|null|
-|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390v1](http://arxiv.org/abs/2411.06390v1)|[link](https://github.com/ChenYutongTHU/SplatFormer)|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390v2](http://arxiv.org/abs/2411.06390v2)|[link](https://github.com/ChenYutongTHU/SplatFormer)|
 |**2024-11-10**|**Hardware-in-the-Loop for Characterization of Embedded State Estimation for Flying Microrobots**|Aryan Naveen et.al.|[2411.06382v1](http://arxiv.org/abs/2411.06382v1)|null|
 |**2024-11-10**|**SymmeTac: Symmetric Color LED Driven Efficient Photometric Stereo Reconstruction Methods for Camera-based Tactile Sensors**|Jieji Ren et.al.|[2411.06377v1](http://arxiv.org/abs/2411.06377v1)|null|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365v1](http://arxiv.org/abs/2411.06365v1)|null|
