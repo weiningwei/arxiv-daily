@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-14**|**Comment on "Transformation of phase velocity among inertial frames [Wave Motion 50 (2013) 520-524, https://doi.org/10.1063/1.1888051]"**|Seyed Saied Mirahmadi et.al.|[2411.09206v1](http://arxiv.org/abs/2411.09206v1)|null|
 |**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789v1](http://arxiv.org/abs/2411.08789v1)|null|
 |**2024-11-13**|**Wave topology of stellar inertial oscillations**|Armand Leclerc et.al.|[2411.08457v1](http://arxiv.org/abs/2411.08457v1)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231v1](http://arxiv.org/abs/2411.08231v1)|null|
@@ -31,4 +32,3 @@
 |**2024-11-05**|**Energy Consumption in Robotics: A Simplified Modeling Approach**|Valentyn Petrichenko et.al.|[2411.03194v1](http://arxiv.org/abs/2411.03194v1)|null|
 |**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954v1](http://arxiv.org/abs/2411.02954v1)|null|
 |**2024-11-05**|**Asymptotic limits of the attached eddy model derived from an adiabatic atmosphere**|Yue Qin et.al.|[2411.02756v1](http://arxiv.org/abs/2411.02756v1)|null|
-|**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
