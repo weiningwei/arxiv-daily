@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
+|**2024-11-15**|**PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse**|Einari Vaaras et.al.|[2411.10087v1](http://arxiv.org/abs/2411.10087v1)|null|
+|**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
 |**2024-11-14**|**Comment on "Transformation of phase velocity among inertial frames [Wave Motion 50 (2013) 520-524, https://doi.org/10.1063/1.1888051]"**|Seyed Saied Mirahmadi et.al.|[2411.09206v1](http://arxiv.org/abs/2411.09206v1)|null|
 |**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789v1](http://arxiv.org/abs/2411.08789v1)|null|
 |**2024-11-13**|**Wave topology of stellar inertial oscillations**|Armand Leclerc et.al.|[2411.08457v1](http://arxiv.org/abs/2411.08457v1)|null|
@@ -29,6 +32,3 @@
 |**2024-11-06**|**FLAIM: A reduced volume ignition model for the compression and thermonuclear burn of spherical fuel capsules**|Abd Essamade Saufi et.al.|[2411.05035v1](http://arxiv.org/abs/2411.05035v1)|null|
 |**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v3](http://arxiv.org/abs/2411.03928v3)|[link](https://github.com/arclab-hku/deio)|
 |**2024-11-06**|**Programming an Optical Lattice Interferometer**|Lennart Maximilian Seifert et.al.|[2411.03566v1](http://arxiv.org/abs/2411.03566v1)|null|
-|**2024-11-05**|**Energy Consumption in Robotics: A Simplified Modeling Approach**|Valentyn Petrichenko et.al.|[2411.03194v1](http://arxiv.org/abs/2411.03194v1)|null|
-|**2024-11-05**|**IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**|Heiko Oppel et.al.|[2411.02954v1](http://arxiv.org/abs/2411.02954v1)|null|
-|**2024-11-05**|**Asymptotic limits of the attached eddy model derived from an adiabatic atmosphere**|Yue Qin et.al.|[2411.02756v1](http://arxiv.org/abs/2411.02756v1)|null|

@@ -2,6 +2,13 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293v1](http://arxiv.org/abs/2411.10293v1)|null|
+|**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291v1](http://arxiv.org/abs/2411.10291v1)|null|
+|**2024-11-15**|**4DPV: 4D Pet from Videos by Coarse-to-Fine Non-Rigid Radiance Fields**|Sergio M. de Paco et.al.|[2411.10275v1](http://arxiv.org/abs/2411.10275v1)|[link](https://github.com/smontode24/4dpv)|
+|**2024-11-15**|**Learning Generalizable 3D Manipulation With 10 Demonstrations**|Yu Ren et.al.|[2411.10203v1](http://arxiv.org/abs/2411.10203v1)|null|
+|**2024-11-15**|**Influence of Depth Camera Noise Models on Respiration Estimation**|Maurice Rohr et.al.|[2411.10081v1](http://arxiv.org/abs/2411.10081v1)|null|
+|**2024-11-15**|**Real-Time AI-Driven People Tracking and Counting Using Overhead Cameras**|Ishrath Ahamed et.al.|[2411.10072v1](http://arxiv.org/abs/2411.10072v1)|null|
+|**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu et.al.|[2411.10013v1](http://arxiv.org/abs/2411.10013v1)|null|
 |**2024-11-14**|**Marker-free Human Gait Analysis using a Smart Edge Sensor System**|Eva Katharina Bauer et.al.|[2411.09538v1](http://arxiv.org/abs/2411.09538v1)|null|
 |**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484v2](http://arxiv.org/abs/2411.09484v2)|[link](https://github.com/fb82/miho)|
 |**2024-11-14**|**A trade-off between hydrodynamic performance and morphological bias limits the evolution of symmetric lattice animal wings**|Sif F. Arnbjerg-Nielsen et.al.|[2411.09456v1](http://arxiv.org/abs/2411.09456v1)|[link](https://github.com/Jensen-Lab/PolyominoWingEvolution)|
@@ -25,10 +32,3 @@
 |**2024-11-12**|**CameraHMR: Aligning People with Perspective**|Priyanka Patel et.al.|[2411.08128v1](http://arxiv.org/abs/2411.08128v1)|null|
 |**2024-11-12**|**A computer-vision aided Compton-imaging system for radioactive waste characterization and decommissioning of nuclear power plants**|Victor Babiano-Suarez et.al.|[2411.07996v1](http://arxiv.org/abs/2411.07996v1)|null|
 |**2024-11-12**|**Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects**|Laura Dominé et.al.|[2411.07956v1](http://arxiv.org/abs/2411.07956v1)|null|
-|**2024-11-12**|**Image of the Kerr-Newman black hole surrounded by a thin accretion disk**|Sen Guo et.al.|[2411.07914v1](http://arxiv.org/abs/2411.07914v1)|null|
-|**2024-11-12**|**SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model**|Xinyuan Qian et.al.|[2411.07751v1](http://arxiv.org/abs/2411.07751v1)|null|
-|**2024-11-12**|**ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**|Dubing Chen et.al.|[2411.07725v1](http://arxiv.org/abs/2411.07725v1)|null|
-|**2024-11-12**|**Maritime Search and Rescue Missions with Aerial Images: A Survey**|Juan P. Martinez-Esteso et.al.|[2411.07649v1](http://arxiv.org/abs/2411.07649v1)|null|
-|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579v3](http://arxiv.org/abs/2411.07579v3)|null|
-|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430v1](http://arxiv.org/abs/2411.07430v1)|[link](https://github.com/canyagmur/xpoint)|
-|**2024-11-11**|**Instance Performance Difference: A Metric to Measure the Sim-To-Real Gap in Camera Simulation**|Bo-Hsun Chen et.al.|[2411.07375v1](http://arxiv.org/abs/2411.07375v1)|null|
