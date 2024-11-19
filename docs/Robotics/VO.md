@@ -5,7 +5,7 @@
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
 |**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231v1](http://arxiv.org/abs/2411.08231v1)|null|
-|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v1](http://arxiv.org/abs/2411.07699v1)|[link](https://github.com/yangsc4063/rino)|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v2](http://arxiv.org/abs/2411.07699v2)|[link](https://github.com/yangsc4063/rino)|
 |**2024-11-12**|**SP-VIO: Robust and Efficient Filter-Based Visual Inertial Odometry with State Transformation Model and Pose-Only Visual Description**|Xueyu Du et.al.|[2411.07551v1](http://arxiv.org/abs/2411.07551v1)|null|
 |**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766v1](http://arxiv.org/abs/2411.06766v1)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
@@ -21,7 +21,7 @@
 |**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
 |**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
 |**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
-|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v1](http://arxiv.org/abs/2410.15480v1)|null|
+|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v2](http://arxiv.org/abs/2410.15480v2)|null|
 |**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|

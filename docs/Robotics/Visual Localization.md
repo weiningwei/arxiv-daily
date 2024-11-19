@@ -18,7 +18,7 @@
 |**2024-11-13**|**Faint white dwarf flux standards: data and models**|Ralph C. Bohlin et.al.|[2411.09049v1](http://arxiv.org/abs/2411.09049v1)|null|
 |**2024-11-13**|**$S^5$: New insights from deep spectroscopic observations of the tidal tails of the globular clusters NGC 1261 and NGC 1904**|Petra Awad et.al.|[2411.08991v1](http://arxiv.org/abs/2411.08991v1)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
-|**2024-11-13**|**Basaltic mini-moon: Characterizing 2024 PT5 with the 10.4 m Gran Telescopio Canarias and the Two-meter Twin Telescope**|R. de la Fuente Marcos et.al.|[2411.08834v1](http://arxiv.org/abs/2411.08834v1)|null|
+|**2024-11-13**|**Basaltic mini-moon: Characterizing 2024 PT5 with the 10.4 m Gran Telescopio Canarias and the Two-meter Twin Telescope**|R. de la Fuente Marcos et.al.|[2411.08834v2](http://arxiv.org/abs/2411.08834v2)|null|
 |**2024-11-13**|**Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Videos**|Sagnik Majumder et.al.|[2411.08753v1](http://arxiv.org/abs/2411.08753v1)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665v1](http://arxiv.org/abs/2411.08665v1)|null|
 |**2024-11-13**|**MikuDance: Animating Character Art with Mixed Motion Dynamics**|Jiaxu Zhang et.al.|[2411.08656v2](http://arxiv.org/abs/2411.08656v2)|null|
