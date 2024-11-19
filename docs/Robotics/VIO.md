@@ -2,8 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-18**|**Diffusivity-Free Turbulence in Tabletop Rotating Rayleigh-Bénard Convection Experiments**|Jewel A. Abbate et.al.|[2411.11226v1](http://arxiv.org/abs/2411.11226v1)|null|
+|**2024-11-17**|**Structure of weakly collisional shock waves of multicomponent plasmas inside hohlraums of indirect inertial confinement fusions**|Tianyi Liang et.al.|[2411.11008v1](http://arxiv.org/abs/2411.11008v1)|null|
+|**2024-11-17**|**EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time**|Wanli Xing et.al.|[2411.11004v1](http://arxiv.org/abs/2411.11004v1)|null|
+|**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935v1](http://arxiv.org/abs/2411.10935v1)|null|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546v1](http://arxiv.org/abs/2411.10546v1)|null|
+|**2024-11-15**|**Magnetized ICF implosions: Non-axial magnetic field topologies**|C. A. Walsh et.al.|[2411.10538v1](http://arxiv.org/abs/2411.10538v1)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
-|**2024-11-15**|**PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse**|Einari Vaaras et.al.|[2411.10087v1](http://arxiv.org/abs/2411.10087v1)|null|
+|**2024-11-15**|**PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse**|Einari Vaaras et.al.|[2411.10087v1](http://arxiv.org/abs/2411.10087v1)|[link](https://github.com/SPEECHCOG/PFML)|
 |**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
 |**2024-11-14**|**Comment on "Transformation of phase velocity among inertial frames [Wave Motion 50 (2013) 520-524, https://doi.org/10.1063/1.1888051]"**|Seyed Saied Mirahmadi et.al.|[2411.09206v1](http://arxiv.org/abs/2411.09206v1)|null|
 |**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789v1](http://arxiv.org/abs/2411.08789v1)|null|
@@ -26,9 +32,3 @@
 |**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481v1](http://arxiv.org/abs/2411.05481v1)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
 |**2024-11-07**|**Field Assessment of Force Torque Sensors for Planetary Rover Navigation**|Levin Gerdes et.al.|[2411.04700v1](http://arxiv.org/abs/2411.04700v1)|[link](https://github.com/spaceuma/fts-assessment)|
-|**2024-11-07**|**Unruh-deWitt detector in impulsive plane wave spacetimes**|João Paulo M. Pitelli et.al.|[2411.04633v1](http://arxiv.org/abs/2411.04633v1)|null|
-|**2024-11-07**|**Frame-dragging effects in the gravitational quantum field theory**|Dongfeng Gao et.al.|[2411.04460v1](http://arxiv.org/abs/2411.04460v1)|null|
-|**2024-11-06**|**Evolution of internal cnoidal waves with local defects in a two-layer fluid with rotation**|Korsarun Nirunwiroj et.al.|[2411.03997v1](http://arxiv.org/abs/2411.03997v1)|null|
-|**2024-11-06**|**FLAIM: A reduced volume ignition model for the compression and thermonuclear burn of spherical fuel capsules**|Abd Essamade Saufi et.al.|[2411.05035v1](http://arxiv.org/abs/2411.05035v1)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v3](http://arxiv.org/abs/2411.03928v3)|[link](https://github.com/arclab-hku/deio)|
-|**2024-11-06**|**Programming an Optical Lattice Interferometer**|Lennart Maximilian Seifert et.al.|[2411.03566v1](http://arxiv.org/abs/2411.03566v1)|null|

@@ -2,6 +2,11 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481v1](http://arxiv.org/abs/2411.11481v1)|null|
+|**2024-11-18**|**The Blue Horizontal-Branch Stars From the LAMOST Survey: Atmospheric Parameters**|Jie Ju et.al.|[2411.11250v1](http://arxiv.org/abs/2411.11250v1)|null|
+|**2024-11-17**|**A Monocular SLAM-based Multi-User Positioning System with Image Occlusion in Augmented Reality**|Wei-Hsiang Lien et.al.|[2411.10940v1](http://arxiv.org/abs/2411.10940v1)|null|
+|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722v1](http://arxiv.org/abs/2411.10722v1)|null|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546v1](http://arxiv.org/abs/2411.10546v1)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373v1](http://arxiv.org/abs/2411.08373v1)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279v1](http://arxiv.org/abs/2411.08279v1)|[link](https://github.com/wu-cvgl/mba-slam)|
 |**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848v1](http://arxiv.org/abs/2411.07848v1)|null|
@@ -27,8 +32,3 @@
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341v1](http://arxiv.org/abs/2410.19341v1)|[link](https://github.com/woo-soojin/context-based-vlpr)|
 |**2024-10-22**|**AG-SLAM: Active Gaussian Splatting SLAM**|Wen Jiang et.al.|[2410.17422v1](http://arxiv.org/abs/2410.17422v1)|null|
 |**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171v1](http://arxiv.org/abs/2410.17171v1)|null|
-|**2024-10-19**|**EndoMetric: Near-light metric scale monocular SLAM**|Raúl Iranzo et.al.|[2410.15065v1](http://arxiv.org/abs/2410.15065v1)|null|
-|**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612v1](http://arxiv.org/abs/2410.13612v1)|null|
-|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
-|**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520v1](http://arxiv.org/abs/2410.12520v1)|[link](https://github.com/larocs/queenscamp-dataset)|
-|**2024-10-16**|**PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM**|Guanghao Li et.al.|[2410.12324v2](http://arxiv.org/abs/2410.12324v2)|null|

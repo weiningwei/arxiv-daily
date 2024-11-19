@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-17**|**EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time**|Wanli Xing et.al.|[2411.11004v1](http://arxiv.org/abs/2411.11004v1)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
 |**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231v1](http://arxiv.org/abs/2411.08231v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|[link](https://github.com/nail-hnu/esvo2)|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|[link](https://github.com/hku-mars/Voxel-SLAM)|
 |**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805v1](http://arxiv.org/abs/2410.08805v1)|[link](https://github.com/davidea97/memroc)|
-|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
