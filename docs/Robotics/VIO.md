@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-19**|**Drop-drop coalescence: a simple crossover function between inertial and viscous dynamics**|Kaili Xie et.al.|[2411.12638v1](http://arxiv.org/abs/2411.12638v1)|null|
+|**2024-11-19**|**Extended Buoyancy-Drag Model for Ablative Rayleigh-Taylor Instability Seeded by Various Perturbations**|Dongxue Liu et.al.|[2411.12392v1](http://arxiv.org/abs/2411.12392v1)|null|
+|**2024-11-19**|**Shape modes and jet formation on ultrasound-driven wall-attached bubbles**|Marco Cattaneo et.al.|[2411.12371v1](http://arxiv.org/abs/2411.12371v1)|null|
+|**2024-11-19**|**AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression**|Zhixiang Wang et.al.|[2411.12175v1](http://arxiv.org/abs/2411.12175v1)|null|
+|**2024-11-18**|**Pulsed Dual-axis Alkali-metal-noble-gas Comagnetometer**|Jingyao Wang et.al.|[2411.12125v1](http://arxiv.org/abs/2411.12125v1)|null|
 |**2024-11-18**|**Diffusivity-Free Turbulence in Tabletop Rotating Rayleigh-Bénard Convection Experiments**|Jewel A. Abbate et.al.|[2411.11226v1](http://arxiv.org/abs/2411.11226v1)|null|
 |**2024-11-17**|**Structure of weakly collisional shock waves of multicomponent plasmas inside hohlraums of indirect inertial confinement fusions**|Tianyi Liang et.al.|[2411.11008v1](http://arxiv.org/abs/2411.11008v1)|null|
 |**2024-11-17**|**EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time**|Wanli Xing et.al.|[2411.11004v1](http://arxiv.org/abs/2411.11004v1)|null|
@@ -25,10 +30,5 @@
 |**2024-11-11**|**Robust Nonprehensile Object Transportation with Uncertain Inertial Parameters**|Adam Heins et.al.|[2411.07079v1](http://arxiv.org/abs/2411.07079v1)|[link](https://github.com/utiasdsl/upright)|
 |**2024-11-11**|**Quantum Field Theory in non-inertial frames**|Enrique Álvarez et.al.|[2411.06951v1](http://arxiv.org/abs/2411.06951v1)|null|
 |**2024-11-11**|**Annotation and synchronization of smartphone inertial measurement unit and motion capture data collected in a laboratory setting to study gait and balance**|Dimitar Stanev et.al.|[2411.06809v1](http://arxiv.org/abs/2411.06809v1)|null|
-|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766v1](http://arxiv.org/abs/2411.06766v1)|null|
+|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766v1](http://arxiv.org/abs/2411.06766v1)|[link](https://github.com/cocel-postech/genz-icp)|
 |**2024-11-08**|**Cyber-Physical Security of Vehicles: Zero Dynamics Attacks Against Vehicle's Lateral Dynamics**|Ghadeer Shaaban et.al.|[2411.05999v1](http://arxiv.org/abs/2411.05999v1)|null|
-|**2024-11-08**|**Equivariant IMU Preintegration with Biases: an Inhomogeneous Galilean Group Approach**|Giulio Delama et.al.|[2411.05548v1](http://arxiv.org/abs/2411.05548v1)|null|
-|**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497v1](http://arxiv.org/abs/2411.05497v1)|null|
-|**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481v1](http://arxiv.org/abs/2411.05481v1)|null|
-|**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
-|**2024-11-07**|**Field Assessment of Force Torque Sensors for Planetary Rover Navigation**|Levin Gerdes et.al.|[2411.04700v1](http://arxiv.org/abs/2411.04700v1)|[link](https://github.com/spaceuma/fts-assessment)|
