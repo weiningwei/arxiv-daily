@@ -11,7 +11,7 @@
 |**2024-11-18**|**Noise Filtering Benchmark for Neuromorphic Satellites Observations**|Sami Arja et.al.|[2411.11233v1](http://arxiv.org/abs/2411.11233v1)|[link](https://github.com/samiarja/dvs_sparse_filter)|
 |**2024-11-17**|**PickScan: Object discovery and reconstruction from handheld interactions**|Vincent van der Brugge et.al.|[2411.11196v1](http://arxiv.org/abs/2411.11196v1)|null|
 |**2024-11-17**|**EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time**|Wanli Xing et.al.|[2411.11004v1](http://arxiv.org/abs/2411.11004v1)|null|
-|**2024-11-17**|**VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?**|Yunlong Tang et.al.|[2411.10979v1](http://arxiv.org/abs/2411.10979v1)|null|
+|**2024-11-17**|**VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?**|Yunlong Tang et.al.|[2411.10979v2](http://arxiv.org/abs/2411.10979v2)|null|
 |**2024-11-17**|**V2X-Radar: A Multi-modal Dataset with 4D Radar for Cooperative Perception**|Lei Yang et.al.|[2411.10962v1](http://arxiv.org/abs/2411.10962v1)|null|
 |**2024-11-17**|**Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera**|Inpyo Song et.al.|[2411.10945v1](http://arxiv.org/abs/2411.10945v1)|null|
 |**2024-11-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2411.10936v1](http://arxiv.org/abs/2411.10936v1)|null|

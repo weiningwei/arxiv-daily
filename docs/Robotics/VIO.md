@@ -16,7 +16,7 @@
 |**2024-11-13**|**Wave topology of stellar inertial oscillations**|Armand Leclerc et.al.|[2411.08457v1](http://arxiv.org/abs/2411.08457v1)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231v1](http://arxiv.org/abs/2411.08231v1)|null|
 |**2024-11-12**|**Point Cloud Context Analysis for Rehabilitation Grasping Assistance**|Jackson M. Steinkamp et.al.|[2411.08169v1](http://arxiv.org/abs/2411.08169v1)|null|
-|**2024-11-12**|**A Note on the Relativistic Transformation Properties of Quantum Stochastic Calculus**|J. E. Gough et.al.|[2411.07915v1](http://arxiv.org/abs/2411.07915v1)|null|
+|**2024-11-12**|**A Note on the Relativistic Transformation Properties of Quantum Stochastic Calculus**|J. E. Gough et.al.|[2411.07915v2](http://arxiv.org/abs/2411.07915v2)|null|
 |**2024-11-12**|**Stabilization of the Rayleigh-Bénard system by injection of thermal inertial particles and bubbles**|Saad Raza et.al.|[2411.07891v1](http://arxiv.org/abs/2411.07891v1)|null|
 |**2024-11-12**|**Suite-IN: Aggregating Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2411.07828v1](http://arxiv.org/abs/2411.07828v1)|null|
 |**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v2](http://arxiv.org/abs/2411.07699v2)|[link](https://github.com/yangsc4063/rino)|
