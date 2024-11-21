@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438v1](http://arxiv.org/abs/2411.13438v1)|null|
+|**2024-11-19**|**Degradation of performance in ICF implosions due to Rayleigh--Taylor instabilities: a Hamiltonian perspective**|D. E. Ruiz et.al.|[2411.12933v1](http://arxiv.org/abs/2411.12933v1)|null|
 |**2024-11-19**|**Drop-drop coalescence: a simple crossover function between inertial and viscous dynamics**|Kaili Xie et.al.|[2411.12638v1](http://arxiv.org/abs/2411.12638v1)|null|
 |**2024-11-19**|**Extended Buoyancy-Drag Model for Ablative Rayleigh-Taylor Instability Seeded by Various Perturbations**|Dongxue Liu et.al.|[2411.12392v1](http://arxiv.org/abs/2411.12392v1)|null|
 |**2024-11-19**|**Shape modes and jet formation on ultrasound-driven wall-attached bubbles**|Marco Cattaneo et.al.|[2411.12371v1](http://arxiv.org/abs/2411.12371v1)|null|
@@ -30,5 +32,3 @@
 |**2024-11-11**|**Robust Nonprehensile Object Transportation with Uncertain Inertial Parameters**|Adam Heins et.al.|[2411.07079v1](http://arxiv.org/abs/2411.07079v1)|[link](https://github.com/utiasdsl/upright)|
 |**2024-11-11**|**Quantum Field Theory in non-inertial frames**|Enrique Álvarez et.al.|[2411.06951v1](http://arxiv.org/abs/2411.06951v1)|null|
 |**2024-11-11**|**Annotation and synchronization of smartphone inertial measurement unit and motion capture data collected in a laboratory setting to study gait and balance**|Dimitar Stanev et.al.|[2411.06809v1](http://arxiv.org/abs/2411.06809v1)|null|
-|**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766v1](http://arxiv.org/abs/2411.06766v1)|[link](https://github.com/cocel-postech/genz-icp)|
-|**2024-11-08**|**Cyber-Physical Security of Vehicles: Zero Dynamics Attacks Against Vehicle's Lateral Dynamics**|Ghadeer Shaaban et.al.|[2411.05999v1](http://arxiv.org/abs/2411.05999v1)|null|
