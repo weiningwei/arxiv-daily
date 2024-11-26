@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-25**|**Path of a pair of deformable bubbles rising initially in line and close to a vertical wall**|Haochen Huang et.al.|[2411.16352v1](http://arxiv.org/abs/2411.16352v1)|null|
+|**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273v1](http://arxiv.org/abs/2411.16273v1)|null|
+|**2024-11-25**|**Auto-calibrated Wearable System for Load Vertical Location Estimation During Manual Lifting**|Diliang Chen et.al.|[2411.16097v1](http://arxiv.org/abs/2411.16097v1)|null|
+|**2024-11-24**|**ActiveCheerios: 3D-Printed Marangoni-Driven Active Particles at an Interface**|Jackson K. Wilt et.al.|[2411.16011v1](http://arxiv.org/abs/2411.16011v1)|null|
 |**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127v1](http://arxiv.org/abs/2411.15127v1)|null|
 |**2024-11-22**|**Outer Solar System spacecraft without drag-free control to probe the $μ$Hz gravitational wave frontier**|Matthew McQuinn et.al.|[2411.15072v1](http://arxiv.org/abs/2411.15072v1)|null|
 |**2024-11-22**|**Sources and Radiations of the Fermi Bubbles**|Vladimir A. Dogiel et.al.|[2411.14916v1](http://arxiv.org/abs/2411.14916v1)|null|
@@ -28,7 +32,3 @@
 |**2024-11-15**|**PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse**|Einari Vaaras et.al.|[2411.10087v1](http://arxiv.org/abs/2411.10087v1)|[link](https://github.com/SPEECHCOG/PFML)|
 |**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
 |**2024-11-14**|**Comment on "Transformation of phase velocity among inertial frames [Wave Motion 50 (2013) 520-524, https://doi.org/10.1063/1.1888051]"**|Seyed Saied Mirahmadi et.al.|[2411.09206v1](http://arxiv.org/abs/2411.09206v1)|null|
-|**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789v1](http://arxiv.org/abs/2411.08789v1)|null|
-|**2024-11-13**|**Wave topology of stellar inertial oscillations**|Armand Leclerc et.al.|[2411.08457v1](http://arxiv.org/abs/2411.08457v1)|null|
-|**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231v2](http://arxiv.org/abs/2411.08231v2)|null|
-|**2024-11-12**|**Point Cloud Context Analysis for Rehabilitation Grasping Assistance**|Jackson M. Steinkamp et.al.|[2411.08169v1](http://arxiv.org/abs/2411.08169v1)|null|
