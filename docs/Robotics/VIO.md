@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-26**|**BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem**|Wenliang Sheng et.al.|[2411.17521v1](http://arxiv.org/abs/2411.17521v1)|null|
+|**2024-11-26**|**Snake-Inspired Mobile Robot Positioning with Hybrid Learning**|Aviad Etzion et.al.|[2411.17430v1](http://arxiv.org/abs/2411.17430v1)|null|
+|**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289v1](http://arxiv.org/abs/2411.17289v1)|[link](https://github.com/robotics-upo/4D-Radar-Odom)|
+|**2024-11-25**|**Performance Assessment of Lidar Odometry Frameworks: A Case Study at the Australian Botanic Garden Mount Annan**|Mohamed Mourad Ouazghire et.al.|[2411.16931v1](http://arxiv.org/abs/2411.16931v1)|null|
 |**2024-11-25**|**Path of a pair of deformable bubbles rising initially in line and close to a vertical wall**|Haochen Huang et.al.|[2411.16352v1](http://arxiv.org/abs/2411.16352v1)|null|
 |**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273v1](http://arxiv.org/abs/2411.16273v1)|null|
 |**2024-11-25**|**Auto-calibrated Wearable System for Load Vertical Location Estimation During Manual Lifting**|Diliang Chen et.al.|[2411.16097v1](http://arxiv.org/abs/2411.16097v1)|null|
@@ -28,7 +32,3 @@
 |**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935v1](http://arxiv.org/abs/2411.10935v1)|null|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546v1](http://arxiv.org/abs/2411.10546v1)|null|
 |**2024-11-15**|**Magnetized ICF implosions: Non-axial magnetic field topologies**|C. A. Walsh et.al.|[2411.10538v1](http://arxiv.org/abs/2411.10538v1)|null|
-|**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
-|**2024-11-15**|**PFML: Self-Supervised Learning of Time-Series Data Without Representation Collapse**|Einari Vaaras et.al.|[2411.10087v1](http://arxiv.org/abs/2411.10087v1)|[link](https://github.com/SPEECHCOG/PFML)|
-|**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
-|**2024-11-14**|**Comment on "Transformation of phase velocity among inertial frames [Wave Motion 50 (2013) 520-524, https://doi.org/10.1063/1.1888051]"**|Seyed Saied Mirahmadi et.al.|[2411.09206v1](http://arxiv.org/abs/2411.09206v1)|null|
