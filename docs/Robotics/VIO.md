@@ -29,6 +29,6 @@
 |**2024-11-18**|**Diffusivity-Free Turbulence in Tabletop Rotating Rayleigh-Bénard Convection Experiments**|Jewel A. Abbate et.al.|[2411.11226v1](http://arxiv.org/abs/2411.11226v1)|null|
 |**2024-11-17**|**Structure of weakly collisional shock waves of multicomponent plasmas inside hohlraums of indirect inertial confinement fusions**|Tianyi Liang et.al.|[2411.11008v1](http://arxiv.org/abs/2411.11008v1)|null|
 |**2024-11-17**|**EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time**|Wanli Xing et.al.|[2411.11004v1](http://arxiv.org/abs/2411.11004v1)|null|
-|**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935v1](http://arxiv.org/abs/2411.10935v1)|null|
+|**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935v2](http://arxiv.org/abs/2411.10935v2)|null|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546v1](http://arxiv.org/abs/2411.10546v1)|null|
 |**2024-11-15**|**Magnetized ICF implosions: Non-axial magnetic field topologies**|C. A. Walsh et.al.|[2411.10538v1](http://arxiv.org/abs/2411.10538v1)|null|
