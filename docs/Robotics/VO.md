@@ -2,7 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443v1](http://arxiv.org/abs/2411.18443v1)|null|
+|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443v1](http://arxiv.org/abs/2411.18443v1)|[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)|
 |**2024-11-26**|**BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem**|Wenliang Sheng et.al.|[2411.17521v1](http://arxiv.org/abs/2411.17521v1)|null|
 |**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289v1](http://arxiv.org/abs/2411.17289v1)|[link](https://github.com/robotics-upo/4D-Radar-Odom)|
 |**2024-11-25**|**Performance Assessment of Lidar Odometry Frameworks: A Case Study at the Australian Botanic Garden Mount Annan**|Mohamed Mourad Ouazghire et.al.|[2411.16931v1](http://arxiv.org/abs/2411.16931v1)|null|
