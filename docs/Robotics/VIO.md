@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
+|**2024-11-29**|**Strong convergence of an inertial Tikhonov regularized dynamical system governed by a maximally comonotone operator**|Zeng-Zhen Tan et.al.|[2411.19693v1](http://arxiv.org/abs/2411.19693v1)|null|
+|**2024-11-29**|**Unified discontinuous Galerkin analysis of a thermo/poro-viscoelasticity model**|Stefano Bonetti et.al.|[2411.19610v1](http://arxiv.org/abs/2411.19610v1)|null|
+|**2024-11-28**|**Kinetic Theory of Relativistic Temperature in Self-Gravitating Systems**|Naoki Sato et.al.|[2411.19405v1](http://arxiv.org/abs/2411.19405v1)|null|
+|**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289v1](http://arxiv.org/abs/2411.19289v1)|null|
+|**2024-11-28**|**Maximal Steered Coherence in Accelerating Unruh-DeWitt Detectors**|Hong-Wei Li et.al.|[2411.19254v1](http://arxiv.org/abs/2411.19254v1)|null|
+|**2024-11-28**|**Inertial Dynamics of Run-and-Tumble Particle**|Debraj Dutta et.al.|[2411.19186v1](http://arxiv.org/abs/2411.19186v1)|null|
+|**2024-11-28**|**Hydrodynamical simulations with strong indirect terms in Fargo-like codes: Numerical aspects of non-inertial frame and artificial viscosity**|Lucas M. Jordan et.al.|[2411.19073v1](http://arxiv.org/abs/2411.19073v1)|null|
+|**2024-11-27**|**A Geometric Approach to the Navier-Stokes Equations**|Sebastian Ali Sacasa-Cespedes et.al.|[2411.18724v1](http://arxiv.org/abs/2411.18724v1)|null|
 |**2024-11-27**|**Generalized Fast Krasnosel'kiĭ-Mann Method with Preconditioners**|Radu I. Boţ et.al.|[2411.18574v1](http://arxiv.org/abs/2411.18574v1)|[link](https://github.com/echnen/fast-km)|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443v1](http://arxiv.org/abs/2411.18443v1)|[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)|
 |**2024-11-27**|**Inertial dynamics with vanishing Tikhonov regularization for multobjective optimization**|Radu Ioan Bot et.al.|[2411.18422v1](http://arxiv.org/abs/2411.18422v1)|null|
@@ -23,12 +32,3 @@
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358v1](http://arxiv.org/abs/2411.14358v1)|null|
 |**2024-11-21**|**Well-Posedness for Dean-Kawasaki Models of Vlasov-Fokker-Planck Type**|Fenna Müller et.al.|[2411.14334v1](http://arxiv.org/abs/2411.14334v1)|null|
 |**2024-11-21**|**Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking**|Nicholas M. Boffi et.al.|[2411.14317v1](http://arxiv.org/abs/2411.14317v1)|null|
-|**2024-11-21**|**Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain**|Vidya Sudevan et.al.|[2411.13988v1](http://arxiv.org/abs/2411.13988v1)|null|
-|**2024-11-21**|**Quantum gravity corrections to the spontaneous excitation of an accelerated atom interacting with a quantum scalar field**|Zhi Wang et.al.|[2411.13910v1](http://arxiv.org/abs/2411.13910v1)|null|
-|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438v1](http://arxiv.org/abs/2411.13438v1)|null|
-|**2024-11-19**|**Degradation of performance in ICF implosions due to Rayleigh--Taylor instabilities: a Hamiltonian perspective**|D. E. Ruiz et.al.|[2411.12933v1](http://arxiv.org/abs/2411.12933v1)|null|
-|**2024-11-19**|**Drop-drop coalescence: a simple crossover function between inertial and viscous dynamics**|Kaili Xie et.al.|[2411.12638v1](http://arxiv.org/abs/2411.12638v1)|null|
-|**2024-11-19**|**Extended Buoyancy-Drag Model for Ablative Rayleigh-Taylor Instability Seeded by Various Perturbations**|Dongxue Liu et.al.|[2411.12392v1](http://arxiv.org/abs/2411.12392v1)|null|
-|**2024-11-19**|**Shape modes and jet formation on ultrasound-driven wall-attached bubbles**|Marco Cattaneo et.al.|[2411.12371v1](http://arxiv.org/abs/2411.12371v1)|null|
-|**2024-11-19**|**AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression**|Zhixiang Wang et.al.|[2411.12175v1](http://arxiv.org/abs/2411.12175v1)|null|
-|**2024-11-18**|**Pulsed Dual-axis Alkali-metal-noble-gas Comagnetometer**|Jingyao Wang et.al.|[2411.12125v1](http://arxiv.org/abs/2411.12125v1)|null|
