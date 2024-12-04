@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel et.al.|[2412.02533v1](http://arxiv.org/abs/2412.02533v1)|null|
 |**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289v1](http://arxiv.org/abs/2411.19289v1)|null|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443v1](http://arxiv.org/abs/2411.18443v1)|[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)|
 |**2024-11-26**|**BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem**|Wenliang Sheng et.al.|[2411.17521v1](http://arxiv.org/abs/2411.17521v1)|[link](https://github.com/LIAS-CUHKSZ/BESTAnP)|
@@ -31,4 +32,3 @@
 |**2024-10-21**|**Robust Loop Closure by Textual Cues in Challenging Environments**|Tongxing Jin et.al.|[2410.15869v1](http://arxiv.org/abs/2410.15869v1)|[link](https://github.com/tongxingjin/txtlcd)|
 |**2024-10-21**|**Flying through Moving Gates without Full State Estimation**|Ralf Römer et.al.|[2410.15799v2](http://arxiv.org/abs/2410.15799v2)|null|
 |**2024-10-21**|**PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones**|Yunqian Cheng et.al.|[2410.15694v1](http://arxiv.org/abs/2410.15694v1)|[link](https://github.com/head-inthe-cloud/palms-indoor-localization)|
-|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480v3](http://arxiv.org/abs/2410.15480v3)|null|

@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel et.al.|[2412.02533v1](http://arxiv.org/abs/2412.02533v1)|null|
+|**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|[link](https://github.com/iis-esslingen/rover_benchmark)|
+|**2024-12-03**|**High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method**|Yi Zeng et.al.|[2412.02413v1](http://arxiv.org/abs/2412.02413v1)|null|
+|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045v1](http://arxiv.org/abs/2412.02045v1)|null|
+|**2024-11-30**|**Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments**|Jianhao Jiao et.al.|[2412.00291v1](http://arxiv.org/abs/2412.00291v1)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
 |**2024-11-29**|**Strong convergence of an inertial Tikhonov regularized dynamical system governed by a maximally comonotone operator**|Zeng-Zhen Tan et.al.|[2411.19693v1](http://arxiv.org/abs/2411.19693v1)|null|
 |**2024-11-29**|**Unified discontinuous Galerkin analysis of a thermo/poro-viscoelasticity model**|Stefano Bonetti et.al.|[2411.19610v1](http://arxiv.org/abs/2411.19610v1)|null|
@@ -27,8 +32,3 @@
 |**2024-11-24**|**ActiveCheerios: 3D-Printed Marangoni-Driven Active Particles at an Interface**|Jackson K. Wilt et.al.|[2411.16011v1](http://arxiv.org/abs/2411.16011v1)|null|
 |**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127v1](http://arxiv.org/abs/2411.15127v1)|null|
 |**2024-11-22**|**Outer Solar System spacecraft without drag-free control to probe the $μ$Hz gravitational wave frontier**|Matthew McQuinn et.al.|[2411.15072v1](http://arxiv.org/abs/2411.15072v1)|[link](https://github.com/astromcquinn/GWwithDragFree)|
-|**2024-11-22**|**Sources and Radiations of the Fermi Bubbles**|Vladimir A. Dogiel et.al.|[2411.14916v1](http://arxiv.org/abs/2411.14916v1)|null|
-|**2024-11-22**|**Second-order dynamical systems with a smoothing effect for solving paramonotone variational inequalities**|Pham Viet Hai et.al.|[2411.14651v1](http://arxiv.org/abs/2411.14651v1)|null|
-|**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358v1](http://arxiv.org/abs/2411.14358v1)|null|
-|**2024-11-21**|**Well-Posedness for Dean-Kawasaki Models of Vlasov-Fokker-Planck Type**|Fenna Müller et.al.|[2411.14334v1](http://arxiv.org/abs/2411.14334v1)|null|
-|**2024-11-21**|**Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking**|Nicholas M. Boffi et.al.|[2411.14317v1](http://arxiv.org/abs/2411.14317v1)|null|
