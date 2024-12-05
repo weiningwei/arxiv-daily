@@ -15,7 +15,7 @@
 |**2024-11-28**|**Maximal Steered Coherence in Accelerating Unruh-DeWitt Detectors**|Hong-Wei Li et.al.|[2411.19254v1](http://arxiv.org/abs/2411.19254v1)|null|
 |**2024-11-28**|**Inertial Dynamics of Run-and-Tumble Particle**|Debraj Dutta et.al.|[2411.19186v1](http://arxiv.org/abs/2411.19186v1)|null|
 |**2024-11-28**|**Hydrodynamical simulations with strong indirect terms in Fargo-like codes: Numerical aspects of non-inertial frame and artificial viscosity**|Lucas M. Jordan et.al.|[2411.19073v1](http://arxiv.org/abs/2411.19073v1)|null|
-|**2024-11-27**|**A Geometric Approach to the Navier-Stokes Equations**|Sebastian Ali Sacasa-Cespedes et.al.|[2411.18724v1](http://arxiv.org/abs/2411.18724v1)|null|
+|**2024-11-27**|**A Geometric Approach to the Navier-Stokes Equations**|Sebastian Ali Sacasa-Cespedes et.al.|[2411.18724v2](http://arxiv.org/abs/2411.18724v2)|null|
 |**2024-11-27**|**Generalized Fast Krasnoselskii-Mann Method with Preconditioners**|Radu I. Boţ et.al.|[2411.18574v1](http://arxiv.org/abs/2411.18574v1)|[link](https://github.com/echnen/fast-km)|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443v1](http://arxiv.org/abs/2411.18443v1)|[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)|
 |**2024-11-27**|**Inertial dynamics with vanishing Tikhonov regularization for multobjective optimization**|Radu Ioan Bot et.al.|[2411.18422v1](http://arxiv.org/abs/2411.18422v1)|null|
