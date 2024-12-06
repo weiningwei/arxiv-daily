@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361v1](http://arxiv.org/abs/2412.04361v1)|null|
+|**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|null|
+|**2024-12-05**|**A $Λ$CDM Extension Explaining the Hubble Tension and the Spatial Curvature $Ω_{k,0} = -0.012 \pm 0.010$ Measured by the Final PR4 of the Planck Mission**|Horst Foidl et.al.|[2412.04126v1](http://arxiv.org/abs/2412.04126v1)|null|
+|**2024-12-05**|**Optimal demand response policies for inertial thermal loads under stochastic renewable sources**|Gaurav Sharma et.al.|[2412.04054v1](http://arxiv.org/abs/2412.04054v1)|null|
+|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887v1](http://arxiv.org/abs/2412.03887v1)|null|
 |**2024-12-04**|**Multi-Momentum Observer Contact Estimation for Bipedal Robots**|J. Joe Payne et.al.|[2412.03462v1](http://arxiv.org/abs/2412.03462v1)|null|
 |**2024-12-04**|**Distortions in Charged-Particle Images of Laser Direct-Drive Inertial Confinement Fusion Implosions**|P. V. Heuer et.al.|[2412.03362v1](http://arxiv.org/abs/2412.03362v1)|null|
 |**2024-12-04**|**Information thermodynamics for Markov jump processes coupled to underdamped diffusion: Application to nanoelectromechanics**|Ashwin Gopal et.al.|[2412.03226v1](http://arxiv.org/abs/2412.03226v1)|null|
@@ -27,8 +32,3 @@
 |**2024-11-28**|**Hydrodynamical simulations with strong indirect terms in Fargo-like codes: Numerical aspects of non-inertial frame and artificial viscosity**|Lucas M. Jordan et.al.|[2411.19073v1](http://arxiv.org/abs/2411.19073v1)|null|
 |**2024-11-27**|**A Geometric Approach to the Navier-Stokes Equations**|Sebastian Ali Sacasa-Cespedes et.al.|[2411.18724v2](http://arxiv.org/abs/2411.18724v2)|null|
 |**2024-11-27**|**Generalized Fast Krasnoselskii-Mann Method with Preconditioners**|Radu I. Boţ et.al.|[2411.18574v1](http://arxiv.org/abs/2411.18574v1)|[link](https://github.com/echnen/fast-km)|
-|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443v1](http://arxiv.org/abs/2411.18443v1)|[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)|
-|**2024-11-27**|**Inertial dynamics with vanishing Tikhonov regularization for multobjective optimization**|Radu Ioan Bot et.al.|[2411.18422v1](http://arxiv.org/abs/2411.18422v1)|null|
-|**2024-11-27**|**Drawing of Weakly Viscoelastic Fluid Tubes**|Diandian Gu et.al.|[2411.18117v1](http://arxiv.org/abs/2411.18117v1)|null|
-|**2024-11-27**|**LISA test-mass charging. Particle flux modeling, Monte Carlo simulations and induced effects on the sensitivity of the observatory**|Francesco Dimiccoli et.al.|[2411.18030v1](http://arxiv.org/abs/2411.18030v1)|null|
-|**2024-11-26**|**BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem**|Wenliang Sheng et.al.|[2411.17521v1](http://arxiv.org/abs/2411.17521v1)|[link](https://github.com/LIAS-CUHKSZ/BESTAnP)|
