@@ -16,13 +16,13 @@
 |**2024-12-05**|**Traffic Co-Simulation Framework Empowered by Infrastructure Camera Sensing and Reinforcement Learning**|Talha Azfar et.al.|[2412.03925v1](http://arxiv.org/abs/2412.03925v1)|null|
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887v1](http://arxiv.org/abs/2412.03887v1)|null|
 |**2024-12-04**|**A Global Perspective with Updated Constraints on the Ultra-hot Jupiter WASP-19b: Atmospheric Properties and Stellar Activity**|Abigail A. Tumborang et.al.|[2412.03739v1](http://arxiv.org/abs/2412.03739v1)|null|
-|**2024-12-04**|**Acquired TASTE: Multimodal Stance Detection with Textual and Structural Embeddings**|Guy Barel et.al.|[2412.03681v1](http://arxiv.org/abs/2412.03681v1)|null|
+|**2024-12-04**|**Acquired TASTE: Multimodal Stance Detection with Textual and Structural Embeddings**|Guy Barel et.al.|[2412.03681v2](http://arxiv.org/abs/2412.03681v2)|null|
 |**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570v1](http://arxiv.org/abs/2412.03570v1)|null|
 |**2024-12-04**|**FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**|Lue Fan et.al.|[2412.03566v1](http://arxiv.org/abs/2412.03566v1)|null|
 |**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552v1](http://arxiv.org/abs/2412.03552v1)|null|
 |**2024-12-04**|**MV-Adapter: Multi-view Consistent Image Generation Made Easy**|Zehuan Huang et.al.|[2412.03632v1](http://arxiv.org/abs/2412.03632v1)|null|
 |**2024-12-04**|**Dense Scene Reconstruction from Light-Field Images Affected by Rolling Shutter**|Hermes McGriff et.al.|[2412.03518v1](http://arxiv.org/abs/2412.03518v1)|null|
-|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517v1](http://arxiv.org/abs/2412.03517v1)|null|
+|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517v2](http://arxiv.org/abs/2412.03517v2)|null|
 |**2024-12-04**|**Data Fusion of Semantic and Depth Information in the Context of Object Detection**|Md Abu Yusuf et.al.|[2412.03490v1](http://arxiv.org/abs/2412.03490v1)|null|
 |**2024-12-04**|**BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**|Miguel Arturo Vega Torres et.al.|[2412.03434v1](http://arxiv.org/abs/2412.03434v1)|[link](https://github.com/migvega/bimcap)|
 |**2024-12-04**|**Geometry-guided Cross-view Diffusion for One-to-many Cross-view Image Synthesis**|Tao Jun Lin et.al.|[2412.03315v1](http://arxiv.org/abs/2412.03315v1)|null|
