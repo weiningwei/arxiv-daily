@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06**|**ETLNet: An Efficient TCN-BiLSTM Network for Road Anomaly Detection Using Smartphone Sensors**|Mohd Faiz Ansari et.al.|[2412.04990v1](http://arxiv.org/abs/2412.04990v1)|null|
 |**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361v1](http://arxiv.org/abs/2412.04361v1)|null|
 |**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)|
 |**2024-12-05**|**A $Λ$CDM Extension Explaining the Hubble Tension and the Spatial Curvature $Ω_{k,0} = -0.012 \pm 0.010$ Measured by the Final PR4 of the Planck Mission**|Horst Foidl et.al.|[2412.04126v1](http://arxiv.org/abs/2412.04126v1)|null|
@@ -31,4 +32,3 @@
 |**2024-11-28**|**Inertial Dynamics of Run-and-Tumble Particle**|Debraj Dutta et.al.|[2411.19186v1](http://arxiv.org/abs/2411.19186v1)|null|
 |**2024-11-28**|**Hydrodynamical simulations with strong indirect terms in Fargo-like codes: Numerical aspects of non-inertial frame and artificial viscosity**|Lucas M. Jordan et.al.|[2411.19073v1](http://arxiv.org/abs/2411.19073v1)|null|
 |**2024-11-27**|**A Geometric Approach to the Navier-Stokes Equations**|Sebastian Ali Sacasa-Cespedes et.al.|[2411.18724v2](http://arxiv.org/abs/2411.18724v2)|null|
-|**2024-11-27**|**Generalized Fast Krasnoselskii-Mann Method with Preconditioners**|Radu I. Boţ et.al.|[2411.18574v1](http://arxiv.org/abs/2411.18574v1)|[link](https://github.com/echnen/fast-km)|
