@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-09**|**A Speed Restart Scheme for a Dynamical System with Hessian-Driven Damping and Three Constant Coefficients**|Huiyuan Guo et.al.|[2412.06691v1](http://arxiv.org/abs/2412.06691v1)|null|
+|**2024-12-09**|**A switching Kalman filter approach to online mitigation and correction sensor corruption for inertial navigation**|Artem Mustaev et.al.|[2412.06601v1](http://arxiv.org/abs/2412.06601v1)|null|
+|**2024-12-08**|**Inertial primal-dual dynamics with Hessian-driven damping and Tikhonov regularization for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2412.05931v1](http://arxiv.org/abs/2412.05931v1)|null|
+|**2024-12-08**|**Strong Convergence of Relaxed Inertial Inexact Progressive Hedging Algorithm for Multi-stage Stochastic Variational Inequality Problems**|Jiaxin Chen et.al.|[2412.05928v1](http://arxiv.org/abs/2412.05928v1)|null|
+|**2024-12-08**|**AC-LIO: Towards Asymptotic and Consistent Convergence in LiDAR-Inertial Odometry**|Tianxiang Zhang et.al.|[2412.05873v1](http://arxiv.org/abs/2412.05873v1)|null|
+|**2024-12-08**|**Geomagnetic and Inertial Combined Navigation Approach Based on Flexible Correction-Model Predictive Control Algorithm**|Xiaohui Zhang et.al.|[2412.05820v1](http://arxiv.org/abs/2412.05820v1)|null|
+|**2024-12-07**|**Flagellar Swimming at Low Reynolds Numbers: Zoospore-Inspired Robotic Swimmers with Dual Flagella for High-Speed Locomotion**|Nnamdi C. Chikere et.al.|[2412.05712v1](http://arxiv.org/abs/2412.05712v1)|null|
+|**2024-12-07**|**A physical interpretation of Brout-Englert-Higgs mechanism**|Shun-ichiro Koh et.al.|[2412.05495v1](http://arxiv.org/abs/2412.05495v1)|null|
 |**2024-12-06**|**ETLNet: An Efficient TCN-BiLSTM Network for Road Anomaly Detection Using Smartphone Sensors**|Mohd Faiz Ansari et.al.|[2412.04990v1](http://arxiv.org/abs/2412.04990v1)|null|
 |**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361v1](http://arxiv.org/abs/2412.04361v1)|null|
 |**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)|
@@ -22,13 +30,5 @@
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|[link](https://github.com/iis-esslingen/rover_benchmark)|
 |**2024-12-03**|**High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method**|Yi Zeng et.al.|[2412.02413v1](http://arxiv.org/abs/2412.02413v1)|null|
 |**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045v1](http://arxiv.org/abs/2412.02045v1)|[link](https://github.com/cristianvega1995/Relaxed-and-Inertial-Nonlinear-Forward-Backward-with-Momentum)|
+|**2024-12-02**|**Electron-impact ionization of Si IV-VIII relevant for inertial confinement fusion**|Jean-Christophe Pain et.al.|[2412.05317v1](http://arxiv.org/abs/2412.05317v1)|null|
 |**2024-11-30**|**Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments**|Jianhao Jiao et.al.|[2412.00291v1](http://arxiv.org/abs/2412.00291v1)|[link](https://github.com/gogojjh/cobra)|
-|**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
-|**2024-11-29**|**Strong convergence of an inertial Tikhonov regularized dynamical system governed by a maximally comonotone operator**|Zeng-Zhen Tan et.al.|[2411.19693v1](http://arxiv.org/abs/2411.19693v1)|null|
-|**2024-11-29**|**Unified discontinuous Galerkin analysis of a thermo/poro-viscoelasticity model**|Stefano Bonetti et.al.|[2411.19610v1](http://arxiv.org/abs/2411.19610v1)|null|
-|**2024-11-28**|**Kinetic Theory of Relativistic Temperature in Self-Gravitating Systems**|Naoki Sato et.al.|[2411.19405v1](http://arxiv.org/abs/2411.19405v1)|null|
-|**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289v1](http://arxiv.org/abs/2411.19289v1)|null|
-|**2024-11-28**|**Maximal Steered Coherence in Accelerating Unruh-DeWitt Detectors**|Hong-Wei Li et.al.|[2411.19254v1](http://arxiv.org/abs/2411.19254v1)|null|
-|**2024-11-28**|**Inertial Dynamics of Run-and-Tumble Particle**|Debraj Dutta et.al.|[2411.19186v1](http://arxiv.org/abs/2411.19186v1)|null|
-|**2024-11-28**|**Hydrodynamical simulations with strong indirect terms in Fargo-like codes: Numerical aspects of non-inertial frame and artificial viscosity**|Lucas M. Jordan et.al.|[2411.19073v1](http://arxiv.org/abs/2411.19073v1)|null|
-|**2024-11-27**|**A Geometric Approach to the Navier-Stokes Equations**|Sebastian Ali Sacasa-Cespedes et.al.|[2411.18724v2](http://arxiv.org/abs/2411.18724v2)|null|
