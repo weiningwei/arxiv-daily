@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-10**|**Improving the Robustness of the Projected Gradient Descent Method for Nonlinear Constrained Optimization Problems in Topology Optimization**|Lucka Barbeau et.al.|[2412.07634v1](http://arxiv.org/abs/2412.07634v1)|null|
+|**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
+|**2024-12-10**|**Optical Levitation of Arrays of Microspheres**|Benjamin Siegel et.al.|[2412.07088v1](http://arxiv.org/abs/2412.07088v1)|null|
 |**2024-12-09**|**A Speed Restart Scheme for a Dynamical System with Hessian-Driven Damping and Three Constant Coefficients**|Huiyuan Guo et.al.|[2412.06691v1](http://arxiv.org/abs/2412.06691v1)|null|
 |**2024-12-09**|**A switching Kalman filter approach to online mitigation and correction sensor corruption for inertial navigation**|Artem Mustaev et.al.|[2412.06601v1](http://arxiv.org/abs/2412.06601v1)|null|
 |**2024-12-08**|**Inertial primal-dual dynamics with Hessian-driven damping and Tikhonov regularization for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2412.05931v1](http://arxiv.org/abs/2412.05931v1)|null|
@@ -29,6 +32,3 @@
 |**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel et.al.|[2412.02533v1](http://arxiv.org/abs/2412.02533v1)|null|
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|[link](https://github.com/iis-esslingen/rover_benchmark)|
 |**2024-12-03**|**High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method**|Yi Zeng et.al.|[2412.02413v1](http://arxiv.org/abs/2412.02413v1)|null|
-|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045v1](http://arxiv.org/abs/2412.02045v1)|[link](https://github.com/cristianvega1995/Relaxed-and-Inertial-Nonlinear-Forward-Backward-with-Momentum)|
-|**2024-12-02**|**Electron-impact ionization of Si IV-VIII relevant for inertial confinement fusion**|Jean-Christophe Pain et.al.|[2412.05317v1](http://arxiv.org/abs/2412.05317v1)|null|
-|**2024-11-30**|**Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments**|Jianhao Jiao et.al.|[2412.00291v1](http://arxiv.org/abs/2412.00291v1)|[link](https://github.com/gogojjh/cobra)|
