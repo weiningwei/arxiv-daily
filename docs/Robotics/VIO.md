@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v1](http://arxiv.org/abs/2412.08496v1)|null|
+|**2024-12-11**|**Apollon Real-Time Adaptive Optics (ARTAO) -- Astronomy-Inspired Wavefront Stabilization in Ultraintense Lasers**|Jonas Benjamin Ohland et.al.|[2412.08418v1](http://arxiv.org/abs/2412.08418v1)|null|
+|**2024-12-11**|**A study of the transition to a turbulent shock using a coarse-graining approach to ion phase space transport**|D. Trotta et.al.|[2412.08404v1](http://arxiv.org/abs/2412.08404v1)|null|
+|**2024-12-11**|**DOGE: An Extrinsic Orientation and Gyroscope Bias Estimation for Visual-Inertial Odometry Initialization**|Zewen Xu et.al.|[2412.08135v1](http://arxiv.org/abs/2412.08135v1)|null|
+|**2024-12-10**|**Transformation Between the Schwarzschild Coordinates and Local Inertial Coordinates**|Frank Wang et.al.|[2412.07949v1](http://arxiv.org/abs/2412.07949v1)|null|
 |**2024-12-10**|**Improving the Robustness of the Projected Gradient Descent Method for Nonlinear Constrained Optimization Problems in Topology Optimization**|Lucka Barbeau et.al.|[2412.07634v1](http://arxiv.org/abs/2412.07634v1)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
 |**2024-12-10**|**Optical Levitation of Arrays of Microspheres**|Benjamin Siegel et.al.|[2412.07088v1](http://arxiv.org/abs/2412.07088v1)|null|
@@ -27,8 +32,3 @@
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
 |**2024-12-03**|**SuperLoc: The Key to Robust LiDAR-Inertial Localization Lies in Predicting Alignment Risks**|Shibo Zhao et.al.|[2412.02901v1](http://arxiv.org/abs/2412.02901v1)|null|
 |**2024-12-03**|**Adaptive LiDAR Odometry and Mapping for Autonomous Agricultural Mobile Robots in Unmanned Farms**|Hanzhe Teng et.al.|[2412.02899v1](http://arxiv.org/abs/2412.02899v1)|null|
-|**2024-12-03**|**Constraining differential rotation in gamma Doradus stars from inertial dips properties**|L. Barrault et.al.|[2412.02849v1](http://arxiv.org/abs/2412.02849v1)|null|
-|**2024-12-03**|**Quaternion-based Unscented Kalman Filter for 6-DoF Vision-based Inertial Navigation in GPS-denied Regions**|Khashayar Ghanizadegan et.al.|[2412.02768v1](http://arxiv.org/abs/2412.02768v1)|null|
-|**2024-12-03**|**LiDAR-based Registration against Georeferenced Models for Globally Consistent Allocentric Maps**|Jan Quenzel et.al.|[2412.02533v1](http://arxiv.org/abs/2412.02533v1)|null|
-|**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|[link](https://github.com/iis-esslingen/rover_benchmark)|
-|**2024-12-03**|**High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method**|Yi Zeng et.al.|[2412.02413v1](http://arxiv.org/abs/2412.02413v1)|null|
