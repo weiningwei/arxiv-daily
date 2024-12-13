@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466v1](http://arxiv.org/abs/2412.09466v1)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|null|
+|**2024-12-12**|**Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
 |**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
 |**2024-12-11**|**Apollon Real-Time Adaptive Optics (ARTAO) -- Astronomy-Inspired Wavefront Stabilization in Ultraintense Lasers**|Jonas Benjamin Ohland et.al.|[2412.08418v1](http://arxiv.org/abs/2412.08418v1)|null|
 |**2024-12-11**|**A study of the transition to a turbulent shock using a coarse-graining approach to ion phase space transport**|D. Trotta et.al.|[2412.08404v1](http://arxiv.org/abs/2412.08404v1)|null|
@@ -29,6 +32,3 @@
 |**2024-12-04**|**Information thermodynamics for Markov jump processes coupled to underdamped diffusion: Application to nanoelectromechanics**|Ashwin Gopal et.al.|[2412.03226v1](http://arxiv.org/abs/2412.03226v1)|null|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|[link](https://github.com/junhaowang615/mcvo)|
 |**2024-12-04**|**Asynchronous Event-Inertial Odometry using a Unified Gaussian Process Regression Framework**|Xudong Li et.al.|[2412.03136v1](http://arxiv.org/abs/2412.03136v1)|null|
-|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
-|**2024-12-03**|**SuperLoc: The Key to Robust LiDAR-Inertial Localization Lies in Predicting Alignment Risks**|Shibo Zhao et.al.|[2412.02901v1](http://arxiv.org/abs/2412.02901v1)|null|
-|**2024-12-03**|**Adaptive LiDAR Odometry and Mapping for Autonomous Agricultural Mobile Robots in Unmanned Farms**|Hanzhe Teng et.al.|[2412.02899v1](http://arxiv.org/abs/2412.02899v1)|null|
