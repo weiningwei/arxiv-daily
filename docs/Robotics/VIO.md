@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v1](http://arxiv.org/abs/2412.08496v1)|null|
+|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
 |**2024-12-11**|**Apollon Real-Time Adaptive Optics (ARTAO) -- Astronomy-Inspired Wavefront Stabilization in Ultraintense Lasers**|Jonas Benjamin Ohland et.al.|[2412.08418v1](http://arxiv.org/abs/2412.08418v1)|null|
 |**2024-12-11**|**A study of the transition to a turbulent shock using a coarse-graining approach to ion phase space transport**|D. Trotta et.al.|[2412.08404v1](http://arxiv.org/abs/2412.08404v1)|null|
 |**2024-12-11**|**DOGE: An Extrinsic Orientation and Gyroscope Bias Estimation for Visual-Inertial Odometry Initialization**|Zewen Xu et.al.|[2412.08135v1](http://arxiv.org/abs/2412.08135v1)|null|

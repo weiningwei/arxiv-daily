@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
 |**2024-12-11**|**Comparative Opinion Mining in Product Reviews: Multi-perspective Prompt-based Learning**|Hai-Yen Thi Nguyen et.al.|[2412.08508v1](http://arxiv.org/abs/2412.08508v1)|null|
-|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v1](http://arxiv.org/abs/2412.08496v1)|null|
+|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
 |**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398v1](http://arxiv.org/abs/2412.08398v1)|null|
 |**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376v1](http://arxiv.org/abs/2412.08376v1)|null|
 |**2024-12-11**|**Orbit determination of visual binary systems observed with CST telescope in 2010-2013**|F. M. Rica et.al.|[2412.08333v1](http://arxiv.org/abs/2412.08333v1)|null|
