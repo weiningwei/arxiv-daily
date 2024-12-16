@@ -23,11 +23,11 @@
 |**2024-11-25**|**Performance Assessment of Lidar Odometry Frameworks: A Case Study at the Australian Botanic Garden Mount Annan**|Mohamed Mourad Ouazghire et.al.|[2411.16931v1](http://arxiv.org/abs/2411.16931v1)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358v1](http://arxiv.org/abs/2411.14358v1)|null|
 |**2024-11-21**|**Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain**|Vidya Sudevan et.al.|[2411.13988v1](http://arxiv.org/abs/2411.13988v1)|null|
-|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438v1](http://arxiv.org/abs/2411.13438v1)|null|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438v2](http://arxiv.org/abs/2411.13438v2)|null|
 |**2024-11-19**|**AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression**|Zhixiang Wang et.al.|[2411.12175v1](http://arxiv.org/abs/2411.12175v1)|null|
 |**2024-11-17**|**EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time**|Wanli Xing et.al.|[2411.11004v1](http://arxiv.org/abs/2411.11004v1)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195v1](http://arxiv.org/abs/2411.10195v1)|null|
-|**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v1](http://arxiv.org/abs/2411.09893v1)|null|
+|**2024-11-15**|**Memory Proxy Maps for Visual Navigation**|Faith Johnson et.al.|[2411.09893v2](http://arxiv.org/abs/2411.09893v2)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231v2](http://arxiv.org/abs/2411.08231v2)|null|
 |**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v2](http://arxiv.org/abs/2411.07699v2)|[link](https://github.com/yangsc4063/rino)|
 |**2024-11-12**|**SP-VIO: Robust and Efficient Filter-Based Visual Inertial Odometry with State Transformation Model and Pose-Only Visual Description**|Xueyu Du et.al.|[2411.07551v1](http://arxiv.org/abs/2411.07551v1)|null|
