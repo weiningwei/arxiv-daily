@@ -26,7 +26,7 @@
 |**2024-12-12**|**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**|Qianang Zhou et.al.|[2412.09105v1](http://arxiv.org/abs/2412.09105v1)|null|
 |**2024-12-12**|**Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
 |**2024-12-12**|**Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation**|Zhongyang Zhang et.al.|[2412.08849v1](http://arxiv.org/abs/2412.08849v1)|null|
-|**2024-12-11**|**Vision-based indoor localization of nano drones in controlled environment with its applications**|Simranjeet Singh et.al.|[2412.08757v1](http://arxiv.org/abs/2412.08757v1)|null|
+|**2024-12-11**|**Vision-based indoor localization of nano drones in controlled environment with its applications**|Simranjeet Singh et.al.|[2412.08757v1](http://arxiv.org/abs/2412.08757v1)|[link](https://github.com/simmubhangu/eyantra_drone)|
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
 |**2024-12-11**|**Coherent3D: Coherent 3D Portrait Video Reconstruction via Triplane Fusion**|Shengze Wang et.al.|[2412.08684v1](http://arxiv.org/abs/2412.08684v1)|null|
 |**2024-12-11**|**Comparative Opinion Mining in Product Reviews: Multi-perspective Prompt-based Learning**|Hai-Yen Thi Nguyen et.al.|[2412.08508v1](http://arxiv.org/abs/2412.08508v1)|null|

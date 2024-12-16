@@ -5,7 +5,7 @@
 |**2024-12-13**|**Microcanonical Phase Space and Entropy in Curved Spacetime**|Avinandan Mondal et.al.|[2412.10058v1](http://arxiv.org/abs/2412.10058v1)|null|
 |**2024-12-13**|**De-Biasing Structure Function Estimates From Sparse Time Series of the Solar Wind: A Data-Driven Approach**|Daniel Wrench et.al.|[2412.10053v1](http://arxiv.org/abs/2412.10053v1)|null|
 |**2024-12-13**|**Real-Time Fall Detection Using Smartphone Accelerometers and WiFi Channel State Information**|Lingyun Wang et.al.|[2412.09980v1](http://arxiv.org/abs/2412.09980v1)|null|
-|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466v1](http://arxiv.org/abs/2412.09466v1)|null|
+|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466v1](http://arxiv.org/abs/2412.09466v1)|[link](https://github.com/RobustFieldAutonomyLab/Distributional_RL_Decision_and_Control)|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|[link](https://github.com/CIRS-Girona/ecarla-scenes)|
 |**2024-12-12**|**Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
 |**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
