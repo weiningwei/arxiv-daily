@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
+|**2024-12-15**|**Symmetric instability in a Boussinesq fluid on a rotating planet**|Yaoxuan Zeng et.al.|[2412.11027v1](http://arxiv.org/abs/2412.11027v1)|null|
+|**2024-12-14**|**Versatile Locomotion Skills for Hexapod Robots**|Tomson Qu et.al.|[2412.10628v1](http://arxiv.org/abs/2412.10628v1)|null|
+|**2024-12-13**|**Impact of Shoe Parameters on Gait Using Wearables**|Nadeera Meghapathirana et.al.|[2412.10555v1](http://arxiv.org/abs/2412.10555v1)|null|
 |**2024-12-13**|**Microcanonical Phase Space and Entropy in Curved Spacetime**|Avinandan Mondal et.al.|[2412.10058v1](http://arxiv.org/abs/2412.10058v1)|null|
 |**2024-12-13**|**De-Biasing Structure Function Estimates From Sparse Time Series of the Solar Wind: A Data-Driven Approach**|Daniel Wrench et.al.|[2412.10053v1](http://arxiv.org/abs/2412.10053v1)|null|
 |**2024-12-13**|**Real-Time Fall Detection Using Smartphone Accelerometers and WiFi Channel State Information**|Lingyun Wang et.al.|[2412.09980v1](http://arxiv.org/abs/2412.09980v1)|null|
@@ -28,7 +32,3 @@
 |**2024-12-07**|**A physical interpretation of Brout-Englert-Higgs mechanism**|Shun-ichiro Koh et.al.|[2412.05495v1](http://arxiv.org/abs/2412.05495v1)|null|
 |**2024-12-06**|**ETLNet: An Efficient TCN-BiLSTM Network for Road Anomaly Detection Using Smartphone Sensors**|Mohd Faiz Ansari et.al.|[2412.04990v1](http://arxiv.org/abs/2412.04990v1)|null|
 |**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361v1](http://arxiv.org/abs/2412.04361v1)|null|
-|**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)|
-|**2024-12-05**|**A $Λ$CDM Extension Explaining the Hubble Tension and the Spatial Curvature $Ω_{k,0} = -0.012 \pm 0.010$ Measured by the Final PR4 of the Planck Mission**|Horst Foidl et.al.|[2412.04126v1](http://arxiv.org/abs/2412.04126v1)|null|
-|**2024-12-05**|**Optimal demand response policies for inertial thermal loads under stochastic renewable sources**|Gaurav Sharma et.al.|[2412.04054v1](http://arxiv.org/abs/2412.04054v1)|null|
-|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887v3](http://arxiv.org/abs/2412.03887v3)|null|

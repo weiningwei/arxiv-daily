@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308v1](http://arxiv.org/abs/2412.10308v1)|null|
-|**2024-12-13**|**Probabilistic Inverse Cameras: Image to 3D via Multiview Geometry**|Rishabh Kabra et.al.|[2412.10273v1](http://arxiv.org/abs/2412.10273v1)|null|
-|**2024-12-13**|**Large-format photodetecting system pCam6060 with a GSENSE6060BSI CMOS detector, developed at SAO RAS and optimized for photometric methods**|I. Afanasieva et.al.|[2412.10109v1](http://arxiv.org/abs/2412.10109v1)|null|
-|**2024-12-13**|**Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories**|Xiaohan Zhang et.al.|[2412.10078v1](http://arxiv.org/abs/2412.10078v1)|null|
-|**2024-12-13**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982v1](http://arxiv.org/abs/2412.09982v1)|null|
-|**2024-12-13**|**What constitutes a Deep Fake? The blurry line between legitimate processing and manipulation under the EU AI Act**|Kristof Meding et.al.|[2412.09961v1](http://arxiv.org/abs/2412.09961v1)|null|
-|**2024-12-13**|**Pixel Intensity Tracking for Remote Respiratory Monitoring: A Study on Indonesian Subject**|Muhammad Yahya Ayyashy Mujahidan et.al.|[2412.09938v1](http://arxiv.org/abs/2412.09938v1)|null|
-|**2024-12-13**|**Precision-Enhanced Human-Object Contact Detection via Depth-Aware Perspective Interaction and Object Texture Restoration**|Yuxiao Wang et.al.|[2412.09920v1](http://arxiv.org/abs/2412.09920v1)|null|
-|**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868v1](http://arxiv.org/abs/2412.09868v1)|null|
-|**2024-12-12**|**Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**|Faith Johnson et.al.|[2412.09739v1](http://arxiv.org/abs/2412.09739v1)|null|
-|**2024-12-12**|**The Multiband Imaging Survey for High-Alpha PlanetS (MISHAPS) I: Preliminary Constraints on the Occurrence Rate of Hot Jupiters in 47 Tucanae**|Alison L. Crisp et.al.|[2412.09705v1](http://arxiv.org/abs/2412.09705v1)|null|
-|**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620v1](http://arxiv.org/abs/2412.09620v1)|null|
-|**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621v1](http://arxiv.org/abs/2412.09621v1)|null|
-|**2024-12-12**|**RatBodyFormer: Rodent Body Surface from Keypoints**|Ayaka Higami et.al.|[2412.09599v1](http://arxiv.org/abs/2412.09599v1)|null|
-|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597v1](http://arxiv.org/abs/2412.09597v1)|null|
-|**2024-12-12**|**FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction**|Jiale Xu et.al.|[2412.09573v1](http://arxiv.org/abs/2412.09573v1)|null|
-|**2024-12-12**|**Towards Robust and Fair Vision Learning in Open-World Environments**|Thanh-Dat Truong et.al.|[2412.09439v1](http://arxiv.org/abs/2412.09439v1)|null|
-|**2024-12-12**|**A Plug-and-Play Algorithm for 3D Video Super-Resolution of Single-Photon LiDAR data**|Alice Ruget et.al.|[2412.09427v1](http://arxiv.org/abs/2412.09427v1)|null|
-|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401v1](http://arxiv.org/abs/2412.09401v1)|null|
-|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|[link](https://github.com/CIRS-Girona/ecarla-scenes)|
-|**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193v1](http://arxiv.org/abs/2412.09193v1)|null|
-|**2024-12-12**|**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**|Qianang Zhou et.al.|[2412.09105v1](http://arxiv.org/abs/2412.09105v1)|null|
-|**2024-12-12**|**Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
-|**2024-12-12**|**Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation**|Zhongyang Zhang et.al.|[2412.08849v1](http://arxiv.org/abs/2412.08849v1)|null|
-|**2024-12-11**|**Vision-based indoor localization of nano drones in controlled environment with its applications**|Simranjeet Singh et.al.|[2412.08757v1](http://arxiv.org/abs/2412.08757v1)|[link](https://github.com/simmubhangu/eyantra_drone)|
-|**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
-|**2024-12-11**|**Coherent3D: Coherent 3D Portrait Video Reconstruction via Triplane Fusion**|Shengze Wang et.al.|[2412.08684v1](http://arxiv.org/abs/2412.08684v1)|null|
-|**2024-12-11**|**Comparative Opinion Mining in Product Reviews: Multi-perspective Prompt-based Learning**|Hai-Yen Thi Nguyen et.al.|[2412.08508v1](http://arxiv.org/abs/2412.08508v1)|null|
-|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
-|**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398v1](http://arxiv.org/abs/2412.08398v1)|null|
+|**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096v1](http://arxiv.org/abs/2412.12096v1)|null|
+|**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093v1](http://arxiv.org/abs/2412.12093v1)|null|
+|**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091v1](http://arxiv.org/abs/2412.12091v1)|null|
+|**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087v1](http://arxiv.org/abs/2412.12087v1)|null|
+|**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945v1](http://arxiv.org/abs/2412.11945v1)|null|
+|**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866v1](http://arxiv.org/abs/2412.11866v1)|null|
+|**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762v1](http://arxiv.org/abs/2412.11762v1)|null|
+|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755v1](http://arxiv.org/abs/2412.11755v1)|null|
+|**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753v1](http://arxiv.org/abs/2412.11753v1)|[link](https://github.com/tooyoungalex/aaai25-drivegazen)|
+|**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680v1](http://arxiv.org/abs/2412.11680v1)|null|
+|**2024-12-16**|**High-speed and High-quality Vision Reconstruction of Spike Camera with Spike Stability Theorem**|Wei Zhang et.al.|[2412.11639v1](http://arxiv.org/abs/2412.11639v1)|null|
+|**2024-12-16**|**SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**|Jingqian Wu et.al.|[2412.11579v1](http://arxiv.org/abs/2412.11579v1)|null|
+|**2024-12-16**|**On-the-Fly Interrogation of Mobile Passive Sensors from the Fusion of Optical and Radar Data**|Ali Hadj Djilani et.al.|[2412.11558v1](http://arxiv.org/abs/2412.11558v1)|null|
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
+|**2024-12-16**|**HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection**|Zijian Gu et.al.|[2412.11489v1](http://arxiv.org/abs/2412.11489v1)|[link](https://github.com/garfield-cpp/hgsfusion)|
+|**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412v1](http://arxiv.org/abs/2412.11412v1)|null|
+|**2024-12-15**|**Learning Normal Flow Directly From Event Neighborhoods**|Dehao Yuan et.al.|[2412.11284v1](http://arxiv.org/abs/2412.11284v1)|[link](https://github.com/dhyuan99/veckm_flow)|
+|**2024-12-15**|**Adaptive Visual Perception for Robotic Construction Process: A Multi-Robot Coordination Framework**|Jia Xu et.al.|[2412.11275v1](http://arxiv.org/abs/2412.11275v1)|null|
+|**2024-12-15**|**P3LS: Point Process Partial Least Squares**|Jamshid Namdari et.al.|[2412.11267v1](http://arxiv.org/abs/2412.11267v1)|null|
+|**2024-12-14**|**Semi-autonomous Teleoperation using Differential Flatness of a Crane Robot for Aircraft In-Wing Inspection**|Wade Marquette et.al.|[2412.10973v1](http://arxiv.org/abs/2412.10973v1)|null|
+|**2024-12-14**|**Detection states of ions in a Paul trap via conventional and quantum machine learning algorithms**|Ilia Khomchenko et.al.|[2412.10934v1](http://arxiv.org/abs/2412.10934v1)|null|
+|**2024-12-14**|**Detecting Activities of Daily Living in Egocentric Video to Contextualize Hand Use at Home in Outpatient Neurorehabilitation Settings**|Adesh Kadambi et.al.|[2412.10846v1](http://arxiv.org/abs/2412.10846v1)|null|
+|**2024-12-14**|**OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving**|Lianqing Zheng et.al.|[2412.10734v1](http://arxiv.org/abs/2412.10734v1)|null|
+|**2024-12-14**|**SHIFT Planner: Speedy Hybrid Iterative Field and Segmented Trajectory Optimization with IKD-tree for Uniform Lightweight Coverage**|Zexuan Fan et.al.|[2412.10706v1](http://arxiv.org/abs/2412.10706v1)|null|
+|**2024-12-14**|**U-FaceBP: Uncertainty-aware Bayesian Ensemble Deep Learning for Face Video-based Blood Pressure Measurement**|Yusuke Akamatsu et.al.|[2412.10679v1](http://arxiv.org/abs/2412.10679v1)|null|
+|**2024-12-14**|**LAN: Learning to Adapt Noise for Image Denoising**|Changjin Kim et.al.|[2412.10651v1](http://arxiv.org/abs/2412.10651v1)|[link](https://github.com/chjinny/LAN)|
+|**2024-12-14**|**Versatile Locomotion Skills for Hexapod Robots**|Tomson Qu et.al.|[2412.10628v1](http://arxiv.org/abs/2412.10628v1)|null|
+|**2024-12-14**|**CATALOG: A Camera Trap Language-guided Contrastive Learning Model**|Julian D. Santamaria et.al.|[2412.10624v1](http://arxiv.org/abs/2412.10624v1)|[link](https://github.com/julian075/catalog)|
+|**2024-12-13**|**UbiTouch: Towards a Universal Touch Interface**|Dev Shah et.al.|[2412.10565v1](http://arxiv.org/abs/2412.10565v1)|null|
+|**2024-12-13**|**rt-TDDFT modeling of thermal emission by laser-heated glasses**|Grigory Kolesov et.al.|[2412.10561v1](http://arxiv.org/abs/2412.10561v1)|null|
