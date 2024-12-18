@@ -2,9 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-17**|**Droplet impact on elastic substrates: force scaling crossover**|Yuto Yokoyama et.al.|[2412.12439v1](http://arxiv.org/abs/2412.12439v1)|null|
+|**2024-12-16**|**Global SLAM in Visual-Inertial Systems with 5G Time-of-Arrival Integration**|Meisam Kabiri et.al.|[2412.12406v1](http://arxiv.org/abs/2412.12406v1)|null|
 |**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
 |**2024-12-15**|**Symmetric instability in a Boussinesq fluid on a rotating planet**|Yaoxuan Zeng et.al.|[2412.11027v1](http://arxiv.org/abs/2412.11027v1)|null|
 |**2024-12-14**|**Versatile Locomotion Skills for Hexapod Robots**|Tomson Qu et.al.|[2412.10628v1](http://arxiv.org/abs/2412.10628v1)|null|
+|**2024-12-13**|**iMoT: Inertial Motion Transformer for Inertial Navigation**|Son Minh Nguyen et.al.|[2412.12190v1](http://arxiv.org/abs/2412.12190v1)|null|
 |**2024-12-13**|**Impact of Shoe Parameters on Gait Using Wearables**|Nadeera Meghapathirana et.al.|[2412.10555v1](http://arxiv.org/abs/2412.10555v1)|null|
 |**2024-12-13**|**Microcanonical Phase Space and Entropy in Curved Spacetime**|Avinandan Mondal et.al.|[2412.10058v1](http://arxiv.org/abs/2412.10058v1)|null|
 |**2024-12-13**|**De-Biasing Structure Function Estimates From Sparse Time Series of the Solar Wind: A Data-Driven Approach**|Daniel Wrench et.al.|[2412.10053v1](http://arxiv.org/abs/2412.10053v1)|null|
@@ -29,6 +32,3 @@
 |**2024-12-08**|**AC-LIO: Towards Asymptotic and Consistent Convergence in LiDAR-Inertial Odometry**|Tianxiang Zhang et.al.|[2412.05873v1](http://arxiv.org/abs/2412.05873v1)|null|
 |**2024-12-08**|**Geomagnetic and Inertial Combined Navigation Approach Based on Flexible Correction-Model Predictive Control Algorithm**|Xiaohui Zhang et.al.|[2412.05820v1](http://arxiv.org/abs/2412.05820v1)|null|
 |**2024-12-07**|**Flagellar Swimming at Low Reynolds Numbers: Zoospore-Inspired Robotic Swimmers with Dual Flagella for High-Speed Locomotion**|Nnamdi C. Chikere et.al.|[2412.05712v1](http://arxiv.org/abs/2412.05712v1)|null|
-|**2024-12-07**|**A physical interpretation of Brout-Englert-Higgs mechanism**|Shun-ichiro Koh et.al.|[2412.05495v1](http://arxiv.org/abs/2412.05495v1)|null|
-|**2024-12-06**|**ETLNet: An Efficient TCN-BiLSTM Network for Road Anomaly Detection Using Smartphone Sensors**|Mohd Faiz Ansari et.al.|[2412.04990v1](http://arxiv.org/abs/2412.04990v1)|null|
-|**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361v1](http://arxiv.org/abs/2412.04361v1)|null|
