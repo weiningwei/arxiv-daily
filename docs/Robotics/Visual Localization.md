@@ -12,11 +12,11 @@
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843v1](http://arxiv.org/abs/2412.12843v1)|null|
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799v1](http://arxiv.org/abs/2412.12799v1)|[link](https://github.com/liyih/rctrans)|
 |**2024-12-17**|**2D-AoI: Age-of-Information of Distributed Sensors for Spatio-Temporal Processes**|Markus Fidler et.al.|[2412.12789v1](http://arxiv.org/abs/2412.12789v1)|null|
-|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772v1](http://arxiv.org/abs/2412.12772v1)|null|
+|**2024-12-17**|**Optimize the Unseen - Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772v2](http://arxiv.org/abs/2412.12772v2)|null|
 |**2024-12-17**|**Training a Distributed Acoustic Sensing Traffic Monitoring Network With Video Inputs**|Khen Cohen et.al.|[2412.12743v1](http://arxiv.org/abs/2412.12743v1)|null|
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725v1](http://arxiv.org/abs/2412.12725v1)|null|
 |**2024-12-17**|**MoodCam: Mood Prediction Through Smartphone-Based Facial Affect Analysis in Real-World Settings**|Rahul Islam et.al.|[2412.12625v1](http://arxiv.org/abs/2412.12625v1)|null|
-|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525v1](http://arxiv.org/abs/2412.12525v1)|[link](https://github.com/shen-aoyu/CREST)|
+|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525v2](http://arxiv.org/abs/2412.12525v2)|[link](https://github.com/shen-aoyu/CREST)|
 |**2024-12-17**|**3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**|Qi Wu et.al.|[2412.12507v1](http://arxiv.org/abs/2412.12507v1)|null|
 |**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460v1](http://arxiv.org/abs/2412.12460v1)|[link](https://github.com/lihuashengmax/PromptDet)|
 |**2024-12-16**|**Global SLAM in Visual-Inertial Systems with 5G Time-of-Arrival Integration**|Meisam Kabiri et.al.|[2412.12406v1](http://arxiv.org/abs/2412.12406v1)|null|
