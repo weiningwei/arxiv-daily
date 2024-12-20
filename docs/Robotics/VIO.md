@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-19**|**Classification of Linear Observed Systems on Multi-Frame Groups via Automorphisms**|Changwu Liu et.al.|[2412.14673v1](http://arxiv.org/abs/2412.14673v1)|null|
+|**2024-12-18**|**Teleparallel gravity at Scri**|Florian Girelli et.al.|[2412.14258v1](http://arxiv.org/abs/2412.14258v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
 |**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873v1](http://arxiv.org/abs/2412.13873v1)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|[link](https://github.com/robotics-upo/gaussian-rio)|
@@ -30,5 +32,3 @@
 |**2024-12-10**|**Optical Levitation of Arrays of Microspheres**|Benjamin Siegel et.al.|[2412.07088v1](http://arxiv.org/abs/2412.07088v1)|null|
 |**2024-12-09**|**A Speed Restart Scheme for a Dynamical System with Hessian-Driven Damping and Three Constant Coefficients**|Huiyuan Guo et.al.|[2412.06691v1](http://arxiv.org/abs/2412.06691v1)|null|
 |**2024-12-09**|**A switching Kalman filter approach to online mitigation and correction of sensor corruption for inertial navigation**|Artem Mustaev et.al.|[2412.06601v2](http://arxiv.org/abs/2412.06601v2)|null|
-|**2024-12-08**|**Inertial primal-dual dynamics with Hessian-driven damping and Tikhonov regularization for convex-concave bilinear saddle point problems**|Xiangkai Sun et.al.|[2412.05931v1](http://arxiv.org/abs/2412.05931v1)|null|
-|**2024-12-08**|**Strong Convergence of Relaxed Inertial Inexact Progressive Hedging Algorithm for Multi-stage Stochastic Variational Inequality Problems**|Jiaxin Chen et.al.|[2412.05928v1](http://arxiv.org/abs/2412.05928v1)|null|
