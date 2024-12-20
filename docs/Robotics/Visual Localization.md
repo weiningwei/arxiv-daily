@@ -7,7 +7,7 @@
 |**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103v1](http://arxiv.org/abs/2412.14103v1)|null|
 |**2024-12-18**|**Parameter-efficient Fine-tuning for improved Convolutional Baseline for Brain Tumor Segmentation in Sub-Saharan Africa Adult Glioma Dataset**|Bijay Adhikari et.al.|[2412.14100v1](http://arxiv.org/abs/2412.14100v1)|null|
 |**2024-12-18**|**Real-Time Position-Aware View Synthesis from Single-View Input**|Manu Gond et.al.|[2412.14005v1](http://arxiv.org/abs/2412.14005v1)|null|
-|**2024-12-18**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913v1](http://arxiv.org/abs/2412.13913v1)|null|
+|**2024-12-18**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913v2](http://arxiv.org/abs/2412.13913v2)|null|
 |**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848v1](http://arxiv.org/abs/2412.13848v1)|null|
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
 |**2024-12-18**|**Physics-Based Adversarial Attack on Near-Infrared Human Detector for Nighttime Surveillance Camera Systems**|Muyao Niu et.al.|[2412.13709v1](http://arxiv.org/abs/2412.13709v1)|[link](https://github.com/myniuuu/advnir)|
@@ -21,7 +21,7 @@
 |**2024-12-17**|**Smartphone-based Iris Recognition through High-Quality Visible Spectrum Iris Capture**|Naveenkumar G Venkataswamy et.al.|[2412.13063v1](http://arxiv.org/abs/2412.13063v1)|null|
 |**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058v1](http://arxiv.org/abs/2412.13058v1)|null|
 |**2024-12-17**|**Transforming Single Photon Camera Images to Color High Dynamic Range Images**|Sumit Sharma et.al.|[2412.12942v1](http://arxiv.org/abs/2412.12942v1)|null|
-|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861v1](http://arxiv.org/abs/2412.12861v1)|null|
+|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861v2](http://arxiv.org/abs/2412.12861v2)|null|
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843v1](http://arxiv.org/abs/2412.12843v1)|null|
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799v1](http://arxiv.org/abs/2412.12799v1)|[link](https://github.com/liyih/rctrans)|
 |**2024-12-17**|**2D-AoI: Age-of-Information of Distributed Sensors for Spatio-Temporal Processes**|Markus Fidler et.al.|[2412.12789v1](http://arxiv.org/abs/2412.12789v1)|null|
