@@ -30,5 +30,5 @@
 |**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654v1](http://arxiv.org/abs/2412.13654v1)|null|
 |**2024-12-18**|**Novel AI Camera Camouflage: Face Cloaking Without Full Disguise**|David Noever et.al.|[2412.13507v1](http://arxiv.org/abs/2412.13507v1)|null|
 |**2024-12-18**|**QueryCDR: Query-based Controllable Distortion Rectification Network for Fisheye Images**|Pengbo Guo et.al.|[2412.13496v1](http://arxiv.org/abs/2412.13496v1)|[link](https://github.com/pbguo/querycdr)|
-|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452v1](http://arxiv.org/abs/2412.13452v1)|null|
-|**2024-12-18**|**Improving Generalization Performance of YOLOv8 for Camera Trap Object Detection**|Aroj Subedi et.al.|[2412.14211v1](http://arxiv.org/abs/2412.14211v1)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452v1](http://arxiv.org/abs/2412.13452v1)|[link](https://github.com/zijunli7/condo)|
+|**2024-12-18**|**Improving Generalization Performance of YOLOv8 for Camera Trap Object Detection**|Aroj Subedi et.al.|[2412.14211v1](http://arxiv.org/abs/2412.14211v1)|[link](https://github.com/arojsubedi/improved-yolov8s)|
