@@ -6,7 +6,7 @@
 |**2024-12-19**|**Surface-Based Authentication System for Integrated Circuit Chips**|Runze Liu et.al.|[2412.15186v1](http://arxiv.org/abs/2412.15186v1)|null|
 |**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171v1](http://arxiv.org/abs/2412.15171v1)|null|
 |**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040v1](http://arxiv.org/abs/2412.15040v1)|null|
-|**2024-12-19**|**Automatic Spectral Calibration of Hyperspectral Images:Method, Dataset and Benchmark**|Zhuoran Du et.al.|[2412.14925v1](http://arxiv.org/abs/2412.14925v1)|[link](https://github.com/duranze/automatic-spectral-calibration-of-hsi)|
+|**2024-12-19**|**Automatic Spectral Calibration of Hyperspectral Images:Method, Dataset and Benchmark**|Zhuoran Du et.al.|[2412.14925v2](http://arxiv.org/abs/2412.14925v2)|[link](https://github.com/duranze/automatic-spectral-calibration-of-hsi)|
 |**2024-12-19**|**ElectraSight: Smart Glasses with Fully Onboard Non-Invasive Eye Tracking Using Hybrid Contact and Contactless EOG**|Nicolas Schärer et.al.|[2412.14848v1](http://arxiv.org/abs/2412.14848v1)|null|
 |**2024-12-19**|**Mention Attention for Pronoun Translation**|Gongbo Tang et.al.|[2412.14829v1](http://arxiv.org/abs/2412.14829v1)|null|
 |**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705v1](http://arxiv.org/abs/2412.14705v1)|null|
