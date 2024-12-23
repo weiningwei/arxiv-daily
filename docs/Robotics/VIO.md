@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-20**|**iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing**|Huanqi Yang et.al.|[2412.15980v1](http://arxiv.org/abs/2412.15980v1)|null|
+|**2024-12-20**|**Non-Stationary Critical Phenomena: Expanding The Critical Point**|Richard E. Spinney et.al.|[2412.15627v1](http://arxiv.org/abs/2412.15627v1)|null|
 |**2024-12-19**|**Classification of Linear Observed Systems on Multi-Frame Groups via Automorphisms**|Changwu Liu et.al.|[2412.14673v1](http://arxiv.org/abs/2412.14673v1)|null|
 |**2024-12-18**|**Teleparallel gravity at Scri**|Florian Girelli et.al.|[2412.14258v1](http://arxiv.org/abs/2412.14258v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
@@ -30,5 +32,3 @@
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
 |**2024-12-10**|**Charge management system based on disturbance observer sliding mode control for space inertial sensors**|Fangchao Yang et.al.|[2412.09643v1](http://arxiv.org/abs/2412.09643v1)|null|
 |**2024-12-10**|**Optical Levitation of Arrays of Microspheres**|Benjamin Siegel et.al.|[2412.07088v1](http://arxiv.org/abs/2412.07088v1)|null|
-|**2024-12-09**|**A Speed Restart Scheme for a Dynamical System with Hessian-Driven Damping and Three Constant Coefficients**|Huiyuan Guo et.al.|[2412.06691v1](http://arxiv.org/abs/2412.06691v1)|null|
-|**2024-12-09**|**A switching Kalman filter approach to online mitigation and correction of sensor corruption for inertial navigation**|Artem Mustaev et.al.|[2412.06601v2](http://arxiv.org/abs/2412.06601v2)|null|
