@@ -2,6 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
+|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282v1](http://arxiv.org/abs/2412.17282v1)|null|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235v1](http://arxiv.org/abs/2412.17235v1)|null|
+|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
 |**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
@@ -28,7 +32,3 @@
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|[link](https://github.com/iis-esslingen/rover_benchmark)|
 |**2024-12-02**|**RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**|Zhenzhong Cao et.al.|[2412.01217v2](http://arxiv.org/abs/2412.01217v2)|[link](https://github.com/zhenzhongcao/rgbds-slam)|
 |**2024-12-02**|**Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**|Alejandro Fontan et.al.|[2412.01116v1](http://arxiv.org/abs/2412.01116v1)|null|
-|**2024-12-02**|**LiDAR SLAMMOT based on Confidence-guided Data Association**|Susu Fang et.al.|[2412.01041v1](http://arxiv.org/abs/2412.01041v1)|null|
-|**2024-12-01**|**FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting**|Phu Pham et.al.|[2412.00682v1](http://arxiv.org/abs/2412.00682v1)|null|
-|**2024-11-30**|**LineGS : 3D Line Segment Representation on 3D Gaussian Splatting**|Chenggang Yang et.al.|[2412.00477v3](http://arxiv.org/abs/2412.00477v3)|[link](https://github.com/ericshenggle/LineGS)|
-|**2024-11-29**|**Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction**|Shaoxiang Wang et.al.|[2412.00242v1](http://arxiv.org/abs/2412.00242v1)|null|

@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806v1](http://arxiv.org/abs/2412.17806v1)|null|
+|**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769v1](http://arxiv.org/abs/2412.17769v1)|[link](https://github.com/dmar-bonn/active-gs)|
+|**2024-12-23**|**Comprehensive Optimization of Interferometric Diffusing Wave Spectroscopy (iDWS)**|Mingjun Zhao et.al.|[2412.17724v1](http://arxiv.org/abs/2412.17724v1)|null|
+|**2024-12-23**|**Euclid: Early Release Observations of diffuse stellar structures and globular clusters as probes of the mass assembly of galaxies in the Dorado group**|M. Urbano et.al.|[2412.17672v1](http://arxiv.org/abs/2412.17672v1)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
+|**2024-12-23**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290v1](http://arxiv.org/abs/2412.17290v1)|null|
+|**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239v1](http://arxiv.org/abs/2412.17239v1)|[link](https://github.com/924973292/fusionreid)|
+|**2024-12-22**|**Anchor3DLane++: 3D Lane Detection via Sample-Adaptive Sparse 3D Anchor Regression**|Shaofei Huang et.al.|[2412.16889v1](http://arxiv.org/abs/2412.16889v1)|[link](https://github.com/tusen-ai/anchor3dlane)|
+|**2024-12-22**|**SoundLoc3D: Invisible 3D Sound Source Localization and Classification Using a Multimodal RGB-D Acoustic Camera**|Yuhang He et.al.|[2412.16861v1](http://arxiv.org/abs/2412.16861v1)|null|
+|**2024-12-21**|**A Method for the Runtime Validation of AI-based Environment Perception in Automated Driving System**|Iqra Aslam et.al.|[2412.16762v1](http://arxiv.org/abs/2412.16762v1)|null|
+|**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755v1](http://arxiv.org/abs/2412.16755v1)|null|
+|**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742v1](http://arxiv.org/abs/2412.16742v1)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737v1](http://arxiv.org/abs/2412.16737v1)|null|
+|**2024-12-21**|**Context-Aware Outlier Rejection for Robust Multi-View 3D Tracking of Similar Small Birds in An Outdoor Aviary**|Keon Moradi et.al.|[2412.16511v1](http://arxiv.org/abs/2412.16511v1)|[link](https://github.com/airou-lab/3d_multi_bird_tracking)|
+|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
+|**2024-12-20**|**LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**|Huawei Sun et.al.|[2412.16380v1](http://arxiv.org/abs/2412.16380v1)|null|
+|**2024-12-20**|**Improving Object Detection for Time-Lapse Imagery Using Temporal Features in Wildlife Monitoring**|Marcus Jenkins et.al.|[2412.16329v1](http://arxiv.org/abs/2412.16329v1)|[link](https://github.com/marcusjenkins01/yolov7-temporal)|
 |**2024-12-20**|**Camera-Based Localization and Enhanced Normalized Mutual Information**|Vishnu Teja Kunde et.al.|[2412.16137v1](http://arxiv.org/abs/2412.16137v1)|null|
 |**2024-12-20**|**SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data**|Xinwei Ju et.al.|[2412.16078v1](http://arxiv.org/abs/2412.16078v1)|null|
 |**2024-12-20**|**High-efficiency position resolved gamma ray detectors for 2D-measurements of the angular correlation of annihilation radiation**|Kilian Brenner et.al.|[2412.16024v1](http://arxiv.org/abs/2412.16024v1)|null|
@@ -14,21 +32,3 @@
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Efficient Neural Network Encoding for 3D Color Lookup Tables**|Vahid Zehtab et.al.|[2412.15438v1](http://arxiv.org/abs/2412.15438v1)|[link](https://github.com/vahidzee/ennelut)|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
-|**2024-12-19**|**Surface-Based Authentication System for Integrated Circuit Chips**|Runze Liu et.al.|[2412.15186v1](http://arxiv.org/abs/2412.15186v1)|null|
-|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171v2](http://arxiv.org/abs/2412.15171v2)|null|
-|**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040v1](http://arxiv.org/abs/2412.15040v1)|null|
-|**2024-12-19**|**Automatic Spectral Calibration of Hyperspectral Images:Method, Dataset and Benchmark**|Zhuoran Du et.al.|[2412.14925v2](http://arxiv.org/abs/2412.14925v2)|[link](https://github.com/duranze/automatic-spectral-calibration-of-hsi)|
-|**2024-12-19**|**ElectraSight: Smart Glasses with Fully Onboard Non-Invasive Eye Tracking Using Hybrid Contact and Contactless EOG**|Nicolas Schärer et.al.|[2412.14848v1](http://arxiv.org/abs/2412.14848v1)|null|
-|**2024-12-19**|**Mention Attention for Pronoun Translation**|Gongbo Tang et.al.|[2412.14829v1](http://arxiv.org/abs/2412.14829v1)|null|
-|**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705v1](http://arxiv.org/abs/2412.14705v1)|null|
-|**2024-12-19**|**Classification of Linear Observed Systems on Multi-Frame Groups via Automorphisms**|Changwu Liu et.al.|[2412.14673v1](http://arxiv.org/abs/2412.14673v1)|null|
-|**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al.|[2412.14592v1](http://arxiv.org/abs/2412.14592v1)|[link](https://github.com/zzzbbbzzz/mulsen-ad)|
-|**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
-|**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[2412.14494v1](http://arxiv.org/abs/2412.14494v1)|null|
-|**2024-12-19**|**An Immersive Multi-Elevation Multi-Seasonal Dataset for 3D Reconstruction and Visualization**|Xijun Liu et.al.|[2412.14418v1](http://arxiv.org/abs/2412.14418v1)|null|
-|**2024-12-18**|**The One RING: a Robotic Indoor Navigation Generalist**|Ainaz Eftekhar et.al.|[2412.14401v1](http://arxiv.org/abs/2412.14401v1)|null|
-|**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327v1](http://arxiv.org/abs/2412.14327v1)|null|
-|**2024-12-18**|**Closing the Gap: A User Study on the Real-world Usefulness of AI-powered Vulnerability Detection & Repair in the IDE**|Benjamin Steenhoek et.al.|[2412.14306v1](http://arxiv.org/abs/2412.14306v1)|null|
-|**2024-12-18**|**AKiRa: Augmentation Kit on Rays for optical video generation**|Xi Wang et.al.|[2412.14158v1](http://arxiv.org/abs/2412.14158v1)|null|
-|**2024-12-18**|**Event-based Photometric Bundle Adjustment**|Shuang Guo et.al.|[2412.14111v1](http://arxiv.org/abs/2412.14111v1)|[link](https://github.com/tub-rip/epba)|
-|**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103v1](http://arxiv.org/abs/2412.14103v1)|null|

@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v1](http://arxiv.org/abs/2412.16923v1)|null|
+|**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880v1](http://arxiv.org/abs/2412.16880v1)|null|
 |**2024-12-19**|**Classification of Linear Observed Systems on Multi-Frame Groups via Automorphisms**|Changwu Liu et.al.|[2412.14673v1](http://arxiv.org/abs/2412.14673v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
 |**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873v1](http://arxiv.org/abs/2412.13873v1)|[link](https://github.com/kafeiyin00/ua-mpc)|
@@ -29,6 +32,3 @@
 |**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289v1](http://arxiv.org/abs/2411.17289v1)|[link](https://github.com/robotics-upo/4D-Radar-Odom)|
 |**2024-11-25**|**Performance Assessment of Lidar Odometry Frameworks: A Case Study at the Australian Botanic Garden Mount Annan**|Mohamed Mourad Ouazghire et.al.|[2411.16931v1](http://arxiv.org/abs/2411.16931v1)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358v2](http://arxiv.org/abs/2411.14358v2)|null|
-|**2024-11-21**|**Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain**|Vidya Sudevan et.al.|[2411.13988v1](http://arxiv.org/abs/2411.13988v1)|null|
-|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438v2](http://arxiv.org/abs/2411.13438v2)|null|
-|**2024-11-19**|**AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression**|Zhixiang Wang et.al.|[2411.12175v1](http://arxiv.org/abs/2411.12175v1)|null|

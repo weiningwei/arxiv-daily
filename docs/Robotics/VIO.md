@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v1](http://arxiv.org/abs/2412.16923v1)|null|
+|**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880v1](http://arxiv.org/abs/2412.16880v1)|null|
+|**2024-12-22**|**Ion-Scale Solitary Structures in the Solar Wind Observed by Solar Orbiter and Parker Solar Probe**|Yufei Yang et.al.|[2412.16824v1](http://arxiv.org/abs/2412.16824v1)|null|
+|**2024-12-21**|**Renormalisation group theory applied to $\ddot{x}+\dot{x}+x^2=0$**|Joshua F. Robinson et.al.|[2412.16578v1](http://arxiv.org/abs/2412.16578v1)|null|
 |**2024-12-20**|**iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing**|Huanqi Yang et.al.|[2412.15980v1](http://arxiv.org/abs/2412.15980v1)|null|
 |**2024-12-20**|**Non-Stationary Critical Phenomena: Expanding The Critical Point**|Richard E. Spinney et.al.|[2412.15627v1](http://arxiv.org/abs/2412.15627v1)|null|
 |**2024-12-19**|**Classification of Linear Observed Systems on Multi-Frame Groups via Automorphisms**|Changwu Liu et.al.|[2412.14673v1](http://arxiv.org/abs/2412.14673v1)|null|
@@ -27,8 +32,3 @@
 |**2024-12-11**|**A study of the transition to a turbulent shock using a coarse-graining approach to ion phase space transport**|D. Trotta et.al.|[2412.08404v1](http://arxiv.org/abs/2412.08404v1)|null|
 |**2024-12-11**|**Pole-based Vehicle Localization with Vector Maps: A Camera-LiDAR Comparative Study**|Maxime Noizet et.al.|[2412.09649v1](http://arxiv.org/abs/2412.09649v1)|null|
 |**2024-12-11**|**DOGE: An Extrinsic Orientation and Gyroscope Bias Estimation for Visual-Inertial Odometry Initialization**|Zewen Xu et.al.|[2412.08135v1](http://arxiv.org/abs/2412.08135v1)|null|
-|**2024-12-10**|**Transformation Between the Schwarzschild Coordinates and Local Inertial Coordinates**|Frank Wang et.al.|[2412.07949v1](http://arxiv.org/abs/2412.07949v1)|null|
-|**2024-12-10**|**Improving the Robustness of the Projected Gradient Descent Method for Nonlinear Constrained Optimization Problems in Topology Optimization**|Lucka Barbeau et.al.|[2412.07634v1](http://arxiv.org/abs/2412.07634v1)|null|
-|**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
-|**2024-12-10**|**Charge management system based on disturbance observer sliding mode control for space inertial sensors**|Fangchao Yang et.al.|[2412.09643v1](http://arxiv.org/abs/2412.09643v1)|null|
-|**2024-12-10**|**Optical Levitation of Arrays of Microspheres**|Benjamin Siegel et.al.|[2412.07088v1](http://arxiv.org/abs/2412.07088v1)|null|
