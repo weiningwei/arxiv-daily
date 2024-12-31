@@ -16,7 +16,7 @@
 |**2024-12-26**|**Learning Monocular Depth from Events via Egomotion Compensation**|Haitao Meng et.al.|[2412.19067v1](http://arxiv.org/abs/2412.19067v1)|null|
 |**2024-12-25**|**TopoBDA: Towards Bezier Deformable Attention for Road Topology Understanding**|Muhammet Esat Kalfaoglu et.al.|[2412.18951v1](http://arxiv.org/abs/2412.18951v1)|null|
 |**2024-12-25**|**HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**|Di Wu et.al.|[2412.18884v1](http://arxiv.org/abs/2412.18884v1)|null|
-|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862v1](http://arxiv.org/abs/2412.18862v1)|null|
+|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862v2](http://arxiv.org/abs/2412.18862v2)|null|
 |**2024-12-25**|**Simultaneously Recovering Multi-Person Meshes and Multi-View Cameras with Human Semantics**|Buzhen Huang et.al.|[2412.18785v1](http://arxiv.org/abs/2412.18785v1)|[link](https://github.com/boycehbz/DMMR)|
 |**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417v1](http://arxiv.org/abs/2412.18417v1)|[link](https://github.com/johnathan218/bmnet)|
 |**2024-12-24**|**SPARC4 control system**|Denis Bernardes et.al.|[2412.18410v1](http://arxiv.org/abs/2412.18410v1)|[link](https://github.com/fco-R/S4ICS)|
