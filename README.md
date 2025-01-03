@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-03 08:42:47 Asia/Shanghai
+ Automated deployment @ 2025-01-03 10:06:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -86,12 +86,12 @@
 |**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
 |**2024-12-30**|**Closing Speed Computation using Stereo Camera and Applications in Unsignalized T-Intersection**|Gautam Kumar et.al.|[2412.20717v1](http://arxiv.org/abs/2412.20717v1)|null|
 |**2024-12-30**|**CoCap: Coordinated motion Capture for multi-actor scenes in outdoor environments**|Aditya Rauniyar et.al.|[2412.20695v1](http://arxiv.org/abs/2412.20695v1)|null|
-|**2024-12-30**|**Recurrence-based Vanishing Point Detection**|Skanda Bharadwaj et.al.|[2412.20666v1](http://arxiv.org/abs/2412.20666v1)|null|
+|**2024-12-30**|**Recurrence-based Vanishing Point Detection**|Skanda Bharadwaj et.al.|[2412.20666v2](http://arxiv.org/abs/2412.20666v2)|null|
 |**2024-12-29**|**Enhancing autonomous vehicle safety in rain: a data-centric approach for clear vision**|Mark A. Seferian et.al.|[2412.20565v1](http://arxiv.org/abs/2412.20565v1)|null|
 |**2024-12-29**|**Can Robots "Taste" Grapes? Estimating SSC with Simple RGB Sensors**|Thomas Alessandro Ciarfuglia et.al.|[2412.20521v1](http://arxiv.org/abs/2412.20521v1)|null|
 |**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[2412.20480v1](http://arxiv.org/abs/2412.20480v1)|null|
 |**2024-12-29**|**Emittance Minimization for Aberration Correction I: Aberration correction of an electron microscope without knowing the aberration coefficients**|Desheng Ma et.al.|[2412.20358v1](http://arxiv.org/abs/2412.20358v1)|null|
-|**2024-12-28**|**Mining Platoon Patterns from Traffic Videos**|Yijun Bei et.al.|[2412.20177v1](http://arxiv.org/abs/2412.20177v1)|null|
+|**2024-12-28**|**Mining Platoon Patterns from Traffic Videos**|Yijun Bei et.al.|[2412.20177v2](http://arxiv.org/abs/2412.20177v2)|null|
 |**2024-12-28**|**Enhancing Marine Debris Acoustic Monitoring by Optical Flow-Based Motion Vector Analysis**|Xiaoteng Zhou et.al.|[2412.20085v1](http://arxiv.org/abs/2412.20085v1)|null|
 |**2024-12-28**|**VELoRA: A Low-Rank Adaptation Approach for Efficient RGB-Event based Recognition**|Lan Chen et.al.|[2412.20064v1](http://arxiv.org/abs/2412.20064v1)|[link](https://github.com/event-ahu/velora)|
 |**2024-12-28**|**AI-based Wearable Vision Assistance System for the Visually Impaired: Integrating Real-Time Object Recognition and Contextual Understanding Using Large Vision-Language Models**|Mirza Samad Ahmed Baig et.al.|[2412.20059v1](http://arxiv.org/abs/2412.20059v1)|null|
