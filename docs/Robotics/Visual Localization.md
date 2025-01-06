@@ -2,6 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949v1](http://arxiv.org/abs/2501.01949v1)|null|
+|**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895v1](http://arxiv.org/abs/2501.01895v1)|null|
+|**2025-01-03**|**Dedicated Inference Engine and Binary-Weight Neural Networks for Lightweight Instance Segmentation**|Tse-Wei Chen et.al.|[2501.01841v1](http://arxiv.org/abs/2501.01841v1)|null|
+|**2025-01-03**|**Detecting Turbulent Patterns in Particulate Pipe Flow by Streak Angle Visualization**|Rishav Raj et.al.|[2501.01753v1](http://arxiv.org/abs/2501.01753v1)|null|
+|**2025-01-03**|**Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network**|Hiep Dinh et.al.|[2501.01689v1](http://arxiv.org/abs/2501.01689v1)|null|
+|**2025-01-02**|**Click-Calib: A Robust Extrinsic Calibration Method for Surround-View Systems**|Lihao Wang et.al.|[2501.01557v1](http://arxiv.org/abs/2501.01557v1)|null|
 |**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v2](http://arxiv.org/abs/2501.01425v2)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|
 |**2025-01-02**|**Data Acquisition Through Participatory Design for Automated Rehabilitation Assessment**|Tamim Ahmed et.al.|[2501.01374v1](http://arxiv.org/abs/2501.01374v1)|null|
@@ -26,9 +32,3 @@
 |**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758v1](http://arxiv.org/abs/2412.20758v1)|null|
 |**2024-12-30**|**Closing Speed Computation using Stereo Camera and Applications in Unsignalized T-Intersection**|Gautam Kumar et.al.|[2412.20717v1](http://arxiv.org/abs/2412.20717v1)|null|
 |**2024-12-30**|**CoCap: Coordinated motion Capture for multi-actor scenes in outdoor environments**|Aditya Rauniyar et.al.|[2412.20695v1](http://arxiv.org/abs/2412.20695v1)|null|
-|**2024-12-30**|**Recurrence-based Vanishing Point Detection**|Skanda Bharadwaj et.al.|[2412.20666v2](http://arxiv.org/abs/2412.20666v2)|null|
-|**2024-12-29**|**Enhancing autonomous vehicle safety in rain: a data-centric approach for clear vision**|Mark A. Seferian et.al.|[2412.20565v1](http://arxiv.org/abs/2412.20565v1)|null|
-|**2024-12-29**|**Can Robots "Taste" Grapes? Estimating SSC with Simple RGB Sensors**|Thomas Alessandro Ciarfuglia et.al.|[2412.20521v1](http://arxiv.org/abs/2412.20521v1)|null|
-|**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[2412.20480v1](http://arxiv.org/abs/2412.20480v1)|null|
-|**2024-12-29**|**Emittance Minimization for Aberration Correction I: Aberration correction of an electron microscope without knowing the aberration coefficients**|Desheng Ma et.al.|[2412.20358v1](http://arxiv.org/abs/2412.20358v1)|null|
-|**2024-12-28**|**Mining Platoon Patterns from Traffic Videos**|Yijun Bei et.al.|[2412.20177v2](http://arxiv.org/abs/2412.20177v2)|[link](https://github.com/mateng0228/vplatoon)|
