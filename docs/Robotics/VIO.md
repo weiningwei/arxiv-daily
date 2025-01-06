@@ -16,7 +16,7 @@
 |**2024-12-24**|**Amplifier scheme: driven by direct-drive under 10 MJ laser toward inertial fusion energy**|Ke Lan et.al.|[2501.01314v1](http://arxiv.org/abs/2501.01314v1)|null|
 |**2024-12-23**|**Multilevel Method with Low-Order Equations of Mixed Types and Two Grids in Photon Energy for Thermal Radiative Transfer**|Dmitriy Y. Anistratov et.al.|[2412.17989v1](http://arxiv.org/abs/2412.17989v1)|null|
 |**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v1](http://arxiv.org/abs/2412.16923v1)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v2](http://arxiv.org/abs/2412.16923v2)|null|
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880v1](http://arxiv.org/abs/2412.16880v1)|null|
 |**2024-12-22**|**Ion-Scale Solitary Structures in the Solar Wind Observed by Solar Orbiter and Parker Solar Probe**|Yufei Yang et.al.|[2412.16824v1](http://arxiv.org/abs/2412.16824v1)|null|
 |**2024-12-21**|**Renormalisation group theory applied to $\ddot{x}+\dot{x}+x^2=0$**|Joshua F. Robinson et.al.|[2412.16578v1](http://arxiv.org/abs/2412.16578v1)|null|

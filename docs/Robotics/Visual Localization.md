@@ -2,7 +2,7 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v1](http://arxiv.org/abs/2501.01425v1)|null|
+|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v2](http://arxiv.org/abs/2501.01425v2)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|
 |**2025-01-02**|**Data Acquisition Through Participatory Design for Automated Rehabilitation Assessment**|Tamim Ahmed et.al.|[2501.01374v1](http://arxiv.org/abs/2501.01374v1)|null|
 |**2025-01-02**|**L3D-Pose: Lifting Pose for 3D Avatars from a Single Camera in the Wild**|Soumyaratna Debnath et.al.|[2501.01174v1](http://arxiv.org/abs/2501.01174v1)|null|
