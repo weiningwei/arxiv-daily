@@ -18,7 +18,7 @@
 |**2025-01-01**|**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**|Qianang Zhou et.al.|[2501.00838v1](http://arxiv.org/abs/2501.00838v1)|null|
 |**2025-01-01**|**Towards End-to-End Neuromorphic Voxel-based 3D Object Reconstruction Without Physical Priors**|Chuanzhi Xu et.al.|[2501.00741v1](http://arxiv.org/abs/2501.00741v1)|null|
 |**2024-12-31**|**First experimental test of a coded-mask gamma camera for proton therapy monitoring**|Magdalena Kołodziej et.al.|[2501.00666v1](http://arxiv.org/abs/2501.00666v1)|null|
-|**2024-12-31**|**How Honeybees Perceive and Traverse Apertures**|Timothy Jakobi et.al.|[2501.00646v1](http://arxiv.org/abs/2501.00646v1)|null|
+|**2024-12-31**|**How Honeybees Perceive and Traverse Apertures**|Timothy Jakobi et.al.|[2501.00646v2](http://arxiv.org/abs/2501.00646v2)|null|
 |**2024-12-31**|**Predicting Barge Presence and Quantity on Inland Waterways using Vessel Tracking Data: A Machine Learning Approach**|Geoffery Agorkua et.al.|[2501.00615v1](http://arxiv.org/abs/2501.00615v1)|null|
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220v1](http://arxiv.org/abs/2501.00220v1)|null|
 |**2024-12-30**|**Minimalist Vision with Freeform Pixels**|Jeremy Klotz et.al.|[2501.00142v1](http://arxiv.org/abs/2501.00142v1)|null|
