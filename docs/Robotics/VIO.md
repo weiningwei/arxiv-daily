@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**Ribbing patterns in inertial rotary drag-out**|J. John Soundar Jerome et.al.|[2501.03956v1](http://arxiv.org/abs/2501.03956v1)|null|
 |**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079v1](http://arxiv.org/abs/2501.03079v1)|null|
 |**2025-01-04**|**Tracking Star-Forming Cores as Mass Reservoirs in Clustered and Isolated Regions Using Numerical Passive Tracer Particles**|Shingo Nozaki et.al.|[2501.02225v1](http://arxiv.org/abs/2501.02225v1)|null|
 |**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177v1](http://arxiv.org/abs/2501.02177v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-18**|**Teleparallel gravity at Scri**|Florian Girelli et.al.|[2412.14258v1](http://arxiv.org/abs/2412.14258v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
 |**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873v1](http://arxiv.org/abs/2412.13873v1)|[link](https://github.com/kafeiyin00/ua-mpc)|
-|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|[link](https://github.com/robotics-upo/gaussian-rio)|
