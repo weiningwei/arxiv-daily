@@ -11,7 +11,7 @@
 |**2025-01-07**|**Thermally Adaptive Surface Microscopy for brain functional imaging**|Hadrien L. M. Robert et.al.|[2501.03965v1](http://arxiv.org/abs/2501.03965v1)|null|
 |**2025-01-07**|**CoStruction: Conjoint radiance field optimization for urban scene reconStruction with limited image overlap**|Fusang Wang et.al.|[2501.03932v1](http://arxiv.org/abs/2501.03932v1)|null|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874v1](http://arxiv.org/abs/2501.03874v1)|null|
-|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v1](http://arxiv.org/abs/2501.03847v1)|[link](https://github.com/igl-hkust/diffusionasshader)|
+|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v2](http://arxiv.org/abs/2501.03847v2)|[link](https://github.com/igl-hkust/diffusionasshader)|
 |**2025-01-07**|**High-cadence stellar variability studies of RR Lyrae stars with DECam: New multi-band templates**|K. Baeza-Villagra et.al.|[2501.03813v1](http://arxiv.org/abs/2501.03813v1)|null|
 |**2025-01-07**|**AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish**|Stefan Hein Bengtson et.al.|[2501.03767v1](http://arxiv.org/abs/2501.03767v1)|null|
 |**2025-01-07**|**Predicting the dynamics of a gas pocket during breaking wave impacts using machine learning**|Rodrigo Ezeta et.al.|[2501.03641v2](http://arxiv.org/abs/2501.03641v2)|null|
@@ -19,7 +19,7 @@
 |**2025-01-07**|**Anomaly Triplet-Net: Progress Recognition Model Using Deep Metric Learning Considering Occlusion for Manual Assembly Work**|Takumi Kitsukawa et.al.|[2501.03533v1](http://arxiv.org/abs/2501.03533v1)|null|
 |**2025-01-07**|**Can Deep Learning Trigger Alerts from Mobile-Captured Images?**|Pritisha Sarkar et.al.|[2501.03499v1](http://arxiv.org/abs/2501.03499v1)|null|
 |**2025-01-06**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[2501.03173v1](http://arxiv.org/abs/2501.03173v1)|null|
-|**2025-01-06**|**Geometry Restoration and Dewarping of Camera-Captured Document Images**|Valery Istomin et.al.|[2501.03145v1](http://arxiv.org/abs/2501.03145v1)|[link](https://github.com/horizonparadox/drccbi)|
+|**2025-01-06**|**Geometry Restoration and Dewarping of Camera-Captured Document Images**|Valery Istomin et.al.|[2501.03145v2](http://arxiv.org/abs/2501.03145v2)|[link](https://github.com/horizonparadox/drccbi)|
 |**2025-01-06**|**Benefit evaluation of V2X-enhanced braking in view obstructed crossing use cases**|Jan Zimmermann et.al.|[2501.03069v1](http://arxiv.org/abs/2501.03069v1)|null|
 |**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
 |**2025-01-06**|**Human Gaze Boosts Object-Centered Representation Learning**|Timothy Schaumlöffel et.al.|[2501.02966v1](http://arxiv.org/abs/2501.02966v1)|null|
