@@ -9,16 +9,16 @@
 |**2025-01-08**|**Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition**|Zehui Liu et.al.|[2501.04833v1](http://arxiv.org/abs/2501.04833v1)|null|
 |**2025-01-08**|**KN-LIO: Geometric Kinematics and Neural Field Coupled LiDAR-Inertial Odometry**|Zhong Wang et.al.|[2501.04263v1](http://arxiv.org/abs/2501.04263v1)|null|
 |**2025-01-07**|**Ribbing patterns in inertial rotary drag-out**|J. John Soundar Jerome et.al.|[2501.03956v1](http://arxiv.org/abs/2501.03956v1)|null|
-|**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079v1](http://arxiv.org/abs/2501.03079v1)|null|
+|**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079v1](http://arxiv.org/abs/2501.03079v1)|[link](https://github.com/i2nav-whu/wheel-gins)|
 |**2025-01-04**|**Tracking Star-Forming Cores as Mass Reservoirs in Clustered and Isolated Regions Using Numerical Passive Tracer Particles**|Shingo Nozaki et.al.|[2501.02225v1](http://arxiv.org/abs/2501.02225v1)|null|
 |**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177v1](http://arxiv.org/abs/2501.02177v1)|null|
 |**2025-01-04**|**A stabilized finite element method for steady Darcy-Brinkman-Forchheimer flow model with different viscous and inertial resistances in porous media**|Hyun Chul Yoon et.al.|[2501.04041v1](http://arxiv.org/abs/2501.04041v1)|null|
-|**2025-01-03**|**Universal Online Temporal Calibration for Optimization-based Visual-Inertial Navigation Systems**|Yunfei Fan et.al.|[2501.01788v1](http://arxiv.org/abs/2501.01788v1)|null|
+|**2025-01-03**|**Universal Online Temporal Calibration for Optimization-based Visual-Inertial Navigation Systems**|Yunfei Fan et.al.|[2501.01788v1](http://arxiv.org/abs/2501.01788v1)|[link](https://github.com/bytedance/ts_online_optimization)|
 |**2025-01-03**|**Prism: Mining Task-aware Domains in Non-i.i.d. IMU Data for Flexible User Perception**|Yunzhe Li et.al.|[2501.01598v1](http://arxiv.org/abs/2501.01598v1)|null|
 |**2025-01-02**|**Enhancement of Neural Inertial Regression Networks: A Data-Driven Perspective**|Victoria Khalfin Fekson et.al.|[2501.01327v1](http://arxiv.org/abs/2501.01327v1)|null|
 |**2025-01-02**|**The effect of turbulence, gravity, and non-continuum hydrodynamic interactions on the drop size distribution in clouds**|Johnson Dhanasekaran et.al.|[2501.01086v1](http://arxiv.org/abs/2501.01086v1)|null|
 |**2025-01-02**|**Transient rod-climbing in an Oldroyd-B fluid**|Tachin Ruangkriengsin et.al.|[2501.01016v1](http://arxiv.org/abs/2501.01016v1)|null|
-|**2024-12-31**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[2501.00242v2](http://arxiv.org/abs/2501.00242v2)|null|
+|**2024-12-31**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[2501.00242v2](http://arxiv.org/abs/2501.00242v2)|[link](https://github.com/hanymragab/navinst19)|
 |**2024-12-30**|**The FlEye camera: Sampling the joint distribution of natural scenes and motion**|Charles J. Edelson et.al.|[2412.21081v1](http://arxiv.org/abs/2412.21081v1)|null|
 |**2024-12-28**|**Learning physical unknowns from hydrodynamic shock and material interface features in ICF capsule implosions**|Daniel A. Serino et.al.|[2412.20192v1](http://arxiv.org/abs/2412.20192v1)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082v1](http://arxiv.org/abs/2412.20082v1)|null|
