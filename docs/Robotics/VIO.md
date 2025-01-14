@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
+|**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[2501.07259v1](http://arxiv.org/abs/2501.07259v1)|null|
+|**2025-01-12**|**Collaborative Human Activity Recognition with Passive Inter-Body Electrostatic Field**|Sizhen Bian et.al.|[2501.06940v1](http://arxiv.org/abs/2501.06940v1)|null|
+|**2025-01-11**|**Very Special Relativity in Accelerated Frames: Non-relativistic Effects in Gravitational Spectroscopy of Ultracold Neutrons**|Alessandro Santoni et.al.|[2501.06558v1](http://arxiv.org/abs/2501.06558v1)|null|
+|**2025-01-10**|**Multi-time scale-invariance of turbulence in a shell model**|Alexei A. Mailybaev et.al.|[2501.06321v1](http://arxiv.org/abs/2501.06321v1)|null|
 |**2025-01-10**|**Koopman-Based Model Predictive Control of Functional Electrical Stimulation for Ankle Dorsiflexion and Plantarflexion Assistance**|Mayank Singh et.al.|[2501.05943v1](http://arxiv.org/abs/2501.05943v1)|null|
 |**2025-01-10**|**A Multimodal Dataset for Enhancing Industrial Task Monitoring and Engagement Prediction**|Naval Kishore Mehta et.al.|[2501.05936v1](http://arxiv.org/abs/2501.05936v1)|[link](https://github.com/navalkishoremehta95/miam)|
 |**2025-01-09**|**Self-propulsion and self-rotation of an inertial chiral active Ornstein-Uhlenbeck particle**|F Sahala et.al.|[2501.05390v1](http://arxiv.org/abs/2501.05390v1)|null|
@@ -27,8 +32,3 @@
 |**2024-12-26**|**Fluid-particle interactions and fluctuation-dissipation relations I -- General linear theory and basic fluctuational patterns**|Massimiliano Giona et.al.|[2412.19166v1](http://arxiv.org/abs/2412.19166v1)|null|
 |**2024-12-26**|**Robust $H_{\infty}$ Position Controller for Steering Systems**|Tushar Chugh et.al.|[2412.19161v1](http://arxiv.org/abs/2412.19161v1)|null|
 |**2024-12-26**|**Revealing the Self: Brainwave-Based Human Trait Identification**|Md Mirajul Islam et.al.|[2412.19041v1](http://arxiv.org/abs/2412.19041v1)|null|
-|**2024-12-24**|**Amplifier scheme: driven by indirect-drive under 10 MJ laser toward inertial fusion energy**|Yongsheng Li et.al.|[2412.18455v1](http://arxiv.org/abs/2412.18455v1)|null|
-|**2024-12-24**|**Amplifier scheme: driven by direct-drive under 10 MJ laser toward inertial fusion energy**|Ke Lan et.al.|[2501.01314v1](http://arxiv.org/abs/2501.01314v1)|null|
-|**2024-12-23**|**Multilevel Method with Low-Order Equations of Mixed Types and Two Grids in Photon Energy for Thermal Radiative Transfer**|Dmitriy Y. Anistratov et.al.|[2412.17989v1](http://arxiv.org/abs/2412.17989v1)|null|
-|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v2](http://arxiv.org/abs/2412.16923v2)|null|
