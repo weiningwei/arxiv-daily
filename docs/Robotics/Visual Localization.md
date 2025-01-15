@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331v1](http://arxiv.org/abs/2501.08331v1)|[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
+|**2025-01-14**|**Can Bayesian Neural Networks Explicitly Model Input Uncertainty?**|Matias Valdenegro-Toro et.al.|[2501.08285v1](http://arxiv.org/abs/2501.08285v1)|null|
+|**2025-01-14**|**Towards an End-to-End (E2E) Adversarial Learning and Application in the Physical World**|Dudi Biton et.al.|[2501.08258v1](http://arxiv.org/abs/2501.08258v1)|null|
+|**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168v1](http://arxiv.org/abs/2501.08168v1)|null|
+|**2025-01-14**|**Bootstrapping Corner Cases: High-Resolution Inpainting for Safety Critical Detect and Avoid for Automated Flying**|Jonathan Lyhs et.al.|[2501.08142v1](http://arxiv.org/abs/2501.08142v1)|null|
+|**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118v1](http://arxiv.org/abs/2501.08118v1)|null|
+|**2025-01-14**|**Underlying Physical Mechanisms in Upward Positive Flashes**|Toma Oregel-Chaumont et.al.|[2501.08110v1](http://arxiv.org/abs/2501.08110v1)|null|
+|**2025-01-14**|**Toward the remotization and robotization of the OARPAF telescope**|Davide Ricci et.al.|[2501.08016v1](http://arxiv.org/abs/2501.08016v1)|null|
+|**2025-01-14**|**Improvements to SHINS, the SHARK-NIR Instrument Software, during the AIT phase**|Davide Ricci et.al.|[2501.08010v1](http://arxiv.org/abs/2501.08010v1)|null|
+|**2025-01-14**|**Visual Language Models as Operator Agents in the Space Domain**|Alejandro Carrasco et.al.|[2501.07802v1](http://arxiv.org/abs/2501.07802v1)|null|
+|**2025-01-14**|**BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos**|Farnoosh Koleini et.al.|[2501.07800v1](http://arxiv.org/abs/2501.07800v1)|null|
+|**2025-01-13**|**Fixing the Scale and Shift in Monocular Depth For Camera Pose Estimation**|Yaqing Ding et.al.|[2501.07742v1](http://arxiv.org/abs/2501.07742v1)|[link](https://github.com/yaqding/pose_monodepth)|
+|**2025-01-13**|**Testing Human-Hand Segmentation on In-Distribution and Out-of-Distribution Data in Human-Robot Interactions Using a Deep Ensemble Model**|Reza Jalayer et.al.|[2501.07713v1](http://arxiv.org/abs/2501.07713v1)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574v1](http://arxiv.org/abs/2501.07574v1)|[link](https://github.com/facebookresearch/uco3d)|
 |**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3$\times$2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559v1](http://arxiv.org/abs/2501.07559v1)|null|
 |**2025-01-13**|**Three-view Focal Length Recovery From Homographies**|Yaqing Ding et.al.|[2501.07499v1](http://arxiv.org/abs/2501.07499v1)|[link](https://github.com/kocurvik/hf)|
@@ -18,17 +32,3 @@
 |**2025-01-12**|**Uncertainty-Aware Online Extrinsic Calibration: A Conformal Prediction Approach**|Mathieu Cocheteux et.al.|[2501.06878v1](http://arxiv.org/abs/2501.06878v1)|null|
 |**2025-01-12**|**Optical appearance of the Konoplya-Zhidenko rotating non-Kerr black hole surrounded by a thin accretion disk**|Ke-Jian He et.al.|[2501.06778v1](http://arxiv.org/abs/2501.06778v1)|null|
 |**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770v1](http://arxiv.org/abs/2501.06770v1)|null|
-|**2025-01-11**|**MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis**|Hengyuan Zhang et.al.|[2501.06660v1](http://arxiv.org/abs/2501.06660v1)|null|
-|**2025-01-11**|**CoreNet: Conflict Resolution Network for Point-Pixel Misalignment and Sub-Task Suppression of 3D LiDAR-Camera Object Detection**|Yiheng Li et.al.|[2501.06550v1](http://arxiv.org/abs/2501.06550v1)|[link](https://github.com/liyih/corenet)|
-|**2025-01-11**|**UCloudNet: A Residual U-Net with Deep Supervision for Cloud Image Segmentation**|Yijie Li et.al.|[2501.06440v1](http://arxiv.org/abs/2501.06440v1)|[link](https://github.com/att100/ucloudnet)|
-|**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006v1](http://arxiv.org/abs/2501.06006v1)|null|
-|**2025-01-10**|**Self-Supervised Partial Cycle-Consistency for Multi-View Matching**|Fedor Taggenbrock et.al.|[2501.06000v1](http://arxiv.org/abs/2501.06000v1)|[link](https://github.com/fedortaggenbrock/self-supervised-partial-cycle-consistency)|
-|**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997v1](http://arxiv.org/abs/2501.05997v1)|null|
-|**2025-01-10**|**Resultant force on grains of a real sand dune: How to measure it?**|Renato F. Miotto et.al.|[2501.05869v1](http://arxiv.org/abs/2501.05869v1)|null|
-|**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688v1](http://arxiv.org/abs/2501.05688v1)|null|
-|**2025-01-09**|**Approximate Supervised Object Distance Estimation on Unmanned Surface Vehicles**|Benjamin Kiefer et.al.|[2501.05567v1](http://arxiv.org/abs/2501.05567v1)|null|
-|**2025-01-09**|**Improving Zero-Shot Object-Level Change Detection by Incorporating Visual Correspondence**|Hung Huy Nguyen et.al.|[2501.05555v1](http://arxiv.org/abs/2501.05555v1)|[link](https://github.com/anguyen8/image-diff)|
-|**2025-01-09**|**RoboPanoptes: The All-seeing Robot with Whole-body Dexterity**|Xiaomeng Xu et.al.|[2501.05420v1](http://arxiv.org/abs/2501.05420v1)|null|
-|**2025-01-09**|**Quantum undetected optical projection tomography**|Nathan R. Gemmell et.al.|[2501.05381v1](http://arxiv.org/abs/2501.05381v1)|null|
-|**2025-01-09**|**A Portable Solution for Simultaneous Human Movement and Mobile EEG Acquisition: Readiness Potentials for Basketball Free-throw Shooting**|Miguel Contreras-Altamirano et.al.|[2501.05378v2](http://arxiv.org/abs/2501.05378v2)|[link](https://github.com/micufx/Pocketable-MoBI-Baskts)|
-|**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242v1](http://arxiv.org/abs/2501.05242v1)|null|
