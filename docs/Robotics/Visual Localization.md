@@ -26,7 +26,7 @@
 |**2025-01-13**|**ViewVR: Visual Feedback Modes to Achieve Quality of VR-based Telemanipulation**|A. Erkhov et.al.|[2501.07299v1](http://arxiv.org/abs/2501.07299v1)|null|
 |**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[2501.07259v1](http://arxiv.org/abs/2501.07259v1)|null|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245v1](http://arxiv.org/abs/2501.07245v1)|null|
-|**2025-01-13**|**A neuromorphic camera for tracking passive and active matter with lower data throughput**|Gabriel Britto Monteiro et.al.|[2501.07230v1](http://arxiv.org/abs/2501.07230v1)|null|
+|**2025-01-13**|**A neuromorphic camera for tracking passive and active matter with lower data throughput**|Gabriel Britto Monteiro et.al.|[2501.07230v2](http://arxiv.org/abs/2501.07230v2)|null|
 |**2025-01-13**|**Evaluating Robotic Approach Techniques for the Insertion of a Straight Instrument into a Vitreoretinal Surgery Trocar**|Ross Henry et.al.|[2501.07180v1](http://arxiv.org/abs/2501.07180v1)|null|
 |**2025-01-13**|**Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning**|Juntao Ren et.al.|[2501.06994v1](http://arxiv.org/abs/2501.06994v1)|null|
 |**2025-01-12**|**Uncertainty-Aware Online Extrinsic Calibration: A Conformal Prediction Approach**|Mathieu Cocheteux et.al.|[2501.06878v1](http://arxiv.org/abs/2501.06878v1)|null|
