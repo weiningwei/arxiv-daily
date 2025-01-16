@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-15**|**Interplay between tidal flows and magnetic fields in nonlinear simulations of stellar and planetary convective envelopes**|Aurélie Astoul et.al.|[2501.08722v1](http://arxiv.org/abs/2501.08722v1)|null|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
+|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v1](http://arxiv.org/abs/2501.08659v1)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
 |**2025-01-13**|**Reliable Vertical Ground Reaction Force Estimation with Smart Insole During Walking**|Femi Olugbon et.al.|[2501.07748v1](http://arxiv.org/abs/2501.07748v1)|null|
 |**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
@@ -29,6 +32,3 @@
 |**2025-01-02**|**Transient rod-climbing in an Oldroyd-B fluid**|Tachin Ruangkriengsin et.al.|[2501.01016v1](http://arxiv.org/abs/2501.01016v1)|null|
 |**2024-12-31**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[2501.00242v2](http://arxiv.org/abs/2501.00242v2)|[link](https://github.com/hanymragab/navinst19)|
 |**2024-12-30**|**The FlEye camera: Sampling the joint distribution of natural scenes and motion**|Charles J. Edelson et.al.|[2412.21081v1](http://arxiv.org/abs/2412.21081v1)|null|
-|**2024-12-28**|**Learning physical unknowns from hydrodynamic shock and material interface features in ICF capsule implosions**|Daniel A. Serino et.al.|[2412.20192v1](http://arxiv.org/abs/2412.20192v1)|null|
-|**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082v1](http://arxiv.org/abs/2412.20082v1)|null|
-|**2024-12-26**|**Fluid-particle interactions and fluctuation-dissipation relations I -- General linear theory and basic fluctuational patterns**|Massimiliano Giona et.al.|[2412.19166v1](http://arxiv.org/abs/2412.19166v1)|null|
