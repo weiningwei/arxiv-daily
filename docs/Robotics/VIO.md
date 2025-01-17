@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
+|**2025-01-16**|**Uncertainty in Elastic Turbulence**|Jack R. C. King et.al.|[2501.09421v1](http://arxiv.org/abs/2501.09421v1)|null|
+|**2025-01-16**|**Acceleration temperature for quantum fields without event horizon**|F. Sobrero et.al.|[2501.09264v1](http://arxiv.org/abs/2501.09264v1)|null|
 |**2025-01-15**|**Interplay between tidal flows and magnetic fields in nonlinear simulations of stellar and planetary convective envelopes**|Aurélie Astoul et.al.|[2501.08722v1](http://arxiv.org/abs/2501.08722v1)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
 |**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v2](http://arxiv.org/abs/2501.08659v2)|null|
@@ -29,6 +32,3 @@
 |**2025-01-03**|**Prism: Mining Task-aware Domains in Non-i.i.d. IMU Data for Flexible User Perception**|Yunzhe Li et.al.|[2501.01598v1](http://arxiv.org/abs/2501.01598v1)|null|
 |**2025-01-02**|**Enhancement of Neural Inertial Regression Networks: A Data-Driven Perspective**|Victoria Khalfin Fekson et.al.|[2501.01327v1](http://arxiv.org/abs/2501.01327v1)|null|
 |**2025-01-02**|**The effect of turbulence, gravity, and non-continuum hydrodynamic interactions on the drop size distribution in clouds**|Johnson Dhanasekaran et.al.|[2501.01086v1](http://arxiv.org/abs/2501.01086v1)|null|
-|**2025-01-02**|**Transient rod-climbing in an Oldroyd-B fluid**|Tachin Ruangkriengsin et.al.|[2501.01016v1](http://arxiv.org/abs/2501.01016v1)|null|
-|**2024-12-31**|**Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS**|Hany Ragab et.al.|[2501.00242v2](http://arxiv.org/abs/2501.00242v2)|[link](https://github.com/hanymragab/navinst19)|
-|**2024-12-30**|**The FlEye camera: Sampling the joint distribution of natural scenes and motion**|Charles J. Edelson et.al.|[2412.21081v1](http://arxiv.org/abs/2412.21081v1)|null|
