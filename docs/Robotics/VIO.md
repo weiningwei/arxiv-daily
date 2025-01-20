@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-17**|**Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign**|G. F. Swadling et.al.|[2501.10350v1](http://arxiv.org/abs/2501.10350v1)|null|
+|**2025-01-17**|**Tethered Variable Inertial Attitude Control Mechanisms through a Modular Jumping Limbed Robot**|Yusuke Tanaka et.al.|[2501.10156v1](http://arxiv.org/abs/2501.10156v1)|null|
+|**2025-01-17**|**Turbulent scaling law in Ogata Kōrin's Red and White Plum Blossoms**|Takeshi Matsumoto et.al.|[2501.09907v1](http://arxiv.org/abs/2501.09907v1)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
 |**2025-01-16**|**Uncertainty in Elastic Turbulence**|Jack R. C. King et.al.|[2501.09421v1](http://arxiv.org/abs/2501.09421v1)|null|
 |**2025-01-16**|**Acceleration temperature for quantum fields without event horizon**|F. Sobrero et.al.|[2501.09264v1](http://arxiv.org/abs/2501.09264v1)|null|
@@ -29,6 +32,3 @@
 |**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177v1](http://arxiv.org/abs/2501.02177v1)|null|
 |**2025-01-04**|**A stabilized finite element method for steady Darcy-Brinkman-Forchheimer flow model with different viscous and inertial resistances in porous media**|Hyun Chul Yoon et.al.|[2501.04041v1](http://arxiv.org/abs/2501.04041v1)|null|
 |**2025-01-03**|**Universal Online Temporal Calibration for Optimization-based Visual-Inertial Navigation Systems**|Yunfei Fan et.al.|[2501.01788v1](http://arxiv.org/abs/2501.01788v1)|[link](https://github.com/bytedance/ts_online_optimization)|
-|**2025-01-03**|**Prism: Mining Task-aware Domains in Non-i.i.d. IMU Data for Flexible User Perception**|Yunzhe Li et.al.|[2501.01598v1](http://arxiv.org/abs/2501.01598v1)|null|
-|**2025-01-02**|**Enhancement of Neural Inertial Regression Networks: A Data-Driven Perspective**|Victoria Khalfin Fekson et.al.|[2501.01327v1](http://arxiv.org/abs/2501.01327v1)|null|
-|**2025-01-02**|**The effect of turbulence, gravity, and non-continuum hydrodynamic interactions on the drop size distribution in clouds**|Johnson Dhanasekaran et.al.|[2501.01086v1](http://arxiv.org/abs/2501.01086v1)|null|
