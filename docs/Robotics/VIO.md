@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-21**|**Globular cluster formation from inertial inflows: accreting extremely massive stars as the origin of abundance anomalies**|Mark Gieles et.al.|[2501.12138v1](http://arxiv.org/abs/2501.12138v1)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|null|
+|**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
+|**2025-01-20**|**Driver Behavior Soft-Sensor Based on Neurofuzzy Systems and Weighted Projection on Principal Components**|Juan Manuel Escaño et.al.|[2501.11338v1](http://arxiv.org/abs/2501.11338v1)|null|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
 |**2025-01-17**|**Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign**|G. F. Swadling et.al.|[2501.10350v1](http://arxiv.org/abs/2501.10350v1)|null|
 |**2025-01-17**|**Tethered Variable Inertial Attitude Control Mechanisms through a Modular Jumping Limbed Robot**|Yusuke Tanaka et.al.|[2501.10156v1](http://arxiv.org/abs/2501.10156v1)|null|
 |**2025-01-17**|**Turbulent scaling law in Ogata Kōrin's Red and White Plum Blossoms**|Takeshi Matsumoto et.al.|[2501.09907v1](http://arxiv.org/abs/2501.09907v1)|null|
@@ -27,8 +32,3 @@
 |**2025-01-08**|**Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition**|Zehui Liu et.al.|[2501.04833v1](http://arxiv.org/abs/2501.04833v1)|null|
 |**2025-01-08**|**KN-LIO: Geometric Kinematics and Neural Field Coupled LiDAR-Inertial Odometry**|Zhong Wang et.al.|[2501.04263v1](http://arxiv.org/abs/2501.04263v1)|null|
 |**2025-01-07**|**Ribbing patterns in inertial rotary drag-out**|J. John Soundar Jerome et.al.|[2501.03956v1](http://arxiv.org/abs/2501.03956v1)|null|
-|**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079v1](http://arxiv.org/abs/2501.03079v1)|[link](https://github.com/i2nav-whu/wheel-gins)|
-|**2025-01-04**|**Tracking Star-Forming Cores as Mass Reservoirs in Clustered and Isolated Regions Using Numerical Passive Tracer Particles**|Shingo Nozaki et.al.|[2501.02225v1](http://arxiv.org/abs/2501.02225v1)|null|
-|**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177v1](http://arxiv.org/abs/2501.02177v1)|null|
-|**2025-01-04**|**A stabilized finite element method for steady Darcy-Brinkman-Forchheimer flow model with different viscous and inertial resistances in porous media**|Hyun Chul Yoon et.al.|[2501.04041v1](http://arxiv.org/abs/2501.04041v1)|null|
-|**2025-01-03**|**Universal Online Temporal Calibration for Optimization-based Visual-Inertial Navigation Systems**|Yunfei Fan et.al.|[2501.01788v1](http://arxiv.org/abs/2501.01788v1)|[link](https://github.com/bytedance/ts_online_optimization)|
