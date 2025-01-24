@@ -10,7 +10,7 @@
 |**2025-01-22**|**VTX: Real-time high-performance molecular structure and dynamics visualization software**|Maxime Maria et.al.|[2501.12750v1](http://arxiv.org/abs/2501.12750v1)|null|
 |**2025-01-22**|**Glow-to-arc transition in graphite cathode with high-current magnetron discharge**|Erwan Morel et.al.|[2501.12701v1](http://arxiv.org/abs/2501.12701v1)|null|
 |**2025-01-22**|**Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models**|Wang Pang et.al.|[2501.12604v1](http://arxiv.org/abs/2501.12604v1)|null|
-|**2025-01-22**|**Enhancing Fault Diagnosis in GWAC: A Monitoring System for Telescope Arrays**|Y. Xu et.al.|[2501.12562v1](http://arxiv.org/abs/2501.12562v1)|null|
+|**2025-01-22**|**Enhancing Fault Diagnosis in GWAC: A Monitoring System for Telescope Arrays**|Y. Xu et.al.|[2501.12562v2](http://arxiv.org/abs/2501.12562v2)|null|
 |**2025-01-21**|**Detection of Unresolved Strongly Lensed Supernovae with 7-Dimensional Telescope**|Elahe Khalouei et.al.|[2501.12525v1](http://arxiv.org/abs/2501.12525v1)|null|
 |**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|null|
 |**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375v2](http://arxiv.org/abs/2501.12375v2)|null|
