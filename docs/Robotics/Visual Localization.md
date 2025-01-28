@@ -2,6 +2,27 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237v1](http://arxiv.org/abs/2501.16237v1)|null|
+|**2025-01-27**|**PDC-ViT : Source Camera Identification using Pixel Difference Convolution and Vision Transformer**|Omar Elharrouss et.al.|[2501.16227v1](http://arxiv.org/abs/2501.16227v1)|null|
+|**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221v1](http://arxiv.org/abs/2501.16221v1)|null|
+|**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146v1](http://arxiv.org/abs/2501.16146v1)|null|
+|**2025-01-27**|**3D Reconstruction of non-visible surfaces of objects from a Single Depth View -- Comparative Study**|Rafał Staszak et.al.|[2501.16101v1](http://arxiv.org/abs/2501.16101v1)|null|
+|**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|null|
+|**2025-01-27**|**Gensors: Authoring Personalized Visual Sensors with Multimodal Foundation Models and Reasoning**|Michael Xieyang Liu et.al.|[2501.15727v1](http://arxiv.org/abs/2501.15727v1)|null|
+|**2025-01-26**|**MimicGait: A Model Agnostic approach for Occluded Gait Recognition using Correlational Knowledge Distillation**|Ayush Gupta et.al.|[2501.15666v1](http://arxiv.org/abs/2501.15666v1)|[link](https://github.com/ayush-00/mimicgait)|
+|**2025-01-26**|**A Privacy Enhancing Technique to Evade Detection by Street Video Cameras Without Using Adversarial Accessories**|Jacob Shams et.al.|[2501.15653v1](http://arxiv.org/abs/2501.15653v1)|null|
+|**2025-01-26**|**Multilevel Browsing of Folksonomy-Based Digital Collections**|Joaquín Gayoso-Cabada et.al.|[2501.15487v1](http://arxiv.org/abs/2501.15487v1)|null|
+|**2025-01-26**|**Query-based versus resource-based cache strategies in tag-based browsing systems**|Joaquín Gayoso-Cabada et.al.|[2501.15481v1](http://arxiv.org/abs/2501.15481v1)|null|
+|**2025-01-26**|**FlatTrack: Eye-tracking with ultra-thin lensless cameras**|Purvam Jain et.al.|[2501.15450v1](http://arxiv.org/abs/2501.15450v1)|null|
+|**2025-01-26**|**FAVbot: An Autonomous Target Tracking Micro-Robot with Frequency Actuation Control**|Zhijian Hao et.al.|[2501.15426v1](http://arxiv.org/abs/2501.15426v1)|null|
+|**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394v1](http://arxiv.org/abs/2501.15394v1)|null|
+|**2025-01-26**|**MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies**|Long Yang et.al.|[2501.15384v1](http://arxiv.org/abs/2501.15384v1)|[link](https://github.com/lucasyang567/metaocc)|
+|**2025-01-25**|**Path Evolution Model for Endogenous Channel Digital Twin towards 6G Wireless Networks**|Haoyu Wang et.al.|[2501.15116v1](http://arxiv.org/abs/2501.15116v1)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096v1](http://arxiv.org/abs/2501.15096v1)|null|
+|**2025-01-25**|**Towards Robust Unsupervised Attention Prediction in Autonomous Driving**|Mengshi Qi et.al.|[2501.15045v1](http://arxiv.org/abs/2501.15045v1)|null|
+|**2025-01-25**|**HuGDiffusion: Generalizable Single-Image Human Rendering via 3D Gaussian Diffusion**|Yingzhi Tang et.al.|[2501.15008v1](http://arxiv.org/abs/2501.15008v1)|null|
+|**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001v1](http://arxiv.org/abs/2501.15001v1)|null|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
 |**2025-01-24**|**Towards Unified Structured Light Optimization**|Tinglei Wan et.al.|[2501.14659v1](http://arxiv.org/abs/2501.14659v1)|null|
 |**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587v1](http://arxiv.org/abs/2501.14587v1)|null|
 |**2025-01-24**|**Optimizing Grasping Precision for Industrial Pick-and-Place Tasks Through a Novel Visual Servoing Approach**|Khairidine Benali et.al.|[2501.14557v1](http://arxiv.org/abs/2501.14557v1)|null|
@@ -11,24 +32,3 @@
 |**2025-01-24**|**Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight**|Angel Romero et.al.|[2501.14377v1](http://arxiv.org/abs/2501.14377v1)|null|
 |**2025-01-23**|**Expanding on the BRIAR Dataset: A Comprehensive Whole Body Biometric Recognition Resource at Extreme Distances and Real-World Scenarios (Collections 1-4)**|Gavin Jager et.al.|[2501.14070v1](http://arxiv.org/abs/2501.14070v1)|null|
 |**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928v1](http://arxiv.org/abs/2501.13928v1)|null|
-|**2025-01-23**|**First Lessons Learned of an Artificial Intelligence Robotic System for Autonomous Coarse Waste Recycling Using Multispectral Imaging-Based Methods**|Timo Lange et.al.|[2501.13855v1](http://arxiv.org/abs/2501.13855v1)|null|
-|**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805v1](http://arxiv.org/abs/2501.13805v1)|[link](https://github.com/whisperyi/mmvr)|
-|**2025-01-23**|**Device-aware Optical Adversarial Attack for a Portable Projector-camera System**|Ning Jiang et.al.|[2501.14005v1](http://arxiv.org/abs/2501.14005v1)|null|
-|**2025-01-23**|**CSAOT: Cooperative Multi-Agent System for Active Object Tracking**|Hy Nguyen et.al.|[2501.13994v1](http://arxiv.org/abs/2501.13994v1)|null|
-|**2025-01-23**|**Emotion estimation from video footage with LSTM**|Samer Attrah et.al.|[2501.13432v1](http://arxiv.org/abs/2501.13432v1)|[link](https://github.com/samir-atra/emotion_estimation_from_video_footage_with_lstm_ml_algorithm)|
-|**2025-01-23**|**Atmospheric Noise-Resilient Image Classification in a Real-World Scenario: Using Hybrid CNN and Pin-GTSVM**|Shlok Mehendale et.al.|[2501.13422v1](http://arxiv.org/abs/2501.13422v1)|null|
-|**2025-01-23**|**Bridging The Multi-Modality Gaps of Audio, Visual and Linguistic for Speech Enhancement**|Meng-Ping Lin et.al.|[2501.13375v1](http://arxiv.org/abs/2501.13375v1)|null|
-|**2025-01-23**|**Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification**|Yuzhuo Li et.al.|[2501.13368v1](http://arxiv.org/abs/2501.13368v1)|null|
-|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335v1](http://arxiv.org/abs/2501.13335v1)|null|
-|**2025-01-23**|**Scalable dataset acquisition for data-driven lensless imaging**|Clara S. Hung et.al.|[2501.13334v1](http://arxiv.org/abs/2501.13334v1)|null|
-|**2025-01-23**|**From Cross-Modal to Mixed-Modal Visible-Infrared Re-Identification**|Mahdi Alehdaghi et.al.|[2501.13307v1](http://arxiv.org/abs/2501.13307v1)|null|
-|**2025-01-22**|**Flying shape and aerodynamics of a full-scale flexible Olympic windsurf sail**|J. Zhang et.al.|[2501.13254v1](http://arxiv.org/abs/2501.13254v1)|null|
-|**2025-01-22**|**MONA: Moving Object Detection from Videos Shot by Dynamic Camera**|Boxun Hu et.al.|[2501.13183v1](http://arxiv.org/abs/2501.13183v1)|null|
-|**2025-01-22**|**A polynomial formula for the perspective four points problem**|David Lehavi et.al.|[2501.13058v1](http://arxiv.org/abs/2501.13058v1)|null|
-|**2025-01-22**|**PreciseCam: Precise Camera Control for Text-to-Image Generation**|Edurne Bernal-Berdun et.al.|[2501.12910v1](http://arxiv.org/abs/2501.12910v1)|null|
-|**2025-01-22**|**FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces**|Zhenran Xu et.al.|[2501.12909v1](http://arxiv.org/abs/2501.12909v1)|null|
-|**2025-01-22**|**DocTTT: Test-Time Training for Handwritten Document Recognition Using Meta-Auxiliary Learning**|Wenhao Gu et.al.|[2501.12898v1](http://arxiv.org/abs/2501.12898v1)|null|
-|**2025-01-22**|**Drone Carrier: An Integrated Unmanned Surface Vehicle for Autonomous Inspection and Intervention in GNSS-Denied Maritime Environment**|Yihao Dong et.al.|[2501.12869v1](http://arxiv.org/abs/2501.12869v1)|null|
-|**2025-01-22**|**VTX: Real-time high-performance molecular structure and dynamics visualization software**|Maxime Maria et.al.|[2501.12750v1](http://arxiv.org/abs/2501.12750v1)|null|
-|**2025-01-22**|**Glow-to-arc transition in graphite cathode with high-current magnetron discharge**|Erwan Morel et.al.|[2501.12701v1](http://arxiv.org/abs/2501.12701v1)|null|
-|**2025-01-22**|**Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models**|Wang Pang et.al.|[2501.12604v1](http://arxiv.org/abs/2501.12604v1)|null|

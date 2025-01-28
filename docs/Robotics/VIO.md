@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-27**|**Time-resolved and Superradiantly Amplified Unruh Signal**|Akhil Deswal et.al.|[2501.16219v1](http://arxiv.org/abs/2501.16219v1)|null|
+|**2025-01-27**|**An FPGA-Based Neuro-Fuzzy Sensor for Personalized Driving Assistance**|Óscar Mata-Carballeira et.al.|[2501.16212v1](http://arxiv.org/abs/2501.16212v1)|null|
+|**2025-01-27**|**Observables for the Effect of Gravity on Electromagnetic Polarization**|Kjell Tangen et.al.|[2501.15846v1](http://arxiv.org/abs/2501.15846v1)|null|
+|**2025-01-27**|**Self-Adapted Josephson Oscillation of Dark-Bright Solitons under Constant Forces**|Ling-Zheng Meng et.al.|[2501.15841v1](http://arxiv.org/abs/2501.15841v1)|null|
+|**2025-01-26**|**AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability**|Yuheng Qiu et.al.|[2501.15659v1](http://arxiv.org/abs/2501.15659v1)|null|
+|**2025-01-26**|**A Machine Learning Approach to Automatic Fall Detection of Combat Soldiers**|Leandro Soares et.al.|[2501.15655v1](http://arxiv.org/abs/2501.15655v1)|null|
+|**2025-01-26**|**Expressive Limits of Quantum Reservoir Computing**|Nils-Erik Schütte et.al.|[2501.15528v1](http://arxiv.org/abs/2501.15528v1)|null|
+|**2025-01-25**|**Turbulence modulation in particle-laden channel flow: the particle inertial effects**|Zi-Mo Liao et.al.|[2501.15230v1](http://arxiv.org/abs/2501.15230v1)|null|
 |**2025-01-24**|**Very Special Relativity: Cherenkov Effect and an Analogy with Minkowski's Electrodynamics of Continuous Media**|I. H. Brevik et.al.|[2501.14409v1](http://arxiv.org/abs/2501.14409v1)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
 |**2025-01-23**|**Influence of inertial confinement on laser-induced bubble generation and shock wave emission**|Xiao-Xuan Liang et.al.|[2501.13749v1](http://arxiv.org/abs/2501.13749v1)|[link](https://github.com/X-X-Liang/LIBDAR)|
@@ -9,6 +17,7 @@
 |**2025-01-23**|**Experimental Realizations of Information Engines: Beyond Proof of Concept**|Rémi Goerlich et.al.|[2501.13593v1](http://arxiv.org/abs/2501.13593v1)|null|
 |**2025-01-23**|**MCRL4OR: Multimodal Contrastive Representation Learning for Off-Road Environmental Perception**|Yi Yang et.al.|[2501.13988v1](http://arxiv.org/abs/2501.13988v1)|[link](https://github.com/1uciusy/mcrl4or)|
 |**2025-01-22**|**Enhanced Proton Acceleration via Petawatt Laguerre-Gaussian Lasers**|Wenpeng Wang et.al.|[2501.12683v1](http://arxiv.org/abs/2501.12683v1)|null|
+|**2025-01-21**|**A causal learning approach to in-orbit inertial parameter estimation for multi-payload deployers**|Konstantinos Platanitis et.al.|[2501.14824v1](http://arxiv.org/abs/2501.14824v1)|null|
 |**2025-01-21**|**Globular cluster formation from inertial inflows: accreting extremely massive stars as the origin of abundance anomalies**|Mark Gieles et.al.|[2501.12138v1](http://arxiv.org/abs/2501.12138v1)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|[link](https://github.com/acfr-rpg/dynosam)|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
@@ -23,12 +32,3 @@
 |**2025-01-15**|**Interplay between tidal flows and magnetic fields in nonlinear simulations of stellar and planetary convective envelopes**|Aurélie Astoul et.al.|[2501.08722v1](http://arxiv.org/abs/2501.08722v1)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
 |**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v2](http://arxiv.org/abs/2501.08659v2)|null|
-|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
-|**2025-01-13**|**Reliable Vertical Ground Reaction Force Estimation with Smart Insole During Walking**|Femi Olugbon et.al.|[2501.07748v1](http://arxiv.org/abs/2501.07748v1)|null|
-|**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
-|**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[2501.07259v2](http://arxiv.org/abs/2501.07259v2)|null|
-|**2025-01-12**|**Collaborative Human Activity Recognition with Passive Inter-Body Electrostatic Field**|Sizhen Bian et.al.|[2501.06940v1](http://arxiv.org/abs/2501.06940v1)|null|
-|**2025-01-11**|**Very Special Relativity in Accelerated Frames: Non-relativistic Effects in Gravitational Spectroscopy of Ultracold Neutrons**|Alessandro Santoni et.al.|[2501.06558v1](http://arxiv.org/abs/2501.06558v1)|null|
-|**2025-01-10**|**Multi-time scale-invariance of turbulence in a shell model**|Alexei A. Mailybaev et.al.|[2501.06321v1](http://arxiv.org/abs/2501.06321v1)|null|
-|**2025-01-10**|**Koopman-Based Model Predictive Control of Functional Electrical Stimulation for Ankle Dorsiflexion and Plantarflexion Assistance**|Mayank Singh et.al.|[2501.05943v1](http://arxiv.org/abs/2501.05943v1)|null|
-|**2025-01-10**|**A Multimodal Dataset for Enhancing Industrial Task Monitoring and Engagement Prediction**|Naval Kishore Mehta et.al.|[2501.05936v1](http://arxiv.org/abs/2501.05936v1)|[link](https://github.com/navalkishoremehta95/miam)|
