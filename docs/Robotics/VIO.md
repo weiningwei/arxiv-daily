@@ -10,7 +10,7 @@
 |**2025-01-23**|**MCRL4OR: Multimodal Contrastive Representation Learning for Off-Road Environmental Perception**|Yi Yang et.al.|[2501.13988v1](http://arxiv.org/abs/2501.13988v1)|[link](https://github.com/1uciusy/mcrl4or)|
 |**2025-01-22**|**Enhanced Proton Acceleration via Petawatt Laguerre-Gaussian Lasers**|Wenpeng Wang et.al.|[2501.12683v1](http://arxiv.org/abs/2501.12683v1)|null|
 |**2025-01-21**|**Globular cluster formation from inertial inflows: accreting extremely massive stars as the origin of abundance anomalies**|Mark Gieles et.al.|[2501.12138v1](http://arxiv.org/abs/2501.12138v1)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|[link](https://github.com/acfr-rpg/dynosam)|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
 |**2025-01-20**|**Driver Behavior Soft-Sensor Based on Neurofuzzy Systems and Weighted Projection on Principal Components**|Juan Manuel Escaño et.al.|[2501.11338v1](http://arxiv.org/abs/2501.11338v1)|null|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|

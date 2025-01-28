@@ -15,7 +15,7 @@
 |**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805v1](http://arxiv.org/abs/2501.13805v1)|[link](https://github.com/whisperyi/mmvr)|
 |**2025-01-23**|**Device-aware Optical Adversarial Attack for a Portable Projector-camera System**|Ning Jiang et.al.|[2501.14005v1](http://arxiv.org/abs/2501.14005v1)|null|
 |**2025-01-23**|**CSAOT: Cooperative Multi-Agent System for Active Object Tracking**|Hy Nguyen et.al.|[2501.13994v1](http://arxiv.org/abs/2501.13994v1)|null|
-|**2025-01-23**|**Emotion estimation from video footage with LSTM**|Samer Attrah et.al.|[2501.13432v1](http://arxiv.org/abs/2501.13432v1)|null|
+|**2025-01-23**|**Emotion estimation from video footage with LSTM**|Samer Attrah et.al.|[2501.13432v1](http://arxiv.org/abs/2501.13432v1)|[link](https://github.com/samir-atra/emotion_estimation_from_video_footage_with_lstm_ml_algorithm)|
 |**2025-01-23**|**Atmospheric Noise-Resilient Image Classification in a Real-World Scenario: Using Hybrid CNN and Pin-GTSVM**|Shlok Mehendale et.al.|[2501.13422v1](http://arxiv.org/abs/2501.13422v1)|null|
 |**2025-01-23**|**Bridging The Multi-Modality Gaps of Audio, Visual and Linguistic for Speech Enhancement**|Meng-Ping Lin et.al.|[2501.13375v1](http://arxiv.org/abs/2501.13375v1)|null|
 |**2025-01-23**|**Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification**|Yuzhuo Li et.al.|[2501.13368v1](http://arxiv.org/abs/2501.13368v1)|null|
