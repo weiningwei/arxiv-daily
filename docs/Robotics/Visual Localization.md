@@ -21,7 +21,7 @@
 |**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096v1](http://arxiv.org/abs/2501.15096v1)|null|
 |**2025-01-25**|**Towards Robust Unsupervised Attention Prediction in Autonomous Driving**|Mengshi Qi et.al.|[2501.15045v1](http://arxiv.org/abs/2501.15045v1)|null|
 |**2025-01-25**|**HuGDiffusion: Generalizable Single-Image Human Rendering via 3D Gaussian Diffusion**|Yingzhi Tang et.al.|[2501.15008v1](http://arxiv.org/abs/2501.15008v1)|null|
-|**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001v1](http://arxiv.org/abs/2501.15001v1)|null|
+|**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001v1](http://arxiv.org/abs/2501.15001v1)|[link](https://github.com/cambrian-org/ACI)|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
 |**2025-01-24**|**Towards Unified Structured Light Optimization**|Tinglei Wan et.al.|[2501.14659v1](http://arxiv.org/abs/2501.14659v1)|null|
 |**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587v1](http://arxiv.org/abs/2501.14587v1)|null|
