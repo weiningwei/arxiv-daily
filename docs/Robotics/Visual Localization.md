@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969v1](http://arxiv.org/abs/2501.16969v1)|null|
+|**2025-01-28**|**Event-Based Adaptive Koopman Framework for Optic Flow-Guided Landing on Moving Platforms**|Bazeela Banday et.al.|[2501.16868v1](http://arxiv.org/abs/2501.16868v1)|null|
+|**2025-01-28**|**Evaluation of new radio occultation observations among small satellites at Venus by data assimilation**|Yukiko Fujisawa et.al.|[2501.16818v1](http://arxiv.org/abs/2501.16818v1)|null|
+|**2025-01-28**|**High-speed imaging and coumarin dosimetry of horn type ultrasonic reactors: influence of probe diameter and amplitude**|Gianmaria Viciconte et.al.|[2501.16812v1](http://arxiv.org/abs/2501.16812v1)|null|
+|**2025-01-28**|**RG-Attn: Radian Glue Attention for Multi-modality Multi-agent Cooperative Perception**|Lantao Li et.al.|[2501.16803v1](http://arxiv.org/abs/2501.16803v1)|null|
+|**2025-01-28**|**Strawberry Robotic Operation Interface: An Open-Source Device for Collecting Dexterous Manipulation Data in Robotic Strawberry Farming**|Linsheng Hou et.al.|[2501.16717v1](http://arxiv.org/abs/2501.16717v1)|null|
+|**2025-01-28**|**SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation**|Jianing Li et.al.|[2501.16684v1](http://arxiv.org/abs/2501.16684v1)|[link](https://github.com/northsummer/sliceocc)|
+|**2025-01-27**|**Euclid preparation. 3-dimensional galaxy clustering in configuration space. Part I. 2-point correlation function estimation**|Euclid Collaboration et.al.|[2501.16555v1](http://arxiv.org/abs/2501.16555v1)|null|
 |**2025-01-27**|**Application of Structured State Space Models to High energy physics with locality-sensitive hashing**|Cheng Jiang et.al.|[2501.16237v1](http://arxiv.org/abs/2501.16237v1)|null|
 |**2025-01-27**|**PDC-ViT : Source Camera Identification using Pixel Difference Convolution and Vision Transformer**|Omar Elharrouss et.al.|[2501.16227v1](http://arxiv.org/abs/2501.16227v1)|null|
 |**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221v1](http://arxiv.org/abs/2501.16221v1)|null|
@@ -24,11 +32,3 @@
 |**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001v1](http://arxiv.org/abs/2501.15001v1)|[link](https://github.com/cambrian-org/ACI)|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
 |**2025-01-24**|**Towards Unified Structured Light Optimization**|Tinglei Wan et.al.|[2501.14659v1](http://arxiv.org/abs/2501.14659v1)|null|
-|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587v1](http://arxiv.org/abs/2501.14587v1)|null|
-|**2025-01-24**|**Optimizing Grasping Precision for Industrial Pick-and-Place Tasks Through a Novel Visual Servoing Approach**|Khairidine Benali et.al.|[2501.14557v1](http://arxiv.org/abs/2501.14557v1)|null|
-|**2025-01-24**|**CheapNVS: Real-Time On-Device Narrow-Baseline Novel View Synthesis**|Konstantinos Georgiadis et.al.|[2501.14533v1](http://arxiv.org/abs/2501.14533v1)|null|
-|**2025-01-24**|**Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**|Faiz Muhammad Chaudhry et.al.|[2501.14510v1](http://arxiv.org/abs/2501.14510v1)|null|
-|**2025-01-24**|**Euclid preparation: Extracting physical parameters from galaxies with machine learning**|Euclid Collaboration et.al.|[2501.14408v1](http://arxiv.org/abs/2501.14408v1)|null|
-|**2025-01-24**|**Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight**|Angel Romero et.al.|[2501.14377v1](http://arxiv.org/abs/2501.14377v1)|null|
-|**2025-01-23**|**Expanding on the BRIAR Dataset: A Comprehensive Whole Body Biometric Recognition Resource at Extreme Distances and Real-World Scenarios (Collections 1-4)**|Gavin Jager et.al.|[2501.14070v1](http://arxiv.org/abs/2501.14070v1)|null|
-|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928v1](http://arxiv.org/abs/2501.13928v1)|null|
