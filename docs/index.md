@@ -1,77 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-02-02 21:16:26 Asia/Shanghai
+ Automated deployment @ 2025-02-03 08:43:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
-
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-29**|**On the stability of viscous three-dimensional rotating Couette flow**|Michele Coti Zelati et.al.|[2501.17735v1](http://arxiv.org/abs/2501.17735v1)|null|
-|**2025-01-29**|**Inertial Bregman Proximal Gradient under Partial Smoothness**|Jean-Jacques Godeme et.al.|[2501.17542v1](http://arxiv.org/abs/2501.17542v1)|null|
-|**2025-01-28**|**Inhomogeneous Electric Fields for Precise Control and Displacement of Polar Textures**|Fernando Gómez-Ortiz et.al.|[2501.17057v1](http://arxiv.org/abs/2501.17057v1)|null|
-|**2025-01-28**|**Asymmetric dual cascade in gravitational wave turbulence**|Benoît Gay et.al.|[2501.17023v1](http://arxiv.org/abs/2501.17023v1)|null|
-|**2025-01-28**|**Lateral migration and bouncing of a deformable bubble rising near a vertical wall. Part 2. Highly inertial regimes**|Pengyu Shi et.al.|[2501.17001v1](http://arxiv.org/abs/2501.17001v1)|null|
-|**2025-01-28**|**Assessing the validity of the anelastic and Boussinesq approximations to model solar inertial modes**|Suprabha Mukhopadhyay et.al.|[2501.16797v1](http://arxiv.org/abs/2501.16797v1)|null|
-|**2025-01-27**|**Time-resolved and Superradiantly Amplified Unruh Signal**|Akhil Deswal et.al.|[2501.16219v1](http://arxiv.org/abs/2501.16219v1)|null|
-|**2025-01-27**|**An FPGA-Based Neuro-Fuzzy Sensor for Personalized Driving Assistance**|Óscar Mata-Carballeira et.al.|[2501.16212v1](http://arxiv.org/abs/2501.16212v1)|null|
-|**2025-01-27**|**Observables for the Effect of Gravity on Electromagnetic Polarization**|Kjell Tangen et.al.|[2501.15846v1](http://arxiv.org/abs/2501.15846v1)|null|
-|**2025-01-27**|**Self-Adapted Josephson Oscillation of Dark-Bright Solitons under Constant Forces**|Ling-Zheng Meng et.al.|[2501.15841v1](http://arxiv.org/abs/2501.15841v1)|null|
-|**2025-01-26**|**AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability**|Yuheng Qiu et.al.|[2501.15659v1](http://arxiv.org/abs/2501.15659v1)|null|
-|**2025-01-26**|**A Machine Learning Approach to Automatic Fall Detection of Combat Soldiers**|Leandro Soares et.al.|[2501.15655v1](http://arxiv.org/abs/2501.15655v1)|[link](https://github.com/AILAB-CEFET-RJ/falldetection)|
-|**2025-01-26**|**Expressive Limits of Quantum Reservoir Computing**|Nils-Erik Schütte et.al.|[2501.15528v1](http://arxiv.org/abs/2501.15528v1)|null|
-|**2025-01-26**|**A Flow-Based Hybrid Approach for Kinetic Plasma Simulations: Bridging Direct Vlasov and Particle Methods**|Bowen Zhu et.al.|[2501.16390v1](http://arxiv.org/abs/2501.16390v1)|null|
-|**2025-01-25**|**Turbulence modulation in particle-laden channel flow: the particle inertial effects**|Zi-Mo Liao et.al.|[2501.15230v1](http://arxiv.org/abs/2501.15230v1)|null|
-|**2025-01-24**|**Very Special Relativity: Cherenkov Effect and an Analogy with Minkowski's Electrodynamics of Continuous Media**|I. H. Brevik et.al.|[2501.14409v1](http://arxiv.org/abs/2501.14409v1)|null|
-|**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
-|**2025-01-23**|**Influence of inertial confinement on laser-induced bubble generation and shock wave emission**|Xiao-Xuan Liang et.al.|[2501.13749v1](http://arxiv.org/abs/2501.13749v1)|[link](https://github.com/X-X-Liang/LIBDAR)|
-|**2025-01-23**|**The vertical shear instability in protoplanetary discs as an outwardly travelling wave. I. Linear theory**|Gordon I. Ogilvie et.al.|[2501.13715v1](http://arxiv.org/abs/2501.13715v1)|null|
-|**2025-01-23**|**Experimental Realizations of Information Engines: Beyond Proof of Concept**|Rémi Goerlich et.al.|[2501.13593v1](http://arxiv.org/abs/2501.13593v1)|null|
-|**2025-01-23**|**MCRL4OR: Multimodal Contrastive Representation Learning for Off-Road Environmental Perception**|Yi Yang et.al.|[2501.13988v1](http://arxiv.org/abs/2501.13988v1)|[link](https://github.com/1uciusy/mcrl4or)|
-|**2025-01-22**|**Enhanced Proton Acceleration via Petawatt Laguerre-Gaussian Lasers**|Wenpeng Wang et.al.|[2501.12683v1](http://arxiv.org/abs/2501.12683v1)|null|
-|**2025-01-21**|**A causal learning approach to in-orbit inertial parameter estimation for multi-payload deployers**|Konstantinos Platanitis et.al.|[2501.14824v1](http://arxiv.org/abs/2501.14824v1)|null|
-|**2025-01-21**|**Globular cluster formation from inertial inflows: accreting extremely massive stars as the origin of abundance anomalies**|Mark Gieles et.al.|[2501.12138v1](http://arxiv.org/abs/2501.12138v1)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|[link](https://github.com/acfr-rpg/dynosam)|
-|**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
-|**2025-01-20**|**Driver Behavior Soft-Sensor Based on Neurofuzzy Systems and Weighted Projection on Principal Components**|Juan Manuel Escaño et.al.|[2501.11338v1](http://arxiv.org/abs/2501.11338v1)|null|
-|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
-|**2025-01-17**|**Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign**|G. F. Swadling et.al.|[2501.10350v1](http://arxiv.org/abs/2501.10350v1)|null|
-|**2025-01-17**|**Tethered Variable Inertial Attitude Control Mechanisms through a Modular Jumping Limbed Robot**|Yusuke Tanaka et.al.|[2501.10156v1](http://arxiv.org/abs/2501.10156v1)|null|
-
-### SLAM
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
-|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
-|**2025-01-24**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486v2](http://arxiv.org/abs/2501.14486v2)|[link](https://github.com/jakemclaughlin6/vlma)|
-|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
-|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|
-|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
-|**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764v1](http://arxiv.org/abs/2501.12764v1)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|[link](https://github.com/acfr-rpg/dynosam)|
-|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
-|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
-|**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950v1](http://arxiv.org/abs/2501.10950v1)|null|
-|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v4](http://arxiv.org/abs/2501.09600v4)|null|
-|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
-|**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203v1](http://arxiv.org/abs/2501.09203v1)|null|
-|**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
-|**2025-01-15**|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
-|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
-|**2025-01-15**|**Self-Organizing Edge Computing Distribution Framework for Visual SLAM**|Jussi Kalliola et.al.|[2501.08629v1](http://arxiv.org/abs/2501.08629v1)|null|
-|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
-|**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399v1](http://arxiv.org/abs/2501.07399v1)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
-|**2025-01-11**|**SP-SLAM: Neural Real-Time Dense SLAM With Scene Priors**|Zhen Hong et.al.|[2501.06469v1](http://arxiv.org/abs/2501.06469v1)|null|
-|**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242v1](http://arxiv.org/abs/2501.05242v1)|null|
-|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|[link](https://github.com/fmm170/slam)|
-|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|[link](https://github.com/xuqingyuan2000/lp-icp)|
-|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|
-|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
-|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
@@ -107,6 +39,40 @@
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887v3](http://arxiv.org/abs/2412.03887v3)|null|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|[link](https://github.com/junhaowang615/mcvo)|
 
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29**|**On the stability of viscous three-dimensional rotating Couette flow**|Michele Coti Zelati et.al.|[2501.17735v1](http://arxiv.org/abs/2501.17735v1)|null|
+|**2025-01-29**|**Inertial Bregman Proximal Gradient under Partial Smoothness**|Jean-Jacques Godeme et.al.|[2501.17542v1](http://arxiv.org/abs/2501.17542v1)|null|
+|**2025-01-28**|**Inhomogeneous Electric Fields for Precise Control and Displacement of Polar Textures**|Fernando Gómez-Ortiz et.al.|[2501.17057v1](http://arxiv.org/abs/2501.17057v1)|null|
+|**2025-01-28**|**Asymmetric dual cascade in gravitational wave turbulence**|Benoît Gay et.al.|[2501.17023v1](http://arxiv.org/abs/2501.17023v1)|null|
+|**2025-01-28**|**Lateral migration and bouncing of a deformable bubble rising near a vertical wall. Part 2. Highly inertial regimes**|Pengyu Shi et.al.|[2501.17001v1](http://arxiv.org/abs/2501.17001v1)|null|
+|**2025-01-28**|**Assessing the validity of the anelastic and Boussinesq approximations to model solar inertial modes**|Suprabha Mukhopadhyay et.al.|[2501.16797v1](http://arxiv.org/abs/2501.16797v1)|null|
+|**2025-01-27**|**Time-resolved and Superradiantly Amplified Unruh Signal**|Akhil Deswal et.al.|[2501.16219v1](http://arxiv.org/abs/2501.16219v1)|null|
+|**2025-01-27**|**An FPGA-Based Neuro-Fuzzy Sensor for Personalized Driving Assistance**|Óscar Mata-Carballeira et.al.|[2501.16212v1](http://arxiv.org/abs/2501.16212v1)|null|
+|**2025-01-27**|**Observables for the Effect of Gravity on Electromagnetic Polarization**|Kjell Tangen et.al.|[2501.15846v1](http://arxiv.org/abs/2501.15846v1)|null|
+|**2025-01-27**|**Self-Adapted Josephson Oscillation of Dark-Bright Solitons under Constant Forces**|Ling-Zheng Meng et.al.|[2501.15841v1](http://arxiv.org/abs/2501.15841v1)|null|
+|**2025-01-26**|**AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability**|Yuheng Qiu et.al.|[2501.15659v1](http://arxiv.org/abs/2501.15659v1)|null|
+|**2025-01-26**|**A Machine Learning Approach to Automatic Fall Detection of Combat Soldiers**|Leandro Soares et.al.|[2501.15655v1](http://arxiv.org/abs/2501.15655v1)|[link](https://github.com/AILAB-CEFET-RJ/falldetection)|
+|**2025-01-26**|**Expressive Limits of Quantum Reservoir Computing**|Nils-Erik Schütte et.al.|[2501.15528v1](http://arxiv.org/abs/2501.15528v1)|null|
+|**2025-01-26**|**A Flow-Based Hybrid Approach for Kinetic Plasma Simulations: Bridging Direct Vlasov and Particle Methods**|Bowen Zhu et.al.|[2501.16390v1](http://arxiv.org/abs/2501.16390v1)|null|
+|**2025-01-25**|**Turbulence modulation in particle-laden channel flow: the particle inertial effects**|Zi-Mo Liao et.al.|[2501.15230v1](http://arxiv.org/abs/2501.15230v1)|null|
+|**2025-01-24**|**Very Special Relativity: Cherenkov Effect and an Analogy with Minkowski's Electrodynamics of Continuous Media**|I. H. Brevik et.al.|[2501.14409v1](http://arxiv.org/abs/2501.14409v1)|null|
+|**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
+|**2025-01-23**|**Influence of inertial confinement on laser-induced bubble generation and shock wave emission**|Xiao-Xuan Liang et.al.|[2501.13749v1](http://arxiv.org/abs/2501.13749v1)|[link](https://github.com/X-X-Liang/LIBDAR)|
+|**2025-01-23**|**The vertical shear instability in protoplanetary discs as an outwardly travelling wave. I. Linear theory**|Gordon I. Ogilvie et.al.|[2501.13715v1](http://arxiv.org/abs/2501.13715v1)|null|
+|**2025-01-23**|**Experimental Realizations of Information Engines: Beyond Proof of Concept**|Rémi Goerlich et.al.|[2501.13593v1](http://arxiv.org/abs/2501.13593v1)|null|
+|**2025-01-23**|**MCRL4OR: Multimodal Contrastive Representation Learning for Off-Road Environmental Perception**|Yi Yang et.al.|[2501.13988v1](http://arxiv.org/abs/2501.13988v1)|[link](https://github.com/1uciusy/mcrl4or)|
+|**2025-01-22**|**Enhanced Proton Acceleration via Petawatt Laguerre-Gaussian Lasers**|Wenpeng Wang et.al.|[2501.12683v1](http://arxiv.org/abs/2501.12683v1)|null|
+|**2025-01-21**|**A causal learning approach to in-orbit inertial parameter estimation for multi-payload deployers**|Konstantinos Platanitis et.al.|[2501.14824v1](http://arxiv.org/abs/2501.14824v1)|null|
+|**2025-01-21**|**Globular cluster formation from inertial inflows: accreting extremely massive stars as the origin of abundance anomalies**|Mark Gieles et.al.|[2501.12138v1](http://arxiv.org/abs/2501.12138v1)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|[link](https://github.com/acfr-rpg/dynosam)|
+|**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
+|**2025-01-20**|**Driver Behavior Soft-Sensor Based on Neurofuzzy Systems and Weighted Projection on Principal Components**|Juan Manuel Escaño et.al.|[2501.11338v1](http://arxiv.org/abs/2501.11338v1)|null|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
+|**2025-01-17**|**Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign**|G. F. Swadling et.al.|[2501.10350v1](http://arxiv.org/abs/2501.10350v1)|null|
+|**2025-01-17**|**Tethered Variable Inertial Attitude Control Mechanisms through a Modular Jumping Limbed Robot**|Yusuke Tanaka et.al.|[2501.10156v1](http://arxiv.org/abs/2501.10156v1)|null|
+
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -140,3 +106,37 @@
 |**2025-01-26**|**FlatTrack: Eye-tracking with ultra-thin lensless cameras**|Purvam Jain et.al.|[2501.15450v1](http://arxiv.org/abs/2501.15450v1)|null|
 |**2025-01-26**|**FAVbot: An Autonomous Target Tracking Micro-Robot with Frequency Actuation Control**|Zhijian Hao et.al.|[2501.15426v1](http://arxiv.org/abs/2501.15426v1)|null|
 |**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394v1](http://arxiv.org/abs/2501.15394v1)|null|
+
+### SLAM
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
+|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
+|**2025-01-24**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486v2](http://arxiv.org/abs/2501.14486v2)|[link](https://github.com/jakemclaughlin6/vlma)|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
+|**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764v1](http://arxiv.org/abs/2501.12764v1)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|[link](https://github.com/acfr-rpg/dynosam)|
+|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
+|**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950v1](http://arxiv.org/abs/2501.10950v1)|null|
+|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v4](http://arxiv.org/abs/2501.09600v4)|null|
+|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
+|**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203v1](http://arxiv.org/abs/2501.09203v1)|null|
+|**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
+|**2025-01-15**|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
+|**2025-01-15**|**Self-Organizing Edge Computing Distribution Framework for Visual SLAM**|Jussi Kalliola et.al.|[2501.08629v1](http://arxiv.org/abs/2501.08629v1)|null|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
+|**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399v1](http://arxiv.org/abs/2501.07399v1)|null|
+|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
+|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
+|**2025-01-11**|**SP-SLAM: Neural Real-Time Dense SLAM With Scene Priors**|Zhen Hong et.al.|[2501.06469v1](http://arxiv.org/abs/2501.06469v1)|null|
+|**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242v1](http://arxiv.org/abs/2501.05242v1)|null|
+|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|[link](https://github.com/fmm170/slam)|
+|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|[link](https://github.com/xuqingyuan2000/lp-icp)|
+|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
+|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
