@@ -19,7 +19,7 @@
 |**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412v1](http://arxiv.org/abs/2501.18412v1)|null|
 |**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585v1](http://arxiv.org/abs/2501.17585v1)|[link](https://github.com/iot-tapor/tapor)|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969v1](http://arxiv.org/abs/2501.16969v1)|null|
-|**2025-01-28**|**Event-Based Adaptive Koopman Framework for Optic Flow-Guided Landing on Moving Platforms**|Bazeela Banday et.al.|[2501.16868v1](http://arxiv.org/abs/2501.16868v1)|null|
+|**2025-01-28**|**Event-Based Adaptive Koopman Framework for Optic Flow-Guided Landing on Moving Platforms**|Bazeela Banday et.al.|[2501.16868v2](http://arxiv.org/abs/2501.16868v2)|null|
 |**2025-01-28**|**Evaluation of new radio occultation observations among small satellites at Venus by data assimilation**|Yukiko Fujisawa et.al.|[2501.16818v1](http://arxiv.org/abs/2501.16818v1)|null|
 |**2025-01-28**|**High-speed imaging and coumarin dosimetry of horn type ultrasonic reactors: influence of probe diameter and amplitude**|Gianmaria Viciconte et.al.|[2501.16812v1](http://arxiv.org/abs/2501.16812v1)|null|
 |**2025-01-28**|**RG-Attn: Radian Glue Attention for Multi-modality Multi-agent Cooperative Perception**|Lantao Li et.al.|[2501.16803v1](http://arxiv.org/abs/2501.16803v1)|null|
