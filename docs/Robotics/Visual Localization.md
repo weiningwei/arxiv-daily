@@ -2,9 +2,17 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-05**|**IRIS: An Immersive Robot Interaction System**|Xinkai Jiang et.al.|[2502.03297v1](http://arxiv.org/abs/2502.03297v1)|null|
+|**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285v1](http://arxiv.org/abs/2502.03285v1)|null|
+|**2025-02-05**|**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent**|Xinyao Liao et.al.|[2502.03207v1](http://arxiv.org/abs/2502.03207v1)|null|
+|**2025-02-05**|**LED there be DoS: Exploiting variable bitrate IP cameras for network DoS**|Emmanuel Goldberg et.al.|[2502.03177v1](http://arxiv.org/abs/2502.03177v1)|null|
+|**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936v1](http://arxiv.org/abs/2502.02936v1)|null|
+|**2025-02-05**|**PoleStack: Robust Pole Estimation of Irregular Objects from Silhouette Stacking**|Jacopo Villa et.al.|[2502.02907v1](http://arxiv.org/abs/2502.02907v1)|null|
+|**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
 |**2025-02-04**|**High-Fidelity Human Avatars from Laptop Webcams using Edge Compute**|Akash Haridas et.al.|[2502.02468v1](http://arxiv.org/abs/2502.02468v1)|null|
 |**2025-02-04**|**Mirai: A Wearable Proactive AI "Inner-Voice" for Contextual Nudging**|Cathy Mengying Fang et.al.|[2502.02370v1](http://arxiv.org/abs/2502.02370v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[2502.02334v1](http://arxiv.org/abs/2502.02334v1)|null|
+|**2025-02-04**|**AIoT-based smart traffic management system**|Ahmed Mahmoud Elbasha et.al.|[2502.02821v1](http://arxiv.org/abs/2502.02821v1)|null|
 |**2025-02-04**|**A Robust Remote Photoplethysmography Method**|Alexey Protopopov et.al.|[2502.02229v1](http://arxiv.org/abs/2502.02229v1)|null|
 |**2025-02-04**|**Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition**|Fei Wang et.al.|[2502.02196v1](http://arxiv.org/abs/2502.02196v1)|null|
 |**2025-02-04**|**EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues**|Rohit Girmaji et.al.|[2502.02172v1](http://arxiv.org/abs/2502.02172v1)|null|
@@ -24,11 +32,3 @@
 |**2025-02-03**|**Neural Cellular Automata for Decentralized Sensing using a Soft Inductive Sensor Array for Distributed Manipulator Systems**|Bailey Dacre et.al.|[2502.01242v1](http://arxiv.org/abs/2502.01242v1)|null|
 |**2025-02-03**|**COVE: COntext and VEracity prediction for out-of-context images**|Jonathan Tonglet et.al.|[2502.01194v1](http://arxiv.org/abs/2502.01194v1)|null|
 |**2025-02-03**|**Towards Agile Swarming in Real World: Onboard Relative Localization with Fast Tracking of Active Blinking Markers**|Tim Felix Lakemann et.al.|[2502.01172v1](http://arxiv.org/abs/2502.01172v1)|null|
-|**2025-02-03**|**Towards Robust and Generalizable Lensless Imaging with Modular Learned Reconstruction**|Eric Bezzam et.al.|[2502.01102v1](http://arxiv.org/abs/2502.01102v1)|null|
-|**2025-02-02**|**Fruit Fly Classification (Diptera: Tephritidae) in Images, Applying Transfer Learning**|Erick Andrew Bustamante Flores et.al.|[2502.00939v1](http://arxiv.org/abs/2502.00939v1)|null|
-|**2025-02-02**|**Error-quantified Conformal Inference for Time Series**|Junxi Wu et.al.|[2502.00818v1](http://arxiv.org/abs/2502.00818v1)|null|
-|**2025-02-02**|**Environment-Driven Online LiDAR-Camera Extrinsic Calibration**|Zhiwei Huang et.al.|[2502.00801v1](http://arxiv.org/abs/2502.00801v1)|null|
-|**2025-02-02**|**An Event-Based Perception Pipeline for a Table Tennis Robot**|Andreas Ziegler et.al.|[2502.00749v1](http://arxiv.org/abs/2502.00749v1)|null|
-|**2025-02-01**|**DeepUKF-VIN: Adaptively-tuned Deep Unscented Kalman Filter for 3D Visual-Inertial Navigation based on IMU-Vision-Net**|Khashayar Ghanizadegan et.al.|[2502.00575v1](http://arxiv.org/abs/2502.00575v1)|null|
-|**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532v1](http://arxiv.org/abs/2502.00532v1)|null|
-|**2025-02-01**|**A framework for river connectivity classification using temporal image processing and attention based neural networks**|Timothy James Becker et.al.|[2502.00474v1](http://arxiv.org/abs/2502.00474v1)|null|
