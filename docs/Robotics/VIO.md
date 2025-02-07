@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-06**|**Consumer INS Coupled with Carrier Phase Measurements for GNSS Spoofing Detection**|Tore Johansson et.al.|[2502.03870v1](http://arxiv.org/abs/2502.03870v1)|null|
+|**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681v1](http://arxiv.org/abs/2502.03681v1)|null|
+|**2025-02-05**|**Stationary multiple euclidon solutions to the vacuum Einstein equations**|Aleksandr A. Shaideman et.al.|[2502.03675v1](http://arxiv.org/abs/2502.03675v1)|null|
+|**2025-02-05**|**Derivation of the Gromeka Acceleration Vector for Dimensionless Womersley Flow**|Khalid Saqr et.al.|[2502.02969v2](http://arxiv.org/abs/2502.02969v2)|[link](https://github.com/KMSaqr/GWCode)|
 |**2025-02-04**|**DOC-Depth: A novel approach for dense depth ground truth generation**|Simon de Moreau et.al.|[2502.02144v1](http://arxiv.org/abs/2502.02144v1)|null|
 |**2025-02-04**|**Collisionless shocks having relativistic velocities in relativistically hot plasmas**|Kamiido Kazuki et.al.|[2502.01948v1](http://arxiv.org/abs/2502.01948v1)|null|
 |**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946v1](http://arxiv.org/abs/2502.01946v1)|null|
@@ -28,7 +32,3 @@
 |**2025-01-27**|**Observables for the Effect of Gravity on Electromagnetic Polarization**|Kjell Tangen et.al.|[2501.15846v1](http://arxiv.org/abs/2501.15846v1)|null|
 |**2025-01-27**|**Self-Adapted Josephson Oscillation of Dark-Bright Solitons under Constant Forces**|Ling-Zheng Meng et.al.|[2501.15841v1](http://arxiv.org/abs/2501.15841v1)|null|
 |**2025-01-26**|**AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability**|Yuheng Qiu et.al.|[2501.15659v1](http://arxiv.org/abs/2501.15659v1)|null|
-|**2025-01-26**|**A Machine Learning Approach to Automatic Fall Detection of Soldiers**|Leandro Soares et.al.|[2501.15655v2](http://arxiv.org/abs/2501.15655v2)|[link](https://github.com/AILAB-CEFET-RJ/falldetection)|
-|**2025-01-26**|**Expressive Limits of Quantum Reservoir Computing**|Nils-Erik Schütte et.al.|[2501.15528v1](http://arxiv.org/abs/2501.15528v1)|null|
-|**2025-01-26**|**A Flow-Based Hybrid Approach for Kinetic Plasma Simulations: Bridging Direct Vlasov and Particle Methods**|Bowen Zhu et.al.|[2501.16390v1](http://arxiv.org/abs/2501.16390v1)|null|
-|**2025-01-25**|**Turbulence modulation in particle-laden channel flow: the particle inertial effects**|Zi-Mo Liao et.al.|[2501.15230v1](http://arxiv.org/abs/2501.15230v1)|null|
