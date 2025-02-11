@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|null|
 |**2025-02-07**|**A Transformation-based Consistent Estimation Framework: Analysis, Design and Applications**|Ning Hao et.al.|[2502.05008v1](http://arxiv.org/abs/2502.05008v1)|null|
 |**2025-02-04**|**DOC-Depth: A novel approach for dense depth ground truth generation**|Simon de Moreau et.al.|[2502.02144v1](http://arxiv.org/abs/2502.02144v1)|null|
 |**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946v1](http://arxiv.org/abs/2502.01946v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466v1](http://arxiv.org/abs/2412.09466v1)|[link](https://github.com/RobustFieldAutonomyLab/Distributional_RL_Decision_and_Control)|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|[link](https://github.com/CIRS-Girona/ecarla-scenes)|
 |**2024-12-12**|**Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909v1](http://arxiv.org/abs/2412.08909v1)|null|
-|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|

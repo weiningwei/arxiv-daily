@@ -2,6 +2,25 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|null|
+|**2025-02-10**|**CHIRLA: Comprehensive High-resolution Identification and Re-identification for Large-scale Analysis**|Bessie Dominguez-Dager et.al.|[2502.06681v1](http://arxiv.org/abs/2502.06681v1)|null|
+|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617v1](http://arxiv.org/abs/2502.06617v1)|null|
+|**2025-02-10**|**SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps**|Ola Shorinwa et.al.|[2502.06519v1](http://arxiv.org/abs/2502.06519v1)|null|
+|**2025-02-10**|**Euclid: A complete Einstein ring in NGC 6505**|C. M. O'Riordan et.al.|[2502.06505v1](http://arxiv.org/abs/2502.06505v1)|null|
+|**2025-02-10**|**Biomechanical Reconstruction with Confidence Intervals from Multiview Markerless Motion Capture**|R. James Cotton et.al.|[2502.06486v1](http://arxiv.org/abs/2502.06486v1)|null|
+|**2025-02-10**|**Group-CLIP Uncertainty Modeling for Group Re-Identification**|Qingxin Zhang et.al.|[2502.06460v1](http://arxiv.org/abs/2502.06460v1)|null|
+|**2025-02-10**|**Comparing Pass-Through Quality of Mixed Reality Devices: A User Experience Study During Real-World Tasks**|Francesco Vona et.al.|[2502.06382v1](http://arxiv.org/abs/2502.06382v1)|null|
+|**2025-02-10**|**Improved Extrinsic Calibration of Acoustic Cameras via Batch Optimization**|Zhi Li et.al.|[2502.06196v1](http://arxiv.org/abs/2502.06196v1)|null|
+|**2025-02-10**|**Discourse-Driven Evaluation: Unveiling Factual Inconsistency in Long Document Summarization**|Yang Zhong et.al.|[2502.06185v1](http://arxiv.org/abs/2502.06185v1)|null|
+|**2025-02-10**|**Portable, High-Frequency, and High-Voltage Control Circuits for Untethered Miniature Robots Driven by Dielectric Elastomer Actuators**|Qi Shao et.al.|[2502.06166v1](http://arxiv.org/abs/2502.06166v1)|null|
+|**2025-02-10**|**Mixed Reality Outperforms Virtual Reality for Remote Error Resolution in Pick-and-Place Tasks**|Advay Kumar et.al.|[2502.06141v1](http://arxiv.org/abs/2502.06141v1)|null|
+|**2025-02-09**|**Study of giant radio galaxies using spectroscopic observations from the Himalayan Chandra Telescope**|Sagar Sethi et.al.|[2502.06068v1](http://arxiv.org/abs/2502.06068v1)|null|
+|**2025-02-09**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|Sourav Sanyal et.al.|[2502.05938v1](http://arxiv.org/abs/2502.05938v1)|null|
+|**2025-02-09**|**Adaptive Grasping of Moving Objects in Dense Clutter via Global-to-Local Detection and Static-to-Dynamic Planning**|Hao Chen et.al.|[2502.05916v1](http://arxiv.org/abs/2502.05916v1)|null|
+|**2025-02-09**|**SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**|Qingsong Yan et.al.|[2502.05859v1](http://arxiv.org/abs/2502.05859v1)|null|
+|**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|null|
+|**2025-02-08**|**Vision-Ultrasound Robotic System based on Deep Learning for Gas and Arc Hazard Detection in Manufacturing**|Jin-Hee Lee et.al.|[2502.05500v1](http://arxiv.org/abs/2502.05500v1)|null|
+|**2025-02-08**|**Characterization of Residual Charge Images in LSST Camera e2v CCDs**|Daniel Polin et.al.|[2502.05418v1](http://arxiv.org/abs/2502.05418v1)|null|
 |**2025-02-07**|**Fillerbuster: Multi-View Scene Completion for Casual Captures**|Ethan Weber et.al.|[2502.05175v1](http://arxiv.org/abs/2502.05175v1)|null|
 |**2025-02-07**|**REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly**|Daniel Sliwowski et.al.|[2502.05086v1](http://arxiv.org/abs/2502.05086v1)|null|
 |**2025-02-07**|**Differentiable Mobile Display Photometric Stereo**|Gawoon Ban et.al.|[2502.05055v1](http://arxiv.org/abs/2502.05055v1)|null|
@@ -13,22 +32,3 @@
 |**2025-02-06**|**An Optimized YOLOv5 Based Approach For Real-time Vehicle Detection At Road Intersections Using Fisheye Cameras**|Md. Jahin Alam et.al.|[2502.04566v1](http://arxiv.org/abs/2502.04566v1)|null|
 |**2025-02-06**|**Debris disks around M dwarfs: The Herschel DEBRIS survey**|Jean-Francois Lestrade et.al.|[2502.04441v1](http://arxiv.org/abs/2502.04441v1)|null|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299v1](http://arxiv.org/abs/2502.04299v1)|null|
-|**2025-02-06**|**Memory-dependent abstractions of stochastic systems through the lens of transfer operators**|Adrien Banse et.al.|[2502.04240v1](http://arxiv.org/abs/2502.04240v1)|null|
-|**2025-02-06**|**3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation**|Yihua Cheng et.al.|[2502.04074v1](http://arxiv.org/abs/2502.04074v1)|null|
-|**2025-02-06**|**Inteligencia artificial para la multi-clasificación de fauna en fotografías automáticas utilizadas en investigación científica**|Federico Gonzalez et.al.|[2502.04064v1](http://arxiv.org/abs/2502.04064v1)|null|
-|**2025-02-06**|**Enhancing people localisation in drone imagery for better crowd management by utilising every pixel in high-resolution images**|Bartosz Ptak et.al.|[2502.04014v1](http://arxiv.org/abs/2502.04014v1)|null|
-|**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901v1](http://arxiv.org/abs/2502.03901v1)|null|
-|**2025-02-05**|**DynVFX: Augmenting Real Videos with Dynamic Content**|Danah Yatim et.al.|[2502.03621v1](http://arxiv.org/abs/2502.03621v1)|null|
-|**2025-02-05**|**MapFusion: A Novel BEV Feature Fusion Network for Multi-modal Map Construction**|Xiaoshuai Hao et.al.|[2502.04377v1](http://arxiv.org/abs/2502.04377v1)|null|
-|**2025-02-05**|**IRIS: An Immersive Robot Interaction System**|Xinkai Jiang et.al.|[2502.03297v1](http://arxiv.org/abs/2502.03297v1)|null|
-|**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285v1](http://arxiv.org/abs/2502.03285v1)|null|
-|**2025-02-05**|**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent**|Xinyao Liao et.al.|[2502.03207v1](http://arxiv.org/abs/2502.03207v1)|null|
-|**2025-02-05**|**LED there be DoS: Exploiting variable bitrate IP cameras for network DoS**|Emmanuel Goldberg et.al.|[2502.03177v1](http://arxiv.org/abs/2502.03177v1)|null|
-|**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936v1](http://arxiv.org/abs/2502.02936v1)|null|
-|**2025-02-05**|**PoleStack: Robust Pole Estimation of Irregular Objects from Silhouette Stacking**|Jacopo Villa et.al.|[2502.02907v1](http://arxiv.org/abs/2502.02907v1)|null|
-|**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361v1](http://arxiv.org/abs/2502.04361v1)|null|
-|**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
-|**2025-02-04**|**High-Fidelity Human Avatars from Laptop Webcams using Edge Compute**|Akash Haridas et.al.|[2502.02468v1](http://arxiv.org/abs/2502.02468v1)|null|
-|**2025-02-04**|**Mirai: A Wearable Proactive AI "Inner-Voice" for Contextual Nudging**|Cathy Mengying Fang et.al.|[2502.02370v1](http://arxiv.org/abs/2502.02370v1)|null|
-|**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[2502.02334v1](http://arxiv.org/abs/2502.02334v1)|[link](https://github.com/pandapan01/evssc)|
-|**2025-02-04**|**AIoT-based smart traffic management system**|Ahmed Mahmoud Elbasha et.al.|[2502.02821v1](http://arxiv.org/abs/2502.02821v1)|null|

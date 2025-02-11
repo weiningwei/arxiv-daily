@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-10**|**Estimation of Food Intake Quantity Using Inertial Signals from Smartwatches**|Ioannis Levi et.al.|[2502.06649v1](http://arxiv.org/abs/2502.06649v1)|null|
+|**2025-02-10**|**Joint parameter and state estimation for regularized time-discrete multibody dynamics**|Hannes Marklund et.al.|[2502.06599v1](http://arxiv.org/abs/2502.06599v1)|null|
+|**2025-02-10**|**CT-UIO: Continuous-Time UWB-Inertial-Odometer Localization Using Non-Uniform B-spline with Fewer Anchors**|Jian Sun et.al.|[2502.06287v1](http://arxiv.org/abs/2502.06287v1)|null|
+|**2025-02-10**|**Turbulence in stratified rotating topographic wakes**|Jinyuan Liu et.al.|[2502.06129v1](http://arxiv.org/abs/2502.06129v1)|null|
+|**2025-02-09**|**Mechanic Modeling and Nonlinear Optimal Control of Actively Articulated Suspension of Mobile Heavy-Duty Manipulators**|Alvaro Paz et.al.|[2502.05972v1](http://arxiv.org/abs/2502.05972v1)|null|
+|**2025-02-09**|**WatchGuardian: Enabling User-Defined Personalized Just-in-Time Intervention on Smartwatch**|Ying Lei et.al.|[2502.05783v1](http://arxiv.org/abs/2502.05783v1)|null|
+|**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|null|
+|**2025-02-08**|**Anomalous Reynolds stress and dynamic mechanisms in two-dimensional elasto-inertial turbulence of viscoelastic channel flow**|Haotian Cheng et.al.|[2502.05522v1](http://arxiv.org/abs/2502.05522v1)|null|
+|**2025-02-07**|**Iterative Schemes for Uniformly Nonconvex Equilibrium Problems**|Oday Hazaimah et.al.|[2502.05302v1](http://arxiv.org/abs/2502.05302v1)|null|
 |**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069v1](http://arxiv.org/abs/2502.05069v1)|null|
 |**2025-02-07**|**A Transformation-based Consistent Estimation Framework: Analysis, Design and Applications**|Ning Hao et.al.|[2502.05008v1](http://arxiv.org/abs/2502.05008v1)|null|
 |**2025-02-07**|**Cooperative Payload Estimation by a Team of Mocobots**|Haoxuan Zhang et.al.|[2502.04600v1](http://arxiv.org/abs/2502.04600v1)|null|
@@ -23,12 +32,3 @@
 |**2025-02-01**|**Derivatives of inertial methods for smooth functions**|Jean-Jacques Godeme et.al.|[2502.00522v1](http://arxiv.org/abs/2502.00522v1)|null|
 |**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[2502.00395v1](http://arxiv.org/abs/2502.00395v1)|[link](https://github.com/tumftm/flexcloud)|
 |**2025-01-31**|**Optical Readout of Coherent Nuclear Spins Beyond the NV Center Electron T$_1$**|Johnathan Kuan et.al.|[2501.19235v1](http://arxiv.org/abs/2501.19235v1)|null|
-|**2025-01-31**|**Convective stability analysis of massive neutron stars formed in binary mergers**|Yong Gao et.al.|[2501.19053v1](http://arxiv.org/abs/2501.19053v1)|null|
-|**2025-01-31**|**Relationship between the power spectral density of the Lagrangian velocity and the hierarchy of coherent vortices in turbulence**|Yusuke Koide et.al.|[2501.18985v1](http://arxiv.org/abs/2501.18985v1)|null|
-|**2025-01-29**|**On the stability of viscous three-dimensional rotating Couette flow**|Michele Coti Zelati et.al.|[2501.17735v1](http://arxiv.org/abs/2501.17735v1)|null|
-|**2025-01-29**|**Inertial Bregman Proximal Gradient under Partial Smoothness**|Jean-Jacques Godeme et.al.|[2501.17542v1](http://arxiv.org/abs/2501.17542v1)|null|
-|**2025-01-28**|**Inhomogeneous Electric Fields for Precise Control and Displacement of Polar Textures**|Fernando Gómez-Ortiz et.al.|[2501.17057v1](http://arxiv.org/abs/2501.17057v1)|null|
-|**2025-01-28**|**Asymmetric dual cascade in gravitational wave turbulence**|Benoît Gay et.al.|[2501.17023v1](http://arxiv.org/abs/2501.17023v1)|null|
-|**2025-01-28**|**Lateral migration and bouncing of a deformable bubble rising near a vertical wall. Part 2. Highly inertial regimes**|Pengyu Shi et.al.|[2501.17001v1](http://arxiv.org/abs/2501.17001v1)|null|
-|**2025-01-28**|**Assessing the validity of the anelastic and Boussinesq approximations to model solar inertial modes**|Suprabha Mukhopadhyay et.al.|[2501.16797v1](http://arxiv.org/abs/2501.16797v1)|null|
-|**2025-01-27**|**Time-resolved and Superradiantly Amplified Unruh Signal**|Akhil Deswal et.al.|[2501.16219v1](http://arxiv.org/abs/2501.16219v1)|null|
