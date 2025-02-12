@@ -26,7 +26,7 @@
 |**2025-02-03**|**Cavity-enhanced solid-state nuclear spin gyroscope**|Hanfeng Wang et.al.|[2502.01769v1](http://arxiv.org/abs/2502.01769v1)|null|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
 |**2025-02-02**|**Inertial Updating with General Information**|Adam Dominiak et.al.|[2502.00958v1](http://arxiv.org/abs/2502.00958v1)|null|
-|**2025-02-02**|**Online Generalized Method of Moments for Time Series**|Man Fung Leung et.al.|[2502.00751v1](http://arxiv.org/abs/2502.00751v1)|[link](https://github.com/SMAC-Group/gmwm)|
+|**2025-02-02**|**Online Generalized Method of Moments for Time Series**|Man Fung Leung et.al.|[2502.00751v1](http://arxiv.org/abs/2502.00751v1)|[link](https://github.com/hemanlmf/gmwm)|
 |**2025-02-02**|**EKF-Based Radar-Inertial Odometry with Online Temporal Calibration**|Changseung Kim et.al.|[2502.00661v1](http://arxiv.org/abs/2502.00661v1)|[link](https://github.com/spearwin/ekf-rio-tc)|
 |**2025-02-01**|**DeepUKF-VIN: Adaptively-tuned Deep Unscented Kalman Filter for 3D Visual-Inertial Navigation based on IMU-Vision-Net**|Khashayar Ghanizadegan et.al.|[2502.00575v1](http://arxiv.org/abs/2502.00575v1)|null|
 |**2025-02-01**|**Derivatives of inertial methods for smooth functions**|Jean-Jacques Godeme et.al.|[2502.00522v1](http://arxiv.org/abs/2502.00522v1)|null|
