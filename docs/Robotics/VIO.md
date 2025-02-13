@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-12**|**Open-Source Factor Graph Optimization Package for GNSS: Examples and Applications**|Taro Suzuki et.al.|[2502.08158v1](http://arxiv.org/abs/2502.08158v1)|null|
+|**2025-02-12**|**Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process**|Wooseong Yang et.al.|[2502.08093v1](http://arxiv.org/abs/2502.08093v1)|null|
 |**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726v1](http://arxiv.org/abs/2502.07726v1)|null|
 |**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703v1](http://arxiv.org/abs/2502.07703v1)|null|
 |**2025-02-10**|**Uniqueness of Weak Solutions for Biot-Stokes Interactions**|George Avalos et.al.|[2502.07061v1](http://arxiv.org/abs/2502.07061v1)|null|
@@ -30,5 +32,3 @@
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
 |**2025-02-02**|**Inertial Updating with General Information**|Adam Dominiak et.al.|[2502.00958v1](http://arxiv.org/abs/2502.00958v1)|null|
 |**2025-02-02**|**Online Generalized Method of Moments for Time Series**|Man Fung Leung et.al.|[2502.00751v1](http://arxiv.org/abs/2502.00751v1)|[link](https://github.com/hemanlmf/gmwm)|
-|**2025-02-02**|**EKF-Based Radar-Inertial Odometry with Online Temporal Calibration**|Changseung Kim et.al.|[2502.00661v1](http://arxiv.org/abs/2502.00661v1)|[link](https://github.com/spearwin/ekf-rio-tc)|
-|**2025-02-01**|**DeepUKF-VIN: Adaptively-tuned Deep Unscented Kalman Filter for 3D Visual-Inertial Navigation based on IMU-Vision-Net**|Khashayar Ghanizadegan et.al.|[2502.00575v1](http://arxiv.org/abs/2502.00575v1)|null|
