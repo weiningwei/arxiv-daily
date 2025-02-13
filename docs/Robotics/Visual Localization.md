@@ -7,11 +7,11 @@
 |**2025-02-11**|**Matrix3D: Large Photogrammetry Model All-in-One**|Yuanxun Lu et.al.|[2502.07685v1](http://arxiv.org/abs/2502.07685v1)|null|
 |**2025-02-11**|**FoQA: A Faroese Question-Answering Dataset**|Annika Simonsen et.al.|[2502.07642v1](http://arxiv.org/abs/2502.07642v1)|null|
 |**2025-02-11**|**An Elliptic Curve Based Solution to the Perspective-Three-Point Problem**|Michael Q. Rieck et.al.|[2502.07564v1](http://arxiv.org/abs/2502.07564v1)|null|
-|**2025-02-11**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531v1](http://arxiv.org/abs/2502.07531v1)|null|
+|**2025-02-11**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531v2](http://arxiv.org/abs/2502.07531v2)|null|
 |**2025-02-11**|**CodePhys: Robust Video-based Remote Physiological Measurement through Latent Codebook Querying**|Shuyang Chu et.al.|[2502.07526v1](http://arxiv.org/abs/2502.07526v1)|null|
 |**2025-02-11**|**Stereograph: Stereoscopic event reconstruction using graph neural networks applied to CTAO**|Hana Ali Messaoud et.al.|[2502.07421v1](http://arxiv.org/abs/2502.07421v1)|null|
 |**2025-02-11**|**Extended monocular 3D imaging**|Zicheng Shen et.al.|[2502.07403v1](http://arxiv.org/abs/2502.07403v1)|null|
-|**2025-02-11**|**Music for All: Exploring Multicultural Representations in Music Generation Models (Camera Ready)**|Atharva Mehta et.al.|[2502.07328v1](http://arxiv.org/abs/2502.07328v1)|null|
+|**2025-02-11**|**Music for All: Exploring Multicultural Representations in Music Generation Models**|Atharva Mehta et.al.|[2502.07328v2](http://arxiv.org/abs/2502.07328v2)|null|
 |**2025-02-11**|**Beyond Confidence: Adaptive Abstention in Dual-Threshold Conformal Prediction for Autonomous System Perception**|Divake Kumar et.al.|[2502.07255v1](http://arxiv.org/abs/2502.07255v1)|null|
 |**2025-02-10**|**AIMS.au: A Dataset for the Analysis of Modern Slavery Countermeasures in Corporate Statements**|Adriana Eufrosiana Bora et.al.|[2502.07022v1](http://arxiv.org/abs/2502.07022v1)|null|
 |**2025-02-10**|**Indoor Light and Heat Estimation from a Single Panorama**|Guanzhou Ji et.al.|[2502.06973v1](http://arxiv.org/abs/2502.06973v1)|null|
@@ -29,6 +29,6 @@
 |**2025-02-10**|**Mixed Reality Outperforms Virtual Reality for Remote Error Resolution in Pick-and-Place Tasks**|Advay Kumar et.al.|[2502.06141v1](http://arxiv.org/abs/2502.06141v1)|null|
 |**2025-02-09**|**Study of giant radio galaxies using spectroscopic observations from the Himalayan Chandra Telescope**|Sagar Sethi et.al.|[2502.06068v1](http://arxiv.org/abs/2502.06068v1)|null|
 |**2025-02-09**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|Sourav Sanyal et.al.|[2502.05938v1](http://arxiv.org/abs/2502.05938v1)|null|
-|**2025-02-09**|**Adaptive Grasping of Moving Objects in Dense Clutter via Global-to-Local Detection and Static-to-Dynamic Planning**|Hao Chen et.al.|[2502.05916v1](http://arxiv.org/abs/2502.05916v1)|null|
+|**2025-02-09**|**Adaptive Grasping of Moving Objects in Dense Clutter via Global-to-Local Detection and Static-to-Dynamic Planning**|Hao Chen et.al.|[2502.05916v2](http://arxiv.org/abs/2502.05916v2)|null|
 |**2025-02-09**|**AI-Driven HSI: Multimodality, Fusion, Challenges, and the Deep Learning Revolution**|David S. Bhatti et.al.|[2502.06894v1](http://arxiv.org/abs/2502.06894v1)|null|
 |**2025-02-09**|**SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**|Qingsong Yan et.al.|[2502.05859v1](http://arxiv.org/abs/2502.05859v1)|null|
