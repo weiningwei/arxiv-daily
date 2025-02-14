@@ -2,12 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-12**|**Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645v1](http://arxiv.org/abs/2502.08645v1)|null|
+|**2025-02-12**|**Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645v2](http://arxiv.org/abs/2502.08645v2)|null|
 |**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639v1](http://arxiv.org/abs/2502.08639v1)|null|
 |**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449v1](http://arxiv.org/abs/2502.08449v1)|null|
 |**2025-02-12**|**Conveyor Line Color Object Sorting using A Monochrome Camera, Colored Light and RGB Filters**|Mason Petersen et.al.|[2502.08419v1](http://arxiv.org/abs/2502.08419v1)|null|
 |**2025-02-12**|**AdvSwap: Covert Adversarial Perturbation with High Frequency Info-swapping for Autonomous Driving Perception**|Yuanhao Huang et.al.|[2502.08374v1](http://arxiv.org/abs/2502.08374v1)|null|
-|**2025-02-12**|**When do they StOP?: A First Step Towards Automatically Identifying Team Communication in the Operating Room**|Keqi Chen et.al.|[2502.08299v1](http://arxiv.org/abs/2502.08299v1)|null|
+|**2025-02-12**|**When do they StOP?: A First Step Towards Automatically Identifying Team Communication in the Operating Room**|Keqi Chen et.al.|[2502.08299v2](http://arxiv.org/abs/2502.08299v2)|null|
 |**2025-02-12**|**TuMag: the tunable magnetograph for the Sunrise III mission**|J. C. del Toro Iniesta et.al.|[2502.08268v1](http://arxiv.org/abs/2502.08268v1)|null|
 |**2025-02-12**|**FloVD: Optical Flow Meets Video Diffusion Model for Enhanced Camera-Controlled Video Synthesis**|Wonjoon Jin et.al.|[2502.08244v1](http://arxiv.org/abs/2502.08244v1)|null|
 |**2025-02-12**|**Plantation Monitoring Using Drone Images: A Dataset and Performance Review**|Yashwanth Karumanchi et.al.|[2502.08233v1](http://arxiv.org/abs/2502.08233v1)|null|
@@ -23,7 +23,7 @@
 |**2025-02-11**|**CodePhys: Robust Video-based Remote Physiological Measurement through Latent Codebook Querying**|Shuyang Chu et.al.|[2502.07526v1](http://arxiv.org/abs/2502.07526v1)|null|
 |**2025-02-11**|**Stereograph: Stereoscopic event reconstruction using graph neural networks applied to CTAO**|Hana Ali Messaoud et.al.|[2502.07421v1](http://arxiv.org/abs/2502.07421v1)|null|
 |**2025-02-11**|**Extended monocular 3D imaging**|Zicheng Shen et.al.|[2502.07403v1](http://arxiv.org/abs/2502.07403v1)|null|
-|**2025-02-11**|**Beyond Confidence: Adaptive Abstention in Dual-Threshold Conformal Prediction for Autonomous System Perception**|Divake Kumar et.al.|[2502.07255v1](http://arxiv.org/abs/2502.07255v1)|null|
+|**2025-02-11**|**Beyond Confidence: Adaptive Abstention in Dual-Threshold Conformal Prediction for Autonomous System Perception**|Divake Kumar et.al.|[2502.07255v2](http://arxiv.org/abs/2502.07255v2)|null|
 |**2025-02-10**|**AIMS.au: A Dataset for the Analysis of Modern Slavery Countermeasures in Corporate Statements**|Adriana Eufrosiana Bora et.al.|[2502.07022v1](http://arxiv.org/abs/2502.07022v1)|null|
 |**2025-02-10**|**Indoor Light and Heat Estimation from a Single Panorama**|Guanzhou Ji et.al.|[2502.06973v1](http://arxiv.org/abs/2502.06973v1)|null|
 |**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|null|
