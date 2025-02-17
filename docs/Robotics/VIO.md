@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-02-13**|**Safety Evaluation of Human Arm Operations Using IMU Sensors with a Spring-Damper-Mass Predictive Model**|Musab Zubair Inamdar et.al.|[2502.09241v1](http://arxiv.org/abs/2502.09241v1)|null|
 |**2025-02-13**|**Sliding dynamics of a particle in a soap film**|Youna Louyer et.al.|[2502.09179v1](http://arxiv.org/abs/2502.09179v1)|null|
-|**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865v1](http://arxiv.org/abs/2502.08865v1)|null|
+|**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865v2](http://arxiv.org/abs/2502.08865v2)|null|
 |**2025-02-12**|**LayeredSense: Hierarchical Recognition of Complex Daily Activities Using Wearable Sensors**|Chak Man Lam et.al.|[2502.08833v1](http://arxiv.org/abs/2502.08833v1)|null|
 |**2025-02-12**|**Unilateral vibration transmission in mechanical systems with bilinear coupling**|Ali Kogani et.al.|[2502.08726v1](http://arxiv.org/abs/2502.08726v1)|null|
 |**2025-02-12**|**Open-Source Factor Graph Optimization Package for GNSS: Examples and Applications**|Taro Suzuki et.al.|[2502.08158v1](http://arxiv.org/abs/2502.08158v1)|null|
