@@ -2,9 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v1](http://arxiv.org/abs/2502.11955v1)|null|
+|**2025-02-17**|**Non-equilibrium distribution function in ultra-fast processes**|K. S. Glavatskiy et.al.|[2502.11530v1](http://arxiv.org/abs/2502.11530v1)|null|
+|**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461v1](http://arxiv.org/abs/2502.11461v1)|null|
+|**2025-02-16**|**A relaxed proximal point algorithm with double-inertial effects for nonconvex equilibrium problems**|Nam Van Tran et.al.|[2502.10986v1](http://arxiv.org/abs/2502.10986v1)|null|
+|**2025-02-16**|**GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**|Zelin Zhou et.al.|[2502.10975v1](http://arxiv.org/abs/2502.10975v1)|null|
+|**2025-02-15**|**SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring**|Hyunchul Lim et.al.|[2502.10830v1](http://arxiv.org/abs/2502.10830v1)|null|
 |**2025-02-14**|**Acceleration noise due to Space Magnetic Field for Heliocentric Gravitational Wave Detector**|Peng Jia-Hui et.al.|[2502.10142v1](http://arxiv.org/abs/2502.10142v1)|null|
 |**2025-02-14**|**On Self-Propulsion by Oscillations in a Viscous Liquid**|Giovanni P. Galdi et.al.|[2502.10009v1](http://arxiv.org/abs/2502.10009v1)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795v1](http://arxiv.org/abs/2502.09795v1)|null|
+|**2025-02-13**|**Safe Multi-agent Satellite Servicing with Control Barrier Functions**|Deep Parikh et.al.|[2502.10480v1](http://arxiv.org/abs/2502.10480v1)|null|
 |**2025-02-13**|**Safety Evaluation of Human Arm Operations Using IMU Sensors with a Spring-Damper-Mass Predictive Model**|Musab Zubair Inamdar et.al.|[2502.09241v1](http://arxiv.org/abs/2502.09241v1)|null|
 |**2025-02-13**|**Sliding dynamics of a particle in a soap film**|Youna Louyer et.al.|[2502.09179v1](http://arxiv.org/abs/2502.09179v1)|null|
 |**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865v2](http://arxiv.org/abs/2502.08865v2)|null|
@@ -25,10 +32,3 @@
 |**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|[link](https://github.com/PRBonn/PINGS)|
 |**2025-02-08**|**Anomalous Reynolds stress and dynamic mechanisms in two-dimensional elasto-inertial turbulence of viscoelastic channel flow**|Haotian Cheng et.al.|[2502.05522v1](http://arxiv.org/abs/2502.05522v1)|null|
 |**2025-02-07**|**Iterative Schemes for Uniformly Nonconvex Equilibrium Problems**|Oday Hazaimah et.al.|[2502.05302v1](http://arxiv.org/abs/2502.05302v1)|null|
-|**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069v1](http://arxiv.org/abs/2502.05069v1)|null|
-|**2025-02-07**|**A Transformation-based Consistent Estimation Framework: Analysis, Design and Applications**|Ning Hao et.al.|[2502.05008v1](http://arxiv.org/abs/2502.05008v1)|null|
-|**2025-02-07**|**Cooperative Payload Estimation by a Team of Mocobots**|Haoxuan Zhang et.al.|[2502.04600v1](http://arxiv.org/abs/2502.04600v1)|null|
-|**2025-02-07**|**Intermittent, Reflection-Driven, Strong Imbalanced MHD Turbulence**|B. D. G. Chandran et.al.|[2502.04585v1](http://arxiv.org/abs/2502.04585v1)|null|
-|**2025-02-06**|**Consumer INS Coupled with Carrier Phase Measurements for GNSS Spoofing Detection**|Tore Johansson et.al.|[2502.03870v1](http://arxiv.org/abs/2502.03870v1)|null|
-|**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681v1](http://arxiv.org/abs/2502.03681v1)|null|
-|**2025-02-05**|**Stationary multiple euclidon solutions to the vacuum Einstein equations**|Aleksandr A. Shaideman et.al.|[2502.03675v1](http://arxiv.org/abs/2502.03675v1)|null|
