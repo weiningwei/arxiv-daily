@@ -20,7 +20,7 @@
 |**2025-02-13**|**EventSTR: A Benchmark Dataset and Baselines for Event Stream based Scene Text Recognition**|Xiao Wang et.al.|[2502.09020v1](http://arxiv.org/abs/2502.09020v1)|[link](https://github.com/event-ahu/eventstr)|
 |**2025-02-13**|**CoL3D: Collaborative Learning of Single-view Depth and Camera Intrinsics for Metric 3D Shape Recovery**|Chenghao Zhang et.al.|[2502.08902v1](http://arxiv.org/abs/2502.08902v1)|null|
 |**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865v2](http://arxiv.org/abs/2502.08865v2)|null|
-|**2025-02-12**|**Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645v2](http://arxiv.org/abs/2502.08645v2)|null|
+|**2025-02-12**|**Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645v3](http://arxiv.org/abs/2502.08645v3)|null|
 |**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639v1](http://arxiv.org/abs/2502.08639v1)|null|
 |**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449v1](http://arxiv.org/abs/2502.08449v1)|null|
 |**2025-02-12**|**Conveyor Line Color Object Sorting using A Monochrome Camera, Colored Light and RGB Filters**|Mason Petersen et.al.|[2502.08419v1](http://arxiv.org/abs/2502.08419v1)|null|
