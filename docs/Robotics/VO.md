@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|null|
 |**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461v1](http://arxiv.org/abs/2502.11461v1)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795v1](http://arxiv.org/abs/2502.09795v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880v1](http://arxiv.org/abs/2412.16880v1)|null|
 |**2024-12-19**|**Classification of Linear Observed Systems on Multi-Frame Groups via Automorphisms**|Changwu Liu et.al.|[2412.14673v1](http://arxiv.org/abs/2412.14673v1)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
-|**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873v1](http://arxiv.org/abs/2412.13873v1)|[link](https://github.com/kafeiyin00/ua-mpc)|

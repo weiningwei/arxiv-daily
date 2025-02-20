@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19**|**A Training-Free Framework for Precise Mobile Manipulation of Small Everyday Objects**|Arjun Gupta et.al.|[2502.13964v1](http://arxiv.org/abs/2502.13964v1)|null|
+|**2025-02-19**|**Multi-view Video-Pose Pretraining for Operating Room Surgical Activity Recognition**|Idris Hamoud et.al.|[2502.13883v1](http://arxiv.org/abs/2502.13883v1)|null|
+|**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863v1](http://arxiv.org/abs/2502.13863v1)|null|
+|**2025-02-19**|**Event-Based Video Frame Interpolation With Cross-Modal Asymmetric Bidirectional Motion Fields**|Taewoo Kim et.al.|[2502.13716v1](http://arxiv.org/abs/2502.13716v1)|[link](https://github.com/intelpro/cbmnet)|
+|**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385v1](http://arxiv.org/abs/2502.13385v1)|null|
+|**2025-02-18**|**PCB Renewal: Iterative Reuse of PCB Substrates for Sustainable Electronic Making**|Zeyu Yan et.al.|[2502.13255v1](http://arxiv.org/abs/2502.13255v1)|null|
+|**2025-02-18**|**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching**|Yen-Siang Wu et.al.|[2502.13234v1](http://arxiv.org/abs/2502.13234v1)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196v1](http://arxiv.org/abs/2502.13196v1)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
 |**2025-02-18**|**Mean of Means: Human Localization with Calibration-free and Unconstrained Camera Settings (extended version)**|Tianyi Zhang et.al.|[2502.13017v1](http://arxiv.org/abs/2502.13017v1)|null|
 |**2025-02-18**|**Instance-Level Moving Object Segmentation from a Single Image with Events**|Zhexiong Wan et.al.|[2502.12975v1](http://arxiv.org/abs/2502.12975v1)|null|
@@ -24,11 +32,3 @@
 |**2025-02-17**|**A very young tau-Herculid meteor cluster observed during a 2022 shower outburst**|Pavel Koten et.al.|[2502.11580v1](http://arxiv.org/abs/2502.11580v1)|null|
 |**2025-02-17**|**Mind the GAP: Geometry Aware Passthrough Mitigates Cybersickness**|Trishia El Chemaly et.al.|[2502.11497v1](http://arxiv.org/abs/2502.11497v1)|null|
 |**2025-02-16**|**Leveraging Multimodal-LLMs Assisted by Instance Segmentation for Intelligent Traffic Monitoring**|Murat Arda Onsu et.al.|[2502.11304v1](http://arxiv.org/abs/2502.11304v1)|null|
-|**2025-02-16**|**MC-BEVRO: Multi-Camera Bird Eye View Road Occupancy Detection for Traffic Monitoring**|Arpitsinh Vaghela et.al.|[2502.11287v1](http://arxiv.org/abs/2502.11287v1)|null|
-|**2025-02-16**|**BFA: Best-Feature-Aware Fusion for Multi-View Fine-grained Manipulation**|Zihan Lan et.al.|[2502.11161v2](http://arxiv.org/abs/2502.11161v2)|null|
-|**2025-02-16**|**GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**|Zelin Zhou et.al.|[2502.10975v1](http://arxiv.org/abs/2502.10975v1)|null|
-|**2025-02-15**|**Mobile Robotic Multi-View Photometric Stereo**|Suryansh Kumar et.al.|[2502.10842v1](http://arxiv.org/abs/2502.10842v1)|null|
-|**2025-02-15**|**E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting**|Sohaib Zahid et.al.|[2502.10827v1](http://arxiv.org/abs/2502.10827v1)|null|
-|**2025-02-14**|**Quantifying the Impact of Motion on 2D Gaze Estimation in Real-World Mobile Interactions**|Yaxiong Lei et.al.|[2502.10570v1](http://arxiv.org/abs/2502.10570v1)|null|
-|**2025-02-14**|**MITO: Enabling Non-Line-of-Sight Perception using Millimeter-waves through Real-World Datasets and Simulation Tools**|Laura Dodds et.al.|[2502.10259v1](http://arxiv.org/abs/2502.10259v1)|null|
-|**2025-02-14**|**Exploring the Camera Bias of Person Re-identification**|Myungseo Song et.al.|[2502.10195v1](http://arxiv.org/abs/2502.10195v1)|null|
