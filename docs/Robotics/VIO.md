@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-02-17**|**Large-scale clustering of inertial particles in a rotating, stratified and inhomogeneous turbulence**|Nathan Kleeorin et.al.|[2502.12316v1](http://arxiv.org/abs/2502.12316v1)|null|
-|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v1](http://arxiv.org/abs/2502.11955v1)|null|
+|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|null|
 |**2025-02-17**|**Non-equilibrium distribution function in ultra-fast processes**|K. S. Glavatskiy et.al.|[2502.11530v1](http://arxiv.org/abs/2502.11530v1)|null|
 |**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461v1](http://arxiv.org/abs/2502.11461v1)|null|
 |**2025-02-16**|**A relaxed proximal point algorithm with double-inertial effects for nonconvex equilibrium problems**|Nam Van Tran et.al.|[2502.10986v1](http://arxiv.org/abs/2502.10986v1)|null|
