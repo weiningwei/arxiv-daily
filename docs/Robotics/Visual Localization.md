@@ -10,7 +10,7 @@
 |**2025-02-20**|**LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera**|Weiyi Xiong et.al.|[2502.14503v1](http://arxiv.org/abs/2502.14503v1)|null|
 |**2025-02-20**|**COSMIC-S: a photometric Catalogue of Observed Stars in the Small MagellanIc Cloud**|A. Franco et.al.|[2502.14470v1](http://arxiv.org/abs/2502.14470v1)|null|
 |**2025-02-20**|**Exploiting Deblurring Networks for Radiance Fields**|Haeyun Choi et.al.|[2502.14454v1](http://arxiv.org/abs/2502.14454v1)|null|
-|**2025-02-20**|**MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields**|Paul Friedrich et.al.|[2502.14401v1](http://arxiv.org/abs/2502.14401v1)|null|
+|**2025-02-20**|**MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields**|Paul Friedrich et.al.|[2502.14401v1](http://arxiv.org/abs/2502.14401v1)|[link](https://github.com/pfriedri/medfuncta)|
 |**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng et.al.|[2502.14279v1](http://arxiv.org/abs/2502.14279v1)|null|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235v1](http://arxiv.org/abs/2502.14235v1)|null|
 |**2025-02-20**|**Efficient Inverse Multiagent Learning**|Denizalp Goktas et.al.|[2502.14160v1](http://arxiv.org/abs/2502.14160v1)|null|
