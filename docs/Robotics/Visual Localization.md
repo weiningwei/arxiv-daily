@@ -19,7 +19,7 @@
 |**2025-02-18**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545v2](http://arxiv.org/abs/2502.12545v2)|null|
 |**2025-02-18**|**Multi-vision-based Picking Point Localisation of Target Fruit for Harvesting Robots**|C. Beldek et.al.|[2502.12406v1](http://arxiv.org/abs/2502.12406v1)|null|
 |**2025-02-17**|**An a posteriori data-driven method for phase-averaged optical measurements**|Enrico Amico et.al.|[2502.12369v2](http://arxiv.org/abs/2502.12369v2)|null|
-|**2025-02-17**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138v1](http://arxiv.org/abs/2502.12138v1)|null|
+|**2025-02-17**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138v2](http://arxiv.org/abs/2502.12138v2)|null|
 |**2025-02-17**|**A Monocular Event-Camera Motion Capture System**|Leonard Bauersfeld et.al.|[2502.12113v1](http://arxiv.org/abs/2502.12113v1)|null|
 |**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080v1](http://arxiv.org/abs/2502.12080v1)|null|
 |**2025-02-17**|**A novel method to determine the layer number of 2D TMD materials based on Optical Microscopy and Image Processing**|Bilal Bera Meric et.al.|[2502.11970v1](http://arxiv.org/abs/2502.11970v1)|null|
