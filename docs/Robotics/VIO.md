@@ -2,7 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**Miniaturized optical system for a chip based cold atom inertial sensor**|S. Hello et.al.|[2502.15537v1](http://arxiv.org/abs/2502.15537v1)|null|
+|**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452v1](http://arxiv.org/abs/2502.15452v1)|null|
+|**2025-02-21**|**Evidence for magnetic crystallization waves at the surface of $^3$He crystal**|Igor Todoshchenko et.al.|[2502.15404v1](http://arxiv.org/abs/2502.15404v1)|null|
+|**2025-02-20**|**FIP: Endowing Robust Motion Capture on Daily Garment by Fusing Flex and Inertial Sensors**|Jiawei Fang et.al.|[2502.15058v1](http://arxiv.org/abs/2502.15058v1)|null|
+|**2025-02-20**|**A Quasi-Analytical Solution for "Carreau-Yasuda-like" Shear-thinning Fluids Flowing in Slightly Tapered Pipes**|Gianluca Santesarti et.al.|[2502.14991v1](http://arxiv.org/abs/2502.14991v1)|null|
+|**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942v1](http://arxiv.org/abs/2502.14942v1)|null|
 |**2025-02-20**|**Dragging of inertial frames in the composed Kerr-Newman-orbiting-ring system**|Shahar Hod et.al.|[2502.14310v1](http://arxiv.org/abs/2502.14310v1)|null|
+|**2025-02-19**|**Prediction of the Received Power of Low-Power Networks Using Inertial Sensors**|Waltenegus Dargie et.al.|[2502.14107v2](http://arxiv.org/abs/2502.14107v2)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-19**|**Global existence for a nonisothermal and conserved phase field system with inertial term**|Pierluigi Colli et.al.|[2502.13600v1](http://arxiv.org/abs/2502.13600v1)|null|
 |**2025-02-17**|**Large-scale clustering of inertial particles in a rotating, stratified and inhomogeneous turbulence**|Nathan Kleeorin et.al.|[2502.12316v1](http://arxiv.org/abs/2502.12316v1)|null|
@@ -25,10 +32,3 @@
 |**2025-02-12**|**Open-Source Factor Graph Optimization Package for GNSS: Examples and Applications**|Taro Suzuki et.al.|[2502.08158v1](http://arxiv.org/abs/2502.08158v1)|[link](https://github.com/taroz/gtsam_gnss)|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676v1](http://arxiv.org/abs/2502.08676v1)|[link](https://github.com/IF-A-CAT/LIR-LIVO)|
 |**2025-02-12**|**Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process**|Wooseong Yang et.al.|[2502.08093v1](http://arxiv.org/abs/2502.08093v1)|[link](https://github.com/wooseongy/go-rio)|
-|**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726v1](http://arxiv.org/abs/2502.07726v1)|null|
-|**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703v2](http://arxiv.org/abs/2502.07703v2)|[link](https://github.com/chiyunnoh/garlio)|
-|**2025-02-10**|**Uniqueness of Weak Solutions for Biot-Stokes Interactions**|George Avalos et.al.|[2502.07061v1](http://arxiv.org/abs/2502.07061v1)|null|
-|**2025-02-10**|**Estimation of Food Intake Quantity Using Inertial Signals from Smartwatches**|Ioannis Levi et.al.|[2502.06649v1](http://arxiv.org/abs/2502.06649v1)|null|
-|**2025-02-10**|**Joint parameter and state estimation for regularized time-discrete multibody dynamics**|Hannes Marklund et.al.|[2502.06599v1](http://arxiv.org/abs/2502.06599v1)|null|
-|**2025-02-10**|**CT-UIO: Continuous-Time UWB-Inertial-Odometer Localization Using Non-Uniform B-spline with Fewer Anchors**|Jian Sun et.al.|[2502.06287v1](http://arxiv.org/abs/2502.06287v1)|[link](https://github.com/jasonsun623/ct-uio)|
-|**2025-02-10**|**Turbulence in stratified rotating topographic wakes**|Jinyuan Liu et.al.|[2502.06129v1](http://arxiv.org/abs/2502.06129v1)|null|
