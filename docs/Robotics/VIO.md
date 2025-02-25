@@ -31,4 +31,4 @@
 |**2025-02-12**|**Unilateral vibration transmission in mechanical systems with bilinear coupling**|Ali Kogani et.al.|[2502.08726v1](http://arxiv.org/abs/2502.08726v1)|null|
 |**2025-02-12**|**Open-Source Factor Graph Optimization Package for GNSS: Examples and Applications**|Taro Suzuki et.al.|[2502.08158v1](http://arxiv.org/abs/2502.08158v1)|[link](https://github.com/taroz/gtsam_gnss)|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676v1](http://arxiv.org/abs/2502.08676v1)|[link](https://github.com/IF-A-CAT/LIR-LIVO)|
-|**2025-02-12**|**Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process**|Wooseong Yang et.al.|[2502.08093v1](http://arxiv.org/abs/2502.08093v1)|[link](https://github.com/wooseongy/go-rio)|
+|**2025-02-12**|**Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process**|Wooseong Yang et.al.|[2502.08093v2](http://arxiv.org/abs/2502.08093v2)|[link](https://github.com/wooseongy/go-rio)|
