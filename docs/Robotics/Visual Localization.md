@@ -6,7 +6,7 @@
 |**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399v1](http://arxiv.org/abs/2502.17399v1)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
 |**2025-02-24**|**CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping**|Yufei Lu et.al.|[2502.17249v1](http://arxiv.org/abs/2502.17249v1)|null|
-|**2025-02-24**|**Tidiness Score-Guided Monte Carlo Tree Search for Visual Tabletop Rearrangement**|Hogun Kee et.al.|[2502.17235v1](http://arxiv.org/abs/2502.17235v1)|null|
+|**2025-02-24**|**Tidiness Score-Guided Monte Carlo Tree Search for Visual Tabletop Rearrangement**|Hogun Kee et.al.|[2502.17235v1](http://arxiv.org/abs/2502.17235v1)|[link](https://github.com/rllab-snu/ttu-dataset)|
 |**2025-02-24**|**Imprinto: Enhancing Infrared Inkjet Watermarking for Human and Machine Perception**|Martin Feick et.al.|[2502.17089v1](http://arxiv.org/abs/2502.17089v1)|null|
 |**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039v1](http://arxiv.org/abs/2502.17039v1)|null|
 |**2025-02-24**|**Gaussian Difference: Find Any Change Instance in 3D Scenes**|Binbin Jiang et.al.|[2502.16941v1](http://arxiv.org/abs/2502.16941v1)|null|
@@ -26,7 +26,7 @@
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|null|
 |**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452v1](http://arxiv.org/abs/2502.15452v1)|null|
 |**2025-02-21**|**Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion**|Tongyu Nie et.al.|[2502.15227v1](http://arxiv.org/abs/2502.15227v1)|null|
-|**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180v1](http://arxiv.org/abs/2502.15180v1)|null|
+|**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180v1](http://arxiv.org/abs/2502.15180v1)|[link](https://github.com/jlchen-c/occprophet)|
 |**2025-02-20**|**Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing**|Haoyang Wang et.al.|[2502.14992v1](http://arxiv.org/abs/2502.14992v1)|null|
 |**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780v1](http://arxiv.org/abs/2502.14780v1)|null|
 |**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942v1](http://arxiv.org/abs/2502.14942v1)|null|
