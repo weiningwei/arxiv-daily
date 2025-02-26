@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-25**|**S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**|Hriday Bavle et.al.|[2502.18044v1](http://arxiv.org/abs/2502.18044v1)|null|
 |**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|[link](https://github.com/gmberton/megaloc)|
 |**2025-02-24**|**SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**|Haoming Huang et.al.|[2502.16856v1](http://arxiv.org/abs/2502.16856v1)|null|
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495v1](http://arxiv.org/abs/2502.16495v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
 |**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
 |**2025-01-24**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486v2](http://arxiv.org/abs/2501.14486v2)|[link](https://github.com/jakemclaughlin6/vlma)|
-|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|

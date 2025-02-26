@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-25**|**EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**|Dominik Hollidt et.al.|[2502.18373v1](http://arxiv.org/abs/2502.18373v1)|null|
+|**2025-02-25**|**BRIDO: Bringing Democratic Order to Abstractive Summarization**|Junhyun Lee et.al.|[2502.18342v1](http://arxiv.org/abs/2502.18342v1)|null|
+|**2025-02-25**|**Seeing the unseen: laser speckles as a tool for coagulation tracking**|Christoph Haessig et.al.|[2502.18106v1](http://arxiv.org/abs/2502.18106v1)|null|
+|**2025-02-25**|**High-precision visual navigation device calibration method based on collimator**|Shunkun Liang et.al.|[2502.18012v1](http://arxiv.org/abs/2502.18012v1)|null|
+|**2025-02-25**|**Shedding Light on the Polymer's Identity: Microplastic Detection and Identification Through Nile Red Staining and Multispectral Imaging (FIMAP)**|Derek Ho et.al.|[2502.17997v1](http://arxiv.org/abs/2502.17997v1)|null|
+|**2025-02-24**|**The DECADE cosmic shear project IV: cosmological constraints from 107 million galaxies across 5,400 deg$^2$ of the sky**|D. Anbajagane et.al.|[2502.17677v1](http://arxiv.org/abs/2502.17677v1)|null|
+|**2025-02-24**|**The DECADE cosmic shear project III: validation of analysis pipeline using spatially inhomogeneous data**|D. Anbajagane et.al.|[2502.17676v1](http://arxiv.org/abs/2502.17676v1)|null|
+|**2025-02-24**|**The DECADE cosmic shear project II: photometric redshift calibration of the source galaxy sample**|D. Anbajagane et.al.|[2502.17675v1](http://arxiv.org/abs/2502.17675v1)|null|
+|**2025-02-24**|**The DECADE cosmic shear project I: A new weak lensing shape catalog of 107 million galaxies**|D. Anbajagane et.al.|[2502.17674v1](http://arxiv.org/abs/2502.17674v1)|null|
+|**2025-02-24**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Chenga et.al.|[2502.17648v1](http://arxiv.org/abs/2502.17648v1)|null|
 |**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435v1](http://arxiv.org/abs/2502.17435v1)|null|
 |**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399v1](http://arxiv.org/abs/2502.17399v1)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
@@ -22,13 +32,3 @@
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
 |**2025-02-21**|**Continual Person Identification using Footstep-Induced Floor Vibrations on Heterogeneous Floor Structures**|Yiwen Dong et.al.|[2502.15632v1](http://arxiv.org/abs/2502.15632v1)|null|
 |**2025-02-21**|**WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents**|Xinhang Liu et.al.|[2502.15601v1](http://arxiv.org/abs/2502.15601v1)|null|
-|**2025-02-21**|**Euclid: Galaxy morphology and photometry from bulge-disc decomposition of Early Release Observations**|L. Quilley et.al.|[2502.15581v1](http://arxiv.org/abs/2502.15581v1)|null|
-|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|null|
-|**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452v1](http://arxiv.org/abs/2502.15452v1)|null|
-|**2025-02-21**|**Peripheral Teleportation: A Rest Frame Design to Mitigate Cybersickness During Virtual Locomotion**|Tongyu Nie et.al.|[2502.15227v1](http://arxiv.org/abs/2502.15227v1)|null|
-|**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180v1](http://arxiv.org/abs/2502.15180v1)|[link](https://github.com/jlchen-c/occprophet)|
-|**2025-02-20**|**Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing**|Haoyang Wang et.al.|[2502.14992v1](http://arxiv.org/abs/2502.14992v1)|null|
-|**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780v1](http://arxiv.org/abs/2502.14780v1)|null|
-|**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942v1](http://arxiv.org/abs/2502.14942v1)|null|
-|**2025-02-20**|**H$α$ Variability of AB Aur b with the Hubble Space Telescope: Probing the Nature of a Protoplanet Candidate with Accretion Light Echoes**|Brendan P. Bowler et.al.|[2502.14736v1](http://arxiv.org/abs/2502.14736v1)|null|
-|**2025-02-20**|**A Millimeter-Wave Photometric Camera for Long-Range Imaging Through Optical Obscurants Using Kinetic Inductance Detectors**|Jack Sayers et.al.|[2502.14607v1](http://arxiv.org/abs/2502.14607v1)|null|
