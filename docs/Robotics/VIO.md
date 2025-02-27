@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-26**|**Quantum-Corrected Gravitational Interaction Incorporated with a Non-inertial Cosmic String Spacetime**|M. Baradaran et.al.|[2502.19332v1](http://arxiv.org/abs/2502.19332v1)|null|
+|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|null|
+|**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237v1](http://arxiv.org/abs/2502.19237v1)|null|
+|**2025-02-26**|**Measurement of Neutron Whispering Gallery States Using a Pulsed Neutron Beam**|Go Ichikawa et.al.|[2502.18936v1](http://arxiv.org/abs/2502.18936v1)|null|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
+|**2025-02-25**|**Perturbative and non-linear analyses of gravitational turbulence in spacetimes with stable light rings**|Jaime Redondo-Yuste et.al.|[2502.18643v1](http://arxiv.org/abs/2502.18643v1)|null|
 |**2025-02-25**|**Quadrotor Neural Dead Reckoning in Periodic Trajectories**|Shira Massas et.al.|[2502.17964v1](http://arxiv.org/abs/2502.17964v1)|null|
 |**2025-02-24**|**Evolution of the near-core rotation frequency of 2,497 intermediate-mass stars from their dominant gravito-inertial mode**|Conny Aerts et.al.|[2502.17692v1](http://arxiv.org/abs/2502.17692v1)|null|
 |**2025-02-24**|**Measurement of energy reduction by inertial Alfvén waves propagating through parallel gradients in the Alfvén speed**|Garima Joshi et.al.|[2502.17663v1](http://arxiv.org/abs/2502.17663v1)|null|
@@ -26,9 +32,3 @@
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-19**|**Global existence for a nonisothermal and conserved phase field system with inertial term**|Pierluigi Colli et.al.|[2502.13600v1](http://arxiv.org/abs/2502.13600v1)|null|
 |**2025-02-17**|**Large-scale clustering of inertial particles in a rotating, stratified and inhomogeneous turbulence**|Nathan Kleeorin et.al.|[2502.12316v1](http://arxiv.org/abs/2502.12316v1)|null|
-|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|[link](https://github.com/luigifreda/pyslam)|
-|**2025-02-17**|**Non-equilibrium distribution function in ultra-fast processes**|K. S. Glavatskiy et.al.|[2502.11530v1](http://arxiv.org/abs/2502.11530v1)|null|
-|**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461v1](http://arxiv.org/abs/2502.11461v1)|null|
-|**2025-02-16**|**A relaxed proximal point algorithm with double-inertial effects for nonconvex equilibrium problems**|Nam Van Tran et.al.|[2502.10986v1](http://arxiv.org/abs/2502.10986v1)|null|
-|**2025-02-16**|**GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**|Zelin Zhou et.al.|[2502.10975v1](http://arxiv.org/abs/2502.10975v1)|null|
-|**2025-02-15**|**SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring**|Hyunchul Lim et.al.|[2502.10830v1](http://arxiv.org/abs/2502.10830v1)|null|
