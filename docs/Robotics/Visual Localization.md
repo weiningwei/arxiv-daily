@@ -11,7 +11,7 @@
 |**2025-02-24**|**The DECADE cosmic shear project III: validation of analysis pipeline using spatially inhomogeneous data**|D. Anbajagane et.al.|[2502.17676v1](http://arxiv.org/abs/2502.17676v1)|null|
 |**2025-02-24**|**The DECADE cosmic shear project II: photometric redshift calibration of the source galaxy sample**|D. Anbajagane et.al.|[2502.17675v1](http://arxiv.org/abs/2502.17675v1)|null|
 |**2025-02-24**|**The DECADE cosmic shear project I: A new weak lensing shape catalog of 107 million galaxies**|D. Anbajagane et.al.|[2502.17674v1](http://arxiv.org/abs/2502.17674v1)|null|
-|**2025-02-24**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Chenga et.al.|[2502.17648v1](http://arxiv.org/abs/2502.17648v1)|null|
+|**2025-02-24**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Cheng et.al.|[2502.17648v2](http://arxiv.org/abs/2502.17648v2)|null|
 |**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435v1](http://arxiv.org/abs/2502.17435v1)|null|
 |**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399v1](http://arxiv.org/abs/2502.17399v1)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
