@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**Probing non-equilibrium steady states of the Klein-Gordon field with Unruh-DeWitt detectors**|Albert Georg Passegger et.al.|[2502.20328v1](http://arxiv.org/abs/2502.20328v1)|null|
+|**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
+|**2025-02-27**|**The cross-over from viscous to inertial lengthscales in rapidly-rotating convection**|Céline Guervilly et.al.|[2502.20150v1](http://arxiv.org/abs/2502.20150v1)|null|
+|**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
+|**2025-02-27**|**Dynamics on Lie groups with applications to attitude estimation**|T. Forrest Kieffer et.al.|[2502.19714v1](http://arxiv.org/abs/2502.19714v1)|null|
+|**2025-02-26**|**Odd Active Solids: Vortices, Velocity Oscillations and Dissipation-Free Modes**|Lorenzo Caprini et.al.|[2502.19579v1](http://arxiv.org/abs/2502.19579v1)|null|
 |**2025-02-26**|**Quantum-Corrected Gravitational Interaction Incorporated with a Non-inertial Cosmic String Spacetime**|M. Baradaran et.al.|[2502.19332v1](http://arxiv.org/abs/2502.19332v1)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|null|
 |**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237v1](http://arxiv.org/abs/2502.19237v1)|null|
@@ -26,9 +32,3 @@
 |**2025-02-21**|**Evidence for magnetic crystallization waves at the surface of $^3$He crystal**|Igor Todoshchenko et.al.|[2502.15404v1](http://arxiv.org/abs/2502.15404v1)|null|
 |**2025-02-20**|**FIP: Endowing Robust Motion Capture on Daily Garment by Fusing Flex and Inertial Sensors**|Jiawei Fang et.al.|[2502.15058v1](http://arxiv.org/abs/2502.15058v1)|null|
 |**2025-02-20**|**A Quasi-Analytical Solution for "Carreau-Yasuda-like" Shear-thinning Fluids Flowing in Slightly Tapered Pipes**|Gianluca Santesarti et.al.|[2502.14991v3](http://arxiv.org/abs/2502.14991v3)|null|
-|**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942v1](http://arxiv.org/abs/2502.14942v1)|null|
-|**2025-02-20**|**Dragging of inertial frames in the composed Kerr-Newman-orbiting-ring system**|Shahar Hod et.al.|[2502.14310v1](http://arxiv.org/abs/2502.14310v1)|null|
-|**2025-02-19**|**Prediction of the Received Power of Low-Power Networks Using Inertial Sensors**|Waltenegus Dargie et.al.|[2502.14107v2](http://arxiv.org/abs/2502.14107v2)|null|
-|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
-|**2025-02-19**|**Global existence for a nonisothermal and conserved phase field system with inertial term**|Pierluigi Colli et.al.|[2502.13600v1](http://arxiv.org/abs/2502.13600v1)|null|
-|**2025-02-17**|**Large-scale clustering of inertial particles in a rotating, stratified and inhomogeneous turbulence**|Nathan Kleeorin et.al.|[2502.12316v1](http://arxiv.org/abs/2502.12316v1)|null|
