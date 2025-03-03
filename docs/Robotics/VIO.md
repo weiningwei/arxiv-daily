@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-28**|**An inertial proximal splitting algorithm for hierarchical bilevel equilibria in Hilbert spaces**|Aicha Balhag et.al.|[2502.20999v1](http://arxiv.org/abs/2502.20999v1)|null|
+|**2025-02-28**|**Robust and Efficient Writer-Independent IMU-Based Handwriting Recognization**|Jindong Li et.al.|[2502.20954v1](http://arxiv.org/abs/2502.20954v1)|null|
+|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
 |**2025-02-27**|**Probing non-equilibrium steady states of the Klein-Gordon field with Unruh-DeWitt detectors**|Albert Georg Passegger et.al.|[2502.20328v1](http://arxiv.org/abs/2502.20328v1)|null|
 |**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
 |**2025-02-27**|**The cross-over from viscous to inertial lengthscales in rapidly-rotating convection**|Céline Guervilly et.al.|[2502.20150v1](http://arxiv.org/abs/2502.20150v1)|null|
@@ -13,6 +16,7 @@
 |**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237v1](http://arxiv.org/abs/2502.19237v1)|null|
 |**2025-02-26**|**Measurement of Neutron Whispering Gallery States Using a Pulsed Neutron Beam**|Go Ichikawa et.al.|[2502.18936v2](http://arxiv.org/abs/2502.18936v2)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
+|**2025-02-25**|**Einstein's Equivalence Principle in Nonrelativistic Quantum Mechanics**|S. A. Torres et.al.|[2502.20416v1](http://arxiv.org/abs/2502.20416v1)|null|
 |**2025-02-25**|**Perturbative and non-linear analyses of gravitational turbulence in spacetimes with stable light rings**|Jaime Redondo-Yuste et.al.|[2502.18643v1](http://arxiv.org/abs/2502.18643v1)|null|
 |**2025-02-25**|**Quadrotor Neural Dead Reckoning in Periodic Trajectories**|Shira Massas et.al.|[2502.17964v1](http://arxiv.org/abs/2502.17964v1)|null|
 |**2025-02-24**|**Evolution of the near-core rotation frequency of 2,497 intermediate-mass stars from their dominant gravito-inertial mode**|Conny Aerts et.al.|[2502.17692v2](http://arxiv.org/abs/2502.17692v2)|null|
@@ -28,7 +32,3 @@
 |**2025-02-22**|**Mojito: LLM-Aided Motion Instructor with Jitter-Reduced Inertial Tokens**|Ziwei Shan et.al.|[2502.16175v1](http://arxiv.org/abs/2502.16175v1)|null|
 |**2025-02-22**|**Motion-Coupled Mapping Algorithm for Hybrid Rice Canopy**|Huaiqu Feng et.al.|[2502.16134v1](http://arxiv.org/abs/2502.16134v1)|null|
 |**2025-02-21**|**Miniaturized optical system for a chip based cold atom inertial sensor**|S. Hello et.al.|[2502.15537v1](http://arxiv.org/abs/2502.15537v1)|null|
-|**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452v1](http://arxiv.org/abs/2502.15452v1)|null|
-|**2025-02-21**|**Evidence for magnetic crystallization waves at the surface of $^3$He crystal**|Igor Todoshchenko et.al.|[2502.15404v1](http://arxiv.org/abs/2502.15404v1)|null|
-|**2025-02-20**|**FIP: Endowing Robust Motion Capture on Daily Garment by Fusing Flex and Inertial Sensors**|Jiawei Fang et.al.|[2502.15058v1](http://arxiv.org/abs/2502.15058v1)|null|
-|**2025-02-20**|**A Quasi-Analytical Solution for "Carreau-Yasuda-like" Shear-thinning Fluids Flowing in Slightly Tapered Pipes**|Gianluca Santesarti et.al.|[2502.14991v3](http://arxiv.org/abs/2502.14991v3)|null|
