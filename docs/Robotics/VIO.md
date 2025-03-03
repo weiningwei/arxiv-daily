@@ -15,7 +15,7 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
 |**2025-02-25**|**Perturbative and non-linear analyses of gravitational turbulence in spacetimes with stable light rings**|Jaime Redondo-Yuste et.al.|[2502.18643v1](http://arxiv.org/abs/2502.18643v1)|null|
 |**2025-02-25**|**Quadrotor Neural Dead Reckoning in Periodic Trajectories**|Shira Massas et.al.|[2502.17964v1](http://arxiv.org/abs/2502.17964v1)|null|
-|**2025-02-24**|**Evolution of the near-core rotation frequency of 2,497 intermediate-mass stars from their dominant gravito-inertial mode**|Conny Aerts et.al.|[2502.17692v1](http://arxiv.org/abs/2502.17692v1)|null|
+|**2025-02-24**|**Evolution of the near-core rotation frequency of 2,497 intermediate-mass stars from their dominant gravito-inertial mode**|Conny Aerts et.al.|[2502.17692v2](http://arxiv.org/abs/2502.17692v2)|null|
 |**2025-02-24**|**Measurement of energy reduction by inertial Alfvén waves propagating through parallel gradients in the Alfvén speed**|Garima Joshi et.al.|[2502.17663v1](http://arxiv.org/abs/2502.17663v1)|null|
 |**2025-02-24**|**Statistical machine learning tools for probabilistic closures of turbulence models**|Julia Domingues Lemos et.al.|[2502.17316v2](http://arxiv.org/abs/2502.17316v2)|null|
 |**2025-02-24**|**CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping**|Yufei Lu et.al.|[2502.17249v1](http://arxiv.org/abs/2502.17249v1)|null|
