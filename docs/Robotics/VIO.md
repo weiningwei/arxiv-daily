@@ -9,7 +9,7 @@
 |**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
 |**2025-02-27**|**The cross-over from viscous to inertial lengthscales in rapidly-rotating convection**|Céline Guervilly et.al.|[2502.20150v1](http://arxiv.org/abs/2502.20150v1)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
-|**2025-02-27**|**Dynamics on Lie groups with applications to attitude estimation**|T. Forrest Kieffer et.al.|[2502.19714v1](http://arxiv.org/abs/2502.19714v1)|null|
+|**2025-02-27**|**Dynamics on Lie groups with applications to attitude estimation**|T. Forrest Kieffer et.al.|[2502.19714v2](http://arxiv.org/abs/2502.19714v2)|null|
 |**2025-02-26**|**Odd Active Solids: Vortices, Velocity Oscillations and Dissipation-Free Modes**|Lorenzo Caprini et.al.|[2502.19579v1](http://arxiv.org/abs/2502.19579v1)|null|
 |**2025-02-26**|**Quantum-Corrected Gravitational Interaction Incorporated with a Non-inertial Cosmic String Spacetime**|M. Baradaran et.al.|[2502.19332v1](http://arxiv.org/abs/2502.19332v1)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|null|
