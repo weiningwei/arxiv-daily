@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599v1](http://arxiv.org/abs/2503.03599v1)|null|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|null|
 |**2025-03-04**|**CADDI: An in-Class Activity Detection Dataset using IMU data from low-cost sensors**|Luis Marquez-Carpintero et.al.|[2503.02853v1](http://arxiv.org/abs/2503.02853v1)|null|
 |**2025-03-04**|**Elastic Pseudoturbulence in Polymer Solutions**|Mithun Ravisankar et.al.|[2503.02785v1](http://arxiv.org/abs/2503.02785v1)|null|
 |**2025-03-04**|**Research on visual simultaneous localization and mapping technology based on near infrared light**|Rui Ma et.al.|[2503.02584v1](http://arxiv.org/abs/2503.02584v1)|null|
@@ -30,5 +32,3 @@
 |**2025-02-27**|**The cross-over from viscous to inertial lengthscales in rapidly-rotating convection**|Céline Guervilly et.al.|[2502.20150v1](http://arxiv.org/abs/2502.20150v1)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
 |**2025-02-27**|**Dynamics on Lie groups with applications to attitude estimation**|T. Forrest Kieffer et.al.|[2502.19714v2](http://arxiv.org/abs/2502.19714v2)|null|
-|**2025-02-26**|**Odd Active Solids: Vortices, Velocity Oscillations and Dissipation-Free Modes**|Lorenzo Caprini et.al.|[2502.19579v1](http://arxiv.org/abs/2502.19579v1)|null|
-|**2025-02-26**|**Quantum-Corrected Gravitational Interaction Incorporated with a Non-inertial Cosmic String Spacetime**|M. Baradaran et.al.|[2502.19332v1](http://arxiv.org/abs/2502.19332v1)|null|
