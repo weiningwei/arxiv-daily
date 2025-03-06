@@ -15,7 +15,7 @@
 |**2025-03-03**|**CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points**|Zhiheng Li et.al.|[2503.01438v1](http://arxiv.org/abs/2503.01438v1)|null|
 |**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
 |**2025-03-03**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274v2](http://arxiv.org/abs/2503.01274v2)|null|
-|**2025-03-03**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v2](http://arxiv.org/abs/2503.01202v2)|null|
+|**2025-03-03**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v3](http://arxiv.org/abs/2503.01202v3)|null|
 |**2025-03-02**|**Quantitative relaxation dynamics from generic initial configurations in the inertial Kuramoto model**|Hangjun Cho et.al.|[2503.00720v1](http://arxiv.org/abs/2503.00720v1)|null|
 |**2025-03-01**|**Electromagnetic Electron Kelvin-Helmholtz Instability**|H. Che et.al.|[2503.00593v1](http://arxiv.org/abs/2503.00593v1)|null|
 |**2025-03-01**|**PL-VIWO: A Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry**|Zhixin Zhang et.al.|[2503.00551v1](http://arxiv.org/abs/2503.00551v1)|null|

@@ -26,9 +26,9 @@
 |**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
 |**2025-03-03**|**Blind Augmentation: Calibration-free Camera Distortion Model Estimation for Real-time Mixed-reality Consistency**|Siddhant Prakash et.al.|[2503.01387v1](http://arxiv.org/abs/2503.01387v1)|null|
 |**2025-03-03**|**One-Step Event-Driven High-Speed Autofocus**|Yuhan Bao et.al.|[2503.01214v1](http://arxiv.org/abs/2503.01214v1)|null|
-|**2025-03-03**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v2](http://arxiv.org/abs/2503.01202v2)|null|
+|**2025-03-03**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v3](http://arxiv.org/abs/2503.01202v3)|null|
 |**2025-03-03**|**HaloTouch: Using IR Multi-path Interference to Support Touch Interactions With General Surfaces**|Ziyi Xia et.al.|[2503.01197v1](http://arxiv.org/abs/2503.01197v1)|null|
-|**2025-03-03**|**Near-infrared Image Deblurring and Event Denoising with Synergistic Neuromorphic Imaging**|Chao Qu et.al.|[2503.01193v2](http://arxiv.org/abs/2503.01193v2)|null|
+|**2025-03-03**|**Near-infrared Image Deblurring and Event Denoising with Synergistic Neuromorphic Imaging**|Chao Qu et.al.|[2503.01193v3](http://arxiv.org/abs/2503.01193v3)|null|
 |**2025-03-03**|**DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution**|Xingyuan Li et.al.|[2503.01187v1](http://arxiv.org/abs/2503.01187v1)|[link](https://github.com/zirui0625/difiisr)|
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107v1](http://arxiv.org/abs/2503.01107v1)|null|
 |**2025-03-03**|**Road Boundary Detection Using 4D mmWave Radar for Autonomous Driving**|Yuyan Wu et.al.|[2503.01930v1](http://arxiv.org/abs/2503.01930v1)|null|
