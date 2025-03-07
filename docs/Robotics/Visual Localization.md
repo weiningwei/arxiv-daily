@@ -18,7 +18,7 @@
 |**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230v1](http://arxiv.org/abs/2503.03230v1)|null|
 |**2025-03-05**|**Rice Grain Size Measurement using Image Processing**|Ankush Tyagi et.al.|[2503.03214v1](http://arxiv.org/abs/2503.03214v1)|null|
 |**2025-03-05**|**Transformer-Based Spatio-Temporal Association of Apple Fruitlets**|Harry Freeman et.al.|[2503.03200v1](http://arxiv.org/abs/2503.03200v1)|null|
-|**2025-03-05**|**DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**|Jingzhou Luo et.al.|[2503.03190v1](http://arxiv.org/abs/2503.03190v1)|[link](https://github.com/LZ-CH/DSPNet)|
+|**2025-03-05**|**DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**|Jingzhou Luo et.al.|[2503.03190v2](http://arxiv.org/abs/2503.03190v2)|[link](https://github.com/LZ-CH/DSPNet)|
 |**2025-03-05**|**Techniques in high-speed imaging and X-ray micro-computed tomography for characterisation of iron ore fragmentation**|Aleese Barron et.al.|[2503.03163v1](http://arxiv.org/abs/2503.03163v1)|null|
 |**2025-03-05**|**SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models**|Jiang Zhang et.al.|[2503.03160v1](http://arxiv.org/abs/2503.03160v1)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100v1](http://arxiv.org/abs/2503.03100v1)|null|
