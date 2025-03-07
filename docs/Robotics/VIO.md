@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-06**|**DogLegs: Robust Proprioceptive State Estimation for Legged Robots Using Multiple Leg-Mounted IMUs**|Yibin Wu et.al.|[2503.04580v1](http://arxiv.org/abs/2503.04580v1)|null|
+|**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286v1](http://arxiv.org/abs/2503.04286v1)|null|
+|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
+|**2025-03-05**|**Equivariant Filter Design for Range-only SLAM**|Yixiao Ge et.al.|[2503.03973v1](http://arxiv.org/abs/2503.03973v1)|null|
+|**2025-03-05**|**Bubbles-induced transition to elasto-inertial turbulence**|Hafiz Usman Naseer et.al.|[2503.03943v1](http://arxiv.org/abs/2503.03943v1)|null|
 |**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599v1](http://arxiv.org/abs/2503.03599v1)|null|
 |**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|null|
 |**2025-03-04**|**CADDI: An in-Class Activity Detection Dataset using IMU data from low-cost sensors**|Luis Marquez-Carpintero et.al.|[2503.02853v1](http://arxiv.org/abs/2503.02853v1)|null|
@@ -27,8 +32,3 @@
 |**2025-02-28**|**An inertial proximal splitting algorithm for hierarchical bilevel equilibria in Hilbert spaces**|Aicha Balhag et.al.|[2502.20999v1](http://arxiv.org/abs/2502.20999v1)|null|
 |**2025-02-28**|**Robust and Efficient Writer-Independent IMU-Based Handwriting Recognization**|Jindong Li et.al.|[2502.20954v1](http://arxiv.org/abs/2502.20954v1)|null|
 |**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
-|**2025-02-27**|**Probing non-equilibrium steady states of the Klein-Gordon field with Unruh-DeWitt detectors**|Albert Georg Passegger et.al.|[2502.20328v1](http://arxiv.org/abs/2502.20328v1)|null|
-|**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
-|**2025-02-27**|**The cross-over from viscous to inertial lengthscales in rapidly-rotating convection**|Céline Guervilly et.al.|[2502.20150v1](http://arxiv.org/abs/2502.20150v1)|null|
-|**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
-|**2025-02-27**|**Dynamics on Lie groups with applications to attitude estimation**|T. Forrest Kieffer et.al.|[2502.19714v2](http://arxiv.org/abs/2502.19714v2)|null|
