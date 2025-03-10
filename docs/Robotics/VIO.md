@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-07**|**Adaptive Neural Unscented Kalman Filter**|Amit Levy et.al.|[2503.05490v1](http://arxiv.org/abs/2503.05490v1)|null|
+|**2025-03-07**|**Performance Analysis of Spatial and Temporal Learning Networks in the Presence of DVL Noise**|Rajini Makam et.al.|[2503.05309v1](http://arxiv.org/abs/2503.05309v1)|null|
+|**2025-03-07**|**Inertio-viscous interactions between particles in oscillatory flow**|Xiaokang Zhang et.al.|[2503.05209v1](http://arxiv.org/abs/2503.05209v1)|null|
+|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
+|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|null|
+|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
 |**2025-03-06**|**DogLegs: Robust Proprioceptive State Estimation for Legged Robots Using Multiple Leg-Mounted IMUs**|Yibin Wu et.al.|[2503.04580v1](http://arxiv.org/abs/2503.04580v1)|null|
 |**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286v1](http://arxiv.org/abs/2503.04286v1)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
@@ -26,9 +32,3 @@
 |**2025-03-02**|**Quantitative relaxation dynamics from generic initial configurations in the inertial Kuramoto model**|Hangjun Cho et.al.|[2503.00720v1](http://arxiv.org/abs/2503.00720v1)|null|
 |**2025-03-01**|**Electromagnetic Electron Kelvin-Helmholtz Instability**|H. Che et.al.|[2503.00593v1](http://arxiv.org/abs/2503.00593v1)|null|
 |**2025-03-01**|**PL-VIWO: A Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry**|Zhixin Zhang et.al.|[2503.00551v1](http://arxiv.org/abs/2503.00551v1)|null|
-|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|null|
-|**2025-03-01**|**XIRVIO: Critic-guided Iterative Refinement for Visual-Inertial Odometry with Explainable Adaptive Weighting**|Chit Yuen Lam et.al.|[2503.00315v1](http://arxiv.org/abs/2503.00315v1)|null|
-|**2025-02-28**|**Hot-spot model for inertial confinement fusion implosions with an applied magnetic field**|R. C. Spiers et.al.|[2503.00186v1](http://arxiv.org/abs/2503.00186v1)|null|
-|**2025-02-28**|**An inertial proximal splitting algorithm for hierarchical bilevel equilibria in Hilbert spaces**|Aicha Balhag et.al.|[2502.20999v1](http://arxiv.org/abs/2502.20999v1)|null|
-|**2025-02-28**|**Robust and Efficient Writer-Independent IMU-Based Handwriting Recognization**|Jindong Li et.al.|[2502.20954v1](http://arxiv.org/abs/2502.20954v1)|null|
-|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
