@@ -15,11 +15,11 @@
 |**2025-03-03**|**vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**|Ali Tourani et.al.|[2503.01783v1](http://arxiv.org/abs/2503.01783v1)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661v1](http://arxiv.org/abs/2503.01661v1)|null|
 |**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646v1](http://arxiv.org/abs/2503.01646v1)|null|
-|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|null|
+|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|[link](https://github.com/lihaoy-ux/mline-vins)|
 |**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547v1](http://arxiv.org/abs/2503.01547v1)|[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)|
 |**2025-03-03**|**Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**|Xintao Chao et.al.|[2503.01543v1](http://arxiv.org/abs/2503.01543v1)|null|
 |**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
-|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|null|
+|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|[link](https://github.com/snt-arg/ecg2o)|
 |**2025-03-03**|**Convex Hull-based Algebraic Constraint for Visual Quadric SLAM**|Xiaolong Yu et.al.|[2503.01254v1](http://arxiv.org/abs/2503.01254v1)|[link](https://github.com/tiev-tongji/convexhull-based-algebraic-constraint)|
 |**2025-03-03**|**FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion**|Yansong Xu et.al.|[2503.01109v1](http://arxiv.org/abs/2503.01109v1)|null|
 |**2025-03-01**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397v3](http://arxiv.org/abs/2503.00397v3)|null|
