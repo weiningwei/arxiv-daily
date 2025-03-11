@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891v1](http://arxiv.org/abs/2503.06891v1)|null|
+|**2025-03-10**|**A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots**|Chaoran Xiong et.al.|[2503.06844v1](http://arxiv.org/abs/2503.06844v1)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
 |**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
@@ -30,5 +32,3 @@
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|[link](https://github.com/luigifreda/pyslam)|
 |**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461v1](http://arxiv.org/abs/2502.11461v1)|null|
-|**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795v2](http://arxiv.org/abs/2502.09795v2)|null|
-|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676v1](http://arxiv.org/abs/2502.08676v1)|[link](https://github.com/IF-A-CAT/LIR-LIVO)|

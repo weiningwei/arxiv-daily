@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|null|
+|**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|[link](https://github.com/Breezelled/COMODO)|
+|**2025-03-10**|**Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales**|Dariusz Wójcik et.al.|[2503.07255v1](http://arxiv.org/abs/2503.07255v1)|null|
+|**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891v1](http://arxiv.org/abs/2503.06891v1)|null|
+|**2025-03-10**|**A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots**|Chaoran Xiong et.al.|[2503.06844v1](http://arxiv.org/abs/2503.06844v1)|null|
+|**2025-03-08**|**Hybrid CNN-Dilated Self-attention Model Using Inertial and Body-Area Electrostatic Sensing for Gym Workout Recognition, Counting, and User Authentification**|Sizhen Bian et.al.|[2503.06311v1](http://arxiv.org/abs/2503.06311v1)|null|
 |**2025-03-07**|**Adaptive Neural Unscented Kalman Filter**|Amit Levy et.al.|[2503.05490v1](http://arxiv.org/abs/2503.05490v1)|null|
 |**2025-03-07**|**Performance Analysis of Spatial and Temporal Learning Networks in the Presence of DVL Noise**|Rajini Makam et.al.|[2503.05309v1](http://arxiv.org/abs/2503.05309v1)|null|
 |**2025-03-07**|**Inertio-viscous interactions between particles in oscillatory flow**|Xiaokang Zhang et.al.|[2503.05209v1](http://arxiv.org/abs/2503.05209v1)|null|
@@ -26,9 +32,3 @@
 |**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|[link](https://github.com/lihaoy-ux/mline-vins)|
 |**2025-03-03**|**Limit theorems and lack thereof for a multilayer random walk mimicking human mobility**|Alessandra Bianchi et.al.|[2503.01503v1](http://arxiv.org/abs/2503.01503v1)|null|
 |**2025-03-03**|**CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points**|Zhiheng Li et.al.|[2503.01438v1](http://arxiv.org/abs/2503.01438v1)|null|
-|**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
-|**2025-03-03**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274v2](http://arxiv.org/abs/2503.01274v2)|[link](https://github.com/ziyunus/dndfilter)|
-|**2025-03-03**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v3](http://arxiv.org/abs/2503.01202v3)|null|
-|**2025-03-02**|**Quantitative relaxation dynamics from generic initial configurations in the inertial Kuramoto model**|Hangjun Cho et.al.|[2503.00720v1](http://arxiv.org/abs/2503.00720v1)|null|
-|**2025-03-01**|**Electromagnetic Electron Kelvin-Helmholtz Instability**|H. Che et.al.|[2503.00593v1](http://arxiv.org/abs/2503.00593v1)|null|
-|**2025-03-01**|**PL-VIWO: A Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry**|Zhixin Zhang et.al.|[2503.00551v1](http://arxiv.org/abs/2503.00551v1)|[link](https://github.com/happy-zzx/pl-viwo)|

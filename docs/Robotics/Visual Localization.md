@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638v1](http://arxiv.org/abs/2503.05638v1)|null|
-|**2025-03-07**|**Novel Object 6D Pose Estimation with a Single Reference View**|Jian Liu et.al.|[2503.05578v1](http://arxiv.org/abs/2503.05578v1)|null|
-|**2025-03-07**|**A-SEE2.0: Active-Sensing End-Effector for Robotic Ultrasound Systems with Dense Contact Surface Perception Enabled Probe Orientation Adjustment**|Yernar Zhetpissov et.al.|[2503.05569v1](http://arxiv.org/abs/2503.05569v1)|null|
-|**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568v1](http://arxiv.org/abs/2503.05568v1)|null|
-|**2025-03-07**|**Stereo Any Video: Temporally Consistent Stereo Matching**|Junpeng Jing et.al.|[2503.05549v1](http://arxiv.org/abs/2503.05549v1)|null|
-|**2025-03-07**|**Free Your Hands: Lightweight Relightable Turntable Capture Pipeline**|Jiahui Fan et.al.|[2503.05511v1](http://arxiv.org/abs/2503.05511v1)|null|
-|**2025-03-07**|**Infrared Fluxes and Light Curves of Near-Earth Objects: The full Spitzer Sample**|Joseph L. Hora et.al.|[2503.05433v1](http://arxiv.org/abs/2503.05433v1)|null|
-|**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398v1](http://arxiv.org/abs/2503.05398v1)|null|
-|**2025-03-07**|**CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images**|Jungho Lee et.al.|[2503.05332v1](http://arxiv.org/abs/2503.05332v1)|null|
-|**2025-03-07**|**Lanthanide upconversion nonlinearity: a key probe feature for background-free deep-tissue imaging**|Niusha Bagheri et.al.|[2503.05325v1](http://arxiv.org/abs/2503.05325v1)|null|
-|**2025-03-07**|**A Map-free Deep Learning-based Framework for Gate-to-Gate Monocular Visual Navigation aboard Miniaturized Aerial Vehicles**|Lorenzo Scarciglia et.al.|[2503.05251v1](http://arxiv.org/abs/2503.05251v1)|null|
-|**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189v1](http://arxiv.org/abs/2503.05189v1)|null|
-|**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161v1](http://arxiv.org/abs/2503.05161v1)|null|
-|**2025-03-07**|**Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion**|Anith Selvakumar et.al.|[2503.05086v1](http://arxiv.org/abs/2503.05086v1)|null|
-|**2025-03-06**|**A First Quantitative Characterization of Colombian Night Sky Through All-Sky Photometry**|J. P. Uchima-Tamayo et.al.|[2503.04937v1](http://arxiv.org/abs/2503.04937v1)|null|
-|**2025-03-06**|**Design of a test rig for the investigation of falling film flows with counter-current gas flows**|M. Wirth et.al.|[2503.04915v1](http://arxiv.org/abs/2503.04915v1)|null|
-|**2025-03-06**|**Using the XMM-Newton Small Window Mode to investigate systematic uncertainties in the particle background of X-ray CCD detectors**|Gerrit Schellenberger et.al.|[2503.04682v1](http://arxiv.org/abs/2503.04682v1)|null|
-|**2025-03-06**|**Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning**|Albert Wilcox et.al.|[2503.04877v1](http://arxiv.org/abs/2503.04877v1)|null|
-|**2025-03-06**|**Parameter degeneracies associated with interpreting HST WFC3 transmission spectra of exoplanetary atmospheres**|Aline Novais et.al.|[2503.04600v1](http://arxiv.org/abs/2503.04600v1)|null|
-|**2025-03-06**|**DogLegs: Robust Proprioceptive State Estimation for Legged Robots Using Multiple Leg-Mounted IMUs**|Yibin Wu et.al.|[2503.04580v1](http://arxiv.org/abs/2503.04580v1)|null|
-|**2025-03-06**|**IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement**|Zhihao Shi et.al.|[2503.04501v1](http://arxiv.org/abs/2503.04501v1)|null|
-|**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475v1](http://arxiv.org/abs/2503.04475v1)|null|
-|**2025-03-06**|**Real-Time 3D Magnetic Field Camera for a Spherical Volume**|Fynn Foerger et.al.|[2503.04391v1](http://arxiv.org/abs/2503.04391v1)|null|
-|**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351v1](http://arxiv.org/abs/2503.04351v1)|null|
-|**2025-03-06**|**A Modular Pipeline for 3D Object Tracking Using RGB Cameras**|Lars Bredereke et.al.|[2503.04322v1](http://arxiv.org/abs/2503.04322v1)|null|
-|**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308v1](http://arxiv.org/abs/2503.04308v1)|null|
-|**2025-03-06**|**High-Precision Transformer-Based Visual Servoing for Humanoid Robots in Aligning Tiny Objects**|Jialong Xue et.al.|[2503.04862v1](http://arxiv.org/abs/2503.04862v1)|null|
-|**2025-03-06**|**An Egocentric Vision-Language Model based Portable Real-time Smart Assistant**|Yifei Huang et.al.|[2503.04250v1](http://arxiv.org/abs/2503.04250v1)|null|
-|**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
-|**2025-03-06**|**Personalized Emotion Detection from Floor Vibrations Induced by Footsteps**|Yuyan Wu et.al.|[2503.04190v1](http://arxiv.org/abs/2503.04190v1)|null|
+|**2025-03-10**|**Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression**|Thibaut Loiseau et.al.|[2503.07561v1](http://arxiv.org/abs/2503.07561v1)|null|
+|**2025-03-10**|**Blind-Wayfarer: A Minimalist, Probing-Driven Framework for Resilient Navigation in Perception-Degraded Environments**|Yanran Xu et.al.|[2503.07492v1](http://arxiv.org/abs/2503.07492v1)|null|
+|**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|null|
+|**2025-03-10**|**Automated Movie Generation via Multi-Agent CoT Planning**|Weijia Wu et.al.|[2503.07314v1](http://arxiv.org/abs/2503.07314v1)|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204v1](http://arxiv.org/abs/2503.07204v1)|null|
+|**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133v1](http://arxiv.org/abs/2503.07133v1)|null|
+|**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029v1](http://arxiv.org/abs/2503.07029v1)|null|
+|**2025-03-10**|**Public space security management using digital twin technologies**|Stylianos Zindros et.al.|[2503.06996v1](http://arxiv.org/abs/2503.06996v1)|null|
+|**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992v1](http://arxiv.org/abs/2503.06992v1)|null|
+|**2025-03-10**|**Modeling Human Skeleton Joint Dynamics for Fall Detection**|Sania Zahan et.al.|[2503.06938v1](http://arxiv.org/abs/2503.06938v1)|null|
+|**2025-03-10**|**LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs**|Hanyu Zhou et.al.|[2503.06934v1](http://arxiv.org/abs/2503.06934v1)|null|
+|**2025-03-10**|**Illuminating Darkness: Enhancing Real-world Low-light Scenes with Smartphone Images**|S M A Sharif et.al.|[2503.06898v1](http://arxiv.org/abs/2503.06898v1)|null|
+|**2025-03-10**|**Eye-in-Finger: Smart Fingers for Delicate Assembly and Disassembly of LEGO**|Zhenran Tang et.al.|[2503.06848v1](http://arxiv.org/abs/2503.06848v1)|null|
+|**2025-03-09**|**Modular Photobioreactor Façade Systems for Sustainable Architecture: Design, Fabrication, and Real-Time Monitoring**|Xiujin Liu et.al.|[2503.06769v1](http://arxiv.org/abs/2503.06769v1)|null|
+|**2025-03-09**|**New CCD Driving Technique to Suppress Anomalous Charge Intrusion from Outside the Imaging Area for Soft X-ray Imager of Xtend onboard XRISM**|Hirofumi Noda et.al.|[2503.06760v1](http://arxiv.org/abs/2503.06760v1)|null|
+|**2025-03-09**|**SafeSpeech: A Comprehensive and Interactive Tool for Analysing Sexist and Abusive Language in Conversations**|Xingwei Tan et.al.|[2503.06534v1](http://arxiv.org/abs/2503.06534v1)|null|
+|**2025-03-09**|**A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508v1](http://arxiv.org/abs/2503.06508v1)|null|
+|**2025-03-09**|**Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2503.06484v1](http://arxiv.org/abs/2503.06484v1)|null|
+|**2025-03-09**|**PDB: Not All Drivers Are the Same -- A Personalized Dataset for Understanding Driving Behavior**|Chuheng Wei et.al.|[2503.06477v1](http://arxiv.org/abs/2503.06477v1)|null|
+|**2025-03-09**|**Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds (DAVOS): Properties of Variability-Selected AGNs in the Dark Energy Survey Deep Fields**|Yichen Liu et.al.|[2503.06372v1](http://arxiv.org/abs/2503.06372v1)|null|
+|**2025-03-08**|**AnimeGaze: Real-Time Mutual Gaze Synthesis for Anime-Style Avatars in Physical Environments via Behind-Display Camera**|Kazuya Izumi et.al.|[2503.06324v1](http://arxiv.org/abs/2503.06324v1)|null|
+|**2025-03-08**|**StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams**|Yang LI et.al.|[2503.06235v1](http://arxiv.org/abs/2503.06235v1)|null|
+|**2025-03-08**|**VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion**|Meng Wang et.al.|[2503.06219v1](http://arxiv.org/abs/2503.06219v1)|null|
+|**2025-03-08**|**Comparative Time-Series Analysis of Hip and Shoulder Rotation in Baseball Bat Swings**|Koga Okubo et.al.|[2503.06131v1](http://arxiv.org/abs/2503.06131v1)|null|
+|**2025-03-08**|**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization**|Kai Yang et.al.|[2503.06125v1](http://arxiv.org/abs/2503.06125v1)|null|
+|**2025-03-08**|**Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision**|David C. Jeong et.al.|[2503.06089v1](http://arxiv.org/abs/2503.06089v1)|null|
+|**2025-03-08**|**Error Source Sensitivity Analysis in Model-Based Coherence Scanning Interferometry for Thin Film Metrology**|Lixuan Xu et.al.|[2503.06088v1](http://arxiv.org/abs/2503.06088v1)|null|
+|**2025-03-08**|**TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking**|Hangyu Du et.al.|[2503.06071v1](http://arxiv.org/abs/2503.06071v1)|null|
+|**2025-03-08**|**DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation**|Runze Zhang et.al.|[2503.06053v1](http://arxiv.org/abs/2503.06053v1)|null|
+|**2025-03-08**|**Integrating Frequency-Domain Representations with Low-Rank Adaptation in Vision-Language Models**|Md Azim Khan et.al.|[2503.06003v1](http://arxiv.org/abs/2503.06003v1)|null|
