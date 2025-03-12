@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-11**|**Ultrarelativistic outflows in asymmetric magnetic reconnection**|Maricarmen A. Winkler et.al.|[2503.08563v1](http://arxiv.org/abs/2503.08563v1)|null|
+|**2025-03-11**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489v1](http://arxiv.org/abs/2503.08489v1)|null|
+|**2025-03-11**|**A forward-reflected-anchored-backward splitting algorithm with double inertial effects for solving non-monotone inclusion problems**|Nam Van Tran et.al.|[2503.08432v1](http://arxiv.org/abs/2503.08432v1)|null|
+|**2025-03-11**|**Ev-Layout: A Large-scale Event-based Multi-modal Dataset for Indoor Layout Estimation and Tracking**|Xucheng Guo et.al.|[2503.08370v1](http://arxiv.org/abs/2503.08370v1)|null|
+|**2025-03-11**|**Elongated bubble centring and high-viscosity liquids in horizontal gas-liquid slug flow: Empirical analyses and novel theory**|Sean J. Perkins et.al.|[2503.08329v1](http://arxiv.org/abs/2503.08329v1)|null|
+|**2025-03-11**|**Reinforcement learning assisted non-reciprocal optomechanical gyroscope**|Qing-Shou Tan et.al.|[2503.08319v1](http://arxiv.org/abs/2503.08319v1)|null|
+|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952v1](http://arxiv.org/abs/2503.07952v1)|null|
+|**2025-03-11**|**QLIO: Quantized LiDAR-Inertial Odometry**|Boyang Lou et.al.|[2503.07949v1](http://arxiv.org/abs/2503.07949v1)|null|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|null|
 |**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|[link](https://github.com/Breezelled/COMODO)|
 |**2025-03-10**|**Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales**|Dariusz Wójcik et.al.|[2503.07255v1](http://arxiv.org/abs/2503.07255v1)|null|
@@ -24,11 +32,3 @@
 |**2025-03-04**|**CADDI: An in-Class Activity Detection Dataset using IMU data from low-cost sensors**|Luis Marquez-Carpintero et.al.|[2503.02853v1](http://arxiv.org/abs/2503.02853v1)|null|
 |**2025-03-04**|**Elastic Pseudoturbulence in Polymer Solutions**|Mithun Ravisankar et.al.|[2503.02785v1](http://arxiv.org/abs/2503.02785v1)|null|
 |**2025-03-04**|**Research on visual simultaneous localization and mapping technology based on near infrared light**|Rui Ma et.al.|[2503.02584v1](http://arxiv.org/abs/2503.02584v1)|null|
-|**2025-03-04**|**Impact of Temporal Delay on Radar-Inertial Odometry**|Vlaho-Josip Štironja et.al.|[2503.02509v1](http://arxiv.org/abs/2503.02509v1)|null|
-|**2025-03-04**|**Investigation of Plasma Mixing Processes in the Context of Indirect Drive Inertial Confinement Fusion**|Xiaoran Li et.al.|[2503.02378v1](http://arxiv.org/abs/2503.02378v1)|null|
-|**2025-03-04**|**Charges in light cones and quenched infrared radiation**|Detlev Buchholz et.al.|[2503.02342v1](http://arxiv.org/abs/2503.02342v1)|null|
-|**2025-03-03**|**Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization**|Katya M. Papais et.al.|[2503.02107v1](http://arxiv.org/abs/2503.02107v1)|null|
-|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661v1](http://arxiv.org/abs/2503.01661v1)|null|
-|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|[link](https://github.com/lihaoy-ux/mline-vins)|
-|**2025-03-03**|**Limit theorems and lack thereof for a multilayer random walk mimicking human mobility**|Alessandra Bianchi et.al.|[2503.01503v1](http://arxiv.org/abs/2503.01503v1)|null|
-|**2025-03-03**|**CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points**|Zhiheng Li et.al.|[2503.01438v1](http://arxiv.org/abs/2503.01438v1)|null|

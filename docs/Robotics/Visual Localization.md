@@ -2,6 +2,28 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678v1](http://arxiv.org/abs/2503.08678v1)|null|
+|**2025-03-11**|**NullFace: Training-Free Localized Face Anonymization**|Han-Wei Kung et.al.|[2503.08478v1](http://arxiv.org/abs/2503.08478v1)|null|
+|**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474v1](http://arxiv.org/abs/2503.08474v1)|null|
+|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471v1](http://arxiv.org/abs/2503.08471v1)|null|
+|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434v1](http://arxiv.org/abs/2503.08434v1)|null|
+|**2025-03-11**|**Ev-Layout: A Large-scale Event-based Multi-modal Dataset for Indoor Layout Estimation and Tracking**|Xucheng Guo et.al.|[2503.08370v1](http://arxiv.org/abs/2503.08370v1)|null|
+|**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367v1](http://arxiv.org/abs/2503.08367v1)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317v1](http://arxiv.org/abs/2503.08317v1)|null|
+|**2025-03-11**|**Feature Alignment with Equivariant Convolutions for Burst Image Super-Resolution**|Xinyi Liu et.al.|[2503.08300v1](http://arxiv.org/abs/2503.08300v1)|null|
+|**2025-03-11**|**MVD-HuGaS: Human Gaussians from a Single Image via 3D Human Multi-view Diffusion Prior**|Kaiqiang Xiong et.al.|[2503.08218v1](http://arxiv.org/abs/2503.08218v1)|null|
+|**2025-03-11**|**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**|Huy Nguyen et.al.|[2503.08121v1](http://arxiv.org/abs/2503.08121v1)|null|
+|**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092v1](http://arxiv.org/abs/2503.08092v1)|null|
+|**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068v1](http://arxiv.org/abs/2503.08068v1)|null|
+|**2025-03-11**|**CDI3D: Cross-guided Dense-view Interpolation for 3D Reconstruction**|Zhiyuan Wu et.al.|[2503.08005v1](http://arxiv.org/abs/2503.08005v1)|null|
+|**2025-03-11**|**PLK-Calib: Single-shot and Target-less LiDAR-Camera Extrinsic Calibration using Plücker Lines**|Yanyu Zhang et.al.|[2503.07955v1](http://arxiv.org/abs/2503.07955v1)|null|
+|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952v1](http://arxiv.org/abs/2503.07952v1)|null|
+|**2025-03-10**|**Characterization of the SiPiC Payload for Photon Detection from Space**|Lucas Finazzi et.al.|[2503.07845v1](http://arxiv.org/abs/2503.07845v1)|null|
+|**2025-03-10**|**RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code**|Dhruv Gautam et.al.|[2503.07832v1](http://arxiv.org/abs/2503.07832v1)|null|
+|**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828v1](http://arxiv.org/abs/2503.07828v1)|null|
+|**2025-03-10**|**Helios 2.0: A Robust, Ultra-Low Power Gesture Recognition System Optimised for Event-Sensor based Wearables**|Prarthana Bhattacharyya et.al.|[2503.07825v1](http://arxiv.org/abs/2503.07825v1)|null|
+|**2025-03-10**|**A panchromatic view of N2CLS GOODS-N: the evolution of the dust cosmic density since z~7**|S. Berta et.al.|[2503.07706v1](http://arxiv.org/abs/2503.07706v1)|null|
+|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597v1](http://arxiv.org/abs/2503.07597v1)|null|
 |**2025-03-10**|**Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression**|Thibaut Loiseau et.al.|[2503.07561v1](http://arxiv.org/abs/2503.07561v1)|null|
 |**2025-03-10**|**Blind-Wayfarer: A Minimalist, Probing-Driven Framework for Resilient Navigation in Perception-Degraded Environments**|Yanran Xu et.al.|[2503.07492v1](http://arxiv.org/abs/2503.07492v1)|null|
 |**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|null|
@@ -10,25 +32,3 @@
 |**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133v1](http://arxiv.org/abs/2503.07133v1)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029v1](http://arxiv.org/abs/2503.07029v1)|null|
 |**2025-03-10**|**Public space security management using digital twin technologies**|Stylianos Zindros et.al.|[2503.06996v1](http://arxiv.org/abs/2503.06996v1)|null|
-|**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992v2](http://arxiv.org/abs/2503.06992v2)|null|
-|**2025-03-10**|**Modeling Human Skeleton Joint Dynamics for Fall Detection**|Sania Zahan et.al.|[2503.06938v1](http://arxiv.org/abs/2503.06938v1)|null|
-|**2025-03-10**|**LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs**|Hanyu Zhou et.al.|[2503.06934v1](http://arxiv.org/abs/2503.06934v1)|null|
-|**2025-03-10**|**Illuminating Darkness: Enhancing Real-world Low-light Scenes with Smartphone Images**|S M A Sharif et.al.|[2503.06898v1](http://arxiv.org/abs/2503.06898v1)|null|
-|**2025-03-10**|**Eye-in-Finger: Smart Fingers for Delicate Assembly and Disassembly of LEGO**|Zhenran Tang et.al.|[2503.06848v1](http://arxiv.org/abs/2503.06848v1)|null|
-|**2025-03-09**|**Modular Photobioreactor Façade Systems for Sustainable Architecture: Design, Fabrication, and Real-Time Monitoring**|Xiujin Liu et.al.|[2503.06769v1](http://arxiv.org/abs/2503.06769v1)|null|
-|**2025-03-09**|**New CCD Driving Technique to Suppress Anomalous Charge Intrusion from Outside the Imaging Area for Soft X-ray Imager of Xtend onboard XRISM**|Hirofumi Noda et.al.|[2503.06760v1](http://arxiv.org/abs/2503.06760v1)|null|
-|**2025-03-09**|**SafeSpeech: A Comprehensive and Interactive Tool for Analysing Sexist and Abusive Language in Conversations**|Xingwei Tan et.al.|[2503.06534v1](http://arxiv.org/abs/2503.06534v1)|null|
-|**2025-03-09**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508v2](http://arxiv.org/abs/2503.06508v2)|null|
-|**2025-03-09**|**Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2503.06484v1](http://arxiv.org/abs/2503.06484v1)|null|
-|**2025-03-09**|**PDB: Not All Drivers Are the Same -- A Personalized Dataset for Understanding Driving Behavior**|Chuheng Wei et.al.|[2503.06477v1](http://arxiv.org/abs/2503.06477v1)|null|
-|**2025-03-09**|**Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds (DAVOS): Properties of Variability-Selected AGNs in the Dark Energy Survey Deep Fields**|Yichen Liu et.al.|[2503.06372v1](http://arxiv.org/abs/2503.06372v1)|null|
-|**2025-03-08**|**AnimeGaze: Real-Time Mutual Gaze Synthesis for Anime-Style Avatars in Physical Environments via Behind-Display Camera**|Kazuya Izumi et.al.|[2503.06324v1](http://arxiv.org/abs/2503.06324v1)|null|
-|**2025-03-08**|**StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams**|Yang LI et.al.|[2503.06235v1](http://arxiv.org/abs/2503.06235v1)|null|
-|**2025-03-08**|**VLScene: Vision-Language Guidance Distillation for Camera-Based 3D Semantic Scene Completion**|Meng Wang et.al.|[2503.06219v1](http://arxiv.org/abs/2503.06219v1)|null|
-|**2025-03-08**|**Comparative Time-Series Analysis of Hip and Shoulder Rotation in Baseball Bat Swings**|Koga Okubo et.al.|[2503.06131v1](http://arxiv.org/abs/2503.06131v1)|null|
-|**2025-03-08**|**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization**|Kai Yang et.al.|[2503.06125v1](http://arxiv.org/abs/2503.06125v1)|null|
-|**2025-03-08**|**Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision**|David C. Jeong et.al.|[2503.06089v1](http://arxiv.org/abs/2503.06089v1)|null|
-|**2025-03-08**|**Error Source Sensitivity Analysis in Model-Based Coherence Scanning Interferometry for Thin Film Metrology**|Lixuan Xu et.al.|[2503.06088v1](http://arxiv.org/abs/2503.06088v1)|null|
-|**2025-03-08**|**TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking**|Hangyu Du et.al.|[2503.06071v1](http://arxiv.org/abs/2503.06071v1)|null|
-|**2025-03-08**|**DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation**|Runze Zhang et.al.|[2503.06053v1](http://arxiv.org/abs/2503.06053v1)|null|
-|**2025-03-08**|**Integrating Frequency-Domain Representations with Low-Rank Adaptation in Vision-Language Models**|Md Azim Khan et.al.|[2503.06003v1](http://arxiv.org/abs/2503.06003v1)|null|
