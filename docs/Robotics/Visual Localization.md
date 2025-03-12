@@ -10,7 +10,7 @@
 |**2025-03-10**|**A Light Perspective for 3D Object Detection**|Marcelo Eduardo Pederiva et.al.|[2503.07133v1](http://arxiv.org/abs/2503.07133v1)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029v1](http://arxiv.org/abs/2503.07029v1)|null|
 |**2025-03-10**|**Public space security management using digital twin technologies**|Stylianos Zindros et.al.|[2503.06996v1](http://arxiv.org/abs/2503.06996v1)|null|
-|**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992v1](http://arxiv.org/abs/2503.06992v1)|null|
+|**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992v2](http://arxiv.org/abs/2503.06992v2)|null|
 |**2025-03-10**|**Modeling Human Skeleton Joint Dynamics for Fall Detection**|Sania Zahan et.al.|[2503.06938v1](http://arxiv.org/abs/2503.06938v1)|null|
 |**2025-03-10**|**LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs**|Hanyu Zhou et.al.|[2503.06934v1](http://arxiv.org/abs/2503.06934v1)|null|
 |**2025-03-10**|**Illuminating Darkness: Enhancing Real-world Low-light Scenes with Smartphone Images**|S M A Sharif et.al.|[2503.06898v1](http://arxiv.org/abs/2503.06898v1)|null|
