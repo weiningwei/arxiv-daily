@@ -7,7 +7,7 @@
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|null|
 |**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342v1](http://arxiv.org/abs/2503.09342v1)|null|
 |**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296v1](http://arxiv.org/abs/2503.09296v1)|null|
-|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160v1](http://arxiv.org/abs/2503.09160v1)|null|
+|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160v2](http://arxiv.org/abs/2503.09160v2)|null|
 |**2025-03-12**|**Reangle-A-Video: 4D Video Generation as Video-to-Video Translation**|Hyeonho Jeong et.al.|[2503.09151v1](http://arxiv.org/abs/2503.09151v1)|null|
 |**2025-03-12**|**Investigation of Frame Differences as Motion Cues for Video Object Segmentation**|Sota Kawamura et.al.|[2503.09132v1](http://arxiv.org/abs/2503.09132v1)|null|
 |**2025-03-12**|**Tacchi 2.0: A Low Computational Cost and Comprehensive Dynamic Contact Simulator for Vision-based Tactile Sensors**|Yuhao Sun et.al.|[2503.09100v1](http://arxiv.org/abs/2503.09100v1)|null|
