@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**Modelling subsonic turbulence with SPH-EXA**|Rubén M. Cabezón et.al.|[2503.10273v1](http://arxiv.org/abs/2503.10273v1)|null|
+|**2025-03-12**|**Acceleration without photon pair creation**|Sara Kanzi et.al.|[2503.09863v1](http://arxiv.org/abs/2503.09863v1)|null|
 |**2025-03-12**|**Degradation-based Energy Management for Microgrids in the Presence of Energy Storage Elements**|Satish Vedula et.al.|[2503.09028v1](http://arxiv.org/abs/2503.09028v1)|null|
 |**2025-03-11**|**Hydrodynamics in a villi-patterned channel due to pendular-wave activity**|Rohan Vernekar et.al.|[2503.08852v1](http://arxiv.org/abs/2503.08852v1)|null|
 |**2025-03-11**|**Ultrarelativistic outflows in asymmetric magnetic reconnection**|Maricarmen A. Winkler et.al.|[2503.08563v1](http://arxiv.org/abs/2503.08563v1)|null|
@@ -30,5 +32,3 @@
 |**2025-03-05**|**Equivariant Filter Design for Range-only SLAM**|Yixiao Ge et.al.|[2503.03973v1](http://arxiv.org/abs/2503.03973v1)|null|
 |**2025-03-05**|**Bubbles-induced transition to elasto-inertial turbulence**|Hafiz Usman Naseer et.al.|[2503.03943v1](http://arxiv.org/abs/2503.03943v1)|null|
 |**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599v1](http://arxiv.org/abs/2503.03599v1)|null|
-|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|[link](https://github.com/JD-hust/gs-dso)|
-|**2025-03-04**|**CADDI: An in-Class Activity Detection Dataset using IMU data from low-cost sensors**|Luis Marquez-Carpintero et.al.|[2503.02853v1](http://arxiv.org/abs/2503.02853v1)|null|
