@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|null|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|null|
+|**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647v1](http://arxiv.org/abs/2503.11647v1)|null|
+|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621v1](http://arxiv.org/abs/2503.11621v1)|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609v1](http://arxiv.org/abs/2503.11609v1)|null|
+|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|null|
+|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423v1](http://arxiv.org/abs/2503.11423v1)|null|
+|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|null|
+|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v1](http://arxiv.org/abs/2503.11371v1)|null|
+|**2025-03-14**|**Non Line-of-Sight Optical Wireless Communication using Neuromorphic Cameras**|Abbaas Alif Mohamed Nishar et.al.|[2503.11226v1](http://arxiv.org/abs/2503.11226v1)|null|
+|**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213v1](http://arxiv.org/abs/2503.11213v1)|null|
+|**2025-03-14**|**A Benchmarking Study of Vision-based Robotic Grasping Algorithms**|Bharath K Rameshbabu et.al.|[2503.11163v1](http://arxiv.org/abs/2503.11163v1)|null|
+|**2025-03-14**|**Multi-View Industrial Anomaly Detection with Epipolar Constrained Cross-View Fusion**|Yifan Liu et.al.|[2503.11088v1](http://arxiv.org/abs/2503.11088v1)|null|
+|**2025-03-14**|**MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation**|Pingrui Zhang et.al.|[2503.11081v1](http://arxiv.org/abs/2503.11081v1)|null|
+|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
+|**2025-03-13**|**Nearly a Decade of Groundbreaking Speckle Interferometry at the International Gemini Observatory**|Steve B. Howell et.al.|[2503.10765v1](http://arxiv.org/abs/2503.10765v1)|null|
 |**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605v1](http://arxiv.org/abs/2503.10605v1)|[link](https://github.com/ika-rwth-aachen/occuq)|
 |**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592v1](http://arxiv.org/abs/2503.10592v1)|null|
 |**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464v1](http://arxiv.org/abs/2503.10464v1)|null|
@@ -16,19 +32,3 @@
 |**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878v1](http://arxiv.org/abs/2503.09878v1)|null|
 |**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807v1](http://arxiv.org/abs/2503.09807v1)|null|
 |**2025-03-12**|**Evaluating the Impact of Synthetic Data on Object Detection Tasks in Autonomous Driving**|Enes Özeren et.al.|[2503.09803v1](http://arxiv.org/abs/2503.09803v1)|null|
-|**2025-03-12**|**A PyTorch-Enabled Tool for Synthetic Event Camera Data Generation and Algorithm Development**|Joseph L. Greene et.al.|[2503.09754v1](http://arxiv.org/abs/2503.09754v1)|null|
-|**2025-03-12**|**I2V3D: Controllable image-to-video generation with 3D guidance**|Zhiyuan Zhang et.al.|[2503.09733v1](http://arxiv.org/abs/2503.09733v1)|null|
-|**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[2503.09594v1](http://arxiv.org/abs/2503.09594v1)|null|
-|**2025-03-12**|**GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals**|Shuokang Huang et.al.|[2503.09537v1](http://arxiv.org/abs/2503.09537v1)|null|
-|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|null|
-|**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342v1](http://arxiv.org/abs/2503.09342v1)|null|
-|**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296v1](http://arxiv.org/abs/2503.09296v1)|null|
-|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160v2](http://arxiv.org/abs/2503.09160v2)|null|
-|**2025-03-12**|**Reangle-A-Video: 4D Video Generation as Video-to-Video Translation**|Hyeonho Jeong et.al.|[2503.09151v1](http://arxiv.org/abs/2503.09151v1)|null|
-|**2025-03-12**|**Investigation of Frame Differences as Motion Cues for Video Object Segmentation**|Sota Kawamura et.al.|[2503.09132v1](http://arxiv.org/abs/2503.09132v1)|null|
-|**2025-03-12**|**Tacchi 2.0: A Low Computational Cost and Comprehensive Dynamic Contact Simulator for Vision-based Tactile Sensors**|Yuhao Sun et.al.|[2503.09100v1](http://arxiv.org/abs/2503.09100v1)|null|
-|**2025-03-12**|**Traffic Regulation-aware Path Planning with Regulation Databases and Vision-Language Models**|Xu Han et.al.|[2503.09024v1](http://arxiv.org/abs/2503.09024v1)|null|
-|**2025-03-12**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Qiang Zhang et.al.|[2503.09010v2](http://arxiv.org/abs/2503.09010v2)|null|
-|**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[2503.09638v1](http://arxiv.org/abs/2503.09638v1)|null|
-|**2025-03-11**|**Automated Imaging of the Annihilation of a Transverse Domain Wall in Patterned Magnetic Thin Films**|Charudatta Phatak et.al.|[2503.08900v1](http://arxiv.org/abs/2503.08900v1)|null|
-|**2025-03-11**|**V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video**|Jianqi Chen et.al.|[2503.09631v1](http://arxiv.org/abs/2503.09631v1)|null|
