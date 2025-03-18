@@ -10,7 +10,7 @@
 |**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|null|
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423v1](http://arxiv.org/abs/2503.11423v1)|null|
 |**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|null|
-|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v1](http://arxiv.org/abs/2503.11371v1)|null|
+|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v2](http://arxiv.org/abs/2503.11371v2)|null|
 |**2025-03-14**|**Non Line-of-Sight Optical Wireless Communication using Neuromorphic Cameras**|Abbaas Alif Mohamed Nishar et.al.|[2503.11226v1](http://arxiv.org/abs/2503.11226v1)|null|
 |**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213v1](http://arxiv.org/abs/2503.11213v1)|null|
 |**2025-03-14**|**A Benchmarking Study of Vision-based Robotic Grasping Algorithms**|Bharath K Rameshbabu et.al.|[2503.11163v1](http://arxiv.org/abs/2503.11163v1)|null|
