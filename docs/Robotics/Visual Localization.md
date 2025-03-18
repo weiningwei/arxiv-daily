@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|null|
-|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|null|
-|**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647v1](http://arxiv.org/abs/2503.11647v1)|null|
-|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621v1](http://arxiv.org/abs/2503.11621v1)|null|
-|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609v1](http://arxiv.org/abs/2503.11609v1)|null|
-|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|null|
-|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423v1](http://arxiv.org/abs/2503.11423v1)|null|
-|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|null|
-|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v2](http://arxiv.org/abs/2503.11371v2)|null|
-|**2025-03-14**|**Non Line-of-Sight Optical Wireless Communication using Neuromorphic Cameras**|Abbaas Alif Mohamed Nishar et.al.|[2503.11226v1](http://arxiv.org/abs/2503.11226v1)|null|
-|**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213v1](http://arxiv.org/abs/2503.11213v1)|null|
-|**2025-03-14**|**A Benchmarking Study of Vision-based Robotic Grasping Algorithms**|Bharath K Rameshbabu et.al.|[2503.11163v1](http://arxiv.org/abs/2503.11163v1)|null|
-|**2025-03-14**|**Multi-View Industrial Anomaly Detection with Epipolar Constrained Cross-View Fusion**|Yifan Liu et.al.|[2503.11088v1](http://arxiv.org/abs/2503.11088v1)|null|
-|**2025-03-14**|**MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation**|Pingrui Zhang et.al.|[2503.11081v1](http://arxiv.org/abs/2503.11081v1)|null|
-|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
-|**2025-03-13**|**Nearly a Decade of Groundbreaking Speckle Interferometry at the International Gemini Observatory**|Steve B. Howell et.al.|[2503.10765v1](http://arxiv.org/abs/2503.10765v1)|null|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605v1](http://arxiv.org/abs/2503.10605v1)|[link](https://github.com/ika-rwth-aachen/occuq)|
-|**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592v1](http://arxiv.org/abs/2503.10592v1)|null|
-|**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464v1](http://arxiv.org/abs/2503.10464v1)|null|
-|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410v1](http://arxiv.org/abs/2503.10410v1)|[link](https://github.com/duyuwen-duen/roco-sim)|
-|**2025-03-13**|**Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning**|Lun Li et.al.|[2503.10334v1](http://arxiv.org/abs/2503.10334v1)|null|
-|**2025-03-13**|**CODEI: Resource-Efficient Task-Driven Co-Design of Perception and Decision Making for Mobile Robots Applied to Autonomous Vehicles**|Dejan Milojevic et.al.|[2503.10296v1](http://arxiv.org/abs/2503.10296v1)|null|
-|**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286v1](http://arxiv.org/abs/2503.10286v1)|null|
-|**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141v1](http://arxiv.org/abs/2503.10141v1)|null|
-|**2025-03-13**|**Deep Learning-Based Direct Leaf Area Estimation using Two RGBD Datasets for Model Development**|Namal Jayasuriya et.al.|[2503.10129v1](http://arxiv.org/abs/2503.10129v1)|null|
-|**2025-03-13**|**Temporal variability and obscuration effects in the X-ray emission of classical nova V339 Delphini (Nova Delphini 2013)**|Songpeng Pei et.al.|[2503.10035v1](http://arxiv.org/abs/2503.10035v1)|null|
-|**2025-03-13**|**ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network**|Qiang Zhang et.al.|[2503.09985v1](http://arxiv.org/abs/2503.09985v1)|null|
-|**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878v1](http://arxiv.org/abs/2503.09878v1)|null|
-|**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807v1](http://arxiv.org/abs/2503.09807v1)|null|
-|**2025-03-12**|**Evaluating the Impact of Synthetic Data on Object Detection Tasks in Autonomous Driving**|Enes Özeren et.al.|[2503.09803v1](http://arxiv.org/abs/2503.09803v1)|null|
+|**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430v1](http://arxiv.org/abs/2503.13430v1)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
+|**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|null|
+|**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098v1](http://arxiv.org/abs/2503.13098v1)|null|
+|**2025-03-17**|**Vision-based automatic fruit counting with UAV**|Hubert Szolc et.al.|[2503.13080v1](http://arxiv.org/abs/2503.13080v1)|null|
+|**2025-03-17**|**Hybrid Work in Agile Software Development: Recurring Meetings**|Emily Laue Christensen et.al.|[2503.13002v1](http://arxiv.org/abs/2503.13002v1)|null|
+|**2025-03-17**|**Analyzing Swimming Performance Using Drone Captured Aerial Videos**|Thu Tran et.al.|[2503.12981v1](http://arxiv.org/abs/2503.12981v1)|null|
+|**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947v1](http://arxiv.org/abs/2503.12947v1)|null|
+|**2025-03-17**|**GIFT: Generated Indoor video frames for Texture-less point tracking**|Jianzheng Huang et.al.|[2503.12944v1](http://arxiv.org/abs/2503.12944v1)|null|
+|**2025-03-17**|**AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction**|Xuying Zhang et.al.|[2503.12929v1](http://arxiv.org/abs/2503.12929v1)|null|
+|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|null|
+|**2025-03-17**|**AUTV: Creating Underwater Video Datasets with Pixel-wise Annotations**|Quang Trung Truong et.al.|[2503.12828v1](http://arxiv.org/abs/2503.12828v1)|null|
+|**2025-03-17**|**Dynamic-Dark SLAM: RGB-Thermal Cooperative Robot Vision Strategy for Multi-Person Tracking in Both Well-Lit and Low-Light Scenes**|Tatsuro Sakai et.al.|[2503.12768v1](http://arxiv.org/abs/2503.12768v1)|null|
+|**2025-03-17**|**Stereo Event-based, 6-DOF Pose Tracking for Uncooperative Spacecraft**|Zibin Liu et.al.|[2503.12732v1](http://arxiv.org/abs/2503.12732v1)|null|
+|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720v1](http://arxiv.org/abs/2503.12720v1)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706v1](http://arxiv.org/abs/2503.12706v1)|null|
+|**2025-03-16**|**AnyCalib: On-Manifold Learning for Model-Agnostic Single-View Camera Calibration**|Javier Tirado-Garín et.al.|[2503.12701v1](http://arxiv.org/abs/2503.12701v1)|null|
+|**2025-03-16**|**Focusing Robot Open-Ended Reinforcement Learning Through Users' Purposes**|Emilio Cartoni et.al.|[2503.12579v1](http://arxiv.org/abs/2503.12579v1)|null|
+|**2025-03-16**|**Deblur Gaussian Splatting SLAM**|Francesco Girlanda et.al.|[2503.12572v1](http://arxiv.org/abs/2503.12572v1)|null|
+|**2025-03-16**|**Grasping Partially Occluded Objects Using Autoencoder-Based Point Cloud Inpainting**|Alexander Koebler et.al.|[2503.12549v1](http://arxiv.org/abs/2503.12549v1)|null|
+|**2025-03-16**|**An Analysis of Spitzer Phase Curves for WASP-121b and WASP-77Ab**|Brian Davenport et.al.|[2503.12521v1](http://arxiv.org/abs/2503.12521v1)|null|
+|**2025-03-16**|**Diffusion-based Synthetic Data Generation for Visible-Infrared Person Re-Identification**|Wenbo Dai et.al.|[2503.12472v1](http://arxiv.org/abs/2503.12472v1)|null|
+|**2025-03-16**|**Calibration of Complementary Metal-oxide-semiconductor Sensor-based Photometry to a Few-millimagnitude Precision: The Case of the Mini-SiTian Array**|Kai Xiao et.al.|[2503.12449v1](http://arxiv.org/abs/2503.12449v1)|null|
+|**2025-03-16**|**EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera**|Luming Wang et.al.|[2503.12419v1](http://arxiv.org/abs/2503.12419v1)|null|
+|**2025-03-16**|**Micromotion compensation using dark and bright ions**|Orr Barnea et.al.|[2503.12417v1](http://arxiv.org/abs/2503.12417v1)|null|
+|**2025-03-16**|**L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model**|Ruoyu Wang et.al.|[2503.12369v1](http://arxiv.org/abs/2503.12369v1)|null|
+|**2025-03-16**|**GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images**|Tengfei Wang et.al.|[2503.12335v1](http://arxiv.org/abs/2503.12335v1)|null|
+|**2025-03-15**|**From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification**|Yan Jiang et.al.|[2503.12232v1](http://arxiv.org/abs/2503.12232v1)|null|
+|**2025-03-15**|**DPCS: Path Tracing-Based Differentiable Projector-Camera Systems**|Jijiang Li et.al.|[2503.12174v1](http://arxiv.org/abs/2503.12174v1)|null|
