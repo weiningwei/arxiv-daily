@@ -29,6 +29,6 @@
 |**2025-03-16**|**EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera**|Luming Wang et.al.|[2503.12419v1](http://arxiv.org/abs/2503.12419v1)|null|
 |**2025-03-16**|**Micromotion compensation using dark and bright ions**|Orr Barnea et.al.|[2503.12417v1](http://arxiv.org/abs/2503.12417v1)|null|
 |**2025-03-16**|**L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model**|Ruoyu Wang et.al.|[2503.12369v1](http://arxiv.org/abs/2503.12369v1)|null|
-|**2025-03-16**|**GS-3I: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images**|Tengfei Wang et.al.|[2503.12335v1](http://arxiv.org/abs/2503.12335v1)|null|
+|**2025-03-16**|**GS-I$^{3}$: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images**|Tengfei Wang et.al.|[2503.12335v2](http://arxiv.org/abs/2503.12335v2)|null|
 |**2025-03-15**|**From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification**|Yan Jiang et.al.|[2503.12232v1](http://arxiv.org/abs/2503.12232v1)|null|
 |**2025-03-15**|**DPCS: Path Tracing-Based Differentiable Projector-Camera Systems**|Jijiang Li et.al.|[2503.12174v1](http://arxiv.org/abs/2503.12174v1)|null|
