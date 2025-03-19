@@ -2,7 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**|Tingyang Xiao et.al.|[2503.14247v1](http://arxiv.org/abs/2503.14247v1)|null|
+|**2025-03-18**|**Estimating ionization states and continuum lowering from ab initio path integral Monte Carlo simulations for warm dense hydrogen**|Hannah M. Bellenbaum et.al.|[2503.14014v1](http://arxiv.org/abs/2503.14014v1)|null|
+|**2025-03-18**|**Investigating the Effect of Relaxation Time on Richtmyer-Meshkov Instability under Reshock Impact: A Two-Component Discrete Boltzmann Method Study**|Lingyan Lian et.al.|[2503.13854v1](http://arxiv.org/abs/2503.13854v1)|null|
 |**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
+|**2025-03-17**|**Convolutional neural network for early detection of lameness and irregularity in horses using an IMU sensor**|Benoît Savoini et.al.|[2503.13578v1](http://arxiv.org/abs/2503.13578v1)|null|
+|**2025-03-17**|**WMINet: A Wheel-Mounted Inertial Learning Approach For Mobile-Robot Positioning**|Gal Versano et.al.|[2503.13568v1](http://arxiv.org/abs/2503.13568v1)|null|
 |**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726v1](http://arxiv.org/abs/2503.12726v1)|null|
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
 |**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527v1](http://arxiv.org/abs/2503.12527v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-11**|**QLIO: Quantized LiDAR-Inertial Odometry**|Boyang Lou et.al.|[2503.07949v1](http://arxiv.org/abs/2503.07949v1)|[link](https://github.com/luobodan/QLIO)|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|null|
 |**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|[link](https://github.com/Breezelled/COMODO)|
-|**2025-03-10**|**Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales**|Dariusz Wójcik et.al.|[2503.07255v1](http://arxiv.org/abs/2503.07255v1)|null|
-|**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891v1](http://arxiv.org/abs/2503.06891v1)|[link](https://github.com/xpxie/akf-lio)|
-|**2025-03-10**|**A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots**|Chaoran Xiong et.al.|[2503.06844v1](http://arxiv.org/abs/2503.06844v1)|null|
-|**2025-03-08**|**Hybrid CNN-Dilated Self-attention Model Using Inertial and Body-Area Electrostatic Sensing for Gym Workout Recognition, Counting, and User Authentification**|Sizhen Bian et.al.|[2503.06311v1](http://arxiv.org/abs/2503.06311v1)|[link](https://github.com/zhaxidele/toolkit-for-hbc-sensing)|
-|**2025-03-07**|**Adaptive Neural Unscented Kalman Filter**|Amit Levy et.al.|[2503.05490v1](http://arxiv.org/abs/2503.05490v1)|null|
