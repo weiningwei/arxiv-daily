@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2025-03-19 21:20:18 Asia/Shanghai
+ Automated deployment @ 2025-03-20 08:44:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Robotics
+
+### VIO
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**|Tingyang Xiao et.al.|[2503.14247v1](http://arxiv.org/abs/2503.14247v1)|null|
+|**2025-03-18**|**Estimating ionization states and continuum lowering from ab initio path integral Monte Carlo simulations for warm dense hydrogen**|Hannah M. Bellenbaum et.al.|[2503.14014v1](http://arxiv.org/abs/2503.14014v1)|null|
+|**2025-03-18**|**Investigating the Effect of Relaxation Time on Richtmyer-Meshkov Instability under Reshock Impact: A Two-Component Discrete Boltzmann Method Study**|Lingyan Lian et.al.|[2503.13854v1](http://arxiv.org/abs/2503.13854v1)|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
+|**2025-03-17**|**Convolutional neural network for early detection of lameness and irregularity in horses using an IMU sensor**|Benoît Savoini et.al.|[2503.13578v1](http://arxiv.org/abs/2503.13578v1)|null|
+|**2025-03-17**|**WMINet: A Wheel-Mounted Inertial Learning Approach For Mobile-Robot Positioning**|Gal Versano et.al.|[2503.13568v1](http://arxiv.org/abs/2503.13568v1)|null|
+|**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726v1](http://arxiv.org/abs/2503.12726v1)|null|
+|**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
+|**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527v1](http://arxiv.org/abs/2503.12527v1)|null|
+|**2025-03-15**|**MUSE: A Real-Time Multi-Sensor State Estimator for Quadruped Robots**|Ylenia Nisticò et.al.|[2503.12101v1](http://arxiv.org/abs/2503.12101v1)|null|
+|**2025-03-14**|**In Shift and In Variance: Assessing the Robustness of HAR Deep Learning Models against Variability**|Azhar Ali Khaked et.al.|[2503.11466v1](http://arxiv.org/abs/2503.11466v1)|null|
+|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|null|
+|**2025-03-14**|**Inertial manifolds via spatial averaging: a control-theoretic perspective**|Mikhail Anikushin et.al.|[2503.11161v1](http://arxiv.org/abs/2503.11161v1)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|null|
+|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
+|**2025-03-13**|**Modelling subsonic turbulence with SPH-EXA**|Rubén M. Cabezón et.al.|[2503.10273v1](http://arxiv.org/abs/2503.10273v1)|null|
+|**2025-03-13**|**Sagnac interferometer-based noise-free superresolution using phase-controlled quantum erasers**|Byoung S. Ham et.al.|[2503.10101v2](http://arxiv.org/abs/2503.10101v2)|null|
+|**2025-03-12**|**Acceleration without photon pair creation**|Sara Kanzi et.al.|[2503.09863v2](http://arxiv.org/abs/2503.09863v2)|null|
+|**2025-03-12**|**Degradation-based Energy Management for Microgrids in the Presence of Energy Storage Elements**|Satish Vedula et.al.|[2503.09028v1](http://arxiv.org/abs/2503.09028v1)|null|
+|**2025-03-11**|**Hydrodynamics in a villi-patterned channel due to pendular-wave activity**|Rohan Vernekar et.al.|[2503.08852v1](http://arxiv.org/abs/2503.08852v1)|null|
+|**2025-03-11**|**Ultrarelativistic outflows in asymmetric magnetic reconnection**|Maricarmen A. Winkler et.al.|[2503.08563v1](http://arxiv.org/abs/2503.08563v1)|null|
+|**2025-03-11**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489v2](http://arxiv.org/abs/2503.08489v2)|[link](https://github.com/yancc103/tiam)|
+|**2025-03-11**|**A forward-reflected-anchored-backward splitting algorithm with double inertial effects for solving non-monotone inclusion problems**|Nam Van Tran et.al.|[2503.08432v1](http://arxiv.org/abs/2503.08432v1)|null|
+|**2025-03-11**|**Ev-Layout: A Large-scale Event-based Multi-modal Dataset for Indoor Layout Estimation and Tracking**|Xucheng Guo et.al.|[2503.08370v1](http://arxiv.org/abs/2503.08370v1)|null|
+|**2025-03-11**|**Elongated bubble centring and high-viscosity liquids in horizontal gas-liquid slug flow: Empirical analyses and novel theory**|Sean J. Perkins et.al.|[2503.08329v1](http://arxiv.org/abs/2503.08329v1)|null|
+|**2025-03-11**|**Reinforcement learning assisted non-reciprocal optomechanical gyroscope**|Qing-Shou Tan et.al.|[2503.08319v1](http://arxiv.org/abs/2503.08319v1)|null|
+|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952v1](http://arxiv.org/abs/2503.07952v1)|null|
+|**2025-03-11**|**QLIO: Quantized LiDAR-Inertial Odometry**|Boyang Lou et.al.|[2503.07949v1](http://arxiv.org/abs/2503.07949v1)|[link](https://github.com/luobodan/QLIO)|
+|**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|null|
+|**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|[link](https://github.com/Breezelled/COMODO)|
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,40 +107,6 @@
 |**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326v1](http://arxiv.org/abs/2502.20326v1)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
 
-### VIO
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-18**|**GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**|Tingyang Xiao et.al.|[2503.14247v1](http://arxiv.org/abs/2503.14247v1)|null|
-|**2025-03-18**|**Estimating ionization states and continuum lowering from ab initio path integral Monte Carlo simulations for warm dense hydrogen**|Hannah M. Bellenbaum et.al.|[2503.14014v1](http://arxiv.org/abs/2503.14014v1)|null|
-|**2025-03-18**|**Investigating the Effect of Relaxation Time on Richtmyer-Meshkov Instability under Reshock Impact: A Two-Component Discrete Boltzmann Method Study**|Lingyan Lian et.al.|[2503.13854v1](http://arxiv.org/abs/2503.13854v1)|null|
-|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
-|**2025-03-17**|**Convolutional neural network for early detection of lameness and irregularity in horses using an IMU sensor**|Benoît Savoini et.al.|[2503.13578v1](http://arxiv.org/abs/2503.13578v1)|null|
-|**2025-03-17**|**WMINet: A Wheel-Mounted Inertial Learning Approach For Mobile-Robot Positioning**|Gal Versano et.al.|[2503.13568v1](http://arxiv.org/abs/2503.13568v1)|null|
-|**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726v1](http://arxiv.org/abs/2503.12726v1)|null|
-|**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
-|**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527v1](http://arxiv.org/abs/2503.12527v1)|null|
-|**2025-03-15**|**MUSE: A Real-Time Multi-Sensor State Estimator for Quadruped Robots**|Ylenia Nisticò et.al.|[2503.12101v1](http://arxiv.org/abs/2503.12101v1)|null|
-|**2025-03-14**|**In Shift and In Variance: Assessing the Robustness of HAR Deep Learning Models against Variability**|Azhar Ali Khaked et.al.|[2503.11466v1](http://arxiv.org/abs/2503.11466v1)|null|
-|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|null|
-|**2025-03-14**|**Inertial manifolds via spatial averaging: a control-theoretic perspective**|Mikhail Anikushin et.al.|[2503.11161v1](http://arxiv.org/abs/2503.11161v1)|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|null|
-|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
-|**2025-03-13**|**Modelling subsonic turbulence with SPH-EXA**|Rubén M. Cabezón et.al.|[2503.10273v1](http://arxiv.org/abs/2503.10273v1)|null|
-|**2025-03-13**|**Sagnac interferometer-based noise-free superresolution using phase-controlled quantum erasers**|Byoung S. Ham et.al.|[2503.10101v2](http://arxiv.org/abs/2503.10101v2)|null|
-|**2025-03-12**|**Acceleration without photon pair creation**|Sara Kanzi et.al.|[2503.09863v2](http://arxiv.org/abs/2503.09863v2)|null|
-|**2025-03-12**|**Degradation-based Energy Management for Microgrids in the Presence of Energy Storage Elements**|Satish Vedula et.al.|[2503.09028v1](http://arxiv.org/abs/2503.09028v1)|null|
-|**2025-03-11**|**Hydrodynamics in a villi-patterned channel due to pendular-wave activity**|Rohan Vernekar et.al.|[2503.08852v1](http://arxiv.org/abs/2503.08852v1)|null|
-|**2025-03-11**|**Ultrarelativistic outflows in asymmetric magnetic reconnection**|Maricarmen A. Winkler et.al.|[2503.08563v1](http://arxiv.org/abs/2503.08563v1)|null|
-|**2025-03-11**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489v2](http://arxiv.org/abs/2503.08489v2)|[link](https://github.com/yancc103/tiam)|
-|**2025-03-11**|**A forward-reflected-anchored-backward splitting algorithm with double inertial effects for solving non-monotone inclusion problems**|Nam Van Tran et.al.|[2503.08432v1](http://arxiv.org/abs/2503.08432v1)|null|
-|**2025-03-11**|**Ev-Layout: A Large-scale Event-based Multi-modal Dataset for Indoor Layout Estimation and Tracking**|Xucheng Guo et.al.|[2503.08370v1](http://arxiv.org/abs/2503.08370v1)|null|
-|**2025-03-11**|**Elongated bubble centring and high-viscosity liquids in horizontal gas-liquid slug flow: Empirical analyses and novel theory**|Sean J. Perkins et.al.|[2503.08329v1](http://arxiv.org/abs/2503.08329v1)|null|
-|**2025-03-11**|**Reinforcement learning assisted non-reciprocal optomechanical gyroscope**|Qing-Shou Tan et.al.|[2503.08319v1](http://arxiv.org/abs/2503.08319v1)|null|
-|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952v1](http://arxiv.org/abs/2503.07952v1)|null|
-|**2025-03-11**|**QLIO: Quantized LiDAR-Inertial Odometry**|Boyang Lou et.al.|[2503.07949v1](http://arxiv.org/abs/2503.07949v1)|[link](https://github.com/luobodan/QLIO)|
-|**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|null|
-|**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|[link](https://github.com/Breezelled/COMODO)|
-
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -126,7 +126,7 @@
 |**2025-03-17**|**Learning from Synchronization: Self-Supervised Uncalibrated Multi-View Person Association in Challenging Scenes**|Keqi Chen et.al.|[2503.13739v1](http://arxiv.org/abs/2503.13739v1)|null|
 |**2025-03-17**|**Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers**|Shiran Yuan et.al.|[2503.13588v1](http://arxiv.org/abs/2503.13588v1)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430v1](http://arxiv.org/abs/2503.13430v1)|null|
-|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v2](http://arxiv.org/abs/2503.13265v2)|null|
 |**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
 |**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|null|
 |**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098v1](http://arxiv.org/abs/2503.13098v1)|null|

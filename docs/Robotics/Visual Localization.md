@@ -18,7 +18,7 @@
 |**2025-03-17**|**Learning from Synchronization: Self-Supervised Uncalibrated Multi-View Person Association in Challenging Scenes**|Keqi Chen et.al.|[2503.13739v1](http://arxiv.org/abs/2503.13739v1)|null|
 |**2025-03-17**|**Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers**|Shiran Yuan et.al.|[2503.13588v1](http://arxiv.org/abs/2503.13588v1)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430v1](http://arxiv.org/abs/2503.13430v1)|null|
-|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v2](http://arxiv.org/abs/2503.13265v2)|null|
 |**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
 |**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|null|
 |**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098v1](http://arxiv.org/abs/2503.13098v1)|null|
