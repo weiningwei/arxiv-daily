@@ -12,7 +12,7 @@
 |**2025-03-18**|**Foundation Feature-Driven Online End-Effector Pose Estimation: A Marker-Free and Learning-Free Approach**|Tianshu Wu et.al.|[2503.14051v1](http://arxiv.org/abs/2503.14051v1)|null|
 |**2025-03-18**|**SoccerSynth Field: enhancing field detection with synthetic data from virtual soccer simulator**|HaoBin Qin et.al.|[2503.13969v1](http://arxiv.org/abs/2503.13969v1)|null|
 |**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951v1](http://arxiv.org/abs/2503.13951v1)|null|
-|**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926v1](http://arxiv.org/abs/2503.13926v1)|null|
+|**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926v2](http://arxiv.org/abs/2503.13926v2)|null|
 |**2025-03-18**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke et.al.|[2503.13858v1](http://arxiv.org/abs/2503.13858v1)|null|
 |**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743v1](http://arxiv.org/abs/2503.13743v1)|null|
 |**2025-03-17**|**Learning from Synchronization: Self-Supervised Uncalibrated Multi-View Person Association in Challenging Scenes**|Keqi Chen et.al.|[2503.13739v1](http://arxiv.org/abs/2503.13739v1)|null|
