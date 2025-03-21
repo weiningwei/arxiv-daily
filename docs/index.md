@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-20 21:17:16 Asia/Shanghai
+ Automated deployment @ 2025-03-21 08:45:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -139,4 +139,4 @@
 |**2025-03-19**|**Euclid Quick Data Release (Q1) -- Characteristics and limitations of the spectroscopic measurements**|Euclid Collaboration et.al.|[2503.15308v1](http://arxiv.org/abs/2503.15308v1)|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1): From spectrograms to spectra: the SIR spectroscopic Processing Function**|Euclid Collaboration et.al.|[2503.15307v1](http://arxiv.org/abs/2503.15307v1)|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). Photometric redshifts and physical properties of galaxies through the PHZ processing function**|Euclid Collaboration et.al.|[2503.15306v1](http://arxiv.org/abs/2503.15306v1)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v1](http://arxiv.org/abs/2503.15305v1)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v2](http://arxiv.org/abs/2503.15305v2)|null|
