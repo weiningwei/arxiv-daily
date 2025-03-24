@@ -2,8 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-21**|**Einstein's Cat -- A Thought Experiment Against Anti-Relativist Claims**|Val G. Rousseau et.al.|[2503.17248v1](http://arxiv.org/abs/2503.17248v1)|null|
+|**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939v1](http://arxiv.org/abs/2503.16939v1)|null|
+|**2025-03-20**|**On the solvability of the lie algebra $\mathrm{hh}^1(b)$ for blocks of finite groups**|Markus Linckelmann et.al.|[2503.16697v1](http://arxiv.org/abs/2503.16697v1)|null|
 |**2025-03-20**|**Surface quasigeostrophic turbulence: The refined study of an active scalar**|Nicolas Valade et.al.|[2503.16294v1](http://arxiv.org/abs/2503.16294v1)|null|
 |**2025-03-20**|**Probing classical and quantum violations of the equivalence of active and passive gravitational mass**|Vasileios Fragkos et.al.|[2503.16198v1](http://arxiv.org/abs/2503.16198v1)|null|
+|**2025-03-20**|**AUV Acceleration Prediction Using DVL and Deep Learning**|Yair Stolero et.al.|[2503.16573v1](http://arxiv.org/abs/2503.16573v1)|null|
 |**2025-03-19**|**Weakly nonlinear analysis of particle-laden Rayleigh-Bénard convection**|Thota Srinivas et.al.|[2503.15411v1](http://arxiv.org/abs/2503.15411v1)|null|
 |**2025-03-19**|**Direct numerical simulations on transport and deposition of charged inertial particles in turbulent channel flow**|Xuan Ruan et.al.|[2503.15357v1](http://arxiv.org/abs/2503.15357v1)|null|
 |**2025-03-19**|**Radial flow component of Sun's high frequency retrograde inertial waves**|Chris S. Hanson et.al.|[2503.14995v1](http://arxiv.org/abs/2503.14995v1)|null|
@@ -28,7 +32,3 @@
 |**2025-03-13**|**Modelling subsonic turbulence with SPH-EXA**|Rubén M. Cabezón et.al.|[2503.10273v1](http://arxiv.org/abs/2503.10273v1)|null|
 |**2025-03-13**|**Sagnac interferometer-based noise-free superresolution using phase-controlled quantum erasers**|Byoung S. Ham et.al.|[2503.10101v2](http://arxiv.org/abs/2503.10101v2)|null|
 |**2025-03-12**|**Acceleration without photon pair creation**|Sara Kanzi et.al.|[2503.09863v2](http://arxiv.org/abs/2503.09863v2)|null|
-|**2025-03-12**|**Degradation-based Energy Management for Microgrids in the Presence of Energy Storage Elements**|Satish Vedula et.al.|[2503.09028v1](http://arxiv.org/abs/2503.09028v1)|null|
-|**2025-03-11**|**Hydrodynamics in a villi-patterned channel due to pendular-wave activity**|Rohan Vernekar et.al.|[2503.08852v1](http://arxiv.org/abs/2503.08852v1)|null|
-|**2025-03-11**|**Ultrarelativistic outflows in asymmetric magnetic reconnection**|Maricarmen A. Winkler et.al.|[2503.08563v1](http://arxiv.org/abs/2503.08563v1)|null|
-|**2025-03-11**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489v2](http://arxiv.org/abs/2503.08489v2)|[link](https://github.com/yancc103/tiam)|
