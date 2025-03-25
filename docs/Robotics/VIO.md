@@ -2,6 +2,14 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-24**|**Inertial-Based LQG Control: A New Look at Inverted Pendulum Stabilization**|Daniel Engelsman et.al.|[2503.18926v1](http://arxiv.org/abs/2503.18926v1)|null|
+|**2025-03-24**|**Pseudopotentials that move: From inertia to electromagnetism**|Massimiliano Stengel et.al.|[2503.18811v1](http://arxiv.org/abs/2503.18811v1)|null|
+|**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301v1](http://arxiv.org/abs/2503.18301v1)|null|
+|**2025-03-24**|**GI-SLAM: Gaussian-Inertial SLAM**|Xulang Liu et.al.|[2503.18275v1](http://arxiv.org/abs/2503.18275v1)|null|
+|**2025-03-23**|**PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition**|Dominique Nshimyimana et.al.|[2503.17978v1](http://arxiv.org/abs/2503.17978v1)|null|
+|**2025-03-22**|**Smart Ankleband for Plug-and-Play Hand-Prosthetic Control**|Dean Zadok et.al.|[2503.17846v1](http://arxiv.org/abs/2503.17846v1)|null|
+|**2025-03-21**|**Differentiable Lagrangian Shock Hydrodynamics with Application to Stable Shock Acceleration of Density Interfaces**|Kevin Korner et.al.|[2503.17527v1](http://arxiv.org/abs/2503.17527v1)|null|
+|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491v1](http://arxiv.org/abs/2503.17491v1)|null|
 |**2025-03-21**|**Einstein's Cat -- A Thought Experiment Against Anti-Relativist Claims**|Val G. Rousseau et.al.|[2503.17248v1](http://arxiv.org/abs/2503.17248v1)|null|
 |**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939v1](http://arxiv.org/abs/2503.16939v1)|null|
 |**2025-03-20**|**On the solvability of the Lie algebra $\mathrm{HH}^1(B)$ for blocks of finite groups**|Markus Linckelmann et.al.|[2503.16697v2](http://arxiv.org/abs/2503.16697v2)|null|
@@ -24,11 +32,3 @@
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
 |**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527v1](http://arxiv.org/abs/2503.12527v1)|null|
 |**2025-03-15**|**MUSE: A Real-Time Multi-Sensor State Estimator for Quadruped Robots**|Ylenia Nisticò et.al.|[2503.12101v1](http://arxiv.org/abs/2503.12101v1)|null|
-|**2025-03-14**|**In Shift and In Variance: Assessing the Robustness of HAR Deep Learning Models against Variability**|Azhar Ali Khaked et.al.|[2503.11466v1](http://arxiv.org/abs/2503.11466v1)|null|
-|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|null|
-|**2025-03-14**|**Inertial manifolds via spatial averaging: a control-theoretic perspective**|Mikhail Anikushin et.al.|[2503.11161v1](http://arxiv.org/abs/2503.11161v1)|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|[link](https://github.com/nubot-nudt/sg-slam)|
-|**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|
-|**2025-03-13**|**Modelling subsonic turbulence with SPH-EXA**|Rubén M. Cabezón et.al.|[2503.10273v1](http://arxiv.org/abs/2503.10273v1)|null|
-|**2025-03-13**|**Sagnac interferometer-based noise-free superresolution using phase-controlled quantum erasers**|Byoung S. Ham et.al.|[2503.10101v2](http://arxiv.org/abs/2503.10101v2)|null|
-|**2025-03-12**|**Acceleration without photon pair creation**|Sara Kanzi et.al.|[2503.09863v2](http://arxiv.org/abs/2503.09863v2)|null|
