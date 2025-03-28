@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-27 21:21:37 Asia/Shanghai
+ Automated deployment @ 2025-03-28 08:45:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -83,7 +83,7 @@
 |**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
 |**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527v1](http://arxiv.org/abs/2503.12527v1)|null|
-|**2025-03-15**|**MUSE: A Real-Time Multi-Sensor State Estimator for Quadruped Robots**|Ylenia Nisticò et.al.|[2503.12101v1](http://arxiv.org/abs/2503.12101v1)|null|
+|**2025-03-15**|**MUSE: A Real-Time Multi-Sensor State Estimator for Quadruped Robots**|Ylenia Nisticò et.al.|[2503.12101v2](http://arxiv.org/abs/2503.12101v2)|null|
 |**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|[link](https://github.com/nubot-nudt/sg-slam)|
 |**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952v1](http://arxiv.org/abs/2503.07952v1)|null|
 |**2025-03-11**|**QLIO: Quantized LiDAR-Inertial Odometry**|Boyang Lou et.al.|[2503.07949v1](http://arxiv.org/abs/2503.07949v1)|[link](https://github.com/luobodan/QLIO)|
