@@ -2,6 +2,25 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-28**|**Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels**|Adam Wei et.al.|[2503.22634v1](http://arxiv.org/abs/2503.22634v1)|null|
+|**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622v1](http://arxiv.org/abs/2503.22622v1)|null|
+|**2025-03-28**|**Euclid Quick Data Release (Q1) Ultracool dwarfs in the Euclid Deep Field North**|A. Mohandasan et.al.|[2503.22559v1](http://arxiv.org/abs/2503.22559v1)|null|
+|**2025-03-28**|**Euclid Quick Data Release (Q1): A photometric search for ultracool dwarfs in the Euclid Deep Fields**|M. Žerjal et.al.|[2503.22497v1](http://arxiv.org/abs/2503.22497v1)|null|
+|**2025-03-28**|**Coupled Video Frame Interpolation and Encoding with Hybrid Event Cameras for Low-Power High-Framerate Video**|Hidekazu Takahashi et.al.|[2503.22491v1](http://arxiv.org/abs/2503.22491v1)|null|
+|**2025-03-28**|**High-Dimensional Encoding Computational Imaging**|YongKang Yan et.al.|[2503.22460v1](http://arxiv.org/abs/2503.22460v1)|null|
+|**2025-03-28**|**Quantitative characterization of hydrophobic agglomeration at different mixing intensities using a copula-based probabilistic modeling approach**|Niklas Eiermann et.al.|[2503.22422v1](http://arxiv.org/abs/2503.22422v1)|null|
+|**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375v1](http://arxiv.org/abs/2503.22375v1)|null|
+|**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349v1](http://arxiv.org/abs/2503.22349v1)|null|
+|**2025-03-28**|**Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty**|Ryuta Nagahama et.al.|[2503.22240v1](http://arxiv.org/abs/2503.22240v1)|null|
+|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201v1](http://arxiv.org/abs/2503.22201v1)|null|
+|**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152v1](http://arxiv.org/abs/2503.22152v1)|[link](https://github.com/facebookresearch/egotom)|
+|**2025-03-28**|**Camera Model Identification with SPAIR-Swin and Entropy based Non-Homogeneous Patches**|Protyay Dey et.al.|[2503.22120v1](http://arxiv.org/abs/2503.22120v1)|null|
+|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060v1](http://arxiv.org/abs/2503.22060v1)|null|
+|**2025-03-28**|**Spatial-Mode Quantum Cryptography in a 545-Dimensional Hilbert Space**|Lukas Scarfe et.al.|[2503.22058v1](http://arxiv.org/abs/2503.22058v1)|null|
+|**2025-03-27**|**Multispectral Demosaicing via Dual Cameras**|SaiKiran Tedla et.al.|[2503.22026v1](http://arxiv.org/abs/2503.22026v1)|null|
+|**2025-03-27**|**AgRowStitch: A High-fidelity Image Stitching Pipeline for Ground-based Agricultural Images**|Isaac Kazuo Uyehara et.al.|[2503.21990v1](http://arxiv.org/abs/2503.21990v1)|null|
+|**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958v1](http://arxiv.org/abs/2503.21958v1)|null|
+|**2025-03-27**|**Multimodal Data Integration for Sustainable Indoor Gardening: Tracking Anyplant with Time Series Foundation Model**|Seyed Hamidreza Nabaei et.al.|[2503.21932v1](http://arxiv.org/abs/2503.21932v1)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778v1](http://arxiv.org/abs/2503.21778v1)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|null|
 |**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595v1](http://arxiv.org/abs/2503.21595v1)|null|
@@ -13,22 +32,3 @@
 |**2025-03-27**|**Euclid Quick Data Release (Q1). The Euclid view on Planck galaxy protocluster candidates: towards a probe of the highest sites of star formation at cosmic noon**|Euclid Collaboration et.al.|[2503.21304v1](http://arxiv.org/abs/2503.21304v1)|null|
 |**2025-03-27**|**Haptic bilateral teleoperation system for free-hand dental procedures**|Lorenzo Pagliara et.al.|[2503.21288v1](http://arxiv.org/abs/2503.21288v1)|null|
 |**2025-03-27**|**ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate**|Ming Yan et.al.|[2503.21268v1](http://arxiv.org/abs/2503.21268v1)|null|
-|**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232v1](http://arxiv.org/abs/2503.21232v1)|null|
-|**2025-03-27**|**StyledStreets: Multi-style Street Simulator with Spatial and Temporal Consistency**|Yuyin Chen et.al.|[2503.21104v1](http://arxiv.org/abs/2503.21104v1)|null|
-|**2025-03-27**|**GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration**|Zhuojiang Cai et.al.|[2503.21094v1](http://arxiv.org/abs/2503.21094v1)|null|
-|**2025-03-27**|**Can Video Diffusion Model Reconstruct 4D Geometry?**|Jinjie Mai et.al.|[2503.21082v1](http://arxiv.org/abs/2503.21082v1)|null|
-|**2025-03-26**|**PhysGen3D: Crafting a Miniature Interactive World from a Single Image**|Boyuan Chen et.al.|[2503.20746v1](http://arxiv.org/abs/2503.20746v1)|null|
-|**2025-03-26**|**Robust Flower Cluster Matching Using The Unscented Transform**|Andy Chu et.al.|[2503.20631v1](http://arxiv.org/abs/2503.20631v1)|null|
-|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614v1](http://arxiv.org/abs/2503.20614v1)|[link](https://github.com/sanjay-810/savid)|
-|**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523v1](http://arxiv.org/abs/2503.20523v1)|null|
-|**2025-03-26**|**An Algorithm for Illuminating $n$ Nonoverlapping Circular Discs' Boundaries on the Plane with Application to Tree Stem Illumination Problem**|Phapaengmuang Sukkasem et.al.|[2503.20440v1](http://arxiv.org/abs/2503.20440v1)|null|
-|**2025-03-26**|**Cherry Yield Forecast: Harvest Prediction for Individual Sweet Cherry Trees**|Andreas Gilson et.al.|[2503.20419v1](http://arxiv.org/abs/2503.20419v1)|null|
-|**2025-03-26**|**Faster Parameter-Efficient Tuning with Token Redundancy Reduction**|Kwonyoung Kim et.al.|[2503.20282v1](http://arxiv.org/abs/2503.20282v1)|null|
-|**2025-03-26**|**EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation**|Ziran Zhang et.al.|[2503.20268v1](http://arxiv.org/abs/2503.20268v1)|[link](https://github.com/openimaginglab/egvd)|
-|**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan et.al.|[2503.20211v1](http://arxiv.org/abs/2503.20211v1)|[link](https://github.com/davidyan2001/synthetic2real-depth)|
-|**2025-03-26**|**Reasoning and Learning a Perceptual Metric for Self-Training of Reflective Objects in Bin-Picking with a Low-cost Camera**|Peiyuan Ni et.al.|[2503.20207v1](http://arxiv.org/abs/2503.20207v1)|[link](https://github.com/chirikjianlab/self-robi)|
-|**2025-03-26**|**Spectrum from Defocus: Fast Spectral Imaging with Chromatic Focal Stack**|M. Kerem Aydin et.al.|[2503.20184v1](http://arxiv.org/abs/2503.20184v1)|null|
-|**2025-03-25**|**Reflections on Diversity: A Real-time Virtual Mirror for Inclusive 3D Face Transformations**|Paraskevi Valergaki et.al.|[2503.20819v1](http://arxiv.org/abs/2503.20819v1)|null|
-|**2025-03-25**|**EventFly: Event Camera Perception from Ground to the Sky**|Lingdong Kong et.al.|[2503.19916v1](http://arxiv.org/abs/2503.19916v1)|null|
-|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|[link](https://github.com/xiangxu-0103/superflow)|
-|**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893v1](http://arxiv.org/abs/2503.19893v1)|null|

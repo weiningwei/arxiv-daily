@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-28**|**Curvature-based energy spectra revealing flow regime changes in Rayleigh-Bénard convection**|Michael Mommert et.al.|[2503.22545v1](http://arxiv.org/abs/2503.22545v1)|null|
+|**2025-03-28**|**Bouncing microdroplets on hydrophobic surfaces**|Jamie Mclauchlan et.al.|[2503.22527v1](http://arxiv.org/abs/2503.22527v1)|null|
+|**2025-03-27**|**Universal energy cascade in homogeneous binary fluid turbulence: A direct comparison of different exact relations**|Nandita Pan et.al.|[2503.21926v1](http://arxiv.org/abs/2503.21926v1)|null|
 |**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727v1](http://arxiv.org/abs/2503.21727v1)|null|
 |**2025-03-27**|**On the fourth power level of $\mathfrak{p}$-adic completions of biquadratic number fields**|Kazimierz Chomicz et.al.|[2503.21559v1](http://arxiv.org/abs/2503.21559v1)|null|
 |**2025-03-27**|**A Data-Driven Method for INS/DVL Alignment**|Guy Damari et.al.|[2503.21350v1](http://arxiv.org/abs/2503.21350v1)|null|
@@ -29,6 +32,3 @@
 |**2025-03-20**|**AUV Acceleration Prediction Using DVL and Deep Learning**|Yair Stolero et.al.|[2503.16573v1](http://arxiv.org/abs/2503.16573v1)|null|
 |**2025-03-19**|**Weakly nonlinear analysis of particle-laden Rayleigh-Bénard convection**|Thota Srinivas et.al.|[2503.15411v1](http://arxiv.org/abs/2503.15411v1)|null|
 |**2025-03-19**|**Direct numerical simulations on transport and deposition of charged inertial particles in turbulent channel flow**|Xuan Ruan et.al.|[2503.15357v1](http://arxiv.org/abs/2503.15357v1)|null|
-|**2025-03-19**|**Radial flow component of Sun's high frequency retrograde inertial waves**|Chris S. Hanson et.al.|[2503.14995v1](http://arxiv.org/abs/2503.14995v1)|null|
-|**2025-03-19**|**Scaling of Particle Heating in Shocks and Magnetic Reconnection**|Mitsuo Oka et.al.|[2503.14823v1](http://arxiv.org/abs/2503.14823v1)|null|
-|**2025-03-18**|**Nonlinear Modeling and Observability of a Planar Multi-Link Robot with Link Thrusters**|Nicholas B. Andrews et.al.|[2503.14790v1](http://arxiv.org/abs/2503.14790v1)|null|
