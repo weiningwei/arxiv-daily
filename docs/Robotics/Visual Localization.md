@@ -12,10 +12,10 @@
 |**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375v1](http://arxiv.org/abs/2503.22375v1)|null|
 |**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349v1](http://arxiv.org/abs/2503.22349v1)|null|
 |**2025-03-28**|**Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty**|Ryuta Nagahama et.al.|[2503.22240v1](http://arxiv.org/abs/2503.22240v1)|null|
-|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201v1](http://arxiv.org/abs/2503.22201v1)|null|
+|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201v1](http://arxiv.org/abs/2503.22201v1)|[link](https://github.com/jaewoo97/kdtf)|
 |**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152v1](http://arxiv.org/abs/2503.22152v1)|[link](https://github.com/facebookresearch/egotom)|
 |**2025-03-28**|**Camera Model Identification with SPAIR-Swin and Entropy based Non-Homogeneous Patches**|Protyay Dey et.al.|[2503.22120v1](http://arxiv.org/abs/2503.22120v1)|null|
-|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060v1](http://arxiv.org/abs/2503.22060v1)|null|
+|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060v1](http://arxiv.org/abs/2503.22060v1)|[link](https://github.com/ukcheolshin/supdepth4thermal)|
 |**2025-03-28**|**Spatial-Mode Quantum Cryptography in a 545-Dimensional Hilbert Space**|Lukas Scarfe et.al.|[2503.22058v1](http://arxiv.org/abs/2503.22058v1)|null|
 |**2025-03-27**|**Multispectral Demosaicing via Dual Cameras**|SaiKiran Tedla et.al.|[2503.22026v1](http://arxiv.org/abs/2503.22026v1)|null|
 |**2025-03-27**|**AgRowStitch: A High-fidelity Image Stitching Pipeline for Ground-based Agricultural Images**|Isaac Kazuo Uyehara et.al.|[2503.21990v1](http://arxiv.org/abs/2503.21990v1)|null|
