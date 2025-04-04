@@ -2,14 +2,19 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
+|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
+|**2025-04-03**|**Effective field theory of Plasmas in Podolsky corrected Photonic field**|Prabhat Singh et.al.|[2504.02414v1](http://arxiv.org/abs/2504.02414v1)|null|
+|**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086v1](http://arxiv.org/abs/2504.02086v1)|null|
 |**2025-04-02**|**Laboratory evaluation of a wearable instrumented headband for rotational head kinematics measurement**|Anu Tripathi et.al.|[2504.01939v1](http://arxiv.org/abs/2504.01939v1)|null|
-|**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|null|
+|**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|[link](https://github.com/lian-yue0515/d-li-init)|
 |**2025-04-02**|**AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking**|Yimiao Sun et.al.|[2504.01297v1](http://arxiv.org/abs/2504.01297v1)|null|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|[link](https://github.com/aerialroboticsgroup/forest-vo)|
 |**2025-04-01**|**HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2504.00969v1](http://arxiv.org/abs/2504.00969v1)|null|
 |**2025-04-01**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Sotaro Katayama et.al.|[2504.00614v1](http://arxiv.org/abs/2504.00614v1)|null|
 |**2025-04-01**|**Indoor Drone Localization and Tracking Based on Acoustic Inertial Measurement**|Yimiao Sun et.al.|[2504.00445v1](http://arxiv.org/abs/2504.00445v1)|null|
 |**2025-04-01**|**Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2504.00438v1](http://arxiv.org/abs/2504.00438v1)|null|
+|**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253v1](http://arxiv.org/abs/2503.24253v1)|null|
 |**2025-03-31**|**Distinct parallel electrostatic collisionless shocks in hot-cold ablative mixing plasmas**|Yanzeng Zhang et.al.|[2503.24231v1](http://arxiv.org/abs/2503.24231v1)|null|
 |**2025-03-31**|**Non-linear saturation of gravito-inertial modes excited by tidal resonances in binary neutron stars**|Alexis Reboul-Salze et.al.|[2503.24154v1](http://arxiv.org/abs/2503.24154v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-27**|**Universal energy cascade in homogeneous binary fluid turbulence: A direct comparison of different exact relations**|Nandita Pan et.al.|[2503.21926v1](http://arxiv.org/abs/2503.21926v1)|null|
 |**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727v1](http://arxiv.org/abs/2503.21727v1)|null|
 |**2025-03-27**|**On the fourth power level of $\mathfrak{p}$-adic completions of biquadratic number fields**|Kazimierz Chomicz et.al.|[2503.21559v1](http://arxiv.org/abs/2503.21559v1)|null|
-|**2025-03-27**|**A Data-Driven Method for INS/DVL Alignment**|Guy Damari et.al.|[2503.21350v1](http://arxiv.org/abs/2503.21350v1)|null|
-|**2025-03-27**|**Lidar-only Odometry based on Multiple Scan-to-Scan Alignments over a Moving Window**|Aaron Kurda et.al.|[2503.21293v1](http://arxiv.org/abs/2503.21293v1)|null|
-|**2025-03-27**|**Dynamics of an elliptical cylinder in confined Poiseuille flow under Navier slip boundary conditions**|Xinwei Cai et.al.|[2503.21192v1](http://arxiv.org/abs/2503.21192v1)|null|
-|**2025-03-26**|**Phase-resolved Modeling Of Surf Zone Wave Transformation Over Idealized Rough Bottoms**|Emile Guélard Ancilotti et.al.|[2503.20373v1](http://arxiv.org/abs/2503.20373v1)|null|
-|**2025-03-26**|**Active magneto gyrator as a tunable heat engine or heat pump**|F. Adersh et.al.|[2503.20128v1](http://arxiv.org/abs/2503.20128v1)|null|
