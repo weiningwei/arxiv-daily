@@ -24,7 +24,7 @@
 |**2025-04-02**|**The Mini-SiTian Array: Imaging Processing Pipeline**|Kai Xiao et.al.|[2504.01616v1](http://arxiv.org/abs/2504.01616v1)|null|
 |**2025-04-02**|**Automatic Estimation of Pedestrian Gait Features using a single camera recording: Algorithm and Statistical Analysis for Gender Difference and Obstacle Interactions**|Kanika Jain et.al.|[2504.01600v1](http://arxiv.org/abs/2504.01600v1)|null|
 |**2025-04-02**|**8-DoFs Cable Driven Parallel Robots for Bimanual Teleportation**|Hung Hon Cheng et.al.|[2504.01554v1](http://arxiv.org/abs/2504.01554v1)|null|
-|**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503v1](http://arxiv.org/abs/2504.01503v1)|null|
+|**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503v1](http://arxiv.org/abs/2504.01503v1)|[link](https://github.com/cuiziteng/Luminance-GS)|
 |**2025-04-02**|**DF-Calib: Targetless LiDAR-Camera Calibration via Depth Flow**|Shu Han et.al.|[2504.01416v1](http://arxiv.org/abs/2504.01416v1)|null|
 |**2025-04-02**|**Direction-Aware Hybrid Representation Learning for 3D Hand Pose and Shape Estimation**|Shiyong Liu et.al.|[2504.01298v2](http://arxiv.org/abs/2504.01298v2)|null|
 |**2025-04-02**|**A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence**|Subhradip Chakraborty et.al.|[2504.01275v1](http://arxiv.org/abs/2504.01275v1)|null|
