@@ -15,7 +15,7 @@
 |**2025-04-02**|**Exploring the Capabilities of LLMs for IMU-based Fine-grained Human Activity Understanding**|Lilin Xu et.al.|[2504.02878v1](http://arxiv.org/abs/2504.02878v1)|null|
 |**2025-04-02**|**AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking**|Yimiao Sun et.al.|[2504.01297v1](http://arxiv.org/abs/2504.01297v1)|null|
 |**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|[link](https://github.com/aerialroboticsgroup/forest-vo)|
-|**2025-04-01**|**HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2504.00969v1](http://arxiv.org/abs/2504.00969v1)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
+|**2025-04-01**|**HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2504.00969v2](http://arxiv.org/abs/2504.00969v2)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
 |**2025-04-01**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Sotaro Katayama et.al.|[2504.00614v1](http://arxiv.org/abs/2504.00614v1)|null|
 |**2025-04-01**|**Indoor Drone Localization and Tracking Based on Acoustic Inertial Measurement**|Yimiao Sun et.al.|[2504.00445v1](http://arxiv.org/abs/2504.00445v1)|null|
 |**2025-04-01**|**Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2504.00438v1](http://arxiv.org/abs/2504.00438v1)|null|

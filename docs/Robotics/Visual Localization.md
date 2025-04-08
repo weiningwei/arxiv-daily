@@ -6,7 +6,7 @@
 |**2025-04-04**|**The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy**|Fabrícia O. Barbosa et.al.|[2504.03593v1](http://arxiv.org/abs/2504.03593v1)|null|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|null|
 |**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Mirko Borszukovszki et.al.|[2504.03440v1](http://arxiv.org/abs/2504.03440v1)|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v1](http://arxiv.org/abs/2504.03438v1)|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v2](http://arxiv.org/abs/2504.03438v2)|null|
 |**2025-04-04**|**MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**|Chen Hu et.al.|[2504.03379v1](http://arxiv.org/abs/2504.03379v1)|null|
 |**2025-04-04**|**Multi-Flow: Multi-View-Enriched Normalizing Flows for Industrial Anomaly Detection**|Mathis Kruse et.al.|[2504.03306v1](http://arxiv.org/abs/2504.03306v1)|null|
 |**2025-04-04**|**A Modular Energy Aware Framework for Multicopter Modeling in Control and Planning Applications**|Sebastian Gasche et.al.|[2504.03256v1](http://arxiv.org/abs/2504.03256v1)|null|
