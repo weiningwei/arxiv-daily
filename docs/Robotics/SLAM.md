@@ -2,6 +2,11 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|null|
+|**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497v1](http://arxiv.org/abs/2504.04497v1)|null|
+|**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan et.al.|[2504.04457v1](http://arxiv.org/abs/2504.04457v1)|null|
+|**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
+|**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886v1](http://arxiv.org/abs/2504.03886v1)|null|
 |**2025-04-03**|**SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**|Prashant Kumar et.al.|[2504.03089v1](http://arxiv.org/abs/2504.03089v1)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477v1](http://arxiv.org/abs/2504.02477v1)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-19**|**ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching with Collaborative LLM-Agents**|Hao Liang et.al.|[2503.14948v1](http://arxiv.org/abs/2503.14948v1)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346v1](http://arxiv.org/abs/2503.14346v1)|null|
 |**2025-03-18**|**GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**|Tingyang Xiao et.al.|[2503.14247v1](http://arxiv.org/abs/2503.14247v1)|[link](https://github.com/nsn-hello/geoflow-slam)|
-|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|[link](https://github.com/ais-lab/a-score)|
-|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
-|**2025-03-17**|**Dynamic-Dark SLAM: RGB-Thermal Cooperative Robot Vision Strategy for Multi-Person Tracking in Both Well-Lit and Low-Light Scenes**|Tatsuro Sakai et.al.|[2503.12768v1](http://arxiv.org/abs/2503.12768v1)|null|
-|**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
-|**2025-03-16**|**Deblur Gaussian Splatting SLAM**|Francesco Girlanda et.al.|[2503.12572v1](http://arxiv.org/abs/2503.12572v1)|null|

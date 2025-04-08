@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-07**|**Inertia-induced scaling and criticality in martensites**|Oğuz Umut Salman et.al.|[2504.05115v1](http://arxiv.org/abs/2504.05115v1)|null|
+|**2025-04-07**|**Universal scaling laws of boundary-driven turbulence**|Yong-Ying Zeng et.al.|[2504.05060v1](http://arxiv.org/abs/2504.05060v1)|null|
+|**2025-04-07**|**A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping**|Edoardo Del Bianco et.al.|[2504.04970v1](http://arxiv.org/abs/2504.04970v1)|null|
+|**2025-04-06**|**Limiting velocity and generalized Lorentz trasformations**|Fabiano Minni et.al.|[2504.04617v1](http://arxiv.org/abs/2504.04617v1)|null|
+|**2025-04-06**|**Analysis of inertial-range intermittency in forward and inverse cascade regions in isotropic turbulence**|H. Yao et.al.|[2504.04595v1](http://arxiv.org/abs/2504.04595v1)|null|
+|**2025-04-06**|**First-principles analysis of the warm dense plasma jets in Double-Cone Ignition experiments**|N. -Y. Shi et.al.|[2504.04317v1](http://arxiv.org/abs/2504.04317v1)|null|
+|**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
+|**2025-04-05**|**The effects of temperature and viscosity on the metachronal swimming of crustaceans**|Adrian Herrera-Amaya et.al.|[2504.04236v1](http://arxiv.org/abs/2504.04236v1)|null|
+|**2025-04-04**|**A posteriori closure of turbulence models: are symmetries preserved ?**|André Freitas et.al.|[2504.03870v1](http://arxiv.org/abs/2504.03870v1)|null|
 |**2025-04-04**|**Hyperbolic relaxation of a sixth-order Cahn-Hilliard equation**|Pierluigi Colli et.al.|[2504.03580v1](http://arxiv.org/abs/2504.03580v1)|null|
 |**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171v1](http://arxiv.org/abs/2504.03171v1)|null|
 |**2025-04-03**|**Turbulence transport in moderately dense gas--particle compressible flows**|Archana Sridhar et.al.|[2504.03061v1](http://arxiv.org/abs/2504.03061v1)|null|
@@ -11,6 +20,7 @@
 |**2025-04-02**|**UAC: Uncertainty-Aware Calibration of Neural Networks for Gesture Detection**|Farida Al Haddad et.al.|[2504.02895v1](http://arxiv.org/abs/2504.02895v1)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086v1](http://arxiv.org/abs/2504.02086v1)|null|
 |**2025-04-02**|**Laboratory evaluation of a wearable instrumented headband for rotational head kinematics measurement**|Anu Tripathi et.al.|[2504.01939v1](http://arxiv.org/abs/2504.01939v1)|null|
+|**2025-04-02**|**A Geometric Approach For Pose and Velocity Estimation Using IMU and Inertial/Body-Frame Measurements**|Sifeddine Benahmed et.al.|[2504.03764v1](http://arxiv.org/abs/2504.03764v1)|null|
 |**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|[link](https://github.com/lian-yue0515/d-li-init)|
 |**2025-04-02**|**Exploring the Capabilities of LLMs for IMU-based Fine-grained Human Activity Understanding**|Lilin Xu et.al.|[2504.02878v1](http://arxiv.org/abs/2504.02878v1)|null|
 |**2025-04-02**|**AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking**|Yimiao Sun et.al.|[2504.01297v1](http://arxiv.org/abs/2504.01297v1)|null|
@@ -22,13 +32,3 @@
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253v1](http://arxiv.org/abs/2503.24253v1)|null|
 |**2025-03-31**|**Distinct parallel electrostatic collisionless shocks in hot-cold ablative mixing plasmas**|Yanzeng Zhang et.al.|[2503.24231v1](http://arxiv.org/abs/2503.24231v1)|null|
-|**2025-03-31**|**Non-linear saturation of gravito-inertial modes excited by tidal resonances in binary neutron stars**|Alexis Reboul-Salze et.al.|[2503.24154v1](http://arxiv.org/abs/2503.24154v1)|null|
-|**2025-03-30**|**Dewetting Dynamics of Unstable Lubricant Impregnated Surfaces in Liquid Environment**|Abhishek Mund et.al.|[2503.23449v1](http://arxiv.org/abs/2503.23449v1)|null|
-|**2025-03-30**|**Design and Experimental Validation of an Autonomous USV for Sensor Fusion-Based Navigation in GNSS-Denied Environments**|Samuel Cohen-Salmon et.al.|[2503.23445v1](http://arxiv.org/abs/2503.23445v1)|null|
-|**2025-03-30**|**A Note on the Definition of Strategies in Opportunity Hunting Games**|Ran Eilat et.al.|[2503.23437v1](http://arxiv.org/abs/2503.23437v1)|null|
-|**2025-03-30**|**A Visual-Inertial Motion Prior SLAM for Dynamic Environments**|Weilong Sun et.al.|[2503.23429v1](http://arxiv.org/abs/2503.23429v1)|null|
-|**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199v1](http://arxiv.org/abs/2503.23199v1)|null|
-|**2025-03-29**|**SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry**|Peiyu Chen et.al.|[2503.22963v1](http://arxiv.org/abs/2503.22963v1)|[link](https://github.com/arclab-hku/supereio)|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v2](http://arxiv.org/abs/2503.22943v2)|null|
-|**2025-03-29**|**SR-LIO++: Efficient LiDAR-Inertial Odometry and Quantized Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2503.22926v1](http://arxiv.org/abs/2503.22926v1)|null|
-|**2025-03-28**|**Attitude Synchronization for Multi-Agent Systems on SO(3) Using Vector Measurements**|Mouaad Boughellaba et.al.|[2503.22870v1](http://arxiv.org/abs/2503.22870v1)|null|
