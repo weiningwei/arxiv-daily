@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-08**|**Adaptive Control of Dual-Rotor Rotational System with Unknown Geometry and Unknown Inertia**|Mohammad Mirtaba et.al.|[2504.05589v1](http://arxiv.org/abs/2504.05589v1)|null|
 |**2025-04-07**|**Inertia-induced scaling and criticality in martensites**|Oğuz Umut Salman et.al.|[2504.05115v1](http://arxiv.org/abs/2504.05115v1)|null|
 |**2025-04-07**|**Universal scaling laws of boundary-driven turbulence**|Yong-Ying Zeng et.al.|[2504.05060v1](http://arxiv.org/abs/2504.05060v1)|null|
 |**2025-04-07**|**A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping**|Edoardo Del Bianco et.al.|[2504.04970v1](http://arxiv.org/abs/2504.04970v1)|null|
@@ -31,4 +32,3 @@
 |**2025-04-01**|**Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2504.00438v1](http://arxiv.org/abs/2504.00438v1)|null|
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253v1](http://arxiv.org/abs/2503.24253v1)|null|
-|**2025-03-31**|**Distinct parallel electrostatic collisionless shocks in hot-cold ablative mixing plasmas**|Yanzeng Zhang et.al.|[2503.24231v1](http://arxiv.org/abs/2503.24231v1)|null|
