@@ -2,7 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-11**|**Phase separation in a chiral active fluid of inertial self-spinning disks**|Pasquale Digregorio et.al.|[2504.08533v1](http://arxiv.org/abs/2504.08533v1)|null|
+|**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
+|**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|null|
 |**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|null|
+|**2025-04-10**|**Progress in evaluating a possible electromagnetic interaction energy in a gravitational field**|Mayeul Arminjon et.al.|[2504.08015v1](http://arxiv.org/abs/2504.08015v1)|null|
 |**2025-04-10**|**Low-Thrust Many-Revolution Transfer between Near Rectilinear Halo Orbit and Low Lunar Orbit Using Hybrid Differential Dynamic Programming**|Kohei Oue et.al.|[2504.07723v1](http://arxiv.org/abs/2504.07723v1)|null|
 |**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697v1](http://arxiv.org/abs/2504.07697v1)|null|
 |**2025-04-09**|**Noise Resilience in a High-Bandwidth Atom Interferometer**|Jonathan M. Kwolek et.al.|[2504.07236v1](http://arxiv.org/abs/2504.07236v1)|null|
@@ -28,7 +32,3 @@
 |**2025-04-02**|**Laboratory evaluation of a wearable instrumented headband for rotational head kinematics measurement**|Anu Tripathi et.al.|[2504.01939v1](http://arxiv.org/abs/2504.01939v1)|null|
 |**2025-04-02**|**A Geometric Approach For Pose and Velocity Estimation Using IMU and Inertial/Body-Frame Measurements**|Sifeddine Benahmed et.al.|[2504.03764v1](http://arxiv.org/abs/2504.03764v1)|null|
 |**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|[link](https://github.com/lian-yue0515/d-li-init)|
-|**2025-04-02**|**Exploring the Capabilities of LLMs for IMU-based Fine-grained Human Activity Understanding**|Lilin Xu et.al.|[2504.02878v1](http://arxiv.org/abs/2504.02878v1)|null|
-|**2025-04-02**|**AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking**|Yimiao Sun et.al.|[2504.01297v1](http://arxiv.org/abs/2504.01297v1)|null|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|[link](https://github.com/aerialroboticsgroup/forest-vo)|
-|**2025-04-01**|**HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2504.00969v2](http://arxiv.org/abs/2504.00969v2)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|
