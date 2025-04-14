@@ -16,7 +16,7 @@
 |**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
 |**2025-04-05**|**The effects of temperature and viscosity on the metachronal swimming of crustaceans**|Adrian Herrera-Amaya et.al.|[2504.04236v1](http://arxiv.org/abs/2504.04236v1)|null|
 |**2025-04-04**|**A posteriori closure of turbulence models: are symmetries preserved ?**|André Freitas et.al.|[2504.03870v1](http://arxiv.org/abs/2504.03870v1)|null|
-|**2025-04-04**|**Hyperbolic relaxation of a sixth-order Cahn-Hilliard equation**|Pierluigi Colli et.al.|[2504.03580v1](http://arxiv.org/abs/2504.03580v1)|null|
+|**2025-04-04**|**Hyperbolic relaxation of a sixth-order Cahn-Hilliard equation**|Pierluigi Colli et.al.|[2504.03580v2](http://arxiv.org/abs/2504.03580v2)|null|
 |**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171v1](http://arxiv.org/abs/2504.03171v1)|[link](https://github.com/zeyang-zheng/real-time-roadway-obstacle-detection-for-electric-scooters)|
 |**2025-04-03**|**Turbulence transport in moderately dense gas--particle compressible flows**|Archana Sridhar et.al.|[2504.03061v1](http://arxiv.org/abs/2504.03061v1)|null|
 |**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
