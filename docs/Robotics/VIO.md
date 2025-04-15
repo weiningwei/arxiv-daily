@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-14**|**Ankle Exoskeletons in Walking and Load-Carrying Tasks: Insights into Biomechanics and Human-Robot Interaction**|J. F. Almeida et.al.|[2504.10294v1](http://arxiv.org/abs/2504.10294v1)|null|
+|**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225v1](http://arxiv.org/abs/2504.10225v1)|null|
+|**2025-04-14**|**Revisiting Fusion in D-${}^{3}$He Plasmas With Spin-Polarized Fuel**|J. F. Parisi et.al.|[2504.09869v1](http://arxiv.org/abs/2504.09869v1)|null|
+|**2025-04-13**|**Fundamental evaluation of the pressure gradient for lubrication flows in varying channels: Application to inertial Newtonian flow in a linear channel**|Panagiotis Sialmas et.al.|[2504.09563v1](http://arxiv.org/abs/2504.09563v1)|null|
+|**2025-04-13**|**Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics**|Ben Liu et.al.|[2504.09495v1](http://arxiv.org/abs/2504.09495v1)|null|
+|**2025-04-12**|**Controllable and Non-Dissipative Inertial Dynamics of Skyrmion in a Bosonic Platform**|Imam Makhfudz et.al.|[2504.09112v1](http://arxiv.org/abs/2504.09112v1)|null|
+|**2025-04-12**|**UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance**|Shuning Sun et.al.|[2504.09069v1](http://arxiv.org/abs/2504.09069v1)|null|
+|**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047v1](http://arxiv.org/abs/2504.09047v1)|null|
+|**2025-04-11**|**Heatpipe-cooled in-vacuum electromagnet for quantum science experiment**|Kenneth Nakasone et.al.|[2504.08931v1](http://arxiv.org/abs/2504.08931v1)|null|
 |**2025-04-11**|**Phase separation in a chiral active fluid of inertial self-spinning disks**|Pasquale Digregorio et.al.|[2504.08533v1](http://arxiv.org/abs/2504.08533v1)|null|
 |**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
 |**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|null|
@@ -23,12 +32,3 @@
 |**2025-04-04**|**Hyperbolic relaxation of a sixth-order Cahn-Hilliard equation**|Pierluigi Colli et.al.|[2504.03580v2](http://arxiv.org/abs/2504.03580v2)|null|
 |**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171v1](http://arxiv.org/abs/2504.03171v1)|[link](https://github.com/zeyang-zheng/real-time-roadway-obstacle-detection-for-electric-scooters)|
 |**2025-04-03**|**Turbulence transport in moderately dense gas--particle compressible flows**|Archana Sridhar et.al.|[2504.03061v1](http://arxiv.org/abs/2504.03061v1)|null|
-|**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
-|**2025-04-03**|**Near-inertial Pollard Waves Modeling the Arctic Halocline**|Christian Puntini et.al.|[2504.07129v1](http://arxiv.org/abs/2504.07129v1)|null|
-|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
-|**2025-04-03**|**Effective field theory of Plasmas in Podolsky corrected Photonic field**|Prabhat Singh et.al.|[2504.02414v1](http://arxiv.org/abs/2504.02414v1)|null|
-|**2025-04-02**|**UAC: Uncertainty-Aware Calibration of Neural Networks for Gesture Detection**|Farida Al Haddad et.al.|[2504.02895v1](http://arxiv.org/abs/2504.02895v1)|null|
-|**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086v1](http://arxiv.org/abs/2504.02086v1)|null|
-|**2025-04-02**|**Laboratory evaluation of a wearable instrumented headband for rotational head kinematics measurement**|Anu Tripathi et.al.|[2504.01939v1](http://arxiv.org/abs/2504.01939v1)|null|
-|**2025-04-02**|**A Geometric Approach For Pose and Velocity Estimation Using IMU and Inertial/Body-Frame Measurements**|Sifeddine Benahmed et.al.|[2504.03764v1](http://arxiv.org/abs/2504.03764v1)|null|
-|**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|[link](https://github.com/lian-yue0515/d-li-init)|
