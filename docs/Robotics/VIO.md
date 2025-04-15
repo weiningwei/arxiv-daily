@@ -6,7 +6,7 @@
 |**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
 |**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|null|
 |**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|null|
-|**2025-04-10**|**Progress in evaluating a possible electromagnetic interaction energy in a gravitational field**|Mayeul Arminjon et.al.|[2504.08015v1](http://arxiv.org/abs/2504.08015v1)|null|
+|**2025-04-10**|**Progress in evaluating a possible electromagnetic interaction energy in a gravitational field**|Mayeul Arminjon et.al.|[2504.08015v2](http://arxiv.org/abs/2504.08015v2)|null|
 |**2025-04-10**|**Low-Thrust Many-Revolution Transfer between Near Rectilinear Halo Orbit and Low Lunar Orbit Using Hybrid Differential Dynamic Programming**|Kohei Oue et.al.|[2504.07723v1](http://arxiv.org/abs/2504.07723v1)|null|
 |**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697v1](http://arxiv.org/abs/2504.07697v1)|null|
 |**2025-04-09**|**Noise Resilience in a High-Bandwidth Atom Interferometer**|Jonathan M. Kwolek et.al.|[2504.07236v1](http://arxiv.org/abs/2504.07236v1)|null|
