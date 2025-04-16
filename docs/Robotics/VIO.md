@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432v1](http://arxiv.org/abs/2504.11432v1)|null|
+|**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119v1](http://arxiv.org/abs/2504.11119v1)|null|
+|**2025-04-15**|**Bell-Mermin-Klyshko Inequalities and One-way Information Deficit of Dirac Fields in Noninertial Frames**|Biao-Liang Ye et.al.|[2504.10860v1](http://arxiv.org/abs/2504.10860v1)|null|
+|**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|
+|**2025-04-14**|**Validation of FLASH for magnetically driven inertial confinement fusion target design**|C. Leland Ellison et.al.|[2504.10760v1](http://arxiv.org/abs/2504.10760v1)|null|
+|**2025-04-14**|**Affordable, manageable, practical, and scalable (AMPS) high-yield and high-gain inertial fusion**|Andrew Alexander et.al.|[2504.10680v1](http://arxiv.org/abs/2504.10680v1)|null|
 |**2025-04-14**|**Ankle Exoskeletons in Walking and Load-Carrying Tasks: Insights into Biomechanics and Human-Robot Interaction**|J. F. Almeida et.al.|[2504.10294v1](http://arxiv.org/abs/2504.10294v1)|null|
 |**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225v1](http://arxiv.org/abs/2504.10225v1)|null|
 |**2025-04-14**|**Revisiting Fusion in D-${}^{3}$He Plasmas With Spin-Polarized Fuel**|J. F. Parisi et.al.|[2504.09869v1](http://arxiv.org/abs/2504.09869v1)|null|
@@ -26,9 +32,3 @@
 |**2025-04-06**|**Limiting velocity and generalized Lorentz trasformations**|Fabiano Minni et.al.|[2504.04617v1](http://arxiv.org/abs/2504.04617v1)|null|
 |**2025-04-06**|**Analysis of inertial-range intermittency in forward and inverse cascade regions in isotropic turbulence**|H. Yao et.al.|[2504.04595v1](http://arxiv.org/abs/2504.04595v1)|null|
 |**2025-04-06**|**First-principles analysis of the warm dense plasma jets in Double-Cone Ignition experiments**|N. -Y. Shi et.al.|[2504.04317v1](http://arxiv.org/abs/2504.04317v1)|null|
-|**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
-|**2025-04-05**|**The effects of temperature and viscosity on the metachronal swimming of crustaceans**|Adrian Herrera-Amaya et.al.|[2504.04236v1](http://arxiv.org/abs/2504.04236v1)|null|
-|**2025-04-04**|**A posteriori closure of turbulence models: are symmetries preserved ?**|André Freitas et.al.|[2504.03870v1](http://arxiv.org/abs/2504.03870v1)|null|
-|**2025-04-04**|**Hyperbolic relaxation of a sixth-order Cahn-Hilliard equation**|Pierluigi Colli et.al.|[2504.03580v2](http://arxiv.org/abs/2504.03580v2)|null|
-|**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171v1](http://arxiv.org/abs/2504.03171v1)|[link](https://github.com/zeyang-zheng/real-time-roadway-obstacle-detection-for-electric-scooters)|
-|**2025-04-03**|**Turbulence transport in moderately dense gas--particle compressible flows**|Archana Sridhar et.al.|[2504.03061v1](http://arxiv.org/abs/2504.03061v1)|null|
