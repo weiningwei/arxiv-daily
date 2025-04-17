@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|null|
+|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v1](http://arxiv.org/abs/2504.11634v1)|null|
+|**2025-04-15**|**RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry**|Ziyu Cao et.al.|[2504.11580v1](http://arxiv.org/abs/2504.11580v1)|null|
 |**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|
 |**2025-04-13**|**Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics**|Ben Liu et.al.|[2504.09495v1](http://arxiv.org/abs/2504.09495v1)|null|
 |**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047v1](http://arxiv.org/abs/2504.09047v1)|null|
@@ -29,6 +32,3 @@
 |**2025-03-11**|**QLIO: Quantized LiDAR-Inertial Odometry**|Boyang Lou et.al.|[2503.07949v1](http://arxiv.org/abs/2503.07949v1)|[link](https://github.com/luobodan/QLIO)|
 |**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891v1](http://arxiv.org/abs/2503.06891v1)|[link](https://github.com/xpxie/akf-lio)|
 |**2025-03-10**|**A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots**|Chaoran Xiong et.al.|[2503.06844v1](http://arxiv.org/abs/2503.06844v1)|null|
-|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
-|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|[link](https://github.com/chengwei0427/adaptive_lio)|
-|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
