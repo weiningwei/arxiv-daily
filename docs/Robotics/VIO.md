@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v1](http://arxiv.org/abs/2504.13088v1)|null|
+|**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921v1](http://arxiv.org/abs/2504.12921v1)|null|
+|**2025-04-16**|**MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices**|Vasco Xu et.al.|[2504.12492v1](http://arxiv.org/abs/2504.12492v1)|null|
 |**2025-04-16**|**Real-Time Shape Estimation of Tensegrity Structures Using Strut Inclination Angles**|Tufail Ahmad Bhat et.al.|[2504.11868v1](http://arxiv.org/abs/2504.11868v1)|null|
 |**2025-04-16**|**Analysis of Power Swing Characteristics of Grid-Forming VSC System Considering the Current Limitation Mode**|Yongxin Xiong et.al.|[2504.11797v1](http://arxiv.org/abs/2504.11797v1)|null|
 |**2025-04-16**|**Saga: Capturing Multi-granularity Semantics from Massive Unlabelled IMU Data for User Perception**|Yunzhe Li et.al.|[2504.11726v1](http://arxiv.org/abs/2504.11726v1)|null|
@@ -9,6 +12,7 @@
 |**2025-04-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thinning Medium**|Sayantan Mondal et.al.|[2504.11683v1](http://arxiv.org/abs/2504.11683v1)|null|
 |**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v1](http://arxiv.org/abs/2504.11634v1)|null|
 |**2025-04-15**|**RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry**|Ziyu Cao et.al.|[2504.11580v1](http://arxiv.org/abs/2504.11580v1)|null|
+|**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348v1](http://arxiv.org/abs/2504.12348v1)|null|
 |**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432v1](http://arxiv.org/abs/2504.11432v1)|null|
 |**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119v1](http://arxiv.org/abs/2504.11119v1)|null|
 |**2025-04-15**|**Bell-Mermin-Klyshko Inequalities and One-way Information Deficit of Dirac Fields in Noninertial Frames**|Biao-Liang Ye et.al.|[2504.10860v1](http://arxiv.org/abs/2504.10860v1)|null|
@@ -28,7 +32,3 @@
 |**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
 |**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|null|
 |**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|null|
-|**2025-04-10**|**Progress in evaluating a possible electromagnetic interaction energy in a gravitational field**|Mayeul Arminjon et.al.|[2504.08015v2](http://arxiv.org/abs/2504.08015v2)|null|
-|**2025-04-10**|**Low-Thrust Many-Revolution Transfer between Near Rectilinear Halo Orbit and Low Lunar Orbit Using Hybrid Differential Dynamic Programming**|Kohei Oue et.al.|[2504.07723v1](http://arxiv.org/abs/2504.07723v1)|null|
-|**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697v1](http://arxiv.org/abs/2504.07697v1)|null|
-|**2025-04-09**|**Noise Resilience in a High-Bandwidth Atom Interferometer**|Jonathan M. Kwolek et.al.|[2504.07236v1](http://arxiv.org/abs/2504.07236v1)|null|
