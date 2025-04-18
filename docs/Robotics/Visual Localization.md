@@ -14,7 +14,7 @@
 |**2025-04-15**|**New dwarf galaxy candidates in the M106, NGC3521, and UGCA127 groups with the Hyper Suprime Camera**|Oliver Müller et.al.|[2504.11608v1](http://arxiv.org/abs/2504.11608v1)|null|
 |**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389v1](http://arxiv.org/abs/2504.11389v1)|null|
 |**2025-04-15**|**Smartphone-Based Undergraduate Physics Labs: A Comprehensive Review of Innovation, Accessibility, and Pedagogical Impact**|Yiping Zhao et.al.|[2504.11363v1](http://arxiv.org/abs/2504.11363v1)|null|
-|**2025-04-15**|**Hybrid Compton-PET Imaging for ion-range verification:A Preclinical Study for Proton-, Helium-, and Carbon-Therapy at HIT**|Javier Balibrea-Correa et.al.|[2504.11273v1](http://arxiv.org/abs/2504.11273v1)|null|
+|**2025-04-15**|**Hybrid Compton-PET Imaging for ion-range verification:A Preclinical Study for Proton-, Helium-, and Carbon-Therapy at HIT**|Javier Balibrea-Correa et.al.|[2504.11273v2](http://arxiv.org/abs/2504.11273v2)|null|
 |**2025-04-15**|**Focal Split: Untethered Snapshot Depth from Differential Defocus**|Junjie Luo et.al.|[2504.11202v1](http://arxiv.org/abs/2504.11202v1)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134v1](http://arxiv.org/abs/2504.11134v1)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031v1](http://arxiv.org/abs/2504.11031v1)|null|
@@ -31,4 +31,4 @@
 |**2025-04-14**|**Simulation and Experimental Validation of Optical Camera Communication**|Srivathsan Chakaravarthi Narasimman et.al.|[2504.10224v1](http://arxiv.org/abs/2504.10224v1)|null|
 |**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123v1](http://arxiv.org/abs/2504.10123v1)|null|
 |**2025-04-14**|**SoccerNet-v3D: Leveraging Sports Broadcast Replays for 3D Scene Understanding**|Marc Gutiérrez-Pérez et.al.|[2504.10106v1](http://arxiv.org/abs/2504.10106v1)|null|
-|**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|I-Sheng Fang et.al.|[2504.10090v1](http://arxiv.org/abs/2504.10090v1)|null|
+|**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|I-Sheng Fang et.al.|[2504.10090v2](http://arxiv.org/abs/2504.10090v2)|null|
