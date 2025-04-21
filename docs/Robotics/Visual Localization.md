@@ -2,6 +2,18 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Zhengtong Xu et.al.|[2504.13807v1](http://arxiv.org/abs/2504.13807v1)|null|
+|**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692v1](http://arxiv.org/abs/2504.13692v1)|null|
+|**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648v1](http://arxiv.org/abs/2504.13648v1)|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|null|
+|**2025-04-18**|**FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking**|Ying Wang et.al.|[2504.13604v1](http://arxiv.org/abs/2504.13604v1)|null|
+|**2025-04-18**|**Exploring Culturally Informed AI Assistants: A Comparative Study of ChatBlackGPT and ChatGPT**|Lisa Egede et.al.|[2504.13486v1](http://arxiv.org/abs/2504.13486v1)|null|
+|**2025-04-18**|**Neural Ganglion Sensors: Learning Task-specific Event Cameras Inspired by the Neural Circuit of the Human Retina**|Haley M. So et.al.|[2504.13457v1](http://arxiv.org/abs/2504.13457v1)|null|
+|**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[2504.13420v1](http://arxiv.org/abs/2504.13420v1)|null|
+|**2025-04-18**|**Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction**|Wenyu Li et.al.|[2504.13419v1](http://arxiv.org/abs/2504.13419v1)|null|
+|**2025-04-17**|**A Multisensory Approach to Probing Scattering Media**|Muralidhar Madabhushi Balaji et.al.|[2504.13349v1](http://arxiv.org/abs/2504.13349v1)|null|
+|**2025-04-17**|**Putting the Segment Anything Model to the Test with 3D Knee MRI -- A Comparison with State-of-the-Art Performance**|Oliver Mills et.al.|[2504.13340v1](http://arxiv.org/abs/2504.13340v1)|null|
+|**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297v1](http://arxiv.org/abs/2504.13297v1)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
 |**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|null|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|null|
@@ -20,15 +32,3 @@
 |**2025-04-16**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515v1](http://arxiv.org/abs/2504.12515v1)|null|
 |**2025-04-16**|**Robust Visual Servoing under Human Supervision for Assembly Tasks**|Victor Nan Fernandez-Ayala et.al.|[2504.12506v1](http://arxiv.org/abs/2504.12506v1)|null|
 |**2025-04-16**|**SIDME: Self-supervised Image Demoiréing via Masked Encoder-Decoder Reconstruction**|Xia Wang et.al.|[2504.12245v1](http://arxiv.org/abs/2504.12245v1)|null|
-|**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186v1](http://arxiv.org/abs/2504.12186v1)|null|
-|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169v1](http://arxiv.org/abs/2504.12169v1)|null|
-|**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048v1](http://arxiv.org/abs/2504.12048v1)|null|
-|**2025-04-16**|**RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model**|Yizhuo Wu et.al.|[2504.12039v1](http://arxiv.org/abs/2504.12039v1)|[link](https://github.com/lab-emi/airhar)|
-|**2025-04-16**|**Neighbor-Based Feature and Index Enhancement for Person Re-Identification**|Chao Yuan et.al.|[2504.11798v1](http://arxiv.org/abs/2504.11798v1)|null|
-|**2025-04-16**|**TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion**|Yiran Wang et.al.|[2504.11773v1](http://arxiv.org/abs/2504.11773v1)|null|
-|**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356v1](http://arxiv.org/abs/2504.12356v1)|null|
-|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|[link](https://github.com/jixingwu/sol-slam)|
-|**2025-04-15**|**Real-time Object and Event Detection Service through Computer Vision and Edge Computing**|Marcos Mendes et.al.|[2504.11662v1](http://arxiv.org/abs/2504.11662v1)|null|
-|**2025-04-15**|**New dwarf galaxy candidates in the M106, NGC3521, and UGCA127 groups with the Hyper Suprime Camera**|Oliver Müller et.al.|[2504.11608v1](http://arxiv.org/abs/2504.11608v1)|null|
-|**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348v1](http://arxiv.org/abs/2504.12348v1)|null|
-|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389v2](http://arxiv.org/abs/2504.11389v2)|null|
