@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v1](http://arxiv.org/abs/2504.13088v1)|null|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|[link](https://github.com/jixingwu/sol-slam)|
-|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v1](http://arxiv.org/abs/2504.11634v1)|[link](https://github.com/wayne-dwa/doppler-slam)|
+|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v2](http://arxiv.org/abs/2504.11634v2)|[link](https://github.com/wayne-dwa/doppler-slam)|
 |**2025-04-15**|**RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry**|Ziyu Cao et.al.|[2504.11580v1](http://arxiv.org/abs/2504.11580v1)|[link](https://github.com/asig-x/resple)|
 |**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348v1](http://arxiv.org/abs/2504.12348v1)|null|
 |**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|
