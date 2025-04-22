@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-21**|**Cascade IPG Observer for Underwater Robot State Estimation**|Kaustubh Joshi et.al.|[2504.15235v1](http://arxiv.org/abs/2504.15235v1)|null|
+|**2025-04-21**|**The orientation dynamics of a massive ellipsoid in simple shear flow**|Giridar Vishwanathan et.al.|[2504.15074v1](http://arxiv.org/abs/2504.15074v1)|null|
+|**2025-04-20**|**Apples Falling, Buckets Rolling, and Why Inertia Keeps Trolling**|Nicola Bamonti et.al.|[2504.14734v1](http://arxiv.org/abs/2504.14734v1)|null|
+|**2025-04-20**|**Haptic-based Complementary Filter for Rigid Body Rotations**|Amit Kumar et.al.|[2504.14570v1](http://arxiv.org/abs/2504.14570v1)|null|
+|**2025-04-19**|**MILUV: A Multi-UAV Indoor Localization dataset with UWB and Vision**|Mohammed Ayman Shalaby et.al.|[2504.14376v1](http://arxiv.org/abs/2504.14376v1)|null|
+|**2025-04-18**|**Modeling transport in weakly collisional plasmas using thermodynamic forcing**|Prakriti Pal Choudhury et.al.|[2504.14000v1](http://arxiv.org/abs/2504.14000v1)|null|
 |**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v1](http://arxiv.org/abs/2504.13611v1)|null|
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v1](http://arxiv.org/abs/2504.13088v1)|null|
 |**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921v1](http://arxiv.org/abs/2504.12921v1)|null|
@@ -26,9 +32,3 @@
 |**2025-04-13**|**Fundamental evaluation of the pressure gradient for lubrication flows in varying channels: Application to inertial Newtonian flow in a linear channel**|Panagiotis Sialmas et.al.|[2504.09563v1](http://arxiv.org/abs/2504.09563v1)|null|
 |**2025-04-13**|**Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics**|Ben Liu et.al.|[2504.09495v1](http://arxiv.org/abs/2504.09495v1)|[link](https://github.com/umich-curly/debias_imu)|
 |**2025-04-12**|**Controllable and Non-Dissipative Inertial Dynamics of Skyrmion in a Bosonic Platform**|Imam Makhfudz et.al.|[2504.09112v1](http://arxiv.org/abs/2504.09112v1)|null|
-|**2025-04-12**|**UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance**|Shuning Sun et.al.|[2504.09069v1](http://arxiv.org/abs/2504.09069v1)|null|
-|**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047v1](http://arxiv.org/abs/2504.09047v1)|null|
-|**2025-04-11**|**Heatpipe-cooled in-vacuum electromagnet for quantum science experiment**|Kenneth Nakasone et.al.|[2504.08931v1](http://arxiv.org/abs/2504.08931v1)|null|
-|**2025-04-11**|**Phase separation in a chiral active fluid of inertial self-spinning disks**|Pasquale Digregorio et.al.|[2504.08533v1](http://arxiv.org/abs/2504.08533v1)|null|
-|**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
-|**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|null|
