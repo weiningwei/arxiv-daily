@@ -26,7 +26,7 @@
 |**2025-04-17**|**Second-order Optimization of Gaussian Splats with Importance Sampling**|Hamza Pehlivan et.al.|[2504.12905v1](http://arxiv.org/abs/2504.12905v1)|null|
 |**2025-04-17**|**Mixed Structural Choice Operator: Enhancing Technology Mapping with Heterogeneous Representations**|Zhang Hu et.al.|[2504.12824v1](http://arxiv.org/abs/2504.12824v1)|null|
 |**2025-04-17**|**Unsupervised Cross-Domain 3D Human Pose Estimation via Pseudo-Label-Guided Global Transforms**|Jingjing Liu et.al.|[2504.12699v1](http://arxiv.org/abs/2504.12699v1)|null|
-|**2025-04-17**|**Photon Calibration Performance of KAGRA during the 4th Joint Observing Run (O4)**|Dan Chen et.al.|[2504.12657v1](http://arxiv.org/abs/2504.12657v1)|null|
+|**2025-04-17**|**Photon Calibration Performance of KAGRA during the 4th Joint Observing Run (O4)**|Dan Chen et.al.|[2504.12657v2](http://arxiv.org/abs/2504.12657v2)|null|
 |**2025-04-17**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643v2](http://arxiv.org/abs/2504.12643v2)|null|
 |**2025-04-17**|**CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework**|Wentao Wu et.al.|[2504.12576v1](http://arxiv.org/abs/2504.12576v1)|[link](https://github.com/event-ahu/cm3ae)|
 |**2025-04-16**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515v1](http://arxiv.org/abs/2504.12515v1)|null|
