@@ -2,10 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|null|
+|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|null|
+|**2025-04-22**|**Scale invariance of intermittency in LES turbulence**|B. Magacho et.al.|[2504.15874v1](http://arxiv.org/abs/2504.15874v1)|null|
+|**2025-04-22**|**Vielbein Lattice Boltzmann approach for fluid flows on spherical surfaces**|Victor E. Ambrus et.al.|[2504.15574v1](http://arxiv.org/abs/2504.15574v1)|null|
+|**2025-04-21**|**Magnetic recoil interferometer in a uniform gravitational field. Comment on Observation of the quantum equivalence principle for matter-waves**|Peter Asenbaum et.al.|[2504.15409v1](http://arxiv.org/abs/2504.15409v1)|null|
 |**2025-04-21**|**Cascade IPG Observer for Underwater Robot State Estimation**|Kaustubh Joshi et.al.|[2504.15235v1](http://arxiv.org/abs/2504.15235v1)|null|
 |**2025-04-21**|**The orientation dynamics of a massive ellipsoid in simple shear flow**|Giridar Vishwanathan et.al.|[2504.15074v1](http://arxiv.org/abs/2504.15074v1)|null|
 |**2025-04-20**|**Apples Falling, Buckets Rolling, and Why Inertia Keeps Trolling**|Nicola Bamonti et.al.|[2504.14734v1](http://arxiv.org/abs/2504.14734v1)|null|
 |**2025-04-20**|**Haptic-based Complementary Filter for Rigid Body Rotations**|Amit Kumar et.al.|[2504.14570v1](http://arxiv.org/abs/2504.14570v1)|null|
+|**2025-04-20**|**Diffusion-Driven Inertial Generated Data for Smartphone Location Classification**|Noa Cohen et.al.|[2504.15315v1](http://arxiv.org/abs/2504.15315v1)|null|
 |**2025-04-19**|**MILUV: A Multi-UAV Indoor Localization dataset with UWB and Vision**|Mohammed Ayman Shalaby et.al.|[2504.14376v1](http://arxiv.org/abs/2504.14376v1)|null|
 |**2025-04-18**|**Modeling transport in weakly collisional plasmas using thermodynamic forcing**|Prakriti Pal Choudhury et.al.|[2504.14000v1](http://arxiv.org/abs/2504.14000v1)|null|
 |**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v1](http://arxiv.org/abs/2504.13611v1)|null|
@@ -26,9 +32,3 @@
 |**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|
 |**2025-04-14**|**Validation of FLASH for magnetically driven inertial confinement fusion target design**|C. Leland Ellison et.al.|[2504.10760v1](http://arxiv.org/abs/2504.10760v1)|null|
 |**2025-04-14**|**Affordable, manageable, practical, and scalable (AMPS) high-yield and high-gain inertial fusion**|Andrew Alexander et.al.|[2504.10680v1](http://arxiv.org/abs/2504.10680v1)|null|
-|**2025-04-14**|**Ankle Exoskeletons in Walking and Load-Carrying Tasks: Insights into Biomechanics and Human-Robot Interaction**|J. F. Almeida et.al.|[2504.10294v1](http://arxiv.org/abs/2504.10294v1)|null|
-|**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225v1](http://arxiv.org/abs/2504.10225v1)|[link](https://github.com/tum-avs/gggvdiagrams)|
-|**2025-04-14**|**Revisiting Fusion in D-${}^{3}$He Plasmas With Spin-Polarized Fuel**|J. F. Parisi et.al.|[2504.09869v1](http://arxiv.org/abs/2504.09869v1)|null|
-|**2025-04-13**|**Fundamental evaluation of the pressure gradient for lubrication flows in varying channels: Application to inertial Newtonian flow in a linear channel**|Panagiotis Sialmas et.al.|[2504.09563v1](http://arxiv.org/abs/2504.09563v1)|null|
-|**2025-04-13**|**Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics**|Ben Liu et.al.|[2504.09495v1](http://arxiv.org/abs/2504.09495v1)|[link](https://github.com/umich-curly/debias_imu)|
-|**2025-04-12**|**Controllable and Non-Dissipative Inertial Dynamics of Skyrmion in a Bosonic Platform**|Imam Makhfudz et.al.|[2504.09112v1](http://arxiv.org/abs/2504.09112v1)|null|
