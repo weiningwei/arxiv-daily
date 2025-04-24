@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-23**|**Lattice study of $cc\bar u\bar s$ tetraquark channel in $D^{(*)}D^{(*)}_s$ scattering**|Tanishk Shrimal et.al.|[2504.16931v1](http://arxiv.org/abs/2504.16931v1)|null|
+|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|null|
 |**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|null|
 |**2025-04-22**|**Scale invariance of intermittency in LES turbulence**|B. Magacho et.al.|[2504.15874v1](http://arxiv.org/abs/2504.15874v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119v1](http://arxiv.org/abs/2504.11119v1)|null|
 |**2025-04-15**|**Bell-Mermin-Klyshko Inequalities and One-way Information Deficit of Dirac Fields in Noninertial Frames**|Biao-Liang Ye et.al.|[2504.10860v1](http://arxiv.org/abs/2504.10860v1)|null|
 |**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|
-|**2025-04-14**|**Validation of FLASH for magnetically driven inertial confinement fusion target design**|C. Leland Ellison et.al.|[2504.10760v1](http://arxiv.org/abs/2504.10760v1)|null|
-|**2025-04-14**|**Affordable, manageable, practical, and scalable (AMPS) high-yield and high-gain inertial fusion**|Andrew Alexander et.al.|[2504.10680v1](http://arxiv.org/abs/2504.10680v1)|null|
