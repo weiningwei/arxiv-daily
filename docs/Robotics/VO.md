@@ -10,7 +10,7 @@
 |**2025-04-15**|**RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry**|Ziyu Cao et.al.|[2504.11580v1](http://arxiv.org/abs/2504.11580v1)|[link](https://github.com/asig-x/resple)|
 |**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348v1](http://arxiv.org/abs/2504.12348v1)|null|
 |**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|
-|**2025-04-13**|**Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics**|Ben Liu et.al.|[2504.09495v1](http://arxiv.org/abs/2504.09495v1)|[link](https://github.com/umich-curly/debias_imu)|
+|**2025-04-13**|**Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics**|Ben Liu et.al.|[2504.09495v2](http://arxiv.org/abs/2504.09495v2)|[link](https://github.com/umich-curly/debias_imu)|
 |**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047v1](http://arxiv.org/abs/2504.09047v1)|null|
 |**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
