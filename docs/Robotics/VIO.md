@@ -16,7 +16,7 @@
 |**2025-04-20**|**Diffusion-Driven Inertial Generated Data for Smartphone Location Classification**|Noa Cohen et.al.|[2504.15315v1](http://arxiv.org/abs/2504.15315v1)|null|
 |**2025-04-19**|**MILUV: A Multi-UAV Indoor Localization dataset with UWB and Vision**|Mohammed Ayman Shalaby et.al.|[2504.14376v1](http://arxiv.org/abs/2504.14376v1)|null|
 |**2025-04-18**|**Modeling transport in weakly collisional plasmas using thermodynamic forcing**|Prakriti Pal Choudhury et.al.|[2504.14000v1](http://arxiv.org/abs/2504.14000v1)|null|
-|**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v1](http://arxiv.org/abs/2504.13611v1)|null|
+|**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v2](http://arxiv.org/abs/2504.13611v2)|null|
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v1](http://arxiv.org/abs/2504.13088v1)|null|
 |**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921v1](http://arxiv.org/abs/2504.12921v1)|null|
 |**2025-04-16**|**MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices**|Vasco Xu et.al.|[2504.12492v1](http://arxiv.org/abs/2504.12492v1)|[link](https://github.com/SPICExLAB/MobilePoser)|

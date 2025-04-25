@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-24 21:29:02 Asia/Shanghai
+ Automated deployment @ 2025-04-25 08:48:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -63,7 +63,7 @@
 |**2025-04-22**|**Characterization and ex vivo application of flexible 2D scintillating coatings in ultra-high dose rate electron beams for FLASH radiotherapy**|Verdi Vanreusel et.al.|[2504.15824v1](http://arxiv.org/abs/2504.15824v1)|null|
 |**2025-04-22**|**Satellite to GroundScape -- Large-scale Consistent Ground View Generation from Satellite Views**|Ningli Xu et.al.|[2504.15786v1](http://arxiv.org/abs/2504.15786v1)|null|
 |**2025-04-22**|**DSDNet: Raw Domain Demoiréing via Dual Color-Space Synergy**|Qirui Yang et.al.|[2504.15756v1](http://arxiv.org/abs/2504.15756v1)|null|
-|**2025-04-22**|**Vidi: Large Multimodal Models for Video Understanding and Editing**|Vidi Team et.al.|[2504.15681v1](http://arxiv.org/abs/2504.15681v1)|null|
+|**2025-04-22**|**Vidi: Large Multimodal Models for Video Understanding and Editing**|Vidi Team et.al.|[2504.15681v2](http://arxiv.org/abs/2504.15681v2)|null|
 |**2025-04-22**|**A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities**|Md Abdul Baset Sarker et.al.|[2504.15654v1](http://arxiv.org/abs/2504.15654v1)|null|
 |**2025-04-22**|**SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking**|Yunfeng Li et.al.|[2504.15609v1](http://arxiv.org/abs/2504.15609v1)|null|
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376v1](http://arxiv.org/abs/2504.15376v1)|null|
@@ -90,7 +90,7 @@
 |**2025-04-20**|**Diffusion-Driven Inertial Generated Data for Smartphone Location Classification**|Noa Cohen et.al.|[2504.15315v1](http://arxiv.org/abs/2504.15315v1)|null|
 |**2025-04-19**|**MILUV: A Multi-UAV Indoor Localization dataset with UWB and Vision**|Mohammed Ayman Shalaby et.al.|[2504.14376v1](http://arxiv.org/abs/2504.14376v1)|null|
 |**2025-04-18**|**Modeling transport in weakly collisional plasmas using thermodynamic forcing**|Prakriti Pal Choudhury et.al.|[2504.14000v1](http://arxiv.org/abs/2504.14000v1)|null|
-|**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v1](http://arxiv.org/abs/2504.13611v1)|null|
+|**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v2](http://arxiv.org/abs/2504.13611v2)|null|
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v1](http://arxiv.org/abs/2504.13088v1)|null|
 |**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921v1](http://arxiv.org/abs/2504.12921v1)|null|
 |**2025-04-16**|**MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices**|Vasco Xu et.al.|[2504.12492v1](http://arxiv.org/abs/2504.12492v1)|[link](https://github.com/SPICExLAB/MobilePoser)|
