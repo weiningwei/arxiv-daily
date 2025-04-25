@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**EgoCHARM: Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor**|Akhil Padmanabha et.al.|[2504.17735v1](http://arxiv.org/abs/2504.17735v1)|null|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v1](http://arxiv.org/abs/2504.17696v1)|null|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|null|
 |**2025-04-23**|**Lattice study of $cc\bar u\bar s$ tetraquark channel in $D^{(*)}D^{(*)}_s$ scattering**|Tanishk Shrimal et.al.|[2504.16931v1](http://arxiv.org/abs/2504.16931v1)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|null|
@@ -29,6 +32,3 @@
 |**2025-04-15**|**RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry**|Ziyu Cao et.al.|[2504.11580v1](http://arxiv.org/abs/2504.11580v1)|[link](https://github.com/asig-x/resple)|
 |**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348v1](http://arxiv.org/abs/2504.12348v1)|null|
 |**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432v1](http://arxiv.org/abs/2504.11432v1)|null|
-|**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119v1](http://arxiv.org/abs/2504.11119v1)|null|
-|**2025-04-15**|**Bell-Mermin-Klyshko Inequalities and One-way Information Deficit of Dirac Fields in Noninertial Frames**|Biao-Liang Ye et.al.|[2504.10860v1](http://arxiv.org/abs/2504.10860v1)|null|
-|**2025-04-14**|**SeeTree -- A modular, open-source system for tree detection and orchard localization**|Jostan Brown et.al.|[2504.10764v1](http://arxiv.org/abs/2504.10764v1)|null|

@@ -2,6 +2,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788v1](http://arxiv.org/abs/2504.17788v1)|null|
+|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752v1](http://arxiv.org/abs/2504.17752v1)|null|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|null|
+|**2025-04-24**|**STGen: A Novel Lightweight IoT Testbed for Generating Sensor Traffic for the Experimentation of IoT Protocol and its Application in Hybrid Network**|Hasan MA Islam et.al.|[2504.17725v1](http://arxiv.org/abs/2504.17725v1)|null|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v1](http://arxiv.org/abs/2504.17696v1)|null|
+|**2025-04-24**|**User Profiles: The Achilles' Heel of Web Browsers**|Dolière Francis Somé et.al.|[2504.17692v1](http://arxiv.org/abs/2504.17692v1)|null|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|null|
+|**2025-04-24**|**Time-resolved dynamics of GaN waveguide polaritons**|Loïc Méchin et.al.|[2504.17607v1](http://arxiv.org/abs/2504.17607v1)|null|
+|**2025-04-24**|**Object Pose Estimation by Camera Arm Control Based on the Next Viewpoint Estimation**|Tomoki Mizuno et.al.|[2504.17424v1](http://arxiv.org/abs/2504.17424v1)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371v1](http://arxiv.org/abs/2504.17371v1)|null|
+|**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368v1](http://arxiv.org/abs/2504.17368v1)|null|
+|**2025-04-24**|**Scene Perceived Image Perceptual Score (SPIPS): combining global and local perception for image quality assessment**|Zhiqiang Lao et.al.|[2504.17234v1](http://arxiv.org/abs/2504.17234v1)|null|
+|**2025-04-24**|**A Double-Norm Aggregated Tensor Latent Factorization Model for Temporal-Aware Traffic Speed Imputation**|Jiawen Hou et.al.|[2504.17196v1](http://arxiv.org/abs/2504.17196v1)|null|
+|**2025-04-24**|**Augmenting Captions with Emotional Cues: An AR Interface for Real-Time Accessible Communication**|Sunday David Ubur et.al.|[2504.17171v1](http://arxiv.org/abs/2504.17171v1)|null|
+|**2025-04-24**|**Invasion depth estimation of gastric cancer in early stage using circularly polarized light scattering: Phantom studies**|Mike R. Maskey et.al.|[2504.17161v1](http://arxiv.org/abs/2504.17161v1)|null|
+|**2025-04-23**|**Venus and Bright Planets Through a Large-Scale Camera Obscura: Optical and Mechanical Issues of Conducting the Observations**|Krzysztof Wójcik et.al.|[2504.17138v1](http://arxiv.org/abs/2504.17138v1)|null|
+|**2025-04-23**|**PACE: A Framework for Learning and Control in Linear Incomplete-Information Differential Games**|Seyed Yousef Soltanian et.al.|[2504.17128v1](http://arxiv.org/abs/2504.17128v1)|null|
 |**2025-04-23**|**MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin**|Sausar Karaf et.al.|[2504.16914v1](http://arxiv.org/abs/2504.16914v1)|null|
 |**2025-04-23**|**An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**|Shiyao Lv et.al.|[2504.16906v1](http://arxiv.org/abs/2504.16906v1)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
@@ -15,20 +32,3 @@
 |**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368v1](http://arxiv.org/abs/2504.16368v1)|null|
 |**2025-04-22**|**PCF-Grasp: Converting Point Completion to Geometry Feature to Enhance 6-DoF Grasp**|Yaofeng Cheng et.al.|[2504.16320v1](http://arxiv.org/abs/2504.16320v1)|null|
 |**2025-04-22**|**DataS^3: Dataset Subset Selection for Specialization**|Neha Hulkund et.al.|[2504.16277v1](http://arxiv.org/abs/2504.16277v1)|null|
-|**2025-04-22**|**Blimp-based Crime Scene Analysis**|Martin Cooney et.al.|[2504.15962v1](http://arxiv.org/abs/2504.15962v1)|null|
-|**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|null|
-|**2025-04-22**|**Visual Place Cell Encoding: A Computational Model for Spatial Representation and Cognitive Mapping**|Chance J. Hamilton et.al.|[2504.15953v1](http://arxiv.org/abs/2504.15953v1)|null|
-|**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888v1](http://arxiv.org/abs/2504.15888v1)|null|
-|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|null|
-|**2025-04-22**|**Characterization and ex vivo application of flexible 2D scintillating coatings in ultra-high dose rate electron beams for FLASH radiotherapy**|Verdi Vanreusel et.al.|[2504.15824v1](http://arxiv.org/abs/2504.15824v1)|null|
-|**2025-04-22**|**Satellite to GroundScape -- Large-scale Consistent Ground View Generation from Satellite Views**|Ningli Xu et.al.|[2504.15786v1](http://arxiv.org/abs/2504.15786v1)|null|
-|**2025-04-22**|**DSDNet: Raw Domain Demoiréing via Dual Color-Space Synergy**|Qirui Yang et.al.|[2504.15756v1](http://arxiv.org/abs/2504.15756v1)|null|
-|**2025-04-22**|**Vidi: Large Multimodal Models for Video Understanding and Editing**|Vidi Team et.al.|[2504.15681v2](http://arxiv.org/abs/2504.15681v2)|null|
-|**2025-04-22**|**A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities**|Md Abdul Baset Sarker et.al.|[2504.15654v1](http://arxiv.org/abs/2504.15654v1)|null|
-|**2025-04-22**|**SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking**|Yunfeng Li et.al.|[2504.15609v1](http://arxiv.org/abs/2504.15609v1)|null|
-|**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376v1](http://arxiv.org/abs/2504.15376v1)|null|
-|**2025-04-21**|**Event2Vec: Processing neuromorphic events directly by representations in vector space**|Wei Fang et.al.|[2504.15371v1](http://arxiv.org/abs/2504.15371v1)|null|
-|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280v1](http://arxiv.org/abs/2504.15280v1)|[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)|
-|**2025-04-21**|**Broadband Fourier transform spectroscopy of quantum emitters photoluminescence with sub-nanosecond temporal resolution**|Issam Belgacem et.al.|[2504.15258v1](http://arxiv.org/abs/2504.15258v1)|null|
-|**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229v1](http://arxiv.org/abs/2504.15229v1)|null|
-|**2025-04-21**|**Vision6D: 3D-to-2D Interactive Visualization and Annotation Tool for 6D Pose Estimation**|Yike Zhang et.al.|[2504.15329v1](http://arxiv.org/abs/2504.15329v1)|null|

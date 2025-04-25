@@ -2,6 +2,9 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693v1](http://arxiv.org/abs/2504.17693v1)|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280v1](http://arxiv.org/abs/2504.17280v1)|null|
 |**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|null|
 |**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516v1](http://arxiv.org/abs/2504.14516v1)|null|
@@ -29,6 +32,3 @@
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086v1](http://arxiv.org/abs/2504.02086v1)|null|
 |**2025-04-02**|**Strengthening Multi-Robot Systems for SAR: Co-Designing Robotics and Communication Towards 6G**|Juan Bravo-Arrabal et.al.|[2504.01940v1](http://arxiv.org/abs/2504.01940v1)|null|
 |**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|[link](https://github.com/lian-yue0515/d-li-init)|
-|**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
-|**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139v1](http://arxiv.org/abs/2504.00139v1)|null|
-|**2025-03-30**|**A Visual-Inertial Motion Prior SLAM for Dynamic Environments**|Weilong Sun et.al.|[2503.23429v2](http://arxiv.org/abs/2503.23429v2)|null|
