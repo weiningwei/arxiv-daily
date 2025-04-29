@@ -2,6 +2,11 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
+|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
+|**2025-04-26**|**An SE(3) Noise Model for Range-Azimuth-Elevation Sensors**|Thomas Hitchcox et.al.|[2504.19009v1](http://arxiv.org/abs/2504.19009v1)|null|
+|**2025-04-25**|**Vysics: Object Reconstruction Under Occlusion by Fusing Vision and Contact-Rich Physics**|Bibit Bianchini et.al.|[2504.18719v1](http://arxiv.org/abs/2504.18719v1)|null|
+|**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|
 |**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
 |**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-27**|**Lidar-only Odometry based on Multiple Scan-to-Scan Alignments over a Moving Window**|Aaron Kurda et.al.|[2503.21293v1](http://arxiv.org/abs/2503.21293v1)|null|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543v1](http://arxiv.org/abs/2503.19543v1)|null|
 |**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301v1](http://arxiv.org/abs/2503.18301v1)|null|
-|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491v1](http://arxiv.org/abs/2503.17491v1)|[link](https://github.com/rvp-group/Splat-LOAM)|
-|**2025-03-18**|**GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**|Tingyang Xiao et.al.|[2503.14247v1](http://arxiv.org/abs/2503.14247v1)|[link](https://github.com/nsn-hello/geoflow-slam)|
-|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
-|**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660v1](http://arxiv.org/abs/2503.12660v1)|null|
-|**2025-03-16**|**A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**|Yang Yi et.al.|[2503.12527v1](http://arxiv.org/abs/2503.12527v1)|null|

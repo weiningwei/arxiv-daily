@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-28**|**Unconventional Relaxation Dynamics in Co_8Zn_7Mn_5 and Co_8Zn_8Mn_4: Evidence of Inertial Effects**|P. Saha et.al.|[2504.19803v1](http://arxiv.org/abs/2504.19803v1)|null|
+|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
+|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
+|**2025-04-27**|**Normality-based analysis of multiscale velocity gradients and energy transfer in direct and large-eddy simulations of isotropic turbulence**|Rahul Arun et.al.|[2504.19356v1](http://arxiv.org/abs/2504.19356v1)|null|
+|**2025-04-27**|**Unscented Particle Filter for Visual-inertial Navigation using IMU and Landmark Measurements**|Khashayar Ghanizadegan et.al.|[2504.19318v1](http://arxiv.org/abs/2504.19318v1)|null|
+|**2025-04-26**|**An SE(3) Noise Model for Range-Azimuth-Elevation Sensors**|Thomas Hitchcox et.al.|[2504.19009v1](http://arxiv.org/abs/2504.19009v1)|null|
+|**2025-04-26**|**Dynamical von Zeipel-Lidov-Kozai Oscillations of a Binary on a Spherical Orbit around a Rotating Supermassive Black Hole**|Kei-ichi Maeda et.al.|[2504.18934v1](http://arxiv.org/abs/2504.18934v1)|null|
+|**2025-04-25**|**Vysics: Object Reconstruction Under Occlusion by Fusing Vision and Contact-Rich Physics**|Bibit Bianchini et.al.|[2504.18719v1](http://arxiv.org/abs/2504.18719v1)|null|
+|**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|
 |**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500v1](http://arxiv.org/abs/2504.18500v1)|null|
 |**2025-04-24**|**EgoCHARM: Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor**|Akhil Padmanabha et.al.|[2504.17735v1](http://arxiv.org/abs/2504.17735v1)|null|
 |**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v2](http://arxiv.org/abs/2504.17696v2)|null|
@@ -23,12 +32,3 @@
 |**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v2](http://arxiv.org/abs/2504.13611v2)|null|
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v1](http://arxiv.org/abs/2504.13088v1)|null|
 |**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921v1](http://arxiv.org/abs/2504.12921v1)|null|
-|**2025-04-16**|**MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices**|Vasco Xu et.al.|[2504.12492v1](http://arxiv.org/abs/2504.12492v1)|[link](https://github.com/SPICExLAB/MobilePoser)|
-|**2025-04-16**|**Real-Time Shape Estimation of Tensegrity Structures Using Strut Inclination Angles**|Tufail Ahmad Bhat et.al.|[2504.11868v1](http://arxiv.org/abs/2504.11868v1)|null|
-|**2025-04-16**|**Analysis of Power Swing Characteristics of Grid-Forming VSC System Considering the Current Limitation Mode**|Yongxin Xiong et.al.|[2504.11797v1](http://arxiv.org/abs/2504.11797v1)|null|
-|**2025-04-16**|**Saga: Capturing Multi-granularity Semantics from Massive Unlabelled IMU Data for User Perception**|Yunzhe Li et.al.|[2504.11726v1](http://arxiv.org/abs/2504.11726v1)|null|
-|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|[link](https://github.com/jixingwu/sol-slam)|
-|**2025-04-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thinning Medium**|Sayantan Mondal et.al.|[2504.11683v1](http://arxiv.org/abs/2504.11683v1)|null|
-|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v2](http://arxiv.org/abs/2504.11634v2)|[link](https://github.com/wayne-dwa/doppler-slam)|
-|**2025-04-15**|**RESPLE: Recursive Spline Estimation for LiDAR-Based Odometry**|Ziyu Cao et.al.|[2504.11580v1](http://arxiv.org/abs/2504.11580v1)|[link](https://github.com/asig-x/resple)|
-|**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348v1](http://arxiv.org/abs/2504.12348v1)|null|
