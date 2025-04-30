@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-29**|**Testing Compact, Fused Silica Resonator Based Inertial Sensors in a Gravitational Wave Detector Prototype Facility**|J J Carter et.al.|[2504.20918v1](http://arxiv.org/abs/2504.20918v1)|null|
+|**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615v1](http://arxiv.org/abs/2504.20615v1)|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
+|**2025-04-29**|**LPVIMO-SAM: Tightly-coupled LiDAR/Polarization Vision/Inertial/Magnetometer/Optical Flow Odometry via Smoothing and Mapping**|Derui Shan et.al.|[2504.20380v1](http://arxiv.org/abs/2504.20380v1)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339v1](http://arxiv.org/abs/2504.20339v1)|null|
+|**2025-04-29**|**Reinforcement-learning-assisted control of four-roll mills: geometric symmetry and inertial effect**|X. Dai et.al.|[2504.20336v1](http://arxiv.org/abs/2504.20336v1)|null|
 |**2025-04-28**|**Unconventional Relaxation Dynamics in Co_8Zn_7Mn_5 and Co_8Zn_8Mn_4: Evidence of Inertial Effects**|P. Saha et.al.|[2504.19803v1](http://arxiv.org/abs/2504.19803v1)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
@@ -26,9 +32,3 @@
 |**2025-04-21**|**The orientation dynamics of a massive ellipsoid in simple shear flow**|Giridar Vishwanathan et.al.|[2504.15074v1](http://arxiv.org/abs/2504.15074v1)|null|
 |**2025-04-20**|**Apples Falling, Buckets Rolling, and Why Inertia Keeps Trolling**|Nicola Bamonti et.al.|[2504.14734v1](http://arxiv.org/abs/2504.14734v1)|null|
 |**2025-04-20**|**Haptic-based Complementary Filter for Rigid Body Rotations**|Amit Kumar et.al.|[2504.14570v1](http://arxiv.org/abs/2504.14570v1)|null|
-|**2025-04-20**|**Diffusion-Driven Inertial Generated Data for Smartphone Location Classification**|Noa Cohen et.al.|[2504.15315v1](http://arxiv.org/abs/2504.15315v1)|null|
-|**2025-04-19**|**MILUV: A Multi-UAV Indoor Localization dataset with UWB and Vision**|Mohammed Ayman Shalaby et.al.|[2504.14376v1](http://arxiv.org/abs/2504.14376v1)|null|
-|**2025-04-18**|**Modeling transport in weakly collisional plasmas using thermodynamic forcing**|Prakriti Pal Choudhury et.al.|[2504.14000v1](http://arxiv.org/abs/2504.14000v1)|null|
-|**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611v2](http://arxiv.org/abs/2504.13611v2)|null|
-|**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088v2](http://arxiv.org/abs/2504.13088v2)|null|
-|**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921v1](http://arxiv.org/abs/2504.12921v1)|null|

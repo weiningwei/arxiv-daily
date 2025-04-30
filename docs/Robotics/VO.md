@@ -2,6 +2,10 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615v1](http://arxiv.org/abs/2504.20615v1)|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
+|**2025-04-29**|**LPVIMO-SAM: Tightly-coupled LiDAR/Polarization Vision/Inertial/Magnetometer/Optical Flow Odometry via Smoothing and Mapping**|Derui Shan et.al.|[2504.20380v1](http://arxiv.org/abs/2504.20380v1)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339v1](http://arxiv.org/abs/2504.20339v1)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
 |**2025-04-26**|**An SE(3) Noise Model for Range-Azimuth-Elevation Sensors**|Thomas Hitchcox et.al.|[2504.19009v1](http://arxiv.org/abs/2504.19009v1)|null|
@@ -28,7 +32,3 @@
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199v1](http://arxiv.org/abs/2503.23199v1)|null|
 |**2025-03-29**|**SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry**|Peiyu Chen et.al.|[2503.22963v1](http://arxiv.org/abs/2503.22963v1)|[link](https://github.com/arclab-hku/supereio)|
 |**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v2](http://arxiv.org/abs/2503.22943v2)|null|
-|**2025-03-29**|**SR-LIO++: Efficient LiDAR-Inertial Odometry and Quantized Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2503.22926v2](http://arxiv.org/abs/2503.22926v2)|null|
-|**2025-03-27**|**Lidar-only Odometry based on Multiple Scan-to-Scan Alignments over a Moving Window**|Aaron Kurda et.al.|[2503.21293v1](http://arxiv.org/abs/2503.21293v1)|null|
-|**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543v1](http://arxiv.org/abs/2503.19543v1)|null|
-|**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301v1](http://arxiv.org/abs/2503.18301v1)|null|

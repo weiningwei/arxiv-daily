@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-29**|**Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.|[2504.20853v1](http://arxiv.org/abs/2504.20853v1)|null|
+|**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|null|
+|**2025-04-29**|**A Survey on Event-based Optical Marker Systems**|Nafiseh Jabbari Tofighi et.al.|[2504.20736v1](http://arxiv.org/abs/2504.20736v1)|null|
+|**2025-04-29**|**Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Cross-correlations with luminous red galaxies from eBOSS**|Jinglan Zheng et.al.|[2504.20722v1](http://arxiv.org/abs/2504.20722v1)|null|
+|**2025-04-29**|**Hydra: Marker-Free RGB-D Hand-Eye Calibration**|Martin Huber et.al.|[2504.20584v1](http://arxiv.org/abs/2504.20584v1)|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
+|**2025-04-29**|**Discovery of a variable yellow supergiant progenitor for the Type IIb SN 2024abfo**|Zexi Niu et.al.|[2504.20407v1](http://arxiv.org/abs/2504.20407v1)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339v1](http://arxiv.org/abs/2504.20339v1)|null|
+|**2025-04-28**|**Improving trajectory continuity in drone-based crowd monitoring using a set of minimal-cost techniques and deep discriminative correlation filters**|Bartosz Ptak et.al.|[2504.20234v1](http://arxiv.org/abs/2504.20234v1)|null|
 |**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v2](http://arxiv.org/abs/2504.20035v2)|null|
 |**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|null|
 |**2025-04-28**|**AnimateAnywhere: Rouse the Background in Human Image Animation**|Xiaoyu Liu et.al.|[2504.19834v1](http://arxiv.org/abs/2504.19834v1)|null|
@@ -23,12 +32,3 @@
 |**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|
 |**2025-04-26**|**3DPyranet Features Fusion for Spatio-temporal Feature Learning**|Ihsan Ullah et.al.|[2504.18977v1](http://arxiv.org/abs/2504.18977v1)|null|
 |**2025-04-26**|**Sim-to-Real: An Unsupervised Noise Layer for Screen-Camera Watermarking Robustness**|Yufeng Wu et.al.|[2504.18906v1](http://arxiv.org/abs/2504.18906v1)|null|
-|**2025-04-26**|**Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance**|Simone Maurizio La Cava et.al.|[2504.18886v1](http://arxiv.org/abs/2504.18886v1)|null|
-|**2025-04-26**|**Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras**|Yunzhong Zhang et.al.|[2504.18864v1](http://arxiv.org/abs/2504.18864v1)|null|
-|**2025-04-25**|**M2R2: MulitModal Robotic Representation for Temporal Action Segmentation**|Daniel Sliwowski et.al.|[2504.18662v1](http://arxiv.org/abs/2504.18662v1)|null|
-|**2025-04-25**|**E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization**|Shintaro Shiba et.al.|[2504.18521v1](http://arxiv.org/abs/2504.18521v1)|null|
-|**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500v1](http://arxiv.org/abs/2504.18500v1)|null|
-|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|null|
-|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|null|
-|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|[link](https://github.com/CarloSgaravatti/HybridLateCascadeFusion)|
-|**2025-04-25**|**NRevisit: A Cognitive Behavioral Metric for Code Understandability Assessment**|Gao Hao et.al.|[2504.18345v1](http://arxiv.org/abs/2504.18345v1)|null|

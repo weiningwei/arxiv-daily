@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
 |**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
@@ -31,4 +32,3 @@
 |**2025-04-11**|**II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping**|Chengwei Zhao et.al.|[2504.08204v1](http://arxiv.org/abs/2504.08204v1)|[link](https://github.com/chengwei0427/ii-nvm)|
 |**2025-04-10**|**UWB Anchor Based Localization of a Planetary Rover**|Andreas Nüchter et.al.|[2504.07658v1](http://arxiv.org/abs/2504.07658v1)|null|
 |**2025-04-10**|**Event Signal Filtering via Probability Flux Estimation**|Jinze Chen et.al.|[2504.07503v1](http://arxiv.org/abs/2504.07503v1)|null|
-|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|[link](https://github.com/zhicongsun/d4dgs-slam)|
