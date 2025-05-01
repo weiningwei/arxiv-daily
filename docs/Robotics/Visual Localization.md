@@ -2,6 +2,8 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
+|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
 |**2025-04-29**|**Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.|[2504.20853v1](http://arxiv.org/abs/2504.20853v1)|null|
 |**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|null|
 |**2025-04-29**|**A Survey on Event-based Optical Marker Systems**|Nafiseh Jabbari Tofighi et.al.|[2504.20736v1](http://arxiv.org/abs/2504.20736v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-27**|**Quantitative evaluation of brain-inspired vision sensors in high-speed robotic perception**|Taoyi Wang et.al.|[2504.19253v1](http://arxiv.org/abs/2504.19253v1)|null|
 |**2025-04-27**|**CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.|[2504.19223v1](http://arxiv.org/abs/2504.19223v1)|null|
 |**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|
-|**2025-04-26**|**3DPyranet Features Fusion for Spatio-temporal Feature Learning**|Ihsan Ullah et.al.|[2504.18977v1](http://arxiv.org/abs/2504.18977v1)|null|
-|**2025-04-26**|**Sim-to-Real: An Unsupervised Noise Layer for Screen-Camera Watermarking Robustness**|Yufeng Wu et.al.|[2504.18906v1](http://arxiv.org/abs/2504.18906v1)|null|

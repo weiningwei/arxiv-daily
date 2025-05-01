@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
+|**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|null|
+|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
+|**2025-04-30**|**Area rule of velocity circulation in two-dimensional instability-driven turbulence beyond the inertial range**|Bo-Jie Xie et.al.|[2504.21512v1](http://arxiv.org/abs/2504.21512v1)|null|
+|**2025-04-30**|**Provably-Safe, Online System Identification**|Bohao Zhang et.al.|[2504.21486v1](http://arxiv.org/abs/2504.21486v1)|null|
+|**2025-04-30**|**Kolmogorov Cascade as the Governing Mechanism for Intervortex Spacing in Quantum Turbulence**|Clément Bret et.al.|[2504.21416v1](http://arxiv.org/abs/2504.21416v1)|null|
+|**2025-04-30**|**From fluttering to drifting in inertialess sedimentation of achiral particles**|Christian Vaquero-Stainer et.al.|[2504.21355v1](http://arxiv.org/abs/2504.21355v1)|null|
 |**2025-04-29**|**Testing Compact, Fused Silica Resonator Based Inertial Sensors in a Gravitational Wave Detector Prototype Facility**|J J Carter et.al.|[2504.20918v1](http://arxiv.org/abs/2504.20918v1)|null|
 |**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615v1](http://arxiv.org/abs/2504.20615v1)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
@@ -25,10 +32,3 @@
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|null|
 |**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|null|
-|**2025-04-22**|**Scale invariance of intermittency in LES turbulence**|B. Magacho et.al.|[2504.15874v1](http://arxiv.org/abs/2504.15874v1)|null|
-|**2025-04-22**|**Vielbein Lattice Boltzmann approach for fluid flows on spherical surfaces**|Victor E. Ambrus et.al.|[2504.15574v1](http://arxiv.org/abs/2504.15574v1)|null|
-|**2025-04-21**|**Magnetic recoil interferometer in a uniform gravitational field. Comment on Observation of the quantum equivalence principle for matter-waves**|Peter Asenbaum et.al.|[2504.15409v1](http://arxiv.org/abs/2504.15409v1)|null|
-|**2025-04-21**|**Cascade IPG Observer for Underwater Robot State Estimation**|Kaustubh Joshi et.al.|[2504.15235v1](http://arxiv.org/abs/2504.15235v1)|null|
-|**2025-04-21**|**The orientation dynamics of a massive ellipsoid in simple shear flow**|Giridar Vishwanathan et.al.|[2504.15074v1](http://arxiv.org/abs/2504.15074v1)|null|
-|**2025-04-20**|**Apples Falling, Buckets Rolling, and Why Inertia Keeps Trolling**|Nicola Bamonti et.al.|[2504.14734v1](http://arxiv.org/abs/2504.14734v1)|null|
-|**2025-04-20**|**Haptic-based Complementary Filter for Rigid Body Rotations**|Amit Kumar et.al.|[2504.14570v1](http://arxiv.org/abs/2504.14570v1)|null|
