@@ -2,6 +2,10 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339v1](http://arxiv.org/abs/2505.01339v1)|null|
+|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|null|
+|**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park et.al.|[2505.00995v1](http://arxiv.org/abs/2505.00995v1)|null|
+|**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
@@ -28,7 +32,3 @@
 |**2025-04-12**|**Multi-Robot Coordination with Adversarial Perception**|Rayan Bahrami et.al.|[2504.09047v1](http://arxiv.org/abs/2504.09047v1)|null|
 |**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280v1](http://arxiv.org/abs/2504.08280v1)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
-|**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086v1](http://arxiv.org/abs/2504.02086v1)|null|
-|**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|[link](https://github.com/lian-yue0515/d-li-init)|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|[link](https://github.com/aerialroboticsgroup/forest-vo)|
-|**2025-04-01**|**HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO**|Giovanni Cioffi et.al.|[2504.00969v2](http://arxiv.org/abs/2504.00969v2)|[link](https://github.com/uzh-rpg/rpg_svo_pro_open)|

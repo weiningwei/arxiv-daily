@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339v1](http://arxiv.org/abs/2505.01339v1)|null|
+|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|null|
+|**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park et.al.|[2505.00995v1](http://arxiv.org/abs/2505.00995v1)|null|
+|**2025-05-02**|**MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery**|Haocheng Meng et.al.|[2505.00924v1](http://arxiv.org/abs/2505.00924v1)|null|
+|**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
@@ -27,8 +32,3 @@
 |**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500v1](http://arxiv.org/abs/2504.18500v1)|null|
 |**2025-04-24**|**EgoCHARM: Resource-Efficient Hierarchical Activity Recognition using an Egocentric IMU Sensor**|Akhil Padmanabha et.al.|[2504.17735v1](http://arxiv.org/abs/2504.17735v1)|null|
 |**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696v2](http://arxiv.org/abs/2504.17696v2)|null|
-|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|null|
-|**2025-04-23**|**Lattice study of $cc\bar u\bar s$ tetraquark channel in $D^{(*)}D^{(*)}_s$ scattering**|Tanishk Shrimal et.al.|[2504.16931v1](http://arxiv.org/abs/2504.16931v1)|null|
-|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
-|**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|null|
-|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|null|
