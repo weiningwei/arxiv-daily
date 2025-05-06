@@ -21,7 +21,7 @@
 |**2025-05-03**|**Runtime Anomaly Detection for Drones: An Integrated Rule-Mining and Unsupervised-Learning Approach**|Ivan Tan et.al.|[2505.01947v1](http://arxiv.org/abs/2505.01947v1)|null|
 |**2025-05-03**|**Semantic Intelligence: Integrating GPT-4 with A Planning in Low-Cost Robotics**|Jesse Barkley et.al.|[2505.01931v1](http://arxiv.org/abs/2505.01931v1)|null|
 |**2025-05-03**|**Atmospheric height measurement of meteors detected simultaneously by Digisonde and multi-site optical cameras during the 2019 Geminid shower**|L. Deme et.al.|[2505.01923v1](http://arxiv.org/abs/2505.01923v1)|null|
-|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[2505.01893v1](http://arxiv.org/abs/2505.01893v1)|null|
+|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[2505.01893v1](http://arxiv.org/abs/2505.01893v1)|[link](https://github.com/alibustami/DriveNetBench)|
 |**2025-05-03**|**MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization**|Chenghong Li et.al.|[2505.01838v1](http://arxiv.org/abs/2505.01838v1)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729v1](http://arxiv.org/abs/2505.01729v1)|null|
 |**2025-05-02**|**Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation**|Zhen Yao et.al.|[2505.01548v1](http://arxiv.org/abs/2505.01548v1)|[link](https://github.com/zyaocoder/BRENet)|
