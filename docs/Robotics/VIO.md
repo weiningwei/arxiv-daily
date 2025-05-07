@@ -5,7 +5,7 @@
 |**2025-05-05**|**Evolution of the rippled inner-interface-initiated ablative Rayleigh-Taylor instability in laser-ablating high-Z doped targets**|W. Xiong et.al.|[2505.02715v1](http://arxiv.org/abs/2505.02715v1)|null|
 |**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
 |**2025-05-05**|**Experimental evidence of stimulated Raman re-scattering in laser-plasma interaction**|J. -R. Marquès et.al.|[2505.02547v1](http://arxiv.org/abs/2505.02547v1)|null|
-|**2025-05-05**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508v1](http://arxiv.org/abs/2505.02508v1)|null|
+|**2025-05-05**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508v2](http://arxiv.org/abs/2505.02508v2)|null|
 |**2025-05-05**|**Roadmap for warm dense matter physics**|Jan Vorberger et.al.|[2505.02494v1](http://arxiv.org/abs/2505.02494v1)|null|
 |**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272v1](http://arxiv.org/abs/2505.02272v1)|null|
 |**2025-05-04**|**TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition**|Lala Shakti Swarup Ray et.al.|[2505.02052v1](http://arxiv.org/abs/2505.02052v1)|null|
