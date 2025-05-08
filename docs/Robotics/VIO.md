@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438v1](http://arxiv.org/abs/2505.04438v1)|null|
+|**2025-05-07**|**Tangential Forces Govern the Viscous-Inertial Transition in Dense Frictional Suspensions**|Sudarshan Konidena et.al.|[2505.04242v1](http://arxiv.org/abs/2505.04242v1)|null|
+|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095v1](http://arxiv.org/abs/2505.04095v1)|null|
+|**2025-05-07**|**Dynamic scaling of vorticity in phase-separating superfluid mixtures**|Ryuta Ito et.al.|[2505.04079v1](http://arxiv.org/abs/2505.04079v1)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
 |**2025-05-06**|**Solar Coronal Heating: Role of Kinetic and Inertial Alfvén Waves in Heating and Charged Particle Acceleration**|Syed Ayaz et.al.|[2505.03267v1](http://arxiv.org/abs/2505.03267v1)|null|
 |**2025-05-05**|**An Exact Turbulence Law For the Fluid Description of Fusion Edge Plasmas**|Luisa Scarivaglione et.al.|[2505.03029v1](http://arxiv.org/abs/2505.03029v1)|null|
@@ -19,6 +23,7 @@
 |**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park et.al.|[2505.00995v1](http://arxiv.org/abs/2505.00995v1)|null|
 |**2025-05-02**|**MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery**|Haocheng Meng et.al.|[2505.00924v1](http://arxiv.org/abs/2505.00924v1)|null|
 |**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
+|**2025-05-01**|**A Double Inertial Forward-Backward Splitting Algorithm With Applications to Regression and Classification Problems**|İrfan Işik et.al.|[2505.03794v1](http://arxiv.org/abs/2505.03794v1)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
@@ -27,8 +32,3 @@
 |**2025-04-30**|**Kolmogorov Cascade as the Governing Mechanism for Intervortex Spacing in Quantum Turbulence**|Clément Bret et.al.|[2504.21416v1](http://arxiv.org/abs/2504.21416v1)|null|
 |**2025-04-30**|**From fluttering to drifting in inertialess sedimentation of achiral particles**|Christian Vaquero-Stainer et.al.|[2504.21355v1](http://arxiv.org/abs/2504.21355v1)|null|
 |**2025-04-29**|**Testing Compact, Fused Silica Resonator Based Inertial Sensors in a Gravitational Wave Detector Prototype Facility**|J J Carter et.al.|[2504.20918v1](http://arxiv.org/abs/2504.20918v1)|null|
-|**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615v1](http://arxiv.org/abs/2504.20615v1)|null|
-|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
-|**2025-04-29**|**LPVIMO-SAM: Tightly-coupled LiDAR/Polarization Vision/Inertial/Magnetometer/Optical Flow Odometry via Smoothing and Mapping**|Derui Shan et.al.|[2504.20380v1](http://arxiv.org/abs/2504.20380v1)|null|
-|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339v1](http://arxiv.org/abs/2504.20339v1)|null|
-|**2025-04-29**|**Reinforcement-learning-assisted control of four-roll mills: geometric symmetry and inertial effect**|Xuan Dai et.al.|[2504.20336v2](http://arxiv.org/abs/2504.20336v2)|null|
