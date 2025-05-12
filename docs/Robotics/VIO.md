@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-09**|**AI-assisted Automatic Jump Detection and Height Estimation in Volleyball Using a Waist-worn IMU**|Weiyi Xu et.al.|[2505.05907v1](http://arxiv.org/abs/2505.05907v1)|null|
+|**2025-05-09**|**Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion**|Yizhuo Yang et.al.|[2505.05811v1](http://arxiv.org/abs/2505.05811v1)|null|
+|**2025-05-09**|**Seedless magnetic field generation via ultraintense laser irradiation of an aluminum tetrafoil**|Jessa Jayne Miranda et.al.|[2505.05729v1](http://arxiv.org/abs/2505.05729v1)|null|
+|**2025-05-09**|**The effect of shear-thinning on the scalings and small-scale structures of turbulence**|Marco Edoardo Rosti et.al.|[2505.05692v1](http://arxiv.org/abs/2505.05692v1)|null|
 |**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|null|
 |**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|
 |**2025-05-07**|**Influence of simple and complex non-axisymmetric background magnetic fields on the propagation of QG MC waves**|Olivier Barrois et.al.|[2505.04762v1](http://arxiv.org/abs/2505.04762v1)|null|
@@ -28,7 +32,3 @@
 |**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
 |**2025-05-01**|**A Double Inertial Forward-Backward Splitting Algorithm With Applications to Regression and Classification Problems**|İrfan Işik et.al.|[2505.03794v1](http://arxiv.org/abs/2505.03794v1)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
-|**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|null|
-|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
-|**2025-04-30**|**Area rule of velocity circulation in two-dimensional instability-driven turbulence beyond the inertial range**|Bo-Jie Xie et.al.|[2504.21512v1](http://arxiv.org/abs/2504.21512v1)|null|
-|**2025-04-30**|**Provably-Safe, Online System Identification**|Bohao Zhang et.al.|[2504.21486v1](http://arxiv.org/abs/2504.21486v1)|null|
