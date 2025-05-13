@@ -11,7 +11,7 @@
 |**2025-05-09**|**Model-based calibration of gear-specific fish abundance survey data as a change-of-support problem**|Grace S. Chiu et.al.|[2505.05767v1](http://arxiv.org/abs/2505.05767v1)|null|
 |**2025-05-08**|**The NGC3109 Satellite System: The First Systematic Resolved Search for Dwarf Galaxies Around a SMC-mass Host**|Amandine Doliva-Dolinsky et.al.|[2505.05570v1](http://arxiv.org/abs/2505.05570v1)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|null|
-|**2025-05-08**|**Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation**|Nathan Meraz et.al.|[2505.05399v1](http://arxiv.org/abs/2505.05399v1)|null|
+|**2025-05-08**|**Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation**|Nathan Meraz et.al.|[2505.05399v2](http://arxiv.org/abs/2505.05399v2)|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391v1](http://arxiv.org/abs/2505.05391v1)|null|
 |**2025-05-08**|**Near- to mid-infrared spectroscopic study of ice analysis using the AKARI/IRC and Spitzer/IRS spectra**|Jaeyeong Kim et.al.|[2505.05390v1](http://arxiv.org/abs/2505.05390v1)|null|
 |**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356v1](http://arxiv.org/abs/2505.05356v1)|null|
@@ -19,7 +19,7 @@
 |**2025-05-08**|**PRE-Mamba: A 4D State Space Model for Ultra-High-Frequent Event Camera Deraining**|Ciyu Ruan et.al.|[2505.05307v1](http://arxiv.org/abs/2505.05307v1)|null|
 |**2025-05-08**|**HQC-NBV: A Hybrid Quantum-Classical View Planning Approach**|Xiaotong Yu et.al.|[2505.05212v1](http://arxiv.org/abs/2505.05212v1)|null|
 |**2025-05-08**|**Nonlinear Motion-Guided and Spatio-Temporal Aware Network for Unsupervised Event-Based Optical Flow**|Zuntao Liu et.al.|[2505.05089v1](http://arxiv.org/abs/2505.05089v1)|null|
-|**2025-05-08**|**ItDPDM: Information-Theoretic Discrete Poisson Diffusion Model**|Sagnik Bhattacharya et.al.|[2505.05082v1](http://arxiv.org/abs/2505.05082v1)|null|
+|**2025-05-08**|**ItDPDM: Information-Theoretic Discrete Poisson Diffusion Model**|Sagnik Bhattacharya et.al.|[2505.05082v2](http://arxiv.org/abs/2505.05082v2)|null|
 |**2025-05-08**|**StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps**|Lang Nie et.al.|[2505.05001v1](http://arxiv.org/abs/2505.05001v1)|[link](https://github.com/nie-lang/stabstitch2)|
 |**2025-05-08**|**SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models**|Shun Taguchi et.al.|[2505.04911v1](http://arxiv.org/abs/2505.04911v1)|null|
 |**2025-05-08**|**D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation**|I-Chun Arthur Liu et.al.|[2505.04860v1](http://arxiv.org/abs/2505.04860v1)|null|
