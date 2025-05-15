@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024v1](http://arxiv.org/abs/2505.09024v1)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|null|
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230v1](http://arxiv.org/abs/2505.08230v1)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
@@ -31,4 +32,3 @@
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280v1](http://arxiv.org/abs/2504.17280v1)|null|
 |**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
 |**2025-04-22**|**SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos**|Yuxin Yao et.al.|[2504.17810v1](http://arxiv.org/abs/2504.17810v1)|null|
-|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|null|

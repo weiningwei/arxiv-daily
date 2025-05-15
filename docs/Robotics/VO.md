@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v1](http://arxiv.org/abs/2505.09103v1)|null|
 |**2025-05-12**|**FD-RIO: Fast Dense Radar Inertial Odometry**|Nader J. Abu-Alrub et.al.|[2505.07694v1](http://arxiv.org/abs/2505.07694v1)|null|
 |**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari et.al.|[2505.07484v1](http://arxiv.org/abs/2505.07484v1)|null|
 |**2025-05-12**|**TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking**|Hanjing Ye et.al.|[2505.07446v1](http://arxiv.org/abs/2505.07446v1)|null|
@@ -31,4 +32,3 @@
 |**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|
 |**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|null|
-|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|null|

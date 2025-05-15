@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14**|**Long-tailed dissipationless hydromechanics: weak thermalization and ergodicity breaking**|Giuseppe Procopio et.al.|[2505.09566v1](http://arxiv.org/abs/2505.09566v1)|null|
+|**2025-05-14**|**Uncovering the Varieties of Three-dimensional Hall-MHD Turbulence**|Pratik Patel et.al.|[2505.09537v1](http://arxiv.org/abs/2505.09537v1)|null|
+|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393v1](http://arxiv.org/abs/2505.09393v1)|null|
+|**2025-05-14**|**Personalized Control for Lower Limb Prosthesis Using Kolmogorov-Arnold Networks**|SeyedMojtaba Mohasel et.al.|[2505.09366v1](http://arxiv.org/abs/2505.09366v1)|null|
+|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v1](http://arxiv.org/abs/2505.09103v1)|null|
+|**2025-05-14**|**An accelerated proximal PRS-SQP algorithm with dual ascent-descent procedures for smooth composite optimization**|Jiachen Jin et.al.|[2505.09078v1](http://arxiv.org/abs/2505.09078v1)|null|
 |**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780v1](http://arxiv.org/abs/2505.08780v1)|null|
 |**2025-05-13**|**Quantum gyroscope based on the cavity magnomechanical system**|Zhe-Qi Yang et.al.|[2505.08466v1](http://arxiv.org/abs/2505.08466v1)|null|
 |**2025-05-13**|**Fast Contact Detection via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration**|Aran Mohammad et.al.|[2505.08334v1](http://arxiv.org/abs/2505.08334v1)|null|
@@ -26,9 +32,3 @@
 |**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|
 |**2025-05-07**|**Influence of simple and complex non-axisymmetric background magnetic fields on the propagation of QG MC waves**|Olivier Barrois et.al.|[2505.04762v1](http://arxiv.org/abs/2505.04762v1)|null|
 |**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438v1](http://arxiv.org/abs/2505.04438v1)|null|
-|**2025-05-07**|**Tangential Forces Govern the Viscous-Inertial Transition in Dense Frictional Suspensions**|Sudarshan Konidena et.al.|[2505.04242v1](http://arxiv.org/abs/2505.04242v1)|null|
-|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095v1](http://arxiv.org/abs/2505.04095v1)|[link](https://github.com/stevvwen/aerial_gnss)|
-|**2025-05-07**|**Dynamic scaling of vorticity in phase-separating superfluid mixtures**|Ryuta Ito et.al.|[2505.04079v1](http://arxiv.org/abs/2505.04079v1)|null|
-|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
-|**2025-05-06**|**Solar Coronal Heating: Role of Kinetic and Inertial Alfvén Waves in Heating and Charged Particle Acceleration**|Syed Ayaz et.al.|[2505.03267v1](http://arxiv.org/abs/2505.03267v1)|null|
-|**2025-05-05**|**An Exact Turbulence Law For the Fluid Description of Fusion Edge Plasmas**|Luisa Scarivaglione et.al.|[2505.03029v1](http://arxiv.org/abs/2505.03029v1)|null|
