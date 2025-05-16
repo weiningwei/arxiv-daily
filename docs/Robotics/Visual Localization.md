@@ -18,7 +18,7 @@
 |**2025-05-13**|**ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image**|Yizhi Wang et.al.|[2505.08239v1](http://arxiv.org/abs/2505.08239v1)|null|
 |**2025-05-13**|**EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation**|Hanle Zheng et.al.|[2505.08235v1](http://arxiv.org/abs/2505.08235v1)|null|
 |**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Junda Huang et.al.|[2505.08213v1](http://arxiv.org/abs/2505.08213v1)|null|
-|**2025-05-12**|**Asynchronous Multi-Object Tracking with an Event Camera**|Angus Apps et.al.|[2505.08126v1](http://arxiv.org/abs/2505.08126v1)|null|
+|**2025-05-12**|**Asynchronous Multi-Object Tracking with an Event Camera**|Angus Apps et.al.|[2505.08126v1](http://arxiv.org/abs/2505.08126v1)|[link](https://github.com/angus-apps/AEMOT)|
 |**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766v1](http://arxiv.org/abs/2505.07766v1)|null|
 |**2025-05-12**|**Guiding Data Collection via Factored Scaling Curves**|Lihan Zha et.al.|[2505.07728v1](http://arxiv.org/abs/2505.07728v1)|null|
 |**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|null|
