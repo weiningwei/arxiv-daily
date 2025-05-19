@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467v1](http://arxiv.org/abs/2505.11467v1)|null|
+|**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|null|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282v1](http://arxiv.org/abs/2505.11282v1)|null|
+|**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232v1](http://arxiv.org/abs/2505.11232v1)|null|
+|**2025-05-16**|**Maximizing Asynchronicity in Event-based Neural Networks**|Haiqing Hao et.al.|[2505.11165v1](http://arxiv.org/abs/2505.11165v1)|null|
+|**2025-05-16**|**Open-Source Multi-Viewpoint Surgical Telerobotics**|Guido Caccianiga et.al.|[2505.11142v1](http://arxiv.org/abs/2505.11142v1)|null|
+|**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116v1](http://arxiv.org/abs/2505.11116v1)|null|
+|**2025-05-16**|**A Multi-modal Fusion Network for Terrain Perception Based on Illumination Aware**|Rui Wang et.al.|[2505.11066v1](http://arxiv.org/abs/2505.11066v1)|null|
+|**2025-05-16**|**Classifying Shelf Life Quality of Pineapples by Combining Audio and Visual Features**|Yi-Lu Jiang et.al.|[2505.11020v1](http://arxiv.org/abs/2505.11020v1)|null|
+|**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923v1](http://arxiv.org/abs/2505.10923v1)|null|
+|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888v1](http://arxiv.org/abs/2505.10888v1)|null|
+|**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696v1](http://arxiv.org/abs/2505.10696v1)|null|
+|**2025-05-15**|**GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention**|Lingjun Zhao et.al.|[2505.10685v1](http://arxiv.org/abs/2505.10685v1)|null|
+|**2025-05-15**|**GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding**|Yuki Kawana et.al.|[2505.10671v1](http://arxiv.org/abs/2505.10671v1)|null|
+|**2025-05-15**|**The Atmosphere of Titan in Late Northern Summer from JWST and Keck Observations**|Conor A. Nixon et.al.|[2505.10655v1](http://arxiv.org/abs/2505.10655v1)|null|
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420v1](http://arxiv.org/abs/2505.10420v1)|[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)|
 |**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416v1](http://arxiv.org/abs/2505.10416v1)|null|
 |**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398v1](http://arxiv.org/abs/2505.10398v1)|null|
@@ -17,18 +32,3 @@
 |**2025-05-14**|**Contactless Cardiac Pulse Monitoring Using Event Cameras**|Mohamed Moustafa et.al.|[2505.09529v1](http://arxiv.org/abs/2505.09529v1)|[link](https://github.com/c3imaging/contactless_cardiac_pulse_monitoring_using_event_cameras)|
 |**2025-05-14**|**Design of a Formation Control System to Assist Human Operators in Flying a Swarm of Robotic Blimps**|Tianfu Wu et.al.|[2505.09511v1](http://arxiv.org/abs/2505.09511v1)|null|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406v1](http://arxiv.org/abs/2505.09406v1)|null|
-|**2025-05-14**|**A drone that learns to efficiently find objects in agricultural fields: from simulation to the real world**|Rick van Essen et.al.|[2505.09278v1](http://arxiv.org/abs/2505.09278v1)|null|
-|**2025-05-14**|**Fair Clustering via Alignment**|Kunwoong Kim et.al.|[2505.09131v1](http://arxiv.org/abs/2505.09131v1)|null|
-|**2025-05-13**|**Intelligent Road Anomaly Detection with Real-time Notification System for Enhanced Road Safety**|Ali Almakhluk et.al.|[2505.08882v1](http://arxiv.org/abs/2505.08882v1)|null|
-|**2025-05-13**|**Claycode: Stylable and Deformable 2D Scannable Codes**|Marco Maida et.al.|[2505.08666v1](http://arxiv.org/abs/2505.08666v1)|null|
-|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589v1](http://arxiv.org/abs/2505.08589v1)|null|
-|**2025-05-13**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568v2](http://arxiv.org/abs/2505.08568v2)|[link](https://github.com/leon2014dresden/yolo-thermal)|
-|**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438v1](http://arxiv.org/abs/2505.08438v1)|null|
-|**2025-05-13**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[2505.08264v1](http://arxiv.org/abs/2505.08264v1)|null|
-|**2025-05-13**|**Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores**|Hyunsik Na et.al.|[2505.08835v1](http://arxiv.org/abs/2505.08835v1)|null|
-|**2025-05-13**|**ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image**|Yizhi Wang et.al.|[2505.08239v1](http://arxiv.org/abs/2505.08239v1)|null|
-|**2025-05-13**|**EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation**|Hanle Zheng et.al.|[2505.08235v1](http://arxiv.org/abs/2505.08235v1)|null|
-|**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Junda Huang et.al.|[2505.08213v1](http://arxiv.org/abs/2505.08213v1)|null|
-|**2025-05-12**|**Asynchronous Multi-Object Tracking with an Event Camera**|Angus Apps et.al.|[2505.08126v1](http://arxiv.org/abs/2505.08126v1)|[link](https://github.com/angus-apps/AEMOT)|
-|**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766v1](http://arxiv.org/abs/2505.07766v1)|null|
-|**2025-05-12**|**Guiding Data Collection via Factored Scaling Curves**|Lihan Zha et.al.|[2505.07728v1](http://arxiv.org/abs/2505.07728v1)|null|

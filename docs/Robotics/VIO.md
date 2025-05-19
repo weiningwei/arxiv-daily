@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116v1](http://arxiv.org/abs/2505.11116v1)|null|
 |**2025-05-15**|**Inertial effects on fluid flow through low-porosity media**|Sahrish Batool Naqvi et.al.|[2505.10418v1](http://arxiv.org/abs/2505.10418v1)|null|
 |**2025-05-15**|**A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**|Mariano Ferrero et.al.|[2505.10198v1](http://arxiv.org/abs/2505.10198v1)|null|
 |**2025-05-15**|**The role of porosity in the transition to inertial regime in porous media flows**|Dawid Strzelczyk et.al.|[2505.10087v1](http://arxiv.org/abs/2505.10087v1)|null|
@@ -31,4 +32,3 @@
 |**2025-05-10**|**CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments**|Shehryar Khattak et.al.|[2505.06483v1](http://arxiv.org/abs/2505.06483v1)|null|
 |**2025-05-09**|**AI-assisted Automatic Jump Detection and Height Estimation in Volleyball Using a Waist-worn IMU**|Weiyi Xu et.al.|[2505.05907v1](http://arxiv.org/abs/2505.05907v1)|null|
 |**2025-05-09**|**Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion**|Yizhuo Yang et.al.|[2505.05811v1](http://arxiv.org/abs/2505.05811v1)|[link](https://github.com/jamesyang7/m-svdd)|
-|**2025-05-09**|**Seedless magnetic field generation via ultraintense laser irradiation of an aluminum tetrafoil**|Jessa Jayne Miranda et.al.|[2505.05729v1](http://arxiv.org/abs/2505.05729v1)|null|
