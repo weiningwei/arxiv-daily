@@ -15,7 +15,7 @@
 |**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v2](http://arxiv.org/abs/2505.09103v2)|null|
 |**2025-05-14**|**An accelerated proximal PRS-SQP algorithm with dual ascent-descent procedures for smooth composite optimization**|Jiachen Jin et.al.|[2505.09078v1](http://arxiv.org/abs/2505.09078v1)|null|
 |**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780v1](http://arxiv.org/abs/2505.08780v1)|null|
-|**2025-05-13**|**Quantum gyroscope based on the cavity magnomechanical system**|Zhe-Qi Yang et.al.|[2505.08466v1](http://arxiv.org/abs/2505.08466v1)|null|
+|**2025-05-13**|**Quantum gyroscope based on the cavity magnomechanical system**|Zhe-Qi Yang et.al.|[2505.08466v2](http://arxiv.org/abs/2505.08466v2)|null|
 |**2025-05-13**|**Fast Contact Detection via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration**|Aran Mohammad et.al.|[2505.08334v1](http://arxiv.org/abs/2505.08334v1)|null|
 |**2025-05-13**|**Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation**|Yingjie Hu et.al.|[2505.08229v1](http://arxiv.org/abs/2505.08229v1)|[link](https://github.com/azurehappen/constrained-zupt-fgo)|
 |**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Junda Huang et.al.|[2505.08213v1](http://arxiv.org/abs/2505.08213v1)|null|
