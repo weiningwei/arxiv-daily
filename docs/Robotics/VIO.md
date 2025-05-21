@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|[link](https://github.com/mf-zhang/ego-inertial-localization)|
+|**2025-05-19**|**The evolution of CME sheath turbulence from L1 to Earth: Wind and MMS observations of the 2023-04-23 CME**|Matthew R. Argall et.al.|[2505.13645v1](http://arxiv.org/abs/2505.13645v1)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
 |**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|null|
 |**2025-05-19**|**TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation**|Hangyu Li et.al.|[2505.12748v1](http://arxiv.org/abs/2505.12748v1)|null|
@@ -30,5 +32,3 @@
 |**2025-05-13**|**A Tightly Coupled IMU-Based Motion Capture Approach for Estimating Multibody Kinematics and Kinetics**|Hassan Osman et.al.|[2505.08193v1](http://arxiv.org/abs/2505.08193v1)|null|
 |**2025-05-13**|**Propagation and transmission of Jupiter's internal waves**|Yuru Xu et.al.|[2505.08187v1](http://arxiv.org/abs/2505.08187v1)|null|
 |**2025-05-13**|**Wave propagation and transmission in a rotating solar-type star**|Yuru Xu et.al.|[2505.08177v1](http://arxiv.org/abs/2505.08177v1)|null|
-|**2025-05-12**|**Localized Gravity, de Sitter, and the Horizon Criterion**|Bjoern Friedrich et.al.|[2505.07934v1](http://arxiv.org/abs/2505.07934v1)|null|
-|**2025-05-12**|**FD-RIO: Fast Dense Radar Inertial Odometry**|Nader J. Abu-Alrub et.al.|[2505.07694v1](http://arxiv.org/abs/2505.07694v1)|null|

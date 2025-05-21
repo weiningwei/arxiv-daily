@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-20**|**A Methodological Framework for Measuring Spatial Labeling Similarity**|Yihang Du et.al.|[2505.14128v1](http://arxiv.org/abs/2505.14128v1)|null|
+|**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068v1](http://arxiv.org/abs/2505.14068v1)|[link](https://github.com/cv4ra/sota-place-recognitioner)|
 |**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549v1](http://arxiv.org/abs/2505.12549v1)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384v1](http://arxiv.org/abs/2505.12384v1)|null|
 |**2025-05-16**|**EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**|Ryan Hoque et.al.|[2505.11709v1](http://arxiv.org/abs/2505.11709v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
 |**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v2](http://arxiv.org/abs/2504.19409v2)|null|
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
-|**2025-04-27**|**NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM**|Tianyi Zhang et.al.|[2504.19195v1](http://arxiv.org/abs/2504.19195v1)|null|
-|**2025-04-27**|**MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction**|Yulun Tian et.al.|[2504.19104v1](http://arxiv.org/abs/2504.19104v1)|null|

@@ -2,11 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-20**|**The Multimodal Information Based Speech Processing (MISP) 2025 Challenge: Audio-Visual Diarization and Recognition**|Ming Gao et.al.|[2505.13971v1](http://arxiv.org/abs/2505.13971v1)|null|
+|**2025-05-20**|**Paradigm Shift in Infrastructure Inspection Technology: Leveraging High-performance Imaging and Advanced AI Analytics to Inspect Road Infrastructure**|Du Wu et.al.|[2505.13955v1](http://arxiv.org/abs/2505.13955v1)|null|
+|**2025-05-20**|**Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.|[2505.13916v1](http://arxiv.org/abs/2505.13916v1)|null|
+|**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905v1](http://arxiv.org/abs/2505.13905v1)|null|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872v1](http://arxiv.org/abs/2505.13872v1)|null|
+|**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[2505.13856v1](http://arxiv.org/abs/2505.13856v1)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817v1](http://arxiv.org/abs/2505.13817v1)|null|
+|**2025-05-19**|**Non-degenerate SPDC photon-pair source for UV-A illumination**|Preetisha Goswami et.al.|[2505.13721v1](http://arxiv.org/abs/2505.13721v1)|null|
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|[link](https://github.com/dwawayu/pensieve)|
 |**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293v1](http://arxiv.org/abs/2505.13293v1)|null|
 |**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279v2](http://arxiv.org/abs/2505.13279v2)|null|
 |**2025-05-19**|**MatPredict: a dataset and benchmark for learning material properties of diverse indoor objects**|Yuzhen Chen et.al.|[2505.13201v1](http://arxiv.org/abs/2505.13201v1)|[link](https://github.com/arpan-kusari/matpredict)|
 |**2025-05-19**|**Learning to Adapt to Position Bias in Vision Transformer Classifiers**|Robert-Jan Bruintjes et.al.|[2505.13137v1](http://arxiv.org/abs/2505.13137v1)|[link](https://github.com/rjbruin/position-shap)|
+|**2025-05-19**|**FreeMesh: Boosting Mesh Generation with Coordinates Merging**|Jian Liu et.al.|[2505.13573v1](http://arxiv.org/abs/2505.13573v1)|null|
 |**2025-05-19**|**Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection**|Xiao Wang et.al.|[2505.12908v1](http://arxiv.org/abs/2505.12908v1)|[link](https://github.com/event-ahu/openevdet)|
 |**2025-05-19**|**Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach**|Shiao Wang et.al.|[2505.12903v1](http://arxiv.org/abs/2505.12903v1)|[link](https://github.com/event-ahu/slowfast_event_track)|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715v1](http://arxiv.org/abs/2505.12715v1)|null|
@@ -23,12 +32,3 @@
 |**2025-05-17**|**PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter**|Dhruv Metha Ramesh et.al.|[2505.11848v1](http://arxiv.org/abs/2505.11848v1)|null|
 |**2025-05-16**|**Zero-Shot Visual Generalization in Robot Manipulation**|Sumeet Batra et.al.|[2505.11719v1](http://arxiv.org/abs/2505.11719v1)|null|
 |**2025-05-16**|**EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**|Ryan Hoque et.al.|[2505.11709v1](http://arxiv.org/abs/2505.11709v1)|null|
-|**2025-05-16**|**Water Production Rates from SOHO/SWAN Observations of Comets C/2017 K2 (PanSTARRS) and C/2022 E3 (ZTF)**|Michael Combi et.al.|[2505.11699v1](http://arxiv.org/abs/2505.11699v1)|null|
-|**2025-05-16**|**Hierarchical Bracketing Encodings for Dependency Parsing as Tagging**|Ana Ezquerro et.al.|[2505.11693v1](http://arxiv.org/abs/2505.11693v1)|null|
-|**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620v1](http://arxiv.org/abs/2505.11620v1)|null|
-|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467v1](http://arxiv.org/abs/2505.11467v1)|null|
-|**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|null|
-|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282v1](http://arxiv.org/abs/2505.11282v1)|null|
-|**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232v1](http://arxiv.org/abs/2505.11232v1)|null|
-|**2025-05-16**|**Maximizing Asynchronicity in Event-based Neural Networks**|Haiqing Hao et.al.|[2505.11165v1](http://arxiv.org/abs/2505.11165v1)|null|
-|**2025-05-16**|**Open-Source Multi-Viewpoint Surgical Telerobotics**|Guido Caccianiga et.al.|[2505.11142v1](http://arxiv.org/abs/2505.11142v1)|null|
