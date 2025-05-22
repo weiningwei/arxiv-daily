@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
 |**2025-05-19**|**MSCEKF-MIO: Magnetic-Inertial Odometry Based on Multi-State Constraint Extended Kalman Filter**|Jiazhu Li et.al.|[2505.12634v2](http://arxiv.org/abs/2505.12634v2)|null|
-|**2025-05-18**|**Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing**|Davide Plozza et.al.|[2505.12537v1](http://arxiv.org/abs/2505.12537v1)|null|
+|**2025-05-18**|**Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing**|Davide Plozza et.al.|[2505.12537v1](http://arxiv.org/abs/2505.12537v1)|[link](https://github.com/eth-pbl/elmap-rl-controller)|
 |**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337v1](http://arxiv.org/abs/2505.12337v1)|null|
 |**2025-05-18**|**DNOI-4DRO: Deep 4D Radar Odometry with Differentiable Neural-Optimization Iterations**|Shouyi Lu et.al.|[2505.12310v1](http://arxiv.org/abs/2505.12310v1)|null|
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116v1](http://arxiv.org/abs/2505.11116v1)|null|
