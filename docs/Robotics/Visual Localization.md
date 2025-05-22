@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|null|
+|**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800v1](http://arxiv.org/abs/2505.15800v1)|null|
+|**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628v1](http://arxiv.org/abs/2505.15628v1)|null|
+|**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558v1](http://arxiv.org/abs/2505.15558v1)|null|
+|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545v1](http://arxiv.org/abs/2505.15545v1)|null|
+|**2025-05-21**|**Direct Estimation of Earthquake Source Properties from a Single CCTV Camera**|Soumaya Latour et.al.|[2505.15461v1](http://arxiv.org/abs/2505.15461v1)|null|
+|**2025-05-21**|**Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**|Ryota Soga et.al.|[2505.15412v1](http://arxiv.org/abs/2505.15412v1)|null|
+|**2025-05-21**|**R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**|Xu yan et.al.|[2505.15294v1](http://arxiv.org/abs/2505.15294v1)|null|
+|**2025-05-21**|**GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting**|Wenjie Liu et.al.|[2505.15208v1](http://arxiv.org/abs/2505.15208v1)|null|
+|**2025-05-21**|**CineTechBench: A Benchmark for Cinematographic Technique Understanding and Generation**|Xinran Wang et.al.|[2505.15145v1](http://arxiv.org/abs/2505.15145v1)|null|
 |**2025-05-20**|**The Multimodal Information Based Speech Processing (MISP) 2025 Challenge: Audio-Visual Diarization and Recognition**|Ming Gao et.al.|[2505.13971v1](http://arxiv.org/abs/2505.13971v1)|null|
 |**2025-05-20**|**Paradigm Shift in Infrastructure Inspection Technology: Leveraging High-performance Imaging and Advanced AI Analytics to Inspect Road Infrastructure**|Du Wu et.al.|[2505.13955v1](http://arxiv.org/abs/2505.13955v1)|null|
 |**2025-05-20**|**Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.|[2505.13916v1](http://arxiv.org/abs/2505.13916v1)|null|
@@ -13,6 +23,7 @@
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|[link](https://github.com/dwawayu/pensieve)|
 |**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293v1](http://arxiv.org/abs/2505.13293v1)|[link](https://github.com/robstarek/cfcnn)|
 |**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279v2](http://arxiv.org/abs/2505.13279v2)|null|
+|**2025-05-19**|**A High-Flux Electron Detector System to Measure Non-linear Compton Scattering at LUXE**|Antonios Athanassiadis et.al.|[2505.14720v1](http://arxiv.org/abs/2505.14720v1)|null|
 |**2025-05-19**|**MatPredict: a dataset and benchmark for learning material properties of diverse indoor objects**|Yuzhen Chen et.al.|[2505.13201v1](http://arxiv.org/abs/2505.13201v1)|[link](https://github.com/arpan-kusari/matpredict)|
 |**2025-05-19**|**Learning to Adapt to Position Bias in Vision Transformer Classifiers**|Robert-Jan Bruintjes et.al.|[2505.13137v1](http://arxiv.org/abs/2505.13137v1)|[link](https://github.com/rjbruin/position-shap)|
 |**2025-05-19**|**FreeMesh: Boosting Mesh Generation with Coordinates Merging**|Jian Liu et.al.|[2505.13573v1](http://arxiv.org/abs/2505.13573v1)|null|
@@ -21,14 +32,3 @@
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715v1](http://arxiv.org/abs/2505.12715v1)|null|
 |**2025-05-19**|**Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion**|Zhuoheng Wang et.al.|[2505.12679v1](http://arxiv.org/abs/2505.12679v1)|null|
 |**2025-05-19**|**SPKLIP: Aligning Spike Video Streams with Natural Language**|Yongchang Gao et.al.|[2505.12656v1](http://arxiv.org/abs/2505.12656v1)|null|
-|**2025-05-19**|**Learning Cross-Spectral Point Features with Task-Oriented Training**|Mia Thomas et.al.|[2505.12593v2](http://arxiv.org/abs/2505.12593v2)|null|
-|**2025-05-19**|**Event-based Star Tracking under Spacecraft Jitter: the e-STURT Dataset**|Samya Bagchi et.al.|[2505.12588v1](http://arxiv.org/abs/2505.12588v1)|null|
-|**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549v1](http://arxiv.org/abs/2505.12549v1)|null|
-|**2025-05-18**|**Event-Driven Simulation for Rapid Iterative Development of Distributed Space Flight Software**|Toby Bell et.al.|[2505.12502v1](http://arxiv.org/abs/2505.12502v1)|null|
-|**2025-05-17**|**Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets**|Ning Lu et.al.|[2505.12038v1](http://arxiv.org/abs/2505.12038v1)|[link](https://github.com/colinlu50/safedelta)|
-|**2025-05-17**|**A VCSEL based Photonic Neuromorphic Processor for Event-Based Imaging Flow Cytometry Applications**|M. Skontranis et.al.|[2505.12026v1](http://arxiv.org/abs/2505.12026v1)|null|
-|**2025-05-17**|**SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations**|Songchun Zhang et.al.|[2505.11992v1](http://arxiv.org/abs/2505.11992v1)|null|
-|**2025-05-17**|**Are Multimodal Large Language Models Ready for Omnidirectional Spatial Reasoning?**|Zihao Dongfang et.al.|[2505.11907v1](http://arxiv.org/abs/2505.11907v1)|null|
-|**2025-05-17**|**PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter**|Dhruv Metha Ramesh et.al.|[2505.11848v1](http://arxiv.org/abs/2505.11848v1)|null|
-|**2025-05-16**|**Zero-Shot Visual Generalization in Robot Manipulation**|Sumeet Batra et.al.|[2505.11719v1](http://arxiv.org/abs/2505.11719v1)|null|
-|**2025-05-16**|**EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**|Ryan Hoque et.al.|[2505.11709v1](http://arxiv.org/abs/2505.11709v1)|null|
