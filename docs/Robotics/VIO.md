@@ -13,7 +13,7 @@
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|[link](https://github.com/mf-zhang/ego-inertial-localization)|
 |**2025-05-19**|**The evolution of CME sheath turbulence from L1 to Earth: Wind and MMS observations of the 2023-04-23 CME**|Matthew R. Argall et.al.|[2505.13645v1](http://arxiv.org/abs/2505.13645v1)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
-|**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|null|
+|**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|[link](https://github.com/inertialmicrocavitationrheometry/imr_rbf_boed)|
 |**2025-05-19**|**TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation**|Hangyu Li et.al.|[2505.12748v1](http://arxiv.org/abs/2505.12748v1)|null|
 |**2025-05-19**|**MSCEKF-MIO: Magnetic-Inertial Odometry Based on Multi-State Constraint Extended Kalman Filter**|Jiazhu Li et.al.|[2505.12634v2](http://arxiv.org/abs/2505.12634v2)|null|
 |**2025-05-18**|**Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing**|Davide Plozza et.al.|[2505.12537v1](http://arxiv.org/abs/2505.12537v1)|[link](https://github.com/eth-pbl/elmap-rl-controller)|

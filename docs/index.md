@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-25 21:17:21 Asia/Shanghai
+ Automated deployment @ 2025-05-26 08:52:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -45,7 +45,7 @@
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447v1](http://arxiv.org/abs/2505.16447v1)|null|
 |**2025-05-20**|**A Methodological Framework for Measuring Spatial Labeling Similarity**|Yihang Du et.al.|[2505.14128v1](http://arxiv.org/abs/2505.14128v1)|[link](https://github.com/yihdu/slam)|
 |**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068v2](http://arxiv.org/abs/2505.14068v2)|[link](https://github.com/cv4ra/sota-place-recognitioner)|
-|**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549v1](http://arxiv.org/abs/2505.12549v1)|null|
+|**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549v2](http://arxiv.org/abs/2505.12549v2)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384v1](http://arxiv.org/abs/2505.12384v1)|null|
 |**2025-05-16**|**EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**|Ryan Hoque et.al.|[2505.11709v1](http://arxiv.org/abs/2505.11709v1)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620v1](http://arxiv.org/abs/2505.11620v1)|null|
@@ -87,7 +87,7 @@
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|[link](https://github.com/mf-zhang/ego-inertial-localization)|
 |**2025-05-19**|**The evolution of CME sheath turbulence from L1 to Earth: Wind and MMS observations of the 2023-04-23 CME**|Matthew R. Argall et.al.|[2505.13645v1](http://arxiv.org/abs/2505.13645v1)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
-|**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|null|
+|**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|[link](https://github.com/inertialmicrocavitationrheometry/imr_rbf_boed)|
 |**2025-05-19**|**TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation**|Hangyu Li et.al.|[2505.12748v1](http://arxiv.org/abs/2505.12748v1)|null|
 |**2025-05-19**|**MSCEKF-MIO: Magnetic-Inertial Odometry Based on Multi-State Constraint Extended Kalman Filter**|Jiazhu Li et.al.|[2505.12634v2](http://arxiv.org/abs/2505.12634v2)|null|
 |**2025-05-18**|**Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing**|Davide Plozza et.al.|[2505.12537v1](http://arxiv.org/abs/2505.12537v1)|[link](https://github.com/eth-pbl/elmap-rl-controller)|
@@ -113,8 +113,8 @@
 |**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|[link](https://github.com/haoningwu3639/SpatialScore)|
 |**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
 |**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|null|
-|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902v1](http://arxiv.org/abs/2505.16902v1)|null|
-|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v1](http://arxiv.org/abs/2505.16839v1)|null|
+|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902v1](http://arxiv.org/abs/2505.16902v1)|[link](https://github.com/fudan-zvg/realengine)|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v2](http://arxiv.org/abs/2505.16839v2)|[link](https://github.com/jacklishufan/lavida)|
 |**2025-05-22**|**V2V: Scaling Event-Based Vision through Efficient Video-to-Voxel Simulation**|Hanyue Lou et.al.|[2505.16797v1](http://arxiv.org/abs/2505.16797v1)|null|
 |**2025-05-22**|**High angular resolution near-ultraviolet polarization imaging of the Herbig Ae/Be star LK-Hα-233**|F. Marin et.al.|[2505.16731v1](http://arxiv.org/abs/2505.16731v1)|null|
 |**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633v1](http://arxiv.org/abs/2505.16633v1)|null|
@@ -125,7 +125,7 @@
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278v1](http://arxiv.org/abs/2505.16278v1)|null|
 |**2025-05-22**|**A Shape-Aware Total Body Photography System for In-focus Surface Coverage Optimization**|Wei-Lun Huang et.al.|[2505.16228v1](http://arxiv.org/abs/2505.16228v1)|null|
 |**2025-05-22**|**Multimodal Online Federated Learning with Modality Missing in Internet of Things**|Heqiang Wang et.al.|[2505.16138v1](http://arxiv.org/abs/2505.16138v1)|null|
-|**2025-05-22**|**A Generic Framework for Conformal Fairness**|Aditya T. Vadlamani et.al.|[2505.16115v1](http://arxiv.org/abs/2505.16115v1)|null|
+|**2025-05-22**|**A Generic Framework for Conformal Fairness**|Aditya T. Vadlamani et.al.|[2505.16115v1](http://arxiv.org/abs/2505.16115v1)|[link](https://github.com/adityavadlamani/conformal-fairness)|
 |**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithania et.al.|[2505.16055v1](http://arxiv.org/abs/2505.16055v1)|null|
 |**2025-05-21**|**Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection**|Shichao Li et.al.|[2505.16029v1](http://arxiv.org/abs/2505.16029v1)|null|
 |**2025-05-21**|**Super-Resolution with Structured Motion**|Gabby Litterio et.al.|[2505.15961v1](http://arxiv.org/abs/2505.15961v1)|null|
@@ -134,7 +134,7 @@
 |**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628v1](http://arxiv.org/abs/2505.15628v1)|[link](https://github.com/ykotseruba/snap)|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558v1](http://arxiv.org/abs/2505.15558v1)|null|
 |**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545v1](http://arxiv.org/abs/2505.15545v1)|[link](https://github.com/andrewcaunes/ia4markings)|
-|**2025-05-21**|**Direct Estimation of Earthquake Source Properties from a Single CCTV Camera**|Soumaya Latour et.al.|[2505.15461v1](http://arxiv.org/abs/2505.15461v1)|null|
+|**2025-05-21**|**Direct Estimation of Earthquake Source Properties from a Single CCTV Camera**|Soumaya Latour et.al.|[2505.15461v2](http://arxiv.org/abs/2505.15461v2)|null|
 |**2025-05-21**|**Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**|Ryota Soga et.al.|[2505.15412v1](http://arxiv.org/abs/2505.15412v1)|null|
 |**2025-05-21**|**R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**|Xu yan et.al.|[2505.15294v1](http://arxiv.org/abs/2505.15294v1)|null|
 |**2025-05-21**|**GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting**|Wenjie Liu et.al.|[2505.15208v1](http://arxiv.org/abs/2505.15208v1)|null|
