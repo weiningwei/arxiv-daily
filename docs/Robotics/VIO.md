@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**Role of settling inertial particles in modulating flow structures and drag in Taylor-Couette turbulence**|Hao Jiang et.al.|[2505.19859v1](http://arxiv.org/abs/2505.19859v1)|null|
+|**2025-05-25**|**Orbital Decay of the Shortest-Period Hot Jupiter, TOI-2109b: Tidal Constraints and Transit-Timing Analysis**|Jaime A. Alvarado-Montes et.al.|[2505.18941v1](http://arxiv.org/abs/2505.18941v1)|null|
+|**2025-05-24**|**Universal quantum control by non-Hermitian Hamiltonian**|Zhu-yao Jin et.al.|[2505.18606v1](http://arxiv.org/abs/2505.18606v1)|null|
+|**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|
+|**2025-05-23**|**Thermal and Turbulence Characteristics of Fast and Slow Coronal Mass Ejections at 1 AU**|Soumyaranjan Khuntia et.al.|[2505.18296v1](http://arxiv.org/abs/2505.18296v1)|null|
+|**2025-05-23**|**Mechanochemical feedback drives complex inertial dynamics in active solids**|Siddhartha Sarkar et.al.|[2505.18272v1](http://arxiv.org/abs/2505.18272v1)|null|
 |**2025-05-23**|**Emergent reactance induced by the deformation of a current-driven skyrmion lattice**|Matthew T. Littlehales et.al.|[2505.18029v1](http://arxiv.org/abs/2505.18029v1)|null|
 |**2025-05-23**|**Simultaneous amplification and shaping of excimer lasers using Stimulated Brillouin Scattering in the strongly damped limit**|Jihoon Kim et.al.|[2505.17956v1](http://arxiv.org/abs/2505.17956v1)|null|
 |**2025-05-23**|**Gravitational waves from strong first order phase transitions**|José Correia et.al.|[2505.17824v1](http://arxiv.org/abs/2505.17824v1)|null|
@@ -26,9 +32,3 @@
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116v1](http://arxiv.org/abs/2505.11116v1)|null|
 |**2025-05-15**|**Inertial effects on fluid flow through low-porosity media**|Sahrish Batool Naqvi et.al.|[2505.10418v1](http://arxiv.org/abs/2505.10418v1)|null|
 |**2025-05-15**|**A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**|Mariano Ferrero et.al.|[2505.10198v1](http://arxiv.org/abs/2505.10198v1)|null|
-|**2025-05-15**|**The role of porosity in the transition to inertial regime in porous media flows**|Dawid Strzelczyk et.al.|[2505.10087v1](http://arxiv.org/abs/2505.10087v1)|null|
-|**2025-05-15**|**A magnetically levitated conducting rotor with ultra-low rotational damping circumventing eddy loss**|Daehee Kim et.al.|[2505.09895v1](http://arxiv.org/abs/2505.09895v1)|null|
-|**2025-05-14**|**Neural Inertial Odometry from Lie Events**|Royina Karegoudra Jayanth et.al.|[2505.09780v1](http://arxiv.org/abs/2505.09780v1)|[link](https://github.com/RoyinaJayanth/NIO_Lie_Events)|
-|**2025-05-14**|**Long-tailed dissipationless hydromechanics: weak thermalization and ergodicity breaking**|Giuseppe Procopio et.al.|[2505.09566v1](http://arxiv.org/abs/2505.09566v1)|null|
-|**2025-05-14**|**Uncovering the Varieties of Three-dimensional Hall-MHD Turbulence**|Pratik Patel et.al.|[2505.09537v1](http://arxiv.org/abs/2505.09537v1)|null|
-|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393v1](http://arxiv.org/abs/2505.09393v1)|[link](https://github.com/kk9six/umotion)|

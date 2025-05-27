@@ -2,6 +2,29 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126v1](http://arxiv.org/abs/2505.20126v1)|null|
+|**2025-05-26**|**TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos**|Fanheng Kong et.al.|[2505.20124v1](http://arxiv.org/abs/2505.20124v1)|null|
+|**2025-05-26**|**OmniFall: A Unified Staged-to-Wild Benchmark for Human Fall Detection**|David Schneider et.al.|[2505.19889v1](http://arxiv.org/abs/2505.19889v1)|null|
+|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883v1](http://arxiv.org/abs/2505.19883v1)|null|
+|**2025-05-26**|**DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving**|Wenchao Sun et.al.|[2505.19692v1](http://arxiv.org/abs/2505.19692v1)|null|
+|**2025-05-26**|**Autonomous Flights inside Narrow Tunnels**|Luqi Wang et.al.|[2505.19657v1](http://arxiv.org/abs/2505.19657v1)|null|
+|**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|
+|**2025-05-25**|**From Single Images to Motion Policies via Video-Generation Environment Representations**|Weiming Zhi et.al.|[2505.19306v1](http://arxiv.org/abs/2505.19306v1)|null|
+|**2025-05-25**|**Improving Novel view synthesis of 360$^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264v1](http://arxiv.org/abs/2505.19264v1)|null|
+|**2025-05-25**|**EventEgoHands: Event-based Egocentric 3D Hand Mesh Reconstruction**|Ryosei Hara et.al.|[2505.19169v1](http://arxiv.org/abs/2505.19169v1)|null|
+|**2025-05-25**|**Veta-GS: View-dependent deformable 3D Gaussian Splatting for thermal infrared Novel-view Synthesis**|Myeongseok Nam et.al.|[2505.19138v1](http://arxiv.org/abs/2505.19138v1)|null|
+|**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026v1](http://arxiv.org/abs/2505.19026v1)|null|
+|**2025-05-25**|**VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes**|Tianchen Deng et.al.|[2505.18992v1](http://arxiv.org/abs/2505.18992v1)|null|
+|**2025-05-25**|**How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation**|Yining Pan et.al.|[2505.18956v1](http://arxiv.org/abs/2505.18956v1)|null|
+|**2025-05-25**|**Geometry-guided Online 3D Video Synthesis with Multi-View Temporal Consistency**|Hyunho Ha et.al.|[2505.18932v1](http://arxiv.org/abs/2505.18932v1)|null|
+|**2025-05-24**|**Writing Like the Best: Exemplar-Based Expository Text Generation**|Yuxiang Liu et.al.|[2505.18859v1](http://arxiv.org/abs/2505.18859v1)|null|
+|**2025-05-24**|**Evaluating the Usefulness of Non-Diagnostic Speech Data for Developing Parkinson's Disease Classifiers**|Terry Yi Zhong et.al.|[2505.18722v1](http://arxiv.org/abs/2505.18722v1)|null|
+|**2025-05-24**|**HyperFake: Hyperspectral Reconstruction and Attention-Guided Analysis for Advanced Deepfake Detection**|Pavan C Shekar et.al.|[2505.18587v1](http://arxiv.org/abs/2505.18587v1)|null|
+|**2025-05-24**|**Canonical Policy: Learning Canonical 3D Representation for Equivariant Policy**|Zhiyuan Zhang et.al.|[2505.18474v1](http://arxiv.org/abs/2505.18474v1)|null|
+|**2025-05-24**|**Curio: A Cost-Effective Solution for Robotics Education**|Talha Enes Ayranci et.al.|[2505.18437v1](http://arxiv.org/abs/2505.18437v1)|null|
+|**2025-05-23**|**The Under-Water Dark-Room Experimental Facility at the University of Winnipeg**|Ajmi Ali et.al.|[2505.18395v1](http://arxiv.org/abs/2505.18395v1)|null|
+|**2025-05-23**|**Monocular Marker-free Patient-to-Image Intraoperative Registration for Cochlear Implant Surgery**|Yike Zhang et.al.|[2505.18381v1](http://arxiv.org/abs/2505.18381v1)|null|
+|**2025-05-23**|**DART$^3$: Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337v1](http://arxiv.org/abs/2505.18337v1)|null|
 |**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049v1](http://arxiv.org/abs/2505.18049v1)|null|
 |**2025-05-23**|**Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**|Li Zhong et.al.|[2505.18039v1](http://arxiv.org/abs/2505.18039v1)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
@@ -9,26 +32,3 @@
 |**2025-05-23**|**Resolving Conflicting Evidence in Automated Fact-Checking: A Study on Retrieval-Augmented LLMs**|Ziyu Ge et.al.|[2505.17762v1](http://arxiv.org/abs/2505.17762v1)|null|
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732v1](http://arxiv.org/abs/2505.17732v1)|null|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677v1](http://arxiv.org/abs/2505.17677v1)|null|
-|**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590v1](http://arxiv.org/abs/2505.17590v1)|null|
-|**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582v1](http://arxiv.org/abs/2505.17582v1)|null|
-|**2025-05-23**|**Deblending Overlapping Galaxies in DECaLS Using Transformer-Based Algorithm: A Method Combining Multiple Bands and Data Types**|Ran Zhang et.al.|[2505.17452v1](http://arxiv.org/abs/2505.17452v1)|null|
-|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|[link](https://github.com/haoningwu3639/SpatialScore)|
-|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
-|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|null|
-|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902v1](http://arxiv.org/abs/2505.16902v1)|[link](https://github.com/fudan-zvg/realengine)|
-|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v2](http://arxiv.org/abs/2505.16839v2)|[link](https://github.com/jacklishufan/lavida)|
-|**2025-05-22**|**V2V: Scaling Event-Based Vision through Efficient Video-to-Voxel Simulation**|Hanyue Lou et.al.|[2505.16797v1](http://arxiv.org/abs/2505.16797v1)|null|
-|**2025-05-22**|**High angular resolution near-ultraviolet polarization imaging of the Herbig Ae/Be star LK-Hα-233**|F. Marin et.al.|[2505.16731v1](http://arxiv.org/abs/2505.16731v1)|null|
-|**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633v1](http://arxiv.org/abs/2505.16633v1)|null|
-|**2025-05-22**|**Safe Uncertainty-Aware Learning of Robotic Suturing**|Wilbert Peter Empleo et.al.|[2505.16596v1](http://arxiv.org/abs/2505.16596v1)|null|
-|**2025-05-22**|**Temporal Object Captioning for Street Scene Videos from LiDAR Tracks**|Vignesh Gopinathan et.al.|[2505.16594v1](http://arxiv.org/abs/2505.16594v1)|null|
-|**2025-05-22**|**M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion**|Nina Shvetsova et.al.|[2505.16565v1](http://arxiv.org/abs/2505.16565v1)|null|
-|**2025-05-22**|**PCMamba: Physics-Informed Cross-Modal State Space Model for Dual-Camera Compressive Hyperspectral Imaging**|Ge Meng et.al.|[2505.16373v1](http://arxiv.org/abs/2505.16373v1)|null|
-|**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278v1](http://arxiv.org/abs/2505.16278v1)|null|
-|**2025-05-22**|**A Shape-Aware Total Body Photography System for In-focus Surface Coverage Optimization**|Wei-Lun Huang et.al.|[2505.16228v1](http://arxiv.org/abs/2505.16228v1)|null|
-|**2025-05-22**|**Multimodal Online Federated Learning with Modality Missing in Internet of Things**|Heqiang Wang et.al.|[2505.16138v1](http://arxiv.org/abs/2505.16138v1)|null|
-|**2025-05-22**|**A Generic Framework for Conformal Fairness**|Aditya T. Vadlamani et.al.|[2505.16115v1](http://arxiv.org/abs/2505.16115v1)|[link](https://github.com/adityavadlamani/conformal-fairness)|
-|**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithania et.al.|[2505.16055v1](http://arxiv.org/abs/2505.16055v1)|null|
-|**2025-05-21**|**Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection**|Shichao Li et.al.|[2505.16029v1](http://arxiv.org/abs/2505.16029v1)|null|
-|**2025-05-21**|**Super-Resolution with Structured Motion**|Gabby Litterio et.al.|[2505.15961v1](http://arxiv.org/abs/2505.15961v1)|null|
-|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|null|
