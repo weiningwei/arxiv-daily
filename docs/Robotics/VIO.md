@@ -11,7 +11,7 @@
 |**2025-05-22**|**Impact pressure enhancement upon disk impact on a boiling liquid**|Yee Li et.al.|[2505.16668v1](http://arxiv.org/abs/2505.16668v1)|null|
 |**2025-05-22**|**Joint Magnetometer-IMU Calibration via Maximum A Posteriori Estimation**|Chuan Huang et.al.|[2505.16662v1](http://arxiv.org/abs/2505.16662v1)|null|
 |**2025-05-21**|**Effects of symmetry and hydrodynamics on the cohesion of groups of swimmers**|Mohamed Niged Mabrouk et.al.|[2505.15942v1](http://arxiv.org/abs/2505.15942v1)|null|
-|**2025-05-21**|**Adaptive Inertial Method**|Han Long et.al.|[2505.15114v1](http://arxiv.org/abs/2505.15114v1)|null|
+|**2025-05-21**|**Adaptive Inertial Method**|Han Long et.al.|[2505.15114v1](http://arxiv.org/abs/2505.15114v1)|[link](https://github.com/harmoke/aim)|
 |**2025-05-21**|**Learning-based Airflow Inertial Odometry for MAVs using Thermal Anemometers in a GPS and vision denied environment**|Ze Wang et.al.|[2505.15044v1](http://arxiv.org/abs/2505.15044v1)|null|
 |**2025-05-20**|**Coordinated motion control of a wire arc additive manufacturing robotic system for multi-directional building parts**|Fernando Coutinho et.al.|[2505.14858v1](http://arxiv.org/abs/2505.14858v1)|null|
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|[link](https://github.com/mf-zhang/ego-inertial-localization)|
