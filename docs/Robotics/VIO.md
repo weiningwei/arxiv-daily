@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|null|
+|**2025-05-27**|**Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case Study**|Leo Kotipalo et.al.|[2505.20908v1](http://arxiv.org/abs/2505.20908v1)|null|
+|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
+|**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894v1](http://arxiv.org/abs/2505.20894v1)|null|
+|**2025-05-27**|**MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition**|Hao Zhang et.al.|[2505.20744v1](http://arxiv.org/abs/2505.20744v1)|null|
+|**2025-05-27**|**Detecting Informative Channels: ActionFormer**|Kunpeng Zhao et.al.|[2505.20739v1](http://arxiv.org/abs/2505.20739v1)|null|
+|**2025-05-27**|**Seeing through the light cone: Visualizing electromagnetic fields in special relativity**|Daiju Nakayama et.al.|[2505.20596v1](http://arxiv.org/abs/2505.20596v1)|null|
 |**2025-05-26**|**Role of settling inertial particles in modulating flow structures and drag in Taylor-Couette turbulence**|Hao Jiang et.al.|[2505.19859v1](http://arxiv.org/abs/2505.19859v1)|null|
 |**2025-05-25**|**Orbital Decay of the Shortest-Period Hot Jupiter, TOI-2109b: Tidal Constraints and Transit-Timing Analysis**|Jaime A. Alvarado-Montes et.al.|[2505.18941v1](http://arxiv.org/abs/2505.18941v1)|null|
 |**2025-05-24**|**Universal quantum control by non-Hermitian Hamiltonian**|Zhu-yao Jin et.al.|[2505.18606v1](http://arxiv.org/abs/2505.18606v1)|null|
@@ -25,10 +32,3 @@
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
 |**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|[link](https://github.com/inertialmicrocavitationrheometry/imr_rbf_boed)|
 |**2025-05-19**|**TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation**|Hangyu Li et.al.|[2505.12748v1](http://arxiv.org/abs/2505.12748v1)|null|
-|**2025-05-19**|**MSCEKF-MIO: Magnetic-Inertial Odometry Based on Multi-State Constraint Extended Kalman Filter**|Jiazhu Li et.al.|[2505.12634v2](http://arxiv.org/abs/2505.12634v2)|null|
-|**2025-05-18**|**Robust Reinforcement Learning-Based Locomotion for Resource-Constrained Quadrupeds with Exteroceptive Sensing**|Davide Plozza et.al.|[2505.12537v1](http://arxiv.org/abs/2505.12537v1)|[link](https://github.com/eth-pbl/elmap-rl-controller)|
-|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337v1](http://arxiv.org/abs/2505.12337v1)|null|
-|**2025-05-18**|**DNOI-4DRO: Deep 4D Radar Odometry with Differentiable Neural-Optimization Iterations**|Shouyi Lu et.al.|[2505.12310v1](http://arxiv.org/abs/2505.12310v1)|null|
-|**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116v1](http://arxiv.org/abs/2505.11116v1)|null|
-|**2025-05-15**|**Inertial effects on fluid flow through low-porosity media**|Sahrish Batool Naqvi et.al.|[2505.10418v1](http://arxiv.org/abs/2505.10418v1)|null|
-|**2025-05-15**|**A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**|Mariano Ferrero et.al.|[2505.10198v1](http://arxiv.org/abs/2505.10198v1)|null|

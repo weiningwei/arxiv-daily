@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
+|**2025-05-27**|**ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient**|Jason Chui et.al.|[2505.20858v1](http://arxiv.org/abs/2505.20858v1)|null|
 |**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420v1](http://arxiv.org/abs/2505.19420v1)|null|
 |**2025-05-25**|**VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes**|Tianchen Deng et.al.|[2505.18992v1](http://arxiv.org/abs/2505.18992v1)|null|
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576v1](http://arxiv.org/abs/2505.17576v1)|null|
@@ -30,5 +32,3 @@
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956v2](http://arxiv.org/abs/2505.01956v2)|null|
 |**2025-05-03**|**GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**|Yongxin Su et.al.|[2505.01934v1](http://arxiv.org/abs/2505.01934v1)|null|
 |**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|null|
-|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
-|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
