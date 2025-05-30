@@ -2,6 +2,8 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-29**|**System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm**|Kosei Tsuji et.al.|[2505.23138v1](http://arxiv.org/abs/2505.23138v1)|null|
+|**2025-05-28**|**MAC-Gaze: Motion-Aware Continual Calibration for Mobile Gaze Tracking**|Yaxiong Lei et.al.|[2505.22769v1](http://arxiv.org/abs/2505.22769v1)|null|
 |**2025-05-28**|**Intermittency in Interplanetary Coronal Mass Ejections Observed by Parker Solar Probe and Solar Orbiter**|Julia Ruohotie et.al.|[2505.22283v1](http://arxiv.org/abs/2505.22283v1)|null|
 |**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|null|
 |**2025-05-27**|**Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case Study**|Leo Kotipalo et.al.|[2505.20908v1](http://arxiv.org/abs/2505.20908v1)|null|
@@ -30,5 +32,3 @@
 |**2025-05-20**|**Coordinated motion control of a wire arc additive manufacturing robotic system for multi-directional building parts**|Fernando Coutinho et.al.|[2505.14858v1](http://arxiv.org/abs/2505.14858v1)|null|
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|[link](https://github.com/mf-zhang/ego-inertial-localization)|
 |**2025-05-19**|**The evolution of CME sheath turbulence from L1 to Earth: Wind and MMS observations of the 2023-04-23 CME**|Matthew R. Argall et.al.|[2505.13645v1](http://arxiv.org/abs/2505.13645v1)|null|
-|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
-|**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|[link](https://github.com/inertialmicrocavitationrheometry/imr_rbf_boed)|

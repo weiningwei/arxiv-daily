@@ -2,6 +2,8 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-28**|**Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**|Xiaoyang Zhan et.al.|[2505.22880v1](http://arxiv.org/abs/2505.22880v1)|null|
+|**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
 |**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335v1](http://arxiv.org/abs/2505.22335v1)|null|
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
 |**2025-05-27**|**ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient**|Jason Chui et.al.|[2505.20858v1](http://arxiv.org/abs/2505.20858v1)|null|
@@ -30,5 +32,3 @@
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|[link](https://github.com/lyp-deeplearning/liftfeat)|
 |**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
 |**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272v2](http://arxiv.org/abs/2505.02272v2)|null|
-|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956v2](http://arxiv.org/abs/2505.01956v2)|null|
-|**2025-05-03**|**GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**|Yongxin Su et.al.|[2505.01934v1](http://arxiv.org/abs/2505.01934v1)|null|
