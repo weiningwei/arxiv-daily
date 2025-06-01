@@ -5,10 +5,10 @@
 |**2025-05-29**|**System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm**|Kosei Tsuji et.al.|[2505.23138v1](http://arxiv.org/abs/2505.23138v1)|null|
 |**2025-05-28**|**MAC-Gaze: Motion-Aware Continual Calibration for Mobile Gaze Tracking**|Yaxiong Lei et.al.|[2505.22769v1](http://arxiv.org/abs/2505.22769v1)|null|
 |**2025-05-28**|**Intermittency in Interplanetary Coronal Mass Ejections Observed by Parker Solar Probe and Solar Orbiter**|Julia Ruohotie et.al.|[2505.22283v1](http://arxiv.org/abs/2505.22283v1)|null|
-|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|null|
+|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|[link](https://github.com/mariusbock/leakage_har)|
 |**2025-05-27**|**Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case Study**|Leo Kotipalo et.al.|[2505.20908v1](http://arxiv.org/abs/2505.20908v1)|null|
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
-|**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894v1](http://arxiv.org/abs/2505.20894v1)|null|
+|**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894v1](http://arxiv.org/abs/2505.20894v1)|[link](https://github.com/mariusbock/context_har)|
 |**2025-05-27**|**MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition**|Hao Zhang et.al.|[2505.20744v1](http://arxiv.org/abs/2505.20744v1)|null|
 |**2025-05-27**|**Detecting Informative Channels: ActionFormer**|Kunpeng Zhao et.al.|[2505.20739v1](http://arxiv.org/abs/2505.20739v1)|null|
 |**2025-05-27**|**Seeing through the light cone: Visualizing electromagnetic fields in special relativity**|Daiju Nakayama et.al.|[2505.20596v1](http://arxiv.org/abs/2505.20596v1)|null|

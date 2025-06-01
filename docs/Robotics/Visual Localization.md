@@ -9,20 +9,20 @@
 |**2025-05-29**|**Mobi-$π$: Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692v1](http://arxiv.org/abs/2505.23692v1)|null|
 |**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685v1](http://arxiv.org/abs/2505.23685v1)|null|
 |**2025-05-29**|**One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory**|Chenhao Zheng et.al.|[2505.23617v1](http://arxiv.org/abs/2505.23617v1)|null|
-|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484v1](http://arxiv.org/abs/2505.23484v1)|null|
+|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484v1](http://arxiv.org/abs/2505.23484v1)|[link](https://github.com/gxym/vcapsbench)|
 |**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434v1](http://arxiv.org/abs/2505.23434v1)|null|
-|**2025-05-29**|**From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents**|Tobias Lindenbauer et.al.|[2505.23422v1](http://arxiv.org/abs/2505.23422v1)|null|
+|**2025-05-29**|**From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents**|Tobias Lindenbauer et.al.|[2505.23422v1](http://arxiv.org/abs/2505.23422v1)|[link](https://github.com/liqs-v2/ctim-rover)|
 |**2025-05-29**|**Joint Data Hiding and Partial Encryption of Compressive Sensed Streams**|Cristina-Elena Popa et.al.|[2505.23357v1](http://arxiv.org/abs/2505.23357v1)|null|
-|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280v1](http://arxiv.org/abs/2505.23280v1)|null|
+|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280v1](http://arxiv.org/abs/2505.23280v1)|[link](https://github.com/azhuantou/mixgs)|
 |**2025-05-29**|**WTEFNet: Real-Time Low-Light Object Detection for Advanced Driver-Assistance Systems**|Hao Wu et.al.|[2505.23201v1](http://arxiv.org/abs/2505.23201v1)|null|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158v1](http://arxiv.org/abs/2505.23158v1)|null|
-|**2025-05-29**|**Uncovering Visual-Semantic Psycholinguistic Properties from the Distributional Structure of Text Embedding Spac**|Si Wu et.al.|[2505.23029v1](http://arxiv.org/abs/2505.23029v1)|null|
+|**2025-05-29**|**Uncovering Visual-Semantic Psycholinguistic Properties from the Distributional Structure of Text Embedding Spac**|Si Wu et.al.|[2505.23029v1](http://arxiv.org/abs/2505.23029v1)|[link](https://github.com/artificial-memory-lab/imageability)|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978v1](http://arxiv.org/abs/2505.22978v1)|null|
 |**2025-05-29**|**Learning coordinated badminton skills for legged manipulators**|Yuntao Ma et.al.|[2505.22974v1](http://arxiv.org/abs/2505.22974v1)|null|
 |**2025-05-28**|**ATI: Any Trajectory Instruction for Controllable Video Generation**|Angtian Wang et.al.|[2505.22944v1](http://arxiv.org/abs/2505.22944v1)|null|
 |**2025-05-28**|**Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**|Xiaoyang Zhan et.al.|[2505.22880v1](http://arxiv.org/abs/2505.22880v1)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
-|**2025-05-28**|**A Tool for Generating Exceptional Behavior Tests With Large Language Models**|Linghan Zhong et.al.|[2505.22818v1](http://arxiv.org/abs/2505.22818v1)|null|
+|**2025-05-28**|**A Tool for Generating Exceptional Behavior Tests With Large Language Models**|Linghan Zhong et.al.|[2505.22818v1](http://arxiv.org/abs/2505.22818v1)|[link](https://github.com/engineeringsoftware/exlong)|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616v1](http://arxiv.org/abs/2505.22616v1)|null|
 |**2025-05-28**|**VR-Based Control of Multi-Copter Operation**|Jack T. Hughes et.al.|[2505.22599v1](http://arxiv.org/abs/2505.22599v1)|null|
 |**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v2](http://arxiv.org/abs/2505.22499v2)|null|
