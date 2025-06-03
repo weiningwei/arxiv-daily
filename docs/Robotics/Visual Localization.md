@@ -14,7 +14,7 @@
 |**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287v1](http://arxiv.org/abs/2505.24287v1)|null|
 |**2025-05-30**|**Faithful and Robust LLM-Driven Theorem Proving for NLI Explanations**|Xin Quan et.al.|[2505.24264v1](http://arxiv.org/abs/2505.24264v1)|null|
 |**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139v1](http://arxiv.org/abs/2505.24139v1)|null|
-|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053v1](http://arxiv.org/abs/2505.24053v1)|null|
+|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053v1](http://arxiv.org/abs/2505.24053v1)|[link](https://github.com/zixunh/3DGEER)|
 |**2025-05-29**|**MaskAdapt: Unsupervised Geometry-Aware Domain Adaptation Using Multimodal Contextual Learning and RGB-Depth Masking**|Numair Nadeem et.al.|[2505.24026v1](http://arxiv.org/abs/2505.24026v1)|null|
 |**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926v1](http://arxiv.org/abs/2505.23926v1)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|null|
