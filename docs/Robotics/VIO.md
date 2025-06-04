@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-03**|**Implicit Regularization of the Deep Inverse Prior Trained with Inertia**|Nathan Buskulic et.al.|[2506.02986v1](http://arxiv.org/abs/2506.02986v1)|null|
+|**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373v1](http://arxiv.org/abs/2506.02373v1)|null|
+|**2025-06-02**|**Particle-in-Cell Simulations of Burning ICF Capsule Implosions**|Johannes J. van de Wetering et.al.|[2506.02273v1](http://arxiv.org/abs/2506.02273v1)|null|
+|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|null|
+|**2025-06-02**|**Equivalence of Left- and Right-Invariant Extended Kalman Filters on Matrix Lie Groups**|Finn G. Maurer et.al.|[2506.01514v1](http://arxiv.org/abs/2506.01514v1)|null|
+|**2025-06-01**|**Fast synthesis of turbulence with multi-scale coherent vortices**|Zishuo Han et.al.|[2506.01022v1](http://arxiv.org/abs/2506.01022v1)|null|
+|**2025-05-31**|**Real-Time Sounding in ISAC networks: Design and Implementation of a Multi-Node Testbed with Synchronized Airborne and Ground-Based Sensors**|Julia Beuster et.al.|[2506.00624v1](http://arxiv.org/abs/2506.00624v1)|null|
+|**2025-05-31**|**Flying Co-Stereo: Enabling Long-Range Aerial Dense Mapping via Collaborative Stereo Vision of Dynamic-Baseline**|Zhaoying Wang et.al.|[2506.00546v1](http://arxiv.org/abs/2506.00546v1)|null|
+|**2025-05-31**|**Jet breakup dynamics of viscoelastic carboxymethyl cellulose solutions**|Ketan Vinayak Warghat et.al.|[2506.00516v1](http://arxiv.org/abs/2506.00516v1)|null|
 |**2025-05-30**|**Resonance density range governs two-plasmon decay saturation and enables hot-electron prediction in inertial confinement fusion**|C. Yao et.al.|[2505.24607v1](http://arxiv.org/abs/2505.24607v1)|null|
 |**2025-05-30**|**Boosting Automatic Exercise Evaluation Through Musculoskeletal Simulation-Based IMU Data Augmentation**|Andreas Spilz et.al.|[2505.24415v1](http://arxiv.org/abs/2505.24415v1)|null|
 |**2025-05-29**|**System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm**|Kosei Tsuji et.al.|[2505.23138v1](http://arxiv.org/abs/2505.23138v1)|null|
@@ -23,12 +32,3 @@
 |**2025-05-23**|**Emergent reactance induced by the deformation of a current-driven skyrmion lattice**|Matthew T. Littlehales et.al.|[2505.18029v1](http://arxiv.org/abs/2505.18029v1)|null|
 |**2025-05-23**|**Simultaneous amplification and shaping of excimer lasers using Stimulated Brillouin Scattering in the strongly damped limit**|Jihoon Kim et.al.|[2505.17956v1](http://arxiv.org/abs/2505.17956v1)|null|
 |**2025-05-23**|**Gravitational waves from strong first order phase transitions**|José Correia et.al.|[2505.17824v1](http://arxiv.org/abs/2505.17824v1)|null|
-|**2025-05-23**|**A Magnetic-like description of Oscillatory Behavior in Chemotactic Ants**|Rosa Flaquer-Galmés et.al.|[2505.17722v1](http://arxiv.org/abs/2505.17722v1)|null|
-|**2025-05-22**|**OWP-IMU: An RSS-based Optical Wireless and IMU Indoor Positioning Dataset**|Fan Wu et.al.|[2505.16823v1](http://arxiv.org/abs/2505.16823v1)|null|
-|**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726v1](http://arxiv.org/abs/2505.16726v1)|[link](https://github.com/robotics-upo/D-LIO)|
-|**2025-05-22**|**Impact pressure enhancement upon disk impact on a boiling liquid**|Yee Li et.al.|[2505.16668v1](http://arxiv.org/abs/2505.16668v1)|null|
-|**2025-05-22**|**Joint Magnetometer-IMU Calibration via Maximum A Posteriori Estimation**|Chuan Huang et.al.|[2505.16662v2](http://arxiv.org/abs/2505.16662v2)|[link](https://github.com/huang-chuan/mag-imu-jointcalibration)|
-|**2025-05-21**|**Effects of symmetry and hydrodynamics on the cohesion of groups of swimmers**|Mohamed Niged Mabrouk et.al.|[2505.15942v1](http://arxiv.org/abs/2505.15942v1)|null|
-|**2025-05-21**|**Adaptive Inertial Method**|Han Long et.al.|[2505.15114v1](http://arxiv.org/abs/2505.15114v1)|[link](https://github.com/harmoke/aim)|
-|**2025-05-21**|**Learning-based Airflow Inertial Odometry for MAVs using Thermal Anemometers in a GPS and vision denied environment**|Ze Wang et.al.|[2505.15044v1](http://arxiv.org/abs/2505.15044v1)|null|
-|**2025-05-20**|**Coordinated motion control of a wire arc additive manufacturing robotic system for multi-directional building parts**|Fernando Coutinho et.al.|[2505.14858v1](http://arxiv.org/abs/2505.14858v1)|null|
