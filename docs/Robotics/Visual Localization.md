@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225v1](http://arxiv.org/abs/2506.04225v1)|null|
 |**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224v1](http://arxiv.org/abs/2506.04224v1)|null|
-|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211v1](http://arxiv.org/abs/2506.04211v1)|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211v1](http://arxiv.org/abs/2506.04211v1)|[link](https://github.com/heboyong/Diffusion-Domain-Teacher)|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120v1](http://arxiv.org/abs/2506.04120v1)|null|
 |**2025-06-04**|**Collaborative On-Sensor Array Cameras**|Jipeng Sun et.al.|[2506.04061v1](http://arxiv.org/abs/2506.04061v1)|null|
 |**2025-06-04**|**EV-Flying: an Event-based Dataset for In-The-Wild Recognition of Flying Objects**|Gabriele Magrini et.al.|[2506.04048v1](http://arxiv.org/abs/2506.04048v1)|null|
