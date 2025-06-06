@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-05**|**Atomtronic Matter-Wave Optics**|Saurabh Pandey et.al.|[2506.04735v1](http://arxiv.org/abs/2506.04735v1)|null|
+|**2025-06-05**|**A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data**|Farshad Haghgoo Daryakenari et.al.|[2506.04577v1](http://arxiv.org/abs/2506.04577v1)|null|
+|**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539v1](http://arxiv.org/abs/2506.04539v1)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
+|**2025-06-04**|**An Intermittent Model for the $1/f$ Spectrum in the Pristine Solar Wind**|Maia Brodiano et.al.|[2506.04366v1](http://arxiv.org/abs/2506.04366v1)|null|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017v1](http://arxiv.org/abs/2506.04017v1)|null|
 |**2025-06-03**|**Implicit Regularization of the Deep Inverse Prior Trained with Inertia**|Nathan Buskulic et.al.|[2506.02986v1](http://arxiv.org/abs/2506.02986v1)|null|
 |**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373v1](http://arxiv.org/abs/2506.02373v1)|null|
@@ -26,9 +32,3 @@
 |**2025-05-27**|**Seeing through the light cone: Visualizing electromagnetic fields in special relativity**|Daiju Nakayama et.al.|[2505.20596v1](http://arxiv.org/abs/2505.20596v1)|null|
 |**2025-05-26**|**Role of settling inertial particles in modulating flow structures and drag in Taylor-Couette turbulence**|Hao Jiang et.al.|[2505.19859v1](http://arxiv.org/abs/2505.19859v1)|null|
 |**2025-05-25**|**Orbital Decay of the Ultra-Hot Jupiter TOI-2109b: Tidal Constraints and Transit-Timing Analysis**|Jaime A. Alvarado-Montes et.al.|[2505.18941v2](http://arxiv.org/abs/2505.18941v2)|null|
-|**2025-05-24**|**Universal quantum control by non-Hermitian Hamiltonian**|Zhu-yao Jin et.al.|[2505.18606v1](http://arxiv.org/abs/2505.18606v1)|null|
-|**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|
-|**2025-05-23**|**Thermal and Turbulence Characteristics of Fast and Slow Coronal Mass Ejections at 1 AU**|Soumyaranjan Khuntia et.al.|[2505.18296v1](http://arxiv.org/abs/2505.18296v1)|null|
-|**2025-05-23**|**Mechanochemical feedback drives complex inertial dynamics in active solids**|Siddhartha Sarkar et.al.|[2505.18272v1](http://arxiv.org/abs/2505.18272v1)|null|
-|**2025-05-23**|**Emergent reactance induced by the deformation of a current-driven skyrmion lattice**|Matthew T. Littlehales et.al.|[2505.18029v1](http://arxiv.org/abs/2505.18029v1)|null|
-|**2025-05-23**|**Simultaneous amplification and shaping of excimer lasers using Stimulated Brillouin Scattering in the strongly damped limit**|Jihoon Kim et.al.|[2505.17956v1](http://arxiv.org/abs/2505.17956v1)|null|

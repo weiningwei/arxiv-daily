@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539v1](http://arxiv.org/abs/2506.04539v1)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373v1](http://arxiv.org/abs/2506.02373v1)|null|
 |**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726v1](http://arxiv.org/abs/2505.16726v1)|[link](https://github.com/robotics-upo/D-LIO)|
 |**2025-05-21**|**Learning-based Airflow Inertial Odometry for MAVs using Thermal Anemometers in a GPS and vision denied environment**|Ze Wang et.al.|[2505.15044v1](http://arxiv.org/abs/2505.15044v1)|null|
@@ -29,6 +32,3 @@
 |**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park et.al.|[2505.00995v1](http://arxiv.org/abs/2505.00995v1)|null|
 |**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
-|**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|null|
-|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|null|
-|**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615v1](http://arxiv.org/abs/2504.20615v1)|null|
