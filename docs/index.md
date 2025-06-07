@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-06 21:00:24 Asia/Shanghai
+ Automated deployment @ 2025-06-07 08:51:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -26,7 +26,7 @@
 |**2025-06-05**|**Handle-based Mesh Deformation Guided By Vision Language Model**|Xingpeng Sun et.al.|[2506.04562v1](http://arxiv.org/abs/2506.04562v1)|null|
 |**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
 |**2025-06-04**|**MELABenchv1: Benchmarking Large Language Models against Smaller Fine-Tuned Models for Low-Resource Maltese NLP**|Kurt Micallef et.al.|[2506.04385v1](http://arxiv.org/abs/2506.04385v1)|null|
-|**2025-06-04**|**Puck Localization Using Contextual Cues**|Liam Salass et.al.|[2506.04365v1](http://arxiv.org/abs/2506.04365v1)|null|
+|**2025-06-04**|**Ice Hockey Puck Localization Using Contextual Cues**|Liam Salass et.al.|[2506.04365v1](http://arxiv.org/abs/2506.04365v1)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225v1](http://arxiv.org/abs/2506.04225v1)|null|
 |**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224v1](http://arxiv.org/abs/2506.04224v1)|null|
