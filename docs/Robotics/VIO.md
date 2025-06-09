@@ -2,7 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**Atomtronic Matter-Wave Optics**|Saurabh Pandey et.al.|[2506.04735v1](http://arxiv.org/abs/2506.04735v1)|null|
+|**2025-06-05**|**Atomtronic Matter-Wave Optics**|Saurabh Pandey et.al.|[2506.04735v2](http://arxiv.org/abs/2506.04735v2)|null|
 |**2025-06-05**|**A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data**|Farshad Haghgoo Daryakenari et.al.|[2506.04577v1](http://arxiv.org/abs/2506.04577v1)|null|
 |**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539v1](http://arxiv.org/abs/2506.04539v1)|null|
 |**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
