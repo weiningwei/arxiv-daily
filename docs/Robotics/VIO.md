@@ -2,6 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
+|**2025-06-09**|**Teaching special relativity in elementary physics or upper high school courses**|Maria Grazia Blumetti et.al.|[2506.07872v1](http://arxiv.org/abs/2506.07872v1)|null|
+|**2025-06-09**|**Time-Varying Model Predictive Attitude Control for Magnetically Actuated Dual-Spin Satellites**|Robert D. Halverson et.al.|[2506.07858v1](http://arxiv.org/abs/2506.07858v1)|null|
+|**2025-06-09**|**Scaling Human Activity Recognition: A Comparative Evaluation of Synthetic Data Generation and Augmentation Techniques**|Zikang Leng et.al.|[2506.07612v1](http://arxiv.org/abs/2506.07612v1)|null|
+|**2025-06-09**|**Charged scalar boson in Melvin universe**|L. G. Barbosa et.al.|[2506.07329v1](http://arxiv.org/abs/2506.07329v1)|null|
+|**2025-06-08**|**Machine Learning-Based Self-Localization Using Internal Sensors for Automating Bulldozers**|Hikaru Sawafuji et.al.|[2506.07271v1](http://arxiv.org/abs/2506.07271v1)|null|
+|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
+|**2025-06-07**|**Deep Inertial Pose: A deep learning approach for human pose estimation**|Sara M. Cerqueira et.al.|[2506.06850v1](http://arxiv.org/abs/2506.06850v1)|null|
+|**2025-06-07**|**A Multiscale Eulerian Vlasov-Rosenbluth-Fokker-Planck Algorithm for Thermonuclear Burning Plasmas**|Benjamin L. Reichelt et.al.|[2506.06672v1](http://arxiv.org/abs/2506.06672v1)|null|
+|**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476v1](http://arxiv.org/abs/2506.06476v1)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|null|
 |**2025-06-06**|**The Geometry of Extended Kalman Filters on Manifolds with Affine Connection**|Yixiao Ge et.al.|[2506.05728v1](http://arxiv.org/abs/2506.05728v1)|null|
 |**2025-06-05**|**Structure functions and flatness of streamwise velocity in a turbulent channel flow**|Carlos Granero-Belinchon et.al.|[2506.05436v1](http://arxiv.org/abs/2506.05436v1)|null|
@@ -22,13 +32,3 @@
 |**2025-05-31**|**Flying Co-Stereo: Enabling Long-Range Aerial Dense Mapping via Collaborative Stereo Vision of Dynamic-Baseline**|Zhaoying Wang et.al.|[2506.00546v1](http://arxiv.org/abs/2506.00546v1)|null|
 |**2025-05-31**|**Jet breakup dynamics of viscoelastic carboxymethyl cellulose solutions**|Ketan Vinayak Warghat et.al.|[2506.00516v1](http://arxiv.org/abs/2506.00516v1)|null|
 |**2025-05-30**|**Resonance density range governs two-plasmon decay saturation and enables hot-electron prediction in inertial confinement fusion**|C. Yao et.al.|[2505.24607v1](http://arxiv.org/abs/2505.24607v1)|null|
-|**2025-05-30**|**Boosting Automatic Exercise Evaluation Through Musculoskeletal Simulation-Based IMU Data Augmentation**|Andreas Spilz et.al.|[2505.24415v1](http://arxiv.org/abs/2505.24415v1)|null|
-|**2025-05-29**|**System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm**|Kosei Tsuji et.al.|[2505.23138v1](http://arxiv.org/abs/2505.23138v1)|null|
-|**2025-05-28**|**MAC-Gaze: Motion-Aware Continual Calibration for Mobile Gaze Tracking**|Yaxiong Lei et.al.|[2505.22769v3](http://arxiv.org/abs/2505.22769v3)|null|
-|**2025-05-28**|**Intermittency in Interplanetary Coronal Mass Ejections Observed by Parker Solar Probe and Solar Orbiter**|Julia Ruohotie et.al.|[2505.22283v1](http://arxiv.org/abs/2505.22283v1)|null|
-|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924v1](http://arxiv.org/abs/2505.20924v1)|[link](https://github.com/mariusbock/leakage_har)|
-|**2025-05-27**|**Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case Study**|Leo Kotipalo et.al.|[2505.20908v1](http://arxiv.org/abs/2505.20908v1)|null|
-|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
-|**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894v1](http://arxiv.org/abs/2505.20894v1)|[link](https://github.com/mariusbock/context_har)|
-|**2025-05-27**|**MoPFormer: Motion-Primitive Transformer for Wearable-Sensor Activity Recognition**|Hao Zhang et.al.|[2505.20744v1](http://arxiv.org/abs/2505.20744v1)|null|
-|**2025-05-27**|**Detecting Informative Channels: ActionFormer**|Kunpeng Zhao et.al.|[2505.20739v1](http://arxiv.org/abs/2505.20739v1)|null|
