@@ -26,7 +26,7 @@
 |**2025-06-05**|**Vision-Based Autonomous MM-Wave Reflector Using ArUco-Driven Angle-of-Arrival Estimation**|Josue Marroquin et.al.|[2506.05195v1](http://arxiv.org/abs/2506.05195v1)|null|
 |**2025-06-05**|**FRED: The Florence RGB-Event Drone Dataset**|Gabriele Magrini et.al.|[2506.05163v1](http://arxiv.org/abs/2506.05163v1)|null|
 |**2025-06-05**|**UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting**|Jaehoon Choi et.al.|[2506.05011v1](http://arxiv.org/abs/2506.05011v1)|null|
-|**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008v1](http://arxiv.org/abs/2506.05008v1)|null|
+|**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008v2](http://arxiv.org/abs/2506.05008v2)|null|
 |**2025-06-05**|**Bayesian network 3D event reconstruction in the Cygno optical TPC for dark matter direct detection**|Fernando Domingues Amaro et.al.|[2506.04973v1](http://arxiv.org/abs/2506.04973v1)|null|
 |**2025-06-05**|**CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx**|Lukas Picek et.al.|[2506.04931v1](http://arxiv.org/abs/2506.04931v1)|null|
 |**2025-06-05**|**Fool the Stoplight: Realistic Adversarial Patch Attacks on Traffic Light Detectors**|Svetlana Pavlitska et.al.|[2506.04823v1](http://arxiv.org/abs/2506.04823v1)|null|
