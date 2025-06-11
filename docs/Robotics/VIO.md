@@ -2,10 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-10**|**Planar Collisionless Shock Simulations with Semi-Implicit Particle-in-Cell Model FLEKS**|Hongyang Zhou et.al.|[2506.08384v1](http://arxiv.org/abs/2506.08384v1)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-09**|**Teaching special relativity in elementary physics or upper high school courses**|Maria Grazia Blumetti et.al.|[2506.07872v1](http://arxiv.org/abs/2506.07872v1)|null|
 |**2025-06-09**|**Time-Varying Model Predictive Attitude Control for Magnetically Actuated Dual-Spin Satellites**|Robert D. Halverson et.al.|[2506.07858v1](http://arxiv.org/abs/2506.07858v1)|null|
 |**2025-06-09**|**Scaling Human Activity Recognition: A Comparative Evaluation of Synthetic Data Generation and Augmentation Techniques**|Zikang Leng et.al.|[2506.07612v1](http://arxiv.org/abs/2506.07612v1)|null|
+|**2025-06-09**|**Adaptive Per-Tree Canopy Volume Estimation Using Mobile LiDAR in Structured and Unstructured Orchards**|Ali Abedi et.al.|[2506.08061v1](http://arxiv.org/abs/2506.08061v1)|null|
 |**2025-06-09**|**Charged scalar boson in Melvin universe**|L. G. Barbosa et.al.|[2506.07329v1](http://arxiv.org/abs/2506.07329v1)|null|
 |**2025-06-08**|**Machine Learning-Based Self-Localization Using Internal Sensors for Automating Bulldozers**|Hikaru Sawafuji et.al.|[2506.07271v1](http://arxiv.org/abs/2506.07271v1)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
@@ -30,5 +32,3 @@
 |**2025-06-01**|**Fast synthesis of turbulence with multi-scale coherent vortices**|Zishuo Han et.al.|[2506.01022v1](http://arxiv.org/abs/2506.01022v1)|null|
 |**2025-05-31**|**Real-Time Sounding in ISAC networks: Design and Implementation of a Multi-Node Testbed with Synchronized Airborne and Ground-Based Sensors**|Julia Beuster et.al.|[2506.00624v1](http://arxiv.org/abs/2506.00624v1)|null|
 |**2025-05-31**|**Flying Co-Stereo: Enabling Long-Range Aerial Dense Mapping via Collaborative Stereo Vision of Dynamic-Baseline**|Zhaoying Wang et.al.|[2506.00546v1](http://arxiv.org/abs/2506.00546v1)|null|
-|**2025-05-31**|**Jet breakup dynamics of viscoelastic carboxymethyl cellulose solutions**|Ketan Vinayak Warghat et.al.|[2506.00516v1](http://arxiv.org/abs/2506.00516v1)|null|
-|**2025-05-30**|**Resonance density range governs two-plasmon decay saturation and enables hot-electron prediction in inertial confinement fusion**|C. Yao et.al.|[2505.24607v1](http://arxiv.org/abs/2505.24607v1)|null|

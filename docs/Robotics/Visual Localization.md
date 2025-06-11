@@ -2,6 +2,20 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
+|**2025-06-10**|**Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**|Igor Kvasić et.al.|[2506.08974v1](http://arxiv.org/abs/2506.08974v1)|null|
+|**2025-06-10**|**Cross-Spectral Body Recognition with Side Information Embedding: Benchmarks on LLCM and Analyzing Range-Induced Occlusions on IJB-MDF**|Anirudh Nanduri et.al.|[2506.08953v1](http://arxiv.org/abs/2506.08953v1)|null|
+|**2025-06-10**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840v1](http://arxiv.org/abs/2506.08840v1)|null|
+|**2025-06-10**|**Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning**|Kaijie Shi et.al.|[2506.08795v1](http://arxiv.org/abs/2506.08795v1)|null|
+|**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704v1](http://arxiv.org/abs/2506.08704v1)|null|
+|**2025-06-10**|**MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning**|Mohammadreza Salehi et.al.|[2506.08694v1](http://arxiv.org/abs/2506.08694v1)|null|
+|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650v1](http://arxiv.org/abs/2506.08650v1)|null|
+|**2025-06-10**|**Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration**|Euclid Collaboration et.al.|[2506.08378v1](http://arxiv.org/abs/2506.08378v1)|null|
+|**2025-06-10**|**Observatory Science with eXTP**|Ping Zhou et.al.|[2506.08367v1](http://arxiv.org/abs/2506.08367v1)|null|
+|**2025-06-10**|**Image Demoiréing Using Dual Camera Fusion on Mobile Phones**|Yanting Mei et.al.|[2506.08361v1](http://arxiv.org/abs/2506.08361v1)|null|
+|**2025-06-10**|**Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos**|Weikun Peng et.al.|[2506.08334v1](http://arxiv.org/abs/2506.08334v1)|null|
+|**2025-06-10**|**Locating Tennis Ball Impact on the Racket in Real Time Using an Event Camera**|Yuto Kase et.al.|[2506.08327v1](http://arxiv.org/abs/2506.08327v1)|null|
+|**2025-06-09**|**Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence**|Octave Mariotti et.al.|[2506.08220v1](http://arxiv.org/abs/2506.08220v1)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004v1](http://arxiv.org/abs/2506.08004v1)|null|
 |**2025-06-09**|**Real-time Localization of a Soccer Ball from a Single Camera**|Dmitrii Vorobev et.al.|[2506.07981v1](http://arxiv.org/abs/2506.07981v1)|null|
@@ -18,17 +32,3 @@
 |**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[2506.07416v1](http://arxiv.org/abs/2506.07416v1)|null|
 |**2025-06-09**|**UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**|Pablo Moraes et.al.|[2506.07348v1](http://arxiv.org/abs/2506.07348v1)|null|
 |**2025-06-08**|**Pendulum Tracker -- SimuFísica: A Web-based Tool for Real-time Measurement of Oscillatory Motion**|Marco P. M. de Souza et.al.|[2506.07301v1](http://arxiv.org/abs/2506.07301v1)|null|
-|**2025-06-08**|**earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor**|Tobias King et.al.|[2506.07193v1](http://arxiv.org/abs/2506.07193v1)|null|
-|**2025-06-08**|**Mind the Web: The Security of Web Use Agents**|Avishag Shapira et.al.|[2506.07153v1](http://arxiv.org/abs/2506.07153v1)|null|
-|**2025-06-08**|**DM$^3$Net: Dual-Camera Super-Resolution via Domain Modulation and Multi-scale Matching**|Cong Guan et.al.|[2506.06993v1](http://arxiv.org/abs/2506.06993v1)|null|
-|**2025-06-07**|**Reading in the Dark with Foveated Event Vision**|Carl Brander et.al.|[2506.06918v1](http://arxiv.org/abs/2506.06918v1)|null|
-|**2025-06-07**|**Gaussian Mapping for Evolving Scenes**|Vladimir Yugay et.al.|[2506.06909v1](http://arxiv.org/abs/2506.06909v1)|null|
-|**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890v1](http://arxiv.org/abs/2506.06890v1)|null|
-|**2025-06-07**|**IRS: Instance-Level 3D Scene Graphs via Room Prior Guided LiDAR-Camera Fusion**|Hongming Chen et.al.|[2506.06804v1](http://arxiv.org/abs/2506.06804v1)|null|
-|**2025-06-07**|**Training-Free Identity Preservation in Stylized Image Generation Using Diffusion Models**|Mohammad Ali Rezaei et.al.|[2506.06802v1](http://arxiv.org/abs/2506.06802v1)|null|
-|**2025-06-07**|**LoopDB: A Loop Closure Dataset for Large Scale Simultaneous Localization and Mapping**|Mohammad-Maher Nakshbandi et.al.|[2506.06771v1](http://arxiv.org/abs/2506.06771v1)|null|
-|**2025-06-07**|**ASKAP-EMU radio continuum detection of planetary nebula NGC 5189: the "Infinity" nebula**|A. D. Asher et.al.|[2506.06768v1](http://arxiv.org/abs/2506.06768v1)|null|
-|**2025-06-07**|**SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game**|Hao Wang et.al.|[2506.06690v1](http://arxiv.org/abs/2506.06690v1)|null|
-|**2025-06-07**|**EV-LayerSegNet: Self-supervised Motion Segmentation using Event Cameras**|Youssef Farah et.al.|[2506.06596v1](http://arxiv.org/abs/2506.06596v1)|null|
-|**2025-06-06**|**Privacy Perspectives and Practices of Chinese Smart Home Product Teams**|Shijing He et.al.|[2506.06591v1](http://arxiv.org/abs/2506.06591v1)|null|
-|**2025-06-06**|**GS4: Generalizable Sparse Splatting Semantic SLAM**|Mingqi Jiang et.al.|[2506.06517v1](http://arxiv.org/abs/2506.06517v1)|null|
