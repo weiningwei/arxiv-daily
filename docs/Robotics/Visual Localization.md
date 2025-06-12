@@ -9,7 +9,7 @@
 |**2025-06-10**|**Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning**|Kaijie Shi et.al.|[2506.08795v1](http://arxiv.org/abs/2506.08795v1)|null|
 |**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704v1](http://arxiv.org/abs/2506.08704v1)|null|
 |**2025-06-10**|**MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning**|Mohammadreza Salehi et.al.|[2506.08694v1](http://arxiv.org/abs/2506.08694v1)|null|
-|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650v1](http://arxiv.org/abs/2506.08650v1)|null|
+|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650v2](http://arxiv.org/abs/2506.08650v2)|null|
 |**2025-06-10**|**Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration**|Euclid Collaboration et.al.|[2506.08378v1](http://arxiv.org/abs/2506.08378v1)|null|
 |**2025-06-10**|**Observatory Science with eXTP**|Ping Zhou et.al.|[2506.08367v1](http://arxiv.org/abs/2506.08367v1)|null|
 |**2025-06-10**|**Image Demoiréing Using Dual Camera Fusion on Mobile Phones**|Yanting Mei et.al.|[2506.08361v1](http://arxiv.org/abs/2506.08361v1)|null|
