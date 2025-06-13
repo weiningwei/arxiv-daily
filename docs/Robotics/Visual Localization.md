@@ -2,6 +2,22 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968v1](http://arxiv.org/abs/2506.10968v1)|null|
+|**2025-06-12**|**Invariant Extended Kalman Filter for Autonomous Surface Vessels with Partial Orientation Measurements**|Derek Benham et.al.|[2506.10850v1](http://arxiv.org/abs/2506.10850v1)|null|
+|**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790v1](http://arxiv.org/abs/2506.10790v1)|null|
+|**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|
+|**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756v1](http://arxiv.org/abs/2506.10756v1)|null|
+|**2025-06-12**|**TexTailor: Customized Text-aligned Texturing via Effective Resampling**|Suin Lee et.al.|[2506.10612v1](http://arxiv.org/abs/2506.10612v1)|null|
+|**2025-06-12**|**High-resolution efficient image generation from WiFi CSI using a pretrained latent diffusion model**|Eshan Ramesh et.al.|[2506.10605v1](http://arxiv.org/abs/2506.10605v1)|null|
+|**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567v1](http://arxiv.org/abs/2506.10567v1)|null|
+|**2025-06-12**|**Analyzing the performance of a V2X-enhanced braking system in real-world crash situations**|Jan Zimmermann et.al.|[2506.10535v1](http://arxiv.org/abs/2506.10535v1)|null|
+|**2025-06-12**|**J-DDL: Surface Damage Detection and Localization System for Fighter Aircraft**|Jin Huang et.al.|[2506.10505v1](http://arxiv.org/abs/2506.10505v1)|null|
+|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335v1](http://arxiv.org/abs/2506.10335v1)|null|
+|**2025-06-12**|**Research on Audio-Visual Quality Assessment Dataset and Method for User-Generated Omnidirectional Video**|Fei Zhao et.al.|[2506.10331v1](http://arxiv.org/abs/2506.10331v1)|null|
+|**2025-06-12**|**A Novel Feedforward Youla Parameterization Method for Avoiding Local Minima in Stereo Image Based Visual Servoing Control**|Rongfei Li et.al.|[2506.10252v1](http://arxiv.org/abs/2506.10252v1)|null|
+|**2025-06-12**|**Energy Aware Camera Location Search Algorithm for Increasing Precision of Observation in Automated Manufacturing**|Rongfei Li et.al.|[2506.10251v1](http://arxiv.org/abs/2506.10251v1)|null|
+|**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242v1](http://arxiv.org/abs/2506.10242v1)|null|
+|**2025-06-11**|**Innovative Adaptive Imaged Based Visual Servoing Control of 6 DoFs Industrial Robot Manipulators**|Rongfei Li et.al.|[2506.10240v1](http://arxiv.org/abs/2506.10240v1)|null|
 |**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995v1](http://arxiv.org/abs/2506.09995v1)|null|
 |**2025-06-11**|**MetricHMR: Metric Human Mesh Recovery from Monocular Images**|He Zhang et.al.|[2506.09919v1](http://arxiv.org/abs/2506.09919v1)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885v1](http://arxiv.org/abs/2506.09885v1)|null|
@@ -11,24 +27,8 @@
 |**2025-06-11**|**Supershear-subshear-supershear rupture associated with the 2025 Mandalay Earthquake in Myanmar**|Shiro Hirano et.al.|[2506.09652v1](http://arxiv.org/abs/2506.09652v1)|null|
 |**2025-06-11**|**Ties of Trust: a bowtie model to uncover trustor-trustee relationships in LLMs**|Eva Paraschou et.al.|[2506.09632v1](http://arxiv.org/abs/2506.09632v1)|null|
 |**2025-06-11**|**Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language**|Stefan Krsteski et.al.|[2506.09560v1](http://arxiv.org/abs/2506.09560v1)|null|
+|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417v2](http://arxiv.org/abs/2506.09417v2)|null|
 |**2025-06-11**|**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images**|Qijian Tian et.al.|[2506.09378v1](http://arxiv.org/abs/2506.09378v1)|null|
 |**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217v1](http://arxiv.org/abs/2506.09217v1)|null|
 |**2025-06-10**|**Adversarial Text Generation with Dynamic Contextual Perturbation**|Hetvi Waghela et.al.|[2506.09148v1](http://arxiv.org/abs/2506.09148v1)|null|
 |**2025-06-10**|**Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**|Euclid Collaboration et.al.|[2506.09118v1](http://arxiv.org/abs/2506.09118v1)|null|
-|**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
-|**2025-06-10**|**Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**|Igor Kvasić et.al.|[2506.08974v1](http://arxiv.org/abs/2506.08974v1)|null|
-|**2025-06-10**|**Cross-Spectral Body Recognition with Side Information Embedding: Benchmarks on LLCM and Analyzing Range-Induced Occlusions on IJB-MDF**|Anirudh Nanduri et.al.|[2506.08953v1](http://arxiv.org/abs/2506.08953v1)|null|
-|**2025-06-10**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840v2](http://arxiv.org/abs/2506.08840v2)|null|
-|**2025-06-10**|**WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras**|Yangjie Cui et.al.|[2506.09098v1](http://arxiv.org/abs/2506.09098v1)|null|
-|**2025-06-10**|**Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning**|Kaijie Shi et.al.|[2506.08795v1](http://arxiv.org/abs/2506.08795v1)|null|
-|**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704v1](http://arxiv.org/abs/2506.08704v1)|null|
-|**2025-06-10**|**MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning**|Mohammadreza Salehi et.al.|[2506.08694v1](http://arxiv.org/abs/2506.08694v1)|null|
-|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650v2](http://arxiv.org/abs/2506.08650v2)|null|
-|**2025-06-10**|**Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration**|Euclid Collaboration et.al.|[2506.08378v1](http://arxiv.org/abs/2506.08378v1)|null|
-|**2025-06-10**|**Observatory Science with eXTP**|Ping Zhou et.al.|[2506.08367v1](http://arxiv.org/abs/2506.08367v1)|null|
-|**2025-06-10**|**Image Demoiréing Using Dual Camera Fusion on Mobile Phones**|Yanting Mei et.al.|[2506.08361v1](http://arxiv.org/abs/2506.08361v1)|null|
-|**2025-06-10**|**Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos**|Weikun Peng et.al.|[2506.08334v1](http://arxiv.org/abs/2506.08334v1)|null|
-|**2025-06-10**|**Locating Tennis Ball Impact on the Racket in Real Time Using an Event Camera**|Yuto Kase et.al.|[2506.08327v1](http://arxiv.org/abs/2506.08327v1)|null|
-|**2025-06-09**|**Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence**|Octave Mariotti et.al.|[2506.08220v1](http://arxiv.org/abs/2506.08220v1)|null|
-|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
-|**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004v1](http://arxiv.org/abs/2506.08004v1)|null|

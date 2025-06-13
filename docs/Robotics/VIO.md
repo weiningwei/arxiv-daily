@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12**|**Vortex-magnetic competition and regime transitions in antiparallel flux tubes**|Weiyu Shen et.al.|[2506.10648v1](http://arxiv.org/abs/2506.10648v1)|null|
+|**2025-06-12**|**Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture**|Chengxu Zuo et.al.|[2506.10580v1](http://arxiv.org/abs/2506.10580v1)|null|
+|**2025-06-11**|**Interfacial deformation and energy exchange in strong free-surface turbulence**|Andre Calado et.al.|[2506.10090v1](http://arxiv.org/abs/2506.10090v1)|null|
 |**2025-06-11**|**Heavy Particle Motion in Rotational Vortices**|Orr Avni et.al.|[2506.09821v1](http://arxiv.org/abs/2506.09821v1)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583v1](http://arxiv.org/abs/2506.09583v1)|null|
 |**2025-06-11**|**Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information**|Taku Okawara et.al.|[2506.09548v1](http://arxiv.org/abs/2506.09548v1)|null|
@@ -29,6 +32,3 @@
 |**2025-06-04**|**An Intermittent Model for the $1/f$ Spectrum in the Pristine Solar Wind**|Maia Brodiano et.al.|[2506.04366v1](http://arxiv.org/abs/2506.04366v1)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017v1](http://arxiv.org/abs/2506.04017v1)|null|
-|**2025-06-03**|**Implicit Regularization of the Deep Inverse Prior Trained with Inertia**|Nathan Buskulic et.al.|[2506.02986v1](http://arxiv.org/abs/2506.02986v1)|null|
-|**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373v1](http://arxiv.org/abs/2506.02373v1)|null|
-|**2025-06-02**|**Particle-in-Cell Simulations of Burning ICF Capsule Implosions**|Johannes J. van de Wetering et.al.|[2506.02273v1](http://arxiv.org/abs/2506.02273v1)|null|
