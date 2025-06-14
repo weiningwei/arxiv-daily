@@ -29,6 +29,6 @@
 |**2025-06-11**|**Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language**|Stefan Krsteski et.al.|[2506.09560v1](http://arxiv.org/abs/2506.09560v1)|null|
 |**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417v2](http://arxiv.org/abs/2506.09417v2)|null|
 |**2025-06-11**|**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images**|Qijian Tian et.al.|[2506.09378v1](http://arxiv.org/abs/2506.09378v1)|null|
-|**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217v1](http://arxiv.org/abs/2506.09217v1)|null|
+|**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217v1](http://arxiv.org/abs/2506.09217v1)|[link](https://github.com/datadrivenwheels/pcd_python)|
 |**2025-06-10**|**Adversarial Text Generation with Dynamic Contextual Perturbation**|Hetvi Waghela et.al.|[2506.09148v1](http://arxiv.org/abs/2506.09148v1)|null|
 |**2025-06-10**|**Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**|Euclid Collaboration et.al.|[2506.09118v1](http://arxiv.org/abs/2506.09118v1)|null|
