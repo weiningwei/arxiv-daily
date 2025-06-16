@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-13**|**Bubble Dynamics Transformer: Microrheology at Ultra-High Strain Rates**|Lehu Bu et.al.|[2506.11936v1](http://arxiv.org/abs/2506.11936v1)|null|
+|**2025-06-13**|**SSPINNpose: A Self-Supervised PINN for Inertial Pose and Dynamics Estimation**|Markus Gambietz et.al.|[2506.11786v1](http://arxiv.org/abs/2506.11786v1)|null|
+|**2025-06-13**|**Lyapunov analysis for FISTA under strong convexity**|Luis M. Briceño-Arias et.al.|[2506.11785v1](http://arxiv.org/abs/2506.11785v1)|null|
+|**2025-06-13**|**GNSS-inertial state initialization by distance residuals**|Samuel Cerezo et.al.|[2506.11534v1](http://arxiv.org/abs/2506.11534v1)|null|
+|**2025-06-12**|**A continuous-time model to interpolate between speed and function value restart in accelerated first order methods**|Juan José Maulén et.al.|[2506.11267v1](http://arxiv.org/abs/2506.11267v1)|null|
 |**2025-06-12**|**Vortex-magnetic competition and regime transitions in antiparallel flux tubes**|Weiyu Shen et.al.|[2506.10648v1](http://arxiv.org/abs/2506.10648v1)|null|
 |**2025-06-12**|**Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture**|Chengxu Zuo et.al.|[2506.10580v1](http://arxiv.org/abs/2506.10580v1)|null|
 |**2025-06-11**|**Interfacial deformation and energy exchange in strong free-surface turbulence**|Andre Calado et.al.|[2506.10090v1](http://arxiv.org/abs/2506.10090v1)|null|
@@ -27,8 +32,3 @@
 |**2025-06-05**|**Structure functions and flatness of streamwise velocity in a turbulent channel flow**|Carlos Granero-Belinchon et.al.|[2506.05436v1](http://arxiv.org/abs/2506.05436v1)|null|
 |**2025-06-05**|**Atomtronic Matter-Wave Optics**|Saurabh Pandey et.al.|[2506.04735v2](http://arxiv.org/abs/2506.04735v2)|null|
 |**2025-06-05**|**A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data**|Farshad Haghgoo Daryakenari et.al.|[2506.04577v1](http://arxiv.org/abs/2506.04577v1)|null|
-|**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539v1](http://arxiv.org/abs/2506.04539v1)|null|
-|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
-|**2025-06-04**|**An Intermittent Model for the $1/f$ Spectrum in the Pristine Solar Wind**|Maia Brodiano et.al.|[2506.04366v1](http://arxiv.org/abs/2506.04366v1)|null|
-|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
-|**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017v1](http://arxiv.org/abs/2506.04017v1)|null|

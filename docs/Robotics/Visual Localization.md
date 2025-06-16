@@ -2,6 +2,14 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Elvis Nava et.al.|[2506.11916v1](http://arxiv.org/abs/2506.11916v1)|null|
+|**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876v1](http://arxiv.org/abs/2506.11876v1)|null|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|null|
+|**2025-06-13**|**5G-Enabled Smart Prosthetic Hand: Connectivity Analysis and Assessment**|Ozan Karaali et.al.|[2506.11729v1](http://arxiv.org/abs/2506.11729v1)|null|
+|**2025-06-13**|**Camera-based method for the detection of lifted truck axles using convolutional neural networks**|Bachir Tchana Tankeu et.al.|[2506.11574v1](http://arxiv.org/abs/2506.11574v1)|null|
+|**2025-06-13**|**Control Architecture and Design for a Multi-robotic Visual Servoing System in Automated Manufacturing Environment**|Rongfei Li et.al.|[2506.11387v1](http://arxiv.org/abs/2506.11387v1)|null|
+|**2025-06-12**|**Anti-Aliased 2D Gaussian Splatting**|Mae Younes et.al.|[2506.11252v1](http://arxiv.org/abs/2506.11252v1)|null|
+|**2025-06-12**|**Enhanced Vehicle Speed Detection Considering Lane Recognition Using Drone Videos in California**|Amirali Ataee Naeini et.al.|[2506.11239v1](http://arxiv.org/abs/2506.11239v1)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968v1](http://arxiv.org/abs/2506.10968v1)|null|
 |**2025-06-12**|**Invariant Extended Kalman Filter for Autonomous Surface Vessels with Partial Orientation Measurements**|Derek Benham et.al.|[2506.10850v1](http://arxiv.org/abs/2506.10850v1)|null|
 |**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790v1](http://arxiv.org/abs/2506.10790v1)|null|
@@ -24,11 +32,3 @@
 |**2025-06-11**|**Aucamp: An Underwater Camera-Based Multi-Robot Platform with Low-Cost, Distributed, and Robust Localization**|Jisheng Xu et.al.|[2506.09876v1](http://arxiv.org/abs/2506.09876v1)|null|
 |**2025-06-11**|**High-dimensional programmable photonic circuits with structured media**|Maria Gorizia Ammendola et.al.|[2506.09802v1](http://arxiv.org/abs/2506.09802v1)|null|
 |**2025-06-11**|**Accidental coincidences in camera-based high-dimensional entanglement certification**|Raphaël Guitter et.al.|[2506.09704v1](http://arxiv.org/abs/2506.09704v1)|null|
-|**2025-06-11**|**Supershear-subshear-supershear rupture associated with the 2025 Mandalay Earthquake in Myanmar**|Shiro Hirano et.al.|[2506.09652v1](http://arxiv.org/abs/2506.09652v1)|null|
-|**2025-06-11**|**Ties of Trust: a bowtie model to uncover trustor-trustee relationships in LLMs**|Eva Paraschou et.al.|[2506.09632v1](http://arxiv.org/abs/2506.09632v1)|null|
-|**2025-06-11**|**Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language**|Stefan Krsteski et.al.|[2506.09560v1](http://arxiv.org/abs/2506.09560v1)|null|
-|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417v2](http://arxiv.org/abs/2506.09417v2)|null|
-|**2025-06-11**|**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images**|Qijian Tian et.al.|[2506.09378v1](http://arxiv.org/abs/2506.09378v1)|null|
-|**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217v1](http://arxiv.org/abs/2506.09217v1)|[link](https://github.com/datadrivenwheels/pcd_python)|
-|**2025-06-10**|**Adversarial Text Generation with Dynamic Contextual Perturbation**|Hetvi Waghela et.al.|[2506.09148v1](http://arxiv.org/abs/2506.09148v1)|null|
-|**2025-06-10**|**Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**|Euclid Collaboration et.al.|[2506.09118v1](http://arxiv.org/abs/2506.09118v1)|null|
