@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-16**|**Analytical models for the enhancement of fusion reactivity by turbulence**|Henry Fetsch et.al.|[2506.13711v1](http://arxiv.org/abs/2506.13711v1)|null|
+|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|null|
+|**2025-06-14**|**GNSS Spoofing Detection Based on Opportunistic Position Information**|Wenjie Liu et.al.|[2506.12580v1](http://arxiv.org/abs/2506.12580v1)|null|
+|**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
+|**2025-06-13**|**Effective Viscosity in the Intracluster Medium During Magnetic Field Amplification via Turbulent Dynamo**|S. Adduci Faria et.al.|[2506.12221v1](http://arxiv.org/abs/2506.12221v1)|null|
 |**2025-06-13**|**Bubble Dynamics Transformer: Microrheology at Ultra-High Strain Rates**|Lehu Bu et.al.|[2506.11936v1](http://arxiv.org/abs/2506.11936v1)|null|
 |**2025-06-13**|**SSPINNpose: A Self-Supervised PINN for Inertial Pose and Dynamics Estimation**|Markus Gambietz et.al.|[2506.11786v1](http://arxiv.org/abs/2506.11786v1)|null|
 |**2025-06-13**|**Lyapunov analysis for FISTA under strong convexity**|Luis M. Briceño-Arias et.al.|[2506.11785v1](http://arxiv.org/abs/2506.11785v1)|null|
@@ -26,9 +32,3 @@
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
 |**2025-06-07**|**Deep Inertial Pose: A deep learning approach for human pose estimation**|Sara M. Cerqueira et.al.|[2506.06850v1](http://arxiv.org/abs/2506.06850v1)|null|
 |**2025-06-07**|**A Multiscale Eulerian Vlasov-Rosenbluth-Fokker-Planck Algorithm for Thermonuclear Burning Plasmas**|Benjamin L. Reichelt et.al.|[2506.06672v1](http://arxiv.org/abs/2506.06672v1)|null|
-|**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476v1](http://arxiv.org/abs/2506.06476v1)|null|
-|**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|null|
-|**2025-06-06**|**The Geometry of Extended Kalman Filters on Manifolds with Affine Connection**|Yixiao Ge et.al.|[2506.05728v1](http://arxiv.org/abs/2506.05728v1)|null|
-|**2025-06-05**|**Structure functions and flatness of streamwise velocity in a turbulent channel flow**|Carlos Granero-Belinchon et.al.|[2506.05436v1](http://arxiv.org/abs/2506.05436v1)|null|
-|**2025-06-05**|**Atomtronic Matter-Wave Optics**|Saurabh Pandey et.al.|[2506.04735v2](http://arxiv.org/abs/2506.04735v2)|null|
-|**2025-06-05**|**A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data**|Farshad Haghgoo Daryakenari et.al.|[2506.04577v1](http://arxiv.org/abs/2506.04577v1)|null|
