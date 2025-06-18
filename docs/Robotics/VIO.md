@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
+|**2025-06-17**|**Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation**|Prashant Kumar Rai et.al.|[2506.14294v1](http://arxiv.org/abs/2506.14294v1)|null|
+|**2025-06-16**|**Testing the Quantum Equivalence Principle with Gravitational Waves**|Saurya Das et.al.|[2506.14049v1](http://arxiv.org/abs/2506.14049v1)|null|
+|**2025-06-16**|**Embedding physical symmetries into machine-learned reduced plasma physics models via data augmentation**|Madox C. McGrae-Menge et.al.|[2506.14048v1](http://arxiv.org/abs/2506.14048v1)|null|
 |**2025-06-16**|**Analytical models for the enhancement of fusion reactivity by turbulence**|Henry Fetsch et.al.|[2506.13711v1](http://arxiv.org/abs/2506.13711v1)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
 |**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|null|
@@ -28,7 +32,3 @@
 |**2025-06-09**|**Scaling Human Activity Recognition: A Comparative Evaluation of Synthetic Data Generation and Augmentation Techniques**|Zikang Leng et.al.|[2506.07612v2](http://arxiv.org/abs/2506.07612v2)|null|
 |**2025-06-09**|**Adaptive Per-Tree Canopy Volume Estimation Using Mobile LiDAR in Structured and Unstructured Orchards**|Ali Abedi et.al.|[2506.08061v1](http://arxiv.org/abs/2506.08061v1)|null|
 |**2025-06-09**|**Charged scalar boson in Melvin universe**|L. G. Barbosa et.al.|[2506.07329v1](http://arxiv.org/abs/2506.07329v1)|null|
-|**2025-06-08**|**Machine Learning-Based Self-Localization Using Internal Sensors for Automating Bulldozers**|Hikaru Sawafuji et.al.|[2506.07271v1](http://arxiv.org/abs/2506.07271v1)|null|
-|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
-|**2025-06-07**|**Deep Inertial Pose: A deep learning approach for human pose estimation**|Sara M. Cerqueira et.al.|[2506.06850v1](http://arxiv.org/abs/2506.06850v1)|null|
-|**2025-06-07**|**A Multiscale Eulerian Vlasov-Rosenbluth-Fokker-Planck Algorithm for Thermonuclear Burning Plasmas**|Benjamin L. Reichelt et.al.|[2506.06672v1](http://arxiv.org/abs/2506.06672v1)|null|

@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709v1](http://arxiv.org/abs/2506.14709v1)|null|
+|**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706v1](http://arxiv.org/abs/2506.14706v1)|null|
+|**2025-06-17**|**Hamiltonian Formalism for Comparing Quantum and Classical Intelligence**|Elija Perrier et.al.|[2506.14456v1](http://arxiv.org/abs/2506.14456v1)|null|
+|**2025-06-17**|**Multiplicity of young isolated planetary mass objects in Taurus and Upper Scorpius**|H. Bouy et.al.|[2506.14380v1](http://arxiv.org/abs/2506.14380v1)|null|
+|**2025-06-17**|**Certifying spatial entanglement between non-degenerate photon pairs with a camera**|Emma Brambila et.al.|[2506.14300v1](http://arxiv.org/abs/2506.14300v1)|null|
+|**2025-06-16**|**Disentangling 3D from Large Vision-Language Models for Controlled Portrait Generation**|Nick Yiwen Huang et.al.|[2506.14015v1](http://arxiv.org/abs/2506.14015v1)|null|
+|**2025-06-16**|**Euclid: The potential of slitless infrared spectroscopy: A z=5.4 quasar and new ultracool dwarfs**|E. Bañados et.al.|[2506.13945v1](http://arxiv.org/abs/2506.13945v1)|null|
+|**2025-06-16**|**Thermal and Optical Characterization of Near-Earth Objects: Science Commissioning of the Recently Upgraded Mid-Infrared Camera MIRSI on the NASA Infrared Telescope Facility**|Andy J. López-Oquendo et.al.|[2506.13943v1](http://arxiv.org/abs/2506.13943v1)|null|
+|**2025-06-16**|**Intelligent Image Sensing for Crime Analysis: A ML Approach towards Enhanced Violence Detection and Investigation**|Aritra Dutta et.al.|[2506.13910v1](http://arxiv.org/abs/2506.13910v1)|null|
+|**2025-06-16**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz et.al.|[2506.13897v1](http://arxiv.org/abs/2506.13897v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722v1](http://arxiv.org/abs/2506.13722v1)|null|
 |**2025-06-16**|**Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry**|Junyoung Seo et.al.|[2506.13697v1](http://arxiv.org/abs/2506.13697v1)|null|
@@ -22,13 +32,3 @@
 |**2025-06-15**|**CliniDial: A Naturally Occurring Multimodal Dialogue Dataset for Team Reflection in Action During Clinical Operation**|Naihao Deng et.al.|[2506.12936v1](http://arxiv.org/abs/2506.12936v1)|null|
 |**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
 |**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413v1](http://arxiv.org/abs/2506.12413v1)|null|
-|**2025-06-13**|**Strategic Vantage Selection for Learning Viewpoint-Agnostic Manipulation Policies**|Sreevishakh Vasudevan et.al.|[2506.12261v1](http://arxiv.org/abs/2506.12261v1)|null|
-|**2025-06-13**|**EgoPrivacy: What Your First-Person Camera Says About You?**|Yijiang Li et.al.|[2506.12258v1](http://arxiv.org/abs/2506.12258v1)|null|
-|**2025-06-13**|**Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving**|Boris Ivanovic et.al.|[2506.12251v1](http://arxiv.org/abs/2506.12251v1)|null|
-|**2025-06-13**|**Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI**|Eva Paraschou et.al.|[2506.12240v1](http://arxiv.org/abs/2506.12240v1)|null|
-|**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Elvis Nava et.al.|[2506.11916v1](http://arxiv.org/abs/2506.11916v1)|null|
-|**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876v1](http://arxiv.org/abs/2506.11876v1)|null|
-|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|null|
-|**2025-06-13**|**5G-Enabled Smart Prosthetic Hand: Connectivity Analysis and Assessment**|Ozan Karaali et.al.|[2506.11729v1](http://arxiv.org/abs/2506.11729v1)|null|
-|**2025-06-13**|**Camera-based method for the detection of lifted truck axles using convolutional neural networks**|Bachir Tchana Tankeu et.al.|[2506.11574v1](http://arxiv.org/abs/2506.11574v1)|null|
-|**2025-06-13**|**Control Architecture and Design for a Multi-robotic Visual Servoing System in Automated Manufacturing Environment**|Rongfei Li et.al.|[2506.11387v1](http://arxiv.org/abs/2506.11387v1)|null|
