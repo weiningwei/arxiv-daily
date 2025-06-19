@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518v1](http://arxiv.org/abs/2506.15518v1)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
-|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|[link](https://github.com/shahram95/superpointslam3)|
 |**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583v1](http://arxiv.org/abs/2506.09583v1)|null|
 |**2025-06-11**|**Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information**|Taku Okawara et.al.|[2506.09548v1](http://arxiv.org/abs/2506.09548v1)|null|

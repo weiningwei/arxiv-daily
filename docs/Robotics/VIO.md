@@ -13,7 +13,7 @@
 |**2025-06-16**|**Embedding physical symmetries into machine-learned reduced plasma physics models via data augmentation**|Madox C. McGrae-Menge et.al.|[2506.14048v2](http://arxiv.org/abs/2506.14048v2)|null|
 |**2025-06-16**|**Analytical models for the enhancement of fusion reactivity by turbulence**|Henry Fetsch et.al.|[2506.13711v1](http://arxiv.org/abs/2506.13711v1)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
-|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|[link](https://github.com/shahram95/superpointslam3)|
 |**2025-06-14**|**GNSS Spoofing Detection Based on Opportunistic Position Information**|Wenjie Liu et.al.|[2506.12580v1](http://arxiv.org/abs/2506.12580v1)|null|
 |**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
 |**2025-06-13**|**Effective Viscosity in the Intracluster Medium During Magnetic Field Amplification via Turbulent Dynamo**|S. Adduci Faria et.al.|[2506.12221v1](http://arxiv.org/abs/2506.12221v1)|null|
