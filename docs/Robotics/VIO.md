@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|null|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|null|
+|**2025-06-19**|**A compressible Reynolds-averaged mixing model considering turbulent entropy and heat flux**|Hansong Xie et.al.|[2506.16296v1](http://arxiv.org/abs/2506.16296v1)|null|
+|**2025-06-19**|**Correcting systematic errors in the likelihood optimization of underdamped Langevin models of molecular dynamics trajectories**|David Daniel Girardier et.al.|[2506.16272v1](http://arxiv.org/abs/2506.16272v1)|null|
+|**2025-06-19**|**A Low-Cost Portable Lidar-based Mobile Mapping System on an Android Smartphone**|Jianzhu Huai et.al.|[2506.15983v1](http://arxiv.org/abs/2506.15983v1)|null|
+|**2025-06-19**|**Effects of acceleration on interatomic interactions**|Shijing Cheng et.al.|[2506.15942v1](http://arxiv.org/abs/2506.15942v1)|null|
 |**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518v1](http://arxiv.org/abs/2506.15518v1)|null|
 |**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290v1](http://arxiv.org/abs/2506.15290v1)|null|
 |**2025-06-18**|**Human Locomotion Implicit Modeling Based Real-Time Gait Phase Estimation**|Yuanlong Ji et.al.|[2506.15150v1](http://arxiv.org/abs/2506.15150v1)|null|
@@ -26,9 +32,3 @@
 |**2025-06-12**|**Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture**|Chengxu Zuo et.al.|[2506.10580v1](http://arxiv.org/abs/2506.10580v1)|[link](https://github.com/zuocx1996/tic)|
 |**2025-06-11**|**Interfacial deformation and energy exchange in strong free-surface turbulence**|Andre Calado et.al.|[2506.10090v1](http://arxiv.org/abs/2506.10090v1)|null|
 |**2025-06-11**|**Heavy Particle Motion in Rotational Vortices**|Orr Avni et.al.|[2506.09821v1](http://arxiv.org/abs/2506.09821v1)|null|
-|**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583v1](http://arxiv.org/abs/2506.09583v1)|null|
-|**2025-06-11**|**Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information**|Taku Okawara et.al.|[2506.09548v1](http://arxiv.org/abs/2506.09548v1)|null|
-|**2025-06-11**|**Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications**|Alberto San-Miguel-Tello et.al.|[2506.09494v1](http://arxiv.org/abs/2506.09494v1)|null|
-|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
-|**2025-06-10**|**Planar Collisionless Shock Simulations with Semi-Implicit Particle-in-Cell Model FLEKS**|Hongyang Zhou et.al.|[2506.08384v1](http://arxiv.org/abs/2506.08384v1)|null|
-|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
