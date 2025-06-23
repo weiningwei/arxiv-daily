@@ -6,7 +6,7 @@
 |**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290v1](http://arxiv.org/abs/2506.15290v1)|null|
 |**2025-06-18**|**Human Locomotion Implicit Modeling Based Real-Time Gait Phase Estimation**|Yuanlong Ji et.al.|[2506.15150v1](http://arxiv.org/abs/2506.15150v1)|null|
 |**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|null|
-|**2025-06-17**|**Optimal alignment of Lorentz orientation and generalization to matrix Lie groups**|Congzhou M Sha et.al.|[2506.14994v1](http://arxiv.org/abs/2506.14994v1)|null|
+|**2025-06-17**|**Optimal alignment of Lorentz orientation and generalization to matrix Lie groups**|Congzhou M Sha et.al.|[2506.14994v2](http://arxiv.org/abs/2506.14994v2)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
 |**2025-06-17**|**Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation**|Prashant Kumar Rai et.al.|[2506.14294v1](http://arxiv.org/abs/2506.14294v1)|null|
 |**2025-06-16**|**Testing the Quantum Equivalence Principle with Gravitational Waves**|Saurya Das et.al.|[2506.14049v1](http://arxiv.org/abs/2506.14049v1)|null|
