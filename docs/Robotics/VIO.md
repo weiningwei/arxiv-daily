@@ -2,8 +2,18 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-23**|**Ultra-low damping of the translational motion of a composite graphite particle in a magneto-gravitational trap**|Connor E. Murphy et.al.|[2506.18872v1](http://arxiv.org/abs/2506.18872v1)|null|
+|**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689v1](http://arxiv.org/abs/2506.18689v1)|null|
+|**2025-06-23**|**PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry**|Nikhil Khedekar et.al.|[2506.18583v1](http://arxiv.org/abs/2506.18583v1)|null|
+|**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580v1](http://arxiv.org/abs/2506.18580v1)|null|
+|**2025-06-23**|**ThermalLoc: A Vision Transformer-Based Approach for Robust Thermal Camera Relocalization in Large-Scale Environments**|Yu Liu et.al.|[2506.18268v1](http://arxiv.org/abs/2506.18268v1)|null|
+|**2025-06-21**|**Growth rate and energy dissipation in wind-forced breaking waves**|Nicolò Scapin et.al.|[2506.17802v1](http://arxiv.org/abs/2506.17802v1)|null|
+|**2025-06-21**|**Diffusion-free boundary conditions for the Navier-Stokes equations**|Emmanuel Dormy et.al.|[2506.17749v1](http://arxiv.org/abs/2506.17749v1)|null|
+|**2025-06-20**|**Hydrodynamic Equations for Active Brownian Particles in the High Persistence Regime**|Martín Pinto-Goldberg et.al.|[2506.17509v1](http://arxiv.org/abs/2506.17509v1)|null|
+|**2025-06-20**|**Learning golf swing signatures from a single wrist-worn inertial sensor**|Jessy Lauer et.al.|[2506.17505v1](http://arxiv.org/abs/2506.17505v1)|null|
 |**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|null|
 |**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|null|
+|**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
 |**2025-06-19**|**A compressible Reynolds-averaged mixing model considering turbulent entropy and heat flux**|Hansong Xie et.al.|[2506.16296v1](http://arxiv.org/abs/2506.16296v1)|null|
 |**2025-06-19**|**Correcting systematic errors in the likelihood optimization of underdamped Langevin models of molecular dynamics trajectories**|David Daniel Girardier et.al.|[2506.16272v1](http://arxiv.org/abs/2506.16272v1)|null|
 |**2025-06-19**|**A Low-Cost Portable Lidar-based Mobile Mapping System on an Android Smartphone**|Jianzhu Huai et.al.|[2506.15983v1](http://arxiv.org/abs/2506.15983v1)|null|
@@ -22,13 +32,3 @@
 |**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|[link](https://github.com/shahram95/superpointslam3)|
 |**2025-06-14**|**GNSS Spoofing Detection Based on Opportunistic Position Information**|Wenjie Liu et.al.|[2506.12580v1](http://arxiv.org/abs/2506.12580v1)|null|
 |**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
-|**2025-06-13**|**Effective Viscosity in the Intracluster Medium During Magnetic Field Amplification via Turbulent Dynamo**|S. Adduci Faria et.al.|[2506.12221v1](http://arxiv.org/abs/2506.12221v1)|null|
-|**2025-06-13**|**Bubble Dynamics Transformer: Microrheology at Ultra-High Strain Rates**|Lehu Bu et.al.|[2506.11936v1](http://arxiv.org/abs/2506.11936v1)|null|
-|**2025-06-13**|**SSPINNpose: A Self-Supervised PINN for Inertial Pose and Dynamics Estimation**|Markus Gambietz et.al.|[2506.11786v1](http://arxiv.org/abs/2506.11786v1)|null|
-|**2025-06-13**|**Lyapunov analysis for FISTA under strong convexity**|Luis M. Briceño-Arias et.al.|[2506.11785v1](http://arxiv.org/abs/2506.11785v1)|null|
-|**2025-06-13**|**GNSS-inertial state initialization by distance residuals**|Samuel Cerezo et.al.|[2506.11534v1](http://arxiv.org/abs/2506.11534v1)|null|
-|**2025-06-12**|**A continuous-time model to interpolate between speed and function value restart in accelerated first order methods**|Juan José Maulén et.al.|[2506.11267v1](http://arxiv.org/abs/2506.11267v1)|null|
-|**2025-06-12**|**Vortex-magnetic competition and regime transitions in antiparallel flux tubes**|Weiyu Shen et.al.|[2506.10648v1](http://arxiv.org/abs/2506.10648v1)|null|
-|**2025-06-12**|**Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture**|Chengxu Zuo et.al.|[2506.10580v1](http://arxiv.org/abs/2506.10580v1)|[link](https://github.com/zuocx1996/tic)|
-|**2025-06-11**|**Interfacial deformation and energy exchange in strong free-surface turbulence**|Andre Calado et.al.|[2506.10090v1](http://arxiv.org/abs/2506.10090v1)|null|
-|**2025-06-11**|**Heavy Particle Motion in Rotational Vortices**|Orr Avni et.al.|[2506.09821v1](http://arxiv.org/abs/2506.09821v1)|null|
