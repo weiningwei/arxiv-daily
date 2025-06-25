@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|
+|**2025-06-24**|**Zero-Shot Parameter Learning of Robot Dynamics Using Bayesian Statistics and Prior Knowledge**|Carsten Reiners et.al.|[2506.19350v1](http://arxiv.org/abs/2506.19350v1)|null|
+|**2025-06-24**|**Impact of Heavy Noble Gases on the Magnetic Resonance Linewidth of Alkali-Metal Atoms: A Theoretical Study**|Feng Tang et.al.|[2506.19249v1](http://arxiv.org/abs/2506.19249v1)|null|
+|**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Hanyang Zhou et.al.|[2506.19201v1](http://arxiv.org/abs/2506.19201v1)|null|
+|**2025-06-23**|**Did lunar tides sustain the early Earth's geodynamo?**|Jérémie Vidal et.al.|[2506.19039v1](http://arxiv.org/abs/2506.19039v1)|null|
 |**2025-06-23**|**Ultra-low damping of the translational motion of a composite graphite particle in a magneto-gravitational trap**|Connor E. Murphy et.al.|[2506.18872v1](http://arxiv.org/abs/2506.18872v1)|null|
 |**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689v1](http://arxiv.org/abs/2506.18689v1)|null|
 |**2025-06-23**|**PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry**|Nikhil Khedekar et.al.|[2506.18583v1](http://arxiv.org/abs/2506.18583v1)|null|
@@ -27,8 +32,3 @@
 |**2025-06-17**|**Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation**|Prashant Kumar Rai et.al.|[2506.14294v1](http://arxiv.org/abs/2506.14294v1)|null|
 |**2025-06-16**|**Testing the Quantum Equivalence Principle with Gravitational Waves**|Saurya Das et.al.|[2506.14049v1](http://arxiv.org/abs/2506.14049v1)|null|
 |**2025-06-16**|**Embedding physical symmetries into machine-learned reduced plasma physics models via data augmentation**|Madox C. McGrae-Menge et.al.|[2506.14048v2](http://arxiv.org/abs/2506.14048v2)|null|
-|**2025-06-16**|**Analytical models for the enhancement of fusion reactivity by turbulence**|Henry Fetsch et.al.|[2506.13711v1](http://arxiv.org/abs/2506.13711v1)|null|
-|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
-|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|[link](https://github.com/shahram95/superpointslam3)|
-|**2025-06-14**|**GNSS Spoofing Detection Based on Opportunistic Position Information**|Wenjie Liu et.al.|[2506.12580v1](http://arxiv.org/abs/2506.12580v1)|null|
-|**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|

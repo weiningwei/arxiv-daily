@@ -2,6 +2,21 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840v1](http://arxiv.org/abs/2506.19840v1)|null|
+|**2025-06-24**|**'Mic drop': on estimating the size of sub-mm droplets using a simple condenser microphone**|Avshalom Offner et.al.|[2506.19782v1](http://arxiv.org/abs/2506.19782v1)|null|
+|**2025-06-24**|**The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication**|Boyi Liu et.al.|[2506.19781v1](http://arxiv.org/abs/2506.19781v1)|null|
+|**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747v1](http://arxiv.org/abs/2506.19747v1)|null|
+|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615v1](http://arxiv.org/abs/2506.19615v1)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579v1](http://arxiv.org/abs/2506.19579v1)|null|
+|**2025-06-24**|**Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters with Euclid eyes -- prospects of Euclid data in the context of large SZ and X-ray based surveys**|M. Klein et.al.|[2506.19566v1](http://arxiv.org/abs/2506.19566v1)|null|
+|**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488v1](http://arxiv.org/abs/2506.19488v1)|null|
+|**2025-06-24**|**Deblurring in the Wild: A Real-World Dataset from Smartphone High-Speed Videos**|Mahdi Mohd Hossain Noki et.al.|[2506.19445v1](http://arxiv.org/abs/2506.19445v1)|null|
+|**2025-06-24**|**Integrating AIs With Body Tracking Technology for Human Behaviour Analysis: Challenges and Opportunities**|Adrien Coppens et.al.|[2506.19430v1](http://arxiv.org/abs/2506.19430v1)|null|
+|**2025-06-24**|**EvDetMAV: Generalized MAV Detection from Moving Event Cameras**|Yin Zhang et.al.|[2506.19416v1](http://arxiv.org/abs/2506.19416v1)|null|
+|**2025-06-24**|**Online camera-pose-free stereo endoscopic tissue deformation recovery with tissue-invariant vision-biomechanics consistency**|Jiahe Chen et.al.|[2506.19388v1](http://arxiv.org/abs/2506.19388v1)|null|
+|**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291v1](http://arxiv.org/abs/2506.19291v1)|null|
+|**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Hanyang Zhou et.al.|[2506.19201v1](http://arxiv.org/abs/2506.19201v1)|null|
+|**2025-06-23**|**Euclid: An emulator for baryonic effects on the matter bispectrum**|P. A. Burger et.al.|[2506.18974v1](http://arxiv.org/abs/2506.18974v1)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903v1](http://arxiv.org/abs/2506.18903v1)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899v1](http://arxiv.org/abs/2506.18899v1)|null|
 |**2025-06-23**|**4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time**|Ziqiao Ma et.al.|[2506.18890v1](http://arxiv.org/abs/2506.18890v1)|null|
@@ -17,18 +32,3 @@
 |**2025-06-23**|**Auto-Regressively Generating Multi-View Consistent Images**|JiaKui Hu et.al.|[2506.18527v1](http://arxiv.org/abs/2506.18527v1)|null|
 |**2025-06-23**|**Radar and Event Camera Fusion for Agile Robot Ego-Motion Estimation**|Yang Lyu et.al.|[2506.18443v1](http://arxiv.org/abs/2506.18443v1)|null|
 |**2025-06-23**|**TritonZ: A Remotely Operated Underwater Rover with Manipulator Arm for Exploration and Rescue Operations**|Kawser Ahmed et.al.|[2506.18343v1](http://arxiv.org/abs/2506.18343v1)|null|
-|**2025-06-23**|**Improvement on LiDAR-Camera Calibration Using Square Targets**|Zhongyuan Li et.al.|[2506.18294v1](http://arxiv.org/abs/2506.18294v1)|null|
-|**2025-06-23**|**ThermalLoc: A Vision Transformer-Based Approach for Robust Thermal Camera Relocalization in Large-Scale Environments**|Yu Liu et.al.|[2506.18268v1](http://arxiv.org/abs/2506.18268v1)|null|
-|**2025-06-23**|**YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos**|Haoming Chen et.al.|[2506.18266v1](http://arxiv.org/abs/2506.18266v1)|null|
-|**2025-06-23**|**NIKA2 Cosmological Legacy Survey: Blind detection of galaxy clusters in the COSMOS field via the Sunyaev-Zel'dovich effect**|D. Chérouvrier et.al.|[2506.18231v1](http://arxiv.org/abs/2506.18231v1)|null|
-|**2025-06-23**|**Multimodal Visual Image Based User Association and Beamforming Using Graph Neural Networks**|Yinghan Li et.al.|[2506.18218v1](http://arxiv.org/abs/2506.18218v1)|null|
-|**2025-06-22**|**On the Particle Image Overlap in Single Camera Defocusing Approaches**|Christian Sax et.al.|[2506.18170v1](http://arxiv.org/abs/2506.18170v1)|null|
-|**2025-06-22**|**Pattern-Based Phase-Separation of Tracer and Dispersed Phase Particles in Two-Phase Defocusing Particle Tracking Velocimetry**|Christian Sax et.al.|[2506.18157v1](http://arxiv.org/abs/2506.18157v1)|null|
-|**2025-06-22**|**StereoTacTip: Vision-based Tactile Sensing with Biomimetic Skin-Marker Arrangements**|Chenghua Lu et.al.|[2506.18040v1](http://arxiv.org/abs/2506.18040v1)|null|
-|**2025-06-22**|**Feedback Driven Multi Stereo Vision System for Real-Time Event Analysis**|Mohamed Benkedadra et.al.|[2506.17910v1](http://arxiv.org/abs/2506.17910v1)|null|
-|**2025-06-22**|**EgoWorld: Translating Exocentric View to Egocentric View using Rich Exocentric Observations**|Junho Park et.al.|[2506.17896v1](http://arxiv.org/abs/2506.17896v1)|null|
-|**2025-06-21**|**Generative Grasp Detection and Estimation with Concept Learning-based Safety Criteria**|Al-Harith Farhad et.al.|[2506.17842v1](http://arxiv.org/abs/2506.17842v1)|null|
-|**2025-06-21**|**Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems**|Sebastian Sansoni et.al.|[2506.17775v1](http://arxiv.org/abs/2506.17775v1)|null|
-|**2025-06-21**|**DreamJourney: Perpetual View Generation with Video Diffusion Models**|Bo Pan et.al.|[2506.17705v1](http://arxiv.org/abs/2506.17705v1)|null|
-|**2025-06-21**|**Domain Generalization using Action Sequences for Egocentric Action Recognition**|Amirshayan Nasirimajd et.al.|[2506.17685v1](http://arxiv.org/abs/2506.17685v1)|null|
-|**2025-06-21**|**Imitation Learning for Active Neck Motion Enabling Robot Manipulation beyond the Field of View**|Koki Nakagawa et.al.|[2506.17624v1](http://arxiv.org/abs/2506.17624v1)|null|
