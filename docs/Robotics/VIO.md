@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-26**|**The State of Papers, Retractions, and Preprints: Evidence from the CrossRef Database (2004-2024)**|Khalid M. Saqr et.al.|[2506.21232v1](http://arxiv.org/abs/2506.21232v1)|null|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
+|**2025-06-26**|**Cooperative Circumnavigation for Multi-Quadrotor Systems via Onboard Sensing**|Xueming Liu et.al.|[2506.20954v1](http://arxiv.org/abs/2506.20954v1)|null|
+|**2025-06-25**|**Free Electron Paths from Dirac's Wave Equation Elucidating Zitterbewegung and Spin**|James L Beck et.al.|[2506.20857v1](http://arxiv.org/abs/2506.20857v1)|null|
+|**2025-06-25**|**Impact of the history force on the motion of droplets in shaken liquids**|Frederik Gareis et.al.|[2506.20838v1](http://arxiv.org/abs/2506.20838v1)|null|
+|**2025-06-25**|**IMA-Catcher: An IMpact-Aware Nonprehensile Catching Framework based on Combined Optimization and Learning**|Francesco Tassi et.al.|[2506.20801v1](http://arxiv.org/abs/2506.20801v1)|null|
+|**2025-06-25**|**Lorentz invariant materials and metamaterials**|Jon Lasa-Alonso et.al.|[2506.20784v1](http://arxiv.org/abs/2506.20784v1)|null|
 |**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186v1](http://arxiv.org/abs/2506.20186v1)|null|
 |**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|
 |**2025-06-24**|**Zero-Shot Parameter Learning of Robot Dynamics Using Bayesian Statistics and Prior Knowledge**|Carsten Reiners et.al.|[2506.19350v1](http://arxiv.org/abs/2506.19350v1)|null|
@@ -25,10 +32,3 @@
 |**2025-06-19**|**A Low-Cost Portable Lidar-based Mobile Mapping System on an Android Smartphone**|Jianzhu Huai et.al.|[2506.15983v1](http://arxiv.org/abs/2506.15983v1)|[link](https://github.com/osupcvlab/marslogger_android)|
 |**2025-06-19**|**Effects of acceleration on interatomic interactions**|Shijing Cheng et.al.|[2506.15942v1](http://arxiv.org/abs/2506.15942v1)|null|
 |**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518v1](http://arxiv.org/abs/2506.15518v1)|null|
-|**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290v1](http://arxiv.org/abs/2506.15290v1)|null|
-|**2025-06-18**|**Human Locomotion Implicit Modeling Based Real-Time Gait Phase Estimation**|Yuanlong Ji et.al.|[2506.15150v1](http://arxiv.org/abs/2506.15150v1)|null|
-|**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|null|
-|**2025-06-17**|**Optimal alignment of Lorentz orientation and generalization to matrix Lie groups**|Congzhou M Sha et.al.|[2506.14994v2](http://arxiv.org/abs/2506.14994v2)|null|
-|**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
-|**2025-06-17**|**Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation**|Prashant Kumar Rai et.al.|[2506.14294v1](http://arxiv.org/abs/2506.14294v1)|null|
-|**2025-06-16**|**Testing the Quantum Equivalence Principle with Gravitational Waves**|Saurya Das et.al.|[2506.14049v1](http://arxiv.org/abs/2506.14049v1)|null|
