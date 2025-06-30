@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**Scale-resolved turbulent Prandtl number for Rayleigh-Bénard convection at $\boldsymbol{Pr =10^{-3}}$**|Shashwat Bhattacharya et.al.|[2506.22110v1](http://arxiv.org/abs/2506.22110v1)|null|
+|**2025-06-27**|**Atomic Dirac energy-level dynamics and redshift in the 4xU(1) gravity gauge field**|Mikko Partanen et.al.|[2506.22057v1](http://arxiv.org/abs/2506.22057v1)|null|
+|**2025-06-27**|**Kinetic theories: from curved space to flat space**|Shu Lin et.al.|[2506.21890v1](http://arxiv.org/abs/2506.21890v1)|null|
+|**2025-06-26**|**Fast convex optimization via inertial systems with asymptotic vanishing viscous and Hessian-driven damping**|Zepeng Wang et.al.|[2506.21730v1](http://arxiv.org/abs/2506.21730v1)|null|
 |**2025-06-26**|**The State of Papers, Retractions, and Preprints: Evidence from the CrossRef Database (2004-2024)**|Khalid M. Saqr et.al.|[2506.21232v1](http://arxiv.org/abs/2506.21232v1)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
 |**2025-06-26**|**Cooperative Circumnavigation for Multi-Quadrotor Systems via Onboard Sensing**|Xueming Liu et.al.|[2506.20954v1](http://arxiv.org/abs/2506.20954v1)|null|
@@ -28,7 +32,3 @@
 |**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|[link](https://github.com/adap/flower)|
 |**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
 |**2025-06-19**|**A compressible Reynolds-averaged mixing model considering turbulent entropy and heat flux**|Hansong Xie et.al.|[2506.16296v1](http://arxiv.org/abs/2506.16296v1)|null|
-|**2025-06-19**|**Correcting systematic errors in the likelihood optimization of underdamped Langevin models of molecular dynamics trajectories**|David Daniel Girardier et.al.|[2506.16272v1](http://arxiv.org/abs/2506.16272v1)|null|
-|**2025-06-19**|**A Low-Cost Portable Lidar-based Mobile Mapping System on an Android Smartphone**|Jianzhu Huai et.al.|[2506.15983v1](http://arxiv.org/abs/2506.15983v1)|[link](https://github.com/osupcvlab/marslogger_android)|
-|**2025-06-19**|**Effects of acceleration on interatomic interactions**|Shijing Cheng et.al.|[2506.15942v1](http://arxiv.org/abs/2506.15942v1)|null|
-|**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518v1](http://arxiv.org/abs/2506.15518v1)|null|
