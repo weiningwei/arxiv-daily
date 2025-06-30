@@ -2,6 +2,15 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360v1](http://arxiv.org/abs/2506.22360v1)|null|
+|**2025-06-27**|**Euclid preparation. Full-shape modelling of 2-point and 3-point correlation functions in real space**|Euclid Collaboration et.al.|[2506.22257v1](http://arxiv.org/abs/2506.22257v1)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174v1](http://arxiv.org/abs/2506.22174v1)|null|
+|**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069v1](http://arxiv.org/abs/2506.22069v1)|null|
+|**2025-06-27**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding**|Zhao Jin et.al.|[2506.21924v1](http://arxiv.org/abs/2506.21924v1)|null|
+|**2025-06-27**|**One Video to Steal Them All: 3D-Printing IP Theft through Optical Side-Channels**|Twisha Chattopadhyay et.al.|[2506.21897v1](http://arxiv.org/abs/2506.21897v1)|null|
+|**2025-06-27**|**Spectroscopic Analysis of Pictor II: a very low metallicity ultra-faint dwarf galaxy bound to the Large Magellanic Cloud**|A. B. Pace et.al.|[2506.21841v1](http://arxiv.org/abs/2506.21841v1)|null|
+|**2025-06-26**|**Tracking the rotation of light magnetic particles in turbulence**|Chunlai Wu et.al.|[2506.21769v1](http://arxiv.org/abs/2506.21769v1)|null|
+|**2025-06-26**|**PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors**|Sai Sri Teja et.al.|[2506.21680v1](http://arxiv.org/abs/2506.21680v1)|null|
 |**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547v1](http://arxiv.org/abs/2506.21547v1)|null|
 |**2025-06-26**|**Evaluation of Traffic Signals for Daily Traffic Pattern**|Mohammad Shokrolah Shirazi et.al.|[2506.21469v1](http://arxiv.org/abs/2506.21469v1)|null|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
@@ -23,12 +32,3 @@
 |**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869v1](http://arxiv.org/abs/2506.20869v1)|null|
 |**2025-06-25**|**SPT-3G D1: CMB temperature and polarization power spectra and cosmology from 2019 and 2020 observations of the SPT-3G Main field**|E. Camphuis et.al.|[2506.20707v1](http://arxiv.org/abs/2506.20707v1)|null|
 |**2025-06-25**|**Generative Blocks World: Moving Things Around in Pictures**|Vaibhav Vavilala et.al.|[2506.20703v1](http://arxiv.org/abs/2506.20703v1)|null|
-|**2025-06-25**|**IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals**|Markus Gross et.al.|[2506.20671v1](http://arxiv.org/abs/2506.20671v1)|null|
-|**2025-06-25**|**Experimental demonstration of high compression of space by optical spaceplates**|Ryan Hogan et.al.|[2506.20647v1](http://arxiv.org/abs/2506.20647v1)|null|
-|**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638v1](http://arxiv.org/abs/2506.20638v1)|null|
-|**2025-06-25**|**A Computationally Aware Multi Objective Framework for Camera LiDAR Calibration**|Venkat Karramreddy et.al.|[2506.20636v1](http://arxiv.org/abs/2506.20636v1)|null|
-|**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597v1](http://arxiv.org/abs/2506.20597v1)|null|
-|**2025-06-25**|**Learning-Based Distance Estimation for 360° Single-Sensor Setups**|Yitong Quan et.al.|[2506.20586v1](http://arxiv.org/abs/2506.20586v1)|null|
-|**2025-06-25**|**Dynamic Bandwidth Allocation for Hybrid Event-RGB Transmission**|Pujing Yang et.al.|[2506.20222v1](http://arxiv.org/abs/2506.20222v1)|null|
-|**2025-06-25**|**User Understanding of Privacy Permissions in Mobile Augmented Reality: Perceptions and Misconceptions**|Viktorija Paneva et.al.|[2506.20207v1](http://arxiv.org/abs/2506.20207v1)|null|
-|**2025-06-25**|**Leveraging AI Graders for Missing Score Imputation to Achieve Accurate Ability Estimation in Constructed-Response Tests**|Masaki Uto et.al.|[2506.20119v1](http://arxiv.org/abs/2506.20119v1)|null|
