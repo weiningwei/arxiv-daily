@@ -10,10 +10,10 @@
 |**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348v1](http://arxiv.org/abs/2506.21348v1)|null|
 |**2025-06-26**|**An H$α$ Cloud in the HI Tail: Recent Star Formation in the Outskirts of NGC 4258 Revealed by Nanshan 1-m Telescope**|Cheng Cheng et.al.|[2506.21321v1](http://arxiv.org/abs/2506.21321v1)|null|
 |**2025-06-26**|**Wide-field Polarization Imaging and Numerical Modeling of the Coma and Tail of Comet C/2023 A3 (Tsuchinshan-ATLAS)**|Mirza Arnaut et.al.|[2506.21284v1](http://arxiv.org/abs/2506.21284v1)|null|
-|**2025-06-26**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272v1](http://arxiv.org/abs/2506.21272v1)|null|
+|**2025-06-26**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272v2](http://arxiv.org/abs/2506.21272v2)|null|
 |**2025-06-26**|**A Joint JWST and HST View of Omega Centauri: Multiple Stellar Populations and Their Kinematics**|T. Ziliotto et.al.|[2506.21187v1](http://arxiv.org/abs/2506.21187v1)|null|
 |**2025-06-26**|**IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes**|Yujia Liang et.al.|[2506.21116v1](http://arxiv.org/abs/2506.21116v1)|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v1](http://arxiv.org/abs/2506.21034v1)|null|
+|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v2](http://arxiv.org/abs/2506.21034v2)|null|
 |**2025-06-26**|**VisionGuard: Synergistic Framework for Helmet Violation Detection**|Lam-Huy Nguyen et.al.|[2506.21005v1](http://arxiv.org/abs/2506.21005v1)|null|
 |**2025-06-26**|**DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting**|Yeon-Ji Song et.al.|[2506.20998v1](http://arxiv.org/abs/2506.20998v1)|null|
 |**2025-06-26**|**3D Scene-Camera Representation with Joint Camera Photometric Optimization**|Weichen Dai et.al.|[2506.20979v1](http://arxiv.org/abs/2506.20979v1)|null|
