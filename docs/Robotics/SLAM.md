@@ -2,6 +2,7 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207v1](http://arxiv.org/abs/2506.23207v1)|null|
 |**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798v1](http://arxiv.org/abs/2506.21798v1)|null|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476v1](http://arxiv.org/abs/2506.06476v1)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965v1](http://arxiv.org/abs/2506.05965v1)|null|
 |**2025-06-06**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and machine learning**|Martin Illum et.al.|[2506.05866v1](http://arxiv.org/abs/2506.05866v1)|null|
-|**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558v1](http://arxiv.org/abs/2506.05558v1)|null|
