@@ -2,6 +2,12 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-29**|**On inertial forces (indirect terms) in problems with a central body**|Aurélien Crida et.al.|[2506.23331v1](http://arxiv.org/abs/2506.23331v1)|null|
+|**2025-06-29**|**Exact treatment of rotation-induced modifications in two-dimensional quantum rings**|Carlos Magno O. Pereira et.al.|[2506.23300v1](http://arxiv.org/abs/2506.23300v1)|null|
+|**2025-06-29**|**Sensitivity Enhancement in Atom-Interferometer Gyroscopes via Phase-Modulation Signal Readout Scheme**|Sotatsu Otabe et.al.|[2506.23250v1](http://arxiv.org/abs/2506.23250v1)|null|
+|**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078v1](http://arxiv.org/abs/2506.23078v1)|null|
+|**2025-06-28**|**SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes**|David Rodríguez-Martínez et.al.|[2506.22956v1](http://arxiv.org/abs/2506.22956v1)|null|
+|**2025-06-28**|**MagShield: Towards Better Robustness in Sparse Inertial Motion Capture Under Magnetic Disturbances**|Yunzhe Shao et.al.|[2506.22907v1](http://arxiv.org/abs/2506.22907v1)|null|
 |**2025-06-27**|**Scale-resolved turbulent Prandtl number for Rayleigh-Bénard convection at $\boldsymbol{Pr =10^{-3}}$**|Shashwat Bhattacharya et.al.|[2506.22110v1](http://arxiv.org/abs/2506.22110v1)|null|
 |**2025-06-27**|**Atomic Dirac energy-level dynamics and redshift in the 4xU(1) gravity gauge field**|Mikko Partanen et.al.|[2506.22057v1](http://arxiv.org/abs/2506.22057v1)|null|
 |**2025-06-27**|**Kinetic theories: from curved space to flat space**|Shu Lin et.al.|[2506.21890v1](http://arxiv.org/abs/2506.21890v1)|null|
@@ -26,9 +32,3 @@
 |**2025-06-23**|**ThermalLoc: A Vision Transformer-Based Approach for Robust Thermal Camera Relocalization in Large-Scale Environments**|Yu Liu et.al.|[2506.18268v1](http://arxiv.org/abs/2506.18268v1)|null|
 |**2025-06-21**|**Growth rate and energy dissipation in wind-forced breaking waves**|Nicolò Scapin et.al.|[2506.17802v1](http://arxiv.org/abs/2506.17802v1)|null|
 |**2025-06-21**|**Diffusion-free boundary conditions for the Navier-Stokes equations**|Emmanuel Dormy et.al.|[2506.17749v1](http://arxiv.org/abs/2506.17749v1)|null|
-|**2025-06-20**|**Hydrodynamic Equations for Active Brownian Particles in the High Persistence Regime**|Martín Pinto-Goldberg et.al.|[2506.17509v1](http://arxiv.org/abs/2506.17509v1)|null|
-|**2025-06-20**|**Learning golf swing signatures from a single wrist-worn inertial sensor**|Jessy Lauer et.al.|[2506.17505v1](http://arxiv.org/abs/2506.17505v1)|null|
-|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|[link](https://github.com/mit-acl/lunarloc-data)|
-|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840v1](http://arxiv.org/abs/2506.16840v1)|[link](https://github.com/adap/flower)|
-|**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
-|**2025-06-19**|**A compressible Reynolds-averaged mixing model considering turbulent entropy and heat flux**|Hansong Xie et.al.|[2506.16296v1](http://arxiv.org/abs/2506.16296v1)|null|
