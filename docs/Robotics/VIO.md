@@ -2,6 +2,15 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem et.al.|[2507.01283v1](http://arxiv.org/abs/2507.01283v1)|null|
+|**2025-07-01**|**Scaling particle-size segregation in wide-ranging sheared granular flows**|Tianxiong Zhao et.al.|[2507.01248v1](http://arxiv.org/abs/2507.01248v1)|null|
+|**2025-07-01**|**Impact of temperature asymmetry and small fraction of static positive ions on the relaxed states of a relativistic hot pair plasma**|Usman Shazad et.al.|[2507.00760v1](http://arxiv.org/abs/2507.00760v1)|null|
+|**2025-07-01**|**Self-organization of earth's inner magnetospheric multi-ion plasma**|Usman Shazad et.al.|[2507.00734v1](http://arxiv.org/abs/2507.00734v1)|null|
+|**2025-07-01**|**Ab initio density functional theory approach to warm dense hydrogen: from density response to electronic correlations**|Zhandos A. Moldabekov et.al.|[2507.00688v1](http://arxiv.org/abs/2507.00688v1)|null|
+|**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068v1](http://arxiv.org/abs/2507.01068v1)|null|
+|**2025-06-30**|**Exploring the probing power of gamma-Dor's inertial dip for core magnetism: case of a toroidal field**|Lucas Barrault et.al.|[2507.00308v1](http://arxiv.org/abs/2507.00308v1)|null|
+|**2025-06-30**|**Destructive Interference of Inertial Noise in Matter-wave Interferometers**|Meng-Zhi Wu et.al.|[2507.00280v1](http://arxiv.org/abs/2507.00280v1)|null|
+|**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243v1](http://arxiv.org/abs/2507.00243v1)|null|
 |**2025-06-29**|**On inertial forces (indirect terms) in problems with a central body**|Aurélien Crida et.al.|[2506.23331v1](http://arxiv.org/abs/2506.23331v1)|null|
 |**2025-06-29**|**Exact treatment of rotation-induced modifications in two-dimensional quantum rings**|Carlos Magno O. Pereira et.al.|[2506.23300v1](http://arxiv.org/abs/2506.23300v1)|null|
 |**2025-06-29**|**Sensitivity Enhancement in Atom-Interferometer Gyroscopes via Phase-Modulation Signal Readout Scheme**|Sotatsu Otabe et.al.|[2506.23250v1](http://arxiv.org/abs/2506.23250v1)|null|
@@ -20,15 +29,6 @@
 |**2025-06-25**|**IMA-Catcher: An IMpact-Aware Nonprehensile Catching Framework based on Combined Optimization and Learning**|Francesco Tassi et.al.|[2506.20801v1](http://arxiv.org/abs/2506.20801v1)|null|
 |**2025-06-25**|**Lorentz invariant materials and metamaterials**|Jon Lasa-Alonso et.al.|[2506.20784v1](http://arxiv.org/abs/2506.20784v1)|null|
 |**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186v1](http://arxiv.org/abs/2506.20186v1)|null|
+|**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v1](http://arxiv.org/abs/2507.00050v1)|null|
 |**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|
 |**2025-06-24**|**Zero-Shot Parameter Learning of Robot Dynamics Using Bayesian Statistics and Prior Knowledge**|Carsten Reiners et.al.|[2506.19350v1](http://arxiv.org/abs/2506.19350v1)|null|
-|**2025-06-24**|**Impact of Heavy Noble Gases on the Magnetic Resonance Linewidth of Alkali-Metal Atoms: A Theoretical Study**|Feng Tang et.al.|[2506.19249v1](http://arxiv.org/abs/2506.19249v1)|null|
-|**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Hanyang Zhou et.al.|[2506.19201v1](http://arxiv.org/abs/2506.19201v1)|null|
-|**2025-06-23**|**Did lunar tides sustain the early Earth's geodynamo?**|Jérémie Vidal et.al.|[2506.19039v1](http://arxiv.org/abs/2506.19039v1)|null|
-|**2025-06-23**|**Ultra-low damping of the translational motion of a composite graphite particle in a magneto-gravitational trap**|Connor E. Murphy et.al.|[2506.18872v1](http://arxiv.org/abs/2506.18872v1)|null|
-|**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689v1](http://arxiv.org/abs/2506.18689v1)|null|
-|**2025-06-23**|**PG-LIO: Photometric-Geometric fusion for Robust LiDAR-Inertial Odometry**|Nikhil Khedekar et.al.|[2506.18583v1](http://arxiv.org/abs/2506.18583v1)|null|
-|**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580v1](http://arxiv.org/abs/2506.18580v1)|null|
-|**2025-06-23**|**ThermalLoc: A Vision Transformer-Based Approach for Robust Thermal Camera Relocalization in Large-Scale Environments**|Yu Liu et.al.|[2506.18268v1](http://arxiv.org/abs/2506.18268v1)|null|
-|**2025-06-21**|**Growth rate and energy dissipation in wind-forced breaking waves**|Nicolò Scapin et.al.|[2506.17802v1](http://arxiv.org/abs/2506.17802v1)|null|
-|**2025-06-21**|**Diffusion-free boundary conditions for the Navier-Stokes equations**|Emmanuel Dormy et.al.|[2506.17749v1](http://arxiv.org/abs/2506.17749v1)|null|
