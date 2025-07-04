@@ -2,6 +2,7 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-03**|**Relativistic Limits of Decoding: Critical Divergence of Kullback-Leibler Information and Free Energy**|Tatsuaki Tsuruyama et.al.|[2507.02596v1](http://arxiv.org/abs/2507.02596v1)|null|
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem et.al.|[2507.01283v1](http://arxiv.org/abs/2507.01283v1)|null|
 |**2025-07-01**|**Scaling particle-size segregation in wide-ranging sheared granular flows**|Tianxiong Zhao et.al.|[2507.01248v1](http://arxiv.org/abs/2507.01248v1)|null|
 |**2025-07-01**|**Impact of temperature asymmetry and small fraction of static positive ions on the relaxed states of a relativistic hot pair plasma**|Usman Shazad et.al.|[2507.00760v1](http://arxiv.org/abs/2507.00760v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186v1](http://arxiv.org/abs/2506.20186v1)|null|
 |**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v1](http://arxiv.org/abs/2507.00050v1)|null|
 |**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|
-|**2025-06-24**|**Zero-Shot Parameter Learning of Robot Dynamics Using Bayesian Statistics and Prior Knowledge**|Carsten Reiners et.al.|[2506.19350v1](http://arxiv.org/abs/2506.19350v1)|null|
