@@ -17,7 +17,7 @@
 |**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206v1](http://arxiv.org/abs/2507.01206v1)|null|
 |**2025-07-01**|**Environment-Aware and Human-Cooperative Swing Control for Lower-Limb Prostheses in Diverse Obstacle Scenarios**|Haosen Xing et.al.|[2507.01111v1](http://arxiv.org/abs/2507.01111v1)|null|
 |**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Zeyi Liu et.al.|[2507.01099v1](http://arxiv.org/abs/2507.01099v1)|null|
-|**2025-07-01**|**Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations**|Jack Nugent et.al.|[2507.00981v1](http://arxiv.org/abs/2507.00981v1)|null|
+|**2025-07-01**|**Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations**|Jack Nugent et.al.|[2507.00981v2](http://arxiv.org/abs/2507.00981v2)|null|
 |**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[2507.00980v1](http://arxiv.org/abs/2507.00980v1)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969v1](http://arxiv.org/abs/2507.00969v1)|null|
 |**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937v1](http://arxiv.org/abs/2507.00937v1)|null|
