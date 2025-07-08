@@ -13,7 +13,7 @@
 |**2025-07-03**|**DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems**|Maximilian Zipfl et.al.|[2507.02400v1](http://arxiv.org/abs/2507.02400v1)|null|
 |**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393v1](http://arxiv.org/abs/2507.02393v1)|null|
 |**2025-07-03**|**Multi-Label Classification Framework for Hurricane Damage Assessment**|Zhangding Liu et.al.|[2507.02265v1](http://arxiv.org/abs/2507.02265v1)|null|
-|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v1](http://arxiv.org/abs/2507.02245v1)|null|
+|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v2](http://arxiv.org/abs/2507.02245v2)|null|
 |**2025-07-02**|**ESTR-CoT: Towards Explainable and Accurate Event Stream based Scene Text Recognition with Chain-of-Thought Reasoning**|Xiao Wang et.al.|[2507.02200v1](http://arxiv.org/abs/2507.02200v1)|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190v1](http://arxiv.org/abs/2507.02190v1)|null|
 |**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960v1](http://arxiv.org/abs/2507.01960v1)|null|
