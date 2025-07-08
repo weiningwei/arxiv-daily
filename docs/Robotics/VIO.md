@@ -30,5 +30,5 @@
 |**2025-06-25**|**IMA-Catcher: An IMpact-Aware Nonprehensile Catching Framework based on Combined Optimization and Learning**|Francesco Tassi et.al.|[2506.20801v1](http://arxiv.org/abs/2506.20801v1)|null|
 |**2025-06-25**|**Lorentz invariant materials and metamaterials**|Jon Lasa-Alonso et.al.|[2506.20784v1](http://arxiv.org/abs/2506.20784v1)|null|
 |**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186v1](http://arxiv.org/abs/2506.20186v1)|null|
-|**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v1](http://arxiv.org/abs/2507.00050v1)|null|
+|**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v2](http://arxiv.org/abs/2507.00050v2)|null|
 |**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|

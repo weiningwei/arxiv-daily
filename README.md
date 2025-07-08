@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-08 08:52:58 Asia/Shanghai
+ Automated deployment @ 2025-07-08 10:41:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -12,7 +12,7 @@
 |**2025-07-01**|**Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**|Jiajie Zhang et.al.|[2507.00552v1](http://arxiv.org/abs/2507.00552v1)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207v1](http://arxiv.org/abs/2506.23207v1)|null|
 |**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798v1](http://arxiv.org/abs/2506.21798v1)|null|
-|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v2](http://arxiv.org/abs/2506.21420v2)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
 |**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Mimo Shirasaka et.al.|[2506.20394v1](http://arxiv.org/abs/2506.20394v1)|null|
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei et.al.|[2506.20311v1](http://arxiv.org/abs/2506.20311v1)|null|
@@ -138,5 +138,5 @@
 |**2025-06-25**|**IMA-Catcher: An IMpact-Aware Nonprehensile Catching Framework based on Combined Optimization and Learning**|Francesco Tassi et.al.|[2506.20801v1](http://arxiv.org/abs/2506.20801v1)|null|
 |**2025-06-25**|**Lorentz invariant materials and metamaterials**|Jon Lasa-Alonso et.al.|[2506.20784v1](http://arxiv.org/abs/2506.20784v1)|null|
 |**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186v1](http://arxiv.org/abs/2506.20186v1)|null|
-|**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v1](http://arxiv.org/abs/2507.00050v1)|null|
+|**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v2](http://arxiv.org/abs/2507.00050v2)|null|
 |**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|
