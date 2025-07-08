@@ -2,6 +2,25 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
+|**2025-07-07**|**Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums**|Ryo Yonetani et.al.|[2507.04910v1](http://arxiv.org/abs/2507.04910v1)|null|
+|**2025-07-07**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846v1](http://arxiv.org/abs/2507.04846v1)|null|
+|**2025-07-07**|**Force-IMU Fusion-Based Sensing Acupuncture Needle and Quantitative Analysis System for Acupuncture Manipulations**|Peng Tian et.al.|[2507.04821v1](http://arxiv.org/abs/2507.04821v1)|null|
+|**2025-07-07**|**Retraction Dynamics of a Highly Viscous Liquid Sheet**|Taosif Ahsan et.al.|[2507.04603v1](http://arxiv.org/abs/2507.04603v1)|null|
+|**2025-07-06**|**The Difference between the Left and Right Invariant Extended Kalman Filter**|Yixiao Ge et.al.|[2507.04568v1](http://arxiv.org/abs/2507.04568v1)|null|
+|**2025-07-06**|**Shear flow of frictional spheroids: lentil-like grains slide more than rice-like**|Jacopo Bilotto et.al.|[2507.04429v1](http://arxiv.org/abs/2507.04429v1)|null|
+|**2025-07-06**|**From Filamentation to Stratification: Instability Dynamics in Scissors-Shaped Relativistic Beam-Plasma System**|Xu Liu et.al.|[2507.04336v1](http://arxiv.org/abs/2507.04336v1)|null|
+|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
+|**2025-07-06**|**Vibration-aware Lidar-Inertial Odometry based on Point-wise Post-Undistortion Uncertainty**|Yan Dong et.al.|[2507.04311v1](http://arxiv.org/abs/2507.04311v1)|null|
+|**2025-07-06**|**Inertial-range Turbulence Anisotropy of the Young Solar Wind from Different Source Regions**|Wenshuai Cheng et.al.|[2507.04288v1](http://arxiv.org/abs/2507.04288v1)|null|
+|**2025-07-06**|**Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**|Qiang Heng et.al.|[2507.04247v1](http://arxiv.org/abs/2507.04247v1)|null|
+|**2025-07-05**|**Active Scalar Mixing by Homogeneous Isotropic Turbulence**|Joaquim P. Jossy et.al.|[2507.04029v1](http://arxiv.org/abs/2507.04029v1)|null|
+|**2025-07-05**|**Transient segregation of bi-disperse granular mixtures in a periodic chute flow**|Soniya Kumawat et.al.|[2507.04025v1](http://arxiv.org/abs/2507.04025v1)|null|
+|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v1](http://arxiv.org/abs/2507.04004v1)|null|
+|**2025-07-05**|**VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision**|Kezhong Liu et.al.|[2507.03938v1](http://arxiv.org/abs/2507.03938v1)|null|
+|**2025-07-04**|**Dark bubble cosmology and the equivalence principle**|Ivano Basile et.al.|[2507.03748v1](http://arxiv.org/abs/2507.03748v1)|null|
+|**2025-07-04**|**Chirality-dependent terahertz topological resonance and inertial dynamics of magnetic skyrmions**|X. D. Wang et.al.|[2507.03550v1](http://arxiv.org/abs/2507.03550v1)|null|
+|**2025-07-03**|**Multi-messenger dynamic imaging of laser-driven shocks in water using a plasma wakefield accelerator**|Mario D. Balcazar et.al.|[2507.03179v1](http://arxiv.org/abs/2507.03179v1)|null|
 |**2025-07-03**|**Relativistic Limits of Decoding: Critical Divergence of Kullback-Leibler Information and Free Energy**|Tatsuaki Tsuruyama et.al.|[2507.02596v1](http://arxiv.org/abs/2507.02596v1)|null|
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem et.al.|[2507.01283v1](http://arxiv.org/abs/2507.01283v1)|null|
 |**2025-07-01**|**Scaling particle-size segregation in wide-ranging sheared granular flows**|Tianxiong Zhao et.al.|[2507.01248v1](http://arxiv.org/abs/2507.01248v1)|null|
@@ -13,22 +32,3 @@
 |**2025-06-30**|**Destructive Interference of Inertial Noise in Matter-wave Interferometers**|Meng-Zhi Wu et.al.|[2507.00280v1](http://arxiv.org/abs/2507.00280v1)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243v1](http://arxiv.org/abs/2507.00243v1)|null|
 |**2025-06-29**|**On inertial forces (indirect terms) in problems with a central body**|Aurélien Crida et.al.|[2506.23331v1](http://arxiv.org/abs/2506.23331v1)|null|
-|**2025-06-29**|**Exact treatment of rotation-induced modifications in two-dimensional quantum rings**|Carlos Magno O. Pereira et.al.|[2506.23300v1](http://arxiv.org/abs/2506.23300v1)|null|
-|**2025-06-29**|**Sensitivity Enhancement in Atom-Interferometer Gyroscopes via Phase-Modulation Signal Readout Scheme**|Sotatsu Otabe et.al.|[2506.23250v1](http://arxiv.org/abs/2506.23250v1)|null|
-|**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078v1](http://arxiv.org/abs/2506.23078v1)|null|
-|**2025-06-28**|**SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes**|David Rodríguez-Martínez et.al.|[2506.22956v1](http://arxiv.org/abs/2506.22956v1)|null|
-|**2025-06-28**|**MagShield: Towards Better Robustness in Sparse Inertial Motion Capture Under Magnetic Disturbances**|Yunzhe Shao et.al.|[2506.22907v1](http://arxiv.org/abs/2506.22907v1)|null|
-|**2025-06-27**|**Scale-resolved turbulent Prandtl number for Rayleigh-Bénard convection at $\boldsymbol{Pr =10^{-3}}$**|Shashwat Bhattacharya et.al.|[2506.22110v1](http://arxiv.org/abs/2506.22110v1)|null|
-|**2025-06-27**|**Atomic Dirac energy-level dynamics and redshift in the 4xU(1) gravity gauge field**|Mikko Partanen et.al.|[2506.22057v1](http://arxiv.org/abs/2506.22057v1)|null|
-|**2025-06-27**|**Kinetic theories: from curved space to flat space**|Shu Lin et.al.|[2506.21890v1](http://arxiv.org/abs/2506.21890v1)|null|
-|**2025-06-26**|**Fast convex optimization via inertial systems with asymptotic vanishing viscous and Hessian-driven damping**|Zepeng Wang et.al.|[2506.21730v1](http://arxiv.org/abs/2506.21730v1)|null|
-|**2025-06-26**|**The State of Papers, Retractions, and Preprints: Evidence from the CrossRef Database (2004-2024)**|Khalid M. Saqr et.al.|[2506.21232v1](http://arxiv.org/abs/2506.21232v1)|null|
-|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
-|**2025-06-26**|**Cooperative Circumnavigation for Multi-Quadrotor Systems via Onboard Sensing**|Xueming Liu et.al.|[2506.20954v1](http://arxiv.org/abs/2506.20954v1)|null|
-|**2025-06-25**|**Free Electron Paths from Dirac's Wave Equation Elucidating Zitterbewegung and Spin**|James L Beck et.al.|[2506.20857v1](http://arxiv.org/abs/2506.20857v1)|null|
-|**2025-06-25**|**Impact of the history force on the motion of droplets in shaken liquids**|Frederik Gareis et.al.|[2506.20838v1](http://arxiv.org/abs/2506.20838v1)|null|
-|**2025-06-25**|**IMA-Catcher: An IMpact-Aware Nonprehensile Catching Framework based on Combined Optimization and Learning**|Francesco Tassi et.al.|[2506.20801v1](http://arxiv.org/abs/2506.20801v1)|null|
-|**2025-06-25**|**Lorentz invariant materials and metamaterials**|Jon Lasa-Alonso et.al.|[2506.20784v1](http://arxiv.org/abs/2506.20784v1)|null|
-|**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186v1](http://arxiv.org/abs/2506.20186v1)|null|
-|**2025-06-25**|**SEZ-HARN: Self-Explainable Zero-shot Human Activity Recognition Network**|Devin Y. De Silva et.al.|[2507.00050v2](http://arxiv.org/abs/2507.00050v2)|null|
-|**2025-06-24**|**Characterizing the Observational Properties of the Sun's High-latitude m=1 Inertial Mode**|Boyang Ding et.al.|[2506.19634v1](http://arxiv.org/abs/2506.19634v1)|null|

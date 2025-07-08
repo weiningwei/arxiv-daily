@@ -2,33 +2,33 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-03**|**Towards Perception-Informed Latent HRTF Representations**|You Zhang et.al.|[2507.02815v1](http://arxiv.org/abs/2507.02815v1)|null|
-|**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687v1](http://arxiv.org/abs/2507.02687v1)|null|
-|**2025-07-03**|**Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development**|Riccardo Gallon et.al.|[2507.02602v1](http://arxiv.org/abs/2507.02602v1)|null|
-|**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513v1](http://arxiv.org/abs/2507.02513v1)|null|
-|**2025-07-03**|**Red grape detection with accelerated artificial neural networks in the FPGA's programmable logic**|Sandro Costa Magalhães et.al.|[2507.02443v1](http://arxiv.org/abs/2507.02443v1)|null|
-|**2025-07-03**|**Determination Of Structural Cracks Using Deep Learning Frameworks**|Subhasis Dasgupta et.al.|[2507.02416v1](http://arxiv.org/abs/2507.02416v1)|null|
-|**2025-07-03**|**A Novel Tuning Method for Real-time Multiple-Object Tracking Utilizing Thermal Sensor with Complexity Motion Pattern**|Duong Nguyen-Ngoc Tran et.al.|[2507.02408v1](http://arxiv.org/abs/2507.02408v1)|null|
-|**2025-07-03**|**Wildlife Target Re-Identification Using Self-supervised Learning in Non-Urban Settings**|Mufhumudzi Muthivhi et.al.|[2507.02403v1](http://arxiv.org/abs/2507.02403v1)|null|
-|**2025-07-03**|**DigiT4TAF -- Bridging Physical and Digital Worlds for Future Transportation Systems**|Maximilian Zipfl et.al.|[2507.02400v1](http://arxiv.org/abs/2507.02400v1)|null|
-|**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393v1](http://arxiv.org/abs/2507.02393v1)|null|
-|**2025-07-03**|**Multi-Label Classification Framework for Hurricane Damage Assessment**|Zhangding Liu et.al.|[2507.02265v1](http://arxiv.org/abs/2507.02265v1)|null|
-|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v2](http://arxiv.org/abs/2507.02245v2)|null|
-|**2025-07-02**|**ESTR-CoT: Towards Explainable and Accurate Event Stream based Scene Text Recognition with Chain-of-Thought Reasoning**|Xiao Wang et.al.|[2507.02200v1](http://arxiv.org/abs/2507.02200v1)|null|
-|**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190v1](http://arxiv.org/abs/2507.02190v1)|null|
-|**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960v1](http://arxiv.org/abs/2507.01960v1)|null|
-|**2025-07-02**|**Low-Perplexity LLM-Generated Sequences and Where To Find Them**|Arthur Wuhrmann et.al.|[2507.01844v1](http://arxiv.org/abs/2507.01844v1)|null|
-|**2025-07-02**|**Modulate and Reconstruct: Learning Hyperspectral Imaging from Misaligned Smartphone Views**|Daniil Reutsky et.al.|[2507.01835v1](http://arxiv.org/abs/2507.01835v1)|null|
-|**2025-07-02**|**Using Wavelet Domain Fingerprints to Improve Source Camera Identification**|Xinle Tian et.al.|[2507.01712v1](http://arxiv.org/abs/2507.01712v1)|null|
-|**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631v1](http://arxiv.org/abs/2507.01631v1)|null|
-|**2025-07-02**|**Towards Controllable Real Image Denoising with Camera Parameters**|Youngjin Oh et.al.|[2507.01587v1](http://arxiv.org/abs/2507.01587v1)|null|
-|**2025-07-02**|**Interpolation-Based Event Visual Data Filtering Algorithms**|Marcin Kowlaczyk et.al.|[2507.01557v1](http://arxiv.org/abs/2507.01557v1)|null|
-|**2025-07-02**|**Meteoroid stream identification with HDBSCAN unsupervised clustering algorithm**|Eloy Peña-Asensio et.al.|[2507.01501v1](http://arxiv.org/abs/2507.01501v1)|null|
-|**2025-07-02**|**What Really Matters for Robust Multi-Sensor HD Map Construction?**|Xiaoshuai Hao et.al.|[2507.01484v1](http://arxiv.org/abs/2507.01484v1)|null|
-|**2025-07-02**|**47 Tuc in Rubin Data Preview 1: Exploring Early LSST Data and Science Potential**|Yumi Choi et.al.|[2507.01343v1](http://arxiv.org/abs/2507.01343v1)|null|
-|**2025-07-02**|**Learning Camera-Agnostic White-Balance Preferences**|Luxi Zhao et.al.|[2507.01342v1](http://arxiv.org/abs/2507.01342v1)|null|
-|**2025-07-02**|**Advancements in Weed Mapping: A Systematic Review**|Mohammad Jahanbakht et.al.|[2507.01269v1](http://arxiv.org/abs/2507.01269v1)|null|
-|**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206v1](http://arxiv.org/abs/2507.01206v1)|null|
-|**2025-07-01**|**Environment-Aware and Human-Cooperative Swing Control for Lower-Limb Prostheses in Diverse Obstacle Scenarios**|Haosen Xing et.al.|[2507.01111v1](http://arxiv.org/abs/2507.01111v1)|null|
-|**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Zeyi Liu et.al.|[2507.01099v1](http://arxiv.org/abs/2507.01099v1)|null|
-|**2025-07-01**|**Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations**|Jack Nugent et.al.|[2507.00981v2](http://arxiv.org/abs/2507.00981v2)|null|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260v1](http://arxiv.org/abs/2507.05260v1)|null|
+|**2025-07-07**|**A High Resolution Search for Dual AGNs in Mergers: Pushing the Frontier with Keck AO**|Camilo Vazquez et.al.|[2507.05250v1](http://arxiv.org/abs/2507.05250v1)|null|
+|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163v1](http://arxiv.org/abs/2507.05163v1)|null|
+|**2025-07-07**|**The Hitchhiker's Guide to Differential Dynamic Microscopy**|Enrico Lattuada et.al.|[2507.05058v1](http://arxiv.org/abs/2507.05058v1)|null|
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
+|**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943v1](http://arxiv.org/abs/2507.04943v1)|null|
+|**2025-07-07**|**Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums**|Ryo Yonetani et.al.|[2507.04910v1](http://arxiv.org/abs/2507.04910v1)|null|
+|**2025-07-07**|**Force-IMU Fusion-Based Sensing Acupuncture Needle and Quantitative Analysis System for Acupuncture Manipulations**|Peng Tian et.al.|[2507.04821v1](http://arxiv.org/abs/2507.04821v1)|null|
+|**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638v1](http://arxiv.org/abs/2507.04638v1)|null|
+|**2025-07-07**|**PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**|Daqi Huang et.al.|[2507.04633v1](http://arxiv.org/abs/2507.04633v1)|null|
+|**2025-07-07**|**Introduction to the China Space Station Telescope (CSST)**|CSST Collaboration et.al.|[2507.04618v1](http://arxiv.org/abs/2507.04618v1)|null|
+|**2025-07-07**|**Comprehensive Modeling of Camera Spectral and Color Behavior**|Sanush K Abeysekera et.al.|[2507.04617v1](http://arxiv.org/abs/2507.04617v1)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587v1](http://arxiv.org/abs/2507.04587v1)|null|
+|**2025-07-06**|**MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**|Zhendong Xiao et.al.|[2507.04509v1](http://arxiv.org/abs/2507.04509v1)|null|
+|**2025-07-06**|**Visual Hand Gesture Recognition with Deep Learning: A Comprehensive Review of Methods, Datasets, Challenges and Future Research Directions**|Konstantinos Foteinos et.al.|[2507.04465v1](http://arxiv.org/abs/2507.04465v1)|null|
+|**2025-07-06**|**SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights**|Zhenbo Xu et.al.|[2507.04412v1](http://arxiv.org/abs/2507.04412v1)|null|
+|**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369v1](http://arxiv.org/abs/2507.04369v1)|null|
+|**2025-07-06**|**MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**|Liman Wang et.al.|[2507.04351v1](http://arxiv.org/abs/2507.04351v1)|null|
+|**2025-07-06**|**Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment**|Wenxuan Li et.al.|[2507.04314v1](http://arxiv.org/abs/2507.04314v1)|null|
+|**2025-07-05**|**Voyaging into Unbounded Dynamic Scenes from a Single View**|Fengrui Tian et.al.|[2507.04183v1](http://arxiv.org/abs/2507.04183v1)|null|
+|**2025-07-05**|**Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles**|Mahdi Rezaei et.al.|[2507.04139v1](http://arxiv.org/abs/2507.04139v1)|null|
+|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123v1](http://arxiv.org/abs/2507.04123v1)|null|
+|**2025-07-05**|**VICI: VLM-Instructed Cross-view Image-localisation**|Xiaohan Zhang et.al.|[2507.04107v1](http://arxiv.org/abs/2507.04107v1)|null|
+|**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Nigitha Selvaraj et.al.|[2507.04086v1](http://arxiv.org/abs/2507.04086v1)|null|
+|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v1](http://arxiv.org/abs/2507.04004v1)|null|
+|**2025-07-05**|**RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot**|Liang Heng et.al.|[2507.03930v1](http://arxiv.org/abs/2507.03930v1)|null|
+|**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886v1](http://arxiv.org/abs/2507.03886v1)|null|
+|**2025-07-05**|**Difference Imaging-Based Parking Lot Surveillance in Multi-RIS-Aided Collaborative ISAC System**|Zhengze Ji et.al.|[2507.03851v1](http://arxiv.org/abs/2507.03851v1)|null|
+|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|null|
+|**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737v1](http://arxiv.org/abs/2507.03737v1)|null|
