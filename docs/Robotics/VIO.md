@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
 |**2025-07-07**|**Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums**|Ryo Yonetani et.al.|[2507.04910v1](http://arxiv.org/abs/2507.04910v1)|null|
-|**2025-07-07**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846v1](http://arxiv.org/abs/2507.04846v1)|null|
+|**2025-07-07**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846v2](http://arxiv.org/abs/2507.04846v2)|null|
 |**2025-07-07**|**Force-IMU Fusion-Based Sensing Acupuncture Needle and Quantitative Analysis System for Acupuncture Manipulations**|Peng Tian et.al.|[2507.04821v1](http://arxiv.org/abs/2507.04821v1)|null|
 |**2025-07-07**|**Retraction Dynamics of a Highly Viscous Liquid Sheet**|Taosif Ahsan et.al.|[2507.04603v1](http://arxiv.org/abs/2507.04603v1)|null|
 |**2025-07-06**|**The Difference between the Left and Right Invariant Extended Kalman Filter**|Yixiao Ge et.al.|[2507.04568v1](http://arxiv.org/abs/2507.04568v1)|null|
