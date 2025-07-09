@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174v1](http://arxiv.org/abs/2507.06174v1)|null|
+|**2025-07-08**|**Dynamical scheme for computing the mass parameter of a system in a medium**|Agata Zdanowicz et.al.|[2507.05746v1](http://arxiv.org/abs/2507.05746v1)|null|
+|**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718v1](http://arxiv.org/abs/2507.05718v1)|null|
+|**2025-07-08**|**Canine Clinical Gait Analysis for Orthopedic and Neurological Disorders: An Inertial Deep-Learning Approach**|Netta Palez et.al.|[2507.05671v1](http://arxiv.org/abs/2507.05671v1)|null|
+|**2025-07-08**|**Gait-Based Hand Load Estimation via Deep Latent Variable Models with Auxiliary Information**|Jingyi Gao et.al.|[2507.05544v1](http://arxiv.org/abs/2507.05544v1)|null|
+|**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|
+|**2025-07-07**|**An inexact inertial projective splitting algorithm with strong convergence**|M. Marques Alves et.al.|[2507.05382v1](http://arxiv.org/abs/2507.05382v1)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
 |**2025-07-07**|**Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums**|Ryo Yonetani et.al.|[2507.04910v1](http://arxiv.org/abs/2507.04910v1)|null|
 |**2025-07-07**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846v2](http://arxiv.org/abs/2507.04846v2)|null|
@@ -25,10 +32,3 @@
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem et.al.|[2507.01283v1](http://arxiv.org/abs/2507.01283v1)|null|
 |**2025-07-01**|**Scaling particle-size segregation in wide-ranging sheared granular flows**|Tianxiong Zhao et.al.|[2507.01248v1](http://arxiv.org/abs/2507.01248v1)|null|
 |**2025-07-01**|**Impact of temperature asymmetry and small fraction of static positive ions on the relaxed states of a relativistic hot pair plasma**|Usman Shazad et.al.|[2507.00760v1](http://arxiv.org/abs/2507.00760v1)|null|
-|**2025-07-01**|**Self-organization of earth's inner magnetospheric multi-ion plasma**|Usman Shazad et.al.|[2507.00734v1](http://arxiv.org/abs/2507.00734v1)|null|
-|**2025-07-01**|**Ab initio density functional theory approach to warm dense hydrogen: from density response to electronic correlations**|Zhandos A. Moldabekov et.al.|[2507.00688v1](http://arxiv.org/abs/2507.00688v1)|null|
-|**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068v1](http://arxiv.org/abs/2507.01068v1)|null|
-|**2025-06-30**|**Exploring the probing power of gamma-Dor's inertial dip for core magnetism: case of a toroidal field**|Lucas Barrault et.al.|[2507.00308v1](http://arxiv.org/abs/2507.00308v1)|null|
-|**2025-06-30**|**Destructive Interference of Inertial Noise in Matter-wave Interferometers**|Meng-Zhi Wu et.al.|[2507.00280v1](http://arxiv.org/abs/2507.00280v1)|null|
-|**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243v1](http://arxiv.org/abs/2507.00243v1)|null|
-|**2025-06-29**|**On inertial forces (indirect terms) in problems with a central body**|Aurélien Crida et.al.|[2506.23331v1](http://arxiv.org/abs/2506.23331v1)|null|
