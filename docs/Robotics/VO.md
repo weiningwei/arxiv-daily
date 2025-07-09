@@ -30,5 +30,5 @@
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|null|
 |**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539v1](http://arxiv.org/abs/2506.04539v1)|null|
 |**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
-|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359v2](http://arxiv.org/abs/2506.04359v2)|[link](https://github.com/nvlabs/pycuvslam)|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359v3](http://arxiv.org/abs/2506.04359v3)|[link](https://github.com/nvlabs/pycuvslam)|
 |**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373v1](http://arxiv.org/abs/2506.02373v1)|null|
