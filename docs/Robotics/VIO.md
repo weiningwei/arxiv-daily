@@ -23,7 +23,7 @@
 |**2025-07-06**|**Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**|Qiang Heng et.al.|[2507.04247v1](http://arxiv.org/abs/2507.04247v1)|null|
 |**2025-07-05**|**Active Scalar Mixing by Homogeneous Isotropic Turbulence**|Joaquim P. Jossy et.al.|[2507.04029v1](http://arxiv.org/abs/2507.04029v1)|null|
 |**2025-07-05**|**Transient segregation of bi-disperse granular mixtures in a periodic chute flow**|Soniya Kumawat et.al.|[2507.04025v1](http://arxiv.org/abs/2507.04025v1)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v1](http://arxiv.org/abs/2507.04004v1)|null|
+|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
 |**2025-07-05**|**VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision**|Kezhong Liu et.al.|[2507.03938v1](http://arxiv.org/abs/2507.03938v1)|null|
 |**2025-07-04**|**Dark bubble cosmology and the equivalence principle**|Ivano Basile et.al.|[2507.03748v1](http://arxiv.org/abs/2507.03748v1)|null|
 |**2025-07-04**|**Chirality-dependent terahertz topological resonance and inertial dynamics of magnetic skyrmions**|X. D. Wang et.al.|[2507.03550v1](http://arxiv.org/abs/2507.03550v1)|null|
