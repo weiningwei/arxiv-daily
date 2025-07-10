@@ -2,6 +2,16 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906v1](http://arxiv.org/abs/2507.06906v1)|null|
+|**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|
+|**2025-07-09**|**Capturing Stable HDR Videos Using a Dual-Camera System**|Qianyu Zhang et.al.|[2507.06593v1](http://arxiv.org/abs/2507.06593v1)|null|
+|**2025-07-09**|**A model-agnostic active learning approach for animal detection from camera traps**|Thi Thu Thuy Nguyen et.al.|[2507.06537v1](http://arxiv.org/abs/2507.06537v1)|null|
+|**2025-07-09**|**Mask6D: Masked Pose Priors For 6D Object Pose Estimation**|Yuechen Xie et.al.|[2507.06486v1](http://arxiv.org/abs/2507.06486v1)|null|
+|**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459v1](http://arxiv.org/abs/2507.06459v1)|null|
+|**2025-07-08**|**Eyes on the Road, Mind Beyond Vision: Context-Aware Multi-modal Enhanced Risk Anticipation**|Jiaxun Zhang et.al.|[2507.06444v1](http://arxiv.org/abs/2507.06444v1)|null|
+|**2025-07-08**|**THOR: Thermal-guided Hand-Object Reasoning via Adaptive Vision Sampling**|Soroush Shahi et.al.|[2507.06442v1](http://arxiv.org/abs/2507.06442v1)|null|
+|**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
+|**2025-07-08**|**Mapping the ice stratigraphy in IceCube using camera deployment footage**|Anna Eimer et.al.|[2507.06330v1](http://arxiv.org/abs/2507.06330v1)|null|
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109v1](http://arxiv.org/abs/2507.06109v1)|null|
 |**2025-07-08**|**Discontinuity-aware Normal Integration for Generic Central Camera Models**|Francesco Milano et.al.|[2507.06075v1](http://arxiv.org/abs/2507.06075v1)|null|
 |**2025-07-08**|**AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization**|Deepak Raina et.al.|[2507.05979v1](http://arxiv.org/abs/2507.05979v1)|null|
@@ -22,13 +32,3 @@
 |**2025-07-07**|**Feature Geometry for Stereo Sidescan and Forward-looking Sonar**|Kalin Norman et.al.|[2507.05410v1](http://arxiv.org/abs/2507.05410v1)|null|
 |**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[2507.05376v1](http://arxiv.org/abs/2507.05376v1)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260v1](http://arxiv.org/abs/2507.05260v1)|null|
-|**2025-07-07**|**A High Resolution Search for Dual AGNs in Mergers: Pushing the Frontier with Keck AO**|Camilo Vazquez et.al.|[2507.05250v1](http://arxiv.org/abs/2507.05250v1)|null|
-|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163v1](http://arxiv.org/abs/2507.05163v1)|null|
-|**2025-07-07**|**The Hitchhiker's Guide to Differential Dynamic Microscopy**|Enrico Lattuada et.al.|[2507.05058v1](http://arxiv.org/abs/2507.05058v1)|null|
-|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
-|**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943v1](http://arxiv.org/abs/2507.04943v1)|null|
-|**2025-07-07**|**Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums**|Ryo Yonetani et.al.|[2507.04910v1](http://arxiv.org/abs/2507.04910v1)|null|
-|**2025-07-07**|**Force-IMU Fusion-Based Sensing Acupuncture Needle and Quantitative Analysis System for Acupuncture Manipulations**|Peng Tian et.al.|[2507.04821v1](http://arxiv.org/abs/2507.04821v1)|null|
-|**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638v2](http://arxiv.org/abs/2507.04638v2)|null|
-|**2025-07-07**|**PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**|Daqi Huang et.al.|[2507.04633v1](http://arxiv.org/abs/2507.04633v1)|null|
-|**2025-07-07**|**Introduction to the China Space Station Telescope (CSST)**|CSST Collaboration et.al.|[2507.04618v1](http://arxiv.org/abs/2507.04618v1)|null|
