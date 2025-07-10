@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**On local and non-local energy transfers in Hall magnetohydrodynamic turbulence**|Arijit Halder et.al.|[2507.06801v1](http://arxiv.org/abs/2507.06801v1)|null|
+|**2025-07-09**|**Circulating tumor cell detection in cancer patients using in-flow deep learning holography**|Kevin Mallery et.al.|[2507.06536v1](http://arxiv.org/abs/2507.06536v1)|null|
+|**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
 |**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174v1](http://arxiv.org/abs/2507.06174v1)|null|
 |**2025-07-08**|**Dynamical scheme for computing the mass parameter of a system in a medium**|Agata Zdanowicz et.al.|[2507.05746v1](http://arxiv.org/abs/2507.05746v1)|null|
 |**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718v1](http://arxiv.org/abs/2507.05718v1)|null|
@@ -29,6 +32,3 @@
 |**2025-07-04**|**Chirality-dependent terahertz topological resonance and inertial dynamics of magnetic skyrmions**|X. D. Wang et.al.|[2507.03550v1](http://arxiv.org/abs/2507.03550v1)|null|
 |**2025-07-03**|**Multi-messenger dynamic imaging of laser-driven shocks in water using a plasma wakefield accelerator**|Mario D. Balcazar et.al.|[2507.03179v1](http://arxiv.org/abs/2507.03179v1)|null|
 |**2025-07-03**|**Relativistic Limits of Decoding: Critical Divergence of Kullback-Leibler Information and Free Energy**|Tatsuaki Tsuruyama et.al.|[2507.02596v1](http://arxiv.org/abs/2507.02596v1)|null|
-|**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem et.al.|[2507.01283v1](http://arxiv.org/abs/2507.01283v1)|null|
-|**2025-07-01**|**Scaling particle-size segregation in wide-ranging sheared granular flows**|Tianxiong Zhao et.al.|[2507.01248v1](http://arxiv.org/abs/2507.01248v1)|null|
-|**2025-07-01**|**Impact of temperature asymmetry and small fraction of static positive ions on the relaxed states of a relativistic hot pair plasma**|Usman Shazad et.al.|[2507.00760v1](http://arxiv.org/abs/2507.00760v1)|null|
