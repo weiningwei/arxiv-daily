@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-11 08:54:06 Asia/Shanghai
+ Automated deployment @ 2025-07-11 10:47:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -76,6 +76,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
+|**2025-07-10**|**PhysioEdge: Multimodal Compressive Sensing Platform for Wearable Health Monitoring**|Rens Baeyens et.al.|[2507.07645v1](http://arxiv.org/abs/2507.07645v1)|null|
+|**2025-07-10**|**Universal energy cascade and relaxation in three-dimensional inertial electron magnetohydrodynamic turbulence**|Supratik Banerjee et.al.|[2507.07628v1](http://arxiv.org/abs/2507.07628v1)|null|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467v1](http://arxiv.org/abs/2507.07467v1)|null|
+|**2025-07-09**|**The interscale behaviour of uncertainty in three-dimensional Navier-Stokes turbulence**|Jin Ge et.al.|[2507.07314v1](http://arxiv.org/abs/2507.07314v1)|null|
+|**2025-07-09**|**Robust Multimodal Learning Framework For Intake Gesture Detection Using Contactless Radar and Wearable IMU Sensors**|Chunzhuo Wang et.al.|[2507.07261v1](http://arxiv.org/abs/2507.07261v1)|null|
+|**2025-07-09**|**3D Steering and Localization in Pipes and Burrows using an Externally Steered Soft Growing Robot**|Yimeng Qin et.al.|[2507.07225v1](http://arxiv.org/abs/2507.07225v1)|null|
 |**2025-07-09**|**On local and non-local energy transfers in Hall magnetohydrodynamic turbulence**|Arijit Halder et.al.|[2507.06801v1](http://arxiv.org/abs/2507.06801v1)|null|
 |**2025-07-09**|**Circulating tumor cell detection in cancer patients using in-flow deep learning holography**|Kevin Mallery et.al.|[2507.06536v1](http://arxiv.org/abs/2507.06536v1)|null|
 |**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
@@ -99,17 +106,13 @@
 |**2025-07-06**|**Inertial-range Turbulence Anisotropy of the Young Solar Wind from Different Source Regions**|Wenshuai Cheng et.al.|[2507.04288v1](http://arxiv.org/abs/2507.04288v1)|null|
 |**2025-07-06**|**Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**|Qiang Heng et.al.|[2507.04247v1](http://arxiv.org/abs/2507.04247v1)|null|
 |**2025-07-05**|**Active Scalar Mixing by Homogeneous Isotropic Turbulence**|Joaquim P. Jossy et.al.|[2507.04029v1](http://arxiv.org/abs/2507.04029v1)|null|
-|**2025-07-05**|**Transient segregation of bi-disperse granular mixtures in a periodic chute flow**|Soniya Kumawat et.al.|[2507.04025v1](http://arxiv.org/abs/2507.04025v1)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
-|**2025-07-05**|**VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision**|Kezhong Liu et.al.|[2507.03938v1](http://arxiv.org/abs/2507.03938v1)|null|
-|**2025-07-04**|**Dark bubble cosmology and the equivalence principle**|Ivano Basile et.al.|[2507.03748v1](http://arxiv.org/abs/2507.03748v1)|null|
-|**2025-07-04**|**Chirality-dependent terahertz topological resonance and inertial dynamics of magnetic skyrmions**|X. D. Wang et.al.|[2507.03550v1](http://arxiv.org/abs/2507.03550v1)|null|
-|**2025-07-03**|**Multi-messenger dynamic imaging of laser-driven shocks in water using a plasma wakefield accelerator**|Mario D. Balcazar et.al.|[2507.03179v1](http://arxiv.org/abs/2507.03179v1)|null|
-|**2025-07-03**|**Relativistic Limits of Decoding: Critical Divergence of Kullback-Leibler Information and Free Energy**|Tatsuaki Tsuruyama et.al.|[2507.02596v1](http://arxiv.org/abs/2507.02596v1)|null|
 
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467v1](http://arxiv.org/abs/2507.07467v1)|null|
+|**2025-07-09**|**3D Steering and Localization in Pipes and Burrows using an Externally Steered Soft Growing Robot**|Yimeng Qin et.al.|[2507.07225v1](http://arxiv.org/abs/2507.07225v1)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
 |**2025-07-06**|**Vibration-aware Lidar-Inertial Odometry based on Point-wise Post-Undistortion Uncertainty**|Yan Dong et.al.|[2507.04311v1](http://arxiv.org/abs/2507.04311v1)|null|
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
@@ -137,6 +140,3 @@
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|null|
 |**2025-06-05**|**Olfactory Inertial Odometry: Sensor Calibration and Drift Compensation**|Kordel K. France et.al.|[2506.04539v1](http://arxiv.org/abs/2506.04539v1)|null|
-|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|[link](https://github.com/facebookresearch/egocentric_splats)|
-|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359v3](http://arxiv.org/abs/2506.04359v3)|[link](https://github.com/nvlabs/pycuvslam)|
-|**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373v1](http://arxiv.org/abs/2506.02373v1)|null|

@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
+|**2025-07-10**|**PhysioEdge: Multimodal Compressive Sensing Platform for Wearable Health Monitoring**|Rens Baeyens et.al.|[2507.07645v1](http://arxiv.org/abs/2507.07645v1)|null|
+|**2025-07-10**|**Universal energy cascade and relaxation in three-dimensional inertial electron magnetohydrodynamic turbulence**|Supratik Banerjee et.al.|[2507.07628v1](http://arxiv.org/abs/2507.07628v1)|null|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467v1](http://arxiv.org/abs/2507.07467v1)|null|
+|**2025-07-09**|**The interscale behaviour of uncertainty in three-dimensional Navier-Stokes turbulence**|Jin Ge et.al.|[2507.07314v1](http://arxiv.org/abs/2507.07314v1)|null|
+|**2025-07-09**|**Robust Multimodal Learning Framework For Intake Gesture Detection Using Contactless Radar and Wearable IMU Sensors**|Chunzhuo Wang et.al.|[2507.07261v1](http://arxiv.org/abs/2507.07261v1)|null|
+|**2025-07-09**|**3D Steering and Localization in Pipes and Burrows using an Externally Steered Soft Growing Robot**|Yimeng Qin et.al.|[2507.07225v1](http://arxiv.org/abs/2507.07225v1)|null|
 |**2025-07-09**|**On local and non-local energy transfers in Hall magnetohydrodynamic turbulence**|Arijit Halder et.al.|[2507.06801v1](http://arxiv.org/abs/2507.06801v1)|null|
 |**2025-07-09**|**Circulating tumor cell detection in cancer patients using in-flow deep learning holography**|Kevin Mallery et.al.|[2507.06536v1](http://arxiv.org/abs/2507.06536v1)|null|
 |**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
@@ -25,10 +32,3 @@
 |**2025-07-06**|**Inertial-range Turbulence Anisotropy of the Young Solar Wind from Different Source Regions**|Wenshuai Cheng et.al.|[2507.04288v1](http://arxiv.org/abs/2507.04288v1)|null|
 |**2025-07-06**|**Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**|Qiang Heng et.al.|[2507.04247v1](http://arxiv.org/abs/2507.04247v1)|null|
 |**2025-07-05**|**Active Scalar Mixing by Homogeneous Isotropic Turbulence**|Joaquim P. Jossy et.al.|[2507.04029v1](http://arxiv.org/abs/2507.04029v1)|null|
-|**2025-07-05**|**Transient segregation of bi-disperse granular mixtures in a periodic chute flow**|Soniya Kumawat et.al.|[2507.04025v1](http://arxiv.org/abs/2507.04025v1)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
-|**2025-07-05**|**VISC: mmWave Radar Scene Flow Estimation using Pervasive Visual-Inertial Supervision**|Kezhong Liu et.al.|[2507.03938v1](http://arxiv.org/abs/2507.03938v1)|null|
-|**2025-07-04**|**Dark bubble cosmology and the equivalence principle**|Ivano Basile et.al.|[2507.03748v1](http://arxiv.org/abs/2507.03748v1)|null|
-|**2025-07-04**|**Chirality-dependent terahertz topological resonance and inertial dynamics of magnetic skyrmions**|X. D. Wang et.al.|[2507.03550v1](http://arxiv.org/abs/2507.03550v1)|null|
-|**2025-07-03**|**Multi-messenger dynamic imaging of laser-driven shocks in water using a plasma wakefield accelerator**|Mario D. Balcazar et.al.|[2507.03179v1](http://arxiv.org/abs/2507.03179v1)|null|
-|**2025-07-03**|**Relativistic Limits of Decoding: Critical Divergence of Kullback-Leibler Information and Free Energy**|Tatsuaki Tsuruyama et.al.|[2507.02596v1](http://arxiv.org/abs/2507.02596v1)|null|
