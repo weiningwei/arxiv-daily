@@ -2,6 +2,24 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779v1](http://arxiv.org/abs/2507.08779v1)|null|
+|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776v1](http://arxiv.org/abs/2507.08776v1)|null|
+|**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743v1](http://arxiv.org/abs/2507.08743v1)|null|
+|**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729v1](http://arxiv.org/abs/2507.08729v1)|null|
+|**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726v1](http://arxiv.org/abs/2507.08726v1)|null|
+|**2025-07-11**|**A Neutron Sensitive Detector Using 3D-Printed Scintillators**|Adam Barr et.al.|[2507.08663v1](http://arxiv.org/abs/2507.08663v1)|null|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644v1](http://arxiv.org/abs/2507.08644v1)|null|
+|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi et.al.|[2507.08624v1](http://arxiv.org/abs/2507.08624v1)|null|
+|**2025-07-11**|**Euclid: Early Release Observations. A combined strong and weak lensing solution for Abell 2390 beyond its virial radius**|J. M. Diego et.al.|[2507.08545v1](http://arxiv.org/abs/2507.08545v1)|null|
+|**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513v1](http://arxiv.org/abs/2507.08513v1)|null|
+|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448v1](http://arxiv.org/abs/2507.08448v1)|null|
+|**2025-07-11**|**Online Pre-Training for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2507.08387v1](http://arxiv.org/abs/2507.08387v1)|null|
+|**2025-07-11**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307v1](http://arxiv.org/abs/2507.08307v1)|null|
+|**2025-07-11**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282v1](http://arxiv.org/abs/2507.08282v1)|null|
+|**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui et.al.|[2507.08262v1](http://arxiv.org/abs/2507.08262v1)|null|
+|**2025-07-10**|**Emotion Detection in Older Adults Using Physiological Signals from Wearable Sensors**|Md. Saif Hassan Onim et.al.|[2507.08167v1](http://arxiv.org/abs/2507.08167v1)|null|
+|**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136v1](http://arxiv.org/abs/2507.08136v1)|null|
+|**2025-07-10**|**Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion**|Lamiaa H. Zain et.al.|[2507.08112v1](http://arxiv.org/abs/2507.08112v1)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982v1](http://arxiv.org/abs/2507.07982v1)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978v1](http://arxiv.org/abs/2507.07978v1)|null|
 |**2025-07-10**|**Towards Continuous Home Cage Monitoring: An Evaluation of Tracking and Identification Strategies for Laboratory Mice**|Juan Pablo Oberhauser et.al.|[2507.07929v1](http://arxiv.org/abs/2507.07929v1)|null|
@@ -14,21 +32,3 @@
 |**2025-07-10**|**Multi-Scale Attention and Gated Shifting for Fine-Grained Event Spotting in Videos**|Hao Xu et.al.|[2507.07381v1](http://arxiv.org/abs/2507.07381v1)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906v1](http://arxiv.org/abs/2507.06906v1)|null|
 |**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|
-|**2025-07-09**|**Capturing Stable HDR Videos Using a Dual-Camera System**|Qianyu Zhang et.al.|[2507.06593v1](http://arxiv.org/abs/2507.06593v1)|null|
-|**2025-07-09**|**A model-agnostic active learning approach for animal detection from camera traps**|Thi Thu Thuy Nguyen et.al.|[2507.06537v1](http://arxiv.org/abs/2507.06537v1)|null|
-|**2025-07-09**|**Mask6D: Masked Pose Priors For 6D Object Pose Estimation**|Yuechen Xie et.al.|[2507.06486v1](http://arxiv.org/abs/2507.06486v1)|null|
-|**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459v1](http://arxiv.org/abs/2507.06459v1)|null|
-|**2025-07-08**|**Eyes on the Road, Mind Beyond Vision: Context-Aware Multi-modal Enhanced Risk Anticipation**|Jiaxun Zhang et.al.|[2507.06444v1](http://arxiv.org/abs/2507.06444v1)|null|
-|**2025-07-08**|**THOR: Thermal-guided Hand-Object Reasoning via Adaptive Vision Sampling**|Soroush Shahi et.al.|[2507.06442v1](http://arxiv.org/abs/2507.06442v1)|null|
-|**2025-07-08**|**Generative Panoramic Image Stitching**|Mathieu Tuli et.al.|[2507.07133v1](http://arxiv.org/abs/2507.07133v1)|null|
-|**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
-|**2025-07-08**|**Mapping the ice stratigraphy in IceCube using camera deployment footage**|Anna Eimer et.al.|[2507.06330v1](http://arxiv.org/abs/2507.06330v1)|null|
-|**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109v1](http://arxiv.org/abs/2507.06109v1)|null|
-|**2025-07-08**|**Discontinuity-aware Normal Integration for Generic Central Camera Models**|Francesco Milano et.al.|[2507.06075v1](http://arxiv.org/abs/2507.06075v1)|null|
-|**2025-07-08**|**AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization**|Deepak Raina et.al.|[2507.05979v1](http://arxiv.org/abs/2507.05979v1)|null|
-|**2025-07-08**|**TigAug: Data Augmentation for Testing Traffic Light Detection in Autonomous Driving Systems**|You Lu et.al.|[2507.05932v1](http://arxiv.org/abs/2507.05932v1)|null|
-|**2025-07-08**|**Towards Solar Altitude Guided Scene Illumination**|Samed Doğan et.al.|[2507.05812v1](http://arxiv.org/abs/2507.05812v1)|null|
-|**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751v1](http://arxiv.org/abs/2507.05751v1)|null|
-|**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718v1](http://arxiv.org/abs/2507.05718v1)|null|
-|**2025-07-08**|**LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion**|Yisu Zhang et.al.|[2507.05678v1](http://arxiv.org/abs/2507.05678v1)|null|
-|**2025-07-08**|**Stable Tracking-in-the-Loop Control of Cable-Driven Surgical Manipulators under Erroneous Kinematic Chains**|Neelay Joglekar et.al.|[2507.05663v1](http://arxiv.org/abs/2507.05663v1)|null|

@@ -2,6 +2,9 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364v1](http://arxiv.org/abs/2507.08364v1)|null|
+|**2025-07-11**|**Joint Optimization-based Targetless Extrinsic Calibration for Multiple LiDARs and GNSS-Aided INS of Ground Vehicles**|Junhui Wang et.al.|[2507.08349v1](http://arxiv.org/abs/2507.08349v1)|null|
+|**2025-07-11**|**Defining eccentricity for spin-precessing binaries**|Md Arif Shaikh et.al.|[2507.08345v1](http://arxiv.org/abs/2507.08345v1)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
 |**2025-07-10**|**PhysioEdge: Multimodal Compressive Sensing Platform for Wearable Health Monitoring**|Rens Baeyens et.al.|[2507.07645v1](http://arxiv.org/abs/2507.07645v1)|null|
 |**2025-07-10**|**Universal energy cascade and relaxation in three-dimensional inertial electron magnetohydrodynamic turbulence**|Supratik Banerjee et.al.|[2507.07628v1](http://arxiv.org/abs/2507.07628v1)|null|
@@ -29,6 +32,3 @@
 |**2025-07-06**|**From Filamentation to Stratification: Instability Dynamics in Scissors-Shaped Relativistic Beam-Plasma System**|Xu Liu et.al.|[2507.04336v1](http://arxiv.org/abs/2507.04336v1)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
 |**2025-07-06**|**Vibration-aware Lidar-Inertial Odometry based on Point-wise Post-Undistortion Uncertainty**|Yan Dong et.al.|[2507.04311v1](http://arxiv.org/abs/2507.04311v1)|null|
-|**2025-07-06**|**Inertial-range Turbulence Anisotropy of the Young Solar Wind from Different Source Regions**|Wenshuai Cheng et.al.|[2507.04288v1](http://arxiv.org/abs/2507.04288v1)|null|
-|**2025-07-06**|**Inertial Quadratic Majorization Minimization with Application to Kernel Regularized Learning**|Qiang Heng et.al.|[2507.04247v1](http://arxiv.org/abs/2507.04247v1)|null|
-|**2025-07-05**|**Active Scalar Mixing by Homogeneous Isotropic Turbulence**|Joaquim P. Jossy et.al.|[2507.04029v1](http://arxiv.org/abs/2507.04029v1)|null|
