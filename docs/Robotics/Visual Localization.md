@@ -16,7 +16,7 @@
 |**2025-07-13**|**Curvature-adaptive gigapixel microscopy at submicron resolution and centimeter scale**|Xi Yang et.al.|[2507.09697v1](http://arxiv.org/abs/2507.09697v1)|null|
 |**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513v1](http://arxiv.org/abs/2507.09513v1)|null|
 |**2025-07-13**|**TruckV2X: A Truck-Centered Perception Dataset**|Tenghui Xie et.al.|[2507.09505v1](http://arxiv.org/abs/2507.09505v1)|null|
-|**2025-07-13**|**mmE-Loc: Facilitating Accurate Drone Landing with Ultra-High-Frequency Localization**|Haoyang Wang et.al.|[2507.09469v1](http://arxiv.org/abs/2507.09469v1)|null|
+|**2025-07-13**|**mmE-Loc: Facilitating Accurate Drone Landing with Ultra-High-Frequency Localization**|Haoyang Wang et.al.|[2507.09469v2](http://arxiv.org/abs/2507.09469v2)|null|
 |**2025-07-13**|**TRACER: Efficient Object Re-Identification in Networked Cameras through Adaptive Query Processing**|Pramod Chunduri et.al.|[2507.09448v1](http://arxiv.org/abs/2507.09448v1)|null|
 |**2025-07-12**|**GreenCrossingAI: A Camera Trap/Computer Vision Pipeline for Environmental Science Research Groups**|Bernie Boscoe et.al.|[2507.09410v1](http://arxiv.org/abs/2507.09410v1)|null|
 |**2025-07-12**|**C-ZUPT: Stationarity-Aided Aerial Hovering**|Daniel Engelsman et.al.|[2507.09344v1](http://arxiv.org/abs/2507.09344v1)|null|
