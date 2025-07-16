@@ -2,6 +2,11 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447v1](http://arxiv.org/abs/2507.11447v1)|null|
+|**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302v1](http://arxiv.org/abs/2507.11302v1)|null|
+|**2025-07-15**|**Comparison of Localization Algorithms between Reduced-Scale and Real-Sized Vehicles Using Visual and Inertial Sensors**|Tobias Kern et.al.|[2507.11241v1](http://arxiv.org/abs/2507.11241v1)|null|
+|**2025-07-14**|**Importance of gravitational effects on the performances of a fully passive oscillating-foil turbine deployed horizontally**|Alexina Roy-Saillant et.al.|[2507.10711v1](http://arxiv.org/abs/2507.10711v1)|null|
+|**2025-07-14**|**Self-Similar Cosmic-Ray Transport in High-Resolution Magnetohydrodynamic Turbulence**|Philipp Kempski et.al.|[2507.10651v1](http://arxiv.org/abs/2507.10651v1)|null|
 |**2025-07-14**|**Imprints of turbulence on heterogeneous deposition of adhesive particles**|Max P. Herzog et.al.|[2507.10480v1](http://arxiv.org/abs/2507.10480v1)|null|
 |**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376v1](http://arxiv.org/abs/2507.10376v1)|null|
 |**2025-07-14**|**MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data**|Mahmoud Bekhit et.al.|[2507.10334v1](http://arxiv.org/abs/2507.10334v1)|null|
@@ -27,8 +32,3 @@
 |**2025-07-08**|**Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**|Michalis Chatzispyrou et.al.|[2507.06397v1](http://arxiv.org/abs/2507.06397v1)|null|
 |**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174v2](http://arxiv.org/abs/2507.06174v2)|null|
 |**2025-07-08**|**Dynamical scheme for computing the mass parameter of a system in a medium**|Agata Zdanowicz et.al.|[2507.05746v1](http://arxiv.org/abs/2507.05746v1)|null|
-|**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718v1](http://arxiv.org/abs/2507.05718v1)|null|
-|**2025-07-08**|**Canine Clinical Gait Analysis for Orthopedic and Neurological Disorders: An Inertial Deep-Learning Approach**|Netta Palez et.al.|[2507.05671v1](http://arxiv.org/abs/2507.05671v1)|null|
-|**2025-07-08**|**Gait-Based Hand Load Estimation via Deep Latent Variable Models with Auxiliary Information**|Jingyi Gao et.al.|[2507.05544v1](http://arxiv.org/abs/2507.05544v1)|null|
-|**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|
-|**2025-07-07**|**An inexact inertial projective splitting algorithm with strong convergence**|M. Marques Alves et.al.|[2507.05382v1](http://arxiv.org/abs/2507.05382v1)|null|

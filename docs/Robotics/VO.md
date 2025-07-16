@@ -2,6 +2,7 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447v1](http://arxiv.org/abs/2507.11447v1)|null|
 |**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376v1](http://arxiv.org/abs/2507.10376v1)|null|
 |**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364v1](http://arxiv.org/abs/2507.08364v1)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
@@ -31,4 +32,3 @@
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-09**|**Adaptive Per-Tree Canopy Volume Estimation Using Mobile LiDAR in Structured and Unstructured Orchards**|Ali Abedi et.al.|[2506.08061v1](http://arxiv.org/abs/2506.08061v1)|null|
 |**2025-06-08**|**Machine Learning-Based Self-Localization Using Internal Sensors for Automating Bulldozers**|Hikaru Sawafuji et.al.|[2506.07271v1](http://arxiv.org/abs/2506.07271v1)|null|
-|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
