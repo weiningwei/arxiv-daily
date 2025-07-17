@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-17 10:50:29 Asia/Shanghai
+ Automated deployment @ 2025-07-17 20:20:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -76,8 +76,23 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449v1](http://arxiv.org/abs/2507.12449v1)|null|
+|**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283v1](http://arxiv.org/abs/2507.12283v1)|null|
+|**2025-07-16**|**Euclid preparation. Simulating thousands of Euclid spectroscopic skies**|Euclid Collaboration et.al.|[2507.12116v1](http://arxiv.org/abs/2507.12116v1)|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
+|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu et.al.|[2507.12087v1](http://arxiv.org/abs/2507.12087v1)|null|
+|**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060v1](http://arxiv.org/abs/2507.12060v1)|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|null|
+|**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931v1](http://arxiv.org/abs/2507.11931v1)|null|
+|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910v1](http://arxiv.org/abs/2507.11910v1)|null|
+|**2025-07-15**|**GIST: Group Interaction Sensing Toolkit for Mixed Reality**|Diana Romero et.al.|[2507.11797v1](http://arxiv.org/abs/2507.11797v1)|null|
+|**2025-07-15**|**Impacts and Ejecta in Natural Granular Material**|Esteban Wright et.al.|[2507.11691v1](http://arxiv.org/abs/2507.11691v1)|null|
+|**2025-07-15**|**VISTA: Monocular Segmentation-Based Mapping for Appearance and View-Invariant Global Localization**|Hannah Shafferman et.al.|[2507.11653v1](http://arxiv.org/abs/2507.11653v1)|null|
+|**2025-07-15**|**Simultaneous observations of multiple ELVES and SPRITES at the Pierre Auger Observatory**|Roberto Mussa et.al.|[2507.11641v1](http://arxiv.org/abs/2507.11641v1)|null|
 |**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447v1](http://arxiv.org/abs/2507.11447v1)|null|
 |**2025-07-15**|**The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena**|Foteini Vervelidou et.al.|[2507.11355v1](http://arxiv.org/abs/2507.11355v1)|null|
+|**2025-07-15**|**Ultrafast ps--TALIF and streak camera diagnostics of atomic hydrogen in a helium microplasma jet**|Dimitrios Stefas et.al.|[2507.11586v1](http://arxiv.org/abs/2507.11586v1)|null|
 |**2025-07-15**|**CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking**|Yuehao Huang et.al.|[2507.11334v1](http://arxiv.org/abs/2507.11334v1)|null|
 |**2025-07-15**|**Euclid preparation. Overview of Euclid infrared detector performance from ground tests**|Euclid Collaboration et.al.|[2507.11326v1](http://arxiv.org/abs/2507.11326v1)|null|
 |**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302v1](http://arxiv.org/abs/2507.11302v1)|null|
@@ -85,27 +100,12 @@
 |**2025-07-15**|**Comparison of Localization Algorithms between Reduced-Scale and Real-Sized Vehicles Using Visual and Inertial Sensors**|Tobias Kern et.al.|[2507.11241v1](http://arxiv.org/abs/2507.11241v1)|null|
 |**2025-07-15**|**Temporally-multiplexed dual-frequency terahertz imaging at kilohertz frame rates**|Lucy A. Downes et.al.|[2507.11232v1](http://arxiv.org/abs/2507.11232v1)|null|
 |**2025-07-15**|**MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments**|Chen Cai et.al.|[2507.11211v1](http://arxiv.org/abs/2507.11211v1)|null|
+|**2025-07-15**|**SAMPLE -- Stratospheric Altitude Microbiology Probe for Life Existence -- A Method of Collection of Stratospheric Samples Using Balloon-Borne Payload System**|Margarita Safonova et.al.|[2507.11581v1](http://arxiv.org/abs/2507.11581v1)|null|
 |**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072v1](http://arxiv.org/abs/2507.11072v1)|null|
 |**2025-07-15**|**A Multi-View High-Resolution Foot-Ankle Complex Point Cloud Dataset During Gait for Occlusion-Robust 3D Completion**|Jie-Wen Li et.al.|[2507.11037v1](http://arxiv.org/abs/2507.11037v1)|null|
+|**2025-07-15**|**What cat is that? A re-id model for feral cats**|Victor Caquilpan et.al.|[2507.11575v1](http://arxiv.org/abs/2507.11575v1)|null|
 |**2025-07-15**|**AROMA: Mixed-Initiative AI Assistance for Non-Visual Cooking by Grounding Multi-modal Information Between Reality and Videos**|Zheng Ning et.al.|[2507.10963v1](http://arxiv.org/abs/2507.10963v1)|null|
 |**2025-07-15**|**GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization**|Shaowen Tong et.al.|[2507.10935v1](http://arxiv.org/abs/2507.10935v1)|null|
-|**2025-07-14**|**Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision**|Justin M. Kasowski et.al.|[2507.10813v1](http://arxiv.org/abs/2507.10813v1)|null|
-|**2025-07-14**|**A New Dataset and Performance Benchmark for Real-time Spacecraft Segmentation in Onboard Flight Computers**|Jeffrey Joan Sam et.al.|[2507.10775v1](http://arxiv.org/abs/2507.10775v1)|null|
-|**2025-07-14**|**Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder**|Vladimir Iashin et.al.|[2507.10552v1](http://arxiv.org/abs/2507.10552v1)|null|
-|**2025-07-14**|**Multi-epoch spectro-photometric characterization of the minimoon 2024 PT$_5$ in the visible and near-infrared**|Jin Beniyama et.al.|[2507.10527v1](http://arxiv.org/abs/2507.10527v1)|null|
-|**2025-07-14**|**Cameras as Relative Positional Encoding**|Ruilong Li et.al.|[2507.10496v1](http://arxiv.org/abs/2507.10496v1)|null|
-|**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474v1](http://arxiv.org/abs/2507.10474v1)|null|
-|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376v1](http://arxiv.org/abs/2507.10376v1)|null|
-|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284v1](http://arxiv.org/abs/2507.10284v1)|null|
-|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265v1](http://arxiv.org/abs/2507.10265v1)|null|
-|**2025-07-14**|**Glance-MCMT: A General MCMT Framework with Glance Initialization and Progressive Association**|Hamidreza Hashempoor et.al.|[2507.10115v1](http://arxiv.org/abs/2507.10115v1)|null|
-|**2025-07-14**|**Binomial Self-Compensation: Mechanism and Suppression of Motion Error in Phase-Shifting Profilometry**|Geyou Zhang et.al.|[2507.10009v1](http://arxiv.org/abs/2507.10009v1)|null|
-|**2025-07-14**|**Ariel Explores: Vision-based underwater exploration and inspection via generalist drone-level autonomy**|Mohit Singh et.al.|[2507.10003v1](http://arxiv.org/abs/2507.10003v1)|null|
-|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993v1](http://arxiv.org/abs/2507.09993v1)|null|
-|**2025-07-13**|**Curvature-adaptive gigapixel microscopy at submicron resolution and centimeter scale**|Xi Yang et.al.|[2507.09697v1](http://arxiv.org/abs/2507.09697v1)|null|
-|**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513v1](http://arxiv.org/abs/2507.09513v1)|null|
-|**2025-07-13**|**TruckV2X: A Truck-Centered Perception Dataset**|Tenghui Xie et.al.|[2507.09505v1](http://arxiv.org/abs/2507.09505v1)|null|
-|**2025-07-13**|**mmE-Loc: Facilitating Accurate Drone Landing with Ultra-High-Frequency Localization**|Haoyang Wang et.al.|[2507.09469v2](http://arxiv.org/abs/2507.09469v2)|null|
 
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
