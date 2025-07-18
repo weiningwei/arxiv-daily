@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
+|**2025-07-17**|**Accelerated free energy estimation in ab initio path integral Monte Carlo simulations**|Pontus Svensson et.al.|[2507.12960v1](http://arxiv.org/abs/2507.12960v1)|null|
+|**2025-07-17**|**MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking Based on Motion Capture and IMU Fusion**|Zichao Shu et.al.|[2507.12920v1](http://arxiv.org/abs/2507.12920v1)|null|
+|**2025-07-17**|**Unraveling Self-Similar Energy Transfer Dynamics: a Case Study for 1D Burgers System**|Pritpal Matharu et.al.|[2507.12764v1](http://arxiv.org/abs/2507.12764v1)|null|
 |**2025-07-16**|**Road Roughness Estimation via Fusion of Standard Onboard Automotive Sensors**|Martin Agebjär et.al.|[2507.12317v1](http://arxiv.org/abs/2507.12317v1)|null|
 |**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313v1](http://arxiv.org/abs/2507.12313v1)|null|
 |**2025-07-16**|**Scaling of thin wire cylindrical compression after 100 fs Joule surface heating with material, diameter and laser energy**|L. Yang et.al.|[2507.12109v1](http://arxiv.org/abs/2507.12109v1)|null|
@@ -28,7 +32,3 @@
 |**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364v1](http://arxiv.org/abs/2507.08364v1)|null|
 |**2025-07-11**|**Joint Optimization-based Targetless Extrinsic Calibration for Multiple LiDARs and GNSS-Aided INS of Ground Vehicles**|Junhui Wang et.al.|[2507.08349v1](http://arxiv.org/abs/2507.08349v1)|null|
 |**2025-07-11**|**Defining eccentricity for spin-precessing binaries**|Md Arif Shaikh et.al.|[2507.08345v1](http://arxiv.org/abs/2507.08345v1)|null|
-|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
-|**2025-07-10**|**PhysioEdge: Multimodal Compressive Sensing Platform for Wearable Health Monitoring**|Rens Baeyens et.al.|[2507.07645v1](http://arxiv.org/abs/2507.07645v1)|null|
-|**2025-07-10**|**Universal energy cascade and relaxation in three-dimensional inertial electron magnetohydrodynamic turbulence**|Supratik Banerjee et.al.|[2507.07628v1](http://arxiv.org/abs/2507.07628v1)|null|
-|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467v1](http://arxiv.org/abs/2507.07467v1)|null|
