@@ -2,6 +2,19 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095v1](http://arxiv.org/abs/2507.14095v1)|null|
+|**2025-07-18**|**Design of a Modular Mobile Inspection and Maintenance Robot for an Orbital Servicing Hub**|Tianyuan Wang et.al.|[2507.14059v1](http://arxiv.org/abs/2507.14059v1)|null|
+|**2025-07-18**|**DreamScene: 3D Gaussian-based End-to-end Text-to-3D Scene Generation**|Haoran Li et.al.|[2507.13985v1](http://arxiv.org/abs/2507.13985v1)|null|
+|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v1](http://arxiv.org/abs/2507.13891v1)|null|
+|**2025-07-18**|**Real-Time Fusion of Visual and Chart Data for Enhanced Maritime Vision**|Marten Kreis et.al.|[2507.13880v1](http://arxiv.org/abs/2507.13880v1)|null|
+|**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857v1](http://arxiv.org/abs/2507.13857v1)|null|
+|**2025-07-18**|**Simulation for Noncontact Radar-Based Physiological Sensing Using Depth-Camera-Derived Human 3D Model with Electromagnetic Scattering Analysis**|Kimitaka Sumi et.al.|[2507.13826v1](http://arxiv.org/abs/2507.13826v1)|null|
+|**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813v1](http://arxiv.org/abs/2507.13813v1)|null|
+|**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801v1](http://arxiv.org/abs/2507.13801v1)|null|
+|**2025-07-18**|**SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization**|Junho Choi et.al.|[2507.13702v1](http://arxiv.org/abs/2507.13702v1)|null|
+|**2025-07-18**|**HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors**|Chuheng Wei et.al.|[2507.13677v1](http://arxiv.org/abs/2507.13677v1)|null|
+|**2025-07-18**|**When Person Re-Identification Meets Event Camera: A Benchmark Dataset and An Attribute-guided Re-Identification Framework**|Xiao Wang et.al.|[2507.13659v1](http://arxiv.org/abs/2507.13659v1)|null|
+|**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al.|[2507.13628v1](http://arxiv.org/abs/2507.13628v1)|null|
 |**2025-07-17**|**$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347v1](http://arxiv.org/abs/2507.13347v1)|null|
 |**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344v1](http://arxiv.org/abs/2507.13344v1)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[2507.13162v1](http://arxiv.org/abs/2507.13162v1)|null|
@@ -18,17 +31,4 @@
 |**2025-07-17**|**A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys**|Yufeng Luo et.al.|[2507.12784v1](http://arxiv.org/abs/2507.12784v1)|null|
 |**2025-07-17**|**Continuous Marine Tracking via Autonomous UAV Handoff**|Heegyeong Kim et.al.|[2507.12763v1](http://arxiv.org/abs/2507.12763v1)|null|
 |**2025-07-17**|**ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation**|Cheng Liu et.al.|[2507.12744v1](http://arxiv.org/abs/2507.12744v1)|null|
-|**2025-07-16**|**Safeguarding Federated Learning-based Road Condition Classification**|Sheng Liu et.al.|[2507.12568v1](http://arxiv.org/abs/2507.12568v1)|null|
-|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508v1](http://arxiv.org/abs/2507.12508v1)|null|
-|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
-|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449v1](http://arxiv.org/abs/2507.12449v1)|null|
-|**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283v1](http://arxiv.org/abs/2507.12283v1)|null|
-|**2025-07-16**|**Euclid preparation. Simulating thousands of Euclid spectroscopic skies**|Euclid Collaboration et.al.|[2507.12116v1](http://arxiv.org/abs/2507.12116v1)|null|
-|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
-|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu et.al.|[2507.12087v1](http://arxiv.org/abs/2507.12087v1)|null|
-|**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060v1](http://arxiv.org/abs/2507.12060v1)|null|
-|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|null|
-|**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931v1](http://arxiv.org/abs/2507.11931v1)|null|
-|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910v1](http://arxiv.org/abs/2507.11910v1)|null|
-|**2025-07-15**|**GIST: Group Interaction Sensing Toolkit for Mixed Reality**|Diana Romero et.al.|[2507.11797v1](http://arxiv.org/abs/2507.11797v1)|null|
-|**2025-07-15**|**Physically Based Neural LiDAR Resimulation**|Richard Marcus et.al.|[2507.12489v1](http://arxiv.org/abs/2507.12489v1)|null|
+|**2025-07-16**|**UL-DD: A Multimodal Drowsiness Dataset Using Video, Biometric Signals, and Behavioral Data**|Morteza Bodaghi et.al.|[2507.13403v1](http://arxiv.org/abs/2507.13403v1)|null|
