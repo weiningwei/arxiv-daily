@@ -2,6 +2,10 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-18**|**Novel techniques of imaging interferometry analysis to study gas and plasma density for laser-plasma experiments**|F. Filippi et.al.|[2507.13907v1](http://arxiv.org/abs/2507.13907v1)|null|
+|**2025-07-18**|**A predictive model for bubble-particle collisions in turbulence**|Timothy T. K. Chan et.al.|[2507.13878v1](http://arxiv.org/abs/2507.13878v1)|null|
+|**2025-07-18**|**SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization**|Junho Choi et.al.|[2507.13702v1](http://arxiv.org/abs/2507.13702v1)|null|
+|**2025-07-17**|**Improving Out-of-distribution Human Activity Recognition via IMU-Video Cross-modal Representation Learning**|Seyyed Saeid Cheshmi et.al.|[2507.13482v1](http://arxiv.org/abs/2507.13482v1)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
 |**2025-07-17**|**Accelerated free energy estimation in ab initio path integral Monte Carlo simulations**|Pontus Svensson et.al.|[2507.12960v1](http://arxiv.org/abs/2507.12960v1)|null|
 |**2025-07-17**|**MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking Based on Motion Capture and IMU Fusion**|Zichao Shu et.al.|[2507.12920v1](http://arxiv.org/abs/2507.12920v1)|null|
@@ -28,7 +32,3 @@
 |**2025-07-13**|**Unmanned Aerial Vehicle (UAV) Data-Driven Modeling Software with Integrated 9-Axis IMUGPS Sensor Fusion and Data Filtering Algorithm**|Azfar Azdi Arfakhsyad et.al.|[2507.09464v1](http://arxiv.org/abs/2507.09464v1)|null|
 |**2025-07-12**|**C-ZUPT: Stationarity-Aided Aerial Hovering**|Daniel Engelsman et.al.|[2507.09344v1](http://arxiv.org/abs/2507.09344v1)|null|
 |**2025-07-12**|**Linear Acceleration Is a Primary Risk Factor for Concussion**|Jessica A. Towns et.al.|[2507.09098v1](http://arxiv.org/abs/2507.09098v1)|null|
-|**2025-07-11**|**Gigantic dynamical spreading and anomalous diffusion of jerky active particles**|Hartmut Löwen et.al.|[2507.08910v1](http://arxiv.org/abs/2507.08910v1)|null|
-|**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364v1](http://arxiv.org/abs/2507.08364v1)|null|
-|**2025-07-11**|**Joint Optimization-based Targetless Extrinsic Calibration for Multiple LiDARs and GNSS-Aided INS of Ground Vehicles**|Junhui Wang et.al.|[2507.08349v1](http://arxiv.org/abs/2507.08349v1)|null|
-|**2025-07-11**|**Defining eccentricity for spin-precessing binaries**|Md Arif Shaikh et.al.|[2507.08345v1](http://arxiv.org/abs/2507.08345v1)|null|
