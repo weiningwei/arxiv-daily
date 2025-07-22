@@ -5,7 +5,7 @@
 |**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095v1](http://arxiv.org/abs/2507.14095v1)|null|
 |**2025-07-18**|**Design of a Modular Mobile Inspection and Maintenance Robot for an Orbital Servicing Hub**|Tianyuan Wang et.al.|[2507.14059v1](http://arxiv.org/abs/2507.14059v1)|null|
 |**2025-07-18**|**DreamScene: 3D Gaussian-based End-to-end Text-to-3D Scene Generation**|Haoran Li et.al.|[2507.13985v1](http://arxiv.org/abs/2507.13985v1)|null|
-|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v1](http://arxiv.org/abs/2507.13891v1)|null|
+|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v2](http://arxiv.org/abs/2507.13891v2)|null|
 |**2025-07-18**|**Real-Time Fusion of Visual and Chart Data for Enhanced Maritime Vision**|Marten Kreis et.al.|[2507.13880v1](http://arxiv.org/abs/2507.13880v1)|null|
 |**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857v1](http://arxiv.org/abs/2507.13857v1)|null|
 |**2025-07-18**|**Simulation for Noncontact Radar-Based Physiological Sensing Using Depth-Camera-Derived Human 3D Model with Electromagnetic Scattering Analysis**|Kimitaka Sumi et.al.|[2507.13826v1](http://arxiv.org/abs/2507.13826v1)|null|

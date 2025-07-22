@@ -2,6 +2,16 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716v1](http://arxiv.org/abs/2507.15716v1)|null|
+|**2025-07-21**|**Multi-Scale Data Assimilation in Turbulent Models**|Francesco Fossella et.al.|[2507.15626v1](http://arxiv.org/abs/2507.15626v1)|null|
+|**2025-07-21**|**Estimation of Payload Inertial Parameters from Human Demonstrations by Hand Guiding**|Johannes Hartwig et.al.|[2507.15604v1](http://arxiv.org/abs/2507.15604v1)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496v1](http://arxiv.org/abs/2507.15496v1)|null|
+|**2025-07-21**|**Multi-scale optimal control for Einstein Telescope active seismic isolation**|Pooya Saffarieh et.al.|[2507.15398v1](http://arxiv.org/abs/2507.15398v1)|null|
+|**2025-07-21**|**Polydisperse collision kernels in droplet-laden turbulence with implications for rain formation**|L. A. Codispoti et.al.|[2507.15326v1](http://arxiv.org/abs/2507.15326v1)|null|
+|**2025-07-21**|**RepILN: Reparameterized Inertial Localization Network**|Shanshan Zhang et.al.|[2507.15293v1](http://arxiv.org/abs/2507.15293v1)|null|
+|**2025-07-21**|**Dual-Channel Adaptive NMPC for Quadrotor under Instantaneous Impact and Payload Disturbances**|Xinqi Chen et.al.|[2507.15261v1](http://arxiv.org/abs/2507.15261v1)|null|
+|**2025-07-19**|**Low Speed Oblique Impact Behavior On Granular Media Across Gravitational Conditions; The role of cohesion**|Seungju Yeo et.al.|[2507.14645v1](http://arxiv.org/abs/2507.14645v1)|null|
+|**2025-07-19**|**Motion Segmentation and Egomotion Estimation from Event-Based Normal Flow**|Zhiyuan Hua et.al.|[2507.14500v1](http://arxiv.org/abs/2507.14500v1)|null|
 |**2025-07-18**|**Novel techniques of imaging interferometry analysis to study gas and plasma density for laser-plasma experiments**|F. Filippi et.al.|[2507.13907v1](http://arxiv.org/abs/2507.13907v1)|null|
 |**2025-07-18**|**A predictive model for bubble-particle collisions in turbulence**|Timothy T. K. Chan et.al.|[2507.13878v1](http://arxiv.org/abs/2507.13878v1)|null|
 |**2025-07-18**|**SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization**|Junho Choi et.al.|[2507.13702v1](http://arxiv.org/abs/2507.13702v1)|null|
@@ -22,13 +32,3 @@
 |**2025-07-15**|**Comparison of Localization Algorithms between Reduced-Scale and Real-Sized Vehicles Using Visual and Inertial Sensors**|Tobias Kern et.al.|[2507.11241v1](http://arxiv.org/abs/2507.11241v1)|null|
 |**2025-07-15**|**Data-Driven Meta-Analysis and Public-Dataset Evaluation for Sensor-Based Gait Age Estimation**|Varun Velankar et.al.|[2507.11571v1](http://arxiv.org/abs/2507.11571v1)|null|
 |**2025-07-14**|**Importance of gravitational effects on the performances of a fully passive oscillating-foil turbine deployed horizontally**|Alexina Roy-Saillant et.al.|[2507.10711v1](http://arxiv.org/abs/2507.10711v1)|null|
-|**2025-07-14**|**Self-Similar Cosmic-Ray Transport in High-Resolution Magnetohydrodynamic Turbulence**|Philipp Kempski et.al.|[2507.10651v1](http://arxiv.org/abs/2507.10651v1)|null|
-|**2025-07-14**|**Imprints of turbulence on heterogeneous deposition of adhesive particles**|Max P. Herzog et.al.|[2507.10480v1](http://arxiv.org/abs/2507.10480v1)|null|
-|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376v1](http://arxiv.org/abs/2507.10376v1)|null|
-|**2025-07-14**|**MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data**|Mahmoud Bekhit et.al.|[2507.10334v1](http://arxiv.org/abs/2507.10334v1)|null|
-|**2025-07-14**|**Inertial antiferromagnetic resonance driven by spin-orbit torques**|Peng-Bin He et.al.|[2507.10323v1](http://arxiv.org/abs/2507.10323v1)|null|
-|**2025-07-14**|**Ariel Explores: Vision-based underwater exploration and inspection via generalist drone-level autonomy**|Mohit Singh et.al.|[2507.10003v1](http://arxiv.org/abs/2507.10003v1)|null|
-|**2025-07-14**|**Energy-Stable Swarm-Based Inertial Algorithms for Optimization**|Xuelong Gu et.al.|[2507.09909v1](http://arxiv.org/abs/2507.09909v1)|null|
-|**2025-07-13**|**Unmanned Aerial Vehicle (UAV) Data-Driven Modeling Software with Integrated 9-Axis IMUGPS Sensor Fusion and Data Filtering Algorithm**|Azfar Azdi Arfakhsyad et.al.|[2507.09464v1](http://arxiv.org/abs/2507.09464v1)|null|
-|**2025-07-12**|**C-ZUPT: Stationarity-Aided Aerial Hovering**|Daniel Engelsman et.al.|[2507.09344v1](http://arxiv.org/abs/2507.09344v1)|null|
-|**2025-07-12**|**Linear Acceleration Is a Primary Risk Factor for Concussion**|Jessica A. Towns et.al.|[2507.09098v1](http://arxiv.org/abs/2507.09098v1)|null|

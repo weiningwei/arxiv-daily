@@ -2,6 +2,10 @@
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-21**|**All-UWB SLAM Using UWB Radar and UWB AOA**|Charith Premachandra et.al.|[2507.15474v1](http://arxiv.org/abs/2507.15474v1)|null|
+|**2025-07-21**|**BenchDepth: Are We on the Right Way to Evaluate Depth Foundation Models?**|Zhenyu Li et.al.|[2507.15321v1](http://arxiv.org/abs/2507.15321v1)|null|
+|**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109v1](http://arxiv.org/abs/2507.15109v1)|null|
+|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501v1](http://arxiv.org/abs/2507.14501v1)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
 |**2025-07-17**|**MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking Based on Motion Capture and IMU Fusion**|Zichao Shu et.al.|[2507.12920v1](http://arxiv.org/abs/2507.12920v1)|null|
 |**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273v2](http://arxiv.org/abs/2507.12273v2)|null|
@@ -28,7 +32,3 @@
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885v1](http://arxiv.org/abs/2506.18885v1)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678v1](http://arxiv.org/abs/2506.18678v1)|null|
 |**2025-06-22**|**Multimodal Fusion SLAM with Fourier Attention**|Youjie Zhou et.al.|[2506.18204v2](http://arxiv.org/abs/2506.18204v2)|null|
-|**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|null|
-|**2025-06-21**|**Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems**|Sebastian Sansoni et.al.|[2506.17775v1](http://arxiv.org/abs/2506.17775v1)|null|
-|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|null|
-|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242v2](http://arxiv.org/abs/2506.15242v2)|null|

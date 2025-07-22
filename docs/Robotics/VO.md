@@ -2,6 +2,8 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716v1](http://arxiv.org/abs/2507.15716v1)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496v1](http://arxiv.org/abs/2507.15496v1)|null|
 |**2025-07-18**|**SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization**|Junho Choi et.al.|[2507.13702v1](http://arxiv.org/abs/2507.13702v1)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
 |**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|null|
@@ -30,5 +32,3 @@
 |**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|[link](https://github.com/shahram95/superpointslam3)|
 |**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583v1](http://arxiv.org/abs/2506.09583v1)|null|
-|**2025-06-11**|**Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information**|Taku Okawara et.al.|[2506.09548v2](http://arxiv.org/abs/2506.09548v2)|null|
-|**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
