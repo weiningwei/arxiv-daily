@@ -2,6 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-22**|**Elastic turbulence hides in the small scales of inertial polymeric turbulence**|Piyush Garg et.al.|[2507.16789v1](http://arxiv.org/abs/2507.16789v1)|null|
+|**2025-07-22**|**An inertial iteratively regularized extragradient method for bilevel variational inequality problems**|M. Marques Alves et.al.|[2507.16640v1](http://arxiv.org/abs/2507.16640v1)|null|
+|**2025-07-22**|**A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**|Hamed Talebian et.al.|[2507.16600v1](http://arxiv.org/abs/2507.16600v1)|null|
+|**2025-07-22**|**DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling**|Shanshan Zhang et.al.|[2507.16121v1](http://arxiv.org/abs/2507.16121v1)|null|
+|**2025-07-22**|**FTIN: Frequency-Time Integration Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16120v1](http://arxiv.org/abs/2507.16120v1)|null|
+|**2025-07-21**|**Interplanetary magnetic correlation and low-frequency spectrum over many solar rotations**|Jiaming Wang et.al.|[2507.16053v1](http://arxiv.org/abs/2507.16053v1)|null|
+|**2025-07-21**|**A Comprehensive Evaluation of LiDAR Odometry Techniques**|Easton Potokar et.al.|[2507.16000v1](http://arxiv.org/abs/2507.16000v1)|null|
 |**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716v1](http://arxiv.org/abs/2507.15716v1)|null|
 |**2025-07-21**|**Multi-Scale Data Assimilation in Turbulent Models**|Francesco Fossella et.al.|[2507.15626v1](http://arxiv.org/abs/2507.15626v1)|null|
 |**2025-07-21**|**Estimation of Payload Inertial Parameters from Human Demonstrations by Hand Guiding**|Johannes Hartwig et.al.|[2507.15604v1](http://arxiv.org/abs/2507.15604v1)|null|
@@ -25,10 +32,3 @@
 |**2025-07-16**|**Scaling of thin wire cylindrical compression after 100 fs Joule surface heating with material, diameter and laser energy**|L. Yang et.al.|[2507.12109v1](http://arxiv.org/abs/2507.12109v1)|null|
 |**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|null|
 |**2025-07-16**|**Taylors hypothesis and its impact on flux measurements in a forest clearcut**|Subharthi Chowdhuri et.al.|[2507.12069v1](http://arxiv.org/abs/2507.12069v1)|null|
-|**2025-07-16**|**Detecting In-Person Conversations in Noisy Real-World Environments with Smartwatch Audio and Motion Sensing**|Alice Zhang et.al.|[2507.12002v1](http://arxiv.org/abs/2507.12002v1)|null|
-|**2025-07-15**|**Global Near-Inertial Wave Spectra Shaped by Mesoscale Eddies**|Scott Conn et.al.|[2507.11651v1](http://arxiv.org/abs/2507.11651v1)|null|
-|**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447v1](http://arxiv.org/abs/2507.11447v1)|null|
-|**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302v1](http://arxiv.org/abs/2507.11302v1)|null|
-|**2025-07-15**|**Comparison of Localization Algorithms between Reduced-Scale and Real-Sized Vehicles Using Visual and Inertial Sensors**|Tobias Kern et.al.|[2507.11241v1](http://arxiv.org/abs/2507.11241v1)|null|
-|**2025-07-15**|**Data-Driven Meta-Analysis and Public-Dataset Evaluation for Sensor-Based Gait Age Estimation**|Varun Velankar et.al.|[2507.11571v1](http://arxiv.org/abs/2507.11571v1)|null|
-|**2025-07-14**|**Importance of gravitational effects on the performances of a fully passive oscillating-foil turbine deployed horizontally**|Alexina Roy-Saillant et.al.|[2507.10711v1](http://arxiv.org/abs/2507.10711v1)|null|

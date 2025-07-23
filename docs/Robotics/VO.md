@@ -2,6 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-22**|**DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling**|Shanshan Zhang et.al.|[2507.16121v1](http://arxiv.org/abs/2507.16121v1)|null|
+|**2025-07-22**|**FTIN: Frequency-Time Integration Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16120v1](http://arxiv.org/abs/2507.16120v1)|null|
+|**2025-07-21**|**A Comprehensive Evaluation of LiDAR Odometry Techniques**|Easton Potokar et.al.|[2507.16000v1](http://arxiv.org/abs/2507.16000v1)|null|
 |**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716v1](http://arxiv.org/abs/2507.15716v1)|null|
 |**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496v1](http://arxiv.org/abs/2507.15496v1)|null|
 |**2025-07-18**|**SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization**|Junho Choi et.al.|[2507.13702v1](http://arxiv.org/abs/2507.13702v1)|null|
@@ -29,6 +32,3 @@
 |**2025-06-19**|**A Low-Cost Portable Lidar-based Mobile Mapping System on an Android Smartphone**|Jianzhu Huai et.al.|[2506.15983v1](http://arxiv.org/abs/2506.15983v1)|[link](https://github.com/osupcvlab/marslogger_android)|
 |**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518v1](http://arxiv.org/abs/2506.15518v1)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|
-|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|[link](https://github.com/shahram95/superpointslam3)|
-|**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536v1](http://arxiv.org/abs/2506.12536v1)|null|
-|**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583v1](http://arxiv.org/abs/2506.09583v1)|null|
