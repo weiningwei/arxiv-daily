@@ -2,7 +2,9 @@
 ### VO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-23**|**IONext: Unlocking the Next Era of Inertial Odometry**|Shanshan Zhang et.al.|[2507.17089v1](http://arxiv.org/abs/2507.17089v1)|null|
 |**2025-07-22**|**DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling**|Shanshan Zhang et.al.|[2507.16121v1](http://arxiv.org/abs/2507.16121v1)|null|
+|**2025-07-22**|**ResKACNNet: A Residual ChebyKAN Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16865v1](http://arxiv.org/abs/2507.16865v1)|null|
 |**2025-07-22**|**FTIN: Frequency-Time Integration Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16120v1](http://arxiv.org/abs/2507.16120v1)|null|
 |**2025-07-21**|**A Comprehensive Evaluation of LiDAR Odometry Techniques**|Easton Potokar et.al.|[2507.16000v1](http://arxiv.org/abs/2507.16000v1)|null|
 |**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716v1](http://arxiv.org/abs/2507.15716v1)|null|
@@ -30,5 +32,3 @@
 |**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|[link](https://github.com/mit-acl/lunarloc-data)|
 |**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
 |**2025-06-19**|**A Low-Cost Portable Lidar-based Mobile Mapping System on an Android Smartphone**|Jianzhu Huai et.al.|[2506.15983v1](http://arxiv.org/abs/2506.15983v1)|[link](https://github.com/osupcvlab/marslogger_android)|
-|**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518v1](http://arxiv.org/abs/2506.15518v1)|null|
-|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100v1](http://arxiv.org/abs/2506.13100v1)|null|

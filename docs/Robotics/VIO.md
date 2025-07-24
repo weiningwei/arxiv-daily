@@ -2,10 +2,13 @@
 ### VIO
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-23**|**One year of ASPEX-SWIS operation -- Characteristic features, observations and science potential**|Abhishek Kumar et.al.|[2507.17523v1](http://arxiv.org/abs/2507.17523v1)|null|
+|**2025-07-23**|**IONext: Unlocking the Next Era of Inertial Odometry**|Shanshan Zhang et.al.|[2507.17089v1](http://arxiv.org/abs/2507.17089v1)|null|
 |**2025-07-22**|**Elastic turbulence hides in the small scales of inertial polymeric turbulence**|Piyush Garg et.al.|[2507.16789v1](http://arxiv.org/abs/2507.16789v1)|null|
 |**2025-07-22**|**An inertial iteratively regularized extragradient method for bilevel variational inequality problems**|M. Marques Alves et.al.|[2507.16640v1](http://arxiv.org/abs/2507.16640v1)|null|
 |**2025-07-22**|**A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**|Hamed Talebian et.al.|[2507.16600v1](http://arxiv.org/abs/2507.16600v1)|null|
 |**2025-07-22**|**DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion Modeling**|Shanshan Zhang et.al.|[2507.16121v1](http://arxiv.org/abs/2507.16121v1)|null|
+|**2025-07-22**|**ResKACNNet: A Residual ChebyKAN Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16865v1](http://arxiv.org/abs/2507.16865v1)|null|
 |**2025-07-22**|**FTIN: Frequency-Time Integration Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16120v1](http://arxiv.org/abs/2507.16120v1)|null|
 |**2025-07-21**|**Interplanetary magnetic correlation and low-frequency spectrum over many solar rotations**|Jiaming Wang et.al.|[2507.16053v1](http://arxiv.org/abs/2507.16053v1)|null|
 |**2025-07-21**|**A Comprehensive Evaluation of LiDAR Odometry Techniques**|Easton Potokar et.al.|[2507.16000v1](http://arxiv.org/abs/2507.16000v1)|null|
@@ -29,6 +32,3 @@
 |**2025-07-17**|**Unraveling Self-Similar Energy Transfer Dynamics: a Case Study for 1D Burgers System**|Pritpal Matharu et.al.|[2507.12764v1](http://arxiv.org/abs/2507.12764v1)|null|
 |**2025-07-16**|**Road Roughness Estimation via Fusion of Standard Onboard Automotive Sensors**|Martin Agebjär et.al.|[2507.12317v1](http://arxiv.org/abs/2507.12317v1)|null|
 |**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313v1](http://arxiv.org/abs/2507.12313v1)|null|
-|**2025-07-16**|**Scaling of thin wire cylindrical compression after 100 fs Joule surface heating with material, diameter and laser energy**|L. Yang et.al.|[2507.12109v1](http://arxiv.org/abs/2507.12109v1)|null|
-|**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|null|
-|**2025-07-16**|**Taylors hypothesis and its impact on flux measurements in a forest clearcut**|Subharthi Chowdhuri et.al.|[2507.12069v1](http://arxiv.org/abs/2507.12069v1)|null|
