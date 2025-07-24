@@ -5,7 +5,7 @@
 |**2025-07-22**|**A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**|Lorenzo Gentilini et.al.|[2507.16621v1](http://arxiv.org/abs/2507.16621v1)|null|
 |**2025-07-22**|**A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**|Hamed Talebian et.al.|[2507.16600v1](http://arxiv.org/abs/2507.16600v1)|null|
 |**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556v1](http://arxiv.org/abs/2507.16556v1)|null|
-|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v1](http://arxiv.org/abs/2507.16535v1)|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v2](http://arxiv.org/abs/2507.16535v2)|null|
 |**2025-07-22**|**VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences**|Kai Deng et.al.|[2507.16443v1](http://arxiv.org/abs/2507.16443v1)|null|
 |**2025-07-22**|**Scene Text Detection and Recognition "in light of" Challenging Environmental Conditions using Aria Glasses Egocentric Vision Cameras**|Joseph De Mathia et.al.|[2507.16330v1](http://arxiv.org/abs/2507.16330v1)|null|
 |**2025-07-22**|**Edge-case Synthesis for Fisheye Object Detection: A Data-centric Perspective**|Seunghyeon Kim et.al.|[2507.16254v1](http://arxiv.org/abs/2507.16254v1)|null|
