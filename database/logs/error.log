@@ -482,3 +482,7 @@ expected <block end>, but found '<block mapping start>'
 2025-07-30 08:56:25.952 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
 2025-07-30 08:56:26.018 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
 2025-07-30 08:56:26.021 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
+2025-07-30 10:57:32.579 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
+2025-07-30 10:57:32.614 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
+2025-07-30 10:57:32.620 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
+2025-07-30 10:57:32.632 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
