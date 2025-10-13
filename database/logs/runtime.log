@@ -28362,3 +28362,8 @@ expected <block end>, but found '<block mapping start>'
 2025-08-14 10:42:17.899 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
 2025-08-14 10:42:17.902 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
 2025-08-14 10:42:19.302 | ERROR    | __main__:handle_html:66 - Expecting value: line 3 column 1 (char 2)
+2025-10-13 09:19:29.700 | SUCCESS  | __main__:parse:182 - handle [1/5] | topic=`Robotics` subtopic=`VO`
+2025-10-13 09:19:29.703 | SUCCESS  | __main__:parse:182 - handle [2/5] | topic=`Robotics` subtopic=`SLAM`
+2025-10-13 09:19:29.703 | SUCCESS  | __main__:parse:182 - handle [3/5] | topic=`Computer Science` subtopic=`Programming Languages`
+2025-10-13 09:19:29.742 | SUCCESS  | __main__:parse:182 - handle [4/5] | topic=`Robotics` subtopic=`VIO`
+2025-10-13 09:19:29.746 | SUCCESS  | __main__:parse:182 - handle [5/5] | topic=`Robotics` subtopic=`Visual Localization`
